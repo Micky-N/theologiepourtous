@@ -2,38 +2,38 @@
 import type { NuxtError } from '#app'
 
 defineProps({
-  error: {
-    type: Object as PropType<NuxtError>,
-    required: true
-  }
+    error: {
+        type: Object as PropType<NuxtError>,
+        required: true
+    }
 })
 
 useHead({
-  htmlAttrs: {
-    lang: 'en'
-  }
+    htmlAttrs: {
+        lang: 'en'
+    }
 })
 
 useSeoMeta({
-  title: 'Page not found',
-  description: 'We are sorry but this page could not be found.'
+    title: 'Page not found',
+    description: 'We are sorry but this page could not be found.'
 })
 </script>
 
 <template>
-  <div>
-    <AppHeader />
+    <div>
+        <AppHeader />
 
-    <UMain>
-      <UContainer>
-        <UPage>
-          <UError :error="error" />
-        </UPage>
-      </UContainer>
-    </UMain>
+        <UMain>
+            <UContainer>
+                <UPage>
+                    <UError :error="error" />
+                </UPage>
+            </UContainer>
+        </UMain>
 
-    <AppFooter />
+        <AppFooter />
 
-    <UToaster />
-  </div>
+        <UToaster />
+    </div>
 </template>

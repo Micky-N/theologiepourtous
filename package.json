@@ -8,8 +8,9 @@
     "generate": "nuxt generate",
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare",
-    "lint": "eslint .",
-    "typecheck": "nuxt typecheck"
+    "lint": "eslint . --fix",
+    "typecheck": "nuxt typecheck",
+    "check:all": "npm run lint && npm run typecheck"
   },
   "dependencies": {
     "@iconify-json/lucide": "^1.2.63",
