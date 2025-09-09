@@ -16,12 +16,6 @@ export default defineNuxtConfig({
 
     css: ['~/assets/css/main.css'],
 
-    content: {
-        preview: {
-            api: 'https://b12a6efe-theologiepourtous.micky-n.workers.dev'
-        }
-    },
-
     routeRules: {
         '/docs': { redirect: '/docs/getting-started', prerender: false }
     },
