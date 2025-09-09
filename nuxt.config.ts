@@ -18,7 +18,7 @@ export default defineNuxtConfig({
 
     content: {
         preview: {
-            api: 'https://theologiepourtous.micky-n.workers.dev'
+            api: 'https://b12a6efe-theologiepourtous.micky-n.workers.dev'
         }
     },
 
