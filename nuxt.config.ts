@@ -13,6 +13,12 @@ export default defineNuxtConfig({
         enabled: true
     },
 
+    content: {
+        preview: {
+            api: 'https://b12a6efe-theologiepourtous.micky-n.workers.dev/'
+        }
+    },
+
     css: ['~/assets/css/main.css'],
 
     routeRules: {
