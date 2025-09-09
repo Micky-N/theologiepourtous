@@ -1,26 +1,26 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
     modules: [
-      '@nuxt/eslint',
-      '@nuxt/image',
-      '@nuxt/ui',
-      '@nuxt/content',
-      '@vueuse/nuxt',
-      'nuxt-og-image',
-      '@nuxthub/core'
+        '@nuxt/eslint',
+        '@nuxt/image',
+        '@nuxt/ui',
+        '@nuxt/content',
+        '@vueuse/nuxt',
+        'nuxt-og-image',
+        '@nuxthub/core'
     ],
 
     devtools: {
         enabled: true
     },
 
+    css: ['~/assets/css/main.css'],
+
     content: {
         preview: {
-            api: 'https://b12a6efe-theologiepourtous.micky-n.workers.dev/'
+            api: 'https://theologiepourtous.micky-n.workers.dev'
         }
     },
-
-    css: ['~/assets/css/main.css'],
 
     routeRules: {
         '/docs': { redirect: '/docs/getting-started', prerender: false }
