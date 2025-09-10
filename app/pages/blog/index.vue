@@ -15,55 +15,13 @@ useSeoMeta({
 })
 
 defineOgImageComponent('Saas')
-const getPostsBySlug = (slug: string) => {
-    return posts.value?.filter(post => post.path.startsWith('/blog/' + slug)) || []
-}
 </script>
 
 <template>
     <UPage v-if="page">
-        <UHeader
-            title="Thèmes"
-            to="/blog"
-            mode="slideover"
-        >
-            <UNavigationMenu
-                variant="link"
-                :highlight="true"
-                highlight-color="primary"
-                :items="page.sections"
-                :ui="{
-                    list: 'gap-10',
-                    linkTrailingIcon: 'hidden'
-                }"
-            >
-                <template #item-content="{ item }">
-                    <UBlogPost
-                        :title="item.label"
-                        :description="item.description"
-                        :image="item.image"
-                        :to="item.to"
-                        orientation="horizontal"
-                        variant="ghost"
-                        :badge="getPostsBySlug(item.slug).length + ' articles'"
-                    />
-                </template>
-            </UNavigationMenu>
-            <template #body>
-                <UNavigationMenu
-                    variant="link"
-                    :highlight="true"
-                    :items="page.sections"
-                    orientation="vertical"
-                    :ui="{
-                        list: 'space-y-2'
-                    }"
-                />
-            </template>
-        </UHeader>
         <img
             src="/images/hero-blog.webp"
-            class="w-full object-cover object-center"
+            class="w-full h-[32rem] object-cover object-center"
         >
 
         <UContainer>

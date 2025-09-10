@@ -17,7 +17,7 @@ sections:
     slug: christologie
     image: /images/christologie.jpg
     to: /blog/christologie
-  - label: Soteriologie
+  - label: Sotériologie
     description: Understand the doctrines of salvation and redemption.
     slug: soteriologie
     image: /images/soteriologie.jpg

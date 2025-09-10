@@ -2,11 +2,11 @@
 const route = useRoute()
 
 const { data: page } = await useAsyncData('blog', () => queryCollection('blog').first())
-const { data: posts } = await useAsyncData(route.path, () => queryCollection('posts').all())
+const { data: posts } = await useAsyncData(route.path, () => queryCollection('posts').where('theme', '=', route.params.theme).all())
 
+const theme = page.value?.sections.find(section => section.slug === route.params.theme)
 const title = page.value?.seo?.title || page.value?.title
 const description = page.value?.seo?.description || page.value?.description
-
 useSeoMeta({
     title,
     ogTitle: title,
@@ -15,62 +15,30 @@ useSeoMeta({
 })
 
 defineOgImageComponent('Saas')
-const getPostsBySlug = (slug: string) => {
-    return posts.value?.filter(post => post.path.startsWith('/blog/' + slug)) || []
-}
 </script>
 
 <template>
-    <UPage v-if="page">
-        <UHeader
-            title="Thèmes"
-            to="/blog"
-            mode="slideover"
-        >
-            <UNavigationMenu
-                variant="link"
-                :highlight="true"
-                highlight-color="primary"
-                :items="page.sections"
-                :ui="{
-                    list: 'gap-10',
-                    linkTrailingIcon: 'hidden'
-                }"
-            >
-                <template #item-content="{ item }">
-                    <UBlogPost
-                        :title="item.label"
-                        :description="item.description"
-                        :image="item.image"
-                        :to="item.to"
-                        orientation="horizontal"
-                        variant="ghost"
-                        :badge="getPostsBySlug(item.slug).length + ' articles'"
-                    />
-                </template>
-            </UNavigationMenu>
-            <template #body>
-                <UNavigationMenu
-                    variant="link"
-                    :highlight="true"
-                    :items="page.sections"
-                    orientation="vertical"
-                    :ui="{
-                        list: 'space-y-2'
-                    }"
-                />
-            </template>
-        </UHeader>
+    <UPage v-if="page && posts">
         <img
-            src="/images/hero-blog.webp"
-            class="w-full object-cover object-center"
+            :src="theme?.image || '/images/hero-blog.webp'"
+            class="w-full h-[32rem] object-cover object-center"
         >
 
         <UContainer>
             <UPageHeader
-                v-bind="page"
-                class="py-[50px]"
-            />
+                :title="theme?.label || page.title"
+                :description="theme?.description || page.description"
+                class="pt-[50px] pb-[25px]"
+            >
+                <div class="flex justify-center mt-4">
+                    <UBadge
+                        :label="posts.length + ' articles'"
+                        variant="subtle"
+                        size="lg"
+                        color="neutral"
+                    />
+                </div>
+            </UPageHeader>
 
             <UPageBody>
                 <UBlogPosts>
@@ -84,8 +52,6 @@ const getPostsBySlug = (slug: string) => {
                         :date="new Date(post.date).toLocaleDateString('en', { year: 'numeric', month: 'short', day: 'numeric' })"
                         :authors="post.authors"
                         :badge="post.badge"
-                        :orientation="index === 0 ? 'horizontal' : 'vertical'"
-                        :class="[index === 0 && 'col-span-full']"
                         variant="naked"
                         :ui="{
                             description: 'line-clamp-2'
