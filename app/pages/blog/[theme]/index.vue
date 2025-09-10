@@ -21,7 +21,7 @@ defineOgImageComponent('Saas')
     <UPage v-if="page && posts">
         <img
             :src="theme?.image || '/images/hero-blog.webp'"
-            class="w-full h-[32rem] object-cover object-center"
+            class="w-full aspect-auto max-h-[32rem] object-cover object-center"
         >
 
         <UContainer>
