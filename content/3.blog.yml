@@ -1,3 +1,29 @@
 title: Blog
 description: Discover the latest insights, tutorials, and updates from our team. Stay informed about web development trends, best practices, and innovative solutions.
 navigation.icon: i-lucide-newspaper
+sections:
+  - label: Théologie
+    description: Explore the foundational concepts and doctrines of our faith.
+    slug: theologie
+    image: /images/theologie.jpg
+    to: /blog/theologie
+  - label: Hamartiologie
+    description: Delve into the study of sin, its nature, and its consequences.
+    slug: hamartiologie
+    image: /images/hamartiologie.jpg
+    to: /blog/hamartiologie
+  - label: Christologie
+    description: Explore the nature and work of Christ.
+    slug: christologie
+    image: /images/christologie.jpg
+    to: /blog/christologie
+  - label: Soteriologie
+    description: Understand the doctrines of salvation and redemption.
+    slug: soteriologie
+    image: /images/soteriologie.jpg
+    to: /blog/soteriologie
+  - label: Pneumatologie
+    description: Explore the work of the Holy Spirit.
+    slug: pneumatologie
+    image: /images/pneumatologie.jpg
+    to: /blog/pneumatologie

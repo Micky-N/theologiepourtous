@@ -111,7 +111,18 @@ export const collections = {
     }),
     blog: defineCollection({
         source: '3.blog.yml',
-        type: 'page'
+        type: 'page',
+        schema: z.object({
+            sections: z.array(
+                z.object({
+                    label: z.string().nonempty(),
+                    description: z.string().optional(),
+                    to: z.string().nonempty(),
+                    slug: z.string().nonempty(),
+                    image: z.string().nonempty().editor({ input: 'media' })
+                })
+            )
+        })
     }),
     posts: defineCollection({
         source: '3.blog/**/*',
