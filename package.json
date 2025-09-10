@@ -1,49 +1,49 @@
 {
-  "name": "nuxt-ui-template-saas",
-  "private": true,
-  "type": "module",
-  "scripts": {
-    "build": "nuxt build",
-    "dev": "nuxt dev",
-    "generate": "nuxt generate",
-    "preview": "nuxt preview",
-    "postinstall": "nuxt prepare",
-    "lint": "eslint . --fix",
-    "typecheck": "nuxt typecheck",
-    "check:all": "npm run lint && npm run typecheck"
-  },
-  "dependencies": {
-    "@iconify-json/lucide": "^1.2.63",
-    "@iconify-json/simple-icons": "^1.2.48",
-    "@nuxt/content": "^3.6.3",
-    "@nuxt/image": "^1.11.0",
-    "@nuxt/ui": "^4.0.0-alpha.1",
-    "@standard-schema/spec": "^1.0.0",
-    "@vueuse/nuxt": "^13.7.0",
-    "better-sqlite3": "^12.2.0",
-    "nuxt": "^4.0.3",
-    "nuxt-og-image": "^5.1.9",
-    "zod": "^3.25.76"
-  },
-  "devDependencies": {
-    "@nuxt/eslint": "^1.9.0",
-    "eslint": "^9.34.0",
-    "typescript": "^5.9.2",
-    "vue-tsc": "^3.0.6"
-  },
-  "resolutions": {
-    "unimport": "4.1.1"
-  },
-  "pnpm": {
-    "onlyBuiltDependencies": [
-      "better-sqlite3"
-    ],
-    "ignoredBuiltDependencies": [
-      "@parcel/watcher",
-      "esbuild",
-      "sharp",
-      "vue-demi"
-    ]
-  },
-  "packageManager": "pnpm@10.15.0"
+    "name": "nuxt-ui-template-saas",
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "build": "nuxt build",
+        "dev": "nuxt dev",
+        "generate": "nuxt generate",
+        "preview": "nuxt preview",
+        "postinstall": "nuxt prepare",
+        "lint": "eslint . --fix",
+        "typecheck": "nuxt typecheck",
+        "check:all": "npm run lint && npm run typecheck"
+    },
+    "dependencies": {
+        "@iconify-json/lucide": "^1.2.63",
+        "@iconify-json/simple-icons": "^1.2.48",
+        "@nuxt/content": "^3.6.3",
+        "@nuxt/image": "^1.11.0",
+        "@nuxt/ui": "^4.0.0-alpha.1",
+        "@standard-schema/spec": "^1.0.0",
+        "@vueuse/nuxt": "^13.7.0",
+        "better-sqlite3": "^12.2.0",
+        "nuxt": "^4.0.3",
+        "nuxt-og-image": "^5.1.9",
+        "zod": "^3.25.76"
+    },
+    "devDependencies": {
+        "@nuxt/eslint": "^1.9.0",
+        "eslint": "^9.34.0",
+        "typescript": "^5.9.2",
+        "vue-tsc": "^3.0.6"
+    },
+    "resolutions": {
+        "unimport": "4.1.1"
+    },
+    "pnpm": {
+        "onlyBuiltDependencies": [
+            "better-sqlite3"
+        ],
+        "ignoredBuiltDependencies": [
+            "@parcel/watcher",
+            "esbuild",
+            "sharp",
+            "vue-demi"
+        ]
+    },
+    "packageManager": "pnpm@10.15.0"
 }
