@@ -34,7 +34,6 @@ const createImageSchema = () => z.object({
 
 const createSeoSchema = () => z.object({
     description: z.string().nonempty(),
-    image: z.string().nonempty(),
     url: z.string().nonempty(),
     card: z.enum(['summary', 'summary_large_image', 'app', 'player']),
     keywords: z.string().nonempty(),
@@ -144,7 +143,7 @@ export const collections = {
         type: 'page',
         schema: z.object({
             title: z.string().nonempty(),
-            image: z.string().nonempty().editor({ input: 'media' }),
+            image: z.object({ src: z.string().nonempty().editor({ input: 'media' }) }),
             slug: z.string().nonempty(),
             description: z.string().nonempty(),
             seo: createSeoSchema()

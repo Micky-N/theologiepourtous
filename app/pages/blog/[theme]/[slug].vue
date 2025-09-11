@@ -19,13 +19,13 @@ useSeoMeta({
     author: post.value.author.name,
     ogTitle: post.value.title,
     ogDescription: post.value.seo.description,
-    ogImage: post.value.seo.image,
+    ogImage: post.value.image.src,
     ogType: 'article',
     ogUrl: post.value.seo.url,
     twitterCard: post.value.seo.card,
     twitterTitle: post.value.title,
     twitterDescription: post.value.seo.description,
-    twitterImage: post.value.seo.image
+    twitterImage: post.value.image.src
 })
 
 useHead({

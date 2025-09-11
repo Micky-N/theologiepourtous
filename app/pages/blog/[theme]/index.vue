@@ -9,13 +9,13 @@ useSeoMeta({
     keywords: theme.value?.seo.keywords,
     ogTitle: theme.value?.title,
     ogDescription: theme.value?.seo.description,
-    ogImage: theme.value?.seo.image,
+    ogImage: theme.value?.image.src,
     ogType: 'website',
     ogUrl: theme.value?.seo.url,
     twitterCard: theme.value?.seo.card,
     twitterTitle: theme.value?.title,
     twitterDescription: theme.value?.seo.description,
-    twitterImage: theme.value?.seo.image
+    twitterImage: theme.value?.image.src
 })
 
 useHead({
@@ -31,7 +31,7 @@ useHead({
 <template>
     <UPage v-if="theme">
         <NuxtImg
-            :src="theme?.image || '/images/hero-blog.webp'"
+            :src="theme?.image.src || '/images/hero-blog.webp'"
             class="w-full aspect-video max-h-[44rem] object-cover object-center"
         />
         <UContainer>
