@@ -37,7 +37,6 @@ const createSeoSchema = () => z.object({
     description: z.string().nonempty(),
     image: z.string().nonempty(),
     url: z.string().nonempty(),
-    type: z.enum(['website', 'article']).optional(),
     card: z.enum(['summary', 'summary_large_image', 'app', 'player']),
     keywords: z.string().nonempty(),
     robots: z.string().nonempty(),
