@@ -1,5 +1,4 @@
 import { defineCollection, z } from '@nuxt/content'
-import path from 'path'
 
 const variantEnum = z.enum(['solid', 'outline', 'subtle', 'soft', 'ghost', 'link'])
 const colorEnum = z.enum(['primary', 'secondary', 'neutral', 'error', 'warning', 'success', 'info'])
@@ -143,16 +142,28 @@ export const collections = {
         })
     }),
     themes: defineCollection({
-        source: {
-            cwd: path.resolve('./content/3.blog'),
-            include: '**/*.yml'
-        },
+        source: '3.blog/**/*',
         type: 'page',
         schema: z.object({
             title: z.string().nonempty(),
             image: z.string().nonempty().editor({ input: 'media' }),
             slug: z.string().nonempty(),
-            description: z.string().nonempty()
+            description: z.string().nonempty(),
+            seo: z.object({
+                ogTitle: z.string().nonempty(),
+                ogDescription: z.string().nonempty(),
+                ogImage: z.string().nonempty(),
+                ogType: z.enum(['website', 'article']),
+                twitterTitle: z.string().nonempty(),
+                twitterDescription: z.string().nonempty(),
+                twitterImage: z.string().nonempty(),
+                twitterCard: z.enum(['summary', 'summary_large_image', 'app', 'player']),
+                keywords: z.string().nonempty(),
+                author: z.string().nonempty(),
+                robots: z.string().nonempty(),
+                canonical: z.string().nonempty(),
+                lang: z.string().nonempty()
+            })
         })
     }),
     changelog: defineCollection({

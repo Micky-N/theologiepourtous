@@ -1,27 +1,29 @@
 <script setup lang="ts">
 const route = useRoute()
-const themeParam = route.params.theme as string
-const { data: page } = await useAsyncData(route.path, () => queryCollection('themes').where('slug', '=', themeParam).first())
+const { data: theme } = await useAsyncData(route.path, () => queryCollection('themes').path(route.path).first())
 const { data: posts } = await useAsyncData(route.path + '/posts', () => queryCollection('posts').where('theme', '=', route.params.theme).all())
+
 useSeoMeta({
-    title: page.value?.title,
-    ...page.value?.seo
+    ...theme.value?.seo
 })
 </script>
 
 <template>
-    <UPage v-if="page && posts">
+    <UPage v-if="theme">
         <NuxtImg
-            :src="page?.image || '/images/hero-blog.webp'"
+            :src="theme?.image || '/images/hero-blog.webp'"
             class="w-full aspect-video max-h-[44rem] object-cover object-center"
         />
         <UContainer>
             <UPageHeader
-                :title="page.title"
-                :description="page?.description || page.description"
+                :title="theme.title"
+                :description="theme.description"
                 class="pt-[50px] pb-[25px]"
             >
-                <div class="flex justify-center mt-4">
+                <div
+                    v-if="posts"
+                    class="flex justify-center mt-4"
+                >
                     <UBadge
                         :label="posts.length + ' articles'"
                         variant="subtle"
@@ -32,7 +34,7 @@ useSeoMeta({
             </UPageHeader>
 
             <UPageBody>
-                <UBlogPosts>
+                <UBlogPosts v-if="posts">
                     <UBlogPost
                         v-for="(post, index) in posts"
                         :key="index"

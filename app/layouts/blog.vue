@@ -1,17 +1,24 @@
 <script lang="ts" setup>
-const { data: page } = useAsyncData('blog', () => queryCollection('blog').first())
-const { data: posts } = useAsyncData('themes', () => queryCollection('posts').select('id', 'theme').all())
+const route = useRoute()
+const { data: navigations } = useAsyncData('navigations', () => queryCollectionNavigation('themes', ['description', 'image']))
 
-const countPostsByTheme = computed(() => {
-    const themes: Record<string, number> = {}
-    posts.value?.forEach((post) => {
-        const theme = post.theme || 'Uncategorized'
-        if (!themes[theme]) {
-            themes[theme] = 0
-        }
-        themes[theme]++
-    })
-    return themes
+const items = computed(() => {
+    if (!navigations.value) {
+        return []
+    }
+    const firstNav = navigations.value[0]?.children
+    if (!firstNav) {
+        return []
+    }
+    return firstNav.map(item => ({
+        ...item,
+        image: item.image as string,
+        description: item.description as string,
+        label: item.title,
+        to: item.path,
+        children: item.children?.filter(child => child.path !== item.path) || [],
+        active: route.path.startsWith(item.path)
+    }))
 })
 </script>
 
@@ -25,8 +32,7 @@ const countPostsByTheme = computed(() => {
         >
             <ClientOnly>
                 <UNavigationMenu
-                    v-if="page"
-                    :items="page.sections"
+                    :items="items"
                     :ui="{
                         list: 'gap-10',
                         linkTrailingIcon: 'hidden'
@@ -34,13 +40,13 @@ const countPostsByTheme = computed(() => {
                 >
                     <template #item-content="{ item }">
                         <UBlogPost
-                            :title="item.label"
-                            :description="item.description"
+                            :title="item.title"
+                            :description="item.description.slice(0, 100) + (item.description.length > 100 ? '...' : '')"
                             :image="item.image"
                             :to="item.to"
                             orientation="horizontal"
                             variant="ghost"
-                            :badge="countPostsByTheme[item.slug] + ' articles'"
+                            :badge="item.children?.length + ' articles'"
                         />
                     </template>
                 </UNavigationMenu>
@@ -48,10 +54,9 @@ const countPostsByTheme = computed(() => {
             <template #body>
                 <ClientOnly>
                     <UNavigationMenu
-                        v-if="page"
                         variant="link"
                         :highlight="true"
-                        :items="page.sections"
+                        :items="items"
                         orientation="vertical"
                         :ui="{
                             list: 'space-y-2'
