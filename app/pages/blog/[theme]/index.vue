@@ -4,16 +4,16 @@ const { data: theme } = await useAsyncData(route.path, () => queryCollection('th
 const { data: posts } = await useAsyncData(route.path + '/posts', () => queryCollection('posts').where('theme', '=', route.params.theme).all())
 
 useSeoMeta({
-    title: theme.value?.seo.title,
+    title: theme.value?.title,
     description: theme.value?.seo.description,
     keywords: theme.value?.seo.keywords,
-    ogTitle: theme.value?.seo.title,
+    ogTitle: theme.value?.title,
     ogDescription: theme.value?.seo.description,
     ogImage: theme.value?.seo.image,
     ogType: 'website',
     ogUrl: theme.value?.seo.url,
     twitterCard: theme.value?.seo.card,
-    twitterTitle: theme.value?.seo.title,
+    twitterTitle: theme.value?.title,
     twitterDescription: theme.value?.seo.description,
     twitterImage: theme.value?.seo.image
 })

@@ -33,7 +33,6 @@ const createImageSchema = () => z.object({
 })
 
 const createSeoSchema = () => z.object({
-    title: z.string().nonempty(),
     description: z.string().nonempty(),
     image: z.string().nonempty(),
     url: z.string().nonempty(),

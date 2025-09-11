@@ -13,17 +13,17 @@ const { data: surround } = await useAsyncData(`${route.path}-surround`, () => {
 })
 
 useSeoMeta({
-    title: post.value.seo.title,
+    title: post.value.title,
     description: post.value.seo.description,
     keywords: post.value.seo.keywords,
     author: post.value.author.name,
-    ogTitle: post.value.seo.title,
+    ogTitle: post.value.title,
     ogDescription: post.value.seo.description,
     ogImage: post.value.seo.image,
     ogType: 'article',
     ogUrl: post.value.seo.url,
     twitterCard: post.value.seo.card,
-    twitterTitle: post.value.seo.title,
+    twitterTitle: post.value.title,
     twitterDescription: post.value.seo.description,
     twitterImage: post.value.seo.image
 })
