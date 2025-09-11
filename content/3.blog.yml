@@ -1,29 +1,29 @@
 title: Blog
-description: Discover the latest insights, tutorials, and updates from our team. Stay informed about web development trends, best practices, and innovative solutions.
+description: "Approfondissez la théologie chrétienne grâce à des articles accessibles à tous. Notre objectif : rendre la théologie compréhensible, pratique et inspirante pour chacun."
 navigation.icon: i-lucide-newspaper
 sections:
   - label: Théologie
-    description: Explore the foundational concepts and doctrines of our faith.
+    description: Explorez les concepts fondamentaux et les doctrines de notre foi.
     slug: theologie
     image: /images/theologie.jpg
     to: /blog/theologie
   - label: Hamartiologie
-    description: Delve into the study of sin, its nature, and its consequences.
+    description: Approfondissez l’étude du péché, de sa nature et de ses conséquences.
     slug: hamartiologie
     image: /images/hamartiologie.jpg
     to: /blog/hamartiologie
   - label: Christologie
-    description: Explore the nature and work of Christ.
+    description: Découvrez la nature et l’œuvre du Christ.
     slug: christologie
     image: /images/christologie.jpg
     to: /blog/christologie
   - label: Sotériologie
-    description: Understand the doctrines of salvation and redemption.
+    description: Comprenez les doctrines du salut et de la rédemption.
     slug: soteriologie
     image: /images/soteriologie.jpg
     to: /blog/soteriologie
   - label: Pneumatologie
-    description: Explore the work of the Holy Spirit.
+    description: Explorez l’œuvre du Saint-Esprit.
     slug: pneumatologie
     image: /images/pneumatologie.jpg
     to: /blog/pneumatologie

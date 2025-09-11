@@ -1,4 +1,5 @@
 import { defineCollection, z } from '@nuxt/content'
+import path from 'path'
 
 const variantEnum = z.enum(['solid', 'outline', 'subtle', 'soft', 'ghost', 'link'])
 const colorEnum = z.enum(['primary', 'secondary', 'neutral', 'error', 'warning', 'success', 'info'])
@@ -125,7 +126,7 @@ export const collections = {
         })
     }),
     posts: defineCollection({
-        source: '3.blog/**/*',
+        source: '3.blog/**/*.md',
         type: 'page',
         schema: z.object({
             image: z.object({ src: z.string().nonempty().editor({ input: 'media' }) }),
@@ -139,6 +140,19 @@ export const collections = {
             date: z.date(),
             badge: z.object({ label: z.string().nonempty() }),
             theme: z.string().nonempty()
+        })
+    }),
+    themes: defineCollection({
+        source: {
+            cwd: path.resolve('./content/3.blog'),
+            include: '**/*.yml'
+        },
+        type: 'page',
+        schema: z.object({
+            title: z.string().nonempty(),
+            image: z.string().nonempty().editor({ input: 'media' }),
+            slug: z.string().nonempty(),
+            description: z.string().nonempty()
         })
     }),
     changelog: defineCollection({

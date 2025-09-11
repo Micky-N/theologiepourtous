@@ -1,33 +1,24 @@
 <script setup lang="ts">
 const route = useRoute()
-
-const { data: page } = useAsyncData('blog', () => queryCollection('blog').first())
-const { data: posts } = useAsyncData(route.path, () => queryCollection('posts').where('theme', '=', route.params.theme).all())
-
-const theme = page.value?.sections.find(section => section.slug === route.params.theme)
-const title = page.value?.seo?.title || page.value?.title
-const description = page.value?.seo?.description || page.value?.description
+const themeParam = route.params.theme as string
+const { data: page } = await useAsyncData(route.path, () => queryCollection('themes').where('slug', '=', themeParam).first())
+const { data: posts } = await useAsyncData(route.path + '/posts', () => queryCollection('posts').where('theme', '=', route.params.theme).all())
 useSeoMeta({
-    title,
-    ogTitle: title,
-    description,
-    ogDescription: description
+    title: page.value?.title,
+    ...page.value?.seo
 })
-
-defineOgImageComponent('Saas')
 </script>
 
 <template>
     <UPage v-if="page && posts">
         <NuxtImg
-            :src="theme?.image || '/images/hero-blog.webp'"
+            :src="page?.image || '/images/hero-blog.webp'"
             class="w-full aspect-video max-h-[44rem] object-cover object-center"
         />
-
         <UContainer>
             <UPageHeader
-                :title="theme?.label || page.title"
-                :description="theme?.description || page.description"
+                :title="page.title"
+                :description="page?.description || page.description"
                 class="pt-[50px] pb-[25px]"
             >
                 <div class="flex justify-center mt-4">

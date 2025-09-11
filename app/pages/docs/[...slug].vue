@@ -31,6 +31,8 @@ defineOgImageComponent('Saas')
 
 <template>
     <UPage v-if="page">
+        <pre>{{ surround }}</pre>
+        <pre>{{ page }}</pre>
         <UPageHeader
             :title="page.title"
             :description="page.description"
