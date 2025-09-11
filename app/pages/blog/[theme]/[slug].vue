@@ -12,25 +12,30 @@ const { data: surround } = await useAsyncData(`${route.path}-surround`, () => {
     })
 })
 
-const title = post.value.seo?.title || post.value.title
-const description = post.value.seo?.description || post.value.description
-
 useSeoMeta({
-    title,
-    ogTitle: title,
-    description,
-    ogDescription: description
+    title: post.value.seo.title,
+    description: post.value.seo.description,
+    keywords: post.value.seo.keywords,
+    author: post.value.author.name,
+    ogTitle: post.value.seo.title,
+    ogDescription: post.value.seo.description,
+    ogImage: post.value.seo.image,
+    ogType: 'article',
+    ogUrl: post.value.seo.url,
+    twitterCard: post.value.seo.card,
+    twitterTitle: post.value.seo.title,
+    twitterDescription: post.value.seo.description,
+    twitterImage: post.value.seo.image
 })
 
-if (post.value.image?.src) {
-    defineOgImage({
-        url: post.value.image.src
-    })
-} else {
-    defineOgImageComponent('Saas', {
-        headline: 'Blog'
-    })
-}
+useHead({
+    htmlAttrs: {
+        lang: post.value?.seo.lang || 'fr'
+    },
+    link: [
+        { rel: 'canonical', href: post.value.seo.url }
+    ]
+})
 </script>
 
 <template>
@@ -56,21 +61,19 @@ if (post.value.image?.src) {
 
             <div class="flex flex-wrap items-center gap-3 mt-4">
                 <UButton
-                    v-for="(author, index) in post.authors"
-                    :key="index"
-                    :to="author.to"
+                    :to="post.author.to"
                     color="neutral"
                     variant="subtle"
                     target="_blank"
                     size="sm"
                 >
                     <UAvatar
-                        v-bind="author.avatar"
+                        v-bind="post.author.avatar"
                         alt="Author avatar"
                         size="sm"
                     />
 
-                    {{ author.name }}
+                    {{ post.author.name }}
                 </UButton>
             </div>
         </UPageHeader>

@@ -32,6 +32,18 @@ const createImageSchema = () => z.object({
     srcset: z.string().optional()
 })
 
+const createSeoSchema = () => z.object({
+    title: z.string().nonempty(),
+    description: z.string().nonempty(),
+    image: z.string().nonempty(),
+    url: z.string().nonempty(),
+    type: z.enum(['website', 'article']).optional(),
+    card: z.enum(['summary', 'summary_large_image', 'app', 'player']),
+    keywords: z.string().nonempty(),
+    robots: z.string().nonempty(),
+    lang: z.string().nonempty()
+})
+
 export const collections = {
     index: defineCollection({
         source: '0.index.yml',
@@ -111,34 +123,22 @@ export const collections = {
     }),
     blog: defineCollection({
         source: '3.blog.yml',
-        type: 'page',
-        schema: z.object({
-            sections: z.array(
-                z.object({
-                    label: z.string().nonempty(),
-                    description: z.string().optional(),
-                    to: z.string().nonempty(),
-                    slug: z.string().nonempty(),
-                    image: z.string().nonempty().editor({ input: 'media' })
-                })
-            )
-        })
+        type: 'page'
     }),
     posts: defineCollection({
         source: '3.blog/**/*.md',
         type: 'page',
         schema: z.object({
             image: z.object({ src: z.string().nonempty().editor({ input: 'media' }) }),
-            authors: z.array(
-                z.object({
-                    name: z.string().nonempty(),
-                    to: z.string().nonempty(),
-                    avatar: z.object({ src: z.string().nonempty().editor({ input: 'media' }) })
-                })
-            ),
+            author: z.object({
+                name: z.string().nonempty(),
+                to: z.string().nonempty(),
+                avatar: z.object({ src: z.string().nonempty().editor({ input: 'media' }) })
+            }),
             date: z.date(),
             badge: z.object({ label: z.string().nonempty() }),
-            theme: z.string().nonempty()
+            theme: z.string().nonempty(),
+            seo: createSeoSchema()
         })
     }),
     themes: defineCollection({
@@ -149,21 +149,7 @@ export const collections = {
             image: z.string().nonempty().editor({ input: 'media' }),
             slug: z.string().nonempty(),
             description: z.string().nonempty(),
-            seo: z.object({
-                ogTitle: z.string().nonempty(),
-                ogDescription: z.string().nonempty(),
-                ogImage: z.string().nonempty(),
-                ogType: z.enum(['website', 'article']),
-                twitterTitle: z.string().nonempty(),
-                twitterDescription: z.string().nonempty(),
-                twitterImage: z.string().nonempty(),
-                twitterCard: z.enum(['summary', 'summary_large_image', 'app', 'player']),
-                keywords: z.string().nonempty(),
-                author: z.string().nonempty(),
-                robots: z.string().nonempty(),
-                canonical: z.string().nonempty(),
-                lang: z.string().nonempty()
-            })
+            seo: createSeoSchema()
         })
     }),
     changelog: defineCollection({

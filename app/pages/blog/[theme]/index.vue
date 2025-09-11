@@ -4,7 +4,27 @@ const { data: theme } = await useAsyncData(route.path, () => queryCollection('th
 const { data: posts } = await useAsyncData(route.path + '/posts', () => queryCollection('posts').where('theme', '=', route.params.theme).all())
 
 useSeoMeta({
-    ...theme.value?.seo
+    title: theme.value?.seo.title,
+    description: theme.value?.seo.description,
+    keywords: theme.value?.seo.keywords,
+    ogTitle: theme.value?.seo.title,
+    ogDescription: theme.value?.seo.description,
+    ogImage: theme.value?.seo.image,
+    ogType: 'website',
+    ogUrl: theme.value?.seo.url,
+    twitterCard: theme.value?.seo.card,
+    twitterTitle: theme.value?.seo.title,
+    twitterDescription: theme.value?.seo.description,
+    twitterImage: theme.value?.seo.image
+})
+
+useHead({
+    htmlAttrs: {
+        lang: theme.value?.seo.lang || 'fr'
+    },
+    link: [
+        { rel: 'canonical', href: theme.value?.seo.url }
+    ]
 })
 </script>
 
@@ -43,7 +63,7 @@ useSeoMeta({
                         :description="post.description"
                         :image="post.image"
                         :date="new Date(post.date).toLocaleDateString('en', { year: 'numeric', month: 'short', day: 'numeric' })"
-                        :authors="post.authors"
+                        :authors="[post.author]"
                         :badge="post.badge"
                         variant="naked"
                         :ui="{
