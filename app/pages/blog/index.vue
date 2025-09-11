@@ -18,11 +18,11 @@ defineOgImageComponent('Saas')
 </script>
 
 <template>
-    <UPage v-if="page">
-        <img
+    <UPage>
+        <NuxtImg
             src="/images/hero-blog.webp"
-            class="w-full aspect-video max-h-[32rem] object-cover object-center"
-        >
+            class="w-full aspect-video max-h-[44rem] object-cover object-center"
+        />
 
         <UContainer>
             <UPageHeader

@@ -35,6 +35,12 @@ if (post.value.image?.src) {
 
 <template>
     <UContainer v-if="post">
+        <NuxtImg
+            v-if="post.image?.src"
+            :src="post.image.src"
+            class="w-full aspect-video object-cover object-center rounded-lg mt-4"
+            format="webp"
+        />
         <UPageHeader
             :title="post.title"
             :description="post.description"
@@ -61,7 +67,7 @@ if (post.value.image?.src) {
                     <UAvatar
                         v-bind="author.avatar"
                         alt="Author avatar"
-                        size="2xs"
+                        size="sm"
                     />
 
                     {{ author.name }}

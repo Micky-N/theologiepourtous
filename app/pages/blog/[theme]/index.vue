@@ -1,8 +1,8 @@
 <script setup lang="ts">
 const route = useRoute()
 
-const { data: page } = await useAsyncData('blog', () => queryCollection('blog').first())
-const { data: posts } = await useAsyncData(route.path, () => queryCollection('posts').where('theme', '=', route.params.theme).all())
+const { data: page } = useAsyncData('blog', () => queryCollection('blog').first())
+const { data: posts } = useAsyncData(route.path, () => queryCollection('posts').where('theme', '=', route.params.theme).all())
 
 const theme = page.value?.sections.find(section => section.slug === route.params.theme)
 const title = page.value?.seo?.title || page.value?.title
@@ -19,10 +19,10 @@ defineOgImageComponent('Saas')
 
 <template>
     <UPage v-if="page && posts">
-        <img
+        <NuxtImg
             :src="theme?.image || '/images/hero-blog.webp'"
-            class="w-full aspect-auto max-h-[32rem] object-cover object-center"
-        >
+            class="w-full aspect-video max-h-[44rem] object-cover object-center"
+        />
 
         <UContainer>
             <UPageHeader
