@@ -13,12 +13,12 @@ useHead({
         { rel: 'icon', href: '/favicon.ico' }
     ],
     htmlAttrs: {
-        lang: 'en'
+        lang: 'fr'
     }
 })
 
 useSeoMeta({
-    titleTemplate: '%s - Nuxt SaaS template',
+    titleTemplate: '%s - Théologie pour tous',
     ogImage: 'https://ui4.nuxt.com/assets/templates/nuxt/saas-light.png',
     twitterImage: 'https://ui4.nuxt.com/assets/templates/nuxt/saas-light.png',
     twitterCard: 'summary_large_image'
