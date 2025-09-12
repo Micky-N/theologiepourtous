@@ -31,7 +31,8 @@ useHead({
 <template>
     <UPage v-if="theme">
         <NuxtImg
-            :src="theme?.image.src || '/images/hero-blog.webp'"
+            v-if="theme.image?.src"
+            :src="theme.image.src"
             class="w-full aspect-video max-h-[32rem] object-cover object-center"
         />
         <UContainer>
