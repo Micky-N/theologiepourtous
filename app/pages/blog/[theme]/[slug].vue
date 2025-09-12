@@ -44,7 +44,6 @@ useHead({
             v-if="post.image?.src"
             :src="post.image.src"
             class="w-full aspect-video object-cover object-center rounded-lg mt-4"
-            format="webp"
         />
         <UPageHeader
             :title="post.title"
