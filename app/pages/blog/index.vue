@@ -2,7 +2,7 @@
 const route = useRoute()
 
 const { data: page } = await useAsyncData('blog', () => queryCollection('blog').first())
-const { data: posts } = await useAsyncData(route.path, () => queryCollection('posts').all())
+const { data: posts } = useAsyncData(route.path, () => queryCollection('posts').all())
 
 const title = page.value?.seo?.title || page.value?.title
 const description = page.value?.seo?.description || page.value?.description
@@ -31,7 +31,7 @@ defineOgImageComponent('Saas')
             />
 
             <UPageBody>
-                <UBlogPosts>
+                <UBlogPosts v-if="posts">
                     <UBlogPost
                         v-for="(post, index) in posts"
                         :key="index"

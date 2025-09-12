@@ -6,7 +6,7 @@ if (!post.value) {
     throw createError({ statusCode: 404, statusMessage: 'Post not found', fatal: true })
 }
 
-const { data: surround } = await useAsyncData(`${route.path}-surround`, () => {
+const { data: surround } = useAsyncData(`${route.path}-surround`, () => {
     return queryCollectionItemSurroundings('posts', route.path, {
         fields: ['description']
     })
@@ -40,11 +40,10 @@ useHead({
 
 <template>
     <UContainer v-if="post">
-        <NuxtImg
-            v-if="post.image?.src"
+        <img
             :src="post.image.src"
-            class="w-full aspect-video object-cover object-center rounded-lg mt-4"
-        />
+            class="w-full aspect-video max-h-[32rem] object-cover object-center"
+        >
         <UPageHeader
             :title="post.title"
             :description="post.description"

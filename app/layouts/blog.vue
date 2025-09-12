@@ -47,7 +47,14 @@ const items = computed(() => {
                             orientation="horizontal"
                             variant="ghost"
                             :badge="item.children?.length + ' articles'"
-                        />
+                        >
+                            <template #header>
+                                <img
+                                    :src="item.image"
+                                    class="size-full object-cover object-center"
+                                >
+                            </template>
+                        </UBlogPost>
                     </template>
                 </UNavigationMenu>
             </ClientOnly>

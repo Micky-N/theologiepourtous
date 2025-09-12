@@ -1,7 +1,7 @@
 <script setup lang="ts">
 const route = useRoute()
 const { data: theme } = await useAsyncData(route.path, () => queryCollection('themes').path(route.path).first())
-const { data: posts } = await useAsyncData(route.path + '/posts', () => queryCollection('posts').where('theme', '=', route.params.theme).all())
+const { data: posts } = useAsyncData(route.path + '/posts', () => queryCollection('posts').where('theme', '=', route.params.theme).all())
 
 useSeoMeta({
     title: theme.value?.title,
@@ -30,11 +30,10 @@ useHead({
 
 <template>
     <UPage v-if="theme">
-        <NuxtImg
-            v-if="theme.image?.src"
+        <img
             :src="theme.image.src"
             class="w-full aspect-video max-h-[32rem] object-cover object-center"
-        />
+        >
         <UContainer>
             <UPageHeader
                 :title="theme.title"
