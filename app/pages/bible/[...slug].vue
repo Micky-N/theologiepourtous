@@ -1,17 +1,17 @@
 <script setup lang="ts">
 definePageMeta({
-    layout: 'docs'
+    layout: 'bible'
 })
 
 const route = useRoute()
 
-const { data: page } = await useAsyncData(route.path, () => queryCollection('docs').path(route.path).first())
+const { data: page } = await useAsyncData(route.path, () => queryCollection('bible').path(route.path).first())
 if (!page.value) {
     throw createError({ statusCode: 404, statusMessage: 'Page not found', fatal: true })
 }
 
 const { data: surround } = await useAsyncData(`${route.path}-surround`, () => {
-    return queryCollectionItemSurroundings('docs', route.path, {
+    return queryCollectionItemSurroundings('bible', route.path, {
         fields: ['description']
     })
 })
@@ -31,8 +31,6 @@ defineOgImageComponent('Saas')
 
 <template>
     <UPage v-if="page">
-        <pre>{{ surround }}</pre>
-        <pre>{{ page }}</pre>
         <UPageHeader
             :title="page.title"
             :description="page.description"

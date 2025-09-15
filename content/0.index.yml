@@ -1,150 +1,146 @@
-title: Ship Your [SaaS]{class="text-primary"} at light speed
-description: Build production-ready SaaS applications with Nuxt UI's powerful components, authentication flows, and enterprise features. The same component library trusted by the entire Nuxt ecosystem.
+title: Explorez la [Théologie]{class="text-primary"} pour Tous
+description: Découvrez la richesse de la théologie chrétienne à travers des enseignements accessibles, des études bibliques approfondies et une communauté bienveillante. Théologie pour Tous rend les vérités de la foi compréhensibles à chacun.
 seo:
-  title: Nuxt UI SaaS Template
-  description: Create stunning, fast and production-ready SaaS applications with Nuxt UI. 100+ Vue components, authentication, dark mode, and enterprise features built on Tailwind CSS.
+  title: Théologie pour Tous - Enseignements Chrétiens Accessibles
+  description: Explorez la théologie chrétienne avec des enseignements clairs et accessibles. Christologie, sotériologie, pneumatologie et plus encore pour enrichir votre foi.
 navigation: false
 hero:
   links:
-    - label: Get started
-      icon: i-lucide-arrow-right
+    - label: Commencer l'exploration
+      icon: i-lucide-book-open
       trailing: true
-      to: https://ui4.nuxt.com/docs/getting-started/installation/nuxt
-      target: _blank
+      to: /bible
       size: xl
-    - label: Use this template
-      icon: i-simple-icons-github
+    - label: Lire le blog
+      icon: i-lucide-newspaper
       size: xl
       color: neutral
       variant: subtle
-      to: https://github.com/nuxt-ui-templates/saas
-      target: _blank
+      to: /blog
 sections:
-  - title: Powered by Nuxt UI Components
-    description: Access the complete Nuxt UI component library with 100+ beautifully styled, accessible, and customizable Vue components. Everything you need to build professional SaaS applications.
+  - title: Les Fondements de la Foi Chrétienne
+    description: Explorez les doctrines essentielles du christianisme à travers des enseignements clairs et bibliquement fondés. De la nature de Dieu au salut par la grâce.
     id: features
     orientation: horizontal
     features:
-      - name: 100+ UI Components
-        description: From buttons to modals, data tables to forms - all styled with Tailwind CSS and accessible out of the box.
-        icon: i-lucide-package
-      - name: Authentication Ready
-        description: Pre-built login, signup, and password reset flows. Just connect your backend and start onboarding users.
-        icon: i-lucide-shield
-      - name: TypeScript First
-        description: Full TypeScript support with auto-completion, type safety, and IntelliSense for every component and composable.
-        icon: i-lucide-code-2
-  - title: Built for Modern SaaS
-    description: Everything you need to launch and scale your SaaS. From beautiful marketing pages to complex dashboards, ship faster with production-ready patterns.
+      - name: Théologie Propre
+        description: Découvrez la nature et les attributs de Dieu, Sa trinité, Sa souveraineté et Son amour parfait.
+        icon: i-lucide-crown
+      - name: Christologie
+        description: Approfondissez la personne et l'œuvre de Jésus-Christ, vrai Dieu et vrai homme, notre Sauveur.
+        icon: i-lucide-cross
+      - name: Pneumatologie
+        description: Comprenez le rôle du Saint-Esprit dans la vie du croyant et de l'Église.
+        icon: i-lucide-wind
+  - title: Grandir dans la Foi et la Connaissance
+    description: Poursuivez votre croissance spirituelle à travers l'étude, la prière et la communion fraternelle. Des ressources pour tous les niveaux.
     orientation: horizontal
     reverse: true
     features:
-      - name: Edge Performance
-        description: Optimized for Core Web Vitals with automatic code splitting, lazy loading, and SSR/SSG support.
-        icon: i-lucide-zap
-      - name: Dark Mode Ready
-        description: Automatic theme switching with smooth transitions. Respects system preferences and remembers user choice.
-        icon: i-lucide-moon
-      - name: Global Ready
-        description: Built-in i18n support for 50+ languages with RTL/LTR layouts and @nuxt/fonts integration.
-        icon: i-lucide-globe
+      - name: Études Bibliques
+        description: Plongez dans les Écritures avec des guides d'étude méthodiques et des commentaires éclairés.
+        icon: i-lucide-book
+      - name: Sotériologie
+        description: Explorez le plan de salut de Dieu, de la justification à la sanctification.
+        icon: i-lucide-heart-handshake
+      - name: Ecclésiologie
+        description: Comprenez la nature, le rôle et la mission de l'Église dans le monde d'aujourd'hui.
+        icon: i-lucide-church
 features:
-  title: Everything You Need to Ship
-  description: Stop building from scratch. Focus on your unique features while Nuxt UI handles the foundations with battle-tested components and patterns.
+  title: Tout ce dont vous avez besoin pour grandir dans la foi
+  description: Arrêtez de chercher partout. Concentrez-vous sur l'essentiel avec nos ressources théologiques soigneusement sélectionnées et nos enseignements bibliques solides.
   items:
-    - title: Beautiful Design System
-      description: Semantic color aliases, comprehensive design tokens, and Tailwind Variants for consistent, customizable styling.
-      icon: i-lucide-palette
-    - title: Accessible by Default
-      description: Built on Reka UI for robust accessibility. WCAG compliant components that work for everyone, everywhere.
-      icon: i-lucide-accessibility
-    - title: Developer Experience
-      description: Auto-imports, hot module replacement, and comprehensive documentation. Build faster with less friction.
-      icon: i-lucide-terminal
-    - title: SEO Optimized
-      description: Server-side rendering, automatic meta tags, sitemap generation, and Open Graph images out of the box.
-      icon: i-lucide-search
-    - title: Production Ready
-      description: Error handling, loading states, form validation, and security best practices built into every component.
-      icon: i-lucide-check-circle
-    - title: Infinitely Customizable
-      description: Override any style with the ui prop, customize globally with AppConfig, or use Tailwind classes directly.
-      icon: i-lucide-settings
+    - title: Enseignements Bibliques
+      description: Commentaires détaillés, études thématiques et exégèses pour approfondir votre compréhension des Écritures.
+      icon: i-lucide-scroll-text
+    - title: Accessible à Tous
+      description: Des contenus adaptés pour débutants et confirmés, avec un langage clair et des explications pédagogiques.
+      icon: i-lucide-users
+    - title: Théologiquement Sain
+      description: Tous nos enseignements sont ancrés dans l'orthodoxie chrétienne et la fidélité aux Écritures.
+      icon: i-lucide-shield-check
+    - title: Ressources Pratiques
+      description: Applications concrètes pour votre vie quotidienne de foi, avec des conseils pour la croissance spirituelle.
+      icon: i-lucide-compass
+    - title: Communauté Bienveillante
+      description: Rejoignez une communauté de croyants désireux d'apprendre et de grandir ensemble dans la foi.
+      icon: i-lucide-heart
+    - title: Constamment Enrichi
+      description: Nouveaux articles, études et ressources ajoutés régulièrement pour nourrir votre soif de connaissance.
+      icon: i-lucide-refresh-cw
 testimonials:
-  headline: Trusted by Developers
-  title: Join Thousands Building with Nuxt UI
-  description: See why developers choose Nuxt UI to ship their SaaS applications faster and with more confidence.
+  headline: Approuvé par la Communauté
+  title: Rejoignez des milliers de croyants qui grandissent avec nous
+  description: Découvrez pourquoi les chrétiens choisissent Théologie pour Tous pour approfondir leur foi et enrichir leur connaissance biblique.
   items:
-    - quote: Nuxt UI transformed how we build. The component quality is exceptional - everything just works with perfect TypeScript support, accessibility, and dark mode built in.
+    - quote: "Théologie pour Tous a transformé ma compréhension des Écritures. Les enseignements sont profonds mais accessibles, parfaits pour ma croissance spirituelle quotidienne."
       user:
-        name: Sarah Chen
-        description: CTO at TechScale Solutions
+        name: Marie Dubois
+        description: Responsable de groupe de jeunes
         avatar:
           src: https://i.pravatar.cc/120?img=1
-    - quote: We shipped our MVP in 2 weeks instead of 2 months. The authentication flows and form components saved us countless hours of development time.
+    - quote: "En tant que pasteur, je recommande régulièrement ces ressources. La rigueur théologique combinée à la clarté pédagogique est remarquable."
       user:
-        name: Marcus Rodriguez
-        description: VP of Engineering at DataFlow
+        name: Pasteur Jean Martin
+        description: Église Évangélique de Lyon
         avatar:
           src: https://i.pravatar.cc/120?img=7
-    - quote: The design system with AppConfig is brilliant. We maintain brand consistency across all our products while leveraging the full component library.
+    - quote: "J'étais nouveau dans la foi et je cherchais des ressources fiables. Ce site m'a aidé à construire des fondements solides avec confiance."
       user:
-        name: David Kumar
-        description: Security Director at SecureStack
+        name: David Laurent
+        description: Nouveau converti
         avatar:
           src: https://i.pravatar.cc/120?img=3
-    - quote: Perfect Lighthouse scores out of the box. Our Core Web Vitals improved dramatically just by switching to Nuxt UI components.
+    - quote: "Les études sur la christologie m'ont particulièrement marquée. C'est exactement ce dont j'avais besoin pour approfondir ma relation avec Jésus."
       user:
-        name: Emily Zhang
-        description: Lead Architect at ScaleForce
+        name: Sophie Bernard
+        description: Étudiante en théologie
         avatar:
           src: https://i.pravatar.cc/120?img=5
-    - quote: The Tailwind Variants system makes customization so intuitive. We can override any component style while keeping the functionality intact.
+    - quote: "La section sur la pneumatologie a enrichi ma compréhension du Saint-Esprit. Des enseignements qui nourrissent vraiment l'âme."
       user:
-        name: James Wilson
-        description: DevOps Lead at CloudPro
+        name: Marc Rousseau
+        description: Diacre et enseignant
         avatar:
           src: https://i.pravatar.cc/120?img=8
-    - quote: From the SaaS template to production in days. The pre-built layouts, navigation, and content structure accelerated our launch.
+    - quote: "En tant que maman chrétienne, j'apprécie la simplicité des explications. Je peux enfin répondre aux questions de mes enfants avec assurance."
       user:
-        name: Lisa Patel
-        description: CEO at AutoScale
+        name: Anne-Claire Petit
+        description: Mère de famille
         avatar:
           src: https://i.pravatar.cc/120?img=9
-    - quote: Reka UI foundation means accessibility is never an afterthought. We achieved WCAG compliance without any custom work.
+    - quote: "Les articles sur la sotériologie m'ont aidé à mieux comprendre le salut par grâce. Une ressource indispensable pour tout chrétien."
       user:
-        name: Michael Torres
-        description: Frontend Lead at AccessFirst
+        name: Pierre Moreau
+        description: Ancien d'église
         avatar:
           src: https://i.pravatar.cc/120?img=11
-    - quote: The documentation is outstanding. Every component has clear examples, and the community on Discord is incredibly helpful.
+    - quote: "La qualité des contenus et la profondeur spirituelle de chaque article font de ce site une référence dans ma vie de foi."
       user:
-        name: Rachel Kim
-        description: Performance Engineer at APIHub
+        name: Élisabeth Leroy
+        description: Responsable de ministère féminin
         avatar:
           src: https://i.pravatar.cc/120?img=10
-    - quote: We replaced three different UI libraries with Nuxt UI. The consistency and quality across all components is unmatched.
+    - quote: Grâce aux ressources sur l'ecclésiologie, j'ai une meilleure vision de l'Église. Cela m'aide beaucoup dans mon service pastoral.
       user:
-        name: Thomas Weber
-        description: UI Architecture Lead at DesignScale
+        name: Pasteur Antoine Legrand
+        description: Ministre du culte
         avatar:
           src: https://i.pravatar.cc/120?img=12
-    - quote: The integration with Nuxt modules is seamless. Color mode, fonts, icons - everything works together perfectly.
+    - quote: La profondeur théologique alliée à la clarté des explications fait de ce site une référence incontournable pour tout étudiant de la Bible.
       user:
-        name: Sophia Martinez
-        description: Integration Specialist at TechFlow
+        name: Cédric Fontaine
+        description: Enseignant d'école du dimanche
         avatar:
           src: https://i.pravatar.cc/120?img=14
 cta:
-  title: Ready to build an amazing SaaS?
-  description: Join thousands of developers building with Nuxt and Nuxt UI. Get this template and start shipping today.
+  title: Prêt à approfondir votre foi ?
+  description: Rejoignez des milliers de chrétiens qui grandissent dans leur connaissance de Dieu. Commencez votre parcours théologique dès aujourd'hui.
   links:
-    - label: Start building
-      to: 'https://ui4.nuxt.com/docs/getting-started/installation/nuxt'
-      target: _blank
+    - label: Commencer l'exploration
+      to: '/bible'
       trailingIcon: i-lucide-arrow-right
-    - label: View on GitHub
-      to: 'https://github.com/nuxt-ui-templates/saas'
-      target: _blank
+    - label: Lire nos articles
+      to: '/blog'
       variant: subtle
-      icon: i-simple-icons-github
+      icon: i-lucide-newspaper

@@ -1,7 +1,7 @@
 <script setup lang="ts">
 const route = useRoute()
 
-const { data: page } = await useAsyncData('changelog', () => queryCollection('changelog').first())
+const { data: page } = await useAsyncData('about', () => queryCollection('about').first())
 const { data: versions } = await useAsyncData(route.path, () => queryCollection('versions').order('date', 'DESC').all())
 
 const title = page.value?.seo?.title || page.value?.title

@@ -80,8 +80,8 @@ export const collections = {
             })
         })
     }),
-    docs: defineCollection({
-        source: '1.docs/**/*',
+    bible: defineCollection({
+        source: '1.bible/**/*',
         type: 'page'
     }),
     pricing: defineCollection({
@@ -149,12 +149,12 @@ export const collections = {
             seo: createSeoSchema()
         })
     }),
-    changelog: defineCollection({
-        source: '4.changelog.yml',
+    about: defineCollection({
+        source: '4.about.yml',
         type: 'page'
     }),
     versions: defineCollection({
-        source: '4.changelog/**/*',
+        source: '4.about/**/*',
         type: 'page',
         schema: z.object({
             title: z.string().nonempty(),
