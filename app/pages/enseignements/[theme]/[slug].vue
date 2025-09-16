@@ -48,7 +48,7 @@ const getTheme = (lesson: LessonsCollectionItem) => {
     <UContainer v-if="lesson">
         <img
             :src="lesson.image.src"
-            class="w-full aspect-video max-h-[32rem] object-cover object-center"
+            class="w-full aspect-video rounded-b-xl max-h-[32rem] object-cover object-center"
         >
         <UPageHeader
             :title="lesson.title"

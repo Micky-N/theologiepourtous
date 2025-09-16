@@ -281,7 +281,7 @@ defineOgImageComponent('Saas')
                 />
 
                 <blockquote class="text-lg text-gray-700 dark:text-gray-300 mb-6 italic">
-                    {{ page.quotation.quote }}
+                    "{{ page.quotation.quote }}"
                 </blockquote>
 
                 <div class="flex items-center gap-4">
