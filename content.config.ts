@@ -127,13 +127,11 @@ export const collections = {
         type: 'page',
         schema: z.object({
             image: z.object({ src: z.string().nonempty().editor({ input: 'media' }) }),
-            authors: z.array(
-                z.object({
-                    name: z.string().nonempty(),
-                    to: z.string().nonempty(),
-                    avatar: z.object({ src: z.string().nonempty().editor({ input: 'media' }) })
-                })
-            ),
+            author: z.object({
+                name: z.string().nonempty(),
+                to: z.string().nullable(),
+                avatar: z.object({ src: z.string().nonempty().editor({ input: 'media' }) })
+            }),
             date: z.date(),
             badge: z.object({ label: z.string().nonempty() }),
             seo: createSeoSchema()
@@ -173,7 +171,35 @@ export const collections = {
     }),
     about: defineCollection({
         source: '4.about.yml',
-        type: 'page'
+        type: 'page',
+        schema: z.object({
+            hero: z.object({
+                links: z.array(createLinkSchema())
+            }),
+            sections: z.array(
+                createBaseSchema().extend({
+                    id: z.string().optional(),
+                    orientation: orientationEnum.optional(),
+                    reverse: z.boolean().optional()
+                })
+            ),
+            stats: z.array(
+                z.object({
+                    label: z.string().nonempty(),
+                    value: z.string().nonempty(),
+                    description: z.string().nonempty()
+                })
+            ),
+            quotation: z.object({
+                quote: z.string().nonempty(),
+                author: z.string().nonempty(),
+                role: z.string().nonempty()
+            }),
+            seo: z.object({
+                title: z.string().nonempty(),
+                description: z.string().nonempty()
+            }).optional()
+        })
     }),
     versions: defineCollection({
         source: '4.about/**/*',

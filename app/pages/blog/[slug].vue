@@ -50,21 +50,19 @@ if (post.value.image?.src) {
 
             <div class="flex flex-wrap items-center gap-3 mt-4">
                 <UButton
-                    v-for="(author, index) in post.authors"
-                    :key="index"
-                    :to="author.to"
+                    :to="post.author.to || undefined"
                     color="neutral"
                     variant="subtle"
                     target="_blank"
                     size="sm"
                 >
                     <UAvatar
-                        v-bind="author.avatar"
+                        v-bind="post.author.avatar"
                         alt="Author avatar"
                         size="2xs"
                     />
 
-                    {{ author.name }}
+                    {{ post.author.name }}
                 </UButton>
             </div>
         </UPageHeader>

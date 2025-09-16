@@ -1,2 +1,48 @@
-title: Changelog
-navigation.icon: i-lucide-rocket
+title: À Propos de [Mickaël]{class="text-primary"} NDINGA
+description: Découvrez mon parcours de foi, ma formation théologique et mon engagement dans le ministère chrétien évangélique pentecôtiste.
+seo:
+  title: À Propos - Ancien Mickaël NDINGA | Théologie pour Tous
+  description: Rencontrez Ancien Mickaël NDINGA, serviteur de Dieu passionné par l'enseignement biblique et la formation théologique. Master en Développement Web et formation à l'École Pneuma.
+navigation: false
+hero:
+  links:
+    - label: Voir les enseignements
+      icon: i-lucide-book-open
+      trailing: true
+      to: /enseignements
+      size: xl
+    - label: Lire le blog
+      icon: i-lucide-newspaper
+      size: xl
+      color: neutral
+      variant: subtle
+      to: /blog
+sections:
+  - title: Mon Parcours de Foi
+    description: Né dans une famille chrétienne, grandi et baptisé dans l'église, ma foi chrétienne évangélique pentecôtiste est au cœur de ma vie depuis toujours. Marié et père de 2 enfants, je vis ma foi au quotidien en famille, transmettant les valeurs chrétiennes à la nouvelle génération. En tant que membre engagé de l'église de Mystère de l'Epoux à Lyon Vénissieux, dirigée par l'apôtre Manuel NDINGA, je participe activement à la vie communautaire et j'use de mes dons musicaux comme pianiste au service de l'église pour louer le Seigneur et édifier les frères et sœurs.
+    id: faith-journey
+    orientation: horizontal
+  - title: Formation et Responsabilités
+    description: Ancien depuis 5 ans, je porte la responsabilité de plusieurs départements et me forme continuellement pour mieux servir. En tant qu'Ancien, je guide et accompagne les membres de notre communauté dans leur croissance spirituelle. Titulaire d'un Master en Développement Web, j'allie compétences techniques et service pour le Royaume. Ma formation théologique approfondie à l'École Pneuma, fondée par le révérend pasteur Nicolas Mayuba, me permet d'exercer un ministère solide et équilibré.
+    orientation: horizontal
+    reverse: true
+  - title: Passion pour l'Enseignement
+    description: Ma plus grande passion est d'étudier et d'enseigner la Bible dans toute sa richesse doctrinale et contextuelle. Je m'investis dans l'approfondissement constant des doctrines bibliques pour un enseignement fidèle et équilibré, l'étude minutieuse des contextes historiques, culturels et littéraires pour une compréhension authentique, l'apprentissage de l'hébreu et du grec pour accéder aux textes dans leurs langues originales, et la défense raisonnée de la foi chrétienne face aux défis contemporains et aux questions existentielles à travers l'apologétique.
+    orientation: horizontal
+stats:
+  - label: Années d'anciennat
+    value: "5+"
+    description: Au service de l'église
+  - label: Départements
+    value: "Multiple"
+    description: Responsabilités variées
+  - label: Formation
+    value: "École Pneuma"
+    description: Formation théologique
+  - label: Passion
+    value: "Enseignement"
+    description: Transmission de la Parole
+quotation:
+  quote: "La doctrine chrétienne est le fondement sur lequel repose la foi authentique et la vie de l’Église. Comme le rappelle l’Écriture : 'Toute Écriture est inspirée de Dieu et utile pour enseigner, pour convaincre, pour corriger, pour instruire dans la justice.' (2 Timothée 3:16). Thomas d’Aquin écrivait : 'La doctrine sacrée procède de la révélation divine, reçue dans la foi.' Ainsi, une doctrine solide éclaire l’intelligence, fortifie le cœur et guide le croyant vers une vie transformée, où la vérité biblique devient source de lumière et de discernement pour chaque génération."
+  author: "Mickaël NDINGA"
+  role: "Ancien et Enseignant"
