@@ -1,7 +1,7 @@
 <script setup lang="ts">
-import type { ContentNavigationItem } from '@nuxt/content'
-
-const navigation = inject<Ref<ContentNavigationItem[]>>('navigation')
+const { data: navigation } = useAsyncData('navigation', () => queryCollectionNavigation('bible'), {
+    transform: data => data.find(item => item.path === '/bible')?.children || []
+})
 </script>
 
 <template>

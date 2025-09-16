@@ -1,36 +1,48 @@
 <script setup lang="ts">
 const columns = [{
-    label: 'Resources',
+    label: 'Ressources',
     children: [{
-        label: 'Help center'
+        label: 'Centre d\'aide',
+        to: '/about'
     }, {
-        label: 'Docs'
+        label: 'Documentation',
+        to: '/about'
     }, {
-        label: 'Roadmap'
+        label: 'Études bibliques',
+        to: '/bible'
     }, {
-        label: 'Changelog'
+        label: 'Articles récents',
+        to: '/blog'
     }]
 }, {
-    label: 'Features',
+    label: 'Théologie',
     children: [{
-        label: 'Affiliates'
+        label: 'Christologie',
+        to: '/enseignements/christologie'
     }, {
-        label: 'Portal'
+        label: 'Pneumatologie',
+        to: '/enseignements/pneumatologie'
     }, {
-        label: 'Jobs'
+        label: 'Sotériologie',
+        to: '/enseignements/soteriologie'
     }, {
-        label: 'Sponsors'
+        label: 'Hamartiologie',
+        to: '/enseignements/hamartiologie'
     }]
 }, {
-    label: 'Company',
+    label: 'Communauté',
     children: [{
-        label: 'About'
+        label: 'À propos',
+        to: '/about'
     }, {
-        label: 'Pricing'
+        label: 'Contact',
+        to: '/about'
     }, {
-        label: 'Careers'
+        label: 'Rejoindre',
+        to: '/signup'
     }, {
-        label: 'Blog'
+        label: 'Blog',
+        to: '/blog'
     }]
 }]
 
@@ -43,8 +55,9 @@ function onSubmit() {
     loading.value = true
 
     toast.add({
-        title: 'Subscribed!',
-        description: 'You\'ve been subscribed to our newsletter.'
+        title: 'Abonné !',
+        description: 'Vous êtes maintenant abonné à notre newsletter.',
+        color: 'primary'
     })
 }
 </script>
@@ -63,21 +76,21 @@ function onSubmit() {
                         <form @submit.prevent="onSubmit">
                             <UFormField
                                 name="email"
-                                label="Subscribe to our newsletter"
+                                label="Abonnez-vous à notre newsletter"
                                 size="lg"
                             >
                                 <UInput
                                     v-model="email"
                                     type="email"
                                     class="w-full"
-                                    placeholder="Enter your email"
+                                    placeholder="Entrez votre email"
                                 >
                                     <template #trailing>
                                         <UButton
                                             type="submit"
                                             size="xs"
                                             color="neutral"
-                                            label="Subscribe"
+                                            label="S'abonner"
                                         />
                                     </template>
                                 </UInput>
@@ -96,26 +109,17 @@ function onSubmit() {
 
         <template #right>
             <UButton
-                to="https://go.nuxt.com/discord"
-                target="_blank"
-                icon="i-simple-icons-discord"
-                aria-label="Nuxt on Discord"
-                color="neutral"
-                variant="ghost"
-            />
-            <UButton
-                to="https://go.nuxt.com/x"
-                target="_blank"
-                icon="i-simple-icons-x"
-                aria-label="Nuxt on X"
-                color="neutral"
-                variant="ghost"
-            />
-            <UButton
-                to="https://github.com/nuxt-ui-templates/saas"
+                to="https://github.com/Micky-N"
                 target="_blank"
                 icon="i-simple-icons-github"
-                aria-label="Nuxt UI on GitHub"
+                aria-label="GitHub de l'auteur"
+                color="neutral"
+                variant="ghost"
+            />
+            <UButton
+                to="mailto:contact@theologiepourtous.fr"
+                icon="i-lucide-mail"
+                aria-label="Contact par email"
                 color="neutral"
                 variant="ghost"
             />

@@ -1,5 +1,5 @@
 title: Explorez la [Théologie]{class="text-primary"} pour Tous
-description: Découvrez la richesse de la théologie chrétienne à travers des enseignements accessibles, des études bibliques approfondies et une communauté bienveillante. Théologie pour Tous rend les vérités de la foi compréhensibles à chacun.
+description: Découvrez la richesse de la théologie chrétienne à travers des enseignements accessibles, des études bibliques approfondies et une formation structurée. Théologie pour Tous rend les vérités de la foi compréhensibles à chacun.
 seo:
   title: Théologie pour Tous - Enseignements Chrétiens Accessibles
   description: Explorez la théologie chrétienne avec des enseignements clairs et accessibles. Christologie, sotériologie, pneumatologie et plus encore pour enrichir votre foi.
@@ -9,7 +9,7 @@ hero:
     - label: Commencer l'exploration
       icon: i-lucide-book-open
       trailing: true
-      to: /bible
+      to: /enseignements
       size: xl
     - label: Lire le blog
       icon: i-lucide-newspaper
@@ -62,9 +62,9 @@ features:
     - title: Ressources Pratiques
       description: Applications concrètes pour votre vie quotidienne de foi, avec des conseils pour la croissance spirituelle.
       icon: i-lucide-compass
-    - title: Communauté Bienveillante
-      description: Rejoignez une communauté de croyants désireux d'apprendre et de grandir ensemble dans la foi.
-      icon: i-lucide-heart
+    - title: Formation Continue
+      description: Perfectionnez vos connaissances théologiques grâce à nos parcours structurés et nos outils d'apprentissage interactifs.
+      icon: i-lucide-graduation-cap
     - title: Constamment Enrichi
       description: Nouveaux articles, études et ressources ajoutés régulièrement pour nourrir votre soif de connaissance.
       icon: i-lucide-refresh-cw
@@ -138,7 +138,7 @@ cta:
   description: Rejoignez des milliers de chrétiens qui grandissent dans leur connaissance de Dieu. Commencez votre parcours théologique dès aujourd'hui.
   links:
     - label: Commencer l'exploration
-      to: '/bible'
+      to: '/enseignements'
       trailingIcon: i-lucide-arrow-right
     - label: Lire nos articles
       to: '/blog'

@@ -7,8 +7,8 @@ definePageMeta({
 })
 
 useSeoMeta({
-    title: 'Login',
-    description: 'Login to your account to continue'
+    title: 'Connexion - Théologie pour Tous',
+    description: 'Connectez-vous à votre compte pour continuer votre parcours spirituel'
 })
 
 const toast = useToast()
@@ -17,16 +17,16 @@ const fields = [{
     name: 'email',
     type: 'text' as const,
     label: 'Email',
-    placeholder: 'Enter your email',
+    placeholder: 'Entrez votre email',
     required: true
 }, {
     name: 'password',
-    label: 'Password',
+    label: 'Mot de passe',
     type: 'password' as const,
-    placeholder: 'Enter your password'
+    placeholder: 'Entrez votre mot de passe'
 }, {
     name: 'remember',
-    label: 'Remember me',
+    label: 'Se souvenir de moi',
     type: 'checkbox' as const
 }]
 
@@ -34,7 +34,11 @@ const providers = [{
     label: 'Google',
     icon: 'i-simple-icons-google',
     onClick: () => {
-        toast.add({ title: 'Google', description: 'Login with Google' })
+        toast.add({
+            title: 'Google',
+            description: 'Connexion avec Google',
+            color: 'primary'
+        })
     }
 }]
 
@@ -55,15 +59,15 @@ function onSubmit(payload: FormSubmitEvent<Schema>) {
         :fields="fields"
         :schema="schema"
         :providers="providers"
-        title="Welcome back"
-        icon="i-lucide-lock"
+        title="Bon retour parmi nous"
+        icon="i-lucide-cross"
         @submit="onSubmit"
     >
         <template #description>
-            Don't have an account? <ULink
+            Vous n'avez pas de compte ? <ULink
                 to="/signup"
                 class="text-primary font-medium"
-            >Sign up</ULink>.
+            >S'inscrire</ULink>.
         </template>
 
         <template #password-hint>
@@ -71,14 +75,14 @@ function onSubmit(payload: FormSubmitEvent<Schema>) {
                 to="/"
                 class="text-primary font-medium"
                 tabindex="-1"
-            >Forgot password?</ULink>
+            >Mot de passe oublié ?</ULink>
         </template>
 
         <template #footer>
-            By signing in, you agree to our <ULink
+            En vous connectant, vous acceptez nos <ULink
                 to="/"
                 class="text-primary font-medium"
-            >Terms of Service</ULink>.
+            >Conditions d'utilisation</ULink>.
         </template>
     </UAuthForm>
 </template>

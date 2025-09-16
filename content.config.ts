@@ -123,7 +123,28 @@ export const collections = {
         type: 'page'
     }),
     posts: defineCollection({
-        source: '3.blog/**/*.md',
+        source: '3.blog/**/*',
+        type: 'page',
+        schema: z.object({
+            image: z.object({ src: z.string().nonempty().editor({ input: 'media' }) }),
+            authors: z.array(
+                z.object({
+                    name: z.string().nonempty(),
+                    to: z.string().nonempty(),
+                    avatar: z.object({ src: z.string().nonempty().editor({ input: 'media' }) })
+                })
+            ),
+            date: z.date(),
+            badge: z.object({ label: z.string().nonempty() }),
+            seo: createSeoSchema()
+        })
+    }),
+    teaching: defineCollection({
+        source: '2.enseignements.yml',
+        type: 'page'
+    }),
+    lessons: defineCollection({
+        source: '2.enseignements/**/*.md',
         type: 'page',
         schema: z.object({
             image: z.object({ src: z.string().nonempty().editor({ input: 'media' }) }),
@@ -139,13 +160,14 @@ export const collections = {
         })
     }),
     themes: defineCollection({
-        source: '3.blog/**/*',
+        source: '2.enseignements/**/*',
         type: 'page',
         schema: z.object({
             title: z.string().nonempty(),
             image: z.object({ src: z.string().nonempty().editor({ input: 'media' }) }),
             slug: z.string().nonempty(),
             description: z.string().nonempty(),
+            color: colorEnum.optional().default('primary'),
             seo: createSeoSchema()
         })
     }),
