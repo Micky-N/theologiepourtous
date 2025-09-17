@@ -8,7 +8,10 @@ defineProps<{
 </script>
 
 <template>
-    <component :is="card ? UCard : 'div'">
+    <component
+        :is="card ? UCard : 'div'"
+        class="my-6"
+    >
         <div class="grid grid-cols-3 items-center w-full gap-x-8">
             <div :class="{ 'order-2': reverse }">
                 <slot name="image" />

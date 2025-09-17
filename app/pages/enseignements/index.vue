@@ -78,7 +78,7 @@ defineOgImageComponent('Saas')
                     :items-per-page="perPage"
                     show-edges
                     :total="lessonsCount"
-                    :to="(p) => ({ path: '/enseignements', query: p > 1 ? { page: p } : {} })"
+                    :to="(p: number) => ({ path: '/enseignements', query: p > 1 ? { page: p } : {} })"
                     class="mt-10 flex justify-center"
                 />
             </UPageBody>
