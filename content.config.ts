@@ -10,10 +10,6 @@ const createBaseSchema = () => z.object({
     description: z.string().nonempty()
 })
 
-const createFeatureItemSchema = () => createBaseSchema().extend({
-    icon: z.string().nonempty().editor({ input: 'icon' })
-})
-
 const createLinkSchema = () => z.object({
     label: z.string().nonempty(),
     to: z.string().nonempty(),
@@ -23,13 +19,6 @@ const createLinkSchema = () => z.object({
     target: z.string().optional(),
     color: colorEnum.optional(),
     variant: variantEnum.optional()
-})
-
-const createImageSchema = () => z.object({
-    src: z.string().nonempty().editor({ input: 'media' }),
-    alt: z.string().optional(),
-    loading: z.string().optional(),
-    srcset: z.string().optional()
 })
 
 const createSeoSchema = () => z.object({
@@ -46,37 +35,109 @@ export const collections = {
         source: '0.index.yml',
         type: 'page',
         schema: z.object({
-            hero: z.object(({
-                links: z.array(createLinkSchema())
-            })),
-            sections: z.array(
-                createBaseSchema().extend({
-                    id: z.string().nonempty(),
-                    orientation: orientationEnum.optional(),
-                    reverse: z.boolean().optional(),
-                    features: z.array(createFeatureItemSchema())
+            title: z.string().nonempty(),
+            description: z.string().nonempty(),
+            hero: z.object({
+                badge: z.object({
+                    icon: z.string().nonempty().editor({ input: 'icon' }),
+                    text: z.string().nonempty()
+                }),
+                title: z.string().nonempty(),
+                titleHighlight: z.string().nonempty(),
+                subtitle: z.string().nonempty(),
+                primaryCta: z.object({
+                    text: z.string().nonempty(),
+                    icon: z.string().nonempty().editor({ input: 'icon' }),
+                    link: z.string().nonempty()
+                }),
+                secondaryCta: z.object({
+                    text: z.string().nonempty(),
+                    icon: z.string().nonempty().editor({ input: 'icon' }),
+                    link: z.string().nonempty()
                 })
-            ),
-            features: createBaseSchema().extend({
-                items: z.array(createFeatureItemSchema())
             }),
-            testimonials: createBaseSchema().extend({
-                headline: z.string().optional(),
-                items: z.array(
-                    z.object({
-                        quote: z.string().nonempty(),
-                        user: z.object({
-                            name: z.string().nonempty(),
-                            description: z.string().nonempty(),
-                            to: z.string().nonempty(),
-                            target: z.string().nonempty(),
-                            avatar: createImageSchema()
-                        })
-                    })
-                )
+            mission: z.object({
+                badge: z.object({
+                    icon: z.string().nonempty().editor({ input: 'icon' }),
+                    text: z.string().nonempty()
+                }),
+                title: z.string().nonempty(),
+                subtitle: z.string().nonempty(),
+                pillars: z.array(z.object({
+                    title: z.string().nonempty(),
+                    icon: z.string().nonempty().editor({ input: 'icon' }),
+                    color: z.string().nonempty(),
+                    description: z.string().nonempty()
+                })),
+                verse: z.object({
+                    text: z.string().nonempty(),
+                    reference: z.string().nonempty(),
+                    commentary: z.string().nonempty()
+                })
             }),
-            cta: createBaseSchema().extend({
-                links: z.array(createLinkSchema())
+            teachings: z.object({
+                badge: z.object({
+                    icon: z.string().nonempty().editor({ input: 'icon' }),
+                    text: z.string().nonempty()
+                }),
+                title: z.string().nonempty(),
+                subtitle: z.string().nonempty(),
+                courses: z.array(z.object({
+                    title: z.string().nonempty(),
+                    name: z.string().nonempty(),
+                    image: z.string().nonempty().editor({ input: 'media' }),
+                    description: z.string().nonempty(),
+                    lessons: z.number().min(0).optional(),
+                    link: z.string().nonempty()
+                })),
+                allCoursesCard: z.object({
+                    title: z.string().nonempty(),
+                    description: z.string().nonempty(),
+                    cta: z.string().nonempty(),
+                    link: z.string().nonempty()
+                })
+            }),
+            testimonials: z.object({
+                badge: z.object({
+                    icon: z.string().nonempty().editor({ input: 'icon' }),
+                    text: z.string().nonempty()
+                }),
+                title: z.string().nonempty(),
+                subtitle: z.string().nonempty(),
+                reviews: z.array(z.object({
+                    name: z.string().nonempty(),
+                    role: z.string().nonempty(),
+                    image: z.string().nonempty().editor({ input: 'media' }),
+                    quote: z.string().nonempty()
+                })),
+                stats: z.array(z.object({
+                    number: z.string().nonempty(),
+                    label: z.string().nonempty(),
+                    color: z.string().nonempty()
+                }))
+            }),
+            cta: z.object({
+                title: z.string().nonempty(),
+                titleHighlight: z.string().nonempty(),
+                subtitle: z.string().nonempty(),
+                primaryButton: z.object({
+                    text: z.string().nonempty(),
+                    icon: z.string().nonempty().editor({ input: 'icon' }),
+                    link: z.string().nonempty()
+                }),
+                secondaryButton: z.object({
+                    text: z.string().nonempty(),
+                    icon: z.string().nonempty().editor({ input: 'icon' }),
+                    link: z.string().nonempty()
+                }),
+                benefits: z.string().nonempty()
+            }),
+            seo: z.object({
+                title: z.string().nonempty(),
+                description: z.string().nonempty(),
+                ogTitle: z.string().nonempty(),
+                ogDescription: z.string().nonempty(),
+                ogImage: z.string().nonempty().editor({ input: 'media' })
             })
         })
     }),
@@ -146,14 +207,11 @@ export const collections = {
         type: 'page',
         schema: z.object({
             image: z.object({ src: z.string().nonempty().editor({ input: 'media' }) }),
-            author: z.object({
-                name: z.string().nonempty(),
-                to: z.string().nonempty(),
-                avatar: z.object({ src: z.string().nonempty().editor({ input: 'media' }) })
-            }),
+            biblical_references: z.array(z.string().nonempty()).optional(),
             date: z.date(),
-            badge: z.object({ label: z.string().nonempty() }),
+            tags: z.array(z.string().nonempty()),
             theme: z.string().nonempty(),
+            reading_time: z.number().optional(),
             seo: createSeoSchema()
         })
     }),

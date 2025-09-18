@@ -30,11 +30,11 @@ useHead({
 
 <template>
     <UPage v-if="theme">
-        <img
-            :src="theme.image.src"
-            class="w-full aspect-video max-h-[32rem] object-cover object-center"
-        >
         <UContainer>
+            <NuxtImg
+                :src="theme.image.src"
+                class="w-full aspect-video max-h-[32rem] rounded-b-xl object-center"
+            />
             <UPageHeader
                 :title="theme.title"
                 :description="theme.description"
@@ -62,8 +62,7 @@ useHead({
                         :title="lesson.title"
                         :description="lesson.description"
                         :image="lesson.image"
-                        :date="new Date(lesson.date).toLocaleDateString('en', { year: 'numeric', month: 'short', day: 'numeric' })"
-                        :authors="[lesson.author]"
+                        :date="new Date(lesson.date).toLocaleDateString('fr', { year: 'numeric', month: 'short', day: 'numeric' })"
                         :badge="{ label: theme.title, color: theme.color || 'primary' }"
                         variant="naked"
                         :ui="{

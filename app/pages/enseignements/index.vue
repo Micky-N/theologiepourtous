@@ -43,7 +43,7 @@ defineOgImageComponent('Saas')
     <UPage>
         <NuxtImg
             src="/images/hero-blog.webp"
-            class="w-full aspect-video max-h-[32rem] object-cover object-center"
+            class="w-full aspect-video max-h-[32rem] object-center"
         />
 
         <UContainer>
@@ -62,7 +62,6 @@ defineOgImageComponent('Saas')
                         :description="lesson.description"
                         :image="lesson.image"
                         :date="new Date(lesson.date).toLocaleDateString('fr', { year: 'numeric', month: 'long', day: 'numeric' })"
-                        :authors="[lesson.author]"
                         :badge="{ label: getTheme(lesson)?.title, color: getTheme(lesson)?.color || 'primary' }"
                         :orientation="isFirstLessonOfFirstPage(lesson) ? 'horizontal' : 'vertical'"
                         :class="[isFirstLessonOfFirstPage(lesson) && 'col-span-full']"

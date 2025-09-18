@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { UCard } from '#components'
+import { UPageCard } from '#components'
 
 defineProps<{
     reverse?: boolean
@@ -9,16 +9,42 @@ defineProps<{
 
 <template>
     <component
-        :is="card ? UCard : 'div'"
-        class="my-6"
+        :is="card ? UPageCard : 'div'"
+        class="my-8"
+        orientation="horizontal"
+        :reverse="reverse"
     >
-        <div class="grid grid-cols-3 items-center w-full gap-x-8">
-            <div :class="{ 'order-2': reverse }">
-                <slot name="image" />
+        <template
+            v-if="card"
+            #default
+        >
+            <slot
+                mdc-unwrap="p"
+                name="image"
+            />
+        </template>
+        <div
+            v-if="!card"
+            class="grid md:grid-cols-3 items-center w-full gap-8"
+        >
+            <div
+                class="w-full"
+                :class="{ 'order-2': reverse }"
+            >
+                <slot
+                    mdc-unwrap="p"
+                    name="image"
+                />
             </div>
-            <div class="col-span-2">
-                <slot />
+            <div class="md:col-span-2">
+                <slot mdc-unwrap="p" />
             </div>
         </div>
+        <template
+            v-if="card"
+            #body
+        >
+            <slot />
+        </template>
     </component>
 </template>

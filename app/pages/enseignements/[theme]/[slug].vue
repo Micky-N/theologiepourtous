@@ -1,8 +1,5 @@
 <script setup lang="ts">
-import type { LessonsCollectionItem, ThemesCollectionItem } from '@nuxt/content'
-
 const route = useRoute()
-const { themes } = defineProps<{ themes: ThemesCollectionItem[] }>()
 const { data: lesson } = await useAsyncData(route.path, () => queryCollection('lessons').path(route.path).first())
 if (!lesson.value) {
     throw createError({ statusCode: 404, statusMessage: 'Lesson not found', fatal: true })
@@ -11,14 +8,14 @@ if (!lesson.value) {
 const { data: surround } = useAsyncData(`${route.path}-surround`, () => {
     return queryCollectionItemSurroundings('lessons', route.path, {
         fields: ['description']
-    })
+    }).where('theme', '=', route.params.theme)
 })
 
 useSeoMeta({
     title: lesson.value.title,
     description: lesson.value.seo.description,
     keywords: lesson.value.seo.keywords,
-    author: lesson.value.author.name,
+    author: 'Théologie pour Tous',
     ogTitle: lesson.value.title,
     ogDescription: lesson.value.seo.description,
     ogImage: lesson.value.image.src,
@@ -38,10 +35,6 @@ useHead({
         { rel: 'canonical', href: lesson.value.seo.url }
     ]
 })
-
-const getTheme = (lesson: LessonsCollectionItem) => {
-    return themes.find(theme => theme.path === '/enseignements/' + lesson.theme)
-}
 </script>
 
 <template>
@@ -55,30 +48,37 @@ const getTheme = (lesson: LessonsCollectionItem) => {
             :description="lesson.description"
         >
             <template #headline>
-                <UBadge
-                    v-bind="{ label: getTheme(lesson)?.title, color: getTheme(lesson)?.color || 'primary' }"
-                    variant="subtle"
-                />
-                <span class="text-muted">&middot;</span>
-                <time class="text-muted">{{ new Date(lesson.date).toLocaleDateString('en', { year: 'numeric', month: 'short', day: 'numeric' }) }}</time>
+                <div class="space-x-1">
+                    <time class="text-muted">{{ new Date(lesson.date).toLocaleDateString('fr', { year: 'numeric', month: 'long', day: 'numeric' }) }}</time>
+                    <span class="text-muted">&middot;</span>
+                    <!-- tags -->
+                    <span
+                        v-for="tag in lesson.tags"
+                        :key="tag"
+                        class="text-warning-600 font-light"
+                    >
+                        {{ tag }}<span v-if="tag !== lesson.tags[lesson.tags.length - 1]">, </span>
+                    </span>
+                </div>
             </template>
 
-            <div class="flex flex-wrap items-center gap-3 mt-4">
-                <UButton
-                    :to="lesson.author.to"
-                    color="neutral"
-                    variant="subtle"
-                    target="_blank"
-                    size="sm"
+            <div class="flex flex-col md:flex-row md:items-center gap-2 mt-4">
+                <h3
+                    v-if="lesson.biblical_references?.length"
+                    class="text-sm font-medium text-muted"
                 >
-                    <UAvatar
-                        v-bind="lesson.author.avatar"
-                        alt="Author avatar"
-                        size="sm"
+                    Références bibliques :
+                </h3>
+                <div class="flex flex-wrap items-center gap-2">
+                    <!-- biblical reference -->
+                    <UBadge
+                        v-for="ref in lesson.biblical_references"
+                        :key="ref"
+                        :label="ref"
+                        color="secondary"
+                        variant="subtle"
                     />
-
-                    {{ lesson.author.name }}
-                </UButton>
+                </div>
             </div>
         </UPageHeader>
 

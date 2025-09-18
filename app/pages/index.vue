@@ -1,212 +1,277 @@
-<script setup lang="ts">
-const { data: page } = await useAsyncData('index', () => queryCollection('index').first())
-
-const title = page.value?.seo?.title || page.value?.title
-const description = page.value?.seo?.description || page.value?.description
-
-useSeoMeta({
-    titleTemplate: '',
-    title,
-    ogTitle: title,
-    description,
-    ogDescription: description
-})
-</script>
-
 <template>
-    <div v-if="page">
-        <!-- Hero Section avec gradient et motifs -->
-        <UPageHero
-            :title="page.title"
-            :description="page.description"
-            :links="page.hero.links"
-        >
-            <template #top>
-                <HeroBackground />
-                <StarsBg />
-            </template>
-
-            <template #title>
-                <MDC
-                    :value="page.title"
-                    unwrap="p"
-                />
-            </template>
-
-            <!-- Image hero théologique -->
-            <div class="relative mx-auto w-full">
-                <div class="relative rounded-2xl overflow-hidden shadow-lg">
-                    <NuxtImg
-                        src="/images/theologie.jpg"
-                        alt="Étude théologique - Découverte de la Bible"
-                        class="w-full aspect-video object-cover"
-                    />
-                </div>
-                <!-- Éléments décoratifs -->
-                <div class="absolute -top-12 -right-6 w-24 h-24 bg-primary-500/20 rounded-full blur-xl" />
-                <div class="absolute -bottom-6 -left-6 w-32 h-32 bg-primary-600/20 rounded-full blur-xl" />
+    <div
+        v-if="homeData"
+        class="min-h-screen bg-gradient-to-br from-slate-50 to-stone-100 dark:from-gray-900 dark:to-gray-800"
+    >
+        <!-- Hero Section -->
+        <section class="relative min-h-screen flex items-center justify-center overflow-hidden">
+            <!-- Background Pattern -->
+            <div class="absolute inset-0 bg-gradient-to-br from-blue-50 to-indigo-100 dark:from-slate-900 dark:to-indigo-950">
+                <img
+                    src="/images/home.jpg"
+                    alt=""
+                    class="w-full h-full object-center"
+                >
+                <div class="absolute inset-0 bg-gradient-to-t from-neutral-950/90 via-neutral-950/10 to-transparent dark:from-gray-900/90 dark:via-gray-900/50" />
             </div>
-        </UPageHero>
 
-        <!-- Sections principales -->
-        <UPageSection
-            v-for="(section, index) in page.sections"
-            :key="index"
-            :title="section.title"
-            :description="section.description"
-            :orientation="section.orientation"
-            :reverse="section.reverse"
-            :ui="{
-                container: 'py-12 sm:py-12 lg:py-24'
-            }"
-        >
-            <template #headline>
+            <div class="relative z-10 max-w-6xl mx-auto px-6 text-center">
+                <div class="mb-8">
+                    <div class="inline-flex items-center px-4 py-2 rounded-full bg-blue-50 dark:bg-blue-950/30 text-blue-700 dark:text-blue-300 text-sm font-medium mb-6">
+                        <UIcon
+                            :name="homeData.hero.badge.icon"
+                            class="w-4 h-4 mr-2"
+                        />
+                        {{ homeData.hero.badge.text }}
+                    </div>
+                </div>
+
+                <h1 class="text-5xl md:text-7xl font-bold text-gray-900 dark:text-white mb-6 leading-tight">
+                    {{ homeData.hero.title }}
+                    <span class="text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-indigo-600 dark:from-blue-400 dark:to-indigo-400">
+                        {{ homeData.hero.titleHighlight }}
+                    </span>
+                </h1>
+
+                <p class="text-xl md:text-2xl text-white mb-8 max-w-3xl mx-auto leading-relaxed">
+                    {{ homeData.hero.subtitle }}
+                </p>
+
+                <div class="flex flex-col sm:flex-row gap-4 justify-center items-center mb-12">
+                    <UButton
+                        size="xl"
+                        color="primary"
+                        variant="solid"
+                        :to="homeData.hero.primaryCta.link"
+                    >
+                        <UIcon
+                            :name="homeData.hero.primaryCta.icon"
+                            class="w-5 h-5"
+                        />
+                        {{ homeData.hero.primaryCta.text }}
+                    </UButton>
+
+                    <UButton
+                        size="xl"
+                        color="neutral"
+                        variant="outline"
+                        :to="homeData.hero.secondaryCta.link"
+                    >
+                        <UIcon
+                            :name="homeData.hero.secondaryCta.icon"
+                            class="w-5 h-5"
+                        />
+                        {{ homeData.hero.secondaryCta.text }}
+                    </UButton>
+                </div>
+            </div>
+
+            <!-- Scroll indicator -->
+            <div class="absolute bottom-8 left-1/2 transform -translate-x-1/2 animate-bounce">
                 <UIcon
-                    :name="index === 0 ? 'i-lucide-book-open-text' : 'i-lucide-graduation-cap'"
-                    class="w-6 h-6 text-primary-500"
+                    name="i-lucide-chevron-down"
+                    class="w-6 h-6 text-gray-400"
                 />
-            </template>
+            </div>
+        </section>
 
-            <!-- Grille de fonctionnalités avec cartes améliorées -->
-            <UPageGrid class="gap-8">
-                <UPageCard
-                    v-for="(feature, featureIndex) in section.features"
-                    :key="featureIndex"
-                    :title="feature.title"
-                    :description="feature.description"
-                    :icon="feature.icon"
-                    class="group hover:shadow-xl transition-all duration-300 hover:-translate-y-2 border-l-4 border-primary-500/20 hover:border-primary-500"
-                    spotlight
-                >
-                    <template #icon>
-                        <div class="p-3 rounded-xl bg-primary-50 dark:bg-primary-900/20 group-hover:bg-primary-500 group-hover:text-white transition-all duration-300">
+        <!-- Mission/Vision Section -->
+        <section class="py-20 bg-white dark:bg-gray-900">
+            <div class="max-w-7xl mx-auto px-6">
+                <div class="text-center mb-16">
+                    <div class="inline-flex items-center px-4 py-2 rounded-full bg-blue-50 dark:bg-blue-950/30 text-blue-700 dark:text-blue-300 text-sm font-medium mb-6">
+                        <UIcon
+                            :name="homeData.mission.badge.icon"
+                            class="w-4 h-4 mr-2"
+                        />
+                        {{ homeData.mission.badge.text }}
+                    </div>
+                    <h2 class="text-4xl md:text-5xl font-bold text-gray-900 dark:text-white mb-6">
+                        {{ homeData.mission.title }}
+                    </h2>
+                    <p class="text-xl text-gray-600 dark:text-gray-300 max-w-3xl mx-auto">
+                        {{ homeData.mission.subtitle }}
+                    </p>
+                </div>
+
+                <div class="grid grid-cols-1 md:grid-cols-3 gap-8 mb-16">
+                    <div
+                        v-for="(pillar, index) in homeData.mission.pillars"
+                        :key="index"
+                        class="text-center group hover:scale-105 transition-transform duration-300"
+                    >
+                        <div
+                            :class="[
+                                'w-16 h-16 mx-auto mb-6 rounded-full flex items-center justify-center transition-colors duration-300',
+                                `bg-${pillar.color}-100 dark:bg-${pillar.color}-900/30 group-hover:bg-${pillar.color}-200 dark:group-hover:bg-${pillar.color}-900/50`
+                            ]"
+                        >
                             <UIcon
-                                :name="feature.icon"
-                                class="w-6 h-6 text-primary-500 group-hover:text-white"
+                                :name="pillar.icon"
+                                :class="`w-8 h-8 text-${pillar.color}-600 dark:text-${pillar.color}-400`"
                             />
                         </div>
-                    </template>
-                </UPageCard>
-            </UPageGrid>
+                        <h3 class="text-2xl font-bold text-gray-900 dark:text-white mb-4">
+                            {{ pillar.title }}
+                        </h3>
+                        <p class="text-gray-600 dark:text-gray-300 leading-relaxed">
+                            {{ pillar.description }}
+                        </p>
+                    </div>
+                </div>
 
-            <!-- Image illustrative pour chaque section -->
-            <div class="relative w-full">
-                <div class="relative rounded-xl overflow-hidden shadow-lg">
-                    <NuxtImg
-                        v-if="index === 0"
-                        src="/images/christologie.jpg"
-                        alt="Fondements de la foi chrétienne"
-                        class="w-full aspect-video object-cover"
-                    />
-                    <NuxtImg
-                        v-else
-                        src="/images/pneumatologie.jpg"
-                        alt="Croissance spirituelle"
-                        class="w-full aspect-video object-cover"
-                    />
-                    <div class="absolute inset-0 bg-primary-900/10" />
+                <div class="bg-gradient-to-r from-blue-50 to-indigo-50 dark:from-blue-950/30 dark:to-indigo-950/30 rounded-2xl p-8 md:p-12">
+                    <div class="text-center">
+                        <h3 class="text-3xl font-bold text-gray-900 dark:text-white mb-4">
+                            "{{ homeData.mission.verse.text }}"
+                        </h3>
+                        <p class="text-xl text-gray-600 dark:text-gray-300 mb-2">
+                            {{ homeData.mission.verse.reference }}
+                        </p>
+                        <p class="text-gray-600 dark:text-gray-400 max-w-2xl mx-auto">
+                            {{ homeData.mission.verse.commentary }}
+                        </p>
+                    </div>
                 </div>
             </div>
-        </UPageSection>
+        </section>
 
-        <!-- Section des fonctionnalités principales -->
-        <UPageSection
-            :title="page.features.title"
-            :description="page.features.description"
-            class="bg-gradient-to-br from-gray-50 to-primary-50/30 dark:from-gray-900 dark:to-primary-900/10"
-            :ui="{
-                container: 'py-12 sm:py-12 lg:py-24'
-            }"
-        >
-            <template #headline>
-                <div class="flex justify-center">
-                    <UBadge
-                        label="Nos Ressources"
-                        variant="subtle"
-                        class="mx-auto bg-primary-50 text-primary-700 dark:bg-primary-900/30 dark:text-primary-300"
-                    />
+        <!-- Enseignements Section -->
+        <section class="py-20 bg-gray-50 dark:bg-gray-800">
+            <div class="max-w-7xl mx-auto px-6">
+                <div class="text-center mb-16">
+                    <div class="inline-flex items-center px-4 py-2 rounded-full bg-green-50 dark:bg-green-950/30 text-green-700 dark:text-green-300 text-sm font-medium mb-6">
+                        <UIcon
+                            :name="homeData.teachings.badge.icon"
+                            class="w-4 h-4 mr-2"
+                        />
+                        {{ homeData.teachings.badge.text }}
+                    </div>
+                    <h2 class="text-4xl md:text-5xl font-bold text-gray-900 dark:text-white mb-6">
+                        {{ homeData.teachings.title }}
+                    </h2>
+                    <p class="text-xl text-gray-600 dark:text-gray-300 max-w-3xl mx-auto">
+                        {{ homeData.teachings.subtitle }}
+                    </p>
                 </div>
-            </template>
 
-            <UPageGrid class="gap-8 lg:grid-cols-3">
-                <UPageCard
-                    v-for="(item, index) in page.features.items"
-                    :key="index"
-                    v-bind="item"
-                    class="group hover:shadow-2xl transition-all duration-300 hover:-translate-y-1 bg-white/80 dark:bg-gray-800/80 backdrop-blur-sm border border-gray-200/50 dark:border-gray-700/50"
-                    spotlight
-                >
-                    <template #icon>
-                        <div class="relative">
-                            <div class="p-4 rounded-2xl bg-gradient-to-br from-primary-500 to-primary-600 group-hover:from-primary-600 group-hover:to-primary-700 transition-all duration-300">
-                                <UIcon
-                                    :name="item.icon"
-                                    class="w-7 h-7 text-white"
-                                />
+                <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+                    <!-- Course Cards -->
+                    <div
+                        v-for="(course, index) in homeData.teachings.courses"
+                        :key="index"
+                        class="bg-white dark:bg-gray-900 rounded-xl overflow-hidden shadow-lg hover:shadow-2xl transition-all duration-300 group flex flex-col justify-between"
+                    >
+                        <img
+                            :src="getTheme(course.name)?.image.src as string || course.image"
+                            :alt="course.title"
+                            class="w-full aspect-video object-cover object-center"
+                        >
+                        <div class="p-6 h-full flex flex-col justify-between">
+                            <h3 class="text-2xl font-bold text-gray-900 dark:text-white mb-3">
+                                {{ course.title }}
+                            </h3>
+                            <p class="flex-1 text-gray-600 dark:text-gray-300 mb-4 leading-relaxed">
+                                {{ course.description }}
+                            </p>
+                            <div class="flex items-center justify-between">
+                                <span class="text-sm text-gray-500 dark:text-gray-400">
+                                    {{ getTheme(course.name)?.children?.length || 0 }} leçon{{ (getTheme(course.name)?.children?.length || 0) > 1 ? 's' : '' }}
+                                </span>
+                                <UButton
+                                    variant="ghost"
+                                    color="neutral"
+                                    :to="course.link"
+                                >
+                                    Explorer
+                                </UButton>
                             </div>
-                            <div class="absolute inset-0 rounded-2xl bg-gradient-to-br from-primary-500 to-primary-600 opacity-20 blur-xl group-hover:opacity-30 transition-opacity duration-300" />
                         </div>
-                    </template>
-                </UPageCard>
-            </UPageGrid>
-        </UPageSection>
+                    </div>
 
-        <!-- Section témoignages avec layout amélioré -->
-        <UPageSection
-            id="testimonials"
-            :headline="page.testimonials.headline"
-            :title="page.testimonials.title"
-            :description="page.testimonials.description"
-            :ui="{
-                container: 'py-12 sm:py-12 lg:py-24'
-            }"
-        >
-            <template #headline>
-                <div class="flex justify-center">
-                    <UIcon
-                        name="i-lucide-heart"
-                        class="w-6 h-6 text-primary-500"
-                    />
+                    <!-- All Courses Card -->
+                    <div class="bg-gradient-to-br from-indigo-500 to-purple-600 rounded-xl overflow-hidden shadow-lg hover:shadow-2xl transition-all duration-300 group text-white">
+                        <div class="p-6 h-full flex flex-col justify-center items-center text-center">
+                            <UIcon
+                                name="i-lucide-library"
+                                class="w-16 h-16 mb-4 opacity-90"
+                            />
+                            <h3 class="text-2xl font-bold mb-3">
+                                {{ homeData.teachings.allCoursesCard.title }}
+                            </h3>
+                            <p class="mb-6 leading-relaxed opacity-90">
+                                {{ homeData.teachings.allCoursesCard.description }}
+                            </p>
+                            <UButton
+                                variant="solid"
+                                color="neutral"
+                                :to="homeData.teachings.allCoursesCard.link"
+                                class="bg-white text-indigo-600 hover:bg-gray-100"
+                            >
+                                {{ homeData.teachings.allCoursesCard.cta }}
+                            </UButton>
+                        </div>
+                    </div>
                 </div>
-            </template>
-            <UCarousel
-                v-slot="{ item: testimonial }"
-                loop
-                dots
-                :autoplay="{ delay: 10000 }"
-                :items="page.testimonials.items"
-                :ui="{
-                    item: 'basis-1/3 items-stretch h-full',
-                    root: 'gap-6 lg:gap-8 max-w-7xl mx-auto',
-                    container: 'h-full items-stretch'
-                }"
-            >
-                <UPageCard
-                    variant="subtle"
-                    :description="testimonial.quote"
-                    :ui="{
-                        description: 'before:content-[open-quote] after:content-[close-quote] text-gray-600 dark:text-gray-300 italic',
-                        body: 'p-2',
-                        footer: 'w-full'
-                    }"
-                    class="break-inside-avoid mb-6 hover:shadow-lg transition-all duration-300 border-l-4 border-primary-500/20 hover:border-primary-500"
-                >
-                    <template #footer>
-                        <div class="pt-4 border-t border-gray-200 dark:border-gray-700">
-                            <UUser
-                                v-bind="testimonial.user"
-                                size="lg"
-                                :ui="{
-                                    name: 'font-semibold text-gray-900 dark:text-white',
-                                    description: 'text-primary-600 dark:text-primary-400 text-sm'
-                                }"
+            </div>
+        </section>
+
+        <!-- Témoignages Section -->
+        <section class="py-20 bg-white dark:bg-gray-900">
+            <div class="max-w-7xl mx-auto px-6">
+                <div class="text-center mb-16">
+                    <div class="inline-flex items-center px-4 py-2 rounded-full bg-purple-50 dark:bg-purple-950/30 text-purple-700 dark:text-purple-300 text-sm font-medium mb-6">
+                        <UIcon
+                            :name="homeData.testimonials.badge.icon"
+                            class="w-4 h-4 mr-2"
+                        />
+                        {{ homeData.testimonials.badge.text }}
+                    </div>
+                    <h2 class="text-4xl md:text-5xl font-bold text-gray-900 dark:text-white mb-6">
+                        {{ homeData.testimonials.title }}
+                    </h2>
+                    <p class="text-xl text-gray-600 dark:text-gray-300 max-w-3xl mx-auto">
+                        {{ homeData.testimonials.subtitle }}
+                    </p>
+                </div>
+
+                <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+                    <!-- Testimonial Cards -->
+                    <div
+                        v-for="(review, index) in homeData.testimonials.reviews"
+                        :key="index"
+                        class="bg-gray-50 dark:bg-gray-800 rounded-2xl p-8 hover:shadow-lg transition-all duration-300"
+                    >
+                        <div class="flex items-center mb-6">
+                            <img
+                                :src="review.image"
+                                :alt="review.name"
+                                class="w-16 h-16 rounded-full object-cover mr-4"
+                            >
+                            <div>
+                                <h4 class="text-lg font-semibold text-gray-900 dark:text-white">
+                                    {{ review.name }}
+                                </h4>
+                                <p class="text-gray-600 dark:text-gray-400">
+                                    {{ review.role }}
+                                </p>
+                            </div>
+                        </div>
+                        <div class="mb-6">
+                            <UIcon
+                                name="i-lucide-quote"
+                                class="w-8 h-8 text-purple-400 opacity-50"
                             />
                         </div>
-                    </template>
-                </UPageCard>
-            </UCarousel>
-        </UPageSection>
+                        <p class="text-gray-700 dark:text-gray-300 leading-relaxed italic">
+                            "{{ review.quote }}"
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </section>
 
+        <!-- CTA Final Section -->
         <USeparator class="border-gray-200 dark:border-gray-700" />
 
         <!-- CTA Section avec design moderne -->
@@ -226,23 +291,79 @@ useSeoMeta({
                 </div>
 
                 <div class="relative z-10 text-center">
-                    <h2 class="text-4xl lg:text-5xl font-bold mb-6">
-                        {{ page.cta.title }}
+                    <h2 class="text-4xl md:text-6xl font-bold mb-6 leading-tight">
+                        {{ homeData.cta.title }}
+                        <span class="text-secondary">
+                            {{ homeData.cta.titleHighlight }}
+                        </span>
                     </h2>
-                    <p class="text-xl text-primary-400 mb-8 max-w-2xl mx-auto">
-                        {{ page.cta.description }}
+
+                    <p class="text-xl md:text-2xl mb-8 opacity-90 leading-relaxed">
+                        {{ homeData.cta.subtitle }}
                     </p>
                     <div class="flex flex-col sm:flex-row gap-4 justify-center">
                         <UButton
-                            v-for="(link, index) in page.cta.links"
-                            :key="index"
-                            v-bind="link"
-                            :variant="index === 0 ? 'link' : 'outline'"
                             size="xl"
-                        />
+                            color="secondary"
+                            variant="solid"
+                            :to="homeData.cta.primaryButton.link"
+                        >
+                            <UIcon
+                                :name="homeData.cta.primaryButton.icon"
+                                class="w-6 h-6 mr-3"
+                            />
+                            {{ homeData.cta.primaryButton.text }}
+                        </UButton>
+                        <UButton
+                            size="xl"
+                            color="neutral"
+                            variant="outline"
+                            :to="homeData.cta.secondaryButton.link"
+                        >
+                            <UIcon
+                                :name="homeData.cta.secondaryButton.icon"
+                                class="w-6 h-6 mr-3"
+                            />
+                            {{ homeData.cta.secondaryButton.text }}
+                        </UButton>
                     </div>
                 </div>
             </template>
         </UPageCTA>
     </div>
+    <div
+        v-else
+        class="min-h-screen flex items-center justify-center"
+    >
+        <div class="text-center">
+            <div class="animate-spin rounded-full h-32 w-32 border-b-2 border-blue-600 mx-auto mb-4" />
+            <p class="text-gray-600 dark:text-gray-400">
+                Chargement...
+            </p>
+        </div>
+    </div>
 </template>
+
+<script setup lang="ts">
+import type { TeachingCollectionItem, ThemesCollectionItem } from '@nuxt/content'
+
+const route = useRoute()
+const { data: homeData } = await useAsyncData(route.path, () => queryCollection('index').first())
+const { data: themes } = await useAsyncData('posts', () => queryCollectionNavigation('themes', ['image', 'slug']))
+
+if (!homeData.value) {
+    throw createError({ statusCode: 404, statusMessage: 'Page non trouvée' })
+}
+// Page metadata
+useSeoMeta({
+    title: homeData.value.seo.title,
+    description: homeData.value.seo.description,
+    ogTitle: homeData.value.seo.ogTitle,
+    ogDescription: homeData.value.seo.ogDescription,
+    ogImage: homeData.value.seo.ogImage
+})
+
+const getTheme = (themeName: string) => {
+    return themes.value?.[0]?.children?.find(theme => theme.slug === themeName) as ThemesCollectionItem & { children: TeachingCollectionItem[] } | undefined
+}
+</script>

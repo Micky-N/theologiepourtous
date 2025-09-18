@@ -1,146 +1,121 @@
-title: Explorez la [Théologie]{class="text-primary"} pour Tous
-description: Découvrez la richesse de la théologie chrétienne à travers des enseignements accessibles, des études bibliques approfondies et une formation structurée. Théologie pour Tous rend les vérités de la foi compréhensibles à chacun.
-seo:
-  title: Théologie pour Tous - Enseignements Chrétiens Accessibles
-  description: Explorez la théologie chrétienne avec des enseignements clairs et accessibles. Christologie, sotériologie, pneumatologie et plus encore pour enrichir votre foi.
-navigation: false
+title: "Théologie pour Tous - Formation théologique en ligne"
+description: "Formation théologique accessible à tous, fondée sur les Écritures. Approfondissez votre connaissance de Dieu avec nos enseignements structurés."
+
 hero:
-  links:
-    - label: Commencer l'exploration
-      icon: i-lucide-book-open
-      trailing: true
-      to: /enseignements
-      size: xl
-    - label: Lire le blog
-      icon: i-lucide-newspaper
-      size: xl
-      color: neutral
-      variant: subtle
-      to: /blog
-sections:
-  - title: Les Fondements de la Foi Chrétienne
-    description: Explorez les doctrines essentielles du christianisme à travers des enseignements clairs et bibliquement fondés. De la nature de Dieu au salut par la grâce.
-    id: features
-    orientation: horizontal
-    features:
-      - name: Théologie Propre
-        description: Découvrez la nature et les attributs de Dieu, Sa trinité, Sa souveraineté et Son amour parfait.
-        icon: i-lucide-crown
-      - name: Christologie
-        description: Approfondissez la personne et l'œuvre de Jésus-Christ, vrai Dieu et vrai homme, notre Sauveur.
-        icon: i-lucide-cross
-      - name: Pneumatologie
-        description: Comprenez le rôle du Saint-Esprit dans la vie du croyant et de l'Église.
-        icon: i-lucide-wind
-  - title: Grandir dans la Foi et la Connaissance
-    description: Poursuivez votre croissance spirituelle à travers l'étude, la prière et la communion fraternelle. Des ressources pour tous les niveaux.
-    orientation: horizontal
-    reverse: true
-    features:
-      - name: Études Bibliques
-        description: Plongez dans les Écritures avec des guides d'étude méthodiques et des commentaires éclairés.
-        icon: i-lucide-book
-      - name: Sotériologie
-        description: Explorez le plan de salut de Dieu, de la justification à la sanctification.
-        icon: i-lucide-heart-handshake
-      - name: Ecclésiologie
-        description: Comprenez la nature, le rôle et la mission de l'Église dans le monde d'aujourd'hui.
-        icon: i-lucide-church
-features:
-  title: Tout ce dont vous avez besoin pour grandir dans la foi
-  description: Arrêtez de chercher partout. Concentrez-vous sur l'essentiel avec nos ressources théologiques soigneusement sélectionnées et nos enseignements bibliques solides.
-  items:
-    - title: Enseignements Bibliques
-      description: Commentaires détaillés, études thématiques et exégèses pour approfondir votre compréhension des Écritures.
-      icon: i-lucide-scroll-text
-    - title: Accessible à Tous
-      description: Des contenus adaptés pour débutants et confirmés, avec un langage clair et des explications pédagogiques.
-      icon: i-lucide-users
-    - title: Théologiquement Sain
-      description: Tous nos enseignements sont ancrés dans l'orthodoxie chrétienne et la fidélité aux Écritures.
-      icon: i-lucide-shield-check
-    - title: Ressources Pratiques
-      description: Applications concrètes pour votre vie quotidienne de foi, avec des conseils pour la croissance spirituelle.
-      icon: i-lucide-compass
-    - title: Formation Continue
-      description: Perfectionnez vos connaissances théologiques grâce à nos parcours structurés et nos outils d'apprentissage interactifs.
-      icon: i-lucide-graduation-cap
-    - title: Constamment Enrichi
-      description: Nouveaux articles, études et ressources ajoutés régulièrement pour nourrir votre soif de connaissance.
-      icon: i-lucide-refresh-cw
+  badge:
+    icon: "i-lucide-cross"
+    text: "Formation théologique en ligne"
+  title: "Approfondissez votre"
+  titleHighlight: "connaissance de Dieu"
+  subtitle: "Une formation théologique accessible à tous, fondée sur les Écritures et guidée par l'Esprit Saint. Découvrez les richesses de la Parole de Dieu dans un parcours structuré et inspirant."
+  primaryCta:
+    text: "Commencer le parcours"
+    icon: "i-lucide-book-open"
+    link: "/enseignements"
+  secondaryCta:
+    text: "En savoir plus"
+    icon: "i-lucide-play-circle"
+    link: "/about"
+
+mission:
+  badge:
+    icon: "i-lucide-heart"
+    text: "Notre Mission"
+  title: "Équiper les saints pour l'œuvre du ministère"
+  subtitle: "Notre passion est de rendre la théologie accessible à tous les chrétiens, afin qu'ils puissent grandir dans la connaissance de Dieu et servir efficacement dans Son royaume."
+  pillars:
+    - title: "Enseignement Biblique"
+      icon: "i-lucide-book-open"
+      color: "blue"
+      description: "Des cours fondés sur l'autorité des Écritures, enseignés avec fidélité et clarté pour nourrir votre âme et fortifier votre foi."
+    - title: "Communauté"
+      icon: "i-lucide-users"
+      color: "green"
+      description: "Rejoignez une communauté de croyants passionnés par l'étude de la Parole, où l'encouragement mutuel et la croissance spirituelle sont prioritaires."
+    - title: "Formation Pratique"
+      icon: "i-lucide-compass"
+      color: "purple"
+      description: "Une approche pratique de la théologie qui vous équipe pour le ministère et vous aide à appliquer la vérité biblique dans votre vie quotidienne."
+  verse:
+    text: "Étudie-toi à te présenter devant Dieu comme un homme éprouvé"
+    reference: "2 Timothée 2:15"
+    commentary: "Notre désir est de vous accompagner dans cette noble quête de connaissance biblique, pour que vous deveniez des ouvriers qui n'ont point à rougir."
+
+teachings:
+  badge:
+    icon: "i-lucide-graduation-cap"
+    text: "Nos Enseignements"
+  title: "Parcours de Formation Théologique"
+  subtitle: "Explorez les grandes doctrines de la foi chrétienne à travers nos parcours structurés et approfondissez votre compréhension des vérités bibliques fondamentales."
+  courses:
+    - title: "Théologie Propre"
+      name: theologie-propre
+      image: "/images/themes/theologie-propre.jpg"
+      description: "Découvrez qui est Dieu : Ses attributs, Sa nature trinitaire, et Sa révélation à travers les Écritures."
+      link: "/enseignements/theologie-propre"
+    - title: "Christologie"
+      name: christologie
+      image: "/images/themes/christologie.jpg"
+      description: "Étudiez la personne et l'œuvre de Jésus-Christ, vrai Dieu et vrai homme, notre Sauveur."
+      link: "/enseignements/christologie"
+    - title: "Pneumatologie"
+      name: pneumatologie
+      image: "/images/themes/pneumatologie.jpg"
+      description: "Apprenez sur la personne et l'œuvre du Saint-Esprit dans la vie du croyant et de l'Église."
+      link: "/enseignements/pneumatologie"
+    - title: "Sotériologie"
+      name: soteriologie
+      image: "/images/themes/soteriologie.jpg"
+      description: "Explorez la doctrine du salut par grâce, l'œuvre rédemptrice du Christ pour nous."
+      link: "/enseignements/soteriologie"
+    - title: "Hamartiologie"
+      name: hamartiologie
+      image: "/images/themes/hamartiologie.jpg"
+      description: "Comprenez la nature du péché et ses conséquences, pour mieux apprécier la grâce de Dieu."
+      link: "/enseignements/hamartiologie"
+  allCoursesCard:
+    title: "Voir tous les parcours"
+    description: "Découvrez l'ensemble de nos formations théologiques et choisissez votre parcours d'apprentissage."
+    cta: "Parcourir tout"
+    link: "/enseignements"
+
 testimonials:
-  headline: Approuvé par la Communauté
-  title: Rejoignez des milliers de croyants qui grandissent avec nous
-  description: Découvrez pourquoi les chrétiens choisissent Théologie pour Tous pour approfondir leur foi et enrichir leur connaissance biblique.
-  items:
-    - quote: "Théologie pour Tous a transformé ma compréhension des Écritures. Les enseignements sont profonds mais accessibles, parfaits pour ma croissance spirituelle quotidienne."
-      user:
-        name: Marie Dubois
-        description: Responsable de groupe de jeunes
-        avatar:
-          src: https://i.pravatar.cc/120?img=1
-    - quote: "En tant que pasteur, je recommande régulièrement ces ressources. La rigueur théologique combinée à la clarté pédagogique est remarquable."
-      user:
-        name: Pasteur Jean Martin
-        description: Église Évangélique de Lyon
-        avatar:
-          src: https://i.pravatar.cc/120?img=7
-    - quote: "J'étais nouveau dans la foi et je cherchais des ressources fiables. Ce site m'a aidé à construire des fondements solides avec confiance."
-      user:
-        name: David Laurent
-        description: Nouveau converti
-        avatar:
-          src: https://i.pravatar.cc/120?img=3
-    - quote: "Les études sur la christologie m'ont particulièrement marquée. C'est exactement ce dont j'avais besoin pour approfondir ma relation avec Jésus."
-      user:
-        name: Sophie Bernard
-        description: Étudiante en théologie
-        avatar:
-          src: https://i.pravatar.cc/120?img=5
-    - quote: "La section sur la pneumatologie a enrichi ma compréhension du Saint-Esprit. Des enseignements qui nourrissent vraiment l'âme."
-      user:
-        name: Marc Rousseau
-        description: Diacre et enseignant
-        avatar:
-          src: https://i.pravatar.cc/120?img=8
-    - quote: "En tant que maman chrétienne, j'apprécie la simplicité des explications. Je peux enfin répondre aux questions de mes enfants avec assurance."
-      user:
-        name: Anne-Claire Petit
-        description: Mère de famille
-        avatar:
-          src: https://i.pravatar.cc/120?img=9
-    - quote: "Les articles sur la sotériologie m'ont aidé à mieux comprendre le salut par grâce. Une ressource indispensable pour tout chrétien."
-      user:
-        name: Pierre Moreau
-        description: Ancien d'église
-        avatar:
-          src: https://i.pravatar.cc/120?img=11
-    - quote: "La qualité des contenus et la profondeur spirituelle de chaque article font de ce site une référence dans ma vie de foi."
-      user:
-        name: Élisabeth Leroy
-        description: Responsable de ministère féminin
-        avatar:
-          src: https://i.pravatar.cc/120?img=10
-    - quote: Grâce aux ressources sur l'ecclésiologie, j'ai une meilleure vision de l'Église. Cela m'aide beaucoup dans mon service pastoral.
-      user:
-        name: Pasteur Antoine Legrand
-        description: Ministre du culte
-        avatar:
-          src: https://i.pravatar.cc/120?img=12
-    - quote: La profondeur théologique alliée à la clarté des explications fait de ce site une référence incontournable pour tout étudiant de la Bible.
-      user:
-        name: Cédric Fontaine
-        description: Enseignant d'école du dimanche
-        avatar:
-          src: https://i.pravatar.cc/120?img=14
+  badge:
+    icon: "i-lucide-quote"
+    text: "Témoignages"
+  title: "Ce que disent nos étudiants"
+  subtitle: "Découvrez comment la formation théologique a transformé la vie et le ministère de ceux qui nous ont fait confiance."
+  reviews:
+    - name: "Marie Dubois"
+      role: "Pasteure adjointe"
+      image: "/images/profile-mickael.jpg"
+      quote: "Cette formation m'a permis d'approfondir ma compréhension des Écritures d'une manière que je n'aurais jamais imaginée. Les enseignements sont riches, accessibles et profondément ancrés dans la Parole de Dieu."
+    - name: "Pierre Martin"
+      role: "Enseignant biblique"
+      image: "/images/profile-mickael.jpg"
+      quote: "J'ai particulièrement apprécié l'approche systématique et la qualité pédagogique. Ces études m'ont équipé pour enseigner avec plus de confiance et de précision dans mon ministère local."
+    - name: "Sarah Leroux"
+      role: "Responsable jeunesse"
+      image: "/images/profile-mickael.jpg"
+      quote: "Une formation qui allie profondeur théologique et application pratique. Mon ministère auprès des jeunes s'en trouve enrichi et ma foi fortifiée. Je recommande vivement ce parcours."
+
 cta:
-  title: Prêt à approfondir votre foi ?
-  description: Rejoignez des milliers de chrétiens qui grandissent dans leur connaissance de Dieu. Commencez votre parcours théologique dès aujourd'hui.
-  links:
-    - label: Commencer l'exploration
-      to: '/enseignements'
-      trailingIcon: i-lucide-arrow-right
-    - label: Lire nos articles
-      to: '/blog'
-      variant: subtle
-      icon: i-lucide-newspaper
+  title: "Prêt à commencer votre"
+  titleHighlight: "parcours théologique ?"
+  subtitle: "Rejoignez des milliers de chrétiens qui approfondissent leur foi et se préparent à servir le Seigneur avec excellence."
+  primaryButton:
+    text: "Commencer maintenant"
+    icon: "i-lucide-rocket"
+    link: "/enseignements"
+  secondaryButton:
+    text: "En savoir plus"
+    icon: "i-lucide-info"
+    link: "/about"
+  benefits: "✨ Accès immédiat • 📱 Compatible tous appareils • 🎓 Certificat inclus"
+
+seo:
+  title: "Accueil - Théologie pour Tous"
+  description: "Formation théologique accessible à tous, fondée sur les Écritures. Approfondissez votre connaissance de Dieu avec nos enseignements structurés."
+  ogTitle: "Théologie pour Tous - Formation théologique en ligne"
+  ogDescription: "Découvrez les richesses de la Parole de Dieu dans un parcours de formation théologique accessible et inspirant."
+  ogImage: "/images/theological-formation.jpg"
