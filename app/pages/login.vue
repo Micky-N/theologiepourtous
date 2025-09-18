@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import * as z from 'zod'
 import type { FormSubmitEvent } from '@nuxt/ui'
+import { useAuth } from '~/composables/useAuth'
 
 definePageMeta({
     layout: 'auth'
@@ -12,6 +13,14 @@ useSeoMeta({
 })
 
 const toast = useToast()
+const { login, isLoggedIn } = useAuth()
+
+// Rediriger si déjà connecté
+watch(isLoggedIn, (value) => {
+    if (value) {
+        navigateTo('/')
+    }
+}, { immediate: true })
 
 const fields = [{
     name: 'email',
@@ -24,10 +33,6 @@ const fields = [{
     label: 'Mot de passe',
     type: 'password' as const,
     placeholder: 'Entrez votre mot de passe'
-}, {
-    name: 'remember',
-    label: 'Se souvenir de moi',
-    type: 'checkbox' as const
 }]
 
 const providers = [{
@@ -35,22 +40,47 @@ const providers = [{
     icon: 'i-simple-icons-google',
     onClick: () => {
         toast.add({
-            title: 'Google',
-            description: 'Connexion avec Google',
+            title: 'Prochainement',
+            description: 'Connexion avec Google bientôt disponible',
             color: 'primary'
         })
     }
 }]
 
 const schema = z.object({
-    email: z.string().email('Invalid email'),
-    password: z.string().min(8, 'Must be at least 8 characters')
+    email: z.string().email('Format email invalide'),
+    password: z.string().min(1, 'Le mot de passe est requis')
 })
 
 type Schema = z.output<typeof schema>
 
-function onSubmit(payload: FormSubmitEvent<Schema>) {
-    console.log('Submitted', payload)
+const isLoading = ref(false)
+
+async function onSubmit(payload: FormSubmitEvent<Schema>) {
+    isLoading.value = true
+
+    try {
+        const response = await login({
+            email: payload.data.email,
+            password: payload.data.password
+        })
+
+        toast.add({
+            title: 'Connexion réussie',
+            description: `Bienvenue ${response.user.name} !`,
+            color: 'success'
+        })
+    } catch (error: any) {
+        console.error('Erreur de connexion:', error)
+
+        toast.add({
+            title: 'Erreur de connexion',
+            description: error.data?.message || 'Email ou mot de passe incorrect',
+            color: 'error'
+        })
+    } finally {
+        isLoading.value = false
+    }
 }
 </script>
 
@@ -59,6 +89,7 @@ function onSubmit(payload: FormSubmitEvent<Schema>) {
         :fields="fields"
         :schema="schema"
         :providers="providers"
+        :loading="isLoading"
         title="Bon retour parmi nous"
         icon="i-lucide-cross"
         @submit="onSubmit"

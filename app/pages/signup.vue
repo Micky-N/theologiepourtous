@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import * as z from 'zod'
 import type { FormSubmitEvent } from '@nuxt/ui'
+import { useAuth } from '~/composables/useAuth'
 
 definePageMeta({
     layout: 'auth'
@@ -12,22 +13,33 @@ useSeoMeta({
 })
 
 const toast = useToast()
+const { register, isLoggedIn } = useAuth()
+
+// Rediriger si déjà connecté
+watch(isLoggedIn, (value) => {
+    if (value) {
+        navigateTo('/')
+    }
+}, { immediate: true })
 
 const fields = [{
     name: 'name',
     type: 'text' as const,
     label: 'Nom',
-    placeholder: 'Entrez votre nom'
+    placeholder: 'Entrez votre nom complet',
+    required: true
 }, {
     name: 'email',
     type: 'text' as const,
     label: 'Email',
-    placeholder: 'Entrez votre email'
+    placeholder: 'Entrez votre email',
+    required: true
 }, {
     name: 'password',
     label: 'Mot de passe',
     type: 'password' as const,
-    placeholder: 'Entrez votre mot de passe'
+    placeholder: 'Entrez votre mot de passe (min. 6 caractères)',
+    required: true
 }]
 
 const providers = [{
@@ -35,23 +47,61 @@ const providers = [{
     icon: 'i-simple-icons-google',
     onClick: () => {
         toast.add({
-            title: 'Google',
-            description: 'Inscription avec Google',
+            title: 'Prochainement',
+            description: 'Inscription avec Google bientôt disponible',
             color: 'primary'
         })
     }
 }]
 
 const schema = z.object({
-    name: z.string().min(1, 'Le nom est requis'),
-    email: z.string().email('Email invalide'),
-    password: z.string().min(8, 'Doit contenir au moins 8 caractères')
+    name: z.string().min(2, 'Le nom doit contenir au moins 2 caractères'),
+    email: z.string().email('Format email invalide'),
+    password: z.string()
+        .min(6, 'Le mot de passe doit contenir au moins 6 caractères')
+        .regex(/(?=.*[a-z])/, 'Le mot de passe doit contenir au moins une minuscule')
+        .regex(/(?=.*[A-Z])/, 'Le mot de passe doit contenir au moins une majuscule')
+        .regex(/(?=.*\d)/, 'Le mot de passe doit contenir au moins un chiffre')
 })
 
 type Schema = z.output<typeof schema>
 
-function onSubmit(payload: FormSubmitEvent<Schema>) {
-    console.log('Submitted', payload)
+const isLoading = ref(false)
+
+async function onSubmit(payload: FormSubmitEvent<Schema>) {
+    isLoading.value = true
+
+    try {
+        const response = await register({
+            name: payload.data.name,
+            email: payload.data.email,
+            password: payload.data.password
+        })
+
+        toast.add({
+            title: 'Inscription réussie',
+            description: `Bienvenue ${response.user.name} ! Votre compte a été créé avec succès.`,
+            color: 'success'
+        })
+    } catch (error: any) {
+        console.error('Erreur d\'inscription:', error)
+
+        let errorMessage = 'Une erreur s\'est produite lors de l\'inscription'
+
+        if (error.statusCode === 409) {
+            errorMessage = 'Un utilisateur avec cet email existe déjà'
+        } else if (error.data?.message) {
+            errorMessage = error.data.message
+        }
+
+        toast.add({
+            title: 'Erreur d\'inscription',
+            description: errorMessage,
+            color: 'error'
+        })
+    } finally {
+        isLoading.value = false
+    }
 }
 </script>
 
@@ -60,6 +110,7 @@ function onSubmit(payload: FormSubmitEvent<Schema>) {
         :fields="fields"
         :schema="schema"
         :providers="providers"
+        :loading="isLoading"
         title="Créer un compte"
         icon="i-lucide-user-plus"
         :submit="{ label: 'Créer le compte' }"
