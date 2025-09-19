@@ -1,6 +1,6 @@
-import { PrismaClient } from '../app/generated/prisma/index.js'
-import { main as bibleSeederMain } from './seeders/bibleSeeder.ts'
-import { main as userSeederMain } from './seeders/userSeeder.ts'
+import { PrismaClient } from '../app/generated/prisma'
+import { main as bibleSeederMain } from './seeders/bibleSeeder'
+import { main as userSeederMain } from './seeders/userSeeder'
 
 const prisma = new PrismaClient()
 

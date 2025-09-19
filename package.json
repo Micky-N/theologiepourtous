@@ -1,5 +1,5 @@
 {
-    "name": "nuxt-ui-template-saas",
+    "name": "theologiepourtous",
     "private": true,
     "type": "module",
     "scripts": {
@@ -11,9 +11,6 @@
         "lint": "eslint . --fix",
         "typecheck": "nuxt typecheck",
         "check:all": "npm run lint && npm run typecheck"
-    },
-    "prisma": {
-        "seed": "ts-node prisma/seed.ts"
     },
     "dependencies": {
         "@iconify-json/lucide": "^1.2.63",
@@ -30,6 +27,7 @@
         "@vueuse/nuxt": "^13.7.0",
         "bcryptjs": "^3.0.2",
         "better-sqlite3": "^12.2.0",
+        "dotenv": "^17.2.2",
         "jsonwebtoken": "^9.0.2",
         "nuxt": "^4.0.3",
         "nuxt-og-image": "^5.1.9",

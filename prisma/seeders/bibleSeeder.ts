@@ -1,5 +1,5 @@
 import type { PrismaClient } from '../../app/generated/prisma'
-import fs from 'fs'
+import bibles from '../../docs/bibles.json'
 
 // Versions bibliques à ajouter
 const bibleVersions = [
@@ -135,8 +135,7 @@ const bibleBooks = [
 ] as const
 
 // Tous les versets extraits de bibles.json
-const bibles = fs.readFileSync('./docs/bibles.json', 'utf-8')
-const verses = JSON.parse(bibles) as {
+const verses = bibles as {
     bookCode: string
     chapter: number
     verse: number
