@@ -1,5 +1,6 @@
 import prisma from '~~/lib/prisma'
-import type { ReadingStatsResponse, ReadingStats, BibleReadingProgress } from '~/types/models'
+import type { ReadingStats, BibleReadingProgress } from '~/generated/prisma'
+import type { ReadingStatsResponse } from '~/types'
 
 type ProgressWithBook = BibleReadingProgress & {
     book: { name: string, chapterCount: number }

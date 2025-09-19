@@ -263,7 +263,7 @@
 </template>
 
 <script setup lang="ts">
-import type { ReadingStatsResponse } from '~/types/models'
+import type { ReadingStatsResponse } from '~/types'
 
 // Configuration de la page
 definePageMeta({

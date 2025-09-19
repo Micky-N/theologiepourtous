@@ -1,57 +1,231 @@
-import type { ParsedContent } from '@nuxt/content'
-import type { Avatar, Badge, Link } from '#ui/types'
+import type { BibleBook, BibleBookmark, BibleNote, BibleReadingProgress, BibleVerse, BibleVersion, User } from '~/generated/prisma'
 
-// Re-export des types Prisma
-export * from './models'
+// ============================================================================
+// ENUMS
+// ============================================================================
 
-export interface User {
+export enum Testament {
+    OLD = 'OLD',
+    NEW = 'NEW'
+}
+
+// ============================================================================
+// TYPES AVEC RELATIONS
+// ============================================================================
+
+export interface BibleVerseWithRelations extends BibleVerse {
+    version?: BibleVersion
+    book?: BibleBook
+    bookmarks?: BibleBookmark[]
+    notes?: BibleNote[]
+}
+
+export interface BibleBookWithRelations extends BibleBook {
+    verses?: BibleVerse[]
+    bookmarks?: BibleBookmark[]
+    notes?: BibleNote[]
+    readingProgress?: BibleReadingProgress[]
+}
+
+// ============================================================================
+// TYPES UTILITAIRES
+// ============================================================================
+
+export interface JWTPayload {
+    userId: number
+    email?: string
+    iat?: number
+    exp?: number
+}
+
+export interface AuthenticatedUser {
     id: number
-    name: string
     email: string
-    password: string
+    name: string
     role: 'USER' | 'ADMIN'
     createdAt: Date
-    lastLogin?: Date | null
+    lastLogin: Date | null
 }
 
-export type UserWithoutPassword = Omit<User, 'password'>
-
-export interface Course {
-    id: number
-    title: string
-    description: string
-    slug: string
-    difficulty: 'BEGINNER' | 'INTERMEDIATE' | 'ADVANCED'
-    estimatedTime: number
-    imageUrl?: string | null
-    isPublished: boolean
-    createdAt: Date
-    updatedAt: Date
+export interface ChapterReference {
+    book: string
+    chapter: number
 }
 
-export interface Lesson {
-    id: number
-    courseId: number
-    title: string
-    description: string
-    content: string
-    slug: string
-    order: number
-    duration?: number | null
-    isPublished: boolean
-    createdAt: Date
-    updatedAt: Date
+export interface VerseReference extends ChapterReference {
+    verse: number
 }
 
-export interface BlogPost extends ParsedContent {
-    title: string
-    description: string
-    date: string
-    image?: HTMLImageElement
-    badge?: Badge
-    authors?: ({
+export interface ReadingPeriod {
+    startDate: Date
+    endDate: Date
+}
+
+export interface ReadingAverages {
+    readingTimePerDay: number
+    versesPerSession: number
+    averageReadingSpeed: number
+}
+
+// ============================================================================
+// TYPES D'API
+// ============================================================================
+
+export interface ReadingStatsResponse {
+    summary: {
+        totalSessions: number
+        totalReadingTime: number
+        totalVersesRead: number
+        currentStreak: number
+        longestStreak: number
+        averages: ReadingAverages
+    }
+    dailyStats: Array<{
+        date: Date
+        readingTime: number
+        versesRead: number
+        sessions: number
+        chaptersCompleted: number
+    }>
+    bookProgress: Array<{
+        book: string | BibleBook
+        currentChapter: number
+        currentVerse: number
+        completionPercentage: number
+        lastReadAt: Date
+        isCompleted: boolean
+    }>
+    topBooks: Array<{
         name: string
-        description?: string
-        avatar: Avatar
-    } & Link)[]
+        sessions: number
+        totalTime: number
+    }>
+    timePreferences: Record<string, number>
+}
+
+export interface CreateReadingSessionPayload {
+    versionId: number
+    startTime?: Date
+    deviceType?: string
+}
+
+export interface UpdateReadingSessionPayload {
+    endTime?: Date
+    duration?: number
+    chaptersRead?: string[]
+    versesRead?: number
+    isCompleted?: boolean
+}
+
+// ============================================================================
+// TYPES DE COMPARAISON BIBLIQUE
+// ============================================================================
+
+export interface BibleComparison {
+    reference: VerseReference
+    versions: Array<{
+        version: BibleVersion
+        text: string
+    }>
+}
+
+export interface ComparisonRequest {
+    book: string
+    chapter: number
+    verse: number
+    versions: string[]
+}
+
+// ============================================================================
+// TYPES D'AUTHENTIFICATION
+// ============================================================================
+
+export interface LoginRequest {
+    email: string
+    password: string
+}
+
+export interface RegisterRequest {
+    email: string
+    name: string
+    password: string
+}
+
+export interface AuthResponse {
+    user: Omit<User, 'password'>
+    token: string
+    expiresAt: Date
+}
+
+// ============================================================================
+// TYPES DE VALIDATION
+// ============================================================================
+
+export interface ValidationError {
+    field: string
+    message: string
+}
+
+export interface ApiResponse<T = any> {
+    success: boolean
+    data?: T
+    error?: string
+    errors?: ValidationError[]
+}
+
+// ============================================================================
+// TYPES DE RECHERCHE
+// ============================================================================
+
+export interface SearchFilters {
+    query?: string
+    book?: string
+    testament?: Testament
+    version?: string
+    limit?: number
+    offset?: number
+}
+
+export interface SearchResult {
+    verse: BibleVerseWithRelations
+    relevanceScore: number
+    context: {
+        previousVerse?: BibleVerse
+        nextVerse?: BibleVerse
+    }
+}
+
+// ============================================================================
+// TYPES DE PRÉFÉRENCES
+// ============================================================================
+
+export interface ReadingPreferences {
+    defaultVersion: string
+    showVerseNumbers: boolean
+    fontSize: 'small' | 'medium' | 'large'
+    theme: 'light' | 'dark' | 'sepia'
+    dailyReadingGoal: number
+    notifications: {
+        enabled: boolean
+        reminderTime?: string
+        frequency: 'daily' | 'weekly' | 'none'
+    }
+}
+
+// ============================================================================
+// TYPES D'EXPORT/IMPORT
+// ============================================================================
+
+export interface ExportOptions {
+    format: 'json' | 'csv' | 'pdf'
+    includeNotes: boolean
+    includeBookmarks: boolean
+    includeStats: boolean
+    dateRange?: ReadingPeriod
+}
+
+export interface ImportData {
+    bookmarks?: Omit<BibleBookmark, 'id' | 'userId' | 'createdAt' | 'updatedAt'>[]
+    notes?: Omit<BibleNote, 'id' | 'userId' | 'createdAt' | 'updatedAt'>[]
+    preferences?: Partial<ReadingPreferences>
 }

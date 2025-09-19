@@ -1,22 +1,8 @@
 import jwt from 'jsonwebtoken'
 import bcrypt from 'bcryptjs'
+import type { JWTPayload } from '~/types'
 
 const JWT_SECRET = process.env.JWT_SECRET || 'your-super-secret-jwt-key-change-in-production'
-
-// Types pour l'authentification
-export interface JWTPayload {
-    userId: number
-    email?: string
-    iat?: number
-    exp?: number
-}
-
-export interface AuthenticatedUser {
-    id: number
-    email: string
-    name: string
-    role: 'USER' | 'ADMIN'
-}
 
 /**
  * Génère un token JWT pour un utilisateur

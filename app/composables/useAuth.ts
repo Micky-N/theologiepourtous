@@ -1,8 +1,8 @@
-import type { UserWithoutPassword } from '../types'
+import type { AuthenticatedUser } from '~/types'
 
 export const useAuth = () => {
     // État global de l'utilisateur
-    const user = useState<UserWithoutPassword | null>('auth.user', () => null)
+    const user = useState<AuthenticatedUser | null>('auth.user', () => null)
     const isLoggedIn = computed(() => !!user.value)
 
     // Inscription
@@ -15,7 +15,7 @@ export const useAuth = () => {
             const response = await $fetch<{
                 success: boolean
                 message: string
-                user: UserWithoutPassword
+                user: AuthenticatedUser
             }>('/api/auth/register', {
                 method: 'POST',
                 body: data
@@ -42,7 +42,7 @@ export const useAuth = () => {
             const response = await $fetch<{
                 success: boolean
                 message: string
-                user: UserWithoutPassword
+                user: AuthenticatedUser
             }>('/api/auth/login', {
                 method: 'POST',
                 body: data
@@ -82,7 +82,7 @@ export const useAuth = () => {
         try {
             const response = await $fetch<{
                 success: boolean
-                user: UserWithoutPassword
+                user: AuthenticatedUser
             }>('/api/auth/me')
 
             if (response.success) {

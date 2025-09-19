@@ -1,12 +1,11 @@
+import type { BibleVersion, ReadingSession } from '~/generated/prisma'
 import type {
     ReadingStatsResponse,
     CreateReadingSessionPayload,
     UpdateReadingSessionPayload,
-    ReadingSession,
-    BibleVersion,
     ComparisonRequest,
     BibleComparison
-} from '~/types/models'
+} from '~/types'
 
 /**
  * Composable pour gérer les statistiques de lecture

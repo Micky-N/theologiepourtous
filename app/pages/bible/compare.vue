@@ -164,11 +164,7 @@
 </template>
 
 <script setup lang="ts">
-import type {
-    BibleVersion,
-    BibleBook,
-    BibleVerse
-} from '~/types/models'
+import type { BibleBook, BibleVerse, BibleVersion } from '~/generated/prisma'
 
 // Types locaux simplifiés
 interface SimpleComparison {

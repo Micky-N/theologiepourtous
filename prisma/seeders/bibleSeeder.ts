@@ -1,5 +1,5 @@
 import type { PrismaClient } from '../../app/generated/prisma'
-import bibles from '../../docs/bibles.json'
+import fs from 'fs'
 
 // Versions bibliques à ajouter
 const bibleVersions = [
@@ -135,7 +135,8 @@ const bibleBooks = [
 ] as const
 
 // Quelques versets d'exemple pour commencer
-const sampleVerses = bibles as {
+const bibles = fs.readFileSync('./docs/bibles.json', 'utf-8')
+const verses = JSON.parse(bibles) as {
     bookCode: string
     chapter: number
     verse: number
@@ -170,16 +171,16 @@ export async function main(prismaClient: PrismaClient) {
     }
 
     // 3. Ajouter quelques versets d'exemple
-    console.log('📝 Creating sample verses...')
+    console.log('📝 Creating verses...')
     const versions = await prismaClient.bibleVersion.findMany()
     const books = await prismaClient.bibleBook.findMany()
 
-    for (const sampleVerse of sampleVerses) {
-        const book = books.find(b => b.code === sampleVerse.bookCode)
+    for (const verse of verses) {
+        const book = books.find(b => b.code === verse.bookCode)
         if (!book) continue
 
         for (const version of versions) {
-            const text = sampleVerse.texts[version.code as keyof typeof sampleVerse.texts]
+            const text = verse.texts[version.code as keyof typeof verse.texts]
             if (!text) continue
 
             await prismaClient.bibleVerse.upsert({
@@ -187,26 +188,26 @@ export async function main(prismaClient: PrismaClient) {
                     versionId_bookId_chapter_verse: {
                         versionId: version.id,
                         bookId: book.id,
-                        chapter: sampleVerse.chapter,
-                        verse: sampleVerse.verse
+                        chapter: verse.chapter,
+                        verse: verse.verse
                     }
                 },
                 update: {},
                 create: {
                     versionId: version.id,
                     bookId: book.id,
-                    chapter: sampleVerse.chapter,
-                    verse: sampleVerse.verse,
+                    chapter: verse.chapter,
+                    verse: verse.verse,
                     text: text
                 }
             })
         }
 
-        console.log(`  ✓ ${sampleVerse.bookCode} ${sampleVerse.chapter}:${sampleVerse.verse}`)
+        console.log(`  ✓ ${verse.bookCode} ${verse.chapter}:${verse.verse}`)
     }
 
     console.log('\n✅ Bible seeding completed!')
     console.log(`   📖 ${bibleVersions.length} versions created`)
     console.log(`   📚 ${bibleBooks.length} books created`)
-    console.log(`   📝 ${sampleVerses.length * versions.length} sample verses created`)
+    console.log(`   📝 ${verses.length * versions.length} verses created`)
 }

@@ -37,6 +37,7 @@
     },
     "devDependencies": {
         "@nuxt/eslint": "^1.9.0",
+        "@types/node": "^24.5.2",
         "eslint": "^9.34.0",
         "prisma": "^6.16.2",
         "ts-node": "^10.9.2",
