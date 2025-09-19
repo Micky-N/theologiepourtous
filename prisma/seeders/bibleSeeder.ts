@@ -134,7 +134,7 @@ const bibleBooks = [
     { code: 'REV', name: 'Apocalypse', testament: 'NEW', orderIndex: 66, chapterCount: 22 }
 ] as const
 
-// Quelques versets d'exemple pour commencer
+// Tous les versets extraits de bibles.json
 const bibles = fs.readFileSync('./docs/bibles.json', 'utf-8')
 const verses = JSON.parse(bibles) as {
     bookCode: string

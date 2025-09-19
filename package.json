@@ -13,7 +13,7 @@
         "check:all": "npm run lint && npm run typecheck"
     },
     "prisma": {
-        "seed": "tsx prisma/seed.ts"
+        "seed": "ts-node prisma/seed.ts"
     },
     "dependencies": {
         "@iconify-json/lucide": "^1.2.63",
