@@ -1,8 +1,6 @@
-import { PrismaClient } from '~/generated/prisma'
+import { prisma } from '~~/lib/prisma'
 import { requireAuth } from '../../utils/auth'
 import { z } from 'zod'
-
-const prisma = new PrismaClient()
 
 // Schéma de validation
 const createBookmarkSchema = z.object({

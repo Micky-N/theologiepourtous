@@ -1,7 +1,5 @@
-import { PrismaClient } from '~/generated/prisma'
 import { z } from 'zod'
-
-const prisma = new PrismaClient()
+import { prisma } from '~~/lib/prisma'
 
 // Schéma de validation pour la requête de comparaison
 const compareSchema = z.object({

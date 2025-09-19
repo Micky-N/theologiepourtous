@@ -54,7 +54,7 @@ export default defineEventHandler(async (event): Promise<ReadingStatsResponse> =
                 sessionsCount: true,
                 chaptersCompleted: true
             }
-        })
+        }) as ReadingStats[]
 
         // Progression par livre basique
         const bookProgress = await prisma.bibleReadingProgress.findMany({
@@ -65,7 +65,7 @@ export default defineEventHandler(async (event): Promise<ReadingStatsResponse> =
             include: { book: true },
             orderBy: { lastReadAt: 'desc' },
             take: 5
-        })
+        }) as ProgressWithBook[]
 
         return {
             summary: {

@@ -12,6 +12,9 @@
         "typecheck": "nuxt typecheck",
         "check:all": "npm run lint && npm run typecheck"
     },
+    "prisma": {
+        "seed": "ts-node prisma/seed.ts"
+    },
     "dependencies": {
         "@iconify-json/lucide": "^1.2.63",
         "@iconify-json/simple-icons": "^1.2.48",
@@ -19,6 +22,7 @@
         "@nuxt/image": "^1.11.0",
         "@nuxt/ui": "^4.0.0-alpha.1",
         "@prisma/adapter-mariadb": "^6.16.2",
+        "@prisma/client": "^6.16.2",
         "@prisma/nuxt": "^0.3.0",
         "@standard-schema/spec": "^1.0.0",
         "@types/bcryptjs": "^2.4.6",
@@ -34,6 +38,8 @@
     "devDependencies": {
         "@nuxt/eslint": "^1.9.0",
         "eslint": "^9.34.0",
+        "prisma": "^6.16.2",
+        "ts-node": "^10.9.2",
         "typescript": "^5.9.2",
         "vue-tsc": "^3.0.6"
     },

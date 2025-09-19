@@ -1,8 +1,6 @@
-import { PrismaClient } from '@prisma/client'
-import { verifyPassword, generateJWT, isValidEmail } from '../../../server/utils/auth'
+import { prisma } from '~~/lib/prisma'
+import { verifyPassword, generateJWT, isValidEmail } from '~~/server/utils/auth'
 import { z } from 'zod'
-
-const prisma = new PrismaClient()
 
 // Schéma de validation pour la connexion
 const loginSchema = z.object({

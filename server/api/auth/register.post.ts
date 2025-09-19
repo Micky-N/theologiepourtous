@@ -1,8 +1,6 @@
-import { PrismaClient } from '@prisma/client'
+import { prisma } from '~~/lib/prisma'
 import { hashPassword, generateJWT, isValidEmail, isValidPassword } from '../../../server/utils/auth'
 import { z } from 'zod'
-
-const prisma = new PrismaClient()
 
 // Schéma de validation pour l'inscription
 const registerSchema = z.object({
