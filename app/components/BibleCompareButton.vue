@@ -1,5 +1,5 @@
 <template>
-    <div class="compare-action">
+    <div class="inline-block">
         <UButton
             icon="i-lucide-git-compare"
             label="Comparer les versions"
@@ -38,9 +38,9 @@
                                 class="flex items-center space-x-2"
                             >
                                 <UCheckbox
-                                    v-model="selectedVersions"
-                                    :value="version.id"
+                                    :model-value="selectedVersions.includes(version.id)"
                                     :disabled="selectedVersions.length >= 6 && !selectedVersions.includes(version.id)"
+                                    @update:model-value="toggleVersion(version.id)"
                                 />
                                 <div class="flex-1">
                                     <div class="text-sm font-medium text-gray-900 dark:text-white">
@@ -77,7 +77,23 @@
     </div>
 </template>
 
-<script setup>
+<script setup lang="ts">
+// Types
+interface BibleVersion {
+    id: number
+    code: string
+    name: string
+    description: string | null
+    language: string
+    year: number | null
+}
+
+interface ApiResponse {
+    data: BibleVersion[]
+    success: boolean
+    count: number
+}
+
 const props = defineProps({
     bookCode: {
         type: String,
@@ -104,8 +120,8 @@ const props = defineProps({
 // État local
 const showModal = ref(false)
 const loading = ref(false)
-const selectedVersions = ref([])
-const availableVersions = ref([])
+const selectedVersions = ref<number[]>([])
+const availableVersions = ref<BibleVersion[]>([])
 
 // Lifecycle
 onMounted(() => {
@@ -113,14 +129,23 @@ onMounted(() => {
 })
 
 // Méthodes
+const toggleVersion = (versionId: number) => {
+    const index = selectedVersions.value.indexOf(versionId)
+    if (index > -1) {
+        selectedVersions.value.splice(index, 1)
+    } else if (selectedVersions.value.length < 6) {
+        selectedVersions.value.push(versionId)
+    }
+}
+
 const startComparison = () => {
     showModal.value = true
 }
 
 const loadVersions = async () => {
     try {
-        const response = await $fetch('/api/bible/versions')
-        availableVersions.value = response
+        const response = await $fetch<ApiResponse>('/api/bible/versions')
+        availableVersions.value = response.data
 
         // Pré-sélectionner des versions populaires
         const defaultVersions = availableVersions.value
@@ -164,9 +189,3 @@ const performComparison = async () => {
     }
 }
 </script>
-
-<style scoped>
-.compare-action {
-    display: inline-block;
-}
-</style>
