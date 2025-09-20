@@ -47,20 +47,6 @@ const selectedVersions = ref<number[]>([])
 const booksOptions = ref<BibleBook[]>([])
 const activeComparison = ref<ActiveComparison | null>(null)
 
-const comparisonTocLinks = computed(() => {
-    if (!activeComparison.value) return []
-    const { verseRange } = activeComparison.value
-    const links = []
-    for (let i = verseRange.start; i <= verseRange.end; i++) {
-        links.push({
-            id: `verse-${i}`,
-            text: `Verset ${i}`,
-            depth: 2
-        })
-    }
-    return links
-})
-
 // Computed
 const selectedBookData = computed(() =>
     booksOptions.value.find(book => book.id === selectedBook.value)
@@ -90,8 +76,7 @@ onMounted(async () => {
     // Pré-sélectionner des versions populaires
     if (availableVersions.value.length > 0) {
         const defaultVersions = availableVersions.value
-            .filter((v: BibleVersion) => ['LSG', 'S21', 'NBS'].includes(v.code))
-            .slice(0, 2)
+            .filter((v: BibleVersion) => ['LSG', 'S21'].includes(v.code))
             .map((v: BibleVersion) => v.id)
 
         if (defaultVersions.length >= 2) {
@@ -247,7 +232,7 @@ const handleAddNote = (verse: BibleVerse) => {
                                     <UButton
                                         v-for="version in availableVersionsForAdd"
                                         :key="version.id"
-                                        size="xs"
+                                        size="sm"
                                         color="secondary"
                                         variant="soft"
                                         class="w-full justify-start"
@@ -288,7 +273,6 @@ const handleAddNote = (verse: BibleVerse) => {
                 <UPageBody>
                     <UCard
                         v-if="!activeComparison"
-                        class="max-w-2xl mx-auto"
                     >
                         <template #header>
                             <h3 class="text-lg font-medium">
@@ -311,6 +295,7 @@ const handleAddNote = (verse: BibleVerse) => {
                                         placeholder="Sélectionner un livre"
                                         searchable
                                         search-placeholder="Rechercher un livre..."
+                                        class="max-w-52 w-full"
                                     />
                                 </UFormField>
 
@@ -322,6 +307,7 @@ const handleAddNote = (verse: BibleVerse) => {
                                         :max="selectedBookData?.chapterCount || 150"
                                         placeholder="Numéro de chapitre"
                                         :disabled="!selectedBook"
+                                        class="max-w-52 w-full"
                                     />
                                 </UFormField>
                             </div>
@@ -334,6 +320,7 @@ const handleAddNote = (verse: BibleVerse) => {
                                         min="1"
                                         placeholder="1"
                                         :disabled="!selectedBook || !selectedChapter"
+                                        class="max-w-52 w-full"
                                     />
                                 </UFormField>
 
@@ -344,6 +331,7 @@ const handleAddNote = (verse: BibleVerse) => {
                                         :min="startVerse || 1"
                                         placeholder="Même verset"
                                         :disabled="!selectedBook || !selectedChapter"
+                                        class="max-w-52 w-full"
                                     />
                                 </UFormField>
                             </div>
@@ -418,15 +406,6 @@ const handleAddNote = (verse: BibleVerse) => {
                         />
                     </div>
                 </UPageBody>
-            </template>
-
-            <template #right>
-                <template v-if="activeComparison">
-                    <UContentToc
-                        :links="comparisonTocLinks"
-                        class="sticky top-4"
-                    />
-                </template>
             </template>
         </UPage>
     </div>
