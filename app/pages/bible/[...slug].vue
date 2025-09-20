@@ -16,6 +16,10 @@ const { data: surround } = await useAsyncData(`${route.path}-surround`, () => {
     })
 })
 
+const { data: navigation } = useAsyncData('navigation', () => queryCollectionNavigation('bible'), {
+    transform: data => data.find(item => item.path === '/bible')?.children || []
+})
+
 const title = page.value.seo?.title || page.value.title
 const description = page.value.seo?.description || page.value.description
 
@@ -31,6 +35,18 @@ defineOgImageComponent('Saas')
 
 <template>
     <UPage v-if="page">
+        <template #left>
+            <UPageAside>
+                <template #top>
+                    <UContentSearchButton :collapsed="false" />
+                </template>
+
+                <UContentNavigation
+                    :navigation="navigation"
+                    highlight
+                />
+            </UPageAside>
+        </template>
         <UPageHeader
             :title="page.title"
             :description="page.description"
