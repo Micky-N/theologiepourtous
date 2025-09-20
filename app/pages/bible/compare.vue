@@ -1,168 +1,3 @@
-<template>
-    <div class="min-h-screen">
-        <!-- Navigation de retour -->
-        <div class="bg-white dark:bg-gray-900 border-b border-gray-200 dark:border-gray-700">
-            <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-                <div class="flex items-center justify-between h-16">
-                    <div class="flex items-center">
-                        <NuxtLink
-                            to="/bible"
-                            class="flex items-center gap-2 text-gray-600 dark:text-gray-300 hover:text-gray-900 dark:hover:text-white"
-                        >
-                            <UIcon
-                                name="i-lucide-arrow-left"
-                                class="w-4 h-4"
-                            />
-                            Retour à la Bible
-                        </NuxtLink>
-                    </div>
-                    <h1 class="text-lg font-semibold text-gray-900 dark:text-white">
-                        Comparaison de versions
-                    </h1>
-                    <div />
-                </div>
-            </div>
-        </div>
-
-        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
-            <!-- Sélecteur de passage si aucune comparaison n'est active -->
-            <div
-                v-if="!activeComparison"
-                class="max-w-2xl mx-auto"
-            >
-                <UCard>
-                    <template #header>
-                        <h2 class="text-xl font-bold text-gray-900 dark:text-white">
-                            Sélectionner un passage à comparer
-                        </h2>
-                        <p class="text-gray-600 dark:text-gray-400 mt-1">
-                            Choisissez le livre, chapitre et versets à comparer entre différentes versions
-                        </p>
-                    </template>
-
-                    <form
-                        class="space-y-6"
-                        @submit.prevent="startComparison"
-                    >
-                        <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
-                            <UFormField label="Livre">
-                                <USelectMenu
-                                    v-model="selectedBook"
-                                    :items="booksOptions"
-                                    value-key="id"
-                                    label-key="name"
-                                    :loading="loadingBooks"
-                                    placeholder="Sélectionner un livre"
-                                />
-                            </UFormField>
-
-                            <UFormField label="Chapitre">
-                                <UInput
-                                    v-model.number="selectedChapter"
-                                    type="number"
-                                    min="1"
-                                    :max="selectedBookData?.chapterCount || 150"
-                                    placeholder="Numéro de chapitre"
-                                    :disabled="!selectedBook"
-                                />
-                            </UFormField>
-                        </div>
-
-                        <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
-                            <UFormField label="Verset de début">
-                                <UInput
-                                    v-model.number="startVerse"
-                                    type="number"
-                                    min="1"
-                                    placeholder="1"
-                                    :disabled="!selectedBook || !selectedChapter"
-                                />
-                            </UFormField>
-
-                            <UFormField label="Verset de fin (optionnel)">
-                                <UInput
-                                    v-model.number="endVerse"
-                                    type="number"
-                                    :min="startVerse || 1"
-                                    placeholder="Même verset"
-                                    :disabled="!selectedBook || !selectedChapter"
-                                />
-                            </UFormField>
-                        </div>
-
-                        <UFormField label="Versions à comparer (sélectionnez 2 à 6 versions)">
-                            <div class="grid grid-cols-1 md:grid-cols-2 gap-3">
-                                <div
-                                    v-for="version in availableVersions"
-                                    :key="version.id"
-                                    class="flex items-center space-x-2"
-                                >
-                                    <UCheckbox
-                                        :model-value="selectedVersions.includes(version.id)"
-                                        :disabled="selectedVersions.length >= 6 && !selectedVersions.includes(version.id)"
-                                        @update:model-value="(checked: boolean | 'indeterminate') => toggleVersion(version.id, checked)"
-                                    />
-                                    <div class="flex-1">
-                                        <div class="text-sm font-medium text-gray-900 dark:text-white">
-                                            {{ version.name }}
-                                        </div>
-                                        <div class="text-xs text-gray-500 dark:text-gray-400">
-                                            {{ version.code }} • {{ version.language }}
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="mt-2 text-xs text-gray-500">
-                                {{ selectedVersions.length }} version(s) sélectionnée(s)
-                                (minimum 2, maximum 6)
-                            </div>
-                        </UFormField>
-
-                        <div class="flex justify-end">
-                            <UButton
-                                type="submit"
-                                :loading="loadingComparison"
-                                :disabled="!canStartComparison"
-                                size="lg"
-                            >
-                                Démarrer la comparaison
-                            </UButton>
-                        </div>
-                    </form>
-                </UCard>
-            </div>
-
-            <!-- Composant de comparaison -->
-            <div
-                v-else
-                class="w-full"
-            >
-                <BibleComparison
-                    :book="activeComparison.book"
-                    :chapter="activeComparison.chapter"
-                    :verse-range="activeComparison.verseRange"
-                    :comparisons="activeComparison.comparisons"
-                    :available-versions="availableVersionsForAdd"
-                    @close="closeComparison"
-                    @add-version="handleAddVersion"
-                    @remove-version="handleRemoveVersion"
-                    @add-bookmark="handleAddBookmark"
-                    @add-note="handleAddNote"
-                />
-            </div>
-
-            <!-- Message d'erreur -->
-            <UAlert
-                v-if="error"
-                color="error"
-                variant="soft"
-                class="mt-4"
-                :title="error"
-            />
-        </div>
-    </div>
-</template>
-
 <script setup lang="ts">
 import type { BibleBook, BibleVerse, BibleVersion } from '@prisma/client'
 
@@ -187,10 +22,10 @@ definePageMeta({
 })
 
 useSeoMeta({
-    title: '',
-    ogTitle: '',
-    description: '',
-    ogDescription: ''
+    title: 'Comparaison de versions bibliques',
+    ogTitle: 'Comparaison de versions bibliques',
+    description: 'Comparez différentes versions de la Bible',
+    ogDescription: 'Comparez différentes versions de la Bible'
 })
 
 // Variables temporaires pour remplacer les composables
@@ -209,8 +44,22 @@ const endVerse = ref<number | null>(null)
 const selectedVersions = ref<number[]>([])
 
 // Données
-const booksOptions = ref<(BibleBook)[]>([])
+const booksOptions = ref<BibleBook[]>([])
 const activeComparison = ref<ActiveComparison | null>(null)
+
+const comparisonTocLinks = computed(() => {
+    if (!activeComparison.value) return []
+    const { verseRange } = activeComparison.value
+    const links = []
+    for (let i = verseRange.start; i <= verseRange.end; i++) {
+        links.push({
+            id: `verse-${i}`,
+            text: `Verset ${i}`,
+            depth: 2
+        })
+    }
+    return links
+})
 
 // Computed
 const selectedBookData = computed(() =>
@@ -370,3 +219,215 @@ const handleAddNote = (verse: BibleVerse) => {
     console.log('Ajouter une note:', verse)
 }
 </script>
+
+<template>
+    <div>
+        <UPage>
+            <template #left>
+                <UPageAside>
+                    <template #top>
+                        <UButton
+                            to="/bible"
+                            color="secondary"
+                            variant="ghost"
+                            class="w-full justify-start mb-4"
+                        >
+                            <template #leading>
+                                <UIcon name="i-lucide-arrow-left" />
+                            </template>
+                            Retour à la Bible
+                        </UButton>
+
+                        <template v-if="activeComparison">
+                            <div class="border-t dark:border-gray-800 pt-4">
+                                <p class="text-sm font-medium text-gray-700 dark:text-gray-300 mb-2">
+                                    Versions disponibles
+                                </p>
+                                <div class="space-y-1">
+                                    <UButton
+                                        v-for="version in availableVersionsForAdd"
+                                        :key="version.id"
+                                        size="xs"
+                                        color="secondary"
+                                        variant="soft"
+                                        class="w-full justify-start"
+                                        @click="handleAddVersion(version)"
+                                    >
+                                        <div class="truncate">
+                                            <span class="font-medium">{{ version.name }}</span>
+                                            <span class="text-xs text-gray-500 dark:text-gray-400 ml-1">({{ version.code }})</span>
+                                        </div>
+                                    </UButton>
+                                </div>
+                            </div>
+                        </template>
+                    </template>
+                </UPageAside>
+            </template>
+
+            <template #default>
+                <UPageHeader
+                    title="Comparaison de versions bibliques"
+                    description="Comparez différentes versions de la Bible sur un même passage."
+                >
+                    <template
+                        v-if="activeComparison"
+                        #right
+                    >
+                        <UButton
+                            color="secondary"
+                            variant="ghost"
+                            icon="i-lucide-x"
+                            @click="closeComparison"
+                        >
+                            Fermer
+                        </UButton>
+                    </template>
+                </UPageHeader>
+
+                <UPageBody>
+                    <UCard
+                        v-if="!activeComparison"
+                        class="max-w-2xl mx-auto"
+                    >
+                        <template #header>
+                            <h3 class="text-lg font-medium">
+                                Sélectionner le passage à comparer
+                            </h3>
+                        </template>
+
+                        <form
+                            class="space-y-6"
+                            @submit.prevent="startComparison"
+                        >
+                            <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+                                <UFormField label="Livre">
+                                    <USelectMenu
+                                        v-model="selectedBook"
+                                        :items="booksOptions"
+                                        :loading="loadingBooks"
+                                        label-key="name"
+                                        value-key="id"
+                                        placeholder="Sélectionner un livre"
+                                        searchable
+                                        search-placeholder="Rechercher un livre..."
+                                    />
+                                </UFormField>
+
+                                <UFormField label="Chapitre">
+                                    <UInput
+                                        v-model.number="selectedChapter"
+                                        type="number"
+                                        min="1"
+                                        :max="selectedBookData?.chapterCount || 150"
+                                        placeholder="Numéro de chapitre"
+                                        :disabled="!selectedBook"
+                                    />
+                                </UFormField>
+                            </div>
+
+                            <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+                                <UFormField label="Verset de début">
+                                    <UInput
+                                        v-model.number="startVerse"
+                                        type="number"
+                                        min="1"
+                                        placeholder="1"
+                                        :disabled="!selectedBook || !selectedChapter"
+                                    />
+                                </UFormField>
+
+                                <UFormField label="Verset de fin (optionnel)">
+                                    <UInput
+                                        v-model.number="endVerse"
+                                        type="number"
+                                        :min="startVerse || 1"
+                                        placeholder="Même verset"
+                                        :disabled="!selectedBook || !selectedChapter"
+                                    />
+                                </UFormField>
+                            </div>
+
+                            <UFormField
+                                label="Versions à comparer"
+                                required
+                                :description="`${selectedVersions.length} version(s) sélectionnée(s) (minimum 2, maximum 6)`"
+                            >
+                                <div class="grid grid-cols-1 md:grid-cols-2 gap-3">
+                                    <div
+                                        v-for="version in availableVersions"
+                                        :key="version.id"
+                                        :class="[
+                                            'p-3 rounded-lg border transition-colors cursor-pointer',
+                                            selectedVersions.includes(version.id)
+                                                ? 'bg-primary-50 dark:bg-primary-950 border-primary-200 dark:border-primary-800'
+                                                : 'bg-gray-50 dark:bg-gray-900 border-gray-200 dark:border-gray-800 hover:bg-gray-100 dark:hover:bg-gray-800'
+                                        ]"
+                                        @click="toggleVersion(version.id, !selectedVersions.includes(version.id))"
+                                    >
+                                        <div class="flex items-center gap-3">
+                                            <UCheckbox
+                                                :model-value="selectedVersions.includes(version.id)"
+                                                :disabled="selectedVersions.length >= 6 && !selectedVersions.includes(version.id)"
+                                            />
+                                            <div>
+                                                <div class="font-medium text-gray-900 dark:text-white">
+                                                    {{ version.name }}
+                                                </div>
+                                                <div class="text-xs text-gray-500 dark:text-gray-400">
+                                                    {{ version.code }} • {{ version.language }}
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </UFormField>
+
+                            <div class="flex items-center justify-between pt-4">
+                                <UButton
+                                    to="/bible"
+                                    variant="ghost"
+                                    color="secondary"
+                                >
+                                    Annuler
+                                </UButton>
+                                <UButton
+                                    type="submit"
+                                    :loading="loadingComparison"
+                                    :disabled="!canStartComparison"
+                                    color="primary"
+                                >
+                                    Démarrer la comparaison
+                                </UButton>
+                            </div>
+                        </form>
+                    </UCard>
+
+                    <div v-else>
+                        <BibleComparison
+                            :book="activeComparison.book"
+                            :chapter="activeComparison.chapter"
+                            :verse-range="activeComparison.verseRange"
+                            :comparisons="activeComparison.comparisons"
+                            :available-versions="availableVersionsForAdd"
+                            @close="closeComparison"
+                            @add-version="handleAddVersion"
+                            @remove-version="handleRemoveVersion"
+                            @add-bookmark="handleAddBookmark"
+                            @add-note="handleAddNote"
+                        />
+                    </div>
+                </UPageBody>
+            </template>
+
+            <template #right>
+                <template v-if="activeComparison">
+                    <UContentToc
+                        :links="comparisonTocLinks"
+                        class="sticky top-4"
+                    />
+                </template>
+            </template>
+        </UPage>
+    </div>
+</template>
