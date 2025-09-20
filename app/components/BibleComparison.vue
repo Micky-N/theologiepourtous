@@ -38,23 +38,23 @@
                     Options d'affichage
                 </h3>
                 <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
-                    <UFormGroup label="Layout">
+                    <UFormField label="Layout">
                         <USelectMenu
                             v-model="layoutMode"
-                            :options="layoutOptions"
-                            option-attribute="label"
-                            value-attribute="value"
+                            :items="layoutOptions"
+                            label-key="label"
+                            value-key="value"
                         />
-                    </UFormGroup>
+                    </UFormField>
 
-                    <UFormGroup label="Taille du texte">
+                    <UFormField label="Taille du texte">
                         <USelectMenu
                             v-model="fontSize"
-                            :options="fontSizeOptions"
-                            option-attribute="label"
-                            value-attribute="value"
+                            :items="fontSizeOptions"
+                            label-key="label"
+                            value-key="value"
                         />
-                    </UFormGroup>
+                    </UFormField>
 
                     <div class="flex items-center gap-2 pt-6">
                         <UCheckbox
@@ -101,9 +101,6 @@
                                 @click="removeVersion(comparison.version.id)"
                             />
                         </div>
-                        <p class="text-xs text-gray-600 dark:text-gray-300 mt-1">
-                            {{ comparison.version.description }}
-                        </p>
                     </div>
 
                     <!-- Versets -->
@@ -206,11 +203,12 @@
         </UCard>
 
         <!-- Sélecteur de version -->
-        <UModal v-model="showVersionSelector">
-            <div class="p-6">
-                <h3 class="text-lg font-semibold mb-4">
-                    Ajouter une version
-                </h3>
+        <UModal
+            v-model:open="showVersionSelector"
+            title="Ajouter une version"
+            description="Sélectionnez une version à ajouter à la comparaison"
+        >
+            <template #body>
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
                     <div
                         v-for="version in availableVersions"
@@ -224,44 +222,22 @@
                         <div class="text-sm text-gray-500">
                             {{ version.code }} • {{ version.language }}
                         </div>
-                        <div class="text-xs text-gray-400 mt-1">
-                            {{ version.description }}
-                        </div>
                     </div>
                 </div>
-                <div class="flex justify-end mt-4 gap-2">
-                    <UButton
-                        label="Annuler"
-                        variant="ghost"
-                        @click="showVersionSelector = false"
-                    />
-                </div>
-            </div>
+            </template>
+            <template #footer>
+                <UButton
+                    label="Annuler"
+                    variant="ghost"
+                    @click="showVersionSelector = false"
+                />
+            </template>
         </UModal>
     </div>
 </template>
 
 <script setup lang="ts">
-interface BibleVerse {
-    id: number
-    chapter: number
-    verse: number
-    text: string
-}
-
-interface BibleVersion {
-    id: number
-    code: string
-    name: string
-    language: string
-    description?: string
-}
-
-interface BibleBook {
-    id: number
-    code: string
-    name: string
-}
+import type { BibleBook, BibleVerse, BibleVersion } from '@prisma/client'
 
 interface Comparison {
     version: BibleVersion
@@ -368,6 +344,7 @@ const exportComparison = () => {
 </script>
 
 <style scoped>
+@reference '~/assets/css/main.css';
 .comparison-grid {
     display: grid;
 }
@@ -379,7 +356,7 @@ const exportComparison = () => {
 .comparison-horizontal .version-column {
     margin-bottom: 2rem;
     padding-bottom: 2rem;
-    border-bottom: 1px solid theme('colors.gray.200');
+    border-bottom: 1px solid var(--color-gray-200);
 }
 
 .comparison-horizontal .version-column:last-child {
@@ -387,7 +364,7 @@ const exportComparison = () => {
 }
 
 .verse-item {
-    @apply group p-3 rounded-lg hover:bg-gray-50 dark:hover:bg-gray-800/50 transition-colors;
+    @apply p-3 rounded-lg hover:bg-gray-50 dark:hover:bg-gray-800/50 transition-colors;
 }
 
 .version-column {

@@ -45,18 +45,18 @@
                         @submit.prevent="startComparison"
                     >
                         <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
-                            <UFormGroup label="Livre">
+                            <UFormField label="Livre">
                                 <USelectMenu
                                     v-model="selectedBook"
-                                    :options="booksOptions"
-                                    option-attribute="name"
-                                    value-attribute="id"
+                                    :items="booksOptions"
+                                    value-key="id"
+                                    label-key="name"
                                     :loading="loadingBooks"
                                     placeholder="Sélectionner un livre"
                                 />
-                            </UFormGroup>
+                            </UFormField>
 
-                            <UFormGroup label="Chapitre">
+                            <UFormField label="Chapitre">
                                 <UInput
                                     v-model.number="selectedChapter"
                                     type="number"
@@ -65,11 +65,11 @@
                                     placeholder="Numéro de chapitre"
                                     :disabled="!selectedBook"
                                 />
-                            </UFormGroup>
+                            </UFormField>
                         </div>
 
                         <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
-                            <UFormGroup label="Verset de début">
+                            <UFormField label="Verset de début">
                                 <UInput
                                     v-model.number="startVerse"
                                     type="number"
@@ -77,9 +77,9 @@
                                     placeholder="1"
                                     :disabled="!selectedBook || !selectedChapter"
                                 />
-                            </UFormGroup>
+                            </UFormField>
 
-                            <UFormGroup label="Verset de fin (optionnel)">
+                            <UFormField label="Verset de fin (optionnel)">
                                 <UInput
                                     v-model.number="endVerse"
                                     type="number"
@@ -87,10 +87,10 @@
                                     placeholder="Même verset"
                                     :disabled="!selectedBook || !selectedChapter"
                                 />
-                            </UFormGroup>
+                            </UFormField>
                         </div>
 
-                        <UFormGroup label="Versions à comparer (sélectionnez 2 à 6 versions)">
+                        <UFormField label="Versions à comparer (sélectionnez 2 à 6 versions)">
                             <div class="grid grid-cols-1 md:grid-cols-2 gap-3">
                                 <div
                                     v-for="version in availableVersions"
@@ -116,7 +116,7 @@
                                 {{ selectedVersions.length }} version(s) sélectionnée(s)
                                 (minimum 2, maximum 6)
                             </div>
-                        </UFormGroup>
+                        </UFormField>
 
                         <div class="flex justify-end">
                             <UButton
@@ -141,13 +141,13 @@
                     :book="activeComparison.book"
                     :chapter="activeComparison.chapter"
                     :verse-range="activeComparison.verseRange"
-                    :comparisons="activeComparison.comparisons as any"
-                    :available-versions="availableVersionsForAdd as any"
+                    :comparisons="activeComparison.comparisons"
+                    :available-versions="availableVersionsForAdd"
                     @close="closeComparison"
-                    @add-version="handleAddVersion as any"
+                    @add-version="handleAddVersion"
                     @remove-version="handleRemoveVersion"
-                    @add-bookmark="handleAddBookmark as any"
-                    @add-note="handleAddNote as any"
+                    @add-bookmark="handleAddBookmark"
+                    @add-note="handleAddNote"
                 />
             </div>
 
@@ -164,7 +164,7 @@
 </template>
 
 <script setup lang="ts">
-import type { BibleBook, BibleVerse, BibleVersion } from '~/generated/prisma'
+import type { BibleBook, BibleVerse, BibleVersion } from '@prisma/client'
 
 // Types locaux simplifiés
 interface SimpleComparison {
@@ -182,15 +182,10 @@ interface ActiveComparison {
     comparisons: SimpleComparison[]
 }
 
-// Utilisation des composables (temporairement désactivés pour compilation)
-// const { versions: availableVersions, fetchVersions } = useBibleVersions()
-// const { comparison, loading: loadingComparison, error: comparisonError, compareVerses } = useBibleComparison()
-
 // Variables temporaires pour remplacer les composables
 const availableVersions = ref<BibleVersion[]>([])
 const loadingComparison = ref(false)// Configuration de la page
 definePageMeta({
-    middleware: 'auth' as any,
     layout: 'bible'
 })
 
@@ -199,14 +194,14 @@ const loadingBooks = ref(false)
 const error = ref('')
 
 // Sélection du passage
-const selectedBook = ref<number | null>(null)
+const selectedBook = ref<number | undefined>(undefined)
 const selectedChapter = ref<number | null>(null)
 const startVerse = ref<number | null>(1)
 const endVerse = ref<number | null>(null)
 const selectedVersions = ref<number[]>([])
 
 // Données
-const booksOptions = ref<BibleBook[]>([])
+const booksOptions = ref<(BibleBook)[]>([])
 const activeComparison = ref<ActiveComparison | null>(null)
 
 // Computed
@@ -263,8 +258,8 @@ const toggleVersion = (versionId: number, checked: boolean | 'indeterminate') =>
 const loadBooks = async () => {
     try {
         loadingBooks.value = true
-        const response = await $fetch('/api/bible/books') as any
-        booksOptions.value = response.data?.all || response.data || response
+        const response = await $fetch('/api/bible/books')
+        booksOptions.value = (response.data?.all) as unknown as BibleBook[]
     } catch (err) {
         error.value = 'Erreur lors du chargement des livres'
         console.error(err)
@@ -300,24 +295,18 @@ const startComparison = async () => {
             return
         }
 
-        await $fetch('/api/bible/compare', {
+        const response = await $fetch('/api/bible/compare', {
             method: 'POST',
             body: {
-                bookCode: book.code,
+                bookId: book.id,
                 chapter,
-                startVerse: start,
-                endVerse: end,
+                verseStart: start,
+                verseEnd: end,
                 versions: selectedVersions.value
             }
         })
 
-        // Simplification temporaire de la structure de comparaison
-        activeComparison.value = {
-            book,
-            chapter,
-            verseRange: { start, end },
-            comparisons: []
-        }
+        activeComparison.value = response.data as unknown as ActiveComparison
     } catch (err: any) {
         error.value = err?.message || 'Erreur lors de la comparaison'
         console.error(err)
@@ -334,27 +323,24 @@ const closeComparison = () => {
 const handleAddVersion = async (version: BibleVersion) => {
     if (!activeComparison.value) return
 
-    try {
-        // Ajouter la version à la comparaison existante
-        const newComparison: SimpleComparison = {
-            version,
-            verses: [{
-                id: 0,
-                chapter: activeComparison.value.chapter,
-                verse: activeComparison.value.verseRange.start,
-                text: 'Chargement...',
-                createdAt: new Date(),
-                versionId: version.id,
-                bookId: 0
-            }]
-        }
-
-        activeComparison.value.comparisons.push(newComparison)
-
-        // TODO: Charger le verset réel pour cette version
-    } catch (err) {
-        console.error('Erreur lors de l\'ajout de version:', err)
+    // Ajouter la version à la comparaison existante avec placeholder
+    const newComparison: SimpleComparison = {
+        version,
+        verses: [{
+            id: 0,
+            chapter: activeComparison.value.chapter,
+            verse: activeComparison.value.verseRange.start,
+            text: 'Chargement...',
+            createdAt: new Date(),
+            versionId: version.id,
+            bookId: activeComparison.value.book.id
+        }]
     }
+
+    activeComparison.value.comparisons.push(newComparison)
+
+    selectedVersions.value.push(version.id)
+    await startComparison()
 }
 
 const handleRemoveVersion = (versionId: number) => {
@@ -362,6 +348,8 @@ const handleRemoveVersion = (versionId: number) => {
 
     activeComparison.value.comparisons = activeComparison.value.comparisons
         .filter(comp => comp.version.id !== versionId)
+    selectedVersions.value = selectedVersions.value
+        .filter(id => id !== versionId)
 }
 
 const handleAddBookmark = (verse: BibleVerse) => {

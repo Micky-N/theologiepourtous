@@ -25,5 +25,3 @@ logs
 
 # VSC
 .history
-
-/app/generated/prisma

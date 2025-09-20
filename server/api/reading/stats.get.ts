@@ -1,6 +1,7 @@
 import prisma from '~~/lib/prisma'
-import type { ReadingStats, BibleReadingProgress } from '~/generated/prisma'
+import type { ReadingStats, BibleReadingProgress } from '@prisma/client'
 import type { ReadingStatsResponse } from '~/types'
+import { requireAuth } from '../../utils/auth'
 
 type ProgressWithBook = BibleReadingProgress & {
     book: { name: string, chapterCount: number }
@@ -9,7 +10,7 @@ type ProgressWithBook = BibleReadingProgress & {
 export default defineEventHandler(async (event): Promise<ReadingStatsResponse> => {
     try {
         const query = getQuery(event)
-        const user = await requireAuth(event)
+        const userId = await requireAuth(event)
 
         const period = (query.period as string) || '30days'
         const { startDate, endDate } = getPeriodDates(period)
@@ -17,7 +18,7 @@ export default defineEventHandler(async (event): Promise<ReadingStatsResponse> =
         // Requêtes de base avec types simplifiés
         const totalSessions = await prisma.readingSession.count({
             where: {
-                userId: user.id,
+                userId: userId,
                 startTime: { gte: startDate, lte: endDate },
                 isCompleted: true
             }
@@ -25,7 +26,7 @@ export default defineEventHandler(async (event): Promise<ReadingStatsResponse> =
 
         const totalReadingTime = await prisma.readingSession.aggregate({
             where: {
-                userId: user.id,
+                userId: userId,
                 startTime: { gte: startDate, lte: endDate },
                 isCompleted: true
             },
@@ -34,7 +35,7 @@ export default defineEventHandler(async (event): Promise<ReadingStatsResponse> =
 
         const totalVersesRead = await prisma.readingSession.aggregate({
             where: {
-                userId: user.id,
+                userId: userId,
                 startTime: { gte: startDate, lte: endDate },
                 isCompleted: true
             },
@@ -44,7 +45,7 @@ export default defineEventHandler(async (event): Promise<ReadingStatsResponse> =
         // Statistiques quotidiennes basiques
         const dailyStats = await prisma.readingStats.findMany({
             where: {
-                userId: user.id,
+                userId: userId,
                 date: { gte: startDate, lte: endDate }
             },
             orderBy: { date: 'asc' },
@@ -60,7 +61,7 @@ export default defineEventHandler(async (event): Promise<ReadingStatsResponse> =
         // Progression par livre basique
         const bookProgress = await prisma.bibleReadingProgress.findMany({
             where: {
-                userId: user.id,
+                userId: userId,
                 lastReadAt: { gte: startDate }
             },
             include: { book: true },
@@ -73,7 +74,7 @@ export default defineEventHandler(async (event): Promise<ReadingStatsResponse> =
                 totalSessions,
                 totalReadingTime: totalReadingTime._sum.duration || 0,
                 totalVersesRead: totalVersesRead._sum.versesRead || 0,
-                currentStreak: await calculateCurrentStreak(user.id),
+                currentStreak: await calculateCurrentStreak(userId),
                 longestStreak: 0, // Simplifié pour l'instant
                 averages: {
                     readingTimePerDay: totalSessions > 0
@@ -137,11 +138,6 @@ function getPeriodDates(period: string) {
     }
 
     return { startDate, endDate: now }
-}
-
-async function requireAuth(_event: any) {
-    // TODO: Implémenter l'authentification réelle
-    return { id: 1 }
 }
 
 async function calculateCurrentStreak(userId: number): Promise<number> {

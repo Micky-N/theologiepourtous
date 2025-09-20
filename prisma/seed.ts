@@ -1,5 +1,5 @@
 import { prisma } from '../lib/prisma'
-import type { PrismaClient } from '../app/generated/prisma'
+import type { PrismaClient } from '@prisma/client'
 import { main as bibleSeederMain } from './seeders/bibleSeeder'
 import { main as userSeederMain } from './seeders/userSeeder'
 

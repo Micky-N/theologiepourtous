@@ -14,7 +14,6 @@ export default defineEventHandler(async () => {
                 code: true,
                 name: true,
                 language: true,
-                description: true,
                 year: true
             }
         })

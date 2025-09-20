@@ -31,7 +31,7 @@ const userMenuItems = computed(() => [
     [{
         label: 'Mon profil',
         icon: 'i-lucide-user',
-        click: () => navigateTo('/profile')
+        click: () => navigateTo('/bible/compare')
     }],
     [{
         label: 'Se déconnecter',
@@ -58,9 +58,11 @@ const userMenuItems = computed(() => [
             <UColorModeButton />
 
             <template v-if="isLoggedIn">
-                <UDropdown
+                <UDropdownMenu
                     :items="userMenuItems"
-                    :ui="{ width: 'w-64' }"
+                    :ui="{
+                        content: 'w-48'
+                    }"
                 >
                     <UButton
                         :label="user?.name || 'Utilisateur'"
@@ -69,7 +71,7 @@ const userMenuItems = computed(() => [
                         trailing-icon="i-lucide-chevron-down"
                         class="hidden lg:inline-flex"
                     />
-                </UDropdown>
+                </UDropdownMenu>
 
                 <UButton
                     icon="i-lucide-user"

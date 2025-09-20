@@ -1,12 +1,5 @@
-// This is your Prisma schema file,
-// learn more about it in the docs: https://pris.ly/d/prisma-schema
-
-// Looking for ways to speed up your queries, or scale easily with your serverless or edge functions?
-// Try Prisma Accelerate: https://pris.ly/cli/accelerate-init
-
 generator client {
   provider = "prisma-client-js"
-  output   = "../app/generated/prisma"
 }
 
 datasource db {
@@ -15,30 +8,23 @@ datasource db {
 }
 
 model User {
-  id        Int       @id @default(autoincrement())
-  email     String    @unique
-  name      String // Nom complet de l'utilisateur
-  password  String
-  role      Role      @default(USER) // Rôle de l'utilisateur
-  lastLogin DateTime? // Dernière connexion
-  createdAt DateTime  @default(now())
-  updatedAt DateTime  @updatedAt
-
-  // Relations
-  userProgress         UserProgress[]
+  id                   Int                    @id @default(autoincrement())
+  email                String                 @unique
+  name                 String
+  password             String
+  role                 Role                   @default(USER)
+  lastLogin            DateTime?
+  createdAt            DateTime               @default(now())
+  updatedAt            DateTime               @updatedAt
   bibleBookmarks       BibleBookmark[]
   bibleNotes           BibleNote[]
-  userBiblePreference  UserBiblePreference?
+  bibleReadingProgress BibleReadingProgress[]
   readingSessions      ReadingSession[]
   readingStats         ReadingStats[]
-  bibleReadingProgress BibleReadingProgress[]
+  userBiblePreference  UserBiblePreference?
+  userProgress         UserProgress[]
 
   @@map("users")
-}
-
-enum Role {
-  USER
-  ADMIN
 }
 
 model UserProgress {
@@ -49,67 +35,58 @@ model UserProgress {
   startedAt   DateTime?
   createdAt   DateTime  @default(now())
   updatedAt   DateTime  @updatedAt
+  userId      Int
+  user        User      @relation(fields: [userId], references: [id], onDelete: Cascade)
 
-  // Relations
-  user   User @relation(fields: [userId], references: [id], onDelete: Cascade)
-  userId Int
-
+  @@index([userId], map: "user_progress_userId_fkey")
   @@map("user_progress")
 }
 
-// === BIBLE MODELS ===
-
 model BibleVersion {
-  id          Int      @id @default(autoincrement())
-  code        String   @unique // ex: "LSG", "NEG79", "S21", "BDS", "TOB"
-  name        String // ex: "Louis Segond 1910"
-  language    String   @default("fr") // "fr", "en", "es", etc.
-  description String?  @db.Text
-  year        Int? // Année de publication/révision
-  isActive    Boolean  @default(true)
-  orderIndex  Int      @default(0)
-  createdAt   DateTime @default(now())
-  updatedAt   DateTime @updatedAt
-
+  id                  Int                   @id @default(autoincrement())
+  code                String                @unique
+  name                String
+  language            String                @default("fr")
+  year                Int?
+  isActive            Boolean               @default(true)
+  orderIndex          Int                   @default(0)
+  createdAt           DateTime              @default(now())
+  updatedAt           DateTime              @updatedAt
   verses              BibleVerse[]
-  UserBiblePreference UserBiblePreference[]
   readingSessions     ReadingSession[]
+  UserBiblePreference UserBiblePreference[]
 
   @@map("bible_versions")
 }
 
 model BibleBook {
-  id           Int       @id @default(autoincrement())
-  code         String    @unique // ex: "GEN", "EXO", "MAT", "JOH"
-  name         String // ex: "Genèse", "Matthieu"
-  testament    Testament
-  orderIndex   Int // Position dans la Bible (1-66)
-  chapterCount Int // Nombre de chapitres
-  createdAt    DateTime  @default(now())
-
-  verses          BibleVerse[]
+  id              Int                    @id @default(autoincrement())
+  code            String                 @unique
+  name            String
+  testament       Testament
+  orderIndex      Int
+  chapterCount    Int
+  createdAt       DateTime               @default(now())
   bookmarks       BibleBookmark[]
   notes           BibleNote[]
   readingProgress BibleReadingProgress[]
+  verses          BibleVerse[]
 
   @@map("bible_books")
 }
 
 model BibleVerse {
-  id        Int      @id @default(autoincrement())
+  id        Int             @id @default(autoincrement())
   chapter   Int
   verse     Int
-  text      String   @db.Text
-  createdAt DateTime @default(now())
-
-  // Relations
-  version   BibleVersion @relation(fields: [versionId], references: [id], onDelete: Cascade)
+  text      String          @db.Text
+  createdAt DateTime        @default(now())
   versionId Int
-  book      BibleBook    @relation(fields: [bookId], references: [id], onDelete: Cascade)
   bookId    Int
-
   bookmarks BibleBookmark[]
   notes     BibleNote[]
+  book      BibleBook       @relation(fields: [bookId], references: [id], onDelete: Cascade)
+  version   BibleVersion    @relation(fields: [versionId], references: [id], onDelete: Cascade)
 
   @@unique([versionId, bookId, chapter, verse])
   @@index([bookId, chapter, verse])
@@ -117,104 +94,95 @@ model BibleVerse {
 }
 
 model BibleBookmark {
-  id        Int      @id @default(autoincrement())
+  id        Int        @id @default(autoincrement())
   title     String?
-  color     String?  @default("blue") // Pour catégoriser visuellement
-  createdAt DateTime @default(now())
-  updatedAt DateTime @updatedAt
-
-  // Relations
-  user    User       @relation(fields: [userId], references: [id], onDelete: Cascade)
-  userId  Int
-  book    BibleBook  @relation(fields: [bookId], references: [id], onDelete: Cascade)
-  bookId  Int
-  verse   BibleVerse @relation(fields: [verseId], references: [id], onDelete: Cascade)
-  verseId Int
+  color     String?    @default("blue")
+  createdAt DateTime   @default(now())
+  updatedAt DateTime   @updatedAt
+  userId    Int
+  bookId    Int
+  verseId   Int
+  book      BibleBook  @relation(fields: [bookId], references: [id], onDelete: Cascade)
+  user      User       @relation(fields: [userId], references: [id], onDelete: Cascade)
+  verse     BibleVerse @relation(fields: [verseId], references: [id], onDelete: Cascade)
 
   @@unique([userId, verseId])
+  @@index([bookId], map: "bible_bookmarks_bookId_fkey")
+  @@index([verseId], map: "bible_bookmarks_verseId_fkey")
   @@map("bible_bookmarks")
 }
 
 model BibleNote {
-  id        Int      @id @default(autoincrement())
+  id        Int        @id @default(autoincrement())
   title     String?
-  content   String   @db.Text
-  isPrivate Boolean  @default(true)
-  createdAt DateTime @default(now())
-  updatedAt DateTime @updatedAt
+  content   String     @db.Text
+  isPrivate Boolean    @default(true)
+  createdAt DateTime   @default(now())
+  updatedAt DateTime   @updatedAt
+  userId    Int
+  bookId    Int
+  verseId   Int
+  book      BibleBook  @relation(fields: [bookId], references: [id], onDelete: Cascade)
+  user      User       @relation(fields: [userId], references: [id], onDelete: Cascade)
+  verse     BibleVerse @relation(fields: [verseId], references: [id], onDelete: Cascade)
 
-  // Relations
-  user    User       @relation(fields: [userId], references: [id], onDelete: Cascade)
-  userId  Int
-  book    BibleBook  @relation(fields: [bookId], references: [id], onDelete: Cascade)
-  bookId  Int
-  verse   BibleVerse @relation(fields: [verseId], references: [id], onDelete: Cascade)
-  verseId Int
-
+  @@index([bookId], map: "bible_notes_bookId_fkey")
+  @@index([userId], map: "bible_notes_userId_fkey")
+  @@index([verseId], map: "bible_notes_verseId_fkey")
   @@map("bible_notes")
 }
 
 model UserBiblePreference {
-  id               Int      @id @default(autoincrement())
-  defaultVersionId Int // Version Bible préférée
-  showVerseNumbers Boolean  @default(true)
-  createdAt        DateTime @default(now())
-  updatedAt        DateTime @updatedAt
+  id               Int          @id @default(autoincrement())
+  defaultVersionId Int
+  showVerseNumbers Boolean      @default(true)
+  createdAt        DateTime     @default(now())
+  updatedAt        DateTime     @updatedAt
+  userId           Int          @unique
+  defaultVersion   BibleVersion @relation(fields: [defaultVersionId], references: [id])
+  user             User         @relation(fields: [userId], references: [id], onDelete: Cascade)
 
-  // Relations
-  user           User         @relation(fields: [userId], references: [id], onDelete: Cascade)
-  userId         Int          @unique
-  defaultVersion BibleVersion @relation(fields: [defaultVersionId], references: [id])
-
+  @@index([defaultVersionId], map: "user_bible_preferences_defaultVersionId_fkey")
   @@map("user_bible_preferences")
 }
 
-enum Testament {
-  OLD
-  NEW
-}
-
-// === READING STATISTICS MODELS ===
-
 model ReadingSession {
-  id           Int       @id @default(autoincrement())
+  id           Int          @id @default(autoincrement())
   startTime    DateTime
   endTime      DateTime?
-  duration     Int? // Durée en secondes
-  chaptersRead String?   @db.Text // JSON array des chapitres lus ["GEN:1", "GEN:2"]
-  versesRead   Int       @default(0) // Nombre total de versets lus
-  isCompleted  Boolean   @default(false) // Session terminée normalement
-  deviceType   String?   @default("web") // web, mobile, tablet
-  createdAt    DateTime  @default(now())
+  duration     Int?
+  chaptersRead String?      @db.Text
+  versesRead   Int          @default(0)
+  isCompleted  Boolean      @default(false)
+  deviceType   String?      @default("web")
+  createdAt    DateTime     @default(now())
+  userId       Int
+  versionId    Int
+  user         User         @relation(fields: [userId], references: [id], onDelete: Cascade)
+  version      BibleVersion @relation(fields: [versionId], references: [id])
 
-  // Relations
-  user      User         @relation(fields: [userId], references: [id], onDelete: Cascade)
-  userId    Int
-  version   BibleVersion @relation(fields: [versionId], references: [id])
-  versionId Int
-
+  @@index([userId], map: "reading_sessions_userId_fkey")
+  @@index([versionId], map: "reading_sessions_versionId_fkey")
   @@map("reading_sessions")
 }
 
 model ReadingStats {
   id                  Int        @id @default(autoincrement())
-  date                DateTime   @db.Date // Date pour les statistiques quotidiennes
-  totalReadingTime    Int        @default(0) // Temps total en secondes
-  chaptersCompleted   Int        @default(0) // Chapitres terminés
-  versesRead          Int        @default(0) // Versets lus
-  averageReadingSpeed Float? // Versets par minute
-  longestSession      Int        @default(0) // Plus longue session en secondes
-  sessionsCount       Int        @default(0) // Nombre de sessions
-  booksStarted        String?    @db.Text // JSON array des livres commencés ["GEN", "MAT"]
-  booksCompleted      String?    @db.Text // JSON array des livres terminés
+  date                DateTime   @db.Date
+  totalReadingTime    Int        @default(0)
+  chaptersCompleted   Int        @default(0)
+  versesRead          Int        @default(0)
+  averageReadingSpeed Float?
+  longestSession      Int        @default(0)
+  sessionsCount       Int        @default(0)
+  booksStarted        String?    @db.Text
+  booksCompleted      String?    @db.Text
   favoriteTestament   Testament?
-  favoriteReadingTime String? // "morning", "afternoon", "evening", "night"
+  favoriteReadingTime String?
   createdAt           DateTime   @default(now())
   updatedAt           DateTime   @updatedAt
-
-  // Relations
-  user   User @relation(fields: [userId], references: [id], onDelete: Cascade)
-  userId Int
+  userId              Int
+  user                User       @relation(fields: [userId], references: [id], onDelete: Cascade)
 
   @@unique([userId, date])
   @@map("reading_stats")
@@ -222,23 +190,32 @@ model ReadingStats {
 
 model BibleReadingProgress {
   id             Int       @id @default(autoincrement())
-  currentChapter Int       @default(1) // Chapitre actuel
-  currentVerse   Int       @default(1) // Verset actuel
-  completedAt    DateTime? // Date de completion du livre
+  currentChapter Int       @default(1)
+  currentVerse   Int       @default(1)
+  completedAt    DateTime?
   startedAt      DateTime  @default(now())
   lastReadAt     DateTime  @default(now())
-  totalReadTime  Int       @default(0) // Temps total passé sur ce livre en secondes
-  chaptersRead   String?   @db.Text // JSON array des chapitres lus [1, 2, 5, 10]
+  totalReadTime  Int       @default(0)
+  chaptersRead   String?   @db.Text
   isCompleted    Boolean   @default(false)
   createdAt      DateTime  @default(now())
   updatedAt      DateTime  @updatedAt
-
-  // Relations
-  user   User      @relation(fields: [userId], references: [id], onDelete: Cascade)
-  userId Int
-  book   BibleBook @relation(fields: [bookId], references: [id], onDelete: Cascade)
-  bookId Int
+  userId         Int
+  bookId         Int
+  book           BibleBook @relation(fields: [bookId], references: [id], onDelete: Cascade)
+  user           User      @relation(fields: [userId], references: [id], onDelete: Cascade)
 
   @@unique([userId, bookId])
+  @@index([bookId], map: "bible_reading_progress_bookId_fkey")
   @@map("bible_reading_progress")
+}
+
+enum Role {
+  USER
+  ADMIN
+}
+
+enum Testament {
+  OLD
+  NEW
 }

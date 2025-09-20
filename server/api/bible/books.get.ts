@@ -14,6 +14,7 @@ export default defineEventHandler(async (event) => {
                 id: true,
                 code: true,
                 name: true,
+                createdAt: true,
                 testament: true,
                 orderIndex: true,
                 chapterCount: true

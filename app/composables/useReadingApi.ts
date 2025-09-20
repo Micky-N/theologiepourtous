@@ -1,4 +1,4 @@
-import type { BibleVersion, ReadingSession } from '~/generated/prisma'
+import type { BibleVersion, ReadingSession } from '@prisma/client'
 import type {
     ReadingStatsResponse,
     CreateReadingSessionPayload,

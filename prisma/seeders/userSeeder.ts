@@ -1,29 +1,29 @@
-import type { PrismaClient } from '../../app/generated/prisma'
+import type { PrismaClient } from '@prisma/client'
 
 // Utilisateurs à créer
 const users = [
     {
         email: 'admin@example.com',
         name: 'Mickael Ndinga',
-        password: '$2b$10$rXVl9.tQOF8jxZzR.UzHvO5Q5M4QXFcF5H7Ks6Q8R4Y.N3XUJWZSG', // "admin123"
+        password: '$2b$12$mPRxvZG8v8LoV0h/DEofle2Nc59WT2fSWbfRX9iLMTjkiIlYIB0Ae', // "admin123"
         role: 'ADMIN'
     },
     {
         email: 'user1@example.com',
         name: 'Jean Dupont',
-        password: '$2b$10$rXVl9.tQOF8jxZzR.UzHvO5Q5M4QXFcF5H7Ks6Q8R4Y.N3XUJWZSG', // "password123"
+        password: '$2b$12$cai4xTNRB25j1VFrzZqsmuLnXh1lxoJmaKPek0qItQUqWCblK0d1S', // "password123"
         role: 'USER'
     },
     {
         email: 'user2@example.com',
         name: 'Marie Martin',
-        password: '$2b$10$rXVl9.tQOF8jxZzR.UzHvO5Q5M4QXFcF5H7Ks6Q8R4Y.N3XUJWZSG', // "password123"
+        password: '$2b$12$cai4xTNRB25j1VFrzZqsmuLnXh1lxoJmaKPek0qItQUqWCblK0d1S', // "password123"
         role: 'USER'
     },
     {
         email: 'user3@example.com',
         name: 'Pierre Durand',
-        password: '$2b$10$rXVl9.tQOF8jxZzR.UzHvO5Q5M4QXFcF5H7Ks6Q8R4Y.N3XUJWZSG', // "password123"
+        password: '$2b$12$cai4xTNRB25j1VFrzZqsmuLnXh1lxoJmaKPek0qItQUqWCblK0d1S', // "password123"
         role: 'USER'
     }
 ] as const

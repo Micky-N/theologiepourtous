@@ -1,4 +1,4 @@
-import type { PrismaClient } from '../../app/generated/prisma'
+import type { PrismaClient } from '@prisma/client'
 import bibles from '../../docs/bibles.json'
 
 // Versions bibliques à ajouter
@@ -33,7 +33,7 @@ const bibleVersions = [
         language: 'fr',
         year: 1744,
         isActive: true,
-        orderIndex: 5
+        orderIndex: 4
     },
     {
         code: 'DBY',
@@ -41,7 +41,7 @@ const bibleVersions = [
         language: 'fr',
         year: 1885,
         isActive: true,
-        orderIndex: 6
+        orderIndex: 5
     },
     {
         code: 'OST',
@@ -49,7 +49,7 @@ const bibleVersions = [
         language: 'fr',
         year: 1996,
         isActive: true,
-        orderIndex: 7
+        orderIndex: 6
     },
     {
         code: 'KJV',
@@ -57,7 +57,7 @@ const bibleVersions = [
         language: 'en',
         year: 1611,
         isActive: true,
-        orderIndex: 8
+        orderIndex: 7
     }
 ]
 

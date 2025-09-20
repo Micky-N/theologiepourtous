@@ -30,7 +30,7 @@
                         </div>
                     </div>
 
-                    <UFormGroup label="Versions à comparer (sélectionnez 2 à 6 versions)">
+                    <UFormField label="Versions à comparer (sélectionnez 2 à 6 versions)">
                         <div class="grid grid-cols-1 gap-2 max-h-60 overflow-y-auto">
                             <div
                                 v-for="version in availableVersions"
@@ -56,7 +56,7 @@
                             {{ selectedVersions.length }} version(s) sélectionnée(s)
                             (minimum 2, maximum 6)
                         </div>
-                    </UFormGroup>
+                    </UFormField>
                 </div>
 
                 <div class="flex justify-end gap-2 mt-6">

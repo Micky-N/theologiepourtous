@@ -1,4 +1,4 @@
-import type { BibleBook, BibleBookmark, BibleNote, BibleReadingProgress, BibleVerse, BibleVersion, User } from '~/generated/prisma'
+import type { BibleBook, BibleBookmark, BibleNote, BibleReadingProgress, BibleVerse, BibleVersion, User } from '@prisma/client'
 
 // ============================================================================
 // ENUMS
