@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import type { ContentNavigationItem } from '@nuxt/content'
+import type { NavigationMenuItem } from '@nuxt/ui'
 import type { $Enums, BibleBook, BibleVersion } from '@prisma/client'
 
 interface ApiVerseResponseData {
@@ -31,62 +31,84 @@ definePageMeta({
 })
 
 const router = useRouter()
+const route = useRoute()
 const loadingBooks = ref(false)
 const error = ref<string | null>(null)
-const selectedBook = ref<BibleBook | null>(null)
-const selectedChapter = ref<number | null>(null)
+const selectedBookCode = ref<string>('GEN')
+const selectedChapter = ref<number | null>(1)
 const selectedChapterVerses = ref<ApiVerseResponseData | null>(null)
 const availableVersions = ref<BibleVersion[]>([])
-const selectedVersion = ref<BibleVersion | null>(null)
+const selectedVersionCode = ref<string>('LSG')
 
+const initQuery = () => {
+    selectedBookCode.value = route.query.book as string | undefined || 'GEN'
+    selectedVersionCode.value = route.query.version as string | undefined || 'LSG'
+    selectedChapter.value = parseInt(route.query.chapter as string | undefined || '1')
+}
 // Données
 const books = ref<BibleBook[]>([])
 
-const booksNavigation = computed<ContentNavigationItem[]>(() => {
+const booksNavigation = computed<NavigationMenuItem[]>(() => {
+    const oldTestamentBooks = books.value.filter(book => book.testament === 'OLD')
+    const newTestamentBooks = books.value.filter(book => book.testament === 'NEW')
     return [
         {
-            title: 'Ancien Testament',
-            path: '/bible',
-            children: books.value.filter(book => book.testament === 'OLD').map(book => ({
-                title: book.name,
-                path: router.resolve({ query: { book: book.code } }).href,
-                active: false
+            label: 'Ancien Testament',
+            open: oldTestamentBooks.some(book => book.code === selectedBookCode.value),
+            active: oldTestamentBooks.some(book => book.code === selectedBookCode.value),
+            ui: {
+                link: 'cursor-pointer'
+            },
+            children: oldTestamentBooks.map(book => ({
+                label: book.name,
+                onSelect: async () => await updateBook(book.code),
+                active: selectedBookCode.value === book.code,
+                ui: {
+                    link: 'cursor-pointer'
+                }
             }))
         },
         {
-            title: 'Nouveau Testament',
-            path: '/bible',
-            children: books.value.filter(book => book.testament === 'NEW').map(book => ({
-                title: book.name,
-                path: router.resolve({ query: { book: book.code } }).href,
-                active: false
+            label: 'Nouveau Testament',
+            open: newTestamentBooks.some(book => book.code === selectedBookCode.value),
+            active: newTestamentBooks.some(book => book.code === selectedBookCode.value),
+            ui: {
+                link: 'cursor-pointer'
+            },
+            children: newTestamentBooks.map(book => ({
+                label: book.name,
+                onSelect: async () => await updateBook(book.code),
+                active: selectedBookCode.value === book.code,
+                ui: {
+                    link: 'cursor-pointer'
+                }
             }))
         }
-    ]
+    ] as NavigationMenuItem[]
 })
 
-const availableVersionsNavigation = computed<ContentNavigationItem[]>(() => {
+const availableVersionsNavigation = computed<NavigationMenuItem[]>(() => {
     return availableVersions.value.map(version => ({
-        title: version.name,
-        path: router.resolve({ query: { version: version.code } }).href,
-        active: false
+        label: version.name,
+        to: router.resolve({ query: { ...route.query, version: version.code } }).href,
+        active: selectedVersionCode.value === version.code
     }))
 })
 
-const updateBook = async (bookId: number) => {
-    selectedBook.value = books.value.find(book => book.id === bookId) || null
-    selectedChapter.value = 1
-    await getVerses()
+const selectedBook = computed(() => {
+    return books.value.find(book => book.code == selectedBookCode.value)
+})
+
+const selectedVersion = computed(() => {
+    return availableVersions.value.find(version => version.code == selectedVersionCode.value)
+})
+
+const updateBook = async (bookCode: string) => {
+    await router.push({ query: { ...route.query, book: bookCode, chapter: 1 } })
 }
 
 const updateChapter = async (chapterId: number) => {
-    selectedChapter.value = chapterId
-    await getVerses()
-}
-
-const updateVersion = async (versionId: number) => {
-    selectedVersion.value = availableVersions.value.find(version => version.id === versionId) || null
-    await getVerses()
+    await router.push({ query: { ...route.query, chapter: chapterId } })
 }
 
 useSeoMeta({
@@ -97,23 +119,12 @@ useSeoMeta({
 })
 
 onMounted(async () => {
+    initQuery()
     await Promise.all([
         loadBooks(),
-        loadVersions()
+        loadVersions(),
+        loadVerses()
     ])
-
-    if (books.value.length > 0) {
-        selectedBook.value = books.value[0] || null
-        selectedChapter.value = 1
-    }
-
-    if (availableVersions.value.length > 0) {
-        selectedVersion.value = availableVersions.value[0] || null
-    }
-
-    if (selectedBook.value && selectedChapter.value) {
-        await getVerses()
-    }
 })
 
 const loadBooks = async () => {
@@ -139,11 +150,11 @@ const loadVersions = async () => {
     }
 }
 
-const getVerses = async () => {
+const loadVerses = async () => {
     try {
-        const response = await $fetch(`/api/bible/verses/${selectedBook.value?.code}/${selectedChapter.value}`, {
+        const response = await $fetch(`/api/bible/verses/${selectedBookCode.value}/${selectedChapter.value}`, {
             query: {
-                version: selectedVersion.value?.code || 'LSG'
+                version: selectedVersionCode.value
             }
         })
         selectedChapterVerses.value = response.data
@@ -153,6 +164,13 @@ const getVerses = async () => {
     }
 }
 
+watch(() => route.query, async () => {
+    initQuery()
+    await loadVerses()
+}, {
+    deep: true
+})
+
 defineOgImageComponent('Saas')
 </script>
 
@@ -161,12 +179,13 @@ defineOgImageComponent('Saas')
         <template #left>
             <UPageAside>
                 <template #top>
-                    <UContentSearchButton :collapsed="false" />
+                    Les livres
                 </template>
 
-                <UContentNavigation
-                    :navigation="booksNavigation"
+                <UNavigationMenu
+                    :items="booksNavigation"
                     highlight
+                    orientation="vertical"
                 />
             </UPageAside>
         </template>
@@ -185,9 +204,7 @@ defineOgImageComponent('Saas')
                     :verses-data="selectedChapterVerses"
                     :versions="availableVersions"
                     :selected-version="selectedVersion"
-                    @update:book="updateBook"
                     @update:chapter="updateChapter"
-                    @update:version="updateVersion"
                 />
             </div>
             <USeparator />
@@ -202,9 +219,10 @@ defineOgImageComponent('Saas')
                     Versions disponibles
                 </template>
 
-                <UContentNavigation
-                    :navigation="availableVersionsNavigation"
+                <UNavigationMenu
+                    :items="availableVersionsNavigation"
                     variant="link"
+                    orientation="vertical"
                 />
             </UPageAside>
         </template>

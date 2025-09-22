@@ -1,20 +1,15 @@
 <template>
-    <div class="inline-block">
-        <UButton
-            icon="i-lucide-git-compare"
-            label="Comparer les versions"
-            variant="outline"
-            size="sm"
-            @click="startComparison"
-        />
-
-        <!-- Modal de sélection rapide -->
-        <UModal v-model="showModal">
+    <UModal
+        v-model:open="showModal"
+        title="Comparer ce passage"
+        description="Terme théologique"
+        :ui="{
+            description: 'hidden',
+            content: 'max-w-2xl'
+        }"
+    >
+        <template #content>
             <div class="p-6">
-                <h3 class="text-lg font-semibold mb-4">
-                    Comparer ce passage
-                </h3>
-
                 <div class="space-y-4">
                     <div>
                         <p class="text-sm text-gray-600 dark:text-gray-400 mb-2">
@@ -22,7 +17,7 @@
                         </p>
                         <div class="p-3 bg-gray-50 dark:bg-gray-800 rounded-lg">
                             <p class="font-medium">
-                                {{ bookName }} {{ chapter }}:{{ verseStart }}
+                                {{ book.name }} {{ chapter }}:{{ verseStart }}
                                 <span v-if="verseEnd && verseEnd !== verseStart">
                                     -{{ verseEnd }}
                                 </span>
@@ -33,21 +28,21 @@
                     <UFormField label="Versions à comparer (sélectionnez 2 à 6 versions)">
                         <div class="grid grid-cols-1 gap-2 max-h-60 overflow-y-auto">
                             <div
-                                v-for="version in availableVersions"
-                                :key="version.id"
+                                v-for="availableVersion in availableVersions"
+                                :key="availableVersion.id"
                                 class="flex items-center space-x-2"
                             >
                                 <UCheckbox
-                                    :model-value="selectedVersions.includes(version.id)"
-                                    :disabled="selectedVersions.length >= 6 && !selectedVersions.includes(version.id)"
-                                    @update:model-value="toggleVersion(version.id)"
+                                    :model-value="selectedVersions.includes(availableVersion.id)"
+                                    :disabled="selectedVersions.length >= 6 && !selectedVersions.includes(availableVersion.id)"
+                                    @update:model-value="toggleVersion(availableVersion.id)"
                                 />
                                 <div class="flex-1">
                                     <div class="text-sm font-medium text-gray-900 dark:text-white">
-                                        {{ version.name }}
+                                        {{ availableVersion.name }}
                                     </div>
                                     <div class="text-xs text-gray-500 dark:text-gray-400">
-                                        {{ version.code }} • {{ version.language }}
+                                        {{ availableVersion.code }} • {{ availableVersion.language }}
                                     </div>
                                 </div>
                             </div>
@@ -73,60 +68,26 @@
                     />
                 </div>
             </div>
-        </UModal>
-    </div>
+        </template>
+    </UModal>
 </template>
 
 <script setup lang="ts">
-// Types
-interface BibleVersion {
-    id: number
-    code: string
-    name: string
-    description: string | null
-    language: string
-    year: number | null
-}
+import type { BibleVersion } from '@prisma/client'
 
-interface ApiResponse {
-    data: BibleVersion[]
-    success: boolean
-    count: number
-}
-
-const props = defineProps({
-    bookCode: {
-        type: String,
-        required: true
-    },
-    bookName: {
-        type: String,
-        required: true
-    },
-    chapter: {
-        type: Number,
-        required: true
-    },
-    verseStart: {
-        type: Number,
-        required: true
-    },
-    verseEnd: {
-        type: Number,
-        default: null
-    }
-})
+const props = defineProps<{
+    availableVersions: BibleVersion[]
+    book: { code: string, name: string }
+    chapter: number
+    version: number
+    verseStart: number
+    verseEnd?: number
+}>()
 
 // État local
-const showModal = ref(false)
+const showModal = defineModel<boolean>({ default: false })
 const loading = ref(false)
-const selectedVersions = ref<number[]>([])
-const availableVersions = ref<BibleVersion[]>([])
-
-// Lifecycle
-onMounted(() => {
-    loadVersions()
-})
+const selectedVersions = ref<number[]>([props.version])
 
 // Méthodes
 const toggleVersion = (versionId: number) => {
@@ -138,45 +99,26 @@ const toggleVersion = (versionId: number) => {
     }
 }
 
-const startComparison = () => {
-    showModal.value = true
-}
-
-const loadVersions = async () => {
-    try {
-        const response = await $fetch<ApiResponse>('/api/bible/versions')
-        availableVersions.value = response.data
-
-        // Pré-sélectionner des versions populaires
-        const defaultVersions = availableVersions.value
-            .filter(v => ['LSG', 'S21', 'NBS'].includes(v.code))
-            .slice(0, 2)
-            .map(v => v.id)
-
-        if (defaultVersions.length >= 2) {
-            selectedVersions.value = defaultVersions
-        }
-    } catch (error) {
-        console.error('Erreur lors du chargement des versions:', error)
-    }
-}
-
 const performComparison = async () => {
     if (selectedVersions.value.length < 2) return
 
     try {
         loading.value = true
 
+        const versionsCode = props.availableVersions
+            .filter(v => selectedVersions.value.includes(v.id))
+            .map(v => v.code)
+
         // Construire les paramètres de comparaison
         const params = new URLSearchParams({
-            book: props.bookCode,
+            book: props.book.code,
             chapter: props.chapter.toString(),
-            start: props.verseStart.toString(),
-            versions: selectedVersions.value.join(',')
+            verses: props.verseStart.toString(),
+            versions: versionsCode.join(',')
         })
 
         if (props.verseEnd && props.verseEnd !== props.verseStart) {
-            params.append('end', props.verseEnd.toString())
+            params.set('verses', props.verseStart.toString() + '-' + props.verseEnd.toString())
         }
 
         // Naviguer vers la page de comparaison avec les paramètres
@@ -188,4 +130,8 @@ const performComparison = async () => {
         showModal.value = false
     }
 }
+
+watch(() => props.version, (newVersion) => {
+    selectedVersions.value = [newVersion]
+})
 </script>

@@ -1,5 +1,4 @@
 <template>
-    <div />
     <div class="space-y-6">
         <UCard class="mb-4">
             <template #header>
@@ -16,14 +15,13 @@
                     </div>
                 </div>
             </template>
-            <div>
-                <span
+            <div class="space-x-1">
+                <BibleVerse
                     v-for="verse in currentVerses"
                     :key="verse.id"
-                >
-                    <span class="font-bold text-primary-600 dark:text-primary-400">{{ verse.verse }}</span>
-                    <span class="mr-1">{{ verse.text }}</span>
-                </span>
+                    :verse="verse"
+                    @show-compare="showCompare"
+                />
             </div>
             <template #footer>
                 <div class="flex justify-center gap-2">
@@ -48,6 +46,12 @@
                 </div>
             </template>
         </UCard>
+        <BibleCompareModal
+            v-if="verseToCompare"
+            v-model="openedCompare"
+            v-bind="verseToCompare"
+            :available-versions="versions"
+        />
     </div>
 </template>
 
@@ -79,6 +83,13 @@ interface ApiVerseResponseData {
     }
 }
 
+interface VerseToCompare {
+    book: { code: string, name: string }
+    chapter: number
+    verseStart: number
+    version: number
+}
+
 const props = defineProps<{
     book: BibleBook
     chapter: number
@@ -86,6 +97,20 @@ const props = defineProps<{
     versions: BibleVersion[]
     selectedVersion: BibleVersion
 }>()
+
+const showCompare = (verse: number) => {
+    verseToCompare.value = {
+        book: { code: props.book.code, name: props.book.name },
+        verseStart: verse,
+        chapter: props.chapter,
+        version: props.selectedVersion.id
+    }
+    openedCompare.value = true
+}
+
+const verseToCompare = ref<VerseToCompare | null>(null)
+
+const openedCompare = ref(false)
 
 const emit = defineEmits<{
     (e: 'update:chapter', value: number): void

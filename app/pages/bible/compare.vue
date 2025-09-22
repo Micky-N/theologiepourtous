@@ -28,6 +28,9 @@ useSeoMeta({
     ogDescription: 'Comparez différentes versions de la Bible'
 })
 
+const route = useRoute()
+const router = useRouter()
+
 // Variables temporaires pour remplacer les composables
 const availableVersions = ref<BibleVersion[]>([])
 const loadingComparison = ref(false)// Configuration de la page
@@ -37,7 +40,7 @@ const loadingBooks = ref(false)
 const error = ref('')
 
 // Sélection du passage
-const selectedBook = ref<number | undefined>(undefined)
+const selectedBookCode = ref<string | undefined>(undefined)
 const selectedChapter = ref<number | null>(null)
 const startVerse = ref<number | null>(1)
 const endVerse = ref<number | null>(null)
@@ -49,11 +52,11 @@ const activeComparison = ref<ActiveComparison | null>(null)
 
 // Computed
 const selectedBookData = computed(() =>
-    booksOptions.value.find(book => book.id === selectedBook.value)
+    booksOptions.value.find(book => book.code === selectedBookCode.value)
 )
 
 const canStartComparison = computed(() =>
-    selectedBook.value
+    selectedBookCode.value
     && selectedChapter.value
     && startVerse.value
     && selectedVersions.value.length >= 2
@@ -66,24 +69,25 @@ const availableVersionsForAdd = computed(() =>
     )
 )
 
-// Lifecycle
-onMounted(async () => {
-    await Promise.all([
-        loadBooks(),
-        loadVersions()
-    ])
+const initCompare = () => {
+    const verses = (route.query.verses as string | undefined || '').split('-')
+    selectedBookCode.value = route.query.book as string | undefined || undefined
+    selectedChapter.value = route.query.chapter ? parseInt(route.query.chapter as string) : null
+    startVerse.value = verses.length > 0 ? parseInt(verses[0] as string) : 1
+    endVerse.value = verses.length > 1 ? parseInt(verses[1] as string) : null
 
     // Pré-sélectionner des versions populaires
     if (availableVersions.value.length > 0) {
+        const versions = (route.query.versions as string | undefined || 'LSG,S21').split(',')
         const defaultVersions = availableVersions.value
-            .filter((v: BibleVersion) => ['LSG', 'S21'].includes(v.code))
+            .filter((v: BibleVersion) => versions.includes(v.code))
             .map((v: BibleVersion) => v.id)
 
         if (defaultVersions.length >= 2) {
             selectedVersions.value = defaultVersions
         }
     }
-})
+}
 
 // Méthodes
 const toggleVersion = (versionId: number, checked: boolean | 'indeterminate') => {
@@ -157,8 +161,18 @@ const startComparison = async () => {
     }
 }
 
-const closeComparison = () => {
+const closeComparison = async () => {
+    if (Object.keys(route.query).length > 0) {
+        return await router.push('/bible/compare')
+    }
     activeComparison.value = null
+    selectedBookCode.value = undefined
+    selectedChapter.value = null
+    selectedVersions.value = availableVersions.value
+        .filter((v: BibleVersion) => ['LSG', 'S21'].includes(v.code))
+        .map((v: BibleVersion) => v.id)
+    startVerse.value = 1
+    endVerse.value = null
     error.value = ''
 }
 
@@ -203,6 +217,15 @@ const handleAddNote = (verse: BibleVerse) => {
     // TODO: Implémenter l'ajout de note
     console.log('Ajouter une note:', verse)
 }
+
+// Lifecycle
+await Promise.all([
+    loadBooks(),
+    loadVersions()
+])
+
+initCompare()
+await startComparison()
 </script>
 
 <template>
@@ -263,7 +286,7 @@ const handleAddNote = (verse: BibleVerse) => {
                             color="secondary"
                             variant="ghost"
                             icon="i-lucide-x"
-                            @click="closeComparison"
+                            @click="closeComparison()"
                         >
                             Fermer
                         </UButton>
@@ -287,11 +310,11 @@ const handleAddNote = (verse: BibleVerse) => {
                             <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
                                 <UFormField label="Livre">
                                     <USelectMenu
-                                        v-model="selectedBook"
+                                        v-model="selectedBookCode"
                                         :items="booksOptions"
                                         :loading="loadingBooks"
                                         label-key="name"
-                                        value-key="id"
+                                        value-key="code"
                                         placeholder="Sélectionner un livre"
                                         searchable
                                         search-placeholder="Rechercher un livre..."
@@ -306,7 +329,7 @@ const handleAddNote = (verse: BibleVerse) => {
                                         min="1"
                                         :max="selectedBookData?.chapterCount || 150"
                                         placeholder="Numéro de chapitre"
-                                        :disabled="!selectedBook"
+                                        :disabled="!selectedBookCode"
                                         class="max-w-52 w-full"
                                     />
                                 </UFormField>
@@ -319,7 +342,7 @@ const handleAddNote = (verse: BibleVerse) => {
                                         type="number"
                                         min="1"
                                         placeholder="1"
-                                        :disabled="!selectedBook || !selectedChapter"
+                                        :disabled="!selectedBookCode || !selectedChapter"
                                         class="max-w-52 w-full"
                                     />
                                 </UFormField>
@@ -330,7 +353,7 @@ const handleAddNote = (verse: BibleVerse) => {
                                         type="number"
                                         :min="startVerse || 1"
                                         placeholder="Même verset"
-                                        :disabled="!selectedBook || !selectedChapter"
+                                        :disabled="!selectedBookCode || !selectedChapter"
                                         class="max-w-52 w-full"
                                     />
                                 </UFormField>
@@ -371,14 +394,7 @@ const handleAddNote = (verse: BibleVerse) => {
                                 </div>
                             </UFormField>
 
-                            <div class="flex items-center justify-between pt-4">
-                                <UButton
-                                    to="/bible"
-                                    variant="ghost"
-                                    color="secondary"
-                                >
-                                    Annuler
-                                </UButton>
+                            <div class="flex items-center flex-row-reverse justify-between pt-4">
                                 <UButton
                                     type="submit"
                                     :loading="loadingComparison"

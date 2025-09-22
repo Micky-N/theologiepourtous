@@ -5,8 +5,7 @@
                 <div class="flex items-center justify-between">
                     <div>
                         <h2 class="text-xl font-bold text-gray-900 dark:text-white">
-                            Comparaison : {{ book.name }} {{ chapter }}:{{ verseRange.start }}
-                            <span v-if="verseRange.end > verseRange.start">-{{ verseRange.end }}</span>
+                            Comparaison : {{ book.name }} {{ chapter }}:{{ verseRange.start }}<span v-if="verseRange.end > verseRange.start">-{{ verseRange.end }}</span>
                         </h2>
                         <p class="text-sm text-gray-600 dark:text-gray-400 mt-1">
                             {{ comparisons.length }} versions côte à côte
