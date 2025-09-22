@@ -5,25 +5,25 @@ const users = [
     {
         email: 'admin@example.com',
         name: 'Mickael Ndinga',
-        password: '$2b$12$mPRxvZG8v8LoV0h/DEofle2Nc59WT2fSWbfRX9iLMTjkiIlYIB0Ae', // "admin123"
+        password: '$scrypt$n=16384,r=8,p=1$AQGUuBV4Tp00omSlbdEgnA$KXPfmME+XO/G5NBfuSmf3dXv0mUl6JJb4X6H2dmIi7UnD9/R0xqbTGpB/rUbDh3rzoTUIgvmzXoDaiU8yUaY9w',
         role: 'ADMIN'
     },
     {
         email: 'user1@example.com',
         name: 'Jean Dupont',
-        password: '$2b$12$cai4xTNRB25j1VFrzZqsmuLnXh1lxoJmaKPek0qItQUqWCblK0d1S', // "password123"
+        password: '$scrypt$n=16384,r=8,p=1$rZA/f/1iErzc4twSB5XQkQ$NCFE06l819UhCu9YcQNLNAfZFEfQMtR8gz06Khy+GzAIPxzD844MnPPWsrCwT6vwtb1Wl1bmd0bVCqzHstQDwQ',
         role: 'USER'
     },
     {
         email: 'user2@example.com',
         name: 'Marie Martin',
-        password: '$2b$12$cai4xTNRB25j1VFrzZqsmuLnXh1lxoJmaKPek0qItQUqWCblK0d1S', // "password123"
+        password: '$scrypt$n=16384,r=8,p=1$rZA/f/1iErzc4twSB5XQkQ$NCFE06l819UhCu9YcQNLNAfZFEfQMtR8gz06Khy+GzAIPxzD844MnPPWsrCwT6vwtb1Wl1bmd0bVCqzHstQDwQ',
         role: 'USER'
     },
     {
         email: 'user3@example.com',
         name: 'Pierre Durand',
-        password: '$2b$12$cai4xTNRB25j1VFrzZqsmuLnXh1lxoJmaKPek0qItQUqWCblK0d1S', // "password123"
+        password: '$scrypt$n=16384,r=8,p=1$rZA/f/1iErzc4twSB5XQkQ$NCFE06l819UhCu9YcQNLNAfZFEfQMtR8gz06Khy+GzAIPxzD844MnPPWsrCwT6vwtb1Wl1bmd0bVCqzHstQDwQ',
         role: 'USER'
     }
 ] as const;

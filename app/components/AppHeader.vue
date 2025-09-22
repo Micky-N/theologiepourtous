@@ -1,8 +1,11 @@
 <script setup lang="ts">
+import type { DropdownMenuItem } from '@nuxt/ui';
+
 const route = useRoute();
 const { user, loggedIn, clear: clearSession } = useUserSession();
 
 async function logout() {
+    console.log(23);
     await clearSession();
     await navigateTo('/login');
 }
@@ -30,7 +33,7 @@ const items = computed(() => [
     }
 ]);
 
-const userMenuItems = computed(() => [
+const userMenuItems = computed<DropdownMenuItem[]>(() => [
     [{
         label: 'Mon profil',
         icon: 'i-lucide-user',
