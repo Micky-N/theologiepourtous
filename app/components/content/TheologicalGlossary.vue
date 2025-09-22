@@ -45,23 +45,23 @@ const { id, term, definition, etymology, relatedTerms = [] } = defineProps<{
     definition: string
     etymology?: string
     relatedTerms?: string[]
-}>()
+}>();
 
-const isOpen = ref(false)
+const isOpen = ref(false);
 const emit = defineEmits<{
     (e: 'close'): void
-}>()
+}>();
 
 onMounted(() => {
     const openHandler = (event: CustomEvent) => {
         if (event.detail === id) {
-            isOpen.value = true
+            isOpen.value = true;
         }
-    }
-    window.addEventListener('open-glossary', openHandler as EventListener)
-})
+    };
+    window.addEventListener('open-glossary', openHandler as EventListener);
+});
 // Clean up the event listener when the component is unmounted
 onUnmounted(() => {
-    window.removeEventListener('open-glossary', () => {})
-})
+    window.removeEventListener('open-glossary', () => {});
+});
 </script>

@@ -1,36 +1,36 @@
 <script setup lang="ts">
 definePageMeta({
     layout: 'bible'
-})
+});
 
-const route = useRoute()
+const route = useRoute();
 
-const { data: page } = await useAsyncData(route.path, () => queryCollection('bible').path(route.path).first())
+const { data: page } = await useAsyncData(route.path, () => queryCollection('bible').path(route.path).first());
 if (!page.value) {
-    throw createError({ statusCode: 404, statusMessage: 'Page not found', fatal: true })
+    throw createError({ statusCode: 404, statusMessage: 'Page not found', fatal: true });
 }
 
 const { data: surround } = await useAsyncData(`${route.path}-surround`, () => {
     return queryCollectionItemSurroundings('bible', route.path, {
         fields: ['description']
-    })
-})
+    });
+});
 
 const { data: navigation } = useAsyncData('navigation', () => queryCollectionNavigation('bible'), {
     transform: data => data.find(item => item.path === '/bible')?.children || []
-})
+});
 
-const title = page.value.seo?.title || page.value.title
-const description = page.value.seo?.description || page.value.description
+const title = page.value.seo?.title || page.value.title;
+const description = page.value.seo?.description || page.value.description;
 
 useSeoMeta({
     title,
     ogTitle: title,
     description,
     ogDescription: description
-})
+});
 
-defineOgImageComponent('Saas')
+defineOgImageComponent('Saas');
 </script>
 
 <template>

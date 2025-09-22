@@ -1,27 +1,27 @@
-import prisma from '~~/lib/prisma'
-import type { ReadingStats, BibleReadingProgress } from '@prisma/client'
-import type { ReadingStatsResponse } from '~/types'
+import prisma from '~~/lib/prisma';
+import type { ReadingStats, BibleReadingProgress } from '@prisma/client';
+import type { ReadingStatsResponse } from '~/types';
 
 type ProgressWithBook = BibleReadingProgress & {
     book: { name: string, chapterCount: number }
-}
+};
 
 export default defineEventHandler(async (event): Promise<ReadingStatsResponse> => {
     try {
-        const query = getQuery(event)
-        const { user: userSession } = await getUserSession(event)
+        const query = getQuery(event);
+        const { user: userSession } = await getUserSession(event);
 
         if (!userSession) {
             throw createError({
                 statusCode: 401,
                 statusMessage: 'Non autorisé'
-            })
+            });
         }
 
-        const userId = userSession.id
+        const userId = userSession.id;
 
-        const period = (query.period as string) || '30days'
-        const { startDate, endDate } = getPeriodDates(period)
+        const period = (query.period as string) || '30days';
+        const { startDate, endDate } = getPeriodDates(period);
 
         // Requêtes de base avec types simplifiés
         const totalSessions = await prisma.readingSession.count({
@@ -30,7 +30,7 @@ export default defineEventHandler(async (event): Promise<ReadingStatsResponse> =
                 startTime: { gte: startDate, lte: endDate },
                 isCompleted: true
             }
-        })
+        });
 
         const totalReadingTime = await prisma.readingSession.aggregate({
             where: {
@@ -39,7 +39,7 @@ export default defineEventHandler(async (event): Promise<ReadingStatsResponse> =
                 isCompleted: true
             },
             _sum: { duration: true }
-        })
+        });
 
         const totalVersesRead = await prisma.readingSession.aggregate({
             where: {
@@ -48,7 +48,7 @@ export default defineEventHandler(async (event): Promise<ReadingStatsResponse> =
                 isCompleted: true
             },
             _sum: { versesRead: true }
-        })
+        });
 
         // Statistiques quotidiennes basiques
         const dailyStats = await prisma.readingStats.findMany({
@@ -64,7 +64,7 @@ export default defineEventHandler(async (event): Promise<ReadingStatsResponse> =
                 sessionsCount: true,
                 chaptersCompleted: true
             }
-        }) as ReadingStats[]
+        }) as ReadingStats[];
 
         // Progression par livre basique
         const bookProgress = await prisma.bibleReadingProgress.findMany({
@@ -75,7 +75,7 @@ export default defineEventHandler(async (event): Promise<ReadingStatsResponse> =
             include: { book: true },
             orderBy: { lastReadAt: 'desc' },
             take: 5
-        }) as ProgressWithBook[]
+        }) as ProgressWithBook[];
 
         return {
             summary: {
@@ -113,47 +113,47 @@ export default defineEventHandler(async (event): Promise<ReadingStatsResponse> =
             })),
             topBooks: [], // À implémenter
             timePreferences: {} // À implémenter
-        }
+        };
     } catch (error) {
-        console.error('Erreur récupération statistiques:', error)
+        console.error('Erreur récupération statistiques:', error);
         throw createError({
             statusCode: 500,
             statusMessage: 'Erreur lors de la récupération des statistiques'
-        })
+        });
     }
-})
+});
 
 function getPeriodDates(period: string) {
-    const now = new Date()
-    const startDate = new Date()
+    const now = new Date();
+    const startDate = new Date();
 
     switch (period) {
         case '7days':
-            startDate.setDate(now.getDate() - 7)
-            break
+            startDate.setDate(now.getDate() - 7);
+            break;
         case '30days':
-            startDate.setDate(now.getDate() - 30)
-            break
+            startDate.setDate(now.getDate() - 30);
+            break;
         case '90days':
-            startDate.setDate(now.getDate() - 90)
-            break
+            startDate.setDate(now.getDate() - 90);
+            break;
         case '365days':
         case '1year':
-            startDate.setFullYear(now.getFullYear() - 1)
-            break
+            startDate.setFullYear(now.getFullYear() - 1);
+            break;
         default:
-            startDate.setDate(now.getDate() - 30)
+            startDate.setDate(now.getDate() - 30);
     }
 
-    return { startDate, endDate: now }
+    return { startDate, endDate: now };
 }
 
 async function calculateCurrentStreak(userId: number): Promise<number> {
-    const today = new Date()
-    today.setHours(0, 0, 0, 0)
+    const today = new Date();
+    today.setHours(0, 0, 0, 0);
 
-    let currentStreak = 0
-    const checkDate = new Date(today)
+    let currentStreak = 0;
+    const checkDate = new Date(today);
 
     while (currentStreak < 365) { // Limite pour éviter les boucles infinies
         const dayStats = await prisma.readingStats.findUnique({
@@ -163,15 +163,15 @@ async function calculateCurrentStreak(userId: number): Promise<number> {
                     date: checkDate
                 }
             }
-        })
+        });
 
         if (!dayStats || dayStats.sessionsCount === 0) {
-            break
+            break;
         }
 
-        currentStreak++
-        checkDate.setDate(checkDate.getDate() - 1)
+        currentStreak++;
+        checkDate.setDate(checkDate.getDate() - 1);
     }
 
-    return currentStreak
+    return currentStreak;
 }

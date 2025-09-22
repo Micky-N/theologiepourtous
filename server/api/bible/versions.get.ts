@@ -1,4 +1,4 @@
-import { prisma } from '~~/lib/prisma'
+import { prisma } from '~~/lib/prisma';
 
 export default defineEventHandler(async () => {
     try {
@@ -16,17 +16,17 @@ export default defineEventHandler(async () => {
                 language: true,
                 year: true
             }
-        })
+        });
 
         return {
             success: true,
             data: versions,
             count: versions.length
-        }
+        };
     } catch {
         throw createError({
             statusCode: 500,
             statusMessage: 'Erreur lors de la récupération des versions bibliques'
-        })
+        });
     }
-})
+});

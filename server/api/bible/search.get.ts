@@ -1,32 +1,32 @@
-import { prisma } from '~~/lib/prisma'
+import { prisma } from '~~/lib/prisma';
 
 export default defineEventHandler(async (event) => {
     try {
-        const query = getQuery(event)
-        const searchTerm = query.q as string
-        const versionCode = (query.version as string) || 'LSG'
-        const bookCode = query.book as string | undefined
-        const testament = query.testament as 'OLD' | 'NEW' | undefined
-        const limit = Math.min(parseInt(query.limit as string) || 50, 100)
-        const offset = parseInt(query.offset as string) || 0
+        const query = getQuery(event);
+        const searchTerm = query.q as string;
+        const versionCode = (query.version as string) || 'LSG';
+        const bookCode = query.book as string | undefined;
+        const testament = query.testament as 'OLD' | 'NEW' | undefined;
+        const limit = Math.min(parseInt(query.limit as string) || 50, 100);
+        const offset = parseInt(query.offset as string) || 0;
 
         if (!searchTerm || searchTerm.trim().length < 3) {
             throw createError({
                 statusCode: 400,
                 statusMessage: 'Le terme de recherche doit contenir au moins 3 caractères'
-            })
+            });
         }
 
         // Récupérer la version
         const version = await prisma.bibleVersion.findUnique({
             where: { code: versionCode.toUpperCase() }
-        })
+        });
 
         if (!version) {
             throw createError({
                 statusCode: 404,
                 statusMessage: 'Version biblique non trouvée'
-            })
+            });
         }
 
         // Construire les filtres de recherche
@@ -36,15 +36,15 @@ export default defineEventHandler(async (event) => {
                 contains: searchTerm.trim(),
                 mode: 'insensitive'
             }
-        }
+        };
 
         // Filtrer par livre si spécifié
         if (bookCode) {
             const book = await prisma.bibleBook.findUnique({
                 where: { code: bookCode.toUpperCase() }
-            })
+            });
             if (book) {
-                whereClause.bookId = book.id
+                whereClause.bookId = book.id;
             }
         }
 
@@ -53,10 +53,10 @@ export default defineEventHandler(async (event) => {
             const booksInTestament = await prisma.bibleBook.findMany({
                 where: { testament },
                 select: { id: true }
-            })
+            });
             whereClause.bookId = {
                 in: booksInTestament.map(b => b.id)
-            }
+            };
         }
 
         // Rechercher les versets avec pagination
@@ -81,7 +81,7 @@ export default defineEventHandler(async (event) => {
                 skip: offset
             }),
             prisma.bibleVerse.count({ where: whereClause })
-        ])
+        ]);
 
         // Formatter les résultats avec highlighting
         const formattedResults = results.map(verse => ({
@@ -96,7 +96,7 @@ export default defineEventHandler(async (event) => {
                 new RegExp(`(${searchTerm.trim()})`, 'gi'),
                 '<mark>$1</mark>'
             )
-        }))
+        }));
 
         return {
             success: true,
@@ -115,14 +115,14 @@ export default defineEventHandler(async (event) => {
                 }
             },
             count: results.length
-        }
+        };
     } catch (error: any) {
         if (error.statusCode) {
-            throw error
+            throw error;
         }
         throw createError({
             statusCode: 500,
             statusMessage: 'Erreur lors de la recherche biblique'
-        })
+        });
     }
-})
+});

@@ -1,6 +1,6 @@
 <script setup lang="ts">
-import type { NavigationMenuItem } from '@nuxt/ui'
-import type { $Enums, BibleBook, BibleVersion } from '@prisma/client'
+import type { NavigationMenuItem } from '@nuxt/ui';
+import type { $Enums, BibleBook, BibleVersion } from '@prisma/client';
 
 interface ApiVerseResponseData {
     book: {
@@ -28,29 +28,29 @@ interface ApiVerseResponseData {
 
 definePageMeta({
     layout: 'bible'
-})
+});
 
-const router = useRouter()
-const route = useRoute()
-const loadingBooks = ref(false)
-const error = ref<string | null>(null)
-const selectedBookCode = ref<string>('GEN')
-const selectedChapter = ref<number | null>(1)
-const selectedChapterVerses = ref<ApiVerseResponseData | null>(null)
-const availableVersions = ref<BibleVersion[]>([])
-const selectedVersionCode = ref<string>('LSG')
+const router = useRouter();
+const route = useRoute();
+const loadingBooks = ref(false);
+const error = ref<string | null>(null);
+const selectedBookCode = ref<string>('GEN');
+const selectedChapter = ref<number | null>(1);
+const selectedChapterVerses = ref<ApiVerseResponseData | null>(null);
+const availableVersions = ref<BibleVersion[]>([]);
+const selectedVersionCode = ref<string>('LSG');
 
 const initQuery = () => {
-    selectedBookCode.value = route.query.book as string | undefined || 'GEN'
-    selectedVersionCode.value = route.query.version as string | undefined || 'LSG'
-    selectedChapter.value = parseInt(route.query.chapter as string | undefined || '1')
-}
+    selectedBookCode.value = route.query.book as string | undefined || 'GEN';
+    selectedVersionCode.value = route.query.version as string | undefined || 'LSG';
+    selectedChapter.value = parseInt(route.query.chapter as string | undefined || '1');
+};
 // Données
-const books = ref<BibleBook[]>([])
+const books = ref<BibleBook[]>([]);
 
 const booksNavigation = computed<NavigationMenuItem[]>(() => {
-    const oldTestamentBooks = books.value.filter(book => book.testament === 'OLD')
-    const newTestamentBooks = books.value.filter(book => book.testament === 'NEW')
+    const oldTestamentBooks = books.value.filter(book => book.testament === 'OLD');
+    const newTestamentBooks = books.value.filter(book => book.testament === 'NEW');
     return [
         {
             label: 'Ancien Testament',
@@ -84,71 +84,71 @@ const booksNavigation = computed<NavigationMenuItem[]>(() => {
                 }
             }))
         }
-    ] as NavigationMenuItem[]
-})
+    ] as NavigationMenuItem[];
+});
 
 const availableVersionsNavigation = computed<NavigationMenuItem[]>(() => {
     return availableVersions.value.map(version => ({
         label: version.name,
         to: router.resolve({ query: { ...route.query, version: version.code } }).href,
         active: selectedVersionCode.value === version.code
-    }))
-})
+    }));
+});
 
 const selectedBook = computed(() => {
-    return books.value.find(book => book.code == selectedBookCode.value)
-})
+    return books.value.find(book => book.code == selectedBookCode.value);
+});
 
 const selectedVersion = computed(() => {
-    return availableVersions.value.find(version => version.code == selectedVersionCode.value)
-})
+    return availableVersions.value.find(version => version.code == selectedVersionCode.value);
+});
 
 const updateBook = async (bookCode: string) => {
-    await router.push({ query: { ...route.query, book: bookCode, chapter: 1 } })
-}
+    await router.push({ query: { ...route.query, book: bookCode, chapter: 1 } });
+};
 
 const updateChapter = async (chapterId: number) => {
-    await router.push({ query: { ...route.query, chapter: chapterId } })
-}
+    await router.push({ query: { ...route.query, chapter: chapterId } });
+};
 
 useSeoMeta({
     title: '',
     ogTitle: '',
     description: '',
     ogDescription: ''
-})
+});
 
 onMounted(async () => {
-    initQuery()
+    initQuery();
     await Promise.all([
         loadBooks(),
         loadVersions(),
         loadVerses()
-    ])
-})
+    ]);
+});
 
 const loadBooks = async () => {
     try {
-        loadingBooks.value = true
-        const response = await $fetch('/api/bible/books')
-        books.value = (response.data?.all) as unknown as BibleBook[]
+        loadingBooks.value = true;
+        const response = await $fetch('/api/bible/books');
+        books.value = (response.data?.all) as unknown as BibleBook[];
     } catch (err) {
-        error.value = 'Erreur lors du chargement des livres'
-        console.error(err)
+        error.value = 'Erreur lors du chargement des livres';
+        console.error(err);
     } finally {
-        loadingBooks.value = false
+        loadingBooks.value = false;
     }
-}
+};
 
 const loadVersions = async () => {
     try {
-        const response = await $fetch('/api/bible/versions') as any
-        availableVersions.value = response.data || response
+        const response = await $fetch('/api/bible/versions') as any;
+        availableVersions.value = response.data || response;
     } catch (err) {
-        error.value = 'Erreur lors du chargement des versions'
-        console.error(err)
+        error.value = 'Erreur lors du chargement des versions';
+        console.error(err);
     }
-}
+};
 
 const loadVerses = async () => {
     try {
@@ -156,22 +156,22 @@ const loadVerses = async () => {
             query: {
                 version: selectedVersionCode.value
             }
-        })
-        selectedChapterVerses.value = response.data
+        });
+        selectedChapterVerses.value = response.data;
     } catch (err) {
-        error.value = 'Erreur lors du chargement des versets'
-        console.error(err)
+        error.value = 'Erreur lors du chargement des versets';
+        console.error(err);
     }
-}
+};
 
 watch(() => route.query, async () => {
-    initQuery()
-    await loadVerses()
+    initQuery();
+    await loadVerses();
 }, {
     deep: true
-})
+});
 
-defineOgImageComponent('Saas')
+defineOgImageComponent('Saas');
 </script>
 
 <template>

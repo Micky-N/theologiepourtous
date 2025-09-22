@@ -1,7 +1,7 @@
 <script setup lang="ts">
-const route = useRoute()
-const { data: theme } = await useAsyncData(route.path, () => queryCollection('themes').path(route.path).first())
-const { data: lessons } = useAsyncData(route.path + '/lessons', () => queryCollection('lessons').where('theme', '=', route.params.theme).all())
+const route = useRoute();
+const { data: theme } = await useAsyncData(route.path, () => queryCollection('themes').path(route.path).first());
+const { data: lessons } = useAsyncData(route.path + '/lessons', () => queryCollection('lessons').where('theme', '=', route.params.theme).all());
 
 useSeoMeta({
     title: theme.value?.title,
@@ -16,7 +16,7 @@ useSeoMeta({
     twitterTitle: theme.value?.title,
     twitterDescription: theme.value?.seo.description,
     twitterImage: theme.value?.image.src
-})
+});
 
 useHead({
     htmlAttrs: {
@@ -25,7 +25,7 @@ useHead({
     link: [
         { rel: 'canonical', href: theme.value?.seo.url }
     ]
-})
+});
 </script>
 
 <template>

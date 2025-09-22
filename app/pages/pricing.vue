@@ -1,19 +1,19 @@
 <script setup lang="ts">
-const { data: page } = await useAsyncData('pricing', () => queryCollection('pricing').first())
+const { data: page } = await useAsyncData('pricing', () => queryCollection('pricing').first());
 
-const title = page.value?.seo?.title || page.value?.title
-const description = page.value?.seo?.description || page.value?.description
+const title = page.value?.seo?.title || page.value?.title;
+const description = page.value?.seo?.description || page.value?.description;
 
 useSeoMeta({
     title,
     ogTitle: title,
     description,
     ogDescription: description
-})
+});
 
-defineOgImageComponent('Saas')
+defineOgImageComponent('Saas');
 
-const isYearly = ref('0')
+const isYearly = ref('0');
 
 const items = ref([
     {
@@ -24,7 +24,7 @@ const items = ref([
         label: 'Yearly',
         value: '1'
     }
-])
+]);
 </script>
 
 <template>

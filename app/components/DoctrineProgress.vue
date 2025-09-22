@@ -33,11 +33,11 @@ const { doctrines } = defineProps<{
         completedArticles: number
         totalArticles: number
     }[]
-}>()
+}>();
 
 const getProgressColor = (progress: number) => {
-    if (progress === 100) return 'success'
-    if (progress >= 50) return 'warning'
-    return 'error'
-}
+    if (progress === 100) return 'success';
+    if (progress >= 50) return 'warning';
+    return 'error';
+};
 </script>

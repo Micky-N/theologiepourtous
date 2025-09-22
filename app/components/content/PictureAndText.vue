@@ -1,10 +1,10 @@
 <script setup lang="ts">
-import { UPageCard } from '#components'
+import { UPageCard } from '#components';
 
 defineProps<{
     reverse?: boolean
     card?: boolean
-}>()
+}>();
 </script>
 
 <template>

@@ -73,7 +73,7 @@
 </template>
 
 <script setup lang="ts">
-import type { BibleVersion } from '@prisma/client'
+import type { BibleVersion } from '@prisma/client';
 
 const props = defineProps<{
     availableVersions: BibleVersion[]
@@ -82,32 +82,32 @@ const props = defineProps<{
     version: number
     verseStart: number
     verseEnd?: number
-}>()
+}>();
 
 // État local
-const showModal = defineModel<boolean>({ default: false })
-const loading = ref(false)
-const selectedVersions = ref<number[]>([props.version])
+const showModal = defineModel<boolean>({ default: false });
+const loading = ref(false);
+const selectedVersions = ref<number[]>([props.version]);
 
 // Méthodes
 const toggleVersion = (versionId: number) => {
-    const index = selectedVersions.value.indexOf(versionId)
+    const index = selectedVersions.value.indexOf(versionId);
     if (index > -1) {
-        selectedVersions.value.splice(index, 1)
+        selectedVersions.value.splice(index, 1);
     } else if (selectedVersions.value.length < 6) {
-        selectedVersions.value.push(versionId)
+        selectedVersions.value.push(versionId);
     }
-}
+};
 
 const performComparison = async () => {
-    if (selectedVersions.value.length < 2) return
+    if (selectedVersions.value.length < 2) return;
 
     try {
-        loading.value = true
+        loading.value = true;
 
         const versionsCode = props.availableVersions
             .filter(v => selectedVersions.value.includes(v.id))
-            .map(v => v.code)
+            .map(v => v.code);
 
         // Construire les paramètres de comparaison
         const params = new URLSearchParams({
@@ -115,23 +115,23 @@ const performComparison = async () => {
             chapter: props.chapter.toString(),
             verses: props.verseStart.toString(),
             versions: versionsCode.join(',')
-        })
+        });
 
         if (props.verseEnd && props.verseEnd !== props.verseStart) {
-            params.set('verses', props.verseStart.toString() + '-' + props.verseEnd.toString())
+            params.set('verses', props.verseStart.toString() + '-' + props.verseEnd.toString());
         }
 
         // Naviguer vers la page de comparaison avec les paramètres
-        await navigateTo(`/bible/compare?${params.toString()}`)
+        await navigateTo(`/bible/compare?${params.toString()}`);
     } catch (error) {
-        console.error('Erreur lors de la comparaison:', error)
+        console.error('Erreur lors de la comparaison:', error);
     } finally {
-        loading.value = false
-        showModal.value = false
+        loading.value = false;
+        showModal.value = false;
     }
-}
+};
 
 watch(() => props.version, (newVersion) => {
-    selectedVersions.value = [newVersion]
-})
+    selectedVersions.value = [newVersion];
+});
 </script>

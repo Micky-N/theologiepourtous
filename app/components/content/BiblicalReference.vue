@@ -28,5 +28,5 @@ defineProps<{
     reference: string
     text: string
     commentary?: string
-}>()
+}>();
 </script>

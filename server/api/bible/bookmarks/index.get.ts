@@ -1,35 +1,35 @@
-import { prisma } from '~~/lib/prisma'
+import { prisma } from '~~/lib/prisma';
 
 export default defineEventHandler(async (event) => {
     try {
         // Vérifier l'authentification
-        const { user: userSession } = await getUserSession(event)
+        const { user: userSession } = await getUserSession(event);
 
         if (!userSession) {
             throw createError({
                 statusCode: 401,
                 statusMessage: 'Non autorisé'
-            })
+            });
         }
 
-        const userId = userSession.id
+        const userId = userSession.id;
 
-        const query = getQuery(event)
-        const bookCode = query.book as string | undefined
-        const limit = Math.min(parseInt(query.limit as string) || 50, 100)
-        const offset = parseInt(query.offset as string) || 0
+        const query = getQuery(event);
+        const bookCode = query.book as string | undefined;
+        const limit = Math.min(parseInt(query.limit as string) || 50, 100);
+        const offset = parseInt(query.offset as string) || 0;
 
         const whereClause: any = {
             userId
-        }
+        };
 
         // Filtrer par livre si spécifié
         if (bookCode) {
             const book = await prisma.bibleBook.findUnique({
                 where: { code: bookCode.toUpperCase() }
-            })
+            });
             if (book) {
-                whereClause.bookId = book.id
+                whereClause.bookId = book.id;
             }
         }
 
@@ -65,7 +65,7 @@ export default defineEventHandler(async (event) => {
                 skip: offset
             }),
             prisma.bibleBookmark.count({ where: whereClause })
-        ])
+        ]);
 
         const formattedBookmarks = bookmarks.map(bookmark => ({
             id: bookmark.id,
@@ -81,7 +81,7 @@ export default defineEventHandler(async (event) => {
             },
             createdAt: bookmark.createdAt,
             updatedAt: bookmark.updatedAt
-        }))
+        }));
 
         return {
             success: true,
@@ -95,11 +95,11 @@ export default defineEventHandler(async (event) => {
                 }
             },
             count: bookmarks.length
-        }
+        };
     } catch {
         throw createError({
             statusCode: 500,
             statusMessage: 'Erreur lors de la récupération des favoris'
-        })
+        });
     }
-})
+});

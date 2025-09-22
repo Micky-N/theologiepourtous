@@ -345,14 +345,14 @@
 </template>
 
 <script setup lang="ts">
-import type { TeachingCollectionItem, ThemesCollectionItem } from '@nuxt/content'
+import type { TeachingCollectionItem, ThemesCollectionItem } from '@nuxt/content';
 
-const route = useRoute()
-const { data: homeData } = await useAsyncData(route.path, () => queryCollection('index').first())
-const { data: themes } = await useAsyncData('posts', () => queryCollectionNavigation('themes', ['image', 'slug']))
+const route = useRoute();
+const { data: homeData } = await useAsyncData(route.path, () => queryCollection('index').first());
+const { data: themes } = await useAsyncData('posts', () => queryCollectionNavigation('themes', ['image', 'slug']));
 
 if (!homeData.value) {
-    throw createError({ statusCode: 404, statusMessage: 'Page non trouvée' })
+    throw createError({ statusCode: 404, statusMessage: 'Page non trouvée' });
 }
 // Page metadata
 useSeoMeta({
@@ -361,9 +361,9 @@ useSeoMeta({
     ogTitle: homeData.value.seo.ogTitle,
     ogDescription: homeData.value.seo.ogDescription,
     ogImage: homeData.value.seo.ogImage
-})
+});
 
 const getTheme = (themeName: string) => {
-    return themes.value?.[0]?.children?.find(theme => theme.slug === themeName) as ThemesCollectionItem & { children: TeachingCollectionItem[] } | undefined
-}
+    return themes.value?.[0]?.children?.find(theme => theme.slug === themeName) as ThemesCollectionItem & { children: TeachingCollectionItem[] } | undefined;
+};
 </script>

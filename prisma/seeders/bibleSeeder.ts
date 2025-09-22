@@ -1,5 +1,5 @@
-import type { PrismaClient } from '@prisma/client'
-import bibles from '../../docs/bibles.json'
+import type { PrismaClient } from '@prisma/client';
+import bibles from '../../docs/bibles.json';
 
 // Versions bibliques à ajouter
 const bibleVersions = [
@@ -59,7 +59,7 @@ const bibleVersions = [
         isActive: true,
         orderIndex: 7
     }
-]
+];
 
 // 66 livres de la Bible avec métadonnées
 const bibleBooks = [
@@ -132,7 +132,7 @@ const bibleBooks = [
     { code: '3JN', name: '3 Jean', testament: 'NEW', orderIndex: 64, chapterCount: 1 },
     { code: 'JUD', name: 'Jude', testament: 'NEW', orderIndex: 65, chapterCount: 1 },
     { code: 'REV', name: 'Apocalypse', testament: 'NEW', orderIndex: 66, chapterCount: 22 }
-] as const
+] as const;
 
 // Tous les versets extraits de bibles.json
 const verses = bibles as {
@@ -142,45 +142,45 @@ const verses = bibles as {
     texts: {
         [key: string]: string
     }
-}[]
+}[];
 
 export async function main(prismaClient: PrismaClient) {
-    console.log('🌱 Starting Bible seeding...')
+    console.log('🌱 Starting Bible seeding...');
 
     // 1. Créer les versions bibliques
-    console.log('📖 Creating Bible versions...')
+    console.log('📖 Creating Bible versions...');
     for (const version of bibleVersions) {
         await prismaClient.bibleVersion.upsert({
             where: { code: version.code },
             update: {},
             create: version
-        })
-        console.log(`  ✓ ${version.name} (${version.code})`)
+        });
+        console.log(`  ✓ ${version.name} (${version.code})`);
     }
 
     // 2. Créer les livres bibliques
-    console.log('📚 Creating Bible books...')
+    console.log('📚 Creating Bible books...');
     for (const book of bibleBooks) {
         await prismaClient.bibleBook.upsert({
             where: { code: book.code },
             update: {},
             create: book
-        })
-        console.log(`  ✓ ${book.name} (${book.code}) - ${book.chapterCount} chapitres`)
+        });
+        console.log(`  ✓ ${book.name} (${book.code}) - ${book.chapterCount} chapitres`);
     }
 
     // 3. Ajouter quelques versets d'exemple
-    console.log('📝 Creating verses...')
-    const versions = await prismaClient.bibleVersion.findMany()
-    const books = await prismaClient.bibleBook.findMany()
+    console.log('📝 Creating verses...');
+    const versions = await prismaClient.bibleVersion.findMany();
+    const books = await prismaClient.bibleBook.findMany();
 
     for (const verse of verses) {
-        const book = books.find(b => b.code === verse.bookCode)
-        if (!book) continue
+        const book = books.find(b => b.code === verse.bookCode);
+        if (!book) continue;
 
         for (const version of versions) {
-            const text = verse.texts[version.code as keyof typeof verse.texts]
-            if (!text) continue
+            const text = verse.texts[version.code as keyof typeof verse.texts];
+            if (!text) continue;
 
             await prismaClient.bibleVerse.upsert({
                 where: {
@@ -199,14 +199,14 @@ export async function main(prismaClient: PrismaClient) {
                     verse: verse.verse,
                     text: text
                 }
-            })
+            });
         }
 
-        console.log(`  ✓ ${verse.bookCode} ${verse.chapter}:${verse.verse}`)
+        console.log(`  ✓ ${verse.bookCode} ${verse.chapter}:${verse.verse}`);
     }
 
-    console.log('\n✅ Bible seeding completed!')
-    console.log(`   📖 ${bibleVersions.length} versions created`)
-    console.log(`   📚 ${bibleBooks.length} books created`)
-    console.log(`   📝 ${verses.length * versions.length} verses created`)
+    console.log('\n✅ Bible seeding completed!');
+    console.log(`   📖 ${bibleVersions.length} versions created`);
+    console.log(`   📚 ${bibleBooks.length} books created`);
+    console.log(`   📝 ${verses.length * versions.length} verses created`);
 }

@@ -1,14 +1,14 @@
 <script setup lang="ts">
-const route = useRoute()
-const { data: navigations } = useAsyncData('navigations', () => queryCollectionNavigation('themes', ['description', 'image', 'color']))
+const route = useRoute();
+const { data: navigations } = useAsyncData('navigations', () => queryCollectionNavigation('themes', ['description', 'image', 'color']));
 
 const items = computed(() => {
     if (!navigations.value) {
-        return []
+        return [];
     }
-    const firstNav = navigations.value[0]?.children
+    const firstNav = navigations.value[0]?.children;
     if (!firstNav) {
-        return []
+        return [];
     }
     return firstNav.map(item => ({
         ...item,
@@ -18,8 +18,8 @@ const items = computed(() => {
         to: item.path,
         children: item.children?.filter(child => child.path !== item.path) || [],
         active: route.path.startsWith(item.path)
-    }))
-})
+    }));
+});
 </script>
 
 <template>

@@ -1,13 +1,13 @@
 <script setup lang="ts">
-import type { LessonsCollectionItem, ThemesCollectionItem } from '@nuxt/content'
+import type { LessonsCollectionItem, ThemesCollectionItem } from '@nuxt/content';
 
-const { themes } = defineProps<{ themes: ThemesCollectionItem[] }>()
+const { themes } = defineProps<{ themes: ThemesCollectionItem[] }>();
 
-const route = useRoute()
-const perPage = 7
-const page = ref(parseInt((route.query.page as string) || '1'))
-const { data: blog } = await useAsyncData('blog', () => queryCollection('teaching').first())
-const { data: lessonsCount } = await useAsyncData('lessons-count', () => queryCollection('lessons').count())
+const route = useRoute();
+const perPage = 7;
+const page = ref(parseInt((route.query.page as string) || '1'));
+const { data: blog } = await useAsyncData('blog', () => queryCollection('teaching').first());
+const { data: lessonsCount } = await useAsyncData('lessons-count', () => queryCollection('lessons').count());
 const { data: lessons } = useAsyncData(
     route.path,
     () => queryCollection('lessons')
@@ -15,28 +15,28 @@ const { data: lessons } = useAsyncData(
         .skip((page.value - 1) * perPage)
         .all(),
     { watch: [page] }
-)
+);
 
-const totalPages = Math.ceil((lessonsCount.value || 0) / perPage)
+const totalPages = Math.ceil((lessonsCount.value || 0) / perPage);
 if (page.value < 1 || (route.query.page && page.value === 1) || page.value > totalPages) {
-    navigateTo('/enseignements')
+    navigateTo('/enseignements');
 }
-const isFirstLessonOfFirstPage = (lesson: LessonsCollectionItem) => lesson.id === lessons.value?.[0]?.id && page.value === 1
-const title = blog.value?.seo?.title || blog.value?.title
-const description = blog.value?.seo?.description || blog.value?.description
+const isFirstLessonOfFirstPage = (lesson: LessonsCollectionItem) => lesson.id === lessons.value?.[0]?.id && page.value === 1;
+const title = blog.value?.seo?.title || blog.value?.title;
+const description = blog.value?.seo?.description || blog.value?.description;
 
 useSeoMeta({
     title,
     ogTitle: title,
     description,
     ogDescription: description
-})
+});
 
 const getTheme = (lesson: LessonsCollectionItem) => {
-    return themes.find(theme => theme.path === '/enseignements/' + lesson.theme)
-}
+    return themes.find(theme => theme.path === '/enseignements/' + lesson.theme);
+};
 
-defineOgImageComponent('Saas')
+defineOgImageComponent('Saas');
 </script>
 
 <template>

@@ -49,29 +49,29 @@
 </template>
 
 <script setup lang="ts">
-import { ref, watch } from 'vue'
+import { ref, watch } from 'vue';
 
 type VerseData = {
     reference: string
     text: string
     version: string
-}
+};
 
 const { verse } = defineProps<{
     verse: string
-}>()
+}>();
 
-const open = ref(false)
-const loading = ref(false)
-const error = ref<string | null>(null)
-const data = ref<VerseData | null>(null)
+const open = ref(false);
+const loading = ref(false);
+const error = ref<string | null>(null);
+const data = ref<VerseData | null>(null);
 
 // Cache simple en mémoire pour éviter les appels répétés
-const cache = useState('cache', () => new Map<string, VerseData>())
+const cache = useState('cache', () => new Map<string, VerseData>());
 
 async function fetchVerseFromApiSim(verseRef: string): Promise<VerseData> {
     // Simule un délai réseau de 1 seconde
-    await new Promise(resolve => setTimeout(resolve, 1000))
+    await new Promise(resolve => setTimeout(resolve, 1000));
 
     // Données factices pour quelques références courantes
     const presets: Record<string, VerseData> = {
@@ -90,44 +90,44 @@ async function fetchVerseFromApiSim(verseRef: string): Promise<VerseData> {
             text: 'Nulle créature n’est cachée devant lui, mais tout est nu et à découvert à ses yeux.',
             version: 'LSG'
         }
-    }
+    };
 
     return presets[verseRef] ?? {
         reference: verseRef,
         text: 'Verset non trouvé',
         version: 'LSG'
-    }
+    };
 }
 
 async function ensureVerseLoaded() {
-    error.value = null
+    error.value = null;
     if (cache.value.has(verse)) {
-        data.value = cache.value.get(verse) as VerseData
-        return
+        data.value = cache.value.get(verse) as VerseData;
+        return;
     }
-    loading.value = true
-    data.value = null
+    loading.value = true;
+    data.value = null;
     try {
-        const res = await fetchVerseFromApiSim(verse)
-        cache.value.set(verse, res)
-        data.value = res
+        const res = await fetchVerseFromApiSim(verse);
+        cache.value.set(verse, res);
+        data.value = res;
     } catch {
-        error.value = 'Impossible de charger le verset.'
+        error.value = 'Impossible de charger le verset.';
     } finally {
-        loading.value = false
+        loading.value = false;
     }
 }
 
 // Charge lorsque le popover s’ouvre
 watch(open, (val) => {
     if (val) {
-        ensureVerseLoaded()
+        ensureVerseLoaded();
     }
-})
+});
 
 // Réinitialise les données si la référence change
 watch(() => verse, () => {
-    data.value = cache.value.get(verse) ?? null
-    error.value = null
-})
+    data.value = cache.value.get(verse) ?? null;
+    error.value = null;
+});
 </script>

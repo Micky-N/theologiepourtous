@@ -1,25 +1,25 @@
 <script setup lang="ts">
-import * as z from 'zod'
-import type { FormSubmitEvent } from '@nuxt/ui'
+import * as z from 'zod';
+import type { FormSubmitEvent } from '@nuxt/ui';
 
 definePageMeta({
     layout: 'auth'
-})
+});
 
 useSeoMeta({
     title: 'Connexion - Théologie pour Tous',
     description: 'Connectez-vous à votre compte pour continuer votre parcours spirituel'
-})
+});
 
-const { loggedIn, fetch: refreshSession } = useUserSession()
-const toast = useToast()
+const { loggedIn, fetch: refreshSession } = useUserSession();
+const toast = useToast();
 
 // Rediriger si déjà connecté
 watch(loggedIn, (value) => {
     if (value) {
-        navigateTo('/')
+        navigateTo('/');
     }
-}, { immediate: true })
+}, { immediate: true });
 
 const fields = [{
     name: 'email',
@@ -32,7 +32,7 @@ const fields = [{
     label: 'Mot de passe',
     type: 'password' as const,
     placeholder: 'Entrez votre mot de passe'
-}]
+}];
 
 const providers = [{
     label: 'Google',
@@ -42,40 +42,40 @@ const providers = [{
             title: 'Prochainement',
             description: 'Connexion avec Google bientôt disponible',
             color: 'primary'
-        })
+        });
     }
-}]
+}];
 
 const schema = z.object({
     email: z.string().email('Format email invalide'),
     password: z.string().min(1, 'Le mot de passe est requis')
-})
+});
 
-type Schema = z.output<typeof schema>
+type Schema = z.output<typeof schema>;
 
-const isLoading = ref(false)
+const isLoading = ref(false);
 
 async function onSubmit(payload: FormSubmitEvent<Schema>) {
-    isLoading.value = true
+    isLoading.value = true;
 
     await $fetch('/api/login', {
         method: 'POST',
         body: payload.data
     }).then(async () => {
         // Refresh the session on client-side and redirect to the home page
-        await refreshSession()
-        await navigateTo('/')
+        await refreshSession();
+        await navigateTo('/');
     }).catch((reason) => {
-        console.error('Erreur de connexion:', reason)
+        console.error('Erreur de connexion:', reason);
 
         toast.add({
             title: 'Erreur de connexion',
             description: 'Email ou mot de passe incorrect',
             color: 'error'
-        })
+        });
     }).finally(() => {
-        isLoading.value = false
-    })
+        isLoading.value = false;
+    });
 }
 </script>
 

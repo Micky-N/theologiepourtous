@@ -44,21 +44,21 @@ const columns = [{
         label: 'Blog',
         to: '/blog'
     }]
-}]
+}];
 
-const toast = useToast()
+const toast = useToast();
 
-const email = ref('')
-const loading = ref(false)
+const email = ref('');
+const loading = ref(false);
 
 function onSubmit() {
-    loading.value = true
+    loading.value = true;
 
     toast.add({
         title: 'Abonné !',
         description: 'Vous êtes maintenant abonné à notre newsletter.',
         color: 'primary'
-    })
+    });
 }
 </script>
 

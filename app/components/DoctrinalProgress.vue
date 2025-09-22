@@ -46,5 +46,5 @@ defineProps<{
         description: string
         completed: boolean
     }[]
-}>()
+}>();
 </script>

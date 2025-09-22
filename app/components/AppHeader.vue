@@ -1,10 +1,10 @@
 <script setup lang="ts">
-const route = useRoute()
-const { user, loggedIn, clear: clearSession } = useUserSession()
+const route = useRoute();
+const { user, loggedIn, clear: clearSession } = useUserSession();
 
 async function logout() {
-    await clearSession()
-    await navigateTo('/login')
+    await clearSession();
+    await navigateTo('/login');
 }
 
 const items = computed(() => [
@@ -28,7 +28,7 @@ const items = computed(() => [
         to: '/about',
         active: route.path.startsWith('/about')
     }
-])
+]);
 
 const userMenuItems = computed(() => [
     [{
@@ -41,7 +41,7 @@ const userMenuItems = computed(() => [
         icon: 'i-lucide-log-out',
         click: logout
     }]
-])
+]);
 </script>
 
 <template>

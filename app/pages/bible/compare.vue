@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import type { BibleBook, BibleVerse, BibleVersion } from '@prisma/client'
+import type { BibleBook, BibleVerse, BibleVersion } from '@prisma/client';
 
 // Types locaux simplifiés
 interface SimpleComparison {
@@ -19,41 +19,41 @@ interface ActiveComparison {
 
 definePageMeta({
     layout: 'bible'
-})
+});
 
 useSeoMeta({
     title: 'Comparaison de versions bibliques',
     ogTitle: 'Comparaison de versions bibliques',
     description: 'Comparez différentes versions de la Bible',
     ogDescription: 'Comparez différentes versions de la Bible'
-})
+});
 
-const route = useRoute()
-const router = useRouter()
+const route = useRoute();
+const router = useRouter();
 
 // Variables temporaires pour remplacer les composables
-const availableVersions = ref<BibleVersion[]>([])
-const loadingComparison = ref(false)// Configuration de la page
+const availableVersions = ref<BibleVersion[]>([]);
+const loadingComparison = ref(false);// Configuration de la page
 
 // État de la page
-const loadingBooks = ref(false)
-const error = ref('')
+const loadingBooks = ref(false);
+const error = ref('');
 
 // Sélection du passage
-const selectedBookCode = ref<string | undefined>(undefined)
-const selectedChapter = ref<number | null>(null)
-const startVerse = ref<number | null>(1)
-const endVerse = ref<number | null>(null)
-const selectedVersions = ref<number[]>([])
+const selectedBookCode = ref<string | undefined>(undefined);
+const selectedChapter = ref<number | null>(null);
+const startVerse = ref<number | null>(1);
+const endVerse = ref<number | null>(null);
+const selectedVersions = ref<number[]>([]);
 
 // Données
-const booksOptions = ref<BibleBook[]>([])
-const activeComparison = ref<ActiveComparison | null>(null)
+const booksOptions = ref<BibleBook[]>([]);
+const activeComparison = ref<ActiveComparison | null>(null);
 
 // Computed
 const selectedBookData = computed(() =>
     booksOptions.value.find(book => book.code === selectedBookCode.value)
-)
+);
 
 const canStartComparison = computed(() =>
     selectedBookCode.value
@@ -61,84 +61,84 @@ const canStartComparison = computed(() =>
     && startVerse.value
     && selectedVersions.value.length >= 2
     && selectedVersions.value.length <= 6
-)
+);
 
 const availableVersionsForAdd = computed(() =>
     availableVersions.value.filter(version =>
         !activeComparison.value?.comparisons.some(comp => comp.version.id === version.id)
     )
-)
+);
 
 const initCompare = () => {
-    const verses = (route.query.verses as string | undefined || '').split('-')
-    selectedBookCode.value = route.query.book as string | undefined || undefined
-    selectedChapter.value = route.query.chapter ? parseInt(route.query.chapter as string) : null
-    startVerse.value = verses.length > 0 ? parseInt(verses[0] as string) : 1
-    endVerse.value = verses.length > 1 ? parseInt(verses[1] as string) : null
+    const verses = (route.query.verses as string | undefined || '').split('-');
+    selectedBookCode.value = route.query.book as string | undefined || undefined;
+    selectedChapter.value = route.query.chapter ? parseInt(route.query.chapter as string) : null;
+    startVerse.value = verses.length > 0 ? parseInt(verses[0] as string) : 1;
+    endVerse.value = verses.length > 1 ? parseInt(verses[1] as string) : null;
 
     // Pré-sélectionner des versions populaires
     if (availableVersions.value.length > 0) {
-        const versions = (route.query.versions as string | undefined || 'LSG,S21').split(',')
+        const versions = (route.query.versions as string | undefined || 'LSG,S21').split(',');
         const defaultVersions = availableVersions.value
             .filter((v: BibleVersion) => versions.includes(v.code))
-            .map((v: BibleVersion) => v.id)
+            .map((v: BibleVersion) => v.id);
 
         if (defaultVersions.length >= 2) {
-            selectedVersions.value = defaultVersions
+            selectedVersions.value = defaultVersions;
         }
     }
-}
+};
 
 // Méthodes
 const toggleVersion = (versionId: number, checked: boolean | 'indeterminate') => {
-    const isChecked = checked === true
+    const isChecked = checked === true;
     if (isChecked) {
         if (!selectedVersions.value.includes(versionId)) {
-            selectedVersions.value.push(versionId)
+            selectedVersions.value.push(versionId);
         }
     } else {
-        selectedVersions.value = selectedVersions.value.filter(id => id !== versionId)
+        selectedVersions.value = selectedVersions.value.filter(id => id !== versionId);
     }
-}
+};
 
 const loadBooks = async () => {
     try {
-        loadingBooks.value = true
-        const response = await $fetch('/api/bible/books')
-        booksOptions.value = (response.data?.all) as unknown as BibleBook[]
+        loadingBooks.value = true;
+        const response = await $fetch('/api/bible/books');
+        booksOptions.value = (response.data?.all) as unknown as BibleBook[];
     } catch (err) {
-        error.value = 'Erreur lors du chargement des livres'
-        console.error(err)
+        error.value = 'Erreur lors du chargement des livres';
+        console.error(err);
     } finally {
-        loadingBooks.value = false
+        loadingBooks.value = false;
     }
-}
+};
 
 const loadVersions = async () => {
     try {
-        const response = await $fetch('/api/bible/versions') as any
-        availableVersions.value = response.data || response
+        const response = await $fetch('/api/bible/versions') as any;
+        availableVersions.value = response.data || response;
     } catch (err) {
-        error.value = 'Erreur lors du chargement des versions'
-        console.error(err)
+        error.value = 'Erreur lors du chargement des versions';
+        console.error(err);
     }
-}
+};
 
 const startComparison = async () => {
-    if (!canStartComparison.value) return
+    if (!canStartComparison.value) return;
 
     try {
-        error.value = ''
-        loadingComparison.value = true
+        error.value = '';
+        loadingComparison.value = true;
 
-        const book = selectedBookData.value
-        const chapter = selectedChapter.value!
-        const start = startVerse.value!
-        const end = endVerse.value || start
+        const book = selectedBookData.value;
+        const chapter = selectedChapter.value!;
+        const start = startVerse.value!;
+        const end = endVerse.value || start;
 
         if (!book) {
-            error.value = 'Veuillez sélectionner un livre'
-            return
+            error.value = 'Veuillez sélectionner un livre';
+            return;
         }
 
         const response = await $fetch('/api/bible/compare', {
@@ -150,34 +150,34 @@ const startComparison = async () => {
                 verseEnd: end,
                 versions: selectedVersions.value
             }
-        })
+        });
 
-        activeComparison.value = response.data as unknown as ActiveComparison
+        activeComparison.value = response.data as unknown as ActiveComparison;
     } catch (err: any) {
-        error.value = err?.message || 'Erreur lors de la comparaison'
-        console.error(err)
+        error.value = err?.message || 'Erreur lors de la comparaison';
+        console.error(err);
     } finally {
-        loadingComparison.value = false
+        loadingComparison.value = false;
     }
-}
+};
 
 const closeComparison = async () => {
     if (Object.keys(route.query).length > 0) {
-        return await router.push('/bible/compare')
+        return await router.push('/bible/compare');
     }
-    activeComparison.value = null
-    selectedBookCode.value = undefined
-    selectedChapter.value = null
+    activeComparison.value = null;
+    selectedBookCode.value = undefined;
+    selectedChapter.value = null;
     selectedVersions.value = availableVersions.value
         .filter((v: BibleVersion) => ['LSG', 'S21'].includes(v.code))
-        .map((v: BibleVersion) => v.id)
-    startVerse.value = 1
-    endVerse.value = null
-    error.value = ''
-}
+        .map((v: BibleVersion) => v.id);
+    startVerse.value = 1;
+    endVerse.value = null;
+    error.value = '';
+};
 
 const handleAddVersion = async (version: BibleVersion) => {
-    if (!activeComparison.value) return
+    if (!activeComparison.value) return;
 
     // Ajouter la version à la comparaison existante avec placeholder
     const newComparison: SimpleComparison = {
@@ -191,41 +191,41 @@ const handleAddVersion = async (version: BibleVersion) => {
             versionId: version.id,
             bookId: activeComparison.value.book.id
         }]
-    }
+    };
 
-    activeComparison.value.comparisons.push(newComparison)
+    activeComparison.value.comparisons.push(newComparison);
 
-    selectedVersions.value.push(version.id)
-    await startComparison()
-}
+    selectedVersions.value.push(version.id);
+    await startComparison();
+};
 
 const handleRemoveVersion = (versionId: number) => {
-    if (!activeComparison.value) return
+    if (!activeComparison.value) return;
 
     activeComparison.value.comparisons = activeComparison.value.comparisons
-        .filter(comp => comp.version.id !== versionId)
+        .filter(comp => comp.version.id !== versionId);
     selectedVersions.value = selectedVersions.value
-        .filter(id => id !== versionId)
-}
+        .filter(id => id !== versionId);
+};
 
 const handleAddBookmark = (verse: BibleVerse) => {
     // TODO: Implémenter l'ajout aux favoris
-    console.log('Ajouter aux favoris:', verse)
-}
+    console.log('Ajouter aux favoris:', verse);
+};
 
 const handleAddNote = (verse: BibleVerse) => {
     // TODO: Implémenter l'ajout de note
-    console.log('Ajouter une note:', verse)
-}
+    console.log('Ajouter une note:', verse);
+};
 
 // Lifecycle
 await Promise.all([
     loadBooks(),
     loadVersions()
-])
+]);
 
-initCompare()
-await startComparison()
+initCompare();
+await startComparison();
 </script>
 
 <template>

@@ -196,21 +196,21 @@ const blueShades = [
     { name: 'blue-500', value: '500', hex: '#3b82f6' },
     { name: 'blue-600', value: '600', hex: '#2563eb' },
     { name: 'blue-700', value: '700', hex: '#1d4ed8' }
-]
+];
 
 const indigoShades = [
     { name: 'indigo-400', value: '400', hex: '#818cf8' },
     { name: 'indigo-500', value: '500', hex: '#6366f1' },
     { name: 'indigo-600', value: '600', hex: '#4f46e5' },
     { name: 'indigo-700', value: '700', hex: '#4338ca' }
-]
+];
 
 const skyShades = [
     { name: 'sky-400', value: '400', hex: '#38bdf8' },
     { name: 'sky-500', value: '500', hex: '#0ea5e9' },
     { name: 'sky-600', value: '600', hex: '#0284c7' },
     { name: 'sky-700', value: '700', hex: '#0369a1' }
-]
+];
 
 const theologicalColors = [
     { name: 'Divine', meaning: 'Divinité', bg: 'bg-violet-600', text: 'text-violet-600', value: 'violet-600' },
@@ -221,25 +221,25 @@ const theologicalColors = [
     { name: 'Truth', meaning: 'Vérité', bg: 'bg-blue-700', text: 'text-blue-700', value: 'blue-700' },
     { name: 'Faith', meaning: 'Foi', bg: 'bg-indigo-500', text: 'text-indigo-600', value: 'indigo-500' },
     { name: 'Hope', meaning: 'Espoir', bg: 'bg-sky-400', text: 'text-sky-600', value: 'sky-400' }
-]
+];
 
 const functionalColors = [
     { name: 'Success', usage: 'Messages de succès', bg: 'bg-emerald-500' },
     { name: 'Warning', usage: 'Alertes et attention', bg: 'bg-amber-500' },
     { name: 'Error', usage: 'Erreurs et suppression', bg: 'bg-red-500' },
     { name: 'Info', usage: 'Information et aide', bg: 'bg-cyan-500' }
-]
+];
 
 const gradients = [
     { name: 'Primary', value: 'from-blue-600 to-indigo-600' },
     { name: 'Divine', value: 'from-violet-500 to-purple-600' },
     { name: 'Peaceful', value: 'from-teal-400 to-blue-500' },
     { name: 'Spiritual', value: 'from-indigo-600 to-violet-600' }
-]
+];
 
 // Métadonnées de la page
 useSeoMeta({
     title: 'Charte Graphique - Théologie pour Tous',
     description: 'Palette de couleurs et guide de style pour la plateforme de formation théologique'
-})
+});
 </script>

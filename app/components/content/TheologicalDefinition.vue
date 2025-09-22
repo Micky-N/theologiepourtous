@@ -31,5 +31,5 @@
 defineProps<{
     definition: string
     etymology?: string
-}>()
+}>();
 </script>

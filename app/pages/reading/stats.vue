@@ -36,7 +36,7 @@
 definePageMeta({
     middleware: 'auth',
     layout: 'default'
-})
+});
 
 // Meta tags
 useHead({
@@ -47,5 +47,5 @@ useHead({
             content: 'Suivez votre progression dans l\'étude de la Bible avec des statistiques détaillées'
         }
     ]
-})
+});
 </script>

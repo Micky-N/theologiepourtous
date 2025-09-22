@@ -57,7 +57,7 @@
 </template>
 
 <script setup lang="ts">
-import BiblicalReferencePopover from './BiblicalReferencePopover.vue'
+import BiblicalReferencePopover from './BiblicalReferencePopover.vue';
 
 defineProps<{
     positions: {
@@ -65,7 +65,7 @@ defineProps<{
         arguments: string
         verses: string[]
     }[]
-}>()
+}>();
 </script>
 
 <style scoped>

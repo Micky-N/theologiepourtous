@@ -56,8 +56,8 @@
 </template>
 
 <script lang="ts" setup>
-import type { $Enums, BibleBook, BibleVersion } from '@prisma/client'
-import { computed } from 'vue'
+import type { $Enums, BibleBook, BibleVersion } from '@prisma/client';
+import { computed } from 'vue';
 
 interface ApiVerseResponseData {
     book: {
@@ -96,7 +96,7 @@ const props = defineProps<{
     versesData: ApiVerseResponseData
     versions: BibleVersion[]
     selectedVersion: BibleVersion
-}>()
+}>();
 
 const showCompare = (verse: number) => {
     verseToCompare.value = {
@@ -104,27 +104,27 @@ const showCompare = (verse: number) => {
         verseStart: verse,
         chapter: props.chapter,
         version: props.selectedVersion.id
-    }
-    openedCompare.value = true
-}
+    };
+    openedCompare.value = true;
+};
 
-const verseToCompare = ref<VerseToCompare | null>(null)
+const verseToCompare = ref<VerseToCompare | null>(null);
 
-const openedCompare = ref(false)
+const openedCompare = ref(false);
 
 const emit = defineEmits<{
     (e: 'update:chapter', value: number): void
-}>()
+}>();
 
 const chapters = computed(() => {
-    return Array.from({ length: props.versesData?.navigation.totalChapters || 0 }, (_, i) => i + 1)
-})
+    return Array.from({ length: props.versesData?.navigation.totalChapters || 0 }, (_, i) => i + 1);
+});
 
-const currentVerses = computed(() => props.versesData?.verses || [])
+const currentVerses = computed(() => props.versesData?.verses || []);
 
 const handleChapterChange = (chapter: number) => {
-    emit('update:chapter', chapter)
-}
+    emit('update:chapter', chapter);
+};
 </script>
 
 <style>

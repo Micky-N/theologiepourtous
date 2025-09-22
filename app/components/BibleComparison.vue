@@ -236,7 +236,7 @@
 </template>
 
 <script setup lang="ts">
-import type { BibleBook, BibleVerse, BibleVersion } from '@prisma/client'
+import type { BibleBook, BibleVerse, BibleVersion } from '@prisma/client';
 
 interface Comparison {
     version: BibleVersion
@@ -260,86 +260,86 @@ const emit = defineEmits<{
     removeVersion: [versionId: number]
     addBookmark: [verse: BibleVerse]
     addNote: [verse: BibleVerse]
-}>()
+}>();
 
 const props = withDefaults(defineProps<Props>(), {
     availableVersions: () => []
-})
+});
 
 // État local
-const showSettings = ref(false)
-const showVersionSelector = ref(false)
-const layoutMode = ref<'side-by-side' | 'vertical' | 'horizontal'>('side-by-side')
-const fontSize = ref<'small' | 'normal' | 'large' | 'extra-large'>('normal')
-const showVerseNumbers = ref(true)
+const showSettings = ref(false);
+const showVersionSelector = ref(false);
+const layoutMode = ref<'side-by-side' | 'vertical' | 'horizontal'>('side-by-side');
+const fontSize = ref<'small' | 'normal' | 'large' | 'extra-large'>('normal');
+const showVerseNumbers = ref(true);
 
 // Options de configuration
 const layoutOptions = [
     { label: 'Côte à côte', value: 'side-by-side' },
     { label: 'Vertical', value: 'vertical' },
     { label: 'Horizontal', value: 'horizontal' }
-]
+];
 
 const fontSizeOptions = [
     { label: 'Petit', value: 'small' },
     { label: 'Normal', value: 'normal' },
     { label: 'Grand', value: 'large' },
     { label: 'Très grand', value: 'extra-large' }
-]
+];
 
 // Méthodes
 const addVersion = (version: BibleVersion) => {
     if (props.comparisons.length < 6) {
-        emit('addVersion', version)
-        showVersionSelector.value = false
+        emit('addVersion', version);
+        showVersionSelector.value = false;
     }
-}
+};
 
 const removeVersion = (versionId: number) => {
-    emit('removeVersion', versionId)
-}
+    emit('removeVersion', versionId);
+};
 
 const addBookmark = (verse: BibleVerse) => {
-    emit('addBookmark', verse)
-}
+    emit('addBookmark', verse);
+};
 
 const addNote = (verse: BibleVerse) => {
-    emit('addNote', verse)
-}
+    emit('addNote', verse);
+};
 
 const copyVerse = async (verse: BibleVerse, version: BibleVersion) => {
-    const text = `${props.book.name} ${props.chapter}:${verse.verse} (${version.code})\n"${verse.text}"`
+    const text = `${props.book.name} ${props.chapter}:${verse.verse} (${version.code})\n"${verse.text}"`;
 
     try {
-        await navigator.clipboard.writeText(text)
+        await navigator.clipboard.writeText(text);
         // TODO: Ajouter toast de succès
     } catch (error) {
-        console.error('Erreur lors de la copie:', error)
+        console.error('Erreur lors de la copie:', error);
         // TODO: Ajouter toast d'erreur
     }
-}
+};
 
 const exportComparison = () => {
     const content = props.comparisons.map((comparison) => {
         const versesText = comparison.verses.map(verse =>
             `${verse.verse}. ${verse.text}`
-        ).join('\n')
+        ).join('\n');
 
-        return `${comparison.version.name} (${comparison.version.code})\n${versesText}`
-    }).join('\n\n---\n\n')
+        return `${comparison.version.name} (${comparison.version.code})\n${versesText}`;
+    }).join('\n\n---\n\n');
 
-    const fullContent = `${props.book.name} ${props.chapter}:${props.verseRange.start}${props.verseRange.end > props.verseRange.start ? `-${props.verseRange.end}` : ''}\n\n${content}`
+    const fullContent = `${props.book.name} ${props.chapter}:${props.verseRange.start}${props.verseRange.end > props.verseRange.start ? `-${props.verseRange.end}` : ''}\n\n${content}`;
 
-    const blob = new Blob([fullContent], { type: 'text/plain' })
-    const url = URL.createObjectURL(blob)
-    const a = document.createElement('a')
-    a.href = url
-    a.download = `${props.book.code}_${props.chapter}_${props.verseRange.start}-${props.verseRange.end}_comparison.txt`
-    document.body.appendChild(a)
-    a.click()
-    document.body.removeChild(a)
-    URL.revokeObjectURL(url)
-}
+    const blob = new Blob([fullContent], { type: 'text/plain' });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = `${props.book.code}_${props.chapter}_${props.verseRange.start}-${props.verseRange.end}_comparison.txt`;
+    document.body.appendChild(a);
+    a.click();
+    document.body.removeChild(a);
+    URL.revokeObjectURL(url);
+};
 </script>
 
 <style scoped>

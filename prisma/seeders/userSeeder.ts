@@ -1,4 +1,4 @@
-import type { PrismaClient } from '@prisma/client'
+import type { PrismaClient } from '@prisma/client';
 
 // Utilisateurs à créer
 const users = [
@@ -26,13 +26,13 @@ const users = [
         password: '$2b$12$cai4xTNRB25j1VFrzZqsmuLnXh1lxoJmaKPek0qItQUqWCblK0d1S', // "password123"
         role: 'USER'
     }
-] as const
+] as const;
 
 export async function main(prismaClient: PrismaClient) {
-    console.log('🌱 Starting User seeding...')
+    console.log('🌱 Starting User seeding...');
 
     // Créer les utilisateurs
-    console.log('👥 Creating users...')
+    console.log('👥 Creating users...');
     for (const userData of users) {
         const user = await prismaClient.user.upsert({
             where: { email: userData.email },
@@ -43,13 +43,13 @@ export async function main(prismaClient: PrismaClient) {
                 password: userData.password,
                 role: userData.role
             }
-        })
-        console.log(`  ✓ ${user.name} (${user.email}) - Role: ${user.role}`)
+        });
+        console.log(`  ✓ ${user.name} (${user.email}) - Role: ${user.role}`);
     }
 
-    console.log('\n✅ User seeding completed!')
-    console.log(`   👥 ${users.length} users created`)
-    console.log(`   🔧 ${users.filter(u => u.role === 'ADMIN').length} admin(s)`)
-    console.log(`   👤 ${users.filter(u => u.role === 'USER').length} regular user(s)`)
-    console.log('\n📝 Note: All passwords are hashed. Default password is "password123" for users and "admin123" for admin.')
+    console.log('\n✅ User seeding completed!');
+    console.log(`   👥 ${users.length} users created`);
+    console.log(`   🔧 ${users.filter(u => u.role === 'ADMIN').length} admin(s)`);
+    console.log(`   👤 ${users.filter(u => u.role === 'USER').length} regular user(s)`);
+    console.log('\n📝 Note: All passwords are hashed. Default password is "password123" for users and "admin123" for admin.');
 }

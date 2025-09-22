@@ -1,14 +1,14 @@
-import { defineCollection, z } from '@nuxt/content'
+import { defineCollection, z } from '@nuxt/content';
 
-const variantEnum = z.enum(['solid', 'outline', 'subtle', 'soft', 'ghost', 'link'])
-const colorEnum = z.enum(['primary', 'secondary', 'neutral', 'error', 'warning', 'success', 'info'])
-const sizeEnum = z.enum(['xs', 'sm', 'md', 'lg', 'xl'])
-const orientationEnum = z.enum(['vertical', 'horizontal'])
+const variantEnum = z.enum(['solid', 'outline', 'subtle', 'soft', 'ghost', 'link']);
+const colorEnum = z.enum(['primary', 'secondary', 'neutral', 'error', 'warning', 'success', 'info']);
+const sizeEnum = z.enum(['xs', 'sm', 'md', 'lg', 'xl']);
+const orientationEnum = z.enum(['vertical', 'horizontal']);
 
 const createBaseSchema = () => z.object({
     title: z.string().nonempty(),
     description: z.string().nonempty()
-})
+});
 
 const createLinkSchema = () => z.object({
     label: z.string().nonempty(),
@@ -19,7 +19,7 @@ const createLinkSchema = () => z.object({
     target: z.string().optional(),
     color: colorEnum.optional(),
     variant: variantEnum.optional()
-})
+});
 
 const createSeoSchema = () => z.object({
     description: z.string().nonempty(),
@@ -28,7 +28,7 @@ const createSeoSchema = () => z.object({
     keywords: z.string().nonempty(),
     robots: z.string().nonempty(),
     lang: z.string().nonempty()
-})
+});
 
 export const collections = {
     index: defineCollection({
@@ -269,4 +269,4 @@ export const collections = {
             image: z.string()
         })
     })
-}
+};

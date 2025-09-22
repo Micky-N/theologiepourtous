@@ -1,15 +1,15 @@
 <script setup lang="ts">
-const route = useRoute()
-const { data: lesson } = await useAsyncData(route.path, () => queryCollection('lessons').path(route.path).first())
+const route = useRoute();
+const { data: lesson } = await useAsyncData(route.path, () => queryCollection('lessons').path(route.path).first());
 if (!lesson.value) {
-    throw createError({ statusCode: 404, statusMessage: 'Lesson not found', fatal: true })
+    throw createError({ statusCode: 404, statusMessage: 'Lesson not found', fatal: true });
 }
 
 const { data: surround } = useAsyncData(`${route.path}-surround`, () => {
     return queryCollectionItemSurroundings('lessons', route.path, {
         fields: ['description']
-    }).where('theme', '=', route.params.theme)
-})
+    }).where('theme', '=', route.params.theme);
+});
 
 useSeoMeta({
     title: lesson.value.title,
@@ -25,7 +25,7 @@ useSeoMeta({
     twitterTitle: lesson.value.title,
     twitterDescription: lesson.value.seo.description,
     twitterImage: lesson.value.image.src
-})
+});
 
 useHead({
     htmlAttrs: {
@@ -34,7 +34,7 @@ useHead({
     link: [
         { rel: 'canonical', href: lesson.value.seo.url }
     ]
-})
+});
 </script>
 
 <template>

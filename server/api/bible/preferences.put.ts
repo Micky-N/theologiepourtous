@@ -1,31 +1,31 @@
-import { prisma } from '~~/lib/prisma'
+import { prisma } from '~~/lib/prisma';
 
 export default defineEventHandler(async (event) => {
     try {
         // Vérifier l'authentification
-        const { user: userSession } = await getUserSession(event)
+        const { user: userSession } = await getUserSession(event);
 
         if (!userSession) {
             throw createError({
                 statusCode: 401,
                 statusMessage: 'Non autorisé'
-            })
+            });
         }
 
-        const body = await readBody(event)
-        const { defaultVersionId, showVerseNumbers } = body
+        const body = await readBody(event);
+        const { defaultVersionId, showVerseNumbers } = body;
 
         // Vérifier que la version existe si fournie
         if (defaultVersionId) {
             const version = await prisma.bibleVersion.findUnique({
                 where: { id: defaultVersionId }
-            })
+            });
 
             if (!version) {
                 throw createError({
                     statusCode: 404,
                     statusMessage: 'Version biblique non trouvée'
-                })
+                });
             }
         }
 
@@ -52,7 +52,7 @@ export default defineEventHandler(async (event) => {
                     }
                 }
             }
-        })
+        });
 
         return {
             success: true,
@@ -63,14 +63,14 @@ export default defineEventHandler(async (event) => {
                 createdAt: preferences.createdAt,
                 updatedAt: preferences.updatedAt
             }
-        }
+        };
     } catch (error: any) {
         if (error.statusCode) {
-            throw error
+            throw error;
         }
         throw createError({
             statusCode: 500,
             statusMessage: 'Erreur lors de la mise à jour des préférences'
-        })
+        });
     }
-})
+});

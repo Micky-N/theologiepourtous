@@ -1,18 +1,18 @@
-import { prisma } from '~~/lib/prisma'
+import { prisma } from '~~/lib/prisma';
 
 export default defineEventHandler(async (event) => {
     try {
         // Vérifier l'authentification
-        const { user: userSession } = await getUserSession(event)
+        const { user: userSession } = await getUserSession(event);
 
         if (!userSession) {
             throw createError({
                 statusCode: 401,
                 statusMessage: 'Non autorisé'
-            })
+            });
         }
 
-        const userId = userSession.id
+        const userId = userSession.id;
 
         const preferences = await prisma.userBiblePreference.findUnique({
             where: { userId },
@@ -25,20 +25,20 @@ export default defineEventHandler(async (event) => {
                     }
                 }
             }
-        })
+        });
 
         if (!preferences) {
             // Créer des préférences par défaut si elles n'existent pas
             const defaultVersion = await prisma.bibleVersion.findFirst({
                 where: { code: 'LSG' },
                 select: { id: true }
-            })
+            });
 
             if (!defaultVersion) {
                 throw createError({
                     statusCode: 500,
                     statusMessage: 'Aucune version biblique disponible'
-                })
+                });
             }
 
             const newPreferences = await prisma.userBiblePreference.create({
@@ -56,7 +56,7 @@ export default defineEventHandler(async (event) => {
                         }
                     }
                 }
-            })
+            });
 
             return {
                 success: true,
@@ -66,7 +66,7 @@ export default defineEventHandler(async (event) => {
                     createdAt: newPreferences.createdAt,
                     updatedAt: newPreferences.updatedAt
                 }
-            }
+            };
         }
 
         return {
@@ -77,14 +77,14 @@ export default defineEventHandler(async (event) => {
                 createdAt: preferences.createdAt,
                 updatedAt: preferences.updatedAt
             }
-        }
+        };
     } catch (error: any) {
         if (error.statusCode) {
-            throw error
+            throw error;
         }
         throw createError({
             statusCode: 500,
             statusMessage: 'Erreur lors de la récupération des préférences'
-        })
+        });
     }
-})
+});

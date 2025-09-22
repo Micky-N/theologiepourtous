@@ -263,20 +263,20 @@
 </template>
 
 <script setup lang="ts">
-import type { ReadingStatsResponse } from '~/types'
+import type { ReadingStatsResponse } from '~/types';
 
 // Configuration de la page
 definePageMeta({
     middlewares: 'auth',
     layout: 'default'
-})
+});
 
 // État
-const loading = ref(true)
-const error = ref('')
-const stats = ref<ReadingStatsResponse | null>(null)
-const selectedPeriod = ref('week')
-const showTestament = ref<'all' | 'OLD' | 'NEW'>('all')
+const loading = ref(true);
+const error = ref('');
+const stats = ref<ReadingStatsResponse | null>(null);
+const selectedPeriod = ref('week');
+const showTestament = ref<'all' | 'OLD' | 'NEW'>('all');
 
 // Options de période
 const periodOptions = [
@@ -285,69 +285,69 @@ const periodOptions = [
     { label: '30 derniers jours', value: 'month' },
     { label: 'Cette année', value: 'year' },
     { label: 'Tout', value: 'all' }
-]
+];
 
 // Progression filtrée par testament
 const filteredBookProgress = computed(() => {
-    if (!stats.value) return []
+    if (!stats.value) return [];
 
     if (showTestament.value === 'all') {
-        return stats.value.bookProgress
+        return stats.value.bookProgress;
     }
 
     return stats.value.bookProgress.filter(
         progress => typeof progress.book === 'object' && progress.book.testament === showTestament.value
-    )
-})
+    );
+});
 
 // Charger les statistiques
 const loadStats = async () => {
     try {
-        loading.value = true
-        error.value = ''
+        loading.value = true;
+        error.value = '';
 
         stats.value = await $fetch<ReadingStatsResponse>('/api/reading/stats', {
             query: {
                 period: selectedPeriod.value
             }
-        })
+        });
     } catch (err) {
-        error.value = 'Erreur lors du chargement des statistiques'
-        console.error(err)
+        error.value = 'Erreur lors du chargement des statistiques';
+        console.error(err);
     } finally {
-        loading.value = false
+        loading.value = false;
     }
-}
+};
 
 // Utilitaires
 const formattedTime = (seconds: number) => {
-    const hours = Math.floor(seconds / 3600)
-    const minutes = Math.floor((seconds % 3600) / 60)
+    const hours = Math.floor(seconds / 3600);
+    const minutes = Math.floor((seconds % 3600) / 60);
 
     if (hours > 0) {
-        return `${hours}h${minutes > 0 ? ` ${minutes}m` : ''}`
+        return `${hours}h${minutes > 0 ? ` ${minutes}m` : ''}`;
     } else if (minutes > 0) {
-        return `${minutes}m`
+        return `${minutes}m`;
     } else {
-        return `${seconds}s`
+        return `${seconds}s`;
     }
-}
+};
 
 // Formater la distance temporelle (placeholder - à implémenter avec date-fns ou équivalent)
 const formatDistanceToNow = (date: Date) => {
-    const now = new Date()
-    const diff = now.getTime() - date.getTime()
-    const days = Math.floor(diff / (1000 * 60 * 60 * 24))
+    const now = new Date();
+    const diff = now.getTime() - date.getTime();
+    const days = Math.floor(diff / (1000 * 60 * 60 * 24));
 
-    if (days === 0) return 'Aujourd\'hui'
-    if (days === 1) return 'Hier'
-    if (days < 7) return `Il y a ${days} jours`
-    if (days < 30) return `Il y a ${Math.floor(days / 7)} semaines`
-    return `Il y a ${Math.floor(days / 30)} mois`
-}
+    if (days === 0) return 'Aujourd\'hui';
+    if (days === 1) return 'Hier';
+    if (days < 7) return `Il y a ${days} jours`;
+    if (days < 30) return `Il y a ${Math.floor(days / 7)} semaines`;
+    return `Il y a ${Math.floor(days / 30)} mois`;
+};
 
 // Chargement initial
 onMounted(() => {
-    loadStats()
-})
+    loadStats();
+});
 </script>

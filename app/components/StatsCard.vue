@@ -44,35 +44,35 @@ interface Props {
 const props = withDefaults(defineProps<Props>(), {
     color: 'blue',
     subtitle: ''
-})
+});
 
 const iconColorClass = computed(() => {
     switch (props.color) {
         case 'green':
-            return 'text-green-600 dark:text-green-400'
+            return 'text-green-600 dark:text-green-400';
         case 'purple':
-            return 'text-purple-600 dark:text-purple-400'
+            return 'text-purple-600 dark:text-purple-400';
         case 'orange':
-            return 'text-orange-600 dark:text-orange-400'
+            return 'text-orange-600 dark:text-orange-400';
         case 'red':
-            return 'text-red-600 dark:text-red-400'
+            return 'text-red-600 dark:text-red-400';
         default:
-            return 'text-blue-600 dark:text-blue-400'
+            return 'text-blue-600 dark:text-blue-400';
     }
-})
+});
 
 const valueColorClass = computed(() => {
     switch (props.color) {
         case 'green':
-            return 'text-green-700 dark:text-green-300'
+            return 'text-green-700 dark:text-green-300';
         case 'purple':
-            return 'text-purple-700 dark:text-purple-300'
+            return 'text-purple-700 dark:text-purple-300';
         case 'orange':
-            return 'text-orange-700 dark:text-orange-300'
+            return 'text-orange-700 dark:text-orange-300';
         case 'red':
-            return 'text-red-700 dark:text-red-300'
+            return 'text-red-700 dark:text-red-300';
         default:
-            return 'text-blue-700 dark:text-blue-300'
+            return 'text-blue-700 dark:text-blue-300';
     }
-})
+});
 </script>

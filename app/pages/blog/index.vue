@@ -1,9 +1,9 @@
 <script setup lang="ts">
-const route = useRoute()
-const perPage = 6
-const page = ref(parseInt((route.query.page as string) || '1'))
-const { data: blog } = await useAsyncData('blog', () => queryCollection('blog').first())
-const { data: postsCount } = await useAsyncData('posts-count', () => queryCollection('posts').count())
+const route = useRoute();
+const perPage = 6;
+const page = ref(parseInt((route.query.page as string) || '1'));
+const { data: blog } = await useAsyncData('blog', () => queryCollection('blog').first());
+const { data: postsCount } = await useAsyncData('posts-count', () => queryCollection('posts').count());
 
 const { data: posts } = useAsyncData(
     route.path,
@@ -12,19 +12,19 @@ const { data: posts } = useAsyncData(
         .skip((page.value - 1) * perPage)
         .all(),
     { watch: [page] }
-)
-const totalPages = Math.ceil((postsCount.value || 0) / perPage)
-const title = blog.value?.seo?.title || blog.value?.title
-const description = blog.value?.seo?.description || blog.value?.description
+);
+const totalPages = Math.ceil((postsCount.value || 0) / perPage);
+const title = blog.value?.seo?.title || blog.value?.title;
+const description = blog.value?.seo?.description || blog.value?.description;
 
 useSeoMeta({
     title,
     ogTitle: title,
     description,
     ogDescription: description
-})
+});
 
-defineOgImageComponent('Saas')
+defineOgImageComponent('Saas');
 </script>
 
 <template>

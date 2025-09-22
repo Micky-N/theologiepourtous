@@ -1,18 +1,18 @@
-import { prisma } from '../lib/prisma'
-import type { PrismaClient } from '@prisma/client'
-import { main as bibleSeederMain } from './seeders/bibleSeeder'
-import { main as userSeederMain } from './seeders/userSeeder'
+import { prisma } from '../lib/prisma';
+import type { PrismaClient } from '@prisma/client';
+import { main as bibleSeederMain } from './seeders/bibleSeeder';
+import { main as userSeederMain } from './seeders/userSeeder';
 
 async function main(prismaClient: PrismaClient) {
-    await bibleSeederMain(prismaClient)
-    await userSeederMain(prismaClient)
+    await bibleSeederMain(prismaClient);
+    await userSeederMain(prismaClient);
 }
 
 main(prisma)
     .catch((e) => {
-        console.error('❌ Seeding failed:', e)
-        process.exit(1)
+        console.error('❌ Seeding failed:', e);
+        process.exit(1);
     })
     .finally(async () => {
-        await prisma.$disconnect()
-    })
+        await prisma.$disconnect();
+    });

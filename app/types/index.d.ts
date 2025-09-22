@@ -1,4 +1,4 @@
-import type { BibleBook, BibleBookmark, BibleNote, BibleReadingProgress, BibleVerse, BibleVersion } from '@prisma/client'
+import type { BibleBook, BibleBookmark, BibleNote, BibleReadingProgress, BibleVerse, BibleVersion } from '@prisma/client';
 
 // ============================================================================
 // ENUMS

@@ -1,52 +1,52 @@
-import { prisma } from '~~/lib/prisma'
-import { z } from 'zod'
+import { prisma } from '~~/lib/prisma';
+import { z } from 'zod';
 
 // Schéma de validation pour la connexion
 const loginSchema = z.object({
     email: z.string().email('Format d\'email invalide'),
     password: z.string().min(1, 'Le mot de passe est requis')
-})
+});
 
 export default defineEventHandler(async (event) => {
     if (event.node.req.method !== 'POST') {
         throw createError({
             statusCode: 405,
             statusMessage: 'Method Not Allowed'
-        })
+        });
     }
 
     try {
         // Is user already logged in?
-        const { user: userSession } = await getUserSession(event)
+        const { user: userSession } = await getUserSession(event);
         if (userSession) {
             return {
                 success: true,
                 message: 'Utilisateur déjà connecté',
                 user: userSession
-            }
+            };
         }
 
-        const { email, password } = await readValidatedBody(event, loginSchema.parse)
+        const { email, password } = await readValidatedBody(event, loginSchema.parse);
 
         // Trouver l'utilisateur
         const user = await prisma.user.findUnique({
             where: { email }
-        })
+        });
 
         if (!user) {
             throw createError({
                 statusCode: 401,
                 statusMessage: 'Email ou mot de passe incorrect'
-            })
+            });
         }
 
         // Vérifier le mot de passe
-        const isPasswordValid = await verifyPassword(password, user.password)
+        const isPasswordValid = await verifyPassword(password, user.password);
         if (!isPasswordValid) {
             throw createError({
                 statusCode: 401,
                 statusMessage: 'Email ou mot de passe incorrect'
-            })
+            });
         }
 
         await setUserSession(event, {
@@ -56,13 +56,13 @@ export default defineEventHandler(async (event) => {
                 email: user.email,
                 role: user.role
             }
-        })
+        });
 
         // Mettre à jour la date de dernière connexion
         await prisma.user.update({
             where: { id: user.id },
             data: { lastLogin: new Date() }
-        })
+        });
 
         return {
             success: true,
@@ -74,19 +74,19 @@ export default defineEventHandler(async (event) => {
                 role: user.role,
                 createdAt: user.createdAt
             }
-        }
+        };
     } catch (error: any) {
-        console.error('Erreur lors de la connexion:', error)
+        console.error('Erreur lors de la connexion:', error);
 
         if (error.statusCode) {
-            throw error
+            throw error;
         }
 
         throw createError({
             statusCode: 500,
             statusMessage: 'Erreur interne du serveur'
-        })
+        });
     } finally {
-        await prisma.$disconnect()
+        await prisma.$disconnect();
     }
-})
+});

@@ -1,27 +1,27 @@
-import { prisma } from '~~/lib/prisma'
+import { prisma } from '~~/lib/prisma';
 
 export default defineEventHandler(async (event) => {
     try {
         // Vérifier l'authentification
-        const { user: userSession } = await getUserSession(event)
+        const { user: userSession } = await getUserSession(event);
 
         if (!userSession) {
             throw createError({
                 statusCode: 401,
                 statusMessage: 'Non autorisé'
-            })
+            });
         }
 
-        const userId = userSession.id
+        const userId = userSession.id;
 
-        const body = await readBody(event)
-        const { verseId, title, color } = body
+        const body = await readBody(event);
+        const { verseId, title, color } = body;
 
         if (!verseId) {
             throw createError({
                 statusCode: 400,
                 statusMessage: 'ID du verset requis'
-            })
+            });
         }
 
         // Vérifier que le verset existe
@@ -31,13 +31,13 @@ export default defineEventHandler(async (event) => {
                 book: true,
                 version: true
             }
-        })
+        });
 
         if (!verse) {
             throw createError({
                 statusCode: 404,
                 statusMessage: 'Verset non trouvé'
-            })
+            });
         }
 
         // Vérifier si un bookmark existe déjà pour ce verset
@@ -48,13 +48,13 @@ export default defineEventHandler(async (event) => {
                     verseId
                 }
             }
-        })
+        });
 
         if (existingBookmark) {
             throw createError({
                 statusCode: 409,
                 statusMessage: 'Ce verset est déjà dans vos favoris'
-            })
+            });
         }
 
         // Créer le nouveau bookmark
@@ -88,7 +88,7 @@ export default defineEventHandler(async (event) => {
                     }
                 }
             }
-        })
+        });
 
         const formattedBookmark = {
             id: bookmark.id,
@@ -104,20 +104,20 @@ export default defineEventHandler(async (event) => {
             },
             createdAt: bookmark.createdAt,
             updatedAt: bookmark.updatedAt
-        }
+        };
 
         return {
             success: true,
             message: 'Favori ajouté avec succès',
             data: formattedBookmark
-        }
+        };
     } catch (error: any) {
         if (error.statusCode) {
-            throw error
+            throw error;
         }
         throw createError({
             statusCode: 500,
             statusMessage: 'Erreur lors de la création du favori'
-        })
+        });
     }
-})
+});

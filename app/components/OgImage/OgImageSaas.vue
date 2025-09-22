@@ -1,7 +1,7 @@
 <script setup lang="ts">
 defineOptions({
     inheritAttrs: false
-})
+});
 
 defineProps({
     title: {
@@ -12,7 +12,7 @@ defineProps({
         type: String,
         required: true
     }
-})
+});
 </script>
 
 <template>

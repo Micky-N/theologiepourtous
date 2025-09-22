@@ -1,26 +1,26 @@
 <script setup lang="ts">
-import * as z from 'zod'
-import type { FormSubmitEvent } from '@nuxt/ui'
-import type { User } from '#auth-utils'
+import * as z from 'zod';
+import type { FormSubmitEvent } from '@nuxt/ui';
+import type { User } from '#auth-utils';
 
 definePageMeta({
     layout: 'auth'
-})
+});
 
 useSeoMeta({
     title: 'Inscription - Théologie pour Tous',
     description: 'Créez un compte pour commencer votre parcours théologique'
-})
+});
 
-const toast = useToast()
-const { loggedIn } = useUserSession()
+const toast = useToast();
+const { loggedIn } = useUserSession();
 
 // Rediriger si déjà connecté
 watch(loggedIn, (value) => {
     if (value) {
-        navigateTo('/')
+        navigateTo('/');
     }
-}, { immediate: true })
+}, { immediate: true });
 
 const fields = [{
     name: 'name',
@@ -40,7 +40,7 @@ const fields = [{
     type: 'password' as const,
     placeholder: 'Entrez votre mot de passe (min. 6 caractères)',
     required: true
-}]
+}];
 
 const providers = [{
     label: 'Google',
@@ -50,9 +50,9 @@ const providers = [{
             title: 'Prochainement',
             description: 'Inscription avec Google bientôt disponible',
             color: 'primary'
-        })
+        });
     }
-}]
+}];
 
 const schema = z.object({
     name: z.string().min(2, 'Le nom doit contenir au moins 2 caractères'),
@@ -62,14 +62,14 @@ const schema = z.object({
         .regex(/(?=.*[a-z])/, 'Le mot de passe doit contenir au moins une minuscule')
         .regex(/(?=.*[A-Z])/, 'Le mot de passe doit contenir au moins une majuscule')
         .regex(/(?=.*\d)/, 'Le mot de passe doit contenir au moins un chiffre')
-})
+});
 
-type Schema = z.output<typeof schema>
+type Schema = z.output<typeof schema>;
 
-const isLoading = ref(false)
+const isLoading = ref(false);
 
 async function onSubmit(payload: FormSubmitEvent<Schema>) {
-    isLoading.value = true
+    isLoading.value = true;
 
     try {
         const response = await $fetch<{
@@ -79,35 +79,35 @@ async function onSubmit(payload: FormSubmitEvent<Schema>) {
         }>('/api/auth/register', {
             method: 'POST',
             body: payload.data
-        })
+        });
 
         if (response.success) {
-            await navigateTo('/')
+            await navigateTo('/');
         }
 
         toast.add({
             title: 'Inscription réussie',
             description: `Bienvenue ${response.user.name} ! Votre compte a été créé avec succès.`,
             color: 'success'
-        })
+        });
     } catch (error: any) {
-        console.error('Erreur d\'inscription:', error)
+        console.error('Erreur d\'inscription:', error);
 
-        let errorMessage = 'Une erreur s\'est produite lors de l\'inscription'
+        let errorMessage = 'Une erreur s\'est produite lors de l\'inscription';
 
         if (error.statusCode === 409) {
-            errorMessage = 'Un utilisateur avec cet email existe déjà'
+            errorMessage = 'Un utilisateur avec cet email existe déjà';
         } else if (error.data?.message) {
-            errorMessage = error.data.message
+            errorMessage = error.data.message;
         }
 
         toast.add({
             title: 'Erreur d\'inscription',
             description: errorMessage,
             color: 'error'
-        })
+        });
     } finally {
-        isLoading.value = false
+        isLoading.value = false;
     }
 }
 </script>

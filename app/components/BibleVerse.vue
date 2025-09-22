@@ -12,7 +12,7 @@
 </template>
 
 <script lang="ts" setup>
-import type { ContextMenuItem } from '@nuxt/ui'
+import type { ContextMenuItem } from '@nuxt/ui';
 
 const props = defineProps<{
     verse: {
@@ -21,11 +21,11 @@ const props = defineProps<{
         id: number
         verse: number
     }
-}>()
+}>();
 
 const emit = defineEmits<{
     (e: 'showCompare', id: number): void
-}>()
+}>();
 
 const items: ContextMenuItem[][] = [
     [
@@ -44,7 +44,7 @@ const items: ContextMenuItem[][] = [
             icon: 'i-lucide-copy'
         }
     ]
-]
+];
 </script>
 
 <style>
