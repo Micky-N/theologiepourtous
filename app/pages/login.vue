@@ -1,7 +1,6 @@
 <script setup lang="ts">
 import * as z from 'zod'
 import type { FormSubmitEvent } from '@nuxt/ui'
-import { useAuth } from '~/composables/useAuth'
 
 definePageMeta({
     layout: 'auth'
@@ -12,11 +11,11 @@ useSeoMeta({
     description: 'Connectez-vous à votre compte pour continuer votre parcours spirituel'
 })
 
+const { loggedIn, fetch: refreshSession } = useUserSession()
 const toast = useToast()
-const { login, isLoggedIn } = useAuth()
 
 // Rediriger si déjà connecté
-watch(isLoggedIn, (value) => {
+watch(loggedIn, (value) => {
     if (value) {
         navigateTo('/')
     }
@@ -59,28 +58,24 @@ const isLoading = ref(false)
 async function onSubmit(payload: FormSubmitEvent<Schema>) {
     isLoading.value = true
 
-    try {
-        const response = await login({
-            email: payload.data.email,
-            password: payload.data.password
-        })
-
-        toast.add({
-            title: 'Connexion réussie',
-            description: `Bienvenue ${response.user.name} !`,
-            color: 'success'
-        })
-    } catch (error: any) {
-        console.error('Erreur de connexion:', error)
+    await $fetch('/api/login', {
+        method: 'POST',
+        body: payload.data
+    }).then(async () => {
+        // Refresh the session on client-side and redirect to the home page
+        await refreshSession()
+        await navigateTo('/')
+    }).catch((reason) => {
+        console.error('Erreur de connexion:', reason)
 
         toast.add({
             title: 'Erreur de connexion',
-            description: error.data?.message || 'Email ou mot de passe incorrect',
+            description: 'Email ou mot de passe incorrect',
             color: 'error'
         })
-    } finally {
+    }).finally(() => {
         isLoading.value = false
-    }
+    })
 }
 </script>
 

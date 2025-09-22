@@ -8,8 +8,17 @@ const startSessionSchema = z.object({
 })
 
 export default defineEventHandler(async (event) => {
-    // TODO: Implémenter l'authentification
-    const user = { id: 1 } // Placeholder temporaire
+    // Vérifier l'authentification
+    const { user: userSession } = await getUserSession(event)
+
+    if (!userSession) {
+        throw createError({
+            statusCode: 401,
+            statusMessage: 'Non autorisé'
+        })
+    }
+
+    const userId = userSession.id
 
     if (event.node.req.method === 'POST') {
         const body = await readBody(event)
@@ -22,7 +31,7 @@ export default defineEventHandler(async (event) => {
                 // Fermer toute session ouverte existante
                 await prisma.readingSession.updateMany({
                     where: {
-                        userId: user.id,
+                        userId,
                         endTime: null
                     },
                     data: {
@@ -34,7 +43,7 @@ export default defineEventHandler(async (event) => {
                 // Créer nouvelle session
                 const session = await prisma.readingSession.create({
                     data: {
-                        userId: user.id,
+                        userId,
                         versionId,
                         startTime: new Date(),
                         deviceType
@@ -64,7 +73,7 @@ export default defineEventHandler(async (event) => {
                 await prisma.readingSession.update({
                     where: {
                         id: sessionId,
-                        userId: user.id
+                        userId
                     },
                     data: {
                         endTime,

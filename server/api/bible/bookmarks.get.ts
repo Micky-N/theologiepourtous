@@ -1,10 +1,18 @@
 import { prisma } from '~~/lib/prisma'
-import { requireAuth } from '../../utils/auth'
 
 export default defineEventHandler(async (event) => {
     try {
         // Vérifier l'authentification
-        const userId = await requireAuth(event)
+        const { user: userSession } = await getUserSession(event)
+
+        if (!userSession) {
+            throw createError({
+                statusCode: 401,
+                statusMessage: 'Non autorisé'
+            })
+        }
+
+        const userId = userSession.id
 
         const bookmarks = await prisma.bibleBookmark.findMany({
             where: { userId },

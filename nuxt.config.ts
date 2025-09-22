@@ -7,7 +7,8 @@ export default defineNuxtConfig({
         '@nuxt/content',
         '@vueuse/nuxt',
         'nuxt-og-image',
-        '@prisma/nuxt'
+        '@prisma/nuxt',
+        'nuxt-auth-utils'
     ],
 
     devtools: {

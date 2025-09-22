@@ -1,5 +1,4 @@
 import { prisma } from '~~/lib/prisma'
-import { verifyPassword, generateJWT, isValidEmail } from '~~/server/utils/auth'
 import { z } from 'zod'
 
 // Schéma de validation pour la connexion
@@ -17,27 +16,17 @@ export default defineEventHandler(async (event) => {
     }
 
     try {
-        const body = await readBody(event)
-
-        // Validation des données
-        const validation = loginSchema.safeParse(body)
-        if (!validation.success) {
-            throw createError({
-                statusCode: 400,
-                statusMessage: 'Données invalides',
-                data: validation.error.issues
-            })
+        // Is user already logged in?
+        const { user: userSession } = await getUserSession(event)
+        if (userSession) {
+            return {
+                success: true,
+                message: 'Utilisateur déjà connecté',
+                user: userSession
+            }
         }
 
-        const { email, password } = validation.data
-
-        // Validation supplémentaire de l'email
-        if (!isValidEmail(email)) {
-            throw createError({
-                statusCode: 400,
-                statusMessage: 'Format d\'email invalide'
-            })
-        }
+        const { email, password } = await readValidatedBody(event, loginSchema.parse)
 
         // Trouver l'utilisateur
         const user = await prisma.user.findUnique({
@@ -60,15 +49,13 @@ export default defineEventHandler(async (event) => {
             })
         }
 
-        // Générer un token JWT
-        const token = generateJWT(user.id, user.email)
-
-        // Définir le cookie sécurisé
-        setCookie(event, 'auth-token', token, {
-            httpOnly: true,
-            secure: process.env.NODE_ENV === 'production',
-            sameSite: 'strict',
-            maxAge: 7 * 24 * 60 * 60 * 1000 // 7 jours
+        await setUserSession(event, {
+            user: {
+                id: user.id,
+                name: user.name,
+                email: user.email,
+                role: user.role
+            }
         })
 
         // Mettre à jour la date de dernière connexion

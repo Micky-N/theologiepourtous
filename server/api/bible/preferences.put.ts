@@ -1,10 +1,16 @@
-import { requireAuth } from '../../utils/auth'
 import { prisma } from '~~/lib/prisma'
 
 export default defineEventHandler(async (event) => {
     try {
         // Vérifier l'authentification
-        const userId = await requireAuth(event)
+        const { user: userSession } = await getUserSession(event)
+
+        if (!userSession) {
+            throw createError({
+                statusCode: 401,
+                statusMessage: 'Non autorisé'
+            })
+        }
 
         const body = await readBody(event)
         const { defaultVersionId, showVerseNumbers } = body
@@ -25,13 +31,13 @@ export default defineEventHandler(async (event) => {
 
         // Mettre à jour ou créer les préférences
         const preferences = await prisma.userBiblePreference.upsert({
-            where: { userId },
+            where: { userId: userSession.id },
             update: {
                 ...(defaultVersionId && { defaultVersionId }),
                 ...(showVerseNumbers !== undefined && { showVerseNumbers: Boolean(showVerseNumbers) })
             },
             create: {
-                userId,
+                userId: userSession.id,
                 defaultVersionId: defaultVersionId || (await prisma.bibleVersion.findFirst({
                     where: { code: 'LSG' }
                 }))?.id || 1,

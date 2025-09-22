@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import * as z from 'zod'
 import type { FormSubmitEvent } from '@nuxt/ui'
-import { useAuth } from '~/composables/useAuth'
+import type { User } from '#auth-utils'
 
 definePageMeta({
     layout: 'auth'
@@ -13,10 +13,10 @@ useSeoMeta({
 })
 
 const toast = useToast()
-const { register, isLoggedIn } = useAuth()
+const { loggedIn } = useUserSession()
 
 // Rediriger si déjà connecté
-watch(isLoggedIn, (value) => {
+watch(loggedIn, (value) => {
     if (value) {
         navigateTo('/')
     }
@@ -72,11 +72,18 @@ async function onSubmit(payload: FormSubmitEvent<Schema>) {
     isLoading.value = true
 
     try {
-        const response = await register({
-            name: payload.data.name,
-            email: payload.data.email,
-            password: payload.data.password
+        const response = await $fetch<{
+            success: boolean
+            message: string
+            user: User
+        }>('/api/auth/register', {
+            method: 'POST',
+            body: payload.data
         })
+
+        if (response.success) {
+            await navigateTo('/')
+        }
 
         toast.add({
             title: 'Inscription réussie',

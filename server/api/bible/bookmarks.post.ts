@@ -1,5 +1,4 @@
 import { prisma } from '~~/lib/prisma'
-import { requireAuth } from '../../utils/auth'
 import { z } from 'zod'
 
 // Schéma de validation
@@ -20,21 +19,18 @@ export default defineEventHandler(async (event) => {
 
     try {
         // Vérifier l'authentification
-        const userId = await requireAuth(event)
+        const { user: userSession } = await getUserSession(event)
 
-        const body = await readBody(event)
-
-        // Validation des données
-        const validation = createBookmarkSchema.safeParse(body)
-        if (!validation.success) {
+        if (!userSession) {
             throw createError({
-                statusCode: 400,
-                statusMessage: 'Données invalides',
-                data: validation.error.issues
+                statusCode: 401,
+                statusMessage: 'Non autorisé'
             })
         }
 
-        const { verseId, bookId, title, color } = validation.data
+        const userId = userSession.id
+
+        const { verseId, bookId, title, color } = await readValidatedBody(event, createBookmarkSchema.parse)
 
         // Vérifier que le verset existe
         const verse = await prisma.bibleVerse.findUnique({

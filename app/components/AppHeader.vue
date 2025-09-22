@@ -1,8 +1,11 @@
 <script setup lang="ts">
-import { useAuth } from '~/composables/useAuth'
-
 const route = useRoute()
-const { user, isLoggedIn, logout } = useAuth()
+const { user, loggedIn, clear: clearSession } = useUserSession()
+
+async function logout() {
+    await clearSession()
+    await navigateTo('/login')
+}
 
 const items = computed(() => [
     {
@@ -57,7 +60,7 @@ const userMenuItems = computed(() => [
         <template #right>
             <UColorModeButton />
 
-            <template v-if="isLoggedIn">
+            <template v-if="loggedIn">
                 <UDropdownMenu
                     :items="userMenuItems"
                     :ui="{
@@ -117,7 +120,7 @@ const userMenuItems = computed(() => [
 
             <USeparator class="my-6" />
 
-            <template v-if="isLoggedIn">
+            <template v-if="loggedIn">
                 <div class="flex items-center justify-between mb-3 px-2">
                     <div class="flex flex-col">
                         <p class="text-sm font-medium text-gray-900 dark:text-white">

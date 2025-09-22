@@ -1,4 +1,4 @@
-import type { BibleBook, BibleBookmark, BibleNote, BibleReadingProgress, BibleVerse, BibleVersion, User } from '@prisma/client'
+import type { BibleBook, BibleBookmark, BibleNote, BibleReadingProgress, BibleVerse, BibleVersion } from '@prisma/client'
 
 // ============================================================================
 // ENUMS
@@ -30,22 +30,6 @@ export interface BibleBookWithRelations extends BibleBook {
 // ============================================================================
 // TYPES UTILITAIRES
 // ============================================================================
-
-export interface JWTPayload {
-    userId: number
-    email?: string
-    iat?: number
-    exp?: number
-}
-
-export interface AuthenticatedUser {
-    id: number
-    email: string
-    name: string
-    role: 'USER' | 'ADMIN'
-    createdAt: Date
-    lastLogin: Date | null
-}
 
 export interface ChapterReference {
     book: string
@@ -134,43 +118,6 @@ export interface ComparisonRequest {
     chapter: number
     verse: number
     versions: string[]
-}
-
-// ============================================================================
-// TYPES D'AUTHENTIFICATION
-// ============================================================================
-
-export interface LoginRequest {
-    email: string
-    password: string
-}
-
-export interface RegisterRequest {
-    email: string
-    name: string
-    password: string
-}
-
-export interface AuthResponse {
-    user: Omit<User, 'password'>
-    token: string
-    expiresAt: Date
-}
-
-// ============================================================================
-// TYPES DE VALIDATION
-// ============================================================================
-
-export interface ValidationError {
-    field: string
-    message: string
-}
-
-export interface ApiResponse<T = any> {
-    success: boolean
-    data?: T
-    error?: string
-    errors?: ValidationError[]
 }
 
 // ============================================================================

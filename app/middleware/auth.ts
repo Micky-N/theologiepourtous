@@ -1,9 +1,8 @@
-import { useAuth } from '~/composables/useAuth'
-
 export default defineNuxtRouteMiddleware((to) => {
-    const { isLoggedIn } = useAuth()
+    const { loggedIn } = useUserSession()
 
-    if (!isLoggedIn.value) {
+    // redirect the user to the login screen if they're not authenticated
+    if (!loggedIn.value) {
         return navigateTo(`/login?redirect=${encodeURIComponent(to.fullPath)}`)
     }
 })

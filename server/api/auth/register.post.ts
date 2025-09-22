@@ -1,12 +1,15 @@
 import { prisma } from '~~/lib/prisma'
-import { hashPassword, generateJWT, isValidEmail, isValidPassword } from '../../../server/utils/auth'
 import { z } from 'zod'
 
 // Schéma de validation pour l'inscription
 const registerSchema = z.object({
     name: z.string().min(2, 'Le nom doit contenir au moins 2 caractères').max(50, 'Le nom ne doit pas dépasser 50 caractères'),
     email: z.string().email('Format d\'email invalide'),
-    password: z.string().min(6, 'Le mot de passe doit contenir au moins 6 caractères')
+    password: z.string()
+        .min(6, 'Le mot de passe doit contenir au moins 6 caractères')
+        .regex(/(?=.*[a-z])/, 'Le mot de passe doit contenir au moins une minuscule')
+        .regex(/(?=.*[A-Z])/, 'Le mot de passe doit contenir au moins une majuscule')
+        .regex(/(?=.*\d)/, 'Le mot de passe doit contenir au moins un chiffre')
 })
 
 export default defineEventHandler(async (event) => {
@@ -18,36 +21,17 @@ export default defineEventHandler(async (event) => {
     }
 
     try {
-        const body = await readBody(event)
-
-        // Validation des données
-        const validation = registerSchema.safeParse(body)
-        if (!validation.success) {
-            throw createError({
-                statusCode: 400,
-                statusMessage: 'Données invalides',
-                data: validation.error.issues
-            })
+        // Is user already logged in?
+        const { user: userSession } = await getUserSession(event)
+        if (userSession) {
+            return {
+                success: true,
+                message: 'Utilisateur déjà connecté',
+                user: userSession
+            }
         }
 
-        const { name, email, password } = validation.data
-
-        // Validation supplémentaire de l'email
-        if (!isValidEmail(email)) {
-            throw createError({
-                statusCode: 400,
-                statusMessage: 'Format d\'email invalide'
-            })
-        }
-
-        // Validation de la force du mot de passe
-        const passwordValidation = isValidPassword(password)
-        if (!passwordValidation.valid) {
-            throw createError({
-                statusCode: 400,
-                statusMessage: passwordValidation.message
-            })
-        }
+        const { name, email, password } = await readValidatedBody(event, registerSchema.parse)
 
         // Vérifier si l'utilisateur existe déjà
         const existingUser = await prisma.user.findUnique({
@@ -81,15 +65,13 @@ export default defineEventHandler(async (event) => {
             }
         })
 
-        // Générer un token JWT
-        const token = generateJWT(user.id, user.email)
-
-        // Définir le cookie sécurisé
-        setCookie(event, 'auth-token', token, {
-            httpOnly: true,
-            secure: process.env.NODE_ENV === 'production',
-            sameSite: 'strict',
-            maxAge: 7 * 24 * 60 * 60 * 1000 // 7 jours
+        await setUserSession(event, {
+            user: {
+                id: user.id,
+                name: user.name,
+                email: user.email,
+                role: user.role
+            }
         })
 
         return {
