@@ -66,20 +66,21 @@
 
             <!-- Comparaison côte à côte -->
             <div
-                class="comparison-grid gap-4"
+                class="grid gap-4"
                 :class="{
                     'grid-cols-1': layoutMode === 'vertical',
-                    'grid-cols-2': layoutMode === 'side-by-side' && comparisons.length === 2,
-                    'grid-cols-3': layoutMode === 'side-by-side' && comparisons.length === 3,
-                    'grid-cols-2 lg:grid-cols-4': layoutMode === 'side-by-side' && comparisons.length === 4,
-                    'grid-cols-2 lg:grid-cols-3': layoutMode === 'side-by-side' && comparisons.length >= 5,
-                    'comparison-horizontal': layoutMode === 'horizontal'
+                    'grid-cols-1 md:grid-cols-2': layoutMode === 'side-by-side' && comparisons.length === 2,
+                    'grid-cols-1 md:grid-cols-2 lg:grid-cols-3': layoutMode === 'side-by-side' && comparisons.length >= 3
                 }"
             >
                 <div
-                    v-for="comparison in comparisons"
+                    v-for="(comparison, idx) in comparisons"
                     :key="comparison.version.id"
                     class="version-column"
+                    :class="{
+                        '!border-r-0 !pr-0': idx != 0 && (idx + 1) % 3 === 0,
+                        'border-r pr-4': idx != comparisons.length - 1
+                    }"
                 >
                     <!-- En-tête de version -->
                     <div class="sticky top-0 bg-white dark:bg-gray-900 border-b border-gray-200 dark:border-gray-700 pb-2 mb-4 z-10">
@@ -269,15 +270,14 @@ const props = withDefaults(defineProps<Props>(), {
 // État local
 const showSettings = ref(false);
 const showVersionSelector = ref(false);
-const layoutMode = ref<'side-by-side' | 'vertical' | 'horizontal'>('side-by-side');
+const layoutMode = ref<'side-by-side' | 'vertical'>('side-by-side');
 const fontSize = ref<'small' | 'normal' | 'large' | 'extra-large'>('normal');
 const showVerseNumbers = ref(true);
 
 // Options de configuration
 const layoutOptions = [
     { label: 'Côte à côte', value: 'side-by-side' },
-    { label: 'Vertical', value: 'vertical' },
-    { label: 'Horizontal', value: 'horizontal' }
+    { label: 'Vertical', value: 'vertical' }
 ];
 
 const fontSizeOptions = [
@@ -344,30 +344,13 @@ const exportComparison = () => {
 
 <style scoped>
 @reference '~/assets/css/main.css';
-.comparison-grid {
-    display: grid;
-}
-
-.comparison-horizontal {
-    display: block;
-}
-
-.comparison-horizontal .version-column {
-    margin-bottom: 2rem;
-    padding-bottom: 2rem;
-    border-bottom: 1px solid var(--color-gray-200);
-}
-
-.comparison-horizontal .version-column:last-child {
-    border-bottom: none;
-}
 
 .verse-item {
     @apply p-3 rounded-lg hover:bg-gray-50 dark:hover:bg-gray-800/50 transition-colors;
 }
 
 .version-column {
-    @apply border-r border-gray-200 dark:border-gray-700 pr-4;
+    @apply border-gray-200 dark:border-gray-700;
 }
 
 .version-column:last-child {
@@ -376,10 +359,7 @@ const exportComparison = () => {
 
 @media (max-width: 768px) {
     .version-column {
-        @apply border-r-0 border-b border-gray-200 dark:border-gray-700 pr-0 pb-4 mb-4;
-    }
-    .version-column:last-child {
-        @apply border-b-0 pb-0 mb-0;
+        @apply border-r-0 pr-0;
     }
 }
 </style>

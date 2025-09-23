@@ -45,34 +45,37 @@ const emit = defineEmits<{
 
 const openedBookmarkForm = ref(false);
 
-const items: ContextMenuItem[][] = [
-    [
-        {
-            label: 'Comparer',
-            icon: 'i-lucide-eye',
-            onSelect: () => emit('showCompare', props.verse.verse),
-            ui: {
-                item: 'cursor-pointer'
-            }
-        },
-        {
+const { loggedIn } = useUserSession();
+
+const items = computed<ContextMenuItem[]>(() => {
+    const baseItems = [{
+        label: 'Comparer',
+        icon: 'i-lucide-eye',
+        onSelect: () => emit('showCompare', props.verse.verse),
+        ui: {
+            item: 'cursor-pointer'
+        }
+    }];
+    if (loggedIn.value) {
+        baseItems.push({
             label: 'Marquer',
             icon: 'i-lucide-bookmark',
             onSelect: () => openedBookmarkForm.value = true,
             ui: {
                 item: 'cursor-pointer'
             }
-        },
-        {
+        });
+        baseItems.push({
             label: 'Ajouter Note',
             icon: 'i-lucide-notebook-pen',
             onSelect: () => emit('addNote', props.verse.verse),
             ui: {
                 item: 'cursor-pointer'
             }
-        }
-    ]
-];
+        });
+    }
+    return baseItems;
+});
 </script>
 
 <style>

@@ -259,6 +259,7 @@ await startComparison();
                                         color="secondary"
                                         variant="soft"
                                         class="w-full justify-start"
+                                        :disabled="loadingComparison || selectedVersions.length === 6"
                                         @click="handleAddVersion(version)"
                                     >
                                         <div class="truncate">

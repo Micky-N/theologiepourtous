@@ -13,6 +13,14 @@
                             @update:model-value="handleChapterChange"
                         />
                     </div>
+                    <UButton
+                        color="secondary"
+                        variant="ghost"
+                        to="/bible/compare"
+                        trailing-icon="i-lucide-chevron-right"
+                    >
+                        Comparer
+                    </UButton>
                 </div>
             </template>
             <div class="space-x-1">
