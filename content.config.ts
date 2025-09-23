@@ -141,8 +141,8 @@ export const collections = {
             })
         })
     }),
-    bible: defineCollection({
-        source: '1.bible/**/*',
+    docs: defineCollection({
+        source: '1.docs/**/*',
         type: 'page'
     }),
     pricing: defineCollection({

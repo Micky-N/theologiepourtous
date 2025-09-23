@@ -26,7 +26,7 @@
                     </div>
 
                     <UFormField label="Versions à comparer (sélectionnez 2 à 6 versions)">
-                        <div class="grid grid-cols-1 gap-2 max-h-60 overflow-y-auto">
+                        <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 max-h-60 overflow-y-auto">
                             <div
                                 v-for="availableVersion in availableVersions"
                                 :key="availableVersion.id"
@@ -37,7 +37,10 @@
                                     :disabled="selectedVersions.length >= 6 && !selectedVersions.includes(availableVersion.id)"
                                     @update:model-value="toggleVersion(availableVersion.id)"
                                 />
-                                <div class="flex-1">
+                                <div
+                                    class="flex-1"
+                                    @click="toggleVersion(availableVersion.id)"
+                                >
                                     <div class="text-sm font-medium text-gray-900 dark:text-white">
                                         {{ availableVersion.name }}
                                     </div>

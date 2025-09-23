@@ -21,6 +21,8 @@
                     :key="verse.id"
                     :verse="verse"
                     @show-compare="showCompare"
+                    @open-bookmark-form="openBookmarkForm"
+                    @add-note="addNote"
                 />
             </div>
             <template #footer>
@@ -47,10 +49,15 @@
             </template>
         </UCard>
         <BibleCompareModal
-            v-if="verseToCompare"
+            v-if="activedVerse"
             v-model="openedCompare"
-            v-bind="verseToCompare"
+            v-bind="activedVerse"
             :available-versions="versions"
+        />
+        <BibleNoteFormModal
+            v-if="activedVerse"
+            v-model="openedAddNote"
+            :verse="activedVerse"
         />
     </div>
 </template>
@@ -83,7 +90,7 @@ interface ApiVerseResponseData {
     }
 }
 
-interface VerseToCompare {
+interface ActivedVerse {
     book: { code: string, name: string }
     chapter: number
     verseStart: number
@@ -98,19 +105,41 @@ const props = defineProps<{
     selectedVersion: BibleVersion
 }>();
 
-const showCompare = (verse: number) => {
-    verseToCompare.value = {
+const showCompare = (verseId: number) => {
+    activedVerse.value = {
         book: { code: props.book.code, name: props.book.name },
-        verseStart: verse,
+        verseStart: verseId,
         chapter: props.chapter,
         version: props.selectedVersion.id
     };
     openedCompare.value = true;
 };
 
-const verseToCompare = ref<VerseToCompare | null>(null);
+const openBookmarkForm = (verseId: number) => {
+    activedVerse.value = {
+        book: { code: props.book.code, name: props.book.name },
+        verseStart: verseId,
+        chapter: props.chapter,
+        version: props.selectedVersion.id
+    };
+    openedBookmark.value = true;
+};
+
+const activedVerse = ref<ActivedVerse | null>(null);
+
+const addNote = (verseId: number) => {
+    activedVerse.value = {
+        book: { code: props.book.code, name: props.book.name },
+        verseStart: verseId,
+        chapter: props.chapter,
+        version: props.selectedVersion.id
+    };
+    openedAddNote.value = true;
+};
 
 const openedCompare = ref(false);
+const openedBookmark = ref(false);
+const openedAddNote = ref(false);
 
 const emit = defineEmits<{
     (e: 'update:chapter', value: number): void

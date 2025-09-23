@@ -1,11 +1,9 @@
 import { prisma } from '../lib/prisma';
 import type { PrismaClient } from '@prisma/client';
 import { main as bibleSeederMain } from './seeders/bibleSeeder';
-import { main as userSeederMain } from './seeders/userSeeder';
 
 async function main(prismaClient: PrismaClient) {
     await bibleSeederMain(prismaClient);
-    await userSeederMain(prismaClient);
 }
 
 main(prisma)
