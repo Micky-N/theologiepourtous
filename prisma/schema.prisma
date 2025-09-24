@@ -8,19 +8,19 @@ datasource db {
 }
 
 model User {
-  id                   Int                    @id @default(autoincrement())
-  email                String                 @unique
-  name                 String
-  password             String
-  role                 Role                   @default(USER)
-  lastLogin            DateTime?
-  createdAt            DateTime               @default(now())
-  updatedAt            DateTime               @updatedAt
-  bibleBookmarks       BibleBookmark[]
-  bibleNotes           BibleNote[]
-  readingSessions      ReadingSession[]
-  userBiblePreference  UserBiblePreference?
-  userProgress         UserProgress[]
+  id                  Int                  @id @default(autoincrement())
+  email               String               @unique
+  name                String
+  password            String
+  role                Role                 @default(USER)
+  lastLogin           DateTime?
+  createdAt           DateTime             @default(now())
+  updatedAt           DateTime             @updatedAt
+  bibleBookmarks      BibleBookmark[]
+  bibleNotes          BibleNote[]
+  readingSessions     ReadingSession[]
+  userBiblePreference UserBiblePreference?
+  userProgress        UserProgress[]
 
   @@map("users")
 }
@@ -28,7 +28,7 @@ model User {
 model UserProgress {
   id          Int       @id @default(autoincrement())
   theme       String
-  percent     Int       @default(0)
+  lessons     String?    @default("[]")
   completedAt DateTime?
   startedAt   DateTime?
   createdAt   DateTime  @default(now())
@@ -58,16 +58,16 @@ model BibleVersion {
 }
 
 model BibleBook {
-  id              Int                    @id @default(autoincrement())
-  code            String                 @unique
-  name            String
-  testament       Testament
-  orderIndex      Int
-  chapterCount    Int
-  createdAt       DateTime               @default(now())
-  bookmarks       BibleBookmark[]
-  notes           BibleNote[]
-  verses          BibleVerse[]
+  id           Int             @id @default(autoincrement())
+  code         String          @unique
+  name         String
+  testament    Testament
+  orderIndex   Int
+  chapterCount Int
+  createdAt    DateTime        @default(now())
+  bookmarks    BibleBookmark[]
+  notes        BibleNote[]
+  verses       BibleVerse[]
 
   @@map("bible_books")
 }
@@ -148,7 +148,7 @@ model ReadingSession {
   startTime    DateTime
   endTime      DateTime?
   duration     Int?
-  chaptersRead String?      @db.Text
+  chaptersRead String?      @default("[]")
   isCompleted  Boolean      @default(false)
   deviceType   String?      @default("web")
   createdAt    DateTime     @default(now())
