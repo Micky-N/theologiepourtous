@@ -18,9 +18,7 @@ model User {
   updatedAt            DateTime               @updatedAt
   bibleBookmarks       BibleBookmark[]
   bibleNotes           BibleNote[]
-  bibleReadingProgress BibleReadingProgress[]
   readingSessions      ReadingSession[]
-  readingStats         ReadingStats[]
   userBiblePreference  UserBiblePreference?
   userProgress         UserProgress[]
 
@@ -69,7 +67,6 @@ model BibleBook {
   createdAt       DateTime               @default(now())
   bookmarks       BibleBookmark[]
   notes           BibleNote[]
-  readingProgress BibleReadingProgress[]
   verses          BibleVerse[]
 
   @@map("bible_books")
@@ -152,7 +149,6 @@ model ReadingSession {
   endTime      DateTime?
   duration     Int?
   chaptersRead String?      @db.Text
-  versesRead   Int          @default(0)
   isCompleted  Boolean      @default(false)
   deviceType   String?      @default("web")
   createdAt    DateTime     @default(now())
@@ -164,50 +160,6 @@ model ReadingSession {
   @@index([userId], map: "reading_sessions_userId_fkey")
   @@index([versionId], map: "reading_sessions_versionId_fkey")
   @@map("reading_sessions")
-}
-
-model ReadingStats {
-  id                  Int        @id @default(autoincrement())
-  date                DateTime   @db.Date
-  totalReadingTime    Int        @default(0)
-  chaptersCompleted   Int        @default(0)
-  versesRead          Int        @default(0)
-  averageReadingSpeed Float?
-  longestSession      Int        @default(0)
-  sessionsCount       Int        @default(0)
-  booksStarted        String?    @db.Text
-  booksCompleted      String?    @db.Text
-  favoriteTestament   Testament?
-  favoriteReadingTime String?
-  createdAt           DateTime   @default(now())
-  updatedAt           DateTime   @updatedAt
-  userId              Int
-  user                User       @relation(fields: [userId], references: [id], onDelete: Cascade)
-
-  @@unique([userId, date])
-  @@map("reading_stats")
-}
-
-model BibleReadingProgress {
-  id             Int       @id @default(autoincrement())
-  currentChapter Int       @default(1)
-  currentVerse   Int       @default(1)
-  completedAt    DateTime?
-  startedAt      DateTime  @default(now())
-  lastReadAt     DateTime  @default(now())
-  totalReadTime  Int       @default(0)
-  chaptersRead   String?   @db.Text
-  isCompleted    Boolean   @default(false)
-  createdAt      DateTime  @default(now())
-  updatedAt      DateTime  @updatedAt
-  userId         Int
-  bookId         Int
-  book           BibleBook @relation(fields: [bookId], references: [id], onDelete: Cascade)
-  user           User      @relation(fields: [userId], references: [id], onDelete: Cascade)
-
-  @@unique([userId, bookId])
-  @@index([bookId], map: "bible_reading_progress_bookId_fkey")
-  @@map("bible_reading_progress")
 }
 
 enum Role {

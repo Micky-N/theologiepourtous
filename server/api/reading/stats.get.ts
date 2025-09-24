@@ -1,9 +1,9 @@
 import prisma from '~~/lib/prisma';
-import type { ReadingStats, BibleReadingProgress } from '@prisma/client';
-import type { ReadingStatsResponse } from '~/types';
+import type { ProgressWithBook, ReadingStats, ReadingStatsResponse } from '~/types';
 
-type ProgressWithBook = BibleReadingProgress & {
-    book: { name: string, chapterCount: number }
+type ChapterRead = {
+    bookCode: string
+    chaptersId: number[]
 };
 
 export default defineEventHandler(async (event): Promise<ReadingStatsResponse> => {
@@ -24,7 +24,7 @@ export default defineEventHandler(async (event): Promise<ReadingStatsResponse> =
         const { startDate, endDate } = getPeriodDates(period);
 
         // Requêtes de base avec types simplifiés
-        const totalSessions = await prisma.readingSession.count({
+        const allSessions = await prisma.readingSession.findMany({
             where: {
                 userId,
                 startTime: { gte: startDate, lte: endDate },
@@ -41,76 +41,41 @@ export default defineEventHandler(async (event): Promise<ReadingStatsResponse> =
             _sum: { duration: true }
         });
 
-        const totalVersesRead = await prisma.readingSession.aggregate({
-            where: {
-                userId,
-                startTime: { gte: startDate, lte: endDate },
-                isCompleted: true
-            },
-            _sum: { versesRead: true }
-        });
+        function onlyUnique<T>(value: T, index: number, array: T[]) {
+            return array.indexOf(value) === index;
+        }
 
+        const totalChaptersRead = allSessions.reduce(
+            (acc, session) => acc + (JSON.parse(session.chaptersRead || '[{"bookCode": "GEN", "chaptersId": []}]') as ChapterRead[])
+                .reduce((acc, chapter) => acc + chapter.chaptersId.filter(onlyUnique).length, 0),
+            0);
+
+        const totalSessions = allSessions.length;
         // Statistiques quotidiennes basiques
-        const dailyStats = await prisma.readingStats.findMany({
-            where: {
-                userId,
-                date: { gte: startDate, lte: endDate }
-            },
-            orderBy: { date: 'asc' },
-            select: {
-                date: true,
-                totalReadingTime: true,
-                versesRead: true,
-                sessionsCount: true,
-                chaptersCompleted: true
-            }
-        }) as ReadingStats[];
+        const dailyStats: ReadingStats[] = [];
 
         // Progression par livre basique
-        const bookProgress = await prisma.bibleReadingProgress.findMany({
-            where: {
-                userId,
-                lastReadAt: { gte: startDate }
-            },
-            include: { book: true },
-            orderBy: { lastReadAt: 'desc' },
-            take: 5
-        }) as ProgressWithBook[];
+        const bookProgress: ProgressWithBook[] = [];
 
         return {
             summary: {
                 totalSessions,
                 totalReadingTime: totalReadingTime._sum.duration || 0,
-                totalVersesRead: totalVersesRead._sum.versesRead || 0,
+                totalChaptersRead: totalChaptersRead,
                 currentStreak: await calculateCurrentStreak(userId),
                 longestStreak: 0, // Simplifié pour l'instant
                 averages: {
                     readingTimePerDay: totalSessions > 0
                         ? (totalReadingTime._sum.duration || 0) / totalSessions
                         : 0,
-                    versesPerSession: totalSessions > 0
-                        ? (totalVersesRead._sum.versesRead || 0) / totalSessions
+                    chaptersPerSession: totalSessions > 0
+                        ? totalChaptersRead / totalSessions
                         : 0,
                     averageReadingSpeed: 0 // À calculer plus tard
                 }
             },
-            dailyStats: dailyStats.map((stat: ReadingStats) => ({
-                date: stat.date,
-                readingTime: stat.totalReadingTime,
-                versesRead: stat.versesRead,
-                sessions: stat.sessionsCount,
-                chaptersCompleted: stat.chaptersCompleted
-            })),
-            bookProgress: bookProgress.map((progress: ProgressWithBook) => ({
-                book: progress.book.name,
-                currentChapter: progress.currentChapter,
-                currentVerse: progress.currentVerse,
-                completionPercentage: progress.book.chapterCount > 0
-                    ? Math.round((progress.currentChapter / progress.book.chapterCount) * 100)
-                    : 0,
-                lastReadAt: progress.lastReadAt,
-                isCompleted: progress.isCompleted
-            })),
+            dailyStats: dailyStats,
+            bookProgress: bookProgress,
             topBooks: [], // À implémenter
             timePreferences: {} // À implémenter
         };
@@ -156,16 +121,17 @@ async function calculateCurrentStreak(userId: number): Promise<number> {
     const checkDate = new Date(today);
 
     while (currentStreak < 365) { // Limite pour éviter les boucles infinies
-        const dayStats = await prisma.readingStats.findUnique({
+        const dayStats = await prisma.readingSession.findMany({
             where: {
-                userId_date: {
-                    userId,
-                    date: checkDate
+                userId: userId,
+                startTime: {
+                    gte: checkDate,
+                    lt: new Date(checkDate.getTime() + 86400000) // +1 jour
                 }
             }
         });
 
-        if (!dayStats || dayStats.sessionsCount === 0) {
+        if (!dayStats || dayStats.length === 0) {
             break;
         }
 

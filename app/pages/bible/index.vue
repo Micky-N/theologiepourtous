@@ -26,10 +26,21 @@ interface ApiVerseResponseData {
     }
 }
 
+interface ChapterRead {
+    bookCode: string
+    chaptersId: number[]
+}
+
+interface ReadingSession {
+    id: number
+    chaptersRead: ChapterRead[]
+}
+
 definePageMeta({
     layout: 'bible'
 });
 
+const { loggedIn } = useUserSession();
 const router = useRouter();
 const route = useRoute();
 const loadingBooks = ref(false);
@@ -39,6 +50,8 @@ const selectedChapter = ref<number | null>(1);
 const selectedChapterVerses = ref<ApiVerseResponseData | null>(null);
 const availableVersions = ref<BibleVersion[]>([]);
 const selectedVersionCode = ref<string>('LSG');
+const currentSession = ref<ReadingSession | null>(null);
+const chaptersRead = ref<ChapterRead[]>([]);
 
 const initQuery = () => {
     selectedBookCode.value = route.query.book as string | undefined || 'GEN';
@@ -107,8 +120,31 @@ const updateBook = async (bookCode: string) => {
     await router.push({ query: { ...route.query, book: bookCode, chapter: 1 } });
 };
 
+const updateChaptersRead = (bookCode: string, chapterId: number) => {
+    if (!chaptersRead.value) return;
+
+    const bookEntry = chaptersRead.value.find(item => item.bookCode === bookCode);
+
+    if (!bookEntry) {
+        // Nouveau livre
+        chaptersRead.value.push({
+            bookCode,
+            chaptersId: [chapterId]
+        });
+    } else {
+        // Livre existant
+        if (!bookEntry.chaptersId.includes(chapterId)) {
+            bookEntry.chaptersId.push(chapterId);
+        }
+    }
+};
+
 const updateChapter = async (chapterId: number) => {
     await router.push({ query: { ...route.query, chapter: chapterId } });
+
+    if (loggedIn && selectedBookCode.value) {
+        updateChaptersRead(selectedBookCode.value, chapterId);
+    }
 };
 
 useSeoMeta({
@@ -118,6 +154,58 @@ useSeoMeta({
     ogDescription: 'Lisez la Bible en ligne avec différentes versions disponibles. Parcourez les livres et chapitres de la Bible facilement.'
 });
 
+const startReadingSession = async () => {
+    if (!loggedIn || !selectedVersion.value) return;
+
+    try {
+        const selectedVersionId = availableVersions.value.find(v => v.code === selectedVersionCode.value)?.id;
+        if (!selectedVersionId) return;
+
+        const response = await $fetch<{ success: boolean, sessionId: number }>('/api/reading/sessions', {
+            method: 'POST',
+            body: {
+                action: 'start',
+                versionId: selectedVersionId,
+                chaptersRead: JSON.stringify([{
+                    bookCode: selectedBookCode.value,
+                    chaptersId: selectedChapter.value ? [selectedChapter.value] : []
+                }])
+            }
+        });
+
+        if (response.success && response.sessionId) {
+            const initialChaptersRead = [{
+                bookCode: selectedBookCode.value,
+                chaptersId: selectedChapter.value ? [selectedChapter.value] : []
+            }];
+            currentSession.value = {
+                id: response.sessionId,
+                chaptersRead: initialChaptersRead
+            };
+            chaptersRead.value = initialChaptersRead;
+        }
+    } catch (error) {
+        console.error('Erreur lors du démarrage de la session:', error);
+    }
+};
+
+const endReadingSession = async () => {
+    if (!loggedIn || !currentSession.value) return;
+
+    try {
+        await $fetch('/api/reading/sessions', {
+            method: 'POST',
+            body: {
+                action: 'end',
+                sessionId: currentSession.value.id,
+                chaptersRead: JSON.stringify(chaptersRead.value)
+            }
+        });
+    } catch (error) {
+        console.error('Erreur lors de la fermeture de la session:', error);
+    }
+};
+
 onMounted(async () => {
     initQuery();
     await Promise.all([
@@ -125,6 +213,16 @@ onMounted(async () => {
         loadVersions(),
         loadVerses()
     ]);
+
+    if (loggedIn) {
+        await startReadingSession();
+    }
+});
+
+onBeforeUnmount(async () => {
+    if (loggedIn) {
+        await endReadingSession();
+    }
 });
 
 const loadBooks = async () => {

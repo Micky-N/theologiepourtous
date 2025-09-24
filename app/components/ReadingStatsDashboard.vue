@@ -51,8 +51,8 @@
                     color="green"
                 />
                 <StatsCard
-                    title="Versets lus"
-                    :value="stats.summary.totalVersesRead.toString()"
+                    title="Chapitres lus"
+                    :value="stats.summary.totalChaptersRead.toString()"
                     icon="i-lucide-scroll-text"
                     color="purple"
                 />
@@ -117,10 +117,10 @@
                         </div>
                         <div class="flex justify-between items-center">
                             <span class="text-sm text-gray-600 dark:text-gray-400">
-                                Versets/session
+                                Chapitres/session
                             </span>
                             <span class="font-medium">
-                                {{ Math.round(stats.summary.averages.versesPerSession) }}
+                                {{ Math.round(stats.summary.averages.chaptersPerSession) }}
                             </span>
                         </div>
                         <div class="flex justify-between items-center">
@@ -228,15 +228,6 @@
                             />
                         </div>
 
-                        <div class="flex justify-between text-xs text-gray-500">
-                            <span>
-                                Chapitre {{ progress.currentChapter }}
-                            </span>
-                            <span>
-                                {{ formatDistanceToNow(new Date(progress.lastReadAt)) }}
-                            </span>
-                        </div>
-
                         <div
                             v-if="progress.isCompleted"
                             class="mt-2 flex items-center gap-1 text-green-600 dark:text-green-400"
@@ -331,19 +322,6 @@ const formattedTime = (seconds: number) => {
     } else {
         return `${seconds}s`;
     }
-};
-
-// Formater la distance temporelle (placeholder - à implémenter avec date-fns ou équivalent)
-const formatDistanceToNow = (date: Date) => {
-    const now = new Date();
-    const diff = now.getTime() - date.getTime();
-    const days = Math.floor(diff / (1000 * 60 * 60 * 24));
-
-    if (days === 0) return 'Aujourd\'hui';
-    if (days === 1) return 'Hier';
-    if (days < 7) return `Il y a ${days} jours`;
-    if (days < 30) return `Il y a ${Math.floor(days / 7)} semaines`;
-    return `Il y a ${Math.floor(days / 30)} mois`;
 };
 
 // Chargement initial

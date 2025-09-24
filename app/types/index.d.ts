@@ -47,9 +47,23 @@ export interface ReadingPeriod {
 
 export interface ReadingAverages {
     readingTimePerDay: number
-    versesPerSession: number
+    chaptersPerSession: number
     averageReadingSpeed: number
 }
+
+export type ReadingStats = {
+    date: Date
+    totalReadingTime: number
+    chaptersRead: number
+    sessionsCount: number
+};
+
+export type ProgressWithBook = {
+    book: BibleBook
+    completionPercentage: number
+    lastReadAt: Date
+    isCompleted: boolean
+};
 
 // ============================================================================
 // TYPES D'API
@@ -59,26 +73,13 @@ export interface ReadingStatsResponse {
     summary: {
         totalSessions: number
         totalReadingTime: number
-        totalVersesRead: number
+        totalChaptersRead: number
         currentStreak: number
         longestStreak: number
         averages: ReadingAverages
     }
-    dailyStats: Array<{
-        date: Date
-        readingTime: number
-        versesRead: number
-        sessions: number
-        chaptersCompleted: number
-    }>
-    bookProgress: Array<{
-        book: string | BibleBook
-        currentChapter: number
-        currentVerse: number
-        completionPercentage: number
-        lastReadAt: Date
-        isCompleted: boolean
-    }>
+    dailyStats: ReadingStats[]
+    bookProgress: ProgressWithBook[]
     topBooks: Array<{
         name: string
         sessions: number
