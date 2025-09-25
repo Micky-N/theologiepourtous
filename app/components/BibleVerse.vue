@@ -3,6 +3,12 @@
         :items="items"
     >
         <span>
+            <button class="cursor-pointer mr-0.5">
+                <UIcon
+                    name="i-lucide-notebook-pen"
+                    class="size-3 text-warning-500 dark:text-warning-400"
+                />
+            </button>
             <span class="inline-block align-top text-xs text-primary-600 dark:text-primary-400">
                 {{ verse.verse }}
             </span>
@@ -14,7 +20,14 @@
                 arrow
             >
                 <template #anchor>
-                    <span :class="{ underline: openedBookmarkForm }">{{ verse.text }}</span>
+                    <span
+                        :class="{
+                            underline: openedBookmarkForm
+                        }"
+                        :style="`text-decoration-color: var(--color-${'green'}-500)`"
+                    >
+                        {{ verse.text }}
+                    </span>
                 </template>
                 <template #content>
                     <BookmarkFormPopover
