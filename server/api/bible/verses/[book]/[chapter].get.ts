@@ -55,12 +55,6 @@ export default defineEventHandler(async (event) => {
             },
             orderBy: {
                 verse: 'asc'
-            },
-            select: {
-                id: true,
-                chapter: true,
-                verse: true,
-                text: true
             }
         });
 

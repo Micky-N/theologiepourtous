@@ -27,11 +27,11 @@
                 <BibleVerse
                     v-for="verse in currentVerses"
                     :key="verse.id"
+                    :book="book"
                     :verse="verse"
                     :notes="getVerseNotes(verse.verse)"
                     :bookmark="getVerseBookmark(verse.verse)"
                     @show-compare="showCompare"
-                    @open-bookmark-form="openBookmarkForm"
                     @add-note="addNote"
                     @refresh-bookmark="emit('refreshBookmark')"
                 />
@@ -75,7 +75,7 @@
 </template>
 
 <script lang="ts" setup>
-import type { $Enums, BibleBook, BibleBookmark, BibleNote, BibleVersion } from '@prisma/client';
+import type { $Enums, BibleBook, BibleBookmark, BibleNote, BibleVerse, BibleVersion } from '@prisma/client';
 import { computed } from 'vue';
 
 interface ApiVerseResponseData {
@@ -89,12 +89,7 @@ interface ApiVerseResponseData {
         name: string
         code: string
     }
-    verses: {
-        text: string
-        chapter: number
-        id: number
-        verse: number
-    }[]
+    verses: BibleVerse[]
     navigation: {
         previousChapter: number | null
         nextChapter: number | null
@@ -113,7 +108,7 @@ const props = defineProps<{
     book: BibleBook
     chapter: number
     versesData: ApiVerseResponseData
-    notes: (BibleNote & { verse: { chapter: number, verse: number, text: string, version: { code: string, name: string } } })[]
+    notes: (BibleNote & { reference: string, verse: { chapter: number, verse: number, text: string, version: { code: string, name: string } } })[]
     bookmarks: (BibleBookmark & { verse: { chapter: number, verse: number, text: string, version: { code: string, name: string } } })[]
     versions: BibleVersion[]
     selectedVersion: BibleVersion
@@ -129,16 +124,6 @@ const showCompare = (verseId: number) => {
     openedCompare.value = true;
 };
 
-const openBookmarkForm = (verseId: number) => {
-    activedVerse.value = {
-        book: { code: props.book.code, name: props.book.name },
-        verseStart: verseId,
-        chapter: props.chapter,
-        version: props.selectedVersion.id
-    };
-    openedBookmark.value = true;
-};
-
 const activedVerse = ref<ActivedVerse | null>(null);
 
 const addNote = (verseId: number) => {
@@ -152,7 +137,6 @@ const addNote = (verseId: number) => {
 };
 
 const openedCompare = ref(false);
-const openedBookmark = ref(false);
 const openedAddNote = ref(false);
 
 const emit = defineEmits<{

@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import type { NavigationMenuItem } from '@nuxt/ui';
-import type { $Enums, BibleBook, BibleBookmark, BibleNote, BibleVersion } from '@prisma/client';
+import type { $Enums, BibleBook, BibleBookmark, BibleNote, BibleVerse, BibleVersion } from '@prisma/client';
 
 interface ApiVerseResponseData {
     book: {
@@ -13,12 +13,7 @@ interface ApiVerseResponseData {
         name: string
         code: string
     }
-    verses: {
-        text: string
-        chapter: number
-        id: number
-        verse: number
-    }[]
+    verses: BibleVerse[]
     navigation: {
         previousChapter: number | null
         nextChapter: number | null
@@ -77,7 +72,7 @@ const selectedVersionCode = computed<string>({
 const books = computed<BibleBook[]>(() => booksData.value?.all || []);
 const currentSession = ref<ReadingSession | null>(null);
 const chaptersRead = ref<ChapterRead[]>([]);
-const notes = ref<(BibleNote & { verse: { chapter: number, verse: number, text: string, version: { code: string, name: string } } })[]>([]);
+const notes = ref<(BibleNote & { reference: string, verse: { chapter: number, verse: number, text: string, version: { code: string, name: string } } })[]>([]);
 const bookmarks = ref<(BibleBookmark & {
     verse: { chapter: number, verse: number, text: string, version: { code: string, name: string } }
 })[]>([]);
@@ -249,7 +244,7 @@ const loadNotes = async () => {
     if (!selectedVersionCode.value || !selectedBookCode.value || !selectedChapter.value) return;
 
     try {
-        const response = await $fetch<{ data: { notes: (BibleNote & { verse: { chapter: number, verse: number, text: string, version: { code: string, name: string } } })[] } }>('/api/bible/notes', {
+        const response = await $fetch<{ data: { notes: (BibleNote & { reference: string, verse: { chapter: number, verse: number, text: string, version: { code: string, name: string } } })[] } }>('/api/bible/notes', {
             method: 'GET',
             query: {
                 book: selectedBookCode.value,

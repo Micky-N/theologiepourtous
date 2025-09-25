@@ -6,6 +6,7 @@
             <button
                 v-if="loggedIn && notes.length"
                 class="cursor-pointer mr-0.5"
+                @click="openedNoteShowDrawer = true"
             >
                 <UIcon
                     name="i-lucide-notebook-pen"
@@ -104,20 +105,26 @@
             </UPopover>
         </span>
     </UContextMenu>
+    <NoteShowDrawer
+        v-model:open="openedNoteShowDrawer"
+        :notes="notes"
+    />
+    <NoteCreateDrawer
+        v-model:open="openedNoteCreateDrawer"
+        :verse="verse"
+        :book="book"
+        :note="noteToEdit"
+    />
 </template>
 
 <script lang="ts" setup>
 import type { ContextMenuItem } from '@nuxt/ui';
-import type { BibleBookmark, BibleNote } from '@prisma/client';
+import type { BibleBook, BibleBookmark, BibleNote, BibleVerse } from '@prisma/client';
 
 const props = defineProps<{
-    verse: {
-        text: string
-        chapter: number
-        id: number
-        verse: number
-    }
-    notes: BibleNote[]
+    book: BibleBook
+    verse: BibleVerse
+    notes: (BibleNote & { reference: string })[]
     bookmark: BibleBookmark | null
 }>();
 
@@ -129,6 +136,8 @@ const emit = defineEmits<{
 const deletingBookmark = ref(false);
 const openedBookmarkForm = ref(false);
 const toast = useToast();
+const openedNoteShowDrawer = ref(false);
+const openedNoteCreateDrawer = ref(false);
 
 const { loggedIn } = useUserSession();
 
@@ -153,7 +162,7 @@ const items = computed<ContextMenuItem[]>(() => {
         baseItems.push({
             label: 'Ajouter Note',
             icon: 'i-lucide-notebook-pen',
-            onSelect: () => emit('addNote', props.verse.id),
+            onSelect: () => openedNoteCreateDrawer.value = true,
             ui: {
                 item: 'cursor-pointer'
             }
@@ -177,6 +186,8 @@ const deleteBookmark = async () => {
         console.log(e);
     }
 };
+
+const noteToEdit = ref<(BibleNote & { reference: string }) | null>(null);
 </script>
 
 <style>
