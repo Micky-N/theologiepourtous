@@ -32,6 +32,13 @@ export default defineEventHandler(async (event) => {
             if (book) {
                 whereClause.bookId = book.id;
             }
+
+            // Filtrer par chapitre si spécifié
+            if (query.chapter) {
+                whereClause.verse = {
+                    chapter: parseInt(query.chapter as string)
+                };
+            }
         }
 
         // Filtrer par privé/public

@@ -1,7 +1,6 @@
 <template>
     <UForm
         :state="form"
-        @submit.prevent="handleSubmit"
     >
         <UModal
             v-model:open="open"
@@ -71,6 +70,7 @@
                         type="submit"
                         color="primary"
                         :loading="loading"
+                        @click="handleSubmit"
                     >
                         {{ isEdit ? 'Enregistrer' : 'Ajouter' }}
                     </UButton>

@@ -28,9 +28,12 @@
                     v-for="verse in currentVerses"
                     :key="verse.id"
                     :verse="verse"
+                    :notes="getVerseNotes(verse.verse)"
+                    :bookmark="getVerseBookmark(verse.verse)"
                     @show-compare="showCompare"
                     @open-bookmark-form="openBookmarkForm"
                     @add-note="addNote"
+                    @refresh-bookmark="emit('refreshBookmark')"
                 />
             </div>
             <template #footer>
@@ -65,13 +68,14 @@
         <BibleNoteFormModal
             v-if="activedVerse"
             v-model="openedAddNote"
-            :verse="activedVerse"
+            :verse-id="activedVerse.verseStart"
+            @created="emit('refreshNotes')"
         />
     </div>
 </template>
 
 <script lang="ts" setup>
-import type { $Enums, BibleBook, BibleVersion } from '@prisma/client';
+import type { $Enums, BibleBook, BibleBookmark, BibleNote, BibleVersion } from '@prisma/client';
 import { computed } from 'vue';
 
 interface ApiVerseResponseData {
@@ -109,6 +113,8 @@ const props = defineProps<{
     book: BibleBook
     chapter: number
     versesData: ApiVerseResponseData
+    notes: (BibleNote & { verse: { chapter: number, verse: number, text: string, version: { code: string, name: string } } })[]
+    bookmarks: (BibleBookmark & { verse: { chapter: number, verse: number, text: string, version: { code: string, name: string } } })[]
     versions: BibleVersion[]
     selectedVersion: BibleVersion
 }>();
@@ -151,11 +157,20 @@ const openedAddNote = ref(false);
 
 const emit = defineEmits<{
     (e: 'update:chapter', value: number): void
+    (e: 'refreshBookmark' | 'refreshNotes'): void
 }>();
 
 const chapters = computed(() => {
     return Array.from({ length: props.versesData?.navigation.totalChapters || 0 }, (_, i) => i + 1);
 });
+
+const getVerseNotes = (verse: number) => {
+    return props.notes.filter(note => note.verse.verse === verse) || [];
+};
+
+const getVerseBookmark = (verse: number) => {
+    return props.bookmarks.find(bookmark => bookmark.verse.verse === verse) || null;
+};
 
 const currentVerses = computed(() => props.versesData?.verses || []);
 

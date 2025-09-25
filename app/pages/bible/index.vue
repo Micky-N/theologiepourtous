@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import type { NavigationMenuItem } from '@nuxt/ui';
-import type { $Enums, BibleBook, BibleVersion } from '@prisma/client';
+import type { $Enums, BibleBook, BibleBookmark, BibleNote, BibleVersion } from '@prisma/client';
 
 interface ApiVerseResponseData {
     book: {
@@ -39,31 +39,53 @@ interface ReadingSession {
 definePageMeta({
     layout: 'bible'
 });
-
+const route = useRoute();
+const { data: booksData } = await useAsyncData('bible-books', () => $fetch<{ data: { all: BibleBook[], grouped: { old: BibleBook[], new: BibleBook[] } } }>('/api/bible/books'), { transform: data => data?.data || [] });
+const { data: availableVersions } = await useAsyncData('bible-versions', () => $fetch<{ data: BibleVersion[] }>('/api/bible/versions'), { transform: data => data?.data || [] });
+const { data: selectedChapterVerses } = await useAsyncData(
+    'bible-verses',
+    () => $fetch<{ data: ApiVerseResponseData }>(`/api/bible/verses/${route.query.book || 'GEN'}/${route.query.chapter || '1'}`, {
+        query: {
+            version: route.query.version || 'LSG'
+        }
+    }),
+    {
+        watch: [() => route.query],
+        transform: data => data?.data || []
+    }
+);
 const { loggedIn } = useUserSession();
 const router = useRouter();
-const route = useRoute();
-const loadingBooks = ref(false);
-const error = ref<string | null>(null);
-const selectedBookCode = ref<string>('GEN');
-const selectedChapter = ref<number | null>(1);
-const selectedChapterVerses = ref<ApiVerseResponseData | null>(null);
-const availableVersions = ref<BibleVersion[]>([]);
-const selectedVersionCode = ref<string>('LSG');
+const selectedBookCode = computed<string>({
+    get: () => route.query.book as string || 'GEN',
+    set: (value: string | undefined) => {
+        router.push({ query: { ...route.query, book: value } });
+    }
+});
+const selectedChapter = computed<number>({
+    get: () => parseInt(route.query.chapter as string || '1'),
+    set: (value: number) => {
+        router.push({ query: { ...route.query, chapter: value } });
+    }
+});
+const selectedVersionCode = computed<string>({
+    get: () => route.query.version as string || 'LSG',
+    set: (value: string | undefined) => {
+        router.push({ query: { ...route.query, version: value } });
+    }
+});
+const books = computed<BibleBook[]>(() => booksData.value?.all || []);
 const currentSession = ref<ReadingSession | null>(null);
 const chaptersRead = ref<ChapterRead[]>([]);
-
-const initQuery = () => {
-    selectedBookCode.value = route.query.book as string | undefined || 'GEN';
-    selectedVersionCode.value = route.query.version as string | undefined || 'LSG';
-    selectedChapter.value = parseInt(route.query.chapter as string | undefined || '1');
-};
-// Données
-const books = ref<BibleBook[]>([]);
+const notes = ref<(BibleNote & { verse: { chapter: number, verse: number, text: string, version: { code: string, name: string } } })[]>([]);
+const bookmarks = ref<(BibleBookmark & {
+    verse: { chapter: number, verse: number, text: string, version: { code: string, name: string } }
+})[]>([]);
 
 const booksNavigation = computed<NavigationMenuItem[]>(() => {
-    const oldTestamentBooks = books.value.filter(book => book.testament === 'OLD');
-    const newTestamentBooks = books.value.filter(book => book.testament === 'NEW');
+    const booksGrouped = booksData.value?.grouped || { old: [], new: [] };
+    const oldTestamentBooks = booksGrouped.old;
+    const newTestamentBooks = booksGrouped.new;
     return [
         {
             label: 'Ancien Testament',
@@ -101,6 +123,7 @@ const booksNavigation = computed<NavigationMenuItem[]>(() => {
 });
 
 const availableVersionsNavigation = computed<NavigationMenuItem[]>(() => {
+    if (!availableVersions.value) return [];
     return availableVersions.value.map(version => ({
         label: version.name,
         to: router.resolve({ query: { ...route.query, version: version.code } }).href,
@@ -109,10 +132,12 @@ const availableVersionsNavigation = computed<NavigationMenuItem[]>(() => {
 });
 
 const selectedBook = computed(() => {
+    if (!books.value || !selectedBookCode.value) return null;
     return books.value.find(book => book.code == selectedBookCode.value);
 });
 
 const selectedVersion = computed(() => {
+    if (!availableVersions.value || !selectedVersionCode.value) return null;
     return availableVersions.value.find(version => version.code == selectedVersionCode.value);
 });
 
@@ -155,7 +180,7 @@ useSeoMeta({
 });
 
 const startReadingSession = async () => {
-    if (!loggedIn || !selectedVersion.value) return;
+    if (!loggedIn || !selectedVersion.value || !availableVersions.value) return;
 
     try {
         const selectedVersionId = availableVersions.value.find(v => v.code === selectedVersionCode.value)?.id;
@@ -207,15 +232,10 @@ const endReadingSession = async () => {
 };
 
 onMounted(async () => {
-    initQuery();
-    await Promise.all([
-        loadBooks(),
-        loadVersions(),
-        loadVerses()
-    ]);
-
     if (loggedIn) {
         await startReadingSession();
+        await loadNotes();
+        await loadBookmarks();
     }
 });
 
@@ -225,55 +245,57 @@ onBeforeUnmount(async () => {
     }
 });
 
-const loadBooks = async () => {
-    try {
-        loadingBooks.value = true;
-        const response = await $fetch('/api/bible/books');
-        books.value = (response.data?.all) as unknown as BibleBook[];
-    } catch (err) {
-        error.value = 'Erreur lors du chargement des livres';
-        console.error(err);
-    } finally {
-        loadingBooks.value = false;
-    }
-};
+const loadNotes = async () => {
+    if (!selectedVersionCode.value || !selectedBookCode.value || !selectedChapter.value) return;
 
-const loadVersions = async () => {
     try {
-        const response = await $fetch('/api/bible/versions') as any;
-        availableVersions.value = response.data || response;
-    } catch (err) {
-        error.value = 'Erreur lors du chargement des versions';
-        console.error(err);
-    }
-};
-
-const loadVerses = async () => {
-    try {
-        const response = await $fetch(`/api/bible/verses/${selectedBookCode.value}/${selectedChapter.value}`, {
+        const response = await $fetch<{ data: { notes: (BibleNote & { verse: { chapter: number, verse: number, text: string, version: { code: string, name: string } } })[] } }>('/api/bible/notes', {
+            method: 'GET',
             query: {
-                version: selectedVersionCode.value
+                book: selectedBookCode.value,
+                chapter: selectedChapter.value
             }
         });
-        selectedChapterVerses.value = response.data;
-    } catch (err) {
-        error.value = 'Erreur lors du chargement des versets';
-        console.error(err);
+
+        notes.value = response?.data.notes || [];
+    } catch (error) {
+        console.error('Erreur lors du chargement des notes:', error);
     }
 };
 
-watch(() => route.query, async () => {
-    initQuery();
-    await loadVerses();
-}, {
-    deep: true
+const loadBookmarks = async () => {
+    if (!selectedVersion.value || !selectedBookCode.value || !selectedChapter.value) return;
+
+    try {
+        const response = await $fetch<{
+            data: {
+                bookmarks: (BibleBookmark & {
+                    verse: { chapter: number, verse: number, text: string, version: { code: string, name: string } }
+                })[]
+            }
+        }>('/api/bible/bookmarks', {
+            method: 'GET',
+            query: {
+                book: selectedBookCode.value,
+                chapter: selectedChapter.value
+            }
+        });
+        bookmarks.value = response?.data.bookmarks || [];
+    } catch (error) {
+        console.error('Erreur lors du chargement des signets:', error);
+    }
+};
+
+watch([() => route.query.chapter, () => route.query.book], async () => {
+    await loadNotes();
+    await loadBookmarks();
 });
 
 defineOgImageComponent('Saas');
 </script>
 
 <template>
-    <UPage v-if="books.length && availableVersions.length">
+    <UPage>
         <template #left>
             <UPageAside>
                 <template #top>
@@ -281,6 +303,7 @@ defineOgImageComponent('Saas');
                 </template>
 
                 <UNavigationMenu
+                    v-if="books?.length"
                     :items="booksNavigation"
                     highlight
                     orientation="vertical"
@@ -296,20 +319,24 @@ defineOgImageComponent('Saas');
         <UPageBody>
             <div>
                 <BibleReader
-                    v-if="selectedBook && selectedChapter && selectedVersion &&selectedChapterVerses"
+                    v-if="selectedBook && selectedChapter && selectedVersion && selectedChapterVerses"
                     :book="selectedBook"
                     :chapter="selectedChapter"
                     :verses-data="selectedChapterVerses"
-                    :versions="availableVersions"
+                    :versions="availableVersions || []"
                     :selected-version="selectedVersion"
+                    :notes="notes"
+                    :bookmarks="bookmarks"
                     @update:chapter="updateChapter"
+                    @refresh-bookmark="loadBookmarks"
+                    @refresh-notes="loadNotes"
                 />
             </div>
             <USeparator />
         </UPageBody>
 
         <template
-            v-if="availableVersions.length"
+            v-if="availableVersions?.length"
             #right
         >
             <UPageAside>
