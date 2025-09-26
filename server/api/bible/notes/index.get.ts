@@ -85,7 +85,6 @@ export default defineEventHandler(async (event) => {
             title: note.title,
             content: note.content,
             isPrivate: note.isPrivate,
-            reference: `${note.book.name} ${note.verse.chapter}:${note.verse.verse}`,
             book: note.book,
             verse: {
                 chapter: note.verse.chapter,

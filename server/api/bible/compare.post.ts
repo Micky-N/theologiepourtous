@@ -11,13 +11,6 @@ const compareSchema = z.object({
 });
 
 export default defineEventHandler(async (event) => {
-    if (event.node.req.method !== 'POST') {
-        throw createError({
-            statusCode: 405,
-            statusMessage: 'Method Not Allowed'
-        });
-    }
-
     try {
         const body = await readBody(event);
 

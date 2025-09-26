@@ -108,12 +108,17 @@
     <NoteShowDrawer
         v-model:open="openedNoteShowDrawer"
         :notes="notes"
+        :verse="verse"
+        :book="book"
+        @edit:note="editNote"
+        @refresh-note="emit('refreshNote')"
     />
     <NoteCreateDrawer
         v-model:open="openedNoteCreateDrawer"
         :verse="verse"
         :book="book"
         :note="noteToEdit"
+        @refresh-note="emit('refreshNote')"
     />
 </template>
 
@@ -124,13 +129,13 @@ import type { BibleBook, BibleBookmark, BibleNote, BibleVerse } from '@prisma/cl
 const props = defineProps<{
     book: BibleBook
     verse: BibleVerse
-    notes: (BibleNote & { reference: string })[]
+    notes: BibleNote[]
     bookmark: BibleBookmark | null
 }>();
 
 const emit = defineEmits<{
     (e: 'showCompare' | 'addNote', verseId: number): void
-    (e: 'refreshBookmark'): void
+    (e: 'refreshBookmark' | 'refreshNote'): void
 }>();
 
 const deletingBookmark = ref(false);
@@ -187,7 +192,12 @@ const deleteBookmark = async () => {
     }
 };
 
-const noteToEdit = ref<(BibleNote & { reference: string }) | null>(null);
+const noteToEdit = ref<BibleNote | null>(null);
+
+const editNote = (note: BibleNote) => {
+    noteToEdit.value = note;
+    openedNoteCreateDrawer.value = true;
+};
 </script>
 
 <style>

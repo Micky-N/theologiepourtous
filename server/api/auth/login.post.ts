@@ -8,13 +8,6 @@ const loginSchema = z.object({
 });
 
 export default defineEventHandler(async (event) => {
-    if (event.node.req.method !== 'POST') {
-        throw createError({
-            statusCode: 405,
-            statusMessage: 'Method Not Allowed'
-        });
-    }
-
     try {
         // Is user already logged in?
         const { user: userSession } = await getUserSession(event);

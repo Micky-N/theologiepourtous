@@ -48,12 +48,11 @@
 import type { BibleBook, BibleNote, BibleVerse } from '@prisma/client';
 
 const emit = defineEmits<{
-    (e: 'close'): void
-    (e: 'created' | 'updated', note: any): void
+    (e: 'close' | 'refreshNote'): void
 }>();
 
 const { note = null, verse, book } = defineProps<{
-    note?: (BibleNote & { reference: string }) | null
+    note?: BibleNote | null
     verse: BibleVerse
     book: BibleBook
 }>();
@@ -71,6 +70,8 @@ const toast = useToast();
 function closeModal() {
     open.value = false;
     emit('close');
+    form.content = '';
+    form.title = '';
 }
 
 async function handleSubmit() {
@@ -112,8 +113,7 @@ async function handleSubmit() {
         }
         if (response.success) {
             toast.add({ title: isEdit.value ? 'Note modifiée' : 'Note ajoutée', description: response.message, color: 'primary' });
-            if (isEdit.value) emit('updated', response.note);
-            else emit('created', response.note);
+            emit('refreshNote');
             closeModal();
         } else {
             error.value = response.message || 'Erreur inconnue';
@@ -129,12 +129,12 @@ const reference = computed(() => {
     return `${book.name} ${verse.chapter}:${verse.verse}`;
 });
 
-watch(() => note, (note) => {
-    if (note) {
-        form.title = note.title ?? '';
-        form.content = note.content ?? '';
-        form.isPrivate = note.isPrivate ?? true;
-        isEdit.value = true;
+watch(open, (value) => {
+    if (value) {
+        form.title = note?.title ?? '';
+        form.content = note?.content ?? '';
+        form.isPrivate = note?.isPrivate ?? true;
+        isEdit.value = !!note;
     } else {
         form.title = '';
         form.content = '';

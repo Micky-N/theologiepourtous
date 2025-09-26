@@ -72,7 +72,7 @@ const selectedVersionCode = computed<string>({
 const books = computed<BibleBook[]>(() => booksData.value?.all || []);
 const currentSession = ref<ReadingSession | null>(null);
 const chaptersRead = ref<ChapterRead[]>([]);
-const notes = ref<(BibleNote & { reference: string, verse: { chapter: number, verse: number, text: string, version: { code: string, name: string } } })[]>([]);
+const notes = ref<(BibleNote & { verse: { chapter: number, verse: number, text: string, version: { code: string, name: string } } })[]>([]);
 const bookmarks = ref<(BibleBookmark & {
     verse: { chapter: number, verse: number, text: string, version: { code: string, name: string } }
 })[]>([]);
@@ -244,7 +244,7 @@ const loadNotes = async () => {
     if (!selectedVersionCode.value || !selectedBookCode.value || !selectedChapter.value) return;
 
     try {
-        const response = await $fetch<{ data: { notes: (BibleNote & { reference: string, verse: { chapter: number, verse: number, text: string, version: { code: string, name: string } } })[] } }>('/api/bible/notes', {
+        const response = await $fetch<{ data: { notes: (BibleNote & { verse: { chapter: number, verse: number, text: string, version: { code: string, name: string } } })[] } }>('/api/bible/notes', {
             method: 'GET',
             query: {
                 book: selectedBookCode.value,
@@ -308,7 +308,7 @@ defineOgImageComponent('Saas');
         <UPageHeader
             v-if="selectedBook && selectedChapter"
             :title="`${selectedBook.name} ${selectedChapter}`"
-            :description="selectedVersion ? selectedVersion.name : 'Aucune version sélectionnée'"
+            :description="selectedVersion?.name || 'Aucune version sélectionnée'"
         />
 
         <UPageBody>

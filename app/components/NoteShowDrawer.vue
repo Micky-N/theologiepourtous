@@ -2,12 +2,15 @@
     <USlideover
         v-model:open="open"
         :title="selectedNote?.title || 'Liste des notes'"
-        :description="selectedNote?.reference || 'Choisie une note'"
+        :description="reference"
         :ui="{ footer: 'justify-end' }"
     >
         <template #body>
             <template v-if="selectedNote">
-                <p v-html="nl2br(selectedNote.content)" />
+                <p
+                    class="whitespace-pre-wrap"
+                    v-html="selectedNote.content"
+                />
             </template>
             <template v-else>
                 <div class="space-y-4">
@@ -32,12 +35,36 @@
                                     {{ note.title }}
                                 </h4>
                             </div>
-                            <UButton
-                                icon="i-lucide-trash-2"
-                                size="md"
-                                color="error"
-                                variant="ghost"
-                            />
+                            <UPopover arrow>
+                                <UButton
+                                    icon="i-lucide-trash-2"
+                                    size="md"
+                                    color="error"
+                                    variant="ghost"
+                                />
+
+                                <template #content>
+                                    <UPageCard
+                                        title="Suppression de la note"
+                                        description="Êtes-vous sûr de vouloir supprimer cette note ? Cette action est irréversible."
+                                        icon="i-lucide-trash-2"
+                                        :ui="{
+                                            root: 'max-w-sm',
+                                            leadingIcon: 'text-red-500'
+                                        }"
+                                    >
+                                        <UButton
+                                            label="Supprimer"
+                                            color="error"
+                                            variant="subtle"
+                                            :ui="{
+                                                base: 'justify-center'
+                                            }"
+                                            @click="removeNote(note)"
+                                        />
+                                    </UPageCard>
+                                </template>
+                            </UPopover>
                         </div>
                     </UCard>
                 </div>
@@ -59,23 +86,57 @@
                 <UButton
                     label="Modifier"
                     color="secondary"
+                    @click="emit('edit:note', selectedNote)"
                 />
-                <UButton
-                    label="Supprimer"
-                    color="error"
-                    variant="outline"
-                />
+                <UPopover arrow>
+                    <UButton
+                        label="Supprimer"
+                        color="error"
+                        variant="outline"
+                    />
+
+                    <template #content>
+                        <UPageCard
+                            title="Suppression de la note"
+                            description="Êtes-vous sûr de vouloir supprimer cette note ? Cette action est irréversible."
+                            icon="i-lucide-trash-2"
+                            :ui="{
+                                root: 'max-w-sm',
+                                leadingIcon: 'text-red-500'
+                            }"
+                        >
+                            <UButton
+                                label="Supprimer"
+                                color="error"
+                                variant="subtle"
+                                :ui="{
+                                    base: 'justify-center'
+                                }"
+                                @click="removeNote(selectedNote)"
+                            />
+                        </UPageCard>
+                    </template>
+                </UPopover>
             </div>
         </template>
     </USlideover>
 </template>
 
 <script lang="ts" setup>
-import type { BibleNote } from '@prisma/client';
+import type { BibleBook, BibleNote, BibleVerse } from '@prisma/client';
 
-const { notes } = defineProps<{
-    notes: (BibleNote & { reference: string })[]
+const { notes, book, verse } = defineProps<{
+    notes: BibleNote[]
+    verse: BibleVerse
+    book: BibleBook
 }>();
+
+const emit = defineEmits<{
+    (e: 'edit:note', value: BibleNote): void
+    (e: 'refreshNote'): void
+}>();
+
+const toast = useToast();
 const open = defineModel<boolean>('open', { default: false });
 const selectedNoteId = ref<BibleNote['id'] | null>(null);
 const selectedNote = computed(() => notes.find(note => note.id === selectedNoteId.value) || null);
@@ -90,7 +151,32 @@ watch(open, (value) => {
     }
 });
 
-const nl2br = (str: string) => str.replace('\n', '<br />\n');
+const reference = computed(() => {
+    return `${book.name} ${verse.chapter}:${verse.verse}`;
+});
+
+const removeNote = async (note: BibleNote) => {
+    try {
+        await $fetch(`/api/bible/notes/${note.id}`, {
+            method: 'DELETE'
+        });
+        toast.add({
+            title: 'Suppression succès',
+            description: 'La note a bien été supprimée'
+        });
+        emit('refreshNote');
+        if (notes.length == 1) {
+            open.value = false;
+        }
+    } catch (e) {
+        console.error(e);
+        toast.add({
+            color: 'error',
+            title: 'Erreur',
+            description: 'Erreur lors de la suppression'
+        });
+    }
+};
 </script>
 
 <style>

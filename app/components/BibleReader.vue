@@ -34,6 +34,7 @@
                     @show-compare="showCompare"
                     @add-note="addNote"
                     @refresh-bookmark="emit('refreshBookmark')"
+                    @refresh-note="emit('refreshNotes')"
                 />
             </div>
             <template #footer>
@@ -64,12 +65,6 @@
             v-model="openedCompare"
             v-bind="activedVerse"
             :available-versions="versions"
-        />
-        <BibleNoteFormModal
-            v-if="activedVerse"
-            v-model="openedAddNote"
-            :verse-id="activedVerse.verseStart"
-            @created="emit('refreshNotes')"
         />
     </div>
 </template>
@@ -108,7 +103,7 @@ const props = defineProps<{
     book: BibleBook
     chapter: number
     versesData: ApiVerseResponseData
-    notes: (BibleNote & { reference: string, verse: { chapter: number, verse: number, text: string, version: { code: string, name: string } } })[]
+    notes: (BibleNote & { verse: { chapter: number, verse: number, text: string, version: { code: string, name: string } } })[]
     bookmarks: (BibleBookmark & { verse: { chapter: number, verse: number, text: string, version: { code: string, name: string } } })[]
     versions: BibleVersion[]
     selectedVersion: BibleVersion
