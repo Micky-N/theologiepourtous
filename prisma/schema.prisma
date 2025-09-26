@@ -28,8 +28,7 @@ model User {
 model UserProgress {
   id          Int       @id @default(autoincrement())
   theme       String
-  lessons     String?    @default("[]")
-  completedAt DateTime?
+  lessons     Json?    @default("[]")
   startedAt   DateTime?
   createdAt   DateTime  @default(now())
   updatedAt   DateTime  @updatedAt
@@ -148,7 +147,7 @@ model ReadingSession {
   startTime    DateTime
   endTime      DateTime?
   duration     Int?
-  chaptersRead String?      @default("[]")
+  chaptersRead Json?      @default("[]")
   isCompleted  Boolean      @default(false)
   deviceType   String?      @default("web")
   createdAt    DateTime     @default(now())

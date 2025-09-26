@@ -46,7 +46,7 @@ export default defineEventHandler(async (event): Promise<ReadingStatsResponse> =
         }
 
         const totalChaptersRead = allSessions.reduce(
-            (acc, session) => acc + (JSON.parse(session.chaptersRead || '[{"bookCode": "GEN", "chaptersId": []}]') as ChapterRead[])
+            (acc, session) => acc + ((session.chaptersRead || JSON.parse('[{"bookCode": "GEN", "chaptersId": []}]')) as ChapterRead[])
                 .reduce((acc, chapter) => acc + chapter.chaptersId.filter(onlyUnique).length, 0),
             0);
 
