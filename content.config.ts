@@ -212,6 +212,7 @@ export const collections = {
             tags: z.array(z.string().nonempty()),
             theme: z.string().nonempty(),
             reading_time: z.number().optional(),
+            slug: z.string().nonempty(),
             seo: createSeoSchema()
         })
     }),

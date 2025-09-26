@@ -258,3 +258,6 @@
   --ui-bg-elevated: var(--ui-color-neutral-900);
   --ui-bg-accented: var(--ui-color-neutral-800);
 }
+button {
+  @apply cursor-pointer;
+}

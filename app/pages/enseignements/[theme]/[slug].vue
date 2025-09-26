@@ -1,15 +1,47 @@
 <script setup lang="ts">
+import type { UserProgress } from '@prisma/client';
+
+const { loggedIn } = useUserSession();
 const route = useRoute();
 const { data: lesson } = await useAsyncData(route.path, () => queryCollection('lessons').path(route.path).first());
 if (!lesson.value) {
     throw createError({ statusCode: 404, statusMessage: 'Lesson not found', fatal: true });
 }
+const { data: progress, refresh } = useAsyncData(
+    route.path + '-progress',
+    () => $fetch<{ success: boolean, data: UserProgress | null }>(`/api/teaching/progress/${lesson.value?.theme}`, {
+        method: 'GET'
+    }),
+    {
+        immediate: loggedIn.value
+    }
+);
 
 const { data: surround } = useAsyncData(`${route.path}-surround`, () => {
     return queryCollectionItemSurroundings('lessons', route.path, {
         fields: ['description']
     }).where('theme', '=', route.params.theme);
 });
+
+const learntLesson = (lesson: string) => {
+    if (!progress.value?.data) return false;
+    const lessons = progress.value?.data.lessons;
+    if (!lessons) return false;
+    const lessonsArray = JSON.parse(lessons) as string[];
+    return lessonsArray.length && lessonsArray.includes(lesson);
+};
+
+const setProgress = async (slug: string) => {
+    try {
+        await $fetch<{ success: boolean, data: UserProgress | null }>(`/api/teaching/progress/${lesson.value?.theme}`, {
+            method: 'POST',
+            body: { lesson: slug }
+        });
+        await refresh();
+    } catch (e) {
+        console.log(e);
+    }
+};
 
 useSeoMeta({
     title: lesson.value.title,
@@ -48,17 +80,49 @@ useHead({
             :description="lesson.description"
         >
             <template #headline>
-                <div class="space-x-1">
-                    <time class="text-muted">{{ new Date(lesson.date).toLocaleDateString('fr', { year: 'numeric', month: 'long', day: 'numeric' }) }}</time>
-                    <span class="text-muted">&middot;</span>
-                    <!-- tags -->
-                    <span
-                        v-for="tag in lesson.tags"
-                        :key="tag"
-                        class="text-warning-600 font-light"
+                <div class="flex flex-col lg:flex-row items-start lg:items-center space-x-1">
+                    <UButton
+                        v-if="learntLesson(lesson.slug)"
+                        icon="i-lucide-circle-check-big"
+                        size="xs"
+                        color="success"
+                        variant="subtle"
+                        @click="setProgress(lesson.slug)"
                     >
-                        {{ tag }}<span v-if="tag !== lesson.tags[lesson.tags.length - 1]">, </span>
-                    </span>
+                        Appris
+                    </UButton>
+                    <UButton
+                        v-else-if="!!progress?.data"
+                        icon="i-lucide-circle-dashed"
+                        size="xs"
+                        color="primary"
+                        variant="subtle"
+                        @click="setProgress(lesson.slug)"
+                    >
+                        En cours
+                    </UButton>
+                    <UButton
+                        v-else
+                        icon="i-lucide-circle-dashed"
+                        size="xs"
+                        color="warning"
+                        variant="subtle"
+                        @click="setProgress(lesson.slug)"
+                    >
+                        Pas commencer
+                    </UButton>
+                    <time class="text-muted">{{ new Date(lesson.date).toLocaleDateString('fr', { year: 'numeric', month: 'long', day: 'numeric' }) }}</time>
+                    <span class="hidden lg:block text-muted">&middot;</span>
+                    <!-- tags -->
+                    <div>
+                        <span
+                            v-for="(tag, idx) in lesson.tags"
+                            :key="tag"
+                            class="text-warning-600 font-light"
+                        >
+                            {{ tag }}<span v-if="idx !== lesson.tags.length - 1">, </span>
+                        </span>
+                    </div>
                 </div>
             </template>
 

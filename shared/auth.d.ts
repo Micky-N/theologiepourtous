@@ -1,9 +1,8 @@
+import type { User as UserPrisma } from '@prisma/client';
+
 declare module '#auth-utils' {
-    interface User {
-        id: number
+    interface User extends Pick<UserPrisma, 'id' | 'name' | 'email' | 'role'> {
         name: string
-        email: string
-        role: string
     }
 
     interface UserSession {
