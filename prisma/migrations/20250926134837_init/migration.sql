@@ -17,7 +17,7 @@ CREATE TABLE `users` (
 CREATE TABLE `user_progress` (
     `id` INTEGER NOT NULL AUTO_INCREMENT,
     `theme` VARCHAR(191) NOT NULL,
-    `lessons` JSON NULL DEFAULT '[]',
+    `lessons` LONGTEXT NULL DEFAULT '[]',
     `startedAt` DATETIME(3) NULL,
     `createdAt` DATETIME(3) NOT NULL DEFAULT CURRENT_TIMESTAMP(3),
     `updatedAt` DATETIME(3) NOT NULL,
@@ -127,7 +127,7 @@ CREATE TABLE `reading_sessions` (
     `startTime` DATETIME(3) NOT NULL,
     `endTime` DATETIME(3) NULL,
     `duration` INTEGER NULL,
-    `chaptersRead` JSON NULL DEFAULT '[]',
+    `chaptersRead` LONGTEXT NULL DEFAULT '[]',
     `isCompleted` BOOLEAN NOT NULL DEFAULT false,
     `deviceType` VARCHAR(191) NULL DEFAULT 'web',
     `createdAt` DATETIME(3) NOT NULL DEFAULT CURRENT_TIMESTAMP(3),

@@ -26,14 +26,14 @@ model User {
 }
 
 model UserProgress {
-  id          Int       @id @default(autoincrement())
-  theme       String
-  lessons     Json?    @default("[]")
-  startedAt   DateTime?
-  createdAt   DateTime  @default(now())
-  updatedAt   DateTime  @updatedAt
-  userId      Int
-  user        User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+  id        Int       @id @default(autoincrement())
+  theme     String
+  lessons   String?   @default("[]") @db.LongText
+  startedAt DateTime?
+  createdAt DateTime  @default(now())
+  updatedAt DateTime  @updatedAt
+  userId    Int
+  user      User      @relation(fields: [userId], references: [id], onDelete: Cascade)
 
   @@index([userId], map: "user_progress_userId_fkey")
   @@map("user_progress")
@@ -147,7 +147,7 @@ model ReadingSession {
   startTime    DateTime
   endTime      DateTime?
   duration     Int?
-  chaptersRead Json?      @default("[]")
+  chaptersRead String?      @default("[]") @db.LongText
   isCompleted  Boolean      @default(false)
   deviceType   String?      @default("web")
   createdAt    DateTime     @default(now())
