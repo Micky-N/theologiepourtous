@@ -423,7 +423,12 @@ async function exportPDF() {
     y = startY + 4;
     doc.save('reading_stats.pdf');
 }
-</script>
 
-<style scoped>
-</style>
+useHead({
+    title: 'Statistiques de lecture',
+    meta: [
+        { name: 'description', content: 'Suivez vos statistiques de lecture biblique, y compris le temps de lecture, les chapitres lus et plus encore.' },
+        { name: 'keywords', content: 'statistiques, lecture biblique, théologie, progression, temps de lecture' }
+    ]
+});
+</script>
