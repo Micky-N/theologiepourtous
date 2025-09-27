@@ -20,7 +20,7 @@ export default defineEventHandler<Promise<{ success: boolean, data: UserProgress
         });
     }
 
-    const body = await readBody(event);
+    const body = await readBody<{ lesson: string } | null>(event);
 
     // Find existing progress
     let progress = await prisma.userProgress.findFirst({
@@ -43,7 +43,7 @@ export default defineEventHandler<Promise<{ success: boolean, data: UserProgress
     }
 
     // If a lesson is provided in the body, add it to the lessons array
-    if (body.lesson) {
+    if (body?.lesson) {
         const lessons = JSON.parse(progress.lessons || '[]') as string[];
         if (!lessons.includes(body.lesson)) {
             lessons.push(body.lesson);

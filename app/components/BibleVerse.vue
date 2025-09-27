@@ -26,7 +26,8 @@
                 <template #anchor>
                     <span
                         :class="{
-                            underline: openedBookmarkForm || bookmark
+                            'underline': openedBookmarkForm || bookmark,
+                            'bg-yellow-500/20': selectedVerse
                         }"
                     >
                         <template v-if="!bookmark">{{ verse.text }}</template>
@@ -47,7 +48,6 @@
                                 {{ verse.text }}
                             </span>
                             <template
-                                v-if="bookmark.title"
                                 #content
                             >
                                 <UCard
@@ -59,7 +59,7 @@
                                     <template #header>
                                         <div class="flex items-center justify-between gap-2">
                                             <p>
-                                                {{ bookmark.title }}
+                                                {{ bookmark.title || 'Signet' }}
                                             </p>
                                             <span
                                                 class="cursor-pointer rounded-sm bg-gray-50 hover:bg-red-50 flex items-center justify-center p-1 text-red-500 hover:text-red-700"
@@ -138,12 +138,13 @@ const emit = defineEmits<{
     (e: 'refreshBookmark' | 'refreshNote'): void
 }>();
 
+const route = useRoute();
 const deletingBookmark = ref(false);
 const openedBookmarkForm = ref(false);
 const toast = useToast();
 const openedNoteShowDrawer = ref(false);
 const openedNoteCreateDrawer = ref(false);
-
+const verseQuery = route.query.verse as string | undefined;
 const { loggedIn } = useUserSession();
 
 const items = computed<ContextMenuItem[]>(() => {
@@ -198,6 +199,29 @@ const editNote = (note: BibleNote) => {
     noteToEdit.value = note;
     openedNoteCreateDrawer.value = true;
 };
+
+const selectedVerse = computed(() => {
+    if (!verseQuery) return false;
+    if (verseQuery === props.verse.verse.toString()) return true;
+    if (!verseQuery.includes('-') && !verseQuery.includes(';')) return false;
+    const verseQueryParts = verseQuery.split(';').map(v => v.trim());
+    if (verseQueryParts.length > 1) {
+        return verseQueryParts.some((part) => {
+            const versesArray = part.split('-').map(v => v.trim());
+            const allVerses = [];
+            for (let i = Number(versesArray[0]); i <= Number(versesArray[versesArray.length - 1]); i++) {
+                allVerses.push(i.toString());
+            }
+            return allVerses.includes(props.verse.verse.toString());
+        });
+    }
+    const versesArray = verseQuery.split('-').map(v => v.trim());
+    const allVerses = [];
+    for (let i = Number(versesArray[0]); i <= Number(versesArray[versesArray.length - 1]); i++) {
+        allVerses.push(i.toString());
+    }
+    return allVerses.includes(props.verse.verse.toString());
+});
 </script>
 
 <style>

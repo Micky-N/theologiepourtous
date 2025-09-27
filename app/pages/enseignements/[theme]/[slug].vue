@@ -17,6 +17,10 @@ const { data: progress, refresh } = useAsyncData(
     }
 );
 
+const { data: booksData } = await useAsyncData('bible-books', () => $fetch('/api/bible/books', {
+    method: 'GET'
+}));
+
 const { data: surround } = useAsyncData(`${route.path}-surround`, () => {
     return queryCollectionItemSurroundings('lessons', route.path, {
         fields: ['description']
@@ -41,6 +45,39 @@ const setProgress = async (slug: string) => {
     } catch (e) {
         console.log(e);
     }
+};
+
+/**
+ * 1 Jean 1:1 -> /bible?book=1JN&chapter=1&verse=1
+ * 1 Jean 1:1-3 -> /bible?book=1JN&chapter=1&verse=1-3
+ * 1 Jean 1 -> /bible?book=1JN&chapter=1
+ * 1 Jean -> /bible?book=1JN
+ * Psaumes 23 -> /bible?book=PSA&chapter=23
+ * Psaumes 23:1 -> /bible?book=PSA&chapter=23&verse=1
+ * Psaumes 23:1-4 -> /bible?book=PSA&chapter=23&verse=1-4
+ * Psaumes 23:1-4;1 -> /bible?book=PSA&chapter=23&verse=1-4;1
+ * @param ref
+ */
+const parseToVerse = (ref: string) => {
+    let refTrimmed = ref.trim();
+    if (!booksData.value) return '/bible';
+    const bookMatch = refTrimmed.match(/^(1|2|3)?\s?([^\d:]+)/);
+    if (!bookMatch) return '/bible';
+    const bookName = bookMatch[0].trim();
+    const book = booksData.value?.data.all.find((b: any) => b.name.toLowerCase() === bookName.toLowerCase());
+    if (!book) return '/bible';
+    refTrimmed = refTrimmed.replace(bookMatch[0], '').trim();
+    if (!refTrimmed) return `/bible?book=${book.code}`;
+    const chapterVerseMatch = refTrimmed.match(/^(\d+)(?::([\d\-;]+))?$/);
+    if (!chapterVerseMatch) return `/bible?book=${book.code}`;
+    let url = `/bible?book=${book.code}`;
+    if (chapterVerseMatch[1]) {
+        url += `&chapter=${chapterVerseMatch[1]}`;
+    }
+    if (chapterVerseMatch[2]) {
+        url += `&verse=${chapterVerseMatch[2]}`;
+    }
+    return url;
 };
 
 useSeoMeta({
@@ -95,7 +132,7 @@ useHead({
                         v-else-if="!!progress?.data"
                         icon="i-lucide-circle-dashed"
                         size="xs"
-                        color="primary"
+                        color="secondary"
                         variant="subtle"
                         @click="setProgress(lesson.slug)"
                     >
@@ -103,13 +140,13 @@ useHead({
                     </UButton>
                     <UButton
                         v-else
-                        icon="i-lucide-circle-dashed"
+                        icon="i-lucide-flag"
                         size="xs"
                         color="warning"
                         variant="subtle"
                         @click="setProgress(lesson.slug)"
                     >
-                        Pas commencer
+                        Commencer le parcours
                     </UButton>
                     <time class="text-muted">{{ new Date(lesson.date).toLocaleDateString('fr', { year: 'numeric', month: 'long', day: 'numeric' }) }}</time>
                     <span class="hidden lg:block text-muted">&middot;</span>
@@ -135,12 +172,15 @@ useHead({
                 </h3>
                 <div class="flex flex-wrap items-center gap-2">
                     <!-- biblical reference -->
-                    <UBadge
+                    <UButton
                         v-for="ref in lesson.biblical_references"
                         :key="ref"
                         :label="ref"
                         color="secondary"
                         variant="subtle"
+                        size="xs"
+                        :to="parseToVerse(ref)"
+                        target="_blank"
                     />
                 </div>
             </div>

@@ -34,7 +34,7 @@ export default defineEventHandler(async (event) => {
         }
 
         // Vérifier le mot de passe
-        const isPasswordValid = await verifyPassword(password, user.password);
+        const isPasswordValid = await verifyPassword(user.password, password);
         if (!isPasswordValid) {
             throw createError({
                 statusCode: 401,

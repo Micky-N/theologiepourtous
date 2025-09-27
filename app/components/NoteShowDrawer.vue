@@ -25,7 +25,7 @@
                         <div class="flex justify-between gap-4 items-center">
                             <div class="flex gap-2 items-center">
                                 <UButton
-                                    icon="i-lucide-arrow-left"
+                                    icon="i-lucide-eye"
                                     size="md"
                                     color="primary"
                                     variant="link"

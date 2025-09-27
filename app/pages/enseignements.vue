@@ -1,6 +1,6 @@
 <script setup lang="ts">
 const route = useRoute();
-const { data: navigations } = useAsyncData('navigations', () => queryCollectionNavigation('themes', ['description', 'image', 'color']));
+const { data: navigations } = useAsyncData('navigations', () => queryCollectionNavigation('themes', ['description', 'image', 'color', 'slug']));
 
 const items = computed(() => {
     if (!navigations.value) {

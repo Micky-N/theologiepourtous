@@ -125,14 +125,6 @@
                         </div>
                         <div class="flex justify-between items-center">
                             <span class="text-sm text-gray-600 dark:text-gray-400">
-                                Vitesse lecture
-                            </span>
-                            <span class="font-medium">
-                                {{ Math.round(stats.summary.averages.averageReadingSpeed || 0) }} v/min
-                            </span>
-                        </div>
-                        <div class="flex justify-between items-center">
-                            <span class="text-sm text-gray-600 dark:text-gray-400">
                                 Plus longue série
                             </span>
                             <span class="font-medium">

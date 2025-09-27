@@ -14,6 +14,7 @@ useSeoMeta({
 
 const toast = useToast();
 const { loggedIn } = useUserSession();
+const { fetch: fetchSession } = useUserSession();
 
 // Rediriger si déjà connecté
 watch(loggedIn, (value) => {
@@ -40,6 +41,12 @@ const fields = [{
     type: 'password' as const,
     placeholder: 'Entrez votre mot de passe (min. 6 caractères)',
     required: true
+}, {
+    name: 'confirmPassword',
+    label: 'Confirmer le mot de passe',
+    type: 'password' as const,
+    placeholder: 'Confirmez votre mot de passe',
+    required: true
 }];
 
 const providers = [{
@@ -54,17 +61,21 @@ const providers = [{
     }
 }];
 
-const schema = z.object({
-    name: z.string().min(2, 'Le nom doit contenir au moins 2 caractères'),
-    email: z.string().email('Format email invalide'),
+const registerSchema = z.object({
+    name: z.string().min(2, 'Le nom doit contenir au moins 2 caractères').max(50, 'Le nom ne doit pas dépasser 50 caractères'),
+    email: z.string().email('Format d\'email invalide'),
     password: z.string()
-        .min(6, 'Le mot de passe doit contenir au moins 6 caractères')
+        .min(7, 'Le mot de passe doit contenir au moins 7 caractères')
         .regex(/(?=.*[a-z])/, 'Le mot de passe doit contenir au moins une minuscule')
         .regex(/(?=.*[A-Z])/, 'Le mot de passe doit contenir au moins une majuscule')
-        .regex(/(?=.*\d)/, 'Le mot de passe doit contenir au moins un chiffre')
+        .regex(/(?=.*\d)/, 'Le mot de passe doit contenir au moins un chiffre'),
+    confirmPassword: z.string().min(7)
+}).refine(data => data.password === data.confirmPassword, {
+    message: 'Les mots de passe ne correspondent pas',
+    path: ['confirmPassword']
 });
 
-type Schema = z.output<typeof schema>;
+type Schema = z.output<typeof registerSchema>;
 
 const isLoading = ref(false);
 
@@ -82,6 +93,7 @@ async function onSubmit(payload: FormSubmitEvent<Schema>) {
         });
 
         if (response.success) {
+            await fetchSession();
             await navigateTo('/');
         }
 
@@ -115,7 +127,7 @@ async function onSubmit(payload: FormSubmitEvent<Schema>) {
 <template>
     <UAuthForm
         :fields="fields"
-        :schema="schema"
+        :schema="registerSchema"
         :providers="providers"
         :loading="isLoading"
         title="Créer un compte"

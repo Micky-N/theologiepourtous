@@ -48,13 +48,13 @@ export interface ReadingPeriod {
 export interface ReadingAverages {
     readingTimePerDay: number
     chaptersPerSession: number
-    averageReadingSpeed: number
 }
 
 export type ReadingStats = {
     date: Date
     totalReadingTime: number
     chaptersRead: number
+    versesRead?: number
     sessionsCount: number
 };
 

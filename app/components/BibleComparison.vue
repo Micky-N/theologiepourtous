@@ -108,7 +108,7 @@
                         <div
                             v-for="verse in comparison.verses"
                             :key="`${comparison.version.id}-${verse.id}`"
-                            class="verse-item"
+                            class="group verse-item"
                             :class="fontSize"
                         >
                             <div class="flex items-start gap-2">
@@ -133,20 +133,6 @@
 
                             <!-- Actions sur le verset -->
                             <div class="verse-actions opacity-0 group-hover:opacity-100 transition-opacity mt-2 flex gap-2">
-                                <UButton
-                                    title="Ajouter aux favoris"
-                                    icon="i-lucide-bookmark"
-                                    variant="ghost"
-                                    size="xs"
-                                    @click="addBookmark(verse)"
-                                />
-                                <UButton
-                                    title="Ajouter une note"
-                                    icon="i-lucide-sticky-note"
-                                    variant="ghost"
-                                    size="xs"
-                                    @click="addNote(verse)"
-                                />
                                 <UButton
                                     title="Copier le verset"
                                     icon="i-lucide-copy"
@@ -195,8 +181,13 @@
                         />
                     </div>
 
-                    <div class="text-xs text-gray-500 dark:text-gray-400">
-                        Maximum 6 versions simultanées
+                    <div class="flex items-center gap-2 text-xs text-gray-500 dark:text-gray-400">
+                        <UIcon
+                            v-if="loading"
+                            name="i-svg-spinners-3-dots-fade"
+                            class="w-4 h-4 text-gray-400"
+                        />
+                        <span>Maximum 6 versions simultanées</span>
                     </div>
                 </div>
             </template>
@@ -253,6 +244,7 @@ interface Props {
     }
     comparisons: Comparison[]
     availableVersions?: BibleVersion[]
+    loading?: boolean
 }
 
 const emit = defineEmits<{
@@ -264,7 +256,8 @@ const emit = defineEmits<{
 }>();
 
 const props = withDefaults(defineProps<Props>(), {
-    availableVersions: () => []
+    availableVersions: () => [],
+    loading: false
 });
 
 // État local
@@ -273,6 +266,7 @@ const showVersionSelector = ref(false);
 const layoutMode = ref<'side-by-side' | 'vertical'>('side-by-side');
 const fontSize = ref<'small' | 'normal' | 'large' | 'extra-large'>('normal');
 const showVerseNumbers = ref(true);
+const toast = useToast();
 
 // Options de configuration
 const layoutOptions = [
@@ -299,23 +293,22 @@ const removeVersion = (versionId: number) => {
     emit('removeVersion', versionId);
 };
 
-const addBookmark = (verse: BibleVerse) => {
-    emit('addBookmark', verse);
-};
-
-const addNote = (verse: BibleVerse) => {
-    emit('addNote', verse);
-};
-
 const copyVerse = async (verse: BibleVerse, version: BibleVersion) => {
     const text = `${props.book.name} ${props.chapter}:${verse.verse} (${version.code})\n"${verse.text}"`;
 
     try {
         await navigator.clipboard.writeText(text);
-        // TODO: Ajouter toast de succès
+        toast.add({
+            title: 'Verset copié',
+            description: 'Le verset a été copié dans le presse-papiers.'
+        });
     } catch (error) {
         console.error('Erreur lors de la copie:', error);
-        // TODO: Ajouter toast d'erreur
+        toast.add({
+            color: 'error',
+            title: 'Erreur de copie',
+            description: 'Impossible de copier le verset.'
+        });
     }
 };
 

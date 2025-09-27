@@ -1,12 +1,14 @@
 <script setup lang="ts">
 import type { LessonsCollectionItem, ThemesCollectionItem } from '@nuxt/content';
+import type { UserProgress } from '@prisma/client';
 
 const { themes } = defineProps<{ themes: ThemesCollectionItem[] }>();
 
 const route = useRoute();
+const { loggedIn } = useUserSession();
 const perPage = 7;
 const page = ref(parseInt((route.query.page as string) || '1'));
-const { data: blog } = await useAsyncData('blog', () => queryCollection('teaching').first());
+const { data: teaching } = await useAsyncData('teaching', () => queryCollection('teaching').first());
 const { data: lessonsCount } = await useAsyncData('lessons-count', () => queryCollection('lessons').count());
 const { data: lessons } = useAsyncData(
     route.path,
@@ -17,13 +19,38 @@ const { data: lessons } = useAsyncData(
     { watch: [page] }
 );
 
+const { data: progress } = useAsyncData(
+    route.path + '-progress',
+    () => $fetch<{ success: boolean, data: UserProgress[] | null }>('/api/teaching/progress', {
+        method: 'GET'
+    }),
+    {
+        immediate: loggedIn.value
+    }
+);
+
+const doctrinesProgress = computed<{
+    title: string
+    slug: string
+    completedLessons: number
+    totalLessons: number
+}[]>(() => {
+    if (!progress.value?.data) return [];
+    return progress.value.data.map(p => ({
+        title: themes.find(t => t.slug === p.theme)?.title || '',
+        slug: p.theme,
+        completedLessons: p.lessons ? (JSON.parse(p.lessons) as string[]).length : 0,
+        totalLessons: lessons.value?.filter(lesson => lesson.theme == p.theme).length || 0
+    }));
+});
+
 const totalPages = Math.ceil((lessonsCount.value || 0) / perPage);
 if (page.value < 1 || (route.query.page && page.value === 1) || page.value > totalPages) {
     navigateTo('/enseignements');
 }
 const isFirstLessonOfFirstPage = (lesson: LessonsCollectionItem) => lesson.id === lessons.value?.[0]?.id && page.value === 1;
-const title = blog.value?.seo?.title || blog.value?.title;
-const description = blog.value?.seo?.description || blog.value?.description;
+const title = teaching.value?.seo?.title || teaching.value?.title;
+const description = teaching.value?.seo?.description || teaching.value?.description;
 
 useSeoMeta({
     title,
@@ -48,9 +75,15 @@ defineOgImageComponent('Saas');
 
         <UContainer>
             <UPageHeader
-                v-bind="blog"
+                v-bind="teaching"
                 class="py-[50px]"
-            />
+            >
+                <DoctrineProgress
+                    v-if="loggedIn && themes && lessons"
+                    :doctrines="doctrinesProgress"
+                    class="mt-4"
+                />
+            </UPageHeader>
 
             <UPageBody>
                 <UBlogPosts v-if="lessons">

@@ -1,7 +1,31 @@
 <script setup lang="ts">
+import type { UserProgress } from '@prisma/client';
+
 const route = useRoute();
+const { loggedIn } = useUserSession();
 const { data: theme } = await useAsyncData(route.path, () => queryCollection('themes').path(route.path).first());
 const { data: lessons } = useAsyncData(route.path + '/lessons', () => queryCollection('lessons').where('theme', '=', route.params.theme).all());
+
+const { data: progress, refresh } = useAsyncData(
+    route.path + '-progress',
+    () => $fetch<{ success: boolean, data: UserProgress | null }>(`/api/teaching/progress/${theme.value?.slug}`, {
+        method: 'GET'
+    }),
+    {
+        immediate: loggedIn.value
+    }
+);
+
+const setProgress = async () => {
+    try {
+        await $fetch<{ success: boolean, data: UserProgress | null }>(`/api/teaching/progress/${theme.value?.slug}`, {
+            method: 'POST'
+        });
+        await refresh();
+    } catch (e) {
+        console.log(e);
+    }
+};
 
 useSeoMeta({
     title: theme.value?.title,
@@ -35,13 +59,33 @@ useHead({
                 :src="theme.image.src"
                 class="w-full aspect-video max-h-[32rem] rounded-b-xl object-center"
             />
+            <UButton
+                v-if="loggedIn && progress?.data === null"
+                icon="i-lucide-flag"
+                size="xs"
+                color="warning"
+                variant="subtle"
+                class="mt-4"
+                @click="setProgress()"
+            >
+                Commencer le parcours
+            </UButton>
             <UPageHeader
                 :title="theme.title"
                 :description="theme.description"
-                class="pt-[50px] pb-[25px]"
+                class="pb-[25px]"
             >
+                <ThemeProgress
+                    v-if="loggedIn && progress?.data && lessons?.length"
+                    :lessons="lessons.map(lesson => ({
+                        title: lesson.title,
+                        description: lesson.description,
+                        completed: progress?.data?.lessons ? JSON.parse(progress.data.lessons).includes(lesson.slug) : false
+                    }))"
+                    class="mt-4"
+                />
                 <div
-                    v-if="lessons"
+                    v-else-if="lessons"
                     class="flex justify-center mt-4"
                 >
                     <UBadge

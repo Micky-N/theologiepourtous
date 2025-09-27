@@ -8,19 +8,19 @@ datasource db {
 }
 
 model User {
-  id                  Int                  @id @default(autoincrement())
-  email               String               @unique
-  name                String
-  password            String
-  role                Role                 @default(USER)
-  lastLogin           DateTime?
-  createdAt           DateTime             @default(now())
-  updatedAt           DateTime             @updatedAt
-  bibleBookmarks      BibleBookmark[]
-  bibleNotes          BibleNote[]
-  readingSessions     ReadingSession[]
-  userBiblePreference UserBiblePreference?
-  userProgress        UserProgress[]
+  id              Int              @id @default(autoincrement())
+  email           String           @unique
+  name            String
+  password        String
+  role            Role             @default(USER)
+  lastLogin       DateTime?
+  createdAt       DateTime         @default(now())
+  updatedAt       DateTime         @updatedAt
+  bibleBookmarks  BibleBookmark[]
+  bibleNotes      BibleNote[]
+  readingSessions ReadingSession[]
+  userPreference  UserPreference?
+  userProgress    UserProgress[]
 
   @@map("users")
 }
@@ -40,18 +40,18 @@ model UserProgress {
 }
 
 model BibleVersion {
-  id                  Int                   @id @default(autoincrement())
-  code                String                @unique
-  name                String
-  language            String                @default("fr")
-  year                Int?
-  isActive            Boolean               @default(true)
-  orderIndex          Int                   @default(0)
-  createdAt           DateTime              @default(now())
-  updatedAt           DateTime              @updatedAt
-  verses              BibleVerse[]
-  readingSessions     ReadingSession[]
-  UserBiblePreference UserBiblePreference[]
+  id              Int              @id @default(autoincrement())
+  code            String           @unique
+  name            String
+  language        String           @default("fr")
+  year            Int?
+  isActive        Boolean          @default(true)
+  orderIndex      Int              @default(0)
+  createdAt       DateTime         @default(now())
+  updatedAt       DateTime         @updatedAt
+  verses          BibleVerse[]
+  readingSessions ReadingSession[]
+  UserPreference  UserPreference[]
 
   @@map("bible_versions")
 }
@@ -128,18 +128,19 @@ model BibleNote {
   @@map("bible_notes")
 }
 
-model UserBiblePreference {
-  id               Int          @id @default(autoincrement())
-  defaultVersionId Int
-  showVerseNumbers Boolean      @default(true)
-  createdAt        DateTime     @default(now())
-  updatedAt        DateTime     @updatedAt
-  userId           Int          @unique
-  defaultVersion   BibleVersion @relation(fields: [defaultVersionId], references: [id])
-  user             User         @relation(fields: [userId], references: [id], onDelete: Cascade)
+model UserPreference {
+  id                  Int           @id @default(autoincrement())
+  defaultVersionId    Int?
+  notesPerVersion     Boolean       @default(false)
+  bookmarksPerVersion Boolean       @default(false)
+  createdAt           DateTime      @default(now())
+  updatedAt           DateTime      @updatedAt
+  userId              Int           @unique
+  defaultVersion      BibleVersion? @relation(fields: [defaultVersionId], references: [id])
+  user                User          @relation(fields: [userId], references: [id], onDelete: Cascade)
 
-  @@index([defaultVersionId], map: "user_bible_preferences_defaultVersionId_fkey")
-  @@map("user_bible_preferences")
+  @@index([defaultVersionId], map: "user_preferences_defaultVersionId_fkey")
+  @@map("user_preferences")
 }
 
 model ReadingSession {

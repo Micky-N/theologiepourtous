@@ -5,7 +5,6 @@ const route = useRoute();
 const { user, loggedIn, clear: clearSession } = useUserSession();
 
 async function logout() {
-    console.log(23);
     await clearSession();
     await navigateTo('/login');
 }
@@ -37,12 +36,16 @@ const userMenuItems = computed<DropdownMenuItem[]>(() => [
     [{
         label: 'Mon profil',
         icon: 'i-lucide-user',
-        click: () => navigateTo('/bible/compare')
+        onSelect: () => navigateTo('/settings')
+    }, {
+        label: 'Mes statistiques',
+        icon: 'i-lucide-bar-chart-2',
+        onSelect: () => navigateTo('/stats')
     }],
     [{
         label: 'Se déconnecter',
         icon: 'i-lucide-log-out',
-        click: logout
+        onSelect: logout
     }]
 ]);
 </script>

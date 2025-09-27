@@ -1,4 +1,12 @@
+import type { BibleVersion } from '@prisma/client';
+import z from 'zod';
 import { prisma } from '~~/lib/prisma';
+
+const preferencesSchema = z.object({
+    defaultVersionId: z.number().nullable(),
+    notesPerVersion: z.boolean(),
+    bookmarksPerVersion: z.boolean()
+});
 
 export default defineEventHandler(async (event) => {
     try {
@@ -12,12 +20,12 @@ export default defineEventHandler(async (event) => {
             });
         }
 
-        const body = await readBody(event);
-        const { defaultVersionId, showVerseNumbers } = body;
+        const { defaultVersionId, notesPerVersion, bookmarksPerVersion } = await readValidatedBody(event, preferencesSchema.parse);
 
         // Vérifier que la version existe si fournie
+        let version: BibleVersion | null = null;
         if (defaultVersionId) {
-            const version = await prisma.bibleVersion.findUnique({
+            version = await prisma.bibleVersion.findUnique({
                 where: { id: defaultVersionId }
             });
 
@@ -27,21 +35,25 @@ export default defineEventHandler(async (event) => {
                     statusMessage: 'Version biblique non trouvée'
                 });
             }
+        } else {
+            version = await prisma.bibleVersion.findFirst({
+                where: { code: 'LSG' }
+            });
         }
 
         // Mettre à jour ou créer les préférences
-        const preferences = await prisma.userBiblePreference.upsert({
+        const preferences = await prisma.userPreference.upsert({
             where: { userId: userSession.id },
             update: {
-                ...(defaultVersionId && { defaultVersionId }),
-                ...(showVerseNumbers !== undefined && { showVerseNumbers: Boolean(showVerseNumbers) })
+                defaultVersionId: version?.id,
+                notesPerVersion,
+                bookmarksPerVersion
             },
             create: {
                 userId: userSession.id,
-                defaultVersionId: defaultVersionId || (await prisma.bibleVersion.findFirst({
-                    where: { code: 'LSG' }
-                }))?.id || 1,
-                showVerseNumbers: showVerseNumbers !== undefined ? Boolean(showVerseNumbers) : true
+                defaultVersionId: version?.id,
+                notesPerVersion,
+                bookmarksPerVersion
             },
             include: {
                 defaultVersion: {
@@ -59,7 +71,8 @@ export default defineEventHandler(async (event) => {
             message: 'Préférences mises à jour avec succès',
             data: {
                 defaultVersion: preferences.defaultVersion,
-                showVerseNumbers: preferences.showVerseNumbers,
+                notesPerVersion: preferences.notesPerVersion,
+                bookmarksPerVersion: preferences.bookmarksPerVersion,
                 createdAt: preferences.createdAt,
                 updatedAt: preferences.updatedAt
             }

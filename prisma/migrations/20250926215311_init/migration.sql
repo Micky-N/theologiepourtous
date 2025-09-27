@@ -108,16 +108,17 @@ CREATE TABLE `bible_notes` (
 ) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
 
 -- CreateTable
-CREATE TABLE `user_bible_preferences` (
+CREATE TABLE `user_preferences` (
     `id` INTEGER NOT NULL AUTO_INCREMENT,
-    `defaultVersionId` INTEGER NOT NULL,
-    `showVerseNumbers` BOOLEAN NOT NULL DEFAULT true,
+    `defaultVersionId` INTEGER NULL,
+    `notesPerVersion` BOOLEAN NOT NULL DEFAULT false,
+    `bookmarksPerVersion` BOOLEAN NOT NULL DEFAULT false,
     `createdAt` DATETIME(3) NOT NULL DEFAULT CURRENT_TIMESTAMP(3),
     `updatedAt` DATETIME(3) NOT NULL,
     `userId` INTEGER NOT NULL,
 
-    UNIQUE INDEX `user_bible_preferences_userId_key`(`userId`),
-    INDEX `user_bible_preferences_defaultVersionId_fkey`(`defaultVersionId`),
+    UNIQUE INDEX `user_preferences_userId_key`(`userId`),
+    INDEX `user_preferences_defaultVersionId_fkey`(`defaultVersionId`),
     PRIMARY KEY (`id`)
 ) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
 
@@ -167,10 +168,10 @@ ALTER TABLE `bible_notes` ADD CONSTRAINT `bible_notes_userId_fkey` FOREIGN KEY (
 ALTER TABLE `bible_notes` ADD CONSTRAINT `bible_notes_verseId_fkey` FOREIGN KEY (`verseId`) REFERENCES `bible_verses`(`id`) ON DELETE CASCADE ON UPDATE CASCADE;
 
 -- AddForeignKey
-ALTER TABLE `user_bible_preferences` ADD CONSTRAINT `user_bible_preferences_defaultVersionId_fkey` FOREIGN KEY (`defaultVersionId`) REFERENCES `bible_versions`(`id`) ON DELETE RESTRICT ON UPDATE CASCADE;
+ALTER TABLE `user_preferences` ADD CONSTRAINT `user_preferences_defaultVersionId_fkey` FOREIGN KEY (`defaultVersionId`) REFERENCES `bible_versions`(`id`) ON DELETE SET NULL ON UPDATE CASCADE;
 
 -- AddForeignKey
-ALTER TABLE `user_bible_preferences` ADD CONSTRAINT `user_bible_preferences_userId_fkey` FOREIGN KEY (`userId`) REFERENCES `users`(`id`) ON DELETE CASCADE ON UPDATE CASCADE;
+ALTER TABLE `user_preferences` ADD CONSTRAINT `user_preferences_userId_fkey` FOREIGN KEY (`userId`) REFERENCES `users`(`id`) ON DELETE CASCADE ON UPDATE CASCADE;
 
 -- AddForeignKey
 ALTER TABLE `reading_sessions` ADD CONSTRAINT `reading_sessions_userId_fkey` FOREIGN KEY (`userId`) REFERENCES `users`(`id`) ON DELETE CASCADE ON UPDATE CASCADE;

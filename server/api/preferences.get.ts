@@ -14,7 +14,7 @@ export default defineEventHandler(async (event) => {
 
         const userId = userSession.id;
 
-        const preferences = await prisma.userBiblePreference.findUnique({
+        const preferences = await prisma.userPreference.findUnique({
             where: { userId },
             include: {
                 defaultVersion: {
@@ -41,11 +41,10 @@ export default defineEventHandler(async (event) => {
                 });
             }
 
-            const newPreferences = await prisma.userBiblePreference.create({
+            const newPreferences = await prisma.userPreference.create({
                 data: {
                     userId,
-                    defaultVersionId: defaultVersion.id,
-                    showVerseNumbers: true
+                    defaultVersionId: defaultVersion.id
                 },
                 include: {
                     defaultVersion: {
@@ -61,10 +60,8 @@ export default defineEventHandler(async (event) => {
             return {
                 success: true,
                 data: {
-                    defaultVersion: newPreferences.defaultVersion,
-                    showVerseNumbers: newPreferences.showVerseNumbers,
-                    createdAt: newPreferences.createdAt,
-                    updatedAt: newPreferences.updatedAt
+                    ...newPreferences,
+                    defaultVersion: newPreferences.defaultVersion
                 }
             };
         }
@@ -72,10 +69,8 @@ export default defineEventHandler(async (event) => {
         return {
             success: true,
             data: {
-                defaultVersion: preferences.defaultVersion,
-                showVerseNumbers: preferences.showVerseNumbers,
-                createdAt: preferences.createdAt,
-                updatedAt: preferences.updatedAt
+                ...preferences,
+                defaultVersion: preferences.defaultVersion
             }
         };
     } catch (error: any) {

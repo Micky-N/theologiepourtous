@@ -209,13 +209,43 @@ const handleRemoveVersion = (versionId: number) => {
 };
 
 const handleAddBookmark = (verse: BibleVerse) => {
-    // TODO: Implémenter l'ajout aux favoris
-    console.log('Ajouter aux favoris:', verse);
+    const toast = useToast();
+    (async () => {
+        try {
+            const res = await $fetch('/api/bible/bookmarks', {
+                method: 'POST',
+                body: {
+                    verseId: verse.id
+                }
+            });
+            toast.add({
+                title: 'Favori ajouté',
+                description: res.message || 'Le verset a été ajouté à vos favoris.'
+            });
+            if (activeComparison.value) await startComparison();
+        } catch (e: any) {
+            const status = e?.statusCode || e?.response?.status;
+            const message = e?.statusMessage || e?.data?.message || e?.message;
+            toast.add({
+                color: 'error',
+                title: status === 401 ? 'Connexion requise' : 'Erreur',
+                description: status === 409 ? 'Ce verset est déjà dans vos favoris.' : (message || 'Impossible d’ajouter le favori.')
+            });
+        }
+    })();
 };
 
 const handleAddNote = (verse: BibleVerse) => {
-    // TODO: Implémenter l'ajout de note
-    console.log('Ajouter une note:', verse);
+    selectedVerseForNote.value = verse;
+    noteDrawerOpen.value = true;
+};
+// Intégration NoteCreateDrawer
+const noteDrawerOpen = ref(false);
+const selectedVerseForNote = ref<BibleVerse | null>(null);
+
+const refreshComparison = async () => {
+    if (!activeComparison.value) return;
+    await startComparison();
 };
 
 // Lifecycle
@@ -415,6 +445,7 @@ await startComparison();
                             :verse-range="activeComparison.verseRange"
                             :comparisons="activeComparison.comparisons"
                             :available-versions="availableVersionsForAdd"
+                            :loading="loadingComparison"
                             @close="closeComparison"
                             @add-version="handleAddVersion"
                             @remove-version="handleRemoveVersion"
@@ -425,5 +456,14 @@ await startComparison();
                 </UPageBody>
             </template>
         </UPage>
+
+        <NoteCreateDrawer
+            v-if="activeComparison && selectedVerseForNote"
+            v-model:open="noteDrawerOpen"
+            :verse="selectedVerseForNote"
+            :book="activeComparison.book"
+            @close="noteDrawerOpen = false"
+            @refresh-note="() => { noteDrawerOpen = false; refreshComparison(); }"
+        />
     </div>
 </template>

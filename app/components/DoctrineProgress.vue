@@ -2,7 +2,7 @@
     <div class="doctrine-tracker">
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
             <UCard
-                v-for="doctrine in doctrines"
+                v-for="doctrine in doctrinesWithProgress"
                 :key="doctrine.slug"
             >
                 <div class="space-y-3">
@@ -14,9 +14,11 @@
                             {{ doctrine.progress }}%
                         </UBadge>
                     </div>
-                    <UProgress :value="doctrine.progress" />
+                    <UProgress
+                        :model-value="doctrine.progress"
+                    />
                     <div class="text-sm text-gray-600">
-                        {{ doctrine.completedArticles }} / {{ doctrine.totalArticles }} articles
+                        {{ doctrine.completedLessons }} / {{ doctrine.totalLessons }} leçons
                     </div>
                 </div>
             </UCard>
@@ -25,15 +27,20 @@
 </template>
 
 <script setup lang="ts">
+interface Doctrine {
+    slug: string
+    title: string
+    completedLessons: number
+    totalLessons: number
+}
 const { doctrines } = defineProps<{
-    doctrines: {
-        slug: string
-        title: string
-        progress: number
-        completedArticles: number
-        totalArticles: number
-    }[]
+    doctrines: Doctrine[]
 }>();
+
+const doctrinesWithProgress = computed(() => doctrines.map(doctrine => ({
+    ...doctrine,
+    progress: doctrine.totalLessons ? (doctrine.completedLessons / doctrine.totalLessons) * 100 : 0
+})));
 
 const getProgressColor = (progress: number) => {
     if (progress === 100) return 'success';

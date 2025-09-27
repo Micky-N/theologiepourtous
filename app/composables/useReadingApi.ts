@@ -1,4 +1,4 @@
-import type { BibleVersion, ReadingSession } from '@prisma/client';
+import type { ReadingSession } from '@prisma/client';
 import type {
     ReadingStatsResponse,
     CreateReadingSessionPayload,
@@ -141,40 +141,6 @@ export const useBibleComparison = () => {
 };
 
 /**
- * Composable pour gérer les versions bibliques
- */
-export const useBibleVersions = () => {
-    const versions = ref<BibleVersion[]>([]);
-    const loading = ref(false);
-    const error = ref<string | null>(null);
-
-    const fetchVersions = async () => {
-        if (versions.value.length > 0) return versions.value;
-
-        loading.value = true;
-        error.value = null;
-
-        try {
-            const result = await $fetch<BibleVersion[]>('/api/bible/versions');
-            versions.value = result;
-            return result;
-        } catch (err) {
-            error.value = err instanceof Error ? err.message : 'Erreur lors de la récupération des versions';
-            throw err;
-        } finally {
-            loading.value = false;
-        }
-    };
-
-    return {
-        versions: readonly(versions),
-        loading: readonly(loading),
-        error: readonly(error),
-        fetchVersions
-    };
-};
-
-/**
  * Composable pour le formatage des données de statistiques
  */
 export const useStatsFormatting = () => {
@@ -219,36 +185,5 @@ export const useStatsFormatting = () => {
         formatPercentage,
         formatDate,
         formatRelativeTime
-    };
-};
-
-/**
- * Composable pour les préférences utilisateur
- */
-export const useUserPreferences = () => {
-    const preferences = ref({
-        defaultVersion: 'LSG',
-        showVerseNumbers: true,
-        fontSize: 'medium' as 'small' | 'medium' | 'large',
-        theme: 'light' as 'light' | 'dark' | 'sepia',
-        dailyReadingGoal: 15, // minutes
-        notifications: {
-            enabled: true,
-            reminderTime: '08:00',
-            frequency: 'daily' as 'daily' | 'weekly' | 'none'
-        }
-    });
-
-    const updatePreference = <K extends keyof typeof preferences.value>(
-        key: K,
-        value: typeof preferences.value[K]
-    ) => {
-        preferences.value[key] = value;
-        // TODO: Sauvegarder en base de données
-    };
-
-    return {
-        preferences: readonly(preferences),
-        updatePreference
     };
 };
