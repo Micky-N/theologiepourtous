@@ -435,10 +435,22 @@ const formatDate = (dateString: string): string => {
     });
 };
 
-const debouncedSearch = useDebounceFn(() => {
+const debouncedSearch = useDebounceFn(async () => {
+    await fetchNotes();
+    if (searchQuery.value.trim() === '' || searchQuery.value.length <= 3) return; // Si la recherche est vide ou moins de 3 caractères, ne rien faire de plus
     currentPage.value = 1;
-    fetchNotes();
-}, 300);
+    const filteredNotes = [];
+    for (const note of notes.value) {
+        if (note.title?.toLowerCase().includes(searchQuery.value.toLowerCase())) {
+            // Si la note correspond à la recherche, l'ajouter à la liste des résultats
+            filteredNotes.push(note);
+        } else if (note.content.toLowerCase().includes(searchQuery.value.toLowerCase())) {
+            // Si le contenu de la note correspond à la recherche, l'ajouter aussi
+            filteredNotes.push(note);
+        }
+    }
+    notes.value = filteredNotes;
+}, 500);
 
 // Fonctions CRUD
 const fetchNotes = async () => {
