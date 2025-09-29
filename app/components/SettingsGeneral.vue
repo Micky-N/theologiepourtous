@@ -39,6 +39,53 @@ const onSubmit = async (event: FormSubmitEvent<ProfileSchema>) => {
     });
     await fetchSession();
 };
+
+// Modal de confirmation pour la suppression
+const deleteModal = ref(false);
+const deletePassword = ref('');
+const isDeleting = ref(false);
+
+// Fonction pour supprimer le compte
+const deleteAccount = async () => {
+    if (!deletePassword.value) {
+        toast.add({
+            title: 'Erreur',
+            description: 'Veuillez entrer votre mot de passe',
+            color: 'error'
+        });
+        return;
+    }
+
+    try {
+        isDeleting.value = true;
+
+        await $fetch('/api/profile/delete-account', {
+            method: 'POST',
+            body: { password: deletePassword.value }
+        });
+
+        toast.add({
+            title: 'Compte supprimé',
+            description: 'Votre compte a été supprimé avec succès',
+            color: 'success'
+        });
+
+        await fetchSession();
+
+        // Rediriger vers la page d'accueil après suppression
+        await navigateTo('/');
+    } catch (error: any) {
+        toast.add({
+            title: 'Erreur',
+            description: error.data?.message || 'Erreur lors de la suppression du compte',
+            color: 'error'
+        });
+    } finally {
+        isDeleting.value = false;
+        deleteModal.value = false;
+        deletePassword.value = '';
+    }
+};
 </script>
 
 <template>
@@ -128,4 +175,71 @@ const onSubmit = async (event: FormSubmitEvent<ProfileSchema>) => {
             class="w-fit lg:ms-auto mt-4"
         />
     </UForm>
+    <UPageCard
+        title="Suppression du compte"
+        description="Vous ne souhaitez plus utiliser notre service ? Vous pouvez supprimer votre compte ici. Cette action est irréversible. Toutes les informations liées à ce compte seront supprimées définitivement."
+        class="bg-gradient-to-tl from-error/10 from-5% to-default"
+    >
+        <template #footer>
+            <UButton
+                label="Supprimer le compte"
+                color="error"
+                @click="deleteModal = true"
+            />
+        </template>
+    </UPageCard>
+
+    <!-- Modal de confirmation pour la suppression -->
+    <UModal v-model:open="deleteModal">
+        <template #content>
+            <UCard>
+                <template #header>
+                    <h3 class="text-lg font-semibold text-error-600 dark:text-error-400">
+                        Supprimer définitivement votre compte
+                    </h3>
+                </template>
+
+                <div class="space-y-4">
+                    <UAlert
+                        color="error"
+                        variant="soft"
+                        title="Attention !"
+                        description="Cette action est irréversible. Toutes vos données (signets, notes, progrès) seront supprimées définitivement."
+                    />
+
+                    <UFormField
+                        label="Mot de passe"
+                        description="Entrez votre mot de passe pour confirmer la suppression"
+                        required
+                    >
+                        <UInput
+                            v-model="deletePassword"
+                            type="password"
+                            placeholder="Entrez votre mot de passe"
+                            :disabled="isDeleting"
+                        />
+                    </UFormField>
+                </div>
+
+                <template #footer>
+                    <div class="flex gap-3 justify-end">
+                        <UButton
+                            label="Annuler"
+                            color="neutral"
+                            variant="soft"
+                            :disabled="isDeleting"
+                            @click="deleteModal = false"
+                        />
+                        <UButton
+                            label="Supprimer définitivement"
+                            color="error"
+                            :loading="isDeleting"
+                            :disabled="!deletePassword"
+                            @click="deleteAccount"
+                        />
+                    </div>
+                </template>
+            </UCard>
+        </template>
+    </UModal>
 </template>
