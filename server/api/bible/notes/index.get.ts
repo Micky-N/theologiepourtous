@@ -50,24 +50,10 @@ export default defineEventHandler(async (event) => {
             prisma.bibleNote.findMany({
                 where: whereClause,
                 include: {
-                    book: {
-                        select: {
-                            code: true,
-                            name: true,
-                            testament: true
-                        }
-                    },
+                    book: true,
                     verse: {
-                        select: {
-                            chapter: true,
-                            verse: true,
-                            text: true,
-                            version: {
-                                select: {
-                                    code: true,
-                                    name: true
-                                }
-                            }
+                        include: {
+                            version: true
                         }
                     }
                 },
@@ -80,26 +66,10 @@ export default defineEventHandler(async (event) => {
             prisma.bibleNote.count({ where: whereClause })
         ]);
 
-        const formattedNotes = notes.map(note => ({
-            id: note.id,
-            title: note.title,
-            content: note.content,
-            isPrivate: note.isPrivate,
-            book: note.book,
-            verse: {
-                chapter: note.verse.chapter,
-                verse: note.verse.verse,
-                text: note.verse.text,
-                version: note.verse.version
-            },
-            createdAt: note.createdAt,
-            updatedAt: note.updatedAt
-        }));
-
         return {
             success: true,
             data: {
-                notes: formattedNotes,
+                notes,
                 pagination: {
                     total,
                     limit,

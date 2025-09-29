@@ -44,24 +44,10 @@ export default defineEventHandler(async (event) => {
             prisma.bibleBookmark.findMany({
                 where: whereClause,
                 include: {
-                    book: {
-                        select: {
-                            code: true,
-                            name: true,
-                            testament: true
-                        }
-                    },
+                    book: true,
                     verse: {
-                        select: {
-                            chapter: true,
-                            verse: true,
-                            text: true,
-                            version: {
-                                select: {
-                                    code: true,
-                                    name: true
-                                }
-                            }
+                        include: {
+                            version: true
                         }
                     }
                 },

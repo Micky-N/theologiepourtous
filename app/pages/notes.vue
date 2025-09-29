@@ -70,9 +70,9 @@
                             Aucune note trouvée
                         </p>
                         <UButton
-                            icon="i-heroicons-plus"
-                            label="Créer votre première note"
-                            @click="openCreateModal"
+                            to="/bible"
+                            icon="i-lucide-book-open-text"
+                            label="Lire la Bible"
                         />
                     </div>
 
@@ -153,175 +153,60 @@
                 </UPageBody>
             </UPage>
         </UContainer>
-        <!-- Modal de création/édition -->
-        <UModal
-            v-model:open="showCreateModal"
-            :prevent-close="isSubmitting"
-            :ui="{
-                content: 'max-w-4xl w-full'
-            }"
-        >
-            <template #content>
-                <UCard>
-                    <template #header>
-                        <h3 class="text-lg font-semibold">
-                            {{ editingNote ? 'Modifier la note' : 'Nouvelle note' }}
-                        </h3>
-                    </template>
-
-                    <UForm
-                        :state="noteForm"
-                        :schema="noteSchema"
-                        class="space-y-4"
-                        @submit="saveNote"
-                    >
-                        <UFormField
-                            label="Titre"
-                            name="title"
-                        >
-                            <UInput
-                                v-model="noteForm.title"
-                                placeholder="Titre de la note (optionnel)"
-                            />
-                        </UFormField>
-
-                        <UFormField
-                            v-if="!editingNote"
-                            label="Verset"
-                            name="verseId"
-                            required
-                        >
-                            <USelectMenu
-                                v-model="selectedVerse"
-                                :items="verseOptions"
-                                label-key="label"
-                                value-key="value"
-                                placeholder="Sélectionner un verset..."
-                                searchable
-                                option-attribute="label"
-                                value-attribute="value"
-                            />
-                        </UFormField>
-
-                        <UFormField
-                            label="Contenu"
-                            name="content"
-                            required
-                        >
-                            <UTextarea
-                                v-model="noteForm.content"
-                                placeholder="Écrivez votre note..."
-                                :rows="6"
-                            />
-                        </UFormField>
-
-                        <UFormField
-                            label="Visibilité"
-                            name="isPrivate"
-                        >
-                            <USelect
-                                v-model="noteForm.isPrivate"
-                                :options="[
-                                    { label: 'Publique', value: false },
-                                    { label: 'Privée', value: true }
-                                ]"
-                            />
-                        </UFormField>
-
-                        <div class="flex justify-end gap-3 pt-4">
-                            <UButton
-                                variant="ghost"
-                                :disabled="isSubmitting"
-                                @click="closeCreateModal"
-                            >
-                                Annuler
-                            </UButton>
-                            <UButton
-                                type="submit"
-                                :loading="isSubmitting"
-                                :disabled="!noteForm.content"
-                            >
-                                {{ editingNote ? 'Modifier' : 'Créer' }}
-                            </UButton>
-                        </div>
-                    </UForm>
-                </UCard>
-            </template>
-        </UModal>
-
-        <!-- Modal de visualisation -->
-        <UModal
+        <NoteShowDrawer
+            v-if="selectedNote"
             v-model:open="showViewModal"
-            :ui="{
-                content: 'max-w-4xl w-full'
-            }"
+            :notes="[selectedNote]"
+            :verse="selectedNote.verse"
+            :book="selectedNote.book"
+            :footer="false"
+            @edit="openEditModal"
+            @delete="deleteNote"
+        />
+        <NoteCreateDrawer
+            v-if="editingNote"
+            v-model:open="showCreateModal"
+            :note="editingNote"
+            :verse="editingNote.verse"
+            :book="editingNote.book"
+            @close="closeCreateModal"
+            @refresh-note="fetchNotes"
+        />
+
+        <!-- Modal confirmation suppression -->
+        <UModal
+            v-model:open="showDeleteModal"
+            title="Supprimer la note"
         >
-            <template #content>
-                <UCard v-if="selectedNote">
-                    <template #header>
-                        <div class="flex items-center justify-between">
-                            <div>
-                                <h3 class="text-xl font-semibold">
-                                    {{ selectedNote.title || 'Note sans titre' }}
-                                </h3>
-                                <p class="text-sm text-gray-500 mt-1">
-                                    {{ selectedNote.book.name }} {{ selectedNote.verse.chapter }}:{{ selectedNote.verse.verse }}
-                                    ({{ selectedNote.verse.version.code }})
-                                </p>
-                            </div>
-                            <div class="flex items-center gap-2">
-                                <UBadge
-                                    :color="selectedNote.isPrivate ? 'error' : 'success'"
-                                    size="sm"
-                                >
-                                    {{ selectedNote.isPrivate ? 'Privée' : 'Publique' }}
-                                </UBadge>
-                                <UButton
-                                    icon="i-heroicons-pencil"
-                                    variant="ghost"
-                                    size="sm"
-                                    @click="openEditModal(selectedNote)"
-                                />
-                            </div>
-                        </div>
-                    </template>
-
-                    <div class="space-y-6">
-                        <!-- Verset complet -->
-                        <div class="bg-gray-50 dark:bg-gray-800 p-4 rounded-lg">
-                            <blockquote class="text-lg italic text-gray-800 dark:text-gray-200 leading-relaxed">
-                                "{{ selectedNote.verse.text }}"
-                            </blockquote>
-                            <cite class="text-sm text-gray-600 dark:text-gray-400 mt-2 block">
-                                — {{ selectedNote.book.name }} {{ selectedNote.verse.chapter }}:{{ selectedNote.verse.verse }}
-                            </cite>
-                        </div>
-
-                        <!-- Contenu de la note -->
-                        <div class="prose dark:prose-invert max-w-none">
-                            <div class="whitespace-pre-wrap">
-                                {{ selectedNote.content }}
-                            </div>
-                        </div>
-
-                        <!-- Métadonnées -->
-                        <div class="border-t pt-4 text-sm text-gray-500 dark:text-gray-400">
-                            <div class="flex justify-between">
-                                <span>Créée le {{ formatDate(selectedNote.createdAt) }}</span>
-                                <span v-if="selectedNote.updatedAt !== selectedNote.createdAt">
-                                    Modifiée le {{ formatDate(selectedNote.updatedAt) }}
-                                </span>
-                            </div>
-                        </div>
-                    </div>
-                </UCard>
+            <template #body>
+                <p class="text-gray-600 dark:text-gray-400">
+                    Êtes-vous sûr de vouloir supprimer cette note ? Cette action est irréversible.
+                </p>
+            </template>
+            <template #footer>
+                <div class="flex gap-3 justify-end">
+                    <UButton
+                        color="neutral"
+                        variant="soft"
+                        @click="showDeleteModal = false"
+                    >
+                        Annuler
+                    </UButton>
+                    <UButton
+                        color="error"
+                        :loading="deleteModalLoading"
+                        @click="confirmDeleteNote"
+                    >
+                        Supprimer
+                    </UButton>
+                </div>
             </template>
         </UModal>
     </UMain>
 </template>
 
 <script lang="ts" setup>
-import { z } from 'zod';
+import type { BibleBook, BibleNote, BibleVerse, BibleVersion } from '@prisma/client';
 
 definePageMeta({
     middleware: 'auth'
@@ -336,30 +221,12 @@ useHead({
 });
 
 // Types
-interface Note {
-    id: number
-    title: string | null
-    content: string
-    isPrivate: boolean
-    book: {
-        code: string
-        name: string
-        testament: string
-    }
-    verse: {
-        chapter: number
-        verse: number
-        text: string
-        version: {
-            code: string
-            name: string
-        }
-    }
-    createdAt: string
-    updatedAt: string
+interface Note extends BibleNote {
+    book: BibleBook
+    verse: BibleVerse & { version: BibleVersion }
 }
 
-interface Verse {
+interface Verse extends BibleVerse {
     id: number
     chapter: number
     verse: number
@@ -390,12 +257,14 @@ const searchQuery = ref('');
 // Modals
 const showCreateModal = ref(false);
 const showViewModal = ref(false);
+const showDeleteModal = ref(false);
 const selectedNote = ref<Note | null>(null);
 const editingNote = ref<Note | null>(null);
-const isSubmitting = ref(false);
+const deleteModalLoading = ref(false);
+const noteToDelete = ref<Note | null>(null);
 
 // Options
-const bookOptions = ref<{ label: string, value: string }[]>([]);
+const bookOptions = ref<{ label: string, value: string | null }[]>([]);
 const privacyOptions = [
     { label: 'Toutes les notes', value: null },
     { label: 'Notes privées', value: 'true' },
@@ -403,14 +272,6 @@ const privacyOptions = [
 ];
 const verseOptions = ref<{ label: string, value: number }[]>([]);
 const selectedVerse = ref<number | undefined>(undefined);
-
-// Formulaire
-const noteSchema = z.object({
-    title: z.string().optional(),
-    content: z.string().min(1, 'Le contenu est requis'),
-    verseId: z.number().optional(),
-    isPrivate: z.boolean()
-});
 
 const noteForm = ref({
     title: '',
@@ -425,8 +286,11 @@ const truncateText = (text: string, length: number): string => {
     return text.substring(0, length) + '...';
 };
 
-const formatDate = (dateString: string): string => {
-    return new Date(dateString).toLocaleDateString('fr-FR', {
+const formatDate = (dateString: string | Date): string => {
+    if (typeof dateString === 'string') {
+        dateString = new Date(dateString);
+    }
+    return dateString.toLocaleDateString('fr-FR', {
         day: '2-digit',
         month: '2-digit',
         year: 'numeric',
@@ -502,6 +366,8 @@ const fetchBooks = async () => {
             label: book.name,
             value: book.code
         }));
+
+        bookOptions.value.unshift({ label: 'Tous les livres', value: null });
     } catch (error) {
         console.error('Erreur lors du chargement des livres:', error);
     }
@@ -568,71 +434,28 @@ const closeCreateModal = () => {
     selectedVerse.value = undefined;
 };
 
-const saveNote = async () => {
-    isSubmitting.value = true;
-    try {
-        const payload = {
-            title: noteForm.value.title || null,
-            content: noteForm.value.content,
-            isPrivate: noteForm.value.isPrivate,
-            ...(editingNote.value ? {} : { verseId: selectedVerse.value })
-        };
-
-        if (editingNote.value) {
-            await $fetch(`/api/bible/notes/${editingNote.value.id}`, {
-                method: 'PUT',
-                body: payload
-            });
-            useToast().add({
-                title: 'Succès',
-                description: 'Note modifiée avec succès',
-                color: 'success'
-            });
-        } else {
-            await $fetch('/api/bible/notes', {
-                method: 'POST',
-                body: payload
-            });
-            useToast().add({
-                title: 'Succès',
-                description: 'Note créée avec succès',
-                color: 'success'
-            });
-        }
-
-        closeCreateModal();
-        await fetchNotes();
-    } catch (error) {
-        console.error('Erreur lors de la sauvegarde:', error);
-        useToast().add({
-            title: 'Erreur',
-            description: editingNote.value ? 'Erreur lors de la modification' : 'Erreur lors de la création',
-            color: 'error'
-        });
-    } finally {
-        isSubmitting.value = false;
-    }
+const deleteNote = (note: Note) => {
+    noteToDelete.value = note;
+    showDeleteModal.value = true;
 };
 
-const deleteNote = async (note: Note) => {
-    const isConfirmed = confirm('Êtes-vous sûr de vouloir supprimer cette note ?');
-    if (!isConfirmed) return;
-
+const confirmDeleteNote = async () => {
+    if (!noteToDelete.value) return;
+    deleteModalLoading.value = true;
     try {
-        await $fetch(`/api/bible/notes/${note.id}`, {
+        await $fetch(`/api/bible/notes/${noteToDelete.value.id}`, {
             method: 'DELETE'
         });
-
         useToast().add({
             title: 'Succès',
             description: 'Note supprimée avec succès',
             color: 'success'
         });
-
         if (showViewModal.value) {
             showViewModal.value = false;
         }
-
+        showDeleteModal.value = false;
+        noteToDelete.value = null;
         await fetchNotes();
     } catch (error) {
         console.error('Erreur lors de la suppression:', error);
@@ -641,6 +464,8 @@ const deleteNote = async (note: Note) => {
             description: 'Erreur lors de la suppression',
             color: 'error'
         });
+    } finally {
+        deleteModalLoading.value = false;
     }
 };
 

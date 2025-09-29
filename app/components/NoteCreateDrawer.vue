@@ -141,9 +141,5 @@ watch(open, (value) => {
         form.isPrivate = true;
         isEdit.value = false;
     }
-});
+}, { immediate: true });
 </script>
-
-<style>
-
-</style>

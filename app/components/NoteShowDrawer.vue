@@ -71,7 +71,7 @@
             </template>
         </template>
         <template
-            v-if="selectedNote"
+            v-if="selectedNote && footer"
             #footer
         >
             <UButton
@@ -123,12 +123,13 @@
 </template>
 
 <script lang="ts" setup>
-import type { BibleBook, BibleNote, BibleVerse } from '@prisma/client';
+import type { BibleNote } from '@prisma/client';
 
-const { notes, book, verse } = defineProps<{
+const { notes, book, verse, footer = true } = defineProps<{
     notes: BibleNote[]
-    verse: BibleVerse
-    book: BibleBook
+    verse: { chapter: number, verse: number }
+    book: { name: string }
+    footer?: boolean
 }>();
 
 const emit = defineEmits<{
@@ -142,14 +143,14 @@ const selectedNoteId = ref<BibleNote['id'] | null>(null);
 const selectedNote = computed(() => notes.find(note => note.id === selectedNoteId.value) || null);
 
 watch(open, (value) => {
-    if (value) {
+    if (value && notes.length) {
         if (notes.length == 1 && notes[0]?.id) {
             selectedNoteId.value = notes[0]?.id;
+        } else if (notes.length > 1) {
+            selectedNoteId.value = null;
         }
-    } else {
-        selectedNoteId.value = null;
     }
-});
+}, { immediate: true });
 
 const reference = computed(() => {
     return `${book.name} ${verse.chapter}:${verse.verse}`;

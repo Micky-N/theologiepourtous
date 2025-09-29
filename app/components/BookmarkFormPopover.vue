@@ -15,7 +15,7 @@
                         name="i-lucide-bookmark"
                         class="text-primary-600"
                     />
-                    <span class="font-semibold text-sm">Ajouter aux favoris</span>
+                    <span class="font-semibold text-sm">Ajouter aux signets</span>
                 </div>
             </template>
             <template #default>

@@ -1,29 +1,11 @@
-interface BookmarkData {
-    id: number
-    title: string | null
-    color: string | null
-    reference: string
-    book: {
-        code: string
-        name: string
-        testament: string
-    }
-    verse: {
-        chapter: number
-        verse: number
-        text: string
-        version: {
-            code: string
-            name: string
-        }
-    }
-    createdAt: Date | string
-    updatedAt: Date | string
+import type { BibleBook, BibleBookmark, BibleVerse, BibleVersion } from '@prisma/client';
+
+interface BookmarkData extends BibleBookmark {
+    book: BibleBook
+    verse: BibleVerse & { version: BibleVersion }
 }
 
 export const useBookmarks = () => {
-    const pending = ref(false);
-    const error = ref<string | null>(null);
     const bookmarks = ref<BookmarkData[]>([]);
     const total = ref(0);
 
@@ -34,48 +16,32 @@ export const useBookmarks = () => {
         limit?: number
         offset?: number
     }) => {
-        try {
-            pending.value = true;
-            error.value = null;
+        const query: Record<string, string> = {};
+        if (options?.book) query.book = options.book;
+        if (options?.chapter) query.chapter = options.chapter.toString();
+        if (options?.limit) query.limit = options.limit.toString();
+        if (options?.offset) query.offset = options.offset.toString();
 
-            const query: Record<string, string> = {};
-            if (options?.book) query.book = options.book;
-            if (options?.chapter) query.chapter = options.chapter.toString();
-            if (options?.limit) query.limit = options.limit.toString();
-            if (options?.offset) query.offset = options.offset.toString();
+        const { data } = await $fetch<{ data: { bookmarks: BookmarkData[], pagination: { total: number } } }>('/api/bible/bookmarks', {
+            query
+        });
 
-            const { data } = await $fetch('/api/bible/bookmarks', {
-                query
-            });
-
-            bookmarks.value = data.bookmarks;
-            total.value = data.pagination.total;
-
-            return data;
-        } catch (err: any) {
-            error.value = err.data?.message || 'Erreur lors du chargement des signets';
-            throw err;
-        } finally {
-            pending.value = false;
-        }
+        bookmarks.value = data.bookmarks;
+        total.value = data.pagination.total;
+        return data;
     };
 
     // Supprimer un signet
     const deleteBookmark = async (bookmarkId: number) => {
-        try {
-            await $fetch(`/api/bible/bookmarks/${bookmarkId}`, {
-                method: 'DELETE'
-            });
+        await $fetch(`/api/bible/bookmarks/${bookmarkId}`, {
+            method: 'DELETE'
+        });
 
-            // Retirer le signet de la liste locale
-            bookmarks.value = bookmarks.value.filter(b => b.id !== bookmarkId);
-            total.value = Math.max(0, total.value - 1);
+        // Retirer le signet de la liste locale
+        bookmarks.value = bookmarks.value.filter(b => b.id !== bookmarkId);
+        total.value = Math.max(0, total.value - 1);
 
-            return { success: true };
-        } catch (err: any) {
-            error.value = err.data?.message || 'Erreur lors de la suppression du signet';
-            throw err;
-        }
+        return { success: true };
     };
 
     // Grouper les signets par couleur pour la timeline
@@ -120,8 +86,6 @@ export const useBookmarks = () => {
     };
 
     return {
-        pending: readonly(pending),
-        error: readonly(error),
         bookmarks: readonly(bookmarks),
         total: readonly(total),
         groupedByColor,
