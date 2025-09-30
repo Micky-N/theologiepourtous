@@ -42,12 +42,20 @@ export default defineEventHandler(async (event) => {
             });
         }
 
+        const preferences = await prisma.userPreference.findUnique({
+            where: { userId: user.id },
+            include: {
+                defaultVersion: true
+            }
+        });
+
         await setUserSession(event, {
             user: {
                 id: user.id,
                 name: user.name,
                 email: user.email,
-                role: user.role
+                role: user.role,
+                preferences
             }
         });
 

@@ -1,62 +1,156 @@
-# Nuxt SaaS Template
+# 🙏 Théologie pour Tous
 
-[![Nuxt UI](https://img.shields.io/badge/Made%20with-Nuxt%20UI-00DC82?logo=nuxt&labelColor=020420)](https://ui.nuxt.com)
+> **Plateforme d'enseignement biblique et théologique moderne**
 
-Fully built SaaS application to launch your next project with a landing page, a pricing page, a documentation and a blog powered by [Nuxt UI](https://ui.nuxt.com) components.
+Théologie pour Tous est une application web complète dédiée à l'étude de la Bible et à l'enseignement théologique. Elle offre une expérience interactive pour approfondir sa compréhension des Écritures à travers des cours structurés, des outils de lecture et de prise de notes.
 
-- [Live demo](https://saas-template.nuxt.dev/)
-- [Documentation](https://ui4.nuxt.com/docs/getting-started/installation/nuxt)
+![Nuxt](https://img.shields.io/badge/Nuxt-3.x-00DC82?logo=nuxt.js&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-3.x-4FC08D?logo=vue.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6?logo=typescript&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-ORM-2D3748?logo=prisma&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-CSS-06B6D4?logo=tailwindcss&logoColor=white)
 
-<a href="https://saas-template.nuxt.dev/" target="_blank">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ui4.nuxt.com/assets/templates/nuxt/saas-dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://ui4.nuxt.com/assets/templates/nuxt/saas-light.png">
-    <img alt="Nuxt SaaS Template" src="https://ui4.nuxt.com/assets/templates/nuxt/saas-light.png">
-  </picture>
-</a>
+## ✨ Fonctionnalités principales
 
-## Quick Start
+### 📖 Lecteur de Bible intégré
+- **Lecture multi-versions** : LSG, S21, NEG, BDS et plus
+- **Navigation intuitive** par livre, chapitre et verset
+- **Comparaison de versions** côte à côte
+- **Mode sombre/clair** pour le confort de lecture
 
-```bash [Terminal]
-npx nuxi init -t github:nuxt-ui-templates/saas
+### 🎓 Système d'enseignement
+- **Cours de théologie structurés** par thèmes
+- **Suivi de progression** personnalisé
+- **Références bibliques interactives** avec liens directs
+- **Contenu markdown enrichi** avec table des matières
+
+### 📝 Gestion de notes et signets
+- **Prise de notes** sur les versets
+- **Système de signets colorés** pour organiser ses versets favoris
+- **Notes publiques/privées** avec partage communautaire
+- **Recherche et filtrage** par livre, couleur, confidentialité
+
+### 📊 Statistiques et suivi
+- **Tableau de bord de lecture** avec métriques détaillées
+- **Graphiques de progression** par période
+- **Suivi des chapitres lus** et temps de lecture
+- **Objectifs personnalisables** et réalisations
+
+### 🔐 Authentification et profils
+- **Système d'authentification sécurisé**
+- **Profils utilisateur personnalisables**
+- **Paramètres et préférences** de lecture
+
+## 🚀 Technologies utilisées
+
+### Frontend
+- **Nuxt 3** - Framework Vue.js full-stack
+- **Vue 3** - Framework JavaScript réactif
+- **TypeScript** - Typage statique
+- **Tailwind CSS** - Framework CSS utilitaire
+- **Nuxt UI** - Composants UI modernes
+- **Nuxt Content** - Gestion de contenu markdown
+
+### Backend & Base de données
+- **Prisma ORM** - Gestionnaire de base de données
+- **MySQL** - Base de données
+- **Nuxt Server API** - API RESTful intégrée
+
+### Outils de développement
+- **ESLint** - Linting et qualité de code
+- **Prettier** - Formatage automatique
+- **TypeScript** - Vérification de types
+- **Renovate** - Mise à jour automatique des dépendances
+
+## 📋 Prérequis
+
+- **Node.js** 18.x ou supérieur
+- **Base de données** MySQL
+
+## 🛠️ Configuration
+
+### 3. Base de données
+```bash
+# Copier le fichier d'environnement
+cp .env.example .env
+
+# Configurer les variables d'environnement
+# DATABASE_URL="file:./dev.db"  # SQLite pour le développement
+# NUXT_SESSION_PASSWORD="your-secret-key"
+# NUXT_PUBLIC_SITE_URL="http://localhost:3000"
 ```
 
-## Deploy your own
+### 4. Initialiser la base de données
+```bash
+# Générer le client Prisma
+npx prisma generate
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fnuxt-ui-templates%2Fsaas)
+# Appliquer les migrations
+npx prisma migrate dev
 
-## Setup
+# Peupler la base avec des données de test (optionnel)
+npx prisma db seed
+```
 
-Make sure to install the dependencies:
+### 5. Lancer le serveur de développement
+```bash
+npm run dev
+```
+
+L'application sera accessible à l'adresse `http://localhost:3000`
+
+## 📝 Scripts disponibles
 
 ```bash
-pnpm install
+# Développement
+npm run dev              # Serveur de développement
+npm run build            # Build de production
+npm run preview          # Aperçu du build
+npm run generate         # Génération statique
+
+# Base de données
+npm run db:generate      # Générer le client Prisma
+npm run db:migrate       # Appliquer les migrations
+npm run db:seed          # Peupler la base de données
+npm run db:studio        # Interface graphique Prisma Studio
+
+# Qualité de code
+npm run lint             # Vérification ESLint
+npm run lint:fix         # Correction automatique ESLint
+npm run type-check       # Vérification TypeScript
+npm run check:all        # Vérification complète (lint + types)
 ```
 
-## Development Server
+## 🗂️ Structure du projet
 
-Start the development server on `http://localhost:3000`:
-
-```bash
-pnpm dev
+```
+📁 theologiepourtous/
+├── 📁 app/                    # Code source Nuxt
+│   ├── 📁 components/         # Composants Vue réutilisables
+│   ├── 📁 composables/        # Logique métier réactive
+│   ├── 📁 layouts/            # Templates de mise en page
+│   ├── 📁 middleware/         # Middlewares de route
+│   ├── 📁 pages/              # Pages et routes automatiques
+│   ├── 📁 plugins/            # Plugins Nuxt
+│   └── 📁 utils/              # Utilitaires et helpers
+├── 📁 content/                # Contenu markdown (cours)
+├── 📁 prisma/                 # Schéma et migrations DB
+├── 📁 server/                 # API routes serveur
+├── 📁 public/                 # Assets statiques
+└── 📄 nuxt.config.ts          # Configuration Nuxt
 ```
 
-## Production
+## 📄 Licence
 
-Build the application for production:
+Ce projet est sous licence **MIT**. Voir le fichier `LICENSE` pour plus de détails.
 
-```bash
-pnpm build
-```
+## 👨‍💻 Auteur
 
-Locally preview production build:
+**Mickaël N.**
+- GitHub: [@Micky-N](https://github.com/Micky-N)
+- Email: contact@theologiepourtous.com
 
-```bash
-pnpm preview
-```
+---
 
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
-
-## Renovate integration
-
-Install [Renovate GitHub app](https://github.com/apps/renovate/installations/select_target) on your repository and you are good to go.
+## TODO
+- api/bible/verset/book/chapter/verse: Récupérer un ou plusieurs versets

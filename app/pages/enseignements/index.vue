@@ -25,7 +25,8 @@ const { data: progress } = useAsyncData(
         method: 'GET'
     }),
     {
-        immediate: loggedIn.value
+        immediate: loggedIn.value,
+        server: false
     }
 );
 

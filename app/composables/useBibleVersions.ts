@@ -12,9 +12,9 @@ export const useBibleVersions = () => {
         error.value = null;
 
         try {
-            const result = await $fetch<BibleVersion[]>('/api/bible/versions');
-            versions.value = result;
-            return result;
+            const result = await $fetch<{ data: BibleVersion[] }>('/api/bible/versions');
+            versions.value = result.data;
+            return result.data;
         } catch (err) {
             error.value = err instanceof Error ? err.message : 'Erreur lors de la récupération des versions';
             throw err;

@@ -1,5 +1,6 @@
 <script setup lang="ts">
-import type { UserProgress } from '@prisma/client';
+import type { BibleBook, UserProgress } from '@prisma/client';
+import { verseParser } from '../../../utils/verseParser';
 
 const { loggedIn } = useUserSession();
 const route = useRoute();
@@ -7,17 +8,18 @@ const { data: lesson } = await useAsyncData(route.path, () => queryCollection('l
 if (!lesson.value) {
     throw createError({ statusCode: 404, statusMessage: 'Lesson not found', fatal: true });
 }
-const { data: progress, refresh } = useAsyncData(
+const { data: progress, refresh, status } = useAsyncData(
     route.path + '-progress',
     () => $fetch<{ success: boolean, data: UserProgress | null }>(`/api/teaching/progress/${lesson.value?.theme}`, {
         method: 'GET'
     }),
     {
-        immediate: loggedIn.value
+        immediate: loggedIn.value,
+        server: false
     }
 );
 
-const { data: booksData } = await useAsyncData('bible-books', () => $fetch('/api/bible/books', {
+const { data: booksData } = await useAsyncData('bible-books', () => $fetch<{ success: boolean, data: { all: BibleBook[], grouped: { old: BibleBook[], new: BibleBook[] } }, count: number }>('/api/bible/books', {
     method: 'GET'
 }));
 
@@ -47,38 +49,9 @@ const setProgress = async (slug: string) => {
     }
 };
 
-/**
- * 1 Jean 1:1 -> /bible?book=1JN&chapter=1&verse=1
- * 1 Jean 1:1-3 -> /bible?book=1JN&chapter=1&verse=1-3
- * 1 Jean 1 -> /bible?book=1JN&chapter=1
- * 1 Jean -> /bible?book=1JN
- * Psaumes 23 -> /bible?book=PSA&chapter=23
- * Psaumes 23:1 -> /bible?book=PSA&chapter=23&verse=1
- * Psaumes 23:1-4 -> /bible?book=PSA&chapter=23&verse=1-4
- * Psaumes 23:1-4;1 -> /bible?book=PSA&chapter=23&verse=1-4;1
- * @param ref
- */
-const parseToVerse = (ref: string) => {
-    let refTrimmed = ref.trim();
-    if (!booksData.value) return '/bible';
-    const bookMatch = refTrimmed.match(/^(1|2|3)?\s?([^\d:]+)/);
-    if (!bookMatch) return '/bible';
-    const bookName = bookMatch[0].trim();
-    const book = booksData.value?.data.all.find((b: any) => b.name.toLowerCase() === bookName.toLowerCase());
-    if (!book) return '/bible';
-    refTrimmed = refTrimmed.replace(bookMatch[0], '').trim();
-    if (!refTrimmed) return `/bible?book=${book.code}`;
-    const chapterVerseMatch = refTrimmed.match(/^(\d+)(?::([\d\-;]+))?$/);
-    if (!chapterVerseMatch) return `/bible?book=${book.code}`;
-    let url = `/bible?book=${book.code}`;
-    if (chapterVerseMatch[1]) {
-        url += `&chapter=${chapterVerseMatch[1]}`;
-    }
-    if (chapterVerseMatch[2]) {
-        url += `&verse=${chapterVerseMatch[2]}`;
-    }
-    return url;
-};
+setBooksData(booksData.value?.data.all || []);
+
+const parseToVerse = (ref: string) => verseParser(ref, true);
 
 useSeoMeta({
     title: lesson.value.title,
@@ -104,6 +77,36 @@ useHead({
         { rel: 'canonical', href: lesson.value.seo.url }
     ]
 });
+
+const progressButtonProps = computed<{
+    icon: string
+    color: 'success' | 'secondary' | 'warning'
+    label: string
+    variant: 'subtle'
+}>(() => {
+    if (lesson.value && learntLesson(lesson.value.slug)) {
+        return {
+            icon: 'i-lucide-circle-check-big',
+            color: 'success',
+            label: 'Appris',
+            variant: 'subtle'
+        };
+    } else if (progress.value?.data) {
+        return {
+            icon: 'i-lucide-circle-dashed',
+            color: 'secondary',
+            label: 'En cours',
+            variant: 'subtle'
+        };
+    } else {
+        return {
+            icon: 'i-lucide-flag',
+            color: 'warning',
+            label: 'Commencer le parcours',
+            variant: 'subtle'
+        };
+    }
+});
 </script>
 
 <template>
@@ -119,34 +122,25 @@ useHead({
             <template #headline>
                 <div class="flex flex-col lg:flex-row items-start lg:items-center space-x-1">
                     <UButton
-                        v-if="learntLesson(lesson.slug)"
-                        icon="i-lucide-circle-check-big"
+                        v-if="status === 'success'"
+                        :icon="progressButtonProps.icon"
+                        :color="progressButtonProps.color"
+                        :label="progressButtonProps.label"
+                        :variant="progressButtonProps.variant"
                         size="xs"
-                        color="success"
-                        variant="subtle"
                         @click="setProgress(lesson.slug)"
-                    >
-                        Appris
-                    </UButton>
+                    />
                     <UButton
-                        v-else-if="!!progress?.data"
-                        icon="i-lucide-circle-dashed"
-                        size="xs"
+                        v-else-if="['idle', 'pending'].includes(status)"
                         color="secondary"
                         variant="subtle"
-                        @click="setProgress(lesson.slug)"
-                    >
-                        En cours
-                    </UButton>
-                    <UButton
-                        v-else
-                        icon="i-lucide-flag"
                         size="xs"
-                        color="warning"
-                        variant="subtle"
-                        @click="setProgress(lesson.slug)"
+                        disabled
                     >
-                        Commencer le parcours
+                        <UIcon
+                            name="i-lucide-loader-2"
+                            class="animate-spin"
+                        />
                     </UButton>
                     <time class="text-muted">{{ new Date(lesson.date).toLocaleDateString('fr', { year: 'numeric', month: 'long', day: 'numeric' }) }}</time>
                     <span class="hidden lg:block text-muted">&middot;</span>

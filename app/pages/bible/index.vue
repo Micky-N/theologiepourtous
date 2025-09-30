@@ -35,16 +35,14 @@ definePageMeta({
     layout: 'bible'
 });
 const route = useRoute();
-const { loggedIn } = useUserSession();
-const { fetchPreferences, preferences } = useUserPreferences();
-await fetchPreferences();
+const { user, loggedIn } = useUserSession();
 const { data: booksData } = await useAsyncData('bible-books', () => $fetch<{ data: { all: BibleBook[], grouped: { old: BibleBook[], new: BibleBook[] } } }>('/api/bible/books'), { transform: data => data?.data || [] });
 const { data: availableVersions } = await useAsyncData('bible-versions', () => $fetch<{ data: BibleVersion[] }>('/api/bible/versions'), { transform: data => data?.data || [] });
 const { data: selectedChapterVerses } = await useAsyncData(
     'bible-verses',
     () => $fetch<{ data: ApiVerseResponseData }>(`/api/bible/verses/${route.query.book || 'GEN'}/${route.query.chapter || '1'}`, {
         query: {
-            version: route.query.version || preferences.value?.defaultVersion?.code || 'LSG'
+            version: route.query.version || user.value?.preferences?.defaultVersion?.code || 'LSG'
         }
     }),
     {
@@ -67,7 +65,7 @@ const selectedChapter = computed<number>({
     }
 });
 const selectedVersionCode = computed<string>({
-    get: () => route.query.version as string || preferences.value?.defaultVersion?.code || 'LSG',
+    get: () => route.query.version as string || user.value?.preferences.defaultVersion?.code || 'LSG',
     set: (value: string | undefined) => {
         router.push({ query: { ...route.query, version: value } });
     }
@@ -251,7 +249,8 @@ const loadNotes = async () => {
             method: 'GET',
             query: {
                 book: selectedBookCode.value,
-                chapter: selectedChapter.value
+                chapter: selectedChapter.value,
+                version: selectedVersionCode.value
             }
         });
 
@@ -275,7 +274,8 @@ const loadBookmarks = async () => {
             method: 'GET',
             query: {
                 book: selectedBookCode.value,
-                chapter: selectedChapter.value
+                chapter: selectedChapter.value,
+                version: selectedVersionCode.value
             }
         });
         bookmarks.value = response?.data.bookmarks || [];
@@ -287,6 +287,15 @@ const loadBookmarks = async () => {
 watch([() => route.query.chapter, () => route.query.book], async () => {
     await loadNotes();
     await loadBookmarks();
+});
+
+watch(selectedVersionCode, async () => {
+    if (user.value?.preferences?.notesPerVersion) {
+        await loadNotes();
+    }
+    if (user.value?.preferences?.bookmarksPerVersion) {
+        await loadBookmarks();
+    }
 });
 
 defineOgImageComponent('Saas');

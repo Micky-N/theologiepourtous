@@ -12,9 +12,16 @@ export default defineEventHandler(async (event) => {
             });
         }
 
+        const preferences = await prisma.userPreference.findUnique({
+            where: { userId: userSession.id },
+            include: {
+                defaultVersion: true
+            }
+        });
+
         const userId = userSession.id;
 
-        const query = getQuery(event);
+        const query = getQuery<{ book?: string, chapter?: string, private?: string, limit?: string, offset?: string, version?: string }>(event);
         const bookCode = query.book as string | undefined;
         const isPrivate = query.private === 'true' ? true : query.private === 'false' ? false : undefined;
         const limit = Math.min(parseInt(query.limit as string) || 50, 100);
@@ -38,6 +45,19 @@ export default defineEventHandler(async (event) => {
                 whereClause.verse = {
                     chapter: parseInt(query.chapter as string)
                 };
+            }
+
+            if (preferences?.notesPerVersion) {
+                const versionCode = (query.version as string | undefined)?.toUpperCase() || (preferences?.defaultVersion?.code || 'LSG');
+                const version = await prisma.bibleVersion.findUnique({
+                    where: { code: versionCode }
+                });
+                if (version) {
+                    whereClause.verse = {
+                        ...whereClause.verse,
+                        versionId: version.id
+                    };
+                }
             }
         }
 

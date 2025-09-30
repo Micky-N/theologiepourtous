@@ -57,6 +57,7 @@ type VerseData = {
     version: string
 };
 
+const { user } = useUserSession();
 const { verse } = defineProps<{
     verse: string
 }>();
@@ -70,32 +71,23 @@ const data = ref<VerseData | null>(null);
 const cache = useState('cache', () => new Map<string, VerseData>());
 
 async function fetchVerseFromApiSim(verseRef: string): Promise<VerseData> {
-    // Simule un délai réseau de 1 seconde
-    await new Promise(resolve => setTimeout(resolve, 1000));
+    const verseObj = verseParser(verseRef);
+    console.log('Fetching verse:', verseObj);
+    verseObj.version = verseObj.version || user.value?.preferences.defaultVersion?.code || 'LGS';
+    const response = await $fetch(`/api/bible/verses/${verseObj.book}/${verseObj.chapter}/${verseObj.verse}`, {
+        method: 'GET',
+        query: { version: verseObj.version }
+    });
 
-    // Données factices pour quelques références courantes
-    const presets: Record<string, VerseData> = {
-        'Psaume 139:1-6': {
-            reference: 'Psaume 139:1-6',
-            text: 'Éternel ! tu me sondes et tu me connais… tu pénètres de loin ma pensée.',
-            version: 'LSG'
-        },
-        'Ésaïe 46:9-10': {
-            reference: 'Ésaïe 46:9-10',
-            text: 'J’annonce dès le commencement ce qui doit arriver, et longtemps d’avance ce qui n’est pas encore accompli…',
-            version: 'LSG'
-        },
-        'Hébreux 4:13': {
-            reference: 'Hébreux 4:13',
-            text: 'Nulle créature n’est cachée devant lui, mais tout est nu et à découvert à ses yeux.',
-            version: 'LSG'
-        }
-    };
+    if (!response.success) {
+        throw new Error('Erreur lors du chargement du verset.');
+    }
+    const verse = response.data;
 
-    return presets[verseRef] ?? {
-        reference: verseRef,
-        text: 'Verset non trouvé',
-        version: 'LSG'
+    return {
+        reference: `${verse.book.name} ${verse.chapter}:${verse.verse}`,
+        text: verse.text,
+        version: verse.version.code
     };
 }
 

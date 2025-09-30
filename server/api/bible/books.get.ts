@@ -9,15 +9,6 @@ export default defineEventHandler(async (event) => {
             where: testament ? { testament } : undefined,
             orderBy: {
                 orderIndex: 'asc'
-            },
-            select: {
-                id: true,
-                code: true,
-                name: true,
-                createdAt: true,
-                testament: true,
-                orderIndex: true,
-                chapterCount: true
             }
         });
 
@@ -31,7 +22,7 @@ export default defineEventHandler(async (event) => {
             success: true,
             data: {
                 all: books,
-                grouped
+                grouped: grouped
             },
             count: books.length
         };

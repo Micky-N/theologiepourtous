@@ -67,7 +67,13 @@ export default defineEventHandler(async (event) => {
                 id: user.id,
                 name: user.name,
                 email: user.email,
-                role: user.role
+                role: user.role,
+                preferences: {
+                    defaultVersionId: null,
+                    notesPerVersion: false,
+                    bookmarksPerVersion: false,
+                    defaultVersion: null
+                }
             }
         });
 

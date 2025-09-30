@@ -39,6 +39,10 @@ export default defineNuxtConfig({
         }
     },
 
+    auth: {
+        loadStrategy: 'server-first'
+    },
+
     eslint: {
         config: {
             stylistic: {

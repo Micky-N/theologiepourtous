@@ -66,6 +66,21 @@ export default defineEventHandler(async (event) => {
             }
         });
 
+        await replaceUserSession(event, {
+            user: {
+                id: userSession.id,
+                name: userSession.name,
+                email: userSession.email,
+                role: userSession.role,
+                preferences: {
+                    defaultVersionId: preferences.defaultVersionId,
+                    notesPerVersion: preferences.notesPerVersion,
+                    bookmarksPerVersion: preferences.bookmarksPerVersion,
+                    defaultVersion: preferences.defaultVersion
+                }
+            }
+        });
+
         return {
             success: true,
             message: 'Préférences mises à jour avec succès',

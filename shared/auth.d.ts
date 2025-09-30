@@ -1,8 +1,8 @@
-import type { User as UserPrisma } from '@prisma/client';
+import type { BibleVersion, UserPreference, User as UserPrisma } from '@prisma/client';
 
 declare module '#auth-utils' {
     interface User extends Pick<UserPrisma, 'id' | 'name' | 'email' | 'role'> {
-        name: string
+        preferences: Pick<UserPreference, 'defaultVersionId' | 'notesPerVersion' | 'bookmarksPerVersion'> & { defaultVersion: BibleVersion | null }
     }
 
     interface UserSession {
