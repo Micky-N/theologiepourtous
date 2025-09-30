@@ -79,12 +79,12 @@
 import type { BibleVersion } from '@prisma/client';
 
 const props = defineProps<{
-    availableVersions: BibleVersion[]
-    book: { code: string, name: string }
-    chapter: number
-    version: number
-    verseStart: number
-    verseEnd?: number
+    availableVersions: BibleVersion[];
+    book: { code: string; name: string; };
+    chapter: number;
+    version: number;
+    verseStart: number;
+    verseEnd?: number;
 }>();
 
 // État local

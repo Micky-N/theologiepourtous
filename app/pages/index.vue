@@ -364,6 +364,6 @@ useSeoMeta({
 });
 
 const getTheme = (themeName: string) => {
-    return themes.value?.[0]?.children?.find(theme => theme.slug === themeName) as ThemesCollectionItem & { children: TeachingCollectionItem[] } | undefined;
+    return themes.value?.[0]?.children?.find(theme => theme.slug === themeName) as ThemesCollectionItem & { children: TeachingCollectionItem[]; } | undefined;
 };
 </script>

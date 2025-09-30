@@ -136,12 +136,12 @@ const bibleBooks = [
 
 // Tous les versets extraits de bibles.json
 const verses = bibles as {
-    bookCode: string
-    chapter: number
-    verse: number
+    bookCode: string;
+    chapter: number;
+    verse: number;
     texts: {
-        [key: string]: string
-    }
+        [key: string]: string;
+    };
 }[];
 
 export async function main(prismaClient: PrismaClient) {

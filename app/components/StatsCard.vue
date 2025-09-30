@@ -34,11 +34,11 @@
 
 <script setup lang="ts">
 interface Props {
-    title: string
-    value: string
-    icon: string
-    color?: 'blue' | 'green' | 'purple' | 'orange' | 'red'
-    subtitle?: string
+    title: string;
+    value: string;
+    icon: string;
+    color?: 'blue' | 'green' | 'purple' | 'orange' | 'red';
+    subtitle?: string;
 }
 
 const props = withDefaults(defineProps<Props>(), {

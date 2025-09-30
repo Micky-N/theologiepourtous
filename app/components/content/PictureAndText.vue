@@ -2,8 +2,8 @@
 import { UPageCard } from '#components';
 
 defineProps<{
-    reverse?: boolean
-    card?: boolean
+    reverse?: boolean;
+    card?: boolean;
 }>();
 </script>
 

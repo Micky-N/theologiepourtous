@@ -48,13 +48,13 @@
 import type { BibleBook, BibleNote, BibleVerse } from '@prisma/client';
 
 const emit = defineEmits<{
-    (e: 'close' | 'refreshNote'): void
+    (e: 'close' | 'refreshNote'): void;
 }>();
 
 const { note = null, verse, book } = defineProps<{
-    note?: BibleNote | null
-    verse: BibleVerse
-    book: BibleBook
+    note?: BibleNote | null;
+    verse: BibleVerse;
+    book: BibleBook;
 }>();
 const open = defineModel<boolean>('open', { default: false });
 const isEdit = ref(false);
@@ -79,15 +79,15 @@ async function handleSubmit() {
     loading.value = true;
     try {
         let response: {
-            success: boolean
-            message: string
-            note: BibleNote
+            success: boolean;
+            message: string;
+            note: BibleNote;
         } | null = null;
         if (isEdit.value && note) {
             response = await $fetch<{
-                success: boolean
-                message: string
-                note: BibleNote
+                success: boolean;
+                message: string;
+                note: BibleNote;
             }>(`/api/bible/notes/${note.id}`, {
                 method: 'PUT',
                 body: {
@@ -98,9 +98,9 @@ async function handleSubmit() {
             });
         } else {
             response = await $fetch<{
-                success: boolean
-                message: string
-                note: BibleNote
+                success: boolean;
+                message: string;
+                note: BibleNote;
             }>('/api/bible/notes', {
                 method: 'POST',
                 body: {

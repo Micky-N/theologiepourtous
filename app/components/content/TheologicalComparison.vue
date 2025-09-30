@@ -61,10 +61,10 @@ import BiblicalReferencePopover from './BiblicalReferencePopover.vue';
 
 defineProps<{
     positions: {
-        name: string
-        arguments: string
-        verses: string[]
-    }[]
+        name: string;
+        arguments: string;
+        verses: string[];
+    }[];
 }>();
 </script>
 

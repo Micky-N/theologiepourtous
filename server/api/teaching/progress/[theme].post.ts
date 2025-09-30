@@ -2,7 +2,7 @@ import { prisma } from '~~/lib/prisma';
 import { createError } from 'h3';
 import type { UserProgress } from '@prisma/client';
 
-export default defineEventHandler<Promise<{ success: boolean, data: UserProgress }>>(async (event) => {
+export default defineEventHandler<Promise<{ success: boolean; data: UserProgress; }>>(async (event) => {
     // Get authenticated user
     const { user } = await getUserSession(event);
     if (!user) {
@@ -20,7 +20,7 @@ export default defineEventHandler<Promise<{ success: boolean, data: UserProgress
         });
     }
 
-    const body = await readBody<{ lesson: string } | null>(event);
+    const body = await readBody<{ lesson: string; } | null>(event);
 
     // Find existing progress
     let progress = await prisma.userProgress.findFirst({

@@ -84,9 +84,9 @@ async function onSubmit(payload: FormSubmitEvent<Schema>) {
 
     try {
         const response = await $fetch<{
-            success: boolean
-            message: string
-            user: User
+            success: boolean;
+            message: string;
+            user: User;
         }>('/api/auth/register', {
             method: 'POST',
             body: payload.data

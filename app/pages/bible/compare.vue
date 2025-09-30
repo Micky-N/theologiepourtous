@@ -3,18 +3,18 @@ import type { BibleBook, BibleVerse, BibleVersion } from '@prisma/client';
 
 // Types locaux simplifiés
 interface SimpleComparison {
-    version: BibleVersion
-    verses: BibleVerse[]
+    version: BibleVersion;
+    verses: BibleVerse[];
 }
 
 interface ActiveComparison {
-    book: BibleBook
-    chapter: number
+    book: BibleBook;
+    chapter: number;
     verseRange: {
-        start: number
-        end: number
-    }
-    comparisons: SimpleComparison[]
+        start: number;
+        end: number;
+    };
+    comparisons: SimpleComparison[];
 }
 
 definePageMeta({

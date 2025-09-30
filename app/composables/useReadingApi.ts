@@ -20,7 +20,7 @@ export const useReadingStats = () => {
         error.value = null;
 
         try {
-            const { data } = await $fetch<{ success: boolean, data: ReadingStatsResponse }>(
+            const { data } = await $fetch<{ success: boolean; data: ReadingStatsResponse; }>(
                 `/api/reading/stats?period=${period}`
             );
             stats.value = data;

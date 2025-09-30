@@ -50,10 +50,10 @@
 <script setup lang="ts">
 const { lessons } = defineProps<{
     lessons: {
-        title: string
-        description: string
-        completed: boolean
-    }[]
+        title: string;
+        description: string;
+        completed: boolean;
+    }[];
 }>();
 
 const percent = computed(() => lessons.filter(lesson => lesson.completed).length);

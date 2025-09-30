@@ -10,11 +10,11 @@
 
 <script setup lang="ts">
 const { term } = defineProps<{
-    term: string
+    term: string;
 }>();
 
 defineEmits<{
-    (e: 'open-glossary', term: string): void
+    (e: 'open-glossary', term: string): void;
 }>();
 
 const openGlossary = (term: string) => {

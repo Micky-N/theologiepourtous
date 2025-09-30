@@ -4,31 +4,31 @@ import type { $Enums, BibleBook, BibleBookmark, BibleNote, BibleVerse, BibleVers
 
 interface ApiVerseResponseData {
     book: {
-        name: string
-        code: string
-        testament: $Enums.Testament
-    }
-    chapter: number
+        name: string;
+        code: string;
+        testament: $Enums.Testament;
+    };
+    chapter: number;
     version: {
-        name: string
-        code: string
-    }
-    verses: BibleVerse[]
+        name: string;
+        code: string;
+    };
+    verses: BibleVerse[];
     navigation: {
-        previousChapter: number | null
-        nextChapter: number | null
-        totalChapters: number
-    }
+        previousChapter: number | null;
+        nextChapter: number | null;
+        totalChapters: number;
+    };
 }
 
 interface ChapterRead {
-    bookCode: string
-    chaptersId: number[]
+    bookCode: string;
+    chaptersId: number[];
 }
 
 interface ReadingSession {
-    id: number
-    chaptersRead: ChapterRead[]
+    id: number;
+    chaptersRead: ChapterRead[];
 }
 
 definePageMeta({
@@ -36,11 +36,11 @@ definePageMeta({
 });
 const route = useRoute();
 const { user, loggedIn } = useUserSession();
-const { data: booksData } = await useAsyncData('bible-books', () => $fetch<{ data: { all: BibleBook[], grouped: { old: BibleBook[], new: BibleBook[] } } }>('/api/bible/books'), { transform: data => data?.data || [] });
-const { data: availableVersions } = await useAsyncData('bible-versions', () => $fetch<{ data: BibleVersion[] }>('/api/bible/versions'), { transform: data => data?.data || [] });
+const { data: booksData } = await useAsyncData('bible-books', () => $fetch<{ data: { all: BibleBook[]; grouped: { old: BibleBook[]; new: BibleBook[]; }; }; }>('/api/bible/books'), { transform: data => data?.data || [] });
+const { data: availableVersions } = await useAsyncData('bible-versions', () => $fetch<{ data: BibleVersion[]; }>('/api/bible/versions'), { transform: data => data?.data || [] });
 const { data: selectedChapterVerses } = await useAsyncData(
     'bible-verses',
-    () => $fetch<{ data: ApiVerseResponseData }>(`/api/bible/verses/${route.query.book || 'GEN'}/${route.query.chapter || '1'}`, {
+    () => $fetch<{ data: ApiVerseResponseData; }>(`/api/bible/verses/${route.query.book || 'GEN'}/${route.query.chapter || '1'}`, {
         query: {
             version: route.query.version || user.value?.preferences?.defaultVersion?.code || 'LSG'
         }
@@ -73,9 +73,9 @@ const selectedVersionCode = computed<string>({
 const books = computed<BibleBook[]>(() => booksData.value?.all || []);
 const currentSession = ref<ReadingSession | null>(null);
 const chaptersRead = ref<ChapterRead[]>([]);
-const notes = ref<(BibleNote & { verse: { chapter: number, verse: number, text: string, version: { code: string, name: string } } })[]>([]);
+const notes = ref<(BibleNote & { verse: { chapter: number; verse: number; text: string; version: { code: string; name: string; }; }; })[]>([]);
 const bookmarks = ref<(BibleBookmark & {
-    verse: { chapter: number, verse: number, text: string, version: { code: string, name: string } }
+    verse: { chapter: number; verse: number; text: string; version: { code: string; name: string; }; };
 })[]>([]);
 
 const booksNavigation = computed<NavigationMenuItem[]>(() => {
@@ -182,7 +182,7 @@ const startReadingSession = async () => {
         const selectedVersionId = availableVersions.value.find(v => v.code === selectedVersionCode.value)?.id;
         if (!selectedVersionId) return;
 
-        const response = await $fetch<{ success: boolean, sessionId: number }>('/api/reading/sessions', {
+        const response = await $fetch<{ success: boolean; sessionId: number; }>('/api/reading/sessions', {
             method: 'POST',
             body: {
                 action: 'start',
@@ -245,7 +245,7 @@ const loadNotes = async () => {
     if (!selectedVersionCode.value || !selectedBookCode.value || !selectedChapter.value) return;
 
     try {
-        const response = await $fetch<{ data: { notes: (BibleNote & { verse: { chapter: number, verse: number, text: string, version: { code: string, name: string } } })[] } }>('/api/bible/notes', {
+        const response = await $fetch<{ data: { notes: (BibleNote & { verse: { chapter: number; verse: number; text: string; version: { code: string; name: string; }; }; })[]; }; }>('/api/bible/notes', {
             method: 'GET',
             query: {
                 book: selectedBookCode.value,
@@ -267,9 +267,9 @@ const loadBookmarks = async () => {
         const response = await $fetch<{
             data: {
                 bookmarks: (BibleBookmark & {
-                    verse: { chapter: number, verse: number, text: string, version: { code: string, name: string } }
-                })[]
-            }
+                    verse: { chapter: number; verse: number; text: string; version: { code: string; name: string; }; };
+                })[];
+            };
         }>('/api/bible/bookmarks', {
             method: 'GET',
             query: {

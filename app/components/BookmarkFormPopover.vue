@@ -69,12 +69,12 @@
 
 <script lang="ts" setup>
 const props = defineProps<{
-    verseId: number
+    verseId: number;
 }>();
 
 const emit = defineEmits<{
-    (e: 'closeForm'): void
-    (e: 'created', bookmark: any): void
+    (e: 'closeForm'): void;
+    (e: 'created', bookmark: any): void;
 }>();
 
 const open = defineModel<boolean>({ default: false });

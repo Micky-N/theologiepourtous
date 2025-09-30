@@ -19,7 +19,7 @@
 <script setup lang="ts">
 import type { ReadingStats } from '~/types';
 
-const props = defineProps<{ data: ReadingStats[] }>();
+const props = defineProps<{ data: ReadingStats[]; }>();
 
 const categories = computed(() => props.data.map(d => formatDate(d.date)));
 const chapters = computed(() => props.data.map(d => d.chaptersRead || 0));

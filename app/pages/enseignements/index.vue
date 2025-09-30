@@ -2,7 +2,7 @@
 import type { LessonsCollectionItem, ThemesCollectionItem } from '@nuxt/content';
 import type { UserProgress } from '@prisma/client';
 
-const { themes } = defineProps<{ themes: ThemesCollectionItem[] }>();
+const { themes } = defineProps<{ themes: ThemesCollectionItem[]; }>();
 
 const route = useRoute();
 const { loggedIn } = useUserSession();
@@ -21,7 +21,7 @@ const { data: lessons } = useAsyncData(
 
 const { data: progress } = useAsyncData(
     route.path + '-progress',
-    () => $fetch<{ success: boolean, data: UserProgress[] | null }>('/api/teaching/progress', {
+    () => $fetch<{ success: boolean; data: UserProgress[] | null; }>('/api/teaching/progress', {
         method: 'GET'
     }),
     {
@@ -31,10 +31,10 @@ const { data: progress } = useAsyncData(
 );
 
 const doctrinesProgress = computed<{
-    title: string
-    slug: string
-    completedLessons: number
-    totalLessons: number
+    title: string;
+    slug: string;
+    completedLessons: number;
+    totalLessons: number;
 }[]>(() => {
     if (!progress.value?.data) return [];
     return progress.value.data.map(p => ({

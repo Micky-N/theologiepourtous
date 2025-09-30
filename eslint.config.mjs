@@ -8,6 +8,10 @@ export default withNuxt({
         }],
         'no-console': 'off',
         '@stylistic/semi': ['error', 'always'],
+        '@stylistic/member-delimiter-style': ['error', {
+            multiline: { delimiter: 'semi', requireLast: true },
+            singleline: { delimiter: 'semi', requireLast: true }
+        }],
         'prefer-const': 'error',
         '@typescript-eslint/no-explicit-any': 'off',
         '@typescript-eslint/no-unused-vars': ['error', { argsIgnorePattern: '^_' }],

@@ -13,9 +13,9 @@
                     class="size-3 text-warning-500 dark:text-warning-400"
                 />
             </button>
-            <span class="inline-block align-top text-xs text-primary-600 dark:text-primary-400">
+            <sup class="text-xs text-primary-600 dark:text-primary-400">
                 {{ verse.verse }}
-            </span>
+            </sup>
             <UPopover
                 v-model:open="openedBookmarkForm"
                 :content="{
@@ -127,15 +127,15 @@ import type { ContextMenuItem } from '@nuxt/ui';
 import type { BibleBook, BibleBookmark, BibleNote, BibleVerse } from '@prisma/client';
 
 const props = defineProps<{
-    book: BibleBook
-    verse: BibleVerse
-    notes: BibleNote[]
-    bookmark: BibleBookmark | null
+    book: BibleBook;
+    verse: BibleVerse;
+    notes: BibleNote[];
+    bookmark: BibleBookmark | null;
 }>();
 
 const emit = defineEmits<{
-    (e: 'showCompare' | 'addNote', verseId: number): void
-    (e: 'refreshBookmark' | 'refreshNote'): void
+    (e: 'showCompare' | 'addNote', verseId: number): void;
+    (e: 'refreshBookmark' | 'refreshNote'): void;
 }>();
 
 const route = useRoute();
@@ -189,7 +189,7 @@ const deleteBookmark = async () => {
         });
         emit('refreshBookmark');
     } catch (e) {
-        console.log(e);
+        console.error(e);
     }
 };
 

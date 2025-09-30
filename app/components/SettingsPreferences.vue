@@ -22,7 +22,7 @@ const state = reactive<Pick<UserPreference, 'defaultVersionId' | 'notesPerVersio
 });
 
 const versionsItems = computed(() => {
-    const items: { id: number | null, name: string }[] = versions.value.map(v => ({
+    const items: { id: number | null; name: string; }[] = versions.value.map(v => ({
         id: v.id,
         name: `${v.name} (${v.code})`
     }));

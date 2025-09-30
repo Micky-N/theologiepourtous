@@ -1,10 +1,10 @@
 import type { BibleBook } from '@prisma/client';
 
 export type VerseObject = {
-    book: string | null
-    chapter: number | null
-    verse: string | null
-    version: string | null
+    book: string | null;
+    chapter: number | null;
+    verse: string | null;
+    version: string | null;
 };
 
 const booksData: BibleBook[] = [];

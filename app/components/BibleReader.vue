@@ -75,38 +75,38 @@ import { computed } from 'vue';
 
 interface ApiVerseResponseData {
     book: {
-        name: string
-        code: string
-        testament: $Enums.Testament
-    }
-    chapter: number
+        name: string;
+        code: string;
+        testament: $Enums.Testament;
+    };
+    chapter: number;
     version: {
-        name: string
-        code: string
-    }
-    verses: BibleVerse[]
+        name: string;
+        code: string;
+    };
+    verses: BibleVerse[];
     navigation: {
-        previousChapter: number | null
-        nextChapter: number | null
-        totalChapters: number
-    }
+        previousChapter: number | null;
+        nextChapter: number | null;
+        totalChapters: number;
+    };
 }
 
 interface ActivedVerse {
-    book: { code: string, name: string }
-    chapter: number
-    verseStart: number
-    version: number
+    book: { code: string; name: string; };
+    chapter: number;
+    verseStart: number;
+    version: number;
 }
 
 const props = defineProps<{
-    book: BibleBook
-    chapter: number
-    versesData: ApiVerseResponseData
-    notes: (BibleNote & { verse: { chapter: number, verse: number, text: string, version: { code: string, name: string } } })[]
-    bookmarks: (BibleBookmark & { verse: { chapter: number, verse: number, text: string, version: { code: string, name: string } } })[]
-    versions: BibleVersion[]
-    selectedVersion: BibleVersion
+    book: BibleBook;
+    chapter: number;
+    versesData: ApiVerseResponseData;
+    notes: (BibleNote & { verse: { chapter: number; verse: number; text: string; version: { code: string; name: string; }; }; })[];
+    bookmarks: (BibleBookmark & { verse: { chapter: number; verse: number; text: string; version: { code: string; name: string; }; }; })[];
+    versions: BibleVersion[];
+    selectedVersion: BibleVersion;
 }>();
 
 const showCompare = (verseId: number) => {
@@ -135,8 +135,8 @@ const openedCompare = ref(false);
 const openedAddNote = ref(false);
 
 const emit = defineEmits<{
-    (e: 'update:chapter', value: number): void
-    (e: 'refreshBookmark' | 'refreshNotes'): void
+    (e: 'update:chapter', value: number): void;
+    (e: 'refreshBookmark' | 'refreshNotes'): void;
 }>();
 
 const chapters = computed(() => {

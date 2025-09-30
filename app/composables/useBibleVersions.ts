@@ -12,7 +12,7 @@ export const useBibleVersions = () => {
         error.value = null;
 
         try {
-            const result = await $fetch<{ data: BibleVersion[] }>('/api/bible/versions');
+            const result = await $fetch<{ data: BibleVersion[]; }>('/api/bible/versions');
             versions.value = result.data;
             return result.data;
         } catch (err) {

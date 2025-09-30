@@ -231,28 +231,28 @@
 import type { BibleBook, BibleVerse, BibleVersion } from '@prisma/client';
 
 interface Comparison {
-    version: BibleVersion
-    verses: BibleVerse[]
+    version: BibleVersion;
+    verses: BibleVerse[];
 }
 
 interface Props {
-    book: BibleBook
-    chapter: number
+    book: BibleBook;
+    chapter: number;
     verseRange: {
-        start: number
-        end: number
-    }
-    comparisons: Comparison[]
-    availableVersions?: BibleVersion[]
-    loading?: boolean
+        start: number;
+        end: number;
+    };
+    comparisons: Comparison[];
+    availableVersions?: BibleVersion[];
+    loading?: boolean;
 }
 
 const emit = defineEmits<{
-    close: []
-    addVersion: [version: BibleVersion]
-    removeVersion: [versionId: number]
-    addBookmark: [verse: BibleVerse]
-    addNote: [verse: BibleVerse]
+    close: [];
+    addVersion: [version: BibleVersion];
+    removeVersion: [versionId: number];
+    addBookmark: [verse: BibleVerse];
+    addNote: [verse: BibleVerse];
 }>();
 
 const props = withDefaults(defineProps<Props>(), {

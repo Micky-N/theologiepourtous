@@ -28,13 +28,13 @@
 
 <script setup lang="ts">
 interface Doctrine {
-    slug: string
-    title: string
-    completedLessons: number
-    totalLessons: number
+    slug: string;
+    title: string;
+    completedLessons: number;
+    totalLessons: number;
 }
 const { doctrines } = defineProps<{
-    doctrines: Doctrine[]
+    doctrines: Doctrine[];
 }>();
 
 const doctrinesWithProgress = computed(() => doctrines.map(doctrine => ({

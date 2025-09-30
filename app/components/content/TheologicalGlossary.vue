@@ -40,16 +40,16 @@
 
 <script setup lang="ts">
 const { id, term, definition, etymology, relatedTerms = [] } = defineProps<{
-    id: string
-    term: string
-    definition: string
-    etymology?: string
-    relatedTerms?: string[]
+    id: string;
+    term: string;
+    definition: string;
+    etymology?: string;
+    relatedTerms?: string[];
 }>();
 
 const isOpen = ref(false);
 const emit = defineEmits<{
-    (e: 'close'): void
+    (e: 'close'): void;
 }>();
 
 onMounted(() => {

@@ -1,6 +1,6 @@
 <script setup lang="ts">
 const props = withDefaults(defineProps<{
-    orientation?: 'horizontal' | 'vertical'
+    orientation?: 'horizontal' | 'vertical';
 }>(), {
     orientation: 'horizontal'
 });

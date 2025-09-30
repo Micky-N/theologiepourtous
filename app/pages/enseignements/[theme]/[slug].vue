@@ -10,7 +10,7 @@ if (!lesson.value) {
 }
 const { data: progress, refresh, status } = useAsyncData(
     route.path + '-progress',
-    () => $fetch<{ success: boolean, data: UserProgress | null }>(`/api/teaching/progress/${lesson.value?.theme}`, {
+    () => $fetch<{ success: boolean; data: UserProgress | null; }>(`/api/teaching/progress/${lesson.value?.theme}`, {
         method: 'GET'
     }),
     {
@@ -19,7 +19,7 @@ const { data: progress, refresh, status } = useAsyncData(
     }
 );
 
-const { data: booksData } = await useAsyncData('bible-books', () => $fetch<{ success: boolean, data: { all: BibleBook[], grouped: { old: BibleBook[], new: BibleBook[] } }, count: number }>('/api/bible/books', {
+const { data: booksData } = await useAsyncData('bible-books', () => $fetch<{ success: boolean; data: { all: BibleBook[]; grouped: { old: BibleBook[]; new: BibleBook[]; }; }; count: number; }>('/api/bible/books', {
     method: 'GET'
 }));
 
@@ -39,7 +39,7 @@ const learntLesson = (lesson: string) => {
 
 const setProgress = async (slug: string) => {
     try {
-        await $fetch<{ success: boolean, data: UserProgress | null }>(`/api/teaching/progress/${lesson.value?.theme}`, {
+        await $fetch<{ success: boolean; data: UserProgress | null; }>(`/api/teaching/progress/${lesson.value?.theme}`, {
             method: 'POST',
             body: { lesson: slug }
         });
@@ -79,10 +79,10 @@ useHead({
 });
 
 const progressButtonProps = computed<{
-    icon: string
-    color: 'success' | 'secondary' | 'warning'
-    label: string
-    variant: 'subtle'
+    icon: string;
+    color: 'success' | 'secondary' | 'warning';
+    label: string;
+    variant: 'subtle';
 }>(() => {
     if (lesson.value && learntLesson(lesson.value.slug)) {
         return {

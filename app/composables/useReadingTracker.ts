@@ -1,15 +1,15 @@
 import { ref, readonly, onMounted, onUnmounted, computed } from 'vue';
 
 interface ReadingSession {
-    id: number
-    startTime: Date
-    isActive: boolean
+    id: number;
+    startTime: Date;
+    isActive: boolean;
 }
 
 interface ReadingTrackingOptions {
-    autoStart?: boolean
-    trackInterval?: number // millisecondes
-    minReadingTime?: number // secondes minimum avant de compter
+    autoStart?: boolean;
+    trackInterval?: number; // millisecondes
+    minReadingTime?: number; // secondes minimum avant de compter
 }
 
 export const useReadingTracker = (options: ReadingTrackingOptions = {}) => {
@@ -36,7 +36,7 @@ export const useReadingTracker = (options: ReadingTrackingOptions = {}) => {
         if (isTracking.value) return;
 
         try {
-            const response = await $fetch<{ success: boolean, sessionId: number }>('/api/reading/sessions', {
+            const response = await $fetch<{ success: boolean; sessionId: number; }>('/api/reading/sessions', {
                 method: 'POST',
                 body: {
                     action: 'start',

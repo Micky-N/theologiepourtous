@@ -2,15 +2,15 @@ import prisma from '~~/lib/prisma';
 import type { ProgressWithBook, ReadingStats, ReadingStatsResponse } from '~/types';
 
 type ChapterRead = {
-    bookCode: string
-    chaptersId: number[]
+    bookCode: string;
+    chaptersId: number[];
 };
 
 type SessionChapterLine = {
-    dayKey: string
-    versionId: number
-    bookCode: string
-    chapter: number
+    dayKey: string;
+    versionId: number;
+    bookCode: string;
+    chapter: number;
 };
 
 export default defineEventHandler(async (event): Promise<ReadingStatsResponse> => {

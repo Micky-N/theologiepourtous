@@ -126,15 +126,15 @@
 import type { BibleNote } from '@prisma/client';
 
 const { notes, book, verse, footer = true } = defineProps<{
-    notes: BibleNote[]
-    verse: { chapter: number, verse: number }
-    book: { name: string }
-    footer?: boolean
+    notes: BibleNote[];
+    verse: { chapter: number; verse: number; };
+    book: { name: string; };
+    footer?: boolean;
 }>();
 
 const emit = defineEmits<{
-    (e: 'edit:note', value: BibleNote): void
-    (e: 'refreshNote'): void
+    (e: 'edit:note', value: BibleNote): void;
+    (e: 'refreshNote'): void;
 }>();
 
 const toast = useToast();

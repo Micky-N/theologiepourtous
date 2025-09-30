@@ -12,7 +12,7 @@ const items = computed(() => {
     }
     return firstNav.map(item => ({
         ...item,
-        image: (item.image as { src: string } | undefined)?.src,
+        image: (item.image as { src: string; } | undefined)?.src,
         description: item.description as string,
         label: item.title,
         to: item.path,

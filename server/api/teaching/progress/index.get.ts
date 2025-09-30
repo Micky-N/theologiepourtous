@@ -2,7 +2,7 @@ import { prisma } from '~~/lib/prisma';
 import { createError } from 'h3';
 import type { UserProgress } from '@prisma/client';
 
-export default defineEventHandler<Promise<{ success: boolean, data: UserProgress[] }>>(async (event) => {
+export default defineEventHandler<Promise<{ success: boolean; data: UserProgress[]; }>>(async (event) => {
     // Get authenticated user
     const { user } = await getUserSession(event);
     if (!user) {

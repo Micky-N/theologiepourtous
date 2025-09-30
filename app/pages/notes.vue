@@ -222,23 +222,23 @@ useHead({
 
 // Types
 interface Note extends BibleNote {
-    book: BibleBook
-    verse: BibleVerse & { version: BibleVersion }
+    book: BibleBook;
+    verse: BibleVerse & { version: BibleVersion; };
 }
 
 interface Verse extends BibleVerse {
-    id: number
-    chapter: number
-    verse: number
-    text: string
+    id: number;
+    chapter: number;
+    verse: number;
+    text: string;
     book: {
-        name: string
-        code: string
-    }
+        name: string;
+        code: string;
+    };
     version: {
-        code: string
-        name: string
-    }
+        code: string;
+        name: string;
+    };
 }
 
 // État réactif
@@ -264,13 +264,13 @@ const deleteModalLoading = ref(false);
 const noteToDelete = ref<Note | null>(null);
 
 // Options
-const bookOptions = ref<{ label: string, value: string | null }[]>([]);
+const bookOptions = ref<{ label: string; value: string | null; }[]>([]);
 const privacyOptions = [
     { label: 'Toutes les notes', value: null },
     { label: 'Notes privées', value: 'true' },
     { label: 'Notes publiques', value: 'false' }
 ];
-const verseOptions = ref<{ label: string, value: number }[]>([]);
+const verseOptions = ref<{ label: string; value: number; }[]>([]);
 const selectedVerse = ref<number | undefined>(undefined);
 
 const noteForm = ref({
@@ -332,16 +332,16 @@ const fetchNotes = async () => {
         }
 
         const response = await $fetch<{
-            success: boolean
+            success: boolean;
             data: {
-                notes: Note[]
+                notes: Note[];
                 pagination: {
-                    total: number
-                    limit: number
-                    offset: number
-                    hasMore: boolean
-                }
-            }
+                    total: number;
+                    limit: number;
+                    offset: number;
+                    hasMore: boolean;
+                };
+            };
         }>(`/api/bible/notes?${params.toString()}`);
 
         notes.value = response.data.notes;

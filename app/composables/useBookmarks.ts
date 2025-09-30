@@ -1,8 +1,8 @@
 import type { BibleBook, BibleBookmark, BibleVerse, BibleVersion } from '@prisma/client';
 
 interface BookmarkData extends BibleBookmark {
-    book: BibleBook
-    verse: BibleVerse & { version: BibleVersion }
+    book: BibleBook;
+    verse: BibleVerse & { version: BibleVersion; };
 }
 
 export const useBookmarks = () => {
@@ -11,10 +11,10 @@ export const useBookmarks = () => {
 
     // Récupérer les signets
     const fetchBookmarks = async (options?: {
-        book?: string
-        chapter?: number
-        limit?: number
-        offset?: number
+        book?: string;
+        chapter?: number;
+        limit?: number;
+        offset?: number;
     }) => {
         const query: Record<string, string> = {};
         if (options?.book) query.book = options.book;
@@ -22,7 +22,7 @@ export const useBookmarks = () => {
         if (options?.limit) query.limit = options.limit.toString();
         if (options?.offset) query.offset = options.offset.toString();
 
-        const { data } = await $fetch<{ data: { bookmarks: BookmarkData[], pagination: { total: number } } }>('/api/bible/bookmarks', {
+        const { data } = await $fetch<{ data: { bookmarks: BookmarkData[]; pagination: { total: number; }; }; }>('/api/bible/bookmarks', {
             query
         });
 

@@ -8,7 +8,7 @@ const { data: lessons } = useAsyncData(route.path + '/lessons', () => queryColle
 
 const { data: progress, refresh } = useAsyncData(
     route.path + '-progress',
-    () => $fetch<{ success: boolean, data: UserProgress | null }>(`/api/teaching/progress/${theme.value?.slug}`, {
+    () => $fetch<{ success: boolean; data: UserProgress | null; }>(`/api/teaching/progress/${theme.value?.slug}`, {
         method: 'GET'
     }),
     {
@@ -19,7 +19,7 @@ const { data: progress, refresh } = useAsyncData(
 
 const setProgress = async () => {
     try {
-        await $fetch<{ success: boolean, data: UserProgress | null }>(`/api/teaching/progress/${theme.value?.slug}`, {
+        await $fetch<{ success: boolean; data: UserProgress | null; }>(`/api/teaching/progress/${theme.value?.slug}`, {
             method: 'POST'
         });
         await refresh();

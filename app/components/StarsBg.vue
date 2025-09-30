@@ -1,15 +1,15 @@
 <script setup lang="ts">
 interface Star {
-    x: number
-    y: number
-    size: number
+    x: number;
+    y: number;
+    size: number;
 }
 
 const props = withDefaults(defineProps<{
-    starCount?: number
-    color?: string
-    speed?: 'slow' | 'normal' | 'fast'
-    size?: { min: number, max: number }
+    starCount?: number;
+    color?: string;
+    speed?: 'slow' | 'normal' | 'fast';
+    size?: { min: number; max: number; };
 }>(), {
     starCount: 300,
     color: 'var(--ui-primary)',
@@ -39,7 +39,7 @@ const speedMap = {
 };
 
 // Use a more efficient approach to generate and store stars
-const stars = useState<{ slow: Star[], normal: Star[], fast: Star[] }>('stars', () => {
+const stars = useState<{ slow: Star[]; normal: Star[]; fast: Star[]; }>('stars', () => {
     return {
         slow: generateStars(Math.floor(props.starCount * speedMap.slow.ratio)),
         normal: generateStars(Math.floor(props.starCount * speedMap.normal.ratio)),

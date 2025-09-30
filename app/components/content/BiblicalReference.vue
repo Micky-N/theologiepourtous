@@ -25,8 +25,8 @@
 
 <script setup lang="ts">
 defineProps<{
-    reference: string
-    text: string
-    commentary?: string
+    reference: string;
+    text: string;
+    commentary?: string;
 }>();
 </script>

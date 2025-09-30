@@ -1,7 +1,7 @@
 import type { BibleVersion, UserPreference } from '@prisma/client';
 
 export const useUserPreferences = () => {
-    const preferences = ref<Pick<UserPreference, 'defaultVersionId' | 'notesPerVersion' | 'bookmarksPerVersion'> & { defaultVersion: BibleVersion | null }>({
+    const preferences = ref<Pick<UserPreference, 'defaultVersionId' | 'notesPerVersion' | 'bookmarksPerVersion'> & { defaultVersion: BibleVersion | null; }>({
         defaultVersionId: null,
         notesPerVersion: false,
         bookmarksPerVersion: false,
@@ -11,8 +11,7 @@ export const useUserPreferences = () => {
     const updatePreferences = async (
         payload: Pick<UserPreference, 'defaultVersionId' | 'notesPerVersion' | 'bookmarksPerVersion'>
     ) => {
-        console.log('Updating preferences with payload:', payload);
-        const { data } = await $fetch<{ data: UserPreference }>('/api/preferences', { method: 'PUT', body: payload });
+        const { data } = await $fetch<{ data: UserPreference; }>('/api/preferences', { method: 'PUT', body: payload });
         preferences.value.defaultVersionId = data.defaultVersionId;
         preferences.value.notesPerVersion = data.notesPerVersion;
         preferences.value.bookmarksPerVersion = data.bookmarksPerVersion;

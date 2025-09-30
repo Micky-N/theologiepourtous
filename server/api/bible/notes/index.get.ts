@@ -21,7 +21,7 @@ export default defineEventHandler(async (event) => {
 
         const userId = userSession.id;
 
-        const query = getQuery<{ book?: string, chapter?: string, private?: string, limit?: string, offset?: string, version?: string }>(event);
+        const query = getQuery<{ book?: string; chapter?: string; private?: string; limit?: string; offset?: string; version?: string; }>(event);
         const bookCode = query.book as string | undefined;
         const isPrivate = query.private === 'true' ? true : query.private === 'false' ? false : undefined;
         const limit = Math.min(parseInt(query.limit as string) || 50, 100);

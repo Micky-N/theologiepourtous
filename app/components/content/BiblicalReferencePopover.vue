@@ -37,10 +37,17 @@
                     class="space-y-1"
                 >
                     <div class="text-xs text-gray-500">
-                        {{ data.reference }}<span v-if="data.version"> — {{ data.version }}</span>
+                        {{ data.reference }}
                     </div>
                     <div class="italic text-gray-800 leading-relaxed">
-                        {{ data.text }}
+                        <template
+                            v-for="(v, index) in data.verses"
+                            :key="v.id"
+                        >
+                            <sup class="text-xs text-primary-600 dark:text-primary-400">{{ v.verse }}</sup>
+                            <span v-html="v.text" /><span v-if="index < data.verses.length - 1" />
+                            <span v-if="!isNextVerse(v.verse, data.verses[index + 1]?.verse)"> [...] </span>
+                        </template>
                     </div>
                 </div>
             </div>
@@ -49,17 +56,19 @@
 </template>
 
 <script setup lang="ts">
+import type { BibleBook, BibleVerse, BibleVersion } from '@prisma/client';
 import { ref, watch } from 'vue';
 
+type Verse = BibleVerse & { book: BibleBook; version: BibleVersion; };
+
 type VerseData = {
-    reference: string
-    text: string
-    version: string
+    reference: string;
+    verses: Verse[];
 };
 
 const { user } = useUserSession();
 const { verse } = defineProps<{
-    verse: string
+    verse: string;
 }>();
 
 const open = ref(false);
@@ -72,8 +81,7 @@ const cache = useState('cache', () => new Map<string, VerseData>());
 
 async function fetchVerseFromApiSim(verseRef: string): Promise<VerseData> {
     const verseObj = verseParser(verseRef);
-    console.log('Fetching verse:', verseObj);
-    verseObj.version = verseObj.version || user.value?.preferences.defaultVersion?.code || 'LGS';
+    verseObj.version = verseObj.version || user.value?.preferences.defaultVersion?.code || 'LSG';
     const response = await $fetch(`/api/bible/verses/${verseObj.book}/${verseObj.chapter}/${verseObj.verse}`, {
         method: 'GET',
         query: { version: verseObj.version }
@@ -82,12 +90,11 @@ async function fetchVerseFromApiSim(verseRef: string): Promise<VerseData> {
     if (!response.success) {
         throw new Error('Erreur lors du chargement du verset.');
     }
-    const verse = response.data;
+    const meta = response.meta;
 
     return {
-        reference: `${verse.book.name} ${verse.chapter}:${verse.verse}`,
-        text: verse.text,
-        version: verse.version.code
+        reference: meta.summary,
+        verses: response.data as unknown as Verse[]
     };
 }
 
@@ -109,6 +116,10 @@ async function ensureVerseLoaded() {
         loading.value = false;
     }
 }
+
+const isNextVerse = (v1: number, v2: number | undefined) => {
+    return v2 == undefined || v1 + 1 === v2;
+};
 
 // Charge lorsque le popover s’ouvre
 watch(open, (val) => {

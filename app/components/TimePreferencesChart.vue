@@ -17,7 +17,7 @@
 </template>
 
 <script setup lang="ts">
-const props = defineProps<{ data: Record<string, number> }>();
+const props = defineProps<{ data: Record<string, number>; }>();
 
 const labels = computed(() => Array.from({ length: 24 }, (_, i) => String(i)));
 const counts = computed(() => labels.value.map(h => props.data?.[h] || 0));

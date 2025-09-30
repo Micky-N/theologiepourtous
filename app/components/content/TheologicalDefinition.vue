@@ -29,7 +29,7 @@
 
 <script setup lang="ts">
 defineProps<{
-    definition: string
-    etymology?: string
+    definition: string;
+    etymology?: string;
 }>();
 </script>
