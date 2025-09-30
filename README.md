@@ -149,8 +149,3 @@ Ce projet est sous licence **MIT**. Voir le fichier `LICENSE` pour plus de déta
 **Mickaël N.**
 - GitHub: [@Micky-N](https://github.com/Micky-N)
 - Email: contact@theologiepourtous.com
-
----
-
-## TODO
-- api/bible/verset/book/chapter/verse: Récupérer un ou plusieurs versets
