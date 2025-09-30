@@ -35,13 +35,16 @@ definePageMeta({
     layout: 'bible'
 });
 const route = useRoute();
+const { loggedIn } = useUserSession();
+const { fetchPreferences, preferences } = useUserPreferences();
+await fetchPreferences();
 const { data: booksData } = await useAsyncData('bible-books', () => $fetch<{ data: { all: BibleBook[], grouped: { old: BibleBook[], new: BibleBook[] } } }>('/api/bible/books'), { transform: data => data?.data || [] });
 const { data: availableVersions } = await useAsyncData('bible-versions', () => $fetch<{ data: BibleVersion[] }>('/api/bible/versions'), { transform: data => data?.data || [] });
 const { data: selectedChapterVerses } = await useAsyncData(
     'bible-verses',
     () => $fetch<{ data: ApiVerseResponseData }>(`/api/bible/verses/${route.query.book || 'GEN'}/${route.query.chapter || '1'}`, {
         query: {
-            version: route.query.version || 'LSG'
+            version: route.query.version || preferences.value?.defaultVersion?.code || 'LSG'
         }
     }),
     {
@@ -49,7 +52,7 @@ const { data: selectedChapterVerses } = await useAsyncData(
         transform: data => data?.data || []
     }
 );
-const { loggedIn } = useUserSession();
+
 const router = useRouter();
 const selectedBookCode = computed<string>({
     get: () => route.query.book as string || 'GEN',
@@ -64,7 +67,7 @@ const selectedChapter = computed<number>({
     }
 });
 const selectedVersionCode = computed<string>({
-    get: () => route.query.version as string || 'LSG',
+    get: () => route.query.version as string || preferences.value?.defaultVersion?.code || 'LSG',
     set: (value: string | undefined) => {
         router.push({ query: { ...route.query, version: value } });
     }

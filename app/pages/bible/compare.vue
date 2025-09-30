@@ -30,6 +30,12 @@ useSeoMeta({
 
 const route = useRoute();
 const router = useRouter();
+const { fetchPreferences, preferences } = useUserPreferences();
+try {
+    await fetchPreferences();
+} catch (e) {
+    console.error('Erreur lors du chargement des préférences utilisateur', e);
+}
 
 // Variables temporaires pour remplacer les composables
 const availableVersions = ref<BibleVersion[]>([]);
@@ -78,7 +84,13 @@ const initCompare = () => {
 
     // Pré-sélectionner des versions populaires
     if (availableVersions.value.length > 0) {
-        const versions = (route.query.versions as string | undefined || 'LSG,S21').split(',');
+        const defaultVersionCodes = preferences.value?.defaultVersion
+            ? [
+                preferences.value.defaultVersion.code,
+                preferences.value?.defaultVersion.code === 'LSG' ? 'S21' : 'LSG'
+            ]
+            : ['LSG', 'S21'];
+        const versions = (route.query.versions as string | undefined)?.split(',') || defaultVersionCodes;
         const defaultVersions = availableVersions.value
             .filter((v: BibleVersion) => versions.includes(v.code))
             .map((v: BibleVersion) => v.id);

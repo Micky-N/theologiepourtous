@@ -17,13 +17,7 @@ export default defineEventHandler(async (event) => {
         const preferences = await prisma.userPreference.findUnique({
             where: { userId },
             include: {
-                defaultVersion: {
-                    select: {
-                        id: true,
-                        code: true,
-                        name: true
-                    }
-                }
+                defaultVersion: true
             }
         });
 
@@ -47,13 +41,7 @@ export default defineEventHandler(async (event) => {
                     defaultVersionId: defaultVersion.id
                 },
                 include: {
-                    defaultVersion: {
-                        select: {
-                            id: true,
-                            code: true,
-                            name: true
-                        }
-                    }
+                    defaultVersion: true
                 }
             });
 
