@@ -6,7 +6,7 @@ tags: ["omniscience", "attributs-divins", "connaissance-divine"]
 reading_time: 8
 theme: theologie-propre
 image:
-  src: https://picsum.photos/id/692/640/360
+  src: https://placehold.co/1200x630?text=Omniscience+de+Dieu
 date: 2024-01-15
 biblical_references:
   - "Psaumes 139:1-6"
@@ -52,7 +52,7 @@ relatedTerms:
 Loin d'annuler la responsabilité ou la liberté humaines, l'omniscience de Dieu assure que rien n'échappe à son regard quand il œuvre pour le bien de ceux qui l'aiment. Il n'apprend rien : il connaît immédiatement et exhaustivement toute chose.
 
 #image
-![Étude biblique](/images/theological-formation.jpg){.rounded-lg.aspect-video.w-full alt="Illustration d'une étude biblique"}
+![Étude biblique](https://placehold.co/1200x630?text=Étude+biblique){.rounded-lg.aspect-video.w-full alt="Illustration d'une étude biblique"}
 ::
 
 ::biblical-reference
@@ -70,11 +70,11 @@ commentary: "David exprime ici l'émerveillement devant la connaissance parfaite
 Dieu connaît parfaitement tout ce qui existe dans l'univers à chaque instant — des galaxies lointaines aux pensées les plus secrètes du cœur humain. Sa connaissance n'est ni déductive ni empirique : elle est immédiate et exhaustive.
 
 ::pictures
-![Bible ouverte](/images/biblical-teaching.jpg){.rounded-lg.aspect-video.w-full}
+![Bible ouverte](https://placehold.co/1200x630?text=Bible+ouverte){.rounded-lg.aspect-video.w-full}
 
-![Chemin de foi](/images/faith-journey.jpg){.rounded-lg.aspect-video.w-full}
+![Chemin de foi](https://placehold.co/1200x630?text=Chemin+de+foi){.rounded-lg.aspect-video.w-full}
 
-![Théologie](/images/themes/theologie-propre.jpg){.rounded-lg.aspect-video.w-full}
+![Théologie](https://placehold.co/1200x630?text=Théologie){.rounded-lg.aspect-video.w-full}
 ::
 
 ### 2. Connaissance du passé et de l'avenir
@@ -105,7 +105,7 @@ reverse: true
 Être parfaitement connus n'est pas une menace mais un réconfort : Dieu sait nos faiblesses mieux que nous et nous conduit avec patience par sa Parole et son Esprit.
 
 #image
-![Prière et méditation](/images/faith-journey.jpg){.rounded-lg.aspect-video.w-full alt="Prière et méditation"}
+![Prière et méditation](https://placehold.co/1200x630?text=Prière+et+méditation){.rounded-lg.aspect-video.w-full alt="Prière et méditation"}
 ::
 
 ## Comparaison de perspectives théologiques

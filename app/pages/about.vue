@@ -42,18 +42,11 @@ defineOgImageComponent('Saas');
                         <div class="relative flex-shrink-0">
                             <div class="w-40 h-40 lg:w-48 lg:h-48 rounded-full overflow-hidden border-4 border-primary-200 dark:border-primary-800 shadow-lg">
                                 <NuxtImg
-                                    src="/images/profile-mickael.jpg"
-                                    alt="Ancien Mickaël NDINGA"
+                                    src="https://placehold.co/1200x630?text=Mickaël+NDINGA"
+                                    alt="Mickaël NDINGA"
                                     class="w-full h-full object-cover"
                                 />
                             </div>
-                            <!-- Badge Ancien -->
-                            <UBadge
-                                label="Ancien"
-                                color="primary"
-                                variant="solid"
-                                class="absolute -bottom-2 left-1/2 transform -translate-x-1/2"
-                            />
                         </div>
 
                         <!-- Informations principales -->
@@ -72,7 +65,7 @@ defineOgImageComponent('Saas');
                             <!-- Tags des compétences -->
                             <div class="flex flex-wrap justify-center lg:justify-start gap-2">
                                 <UBadge
-                                    label="Enseignant"
+                                    label="Enseignant Biblique"
                                     variant="soft"
                                 />
                                 <UBadge
@@ -81,10 +74,6 @@ defineOgImageComponent('Saas');
                                 />
                                 <UBadge
                                     label="Développeur Web"
-                                    variant="soft"
-                                />
-                                <UBadge
-                                    label="Théologien"
                                     variant="soft"
                                 />
                             </div>
@@ -147,19 +136,19 @@ defineOgImageComponent('Saas');
                 <div class="relative rounded-xl overflow-hidden shadow-lg">
                     <NuxtImg
                         v-if="index === 0"
-                        src="/images/faith-journey.jpg"
+                        src="https://placehold.co/1200x630?text=Faith+Journey"
                         alt="Parcours de foi chrétienne"
                         class="w-full aspect-video object-cover"
                     />
                     <NuxtImg
                         v-else-if="index === 1"
-                        src="/images/theological-formation.jpg"
+                        src="https://placehold.co/1200x630?text=Theological+Formation"
                         alt="Formation théologique et responsabilités"
                         class="w-full aspect-video object-cover"
                     />
                     <NuxtImg
                         v-else
-                        src="/images/biblical-teaching.jpg"
+                        src="https://placehold.co/1200x630?text=Biblical+Teaching"
                         alt="Enseignement biblique et étude"
                         class="w-full aspect-video object-cover"
                     />

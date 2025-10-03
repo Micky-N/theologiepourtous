@@ -88,15 +88,15 @@ testimonials:
   reviews:
     - name: "Marie Dubois"
       role: "Pasteure adjointe"
-      image: "/images/profile-mickael.jpg"
+      image: "https://placehold.co/1200x630?text=Marie+Dubois"
       quote: "Cette formation m'a permis d'approfondir ma compréhension des Écritures d'une manière que je n'aurais jamais imaginée. Les enseignements sont riches, accessibles et profondément ancrés dans la Parole de Dieu."
     - name: "Pierre Martin"
       role: "Enseignant biblique"
-      image: "/images/profile-mickael.jpg"
+      image: "https://placehold.co/1200x630?text=Pierre+Martin"
       quote: "J'ai particulièrement apprécié l'approche systématique et la qualité pédagogique. Ces études m'ont équipé pour enseigner avec plus de confiance et de précision dans mon ministère local."
     - name: "Sarah Leroux"
       role: "Responsable jeunesse"
-      image: "/images/profile-mickael.jpg"
+      image: "https://placehold.co/1200x630?text=Sarah+Leroux"
       quote: "Une formation qui allie profondeur théologique et application pratique. Mon ministère auprès des jeunes s'en trouve enrichi et ma foi fortifiée. Je recommande vivement ce parcours."
 
 cta:
@@ -118,4 +118,4 @@ seo:
   description: "Formation théologique accessible à tous, fondée sur les Écritures. Approfondissez votre connaissance de Dieu avec nos enseignements structurés."
   ogTitle: "Théologie pour Tous - Formation théologique en ligne"
   ogDescription: "Découvrez les richesses de la Parole de Dieu dans un parcours de formation théologique accessible et inspirant."
-  ogImage: "/images/theological-formation.jpg"
+  ogImage: "https://placehold.co/1200x630?text=Théologie+pour+Tous"
