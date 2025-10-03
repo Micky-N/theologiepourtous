@@ -121,27 +121,29 @@ const progressButtonProps = computed<{
         >
             <template #headline>
                 <div class="flex flex-col lg:flex-row items-start lg:items-center space-x-1">
-                    <UButton
-                        v-if="status === 'success'"
-                        :icon="progressButtonProps.icon"
-                        :color="progressButtonProps.color"
-                        :label="progressButtonProps.label"
-                        :variant="progressButtonProps.variant"
-                        size="xs"
-                        @click="setProgress(lesson.slug)"
-                    />
-                    <UButton
-                        v-else-if="['idle', 'pending'].includes(status)"
-                        color="secondary"
-                        variant="subtle"
-                        size="xs"
-                        disabled
-                    >
-                        <UIcon
-                            name="i-lucide-loader-2"
-                            class="animate-spin"
+                    <template v-if="loggedIn">
+                        <UButton
+                            v-if="status === 'success'"
+                            :icon="progressButtonProps.icon"
+                            :color="progressButtonProps.color"
+                            :label="progressButtonProps.label"
+                            :variant="progressButtonProps.variant"
+                            size="xs"
+                            @click="setProgress(lesson.slug)"
                         />
-                    </UButton>
+                        <UButton
+                            v-else-if="['idle', 'pending'].includes(status)"
+                            color="secondary"
+                            variant="subtle"
+                            size="xs"
+                            disabled
+                        >
+                            <UIcon
+                                name="i-lucide-loader-2"
+                                class="animate-spin"
+                            />
+                        </UButton>
+                    </template>
                     <time class="text-muted">{{ new Date(lesson.date).toLocaleDateString('fr', { year: 'numeric', month: 'long', day: 'numeric' }) }}</time>
                     <span class="hidden lg:block text-muted">&middot;</span>
                     <!-- tags -->

@@ -2,10 +2,10 @@
     <UCard class="theological-comparison">
         <template #header>
             <h3 class="text-lg font-semibold">
-                Perspectives théologiques
+                {{ title }}
             </h3>
             <p class="text-sm text-gray-500 mt-1">
-                Comparez les différentes positions doctrinales sur un sujet biblique.
+                {{ subtitle }}
             </p>
         </template>
 
@@ -19,7 +19,10 @@
                         <th class="text-left p-3 font-semibold text-gray-700">
                             Arguments principaux
                         </th>
-                        <th class="text-left p-3 font-semibold text-gray-700">
+                        <th
+                            v-if="withVerse"
+                            class="text-left p-3 font-semibold text-gray-700"
+                        >
                             Versets clés
                         </th>
                     </tr>
@@ -36,7 +39,10 @@
                         <td class="p-3 text-gray-700">
                             {{ position.arguments }}
                         </td>
-                        <td class="p-3">
+                        <td
+                            v-if="withVerse"
+                            class="p-3"
+                        >
                             <UBadge
                                 v-for="verse in position.verses"
                                 :key="verse"
@@ -59,13 +65,20 @@
 <script setup lang="ts">
 import BiblicalReferencePopover from './BiblicalReferencePopover.vue';
 
-defineProps<{
+withDefaults(defineProps<{
+    withVerse?: boolean;
+    title?: string;
+    subtitle?: string;
     positions: {
         name: string;
         arguments: string;
         verses: string[];
     }[];
-}>();
+}>(), {
+    withVerse: true,
+    title: 'Perspectives théologiques',
+    subtitle: 'Comparez les différentes positions doctrinales sur un sujet biblique.'
+});
 </script>
 
 <style scoped>

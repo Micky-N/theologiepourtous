@@ -1,5 +1,5 @@
 <template>
-    <UCard class="biblical-reference border-l-4 border-l-primary-500">
+    <UCard class="biblical-reference border-l-2 border-l-primary-500">
         <div class="flex items-start gap-3">
             <UIcon
                 name="i-heroicons-book-open"
