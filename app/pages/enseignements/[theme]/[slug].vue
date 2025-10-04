@@ -21,7 +21,7 @@ const { data: progress, refresh, status } = useAsyncData(
 
 const { data: booksData } = await useAsyncData('bible-books', () => $fetch<{ success: boolean; data: { all: BibleBook[]; grouped: { old: BibleBook[]; new: BibleBook[]; }; }; count: number; }>('/api/bible/books', {
     method: 'GET'
-}));
+}), { server: false });
 
 const { data: surround } = useAsyncData(`${route.path}-surround`, () => {
     return queryCollectionItemSurroundings('lessons', route.path, {
@@ -49,9 +49,11 @@ const setProgress = async (slug: string) => {
     }
 };
 
-setBooksData(booksData.value?.data.all || []);
-
 const parseToVerse = (ref: string) => verseParser(ref, true);
+
+onMounted(() => {
+    if (booksData.value) setBooksData(booksData.value.data.all || []);
+});
 
 useSeoMeta({
     title: lesson.value.title,
