@@ -30,9 +30,10 @@ useSeoMeta({
 
 const route = useRoute();
 const router = useRouter();
+const { loggedIn } = useUserSession();
 const { fetchPreferences, preferences } = useUserPreferences();
 try {
-    await fetchPreferences();
+    if (loggedIn.value) await fetchPreferences();
 } catch (e) {
     console.error('Erreur lors du chargement des préférences utilisateur', e);
 }
