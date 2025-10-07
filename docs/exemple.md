@@ -31,7 +31,7 @@ etymology: "Du latin 'omnis' (tout) et 'scientia' (connaissance)"
 
 ## Introduction
 
-L'<theological-glossary-anchor term="omniscience">**omniscience**</theological-glossary-anchor> divine est l'un des attributs les plus réconfortants et parfois les plus troublants de Dieu, car elle implique qu'il connaît tout : le passé, le présent et l'avenir, ainsi que les pensées et les intentions de chaque cœur humain. Sa connaissance n'est jamais froide ni impersonnelle : elle est sainte, bienveillante et ordonnée à ses desseins.
+L'{omniscience|omniscience} divine est l'un des attributs les plus réconfortants et parfois les plus troublants de Dieu, car elle implique qu'il connaît tout : le passé, le présent et l'avenir, ainsi que les pensées et les intentions de chaque cœur humain. Sa connaissance n'est jamais froide ni impersonnelle : elle est sainte, bienveillante et ordonnée à ses desseins.
 
 ::theological-glossary
 ---

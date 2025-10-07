@@ -18,7 +18,6 @@ defineEmits<{
 }>();
 
 const openGlossary = (term: string) => {
-    console.log(term);
     // Emit an event to open the glossary modal with the specified term
     window.dispatchEvent(new CustomEvent('open-glossary', { detail: term }));
 };
