@@ -32,7 +32,7 @@ export default defineNuxtConfig({
         '/docs': { redirect: '/docs/getting-started', prerender: false }
     },
 
-    compatibilityDate: '2024-07-11',
+    compatibilityDate: '2024-11-01',
 
     nitro: {
         prerender: {
