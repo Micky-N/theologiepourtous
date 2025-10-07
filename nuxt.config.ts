@@ -20,6 +20,11 @@ export default defineNuxtConfig({
     content: {
         preview: {
             api: 'https://api.nuxt.studio'
+        },
+        build: {
+            transformers: [
+                '~~/transformers/component-parser'
+            ]
         }
     },
 
