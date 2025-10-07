@@ -23,7 +23,7 @@ export default defineNuxtConfig({
         },
         build: {
             transformers: [
-                '~~/transformers/theological-terms-parser'
+                '~~/transformers/component-parser'
             ]
         }
     },

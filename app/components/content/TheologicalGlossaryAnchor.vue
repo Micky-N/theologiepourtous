@@ -1,7 +1,7 @@
 <template>
     <a
         :id="term"
-        class="cursor-pointer text-primary-600 hover:underline"
+        class="cursor-help text-primary-600 border-b border-dotted border-primary-600 dark:text-primary-400 dark:border-primary-400"
         @click.prevent="openGlossary(term)"
     >
         <slot />

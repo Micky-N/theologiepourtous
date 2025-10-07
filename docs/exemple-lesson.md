@@ -31,7 +31,7 @@ etymology: "Du latin 'omnis' (tout) et 'scientia' (connaissance)"
 
 ## Introduction
 
-L'{omniscience|omniscience} divine est l'un des attributs les plus réconfortants et parfois les plus troublants de Dieu, car elle implique qu'il connaît tout : le passé, le présent et l'avenir, ainsi que les pensées et les intentions de chaque cœur humain. Sa connaissance n'est jamais froide ni impersonnelle : elle est sainte, bienveillante et ordonnée à ses desseins.
+L'[omniscience]{parser=theological param=omniscience} divine est l'un des attributs les plus réconfortants et parfois les plus troublants de Dieu, car elle implique qu'il connaît tout : le passé, le présent et l'avenir, ainsi que les pensées et les intentions de chaque cœur humain. Sa connaissance n'est jamais froide ni impersonnelle : elle est sainte, bienveillante et ordonnée à ses desseins.
 
 ::theological-glossary
 ---
@@ -128,8 +128,8 @@ positions:
 ## Implications pratiques
 
 ### Pour notre vie de prière
-- Dieu connaît <biblical-reference-popover verse="Psaumes 139:1-6">Psaumes 139:1-6</biblical-reference-popover> nos besoins avant que nous les exprimions <biblical-reference-popover verse="Psaumes 139:1-6">Psaumes 139:1-6</biblical-reference-popover>
-- Il comprend nos luttes intérieures <biblical-reference-popover verse="1 Jean 3:20">1 Jean 3:20</biblical-reference-popover>
+- Dieu connaît [Psaumes 139:1-6]{parser=verse param="Psaumes 139:1-6"} nos besoins avant que nous les exprimions [Psaumes 139:1-6]{parser=verse param="Psaumes 139:1-6"}
+- Il comprend nos luttes intérieures [1 Jean 3:20]{parser=verse param="1 Jean 3:20"}
 
 ### Pour notre crainte de Dieu
 - Rien n'est caché devant lui
