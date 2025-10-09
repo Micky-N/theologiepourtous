@@ -1,5 +1,6 @@
-import type { BibleBook, BibleVerse, BibleVersion } from '@prisma/client';
-import { prisma } from '~~/lib/prisma';
+import { BibleBook } from '~~/src/database/models/BibleBook';
+import { BibleVersion } from '~~/src/database/models/BibleVersion';
+import { BibleVerse } from '~~/src/database/models/BibleVerse';
 
 export default defineEventHandler(async (event) => {
     try {
@@ -39,9 +40,7 @@ export default defineEventHandler(async (event) => {
         const bookCode = String(bookParam).toUpperCase();
 
         // Vérifier que le livre existe
-        const bibleBook = await prisma.bibleBook.findUnique({
-            where: { code: bookCode }
-        });
+        const bibleBook = await BibleBook.findOne({ where: { code: bookCode } });
         if (!bibleBook) {
             throw createError({
                 statusCode: 404,
@@ -50,9 +49,7 @@ export default defineEventHandler(async (event) => {
         }
 
         // Vérifier que la version existe
-        const bibleVersion = await prisma.bibleVersion.findUnique({
-            where: { code: versionCode }
-        });
+        const bibleVersion = await BibleVersion.findOne({ where: { code: versionCode } });
         if (!bibleVersion) {
             throw createError({
                 statusCode: 404,
@@ -120,19 +117,19 @@ export default defineEventHandler(async (event) => {
         const summary = `${bibleBook.name} ${chapterNum}:${buildSummary(verseNumbers)} - ${bibleVersion.code}`;
 
         // Récupérer les versets correspondants
-        const bibleVerses = await prisma.bibleVerse.findMany({
+        const bibleVerses = await BibleVerse.findAll({
             where: {
                 bookId: bibleBook.id,
                 versionId: bibleVersion.id,
                 chapter: chapterNum,
-                verse: { in: verseNumbers }
+                verse: verseNumbers.length > 1 ? verseNumbers : verseNumbers[0]
             },
-            include: {
-                book: true,
-                version: true
-            },
-            orderBy: { verse: 'asc' }
-        }) as (BibleVerse & { book: BibleBook; version: BibleVersion; })[];
+            include: [
+                { model: BibleBook },
+                { model: BibleVersion }
+            ],
+            order: [['verse', 'ASC']]
+        });
 
         if (!bibleVerses.length) {
             throw createError({
@@ -143,7 +140,7 @@ export default defineEventHandler(async (event) => {
 
         return {
             success: true,
-            data: bibleVerses as (BibleVerse & { book: BibleBook; version: BibleVersion; })[],
+            data: bibleVerses,
             count: bibleVerses.length,
             meta: {
                 requested: verseParam,

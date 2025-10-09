@@ -1,4 +1,7 @@
-import { prisma } from '~~/lib/prisma';
+import { BibleBookmark } from '~~/src/database/models/BibleBookmark';
+import { BibleVerse } from '~~/src/database/models/BibleVerse';
+import { BibleBook } from '~~/src/database/models/BibleBook';
+import { BibleVersion } from '~~/src/database/models/BibleVersion';
 
 export default defineEventHandler(async (event) => {
     try {
@@ -25,12 +28,9 @@ export default defineEventHandler(async (event) => {
         }
 
         // Vérifier que le verset existe
-        const verse = await prisma.bibleVerse.findUnique({
+        const verse = await BibleVerse.findOne({
             where: { id: verseId },
-            include: {
-                book: true,
-                version: true
-            }
+            include: [BibleBook, BibleVersion]
         });
 
         if (!verse) {
@@ -41,12 +41,10 @@ export default defineEventHandler(async (event) => {
         }
 
         // Vérifier si un bookmark existe déjà pour ce verset
-        const existingBookmark = await prisma.bibleBookmark.findUnique({
+        const existingBookmark = await BibleBookmark.findOne({
             where: {
-                userId_verseId: {
-                    userId,
-                    verseId
-                }
+                userId,
+                verseId
             }
         });
 
@@ -58,52 +56,43 @@ export default defineEventHandler(async (event) => {
         }
 
         // Créer le nouveau bookmark
-        const bookmark = await prisma.bibleBookmark.create({
-            data: {
-                userId,
-                bookId: verse.bookId,
-                verseId,
-                title: title || null,
-                color: color || 'blue'
-            },
-            include: {
-                book: {
-                    select: {
-                        code: true,
-                        name: true,
-                        testament: true
-                    }
-                },
-                verse: {
-                    select: {
-                        chapter: true,
-                        verse: true,
-                        text: true,
-                        version: {
-                            select: {
-                                code: true,
-                                name: true
-                            }
-                        }
-                    }
-                }
-            }
+        const bookmark = await BibleBookmark.create({
+            userId,
+            bookId: verse.bookId,
+            verseId,
+            title: title || null,
+            color: color || 'blue'
         });
 
+        // Récupérer le bookmark avec les relations pour la réponse
+        const fullBookmark = await BibleBookmark.findOne({
+            where: { id: bookmark.id },
+            include: [BibleBook, BibleVerse]
+        });
+
+        if (!fullBookmark) {
+            throw createError({
+                statusCode: 500,
+                statusMessage: 'Erreur lors de la récupération du favori créé'
+            });
+        }
+
         const formattedBookmark = {
-            id: bookmark.id,
-            title: bookmark.title,
-            color: bookmark.color,
-            reference: `${bookmark.book.name} ${bookmark.verse.chapter}:${bookmark.verse.verse}`,
-            book: bookmark.book,
-            verse: {
-                chapter: bookmark.verse.chapter,
-                verse: bookmark.verse.verse,
-                text: bookmark.verse.text,
-                version: bookmark.verse.version
-            },
-            createdAt: bookmark.createdAt,
-            updatedAt: bookmark.updatedAt
+            id: fullBookmark.id,
+            title: fullBookmark.title,
+            color: fullBookmark.color,
+            reference: `${fullBookmark.book?.name} ${fullBookmark.verse?.chapter}:${fullBookmark.verse?.verse}`,
+            book: fullBookmark.book,
+            verse: fullBookmark.verse
+                ? {
+                    chapter: fullBookmark.verse.chapter,
+                    verse: fullBookmark.verse.verse,
+                    text: fullBookmark.verse.text,
+                    version: fullBookmark.verse.version
+                }
+                : null,
+            createdAt: fullBookmark.createdAt,
+            updatedAt: fullBookmark.updatedAt
         };
 
         return {

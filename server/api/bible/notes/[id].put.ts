@@ -1,4 +1,6 @@
-import { prisma } from '~~/lib/prisma';
+import { BibleNote } from '~~/src/database/models/BibleNote';
+import { BibleBook } from '~~/src/database/models/BibleBook';
+import { BibleVerse } from '~~/src/database/models/BibleVerse';
 
 export default defineEventHandler(async (event) => {
     try {
@@ -26,10 +28,14 @@ export default defineEventHandler(async (event) => {
         const { title, content, isPrivate } = body;
 
         // Vérifier que la note existe et appartient à l'utilisateur
-        const note = await prisma.bibleNote.findUnique({
-            where: { id: Number(noteId) }
+        const note = await BibleNote.findOne({
+            where: { id: noteId, userId },
+            include: [
+                { model: BibleBook },
+                { model: BibleVerse }
+            ]
         });
-        if (!note || note.userId !== userId) {
+        if (!note) {
             throw createError({
                 statusCode: 404,
                 statusMessage: 'Note non trouvée ou accès refusé'
@@ -37,23 +43,20 @@ export default defineEventHandler(async (event) => {
         }
 
         // Mettre à jour la note
-        const updatedNote = await prisma.bibleNote.update({
-            where: { id: Number(noteId) },
-            data: {
-                title: title ?? note.title,
-                content: content ?? note.content,
-                isPrivate: typeof isPrivate === 'boolean' ? isPrivate : note.isPrivate
-            },
-            include: {
-                book: { select: { id: true, name: true } },
-                verse: { select: { id: true, chapter: true, verse: true, text: true } }
-            }
+        await note.update({
+            title: title ?? note.title,
+            content: content ?? note.content,
+            isPrivate: typeof isPrivate === 'boolean' ? isPrivate : note.isPrivate
         });
 
         return {
             success: true,
             message: 'Note modifiée avec succès',
-            note: updatedNote
+            note: {
+                ...note.toJSON(),
+                book: note.book,
+                verse: note.verse
+            }
         };
     } catch (error: any) {
         console.error('Erreur lors de la modification de la note:', error);
@@ -65,6 +68,6 @@ export default defineEventHandler(async (event) => {
             statusMessage: 'Erreur interne du serveur'
         });
     } finally {
-        await prisma.$disconnect();
+    // plus de déconnexion Prisma nécessaire
     }
 });

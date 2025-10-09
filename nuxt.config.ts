@@ -7,7 +7,6 @@ export default defineNuxtConfig({
         '@nuxt/content',
         '@vueuse/nuxt',
         'nuxt-og-image',
-        '@prisma/nuxt',
         'nuxt-auth-utils'
     ],
 
@@ -23,7 +22,7 @@ export default defineNuxtConfig({
         },
         build: {
             transformers: [
-                '~~/transformers/component-parser'
+                '~~/src/transformers/component-parser'
             ]
         }
     },
@@ -32,7 +31,7 @@ export default defineNuxtConfig({
         '/docs': { redirect: '/docs/getting-started', prerender: false }
     },
 
-    compatibilityDate: '2024-11-01',
+    compatibilityDate: '2025-06-01',
 
     nitro: {
         prerender: {
@@ -40,13 +39,6 @@ export default defineNuxtConfig({
                 '/'
             ],
             crawlLinks: true
-        }
-    },
-    vite: {
-        resolve: {
-            alias: {
-                '.prisma/client/index-browser': './node_modules/.prisma/client/index-browser.js'
-            }
         }
     },
 

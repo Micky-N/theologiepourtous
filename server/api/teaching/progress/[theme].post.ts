@@ -1,6 +1,5 @@
-import { prisma } from '~~/lib/prisma';
+import { UserProgress } from '~~/src/database/models/UserProgress';
 import { createError } from 'h3';
-import type { UserProgress } from '@prisma/client';
 
 export default defineEventHandler<Promise<{ success: boolean; data: UserProgress; }>>(async (event) => {
     // Get authenticated user
@@ -23,7 +22,7 @@ export default defineEventHandler<Promise<{ success: boolean; data: UserProgress
     const body = await readBody<{ lesson: string; } | null>(event);
 
     // Find existing progress
-    let progress = await prisma.userProgress.findFirst({
+    let progress = await UserProgress.findOne({
         where: {
             userId: user.id,
             theme
@@ -32,13 +31,11 @@ export default defineEventHandler<Promise<{ success: boolean; data: UserProgress
 
     // If no progress exists, create a new one
     if (!progress) {
-        progress = await prisma.userProgress.create({
-            data: {
-                userId: user.id,
-                theme,
-                startedAt: new Date(),
-                lessons: '[]'
-            }
+        progress = await UserProgress.create({
+            userId: user.id,
+            theme,
+            startedAt: new Date(),
+            lessons: '[]'
         });
     }
 
@@ -54,10 +51,7 @@ export default defineEventHandler<Promise<{ success: boolean; data: UserProgress
                 lessons.splice(index, 1);
             }
         }
-        progress = await prisma.userProgress.update({
-            where: { id: progress.id },
-            data: { lessons: JSON.stringify(lessons) }
-        });
+        await progress.update({ lessons: JSON.stringify(lessons) });
     }
 
     return {

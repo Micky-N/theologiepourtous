@@ -1,5 +1,5 @@
 import z from 'zod';
-import { prisma } from '~~/lib/prisma';
+import { User } from '~~/src/database/models/User';
 
 const profileSchema = z.object({
     name: z.string().min(2, 'Le nom doit contenir au moins 2 caractères'),
@@ -34,15 +34,17 @@ export default defineEventHandler(async (event) => {
         if (newPassword) hashedPassword = await hashPassword(newPassword);
 
         // Vérifier que le user existe si fournie
-        const user = await prisma.user.update({
-            where: {
-                id: userSession.id
-            },
-            data: {
-                name,
-                email,
-                ...(hashedPassword && { password: hashedPassword })
-            }
+        const user = await User.findByPk(userSession.id);
+        if (!user) {
+            throw createError({
+                statusCode: 404,
+                statusMessage: 'Utilisateur non trouvé'
+            });
+        }
+        await user.update({
+            name,
+            email,
+            ...(hashedPassword && { password: hashedPassword })
         });
 
         await replaceUserSession(event, {

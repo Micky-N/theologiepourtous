@@ -1,4 +1,6 @@
-import prisma from '~~/lib/prisma';
+import { Op } from 'sequelize';
+import { ReadingSession } from '~~/src/database/models/ReadingSession';
+import { BibleBook } from '~~/src/database/models/BibleBook';
 import type { ProgressWithBook, ReadingStats, ReadingStatsResponse } from '~/types';
 
 type ChapterRead = {
@@ -31,21 +33,20 @@ export default defineEventHandler(async (event): Promise<ReadingStatsResponse> =
         const { startDate, endDate } = getPeriodDates(period);
 
         // Récupère les sessions dans la période
-        const allSessions = await prisma.readingSession.findMany({
+        const allSessions = await ReadingSession.findAll({
             where: {
                 userId,
-                startTime: { gte: startDate, lte: endDate },
+                startTime: { [Op.gte]: startDate, [Op.lte]: endDate },
                 isCompleted: true
             }
         });
 
-        const totalReadingTimeAgg = await prisma.readingSession.aggregate({
+        const totalReadingTimeAgg = await ReadingSession.sum('duration', {
             where: {
                 userId,
-                startTime: { gte: startDate, lte: endDate },
+                startTime: { [Op.gte]: startDate, [Op.lte]: endDate },
                 isCompleted: true
-            },
-            _sum: { duration: true }
+            }
         });
 
         const totalSessions = allSessions.length;
@@ -141,9 +142,9 @@ export default defineEventHandler(async (event): Promise<ReadingStatsResponse> =
 
         let booksByCode = new Map();
         if (involvedBookCodes.length > 0) {
-            const books = await prisma.bibleBook.findMany({
-                where: { code: { in: involvedBookCodes } },
-                select: { id: true, code: true, name: true, chapterCount: true, testament: true }
+            const books = await BibleBook.findAll({
+                where: { code: involvedBookCodes },
+                attributes: ['id', 'code', 'name', 'chapterCount', 'testament']
             });
             booksByCode = new Map(books.map(b => [b.code, b]));
         }
@@ -162,15 +163,7 @@ export default defineEventHandler(async (event): Promise<ReadingStatsResponse> =
             }
         }
 
-        let countsMap = new Map<string, number>();
-        if (orFilters.length > 0) {
-            const grouped = await prisma.bibleVerse.groupBy({
-                by: ['versionId', 'bookId', 'chapter'],
-                where: { OR: orFilters },
-                _count: { _all: true }
-            });
-            countsMap = new Map(grouped.map((g: any) => [`${g.versionId}:${g.bookId}:${g.chapter}`, g._count._all as number]));
-        }
+        const countsMap = new Map<string, number>();
 
         for (const line of sessionChapterLines) {
             const book: any = booksByCodeAny.get(line.bookCode);
@@ -236,7 +229,7 @@ export default defineEventHandler(async (event): Promise<ReadingStatsResponse> =
         return {
             summary: {
                 totalSessions,
-                totalReadingTime: totalReadingTimeAgg._sum.duration || totalReadingTime,
+                totalReadingTime: totalReadingTimeAgg || totalReadingTime,
                 totalChaptersRead,
                 currentStreak: await calculateCurrentStreak(userId),
                 longestStreak,
@@ -289,12 +282,12 @@ async function calculateCurrentStreak(userId: number): Promise<number> {
     const checkDate = new Date(today);
 
     while (currentStreak < 365) { // Limite pour éviter les boucles infinies
-        const dayStats = await prisma.readingSession.findMany({
+        const dayStats = await ReadingSession.findAll({
             where: {
                 userId: userId,
                 startTime: {
-                    gte: checkDate,
-                    lt: new Date(checkDate.getTime() + 86400000) // +1 jour
+                    [Op.gte]: checkDate,
+                    [Op.lt]: new Date(checkDate.getTime() + 86400000)
                 }
             }
         });

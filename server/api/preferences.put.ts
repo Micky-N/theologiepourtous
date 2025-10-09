@@ -1,6 +1,6 @@
-import type { BibleVersion } from '@prisma/client';
 import z from 'zod';
-import { prisma } from '~~/lib/prisma';
+import { UserPreference } from '~~/src/database/models/UserPreference';
+import { BibleVersion } from '~~/src/database/models/BibleVersion';
 
 const preferencesSchema = z.object({
     defaultVersionId: z.number().nullable(),
@@ -23,12 +23,9 @@ export default defineEventHandler(async (event) => {
         const { defaultVersionId, notesPerVersion, bookmarksPerVersion } = await readValidatedBody(event, preferencesSchema.parse);
 
         // Vérifier que la version existe si fournie
-        let version: BibleVersion | null = null;
+        let version = null;
         if (defaultVersionId) {
-            version = await prisma.bibleVersion.findUnique({
-                where: { id: defaultVersionId }
-            });
-
+            version = await BibleVersion.findByPk(defaultVersionId);
             if (!version) {
                 throw createError({
                     statusCode: 404,
@@ -36,34 +33,30 @@ export default defineEventHandler(async (event) => {
                 });
             }
         } else {
-            version = await prisma.bibleVersion.findFirst({
-                where: { code: 'LSG' }
-            });
+            version = await BibleVersion.findOne({ where: { code: 'LSG' } });
         }
 
         // Mettre à jour ou créer les préférences
-        const preferences = await prisma.userPreference.upsert({
-            where: { userId: userSession.id },
-            update: {
+        let preferences = await UserPreference.findOne({ where: { userId: userSession.id } });
+        if (preferences) {
+            await preferences.update({
                 defaultVersionId: version?.id,
                 notesPerVersion,
                 bookmarksPerVersion
-            },
-            create: {
+            });
+        } else {
+            preferences = await UserPreference.create({
                 userId: userSession.id,
                 defaultVersionId: version?.id,
                 notesPerVersion,
                 bookmarksPerVersion
-            },
-            include: {
-                defaultVersion: {
-                    select: {
-                        id: true,
-                        code: true,
-                        name: true
-                    }
-                }
-            }
+            });
+        }
+        const preferencesWithVersion = await UserPreference.findOne({
+            where: { userId: userSession.id },
+            include: [
+                { model: BibleVersion, as: 'defaultVersion', attributes: ['id', 'code', 'name'] }
+            ]
         });
 
         await replaceUserSession(event, {
@@ -73,10 +66,10 @@ export default defineEventHandler(async (event) => {
                 email: userSession.email,
                 role: userSession.role,
                 preferences: {
-                    defaultVersionId: preferences.defaultVersionId,
-                    notesPerVersion: preferences.notesPerVersion,
-                    bookmarksPerVersion: preferences.bookmarksPerVersion,
-                    defaultVersion: preferences.defaultVersion
+                    defaultVersionId: preferencesWithVersion?.defaultVersionId,
+                    notesPerVersion: preferencesWithVersion?.notesPerVersion,
+                    bookmarksPerVersion: preferencesWithVersion?.bookmarksPerVersion,
+                    defaultVersion: preferencesWithVersion?.defaultVersion
                 }
             }
         });
@@ -85,11 +78,11 @@ export default defineEventHandler(async (event) => {
             success: true,
             message: 'Préférences mises à jour avec succès',
             data: {
-                defaultVersion: preferences.defaultVersion,
-                notesPerVersion: preferences.notesPerVersion,
-                bookmarksPerVersion: preferences.bookmarksPerVersion,
-                createdAt: preferences.createdAt,
-                updatedAt: preferences.updatedAt
+                defaultVersion: preferencesWithVersion?.defaultVersion,
+                notesPerVersion: preferencesWithVersion?.notesPerVersion,
+                bookmarksPerVersion: preferencesWithVersion?.bookmarksPerVersion,
+                createdAt: preferencesWithVersion?.createdAt,
+                updatedAt: preferencesWithVersion?.updatedAt
             }
         };
     } catch (error: any) {

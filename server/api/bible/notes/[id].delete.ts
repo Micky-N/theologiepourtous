@@ -1,4 +1,4 @@
-import { prisma } from '~~/lib/prisma';
+import { BibleNote } from '~~/src/database/models/BibleNote';
 
 export default defineEventHandler(async (event) => {
     try {
@@ -24,13 +24,7 @@ export default defineEventHandler(async (event) => {
         }
 
         // Vérifier que la note existe et appartient à l'utilisateur
-        const note = await prisma.bibleNote.findFirst({
-            where: {
-                id: noteId,
-                userId
-            }
-        });
-
+        const note = await BibleNote.findOne({ where: { id: noteId, userId } });
         if (!note) {
             throw createError({
                 statusCode: 404,
@@ -39,9 +33,7 @@ export default defineEventHandler(async (event) => {
         }
 
         // Supprimer la note
-        await prisma.bibleNote.delete({
-            where: { id: noteId }
-        });
+        await note.destroy();
 
         return {
             success: true,

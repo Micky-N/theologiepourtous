@@ -1,5 +1,6 @@
-import { prisma } from '~~/lib/prisma';
+import { User } from '~~/src/database/models/User';
 import { z } from 'zod';
+import { UserPreference } from '~~/src/database/models/UserPreference';
 
 // Schéma de validation pour la connexion
 const loginSchema = z.object({
@@ -22,8 +23,9 @@ export default defineEventHandler(async (event) => {
         const { email, password } = await readValidatedBody(event, loginSchema.parse);
 
         // Trouver l'utilisateur
-        const user = await prisma.user.findUnique({
-            where: { email }
+        const user = await User.findOne({
+            where: { email },
+            include: UserPreference
         });
 
         if (!user) {
@@ -42,12 +44,7 @@ export default defineEventHandler(async (event) => {
             });
         }
 
-        const preferences = await prisma.userPreference.findUnique({
-            where: { userId: user.id },
-            include: {
-                defaultVersion: true
-            }
-        });
+        const preferences = user.userPreference;
 
         await setUserSession(event, {
             user: {
@@ -60,10 +57,8 @@ export default defineEventHandler(async (event) => {
         });
 
         // Mettre à jour la date de dernière connexion
-        await prisma.user.update({
-            where: { id: user.id },
-            data: { lastLogin: new Date() }
-        });
+        user.lastLogin = new Date();
+        await user.save();
 
         return {
             success: true,
@@ -87,7 +82,5 @@ export default defineEventHandler(async (event) => {
             statusCode: 500,
             statusMessage: 'Erreur interne du serveur'
         });
-    } finally {
-        await prisma.$disconnect();
     }
 });

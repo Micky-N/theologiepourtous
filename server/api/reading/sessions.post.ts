@@ -1,5 +1,5 @@
 import { z } from 'zod';
-import prisma from '~~/lib/prisma';
+import { ReadingSession } from '~~/src/database/models/ReadingSession';
 
 // Schéma de validation pour démarrer une session de lecture
 const startSessionSchema = z.object({
@@ -38,26 +38,23 @@ export default defineEventHandler(async (event) => {
 
             try {
                 // Fermer toute session ouverte existante
-                await prisma.readingSession.updateMany({
+                await ReadingSession.update({
+                    endTime: new Date(),
+                    isCompleted: false
+                }, {
                     where: {
                         userId,
                         endTime: null
-                    },
-                    data: {
-                        endTime: new Date(),
-                        isCompleted: false
                     }
                 });
 
                 // Créer nouvelle session
-                const session = await prisma.readingSession.create({
-                    data: {
-                        userId,
-                        versionId,
-                        startTime: new Date(),
-                        deviceType,
-                        chaptersRead: body.chaptersRead
-                    }
+                const session = await ReadingSession.create({
+                    userId,
+                    versionId,
+                    startTime: new Date(),
+                    deviceType,
+                    chaptersRead: body.chaptersRead
                 });
 
                 return {
@@ -79,7 +76,7 @@ export default defineEventHandler(async (event) => {
 
             try {
                 // Récupérer la session existante pour calculer la durée
-                const existingSession = await prisma.readingSession.findUnique({
+                const existingSession = await ReadingSession.findOne({
                     where: {
                         id: sessionId,
                         userId
@@ -96,16 +93,15 @@ export default defineEventHandler(async (event) => {
                 const endTime = new Date();
                 const duration = Math.round((endTime.getTime() - existingSession.startTime.getTime()) / 60000); // Durée en minutes
 
-                await prisma.readingSession.update({
+                await ReadingSession.update({
+                    endTime,
+                    isCompleted: true,
+                    duration,
+                    chaptersRead: body.chaptersRead ?? existingSession.chaptersRead
+                }, {
                     where: {
                         id: sessionId,
                         userId
-                    },
-                    data: {
-                        endTime,
-                        isCompleted: true,
-                        duration,
-                        chaptersRead: body.chaptersRead ?? existingSession.chaptersRead
                     }
                 });
 
