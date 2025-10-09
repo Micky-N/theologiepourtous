@@ -1,57 +1,84 @@
-import { Table, Column, Model, DataType, PrimaryKey, AutoIncrement, Unique, Default, HasMany, HasOne } from 'sequelize-typescript';
-import { UserProgress } from './UserProgress';
-import { BibleBookmark } from './BibleBookmark';
-import { BibleNote } from './BibleNote';
-import { ReadingSession } from './ReadingSession';
-import { UserPreference } from './UserPreference';
+import { type Sequelize, Model, DataTypes, type InferAttributes, type InferCreationAttributes, type CreationOptional, type NonAttribute } from 'sequelize';
 
-@Table({
-    tableName: 'users',
-    timestamps: true
-})
-export class User extends Model {
-    @PrimaryKey
-    @AutoIncrement
-    @Column(DataType.INTEGER)
-    declare id: number;
-
-    @Unique
-    @Column(DataType.STRING)
+export class User extends Model<InferAttributes<User>, InferCreationAttributes<User>> {
+    declare id: CreationOptional<number>;
     declare email: string;
-
-    @Column(DataType.STRING)
     declare name: string;
-
-    @Column(DataType.STRING)
     declare password: string;
+    declare role: CreationOptional<'USER' | 'ADMIN'>;
+    declare lastLogin: Date | null;
+    declare createdAt: CreationOptional<Date>;
+    declare updatedAt: CreationOptional<Date>;
 
-    @Default('USER')
-    @Column(DataType.ENUM('USER', 'ADMIN'))
-    declare role: 'USER' | 'ADMIN';
+    // Associations typées
+    declare bibleBookmarks?: NonAttribute<any[]>;
+    declare bibleNotes?: NonAttribute<any[]>;
+    declare readingSessions?: NonAttribute<any[]>;
+    declare userPreference?: NonAttribute<any>;
+    declare userProgress?: NonAttribute<any[]>;
 
-    @Column(DataType.DATE)
-    declare lastLogin?: Date;
+    static associate(models: any) {
+        // User has many BibleBookmarks
+        User.hasMany(models.BibleBookmark, { foreignKey: 'userId', as: 'bibleBookmarks' });
 
-    @Default(DataType.NOW)
-    @Column(DataType.DATE)
-    declare createdAt: Date;
+        // User has many BibleNotes
+        User.hasMany(models.BibleNote, { foreignKey: 'userId', as: 'bibleNotes' });
 
-    @Default(DataType.NOW)
-    @Column(DataType.DATE)
-    declare updatedAt: Date;
+        // User has many ReadingSessions
+        User.hasMany(models.ReadingSession, { foreignKey: 'userId', as: 'readingSessions' });
 
-    @HasMany(() => BibleBookmark)
-    declare bibleBookmarks: BibleBookmark[];
+        // User has one UserPreference
+        User.hasOne(models.UserPreference, { foreignKey: 'userId', as: 'userPreference' });
 
-    @HasMany(() => BibleNote)
-    declare bibleNotes: BibleNote[];
+        // User has many UserProgress
+        User.hasMany(models.UserProgress, { foreignKey: 'userId', as: 'userProgress' });
+    }
 
-    @HasMany(() => ReadingSession)
-    declare readingSessions: ReadingSession[];
-
-    @HasOne(() => UserPreference)
-    declare userPreference: UserPreference;
-
-    @HasMany(() => UserProgress)
-    declare userProgress: UserProgress[];
+    static initialize(sequelizeInstance: Sequelize) {
+        User.init(
+            {
+                id: {
+                    type: DataTypes.INTEGER,
+                    primaryKey: true,
+                    autoIncrement: true
+                },
+                email: {
+                    type: DataTypes.STRING,
+                    unique: true,
+                    allowNull: false
+                },
+                name: {
+                    type: DataTypes.STRING,
+                    allowNull: false
+                },
+                password: {
+                    type: DataTypes.STRING,
+                    allowNull: false
+                },
+                role: {
+                    type: DataTypes.ENUM('USER', 'ADMIN'),
+                    defaultValue: 'USER',
+                    allowNull: false
+                },
+                lastLogin: {
+                    type: DataTypes.DATE,
+                    allowNull: true
+                },
+                createdAt: {
+                    type: DataTypes.DATE,
+                    defaultValue: DataTypes.NOW
+                },
+                updatedAt: {
+                    type: DataTypes.DATE,
+                    defaultValue: null
+                }
+            },
+            {
+                sequelize: sequelizeInstance,
+                tableName: 'users',
+                timestamps: true,
+                modelName: 'User'
+            }
+        );
+    }
 }

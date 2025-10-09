@@ -13,8 +13,6 @@
         "check:all": "npm run lint && npm run typecheck"
     },
     "dependencies": {
-        "@iconify-json/lucide": "^1.2.63",
-        "@iconify-json/simple-icons": "^1.2.48",
         "@nuxt/content": "^3.6.3",
         "@nuxt/image": "^1.11.0",
         "@nuxt/ui": "^4.0.1",
@@ -27,13 +25,14 @@
         "nuxt": "^4.0.3",
         "nuxt-auth-utils": "^0.5.25",
         "nuxt-og-image": "^5.1.9",
-        "reflect-metadata": "^0.2.2",
+        "pg-hstore": "^2.3.4",
         "sequelize": "^6.37.7",
-        "sequelize-typescript": "^2.1.6",
         "vue3-apexcharts": "^1.5.3",
         "zod": "^3.25.76"
     },
     "devDependencies": {
+        "@iconify-json/lucide": "^1.2.69",
+        "@iconify-json/simple-icons": "^1.2.54",
         "@nuxt/eslint": "^1.9.0",
         "@types/node": "^24.7.0",
         "@types/validator": "^13.15.3",

@@ -1,12 +1,13 @@
 <script setup lang="ts">
 import type { NavigationMenuItem } from '@nuxt/ui';
-import type { $Enums, BibleBook, BibleBookmark, BibleNote, BibleVerse, BibleVersion } from '@prisma/client';
+import type { BibleBook, BibleBookmark, BibleNote, BibleVerse, BibleVersion } from '~~/src/database/models';
+import type { Testament } from '~~/src/enums/bibleType';
 
 interface ApiVerseResponseData {
     book: {
         name: string;
         code: string;
-        testament: $Enums.Testament;
+        testament: Testament;
     };
     chapter: number;
     version: {
@@ -228,7 +229,7 @@ const endReadingSession = async () => {
 };
 
 onMounted(async () => {
-    if (loggedIn) {
+    if (loggedIn.value) {
         await startReadingSession();
         await loadNotes();
         await loadBookmarks();
@@ -236,7 +237,7 @@ onMounted(async () => {
 });
 
 onBeforeUnmount(async () => {
-    if (loggedIn) {
+    if (loggedIn.value) {
         await endReadingSession();
     }
 });
@@ -285,15 +286,17 @@ const loadBookmarks = async () => {
 };
 
 watch([() => route.query.chapter, () => route.query.book], async () => {
-    await loadNotes();
-    await loadBookmarks();
+    if (loggedIn.value) {
+        await loadNotes();
+        await loadBookmarks();
+    }
 });
 
 watch(selectedVersionCode, async () => {
-    if (user.value?.preferences?.notesPerVersion) {
+    if (loggedIn.value && user.value?.preferences?.notesPerVersion) {
         await loadNotes();
     }
-    if (user.value?.preferences?.bookmarksPerVersion) {
+    if (loggedIn.value && user.value?.preferences?.bookmarksPerVersion) {
         await loadBookmarks();
     }
 });

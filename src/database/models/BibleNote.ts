@@ -1,54 +1,94 @@
-import { Table, Column, Model, DataType, PrimaryKey, AutoIncrement, Default, ForeignKey, BelongsTo } from 'sequelize-typescript';
-import { User } from './User';
-import { BibleBook } from './BibleBook';
-import { BibleVerse } from './BibleVerse';
+import { type Sequelize, Model, DataTypes, type InferAttributes, type InferCreationAttributes, type CreationOptional, type NonAttribute, type ForeignKey } from 'sequelize';
 
-@Table({
-    tableName: 'bible_notes',
-    timestamps: true
-})
-export class BibleNote extends Model {
-    @PrimaryKey
-    @AutoIncrement
-    @Column(DataType.INTEGER)
-    declare id: number;
-
-    @Column(DataType.STRING)
+export class BibleNote extends Model<InferAttributes<BibleNote>, InferCreationAttributes<BibleNote>> {
+    declare id: CreationOptional<number>;
     declare title: string | null;
-
-    @Column(DataType.TEXT)
     declare content: string;
+    declare isPrivate: CreationOptional<boolean>;
+    declare userId: ForeignKey<number>;
+    declare bookId: ForeignKey<number>;
+    declare verseId: ForeignKey<number>;
+    declare createdAt: CreationOptional<Date>;
+    declare updatedAt: CreationOptional<Date>;
 
-    @Default(true)
-    @Column(DataType.BOOLEAN)
-    declare isPrivate: boolean;
+    // Associations typées
+    declare user?: NonAttribute<any>;
+    declare book?: NonAttribute<any>;
+    declare verse?: NonAttribute<any>;
 
-    @Default(DataType.NOW)
-    @Column(DataType.DATE)
-    declare createdAt: Date;
+    static associate(models: any) {
+        // BibleNote belongs to User
+        BibleNote.belongsTo(models.User, { foreignKey: 'userId', as: 'user' });
 
-    @Default(DataType.NOW)
-    @Column(DataType.DATE)
-    declare updatedAt: Date;
+        // BibleNote belongs to BibleBook
+        BibleNote.belongsTo(models.BibleBook, { foreignKey: 'bookId', as: 'book' });
 
-    @ForeignKey(() => User)
-    @Column(DataType.INTEGER)
-    declare userId: number;
+        // BibleNote belongs to BibleVerse
+        BibleNote.belongsTo(models.BibleVerse, { foreignKey: 'verseId', as: 'verse' });
+    }
 
-    @ForeignKey(() => BibleBook)
-    @Column(DataType.INTEGER)
-    declare bookId: number;
-
-    @ForeignKey(() => BibleVerse)
-    @Column(DataType.INTEGER)
-    declare verseId: number;
-
-    @BelongsTo(() => BibleBook)
-    declare book: BibleBook;
-
-    @BelongsTo(() => User)
-    declare user: User;
-
-    @BelongsTo(() => BibleVerse)
-    declare verse: BibleVerse;
+    static initialize(sequelizeInstance: Sequelize) {
+        BibleNote.init(
+            {
+                id: {
+                    type: DataTypes.INTEGER,
+                    primaryKey: true,
+                    autoIncrement: true
+                },
+                title: {
+                    type: DataTypes.STRING,
+                    allowNull: true
+                },
+                content: {
+                    type: DataTypes.TEXT,
+                    allowNull: false
+                },
+                isPrivate: {
+                    type: DataTypes.BOOLEAN,
+                    defaultValue: true,
+                    allowNull: false
+                },
+                userId: {
+                    type: DataTypes.INTEGER,
+                    allowNull: false,
+                    references: {
+                        model: 'users',
+                        key: 'id'
+                    }
+                },
+                bookId: {
+                    type: DataTypes.INTEGER,
+                    allowNull: false,
+                    references: {
+                        model: 'bible_books',
+                        key: 'id'
+                    }
+                },
+                verseId: {
+                    type: DataTypes.INTEGER,
+                    allowNull: false,
+                    references: {
+                        model: 'bible_verses',
+                        key: 'id'
+                    }
+                },
+                createdAt: {
+                    type: DataTypes.DATE,
+                    allowNull: false,
+                    defaultValue: DataTypes.NOW
+                },
+                updatedAt: {
+                    type: DataTypes.DATE,
+                    allowNull: true,
+                    defaultValue: null
+                }
+            },
+            {
+                sequelize: sequelizeInstance,
+                tableName: 'bible_notes',
+                timestamps: true,
+                modelName: 'BibleNote'
+            }
+        );
+    }
 }

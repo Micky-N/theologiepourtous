@@ -1,49 +1,83 @@
-import { Table, Column, Model, DataType, PrimaryKey, AutoIncrement, Default, ForeignKey, BelongsTo, HasMany } from 'sequelize-typescript';
-import { BibleBook } from './BibleBook';
-import { BibleVersion } from './BibleVersion';
-import { BibleBookmark } from './BibleBookmark';
-import { BibleNote } from './BibleNote';
+import { type Sequelize, Model, DataTypes, type InferAttributes, type InferCreationAttributes, type CreationOptional, type NonAttribute, type ForeignKey } from 'sequelize';
 
-@Table({
-    tableName: 'bible_verses',
-    timestamps: true
-})
-export class BibleVerse extends Model {
-    @PrimaryKey
-    @AutoIncrement
-    @Column(DataType.INTEGER)
-    declare id: number;
-
-    @Column(DataType.INTEGER)
+export class BibleVerse extends Model<InferAttributes<BibleVerse>, InferCreationAttributes<BibleVerse>> {
+    declare id: CreationOptional<number>;
     declare chapter: number;
-
-    @Column(DataType.INTEGER)
     declare verse: number;
-
-    @Column(DataType.TEXT)
     declare text: string;
+    declare versionId: ForeignKey<number>;
+    declare bookId: ForeignKey<number>;
+    declare createdAt: CreationOptional<Date>;
 
-    @Default(DataType.NOW)
-    @Column(DataType.DATE)
-    declare createdAt: Date;
+    // Associations typées
+    declare book?: NonAttribute<any>;
+    declare version?: NonAttribute<any>;
+    declare bookmarks?: NonAttribute<any[]>;
+    declare notes?: NonAttribute<any[]>;
 
-    @ForeignKey(() => BibleVersion)
-    @Column(DataType.INTEGER)
-    declare versionId: number;
+    static associate(models: any) {
+        // BibleVerse belongs to BibleBook
+        BibleVerse.belongsTo(models.BibleBook, { foreignKey: 'bookId', as: 'book' });
 
-    @ForeignKey(() => BibleBook)
-    @Column(DataType.INTEGER)
-    declare bookId: number;
+        // BibleVerse belongs to BibleVersion
+        BibleVerse.belongsTo(models.BibleVersion, { foreignKey: 'versionId', as: 'version' });
 
-    @BelongsTo(() => BibleBook)
-    declare book: BibleBook;
+        // BibleVerse has many BibleBookmarks
+        BibleVerse.hasMany(models.BibleBookmark, { foreignKey: 'verseId', as: 'bookmarks' });
 
-    @BelongsTo(() => BibleVersion)
-    declare version: BibleVersion;
+        // BibleVerse has many BibleNotes
+        BibleVerse.hasMany(models.BibleNote, { foreignKey: 'verseId', as: 'notes' });
+    }
 
-    @HasMany(() => BibleBookmark)
-    declare bookmarks: BibleBookmark[];
-
-    @HasMany(() => BibleNote)
-    declare notes: BibleNote[];
+    static initialize(sequelizeInstance: Sequelize) {
+        BibleVerse.init(
+            {
+                id: {
+                    type: DataTypes.INTEGER,
+                    primaryKey: true,
+                    autoIncrement: true
+                },
+                chapter: {
+                    type: DataTypes.INTEGER,
+                    allowNull: false
+                },
+                verse: {
+                    type: DataTypes.INTEGER,
+                    allowNull: false
+                },
+                text: {
+                    type: DataTypes.TEXT,
+                    allowNull: false
+                },
+                versionId: {
+                    type: DataTypes.INTEGER,
+                    allowNull: false,
+                    references: {
+                        model: 'bible_versions',
+                        key: 'id'
+                    }
+                },
+                bookId: {
+                    type: DataTypes.INTEGER,
+                    allowNull: false,
+                    references: {
+                        model: 'bible_books',
+                        key: 'id'
+                    }
+                },
+                createdAt: {
+                    type: DataTypes.DATE,
+                    allowNull: false,
+                    defaultValue: DataTypes.NOW
+                }
+            },
+            {
+                sequelize: sequelizeInstance,
+                tableName: 'bible_verses',
+                timestamps: true,
+                updatedAt: false,
+                modelName: 'BibleVerse'
+            }
+        );
+    }
 }

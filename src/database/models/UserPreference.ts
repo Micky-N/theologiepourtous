@@ -1,45 +1,78 @@
-import { Table, Column, Model, DataType, PrimaryKey, AutoIncrement, Default, ForeignKey, BelongsTo, Unique } from 'sequelize-typescript';
-import { User } from './User';
-import { BibleVersion } from './BibleVersion';
+import { type Sequelize, Model, DataTypes, type InferAttributes, type InferCreationAttributes, type CreationOptional, type NonAttribute, type ForeignKey } from 'sequelize';
 
-@Table({
-    tableName: 'user_preferences',
-    timestamps: true
-})
-export class UserPreference extends Model {
-    @PrimaryKey
-    @AutoIncrement
-    @Column(DataType.INTEGER)
-    declare id: number;
+export class UserPreference extends Model<InferAttributes<UserPreference>, InferCreationAttributes<UserPreference>> {
+    declare id: CreationOptional<number>;
+    declare defaultVersionId: ForeignKey<number> | null;
+    declare notesPerVersion: CreationOptional<boolean>;
+    declare bookmarksPerVersion: CreationOptional<boolean>;
+    declare userId: ForeignKey<number>;
+    declare createdAt: CreationOptional<Date>;
+    declare updatedAt: CreationOptional<Date>;
 
-    @ForeignKey(() => BibleVersion)
-    @Column(DataType.INTEGER)
-    declare defaultVersionId: number | null;
+    // Associations typées
+    declare user?: NonAttribute<any>;
+    declare defaultVersion?: NonAttribute<any>;
 
-    @Default(false)
-    @Column(DataType.BOOLEAN)
-    declare notesPerVersion: boolean;
+    static associate(models: any) {
+        // UserPreference belongs to User
+        UserPreference.belongsTo(models.User, { foreignKey: 'userId', as: 'user' });
 
-    @Default(false)
-    @Column(DataType.BOOLEAN)
-    declare bookmarksPerVersion: boolean;
+        // UserPreference belongs to BibleVersion (optional default version)
+        UserPreference.belongsTo(models.BibleVersion, { foreignKey: 'defaultVersionId', as: 'defaultVersion' });
+    }
 
-    @Default(DataType.NOW)
-    @Column(DataType.DATE)
-    declare createdAt: Date;
-
-    @Default(DataType.NOW)
-    @Column(DataType.DATE)
-    declare updatedAt: Date;
-
-    @Unique
-    @ForeignKey(() => User)
-    @Column(DataType.INTEGER)
-    declare userId: number;
-
-    @BelongsTo(() => BibleVersion)
-    declare defaultVersion: BibleVersion | null;
-
-    @BelongsTo(() => User)
-    declare user: User;
+    static initialize(sequelizeInstance: Sequelize) {
+        UserPreference.init(
+            {
+                id: {
+                    type: DataTypes.INTEGER,
+                    primaryKey: true,
+                    autoIncrement: true
+                },
+                defaultVersionId: {
+                    type: DataTypes.INTEGER,
+                    allowNull: true,
+                    references: {
+                        model: 'bible_versions',
+                        key: 'id'
+                    }
+                },
+                notesPerVersion: {
+                    type: DataTypes.BOOLEAN,
+                    defaultValue: false,
+                    allowNull: false
+                },
+                bookmarksPerVersion: {
+                    type: DataTypes.BOOLEAN,
+                    defaultValue: false,
+                    allowNull: false
+                },
+                userId: {
+                    type: DataTypes.INTEGER,
+                    unique: true,
+                    allowNull: false,
+                    references: {
+                        model: 'users',
+                        key: 'id'
+                    }
+                },
+                createdAt: {
+                    type: DataTypes.DATE,
+                    allowNull: false,
+                    defaultValue: DataTypes.NOW
+                },
+                updatedAt: {
+                    type: DataTypes.DATE,
+                    allowNull: true,
+                    defaultValue: null
+                }
+            },
+            {
+                sequelize: sequelizeInstance,
+                tableName: 'user_preferences',
+                timestamps: true,
+                modelName: 'UserPreference'
+            }
+        );
+    }
 }

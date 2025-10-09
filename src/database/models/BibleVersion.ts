@@ -1,53 +1,83 @@
-import { Table, Column, Model, DataType, PrimaryKey, AutoIncrement, Default, HasMany } from 'sequelize-typescript';
-import { BibleVerse } from './BibleVerse';
-import { ReadingSession } from './ReadingSession';
-import { UserPreference } from './UserPreference';
+import { type Sequelize, Model, DataTypes, type InferAttributes, type InferCreationAttributes, type CreationOptional, type NonAttribute } from 'sequelize';
 
-@Table({
-    tableName: 'bible_versions',
-    timestamps: true
-})
-export class BibleVersion extends Model {
-    @PrimaryKey
-    @AutoIncrement
-    @Column(DataType.INTEGER)
-    declare id: number;
-
-    @Column({ type: DataType.STRING, unique: true })
+export class BibleVersion extends Model<InferAttributes<BibleVersion>, InferCreationAttributes<BibleVersion>> {
+    declare id: CreationOptional<number>;
     declare code: string;
-
-    @Column(DataType.STRING)
     declare name: string;
-
-    @Default('fr')
-    @Column(DataType.STRING)
-    declare language: string;
-
-    @Column(DataType.INTEGER)
+    declare language: CreationOptional<string>;
     declare year: number | null;
+    declare isActive: CreationOptional<boolean>;
+    declare orderIndex: CreationOptional<number>;
+    declare createdAt: CreationOptional<Date>;
+    declare updatedAt: CreationOptional<Date>;
 
-    @Default(true)
-    @Column(DataType.BOOLEAN)
-    declare isActive: boolean;
+    // Associations typées
+    declare verses?: NonAttribute<any[]>;
+    declare readingSessions?: NonAttribute<any[]>;
+    declare userPreferences?: NonAttribute<any[]>;
 
-    @Default(0)
-    @Column(DataType.INTEGER)
-    declare orderIndex: number;
+    static associate(models: any) {
+        // BibleVersion has many BibleVerses
+        BibleVersion.hasMany(models.BibleVerse, { foreignKey: 'versionId', as: 'verses' });
 
-    @Default(DataType.NOW)
-    @Column(DataType.DATE)
-    declare createdAt: Date;
+        // BibleVersion has many ReadingSessions
+        BibleVersion.hasMany(models.ReadingSession, { foreignKey: 'versionId', as: 'readingSessions' });
 
-    @Default(DataType.NOW)
-    @Column(DataType.DATE)
-    declare updatedAt: Date;
+        // BibleVersion has many UserPreferences
+        BibleVersion.hasMany(models.UserPreference, { foreignKey: 'defaultVersionId', as: 'userPreferences' });
+    }
 
-    @HasMany(() => BibleVerse)
-    declare verses: BibleVerse[];
-
-    @HasMany(() => ReadingSession)
-    declare readingSessions: ReadingSession[];
-
-    @HasMany(() => UserPreference)
-    declare userPreferences: UserPreference[];
+    static initialize(sequelizeInstance: Sequelize) {
+        BibleVersion.init(
+            {
+                id: {
+                    type: DataTypes.INTEGER,
+                    primaryKey: true,
+                    autoIncrement: true
+                },
+                code: {
+                    type: DataTypes.STRING,
+                    unique: true,
+                    allowNull: false
+                },
+                name: {
+                    type: DataTypes.STRING,
+                    allowNull: false
+                },
+                language: {
+                    type: DataTypes.STRING,
+                    defaultValue: 'fr',
+                    allowNull: false
+                },
+                year: {
+                    type: DataTypes.INTEGER,
+                    allowNull: true
+                },
+                isActive: {
+                    type: DataTypes.BOOLEAN,
+                    defaultValue: true,
+                    allowNull: false
+                },
+                orderIndex: {
+                    type: DataTypes.INTEGER,
+                    defaultValue: 0,
+                    allowNull: false
+                },
+                createdAt: {
+                    type: DataTypes.DATE,
+                    defaultValue: DataTypes.NOW
+                },
+                updatedAt: {
+                    type: DataTypes.DATE,
+                    defaultValue: null
+                }
+            },
+            {
+                sequelize: sequelizeInstance,
+                tableName: 'bible_versions',
+                timestamps: true,
+                modelName: 'BibleVersion'
+            }
+        );
+    }
 }

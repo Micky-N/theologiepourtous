@@ -24,7 +24,8 @@ export default defineEventHandler(async (event) => {
             },
             count: books.length
         };
-    } catch {
+    } catch (error) {
+        console.error(error);
         throw createError({
             statusCode: 500,
             statusMessage: 'Erreur lors de la récupération des livres bibliques'

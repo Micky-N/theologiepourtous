@@ -1,53 +1,93 @@
-import { Table, Column, Model, DataType, PrimaryKey, AutoIncrement, Default, ForeignKey, BelongsTo } from 'sequelize-typescript';
-import { User } from './User';
-import { BibleVersion } from './BibleVersion';
+import { type Sequelize, Model, DataTypes, type InferAttributes, type InferCreationAttributes, type CreationOptional, type NonAttribute, type ForeignKey } from 'sequelize';
 
-@Table({
-    tableName: 'reading_sessions',
-    timestamps: true
-})
-export class ReadingSession extends Model {
-    @PrimaryKey
-    @AutoIncrement
-    @Column(DataType.INTEGER)
-    declare id: number;
-
-    @Column(DataType.DATE)
+export class ReadingSession extends Model<InferAttributes<ReadingSession>, InferCreationAttributes<ReadingSession>> {
+    declare id: CreationOptional<number>;
     declare startTime: Date;
-
-    @Column(DataType.DATE)
     declare endTime: Date | null;
-
-    @Column(DataType.INTEGER)
     declare duration: number | null;
+    declare chaptersRead: CreationOptional<string | null>;
+    declare isCompleted: CreationOptional<boolean>;
+    declare deviceType: CreationOptional<string | null>;
+    declare userId: ForeignKey<number>;
+    declare versionId: ForeignKey<number>;
+    declare createdAt: CreationOptional<Date>;
 
-    @Default('[]')
-    @Column(DataType.TEXT)
-    declare chaptersRead: string | null;
+    // Associations typées
+    declare user?: NonAttribute<any>;
+    declare version?: NonAttribute<any>;
 
-    @Default(false)
-    @Column(DataType.BOOLEAN)
-    declare isCompleted: boolean;
+    static associate(models: any) {
+        // ReadingSession belongs to User
+        ReadingSession.belongsTo(models.User, { foreignKey: 'userId', as: 'user' });
 
-    @Default('web')
-    @Column(DataType.STRING)
-    declare deviceType: string | null;
+        // ReadingSession belongs to BibleVersion
+        ReadingSession.belongsTo(models.BibleVersion, { foreignKey: 'versionId', as: 'version' });
+    }
 
-    @Default(DataType.NOW)
-    @Column(DataType.DATE)
-    declare createdAt: Date;
-
-    @ForeignKey(() => User)
-    @Column(DataType.INTEGER)
-    declare userId: number;
-
-    @ForeignKey(() => BibleVersion)
-    @Column(DataType.INTEGER)
-    declare versionId: number;
-
-    @BelongsTo(() => User)
-    declare user: User;
-
-    @BelongsTo(() => BibleVersion)
-    declare version: BibleVersion;
+    static initialize(sequelizeInstance: Sequelize) {
+        ReadingSession.init(
+            {
+                id: {
+                    type: DataTypes.INTEGER,
+                    primaryKey: true,
+                    autoIncrement: true
+                },
+                startTime: {
+                    type: DataTypes.DATE,
+                    allowNull: false
+                },
+                endTime: {
+                    type: DataTypes.DATE,
+                    allowNull: true
+                },
+                duration: {
+                    type: DataTypes.INTEGER,
+                    allowNull: true
+                },
+                chaptersRead: {
+                    type: DataTypes.TEXT,
+                    defaultValue: '[]',
+                    allowNull: true
+                },
+                isCompleted: {
+                    type: DataTypes.BOOLEAN,
+                    defaultValue: false,
+                    allowNull: false
+                },
+                deviceType: {
+                    type: DataTypes.STRING,
+                    defaultValue: 'web',
+                    allowNull: true
+                },
+                userId: {
+                    type: DataTypes.INTEGER,
+                    allowNull: false,
+                    references: {
+                        model: 'users',
+                        key: 'id'
+                    }
+                },
+                versionId: {
+                    type: DataTypes.INTEGER,
+                    allowNull: false,
+                    references: {
+                        model: 'bible_versions',
+                        key: 'id'
+                    }
+                },
+                createdAt: {
+                    type: DataTypes.DATE,
+                    allowNull: false,
+                    defaultValue: DataTypes.NOW
+                }
+            },
+            {
+                sequelize: sequelizeInstance,
+                tableName: 'reading_sessions',
+                timestamps: true,
+                updatedAt: false,
+                modelName: 'ReadingSession'
+            }
+        );
+    }
 }

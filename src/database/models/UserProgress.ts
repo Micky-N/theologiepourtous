@@ -1,33 +1,68 @@
-import { Model, Table, Column, DataType, ForeignKey, BelongsTo } from 'sequelize-typescript';
-import { User } from './User';
+import { type Sequelize, Model, DataTypes, type InferAttributes, type InferCreationAttributes, type CreationOptional, type NonAttribute, type ForeignKey } from 'sequelize';
 
-@Table({
-    tableName: 'user_progress',
-    timestamps: true
-})
-export class UserProgress extends Model {
-    @Column({ type: DataType.INTEGER, primaryKey: true, autoIncrement: true })
-    declare id: number;
-
-    @Column(DataType.STRING)
+export class UserProgress extends Model<InferAttributes<UserProgress>, InferCreationAttributes<UserProgress>> {
+    declare id: CreationOptional<number>;
     declare theme: string;
-
-    @Column({ type: DataType.TEXT, defaultValue: '[]' })
-    declare lessons: string | null;
-
-    @Column(DataType.DATE)
+    declare lessons: CreationOptional<string | null>;
     declare startedAt: Date | null;
+    declare userId: ForeignKey<number>;
+    declare createdAt: CreationOptional<Date>;
+    declare updatedAt: CreationOptional<Date>;
 
-    @Column({ type: DataType.DATE, defaultValue: DataType.NOW })
-    declare createdAt: Date;
+    // Associations typées
+    declare user?: NonAttribute<any>;
 
-    @Column({ type: DataType.DATE, defaultValue: DataType.NOW })
-    declare updatedAt: Date;
+    static associate(models: any) {
+        // UserProgress belongs to User
+        UserProgress.belongsTo(models.User, { foreignKey: 'userId', as: 'user' });
+    }
 
-    @ForeignKey(() => User)
-    @Column(DataType.INTEGER)
-    declare userId: number;
-
-    @BelongsTo(() => User)
-    declare user: User;
+    static initialize(sequelizeInstance: Sequelize) {
+        UserProgress.init(
+            {
+                id: {
+                    type: DataTypes.INTEGER,
+                    primaryKey: true,
+                    autoIncrement: true
+                },
+                theme: {
+                    type: DataTypes.STRING,
+                    allowNull: false
+                },
+                lessons: {
+                    type: DataTypes.TEXT,
+                    defaultValue: '[]',
+                    allowNull: true
+                },
+                startedAt: {
+                    type: DataTypes.DATE,
+                    allowNull: true
+                },
+                userId: {
+                    type: DataTypes.INTEGER,
+                    allowNull: false,
+                    references: {
+                        model: 'users',
+                        key: 'id'
+                    }
+                },
+                createdAt: {
+                    type: DataTypes.DATE,
+                    allowNull: false,
+                    defaultValue: DataTypes.NOW
+                },
+                updatedAt: {
+                    type: DataTypes.DATE,
+                    allowNull: true,
+                    defaultValue: null
+                }
+            },
+            {
+                sequelize: sequelizeInstance,
+                tableName: 'user_progress',
+                timestamps: true,
+                modelName: 'UserProgress'
+            }
+        );
+    }
 }

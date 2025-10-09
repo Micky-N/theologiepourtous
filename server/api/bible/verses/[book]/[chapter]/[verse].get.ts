@@ -124,10 +124,7 @@ export default defineEventHandler(async (event) => {
                 chapter: chapterNum,
                 verse: verseNumbers.length > 1 ? verseNumbers : verseNumbers[0]
             },
-            include: [
-                { model: BibleBook },
-                { model: BibleVersion }
-            ],
+            include: ['book', 'version'],
             order: [['verse', 'ASC']]
         });
 
