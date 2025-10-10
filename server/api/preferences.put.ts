@@ -55,7 +55,7 @@ export default defineEventHandler(async (event) => {
         const preferencesWithVersion = await UserPreference.findOne({
             where: { userId: userSession.id },
             include: [
-                { model: BibleVersion, as: 'defaultVersion', attributes: ['id', 'code', 'name'] }
+                { association: 'defaultVersion', attributes: ['id', 'code', 'name'] }
             ]
         });
 

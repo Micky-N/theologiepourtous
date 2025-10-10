@@ -59,11 +59,11 @@ export default defineEventHandler(async (event) => {
         const results = await BibleVerse.findAll({
             where: whereClause,
             include: [{
-                model: BibleBook,
+                association: 'book',
                 attributes: ['code', 'name', 'testament']
             }],
             order: [
-                [BibleBook, 'orderIndex', 'ASC'],
+                ['book', 'orderIndex', 'ASC'],
                 ['chapter', 'ASC'],
                 ['verse', 'ASC']
             ],

@@ -17,9 +17,7 @@ export default defineEventHandler(async (event) => {
 
         const preferences = await UserPreference.findOne({
             where: { userId },
-            include: [
-                { model: BibleVersion, as: 'defaultVersion' }
-            ]
+            include: ['defaultVersion']
         });
 
         if (!preferences) {
@@ -37,9 +35,7 @@ export default defineEventHandler(async (event) => {
 
             const newPreferencesWithVersion = await UserPreference.findOne({
                 where: { userId },
-                include: [
-                    { model: BibleVersion, as: 'defaultVersion' }
-                ]
+                include: ['defaultVersion']
             });
 
             return {
