@@ -1,7 +1,5 @@
 import { BibleBookmark } from '~~/src/database/models/BibleBookmark';
 import { BibleVerse } from '~~/src/database/models/BibleVerse';
-import { BibleBook } from '~~/src/database/models/BibleBook';
-import { BibleVersion } from '~~/src/database/models/BibleVersion';
 
 export default defineEventHandler(async (event) => {
     try {
@@ -28,9 +26,8 @@ export default defineEventHandler(async (event) => {
         }
 
         // Vérifier que le verset existe
-        const verse = await BibleVerse.findOne({
-            where: { id: verseId },
-            include: [BibleBook, BibleVersion]
+        const verse = await BibleVerse.findByPk(verseId, {
+            include: ['book', 'version']
         });
 
         if (!verse) {
@@ -65,9 +62,8 @@ export default defineEventHandler(async (event) => {
         });
 
         // Récupérer le bookmark avec les relations pour la réponse
-        const fullBookmark = await BibleBookmark.findOne({
-            where: { id: bookmark.id },
-            include: [BibleBook, BibleVerse]
+        const fullBookmark = await BibleBookmark.findByPk(bookmark.id, {
+            include: ['book', 'verse']
         });
 
         if (!fullBookmark) {

@@ -1,5 +1,4 @@
 import { BibleNote } from '~~/src/database/models/BibleNote';
-import { BibleBook } from '~~/src/database/models/BibleBook';
 import { BibleVerse } from '~~/src/database/models/BibleVerse';
 
 export default defineEventHandler(async (event) => {
@@ -27,9 +26,8 @@ export default defineEventHandler(async (event) => {
         }
 
         // Vérifier que le verset existe
-        const verse = await BibleVerse.findOne({
-            where: { id: verseId },
-            include: [BibleBook]
+        const verse = await BibleVerse.findByPk(verseId, {
+            include: 'book'
         });
 
         if (!verse) {
@@ -49,12 +47,8 @@ export default defineEventHandler(async (event) => {
             isPrivate: isPrivate !== false // par défaut true
         });
             // Récupérer la note avec relations
-        const fullNote = await BibleNote.findOne({
-            where: { id: note.id },
-            include: [
-                { model: BibleBook },
-                { model: BibleVerse }
-            ]
+        const fullNote = await BibleNote.findByPk(note.id, {
+            include: ['book', 'verse']
         });
 
         if (!fullNote) {

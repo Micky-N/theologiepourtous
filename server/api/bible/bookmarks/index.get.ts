@@ -1,6 +1,5 @@
 import { BibleBookmark } from '~~/src/database/models/BibleBookmark';
 import { BibleBook } from '~~/src/database/models/BibleBook';
-import { BibleVerse } from '~~/src/database/models/BibleVerse';
 import { BibleVersion } from '~~/src/database/models/BibleVersion';
 
 export default defineEventHandler(async (event) => {
@@ -54,8 +53,8 @@ export default defineEventHandler(async (event) => {
         const { rows: bookmarks, count: total } = await BibleBookmark.findAndCountAll({
             where: whereClause,
             include: [
-                { model: BibleBook },
-                { model: BibleVerse, include: [BibleVersion] }
+                'book',
+                { association: 'book', include: ['version'] }
             ],
             order: [['createdAt', 'DESC']],
             limit,

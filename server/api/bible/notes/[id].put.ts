@@ -1,6 +1,4 @@
 import { BibleNote } from '~~/src/database/models/BibleNote';
-import { BibleBook } from '~~/src/database/models/BibleBook';
-import { BibleVerse } from '~~/src/database/models/BibleVerse';
 
 export default defineEventHandler(async (event) => {
     try {
@@ -30,10 +28,7 @@ export default defineEventHandler(async (event) => {
         // Vérifier que la note existe et appartient à l'utilisateur
         const note = await BibleNote.findOne({
             where: { id: noteId, userId },
-            include: [
-                { model: BibleBook },
-                { model: BibleVerse }
-            ]
+            include: ['book', 'verse']
         });
         if (!note) {
             throw createError({

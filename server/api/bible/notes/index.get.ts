@@ -1,6 +1,5 @@
 import { BibleNote } from '~~/src/database/models/BibleNote';
 import { BibleBook } from '~~/src/database/models/BibleBook';
-import { BibleVerse } from '~~/src/database/models/BibleVerse';
 import { BibleVersion } from '~~/src/database/models/BibleVersion';
 import { UserPreference } from '~~/src/database/models/UserPreference';
 
@@ -18,9 +17,7 @@ export default defineEventHandler(async (event) => {
 
         const preferences = await UserPreference.findOne({
             where: { userId: userSession.id },
-            include: [
-                { model: BibleVersion, as: 'defaultVersion' }
-            ]
+            include: ['defaultVersion']
         });
 
         const userId = userSession.id;
@@ -73,8 +70,8 @@ export default defineEventHandler(async (event) => {
         const { rows: notes, count: total } = await BibleNote.findAndCountAll({
             where: whereClause,
             include: [
-                { model: BibleBook },
-                { model: BibleVerse, include: [BibleVersion] }
+                'book',
+                { association: 'verse', include: ['version'] }
             ],
             order: [['updatedAt', 'DESC']],
             limit,

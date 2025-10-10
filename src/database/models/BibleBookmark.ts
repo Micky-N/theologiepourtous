@@ -1,4 +1,7 @@
 import { type Sequelize, Model, DataTypes, type InferAttributes, type InferCreationAttributes, type CreationOptional, type NonAttribute, type ForeignKey } from 'sequelize';
+import type { BibleBook } from './BibleBook';
+import type { BibleVerse } from './BibleVerse';
+import type { User } from './User';
 
 export class BibleBookmark extends Model<InferAttributes<BibleBookmark>, InferCreationAttributes<BibleBookmark>> {
     declare id: CreationOptional<number>;
@@ -11,9 +14,9 @@ export class BibleBookmark extends Model<InferAttributes<BibleBookmark>, InferCr
     declare updatedAt: CreationOptional<Date>;
 
     // Associations typées
-    declare user?: NonAttribute<any>;
-    declare book?: NonAttribute<any>;
-    declare verse?: NonAttribute<any>;
+    declare user?: NonAttribute<User>;
+    declare book?: NonAttribute<BibleBook>;
+    declare verse?: NonAttribute<BibleVerse>;
 
     static associate(models: any) {
         // BibleBookmark belongs to User

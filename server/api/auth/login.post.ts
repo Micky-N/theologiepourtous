@@ -1,6 +1,5 @@
 import { User } from '~~/src/database/models/User';
 import { z } from 'zod';
-import { UserPreference } from '~~/src/database/models/UserPreference';
 
 // Schéma de validation pour la connexion
 const loginSchema = z.object({
@@ -25,7 +24,7 @@ export default defineEventHandler(async (event) => {
         // Trouver l'utilisateur
         const user = await User.findOne({
             where: { email },
-            include: UserPreference
+            include: 'preference'
         });
 
         if (!user) {
@@ -44,7 +43,7 @@ export default defineEventHandler(async (event) => {
             });
         }
 
-        const preferences = user.userPreference;
+        const preferences = user.preference;
 
         await setUserSession(event, {
             user: {
@@ -52,7 +51,12 @@ export default defineEventHandler(async (event) => {
                 name: user.name,
                 email: user.email,
                 role: user.role,
-                preferences
+                preferences: {
+                    defaultVersionId: preferences?.defaultVersionId || null,
+                    notesPerVersion: preferences?.notesPerVersion || false,
+                    bookmarksPerVersion: preferences?.bookmarksPerVersion || false,
+                    defaultVersion: preferences?.defaultVersion || null
+                }
             }
         });
 

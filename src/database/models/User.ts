@@ -1,4 +1,9 @@
 import { type Sequelize, Model, DataTypes, type InferAttributes, type InferCreationAttributes, type CreationOptional, type NonAttribute } from 'sequelize';
+import type { UserPreference } from './UserPreference';
+import type { UserProgress } from './UserProgress';
+import type { ReadingSession } from './ReadingSession';
+import type { BibleNote } from './BibleNote';
+import type { BibleBookmark } from './BibleBookmark';
 
 export class User extends Model<InferAttributes<User>, InferCreationAttributes<User>> {
     declare id: CreationOptional<number>;
@@ -11,11 +16,11 @@ export class User extends Model<InferAttributes<User>, InferCreationAttributes<U
     declare updatedAt: CreationOptional<Date>;
 
     // Associations typées
-    declare bibleBookmarks?: NonAttribute<any[]>;
-    declare bibleNotes?: NonAttribute<any[]>;
-    declare readingSessions?: NonAttribute<any[]>;
-    declare userPreference?: NonAttribute<any>;
-    declare userProgress?: NonAttribute<any[]>;
+    declare bibleBookmarks?: NonAttribute<BibleBookmark[]>;
+    declare bibleNotes?: NonAttribute<BibleNote[]>;
+    declare readingSessions?: NonAttribute<ReadingSession[]>;
+    declare preference?: NonAttribute<UserPreference>;
+    declare progress?: NonAttribute<UserProgress[]>;
 
     static associate(models: any) {
         // User has many BibleBookmarks
@@ -28,10 +33,10 @@ export class User extends Model<InferAttributes<User>, InferCreationAttributes<U
         User.hasMany(models.ReadingSession, { foreignKey: 'userId', as: 'readingSessions' });
 
         // User has one UserPreference
-        User.hasOne(models.UserPreference, { foreignKey: 'userId', as: 'userPreference' });
+        User.hasOne(models.UserPreference, { foreignKey: 'userId', as: 'preference' });
 
         // User has many UserProgress
-        User.hasMany(models.UserProgress, { foreignKey: 'userId', as: 'userProgress' });
+        User.hasMany(models.UserProgress, { foreignKey: 'userId', as: 'progress' });
     }
 
     static initialize(sequelizeInstance: Sequelize) {

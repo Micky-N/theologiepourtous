@@ -1,4 +1,6 @@
 import { type Sequelize, Model, DataTypes, type InferAttributes, type InferCreationAttributes, type CreationOptional, type NonAttribute, type ForeignKey } from 'sequelize';
+import type { User } from './User';
+import type { BibleVersion } from './BibleVersion';
 
 export class UserPreference extends Model<InferAttributes<UserPreference>, InferCreationAttributes<UserPreference>> {
     declare id: CreationOptional<number>;
@@ -10,8 +12,8 @@ export class UserPreference extends Model<InferAttributes<UserPreference>, Infer
     declare updatedAt: CreationOptional<Date>;
 
     // Associations typées
-    declare user?: NonAttribute<any>;
-    declare defaultVersion?: NonAttribute<any>;
+    declare user?: NonAttribute<User>;
+    declare defaultVersion?: NonAttribute<BibleVersion>;
 
     static associate(models: any) {
         // UserPreference belongs to User
