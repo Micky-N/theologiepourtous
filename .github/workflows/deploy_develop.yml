@@ -6,7 +6,6 @@ on:
       - develop
 
 jobs:
-  if: false
   build:
     runs-on: ubuntu-latest
 
@@ -28,8 +27,6 @@ jobs:
       with:
         host: ${{ secrets.VPS_HOST }}
         username: ${{ secrets.VPS_USER }}
-        key: ${{ secrets.VPS_SSH_KEY }}
-        port: ${{ secrets.VPS_PORT }}
         source: ".env.development"
         target: "/home/micky/theologiepourtous/.env"
 
@@ -38,8 +35,6 @@ jobs:
       with:
         host: ${{ secrets.VPS_HOST }}
         username: ${{ secrets.VPS_USER }}
-        key: ${{ secrets.VPS_SSH_KEY }}
-        port: ${{ secrets.VPS_PORT }}
         source: "dist.tar.gz"
         target: "/home/micky/theologiepourtous/"
 
@@ -48,8 +43,6 @@ jobs:
       with:
         host: ${{ secrets.VPS_HOST }}
         username: ${{ secrets.VPS_USER }}
-        key: ${{ secrets.VPS_SSH_KEY }}
-        port: ${{ secrets.VPS_PORT }}
         script: |
           cd /home/micky/theologiepourtous/
           tar -xzf dist.tar.gz
