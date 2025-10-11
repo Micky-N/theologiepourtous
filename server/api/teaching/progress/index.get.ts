@@ -1,6 +1,5 @@
-import { prisma } from '~~/lib/prisma';
+import { UserProgress } from '~~/src/database/models/UserProgress';
 import { createError } from 'h3';
-import type { UserProgress } from '@prisma/client';
 
 export default defineEventHandler<Promise<{ success: boolean; data: UserProgress[]; }>>(async (event) => {
     // Get authenticated user
@@ -13,7 +12,7 @@ export default defineEventHandler<Promise<{ success: boolean; data: UserProgress
     }
 
     // Find user progress for the theme
-    const progress = await prisma.userProgress.findMany({
+    const progress = await UserProgress.findAll({
         where: {
             userId: user.id
         }

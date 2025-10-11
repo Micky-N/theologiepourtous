@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import type { UserProgress } from '@prisma/client';
+import type { UserProgress } from '~~/src/database/models';
 
 const route = useRoute();
 const { loggedIn } = useUserSession();

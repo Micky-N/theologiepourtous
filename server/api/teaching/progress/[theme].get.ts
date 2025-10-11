@@ -1,6 +1,5 @@
-import { prisma } from '~~/lib/prisma';
+import { UserProgress } from '~~/src/database/models/UserProgress';
 import { createError } from 'h3';
-import type { UserProgress } from '@prisma/client';
 
 export default defineEventHandler<Promise<{ success: boolean; data: UserProgress | null; }>>(async (event) => {
     // Get authenticated user
@@ -15,7 +14,7 @@ export default defineEventHandler<Promise<{ success: boolean; data: UserProgress
     const theme = getRouterParam(event, 'theme');
 
     // Find user progress for the theme
-    const progress = await prisma.userProgress.findFirst({
+    const progress = await UserProgress.findOne({
         where: {
             userId: user.id,
             theme

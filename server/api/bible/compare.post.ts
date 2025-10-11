@@ -1,5 +1,8 @@
 import { z } from 'zod';
-import { prisma } from '~~/lib/prisma';
+import { BibleBook } from '~~/src/database/models/BibleBook';
+import { Op } from 'sequelize';
+import { BibleVersion } from '~~/src/database/models/BibleVersion';
+import { BibleVerse } from '~~/src/database/models/BibleVerse';
 
 // Schéma de validation pour la requête de comparaison
 const compareSchema = z.object({
@@ -28,9 +31,7 @@ export default defineEventHandler(async (event) => {
         const endVerse = verseEnd || verseStart;
 
         // Vérifier que le livre existe
-        const book = await prisma.bibleBook.findUnique({
-            where: { id: bookId }
-        });
+        const book = await BibleBook.findOne({ where: { id: bookId } });
 
         if (!book) {
             throw createError({
@@ -40,16 +41,9 @@ export default defineEventHandler(async (event) => {
         }
 
         // Vérifier que toutes les versions existent
-        const versionRecords = await prisma.bibleVersion.findMany({
-            where: {
-                id: { in: versions }
-            },
-            select: {
-                id: true,
-                code: true,
-                name: true,
-                language: true
-            }
+        const versionRecords = await BibleVersion.findAll({
+            where: { id: versions },
+            attributes: ['id', 'code', 'name', 'language']
         });
 
         if (versionRecords.length !== versions.length) {
@@ -61,21 +55,19 @@ export default defineEventHandler(async (event) => {
 
         // Récupérer les versets pour toutes les versions
         const comparisons = [];
-
         for (const version of versionRecords) {
-            const verses = await prisma.bibleVerse.findMany({
+            const verses = await BibleVerse.findAll({
                 where: {
                     versionId: version.id,
                     bookId,
                     chapter,
                     verse: {
-                        gte: verseStart,
-                        lte: endVerse
+                        [Op.gte]: verseStart,
+                        [Op.lte]: endVerse
                     }
                 },
-                orderBy: { verse: 'asc' }
+                order: [['verse', 'ASC']]
             });
-
             comparisons.push({
                 version,
                 verses
@@ -105,7 +97,5 @@ export default defineEventHandler(async (event) => {
             statusCode: 500,
             statusMessage: 'Erreur interne du serveur'
         });
-    } finally {
-        await prisma.$disconnect();
     }
 });

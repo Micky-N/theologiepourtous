@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import type { UserPreference } from '@prisma/client';
+import type { UserPreference } from '~~/src/database/models';
 import * as z from 'zod';
 
 const { preferences, updatePreferences, fetchPreferences } = useUserPreferences();

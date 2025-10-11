@@ -1,4 +1,4 @@
-import { prisma } from '~~/lib/prisma';
+import { User } from '~~/src/database/models/User';
 import { z } from 'zod';
 
 // Schéma de validation pour la connexion
@@ -22,8 +22,9 @@ export default defineEventHandler(async (event) => {
         const { email, password } = await readValidatedBody(event, loginSchema.parse);
 
         // Trouver l'utilisateur
-        const user = await prisma.user.findUnique({
-            where: { email }
+        const user = await User.findOne({
+            where: { email },
+            include: 'preference'
         });
 
         if (!user) {
@@ -42,12 +43,7 @@ export default defineEventHandler(async (event) => {
             });
         }
 
-        const preferences = await prisma.userPreference.findUnique({
-            where: { userId: user.id },
-            include: {
-                defaultVersion: true
-            }
-        });
+        const preferences = user.preference;
 
         await setUserSession(event, {
             user: {
@@ -55,15 +51,18 @@ export default defineEventHandler(async (event) => {
                 name: user.name,
                 email: user.email,
                 role: user.role,
-                preferences
+                preferences: {
+                    defaultVersionId: preferences?.defaultVersionId || null,
+                    notesPerVersion: preferences?.notesPerVersion || false,
+                    bookmarksPerVersion: preferences?.bookmarksPerVersion || false,
+                    defaultVersion: preferences?.defaultVersion || null
+                }
             }
         });
 
         // Mettre à jour la date de dernière connexion
-        await prisma.user.update({
-            where: { id: user.id },
-            data: { lastLogin: new Date() }
-        });
+        user.lastLogin = new Date();
+        await user.save();
 
         return {
             success: true,
@@ -87,7 +86,5 @@ export default defineEventHandler(async (event) => {
             statusCode: 500,
             statusMessage: 'Erreur interne du serveur'
         });
-    } finally {
-        await prisma.$disconnect();
     }
 });

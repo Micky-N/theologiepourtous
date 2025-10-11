@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import type { LessonsCollectionItem, ThemesCollectionItem } from '@nuxt/content';
-import type { UserProgress } from '@prisma/client';
+import type { UserProgress } from '~~/src/database/models';
 
 const { themes } = defineProps<{ themes: ThemesCollectionItem[]; }>();
 

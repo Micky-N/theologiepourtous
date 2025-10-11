@@ -1,4 +1,9 @@
-import { prisma } from '~~/lib/prisma';
+import { User } from '~~/src/database/models/User';
+import { BibleBookmark } from '~~/src/database/models/BibleBookmark';
+import { BibleNote } from '~~/src/database/models/BibleNote';
+import { ReadingSession } from '~~/src/database/models/ReadingSession';
+import { UserProgress } from '~~/src/database/models/UserProgress';
+import { UserPreference } from '~~/src/database/models/UserPreference';
 import { z } from 'zod';
 
 // Schéma de validation pour la suppression de compte
@@ -21,9 +26,7 @@ export default defineEventHandler(async (event) => {
         const { password } = await readValidatedBody(event, deleteAccountSchema.parse);
 
         // Récupérer l'utilisateur complet avec le mot de passe
-        const user = await prisma.user.findUnique({
-            where: { id: userSession.id }
-        });
+        const user = await User.findByPk(userSession.id);
 
         if (!user) {
             throw createError({
@@ -42,39 +45,12 @@ export default defineEventHandler(async (event) => {
         }
 
         // Supprimer toutes les données liées à l'utilisateur
-        await prisma.$transaction(async (tx) => {
-            // Supprimer les signets
-            await tx.bibleBookmark.deleteMany({
-                where: { userId: user.id }
-            });
-
-            // Supprimer les notes
-            await tx.bibleNote.deleteMany({
-                where: { userId: user.id }
-            });
-
-            // Supprimer les sessions de lecture
-            await tx.readingSession.deleteMany({
-                where: { userId: user.id }
-            });
-
-            // Supprimer les progrès utilisateur
-            await tx.userProgress.deleteMany({
-                where: { userId: user.id }
-            });
-
-            // Supprimer les préférences utilisateur
-            await tx.userPreference.delete({
-                where: { userId: user.id }
-            }).catch(() => {
-                // Ignore si pas de préférences
-            });
-
-            // Enfin, supprimer l'utilisateur
-            await tx.user.delete({
-                where: { id: user.id }
-            });
-        });
+        await BibleBookmark.destroy({ where: { userId: user.id } });
+        await BibleNote.destroy({ where: { userId: user.id } });
+        await ReadingSession.destroy({ where: { userId: user.id } });
+        await UserProgress.destroy({ where: { userId: user.id } });
+        await UserPreference.destroy({ where: { userId: user.id } });
+        await user.destroy();
 
         // Déconnecter l'utilisateur en vidant la session
         await clearUserSession(event);

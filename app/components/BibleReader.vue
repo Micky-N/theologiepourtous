@@ -7,7 +7,7 @@
                         <p>Chapitre</p>
                         <USelectMenu
                             :items="chapters"
-                            :model-value="chapter"
+                            :model-value="versesData.chapter"
                             placeholder="Chapitre"
                             class="w-32"
                             @update:model-value="handleChapterChange"
@@ -27,7 +27,7 @@
                 <BibleVerse
                     v-for="verse in currentVerses"
                     :key="verse.id"
-                    :book="book"
+                    :book="versesData.book"
                     :verse="verse"
                     :notes="getVerseNotes(verse.verse)"
                     :bookmark="getVerseBookmark(verse.verse)"
@@ -70,19 +70,21 @@
 </template>
 
 <script lang="ts" setup>
-import type { $Enums, BibleBook, BibleBookmark, BibleNote, BibleVerse, BibleVersion } from '@prisma/client';
 import { computed } from 'vue';
+import type { BibleBookmark, BibleNote, BibleVerse, BibleVersion } from '~~/src/database/models';
+import type { Testament } from '~~/src/enums/bibleType';
 
 interface ApiVerseResponseData {
     book: {
         name: string;
         code: string;
-        testament: $Enums.Testament;
+        testament: Testament;
     };
     chapter: number;
     version: {
         name: string;
         code: string;
+        id: number;
     };
     verses: BibleVerse[];
     navigation: {
@@ -100,21 +102,18 @@ interface ActivedVerse {
 }
 
 const props = defineProps<{
-    book: BibleBook;
-    chapter: number;
     versesData: ApiVerseResponseData;
     notes: (BibleNote & { verse: { chapter: number; verse: number; text: string; version: { code: string; name: string; }; }; })[];
     bookmarks: (BibleBookmark & { verse: { chapter: number; verse: number; text: string; version: { code: string; name: string; }; }; })[];
     versions: BibleVersion[];
-    selectedVersion: BibleVersion;
 }>();
 
 const showCompare = (verseId: number) => {
     activedVerse.value = {
-        book: { code: props.book.code, name: props.book.name },
+        book: { code: props.versesData.book.code, name: props.versesData.book.name },
         verseStart: verseId,
-        chapter: props.chapter,
-        version: props.selectedVersion.id
+        chapter: props.versesData.chapter,
+        version: props.versesData.version.id
     };
     openedCompare.value = true;
 };
@@ -123,10 +122,10 @@ const activedVerse = ref<ActivedVerse | null>(null);
 
 const addNote = (verseId: number) => {
     activedVerse.value = {
-        book: { code: props.book.code, name: props.book.name },
+        book: { code: props.versesData.book.code, name: props.versesData.book.name },
         verseStart: verseId,
-        chapter: props.chapter,
-        version: props.selectedVersion.id
+        chapter: props.versesData.chapter,
+        version: props.versesData.version.id
     };
     openedAddNote.value = true;
 };

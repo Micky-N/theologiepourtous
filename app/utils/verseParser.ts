@@ -1,4 +1,4 @@
-import type { BibleBook } from '@prisma/client';
+import type { BibleBook } from '~~/src/database/models';
 
 export type VerseObject = {
     book: string | null;

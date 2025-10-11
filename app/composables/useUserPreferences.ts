@@ -1,4 +1,4 @@
-import type { BibleVersion, UserPreference } from '@prisma/client';
+import type { BibleVersion, UserPreference } from '~~/src/database/models';
 
 export const useUserPreferences = () => {
     const preferences = ref<Pick<UserPreference, 'defaultVersionId' | 'notesPerVersion' | 'bookmarksPerVersion'> & { defaultVersion: BibleVersion | null; }>({
@@ -11,18 +11,18 @@ export const useUserPreferences = () => {
     const updatePreferences = async (
         payload: Pick<UserPreference, 'defaultVersionId' | 'notesPerVersion' | 'bookmarksPerVersion'>
     ) => {
-        const { data } = await $fetch<{ data: UserPreference; }>('/api/preferences', { method: 'PUT', body: payload });
+        const { data } = await $fetch<{ data: { defaultVersionId: BibleVersion['id'] | null; notesPerVersion: boolean; bookmarksPerVersion: boolean; }; }>('/api/preferences', { method: 'PUT', body: payload });
         preferences.value.defaultVersionId = data.defaultVersionId;
         preferences.value.notesPerVersion = data.notesPerVersion;
         preferences.value.bookmarksPerVersion = data.bookmarksPerVersion;
     };
 
     const fetchPreferences = async () => {
-        const { data } = await $fetch('/api/preferences', { method: 'GET' });
+        const { data } = await $fetch<{ data: { defaultVersionId: BibleVersion['id'] | null; notesPerVersion: boolean; bookmarksPerVersion: boolean; defaultVersion: BibleVersion | null; }; }>('/api/preferences', { method: 'GET' });
         preferences.value.defaultVersionId = data.defaultVersionId;
         preferences.value.notesPerVersion = data.notesPerVersion;
         preferences.value.bookmarksPerVersion = data.bookmarksPerVersion;
-        preferences.value.defaultVersion = data.defaultVersion as BibleVersion | null;
+        preferences.value.defaultVersion = data.defaultVersion;
         return preferences.value;
     };
 

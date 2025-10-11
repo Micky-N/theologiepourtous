@@ -1,15 +1,13 @@
-import { prisma } from '~~/lib/prisma';
+import { BibleBook } from '~~/src/database/models/BibleBook';
 
 export default defineEventHandler(async (event) => {
     try {
         const query = getQuery(event);
         const testament = query.testament as 'OLD' | 'NEW' | undefined;
 
-        const books = await prisma.bibleBook.findMany({
+        const books = await BibleBook.findAll({
             where: testament ? { testament } : undefined,
-            orderBy: {
-                orderIndex: 'asc'
-            }
+            order: [['orderIndex', 'ASC']]
         });
 
         // Grouper par testament pour l'UI
@@ -26,7 +24,8 @@ export default defineEventHandler(async (event) => {
             },
             count: books.length
         };
-    } catch {
+    } catch (error) {
+        console.error(error);
         throw createError({
             statusCode: 500,
             statusMessage: 'Erreur lors de la récupération des livres bibliques'

@@ -1,4 +1,4 @@
-import type { ReadingSession } from '@prisma/client';
+import type { ReadingSession } from '~~/src/database/models';
 import type {
     ReadingStatsResponse,
     CreateReadingSessionPayload,

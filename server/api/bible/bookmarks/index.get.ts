@@ -1,4 +1,6 @@
-import { prisma } from '~~/lib/prisma';
+import { BibleBookmark } from '~~/src/database/models/BibleBookmark';
+import { BibleBook } from '~~/src/database/models/BibleBook';
+import { BibleVersion } from '~~/src/database/models/BibleVersion';
 
 export default defineEventHandler(async (event) => {
     try {
@@ -12,12 +14,9 @@ export default defineEventHandler(async (event) => {
             });
         }
 
-        const preferences = await prisma.userPreference.findUnique({
-            where: { userId: userSession.id },
-            include: {
-                defaultVersion: true
-            }
-        });
+        // Sequelize : récupérer les préférences utilisateur
+        // (à adapter si UserPreference est utilisé dans la session ou via une requête séparée)
+        const preferences = userSession.preferences || null;
 
         const userId = userSession.id;
 
@@ -32,66 +31,50 @@ export default defineEventHandler(async (event) => {
 
         // Filtrer par livre si spécifié
         if (bookCode) {
-            const book = await prisma.bibleBook.findUnique({
-                where: { code: bookCode.toUpperCase() }
-            });
+            const book = await BibleBook.findOne({ where: { code: bookCode.toUpperCase() } });
             if (book) {
                 whereClause.bookId = book.id;
             }
 
             // Filtrer par chapitre si spécifié
             if (query.chapter) {
-                whereClause.verse = {
-                    chapter: parseInt(query.chapter as string)
-                };
+                whereClause['$verse.chapter$'] = parseInt(query.chapter as string);
             }
 
             if (preferences?.bookmarksPerVersion) {
                 const versionCode = (query.version as string | undefined)?.toUpperCase() || (preferences?.defaultVersion?.code || 'LSG');
-                const version = await prisma.bibleVersion.findUnique({
-                    where: { code: versionCode }
-                });
+                const version = await BibleVersion.findOne({ where: { code: versionCode } });
                 if (version) {
-                    whereClause.verse = {
-                        ...whereClause.verse,
-                        versionId: version.id
-                    };
+                    whereClause.versionId = version.id;
                 }
             }
         }
 
-        const [bookmarks, total] = await Promise.all([
-            prisma.bibleBookmark.findMany({
-                where: whereClause,
-                include: {
-                    book: true,
-                    verse: {
-                        include: {
-                            version: true
-                        }
-                    }
-                },
-                orderBy: {
-                    createdAt: 'desc'
-                },
-                take: limit,
-                skip: offset
-            }),
-            prisma.bibleBookmark.count({ where: whereClause })
-        ]);
+        const { rows: bookmarks, count: total } = await BibleBookmark.findAndCountAll({
+            where: whereClause,
+            include: [
+                'book',
+                { association: 'verse', include: ['version'] }
+            ],
+            order: [['createdAt', 'DESC']],
+            limit,
+            offset
+        });
 
         const formattedBookmarks = bookmarks.map(bookmark => ({
             id: bookmark.id,
             title: bookmark.title,
             color: bookmark.color,
-            reference: `${bookmark.book.name} ${bookmark.verse.chapter}:${bookmark.verse.verse}`,
+            reference: `${bookmark.book?.name} ${bookmark.verse?.chapter}:${bookmark.verse?.verse}`,
             book: bookmark.book,
-            verse: {
-                chapter: bookmark.verse.chapter,
-                verse: bookmark.verse.verse,
-                text: bookmark.verse.text,
-                version: bookmark.verse.version
-            },
+            verse: bookmark.verse
+                ? {
+                    chapter: bookmark.verse.chapter,
+                    verse: bookmark.verse.verse,
+                    text: bookmark.verse.text,
+                    version: bookmark.verse.version
+                }
+                : null,
             createdAt: bookmark.createdAt,
             updatedAt: bookmark.updatedAt
         }));
@@ -109,7 +92,8 @@ export default defineEventHandler(async (event) => {
             },
             count: bookmarks.length
         };
-    } catch {
+    } catch (error: any) {
+        console.error(error.message);
         throw createError({
             statusCode: 500,
             statusMessage: 'Erreur lors de la récupération des favoris'

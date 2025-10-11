@@ -123,7 +123,7 @@
 </template>
 
 <script lang="ts" setup>
-import type { BibleNote } from '@prisma/client';
+import type { BibleNote } from '~~/src/database/models';
 
 const { notes, book, verse, footer = true } = defineProps<{
     notes: BibleNote[];

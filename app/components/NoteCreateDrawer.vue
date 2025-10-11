@@ -45,7 +45,8 @@
 </template>
 
 <script lang="ts" setup>
-import type { BibleBook, BibleNote, BibleVerse } from '@prisma/client';
+import type { BibleNote, BibleVerse } from '~~/src/database/models';
+import type { Testament } from '~~/src/enums/bibleType';
 
 const emit = defineEmits<{
     (e: 'close' | 'refreshNote'): void;
@@ -54,7 +55,11 @@ const emit = defineEmits<{
 const { note = null, verse, book } = defineProps<{
     note?: BibleNote | null;
     verse: BibleVerse;
-    book: BibleBook;
+    book: {
+        name: string;
+        code: string;
+        testament: Testament;
+    };
 }>();
 const open = defineModel<boolean>('open', { default: false });
 const isEdit = ref(false);
