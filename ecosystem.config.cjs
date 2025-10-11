@@ -25,7 +25,7 @@ function baseConfig(mode) {
     return {
         'repo': 'git@github.com:Micky-N/theologiepourtous.git',
         'fetch': '--all',
-        'post-deploy': `cp .env.${mode} .env && npm install && npm run build`
+        'post-deploy': `cp .env.${mode} .env && npm install`
     };
 }
 
