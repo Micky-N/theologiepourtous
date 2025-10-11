@@ -38,7 +38,7 @@ export default defineEventHandler(async (event) => {
 
             // Filtrer par chapitre si spécifié
             if (query.chapter) {
-                whereClause.chapter = parseInt(query.chapter as string);
+                whereClause['$verse.chapter$'] = parseInt(query.chapter as string);
             }
 
             if (preferences?.bookmarksPerVersion) {
@@ -54,7 +54,7 @@ export default defineEventHandler(async (event) => {
             where: whereClause,
             include: [
                 'book',
-                { association: 'book', include: ['version'] }
+                { association: 'verse', include: ['version'] }
             ],
             order: [['createdAt', 'DESC']],
             limit,
@@ -92,7 +92,8 @@ export default defineEventHandler(async (event) => {
             },
             count: bookmarks.length
         };
-    } catch {
+    } catch (error: any) {
+        console.error(error.message);
         throw createError({
             statusCode: 500,
             statusMessage: 'Erreur lors de la récupération des favoris'

@@ -137,20 +137,38 @@ export default defineEventHandler(async (event) => {
 
         return {
             success: true,
-            data: bibleVerses,
+            data: {
+                book: {
+                    name: bibleBook.name,
+                    code: bibleBook.code,
+                    testament: bibleBook.testament
+                },
+                chapter: chapterNum,
+                version: {
+                    name: bibleVersion.name,
+                    code: bibleVersion.code,
+                    id: bibleVersion.id
+                },
+                verses: bibleVerses,
+                navigation: {
+                    previousChapter: chapterNum > 1 ? chapterNum - 1 : null,
+                    nextChapter: chapterNum < bibleBook.chapterCount ? chapterNum + 1 : null,
+                    totalChapters: bibleBook.chapterCount
+                }
+            },
             count: bibleVerses.length,
             meta: {
                 requested: verseParam,
                 normalized: verseNumbers,
                 summary,
-                book: bookCode,
+                book: { id: bibleBook.id, code: bibleBook.code, name: bibleBook.name },
                 chapter: chapterNum,
                 version: bibleVersion.code
             }
         };
     } catch (error: any) {
-        if (error.statusCode) throw error;
         console.error('Erreur lors de la récupération du/des verset(s):', error);
+        if (error.statusCode) throw error;
         throw createError({
             statusCode: 500,
             statusMessage: 'Erreur interne du serveur lors de la récupération des versets'

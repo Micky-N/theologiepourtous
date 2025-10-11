@@ -43,9 +43,7 @@ export default defineEventHandler(async (event) => {
 
             // Filtrer par chapitre si spécifié
             if (query.chapter) {
-                whereClause.verse = {
-                    chapter: parseInt(query.chapter as string)
-                };
+                whereClause['$verse.chapter$'] = parseInt(query.chapter as string);
             }
 
             if (preferences?.notesPerVersion) {
@@ -54,10 +52,7 @@ export default defineEventHandler(async (event) => {
                     where: { code: versionCode }
                 });
                 if (version) {
-                    whereClause.verse = {
-                        ...whereClause.verse,
-                        versionId: version.id
-                    };
+                    whereClause['$verse.versionId$'] = version.id;
                 }
             }
         }
@@ -114,7 +109,8 @@ export default defineEventHandler(async (event) => {
             },
             count: notes.length
         };
-    } catch {
+    } catch (error: any) {
+        console.error(error.message);
         throw createError({
             statusCode: 500,
             statusMessage: 'Erreur lors de la récupération des notes'
