@@ -22,15 +22,6 @@ jobs:
     - name: Archive build folder
       run: tar -czf dist.tar.gz .output
 
-    - name: Copy .env.development to .env on VPS
-      uses: appleboy/scp-action@v0.1.6
-      with:
-        host: ${{ secrets.VPS_HOST }}
-        username: ${{ secrets.VPS_USER }}
-        key: ${{ secrets.VPS_SSH_KEY }}
-        source: ".env.development"
-        target: "/home/micky/theologiepourtous/.env"
-
     - name: Copy build folder to VPS
       uses: appleboy/scp-action@v0.1.6
       with:
@@ -50,3 +41,12 @@ jobs:
           cd /home/micky/theologiepourtous/
           tar -xzf dist.tar.gz
           rm dist.tar.gz
+
+    - name: Copy .env.development to .env on VPS
+      uses: appleboy/scp-action@v0.1.6
+      with:
+        host: ${{ secrets.VPS_HOST }}
+        username: ${{ secrets.VPS_USER }}
+        key: ${{ secrets.VPS_SSH_KEY }}
+        source: ".env.development"
+        target: "/home/micky/theologiepourtous/.env"
