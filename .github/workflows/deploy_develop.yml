@@ -1,0 +1,56 @@
+name: Deploy to VPS
+
+on:
+  push:
+    branches:
+      - develop
+
+jobs:
+  if: false
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Install dependencies
+      run: npm install
+
+    - name: Build Nuxt 3 app
+      run: npm run build
+
+    - name: Archive build folder
+      run: tar -czf dist.tar.gz .output
+
+    - name: Copy .env.development to .env on VPS
+      uses: appleboy/scp-action@v0.1.6
+      with:
+        host: ${{ secrets.VPS_HOST }}
+        username: ${{ secrets.VPS_USER }}
+        key: ${{ secrets.VPS_SSH_KEY }}
+        port: ${{ secrets.VPS_PORT }}
+        source: ".env.development"
+        target: "/home/micky/theologiepourtous/.env"
+
+    - name: Copy build folder to VPS
+      uses: appleboy/scp-action@v0.1.6
+      with:
+        host: ${{ secrets.VPS_HOST }}
+        username: ${{ secrets.VPS_USER }}
+        key: ${{ secrets.VPS_SSH_KEY }}
+        port: ${{ secrets.VPS_PORT }}
+        source: "dist.tar.gz"
+        target: "/home/micky/theologiepourtous/"
+
+    - name: Extract files on VPS
+      uses: appleboy/ssh-action@v0.1.5
+      with:
+        host: ${{ secrets.VPS_HOST }}
+        username: ${{ secrets.VPS_USER }}
+        key: ${{ secrets.VPS_SSH_KEY }}
+        port: ${{ secrets.VPS_PORT }}
+        script: |
+          cd /home/micky/theologiepourtous/
+          tar -xzf dist.tar.gz
+          rm dist.tar.gz
