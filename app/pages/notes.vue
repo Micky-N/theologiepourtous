@@ -206,7 +206,7 @@
 </template>
 
 <script lang="ts" setup>
-import type { BibleBook, BibleNote, BibleVerse, BibleVersion } from '@prisma/client';
+import type { BibleBook, BibleNote, BibleVerse, BibleVersion } from '~~/src/database/models';
 
 definePageMeta({
     middleware: 'auth'

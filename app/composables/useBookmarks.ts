@@ -1,4 +1,4 @@
-import type { BibleBook, BibleBookmark, BibleVerse, BibleVersion } from '@prisma/client';
+import type { BibleBook, BibleBookmark, BibleVerse, BibleVersion } from '~~/src/database/models';
 
 interface BookmarkData extends BibleBookmark {
     book: BibleBook;

@@ -1,10 +1,11 @@
 <script setup lang="ts">
-import type { BibleBook, BibleVerse, BibleVersion } from '@prisma/client';
+import type { InferAttributes } from 'sequelize';
+import type { BibleBook, BibleVerse, BibleVersion } from '~~/src/database/models';
 
 // Types locaux simplifiés
 interface SimpleComparison {
     version: BibleVersion;
-    verses: BibleVerse[];
+    verses: InferAttributes<BibleVerse>[];
 }
 
 interface ActiveComparison {

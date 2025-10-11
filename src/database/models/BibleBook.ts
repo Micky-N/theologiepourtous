@@ -1,4 +1,5 @@
 import { type Sequelize, Model, DataTypes, type InferAttributes, type InferCreationAttributes, type CreationOptional, type NonAttribute } from 'sequelize';
+
 import type { Testament } from '../../enums/bibleType';
 
 export class BibleBook extends Model<InferAttributes<BibleBook>, InferCreationAttributes<BibleBook>> {

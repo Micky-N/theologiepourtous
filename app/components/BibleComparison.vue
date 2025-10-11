@@ -228,11 +228,11 @@
 </template>
 
 <script setup lang="ts">
-import type { BibleBook, BibleVerse, BibleVersion } from '@prisma/client';
+import type { BibleBook, BibleVerse, BibleVersion, InferAttributes } from '~~/src/database/models';
 
 interface Comparison {
     version: BibleVersion;
-    verses: BibleVerse[];
+    verses: InferAttributes<BibleVerse>[];
 }
 
 interface Props {
@@ -293,7 +293,7 @@ const removeVersion = (versionId: number) => {
     emit('removeVersion', versionId);
 };
 
-const copyVerse = async (verse: BibleVerse, version: BibleVersion) => {
+const copyVerse = async (verse: InferAttributes<BibleVerse>, version: BibleVersion) => {
     const text = `${props.book.name} ${props.chapter}:${verse.verse} (${version.code})\n"${verse.text}"`;
 
     try {

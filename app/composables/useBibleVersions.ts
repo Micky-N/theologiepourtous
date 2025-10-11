@@ -1,4 +1,4 @@
-import type { BibleVersion } from '@prisma/client';
+import type { BibleVersion } from '~~/src/database/models';
 
 export const useBibleVersions = () => {
     const versions = ref<BibleVersion[]>([]);
