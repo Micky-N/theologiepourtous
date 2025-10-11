@@ -1,4 +1,6 @@
-import { prisma } from '~~/lib/prisma';
+import { BibleBook } from '~~/src/database/models/BibleBook';
+import { BibleVersion } from '~~/src/database/models/BibleVersion';
+import { BibleVerse } from '~~/src/database/models/BibleVerse';
 
 export default defineEventHandler(async (event) => {
     try {
@@ -15,10 +17,7 @@ export default defineEventHandler(async (event) => {
         }
 
         // Vérifier que le livre existe
-        const book = await prisma.bibleBook.findUnique({
-            where: { code: bookCode.toUpperCase() }
-        });
-
+        const book = await BibleBook.findOne({ where: { code: bookCode.toUpperCase() } });
         if (!book) {
             throw createError({
                 statusCode: 404,
@@ -35,10 +34,7 @@ export default defineEventHandler(async (event) => {
         }
 
         // Récupérer la version
-        const version = await prisma.bibleVersion.findUnique({
-            where: { code: versionCode.toUpperCase() }
-        });
-
+        const version = await BibleVersion.findOne({ where: { code: versionCode.toUpperCase() } });
         if (!version) {
             throw createError({
                 statusCode: 404,
@@ -47,15 +43,13 @@ export default defineEventHandler(async (event) => {
         }
 
         // Récupérer les versets du chapitre
-        const verses = await prisma.bibleVerse.findMany({
+        const verses = await BibleVerse.findAll({
             where: {
                 bookId: book.id,
                 versionId: version.id,
                 chapter: chapterNum
             },
-            orderBy: {
-                verse: 'asc'
-            }
+            order: [['verse', 'ASC']]
         });
 
         return {

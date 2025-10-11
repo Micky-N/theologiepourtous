@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import type { BibleBook, UserProgress } from '@prisma/client';
+import type { BibleBook, UserProgress } from '~~/src/database/models';
 import { verseParser } from '../../../utils/verseParser';
 
 const { loggedIn } = useUserSession();

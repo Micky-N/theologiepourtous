@@ -1,4 +1,4 @@
-import { prisma } from '~~/lib/prisma';
+import { BibleBookmark } from '~~/src/database/models/BibleBookmark';
 
 export default defineEventHandler(async (event) => {
     try {
@@ -24,7 +24,7 @@ export default defineEventHandler(async (event) => {
         }
 
         // Vérifier que le bookmark existe et appartient à l'utilisateur
-        const bookmark = await prisma.bibleBookmark.findFirst({
+        const bookmark = await BibleBookmark.findOne({
             where: {
                 id: bookmarkId,
                 userId
@@ -39,7 +39,7 @@ export default defineEventHandler(async (event) => {
         }
 
         // Supprimer le bookmark
-        await prisma.bibleBookmark.delete({
+        await BibleBookmark.destroy({
             where: { id: bookmarkId }
         });
 

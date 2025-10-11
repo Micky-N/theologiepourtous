@@ -1,21 +1,11 @@
-import { prisma } from '~~/lib/prisma';
+import { BibleVersion } from '~~/src/database/models/BibleVersion';
 
 export default defineEventHandler(async () => {
     try {
-        const versions = await prisma.bibleVersion.findMany({
-            where: {
-                isActive: true
-            },
-            orderBy: {
-                orderIndex: 'asc'
-            },
-            select: {
-                id: true,
-                code: true,
-                name: true,
-                language: true,
-                year: true
-            }
+        const versions = await BibleVersion.findAll({
+            where: { isActive: true },
+            order: [['orderIndex', 'ASC']],
+            attributes: ['id', 'code', 'name', 'language', 'year']
         });
 
         return {

@@ -1,4 +1,5 @@
-import { prisma } from '~~/lib/prisma';
+import { BibleNote } from '~~/src/database/models/BibleNote';
+import { BibleVerse } from '~~/src/database/models/BibleVerse';
 
 export default defineEventHandler(async (event) => {
     try {
@@ -25,11 +26,8 @@ export default defineEventHandler(async (event) => {
         }
 
         // Vérifier que le verset existe
-        const verse = await prisma.bibleVerse.findUnique({
-            where: { id: verseId },
-            include: {
-                book: true
-            }
+        const verse = await BibleVerse.findByPk(verseId, {
+            include: 'book'
         });
 
         if (!verse) {
@@ -40,37 +38,34 @@ export default defineEventHandler(async (event) => {
         }
 
         // Créer la note
-        const note = await prisma.bibleNote.create({
-            data: {
-                userId,
-                verseId,
-                bookId: verse.bookId,
-                title: title || null,
-                content,
-                isPrivate: isPrivate !== false // par défaut true
-            },
-            include: {
-                book: {
-                    select: {
-                        id: true,
-                        name: true
-                    }
-                },
-                verse: {
-                    select: {
-                        id: true,
-                        chapter: true,
-                        verse: true,
-                        text: true
-                    }
-                }
-            }
+        const note = await BibleNote.create({
+            userId,
+            verseId,
+            bookId: verse.bookId,
+            title: title || null,
+            content,
+            isPrivate: isPrivate !== false // par défaut true
         });
+            // Récupérer la note avec relations
+        const fullNote = await BibleNote.findByPk(note.id, {
+            include: ['book', 'verse']
+        });
+
+        if (!fullNote) {
+            throw createError({
+                statusCode: 500,
+                statusMessage: 'Erreur lors de la récupération de la note créée'
+            });
+        }
 
         return {
             success: true,
             message: 'Note créée avec succès',
-            note
+            note: {
+                ...fullNote.toJSON(),
+                book: fullNote.book,
+                verse: fullNote.verse
+            }
         };
     } catch (error: any) {
         console.error('Erreur lors de la création de la note:', error);
@@ -83,7 +78,5 @@ export default defineEventHandler(async (event) => {
             statusCode: 500,
             statusMessage: 'Erreur interne du serveur'
         });
-    } finally {
-        await prisma.$disconnect();
     }
 });

@@ -124,10 +124,15 @@
 
 <script lang="ts" setup>
 import type { ContextMenuItem } from '@nuxt/ui';
-import type { BibleBook, BibleBookmark, BibleNote, BibleVerse } from '@prisma/client';
+import type { BibleBookmark, BibleNote, BibleVerse } from '~~/src/database/models';
+import type { Testament } from '~~/src/enums/bibleType';
 
 const props = defineProps<{
-    book: BibleBook;
+    book: {
+        name: string;
+        code: string;
+        testament: Testament;
+    };
     verse: BibleVerse;
     notes: BibleNote[];
     bookmark: BibleBookmark | null;

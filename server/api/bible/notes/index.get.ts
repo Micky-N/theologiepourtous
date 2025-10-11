@@ -1,4 +1,7 @@
-import { prisma } from '~~/lib/prisma';
+import { BibleNote } from '~~/src/database/models/BibleNote';
+import { BibleBook } from '~~/src/database/models/BibleBook';
+import { BibleVersion } from '~~/src/database/models/BibleVersion';
+import { UserPreference } from '~~/src/database/models/UserPreference';
 
 export default defineEventHandler(async (event) => {
     try {
@@ -12,11 +15,9 @@ export default defineEventHandler(async (event) => {
             });
         }
 
-        const preferences = await prisma.userPreference.findUnique({
+        const preferences = await UserPreference.findOne({
             where: { userId: userSession.id },
-            include: {
-                defaultVersion: true
-            }
+            include: ['defaultVersion']
         });
 
         const userId = userSession.id;
@@ -33,7 +34,7 @@ export default defineEventHandler(async (event) => {
 
         // Filtrer par livre si spécifié
         if (bookCode) {
-            const book = await prisma.bibleBook.findUnique({
+            const book = await BibleBook.findOne({
                 where: { code: bookCode.toUpperCase() }
             });
             if (book) {
@@ -42,21 +43,16 @@ export default defineEventHandler(async (event) => {
 
             // Filtrer par chapitre si spécifié
             if (query.chapter) {
-                whereClause.verse = {
-                    chapter: parseInt(query.chapter as string)
-                };
+                whereClause['$verse.chapter$'] = parseInt(query.chapter as string);
             }
 
             if (preferences?.notesPerVersion) {
                 const versionCode = (query.version as string | undefined)?.toUpperCase() || (preferences?.defaultVersion?.code || 'LSG');
-                const version = await prisma.bibleVersion.findUnique({
+                const version = await BibleVersion.findOne({
                     where: { code: versionCode }
                 });
                 if (version) {
-                    whereClause.verse = {
-                        ...whereClause.verse,
-                        versionId: version.id
-                    };
+                    whereClause['$verse.versionId$'] = version.id;
                 }
             }
         }
@@ -66,30 +62,44 @@ export default defineEventHandler(async (event) => {
             whereClause.isPrivate = isPrivate;
         }
 
-        const [notes, total] = await Promise.all([
-            prisma.bibleNote.findMany({
-                where: whereClause,
-                include: {
-                    book: true,
-                    verse: {
-                        include: {
-                            version: true
-                        }
-                    }
-                },
-                orderBy: {
-                    updatedAt: 'desc'
-                },
-                take: limit,
-                skip: offset
-            }),
-            prisma.bibleNote.count({ where: whereClause })
-        ]);
+        const { rows: notes, count: total } = await BibleNote.findAndCountAll({
+            where: whereClause,
+            include: [
+                'book',
+                { association: 'verse', include: ['version'] }
+            ],
+            order: [['updatedAt', 'DESC']],
+            limit,
+            offset
+        });
+
+        const formattedNotes = notes.map((note) => {
+            let verse = null;
+            if (note.verse) {
+                verse = {
+                    chapter: note.verse.chapter,
+                    verse: note.verse.verse,
+                    text: note.verse.text,
+                    version: note.verse.version
+                };
+            }
+            return {
+                id: note.id,
+                title: note.title,
+                content: note.content,
+                isPrivate: note.isPrivate,
+                reference: `${note.book?.name} ${note.verse?.chapter}:${note.verse?.verse}`,
+                book: note.book,
+                verse,
+                createdAt: note.createdAt,
+                updatedAt: note.updatedAt
+            };
+        });
 
         return {
             success: true,
             data: {
-                notes,
+                notes: formattedNotes,
                 pagination: {
                     total,
                     limit,
@@ -99,7 +109,8 @@ export default defineEventHandler(async (event) => {
             },
             count: notes.length
         };
-    } catch {
+    } catch (error: any) {
+        console.error(error.message);
         throw createError({
             statusCode: 500,
             statusMessage: 'Erreur lors de la récupération des notes'

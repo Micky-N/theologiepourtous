@@ -76,7 +76,7 @@
 </template>
 
 <script setup lang="ts">
-import type { BibleVersion } from '@prisma/client';
+import type { BibleVersion } from '~~/src/database/models';
 
 const props = defineProps<{
     availableVersions: BibleVersion[];

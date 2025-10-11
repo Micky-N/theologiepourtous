@@ -1,4 +1,6 @@
-import { prisma } from '~~/lib/prisma';
+import { BibleBook } from '~~/src/database/models/BibleBook';
+import { BibleVersion } from '~~/src/database/models/BibleVersion';
+import { BibleVerse } from '~~/src/database/models/BibleVerse';
 
 export default defineEventHandler(async (event) => {
     try {
@@ -18,9 +20,7 @@ export default defineEventHandler(async (event) => {
         }
 
         // Récupérer la version
-        const version = await prisma.bibleVersion.findUnique({
-            where: { code: versionCode.toUpperCase() }
-        });
+        const version = await BibleVersion.findOne({ where: { code: versionCode.toUpperCase() } });
 
         if (!version) {
             throw createError({
@@ -40,9 +40,7 @@ export default defineEventHandler(async (event) => {
 
         // Filtrer par livre si spécifié
         if (bookCode) {
-            const book = await prisma.bibleBook.findUnique({
-                where: { code: bookCode.toUpperCase() }
-            });
+            const book = await BibleBook.findOne({ where: { code: bookCode.toUpperCase() } });
             if (book) {
                 whereClause.bookId = book.id;
             }
@@ -50,38 +48,29 @@ export default defineEventHandler(async (event) => {
 
         // Filtrer par testament si spécifié
         if (testament && !bookCode) {
-            const booksInTestament = await prisma.bibleBook.findMany({
+            const booksInTestament = await BibleBook.findAll({
                 where: { testament },
-                select: { id: true }
+                attributes: ['id']
             });
-            whereClause.bookId = {
-                in: booksInTestament.map(b => b.id)
-            };
+            whereClause.bookId = booksInTestament.map(b => b.id);
         }
 
         // Rechercher les versets avec pagination
-        const [results, total] = await Promise.all([
-            prisma.bibleVerse.findMany({
-                where: whereClause,
-                include: {
-                    book: {
-                        select: {
-                            code: true,
-                            name: true,
-                            testament: true
-                        }
-                    }
-                },
-                orderBy: [
-                    { book: { orderIndex: 'asc' } },
-                    { chapter: 'asc' },
-                    { verse: 'asc' }
-                ],
-                take: limit,
-                skip: offset
-            }),
-            prisma.bibleVerse.count({ where: whereClause })
-        ]);
+        const results = await BibleVerse.findAll({
+            where: whereClause,
+            include: [{
+                association: 'book',
+                attributes: ['code', 'name', 'testament']
+            }],
+            order: [
+                ['book', 'orderIndex', 'ASC'],
+                ['chapter', 'ASC'],
+                ['verse', 'ASC']
+            ],
+            limit,
+            offset
+        });
+        const total = await BibleVerse.count({ where: whereClause });
 
         // Formatter les résultats avec highlighting
         const formattedResults = results.map(verse => ({

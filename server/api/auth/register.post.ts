@@ -1,5 +1,6 @@
-import { prisma } from '~~/lib/prisma';
 import { z } from 'zod';
+import { User } from '~~/src/database/models/User';
+import { UserPreference } from '~~/src/database/models/UserPreference';
 
 // Schéma de validation pour l'inscription
 const registerSchema = z.object({
@@ -31,10 +32,7 @@ export default defineEventHandler(async (event) => {
         const { name, email, password } = await readValidatedBody(event, registerSchema.parse);
 
         // Vérifier si l'utilisateur existe déjà
-        const existingUser = await prisma.user.findUnique({
-            where: { email }
-        });
-
+        const existingUser = await User.findOne({ where: { email } });
         if (existingUser) {
             throw createError({
                 statusCode: 409,
@@ -46,20 +44,19 @@ export default defineEventHandler(async (event) => {
         const hashedPassword = await hashPassword(password);
 
         // Créer l'utilisateur
-        const user = await prisma.user.create({
-            data: {
-                name,
-                email,
-                password: hashedPassword,
-                role: 'USER'
-            },
-            select: {
-                id: true,
-                name: true,
-                email: true,
-                role: true,
-                createdAt: true
-            }
+        const user = await User.create({
+            name,
+            email,
+            password: hashedPassword,
+            role: 'USER'
+        });
+
+        // Créer les préférences utilisateur par défaut
+        await UserPreference.create({
+            userId: user.id,
+            defaultVersionId: null,
+            notesPerVersion: false,
+            bookmarksPerVersion: false
         });
 
         await setUserSession(event, {
@@ -80,7 +77,13 @@ export default defineEventHandler(async (event) => {
         return {
             success: true,
             message: 'Inscription réussie',
-            user
+            user: {
+                id: user.id,
+                name: user.name,
+                email: user.email,
+                role: user.role,
+                createdAt: user.createdAt
+            }
         };
     } catch (error: any) {
         console.error('Erreur lors de l\'inscription:', error);
@@ -93,7 +96,5 @@ export default defineEventHandler(async (event) => {
             statusCode: 500,
             statusMessage: 'Erreur interne du serveur'
         });
-    } finally {
-        await prisma.$disconnect();
     }
 });
