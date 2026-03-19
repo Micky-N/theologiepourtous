@@ -1,0 +1,462 @@
+{
+  "bookCode": "ACT",
+  "chapter": 20,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "Quand le tumulte se fut apaisé, Paul convoqua les disciples pour les encourager. Puis il prit congé d’eux et partit pour la Macédoine.",
+        "DBY": "Or, après que le tumulte eut cessé, Paul fit venir les disciples, et les ayant embrassés, il partit pour aller en Macédoine.",
+        "KJV": "And after the uproar was ceased, Paul called unto [him] the disciples, and embraced [them], and departed for to go into Macedonia.",
+        "LSG": "Lorsque le tumulte eut cessé, Paul réunit les disciples, et, après les avoir exhortés, prit congé d'eux, et partit pour aller en Macédoine.",
+        "MAB": "Or après que le trouble fut cessé, Paul fit venir les disciples, et les ayant embrassés, il partit pour aller en Macédoine.",
+        "OST": "Après que le tumulte fut apaisé, Paul fit venir les disciples, et leur ayant dit adieu, partit pour aller en Macédoine.",
+        "S21": "Lorsque le tumulte eut cessé, Paul fit venir les disciples [et les encouragea], puis il prit congé d'eux et partit pour la Macédoine."
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "En parcourant cette province, il eut de nombreuses occasions d’encourager les croyants. De là, il passa en Grèce",
+        "DBY": "Et ayant traversé ces quartiers-là, et ayant beaucoup exhorté les disciples, il vint en Grèce.",
+        "KJV": "And when he had gone over those parts, and had given them much exhortation, he came into Greece,",
+        "LSG": "Il parcourut cette contrée, en adressant aux disciples de nombreuses exhortations. Puis il se rendit en Grèce,",
+        "MAB": "Et quand il eut passé par ces quartiers-là, et qu'il y eut fait plusieurs exhortations, il vint en Grèce.",
+        "OST": "Quand il eut parcouru ces quartiers-là, et qu'il eut exhorté les frères par plusieurs discours, il vint en Grèce.",
+        "S21": "Il parcourut cette région en adressant de nombreuses paroles d'encouragement aux croyants et se rendit en Grèce"
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "où il demeura trois mois. Au moment où il allait s’embarquer pour la Syrie, il apprit que les Juifs avaient formé un complot contre lui. Il décida alors de repasser par la Macédoine.",
+        "DBY": "Et après qu'il y eut séjourné trois mois, les Juifs lui ayant dressé des embûches comme il allait s'embarquer pour la Syrie, on fut d'avis de s'en retourner par la Macédoine.",
+        "KJV": "And [there] abode three months. And when the Jews laid wait for him, as he was about to sail into Syria, he purposed to return through Macedonia.",
+        "LSG": "où il séjourna trois mois. Il était sur le point de s'embarquer pour la Syrie, quand les Juifs lui dressèrent des embûches. Alors il se décida à reprendre la route de la Macédoine.",
+        "MAB": "Et après y avoir séjourné trois mois, les Juifs lui ayant dressé des embûches au cas qu'il fût allé s'embarquer pour la Syrie, on fut d'avis de retourner par la Macédoine.",
+        "OST": "Et quand il y eut demeuré trois mois, les Juifs lui ayant dressé des embûches, lorsqu'il allait s'embarquer pour la Syrie, on fut d'avis qu'il revînt par la Macédoine.",
+        "S21": "où il séjourna trois mois. Il était sur le point d'embarquer pour la Syrie, mais comme les Juifs formaient un complot contre lui, il décida de repartir par la Macédoine."
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "Ses compagnons étaient Sopater, fils de Pyrrhus, originaire de Bérée, Aristarque et Secondus de Thessalonique, Gaïus, de Derbe, Timothée, et enfin Tychique et Trophime de la province d’Asie.",
+        "DBY": "Et Sopater de Bérée, fils de Pyrrhus, l'accompagna jusqu'en Asie, et les Thessaloniciens Aristarque et Second, et Gaïus, et Timothée de Derbe, et Tychique et Trophime d'Asie.",
+        "KJV": "And there accompanied him into Asia Sopater of Berea; and of the Thessalonians, Aristarchus and Secundus; and Gaius of Derbe, and Timotheus; and of Asia, Tychicus and Trophimus.",
+        "LSG": "Il avait pour l'accompagner jusqu'en Asie: Sopater de Bérée, fils de Pyrrhus, Aristarque et Second de Thessalonique, Gaïus de Derbe, Timothée, ainsi que Tychique et Trophime, originaires d'Asie.",
+        "MAB": "Et Sopater Béréen le devait accompagner jusqu'en Asie; et d'entre les Thessaloniciens Aristarque et Second, avec Gaïus Derbien, et Timothée; et de ceux d'Asie, Tychique et Trophime.",
+        "OST": "Et il fut accompagné jusqu'en Asie par Sopater de Bérée, par Aristarque et Second de Thessalonique, Gaïus de Derbe, Timothée, et par Tychique et Trophime, d'Asie.",
+        "S21": "Il avait pour l'accompagner [jusqu'en Asie] Sopater de Bérée, [fils de Pyrrhus,] Aristarque et Secundus de Thessalonique, Gaïus de Derbe, Timothée, ainsi que Tychique et Trophime, originaires d'Asie."
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "Ils prirent les devants pour aller nous attendre à Troas.",
+        "DBY": "Ceux-ci ayant pris les devants, nous attendirent en Troade.",
+        "KJV": "These going before tarried for us at Troas.",
+        "LSG": "Ceux-ci prirent les devants, et nous attendirent à Troas.",
+        "MAB": "Ceux-ci donc étant allés devant, nous attendirent à Troas.",
+        "OST": "Ceux-ci étant allés devant, nous attendirent à Troas.",
+        "S21": "Ceux-ci prirent les devants et nous attendirent à Troas."
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "Quant à nous, nous nous sommes embarqués à Philippes après la fête des pains sans levain et, après une traversée de cinq jours, nous les avons rejoints à Troas où nous avons passé une semaine.",
+        "DBY": "Et pour nous, nous partîmes à force de voiles, de Philippes, après les jours des pains sans levain, et nous arrivâmes au bout de cinq jours auprès d'eux dans la Troade, et nous y séjournâmes sept jours.",
+        "KJV": "And we sailed away from Philippi after the days of unleavened bread, and came unto them to Troas in five days; where we abode seven days.",
+        "LSG": "Pour nous, après les jours des pains sans levain, nous nous embarquâmes à Philippes, et, au bout de cinq jours, nous les rejoignîmes à Troas, où nous passâmes sept jours.",
+        "MAB": "Et nous, ayant levé l'ancre à Philippes, après les jours des pains sans levain, nous arrivâmes au bout de cinq jours auprès d'eux à Troas, et nous y séjournâmes sept jours.",
+        "OST": "Pour nous, après les jours des pains sans levain, nous nous embarquâmes à Philippes, et en cinq jours nous les rejoignîmes à Troas, où nous demeurâmes sept jours.",
+        "S21": "De notre côté, après la fête des pains sans levain, nous avons embarqué à Philippes et, au bout de 5 jours, nous les avons rejoints à Troas où nous avons passé 7 jours."
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "Le dimanche, nous étions réunis pour rompre le pain. Comme il devait partir le lendemain, Paul s’entretenait avec les assistants et prolongea son discours jusque vers minuit.",
+        "DBY": "Et le premier jour de la semaine, lorsque nous étions assemblés pour rompre le pain, Paul qui devait partir le lendemain, leur fit un discours, et il prolongea le discours jusqu'à minuit.",
+        "KJV": "And upon the first [day] of the week, when the disciples came together to break bread, Paul preached unto them, ready to depart on the morrow; and continued his speech until midnight.",
+        "LSG": "Le premier jour de la semaine, nous étions réunis pour rompre le pain. Paul, qui devait partir le lendemain, s'entretenait avec les disciples, et il prolongea son discours jusqu'à minuit.",
+        "MAB": "Et le premier jour de la semaine, les disciples étant assemblés pour rompre le pain, Paul, qui devait partir le lendemain, leur fit un discours, qu'il étendit jusqu'à minuit.",
+        "OST": "Et le premier jour de la semaine, les disciples étant assemblés pour rompre le pain, Paul discourait avec eux, devant partir le lendemain, et il prolongea son discours jusqu'à minuit.",
+        "S21": "Le dimanche, nous étions réunis pour rompre le pain. Comme il devait partir le lendemain, Paul s'entretenait avec les disciples, et il a prolongé son discours jusqu'à minuit."
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "Nous étions réunis à l’étage supérieur de la maison, éclairé par de nombreuses lampes.",
+        "DBY": "Or il y avait beaucoup de lampes dans la chambre haute où nous étions assemblés.",
+        "KJV": "And there were many lights in the upper chamber, where they were gathered together.",
+        "LSG": "Il y avait beaucoup de lampes dans la chambre haute où nous étions assemblés.",
+        "MAB": "Or il y avait beaucoup de lampes dans la chambre haute où ils étaient assemblés.",
+        "OST": "Or, il y avait beaucoup de lampes dans la chambre haute où ils étaient assemblés.",
+        "S21": "Il y avait beaucoup de lampes dans la chambre à l'étage où nous étions rassemblés."
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "Un jeune homme nommé Eutychus s’était assis sur le rebord de la fenêtre et, comme Paul prolongeait encore l’entretien, il s’endormit profondément. Soudain, dans son sommeil, il perdit l’équilibre et tomba du troisième étage. Quand on le releva, il était mort.",
+        "DBY": "Et un jeune homme nommé Eutyche, qui était assis sur la fenêtre, accablé d'un profond sommeil, comme Paul prêchait très-longuement, tomba, accablé par le sommeil, du troisième étage en bas, et fut relevé mort.",
+        "KJV": "And there sat in a window a certain young man named Eutychus, being fallen into a deep sleep: and as Paul was long preaching, he sunk down with sleep, and fell down from the third loft, and was taken up dead.",
+        "LSG": "Or, un jeune homme nommé Eutychus, qui était assis sur la fenêtre, s'endormit profondément pendant le long discours de Paul; entraîné par le sommeil, il tomba du troisième étage en bas, et il fut relevé mort.",
+        "MAB": "Et un jeune homme nommé Eutyche, qui était assis sur une fenêtre, étant abattu d'un profond sommeil pendant le long discours de Paul, emporté du sommeil tomba en bas du troisième étage, et fut levé mort.",
+        "OST": "Et un jeune homme, nommé Eutyche, qui était assis sur la fenêtre, fut accablé d'un profond sommeil, pendant le long discours de Paul, et tout endormi, il tomba du troisième étage en bas, et fut relevé mort.",
+        "S21": "Or, un jeune homme du nom d'Eutychus était assis sur le bord de la fenêtre. Il s'est profondément endormi pendant le long discours de Paul et, entraîné par le sommeil, il est tombé du troisième étage. Quand on a cherché à le relever, il était mort."
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "Paul descendit, se pencha vers lui, le prit dans ses bras et dit:\r\n—Ne vous inquiétez pas! Il est encore en vie.",
+        "DBY": "Mais Paul étant descendu, se pencha sur lui, et l'ayant embrassé, il dit: Ne soyez pas troublés, car son âme est en lui.",
+        "KJV": "And Paul went down, and fell on him, and embracing [him] said, Trouble not yourselves; for his life is in him.",
+        "LSG": "Mais Paul, étant descendu, se pencha sur lui et le prit dans ses bras, en disant: Ne vous troublez pas, car son âme est en lui.",
+        "MAB": "Mais Paul étant descendu, se pencha sur lui, et l'embrassa, et dit : ne vous troublez point, car son âme est en lui.",
+        "OST": "Mais Paul étant descendu, se pencha sur lui, et le prenant entre ses bras, il dit: Ne vous troublez point, car son âme est en lui.",
+        "S21": "Mais Paul est descendu, s’est penché sur lui et l’a pris dans ses bras en disant: «Ne vous inquiétez pas, car son âme est en lui.»"
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "Il remonta, rompit le pain, mangea, et continua de parler jusqu’au point du jour. Puis il partit.",
+        "DBY": "Et après qu'il fut remonté, et qu'il eut rompu le pain et mangé, et qu'il eut conversé longtemps jusqu'à l'aube, il partit.",
+        "KJV": "When he therefore was come up again, and had broken bread, and eaten, and talked a long while, even till break of day, so he departed.",
+        "LSG": "Quand il fut remonté, il rompit le pain et mangea, et il parla longtemps encore jusqu'au jour. Après quoi il partit.",
+        "MAB": "Et après qu'il fut remonté, et qu'il eut rompu le pain, et mangé, et qu'il eut parlé longtemps jusqu'à l'aube du jour, il partit.",
+        "OST": "Puis étant remonté, et ayant rompu le pain, et mangé, il parla longtemps jusqu'au point du jour, après quoi il partit.",
+        "S21": "Ensuite il est remonté, a rompu le pain et a mangé. Il a poursuivi ses entretiens jusqu'à l'aube, puis il est parti."
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "Quant au jeune homme, il fut ramené chez lui indemne, au grand réconfort de tous.",
+        "DBY": "Et ils amenèrent le jeune garçon vivant, et furent extrêmement consolés.",
+        "KJV": "And they brought the young man alive, and were not a little comforted.",
+        "LSG": "Le jeune homme fut ramené vivant, et ce fut le sujet d'une grande consolation.",
+        "MAB": "Et ils amenèrent là le jeune homme vivant, de quoi ils furent extrêmement consolés.",
+        "OST": "Or, on emmena le jeune homme vivant, et ils furent extrêmement consolés.",
+        "S21": "Le jeune homme a été ramené vivant, à leur grande consolation."
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "Pour nous, nous avons pris les devants, et nous nous sommes embarqués sur un bateau qui nous a amenés à Assos, où nous devions prendre Paul, conformément à ce qu’il avait décidé. Car il voulait faire la route à pied jusque là.",
+        "DBY": "Or pour nous, ayant pris les devants sur un navire, nous fîmes voile vers Assos où nous devions prendre Paul à bord; car il l'avait ainsi ordonné, étant dans l'intention d'aller lui-même à pied.",
+        "KJV": "And we went before to ship, and sailed unto Assos, there intending to take in Paul: for so had he appointed, minding himself to go afoot.",
+        "LSG": "Pour nous, nous précédâmes Paul sur le navire, et nous fîmes voile pour Assos, où nous étions convenus de le reprendre, parce qu'il devait faire la route à pied.",
+        "MAB": "Or étant entrés dans le navire nous fûmes portés à Assos, où nous devions reprendre Paul : car il l'avait ainsi ordonné, ayant résolu de faire ce chemin à pied.",
+        "OST": "Pour nous, ayant pris les devants sur le navire, nous fîmes voile vers Assos, où nous devions reprendre Paul; car il l'avait ainsi ordonné, parce qu'il voulait faire le chemin à pied.",
+        "S21": "Quant à nous, nous avons pris les devants pour embarquer sur un bateau à destination d’Assos. Nous devions y reprendre Paul, conformément à ses instructions, car il voulait faire la route à pied."
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "Quand il nous eut rejoints à Assos, nous avons repris la mer ensemble. Après une escale à Mytilène,",
+        "DBY": "Et lorsqu'il nous eut rejoints à Assos, nous le prîmes à bord, et nous allâmes à Mitylène.",
+        "KJV": "And when he met with us at Assos, we took him in, and came to Mitylene.",
+        "LSG": "Lorsqu'il nous eut rejoints à Assos, nous le prîmes à bord, et nous allâmes à Mytilène.",
+        "MAB": "Et lorsqu'il nous eut rejoints à Assos, nous le prîmes avec nous, et nous allâmes à Mitylène.",
+        "OST": "Quand donc il nous eut rejoints à Assos, nous le prîmes et nous vînmes à Mitylène.",
+        "S21": "Lorsqu'il nous a rejoints à Assos, nous l'avons pris à bord et sommes allés à Mytilène."
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "nous avons passé le lendemain au large de Chio. Le jour suivant, nous jetions l’ancre à Samos et, un jour plus tard, nous abordions à Milet.",
+        "DBY": "Et ayant fait voile de là, nous arrivâmes le lendemain à la hauteur de Chios; et le jour suivant nous touchâmes à Samos; et nous étant arrêtés à Trogylle, nous vînmes le jour d'après, à Milet;",
+        "KJV": "And we sailed thence, and came the next [day] over against Chios; and the next [day] we arrived at Samos, and tarried at Trogyllium; and the next [day] we came to Miletus.",
+        "LSG": "De là, continuant par mer, nous arrivâmes le lendemain vis-à-vis de Chios. Le jour suivant, nous cinglâmes vers Samos, et le jour d'après nous vînmes à Milet.",
+        "MAB": "Puis étant partis de là, le jour suivant nous abordâmes vis-à-vis de Chios; le lendemain nous arrivâmes à Samos; et nous étant arrêtés à Trogyle, nous vînmes le jour d'après à Milet.",
+        "OST": "Nous y étant embarqués, nous arrivâmes le lendemain vis-à-vis de Chios. Le jour suivant, nous abordâmes à Samos, et nous étant arrêtés à Trogylle, le jour d'après, nous vînmes à Milet.",
+        "S21": "De là, continuant par la mer, nous sommes arrivés le lendemain en face de Chios. Le jour suivant nous sommes passés par Samos, et le jour d'après nous sommes arrivés à Milet."
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "Paul avait, en effet, décidé de dépasser Ephèse sans s’y arrêter pour ne pas risquer de s’attarder dans la province d’Asie. Il se hâtait pour être à Jérusalem, si possible, le jour de la Pentecôte.",
+        "DBY": "car Paul avait résolu de passer devant Éphèse, de manière à ne pas dépenser son temps en Asie; car il se hâtait pour être, s'il lui était possible, le jour de la Pentecôte, à Jérusalem.",
+        "KJV": "For Paul had determined to sail by Ephesus, because he would not spend the time in Asia: for he hasted, if it were possible for him, to be at Jerusalem the day of Pentecost.",
+        "LSG": "Paul avait résolu de passer devant Ephèse sans s'y arrêter, afin de ne pas perdre de temps en Asie; car il se hâtait pour se trouver, si cela lui était possible, à Jérusalem le jour de la Pentecôte.",
+        "MAB": "Car Paul s'était proposé de passer au delà d'Ephèse, afin de ne point séjourner en Asie ; parce qu'il se hâtait d'être, s'il lui était possible, le jour de la Pentecôte à Jérusalem.",
+        "OST": "Car Paul avait résolu de passer Éphèse, pour ne pas perdre de temps en Asie, parce qu'il se hâtait d'être à Jérusalem, si cela était possible, le jour de la Pentecôte.",
+        "S21": "Paul avait décidé de passer au large d'Ephèse sans s'y arrêter afin de ne pas perdre de temps en Asie; il se dépêchait en effet pour être, si possible, le jour de la Pentecôte à Jérusalem."
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "Pendant l’escale à Milet, il envoya quelqu’un à Ephèse pour demander aux responsables de l’Eglise de venir le rejoindre.",
+        "DBY": "Or il envoya de Milet à Éphèse, et appela auprès de lui les anciens de l'assemblée;",
+        "KJV": "And from Miletus he sent to Ephesus, and called the elders of the church.",
+        "LSG": "Cependant, de Milet Paul envoya chercher à Ephèse les anciens de l'Eglise.",
+        "MAB": "Or il envoya de Milet à Ephèse, pour faire venir les Anciens de l'Eglise;",
+        "OST": "Mais il envoya de Milet à Éphèse, pour faire venir les anciens de l'Église.",
+        "S21": "Cependant, de Milet, il a envoyé chercher à Ephèse les anciens de l'Eglise."
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "Quand ils furent arrivés auprès de lui, il leur dit:\r\n—Vous savez comment je me suis comporté pendant tout le temps que j’ai passé parmi vous, depuis le jour de mon arrivée dans la province d’Asie.",
+        "DBY": "et quand ils furent venus vers lui, il leur dit: Vous savez de quelle manière je me suis conduit envers vous tout le temps, depuis le premier jour que je suis entré en Asie,",
+        "KJV": "And when they were come to him, he said unto them, Ye know, from the first day that I came into Asia, after what manner I have been with you at all seasons,",
+        "LSG": "Lorsqu'ils furent arrivés vers lui, il leur dit: Vous savez de quelle manière, depuis le premier jour où je suis entré en Asie, je me suis sans cesse conduit avec vous,",
+        "MAB": "Qui étant venus vers lui, il leur dit : Vous savez de quelle manière je me suis toujours conduit avec vous dès le premier jour que je suis entré en Asie;",
+        "OST": "Et lorsqu'ils furent venus vers lui, il leur dit: Vous savez de quelle manière je me suis toujours conduit avec vous, depuis le premier jour que je suis entré en Asie;",
+        "S21": "Lorsqu'ils sont arrivés vers lui, il leur a dit:\r\n«Vous savez de quelle manière je me suis toujours comporté avec vous, depuis le jour où j’ai mis le pied en Asie:"
+      }
+    },
+    {
+      "verse": 19,
+      "texts": {
+        "BDS": "J’ai servi le Seigneur en toute humilité, avec des larmes, au milieu d’épreuves suscitées par les complots des Juifs.",
+        "DBY": "servant le Seigneur en toute humilité, et avec des larmes, et des épreuves qui me sont arrivées par les embûches des Juifs;",
+        "KJV": "Serving the Lord with all humility of mind, and with many tears, and temptations, which befell me by the lying in wait of the Jews:",
+        "LSG": "servant le Seigneur en toute humilité, avec larmes, et au milieu des épreuves que me suscitaient les embûches des Juifs.",
+        "MAB": "Servant le Seigneur en toute humilité, et avec beaucoup de larmes, et parmi beaucoup d'épreuves, qui me sont arrivées par les embûches des Juifs.",
+        "OST": "Servant le Seigneur en toute humilité, avec beaucoup de larmes et au milieu des épreuves qui me sont survenues par les embûches des Juifs;",
+        "S21": "j'ai servi le Seigneur en toute humilité, avec [beaucoup de] larmes et au milieu des épreuves que provoquaient pour moi les complots des Juifs."
+      }
+    },
+    {
+      "verse": 20,
+      "texts": {
+        "BDS": "Vous savez aussi que, sans rien vous cacher, je vous ai annoncé et enseigné tout ce qui pouvait vous être utile, soit publiquement, soit dans vos maisons.",
+        "DBY": "comment je n'ai rien caché des choses qui étaient profitables, en sorte que je ne vous eusse pas prêché et enseigné publiquement et dans les maisons,",
+        "KJV": "[And] how I kept back nothing that was profitable [unto you], but have shewed you, and have taught you publickly, and from house to house,",
+        "LSG": "Vous savez que je n'ai rien caché de ce qui vous était utile, et que je n'ai pas craint de vous prêcher et de vous enseigner publiquement et dans les maisons,",
+        "MAB": "Et comment je ne me suis épargné en rien de ce qui vous était utile, vous ayant prêché, et ayant enseigné publiquement, et par les maisons.",
+        "OST": "Et que je n'ai rien caché des choses qui vous étaient utiles, et n'ai pas manqué de vous les annoncer et de vous instruire en public, et de maison en maison;",
+        "S21": "Vous savez que, sans rien cacher, je vous ai annoncé et enseigné tout ce qui vous était utile, en public et dans les maisons,"
+      }
+    },
+    {
+      "verse": 21,
+      "texts": {
+        "BDS": "Sans cesse, j’ai appelé Juifs et Grecs à se tourner vers Dieu et à croire en Jésus, notre Seigneur.",
+        "DBY": "insistant et auprès des Juifs et auprès des Grecs sur la repentance envers Dieu et la foi en notre seigneur Jésus Christ.",
+        "KJV": "Testifying both to the Jews, and also to the Greeks, repentance toward God, and faith toward our Lord Jesus Christ.",
+        "LSG": "annonçant aux Juifs et aux Grecs la repentance envers Dieu et la foi en notre Seigneur Jésus-Christ.",
+        "MAB": "Conjurant les Juifs et les Grecs de se convertir à Dieu, et de croire en Jésus-Christ notre Seigneur.",
+        "OST": "Prêchant et aux Juifs et aux Grecs, la repentance envers Dieu, et la foi en Jésus-Christ notre Seigneur.",
+        "S21": "en appelant les Juifs et les non-Juifs à changer d’attitude en se tournant vers Dieu et à croire en notre Seigneur Jésus[-Christ]."
+      }
+    },
+    {
+      "verse": 22,
+      "texts": {
+        "BDS": "Et maintenant, me voici en route pour Jérusalem. L’Esprit m’y oblige, mais j’ignore ce qui m’y arrivera.",
+        "DBY": "Et maintenant, voici, étant lié dans mon esprit, je m'en vais à Jérusalem, ignorant les choses qui m'y doivent arriver,",
+        "KJV": "And now, behold, I go bound in the spirit unto Jerusalem, not knowing the things that shall befall me there:",
+        "LSG": "Et maintenant voici, lié par l'Esprit, je vais à Jérusalem, ne sachant pas ce qui m'y arrivera;",
+        "MAB": "Et maintenant voici, étant lié par l'Esprit, je m'en vais à Jérusalem, ignorant les choses qui m'y doivent arriver;",
+        "OST": "Et maintenant, lié par l'Esprit, je vais à Jérusalem, ne sachant pas ce qui m'y arrivera;",
+        "S21": "»Et maintenant, voici que, lié par l'Esprit, je vais à Jérusalem sans savoir ce qui m'y arrivera."
+      }
+    },
+    {
+      "verse": 23,
+      "texts": {
+        "BDS": "Tout ce que je sais, c’est que le Saint-Esprit m’avertit de ville en ville que je dois m’attendre à être emprisonné et à connaître bien des souffrances.",
+        "DBY": "sauf que l'Esprit Saint rend témoignage de ville en ville, me disant que des liens et de la tribulation m'attendent.",
+        "KJV": "Save that the Holy Ghost witnesseth in every city, saying that bonds and afflictions abide me.",
+        "LSG": "seulement, de ville en ville, l'Esprit-Saint m'avertit que des liens et des tribulations m'attendent.",
+        "MAB": "Sinon que le Saint-Esprit m'avertit de ville en ville, disant que des liens et des tribulations m'attendent.",
+        "OST": "Si ce n'est que le Saint-Esprit m'avertit de ville en ville, que des liens et des afflictions m'attendent.",
+        "S21": "Je sais seulement que, de ville en ville, l'Esprit saint m'avertit que des liens et des souffrances m'attendent."
+      }
+    },
+    {
+      "verse": 24,
+      "texts": {
+        "BDS": "Ma vie m’importe peu, je ne lui accorde aucun prix; mon but c’est d’aller jusqu’au bout de ma course et d’accomplir pleinement le service que le Seigneur m’a confié c’est-à-dire de proclamer la Bonne Nouvelle de la grâce de Dieu.",
+        "DBY": "Mais je ne fais aucun cas de ma vie, ni ne la tiens pour précieuse à moi-même, pourvu que j'achève ma course, et le service que j'ai reçu du Seigneur Jésus pour rendre témoignage à l'évangile de la grâce de Dieu.",
+        "KJV": "But none of these things move me, neither count I my life dear unto myself, so that I might finish my course with joy, and the ministry, which I have received of the Lord Jesus, to testify the gospel of the grace of God.",
+        "LSG": "Mais je ne fais pour moi-même aucun cas de ma vie, comme si elle m'était précieuse, pourvu que j'accomplisse ma course avec joie, et le ministère que j'ai reçu du Seigneur Jésus, d'annoncer la bonne nouvelle de la grâce de Dieu.",
+        "MAB": "Mais je ne fais cas de rien, et ma vie ne m'est point précieuse, pourvu qu'avec joie j'achève ma course, et le ministère que j'ai reçu du Seigneur Jésus, pour rendre témoignage à l'Evangile de la grâce de Dieu.",
+        "OST": "Mais je ne me mets en peine de rien, et ma vie ne m'est point précieuse, pourvu que j'achève avec joie ma course et le ministère que j'ai reçu du Seigneur Jésus, pour annoncer la bonne nouvelle de la grâce de Dieu.",
+        "S21": "Mais je n’y attache aucune importance et je ne considère pas ma vie comme précieuse, pourvu que j'accomplisse [avec joie] ma course et le ministère que le Seigneur Jésus m'a confié: annoncer la bonne nouvelle de la grâce de Dieu."
+      }
+    },
+    {
+      "verse": 25,
+      "texts": {
+        "BDS": "Et maintenant, je le sais: vous tous, au milieu de qui j’ai passé en prêchant le règne de Dieu, vous ne me reverrez plus.",
+        "DBY": "Et maintenant, voici, moi je sais que vous tous, parmi lesquels j'ai passé en prêchant le royaume de Dieu, vous ne verrez plus mon visage.",
+        "KJV": "And now, behold, I know that ye all, among whom I have gone preaching the kingdom of God, shall see my face no more.",
+        "LSG": "Et maintenant voici, je sais que vous ne verrez plus mon visage, vous tous au milieu desquels j'ai passé en prêchant le royaume de Dieu.",
+        "MAB": "Et maintenant voici, je sais qu'aucun de vous tous, parmi lesquels j'ai passé en prêchant le Royaume de Dieu, ne me verra plus.",
+        "OST": "Et maintenant voici, je sais que vous ne verrez plus mon visage, vous tous parmi lesquels j'ai passé en prêchant le royaume de Dieu.",
+        "S21": "»Désormais, je le sais, vous ne verrez plus mon visage, vous tous au milieu de qui j'ai passé en prêchant le royaume [de Dieu]."
+      }
+    },
+    {
+      "verse": 26,
+      "texts": {
+        "BDS": "C’est pourquoi je vous le déclare solennellement aujourd’hui: je suis dégagé de toute responsabilité à votre égard,",
+        "DBY": "C'est pourquoi je vous prends aujourd'hui à témoin, que je suis net du sang de tous;",
+        "KJV": "Wherefore I take you to record this day, that I [am] pure from the blood of all [men].",
+        "LSG": "C'est pourquoi je vous déclare aujourd'hui que je suis pur du sang de vous tous,",
+        "MAB": "C'est pourquoi je vous prends aujourd'hui à témoin, que je suis net du sang de tous.",
+        "OST": "C'est pourquoi je proteste aujourd'hui devant vous, que je suis net du sang de vous tous.",
+        "S21": "C'est pourquoi je vous déclare aujourd'hui que je suis pur du sang de vous tous,"
+      }
+    },
+    {
+      "verse": 27,
+      "texts": {
+        "BDS": "car je vous ai annoncé tout le plan de Dieu, sans rien passer sous silence.",
+        "DBY": "car je n'ai mis aucune réserve à vous annoncer tout le conseil de Dieu.",
+        "KJV": "For I have not shunned to declare unto you all the counsel of God.",
+        "LSG": "car je vous ai annoncé tout le conseil de Dieu, sans en rien cacher.",
+        "MAB": "Car je ne me suis point épargné à vous annoncer tout le conseil de Dieu.",
+        "OST": "Car je vous ai annoncé tout le dessein de Dieu, sans en rien cacher.",
+        "S21": "car je vous ai annoncé tout le plan de Dieu sans rien en cacher."
+      }
+    },
+    {
+      "verse": 28,
+      "texts": {
+        "BDS": "Veillez donc sur vous-mêmes et sur tout le troupeau de l’Eglise que le Saint-Esprit a confié à votre garde. Comme de bons bergers, prenez soin de l’Eglise de Dieu qu’il s’est acquise par son sacrifice.",
+        "DBY": "Prenez donc garde à vous-mêmes, et à tout le troupeau, au milieu duquel l'Esprit Saint vous a établis surveillants pour paître l'assemblée de Dieu, laquelle il a acquise par le sang de son propre fils.",
+        "KJV": "Take heed therefore unto yourselves, and to all the flock, over the which the Holy Ghost hath made you overseers, to feed the church of God, which he hath purchased with his own blood.",
+        "LSG": "Prenez donc garde à vous-mêmes, et à tout le troupeau sur lequel le Saint-Esprit vous a établis évêques, pour paître l'Eglise du Seigneur, qu'il s'est acquise par son propre sang.",
+        "MAB": "Prenez donc garde à vous-mêmes, et à tout le troupeau sur lequel le Saint-Esprit vous a établis Evêques, pour paître l'Eglise de Dieu, laquelle il a acquise par son propre sang.",
+        "OST": "Prenez donc garde à vous-mêmes, et à tout le troupeau sur lequel le Saint-Esprit vous a établis évêques, pour paître l'Église de Dieu, qu'il a acquise par son propre sang.",
+        "S21": "Faites donc bien attention à vous-mêmes et à tout le troupeau dont le Saint-Esprit vous a confié la responsabilité; prenez soin de l'Eglise de Dieu qu'il s'est acquise par son propre sang."
+      }
+    },
+    {
+      "verse": 29,
+      "texts": {
+        "BDS": "Je le sais: quand je ne serai plus là, des loups féroces se glisseront parmi vous, et ils seront sans pitié pour le troupeau.",
+        "DBY": "Moi je sais qu'après mon départ il entrera parmi vous des loups redoutables qui n'épargneront pas le troupeau;",
+        "KJV": "For I know this, that after my departing shall grievous wolves enter in among you, not sparing the flock.",
+        "LSG": "Je sais qu'il s'introduira parmi vous, après mon départ, des loups cruels qui n'épargneront pas le troupeau,",
+        "MAB": "Car je sais qu'après mon départ il entrera parmi vous des loups très dangereux, qui n'épargneront point le troupeau.",
+        "OST": "Car je sais qu'après mon départ, il s'introduira parmi vous des loups ravissants, qui n'épargneront point le troupeau;",
+        "S21": "Je sais qu'après mon départ des loups cruels s'introduiront parmi vous, et ils n'épargneront pas le troupeau;"
+      }
+    },
+    {
+      "verse": 30,
+      "texts": {
+        "BDS": "De vos propres rangs surgiront des hommes qui emploieront un langage mensonger pour se faire des disciples.",
+        "DBY": "et il se lèvera d'entre vous-mêmes des hommes qui annonceront des doctrines perverses pour attirer les disciples après eux.",
+        "KJV": "Also of your own selves shall men arise, speaking perverse things, to draw away disciples after them.",
+        "LSG": "et qu'il s'élèvera du milieu de vous des hommes qui enseigneront des choses pernicieuses, pour entraîner les disciples après eux.",
+        "MAB": "Et qu'il se lèvera d'entre vous-mêmes des hommes qui annonceront des doctrines corrompues dans la vue d'attirer des disciples après eux.",
+        "OST": "Et qu'il s'élèvera parmi vous des hommes qui annonceront des doctrines pernicieuses, afin d'attirer les disciples après eux.",
+        "S21": "de vos propres rangs surgiront des hommes qui donneront des enseignements pervertis pour entraîner les disciples à leur suite."
+      }
+    },
+    {
+      "verse": 31,
+      "texts": {
+        "BDS": "Soyez donc vigilants! Rappelez-vous que, pendant trois années, la nuit comme le jour, je n’ai cessé de vous conseiller un à un, et parfois même avec larmes.",
+        "DBY": "C'est pourquoi veillez, vous souvenant que, durant trois ans, je n'ai cessé nuit et jour d'avertir chacun de vous avec larmes.",
+        "KJV": "Therefore watch, and remember, that by the space of three years I ceased not to warn every one night and day with tears.",
+        "LSG": "Veillez donc, vous souvenant que, durant trois années, je n'ai cessé nuit et jour d'exhorter avec larmes chacun de vous.",
+        "MAB": "C'est pourquoi veillez, vous souvenant que durant l'espace de trois ans, je n'ai cessé nuit et jour d'avertir un chacun de vous.",
+        "OST": "Veillez donc, vous souvenant que durant trois ans je n'ai cessé, nuit et jour, d'avertir chacun de vous avec larmes.",
+        "S21": "Restez donc vigilants et souvenez-vous que durant 3 ans, nuit et jour, je n'ai pas cessé d'avertir avec larmes chacun de vous."
+      }
+    },
+    {
+      "verse": 32,
+      "texts": {
+        "BDS": "Et maintenant il ne me reste plus qu’à vous confier à Dieu et à sa Parole de grâce. Il a le pouvoir de vous faire grandir dans la foi et de vous assurer l’héritage qu’il vous réserve avec tous ceux qui lui appartiennent.",
+        "DBY": "Et maintenant je vous recommande à Dieu, et à la parole de sa grâce, qui a la puissance d'édifier et de vous donner un héritage avec tous les sanctifiés.",
+        "KJV": "And now, brethren, I commend you to God, and to the word of his grace, which is able to build you up, and to give you an inheritance among all them which are sanctified.",
+        "LSG": "Et maintenant je vous recommande à Dieu et à la parole de sa grâce, à celui qui peut édifier et donner l'héritage avec tous les sanctifiés.",
+        "MAB": "Et maintenant, mes frères, je vous recommande à Dieu, et à la parole de sa grâce, lequel est puissant pour achever de vous édifier, et pour vous donner l'héritage avec tous les Saints.",
+        "OST": "Et maintenant, frères, je vous recommande à Dieu et à la parole de sa grâce, lui qui peut vous édifier et vous donner l'héritage avec tous les saints.",
+        "S21": "»Et maintenant, [frères,] je vous confie à Dieu et au message de sa grâce, lui qui a le pouvoir d'édifier et de [vous] donner un héritage avec tous les saints."
+      }
+    },
+    {
+      "verse": 33,
+      "texts": {
+        "BDS": "Je n’ai désiré ni l’argent, ni l’or, ni les vêtements de personne.",
+        "DBY": "Je n'ai convoité ni l'argent, ni l'or, ni la robe de personne.",
+        "KJV": "I have coveted no man's silver, or gold, or apparel.",
+        "LSG": "Je n'ai désiré ni l'argent, ni l'or, ni les vêtements de personne.",
+        "MAB": "Je n'ai convoité ni l'argent, ni l'or, ni la robe de personne.",
+        "OST": "Je n'ai désiré ni l'argent, ni l'or, ni les vêtements de personne.",
+        "S21": "Je n'ai désiré ni l'argent, ni l'or, ni les habits de personne."
+      }
+    },
+    {
+      "verse": 34,
+      "texts": {
+        "BDS": "Regardez mes mains: ce sont elles, vous le savez bien, qui ont pourvu à mes besoins et à ceux de mes compagnons.",
+        "DBY": "Vous savez vous-mêmes que ces mains ont été employées pour mes besoins et pour les personnes qui étaient avec moi.",
+        "KJV": "Yea, ye yourselves know, that these hands have ministered unto my necessities, and to them that were with me.",
+        "LSG": "Vous savez vous-mêmes que ces mains ont pourvu à mes besoins et à ceux des personnes qui étaient avec moi.",
+        "MAB": "Et vous savez vous-mêmes que ces mains m'ont fourni les choses qui m'étaient nécessaires, et à ceux qui étaient avec moi.",
+        "OST": "Et vous savez vous-mêmes que ces mains ont pourvu à mes besoins et à ceux des personnes qui étaient avec moi.",
+        "S21": "Vous le savez vous-mêmes, les mains que voici ont pourvu à mes besoins et à ceux de mes compagnons."
+      }
+    },
+    {
+      "verse": 35,
+      "texts": {
+        "BDS": "Je vous ai montré partout et toujours qu’il faut travailler ainsi pour aider les pauvres. Souvenons-nous de ce que le Seigneur Jésus lui-même a dit: «Il y a plus de bonheur à donner qu’à recevoir.»",
+        "DBY": "Je vous ai montré en toutes choses, qu'en travaillant ainsi il nous faut secourir les faibles, et nous souvenir des paroles du Seigneur Jésus, qui lui-même a dit: Il est plus heureux de donner que de recevoir.",
+        "KJV": "I have shewed you all things, how that so labouring ye ought to support the weak, and to remember the words of the Lord Jesus, how he said, ‹It is more blessed to give than to receive.›",
+        "LSG": "Je vous ai montré de toutes manières que c'est en travaillant ainsi qu'il faut soutenir les faibles, et se rappeler les paroles du Seigneur, qui a dit lui-même: Il y a plus de bonheur à donner qu'à recevoir.",
+        "MAB": "Je vous ai montré en toutes choses qu'en travaillant ainsi il faut supporter les infirmes, et se souvenir des paroles du Seigneur Jésus, qui a dit qu'on est plus heureux de pouvoir donner que d'être appelé à recevoir.",
+        "OST": "Je vous ai montré en toutes choses, que c'est ainsi qu'en travaillant, il faut secourir les faibles, et se souvenir des paroles du Seigneur Jésus, qui a dit lui-même: Il y a plus de bonheur à donner qu'à recevoir.",
+        "S21": "En tout, je vous ai montré qu'il faut travailler ainsi pour soutenir les faibles et se rappeler les paroles du Seigneur Jésus, puisqu’il a lui-même dit: ‘Il y a plus de bonheur à donner qu'à recevoir.’»"
+      }
+    },
+    {
+      "verse": 36,
+      "texts": {
+        "BDS": "Après avoir ainsi parlé, Paul se mit à genoux et pria avec eux.",
+        "DBY": "Et ayant dit ces choses, il se mit à genoux et pria avec eux tous.",
+        "KJV": "And when he had thus spoken, he kneeled down, and prayed with them all.",
+        "LSG": "Après avoir ainsi parlé, il se mit à genoux, et il pria avec eux tous.",
+        "MAB": "Et quand [Paul] eut dit ces paroles, il se mit à genoux, et fit la prière avec eux tous.",
+        "OST": "Quand il eut dit cela, il se mit à genoux, et pria avec eux tous.",
+        "S21": "Après avoir dit cela, il s’est mis à genoux et a prié avec eux tous."
+      }
+    },
+    {
+      "verse": 37,
+      "texts": {
+        "BDS": "Tous, alors, éclatèrent en sanglots et ils se jetaient au cou de Paul pour l’embrasser.",
+        "DBY": "Et ils versaient tous beaucoup de larmes, et se jetant au cou de Paul, ils le couvraient de baisers,",
+        "KJV": "And they all wept sore, and fell on Paul's neck, and kissed him,",
+        "LSG": "Et tous fondirent en larmes, et, se jetant au cou de Paul, ils l'embrassaient,",
+        "MAB": "Alors tous se fondirent en larmes, et se jetant au cou de Paul, ils le baisaient;",
+        "OST": "Alors tous fondirent en larmes, et se jetant au cou de Paul, ils le baisaient,",
+        "S21": "Tous ont alors fondu en larmes; ils se jetaient au cou de Paul et l'embrassaient,"
+      }
+    },
+    {
+      "verse": 38,
+      "texts": {
+        "BDS": "Ce qui les affligeait surtout, c’était de l’avoir entendu dire qu’ils ne le reverraient plus. Puis ils l’accompagnèrent jusqu’au bateau.",
+        "DBY": "étant surtout peinés de la parole qu'il avait dite, qu'ils ne verraient plus son visage. Et ils l'accompagnèrent au navire.",
+        "KJV": "Sorrowing most of all for the words which he spake, that they should see his face no more. And they accompanied him unto the ship.",
+        "LSG": "affligés surtout de ce qu'il avait dit qu'ils ne verraient plus son visage. Et ils l'accompagnèrent jusqu'au navire.",
+        "MAB": "Etant tristes principalement à cause de cette parole qu'il leur avait dite, qu'ils ne le verraient plus, et ils le conduisirent au navire.",
+        "OST": "Affligés principalement de ce qu'il avait dit, qu'ils ne verraient plus son visage. Et ils le conduisirent jusqu'au vaisseau.",
+        "S21": "attristés surtout parce qu'il avait dit qu'ils ne verraient plus son visage. Puis ils l'ont accompagné jusqu'au bateau."
+      }
+    }
+  ]
+}

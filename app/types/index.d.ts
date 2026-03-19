@@ -1,12 +1,103 @@
-import type { BibleBook, BibleBookmark, BibleNote, BibleReadingProgress, BibleVerse, BibleVersion } from '@prisma/client';
-
 // ============================================================================
 // ENUMS
 // ============================================================================
 
-export enum Testament {
-    OLD = 'OLD',
-    NEW = 'NEW'
+export type Testament = 'OLD' | 'NEW';
+
+export interface BibleBookData {
+    id: number;
+    code: string;
+    name: string;
+    testament: Testament;
+    orderIndex: number;
+    chapterCount: number;
+    createdAt?: string | Date;
+    updatedAt?: string | Date;
+}
+
+export interface BibleVersionData {
+    id: number;
+    code: string;
+    name: string;
+    language: string;
+    year: number | null;
+    isActive?: boolean;
+    orderIndex?: number;
+    createdAt?: string;
+    updatedAt?: string;
+}
+
+export interface BibleVerseData {
+    id: number;
+    chapter: number;
+    verse: number;
+    text: string;
+    createdAt: string | Date;
+    versionId: number;
+    bookId: number;
+}
+
+export interface BibleVerseWithContext extends BibleVerseData {
+    book: BibleBookData;
+    version: BibleVersionData;
+}
+
+export interface BibleNoteData {
+    id: number;
+    title: string | null;
+    content: string;
+    isPrivate: boolean;
+    createdAt: string | Date;
+    updatedAt: string | Date;
+}
+
+export interface BibleBookmarkData {
+    id: number;
+    title: string | null;
+    color: string | null;
+    createdAt: string | Date;
+    updatedAt: string | Date;
+}
+
+export interface BibleVersePreview {
+    chapter: number;
+    verse: number;
+    text: string;
+    version: Pick<BibleVersionData, 'code' | 'name'>;
+}
+
+export interface BibleNoteWithVersePreview extends BibleNoteData {
+    verse: BibleVersePreview;
+}
+
+export interface BibleBookmarkWithVersePreview extends BibleBookmarkData {
+    verse: BibleVersePreview;
+}
+
+export interface UserPreferencesData {
+    defaultVersionOrderIndex: number | null;
+    notesPerVersion: boolean;
+    bookmarksPerVersion: boolean;
+    defaultVersion: BibleVersionData | null;
+}
+
+export interface BibleVerseResponseData {
+    book: {
+        name: string;
+        code: string;
+        testament: Testament;
+    };
+    chapter: number;
+    version: {
+        name: string;
+        code: string;
+    };
+    verses: BibleVerseData[];
+    navigation: {
+        previousChapter: number | null;
+        nextChapter: number | null;
+        totalChapters: number;
+    };
 }
 
 // ============================================================================
@@ -14,17 +105,16 @@ export enum Testament {
 // ============================================================================
 
 export interface BibleVerseWithRelations extends BibleVerse {
-    version?: BibleVersion;
-    book?: BibleBook;
-    bookmarks?: BibleBookmark[];
-    notes?: BibleNote[];
+    version?: BibleVersionData;
+    book?: BibleBookData;
+    bookmarks?: BibleBookmarkData[];
+    notes?: BibleNoteData[];
 }
 
-export interface BibleBookWithRelations extends BibleBook {
-    verses?: BibleVerse[];
-    bookmarks?: BibleBookmark[];
-    notes?: BibleNote[];
-    readingProgress?: BibleReadingProgress[];
+export interface BibleBookWithRelations extends BibleBookData {
+    verses?: BibleVerseData[];
+    bookmarks?: BibleBookmarkData[];
+    notes?: BibleNoteData[];
 }
 
 // ============================================================================
@@ -50,58 +140,6 @@ export interface ReadingAverages {
     chaptersPerSession: number;
 }
 
-export type ReadingStats = {
-    date: Date;
-    totalReadingTime: number;
-    chaptersRead: number;
-    versesRead?: number;
-    sessionsCount: number;
-};
-
-export type ProgressWithBook = {
-    book: BibleBook;
-    completionPercentage: number;
-    lastReadAt: Date;
-    isCompleted: boolean;
-};
-
-// ============================================================================
-// TYPES D'API
-// ============================================================================
-
-export interface ReadingStatsResponse {
-    summary: {
-        totalSessions: number;
-        totalReadingTime: number;
-        totalChaptersRead: number;
-        currentStreak: number;
-        longestStreak: number;
-        averages: ReadingAverages;
-    };
-    dailyStats: ReadingStats[];
-    bookProgress: ProgressWithBook[];
-    topBooks: Array<{
-        name: string;
-        sessions: number;
-        totalTime: number;
-    }>;
-    timePreferences: Record<string, number>;
-}
-
-export interface CreateReadingSessionPayload {
-    versionId: number;
-    startTime?: Date;
-    deviceType?: string;
-}
-
-export interface UpdateReadingSessionPayload {
-    endTime?: Date;
-    duration?: number;
-    chaptersRead?: string[];
-    versesRead?: number;
-    isCompleted?: boolean;
-}
-
 // ============================================================================
 // TYPES DE COMPARAISON BIBLIQUE
 // ============================================================================
@@ -109,7 +147,7 @@ export interface UpdateReadingSessionPayload {
 export interface BibleComparison {
     reference: VerseReference;
     versions: Array<{
-        version: BibleVersion;
+        version: BibleVersionData;
         text: string;
     }>;
 }
@@ -138,8 +176,8 @@ export interface SearchResult {
     verse: BibleVerseWithRelations;
     relevanceScore: number;
     context: {
-        previousVerse?: BibleVerse;
-        nextVerse?: BibleVerse;
+        previousVerse?: BibleVerseData;
+        nextVerse?: BibleVerseData;
     };
 }
 
@@ -173,7 +211,17 @@ export interface ExportOptions {
 }
 
 export interface ImportData {
-    bookmarks?: Omit<BibleBookmark, 'id' | 'userId' | 'createdAt' | 'updatedAt'>[];
-    notes?: Omit<BibleNote, 'id' | 'userId' | 'createdAt' | 'updatedAt'>[];
+    bookmarks?: Array<Omit<BibleBookmarkData, 'id' | 'createdAt' | 'updatedAt'> & {
+        bookId?: number;
+        versionId?: number;
+        chapter: number;
+        verse: number;
+    }>;
+    notes?: Array<Omit<BibleNoteData, 'id' | 'createdAt' | 'updatedAt'> & {
+        bookId?: number;
+        versionId?: number;
+        chapter: number;
+        verse: number;
+    }>;
     preferences?: Partial<ReadingPreferences>;
 }

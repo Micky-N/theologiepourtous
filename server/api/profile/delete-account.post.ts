@@ -53,11 +53,6 @@ export default defineEventHandler(async (event) => {
                 where: { userId: user.id }
             });
 
-            // Supprimer les sessions de lecture
-            await tx.readingSession.deleteMany({
-                where: { userId: user.id }
-            });
-
             // Supprimer les progrès utilisateur
             await tx.userProgress.deleteMany({
                 where: { userId: user.id }

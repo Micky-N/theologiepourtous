@@ -1,0 +1,858 @@
+{
+  "bookCode": "LUK",
+  "chapter": 22,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "On était à quelques jours de la fête «des pains sans levain», appelée la Pâque.",
+        "DBY": "Or la fête des pains sans levain, qui est appelée la Pâque, approchait.",
+        "KJV": "Now the feast of unleavened bread drew nigh, which is called the Passover.",
+        "LSG": "La fête des pains sans levain, appelée la Pâque, approchait.",
+        "MAB": "Or la fête des pains sans levain, qu'on appelle Pâque, approchait.",
+        "OST": "La fête des pains sans levain, appelée la Pâque, approchait.",
+        "S21": "La fête des pains sans levain, appelée la Pâque, approchait."
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "Les chefs des prêtres et les spécialistes de la Loi cherchaient un moyen de supprimer Jésus, mais ils avaient peur de la réaction du peuple.",
+        "DBY": "Et les principaux sacrificateurs et les scribes cherchaient comment ils pourraient le faire mourir; car ils craignaient le peuple.",
+        "KJV": "And the chief priests and scribes sought how they might kill him; for they feared the people.",
+        "LSG": "Les principaux sacrificateurs et les scribes cherchaient les moyens de faire mourir Jésus; car ils craignaient le peuple.",
+        "MAB": "Et les principaux Sacrificateurs et les Scribes cherchaient comment ils le pourraient faire mourir : car ils craignaient le peuple.",
+        "OST": "Et les principaux sacrificateurs et les scribes cherchaient comment ils pourraient faire mourir Jésus; car ils craignaient le peuple.",
+        "S21": "Les chefs des prêtres et les spécialistes de la loi cherchaient les moyens de faire mourir Jésus, car ils redoutaient les réactions du peuple."
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "C’est alors que Satan entra dans le cœur de Judas surnommé l’Iscariot, l’un des Douze.",
+        "DBY": "Et Satan entra dans Judas, surnommé Iscariote, qui était du nombre des douze;",
+        "KJV": "Then entered Satan into Judas surnamed Iscariot, being of the number of the twelve.",
+        "LSG": "Or, Satan entra dans Judas, surnommé Iscariot, qui était du nombre des douze.",
+        "MAB": "Mais satan entra dans Judas, surnommé Iscariot, qui était du nombre des douze.",
+        "OST": "Or Satan entra dans Judas, surnommé l'Iscariote, qui était au nombre des douze;",
+        "S21": "Or Satan entra dans Judas, surnommé l'Iscariot, qui faisait partie des douze,"
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "Judas alla trouver les chefs des prêtres et les officiers de la garde du Temple pour s’entendre avec eux sur la manière dont il leur livrerait Jésus.",
+        "DBY": "il s'en alla et parla avec les principaux sacrificateurs et les capitaines sur la manière dont il le leur livrerait.",
+        "KJV": "And he went his way, and communed with the chief priests and captains, how he might betray him unto them.",
+        "LSG": "Et Judas alla s'entendre avec les principaux sacrificateurs et les chefs des gardes, sur la manière de le leur livrer.",
+        "MAB": "Lequel s'en alla, et parla avec les principaux Sacrificateurs et les Capitaines, de la manière dont il le leur livrerait.",
+        "OST": "Et il s'en alla, et parla avec les principaux sacrificateurs et les chefs des gardes, sur la manière dont il le leur livrerait.",
+        "S21": "et Judas alla s'entendre avec les chefs des prêtres et les chefs des gardes sur la manière de le leur livrer."
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "Ils en furent tout réjouis et convinrent de lui donner de l’argent.",
+        "DBY": "Et ils se réjouirent, et convinrent de lui donner de l'argent.",
+        "KJV": "And they were glad, and covenanted to give him money.",
+        "LSG": "Ils furent dans la joie, et ils convinrent de lui donner de l'argent.",
+        "MAB": "Et ils en furent joyeux, et convinrent qu'ils lui donneraient de l'argent.",
+        "OST": "Ils en eurent de la joie, et ils convinrent de lui donner de l'argent.",
+        "S21": "Ils s'en réjouirent et convinrent de lui donner de l'argent."
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "Il accepta et, dès lors, il chercha une occasion favorable pour leur livrer Jésus à l’insu de la foule.",
+        "DBY": "Et il s'engagea; et il cherchait une bonne occasion pour le leur livrer sans que la foule y fût.",
+        "KJV": "And he promised, and sought opportunity to betray him unto them in the absence of the multitude.",
+        "LSG": "Après s'être engagé, il cherchait une occasion favorable pour leur livrer Jésus à l'insu de la foule.",
+        "MAB": "Et il le leur promit; et il cherchait le temps propre pour le leur livrer sans tumulte.",
+        "OST": "Et il s'engagea. Et il cherchait une occasion propice de le leur livrer sans tumulte.",
+        "S21": "Judas accepta et se mit à chercher une occasion favorable pour leur livrer Jésus à l'insu de la foule."
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "Le jour de la fête des pains sans levain, où l’on devait tuer l’agneau de la Pâque, arriva.",
+        "DBY": "Et le jour des pains sans levain, dans lequel il fallait sacrifier la pâque, arriva.",
+        "KJV": "Then came the day of unleavened bread, when the passover must be killed.",
+        "LSG": "Le jour des pains sans levain, où l'on devait immoler la Pâque, arriva,",
+        "MAB": "Or le jour des pains sans levain, auquel il fallait sacrifier l'[Agneau] de Pâque, arriva.",
+        "OST": "Cependant, le jour des pains sans levain arriva, dans lequel il fallait immoler la pâque,",
+        "S21": "Le jour des pains sans levain où l'on devait sacrifier l'agneau pascal arriva."
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "Jésus envoya Pierre et Jean en leur disant:\r\n—Allez nous préparer le repas de la Pâque.",
+        "DBY": "Et il envoya Pierre et Jean, disant: Allez, et apprêtez-nous la pâque, afin que nous la mangions.",
+        "KJV": "And he sent Peter and John, saying, ‹Go and prepare us the passover, that we may eat.›",
+        "LSG": "et Jésus envoya Pierre et Jean, en disant: Allez nous préparer la Pâque, afin que nous la mangions.",
+        "MAB": "Et [Jésus] envoya Pierre et Jean, en leur disant : allez, et apprêtez-nous l'[Agneau] de Pâque, afin que nous le mangions.",
+        "OST": "Et Jésus envoya Pierre et Jean, en disant: Allez nous préparer la pâque, afin que nous la mangions.",
+        "S21": "Jésus envoya Pierre et Jean en leur disant: «Allez nous préparer la Pâque, afin que nous la mangions.»"
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "—Où veux-tu que nous le préparions? lui demandèrent-ils.",
+        "DBY": "Et ils lui dirent: Où veux-tu que nous l'apprêtions?",
+        "KJV": "And they said unto him, Where wilt thou that we prepare?",
+        "LSG": "Ils lui dirent: Où veux-tu que nous la préparions?",
+        "MAB": "Et ils lui dirent : où veux-tu que nous l'apprêtions?",
+        "OST": "Ils lui dirent: Où veux-tu que nous la préparions?",
+        "S21": "Ils lui dirent: «Où veux-tu que nous la préparions?»"
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "—Eh bien, quand vous entrerez dans la ville, vous rencontrerez un homme portant une cruche d’eau. Suivez-le jusqu’à la maison où il entrera.",
+        "DBY": "Et il leur dit: Voici, quand vous entrerez dans la ville, un homme portant une cruche d'eau viendra à votre rencontre; suivez-le dans la maison où il entrera.",
+        "KJV": "And he said unto them, ‹Behold, when ye are entered into the city, there shall a man meet you, bearing a pitcher of water; follow him into the house where he entereth in.›",
+        "LSG": "Il leur répondit: Voici, quand vous serez entrés dans la ville, vous rencontrerez un homme portant une cruche d'eau; suivez-le dans la maison où il entrera,",
+        "MAB": "Et il leur dit : voici, quand vous serez entrés dans la ville vous rencontrerez un homme portant une cruche d'eau, suivez-le en la maison où il entrera.",
+        "OST": "Et il leur dit: Lorsque vous entrerez dans la ville, vous rencontrerez un homme portant une cruche d'eau;",
+        "S21": "Il leur répondit: «Quand vous serez entrés dans la ville, vous rencontrerez un homme qui porte une cruche d'eau; suivez-le dans la maison où il entrera"
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "Et voici comment vous parlerez au maître de maison: «Le Maître te fait dire: Où est la pièce où je prendrai le repas de la Pâque avec mes disciples?»",
+        "DBY": "Et vous direz au maître de la maison: Le maître te dit: Où est le logis où je mangerai la pâque avec mes disciples?",
+        "KJV": "‹And ye shall say unto the goodman of the house, The Master saith unto thee, Where is the guestchamber, where I shall eat the passover with my disciples?›",
+        "LSG": "et vous direz au maître de la maison: Le maître te dit: Où est le lieu où je mangerai la Pâque avec mes disciples?",
+        "MAB": "Et dites au maître de la maison : le Maître t'envoie dire : où est le logis où je mangerai l'[Agneau] de Pâque avec mes Disciples?",
+        "OST": "Suivez-le dans la maison où il entrera; et dites au maître de la maison: Le Maître te dit: Où est le lieu où je mangerai la pâque avec mes disciples?",
+        "S21": "et dites au propriétaire de la maison: ‘Le maître te demande: Où est la salle où je mangerai la Pâque avec mes disciples?’"
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "Alors il vous montrera, à l’étage supérieur, une grande pièce aménagée; c’est là que vous ferez les préparatifs.",
+        "DBY": "Et lui vous montrera une grande chambre garnie; apprêtez là la pâque.",
+        "KJV": "‹And he shall shew you a large upper room furnished: there make ready.›",
+        "LSG": "Et il vous montrera une grande chambre haute, meublée: c'est là que vous préparerez la Pâque.",
+        "MAB": "Et il vous montrera une grande chambre haute, parée; apprêtez là l'[Agneau de Pâque].",
+        "OST": "Et il vous montrera une grande chambre haute, toute meublée; préparez-y la pâque.",
+        "S21": "Alors il vous montrera une grande pièce aménagée à l'étage: c'est là que vous préparerez la Pâque.»"
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "Ils partirent donc, trouvèrent tout comme Jésus le leur avait dit et préparèrent le repas de la Pâque.",
+        "DBY": "Et s'en étant allés, ils trouvèrent tout comme il leur avait dit; et ils apprêtèrent la pâque.",
+        "KJV": "And they went, and found as he had said unto them: and they made ready the passover.",
+        "LSG": "Ils partirent, et trouvèrent les choses comme il le leur avait dit; et ils préparèrent la Pâque.",
+        "MAB": "S'en étant donc allés, ils trouvèrent tout comme il leur avait dit; et ils apprêtèrent l'[Agneau] de Pâque.",
+        "OST": "Eux donc s'en étant allés, trouvèrent tout comme il leur avait dit, et ils préparèrent la pâque.",
+        "S21": "Ils partirent et trouvèrent tout comme il le leur avait dit, et ils préparèrent la Pâque."
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "Quand ce fut l’heure, Jésus se mit à table, avec les apôtres.",
+        "DBY": "Et quand l'heure fut venue, il se mit à table, et les douze apôtres avec lui.",
+        "KJV": "And when the hour was come, he sat down, and the twelve apostles with him.",
+        "LSG": "L'heure étant venue, il se mit à table, et les apôtres avec lui.",
+        "MAB": "Et quand l'heure fut venue, il se mit à table, et les douze Apôtres avec lui.",
+        "OST": "Et quand l'heure fut venue, il se mit à table, et les douze apôtres avec lui.",
+        "S21": "Quand l'heure fut venue, il se mit à table avec les [douze] apôtres."
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "Il leur dit:\r\n—J’ai vivement désiré célébrer cette Pâque avec vous avant de souffrir.",
+        "DBY": "Et il leur dit: J'ai fort désiré de manger cette pâque avec vous, avant que je souffre;",
+        "KJV": "And he said unto them, ‹With desire I have desired to eat this passover with you before I suffer:›",
+        "LSG": "Il leur dit: J'ai désiré vivement manger cette Pâque avec vous, avant de souffrir;",
+        "MAB": "Et il leur dit : j'ai fort désiré de manger cet [Agneau] de Pâque avec vous avant que je souffre.",
+        "OST": "Et il leur dit: J'ai fort désiré de manger cette pâque avec vous, avant que je souffre.",
+        "S21": "Il leur dit: «J'ai vivement désiré manger cette Pâque avec vous avant de souffrir"
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "En effet, je vous le déclare, je ne la mangerai plus jusqu’au jour où tout ce qu’elle signifie sera accompli dans le royaume de Dieu.",
+        "DBY": "car je vous dis que je n'en mangerai plus jusqu'à ce qu'elle soit accomplie dans le royaume de Dieu.",
+        "KJV": "‹For I say unto you, I will not any more eat thereof, until it be fulfilled in the kingdom of God.›",
+        "LSG": "car, je vous le dis, je ne la mangerai plus, jusqu'à ce qu'elle soit accomplie dans le royaume de Dieu.",
+        "MAB": "Car je vous dis, que je n'en mangerai plus jusqu'à ce qu'il soit accompli dans le Royaume de Dieu.",
+        "OST": "Car je vous dis, que je ne la mangerai plus, jusqu'à ce qu'elle soit accomplie dans le royaume de Dieu.",
+        "S21": "car, je vous le dis, je ne la mangerai plus jusqu'à ce qu'elle soit accomplie dans le royaume de Dieu.»"
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "Puis il prit une coupe, prononça la prière de reconnaissance et dit:\r\n—Prenez cette coupe et partagez-la entre vous,",
+        "DBY": "Et ayant reçu une coupe, il rendit grâces et dit: Prenez ceci et le distribuez entre vous,",
+        "KJV": "And he took the cup, and gave thanks, and said, ‹Take this, and divide› [it] ‹among yourselves:›",
+        "LSG": "Et, ayant pris une coupe et rendu grâces, il dit: Prenez cette coupe, et distribuez-la entre vous;",
+        "MAB": "Et ayant pris la coupe, il rendit grâces, et il dit : prenez-la, et la distribuez entre vous.",
+        "OST": "Et ayant pris la coupe et rendu grâces, il dit: Prenez-la, et la distribuez entre vous.",
+        "S21": "Puis il prit une coupe, remercia Dieu et dit: «Prenez cette coupe et partagez-la entre vous"
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "car, je vous le déclare, dorénavant, je ne boirai plus du fruit de la vigne jusqu’à ce que le royaume de Dieu soit établi.",
+        "DBY": "car je vous dis que je ne boirai plus du fruit de la vigne, jusqu'à ce que le royaume de Dieu soit venu.",
+        "KJV": "‹For I say unto you, I will not drink of the fruit of the vine, until the kingdom of God shall come.›",
+        "LSG": "car, je vous le dis, je ne boirai plus désormais du fruit de la vigne, jusqu'à ce que le royaume de Dieu soit venu.",
+        "MAB": "Car je vous dis, que je ne boirai plus du fruit de la vigne, jusqu'à ce que le Règne de Dieu soit venu.",
+        "OST": "Car je vous dis, que je ne boirai plus du fruit de la vigne, jusqu'à ce que le règne de Dieu soit venu.",
+        "S21": "car, je vous le dis, [désormais] je ne boirai plus du fruit de la vigne jusqu'à ce que le royaume de Dieu soit venu.»"
+      }
+    },
+    {
+      "verse": 19,
+      "texts": {
+        "BDS": "Ensuite il prit du pain, remercia Dieu, le partagea en morceaux qu’il leur donna en disant:\r\n—Ceci est mon corps [qui est donné pour vous. Faites cela en souvenir de moi.",
+        "DBY": "Et ayant pris un pain, et ayant rendu grâces, il le rompit, et le leur donna, en disant: Ceci est mon corps, qui est donné pour vous; faites ceci en mémoire de moi;",
+        "KJV": "And he took bread, and gave thanks, and brake [it], and gave unto them, saying, ‹This is my body which is given for you: this do in remembrance of me.›",
+        "LSG": "Ensuite il prit du pain; et, après avoir rendu grâces, il le rompit, et le leur donna, en disant: Ceci est mon corps, qui est donné pour vous; faites ceci en mémoire de moi.",
+        "MAB": "Puis prenant le pain, et ayant rendu grâces, il le rompit et le leur donna, en disant : ceci est mon corps, qui est donné pour vous; faites ceci en mémoire de moi.",
+        "OST": "Puis il prit du pain, et ayant rendu grâces, il le rompit et le leur donna, en disant: Ceci est mon corps, qui est donné pour vous; faites ceci en mémoire de moi.",
+        "S21": "Ensuite il prit du pain et, après avoir remercié Dieu, il le rompit et le leur donna en disant: «Ceci est mon corps qui est donné pour vous. Faites ceci en souvenir de moi.»"
+      }
+    },
+    {
+      "verse": 20,
+      "texts": {
+        "BDS": "Après le repas, il fit de même pour la coupe, en disant:\r\n—Ceci est la coupe de la nouvelle alliance conclue par mon sang qui va être versé pour vous…].",
+        "DBY": "-de même la coupe aussi, après le souper, en disant: Cette coupe est la nouvelle alliance en mon sang, qui est versé pour vous;",
+        "KJV": "Likewise also the cup after supper, saying, ‹This cup› [is] ‹the new testament in my blood, which is shed for you.›",
+        "LSG": "Il prit de même la coupe, après le souper, et la leur donna, en disant: Cette coupe est la nouvelle alliance en mon sang, qui est répandu pour vous.",
+        "MAB": "De même aussi [il leur donna] la coupe, après le souper, en disant : cette coupe est le Nouveau Testament en mon sang, qui est répandu pour vous.",
+        "OST": "De même, après avoir soupé, il leur donna la coupe, en disant: Cette coupe est la nouvelle alliance en mon sang, qui est répandu pour vous.",
+        "S21": "Après le souper il prit de même la coupe et la leur donna en disant: «Cette coupe est la nouvelle alliance en mon sang qui est versé pour vous."
+      }
+    },
+    {
+      "verse": 21,
+      "texts": {
+        "BDS": "—D’ailleurs, voici, celui qui va me trahir est ici, à table avec moi.",
+        "DBY": "mais voici, la main de celui qui me livre est avec moi à table.",
+        "KJV": "‹But, behold, the hand of him that betrayeth me› [is] ‹with me on the table.›",
+        "LSG": "Cependant voici, la main de celui qui me livre est avec moi à cette table.",
+        "MAB": "Cependant voici, la main de celui qui me trahit est avec moi à table.",
+        "OST": "Au reste, voici, la main de celui qui me trahit est à cette table avec moi.",
+        "S21": "Cependant celui qui me trahit est avec moi à cette table."
+      }
+    },
+    {
+      "verse": 22,
+      "texts": {
+        "BDS": "Certes, le Fils de l’homme s’en va selon ce que Dieu a décidé, mais malheur à l’homme par qui il est trahi!",
+        "DBY": "Et le fils de l'homme s'en va bien, selon ce qui est déterminé; mais malheur à cet homme par qui il est livré!",
+        "KJV": "‹And truly the Son of man goeth, as it was determined: but woe unto that man by whom he is betrayed!›",
+        "LSG": "Le Fils de l'homme s'en va selon ce qui est déterminé. Mais malheur à l'homme par qui il est livré!",
+        "MAB": "Et certes le Fils de l'homme s'en va; selon ce qui est déterminé; toutefois malheur à cet homme par qui il est trahi.",
+        "OST": "Pour ce qui est du Fils de l'homme, il s'en va, selon qu'il a été déterminé; mais malheur à cet homme par qui il est trahi.",
+        "S21": "Le Fils de l'homme s'en va conformément à ce qui a été fixé, mais malheur à l'homme par qui il est trahi!»"
+      }
+    },
+    {
+      "verse": 23,
+      "texts": {
+        "BDS": "Alors les disciples se demandèrent les uns aux autres lequel d’entre eux allait faire cela.",
+        "DBY": "Et ils se mirent à s'entre-demander l'un à l'autre, qui donc serait celui d'entre eux qui allait faire cela.",
+        "KJV": "And they began to enquire among themselves, which of them it was that should do this thing.",
+        "LSG": "Et ils commencèrent à se demander les uns aux autres qui était celui d'entre eux qui ferait cela.",
+        "MAB": "Alors ils se mirent à s'entredemander l'un à l'autre, qui serait celui d'entre eux à qui il arriverait de commettre cette action.",
+        "OST": "Et ils commencèrent à se demander les uns aux autres qui était celui d'entre eux qui ferait cela?",
+        "S21": "Ils commencèrent à se demander les uns aux autres lequel d'entre eux ferait cela."
+      }
+    },
+    {
+      "verse": 24,
+      "texts": {
+        "BDS": "Les disciples eurent une vive discussion: il s’agissait de savoir lequel d’entre eux devait être considéré comme le plus grand.",
+        "DBY": "Et il arriva aussi une contestation entre eux pour savoir lequel d'entre eux serait estimé le plus grand.",
+        "KJV": "And there was also a strife among them, which of them should be accounted the greatest.",
+        "LSG": "Il s'éleva aussi parmi les apôtres une contestation: lequel d'entre eux devait être estimé le plus grand?",
+        "MAB": "Il arriva aussi une contestation entre eux, pour savoir lequel d'entre eux serait estimé le plus grand.",
+        "OST": "Il arriva aussi une contestation entre eux, sur celui d'entre eux qui serait estimé le plus grand.",
+        "S21": "Il y eut aussi une rivalité entre les disciples pour déterminer qui devait être considéré comme le plus grand parmi eux."
+      }
+    },
+    {
+      "verse": 25,
+      "texts": {
+        "BDS": "Jésus intervint:\r\n—Les rois des nations, dit-il, dominent leurs peuples, et ceux qui exercent l’autorité sur elles se font appeler leurs «bienfaiteurs».",
+        "DBY": "Et il leur dit: Les rois des nations les dominent, et ceux qui exercent l'autorité sur elles sont appelés bienfaiteurs;",
+        "KJV": "And he said unto them, ‹The kings of the Gentiles exercise lordship over them; and they that exercise authority upon them are called benefactors.›",
+        "LSG": "Jésus leur dit: Les rois des nations les maîtrisent, et ceux qui les dominent sont appelés bienfaiteurs.",
+        "MAB": "Mais il leur dit : Les Rois des nations les maîtrisent; et ceux qui usent d'autorité sur elles sont nommés bienfaiteurs.",
+        "OST": "Mais il leur dit: Les rois des nations les maîtrisent, et ceux qui exercent leur autorité sur elles sont nommés bienfaiteurs.",
+        "S21": "Jésus leur dit: «Les rois des nations dominent sur leurs peuples et ceux qui exercent le pouvoir se font appeler bienfaiteurs."
+      }
+    },
+    {
+      "verse": 26,
+      "texts": {
+        "BDS": "Il ne faut pas que vous agissiez ainsi. Au contraire, que le plus grand parmi vous soit comme le plus jeune, et que celui qui gouverne soit comme le serviteur.",
+        "DBY": "mais il n'en sera pas ainsi de vous; mais que le plus grand parmi vous soit comme le plus jeune, et celui qui conduit comme celui qui sert.",
+        "KJV": "‹But ye› [shall] ‹not› [be] ‹so: but he that is greatest among you, let him be as the younger; and he that is chief, as he that doth serve.›",
+        "LSG": "Qu'il n'en soit pas de même pour vous. Mais que le plus grand parmi vous soit comme le plus petit, et celui qui gouverne comme celui qui sert.",
+        "MAB": "Mais il n'en sera pas ainsi de vous : au contraire, que le plus grand entre vous soit comme le moindre; et celui qui gouverne, comme celui qui sert.",
+        "OST": "Mais vous, ne faites point ainsi; et que le plus grand parmi vous, soit comme le plus petit; et celui qui gouverne, comme celui qui sert.",
+        "S21": "Que cela ne soit pas votre cas, mais que le plus grand parmi vous soit comme le plus jeune, et celui qui commande comme celui qui sert."
+      }
+    },
+    {
+      "verse": 27,
+      "texts": {
+        "BDS": "A votre avis, qui est le plus grand? Celui qui est assis à table, ou celui qui sert? N’est-ce pas celui qui est assis à table? Eh bien, moi, au milieu de vous, je suis comme le serviteur…",
+        "DBY": "Car lequel est le plus grand, celui qui est à table ou celui qui sert? N'est-ce pas celui qui est à table? Or moi, je suis au milieu de vous comme celui qui sert.",
+        "KJV": "‹For whether› [is] ‹greater, he that sitteth at meat, or he that serveth?› [is] ‹not he that sitteth at meat? but I am among you as he that serveth.›",
+        "LSG": "Car quel est le plus grand, celui qui est à table, ou celui qui sert? N'est-ce pas celui qui est à table? Et moi, cependant, je suis au milieu de vous comme celui qui sert.",
+        "MAB": "Car lequel est le plus grand, celui qui est à table, ou celui qui sert? N'est-ce pas celui qui est à table? Or je suis au milieu de vous comme celui qui sert.",
+        "OST": "Car lequel est le plus grand, celui qui est à table, ou celui qui sert? n'est-ce pas celui qui est à table? et cependant je suis au milieu de vous comme celui qui sert.",
+        "S21": "En effet, qui est le plus grand: celui qui est à table ou celui qui sert? N'est-ce pas celui qui est à table? Et moi, cependant, je suis au milieu de vous comme celui qui sert."
+      }
+    },
+    {
+      "verse": 28,
+      "texts": {
+        "BDS": "—Vous êtes restés fidèlement avec moi au cours de mes épreuves.",
+        "DBY": "Mais vous, vous êtes ceux qui avez persévéré avec moi dans mes tentations.",
+        "KJV": "‹Ye are they which have continued with me in my temptations.›",
+        "LSG": "Vous, vous êtes ceux qui avez persévéré avec moi dans mes épreuves;",
+        "MAB": "Or vous êtes ceux qui avez persévéré avec moi dans mes tentations.",
+        "OST": "Or, pour vous, vous avez persévéré avec moi dans mes épreuves;",
+        "S21": "Vous, vous êtes ceux qui avez persévéré avec moi dans mes épreuves;"
+      }
+    },
+    {
+      "verse": 29,
+      "texts": {
+        "BDS": "C’est pourquoi, comme mon Père m’a donné le royaume, je vous le donne, à mon tour:",
+        "DBY": "Et moi, je vous confère un royaume comme mon Père m'en a conféré un,",
+        "KJV": "‹And I appoint unto you a kingdom, as my Father hath appointed unto me;›",
+        "LSG": "c'est pourquoi je dispose du royaume en votre faveur, comme mon Père en a disposé en ma faveur,",
+        "MAB": "C'est pourquoi je vous confie le Royaume comme mon Père me l'a confié.",
+        "OST": "Et je dispose du royaume en votre faveur, comme mon Père en a disposé en ma faveur;",
+        "S21": "c'est pourquoi je dispose du royaume en votre faveur, comme mon Père en a disposé en ma faveur."
+      }
+    },
+    {
+      "verse": 30,
+      "texts": {
+        "BDS": "vous mangerez et vous boirez à ma table, dans mon royaume, et vous siégerez sur des trônes pour gouverner les douze tribus d’Israël.",
+        "DBY": "afin que vous mangiez et que vous buviez à ma table dans mon royaume; et que vous soyez assis sur des trônes, jugeant les douze tribus d'Israël.",
+        "KJV": "‹That ye may eat and drink at my table in my kingdom, and sit on thrones judging the twelve tribes of Israel.›",
+        "LSG": "afin que vous mangiez et buviez à ma table dans mon royaume, et que vous soyez assis sur des trônes, pour juger les douze tribus d'Israël.",
+        "MAB": "Afin que vous mangiez et que vous buviez à ma table dans mon Royaume; et que vous soyez assis sur des trônes jugeant les douze Tribus d'Israël.",
+        "OST": "Afin que vous mangiez et que vous buviez à ma table dans mon royaume, et que vous soyez assis sur des trônes, jugeant les douze tribus d'Israël.",
+        "S21": "Ainsi, vous mangerez et boirez à ma table dans mon royaume et vous serez assis sur des trônes pour juger les douze tribus d'Israël.»"
+      }
+    },
+    {
+      "verse": 31,
+      "texts": {
+        "BDS": "—Simon, Simon! fais attention: Satan vous a réclamés pour vous passer tous au crible, comme on secoue le blé pour le séparer de la bale.",
+        "DBY": "Et le Seigneur dit: Simon, Simon, voici, Satan a demandé à vous avoir pour vous cribler comme le blé;",
+        "KJV": "And the Lord said, ‹Simon, Simon, behold, Satan hath desired› [to have] ‹you, that he may sift› [you] ‹as wheat:›",
+        "LSG": "Le Seigneur dit: Simon, Simon, Satan vous a réclamés, pour vous cribler comme le froment.",
+        "MAB": "Le Seigneur dit aussi : Simon, Simon, voici, satan a demandé instamment à vous cribler comme le blé;",
+        "OST": "Le Seigneur dit aussi: Simon, Simon, voici, Satan a demandé à vous cribler comme le froment.",
+        "S21": "[Le Seigneur dit:] «Simon, Simon, Satan vous a réclamés pour vous passer au crible comme le blé."
+      }
+    },
+    {
+      "verse": 32,
+      "texts": {
+        "BDS": "Mais moi, j’ai prié pour toi, pour que la foi ne vienne pas à te manquer. Et toi, le jour où tu seras revenu à moi, fortifie tes frères.",
+        "DBY": "mais moi, j'ai prié pour toi, afin que ta foi ne défaille pas; et toi, quand une fois tu sera revenu, fortifie tes frères.",
+        "KJV": "‹But I have prayed for thee, that thy faith fail not: and when thou art converted, strengthen thy brethren.›",
+        "LSG": "Mais j'ai prié pour toi, afin que ta foi ne défaille point; et toi, quand tu seras converti, affermis tes frères.",
+        "MAB": "Mais j'ai prié pour toi que ta foi ne défaille point; toi donc, quand tu seras un jour converti, fortifie tes frères.",
+        "OST": "Mais j'ai prié pour toi, que ta foi ne défaille point. Toi donc, quand tu seras converti, affermis tes frères.",
+        "S21": "Mais moi, j'ai prié pour toi, afin que ta foi ne disparaisse pas; et toi, quand tu seras revenu à moi, affermis tes frères.»"
+      }
+    },
+    {
+      "verse": 33,
+      "texts": {
+        "BDS": "—Seigneur, lui dit Simon, je suis prêt, s’il le faut, à aller en prison avec toi, ou même à mourir.",
+        "DBY": "-Et il lui dit: Seigneur, avec toi, je suis prêt à aller et en prison et à la mort.",
+        "KJV": "And he said unto him, Lord, I am ready to go with thee, both into prison, and to death.",
+        "LSG": "Seigneur, lui dit Pierre, je suis prêt à aller avec toi et en prison et à la mort.",
+        "MAB": "Et [Pierre] lui dit : Seigneur, je suis tout prêt d'aller avec toi, soit en prison soit à la mort.",
+        "OST": "Et Pierre lui dit: Seigneur, je suis tout prêt à aller avec toi, et en prison et à la mort.",
+        "S21": "«Seigneur, lui dit Pierre, je suis prêt à aller en prison avec toi, et même jusqu'à la mort.»"
+      }
+    },
+    {
+      "verse": 34,
+      "texts": {
+        "BDS": "—Pierre, reprit Jésus, je te l’assure: aujourd’hui même, avant que le coq ne chante, tu auras, par trois fois, nié de me connaître.",
+        "DBY": "-Et il dit: Pierre, je te dis: le coq ne chantera point aujourd'hui, que premièrement tu n'aies nié trois fois de me connaître.",
+        "KJV": "And he said, ‹I tell thee, Peter, the cock shall not crow this day, before that thou shalt thrice deny that thou knowest me.›",
+        "LSG": "Et Jésus dit: Pierre, je te le dis, le coq ne chantera pas aujourd'hui que tu n'aies nié trois fois de me connaître.",
+        "MAB": "Mais Jésus lui dit : Pierre, je te dis que le coq ne chantera point aujourd'hui, que premièrement tu ne renies par trois fois de m'avoir connu.",
+        "OST": "Mais Jésus lui dit: Pierre, je te le dis, le coq ne chantera point aujourd'hui, que tu n'aies nié trois fois de me connaître.",
+        "S21": "Jésus dit: «Pierre, je te le dis, le coq ne chantera pas aujourd'hui avant que tu n'aies trois fois nié me connaître.»"
+      }
+    },
+    {
+      "verse": 35,
+      "texts": {
+        "BDS": "Puis, s’adressant à l’ensemble des disciples, il continua:\r\n—Quand je vous ai envoyés sans bourse, ni sac de voyage, ni sandales, avez-vous manqué de quoi que ce soit?\r\n—De rien, dirent-ils.",
+        "DBY": "Et il leur dit: Quand je vous ai envoyés sans bourse, sans sac et sans sandales, avez-vous manqué de quelque chose? Et ils dirent: De rien.",
+        "KJV": "And he said unto them, ‹When I sent you without purse, and scrip, and shoes, lacked ye any thing?› And they said, Nothing.",
+        "LSG": "Il leur dit encore: Quand je vous ai envoyés sans bourse, sans sac, et sans souliers, avez-vous manqué de quelque chose? Ils répondirent: De rien.",
+        "MAB": "Puis il leur dit : quand je vous ai envoyés sans bourse, sans sac, et sans souliers, avez-vous manqué de quelque chose? Ils répondirent : de rien.",
+        "OST": "Puis il leur dit: Lorsque je vous ai envoyés sans bourse, sans sac, et sans souliers, avez-vous manqué de quelque chose?",
+        "S21": "Il leur dit encore: «Quand je vous ai envoyés sans bourse, ni sac, ni sandales, avez-vous manqué de quelque chose?» Ils répondirent: «De rien.»"
+      }
+    },
+    {
+      "verse": 36,
+      "texts": {
+        "BDS": "—Eh bien maintenant, poursuivit-il, si vous avez une bourse, prenez-la; de même, si vous avez un sac, prenez-le, et si vous n’avez pas d’épée, vendez votre manteau pour en acheter une.",
+        "DBY": "Il leur dit donc: Mais maintenant, que celui qui a une bourse la prenne, et de même celui qui a un sac, et que celui qui n'a pas d'épée vende son vêtement et achète une épée.",
+        "KJV": "Then said he unto them, ‹But now, he that hath a purse, let him take› [it], ‹and likewise› [his] ‹scrip: and he that hath no sword, let him sell his garment, and buy one.›",
+        "LSG": "Et il leur dit: Maintenant, au contraire, que celui qui a une bourse la prenne et que celui qui a un sac le prenne également, que celui qui n'a point d'épée vende son vêtement et achète une épée.",
+        "MAB": "Et il leur dit : mais maintenant que celui qui a une bourse la prenne, et de même celui qui a un sac; et que celui qui n'a point d'épée vende sa robe, et achète une épée.",
+        "OST": "Et ils répondirent: De rien. Mais maintenant, leur dit-il, que celui qui a une bourse, la prenne; et de même celui qui a un sac;",
+        "S21": "Il leur dit: «Maintenant, au contraire, que celui qui a une bourse la prenne, que celui qui a un sac le prenne également, et que celui qui n'a pas d'épée vende son vêtement et en achète une."
+      }
+    },
+    {
+      "verse": 37,
+      "texts": {
+        "BDS": "Car il est écrit: Il a été mis au nombre des criminels, et cette parole doit s’accomplir pour moi. Car tout ce qui a été écrit de moi va s’accomplir.",
+        "DBY": "Car je vous dis, qu'il faut encore que ceci qui est écrit, soit accompli en moi: \"Et il a été compté parmi les iniques\". Car aussi les choses qui me concernent vont avoir leur fin.",
+        "KJV": "‹For I say unto you, that this that is written must yet be accomplished in me, And he was reckoned among the transgressors: for the things concerning me have an end.›",
+        "LSG": "Car, je vous le dis, il faut que cette parole qui est écrite s'accomplisse en moi: Il a été mis au nombre des malfaiteurs. Et ce qui me concerne est sur le point d'arriver.",
+        "MAB": "Car je vous dis, qu'il faut que ceci aussi qui est écrit, soit accompli en moi : et il a été mis au rang des iniques. Car certainement les choses qui [ont été prédites] de moi, s'en vont être accomplies.",
+        "OST": "Et que celui qui n'a point d'épée, vende son manteau, et en achète une. Car je vous dis, qu'il faut encore que ce qui est écrit, soit accompli en moi: Il a été mis au rang des malfaiteurs. Et les choses qui me concernent vont arriver.",
+        "S21": "En effet, je vous le dis, il faut que s'accomplisse [encore] dans ma personne ce texte de l'Ecriture: Il a été compté parmi les criminels. Et ce qui me concerne est sur le point de se réaliser.»"
+      }
+    },
+    {
+      "verse": 38,
+      "texts": {
+        "BDS": "—Seigneur, lui dirent-ils, voilà justement deux épées.\r\n—Cela suffit! leur répondit-il.",
+        "DBY": "Et ils dirent: Seigneur, voici ici deux épées. Et il leur dit: C'est assez.",
+        "KJV": "And they said, Lord, behold, here [are] two swords. And he said unto them, ‹It is enough.›",
+        "LSG": "Ils dirent: Seigneur, voici deux épées. Et il leur dit: Cela suffit.",
+        "MAB": "Et ils dirent : Seigneur, voici deux épées. Et il leur dit : c'est assez.",
+        "OST": "Et ils dirent: Seigneur, voici deux épées. Et il leur dit: Cela suffit.",
+        "S21": "Ils dirent: «Seigneur, voici deux épées.» Il leur dit: «Cela suffit.»"
+      }
+    },
+    {
+      "verse": 39,
+      "texts": {
+        "BDS": "Alors il sortit et se dirigea, comme d’habitude, vers le mont des Oliviers. Ses disciples s’y rendirent aussi avec lui.",
+        "DBY": "Et sortant, il s'en alla, selon sa coutume, à la montagne des Oliviers, et les disciples aussi le suivirent.",
+        "KJV": "And he came out, and went, as he was wont, to the mount of Olives; and his disciples also followed him.",
+        "LSG": "Après être sorti, il alla, selon sa coutume, à la montagne des oliviers. Ses disciples le suivirent.",
+        "MAB": "Puis il partit, et s'en alla, selon sa coutume, au mont des oliviers; et ses Disciples le suivirent.",
+        "OST": "Puis Jésus étant sorti, s'en alla, selon sa coutume, à la montagne des Oliviers; et ses disciples le suivirent.",
+        "S21": "Il sortit et se rendit comme d'habitude au mont des Oliviers. Ses disciples le suivirent."
+      }
+    },
+    {
+      "verse": 40,
+      "texts": {
+        "BDS": "Quand il fut arrivé, il leur dit:\r\n—Priez pour ne pas céder à la tentation.",
+        "DBY": "Et quand il fut en ce lieu-là, il leur dit: Priez que vous n'entriez pas en tentation.",
+        "KJV": "And when he was at the place, he said unto them, ‹Pray that ye enter not into temptation.›",
+        "LSG": "Lorsqu'il fut arrivé dans ce lieu, il leur dit: Priez, afin que vous ne tombiez pas en tentation.",
+        "MAB": "Et quand il fut arrivé en ce lieu-là, il leur dit : Priez que vous n'entriez point en tentation.",
+        "OST": "Et quand il fut arrivé dans ce lieu, il leur dit: Priez, afin que vous ne tombiez pas dans la tentation.",
+        "S21": "Lorsqu'il fut arrivé à cet endroit, il leur dit: «Priez pour ne pas céder à la tentation.»"
+      }
+    },
+    {
+      "verse": 41,
+      "texts": {
+        "BDS": "Puis il se retira à la distance d’un jet de pierre, se mit à genoux et pria ainsi:",
+        "DBY": "Et il s'éloigna d'eux lui-même environ d'un jet de pierre, et s'étant mis à genoux, il priait,",
+        "KJV": "And he was withdrawn from them about a stone's cast, and kneeled down, and prayed,",
+        "LSG": "Puis il s'éloigna d'eux à la distance d'environ un jet de pierre, et, s'étant mis à genoux, il pria,",
+        "MAB": "Puis s'étant éloigné d'eux environ d'un jet de pierre, et s'étant mis à genoux, il priait,",
+        "OST": "Alors il s'éloigna d'eux environ d'un jet de pierre, et s'étant mis à genoux, il priait,",
+        "S21": "Puis il s'éloigna d'eux à la distance d'environ un jet de pierre, se mit à genoux et pria"
+      }
+    },
+    {
+      "verse": 42,
+      "texts": {
+        "BDS": "—O Père, si tu le veux, écarte de moi cette coupe! Toutefois, que ta volonté soit faite, et non la mienne.",
+        "DBY": "disant: Père, si tu voulais faire passer cette coupe loin de moi! Toutefois, que ce ne soit pas ma volonté mais la tienne qui soit faite.",
+        "KJV": "Saying, ‹Father, if thou be willing, remove this cup from me: nevertheless not my will, but thine, be done.›",
+        "LSG": "disant: Père, si tu voulais éloigner de moi cette coupe! Toutefois, que ma volonté ne se fasse pas, mais la tienne.",
+        "MAB": "Disant : Père, si tu voulais transporter cette coupe loin de moi; toutefois que ma volonté ne soit point faite, mais la tienne.",
+        "OST": "En disant: Père, si tu voulais éloigner cette coupe de moi! toutefois, que ma volonté ne se fasse point, mais la tienne.",
+        "S21": "en disant: «Père, si tu voulais éloigner de moi cette coupe! Toutefois, que ce ne soit pas ma volonté qui se fasse, mais la tienne.»"
+      }
+    },
+    {
+      "verse": 43,
+      "texts": {
+        "BDS": "[Un ange venu du ciel lui apparut et le fortifia.",
+        "DBY": "Et un ange du ciel lui apparut, le fortifiant.",
+        "KJV": "And there appeared an angel unto him from heaven, strengthening him.",
+        "LSG": "Alors un ange lui apparut du ciel, pour le fortifier.",
+        "MAB": "Et un Ange lui apparut du ciel, le fortifiant.",
+        "OST": "Et un ange lui apparut du ciel pour le fortifier.",
+        "S21": "[Alors un ange lui apparut du ciel pour le fortifier."
+      }
+    },
+    {
+      "verse": 44,
+      "texts": {
+        "BDS": "L’angoisse le saisit, sa prière se fit de plus en plus pressante, sa sueur devint comme des gouttes de sang qui tombaient à terre.]",
+        "DBY": "Et étant dans l'angoisse du combat, il priait plus instamment; et sa sueur devint comme des grumeaux de sang découlant sur la terre.",
+        "KJV": "And being in an agony he prayed more earnestly: and his sweat was as it were great drops of blood falling down to the ground.",
+        "LSG": "Etant en agonie, il priait plus instamment, et sa sueur devint comme des grumeaux de sang, qui tombaient à terre.",
+        "MAB": "Et lui étant en agonie, priait plus instamment, et sa sueur devint comme des grumeaux de sang découlant en terre.",
+        "OST": "Et étant en agonie, il priait plus instamment; et il lui vint une sueur comme des grumeaux de sang, qui tombaient sur la terre.",
+        "S21": "Saisi d'angoisse, Jésus priait avec plus d'insistance, et sa sueur devint comme des caillots de sang qui tombaient par terre.]"
+      }
+    },
+    {
+      "verse": 45,
+      "texts": {
+        "BDS": "Après avoir ainsi prié, il se releva et s’approcha de ses disciples. Il les trouva endormis, tant ils étaient accablés de tristesse.",
+        "DBY": "Et s'étant levé de sa prière, il vint vers les disciples, qu'il trouva endormis de tristesse;",
+        "KJV": "And when he rose up from prayer, and was come to his disciples, he found them sleeping for sorrow,",
+        "LSG": "Après avoir prié, il se leva, et vint vers les disciples, qu'il trouva endormis de tristesse,",
+        "MAB": "Puis s'étant levé de sa prière, il revint à ses Disciples, lesquels il trouva dormant de tristesse;",
+        "OST": "Et s'étant levé de sa prière, il vint vers ses disciples, qu'il trouva endormis de tristesse,",
+        "S21": "Après avoir prié, il se releva et vint vers les disciples, qu'il trouva endormis de tristesse."
+      }
+    },
+    {
+      "verse": 46,
+      "texts": {
+        "BDS": "—Pourquoi dormez-vous? leur dit-il. Debout! Et priez pour ne pas céder à la tentation.",
+        "DBY": "et il leur dit: Pourquoi dormez-vous? Levez-vous, et priez afin que vous n'entriez pas en tentation.",
+        "KJV": "And said unto them, ‹Why sleep ye? rise and pray, lest ye enter into temptation.›",
+        "LSG": "et il leur dit: Pourquoi dormez-vous? Levez-vous et priez, afin que vous ne tombiez pas en tentation.",
+        "MAB": "Et il leur dit : pourquoi dormez-vous? levez-vous, et priez que vous n'entriez point en tentation.",
+        "OST": "Et il leur dit: Pourquoi dormez-vous? Levez-vous et priez, afin que vous ne succombiez point à la tentation.",
+        "S21": "Alors il leur dit: «Pourquoi dormez-vous? Levez-vous et priez pour ne pas céder à la tentation.»"
+      }
+    },
+    {
+      "verse": 47,
+      "texts": {
+        "BDS": "Il n’avait pas fini de parler, quand toute une troupe surgit. A sa tête marchait le nommé Judas, l’un des Douze. Il s’approcha de Jésus pour l’embrasser.",
+        "DBY": "Comme il parlait encore, voici une foule, et celui qui avait nom Judas, l'un des douze, les précédait; et il s'approcha de Jésus, pour le baiser.",
+        "KJV": "And while he yet spake, behold a multitude, and he that was called Judas, one of the twelve, went before them, and drew near unto Jesus to kiss him.",
+        "LSG": "Comme il parlait encore, voici, une foule arriva; et celui qui s'appelait Judas, l'un des douze, marchait devant elle. Il s'approcha de Jésus, pour le baiser.",
+        "MAB": "Et comme il parlait encore, voici une troupe, et celui qui avait nom Judas, l'un des douze, vint devant eux, et s'approcha de Jésus pour le baiser.",
+        "OST": "Comme il parlait encore, voici une troupe survint, et celui qui s'appelait Judas, l'un des douze, marchait devant eux; et il s'approcha de Jésus pour le baiser.",
+        "S21": "Il parlait encore quand une foule arriva. Celui qui s'appelait Judas, l'un des douze, marchait devant elle. Il s'approcha de Jésus pour l'embrasser."
+      }
+    },
+    {
+      "verse": 48,
+      "texts": {
+        "BDS": "Mais Jésus lui dit:\r\n—Judas, c’est par un baiser que tu trahis le Fils de l’homme!",
+        "DBY": "Et Jésus lui dit: Judas, tu livres le fils de l'homme par un baiser?",
+        "KJV": "But Jesus said unto him, ‹Judas, betrayest thou the Son of man with a kiss?›",
+        "LSG": "Et Jésus lui dit: Judas, c'est par un baiser que tu livres le Fils de l'homme!",
+        "MAB": "Et Jésus lui dit : Judas, trahis-tu le Fils de l'homme par un baiser?",
+        "OST": "Mais Jésus lui dit: Judas, trahis-tu le Fils de l'homme par un baiser?",
+        "S21": "Jésus lui dit: «Judas, c'est par un baiser que tu trahis le Fils de l'homme!»"
+      }
+    },
+    {
+      "verse": 49,
+      "texts": {
+        "BDS": "En voyant ce qui allait se passer, les compagnons de Jésus lui demandèrent:\r\n—Maître, devons-nous frapper avec nos épées?",
+        "DBY": "Et ceux qui étaient autour de lui, voyant ce qui allait arriver, lui dirent: Seigneur, frapperons-nous de l'épée?",
+        "KJV": "When they which were about him saw what would follow, they said unto him, Lord, shall we smite with the sword?",
+        "LSG": "Ceux qui étaient avec Jésus, voyant ce qui allait arriver, dirent: Seigneur, frapperons-nous de l'épée?",
+        "MAB": "Alors ceux qui étaient autour de lui, voyant ce qui allait arriver, lui dirent : Seigneur, frapperons-nous de l'épée?",
+        "OST": "Et ceux qui étaient autour de Jésus, voyant ce qui allait arriver, lui dirent: Seigneur, frapperons-nous de l'épée?",
+        "S21": "Voyant ce qui allait arriver, ceux qui étaient avec Jésus dirent: «Seigneur, devons-nous frapper avec l'épée?»"
+      }
+    },
+    {
+      "verse": 50,
+      "texts": {
+        "BDS": "Et, immédiatement, l’un d’eux frappa le serviteur du grand-prêtre et lui emporta l’oreille droite.",
+        "DBY": "Et l'un d'entre eux frappa l'esclave du souverain sacrificateur et lui emporta l'oreille droite.",
+        "KJV": "And one of them smote the servant of the high priest, and cut off his right ear.",
+        "LSG": "Et l'un d'eux frappa le serviteur du souverain sacrificateur, et lui emporta l'oreille droite.",
+        "MAB": "Et l'un d'eux frappa le serviteur du souverain Sacrificateur, et lui emporta l'oreille droite.",
+        "OST": "Et l'un d'eux frappa le serviteur du souverain sacrificateur, et lui emporta l'oreille droite. Mais Jésus, prenant la parole, dit: Arrêtez-vous.",
+        "S21": "Et l'un d'eux frappa le serviteur du grand-prêtre et lui emporta l'oreille droite."
+      }
+    },
+    {
+      "verse": 51,
+      "texts": {
+        "BDS": "Mais Jésus les retint en disant:\r\n—Laissez faire, même ceci!\r\nPuis il toucha l’oreille du blessé et le guérit.",
+        "DBY": "Mais Jésus, répondant, dit: Laissez faire jusqu'ici; et lui ayant touché l'oreille, il le guérit.",
+        "KJV": "And Jesus answered and said, ‹Suffer ye thus far.› And he touched his ear, and healed him.",
+        "LSG": "Mais Jésus, prenant la parole, dit: Laissez, arrêtez! Et, ayant touché l'oreille de cet homme, il le guérit.",
+        "MAB": "Mais Jésus prenant la parole dit : laissez[-les] faire jusques ici. Et lui ayant touché l'oreille, il le guérit.",
+        "OST": "Et ayant touché l'oreille du serviteur, il le guérit.",
+        "S21": "Mais Jésus prit la parole et dit: «Laissez faire, arrêtez!» Puis il toucha l'oreille de cet homme et le guérit."
+      }
+    },
+    {
+      "verse": 52,
+      "texts": {
+        "BDS": "Il se tourna ensuite vers les chefs des prêtres, les chefs des gardes du Temple et les responsables du peuple, qui avaient accompagné cette troupe pour le prendre.\r\n—Me prenez-vous pour un bandit pour que vous soyez venus avec épées et gourdins?",
+        "DBY": "Et Jésus dit aux principaux sacrificateurs et aux capitaines du temple et aux anciens qui étaient venus contre lui: Etes-vous sortis comme contre un brigand avec des épées et des bâtons?",
+        "KJV": "Then Jesus said unto the chief priests, and captains of the temple, and the elders, which were come to him, ‹Be ye come out, as against a thief, with swords and staves?›",
+        "LSG": "Jésus dit ensuite aux principaux sacrificateurs, aux chefs des gardes du temple, et aux anciens, qui étaient venus contre lui: Vous êtes venus, comme après un brigand, avec des épées et des bâtons.",
+        "MAB": "Puis Jésus dit aux principaux Sacrificateurs, et aux Capitaines du Temple, et aux Anciens qui étaient venus contre lui : êtes-vous venus comme après un brigand avec des épées et des bâtons?",
+        "OST": "Puis Jésus dit aux principaux sacrificateurs, aux capitaines du temple, et aux anciens qui étaient venus contre lui: Vous êtes sortis avec des épées et des bâtons, comme après un brigand.",
+        "S21": "Jésus dit ensuite aux chefs des prêtres, aux chefs des gardes du temple et aux anciens qui étaient venus pour l’arrêter: «Vous êtes venus comme pour un brigand, avec des épées et des bâtons."
+      }
+    },
+    {
+      "verse": 53,
+      "texts": {
+        "BDS": "J’étais chaque jour avec vous dans la cour du Temple, et personne n’a mis la main sur moi; mais maintenant c’est votre heure et les ténèbres vont exercer leur pouvoir.",
+        "DBY": "Lorsque j'étais tous les jours avec vous, dans le temple, vous n'avez pas étendu vos mains contre moi; mais c'est ici votre heure, et le pouvoir des ténèbres.",
+        "KJV": "‹When I was daily with you in the temple, ye stretched forth no hands against me: but this is your hour, and the power of darkness.›",
+        "LSG": "J'étais tous les jours avec vous dans le temple, et vous n'avez pas mis la main sur moi. Mais c'est ici votre heure, et la puissance des ténèbres.",
+        "MAB": "Quoique j'aie été tous les jours avec vous au Temple, vous n'avez pas mis la main sur moi; mais c'est ici votre heure, et la puissance des ténèbres.",
+        "OST": "J'étais tous les jours dans le temple avec vous, et vous n'avez point mis les mains sur moi. Mais c'est votre heure et la puissance des ténèbres.",
+        "S21": "J'étais tous les jours avec vous dans le temple et vous n'avez pas mis la main sur moi. Mais c'est maintenant votre heure et celle du pouvoir des ténèbres.»"
+      }
+    },
+    {
+      "verse": 54,
+      "texts": {
+        "BDS": "Alors ils se saisirent de lui et le conduisirent dans le palais du grand-prêtre. Pierre suivait à distance.",
+        "DBY": "Et se saisissant de lui, ils l'emmenèrent, et le conduisirent dans la maison du souverain sacrificateur. Or Pierre suivait de loin.",
+        "KJV": "Then took they him, and led [him], and brought him into the high priest's house. And Peter followed afar off.",
+        "LSG": "Après avoir saisi Jésus, ils l'emmenèrent, et le conduisirent dans la maison du souverain sacrificateur. Pierre suivait de loin.",
+        "MAB": "Se saisissant donc de lui, ils l'emmenèrent, et le firent entrer dans la maison du souverain Sacrificateur; et Pierre suivait de loin.",
+        "OST": "Alors ils le saisirent, et l'emmenèrent, et le firent entrer dans la maison du souverain sacrificateur. Et Pierre suivait de loin.",
+        "S21": "Après avoir arrêté Jésus, ils l'emmenèrent et le conduisirent dans la maison du grand-prêtre. Pierre suivait de loin."
+      }
+    },
+    {
+      "verse": 55,
+      "texts": {
+        "BDS": "Au milieu de la cour, on avait allumé un feu et les gens étaient assis autour. Pierre s’assit au milieu du groupe.",
+        "DBY": "Et lorsqu'ils eurent allumé un feu au milieu de la cour et qu'ils se furent assis ensemble, Pierre s'assit au milieu d'eux.",
+        "KJV": "And when they had kindled a fire in the midst of the hall, and were set down together, Peter sat down among them.",
+        "LSG": "Ils allumèrent du feu au milieu de la cour, et ils s'assirent. Pierre s'assit parmi eux.",
+        "MAB": "Or ces gens ayant allumé du feu au milieu de la cour, et s'étant assis ensemble, Pierre s'assit aussi parmi eux.",
+        "OST": "Et quand ils eurent allumé du feu au milieu de la cour, et qu'ils se furent assis ensemble, Pierre s'assit parmi eux.",
+        "S21": "Ils allumèrent un feu au milieu de la cour et s'assirent ensemble. Pierre s'assit au milieu d’eux."
+      }
+    },
+    {
+      "verse": 56,
+      "texts": {
+        "BDS": "Une servante, en le voyant là près du feu, l’observa à la clarté de la flamme et dit:\r\n—En voilà un qui était aussi avec lui.",
+        "DBY": "Et une servante, le voyant assis auprès de la lumière, et l'ayant regardé fixement, dit: Celui-ci aussi était avec lui.",
+        "KJV": "But a certain maid beheld him as he sat by the fire, and earnestly looked upon him, and said, This man was also with him.",
+        "LSG": "Une servante, qui le vit assis devant le feu, fixa sur lui les regards, et dit: Cet homme était aussi avec lui.",
+        "MAB": "Et une servante le voyant assis auprès du feu, et ayant l'œil arrêté sur lui, dit : celui-ci aussi était avec lui;",
+        "OST": "Et une servante le voyant assis auprès du feu, et le regardant attentivement, dit:",
+        "S21": "Une servante qui l’avait vu assis devant le feu et l'avait observé dit: «Cet homme aussi était avec lui.»"
+      }
+    },
+    {
+      "verse": 57,
+      "texts": {
+        "BDS": "Mais Pierre le nia en disant:\r\n—Mais non, je ne connais pas cet homme.",
+        "DBY": "Mais il le renia, disant: Femme, je ne le connais pas.",
+        "KJV": "And he denied him, saying, Woman, I know him not.",
+        "LSG": "Mais il le nia disant: Femme, je ne le connais pas.",
+        "MAB": "Mais il le nia, disant : femme, je ne le connais point.",
+        "OST": "Celui-ci était aussi avec cet homme. Mais il renia Jésus, en disant: Femme, je ne le connais point.",
+        "S21": "Mais il le renia en disant: «Femme, je ne le connais pas.»"
+      }
+    },
+    {
+      "verse": 58,
+      "texts": {
+        "BDS": "Peu après, quelqu’un d’autre, en apercevant Pierre, l’interpella:\r\n—Toi aussi, tu fais partie de ces gens!\r\n—Mais non, déclara Pierre, je n’en suis pas!",
+        "DBY": "Et peu après, un autre le voyant, dit: Et toi, tu es de ces gens-là. Mais Pierre dit: O homme, je n'en suis point.",
+        "KJV": "And after a little while another saw him, and said, Thou art also of them. And Peter said, Man, I am not.",
+        "LSG": "Peu après, un autre, l'ayant vu, dit: Tu es aussi de ces gens-là. Et Pierre dit: Homme, je n'en suis pas.",
+        "MAB": "Et un peu après, un autre le voyant, dit : tu es aussi de ces gens-là, mais Pierre dit : ô homme! je n'en suis point.",
+        "OST": "Et peu après un autre l'ayant vu, dit: Tu es aussi de ces gens-là. Mais Pierre dit: O homme, je n'en suis point.",
+        "S21": "Peu après, un autre le vit et dit: «Toi aussi tu fais partie de ces gens-là.» Et Pierre dit à l'homme: «Je n'en fais pas partie.»"
+      }
+    },
+    {
+      "verse": 59,
+      "texts": {
+        "BDS": "Environ une heure plus tard, un autre encore soutint avec insistance:\r\n—C’est sûr, cet homme-là était aussi avec lui; d’ailleurs c’est un Galiléen.",
+        "DBY": "Et environ une heure après, un autre affirma, disant: En vérité, celui-ci aussi était avec lui; car aussi il est Galiléen.",
+        "KJV": "And about the space of one hour after another confidently affirmed, saying, Of a truth this [fellow] also was with him: for he is a Galilaean.",
+        "LSG": "Environ une heure plus tard, un autre insistait, disant: Certainement cet homme était aussi avec lui, car il est Galiléen.",
+        "MAB": "Et environ l'espace d'une heure après, quelque autre affirmait, [et disait] : certainement celui-ci aussi était avec lui : car il est Galiléen.",
+        "OST": "Environ une heure après, un autre insistait en disant: Certainement, celui-là était aussi avec lui; car il est aussi Galiléen.",
+        "S21": "Environ une heure plus tard, un autre insistait, disant: «Certainement cet homme était aussi avec lui, car il est galiléen.»"
+      }
+    },
+    {
+      "verse": 60,
+      "texts": {
+        "BDS": "—Mais non, je ne sais pas ce que tu veux dire, s’écria Pierre.\r\nAu même instant, alors qu’il était encore en train de parler, le coq se mit à chanter.",
+        "DBY": "Et Pierre dit: O homme, je ne sais ce que tu dis. Et à l'instant, comme il parlait encore, le coq chanta.",
+        "KJV": "And Peter said, Man, I know not what thou sayest. And immediately, while he yet spake, the cock crew.",
+        "LSG": "Pierre répondit: Homme, je ne sais ce que tu dis. Au même instant, comme il parlait encore, le coq chanta.",
+        "MAB": "Et Pierre dit : ô homme! je ne sais ce que tu dis. Et dans ce moment, comme il parlait encore, le coq chanta.",
+        "OST": "Et Pierre dit: O homme, je ne sais ce que tu dis. Et au même instant, comme il parlait encore, le coq chanta.",
+        "S21": "Pierre répondit: «Je ne sais pas de quoi tu parles.» Immédiatement, alors qu’il parlait encore, un coq chanta."
+      }
+    },
+    {
+      "verse": 61,
+      "texts": {
+        "BDS": "Le Seigneur se retourna et posa son regard sur Pierre. Alors Pierre se souvint de ce que le Seigneur lui avait dit: «Avant que le coq ne chante aujourd’hui, tu m’auras renié trois fois!»",
+        "DBY": "Et le Seigneur, se tournant, regarda Pierre; et Pierre se ressouvint de la parole du Seigneur, comme il lui avait dit: Avant que le coq chante, tu me renieras trois fois.",
+        "KJV": "And the Lord turned, and looked upon Peter. And Peter remembered the word of the Lord, how he had said unto him, ‹Before the cock crow, thou shalt deny me thrice.›",
+        "LSG": "Le Seigneur, s'étant retourné, regarda Pierre. Et Pierre se souvint de la parole que le Seigneur lui avait dite: Avant que le coq chante aujourd'hui, tu me renieras trois fois.",
+        "MAB": "Et le Seigneur se tournant, regarda Pierre; et Pierre se ressouvint de la parole du Seigneur, qui lui avait dit : avant que le coq chante, tu me renieras trois fois.",
+        "OST": "Le Seigneur s'étant retourné, regarda Pierre; et Pierre se ressouvint de la parole du Seigneur, et comment il lui avait dit: Avant que le coq ait chanté, tu m'auras renié trois fois.",
+        "S21": "Le Seigneur se retourna et regarda Pierre. Pierre se souvint alors de ce que le Seigneur lui avait dit: «Avant que le coq chante [aujourd'hui], tu me renieras trois fois.»"
+      }
+    },
+    {
+      "verse": 62,
+      "texts": {
+        "BDS": "Il se glissa dehors et se mit à pleurer amèrement.",
+        "DBY": "Et Pierre, étant sorti dehors, pleura amèrement.",
+        "KJV": "And Peter went out, and wept bitterly.",
+        "LSG": "Et étant sorti, il pleura amèrement.",
+        "MAB": "Alors Pierre étant sorti dehors, pleura amèrement.",
+        "OST": "Et Pierre étant sorti, pleura amèrement.",
+        "S21": "Il sortit et pleura amèrement."
+      }
+    },
+    {
+      "verse": 63,
+      "texts": {
+        "BDS": "Les hommes qui gardaient Jésus se moquaient de lui et le frappaient.",
+        "DBY": "Et les hommes qui tenaient Jésus se moquaient de lui et le frappaient;",
+        "KJV": "And the men that held Jesus mocked him, and smote [him].",
+        "LSG": "Les hommes qui tenaient Jésus se moquaient de lui, et le frappaient.",
+        "MAB": "Or ceux qui tenaient Jésus, se moquaient de lui, et le frappaient.",
+        "OST": "Or, les hommes qui tenaient Jésus, se moquaient de lui et le frappaient;",
+        "S21": "Les hommes qui gardaient Jésus se moquaient de lui et le frappaient."
+      }
+    },
+    {
+      "verse": 64,
+      "texts": {
+        "BDS": "Ils lui couvraient le visage et criaient:\r\n—Hé! Fais le prophète! Dis-nous qui te frappe!",
+        "DBY": "et lui couvrant les yeux, ils l'interrogeaient, disant: Prophétise; qui est celui qui t'a frappé?",
+        "KJV": "And when they had blindfolded him, they struck him on the face, and asked him, saying, Prophesy, who is it that smote thee?",
+        "LSG": "Ils lui voilèrent le visage, et ils l'interrogeaient, en disant: Devine qui t'a frappé.",
+        "MAB": "Et lui ayant bandé les yeux, ils lui donnaient des coups sur le visage, et l'interrogeaient, disant : devine qui est celui qui t'a frappé?",
+        "OST": "Et, l'ayant couvert d'un voile, ils lui donnaient des coups sur le visage, et lui disaient: Devine qui est celui qui t'a frappé?",
+        "S21": "Ils lui mirent un voile sur le visage et ils l'interrogeaient en disant: «Devine qui t'a frappé!»"
+      }
+    },
+    {
+      "verse": 65,
+      "texts": {
+        "BDS": "Et ils l’accablaient d’injures.",
+        "DBY": "Et ils disaient plusieurs autres choses contre lui, en l'outrageant.",
+        "KJV": "And many other things blasphemously spake they against him.",
+        "LSG": "Et ils proféraient contre lui beaucoup d'autres injures.",
+        "MAB": "Et ils disaient plusieurs autres choses contre lui, en l'outrageant de paroles.",
+        "OST": "Et ils disaient beaucoup d'autres choses contre lui, en l'injuriant.",
+        "S21": "Et ils proféraient contre lui beaucoup d'autres insultes."
+      }
+    },
+    {
+      "verse": 66,
+      "texts": {
+        "BDS": "Dès le point du jour, les responsables du peuple, les chefs des prêtres et les spécialistes de la Loi se réunirent et firent amener Jésus devant leur Grand-Conseil.",
+        "DBY": "Et quand le jour fut venu, le corps des anciens du peuple, principaux sacrificateurs et scribes, s'assembla; et ils l'amenèrent dans leur sanhédrin,",
+        "KJV": "And as soon as it was day, the elders of the people and the chief priests and the scribes came together, and led him into their council, saying,",
+        "LSG": "Quand le jour fut venu, le collège des anciens du peuple, les principaux sacrificateurs et les scribes, s'assemblèrent, et firent amener Jésus dans leur sanhédrin. Ils dirent:",
+        "MAB": "Et quand le jour fut venu, les Anciens du peuple, et les principaux Sacrificateurs, et les Scribes, s'assemblèrent, et l'emmenèrent dans le conseil;",
+        "OST": "Et dès que le jour fut venu, le conseil des anciens du peuple, les principaux sacrificateurs et les scribes s'assemblèrent et firent venir Jésus dans leur sanhédrin; et ils lui dirent:",
+        "S21": "Au lever du jour, le collège des anciens du peuple, les chefs des prêtres et les spécialistes de la loi se rassemblèrent et firent amener Jésus devant leur sanhédrin."
+      }
+    },
+    {
+      "verse": 67,
+      "texts": {
+        "BDS": "L’interrogatoire commença:\r\n—Si tu es le Messie, déclare-le nous.\r\nJésus leur dit:\r\n—Si je vous réponds, vous ne croirez pas,",
+        "DBY": "disant: Si toi, tu es le Christ, dis-le-nous. Et il leur dit: Si je vous le disais, vous ne le croiriez point;",
+        "KJV": "Art thou the Christ? tell us. And he said unto them, ‹If I tell you, ye will not believe:›",
+        "LSG": "Si tu es le Christ, dis-le nous. Jésus leur répondit: Si je vous le dis, vous ne le croirez pas;",
+        "MAB": "Et [lui] dirent : si tu es le Christ, dis-le-nous. Et il leur répondit : si je vous le dis, vous ne le croirez point.",
+        "OST": "Si tu es le Christ, dis-le-nous. Et il leur répondit: Si je vous le dis, vous ne le croirez point;",
+        "S21": "Ils dirent: «Si tu es le Messie, dis-le-nous.» Jésus leur répondit: «Si je vous le dis, vous ne le croirez pas,"
+      }
+    },
+    {
+      "verse": 68,
+      "texts": {
+        "BDS": "et si je vous pose des questions, vous ne me répondrez pas.",
+        "DBY": "et si je vous interroge, vous ne me répondrez point ou ne me laisserez point aller.",
+        "KJV": "‹And if I also ask› [you], ‹ye will not answer me, nor let› [me] ‹go›.",
+        "LSG": "et, si je vous interroge, vous ne répondrez pas.",
+        "MAB": "Que si aussi je vous interroge, vous ne me répondrez point, et vous ne me laisserez point aller.",
+        "OST": "Et si je vous interroge aussi, vous ne me répondrez point, ni ne me laisserez point aller.",
+        "S21": "et si je vous interroge, vous ne [me] répondrez pas [et vous ne me relâcherez pas non plus]."
+      }
+    },
+    {
+      "verse": 69,
+      "texts": {
+        "BDS": "Mais à partir de maintenant, le Fils de l’homme siégera à la droite du Dieu tout-puissant.",
+        "DBY": "Mais désormais le fils de l'homme sera assis à la droite de la puissance de Dieu.",
+        "KJV": "‹Hereafter shall the Son of man sit on the right hand of the power of God.›",
+        "LSG": "Désormais le Fils de l'homme sera assis à la droite de la puissance de Dieu.",
+        "MAB": "Désormais le Fils de l'homme sera assis à la droite de la puissance de Dieu.",
+        "OST": "Désormais le Fils de l'homme sera assis à la droite de la puissance de Dieu.",
+        "S21": "Désormais le Fils de l'homme sera assis à la droite du Dieu tout-puissant.»"
+      }
+    },
+    {
+      "verse": 70,
+      "texts": {
+        "BDS": "Alors ils se mirent à crier tous ensemble:\r\n—Tu es donc le Fils de Dieu!\r\n—Vous dites vous-mêmes que je le suis, répondit Jésus.",
+        "DBY": "Et ils dirent tous: Toi, tu es donc le Fils de Dieu? Et il leur dit: Vous dites vous-mêmes que je le suis.",
+        "KJV": "Then said they all, Art thou then the Son of God? And he said unto them, ‹Ye say that I am.›",
+        "LSG": "Tous dirent: Tu es donc le Fils de Dieu? Et il leur répondit: Vous le dites, je le suis.",
+        "MAB": "Alors ils dirent tous : es-tu donc le Fils de Dieu? Il leur dit : vous le dites vous-mêmes que je le suis.",
+        "OST": "Alors ils dirent tous: Tu es donc le Fils de Dieu? Et il leur répondit: Vous le dites vous-mêmes; je le suis.",
+        "S21": "Tous dirent: «Tu es donc le Fils de Dieu?» Il leur répondit: «Vous le dites, je le suis.»"
+      }
+    },
+    {
+      "verse": 71,
+      "texts": {
+        "BDS": "Là-dessus ils s’écrièrent:\r\n—Qu’avons-nous encore besoin de témoignages? Nous venons de l’entendre nous-mêmes de sa bouche.",
+        "DBY": "Et ils dirent: Qu'avons-nous encore besoin de témoignage? Car nous-mêmes nous l'avons entendu de sa bouche.",
+        "KJV": "And they said, What need we any further witness? for we ourselves have heard of his own mouth.",
+        "LSG": "Alors ils dirent: Qu'avons-nous encore besoin de témoignage? Nous l'avons entendu nous-mêmes de sa bouche.",
+        "MAB": "Et ils dirent : qu'avons-nous besoin encore de témoignage? car nous-mêmes nous l'avons ouï de sa bouche.",
+        "OST": "Alors ils dirent: Qu'avons-nous plus besoin de témoignage, puisque nous l'avons entendu nous-mêmes de sa bouche?",
+        "S21": "Alors ils dirent: «Qu'avons-nous encore besoin de témoignages? Nous l'avons entendu nous-mêmes de sa bouche.»"
+      }
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "bookCode": "2SA",
+  "chapter": 9,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "David demanda:\r\n—Reste-t-il encore un survivant de la famille de Saül? J’aimerais lui témoigner ma faveur par amitié pour Jonathan.",
+        "DBY": "Et David dit: Y a-t-il encore quelqu'un qui soit demeuré de reste de la maison de Saül? et j'userai de bonté envers lui à cause de Jonathan.",
+        "KJV": "And David said, Is there yet any that is left of the house of Saul, that I may shew him kindness for Jonathan's sake?",
+        "LSG": "David dit: Reste-t-il encore quelqu'un de la maison de Saül, pour que je lui fasse du bien à cause de Jonathan?",
+        "MAB": "Alors David dit : Mais n'y a-t-il plus personne qui soit demeuré de reste de la maison de Saül, et je lui ferai du bien pour l'amour de Jonathan?",
+        "OST": "Alors David dit: Ne reste-t-il donc personne de la maison de Saül, afin que je lui fasse du bien pour l'amour de Jonathan?",
+        "S21": "David demanda: «Reste-t-il encore quelqu'un de la famille de Saül, pour que je lui fasse du bien à cause de Jonathan?»"
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "Or, il y avait un ancien serviteur de la maison de Saül nommé Tsiba. On le fit venir auprès de David. Le roi lui demanda:\r\n—Es-tu bien Tsiba?\r\nIl répondit:\r\n—C’est moi, ton serviteur!",
+        "DBY": "Et il y avait un serviteur de la maison de Saül, dont le nom était Tsiba; et on l'appela auprès de David. Et le roi lui dit: Es-tu Tsiba? Et il dit: Ton serviteur!",
+        "KJV": "And [there was] of the house of Saul a servant whose name [was] Ziba. And when they had called him unto David, the king said unto him, [Art] thou Ziba? And he said, Thy servant [is he].",
+        "LSG": "Il y avait un serviteur de la maison de Saül, nommé Tsiba, que l'on fit venir auprès de David. Le roi lui dit: Es-tu Tsiba? Et il répondit: Ton serviteur!",
+        "MAB": "Or il y avait dans la maison de Saül un serviteur nommé Tsiba, lequel on appela pour le faire venir vers David. Et le Roi lui dit : Es-tu Tsiba? et il répondit : Je suis ton serviteur [Tsiba].",
+        "OST": "Or il y avait dans la maison de Saül un serviteur nommé Tsiba, qu'on appela auprès de David; et le roi lui dit: Es-tu Tsiba? Et il répondit: Ton serviteur!",
+        "S21": "Il y avait un serviteur de la famille de Saül, un dénommé Tsiba, que l'on fit venir vers David. Le roi lui dit: «Es-tu Tsiba?» Il répondit: «Pour te servir!»"
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "Puis le roi lui posa la question:\r\n—Reste-t-il encore quelqu’un de la famille de Saül? Je voudrais lui témoigner ma faveur comme je l’ai promis devant Dieu.\r\nTsiba lui répondit:\r\n—Il existe encore un fils de Jonathan qui a les deux jambes estropiées.",
+        "DBY": "Et le roi dit: N'y a-t-il plus personne de la maison de Saül? et j'userai envers lui d'une bonté de Dieu. Et Tsiba dit au roi: Il y a encore un fils de Jonathan, perclus des pieds.",
+        "KJV": "And the king said, [Is] there not yet any of the house of Saul, that I may shew the kindness of God unto him? And Ziba said unto the king, Jonathan hath yet a son, [which is] lame on [his] feet.",
+        "LSG": "Le roi dit: N'y a-t-il plus personne de la maison de Saül, pour que j'use envers lui de la bonté de Dieu? Et Tsiba répondit au roi: Il y a encore un fils de Jonathan, perclus des pieds.",
+        "MAB": "Et le Roi dit : N'y a-t-il plus personne de la maison de Saül, et j'userai envers lui d'une grande gratuité. Et Tsiba répondit au Roi : Il y a encore un des fils de Jonathan, qui est blessé aux pieds.",
+        "OST": "Et le roi dit: N'y a-t-il plus personne de la maison de Saül, pour que j'use envers lui d'une bonté selon Dieu? Et Tsiba répondit au roi: Il y a encore un fils de Jonathan, qui est perclus des pieds.",
+        "S21": "Le roi dit: «N'y a-t-il plus personne de la famille de Saül, pour que je fasse preuve envers lui de la bonté de Dieu?» Tsiba répondit au roi: «Il y a encore un fils de Jonathan; il est handicapé aux deux jambes.»"
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "—Où vit-il? lui demanda le roi.\r\nTsiba répondit:\r\n—Dans la maison de Makir, un fils d’Ammiel à Lodebar.",
+        "DBY": "Et le roi lui dit: Où est-il? Et Tsiba dit au roi: Voici, il est dans la maison de Makir, fils d'Ammiel, à Lodebar.",
+        "KJV": "And the king said unto him, Where [is] he? And Ziba said unto the king, Behold, he [is] in the house of Machir, the son of Ammiel, in Lodebar.",
+        "LSG": "Le roi lui dit: Où est-il? Et Tsiba répondit au roi: Il est dans la maison de Makir, fils d'Ammiel, à Lodebar.",
+        "MAB": "Et le Roi lui dit : Où est-il? Et Tsiba répondit au Roi : Voilà, il est en la maison de Makir fils de Hammiel, à Lodébar.",
+        "OST": "Le roi lui dit: Où est-il? Et Tsiba répondit au roi: Il est dans la maison de Makir, fils d'Ammiel, à Lodébar.",
+        "S21": "Le roi lui demanda: «Où est-il?» Et Tsiba répondit au roi: «Il est chez Makir, fils d'Ammiel, à Lodebar.»"
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "Le roi David l’envoya donc chercher à Lodebar dans la maison de Makir.",
+        "DBY": "Et le roi David envoya, et le prit de la maison de Makir, fils d'Ammiel, à Lodebar.",
+        "KJV": "Then king David sent, and fetched him out of the house of Machir, the son of Ammiel, from Lodebar.",
+        "LSG": "Le roi David l'envoya chercher dans la maison de Makir, fils d'Ammiel, à Lodebar.",
+        "MAB": "Alors le Roi David envoya, et le fit amener de la maison de Makir, fils de Hammiel, de Lodébar.",
+        "OST": "Alors le roi David envoya et le fit amener de la maison de Makir, fils d'Ammiel de Lodébar.",
+        "S21": "Le roi David l'envoya chercher chez Makir, le fils d'Ammiel, à Lodebar."
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "Lorsque Mephibocheth, fils de Jonathan et petit-fils de Saül, fut arrivé chez David, il s’inclina face contre terre et se prosterna devant lui. David l’appela:\r\n—Mephibocheth!\r\n—C’est bien moi, pour te servir.",
+        "DBY": "Et Mephibosheth, fils de Jonathan, fils de Saül, vint vers David, et il tomba sur sa face et se prosterna.",
+        "KJV": "Now when Mephibosheth, the son of Jonathan, the son of Saul, was come unto David, he fell on his face, and did reverence. And David said, Mephibosheth. And he answered, Behold thy servant!",
+        "LSG": "Et Mephiboscheth, fils de Jonathan, fils de Saül, vint auprès de David, tomba sur sa face et se prosterna. David dit: Mephiboscheth! Et il répondit: Voici ton serviteur.",
+        "MAB": "Et quand Méphiboseth, le fils de Jonathan fils de Saül, fut venu vers David, il s'inclina sur son visage, et se prosterna. Et David dit : Méphiboseth; et il répondit : Voici ton serviteur.",
+        "OST": "Or quand Méphibosheth, le fils de Jonathan, fils de Saül, fut venu vers David, il se jeta sur sa face et se prosterna. Et David dit: Méphibosheth! Il répondit: Voici ton serviteur.",
+        "S21": "Mephibosheth, fils de Jonathan et petit-fils de Saül, vint vers David, tomba le visage contre terre et se prosterna. David dit: «Mephibosheth!» Il répondit: «Me voici, je suis ton serviteur.»"
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "Et David lui dit:\r\n—N’aie aucune crainte; car je t’assure que je veux te traiter avec faveur par amitié pour ton père Jonathan. De plus, je te rendrai toutes les terres qui appartenaient à ton grand-père Saül. Quant à toi, tu prendras tous tes repas à ma table.",
+        "DBY": "Et David dit: Mephibosheth! Et il dit: Voici ton serviteur. Et David lui dit: Ne crains point, car certainement j'userai de bonté envers toi à cause de Jonathan, ton père, et je te rendrai tous les champs de Saül, ton père, et tu mangeras continuellement le pain à ma table.",
+        "KJV": "And David said unto him, Fear not: for I will surely shew thee kindness for Jonathan thy father's sake, and will restore thee all the land of Saul thy father; and thou shalt eat bread at my table continually.",
+        "LSG": "David lui dit: Ne crains point, car je veux te faire du bien à cause de Jonathan, ton père. Je te rendrai toutes les terres de Saül, ton père, et tu mangeras toujours à ma table.",
+        "MAB": "Et David lui dit : Ne crains point; car certainement je te ferai du bien pour l'amour de Jonathan ton père, et je te restituerai toutes les terres de Saül ton père, et tu mangeras toujours du pain à ma table.",
+        "OST": "Et David lui dit: Ne crains point, car certainement je te ferai du bien pour l'amour de Jonathan, ton père; et je te rendrai toutes les terres de Saül, ton père; et toi, tu mangeras toujours à ma table.",
+        "S21": "David lui dit: «N’aie pas peur, car je veux te faire du bien à cause de ton père Jonathan. Je te rendrai toutes les terres de Saül, ton grand-père, et tu mangeras toujours à ma table.»"
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "Mephibocheth se prosterna de nouveau et dit:\r\n—Qu’est donc ton serviteur pour que tu t’intéresses à lui? Je ne vaux pas plus qu’un chien mort.",
+        "DBY": "Et il se prosterna, et dit: Qu'est ton serviteur, que tu aies regardé un chien mort tel que moi?",
+        "KJV": "And he bowed himself, and said, What [is] thy servant, that thou shouldest look upon such a dead dog as I [am]?",
+        "LSG": "Il se prosterna, et dit: Qu'est ton serviteur, pour que tu regardes un chien mort, tel que moi?",
+        "MAB": "Et [Méphiboseth] se prosterna, et dit : Qui suis-je moi ton serviteur, que tu aies regardé un chien mort, tel que je suis?",
+        "OST": "Alors Méphibosheth se prosterna et dit: Qu'est ton serviteur, que tu aies regardé un chien mort tel que moi?",
+        "S21": "Mephibosheth se prosterna et dit: «Que suis-je, moi ton serviteur, pour que tu prêtes attention à un chien mort tel que moi?»"
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "Le roi appela Tsiba, le domestique de Saül, et lui dit:\r\n—Tout ce qui appartenait à Saül et à toute sa famille, je le donne au petit-fils de ton maître.",
+        "DBY": "Et le roi appela Tsiba, le serviteur de Saül, et lui dit: Tout ce qui appartenait à Saül et à toute sa maison, je le donne au fils de ton seigneur;",
+        "KJV": "Then the king called to Ziba, Saul's servant, and said unto him, I have given unto thy master's son all that pertained to Saul and to all his house.",
+        "LSG": "Le roi appela Tsiba, serviteur de Saül, et lui dit: Je donne au fils de ton maître tout ce qui appartenait à Saül et à toute sa maison.",
+        "MAB": "Et le Roi appela Tsiba serviteur de Saül, et lui dit : J'ai donné au fils de ton maître tout ce qui appartenait à Saül, et à toute sa maison.",
+        "OST": "Puis le roi appela Tsiba, serviteur de Saül, et lui dit: J'ai donné au fils de ton maître tout ce qui appartenait à Saül et à toute sa maison.",
+        "S21": "Le roi appela Tsiba, le serviteur de Saül, et lui dit: «Je donne au fils de ton maître tout ce qui appartenait à Saül et à toute sa famille."
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "Toi, tes fils et tes serviteurs, vous cultiverez ses terres pour lui et tu apporteras ce que vous récolterez pour assurer l’entretien du fils de ton maître. Quant à Mephibocheth, le fils de ton maître, c’est à ma table qu’il prendra tous les jours ses repas.\r\nOr Tsiba avait quinze fils et vingt serviteurs.",
+        "DBY": "et tu cultiveras pour lui la terre, toi et tes fils et tes serviteurs, et tu en apporteras les fruits, et le fils de ton seigneur aura du pain à manger; et Mephibosheth, fils de ton seigneur, mangera continuellement le pain à ma table. Or Tsiba avait quinze fils et vingt serviteurs.",
+        "KJV": "Thou therefore, and thy sons, and thy servants, shall till the land for him, and thou shalt bring in [the fruits], that thy master's son may have food to eat: but Mephibosheth thy master's son shall eat bread alway at my table. Now Ziba had fifteen sons and twenty servants.",
+        "LSG": "Tu cultiveras pour lui les terres, toi, tes fils, et tes serviteurs, et tu feras les récoltes, afin que le fils de ton maître ait du pain à manger; et Mephiboscheth, fils de ton maître, mangera toujours à ma table. Or Tsiba avait quinze fils et vingt serviteurs.",
+        "MAB": "C'est pourquoi laboure pour lui ces terres-là, toi et tes fils, et tes serviteurs, et recueilles-en les fruits, afin que le fils de ton maître ait du pain à manger; mais quant à Méphiboseth, fils de ton maître, il mangera toujours du pain à ma table. Or Tsiba avait quinze fils, et vingt serviteurs.",
+        "OST": "Tu cultiveras donc pour lui ces terres-là, toi et tes fils et tes serviteurs, et tu en recueilleras les fruits, afin que le fils de ton maître ait du pain à manger. Et Méphibosheth, le fils de ton maître, mangera toujours à ma table. Or Tsiba avait quinze fils et vingt serviteurs.",
+        "S21": "Tu cultiveras les terres pour lui, avec tes fils et tes serviteurs, et tu feras les récoltes, afin que le fils de ton maître ait du pain, de quoi manger. En outre, Mephibosheth, le fils de ton maître, mangera constamment à ma table.» Or Tsiba avait 15 fils et 20 serviteurs."
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "Il dit au roi:\r\n—Ton serviteur fera tout ce que le roi mon seigneur lui a ordonné.\r\nAinsi Mephibocheth mangea à la table royale comme s’il était l’un des fils du roi.",
+        "DBY": "Et Tsiba dit au roi: Ton serviteur fera selon tout ce que le roi, mon seigneur, a commandé à son serviteur. Et Mephibosheth, dit le roi, mangera à ma table comme un des fils du roi.",
+        "KJV": "Then said Ziba unto the king, According to all that my lord the king hath commanded his servant, so shall thy servant do. As for Mephibosheth, [said the king], he shall eat at my table, as one of the king's sons.",
+        "LSG": "Il dit au roi: Ton serviteur fera tout ce que le roi mon seigneur ordonne à son serviteur. Et Mephiboscheth mangea à la table de David, comme l'un des fils du roi.",
+        "MAB": "Et Tsiba dit au Roi : Ton serviteur fera tout ce que le Roi mon Seigneur a commandé à son serviteur. Mais quant à Méphiboseth, (dit le Roi) il mangera à ma table, comme un des fils du Roi.",
+        "OST": "Et Tsiba dit au roi: Ton serviteur fera tout ce que le roi, mon seigneur, commande à son serviteur. Et Méphibosheth, dit le roi, mangera à ma table comme un des fils du roi.",
+        "S21": "Il dit au roi: «Ton serviteur fera tout ce que le roi mon seigneur ordonne à son serviteur.» Mephibosheth mangea donc à la table de David comme s’il était l'un des fils du roi."
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "Mephibocheth avait un jeune fils nommé Mika. Tous ceux qui demeuraient chez Tsiba étaient à son service.",
+        "DBY": "Et Mephibosheth avait un jeune fils, et son nom était Mica; et tous ceux qui habitaient dans la maison de Tsiba étaient serviteurs de Mephibosheth.",
+        "KJV": "And Mephibosheth had a young son, whose name [was] Micha. And all that dwelt in the house of Ziba [were] servants unto Mephibosheth.",
+        "LSG": "Mephiboscheth avait un jeune fils, nommé Mica, et tous ceux qui demeuraient dans la maison de Tsiba étaient serviteurs de Mephiboscheth.",
+        "MAB": "Or Méphiboseth avait un petit-fils nommé Mica; et tous ceux qui demeuraient dans la maison de Tsiba étaient des serviteurs de Méphiboseth.",
+        "OST": "Or Méphibosheth avait un jeune fils, nommé Mica; et tous ceux qui demeuraient dans la maison de Tsiba étaient serviteurs de Méphibosheth.",
+        "S21": "Il avait un jeune fils du nom de Mica et tous ceux qui habitaient chez Tsiba étaient à son service."
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "Comme il était estropié des deux pieds, il résidait à Jérusalem pour pouvoir aller tous les jours manger à la table du roi.",
+        "DBY": "Et Mephibosheth habitait à Jérusalem, car il mangeait toujours à la table du roi; et il était boiteux des deux pieds.",
+        "KJV": "So Mephibosheth dwelt in Jerusalem: for he did eat continually at the king's table; and was lame on both his feet.",
+        "LSG": "Mephiboscheth habitait à Jérusalem, car il mangeait toujours à la table du roi. Il était boiteux des deux pieds.",
+        "MAB": "Et Méphiboseth demeurait à Jérusalem, parce qu'il mangeait toujours à la table du Roi; et il était boiteux des deux pieds.",
+        "OST": "Et Méphibosheth demeurait à Jérusalem, parce qu'il mangeait toujours à la table du roi. Il était boiteux des deux pieds.",
+        "S21": "Mephibosheth habitait à Jérusalem, car il mangeait constamment à la table du roi. Il était estropié des deux pieds."
+      }
+    }
+  ]
+}

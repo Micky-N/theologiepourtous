@@ -1,0 +1,42 @@
+{
+  "bookCode": "EST",
+  "chapter": 10,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "Par la suite, l’empereur Xerxès imposa un tribut à tout son empire ainsi qu’aux territoires côtiers.",
+        "DBY": "Et le roi Assuérus imposa un tribut sur le pays et sur les îles de la mer.",
+        "KJV": "And the king Ahasuerus laid a tribute upon the land, and [upon] the isles of the sea.",
+        "LSG": "Le roi Assuérus imposa un tribut au pays et aux îles de la mer.",
+        "MAB": "Puis le Roi Assuérus imposa un tribut sur le pays, et sur les Iles de la mer.",
+        "OST": "Puis le roi Assuérus imposa un tribut au pays et aux îles de la mer.",
+        "S21": "Le roi Assuérus soumit à la corvée aussi bien la partie continentale du pays que les îles."
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "Tous ses actes démontrant sa puissance et sa vaillance, ainsi que la manière dont il éleva Mardochée à un rang important, sont consignés dans le livre des Annales des empereurs des Mèdes et des Perses.",
+        "DBY": "Et tous les actes de sa puissance et de sa force, et la déclaration de la grandeur de Mardochée, comment le roi l'éleva, ne sont-ils pas écrits dans le livre des chroniques des rois de Médie et de Perse?",
+        "KJV": "And all the acts of his power and of his might, and the declaration of the greatness of Mordecai, whereunto the king advanced him, [are] they not written in the book of the chronicles of the kings of Media and Persia?",
+        "LSG": "Tous les faits concernant sa puissance et ses exploits, et les détails sur la grandeur à laquelle le roi éleva Mardochée, ne sont-ils pas écrits dans le livre des Chroniques des rois des Mèdes et des Perses?",
+        "MAB": "Or quant à tous les exploits de sa force et de sa puissance, et quant à la description de la magnificence de Mardochée, de laquelle le Roi l'honora, ces choses ne sont-elles pas écrites dans le Livre des Chroniques des Rois de Médie et de Perse?",
+        "OST": "Or, quant à tous les actes de sa puissance et à ses exploits, et à la description de la grandeur à laquelle le roi éleva Mardochée, ces choses ne sont-elles pas écrites dans le livre des Chroniques des rois de Médie et de Perse?",
+        "S21": "Tout ce qu’il a accompli par sa puissance et sa force, ainsi que les détails sur le rôle important qu’il a accordé à Mardochée, cela est décrit dans les annales des rois des Mèdes et des Perses."
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "Le Juif Mardochée occupa, en effet, le second rang, après l’empereur Xerxès. Il fut très considéré par les Juifs et aimé par tous ses compatriotes, parce qu’il travaillait au bien de son peuple et œuvrait pour la paix de toute sa race.",
+        "DBY": "Car Mardochée, le Juif, fut le second après le roi Assuérus, et il fut grand parmi les Juifs et agréable à la multitude de ses frères, cherchant le bien de son peuple et parlant pour la paix de toute sa race.",
+        "KJV": "For Mordecai the Jew [was] next unto king Ahasuerus, and great among the Jews, and accepted of the multitude of his brethren, seeking the wealth of his people, and speaking peace to all his seed.",
+        "LSG": "Car le Juif Mardochée était le premier après le roi Assuérus; considéré parmi les Juifs et aimé de la multitude de ses frères, il rechercha le bien de son peuple et parla pour le bonheur de toute sa race.",
+        "MAB": "Car Mardochée le Juif fut le second après le Roi Assuérus, et il fut grand parmi les Juifs, et agréable à la multitude de ses frères, procurant le bien de son peuple, et parlant pour la prospérité de toute sa race.",
+        "OST": "Car le Juif Mardochée fut le second après le roi Assuérus, et il fut grand parmi les Juifs et agréable à la multitude de ses frères, recherchant le bien de son peuple, et parlant pour le bonheur de toute sa race.",
+        "S21": "En effet, le Juif Mardochée était l’adjoint du roi Assuérus. Il jouait un rôle important pour les Juifs et était très apprécié de ses nombreux frères. Il recherchait le bonheur de son peuple et contribua par ses paroles au bien-être de toute sa lignée."
+      }
+    }
+  ]
+}

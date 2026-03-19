@@ -1,0 +1,666 @@
+{
+  "bookCode": "LEV",
+  "chapter": 25,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "Sur le mont Sinaï, l’Eternel s’adressa à Moïse en ces termes:",
+        "DBY": "Et l'Éternel parla à Moïse, sur la montagne de Sinaï, disant:",
+        "KJV": "And the LORD spake unto Moses in mount Sinai, saying,",
+        "LSG": "L'Eternel parla à Moïse sur la montagne de Sinaï, et dit:",
+        "MAB": "L'Eternel parla aussi à Moïse sur la montagne de Sinaï, en disant :",
+        "OST": "L'Éternel parla aussi à Moïse sur la montagne de Sinaï, en disant:",
+        "S21": "L'Eternel dit à Moïse sur le mont Sinaï:"
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "—Dis aux Israélites: Quand vous serez entrés dans le pays que je vais vous donner, la terre elle-même se reposera; pour l’Eternel, vous la laisserez se reposer.",
+        "DBY": "Parle aux fils d'Israël, et dis-leur: Quand vous serez entrés dans le pays que je vous donne, le pays célébrera un sabbat à l'Éternel.",
+        "KJV": "Speak unto the children of Israel, and say unto them, When ye come into the land which I give you, then shall the land keep a sabbath unto the LORD.",
+        "LSG": "Parle aux enfants d'Israël, et tu leur diras: Quand vous serez entrés dans le pays que je vous donne, la terre se reposera: ce sera un sabbat en l'honneur de l'Eternel.",
+        "MAB": "Parle aux enfants d'Israël, et leur dis : Quand vous serez entrés au pays que je vous donne, la terre se reposera; ce sera un Sabbat à l'Eternel.",
+        "OST": "Parle aux enfants d'Israël, et dis-leur: Quand vous serez entrés au pays que je vous donne, la terre se reposera; ce sera un sabbat à l'Éternel.",
+        "S21": "«Transmets ces instructions aux Israélites: Quand vous serez entrés dans le pays que je vous donne, la terre se reposera, il y aura un sabbat en l'honneur de l'Eternel."
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "Pendant six ans, tu ensemenceras ton champ, et pendant six ans, tu tailleras ta vigne et tu en récolteras les produits.",
+        "DBY": "Pendant six ans tu sèmeras ton champ, et pendant six ans tu tailleras ta vigne, et tu en recueilleras le rapport;",
+        "KJV": "Six years thou shalt sow thy field, and six years thou shalt prune thy vineyard, and gather in the fruit thereof;",
+        "LSG": "Pendant six années tu ensemenceras ton champ, pendant six années tu tailleras ta vigne; et tu en recueilleras le produit.",
+        "MAB": "Pendant six ans tu sèmeras ton champ, et pendant six ans tu tailleras ta vigne, et en recueilleras le rapport.",
+        "OST": "Pendant six ans tu sèmeras ton champ, et pendant six ans tu tailleras ta vigne, et tu en recueilleras le produit.",
+        "S21": "Pendant 6 ans tu ensemenceras ton champ, pendant 6 ans tu tailleras ta vigne et tu en récolteras le produit."
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "Mais la septième année sera un sabbat, une année de repos pour la terre, on la laissera se reposer en l’honneur de l’Eternel; tu n’ensemenceras pas ton champ et tu ne tailleras pas ta vigne.",
+        "DBY": "et la septième année, il y aura un sabbat de repos pour le pays, un sabbat consacré à l'Éternel: tu ne sèmeras pas ton champ, et tu ne tailleras pas ta vigne.",
+        "KJV": "But in the seventh year shall be a sabbath of rest unto the land, a sabbath for the LORD: thou shalt neither sow thy field, nor prune thy vineyard.",
+        "LSG": "Mais la septième année sera un sabbat, un temps de repos pour la terre, un sabbat en l'honneur de l'Eternel: tu n'ensemenceras point ton champ, et tu ne tailleras point ta vigne.",
+        "MAB": "Mais la septième année il y aura un Sabbat de repos pour la terre, ce sera un Sabbat à l'Eternel; tu ne sèmeras point ton champ, et ne tailleras point ta vigne.",
+        "OST": "Mais la septième année sera un sabbat de repos pour la terre, un sabbat à l'Éternel; tu ne sèmeras point ton champ, et tu ne tailleras point ta vigne,",
+        "S21": "Mais la septième année sera un sabbat, un temps de repos pour la terre, un sabbat en l'honneur de l'Eternel: tu n'ensemenceras pas ton champ et tu ne tailleras pas ta vigne,"
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "Tu ne moissonneras pas ce qui poussera tout seul de ta moisson précédente, et tu ne vendangeras pas les raisins de la vigne non taillée, afin de donner une année de repos à la terre.",
+        "DBY": "Tu ne moissonneras pas ce qui vient de soi-même de ta moisson précédente, et tu ne vendangeras pas les grappes de ta vigne non taillée: ce sera une année de repos pour le pays.",
+        "KJV": "That which groweth of its own accord of thy harvest thou shalt not reap, neither gather the grapes of thy vine undressed: [for] it is a year of rest unto the land.",
+        "LSG": "Tu ne moissonneras point ce qui proviendra des grains tombés de ta moisson, et tu ne vendangeras point les raisins de ta vigne non taillée: ce sera une année de repos pour la terre.",
+        "MAB": "Tu ne moissonneras point ce qui sera provenu de soi-même de ce qui sera tombé en moissonnant, et tu ne vendangeras point les raisins de ta vigne non taillée; [ce] sera l'année du repos de la terre.",
+        "OST": "Tu ne moissonneras point ce qui de ta moisson repoussera de soi-même, et tu ne vendangeras point les raisins de ta vigne non taillée; ce sera une année de repos pour la terre.",
+        "S21": "tu ne moissonneras pas ce qui proviendra des grains tombés de ta moisson et tu ne vendangeras pas les raisins de ta vigne non taillée. Ce sera une année de repos pour la terre."
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "Vous vous nourrirez de ce que la terre produira pendant son temps de repos, toi, ton serviteur, ta servante, ton ouvrier journalier et les étrangers résidant chez vous,",
+        "DBY": "Et le sabbat du pays vous servira de nourriture, à toi, et à ton serviteur, et à ta servante, et à ton homme à gages et à ton hôte qui séjournent chez toi,",
+        "KJV": "And the sabbath of the land shall be meat for you; for thee, and for thy servant, and for thy maid, and for thy hired servant, and for thy stranger that sojourneth with thee,",
+        "LSG": "Ce que produira la terre pendant son sabbat vous servira de nourriture, à toi, à ton serviteur et à ta servante, à ton mercenaire et à l'étranger qui demeurent avec toi,",
+        "MAB": "Mais ce qui proviendra de la terre l'année du Sabbat vous servira d'aliment, à toi, et à ton serviteur, et à ta servante, à ton mercenaire, et à ton étranger qui demeurent avec toi;",
+        "OST": "Mais ce que la terre produira l'année du sabbat, vous servira de nourriture, à toi, à ton serviteur, à ta servante, à ton mercenaire et à l'étranger qui séjourne avec toi,",
+        "S21": "Ce que la terre produira pendant son sabbat vous servira de nourriture, à toi, à ton esclave et à ta servante, à ton salarié étranger et à l'immigré qui habitent avec toi,"
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "ainsi que ton bétail et les animaux sauvages qui vivent dans ton pays: tout produit des terres leur servira de nourriture.",
+        "DBY": "et à ton bétail et aux animaux qui seront dans ton pays: tout son rapport servira de nourriture.",
+        "KJV": "And for thy cattle, and for the beast that [are] in thy land, shall all the increase thereof be meat.",
+        "LSG": "ton bétail et aux animaux qui sont dans ton pays; tout son produit servira de nourriture.",
+        "MAB": "Et à tes bêtes, et aux animaux qui sont en ton pays; tout son rapport sera pour manger.",
+        "OST": "A ton bétail, et aux animaux qui sont dans ton pays; tout son produit servira de nourriture.",
+        "S21": "à ton bétail et aux animaux qui sont dans ton pays; tout ce qu’elle produit servira de nourriture."
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "—Vous compterez sept années de repos, soit sept fois sept ans, c’est-à-dire une période de quarante-neuf ans.",
+        "DBY": "Et tu compteras sept sabbats d'années, sept fois sept ans; et les jours de ces sept sabbats d'années te feront quarante-neuf ans.",
+        "KJV": "And thou shalt number seven sabbaths of years unto thee, seven times seven years; and the space of the seven sabbaths of years shall be unto thee forty and nine years.",
+        "LSG": "Tu compteras sept sabbats d'années, sept fois sept années, et les jours de ces sept sabbats d'années feront quarante-neuf ans.",
+        "MAB": "Tu compteras aussi sept semaines d'années, [savoir] sept fois sept ans, et les jours de sept semaines feront quarante-neuf ans.",
+        "OST": "Tu compteras aussi sept semaines d'années, sept fois sept ans; et les jours de ces sept semaines d'années feront quarante-neuf ans;",
+        "S21": "»Tu compteras 7 années sabbatiques, 7 fois 7 ans, c’est-à-dire 49 ans."
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "Le dixième jour du septième mois, le Jour des expiations, vous ferez retentir le son du cor à travers tout le pays.",
+        "DBY": "Et, au septième mois, le dixième jour du mois, tu feras passer le son bruyant de la trompette; le jour des propitiations, vous ferez passer la trompette par tout votre pays;",
+        "KJV": "Then shalt thou cause the trumpet of the jubile to sound on the tenth [day] of the seventh month, in the day of atonement shall ye make the trumpet sound throughout all your land.",
+        "LSG": "Le dixième jour du septième mois, tu feras retentir les sons éclatants de la trompette; le jour des expiations, vous sonnerez de la trompette dans tout votre pays.",
+        "MAB": "Puis tu feras sonner la trompette de jubilation le dixième jour du septième mois, le jour, [dis-je], des propitiations, vous ferez sonner la trompette par tout votre pays.",
+        "OST": "Puis tu feras sonner la trompette d'un son éclatant, le dixième jour du septième mois; au jour des expiations, vous ferez sonner la trompette par tout votre pays.",
+        "S21": "Le dixième jour du septième mois, tu feras retentir les sons éclatants de la trompette: le jour des expiations, vous sonnerez de la trompette dans tout votre pays."
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "Vous déclarerez année sainte cette cinquantième année et, dans tout le pays, vous proclamerez la libération de tous ses habitants. Ce sera pour vous l’année du jubilé; chacun retrouvera la possession de sa terre, et chacun retournera dans sa famille.",
+        "DBY": "et vous sanctifierez l'année de l'an cinquantième, et vous publierez la liberté dans le pays à tous ses habitants: ce sera pour vous un jubilé; vous retournerez chacun dans sa possession, et vous retournerez chacun à sa famille.",
+        "KJV": "And ye shall hallow the fiftieth year, and proclaim liberty throughout [all] the land unto all the inhabitants thereof: it shall be a jubile unto you; and ye shall return every man unto his possession, and ye shall return every man unto his family.",
+        "LSG": "Et vous sanctifierez la cinquantième année, vous publierez la liberté dans le pays pour tous ses habitants: ce sera pour vous le jubilé; chacun de vous retournera dans sa propriété, et chacun de vous retournera dans sa famille.",
+        "MAB": "Et vous sanctifierez l'an cinquantième, et publierez la liberté dans le pays à tous ses habitants; ce vous sera l'année du Jubilé, et vous retournerez chacun en sa possession, et chacun en sa famille.",
+        "OST": "Et vous sanctifierez la cinquantième année, et vous publierez la liberté dans le pays pour tous ses habitants. Ce sera pour vous le jubilé, et vous rentrerez chacun de vous dans sa possession et vous retournerez chacun dans sa famille.",
+        "S21": "Vous ferez de cette cinquantième année une année sainte, vous proclamerez la liberté dans le pays pour tous ses habitants. Ce sera pour vous le jubilé: chacun de vous retournera dans sa propriété et dans son clan."
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "La cinquantième année sera donc pour vous l’année du jubilé: vous ne sèmerez pas, vous ne moissonnerez pas ce que les champs auront produit d’eux-mêmes durant cette année, et vous ne vendangerez pas la vigne non taillée,",
+        "DBY": "Cette année de l'an cinquantième sera pour vous un jubilé: vous ne sèmerez pas, et vous ne moissonnerez pas ce qui vient de soi-même, et vous ne vendangerez pas la vigne non taillée;",
+        "KJV": "A jubile shall that fiftieth year be unto you: ye shall not sow, neither reap that which groweth of itself in it, nor gather [the grapes] in it of thy vine undressed.",
+        "LSG": "La cinquantième année sera pour vous le jubilé: vous ne sèmerez point, vous ne moissonnerez point ce que les champs produiront d'eux-mêmes, et vous ne vendangerez point la vigne non taillée.",
+        "MAB": "Cette cinquantième année vous sera [l'année] du Jubilé, vous ne sèmerez point et ne moissonnerez point ce que la terre rapportera d'elle-même, et vous ne vendangerez point les fruits de la vigne non taillée.",
+        "OST": "La cinquantième année sera pour vous le jubilé; vous ne sèmerez point, et ne moissonnerez point ce que la terre rapportera d'elle-même, et vous ne vendangerez point la vigne non taillée;",
+        "S21": "La cinquantième année sera pour vous le jubilé: vous ne sèmerez pas, vous ne moissonnerez pas ce que les champs produiront d'eux-mêmes et vous ne vendangerez pas la vigne non taillée,"
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "car c’est l’année du jubilé; vous la tiendrez pour sainte; vous mangerez ce qui aura poussé dans les champs.",
+        "DBY": "car c'est le Jubilé: il vous sera saint; vous mangerez en l'y prenant ce que le champ rapportera.",
+        "KJV": "For it [is] the jubile; it shall be holy unto you: ye shall eat the increase thereof out of the field.",
+        "LSG": "Car c'est le jubilé: vous le regarderez comme une chose sainte. Vous mangerez le produit de vos champs.",
+        "MAB": "Car c'est [l'année] du Jubilé, elle vous sera sainte; vous mangerez ce que les champs rapporteront cette année-là.",
+        "OST": "Car c'est le jubilé: il vous sera sacré; vous mangerez le produit des champs.",
+        "S21": "car c'est le jubilé; vous le considérerez comme saint. Vous mangerez le produit de vos champs."
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "En cette année jubilaire, chacun de vous retournera dans sa propriété.",
+        "DBY": "En cette année du Jubilé, vous retournerez chacun dans sa possession.",
+        "KJV": "In the year of this jubile ye shall return every man unto his possession.",
+        "LSG": "Dans cette année de jubilé, chacun de vous retournera dans sa propriété.",
+        "MAB": "En cette année du Jubilé vous retournerez chacun en sa possession.",
+        "OST": "En cette année du jubilé, chacun de vous retournera dans sa possession.",
+        "S21": "Dans cette année de jubilé, chacun de vous retournera dans sa propriété."
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "Si donc vous vendez une propriété à votre compatriote, ou si vous en achetez une de lui, qu’aucun de vous ne lèse son compatriote.",
+        "DBY": "Et si vous vendez quelque chose à votre prochain, ou si vous achetez de la main de votre prochain, que nul ne fasse tort à son frère.",
+        "KJV": "And if thou sell ought unto thy neighbour, or buyest [ought] of thy neighbour's hand, ye shall not oppress one another:",
+        "LSG": "Si vous vendez à votre prochain, ou si vous achetez de votre prochain, qu'aucun de vous ne trompe son frère.",
+        "MAB": "Et si tu fais quelque vente à ton prochain, ou si tu achètes [quelque chose] de ton prochain, que nul de vous ne foule son frère.",
+        "OST": "Or, si vous faites une vente à votre prochain, ou si vous achetez quelque chose de votre prochain, que nul de vous ne fasse tort à son frère.",
+        "S21": "Si vous vendez ou achetez un terrain à votre prochain, qu'aucun de vous ne lèse son frère."
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "Vous fixerez le prix d’achat ou de vente d’une terre en tenant compte du nombre d’années écoulées depuis le dernier jubilé, et donc du nombre d’années de récolte jusqu’au prochain jubilé.",
+        "DBY": "Tu achèteras de ton prochain d'après le nombre des années depuis le Jubilé; il te vendra d'après le nombre des années de rapport.",
+        "KJV": "According to the number of years after the jubile thou shalt buy of thy neighbour, [and] according unto the number of years of the fruits he shall sell unto thee:",
+        "LSG": "Tu achèteras de ton prochain, en comptant les années depuis le jubilé; et il te vendra, en comptant les années de rapport.",
+        "MAB": "Mais tu achèteras de ton prochain selon le nombre des années après le Jubilé. Pareillement on te fera les ventes selon le nombre des années du rapport.",
+        "OST": "Tu achèteras de ton prochain d'après le nombre des années écoulées depuis le jubilé; et il te vendra d'après le nombre des années de rapport.",
+        "S21": "Tu l’achèteras à ton prochain en comptant les années depuis le jubilé, et il te le vendra en comptant les années de récolte."
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "Selon qu’il reste plus ou moins d’années, le prix d’achat sera élevé ou faible, car, en fait, ce qui est vendu, c’est un certain nombre de récoltes.",
+        "DBY": "A proportion que le nombre des années sera grand, tu augmenteras le prix; et à proportion que le nombre des années sera petit, tu diminueras le prix, car c'est le nombre des récoltes qu'il te vend.",
+        "KJV": "According to the multitude of years thou shalt increase the price thereof, and according to the fewness of years thou shalt diminish the price of it: for [according] to the number [of the years] of the fruits doth he sell unto thee.",
+        "LSG": "Plus il y aura d'années, plus tu élèveras le prix; et moins il y aura d'années, plus tu le réduiras; car c'est le nombre des récoltes qu'il te vend.",
+        "MAB": "Selon qu'il y aura plus d'années, tu augmenteras le prix de ce que tu achètes; et selon qu'il y aura moins d'années, tu le diminueras; car on te vend le nombre des récoltes.",
+        "OST": "Selon qu'il y aura plus d'années, tu augmenteras le prix, et selon qu'il y aura moins d'années, tu diminueras le prix; car c'est le nombre des récoltes qu'il te vend.",
+        "S21": "Plus il y aura d'années de récolte, plus haut tu fixeras le prix, et moins il y aura d'années, plus bas tu le fixeras, car c'est le nombre des récoltes qu'il te vend."
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "Que nul de vous ne lèse donc son prochain, mais montrez que vous révérez votre Dieu; car je suis l’Eternel, votre Dieu.",
+        "DBY": "Et nul de vous ne fera tort à son prochain, et tu craindras ton Dieu, car moi, je suis l'Éternel, votre Dieu.",
+        "KJV": "Ye shall not therefore oppress one another; but thou shalt fear thy God: for I [am] the LORD your God.",
+        "LSG": "Aucun de vous ne trompera son prochain, et tu craindras ton Dieu; car je suis l'Eternel, votre Dieu.",
+        "MAB": "Que donc nul de vous ne foule son prochain; mais craignez votre Dieu, car je suis l'Eternel votre Dieu.",
+        "OST": "Que nul de vous ne fasse tort à son prochain; mais crains ton Dieu; car je suis l'Éternel, votre Dieu.",
+        "S21": "Aucun de vous ne lèsera son prochain et tu craindras ton Dieu, car je suis l'Eternel, votre Dieu."
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "Vous obéirez à mes commandements, vous observerez mes lois et vous les appliquerez; ainsi vous demeurerez dans le pays en sécurité;",
+        "DBY": "Et vous pratiquerez mes statuts, et vous garderez mes ordonnances, et vous les pratiquerez, et ainsi vous habiterez dans le pays en sécurité;",
+        "KJV": "Wherefore ye shall do my statutes, and keep my judgments, and do them; and ye shall dwell in the land in safety.",
+        "LSG": "Mettez mes lois en pratique, observez mes ordonnances et mettez-les en pratique; et vous habiterez en sécurité dans le pays.",
+        "MAB": "Faites selon mes ordonnances, gardez mes jugements, observez-les, et vous habiterez sûrement au pays.",
+        "OST": "Exécutez mes ordonnances, observez mes lois et pratiquez-les; et vous habiterez en sécurité dans le pays.",
+        "S21": "»Mettez mes prescriptions en pratique, respectez et mettez en pratique mes règles, vous habiterez ainsi en sécurité dans le pays."
+      }
+    },
+    {
+      "verse": 19,
+      "texts": {
+        "BDS": "et la terre vous donnera ses fruits, vous mangerez à satiété et vous mènerez une existence paisible.",
+        "DBY": "et le pays vous donnera son fruit, et vous mangerez à rassasiement, et vous l'habiterez en sécurité.",
+        "KJV": "And the land shall yield her fruit, and ye shall eat your fill, and dwell therein in safety.",
+        "LSG": "Le pays donnera ses fruits, vous mangerez à satiété, et vous y habiterez en sécurité.",
+        "MAB": "Et la terre vous donnera ses fruits, vous en mangerez, vous en serez rassasiés, et vous habiterez sûrement en elle.",
+        "OST": "Et la terre vous donnera ses fruits, vous mangerez à satiété, et vous y habiterez en sécurité.",
+        "S21": "Le pays donnera ses fruits, vous mangerez à satiété et vous y habiterez en sécurité."
+      }
+    },
+    {
+      "verse": 20,
+      "texts": {
+        "BDS": "Peut-être direz-vous: «Que mangerons-nous la septième année puisque nous n’aurons ni semé ni rentré de récoltes?»",
+        "DBY": "Et si vous dites: Que mangerons-nous la septième année; voici, nous ne semons pas, et nous ne recueillons pas nos produits?",
+        "KJV": "And if ye shall say, What shall we eat the seventh year? behold, we shall not sow, nor gather in our increase:",
+        "LSG": "Si vous dites: Que mangerons-nous la septième année, puisque nous ne sèmerons point et ne ferons point nos récoltes?",
+        "MAB": "Et si vous dites : Que mangerons-nous en la septième année si nous ne semons point, et si nous ne recueillons point notre récolte?",
+        "OST": "Si vous dites: Que mangerons-nous la septième année, si nous ne semons point, et si nous ne recueillons pas notre récolte?",
+        "S21": "Peut-être vous dites-vous: ‘Que mangerons-nous la septième année, puisque nous ne sèmerons pas et ne ferons pas nos récoltes?’"
+      }
+    },
+    {
+      "verse": 21,
+      "texts": {
+        "BDS": "Sachez que la sixième année, je répandrai ma bénédiction sur vous, en vous assurant une récolte suffisante pour trois ans.",
+        "DBY": "je commanderai que ma bénédiction soit sur vous en la sixième année, et elle donnera le produit de trois ans.",
+        "KJV": "Then I will command my blessing upon you in the sixth year, and it shall bring forth fruit for three years.",
+        "LSG": "je vous accorderai ma bénédiction la sixième année, et elle donnera des produits pour trois ans.",
+        "MAB": "Je commanderai à ma bénédiction [de se répandre] sur vous en la sixième année, et [la terre] rapportera pour trois ans.",
+        "OST": "Je vous enverrai ma bénédiction la sixième année, et elle donnera une récolte pour les trois ans.",
+        "S21": "Je vous accorderai ma bénédiction la sixième année et elle donnera des produits pour 3 ans."
+      }
+    },
+    {
+      "verse": 22,
+      "texts": {
+        "BDS": "Lorsque vous sèmerez la huitième année, vous vivrez encore sur l’ancienne récolte dont vous mangerez même jusqu’à la récolte de la neuvième année.",
+        "DBY": "Et vous sèmerez la huitième année et vous mangerez du vieux produit, jusqu'à la neuvième année; jusqu'à ce que son produit soit venu, vous mangerez le vieux.",
+        "KJV": "And ye shall sow the eighth year, and eat [yet] of old fruit until the ninth year; until her fruits come in ye shall eat [of] the old [store].",
+        "LSG": "Vous sèmerez la huitième année, et vous mangerez de l'ancienne récolte; jusqu'à la neuvième année, jusqu'à la nouvelle récolte, vous mangerez de l'ancienne.",
+        "MAB": "Puis vous sèmerez en la huitième année, et vous mangerez du rapport du passé jusqu'à la neuvième année; jusqu'à ce [donc] que son rapport sera venu, vous mangerez celui du passé.",
+        "OST": "Et vous sèmerez la huitième année, et vous mangerez de l'ancienne récolte; jusqu'à la neuvième année, jusqu'à ce que sa récolte soit venue, vous mangerez de l'ancienne.",
+        "S21": "La huitième année, vous sèmerez et vous mangerez de l'ancienne récolte; jusqu’à la neuvième année, jusqu'à la nouvelle récolte, vous mangerez de l'ancienne."
+      }
+    },
+    {
+      "verse": 23,
+      "texts": {
+        "BDS": "—Une terre ne devra jamais être vendue à titre définitif car le pays m’appartient et vous êtes chez moi des étrangers et des immigrés.",
+        "DBY": "Et le pays ne se vendra pas à perpétuité, car le pays est à moi; car vous, vous êtes chez moi comme des étrangers et comme des hôtes.",
+        "KJV": "The land shall not be sold for ever: for the land [is] mine; for ye [are] strangers and sojourners with me.",
+        "LSG": "Les terres ne se vendront point à perpétuité; car le pays est à moi, car vous êtes chez moi comme étrangers et comme habitants.",
+        "MAB": "La terre ne sera point vendue absolument, car la terre est à moi; et vous êtes étrangers et forains chez moi.",
+        "OST": "La terre ne sera point vendue à perpétuité; car la terre est à moi, car vous êtes chez moi comme étrangers et comme habitants.",
+        "S21": "»Les terres ne se vendront pas de façon définitive, car c’est à moi que le pays appartient et vous êtes chez moi comme des étrangers et des immigrés."
+      }
+    },
+    {
+      "verse": 24,
+      "texts": {
+        "BDS": "Dans tout le pays que vous aurez en possession, vous garantirez le droit de rachat des terres.",
+        "DBY": "Et dans tout le pays de votre possession, vous donnerez le droit de rachat pour la terre.",
+        "KJV": "And in all the land of your possession ye shall grant a redemption for the land.",
+        "LSG": "Dans tout le pays dont vous aurez la possession, vous établirez le droit de rachat pour les terres.",
+        "MAB": "C'est pourquoi dans tout le pays de votre possession vous donnerez le droit de rachat pour la terre.",
+        "OST": "Dans tout le pays que vous posséderez, vous accorderez le droit de rachat pour la terre.",
+        "S21": "Dans tout le pays dont vous aurez la possession, vous établirez un droit de rachat pour les terres."
+      }
+    },
+    {
+      "verse": 25,
+      "texts": {
+        "BDS": "Si ton compatriote devient pauvre et doit vendre une partie de son patrimoine foncier, un proche parent qui a le droit de rachat pourra racheter ce que son parent aura vendu.",
+        "DBY": "Si ton frère est devenu pauvre, et vend une partie de sa possession, alors que celui qui a le droit de rachat, son plus proche parent, vienne et rachète la chose vendue par son frère.",
+        "KJV": "If thy brother be waxen poor, and hath sold away [some] of his possession, and if any of his kin come to redeem it, then shall he redeem that which his brother sold.",
+        "LSG": "Si ton frère devient pauvre et vend une portion de sa propriété, celui qui a le droit de rachat, son plus proche parent, viendra et rachètera ce qu'a vendu son frère.",
+        "MAB": "Si ton frère est devenu pauvre, et vend quelque chose de ce qu'il possède, celui qui a le droit de rachat, [savoir] son [plus] proche parent, viendra et rachètera la chose vendue par son frère.",
+        "OST": "Si ton frère devient pauvre, et vend une partie de ce qu'il possède, celui qui a le droit de rachat, son proche parent, viendra et rachètera ce que son frère a vendu.",
+        "S21": "»Si ton frère devient pauvre et vend une portion de sa propriété, celui qui a le droit de rachat, son plus proche parent, viendra et rachètera ce qu'a vendu son frère."
+      }
+    },
+    {
+      "verse": 26,
+      "texts": {
+        "BDS": "S’il ne se trouve personne qui ait le droit de rachat, mais que cet homme retrouve des ressources suffisantes pour racheter lui-même la terre,",
+        "DBY": "Mais si un homme n'a personne qui ait le droit de rachat, et que sa main ait acquis et trouvé suffisamment de quoi faire son rachat,",
+        "KJV": "And if the man have none to redeem it, and himself be able to redeem it;",
+        "LSG": "Si un homme n'a personne qui ait le droit de rachat, et qu'il se procure lui-même de quoi faire son rachat,",
+        "MAB": "Que si cet homme n'a personne qui ait le droit de rachat, et qu'il ait trouvé de soi-même suffisamment de quoi faire le rachat de ce qu'il a vendu;",
+        "OST": "Si un homme n'a personne qui ait le droit de rachat, et qu'il se procure lui-même de quoi faire un rachat,",
+        "S21": "Si quelqu’un n'a personne qui ait le droit de rachat et qu'il se procure lui-même de quoi faire son rachat,"
+      }
+    },
+    {
+      "verse": 27,
+      "texts": {
+        "BDS": "il considérera le nombre d’années écoulées depuis la vente et versera le prix des années restantes à l’acquéreur; ainsi il rentrera en possession de sa propriété.",
+        "DBY": "il comptera les années depuis sa vente, et restituera le surplus à celui à qui il avait vendu, et il retournera dans sa possession.",
+        "KJV": "Then let him count the years of the sale thereof, and restore the overplus unto the man to whom he sold it; that he may return unto his possession.",
+        "LSG": "il comptera les années depuis la vente, restituera le surplus à l'acquéreur, et retournera dans sa propriété.",
+        "MAB": "Il comptera les années du temps qu'il a fait la vente, et il restituera le surplus à l'homme auquel il l'avait faite, et ainsi il retournera dans sa possession.",
+        "OST": "Il comptera les années depuis la vente faite et restituera le surplus à l'homme à qui il a vendu, et il rentrera dans sa possession.",
+        "S21": "il comptera les années depuis la vente, remboursera la différence à l'acheteur et retournera dans sa propriété."
+      }
+    },
+    {
+      "verse": 28,
+      "texts": {
+        "BDS": "Mais s’il ne trouve pas les moyens de racheter sa terre, elle restera entre les mains de l’acquéreur jusqu’à l’année du jubilé. A ce moment-là, elle lui sera rendue et il en reprendra possession.",
+        "DBY": "Et si sa main n'a pas trouvé suffisamment de quoi lui rendre, la chose vendue restera en la main de celui qui l'aura achetée, jusqu'à l'année du Jubilé: la chose vendue sera libérée au Jubilé, et le vendeur rentrera dans sa possession.",
+        "KJV": "But if he be not able to restore [it] to him, then that which is sold shall remain in the hand of him that hath bought it until the year of jubile: and in the jubile it shall go out, and he shall return unto his possession.",
+        "LSG": "S'il ne trouve pas de quoi lui faire cette restitution, ce qu'il a vendu restera entre les mains de l'acquéreur jusqu'à l'année du jubilé; au jubilé, il retournera dans sa propriété, et l'acquéreur en sortira.",
+        "MAB": "Mais s'il n'a pas trouvé suffisamment de quoi lui rendre, la chose qu'il aura vendue sera en la main de celui qui l'aura achetée, jusqu'à l'année du Jubilé; puis [l'acheteur] en sortira au Jubilé, et [le vendeur] retournera dans sa possession.",
+        "OST": "Mais s'il ne trouve point ce qu'il faut pour le lui rendre, la chose vendue sera entre les mains de celui qui aura acheté, jusqu'à l'année du jubilé; alors celui-ci en sortira au jubilé, et le vendeur rentrera dans sa possession.",
+        "S21": "S'il ne trouve pas de quoi lui faire ce remboursement, ce qu'il a vendu restera entre les mains de l'acheteur jusqu'à l'année du jubilé; lors du jubilé, il retournera dans sa propriété et l'acheteur en sortira."
+      }
+    },
+    {
+      "verse": 29,
+      "texts": {
+        "BDS": "Si quelqu’un vend une maison d’habitation située dans une ville entourée de remparts, son droit de rachat durera une année entière à partir du jour de la vente, et sera limité à cela.",
+        "DBY": "Et si quelqu'un a vendu une maison d'habitation dans une ville murée, il aura son droit de rachat jusqu'à la fin de l'année de sa vente: son droit de rachat subsistera une année entière;",
+        "KJV": "And if a man sell a dwelling house in a walled city, then he may redeem it within a whole year after it is sold; [within] a full year may he redeem it.",
+        "LSG": "Si un homme vend une maison d'habitation dans une ville entourée de murs, il aura le droit de rachat jusqu'à l'accomplissement d'une année depuis la vente; son droit de rachat durera un an.",
+        "MAB": "Et si quelqu'un a vendu une maison à habiter dans quelque ville fermée de murailles, il aura le droit de rachat jusqu'à la fin de l'année de sa vente; son droit de rachat sera d'une année.",
+        "OST": "Si un homme vend une maison d'habitation, dans une ville fermée de murailles, il aura le droit de la racheter jusqu'à la fin de l'année après la vente; son droit de rachat sera d'une année.",
+        "S21": "»Si quelqu’un vend une maison d'habitation dans une ville pourvue de murs d’enceinte, il aura le droit de rachat durant une année entière à partir de la vente, son droit de rachat durera un an."
+      }
+    },
+    {
+      "verse": 30,
+      "texts": {
+        "BDS": "Si la maison n’a pas été rachetée au terme d’une année complète, elle sera définitivement acquise à l’acquéreur et à ses descendants: elle ne sera pas rendue à son propriétaire d’origine à l’année du jubilé.",
+        "DBY": "mais si elle n'est pas rachetée avant que l'année entière soit accomplie, la maison qui est dans la ville murée restera définitivement à l'acheteur, en ses générations; elle ne sera pas libérée au Jubilé.",
+        "KJV": "And if it be not redeemed within the space of a full year, then the house that [is] in the walled city shall be established for ever to him that bought it throughout his generations: it shall not go out in the jubile.",
+        "LSG": "Mais si cette maison située dans une ville entourée de murs n'est pas rachetée avant l'accomplissement d'une année entière, elle restera à perpétuité à l'acquéreur et à ses descendants; il n'en sortira point au jubilé.",
+        "MAB": "Mais si elle n'est point rachetée dans l'année accomplie, la maison qui [est] dans la ville fermée de murailles, demeurera à l'acheteur absolument et en ses âges; il n'en sortira point au Jubilé.",
+        "OST": "Mais si elle n'est point rachetée avant la fin d'une année entière, la maison qui est dans la ville fermée de murailles demeurera à perpétuité à l'acquéreur et à ses descendants, il n'en sortira point au jubilé.",
+        "S21": "Mais si cette maison située dans une ville pourvue de murs d’enceinte n'est pas rachetée avant la fin de l’année, elle restera définitivement à l'acheteur et à ses descendants; il n'en sortira pas lors du jubilé."
+      }
+    },
+    {
+      "verse": 31,
+      "texts": {
+        "BDS": "Par contre, les maisons des villages sans mur d’enceinte seront considérées comme les champs du pays; elles pourront être rachetées en permanence et seront rendues au jubilé.",
+        "DBY": "Mais les maisons des villages qui n'ont pas de murs tout autour, seront considérées comme des champs du pays; il y aura droit de rachat pour elles, et elles seront libérées au Jubilé.",
+        "KJV": "But the houses of the villages which have no wall round about them shall be counted as the fields of the country: they may be redeemed, and they shall go out in the jubile.",
+        "LSG": "Les maisons des villages non entourés de murs seront considérées comme des fonds de terre; elles pourront être rachetées, et l'acquéreur en sortira au jubilé.",
+        "MAB": "Mais les maisons des villages, qui ne sont point entourés de murailles, seront réputées comme un fonds de terre; le vendeur aura droit de rachat, et [l'acheteur] sortira au Jubilé.",
+        "OST": "Toutefois les maisons des villages non entourés de murs, seront réputées comme un fonds de terre; le vendeur pourra les racheter, et l'acheteur sortira au jubilé.",
+        "S21": "Les maisons des villages dépourvus de murs d’enceinte seront considérées comme des fonds de terre: elles pourront être rachetées et l'acheteur en sortira lors du jubilé."
+      }
+    },
+    {
+      "verse": 32,
+      "texts": {
+        "BDS": "Quant aux villes des lévites et aux maisons qu’ils y posséderont, ceux-ci bénéficieront d’un droit de rachat perpétuel sur ces maisons.",
+        "DBY": "Et quant aux villes des Lévites et aux maisons des villes de leur possession, les Lévites auront un droit perpétuel de rachat.",
+        "KJV": "Notwithstanding the cities of the Levites, [and] the houses of the cities of their possession, may the Levites redeem at any time.",
+        "LSG": "Quant aux villes des Lévites et aux maisons qu'ils y posséderont, les Lévites auront droit perpétuel de rachat.",
+        "MAB": "Et quant aux villes des Lévites, les Lévites auront un droit de rachat perpétuel des maisons des villes de leur possession.",
+        "OST": "Quant aux villes des Lévites et aux maisons des villes qu'ils auront en propriété, le droit de rachat sera perpétuel pour les Lévites.",
+        "S21": "»Quant aux villes des Lévites et aux maisons qu'ils y posséderont, les Lévites auront un droit perpétuel de rachat."
+      }
+    },
+    {
+      "verse": 33,
+      "texts": {
+        "BDS": "Si un lévite a vendu sa maison, l’acquéreur en sortira l’année du jubilé; en effet, les maisons des villes de lévites sont leur propriété inaliénable parmi les Israélites.",
+        "DBY": "Et si quelqu'un a racheté d'un des Lévites, la maison vendue dans la ville de sa possession sera libérée au Jubilé; car les maisons des villes des Lévites sont leur possession au milieu des fils d'Israël.",
+        "KJV": "And if a man purchase of the Levites, then the house that was sold, and the city of his possession, shall go out in [the year of] jubile: for the houses of the cities of the Levites [are] their possession among the children of Israel.",
+        "LSG": "Celui qui achètera des Lévites une maison, sortira au jubilé de la maison vendue et de la ville où il la possédait; car les maisons des villes des Lévites sont leur propriété au milieu des enfants d'Israël.",
+        "MAB": "Et celui qui aura acheté [quelque maison] des Lévites, sortira au Jubilé de la maison vendue, qui est en la ville de sa possession; car les maisons des villes des Lévites [sont] leur possession parmi les enfants d'Israël.",
+        "OST": "Et celui qui aura acheté des Lévites, sortira au jubilé de la maison vendue et de la ville de sa possession; car les maisons des villes des Lévites sont leur possession parmi les enfants d'Israël.",
+        "S21": "Si quelqu’un achète une maison à des Lévites, il sortira de la maison vendue et de la ville où il la possédait lors du jubilé, car les maisons des villes des Lévites sont leur propriété au milieu des Israélites."
+      }
+    },
+    {
+      "verse": 34,
+      "texts": {
+        "BDS": "Les champs dépendant de leurs villes ne pourront pas être vendus; car ils sont leur propriété à perpétuité.",
+        "DBY": "Et les champs des banlieues de leurs villes ne seront pas vendus, car c'est leur possession à perpétuité.",
+        "KJV": "But the field of the suburbs of their cities may not be sold; for it [is] their perpetual possession.",
+        "LSG": "Les champs situés autour des villes des Lévites ne pourront point se vendre; car ils en ont à perpétuité la possession.",
+        "MAB": "Mais le champ des faubourgs de leurs villes ne sera point vendu; car c'[est] leur possession perpétuelle.",
+        "OST": "Les champs des faubourgs de leurs villes ne seront point vendus; car c'est leur propriété perpétuelle.",
+        "S21": "Les champs situés autour des villes des Lévites ne pourront pas être vendus, car ils en ont la possession pour toujours."
+      }
+    },
+    {
+      "verse": 35,
+      "texts": {
+        "BDS": "—Si ton prochain qui vit près de toi s’appauvrit et tombe dans la misère, tu lui viendras en aide, même s’il est étranger ou immigré, afin qu’il survive à côté de toi.",
+        "DBY": "Et si ton frère est devenu pauvre, et que sa main devienne tremblante à côté de toi, tu le soutiendras, étranger ou hôte, afin qu'il vive à côté de toi.",
+        "KJV": "And if thy brother be waxen poor, and fallen in decay with thee; then thou shalt relieve him: [yea, though he be] a stranger, or a sojourner; that he may live with thee.",
+        "LSG": "Si ton frère devient pauvre, et que sa main fléchisse près de toi, tu le soutiendras; tu feras de même pour celui qui est étranger et qui demeure dans le pays, afin qu'il vive avec toi.",
+        "MAB": "Quand ton frère sera devenu pauvre, et qu'il tendra vers toi ses mains tremblantes, tu le soutiendras, [tu soutiendras] aussi l'étranger, et le forain, afin qu'il vive avec toi.",
+        "OST": "Si ton frère, qui est près de toi, devient pauvre et que sa main devienne tremblante, tu le soutiendras, étranger ou hôte, afin qu'il vive auprès de toi.",
+        "S21": "»Si ton frère devient pauvre et qu’il manque de ressources près de toi, tu le soutiendras, même s’il s’agit d’un étranger ou d’un immigré, afin qu'il vive avec toi."
+      }
+    },
+    {
+      "verse": 36,
+      "texts": {
+        "BDS": "Parce que tu révères ton Dieu, tu ne recevras de sa part ni intérêt, ni profit, pour que ton prochain puisse vivre à côté de toi.",
+        "DBY": "Tu ne prendras de lui ni intérêt ni usure; et tu craindras ton Dieu, afin que ton frère vive à côté de toi.",
+        "KJV": "Take thou no usury of him, or increase: but fear thy God; that thy brother may live with thee.",
+        "LSG": "Tu ne tireras de lui ni intérêt ni usure, tu craindras ton Dieu, et ton frère vivra avec toi.",
+        "MAB": "Tu ne prendras point de lui d'usure, ni d'intérêt, mais tu craindras ton Dieu; et ton frère vivra avec toi.",
+        "OST": "Tu ne tireras de lui ni intérêt ni profit; mais tu craindras ton Dieu, et ton frère vivra auprès de toi.",
+        "S21": "Tu ne tireras de lui ni intérêt ni profit, tu craindras ton Dieu et ton frère vivra avec toi."
+      }
+    },
+    {
+      "verse": 37,
+      "texts": {
+        "BDS": "Si tu lui prêtes de l’argent, tu n’en exigeras pas d’intérêt et si tu lui donnes de tes vivres, tu n’en tireras pas de profit.",
+        "DBY": "Tu ne lui donneras pas ton argent à intérêt, et tu ne lui donneras pas tes vivres à usure.",
+        "KJV": "Thou shalt not give him thy money upon usury, nor lend him thy victuals for increase.",
+        "LSG": "Tu ne lui prêteras point ton argent à intérêt, et tu ne lui prêteras point tes vivres à usure.",
+        "MAB": "Tu ne lui donneras point ton argent à usure, ni ne lui donneras de tes vivres à surcroît.",
+        "OST": "Tu ne lui donneras point ton argent à intérêt, et tu ne lui donneras point de tes vivres pour un profit.",
+        "S21": "Tu ne lui prêteras pas ton argent à intérêt et tu ne lui prêteras pas ta nourriture pour en tirer un profit."
+      }
+    },
+    {
+      "verse": 38,
+      "texts": {
+        "BDS": "Je suis l’Eternel, votre Dieu, qui vous ai fait sortir d’Egypte pour vous donner le pays de Canaan, afin d’être votre Dieu.",
+        "DBY": "Moi, je suis l'Éternel, votre Dieu, qui vous ai fait sortir du pays d'Égypte pour vous donner le pays de Canaan, pour être votre Dieu.",
+        "KJV": "I [am] the LORD your God, which brought you forth out of the land of Egypt, to give you the land of Canaan, [and] to be your God.",
+        "LSG": "Je suis l'Eternel, ton Dieu, qui vous ai fait sortir du pays d'Egypte, pour vous donner le pays de Canaan, pour être votre Dieu.",
+        "MAB": "Je suis l'Eternel votre Dieu qui vous ai retirés du pays d'Egypte, pour vous donner le pays de Canaan, afin de vous être Dieu.",
+        "OST": "Je suis l'Éternel, votre Dieu, qui vous ai fait sortir du pays d'Égypte, pour vous donner le pays de Canaan, pour être votre Dieu.",
+        "S21": "Je suis l'Eternel, ton Dieu, qui vous ai fait sortir d'Egypte pour vous donner le pays de Canaan, pour être votre Dieu."
+      }
+    },
+    {
+      "verse": 39,
+      "texts": {
+        "BDS": "—Si ton prochain qui vit près de toi devient pauvre et se vend à toi, tu ne le feras pas travailler comme un esclave.",
+        "DBY": "Et si ton frère est devenu pauvre à côté de toi, et qu'il se vende à toi, tu ne lui feras pas faire un service d'esclave;",
+        "KJV": "And if thy brother [that dwelleth] by thee be waxen poor, and be sold unto thee; thou shalt not compel him to serve as a bondservant:",
+        "LSG": "Si ton frère devient pauvre près de toi, et qu'il se vende à toi, tu ne lui imposeras point le travail d'un esclave.",
+        "MAB": "Pareillement quand ton frère sera devenu pauvre auprès de toi, et qu'il se sera vendu à toi, tu ne te serviras point de lui comme on se sert des esclaves.",
+        "OST": "Si ton frère, qui est près de toi, devient pauvre et se vend à toi, tu ne te serviras point de lui pour un service d'esclave;",
+        "S21": "»Si ton frère devient pauvre près de toi et se vend à toi, tu ne lui imposeras pas le travail d'un esclave."
+      }
+    },
+    {
+      "verse": 40,
+      "texts": {
+        "BDS": "Tu le traiteras comme un ouvrier salarié ou comme un immigré; il sera ton serviteur jusqu’à l’année du jubilé.",
+        "DBY": "il sera avec toi comme un homme à gages et un hôte; il te servira jusqu'à l'année du Jubilé:",
+        "KJV": "[But] as an hired servant, [and] as a sojourner, he shall be with thee, [and] shall serve thee unto the year of jubile:",
+        "LSG": "Il sera chez toi comme un mercenaire, comme celui qui y demeure; il sera à ton service jusqu'à l'année du jubilé.",
+        "MAB": "[Mais] il sera chez toi comme serait le mercenaire, [et] l'étranger, [et] il te servira jusqu'à l'année du Jubilé.",
+        "OST": "Il sera chez toi comme un mercenaire, comme un hôte; il servira chez toi jusqu'à l'année du jubilé;",
+        "S21": "Il sera chez toi comme un salarié, comme un immigré; il sera à ton service jusqu'à l'année du jubilé."
+      }
+    },
+    {
+      "verse": 41,
+      "texts": {
+        "BDS": "Alors il quittera ton service, lui et ses enfants, pour retourner dans sa famille et rentrer en possession du patrimoine de ses ancêtres.",
+        "DBY": "alors il sortira de chez toi, lui et ses fils avec lui, et il retournera à sa famille, et retournera dans la possession des pères.",
+        "KJV": "And [then] shall he depart from thee, [both] he and his children with him, and shall return unto his own family, and unto the possession of his fathers shall he return.",
+        "LSG": "Il sortira alors de chez toi, lui et ses enfants avec lui, et il retournera dans sa famille, dans la propriété de ses pères.",
+        "MAB": "Alors il sortira de chez toi avec ses enfants, il s'en retournera dans sa famille, et rentrera dans la possession de ses pères.",
+        "OST": "Alors il sortira de chez toi, lui et ses enfants avec lui; il retournera dans sa famille, et rentrera dans la possession de ses pères.",
+        "S21": "Il sortira alors de chez toi avec ses enfants et il retournera dans son clan, dans la propriété de ses ancêtres."
+      }
+    },
+    {
+      "verse": 42,
+      "texts": {
+        "BDS": "Car ceux que j’ai fait sortir d’Egypte sont mes serviteurs; ils ne doivent pas être vendus comme esclaves.",
+        "DBY": "Car ils sont mes serviteurs, que j'ai fait sortir du pays d'Égypte; ils ne seront pas vendus comme on vend les esclaves.",
+        "KJV": "For they [are] my servants, which I brought forth out of the land of Egypt: they shall not be sold as bondmen.",
+        "LSG": "Car ce sont mes serviteurs, que j'ai fait sortir du pays d'Egypte; ils ne seront point vendus comme on vend des esclaves.",
+        "MAB": "Car ils sont mes serviteurs, parce que je les ai retirés du pays d'Egypte; c'est pourquoi ils ne seront point vendus comme on vend les esclaves.",
+        "OST": "Car ce sont mes serviteurs, que j'ai fait sortir du pays d'Égypte; ils ne seront point vendus comme on vend un esclave.",
+        "S21": "En effet, ils sont mes serviteurs, ceux que j'ai fait sortir d'Egypte; on ne les vendra pas comme on vend des esclaves."
+      }
+    },
+    {
+      "verse": 43,
+      "texts": {
+        "BDS": "Parce que tu révères ton Dieu, tu ne les traiteras pas avec brutalité.",
+        "DBY": "Tu ne domineras pas sur lui avec dureté, et tu craindras ton Dieu.",
+        "KJV": "Thou shalt not rule over him with rigour; but shalt fear thy God.",
+        "LSG": "Tu ne domineras point sur lui avec dureté, et tu craindras ton Dieu.",
+        "MAB": "Tu ne domineras point sur lui rigoureusement, mais tu craindras ton Dieu.",
+        "OST": "Tu ne domineras point sur lui avec rigueur; mais tu craindras ton Dieu.",
+        "S21": "Tu ne domineras pas sur lui avec dureté et tu craindras ton Dieu."
+      }
+    },
+    {
+      "verse": 44,
+      "texts": {
+        "BDS": "Les esclaves, hommes ou femmes, qui vous appartiendront, proviendront des nations qui vous entourent. C’est d’elles que vous pourrez acquérir des esclaves et des servantes.",
+        "DBY": "Mais quant à ton serviteur et à ta servante qui seront à toi,… d'entre les nations qui vous environnent, de ceux-là, vous achèterez des serviteurs et des servantes.",
+        "KJV": "Both thy bondmen, and thy bondmaids, which thou shalt have, [shall be] of the heathen that are round about you; of them shall ye buy bondmen and bondmaids.",
+        "LSG": "C'est des nations qui vous entourent que tu prendras ton esclave et ta servante qui t'appartiendront, c'est d'elles que vous achèterez l'esclave et la servante.",
+        "MAB": "Et quant à ton esclave et à ta servante qui seront à toi, ils seront d'entre les nations qui sont autour de vous; vous achèterez d'elles le serviteur et la servante.",
+        "OST": "Quant à ton esclave et à ta servante qui t'appartiendront, ils viendront des nations qui sont autour de vous; c'est d'elles que vous achèterez l'esclave et la servante.",
+        "S21": "C'est parmi les nations qui vous entourent que tu prendras le serviteur et la servante qui t'appartiendront, c'est d'elles que vous achèterez le serviteur et la servante."
+      }
+    },
+    {
+      "verse": 45,
+      "texts": {
+        "BDS": "De plus, vous pourrez acheter des étrangers résidant chez vous et des membres de leurs familles qui vivent parmi vous et qui sont nés dans votre pays, et ils deviendront votre propriété.",
+        "DBY": "Et vous en achèterez aussi des fils des étrangers qui séjournent chez vous, et de leurs familles qui sont avec vous, qu'ils engendreront dans votre pays; et ils seront votre possession.",
+        "KJV": "Moreover of the children of the strangers that do sojourn among you, of them shall ye buy, and of their families that [are] with you, which they begat in your land: and they shall be your possession.",
+        "LSG": "Vous pourrez aussi en acheter des enfants des étrangers qui demeureront chez toi, et de leurs familles qu'ils engendreront dans votre pays; et ils seront votre propriété.",
+        "MAB": "Vous en achèterez aussi d'entre les enfants des étrangers qui demeurent avec vous, même de leurs familles qui seront parmi vous, lesquelles ils auront engendrées en votre pays, et vous les posséderez.",
+        "OST": "Vous pourrez aussi en acheter des enfants des étrangers qui séjourneront avec vous, et de leurs familles qui seront parmi vous, qu'ils engendreront dans votre pays; et ils seront votre propriété.",
+        "S21": "Vous pourrez aussi en acheter parmi les enfants des immigrés en séjour chez toi, ainsi que parmi les familles auxquelles ils donneront naissance dans votre pays, et ils seront votre propriété."
+      }
+    },
+    {
+      "verse": 46,
+      "texts": {
+        "BDS": "Vous pourrez les léguer en héritage à vos enfants pour qu’ils en aient la propriété. Ils seront vos esclaves à perpétuité; mais vous ne traiterez pas avec brutalité vos compatriotes, les Israélites.",
+        "DBY": "Et vous les laisserez en héritage à vos fils après vous, pour qu'ils en aient la possession; vous vous servirez d'eux à toujours; mais quant à vos frères, les fils d'Israël, un homme ne dominera pas avec dureté sur son frère.",
+        "KJV": "And ye shall take them as an inheritance for your children after you, to inherit [them for] a possession; they shall be your bondmen for ever: but over your brethren the children of Israel, ye shall not rule one over another with rigour.",
+        "LSG": "Vous les laisserez en héritage à vos enfants après vous, comme une propriété; vous les garderez comme esclaves à perpétuité. Mais à l'égard de vos frères, les enfants d'Israël, aucun de vous ne dominera avec dureté sur son frère.",
+        "MAB": "Vous les aurez comme un héritage pour les laisser à vos enfants après vous, afin qu'ils en héritent la possession, [et] vous vous servirez d'eux à perpétuité; mais quant à vos frères, les enfants d'Israël, nul ne dominera rigoureusement sur son frère.",
+        "OST": "Vous les laisserez en héritage à vos enfants après vous, pour les posséder en propriété; vous vous servirez d'eux à perpétuité; mais quant à vos frères, les enfants d'Israël, nul de vous ne dominera avec rigueur sur son frère.",
+        "S21": "Vous les laisserez en héritage à vos enfants après vous comme une propriété, vous les garderez comme esclaves pour toujours. Mais en ce qui concerne vos frères, les Israélites, aucun de vous ne dominera avec dureté sur son frère."
+      }
+    },
+    {
+      "verse": 47,
+      "texts": {
+        "BDS": "Si un étranger résidant chez toi s’enrichit, et que l’un de tes compatriotes s’endette envers lui et se vende à lui ou à l’un des descendants d’une famille étrangère,",
+        "DBY": "Et si un étranger ou un homme qui séjourne chez toi s'est enrichi, et que ton frère qui est à côté de lui soit devenu pauvre et se soit vendu à l'étranger qui séjourne chez toi, ou à un homme issu de la famille de l'étranger,",
+        "KJV": "And if a sojourner or stranger wax rich by thee, and thy brother [that dwelleth] by him wax poor, and sell himself unto the stranger [or] sojourner by thee, or to the stock of the stranger's family:",
+        "LSG": "Si un étranger, si celui qui demeure chez toi devient riche, et que ton frère devienne pauvre près de lui et se vende à l'étranger qui demeure chez toi ou à quelqu'un de la famille de l'étranger,",
+        "MAB": "Et lorsque l'étranger ou le forain qui est avec toi se sera enrichi, et que ton frère qui est avec lui sera devenu si pauvre qu'il se soit vendu à l'étranger, [ou] au forain qui est avec toi, ou à quelqu'un de la postérité de la famille de l'étranger.",
+        "OST": "Et lorsque un étranger ou un homme habitant chez toi, deviendra riche, et que ton frère deviendra pauvre près de lui et se vendra à l'étranger domicilié chez toi, ou à un rejeton de la famille de l'étranger,",
+        "S21": "»Si un étranger ou un immigré devient riche et que ton frère devienne pauvre près de lui et se vende à l'étranger immigré chez toi ou à quelqu'un de la famille de l'étranger,"
+      }
+    },
+    {
+      "verse": 48,
+      "texts": {
+        "BDS": "il jouira, même après que la vente aura été effectuée, d’un droit de rachat: l’un de ses frères pourra le racheter.",
+        "DBY": "-après qu'il se sera vendu, il y aura pour lui droit de rachat; un de ses frères le rachètera;",
+        "KJV": "After that he is sold he may be redeemed again; one of his brethren may redeem him:",
+        "LSG": "il y aura pour lui le droit de rachat, après qu'il se sera vendu: un de ses frères pourra le racheter.",
+        "MAB": "Après s'être vendu il y aura droit de rachat pour lui, [et] un de ses frères le rachètera.",
+        "OST": "Après s'être vendu, il y aura droit de rachat pour lui: un de ses frères pourra le racheter;",
+        "S21": "il y aura pour lui le droit de rachat, après qu'il se sera vendu: un de ses frères pourra le racheter."
+      }
+    },
+    {
+      "verse": 49,
+      "texts": {
+        "BDS": "De même, son oncle ou son cousin, ou tout autre membre de sa parenté proche ou éloignée pourra le racheter; ou encore il pourra se racheter lui-même s’il en trouve les moyens.",
+        "DBY": "ou son oncle, ou le fils de son oncle le rachètera; ou quelque proche parent de sa famille le rachètera; ou si sa main y peut atteindre, il se rachètera lui-même.",
+        "KJV": "Either his uncle, or his uncle's son, may redeem him, or [any] that is nigh of kin unto him of his family may redeem him; or if he be able, he may redeem himself.",
+        "LSG": "Son oncle, ou le fils de son oncle, ou l'un de ses proches parents, pourra le racheter; ou bien, s'il en a les ressources, il se rachètera lui-même.",
+        "MAB": "Ou son oncle, ou le fils de son oncle, ou quelque autre proche parent de son sang d'entre ceux de sa famille, le rachètera; ou lui-même, s'il en trouve le moyen, se rachètera.",
+        "OST": "Ou son oncle, ou le fils de son oncle, pourra le racheter, ou l'un de ses proches parents de sa famille pourra le racheter; ou s'il en a les moyens, il se rachètera lui-même.",
+        "S21": "Son oncle, le fils de son oncle ou l'un de ses proches parents pourra le racheter. Ou bien, s'il en a les moyens, il se rachètera lui-même."
+      }
+    },
+    {
+      "verse": 50,
+      "texts": {
+        "BDS": "Il calculera, en accord avec l’acquéreur, le nombre d’années comprises entre la date de la vente et l’année du jubilé. Le prix du rachat sera fixé en fonction du nombre d’années, sur la base du salaire d’un ouvrier.",
+        "DBY": "Et il comptera avec celui qui l'a acheté, depuis l'année qu'il s'est vendu à lui jusqu'à l'année du Jubilé; et l'argent de son prix sera à raison du nombre des années; il sera chez son maître selon les journées d'un homme à gages.",
+        "KJV": "And he shall reckon with him that bought him from the year that he was sold to him unto the year of jubile: and the price of his sale shall be according unto the number of years, according to the time of an hired servant shall it be with him.",
+        "LSG": "Il comptera avec celui qui l'a acheté depuis l'année où il s'est vendu jusqu'à l'année du jubilé; et le prix à payer dépendra du nombre d'années, lesquelles seront évaluées comme celles d'un mercenaire.",
+        "MAB": "Et il comptera avec son acheteur depuis l'année qu'il s'est vendu à lui, jusqu'à l'année du Jubilé; de sorte que l'argent du prix pour lequel il s'est vendu, se comptera à raison du nombre des années; le temps qu'il aura servi lui sera compté comme les journées d'un mercenaire.",
+        "OST": "Or il comptera avec celui qui l'a acheté, depuis l'année où il s'est vendu à lui jusqu'à l'année du jubilé, et son prix de vente se comptera d'après le nombre des années; il en sera avec lui comme des journées d'un mercenaire.",
+        "S21": "Il comptera avec celui qui l'a acheté le nombre d’années depuis celle où il s'est vendu jusqu'à l'année du jubilé. Le prix à payer dépendra du nombre d'années, évaluées comme celles d'un salarié:"
+      }
+    },
+    {
+      "verse": 51,
+      "texts": {
+        "BDS": "S’il reste encore beaucoup d’années, il versera pour son rachat une large part du prix payé par l’acquéreur.",
+        "DBY": "S'il y a encore beaucoup d'années, il restituera le prix de son rachat à raison de celles-ci, sur le prix pour lequel il aura été acheté;",
+        "KJV": "If [there be] yet many years [behind], according unto them he shall give again the price of his redemption out of the money that he was bought for.",
+        "LSG": "S'il y a encore beaucoup d'années, il paiera son rachat à raison du prix de ces années et pour lequel il a été acheté;",
+        "MAB": "S'il y a encore plusieurs années, il restituera le prix de son achat à raison de ces [années], selon le prix pour lequel il a été acheté.",
+        "OST": "S'il y a encore beaucoup d'années, il paiera son rachat à raison de ces années, en proportion du prix pour lequel il aura été acheté;",
+        "S21": "s'il reste beaucoup d'années, il paiera pour son rachat une part proportionnelle du prix auquel il a été acheté;"
+      }
+    },
+    {
+      "verse": 52,
+      "texts": {
+        "BDS": "Et s’il reste peu d’années jusqu’à celle du jubilé, il en tiendra compte et versera comme prix de rachat une somme proportionnelle au nombre de ces années.",
+        "DBY": "et s'il reste peu d'années jusqu'à l'année du Jubilé, il comptera avec lui; à raison du nombre des années, il restituera le prix de son rachat.",
+        "KJV": "And if there remain but few years unto the year of jubile, then he shall count with him, [and] according unto his years shall he give him again the price of his redemption.",
+        "LSG": "s'il reste peu d'années jusqu'à celle du jubilé, il en fera le compte, et il paiera son rachat à raison de ces années.",
+        "MAB": "Et s'il reste peu d'années jusqu'à l'an du Jubilé, il comptera avec lui, et restituera le prix de son achat à raison des années qu'il a servi.",
+        "OST": "Et s'il reste peu d'années jusqu'à l'an du jubilé, il comptera avec lui, et restituera le prix de son achat à raison de ces années.",
+        "S21": "s'il reste peu d'années jusqu'à celle du jubilé, il en fera le compte et il paiera pour son rachat une part proportionnelle."
+      }
+    },
+    {
+      "verse": 53,
+      "texts": {
+        "BDS": "L’homme sera chez son maître comme un ouvrier engagé à l’année, mais tu ne permettras pas qu’il soit traité avec brutalité.",
+        "DBY": "Il sera chez lui comme un homme à gages, d'année en année; le maître ne dominera pas sur lui avec dureté devant tes yeux.",
+        "KJV": "[And] as a yearly hired servant shall he be with him: [and the other] shall not rule with rigour over him in thy sight.",
+        "LSG": "Il sera comme un mercenaire à l'année, et celui chez qui il sera ne le traitera point avec dureté sous tes yeux.",
+        "MAB": "Il aura été avec lui comme un mercenaire qui se loue d'année en année; [et cet étranger] ne dominera point sur lui rigoureusement en ta présence.",
+        "OST": "Il sera avec lui comme un mercenaire à l'année; et son maître ne dominera point sur lui avec rigueur sous tes y eux.",
+        "S21": "Il sera comme un homme salarié à l'année chez son maître et tu ne permettras pas à celui-ci de le traiter avec dureté."
+      }
+    },
+    {
+      "verse": 54,
+      "texts": {
+        "BDS": "S’il n’est racheté d’aucune de ces manières, il retrouvera sa liberté l’année du jubilé, lui et ses enfants.",
+        "DBY": "Et s'il n'est racheté par un de ces moyens, il sortira l'année du Jubilé, lui et ses fils avec lui.",
+        "KJV": "And if he be not redeemed in these [years], then he shall go out in the year of jubile, [both] he, and his children with him.",
+        "LSG": "S'il n'est racheté d'aucune de ces manières, il sortira l'année du jubilé, lui et ses enfants avec lui.",
+        "MAB": "Que s'il n'est pas racheté par quelqu'un de ces moyens, il sortira l'année du Jubilé, lui et ses fils avec lui.",
+        "OST": "S'il n'est racheté d'aucune de ces manières, il sortira l'année du jubilé, lui et ses fils avec lui.",
+        "S21": "S'il n'est racheté d'aucune de ces manières, il sortira l'année du jubilé, lui et ses enfants avec lui."
+      }
+    },
+    {
+      "verse": 55,
+      "texts": {
+        "BDS": "Car les Israélites sont mes serviteurs, parce que je les ai fait sortir d’Egypte. Je suis l’Eternel votre Dieu.",
+        "DBY": "Car les fils d'Israël me sont serviteurs; ils sont mes serviteurs que j'ai fait sortir du pays d'Égypte. Moi, je suis l'Éternel, votre Dieu.",
+        "KJV": "For unto me the children of Israel [are] servants; they [are] my servants whom I brought forth out of the land of Egypt: I [am] the LORD your God.",
+        "LSG": "Car c'est de moi que les enfants d'Israël sont esclaves; ce sont mes esclaves, que j'ai fait sortir du pays d'Egypte. Je suis l'Eternel, votre Dieu.",
+        "MAB": "Car les enfants d'Israël me sont serviteurs; ce [sont] mes serviteurs que j'ai retirés du pays d'Egypte; je suis l'Eternel votre Dieu.",
+        "OST": "Car c'est de moi que les enfants d'Israël sont esclaves; ce sont mes esclaves, que j'ai fait sortir du pays d'Égypte: Je suis l'Éternel, votre Dieu.",
+        "S21": "En effet, c'est de moi que les Israélites sont esclaves. Ils sont mes esclaves, que j'ai fait sortir d'Egypte. Je suis l'Eternel, votre Dieu."
+      }
+    }
+  ]
+}

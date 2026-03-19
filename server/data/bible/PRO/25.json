@@ -1,0 +1,342 @@
+{
+  "bookCode": "PRO",
+  "chapter": 25,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "Voici encore des proverbes de Salomon.\r\nIls ont été recueillis par les fonctionnaires d’Ezéchias, roi de Juda.",
+        "DBY": "Ce sont ici aussi des proverbes de Salomon, que les gens d'Ézéchias, roi de Juda, ont transcrits:",
+        "KJV": "These [are] also proverbs of Solomon, which the men of Hezekiah king of Judah copied out.",
+        "LSG": "Voici encore des Proverbes de Salomon, recueillis par les gens d'Ezéchias, roi de Juda.",
+        "MAB": "Ces choses sont aussi des Proverbes de Salomon, que les gens d'Ezéchias Roi de Juda ont copiés.",
+        "OST": "Voici encore des proverbes de Salomon, copiés par les gens d'Ézéchias, roi de Juda.",
+        "S21": "Voici encore des proverbes de Salomon rassemblés par l’entourage d'Ezéchias, le roi de Juda."
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "La gloire de Dieu, c’est de tenir certaines choses cachées,\r\nla gloire du roi, c’est de s’enquérir soigneusement des choses.",
+        "DBY": "La gloire de Dieu est de cacher une chose, et la gloire des rois est de sonder une chose.",
+        "KJV": "[It is] the glory of God to conceal a thing: but the honour of kings [is] to search out a matter.",
+        "LSG": "La gloire de Dieu, c'est de cacher les choses; La gloire des rois, c'est de sonder les choses.",
+        "MAB": "La gloire de Dieu est de celer la chose; et la gloire des Rois est de sonder les affaires.",
+        "OST": "La gloire de Dieu est de cacher les choses; mais la gloire des rois est de sonder les affaires.",
+        "S21": "La gloire de Dieu, c'est de cacher les choses; la gloire des rois, c'est d'examiner les choses."
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "Vous ne pénétrerez pas le cœur d’un roi,\r\npas plus que vous ne pourrez mesurer la hauteur du ciel ou sonder les profondeurs de la terre.",
+        "DBY": "Les cieux en hauteur, et la terre en profondeur, et le cœur des rois, on ne peut les sonder.",
+        "KJV": "The heaven for height, and the earth for depth, and the heart of kings [is] unsearchable.",
+        "LSG": "Les cieux dans leur hauteur, la terre dans sa profondeur, Et le coeur des rois, sont impénétrables.",
+        "MAB": "Il n'y a pas moyen de sonder les cieux à cause de leur hauteur; ni la terre à cause de sa profondeur; ni le cœur des Rois.",
+        "OST": "Il n'y a pas moyen de sonder les cieux, à cause de leur hauteur, ni la terre, à cause de sa profondeur, ni le cœur des rois.",
+        "S21": "Le ciel dans sa hauteur, la terre dans sa profondeur et le cœur des rois sont impénétrables."
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "Si l’on délivre l’argent de ses scories,\r\nl’orfèvre pourra le travailler pour en faire un vase.",
+        "DBY": "Ote de l'argent les scories, et il en sortira un vase pour l'orfèvre;",
+        "KJV": "Take away the dross from the silver, and there shall come forth a vessel for the finer.",
+        "LSG": "Ote de l'argent les scories, Et il en sortira un vase pour le fondeur.",
+        "MAB": "Ôte les écumes de l'argent, et il en sortira une bague au fondeur;",
+        "OST": "Ote de l'argent les scories, et il en sortira un vase pour le fondeur.",
+        "S21": "Retire les impuretés de l'argent et le fondeur en sortira un vase."
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "Si l’on délivre le roi de la présence des méchants,\r\nson autorité s’affermira par la justice.",
+        "DBY": "ôte le méchant de devant le roi, et son trône sera affermi par la justice.",
+        "KJV": "Take away the wicked [from] before the king, and his throne shall be established in righteousness.",
+        "LSG": "Ote le méchant de devant le roi, Et son trône s'affermira par la justice.",
+        "MAB": "Ôte le méchant de devant le Roi, et son trône sera affermi par la justice.",
+        "OST": "Ote le méchant de devant le roi, et son trône sera affermi par la justice.",
+        "S21": "Retire tout méchant de l’entourage du roi et son trône s'affermira par la justice."
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "Ne fais pas l’important devant le roi,\r\net ne te mets pas à la place des grands.",
+        "DBY": "Ne fais pas le magnifique devant le roi, et ne te tiens pas à la place des grands;",
+        "KJV": "Put not forth thyself in the presence of the king, and stand not in the place of great [men]:",
+        "LSG": "Ne t'élève pas devant le roi, Et ne prends pas la place des grands;",
+        "MAB": "Ne fais point le magnifique devant le Roi, et ne te tiens point dans la place des Grands.",
+        "OST": "Ne fais point le magnifique devant le roi, et ne te mets point au rang des grands.",
+        "S21": "Ne fais pas l'important devant le roi, ne prends pas la place des grands!"
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "Il vaut mieux qu’on te dise:\r\n«Viens t’asseoir plus haut, à cette place d’honneur»\r\nque de te voir humilié devant les nobles.",
+        "DBY": "car il vaut mieux qu'on te dise: Monte ici, que si l'on t'abaissait devant le prince que tes yeux voient.",
+        "KJV": "For better [it is] that it be said unto thee, Come up hither; than that thou shouldest be put lower in the presence of the prince whom thine eyes have seen.",
+        "LSG": "Car il vaut mieux qu'on te dise: Monte-ici! Que si l'on t'abaisse devant le prince que tes yeux voient.",
+        "MAB": "Car il vaut mieux qu'on te dise; monte ici, que si on t'abaissait devant celui qui est en dignité, lequel tes yeux auront vu.",
+        "OST": "Car il vaut mieux qu'on te dise: Monte ici, que si l'on t'abaissait devant le prince que tes yeux auront vu.",
+        "S21": "En effet, il vaut mieux qu'on te dise: «Monte ici!» et qu’on n’ait pas à t’abaisser devant le prince, après que tes yeux l’ont vu."
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "Même si tu as vu quelque chose de tes propres yeux,\r\nne te hâte pas de t’engager dans un procès,\r\ntu t’exposerais à ne plus savoir quoi faire par la suite\r\nsi quelqu’un d’autre te confondait.",
+        "DBY": "Ne sors pas à la hâte pour contester, de peur que tu ne saches que faire à la fin, lorsque ton prochain t'aura rendu confus.",
+        "KJV": "Go not forth hastily to strive, lest [thou know not] what to do in the end thereof, when thy neighbour hath put thee to shame.",
+        "LSG": "Ne te hâte pas d'entrer en contestation, De peur qu'à la fin tu ne saches que faire, Lorsque ton prochain t'aura outragé.",
+        "MAB": "Ne te hâte pas de sortir pour quereller, de peur que tu [ne saches] que faire à la fin, après que ton prochain t'aura rendu confus.",
+        "OST": "Ne te hâte pas de sortir pour plaider, de peur qu'à la fin tu ne saches que faire, après que ton prochain t'aura rendu confus.",
+        "S21": "Ne sois pas pressé de t'engager dans un procès, de peur qu'à la fin tu ne saches que faire lorsque ton prochain te confondra."
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "Règle ton différend avec ton prochain,\r\net ne va pas révéler les confidences d’un autre,",
+        "DBY": "Plaide ta cause avec ton prochain, et ne révèle pas le secret d'autrui,",
+        "KJV": "Debate thy cause with thy neighbour [himself]; and discover not a secret to another:",
+        "LSG": "Défends ta cause contre ton prochain, Mais ne révèle pas le secret d'un autre,",
+        "MAB": "Traite tellement ton différend avec ton prochain, que tu ne révèles point le secret d'un autre;",
+        "OST": "Plaide ta cause contre ton prochain; mais ne révèle point le secret d'un autre;",
+        "S21": "Défends ta cause contre ton prochain, mais ne révèle pas le secret d'un autre!"
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "sinon, il pourrait l’apprendre et t’injurier,\r\net tu perdrais définitivement ta bonne réputation.",
+        "DBY": "de peur que celui qui l'écoute ne te fasse honte, et que ton opprobre ne se retire pas.",
+        "KJV": "Lest he that heareth [it] put thee to shame, and thine infamy turn not away.",
+        "LSG": "De peur qu'en l'apprenant il ne te couvre de honte, Et que ta mauvaise renommée ne s'efface pas.",
+        "MAB": "De peur que celui qui l'écoute ne te le reproche, et que tu n'en reçoives un opprobre qui ne s'efface point.",
+        "OST": "De peur qu'en l'apprenant, il ne te le reproche, et que tu n'en reçoives un blâme qui ne s'efface point.",
+        "S21": "En l'apprenant il te couvrirait de honte et ta mauvaise réputation ne s'effacerait pas."
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "Des paroles justes dites au bon moment\r\nsont comme des abricots d’or avec des ciselures d’argent.",
+        "DBY": "Des pommes d'or incrustées d'argent, c'est la parole dite à propos.",
+        "KJV": "A word fitly spoken [is like] apples of gold in pictures of silver.",
+        "LSG": "Comme des pommes d'or sur des ciselures d'argent, Ainsi est une parole dite à propos.",
+        "MAB": "Telles que sont des pommes d'or émaillées d'argent, telle est la parole dite comme il faut.",
+        "OST": "Une parole dite à propos est comme des pommes d'or dans des paniers d'argent.",
+        "S21": "Des pommes en or décorées d'argent, voilà ce que sont des paroles dites à propos."
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "Un avertissement donné par une personne sage et reçu d’une oreille attentive\r\nest comme un anneau d’or et une parure d’or fin.",
+        "DBY": "Un anneau d'or et un joyau d'or fin, tel est, pour l'oreille qui écoute, celui qui reprend sagement.",
+        "KJV": "[As] an earring of gold, and an ornament of fine gold, [so is] a wise reprover upon an obedient ear.",
+        "LSG": "Comme un anneau d'or et une parure d'or fin, Ainsi pour une oreille docile est le sage qui réprimande.",
+        "MAB": "Quand on reprend le sage qui a l'oreille attentive, c'est comme une bague d'or, ou comme un joyau de fin or.",
+        "OST": "Quand on reprend le sage qui a l'oreille docile, c'est comme une bague d'or, ou comme un joyau d'or fin.",
+        "S21": "Un anneau en or, un collier en or fin, voilà ce qu’est le reproche d’un sage pour l’oreille qui sait écouter."
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "Comme la fraîcheur de la neige au fort de la moisson,\r\ntel est un messager fidèle pour celui qui l’envoie:\r\nil réconforte son maître.",
+        "DBY": "La fraîcheur de la neige au temps de la moisson, tel est le messager fidèle pour ceux qui l'envoient: il restaure l'âme de son maître.",
+        "KJV": "As the cold of snow in the time of harvest, [so is] a faithful messenger to them that send him: for he refresheth the soul of his masters.",
+        "LSG": "Comme la fraîcheur de la neige au temps de la moisson, Ainsi est un messager fidèle pour celui qui l'envoie; Il restaure l'âme de son maître.",
+        "MAB": "L'ambassadeur fidèle est à ceux qui l'envoient, comme la froideur de la neige au temps de la moisson, et il restaure l'âme de son maître.",
+        "OST": "L'ambassadeur fidèle est à ceux qui l'envoient, comme la fraîcheur de la neige au temps de la moisson, et il restaure l'âme de son maître.",
+        "S21": "L’effet rafraîchissant de la neige un jour de moisson, voilà l’effet d’un messager fidèle pour celui qui l'envoie: il réconforte son maître."
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "Celui qui se vante de sa libéralité sans rien donner\r\nfait penser au nuage amené par le vent et qui n’apporte pas la pluie.",
+        "DBY": "Les nuages et le vent, et point de pluie, tel est celui qui se glorifie faussement d'un présent.",
+        "KJV": "Whoso boasteth himself of a false gift [is like] clouds and wind without rain.",
+        "LSG": "Comme des nuages et du vent sans pluie, Ainsi est un homme se glorifiant à tort de ses libéralités.",
+        "MAB": "Celui qui se vante d'une fausse libéralité, est [comme] les nuées et le vent sans pluie.",
+        "OST": "Celui qui se vante faussement de sa libéralité, est comme les nuées et le vent sans pluie.",
+        "S21": "Des nuages et du vent sans pluie, voilà ce qu’est l’homme qui se vante à tort de sa générosité."
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "Avec de la patience, on persuade un dirigeant,\r\ntout comme une langue douce peut briser un os.",
+        "DBY": "Par la lenteur à la colère un prince est gagné, et la langue douce brise les os.",
+        "KJV": "By long forbearing is a prince persuaded, and a soft tongue breaketh the bone.",
+        "LSG": "Par la lenteur à la colère on fléchit un prince, Et une langue douce peut briser des os.",
+        "MAB": "Le capitaine est fléchi par la patience, et la langue douce brise les os.",
+        "OST": "Le prince est fléchi par la patience, et la langue douce brise les os.",
+        "S21": "Par la patience on peut persuader un dirigeant et une langue douce peut briser toute résistance."
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "Si tu trouves du miel, n’en mange que ce qui te suffit,\r\ncar si tu en prends trop, tu le rejetteras.",
+        "DBY": "As-tu trouvé du miel, manges-en ce qu'il t'en faut, de peur que tu n'en sois repu et que tu ne le vomisses.",
+        "KJV": "Hast thou found honey? eat so much as is sufficient for thee, lest thou be filled therewith, and vomit it.",
+        "LSG": "Si tu trouves du miel, n'en mange que ce qui te suffit, De peur que tu n'en sois rassasié et que tu ne le vomisses.",
+        "MAB": "Quand tu auras trouvé du miel, n'en mange qu'autant qu'il t'en faut, de peur qu'en étant soûlé, tu ne le rendes.",
+        "OST": "Quand tu auras trouvé du miel, manges-en, mais pas plus qu'il ne t'en faut; de peur qu'en en prenant avec excès, tu ne le rejettes.",
+        "S21": "Si tu trouves du miel, n'en mange pas trop! Tu risquerais d’être saturé et de le vomir."
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "Ne va pas trop souvent chez ton ami,\r\nde peur qu’il ne se lasse de toi et ne te prenne en haine.",
+        "DBY": "Mets rarement ton pied dans la maison de ton prochain, de peur qu'il ne soit rassasié de toi et qu'il ne te haïsse.",
+        "KJV": "Withdraw thy foot from thy neighbour's house; lest he be weary of thee, and [so] hate thee.",
+        "LSG": "Mets rarement le pied dans la maison de ton prochain, De peur qu'il ne soit rassasié de toi et qu'il ne te haïsse.",
+        "MAB": "Mets rarement ton pied dans la maison de ton prochain, de peur qu'étant rassasié de toi, il ne te haïsse.",
+        "OST": "De même, mets rarement le pied dans la maison de ton prochain, de peur qu'il ne soit rassasié de toi et qu'il ne te haïsse.",
+        "S21": "Mets rarement le pied chez ton prochain! Il risquerait d’être saturé et de te détester."
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "L’homme qui porte un faux témoignage contre son prochain\r\nest comme une massue, une épée et une flèche acérée.",
+        "DBY": "L'homme qui rend un faux témoignage contre son prochain est un marteau, et une épée, et une flèche aiguë.",
+        "KJV": "A man that beareth false witness against his neighbour [is] a maul, and a sword, and a sharp arrow.",
+        "LSG": "Comme une massue, une épée et une flèche aiguë, Ainsi est un homme qui porte un faux témoignage contre son prochain.",
+        "MAB": "L'homme qui porte un faux témoignage contre son prochain, est un marteau, une épée, et une flèche aiguë.",
+        "OST": "L'homme qui porte un faux témoignage contre son prochain, est comme un marteau, une épée, et une flèche aiguë.",
+        "S21": "Une massue, une épée ou une flèche aiguë, voilà ce qu’est un homme qui porte un faux témoignage contre son prochain."
+      }
+    },
+    {
+      "verse": 19,
+      "texts": {
+        "BDS": "Se fier à un homme déloyal au jour du malheur,\r\nc’est comme se fier à une dent branlante ou à un pied chancelant.",
+        "DBY": "La confiance en un perfide, au jour de la détresse, est une dent cassée et un pied chancelant.",
+        "KJV": "Confidence in an unfaithful man in time of trouble [is like] a broken tooth, and a foot out of joint.",
+        "LSG": "Comme une dent cassée et un pied qui chancelle, Ainsi est la confiance en un perfide au jour de la détresse.",
+        "MAB": "La confiance qu'on met en celui qui se porte perfidement au temps de la détresse, est une dent qui se rompt, et un pied qui glisse.",
+        "OST": "La confiance en un perfide au jour de la détresse, est une dent qui se rompt, et un pied qui glisse.",
+        "S21": "Une dent prête à se casser et un pied branlant, voilà ce qu’est, le jour de la détresse, la confiance placée dans un traître."
+      }
+    },
+    {
+      "verse": 20,
+      "texts": {
+        "BDS": "Entonner des chansons pour une personne affligée,\r\nc’est comme lui enlever son habit par un jour de froid\r\nou verser du vinaigre sur du salpêtre.",
+        "DBY": "Celui qui ôte son vêtement en un jour de froid, -du vinaigre sur le nitre, tel est celui qui chante des chansons à un cœur affligé.",
+        "KJV": "[As] he that taketh away a garment in cold weather, [and as] vinegar upon nitre, so [is] he that singeth songs to an heavy heart.",
+        "LSG": "Oter son vêtement dans un jour froid, Répandre du vinaigre sur du nitre, C'est dire des chansons à un coeur attristé.",
+        "MAB": "Celui qui chante des chansons au cœur affligé, est [comme] celui qui ôte sa robe dans le temps du froid, et [comme] du vinaigre répandu sur le savon.",
+        "OST": "Celui qui chante des chansons à un cœur affligé, est comme celui qui ôte son vêtement en un temps froid, et comme du vinaigre répandu sur le nitre.",
+        "S21": "Enlever un habit un jour de froid, verser du vinaigre sur du salpêtre, c'est entonner des chansons pour un cœur attristé."
+      }
+    },
+    {
+      "verse": 21,
+      "texts": {
+        "BDS": "Si ton ennemi a faim, donne-lui à manger,\r\ns’il a soif, donne-lui à boire.",
+        "DBY": "Si celui qui te hait a faim, donne-lui du pain à manger, et, s'il a soif, donne-lui de l'eau à boire;",
+        "KJV": "If thine enemy be hungry, give him bread to eat; and if he be thirsty, give him water to drink:",
+        "LSG": "Si ton ennemi a faim, donne-lui du pain à manger; S'il a soif, donne-lui de l'eau à boire.",
+        "MAB": "Si celui qui te hait a faim, donne-lui à manger du pain; et s'il a soif, donne-lui à boire de l'eau.",
+        "OST": "Si ton ennemi a faim donne-lui du pain à manger; et s'il a soif donne-lui de l'eau à boire.",
+        "S21": "Si ton ennemi a faim, donne-lui à manger, s'il a soif, donne-lui à boire,"
+      }
+    },
+    {
+      "verse": 22,
+      "texts": {
+        "BDS": "Ce sera comme si tu lui mettais des charbons ardents sur sa tête,\r\net l’Eternel te le rendra.",
+        "DBY": "car tu entasseras des charbons ardents sur sa tête, et l'Éternel te le rendra.",
+        "KJV": "For thou shalt heap coals of fire upon his head, and the LORD shall reward thee.",
+        "LSG": "Car ce sont des charbons ardents que tu amasses sur sa tête, Et l'Eternel te récompensera.",
+        "MAB": "Car tu enlèveras des charbons de feu de dessus sa tête, et l'Eternel te le rendra.",
+        "OST": "Car ce sont des charbons ardents que tu amasseras sur sa tête, et l'Éternel te le rendra.",
+        "S21": "car ce sont des charbons ardents que tu amasses sur sa tête et l'Eternel te récompensera."
+      }
+    },
+    {
+      "verse": 23,
+      "texts": {
+        "BDS": "Une langue dissimulatrice engendre des visages irrités\r\naussi sûrement que le vent du nord enfante la pluie.",
+        "DBY": "Le vent du nord enfante les averses; et les visages indignés, une langue qui médit en secret.",
+        "KJV": "The north wind driveth away rain: so [doth] an angry countenance a backbiting tongue.",
+        "LSG": "Le vent du nord enfante la pluie, Et la langue mystérieuse un visage irrité.",
+        "MAB": "Le vent de bise chasse la pluie; et le visage sévère chasse la langue qui [médit] en secret.",
+        "OST": "Le vent du nord produit la pluie, et la langue qui médit en secret, produit le visage irrité.",
+        "S21": "Le vent du nord amène la pluie, et la langue cachottière un visage irrité."
+      }
+    },
+    {
+      "verse": 24,
+      "texts": {
+        "BDS": "Mieux vaut habiter dans un coin sur un toit en terrasse\r\nque de partager la maison d’une femme querelleuse.",
+        "DBY": "Mieux vaut habiter sur le coin d'un toit, qu'une femme querelleuse et une maison en commun.",
+        "KJV": "[It is] better to dwell in the corner of the housetop, than with a brawling woman and in a wide house.",
+        "LSG": "Mieux vaut habiter à l'angle d'un toit, Que de partager la demeure d'une femme querelleuse.",
+        "MAB": "Il vaut mieux habiter au coin d'un toit, que dans une maison spacieuse avec une femme querelleuse.",
+        "OST": "Mieux vaut habiter au coin d'un toit, qu'avec une femme querelleuse dans une grande maison.",
+        "S21": "Mieux vaut habiter à l'angle d'un toit que faire maison commune avec une femme querelleuse."
+      }
+    },
+    {
+      "verse": 25,
+      "texts": {
+        "BDS": "Une bonne nouvelle venant d’un pays lointain fait du bien,\r\ncomme de l’eau fraîche à une personne altérée.",
+        "DBY": "Les bonnes nouvelles d'un pays éloigné sont de l'eau fraîche pour une âme altérée.",
+        "KJV": "[As] cold waters to a thirsty soul, so [is] good news from a far country.",
+        "LSG": "Comme de l'eau fraîche pour une personne fatiguée, Ainsi est une bonne nouvelle venant d'une terre lointaine.",
+        "MAB": "Les bonnes nouvelles apportées d'un pays éloigné, sont comme de l'eau fraîche à une personne altérée et lasse.",
+        "OST": "De bonnes nouvelles apportées d'un pays éloigné, sont comme de l'eau fraîche à une personne altérée et lasse.",
+        "S21": "De l'eau fraîche pour une personne fatiguée, voilà ce qu’est une bonne nouvelle venant d'une terre lointaine."
+      }
+    },
+    {
+      "verse": 26,
+      "texts": {
+        "BDS": "Un juste qui se laisse ébranler devant le méchant\r\nest comme une source aux eaux troubles ou une fontaine polluée.",
+        "DBY": "Le juste qui chancelle devant le méchant est une fontaine trouble et une source corrompue.",
+        "KJV": "A righteous man falling down before the wicked [is as] a troubled fountain, and a corrupt spring.",
+        "LSG": "Comme une fontaine troublée et une source corrompue, Ainsi est le juste qui chancelle devant le méchant.",
+        "MAB": "Le juste qui bronche devant le méchant, est une fontaine embourbée, et une source gâtée.",
+        "OST": "Le juste qui bronche devant le méchant, est comme une fontaine embourbée et une source gâtée.",
+        "S21": "Une fontaine trouble, une source polluée, voilà ce qu’est un juste qui tremble devant le méchant."
+      }
+    },
+    {
+      "verse": 27,
+      "texts": {
+        "BDS": "Il n’est pas bon de manger beaucoup de miel,\r\nmais étudier des choses importantes voilà ce qui est important.",
+        "DBY": "Manger beaucoup de miel n'est pas bon, et s'occuper de sa propre gloire n'est pas la gloire.",
+        "KJV": "[It is] not good to eat much honey: so [for men] to search their own glory [is not] glory.",
+        "LSG": "Il n'est pas bon de manger beaucoup de miel, Mais rechercher la gloire des autres est un honneur.",
+        "MAB": "[Comme] il n'est pas bon de manger trop de miel, aussi il n'y a pas de la gloire pour ceux qui la cherchent avec trop d'ardeur.",
+        "OST": "Il n'est pas bon de manger trop de miel, et sonder les choses profondes est un fardeau.",
+        "S21": "Il n'est pas bon de manger trop de miel, mais rechercher la gloire des autres est un honneur."
+      }
+    },
+    {
+      "verse": 28,
+      "texts": {
+        "BDS": "Celui qui ne sait pas se dominer\r\nest comme une ville démantelée qui n’a plus de remparts.",
+        "DBY": "L'homme qui ne gouverne pas son esprit est une ville en ruine, sans murailles.",
+        "KJV": "He that [hath] no rule over his own spirit [is like] a city [that is] broken down, [and] without walls.",
+        "LSG": "Comme une ville forcée et sans murailles, Ainsi est l'homme qui n'est pas maître de lui-même.",
+        "MAB": "L'homme qui ne peut pas retenir son esprit, est comme une ville où il y a brèche, et qui est sans murailles.",
+        "OST": "L'homme qui n'est pas maître de lui-même, est comme une ville où il y a brèche et qui est sans murailles.",
+        "S21": "Une ville démantelée, sans murailles, voilà ce qu’est l'homme qui n'est pas maître de lui-même."
+      }
+    }
+  ]
+}

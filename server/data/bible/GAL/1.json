@@ -1,0 +1,294 @@
+{
+  "bookCode": "GAL",
+  "chapter": 1,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "Cette lettre vous est adressée par Paul, apôtre, non par une autorité humaine, ni par l’intermédiaire d’un homme, mais par Jésus-Christ et par Dieu, le Père, qui l’a ressuscité d’entre les morts.",
+        "DBY": "Paul, apôtre, non de la part des hommes, ni par l'homme, mais par Jésus Christ, et Dieu le Père qui l'a ressuscité d'entre les morts,",
+        "KJV": "Paul, an apostle, (not of men, neither by man, but by Jesus Christ, and God the Father, who raised him from the dead;)",
+        "LSG": "Paul, apôtre, non de la part des hommes, ni par un homme, mais par Jésus-Christ et Dieu le Père, qui l'a ressuscité des morts,",
+        "MAB": "Paul Apôtre, non de la part des hommes, ni de la part d'aucun homme, mais de la part de Jésus-Christ, et de la part de Dieu le Père, qui l'a ressuscité des morts;",
+        "OST": "Paul, apôtre, non de la part des hommes, ni par un homme, mais par Jésus-Christ, et Dieu le Père, qui l'a ressuscité des morts;",
+        "S21": "De la part de Paul, apôtre établi non par des hommes ni par l’intermédiaire d’un homme, mais par Jésus-Christ et par Dieu le Père qui l'a ressuscité,"
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "Avec tous les frères qui sont avec moi, je salue les Eglises de la Galatie.",
+        "DBY": "et tous les frères qui sont avec moi, aux assemblées de la Galatie:",
+        "KJV": "And all the brethren which are with me, unto the churches of Galatia:",
+        "LSG": "et tous les frères qui sont avec moi, aux Eglises de la Galatie:",
+        "MAB": "Et tous les frères qui sont avec moi, aux Eglises de Galatie.",
+        "OST": "Et tous les frères qui sont avec moi, aux Églises de Galatie.",
+        "S21": "et de tous les frères qui sont avec moi aux Eglises de la Galatie:"
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "Que la grâce et la paix vous soient données par Dieu notre Père et par le Seigneur Jésus-Christ.",
+        "DBY": "Grâce et paix à vous, de la part de Dieu le Père et de notre Seigneur Jésus Christ,",
+        "KJV": "Grace [be] to you and peace from God the Father, and [from] our Lord Jesus Christ,",
+        "LSG": "que la grâce et la paix vous soient données de la part de Dieu le Père et de notre Seigneur Jésus-Christ,",
+        "MAB": "Que la grâce et la paix vous soient données de la part de Dieu le Père, et de la part de notre Seigneur Jésus-Christ :",
+        "OST": "La grâce et la paix vous soient données de la part de Dieu le Père, et de notre Seigneur Jésus-Christ,",
+        "S21": "que la grâce et la paix vous soient données de la part de Dieu notre Père et du Seigneur Jésus-Christ."
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "Le Christ s’est offert lui-même en sacrifice pour expier nos péchés, afin de nous délivrer du monde présent dominé par le mal: il a ainsi accompli la volonté de Dieu, notre Père,",
+        "DBY": "s'est donné lui-même pour nos péchés, en sorte qu'il nous retirât du présent siècle mauvais, selon la volonté de notre Dieu et Père,",
+        "KJV": "Who gave himself for our sins, that he might deliver us from this present evil world, according to the will of God and our Father:",
+        "LSG": "qui s'est donné lui-même pour nos péchés, afin de nous arracher du présent siècle mauvais, selon la volonté de notre Dieu et Père,",
+        "MAB": "Qui s'est donné lui-même pour nos péchés, afin que selon la volonté de Dieu notre Père, il nous retirât du présent siècle mauvais.",
+        "OST": "Qui s'est donné lui-même pour nos péchés, afin de nous retirer de ce siècle corrompu, selon la volonté de Dieu notre Père,",
+        "S21": "Il s'est donné lui-même pour nos péchés afin de nous arracher à l’actuel monde mauvais, conformément à la volonté de notre Dieu et Père"
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "à qui soit la gloire pour l’éternité! Amen!",
+        "DBY": "auquel soit la gloire aux siècles des siècles! Amen.",
+        "KJV": "To whom [be] glory for ever and ever. Amen.",
+        "LSG": "qui soit la gloire aux siècles des siècles! Amen!",
+        "MAB": "A lui soit gloire aux siècles des siècles; Amen!",
+        "OST": "Auquel soit gloire aux siècles des siècles! Amen.",
+        "S21": "à qui soit la gloire aux siècles des siècles! Amen!"
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "Je m’étonne de la rapidité avec laquelle vous abandonnez celui qui vous a appelés par la grâce du Christ, pour vous tourner vers un autre message.",
+        "DBY": "Je m'étonne de ce que vous passez si promptement de celui qui vous a appelés par la grâce de Christ, à un évangile différent, qui n'en est pas un autre;",
+        "KJV": "I marvel that ye are so soon removed from him that called you into the grace of Christ unto another gospel:",
+        "LSG": "Je m'étonne que vous vous détourniez si promptement de celui qui vous a appelés par la grâce de Christ, pour passer à un autre Evangile.",
+        "MAB": "Je m'étonne qu'abandonnant [Jésus-] Christ, qui vous avait appelés par sa grâce, vous ayez été si promptement transportés à un autre Evangile.",
+        "OST": "Je m'étonne que vous abandonniez si promptement celui qui vous avait appelés à la grâce de Christ, pour passer à un autre évangile;",
+        "S21": "Je m'étonne que vous vous détourniez si vite de celui qui vous a appelés par la grâce de Christ pour passer à un autre évangile."
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "Comme s’il pouvait y avoir un autre message! Non, il n’en existe pas d’autre, mais il y a des gens qui sèment le trouble parmi vous et qui veulent renverser le message du Christ.",
+        "DBY": "mais il y a des gens qui vous troublent, et qui veulent pervertir l'évangile du Christ.",
+        "KJV": "Which is not another; but there be some that trouble you, and would pervert the gospel of Christ.",
+        "LSG": "Non pas qu'il y ait un autre Evangile, mais il y a des gens qui vous troublent, et qui veulent renverser l'Evangile de Christ.",
+        "MAB": "Qui n'est pas un autre [Evangile], mais il y a des gens qui vous troublent, et qui veulent renverser l'Evangile de Christ.",
+        "OST": "Non qu'il y en ait un autre, mais il y a des gens qui vous troublent, et qui veulent pervertir l'Évangile de Christ.",
+        "S21": "Ce n’est pas qu'il y ait un autre évangile, mais il y a des gens qui vous troublent et qui veulent déformer l'Evangile de Christ."
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "Eh bien, si quelqu’un — même nous, même un ange du ciel — vous annonçait un message différent de celui que nous vous avons annoncé, qu’il soit maudit!",
+        "DBY": "Mais quand nous-mêmes, ou quand un ange venu du ciel vous évangéliserait outre ce que nous vous avons évangélisé, qu'il soit anathème.",
+        "KJV": "But though we, or an angel from heaven, preach any other gospel unto you than that which we have preached unto you, let him be accursed.",
+        "LSG": "Mais, quand nous-mêmes, quand un ange du ciel annoncerait un autre Evangile que celui que nous vous avons prêché, qu'il soit anathème!",
+        "MAB": "Mais quand nous-mêmes [vous évangéliserions], ou quand un Ange du Ciel vous évangéliserait outre ce que nous vous avons évangélisé, qu'il soit anathème.",
+        "OST": "Mais quand nous-mêmes, ou un ange du ciel vous annoncerait un évangile différent de celui que nous vous avons annoncé, qu'il soit anathème!",
+        "S21": "Mais si quelqu’un – même nous ou même un ange venu du ciel – vous annonçait un évangile différent de celui que nous vous avons prêché, qu'il soit maudit!"
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "Je l’ai déjà dit et je le répète maintenant: si quelqu’un vous prêche un autre message que celui que vous avez reçu, qu’il soit maudit!",
+        "DBY": "Comme nous l'avons déjà dit, maintenant aussi je le dis encore: si quelqu'un vous évangélise outre ce que vous avez reçu, qu'il soit anathème.",
+        "KJV": "As we said before, so say I now again, If any [man] preach any other gospel unto you than that ye have received, let him be accursed.",
+        "LSG": "Nous l'avons dit précédemment, et je le répète à cette heure: si quelqu'un vous annonce un autre Evangile que celui que vous avez reçu, qu'il soit anathème!",
+        "MAB": "Comme nous l'avons déjà dit, je le dis encore maintenant : si quelqu'un vous évangélise outre ce que vous avez reçu, qu'il soit anathème.",
+        "OST": "Comme nous l'avons déjà dit, je le dis encore maintenant: Si quelqu'un vous annonce un évangile différent de celui que vous avez reçu, qu'il soit anathème!",
+        "S21": "Nous l'avons déjà dit, et je le répète maintenant: si quelqu'un vous annonce un autre évangile que celui que vous avez reçu, qu'il soit maudit!"
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "Qu’en pensez-vous maintenant? Est-ce la faveur des hommes que je recherche ou celle de Dieu? Mon désir est-il de plaire aux hommes? Si je cherchais encore à plaire aux hommes, je ne serais pas serviteur du Christ.",
+        "DBY": "Car maintenant, est ce que je m'applique à satisfaire des hommes, ou Dieu? Ou est-ce que je cherche à complaire à des hommes? Si je complaisais encore à des hommes, je ne serais pas esclave de Christ.",
+        "KJV": "For do I now persuade men, or God? or do I seek to please men? for if I yet pleased men, I should not be the servant of Christ.",
+        "LSG": "Et maintenant, est-ce la faveur des hommes que je désire, ou celle de Dieu? Est-ce que je cherche à plaire aux hommes? Si je plaisais encore aux hommes, je ne serais pas serviteur de Christ.",
+        "MAB": "Car maintenant prêché-je les hommes, ou Dieu? ou cherché-je à complaire aux hommes? Certes si je complaisais encore aux hommes, je ne serais pas le serviteur de Christ.",
+        "OST": "Car, est-ce les hommes que je prêche, ou Dieu? ou est-ce que je cherche à plaire aux hommes? Si je plaisais aux hommes, je ne serais pas un serviteur de Christ.",
+        "S21": "Maintenant, est-ce la faveur des hommes que je recherche ou celle de Dieu? Est-ce que je cherche à plaire aux hommes? Si je plaisais encore aux hommes, je ne serais pas serviteur de Christ."
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "Je veux que vous le sachiez, frères: le message que je vous ai annoncé n’est pas le fruit d’une pensée humaine.",
+        "DBY": "Or je vous fais savoir, frères, que l'évangile qui a été annoncé par moi n'est pas selon l'homme.",
+        "KJV": "But I certify you, brethren, that the gospel which was preached of me is not after man.",
+        "LSG": "Je vous déclare, frères, que l'Evangile qui a été annoncé par moi n'est pas de l'homme;",
+        "MAB": "Or mes frères, je vous déclare que l'Evangile que j'ai annoncé, n'est point selon l'homme.",
+        "OST": "Je vous le déclare donc, frères: l'Évangile que j'ai annoncé n'est pas de l'homme;",
+        "S21": "Je vous le déclare, frères et sœurs: l'Evangile que j'ai annoncé ne vient pas de l’homme."
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "Car je ne l’ai reçu d’aucun homme, personne ne me l’a enseigné; c’est Jésus-Christ lui-même qui me l’a fait connaître, par une révélation.",
+        "DBY": "Car moi, je ne l'ai pas reçu de l'homme non plus, ni appris, mais par la révélation de Jésus Christ.",
+        "KJV": "For I neither received it of man, neither was I taught [it], but by the revelation of Jesus Christ.",
+        "LSG": "car je ne l'ai ni reçu ni appris d'un homme, mais par une révélation de Jésus-Christ.",
+        "MAB": "Parce que je ne l'ai point reçu ni appris d'aucun homme, mais par la révélation de Jésus-Christ.",
+        "OST": "Car je ne l'ai ni reçu ni appris d'un homme, mais par une révélation de Jésus-Christ.",
+        "S21": "En effet, je ne l'ai moi-même ni reçu ni appris d'un homme, mais par une révélation de Jésus-Christ."
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "Vous avez entendu parler de ma conduite passée à l’époque où je militais dans le judaïsme. Vous savez avec quel fanatisme je persécutais l’Eglise de Dieu, dans le but de la détruire.",
+        "DBY": "Car vous avez ouï dire quelle a été autrefois ma conduite dans le judaïsme, comment je persécutais outre mesure l'assemblée de Dieu et la dévastais,",
+        "KJV": "For ye have heard of my conversation in time past in the Jews' religion, how that beyond measure I persecuted the church of God, and wasted it:",
+        "LSG": "Vous avez su, en effet, quelle était autrefois ma conduite dans le judaïsme, comment je persécutais à outrance et ravageais l'Eglise de Dieu,",
+        "MAB": "Car vous avez appris quelle a été autrefois ma conduite dans le Judaïsme, [et] comment je persécutais à outrance l'Eglise de Dieu, et la ravageais;",
+        "OST": "Vous avez, en effet, entendu dire quelle était autrefois ma conduite dans le judaïsme; comment je persécutais à outrance l'Église de Dieu, et la ravageais;",
+        "S21": "Vous avez d’ailleurs entendu parler de mon comportement autrefois dans le judaïsme: je persécutais à outrance l'Eglise de Dieu, je cherchais à la détruire"
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "Dans la pratique du judaïsme, j’allais plus loin que la plupart des Juifs de ma génération, et j’étais bien plus zélé qu’eux pour les traditions que j’avais reçues de mes ancêtres.",
+        "DBY": "comment j'avançais dans le judaïsme plus que plusieurs de ceux de mon âge dans ma nation, étant le plus ardent zélateur des traditions de mes pères.",
+        "KJV": "And profited in the Jews' religion above many my equals in mine own nation, being more exceedingly zealous of the traditions of my fathers.",
+        "LSG": "et comment j'étais plus avancé dans le judaïsme que beaucoup de ceux de mon âge et de ma nation, étant animé d'un zèle excessif pour les traditions de mes pères.",
+        "MAB": "Et j'avançais dans le Judaïsme plus que plusieurs de mon âge dans ma nation; étant le plus ardent zélateur des traditions de mes pères.",
+        "OST": "Et comment j'étais plus avancé dans le judaïsme que beaucoup de ceux de mon âge dans ma nation, étant le plus ardent zélateur des traditions de mes pères.",
+        "S21": "et j'étais plus avancé dans le judaïsme que beaucoup de ceux de mon âge parmi mon peuple, car j'étais animé d'un zèle excessif pour les traditions de mes ancêtres."
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "Mais Dieu m’avait mis à part dès avant ma naissance et, dans sa grâce, il m’a appelé à le connaître.",
+        "DBY": "Mais quand il plut à Dieu, qui m'a mis à part dès le ventre de ma mère et qui m'a appelé par sa grâce,",
+        "KJV": "But when it pleased God, who separated me from my mother's womb, and called [me] by his grace,",
+        "LSG": "Mais, lorsqu'il plut à celui qui m'avait mis à part dès le sein de ma mère, et qui m'a appelé par sa grâce,",
+        "MAB": "Mais quand ç'a été le bon plaisir de Dieu, qui m'avait choisi dès le ventre de ma mère, et qui m'a appelé par sa grâce,",
+        "OST": "Mais quand il plut à Dieu, qui m'avait choisi dès le sein de ma mère, et qui m'a appelé par sa grâce,",
+        "S21": "Mais Dieu m'avait mis à part dès le ventre de ma mère et m'a appelé par sa grâce."
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "Aussi, dès qu’il lui a plu de me révéler son Fils pour que je l’annonce aux non-Juifs, je n’ai consulté personne.",
+        "DBY": "de révéler son Fils en moi, afin que je l'annonçasse parmi les nations, aussitôt, je ne pris pas conseil de la chair ni du sang,",
+        "KJV": "To reveal his Son in me, that I might preach him among the heathen; immediately I conferred not with flesh and blood:",
+        "LSG": "de révéler en moi son Fils, afin que je l'annonçasse parmi les païens, aussitôt, je ne consultai ni la chair ni le sang,",
+        "MAB": "De révéler son Fils en moi, afin que je l'évangélisasse parmi les Gentils, je ne commençai pas d'abord par prendre conseil de la chair et du sang;",
+        "OST": "De me révéler intérieurement son Fils, afin que je l'annonçasse parmi les Gentils; aussitôt, je ne consultai ni la chair ni le sang,",
+        "S21": "Lorsqu’il a trouvé bon de révéler son Fils en moi afin que je l'annonce parmi les non-Juifs, je n'ai consulté personne,"
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "Je ne me suis même pas rendu à Jérusalem pour rencontrer ceux qui étaient déjà apôtres avant moi, mais je suis parti pour l’Arabie. De là, je suis retourné à Damas.",
+        "DBY": "ni ne montai à Jérusalem vers ceux qui étaient apôtres avant moi, mais je m'en allai en Arabie, et je retournai de nouveau à Damas.",
+        "KJV": "Neither went I up to Jerusalem to them which were apostles before me; but I went into Arabia, and returned again unto Damascus.",
+        "LSG": "et je ne montai point à Jérusalem vers ceux qui furent apôtres avant moi, mais je partis pour l'Arabie. Puis je revins encore à Damas.",
+        "MAB": "Et je ne retournai point à Jérusalem vers ceux qui avaient été Apôtres avant moi, mais je m'en allai en Arabie, et je repassai à Damas.",
+        "OST": "Et je ne montai point à Jérusalem vers ceux qui étaient apôtres avant moi; mais je m'en allai en Arabie, et je revins encore à Damas.",
+        "S21": "je ne suis même pas monté à Jérusalem vers ceux qui étaient apôtres avant moi, mais je suis aussitôt parti pour l'Arabie; puis je suis retourné à Damas."
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "Ce n’est que trois ans plus tard que je suis allé à Jérusalem pour faire la connaissance de Pierre, chez qui je suis resté quinze jours.",
+        "DBY": "Puis, trois ans après, je montai à Jérusalem pour faire la connaissance de Céphas, et je demeurai chez lui quinze jours;",
+        "KJV": "Then after three years I went up to Jerusalem to see Peter, and abode with him fifteen days.",
+        "LSG": "Trois ans plus tard, je montai à Jérusalem pour faire la connaissance de Céphas, et je demeurai quinze jours chez lui.",
+        "MAB": "Puis je retournai trois ans après à Jérusalem pour visiter Pierre, et je demeurai chez lui quinze jours.",
+        "OST": "Ensuite, trois ans après, je montai à Jérusalem, pour y visiter Pierre; et je demeurai chez lui quinze jours;",
+        "S21": "Trois ans plus tard, je suis monté à Jérusalem pour faire la connaissance de Pierre, et je suis resté quinze jours chez lui."
+      }
+    },
+    {
+      "verse": 19,
+      "texts": {
+        "BDS": "A part lui et Jacques, le frère du Seigneur, je n’ai rencontré aucun apôtre.",
+        "DBY": "et je ne vis aucun autre des apôtres, sinon Jacques le frère du Seigneur.",
+        "KJV": "But other of the apostles saw I none, save James the Lord's brother.",
+        "LSG": "Mais je ne vis aucun autre des apôtres, si ce n'est Jacques, le frère du Seigneur.",
+        "MAB": "Et je ne vis aucun des autres Apôtres, sinon Jacques, le frère du Seigneur.",
+        "OST": "Mais je ne vis aucun des autres apôtres, sinon Jacques, le frère du Seigneur.",
+        "S21": "Mais je n'ai vu aucun autre apôtre, si ce n’est Jacques, le frère du Seigneur."
+      }
+    },
+    {
+      "verse": 20,
+      "texts": {
+        "BDS": "— Dieu m’est témoin que je ne mens pas en vous écrivant cela. —",
+        "DBY": "Or dans les choses que je vous écris, voici, devant Dieu, je ne mens point.",
+        "KJV": "Now the things which I write unto you, behold, before God, I lie not.",
+        "LSG": "Dans ce que je vous écris, voici, devant Dieu, je ne mens point.",
+        "MAB": "Or dans les choses que je vous écris, voici, [je vous dis] devant Dieu, que je ne mens point.",
+        "OST": "Or, dans les choses que je vous écris, voici, devant Dieu, je ne mens point.",
+        "S21": "En vous écrivant cela, je l’affirme devant Dieu, je ne mens pas."
+      }
+    },
+    {
+      "verse": 21,
+      "texts": {
+        "BDS": "Ensuite je me suis rendu dans les districts de la Syrie et de la Cilicie.",
+        "DBY": "Ensuite j'allai dans les pays de Syrie et de Cilicie.",
+        "KJV": "Afterwards I came into the regions of Syria and Cilicia;",
+        "LSG": "J'allai ensuite dans les contrées de la Syrie et de la Cilicie.",
+        "MAB": "J'allai ensuite dans les pays de Syrie et de Cilicie.",
+        "OST": "J'allai ensuite dans les pays de Syrie et de Cilicie;",
+        "S21": "Je suis allé ensuite dans les régions de la Syrie et de la Cilicie."
+      }
+    },
+    {
+      "verse": 22,
+      "texts": {
+        "BDS": "Mais les chrétiens des Eglises de la Judée ne me connaissaient pas personnellement.",
+        "DBY": "Or j'étais inconnu de visage aux assemblées de la Judée qui sont en Christ,",
+        "KJV": "And was unknown by face unto the churches of Judaea which were in Christ:",
+        "LSG": "Or, j'étais inconnu de visage aux Eglises de Judée qui sont en Christ;",
+        "MAB": "Or j'étais inconnu de visage aux Eglises de Judée qui étaient en Christ;",
+        "OST": "Mais j'étais inconnu de visage aux Églises de Judée qui sont en Christ.",
+        "S21": "Or, mon visage était inconnu des Eglises de Judée qui sont en Christ."
+      }
+    },
+    {
+      "verse": 23,
+      "texts": {
+        "BDS": "Ils avaient seulement entendu dire: «Celui qui, autrefois, nous persécutait, prêche maintenant la foi qu’il voulait détruire.»",
+        "DBY": "seulement elles entendaient dire: Celui qui nous persécutait autrefois, annonce maintenant la foi qu'il détruisait jadis;",
+        "KJV": "But they had heard only, That he which persecuted us in times past now preacheth the faith which once he destroyed.",
+        "LSG": "seulement, elles avaient entendu dire: Celui qui autrefois nous persécutait annonce maintenant la foi qu'il s'efforçait alors de détruire.",
+        "MAB": "Mais elles avaient seulement ouï dire : celui qui autrefois nous persécutait, annonce maintenant la foi qu'il détruisait autrefois.",
+        "OST": "Elles avaient seulement entendu dire: Celui qui autrefois nous persécutait, annonce maintenant la foi, que jadis il ravageait.",
+        "S21": "Elles avaient seulement entendu dire: «Celui qui nous persécutait auparavant annonce maintenant la foi qu'il s'efforçait alors de détruire»"
+      }
+    },
+    {
+      "verse": 24,
+      "texts": {
+        "BDS": "Et ils louaient Dieu à mon sujet.",
+        "DBY": "et elles glorifiaient Dieu à cause de moi.",
+        "KJV": "And they glorified God in me.",
+        "LSG": "Et elles glorifiaient Dieu à mon sujet.",
+        "MAB": "Et elles glorifiaient Dieu à cause de moi.",
+        "OST": "Et elles glorifiaient Dieu à cause de moi.",
+        "S21": "et elles rendaient gloire à Dieu à cause de moi."
+      }
+    }
+  ]
+}

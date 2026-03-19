@@ -1,0 +1,230 @@
+{
+  "bookCode": "PSA",
+  "chapter": 83,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "Psaume d’Asaph, à chanter.",
+        "DBY": "O Dieu! ne garde pas le silence. Ne te tais pas, et ne te tiens pas tranquille, ô Dieu!",
+        "KJV": "A Song [or] Psalm of Asaph. Keep not thou silence, O God: hold not thy peace, and be not still, O God.",
+        "LSG": "Cantique. Psaume d'Asaph. O Dieu, ne reste pas dans le silence! Ne te tais pas, et ne te repose pas, ô Dieu!",
+        "MAB": "Cantique et Psaume d'Asaph. Ô Dieu! ne garde point le silence, ne te tais point, et ne te tiens point en repos, [ô Dieu Fort!]",
+        "OST": "Cantique. Psaume d'Asaph.",
+        "S21": "Chant, psaume d’Asaph."
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "O Dieu, sors donc de ton silence,\r\nne reste pas muet! Cesse, ô Dieu, d’être indifférent!",
+        "DBY": "Car voici, tes ennemis s'agitent, et ceux qui te haïssent lèvent la tête.",
+        "KJV": "For, lo, thine enemies make a tumult: and they that hate thee have lifted up the head.",
+        "LSG": "Car voici, tes ennemis s'agitent, Ceux qui te haïssent lèvent la tête.",
+        "MAB": "Car voici, tes ennemis bruient; et ceux qui te haïssent ont levé la tête.",
+        "OST": "O Dieu, ne garde pas le silence! Ne sois pas sourd et ne reste pas dans le repos, ô Dieu!",
+        "S21": "O Dieu, ne garde pas le silence! Ne te tais pas et ne reste pas inactif, ô Dieu!"
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "Voici, tes ennemis s’agitent,\r\net ceux qui te haïssent ont relevé la tête.",
+        "DBY": "Ils trament avec astuce des complots contre ton peuple, et ils consultent contre tes fidèles cachés.",
+        "KJV": "They have taken crafty counsel against thy people, and consulted against thy hidden ones.",
+        "LSG": "Ils forment contre ton peuple des projets pleins de ruse, Et ils délibèrent contre ceux que tu protèges.",
+        "MAB": "Ils ont consulté finement en secret contre ton peuple, et ils ont tenu conseil contre ceux qui se sont retirés vers toi pour se cacher.",
+        "OST": "Car voici, tes ennemis s'agitent, et ceux qui te haïssent ont levé la tête.",
+        "S21": "En effet, tes ennemis s’agitent, ceux qui te détestent relèvent la tête."
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "Contre ton peuple, ils se concertent,\r\nils trament des complots contre les tiens, que tu protèges.",
+        "DBY": "Ils ont dit: Venez, et exterminons-les, de sorte qu'ils ne soient plus une nation et qu'on ne fasse plus mention du nom d'Israël.",
+        "KJV": "They have said, Come, and let us cut them off from [being] a nation; that the name of Israel may be no more in remembrance.",
+        "LSG": "Venez, disent-ils, exterminons-les du milieu des nations, Et qu'on ne se souvienne plus du nom d'Israël!",
+        "MAB": "Ils ont dit : venez, et détruisons-les, en sorte qu'ils ne soient plus une nation, et qu'on ne fasse plus mention du nom d'Israël.",
+        "OST": "Ils font contre ton peuple d'astucieux complots, et se concertent contre ceux que tu protèges.",
+        "S21": "Ils forment de perfides complots contre ton peuple, ils conspirent contre ceux que tu protèges:"
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "Ils ont dit: «Exterminons-les, et que leur nation disparaisse\r\nafin que le nom d’Israël sombre pour toujours dans l’oubli.»",
+        "DBY": "Car ils ont consulté ensemble d'un cœur, ils ont fait une alliance contre toi:",
+        "KJV": "For they have consulted together with one consent: they are confederate against thee:",
+        "LSG": "Ils se concertent tous d'un même coeur, Ils font une alliance contre toi;",
+        "MAB": "Car ils ont consulté ensemble d'un même esprit; ils ont fait alliance contre toi.",
+        "OST": "Venez, disent-ils, faisons-les disparaître d'entre les nations, et qu'on ne parle plus du nom d'Israël.",
+        "S21": "«Venez, disent-ils, exterminons-les du milieu des nations, et qu’on ne se souvienne plus du nom d’Israël!»"
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "D’un seul cœur, ils ont conspiré\r\net conclu une alliance pour s’opposer à toi:",
+        "DBY": "Les tentes d'Édom, et les Israélites, Moab, et les Hagaréniens,",
+        "KJV": "The tabernacles of Edom, and the Ishmaelites; of Moab, and the Hagarenes;",
+        "LSG": "Les tentes d'Edom et les Ismaélites, Moab et les Hagaréniens,",
+        "MAB": "Les tentes des Iduméens, des Ismaélites, des Moabites, et des Hagaréniens;",
+        "OST": "Car ils ont conspiré d'un même cœur, ils forment une alliance contre toi;",
+        "S21": "Ils intriguent tous d’un même cœur, ils font une alliance contre toi:"
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "enfants d’Edom, Ismaélites,\r\nenfants d’Hagar et Moabites,",
+        "DBY": "Guebal, et Ammon, et Amalek, la Philistie, avec les habitants de Tyr;",
+        "KJV": "Gebal, and Ammon, and Amalek; the Philistines with the inhabitants of Tyre;",
+        "LSG": "Guebal, Ammon, Amalek, Les Philistins avec les habitants de Tyr;",
+        "MAB": "les Guébalites, les Hammonites, les Hamalécites, et les Philistins, avec les habitants de Tyr.",
+        "OST": "Les tentes d'Édom et les Ismaélites, Moab et les Hagaréniens;",
+        "S21": "les Edomites et les Ismaélites, les Moabites et les Hagaréniens,"
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "Guébal, Ammon et Amalek,\r\nles Philistins et les Tyriens,",
+        "DBY": "Assur aussi s'est joint à eux; ils servent de bras aux fils de Lot. Sélah.",
+        "KJV": "Assur also is joined with them: they have holpen the children of Lot. Selah.",
+        "LSG": "L'Assyrie aussi se joint à eux, Elle prête son bras aux enfants de Lot. Pause.",
+        "MAB": "Assur aussi s'est joint avec eux; ils ont servi de bras aux enfants de Lot : Sélah.",
+        "OST": "Guébal, Ammon et Amalek, les Philistins avec les habitants de Tyr.",
+        "S21": "Guebal, Ammon, Amalek, les Philistins avec les habitants de Tyr."
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "et même l’Assyrie s’est jointe à eux,\r\nprêtant main-forte aux fils de Loth.\r\nPause",
+        "DBY": "Fais-leur comme à Madian, -comme à Sisera, comme à Jabin au torrent de Kison,",
+        "KJV": "Do unto them as [unto] the Midianites; as [to] Sisera, as [to] Jabin, at the brook of Kison:",
+        "LSG": "Traite-les comme Madian, Comme Sisera, comme Jabin au torrent de Kison!",
+        "MAB": "Fais-leur comme tu fis à Madian, comme à Sisera, [et] comme à Jabin, auprès du torrent de Kison;",
+        "OST": "Assur aussi se joint à eux; ils prêtent leur bras aux enfants de Lot. (Sélah.)",
+        "S21": "L’Assyrie aussi se joint à eux, elle prête main forte aux descendants de Lot. – Pause."
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "Traite-les donc comme Madian,\r\ncomme Sisera ou Yabîn au torrent de Qichôn.",
+        "DBY": "Qui ont été détruits à En-Dor, qui sont devenus du fumier pour la terre.",
+        "KJV": "[Which] perished at Endor: they became [as] dung for the earth.",
+        "LSG": "Ils ont été détruits à En-Dor, Ils sont devenus du fumier pour la terre.",
+        "MAB": "Qui furent défaits à Hen-dor, et servirent de fumier à la terre.",
+        "OST": "Fais-leur comme à Madian; comme à Sisera, comme à Jabin au torrent de Kisson;",
+        "S21": "Traite-les comme Madian, comme Sisera, comme Jabin au torrent du Kison!"
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "Ils furent détruits à Eyn-Dor,\r\net laissés comme du fumier par terre.",
+        "DBY": "Fais que leurs nobles soient comme Oreb et comme Zeëb, et tous leurs princes comme Zébakh et comme Tsalmunna;",
+        "KJV": "Make their nobles like Oreb, and like Zeeb: yea, all their princes as Zebah, and as Zalmunna:",
+        "LSG": "Traite leurs chefs comme Oreb et Zeeb, Et tous leurs princes comme Zébach et Tsalmunna!",
+        "MAB": "Fais que les principaux d'entr'eux soient comme Horeb, et comme Zéeb; et que tous leurs Princes soient comme Zébah et Tsalmunah;",
+        "OST": "Qui furent détruits à Endor, et servirent de fumier à la terre.",
+        "S21": "Ils ont été détruits à En-Dor, ils sont devenus du fumier pour la terre."
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "Que tous leurs princes soient pareils à Oreb et à Zeeb,\r\net que leurs chefs deviennent comme Zébah et Tsalmounna,",
+        "DBY": "Car ils ont dit: Prenons possession des habitations de Dieu.",
+        "KJV": "Who said, Let us take to ourselves the houses of God in possession.",
+        "LSG": "Car ils disent: Emparons-nous Des demeures de Dieu!",
+        "MAB": "Parce qu'ils ont dit : conquérons-nous les habitations agréables de Dieu.",
+        "OST": "Rends-les, rends leurs princes semblables à Oreb et à Zéeb; et tous leurs rois à Zébach et à Tsalmuna.",
+        "S21": "Traite leurs chefs comme Oreb et Zeeb, et tous leurs princes comme Zébach et Tsalmunna,"
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "eux qui disaient: «Emparons-nous\r\ndu domaine de Dieu!»",
+        "DBY": "Mon Dieu! rends-les semblables à un tourbillon, comme la balle devant le vent.",
+        "KJV": "O my God, make them like a wheel; as the stubble before the wind.",
+        "LSG": "Mon Dieu! rends-les semblables au tourbillon, Au chaume qu'emporte le vent,",
+        "MAB": "Mon Dieu! rends-les semblables à une boule, et au chaume chassé par le vent;",
+        "OST": "Car ils disent: Emparons-nous des demeures de Dieu!",
+        "S21": "car ils disent: «Emparons-nous des domaines de Dieu!»"
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "Mon Dieu, fais-les tourbillonner\r\ncomme une paille dans le vent;",
+        "DBY": "Comme le feu brûle la forêt, et comme la flamme embrase les montagnes,",
+        "KJV": "As the fire burneth a wood, and as the flame setteth the mountains on fire;",
+        "LSG": "Au feu qui brûle la forêt, A la flamme qui embrase les montagnes!",
+        "MAB": "Comme le feu brûle une forêt, et comme la flamme embrase les montagnes.",
+        "OST": "Mon Dieu, rends-les semblables au tourbillon, au chaume emporté par le vent.",
+        "S21": "Mon Dieu, fais-les tourbillonner comme la paille emportée par le vent!"
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "comme un feu brûle la forêt,\r\net la flamme embrasant les monts,",
+        "DBY": "Ainsi poursuis-les par ta tempête, et épouvante-les par ton ouragan.",
+        "KJV": "So persecute them with thy tempest, and make them afraid with thy storm.",
+        "LSG": "Poursuis-les ainsi de ta tempête, Et fais-les trembler par ton ouragan!",
+        "MAB": "Poursuis-les ainsi par ta tempête, et épouvante-les par ton tourbillon.",
+        "OST": "Comme le feu dévore la forêt, comme la flamme embrase les montagnes,",
+        "S21": "Comme le feu brûle la forêt, comme la flamme embrase les montagnes,"
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "pourchasse-les par ta tempête!\r\nQue, par ton ouragan, ils soient épouvantés!",
+        "DBY": "Remplis leurs faces d'ignominie, afin qu'ils cherchent ton nom, ô Éternel!",
+        "KJV": "Fill their faces with shame; that they may seek thy name, O LORD.",
+        "LSG": "Couvre leur face d'ignominie, Afin qu'ils cherchent ton nom, ô Eternel!",
+        "MAB": "Couvre leurs visages d'ignominie, afin qu'on cherche ton Nom, ô Eternel!",
+        "OST": "Ainsi poursuis-les de ta tempête, épouvante-les par ton ouragan.",
+        "S21": "poursuis-les de ta tempête et épouvante-les par ton ouragan!"
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "Qu’ils soient couverts de honte\r\nafin qu’ils se tournent vers toi, ô Eternel!",
+        "DBY": "soient honteux et épouvantés à jamais, qu'ils soient confondus et qu'ils périssent;",
+        "KJV": "Let them be confounded and troubled for ever; yea, let them be put to shame, and perish:",
+        "LSG": "Qu'ils soient confus et épouvantés pour toujours, Qu'ils soient honteux et qu'ils périssent!",
+        "MAB": "Qu'ils soient honteux et épouvantés à jamais, qu'ils rougissent, et qu'ils périssent;",
+        "OST": "Remplis leur face d'ignominie, et qu'ils cherchent ton nom, ô Éternel!",
+        "S21": "Couvre leur visage de honte afin qu’ils cherchent ton nom, Eternel!"
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "Qu’ils soient couverts de honte, et dans l’épouvante à jamais\r\net qu’ils périssent déshonorés!",
+        "DBY": "Et qu'ils sachent que toi seul, dont le nom est l'Éternel, tu es le Très-haut sur toute la terre.",
+        "KJV": "That [men] may know that thou, whose name alone [is] JEHOVAH, [art] the most high over all the earth.",
+        "LSG": "Qu'ils sachent que toi seul, dont le nom est l'Eternel, Tu es le Très-Haut sur toute la terre!",
+        "MAB": "Afin qu'on connaisse que toi seul, qui as nom l'Eternel, es Souverain sur toute la terre.",
+        "OST": "Qu'ils soient honteux, qu'ils soient épouvantés à jamais, qu'ils soient rendus confus et qu'ils périssent!",
+        "S21": "Qu’ils soient confondus et épouvantés pour toujours, qu’ils soient honteux et perdus!"
+      }
+    },
+    {
+      "verse": 19,
+      "texts": {
+        "BDS": "Qu’ils reconnaissent que toi seul tu portes ce nom: l’Eternel,\r\nque c’est toi le Très-Haut qui règnes sur la terre entière!",
+        "OST": "Et qu'ils connaissent que toi seul, qui t'appelles l'Éternel, tu es le souverain de toute la terre.",
+        "S21": "Qu’ils reconnaissent que toi seul, toi dont le nom est l’Eternel, tu es le Très-Haut sur toute la terre!"
+      }
+    }
+  ]
+}

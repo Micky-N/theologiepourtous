@@ -1,0 +1,438 @@
+{
+  "bookCode": "JDG",
+  "chapter": 1,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "Après la mort de Josué, les Israélites consultèrent l’Eternel pour savoir quelle tribu devait aller la première attaquer les Cananéens.",
+        "DBY": "Et il arriva, après la mort de Josué, que les fils d'Israël interrogèrent l'Éternel, disant: Qui de nous montera le premier contre le Cananéen, pour lui faire la guerre?",
+        "KJV": "Now after the death of Joshua it came to pass, that the children of Israel asked the LORD, saying, Who shall go up for us against the Canaanites first, to fight against them?",
+        "LSG": "Après la mort de Josué, les enfants d'Israël consultèrent l'Eternel, en disant: Qui de nous montera le premier contre les Cananéens, pour les attaquer?",
+        "MAB": "Or il arriva qu'après la mort de Josué les enfants d'Israël consultèrent l'Eternel, en disant : Qui de nous montera le premier contre les Cananéens pour leur faire la guerre?",
+        "OST": "Après la mort de Josué, les enfants d'Israël consultèrent l'Éternel, et dirent: Qui d'entre nous montera le premier contre les Cananéens pour les combattre?",
+        "S21": "Après la mort de Josué, les Israélites consultèrent l'Eternel en disant: «Qui de nous montera le premier contre les Cananéens pour les attaquer?»"
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "L’Eternel répondit:\r\n—C’est Juda qui ira la première: je livre le pays en son pouvoir.",
+        "DBY": "Et l'Éternel dit: Juda montera; voici, j'ai livré le pays en sa main.",
+        "KJV": "And the LORD said, Judah shall go up: behold, I have delivered the land into his hand.",
+        "LSG": "L'Eternel répondit: Juda montera, voici, j'ai livré le pays entre ses mains.",
+        "MAB": "Et l'Eternel répondit : Juda montera; voici, j'ai livré le pays entre ses mains.",
+        "OST": "Et l'Éternel répondit: Juda y montera; voici, j'ai livré le pays entre ses mains.",
+        "S21": "L'Eternel répondit: «C’est Juda qui montera. Voici, j'ai livré le pays entre ses mains.»"
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "Alors les hommes de Juda dirent à ceux de Siméon, frère de Juda:\r\n—Venez avec nous à la conquête du territoire qui nous a été attribué. Nous combattrons ensemble les Cananéens. Ensuite, nous vous aiderons également à conquérir le territoire qui vous est échu.\r\nLes gens de Siméon se joignirent donc à eux,",
+        "DBY": "Et Juda dit à Siméon, son frère: Monte avec moi dans mon lot, et faisons la guerre contre le Cananéen; et moi aussi j'irai avec toi dans ton lot. Et Siméon alla avec lui.",
+        "KJV": "And Judah said unto Simeon his brother, Come up with me into my lot, that we may fight against the Canaanites; and I likewise will go with thee into thy lot. So Simeon went with him.",
+        "LSG": "Et Juda dit à Siméon, son frère: Monte avec moi dans le pays qui m'est échu par le sort, et nous combattrons les Cananéens; j'irai aussi avec toi dans celui qui t'est tombé en partage. Et Siméon alla avec lui.",
+        "MAB": "Et Juda dit à Siméon son frère : Monte avec moi en mon partage, et nous ferons la guerre aux Cananéens; et j'irai aussi avec toi en ton partage. Ainsi Siméon alla avec lui.",
+        "OST": "Et Juda dit à Siméon, son frère: Monte avec moi dans mon lot, et nous combattrons les Cananéens; et j'irai aussi avec toi dans ton lot. Ainsi Siméon s'en alla avec lui.",
+        "S21": "Juda dit alors à son frère Siméon: «Monte avec moi dans le pays qui m'est attribué par tirage au sort, et nous combattrons les Cananéens. J'irai aussi avec toi dans celui qui t’est attribué.» Et Siméon l’accompagna."
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "et Juda se mit en campagne. L’Eternel leur donna la victoire sur les Cananéens et les Phéréziens. A Bézeq, ils battirent dix mille hommes.",
+        "DBY": "Et Juda monta; et l'Éternel livra le Cananéen et le Phérézien en leur main; et ils les frappèrent à Bézek, dix mille hommes:",
+        "KJV": "And Judah went up; and the LORD delivered the Canaanites and the Perizzites into their hand: and they slew of them in Bezek ten thousand men.",
+        "LSG": "Juda monta, et l'Eternel livra entre leurs mains les Cananéens et les Phéréziens; ils battirent dix mille hommes à Bézek.",
+        "MAB": "Juda donc monta, et l'Eternel livra les Cananéens et les Phérésiens entre leurs mains; et ils battirent en Bézec dix mille hommes.",
+        "OST": "Juda monta donc, et l'Éternel livra les Cananéens et les Phéréziens entre leurs mains, et ils battirent à Bézek dix mille hommes.",
+        "S21": "Les hommes de Juda montèrent, et l'Eternel livra les Cananéens et les Phéréziens entre leurs mains. Ils battirent 10'000 hommes à Bézek."
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "En effet, ils tombèrent là sur le roi Adoni-Bézeq et l’attaquèrent. Ils battirent les Cananéens et les Phéréziens.",
+        "DBY": "ils trouvèrent Adoni-Bézek à Bézek, et ils lui firent la guerre, et frappèrent le Cananéen et le Phérézien.",
+        "KJV": "And they found Adonibezek in Bezek: and they fought against him, and they slew the Canaanites and the Perizzites.",
+        "LSG": "Ils trouvèrent Adoni-Bézek à Bézek; ils l'attaquèrent, et ils battirent les Cananéens et les Phéréziens.",
+        "MAB": "Or ayant trouvé Adoni-bézec en Bézec, ils combattirent contre lui, et frappèrent les Cananéens et les Phérésiens.",
+        "OST": "Et, ayant trouvé Adoni-Bézek à Bézek, ils l'attaquèrent, et battirent les Cananéens et les Phéréziens.",
+        "S21": "Ils y trouvèrent le roi Adoni-Bézek et l'attaquèrent, et ils battirent les Cananéens et les Phéréziens."
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "Adoni-Bézeq s’enfuit, mais ils le poursuivirent, s’emparèrent de lui et lui coupèrent les pouces des mains et des pieds.",
+        "DBY": "Et Adoni-Bézek s'enfuit; et ils le poursuivirent, et le saisirent, et lui coupèrent les pouces des mains et des pieds.",
+        "KJV": "But Adonibezek fled; and they pursued after him, and caught him, and cut off his thumbs and his great toes.",
+        "LSG": "Adoni-Bézek prit la fuite; mais ils le poursuivirent et le saisirent, et ils lui coupèrent les pouces des mains et des pieds.",
+        "MAB": "Et Adoni-bézec s'enfuit, mais ils le poursuivirent; et l'ayant pris, ils lui coupèrent les pouces de ses mains et de ses pieds.",
+        "OST": "Cependant Adoni-Bézek s'enfuit; mais ils le poursuivirent, le saisirent, et lui coupèrent les pouces des mains et des pieds.",
+        "S21": "Adoni-Bézek prit la fuite, mais ils le poursuivirent et le capturèrent, puis ils lui coupèrent les pouces des mains et des pieds."
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "Adoni-Bézeq s’exclama:\r\n—Soixante-dix rois, dont on avait coupé les pouces des mains et des pieds, ramassaient les miettes qui tombaient sous ma table. Dieu m’a rendu ce que j’ai fait.\r\nOn l’emmena à Jérusalem et c’est là qu’il mourut.",
+        "DBY": "Et Adoni-Bézek dit: soixante-dix rois, ayant les pouces de leurs mains et de leurs pieds coupés, ramassaient sous ma table; comme j'ai fait, ainsi Dieu m'a rendu. Et on l'amena à Jérusalem, et il y mourut.",
+        "KJV": "And Adonibezek said, Threescore and ten kings, having their thumbs and their great toes cut off, gathered [their meat] under my table: as I have done, so God hath requited me. And they brought him to Jerusalem, and there he died.",
+        "LSG": "Adoni-Bézek dit: Soixante-dix rois, ayant les pouces des mains et des pieds coupés, ramassaient sous ma table; Dieu me rend ce que j'ai fait. On l'emmena à Jérusalem, et il y mourut.",
+        "MAB": "Alors Adoni-bézec dit : Soixante et dix Rois, dont les pouces des mains et des pieds avaient été coupés, ont recueilli [du pain] sous ma table; comme j'ai fait, Dieu m'a ainsi rendu; et ayant été amené à Jérusalem, il y mourut.",
+        "OST": "Alors Adoni-Bézek dit: Soixante et dix rois, dont les pouces des mains et des pieds avaient été coupés, recueillaient sous ma table ce qui en tombait. Ce que j'ai fait aux autres, Dieu me l'a rendu. Et, ayant été amené à Jérusalem, il y mourut.",
+        "S21": "Adoni-Bézek dit: «Il y avait 70 rois, aux pouces des mains et des pieds coupés, qui ramassaient les miettes sous ma table. Dieu me rend ce que j'ai fait.» On l'emmena à Jérusalem et il y mourut."
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "Les hommes de Juda attaquèrent Jérusalem et s’en emparèrent. Ils massacrèrent ses habitants et mirent le feu à la ville.",
+        "DBY": "Et les fils de Juda avaient fait la guerre contre Jérusalem, et l'avaient prise, et ils l'avaient frappée par le tranchant de l'épée, et avaient livré la ville en feu.",
+        "KJV": "Now the children of Judah had fought against Jerusalem, and had taken it, and smitten it with the edge of the sword, and set the city on fire.",
+        "LSG": "Les fils de Juda attaquèrent Jérusalem et la prirent, ils la frappèrent du tranchant de l'épée et mirent le feu à la ville.",
+        "MAB": "Or les enfants de Juda avaient fait la guerre contre Jérusalem, et l'avaient prise, et ils avaient fait passer [ses habitants] au tranchant de l'épée, et mis la ville en feu.",
+        "OST": "Or, les descendants de Juda attaquèrent Jérusalem, et la prirent; et l'ayant frappée du tranchant de l'épée, ils mirent le feu à la ville.",
+        "S21": "Les Judéens attaquèrent Jérusalem et s’en emparèrent: ils la frappèrent du tranchant de l'épée et mirent le feu à la ville."
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "Ensuite, ils partirent combattre les Cananéens qui occupaient la région montagneuse, le Néguev et la plaine côtière.",
+        "DBY": "Et ensuite les fils de Juda descendirent pour faire la guerre au Cananéen qui habitait la montagne, et le midi et le pays plat.",
+        "KJV": "And afterward the children of Judah went down to fight against the Canaanites, that dwelt in the mountain, and in the south, and in the valley.",
+        "LSG": "Les fils de Juda descendirent ensuite, pour combattre les Cananéens qui habitaient la montagne, la contrée du midi et la plaine.",
+        "MAB": "Puis les enfants de Juda étaient descendus pour faire la guerre aux Cananéens, qui habitaient dans les montagnes, et au Midi, et dans la plaine.",
+        "OST": "Ensuite les descendants de Juda descendirent pour combattre contre les Cananéens qui habitaient la montagne, et le midi, et la plaine.",
+        "S21": "Ils descendirent ensuite pour combattre les Cananéens qui habitaient la montagne, la région du sud et la plaine."
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "Juda marcha aussi contre les Cananéens qui habitaient Hébron, dont le nom était autrefois Qiryath-Arba. Ils battirent Chéchaï, Ahimân et Talmaï.",
+        "DBY": "Et Juda s'en alla contre le Cananéen qui habitait à Hébron (or le nom de Hébron était auparavant Kiriath-Arba), et ils frappèrent Shéshaï, et Akhiman, et Thalmaï.",
+        "KJV": "And Judah went against the Canaanites that dwelt in Hebron: (now the name of Hebron before [was] Kirjatharba:) and they slew Sheshai, and Ahiman, and Talmai.",
+        "LSG": "Juda marcha contre les Cananéens qui habitaient à Hébron, appelée autrefois Kirjath-Arba; et il battit Schéschaï, Ahiman et Talmaï.",
+        "MAB": "Juda donc s'en était allé contre les Cananéens qui habitaient à Hébron; or le nom d'Hébron était auparavant Kirjath-Arbah; et il avait frappé Sesaï, Ahiman et Talmaï.",
+        "OST": "Juda marcha contre les Cananéens qui habitaient à Hébron (or, le nom d'Hébron était auparavant Kirjath-Arba), et il battit Sheshaï, Ahiman et Talmaï;",
+        "S21": "Ils marchèrent contre les Cananéens qui habitaient à Hébron, appelée autrefois Kirjath-Arba, et battirent Shéshaï, Ahiman et Talmaï."
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "De là, ils partirent attaquer les habitants de Debir, appelée autrefois Qiryath-Sépher.",
+        "DBY": "Et de là il s'en alla contre les habitants de Debir; or le nom de Debir était auparavant Kiriath-Sépher.",
+        "KJV": "And from thence he went against the inhabitants of Debir: and the name of Debir before [was] Kirjathsepher:",
+        "LSG": "De là il marcha contre les habitants de Debir: Debir s'appelait autrefois Kirjath-Sépher.",
+        "MAB": "Et de là il était allé contre les habitants de Débir, le nom de laquelle était auparavant Kirjath-sépher.",
+        "OST": "Et de là il marcha contre les habitants de Débir, dont le nom était auparavant Kirjath-Sépher.",
+        "S21": "De là ils marchèrent contre les habitants de Debir, qui s'appelait autrefois Kirjath-Sépher."
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "Caleb promit sa fille Aksa en mariage à celui qui battrait et prendrait Qiryath-Sépher.",
+        "DBY": "Et Caleb dit: A qui frappera Kiriath-Sépher et la prendra, je lui donnerai ma fille Acsa pour femme.",
+        "KJV": "And Caleb said, He that smiteth Kirjathsepher, and taketh it, to him will I give Achsah my daughter to wife.",
+        "LSG": "Caleb dit: Je donnerai ma fille Acsa pour femme à celui qui battra Kirjath-Sépher et qui la prendra.",
+        "MAB": "Et Caleb avait dit : Qui frappera Kirjath-sépher et la prendra, je lui donnerai ma fille Hacsa pour femme.",
+        "OST": "Et Caleb dit: Qui battra Kirjath-Sépher et la prendra, je lui donnerai ma fille Acsa pour femme.",
+        "S21": "Caleb dit: «Je donnerai ma fille Acsa pour femme à celui qui battra Kirjath-Sépher et qui la prendra.»"
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "Ce fut son neveu Otniel, fils de Qenaz, le frère cadet de Caleb, qui s’en empara; et Caleb lui donna sa fille Aksa en mariage.",
+        "DBY": "Et Othniel, fils de Kenaz, frère puîné de Caleb, la prit; et Caleb lui donna sa fille Acsa pour femme.",
+        "KJV": "And Othniel the son of Kenaz, Caleb's younger brother, took it: and he gave him Achsah his daughter to wife.",
+        "LSG": "Othniel, fils de Kenaz, frère cadet de Caleb, s'en empara; et Caleb lui donna pour femme sa fille Acsa.",
+        "MAB": "Et Hothniël, fils de Kénas, frère puîné de Caleb, la prit; et [Caleb] lui donna sa fille Hacsa pour femme.",
+        "OST": "Alors Othniel, fils de Kénaz, frère puîné de Caleb, la prit; et Caleb lui donna pour femme sa fille Acsa.",
+        "S21": "Othniel, fils de Kenaz, le frère cadet de Caleb, s'en empara. Caleb lui donna alors sa fille Acsa pour femme."
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "Dès son arrivée auprès de son mari, elle l’engagea à demander un champ à son père Caleb. Puis elle sauta de son âne et Caleb lui demanda:\r\n—Quel est ton désir?",
+        "DBY": "Et il arriva que comme elle entrait, elle l'incita à demander à son père un champ. Et elle descendit de dessus l'âne; et Caleb lui dit:",
+        "KJV": "And it came to pass, when she came [to him], that she moved him to ask of her father a field: and she lighted from off [her] ass; and Caleb said unto her, What wilt thou?",
+        "LSG": "Lorsqu'elle fut entrée chez Othniel, elle le sollicita de demander à son père un champ. Elle descendit de dessus son âne; et Caleb lui dit: Qu'as-tu?",
+        "MAB": "Et il arriva que comme elle s'en allait, elle l'incita à demander à son père un champ; puis elle descendit impétueusement de dessus son âne; et Caleb lui dit : Qu'as-tu?",
+        "OST": "Et comme elle venait chez lui, elle l'incita à demander un champ à son père; et elle se jeta de dessus son âne, et Caleb lui dit: Qu'as-tu?",
+        "S21": "Dès son arrivée chez Othniel, elle le persuada de demander un champ à son père. Elle descendit de son âne et Caleb lui dit: «Qu'as-tu?»"
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "Elle lui répondit:\r\n—Accorde-moi un cadeau. Puisque tu m’as établie dans une terre aride, donne-moi aussi des points d’eau.\r\nEt Caleb lui donna les sources supérieures et les sources inférieures.",
+        "DBY": "Qu'as-tu? Et elle lui dit: Donne-moi une bénédiction; car tu m'as donné une terre du midi, donne-moi aussi des sources d'eau. Et Caleb lui donna les sources du haut et les sources du bas.",
+        "KJV": "And she said unto him, Give me a blessing: for thou hast given me a south land; give me also springs of water. And Caleb gave her the upper springs and the nether springs.",
+        "LSG": "Elle lui répondit: Fais-moi un présent, car tu m'as donné une terre du midi; donne-moi aussi des sources d'eau. Et Caleb lui donna les sources supérieures et les sources inférieures.",
+        "MAB": "Et elle lui répondit : Donne-moi un présent; puisque tu m'as donné une terre sèche, donne-moi aussi des sources d'eaux. Et Caleb lui donna les fontaines [du quartier] de dessus, et les fontaines [du quartier] de dessous.",
+        "OST": "Et elle lui répondit: Donne-moi un présent; puisque tu m'as donné une terre du midi, donne-moi aussi des sources d'eaux. Et Caleb lui donna les sources supérieures, et les sources inférieures.",
+        "S21": "Elle lui répondit: «Fais-moi un cadeau. En effet, tu m'as donné une terre située au sud. Donne-moi aussi des sources d'eau.» Et Caleb lui donna les sources supérieures et les sources inférieures."
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "Les descendants du Qénien, beau-père de Moïse, quittèrent la ville des palmiers avec les hommes de Juda pour aller s’installer parmi le peuple dans les territoires désertiques de Juda qui se situent au sud d’Arad.",
+        "DBY": "Et les fils du Kénien, beau-père de Moïse, étaient montés de la ville des palmiers, avec les fils de Juda, au désert de Juda, qui est au midi d'Arad; et ils allèrent et habitèrent avec le peuple.",
+        "KJV": "And the children of the Kenite, Moses' father in law, went up out of the city of palm trees with the children of Judah into the wilderness of Judah, which [lieth] in the south of Arad; and they went and dwelt among the people.",
+        "LSG": "Les fils du Kénien, beau-père de Moïse, montèrent de la ville des palmiers, avec les fils de Juda, dans le désert de Juda au midi d'Arad, et ils allèrent s'établir parmi le peuple.",
+        "MAB": "Or les enfants du Kénien, beau-père de Moïse, étaient montés de la ville des palmes avec les enfants de Juda, au désert de Juda, qui est au Midi de Harad ; parce qu'ils avaient marché et demeuré avec le peuple.",
+        "OST": "Or, les enfants du Kénien, beau-père de Moïse, montèrent de la ville des palmiers, avec les descendants de Juda, au désert de Juda, qui est au midi d'Arad; et ils allèrent, et demeurèrent avec le peuple.",
+        "S21": "Les fils du Kénien, du beau-père de Moïse, montèrent avec les Judéens de la ville des palmiers jusque dans le désert de Juda, au sud d'Arad, et ils vinrent habiter parmi le peuple."
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "Les hommes de Juda se joignirent à ceux de Siméon, frère de Juda, pour battre les Cananéens qui habitaient Tsephath, ils en exterminèrent la population et détruisirent entièrement la ville, pour la vouer à l’Eternel, et on lui donna le nom de Horma.",
+        "DBY": "Et Juda s'en alla avec Siméon, son frère, et ils frappèrent le Cananéen qui habitait à Tsephath, et détruisirent entièrement la ville; et on appela la ville du nom de Horma.",
+        "KJV": "And Judah went with Simeon his brother, and they slew the Canaanites that inhabited Zephath, and utterly destroyed it. And the name of the city was called Hormah.",
+        "LSG": "Juda se mit en marche avec Siméon, son frère, et ils battirent les Cananéens qui habitaient à Tsephath; ils dévouèrent la ville par interdit, et on l'appela Horma.",
+        "MAB": "Puis Juda s'en alla avec Siméon son frère, et ils frappèrent les Cananéens qui habitaient à Tsephath, et la détruisirent à la façon de l'interdit, c'est pourquoi on appela la ville du nom de Horma.",
+        "OST": "Puis Juda alla avec Siméon son frère, et ils battirent les Cananéens qui habitaient à Tséphath, et ils vouèrent ce lieu à l'interdit, et on appela la ville, Horma (Extermination).",
+        "S21": "Juda se mit en marche avec son frère Siméon et ils battirent les Cananéens qui habitaient à Tsephath. Ils vouèrent la ville à la destruction et on l'appela Horma."
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "Les gens de Juda s’emparèrent également de Gaza, d’Askalon et d’Ekron ainsi que des territoires voisins de ces villes.",
+        "DBY": "Et Juda prit Gaza et ses confins, et Askalon et ses confins, et Ékron et ses confins.",
+        "KJV": "Also Judah took Gaza with the coast thereof, and Askelon with the coast thereof, and Ekron with the coast thereof.",
+        "LSG": "Juda s'empara encore de Gaza et de son territoire, d'Askalon et de son territoire, et d'Ekron et de son territoire.",
+        "MAB": "Juda prit aussi Gaza avec ses confins; Askelon avec ses confins; et Hékron avec ses confins.",
+        "OST": "Juda prit aussi Gaza avec son territoire, Askélon avec son territoire, et Ékron avec son territoire.",
+        "S21": "Juda s'empara encore de Gaza, d'Askalon et d'Ekron, chacune avec son territoire."
+      }
+    },
+    {
+      "verse": 19,
+      "texts": {
+        "BDS": "L’Eternel lui-même était avec eux, et c’est ainsi que les hommes de Juda purent conquérir la région montagneuse. Ils ne réussirent pas à déposséder les habitants de la vallée, car ceux-ci disposaient de chars de combat bardés de fer.",
+        "DBY": "Et l'Éternel fut avec Juda; et il prit possession de la montagne; car il ne déposséda pas les habitants de la vallée, parce qu'ils avaient des chars de fer.",
+        "KJV": "And the LORD was with Judah; and he drave out [the inhabitants of] the mountain; but could not drive out the inhabitants of the valley, because they had chariots of iron.",
+        "LSG": "L'Eternel fut avec Juda; et Juda se rendit maître de la montagne, mais il ne put chasser les habitants de la plaine, parce qu'ils avaient des chars de fer.",
+        "MAB": "Et l'Eternel fut avec Juda, et ils dépossédèrent [les habitants] de la montagne : mais ils ne dépossédèrent point les habitants de la vallée, parce qu'ils avaient des chariots de fer.",
+        "OST": "Et l'Éternel fut avec Juda; et ils prirent possession de la montagne; mais ils ne dépossédèrent point les habitants de la vallée, parce qu'ils avaient des chars de fer.",
+        "S21": "L'Eternel fut avec Juda, qui se rendit maître de la montagne; mais il ne put chasser les habitants de la plaine, parce qu'ils avaient des chars en fer."
+      }
+    },
+    {
+      "verse": 20,
+      "texts": {
+        "BDS": "On attribua Hébron à Caleb, comme Moïse l’avait dit. Il en expulsa les trois descendants d’Anaq.",
+        "DBY": "Et on donna Hébron à Caleb, comme Moïse l'avait dit, et il en déposséda les trois fils d'Anak.",
+        "KJV": "And they gave Hebron unto Caleb, as Moses said: and he expelled thence the three sons of Anak.",
+        "LSG": "On donna Hébron à Caleb, comme l'avait dit Moïse; et il en chassa les trois fils d'Anak.",
+        "MAB": "Et on donna, selon que Moïse l'avait dit, Hébron à Caleb; qui en déposséda les trois fils de Hanak.",
+        "OST": "Et, selon que Moïse l'avait dit, on donna Hébron à Caleb, qui en déposséda les trois fils d'Anak.",
+        "S21": "On donna Hébron à Caleb, comme l'avait dit Moïse, et il en chassa les trois descendants d'Anak."
+      }
+    },
+    {
+      "verse": 21,
+      "texts": {
+        "BDS": "Les descendants de Benjamin ne dépossédèrent pas les Yebousiens qui habitaient Jérusalem; ceux-ci y vivent encore aujourd’hui avec les Benjaminites.",
+        "DBY": "Et les fils de Benjamin ne dépossédèrent pas le Jébusien, habitant de Jérusalem; et le Jébusien a habité avec les fils de Benjamin à Jérusalem jusqu'à ce jour.",
+        "KJV": "And the children of Benjamin did not drive out the Jebusites that inhabited Jerusalem; but the Jebusites dwell with the children of Benjamin in Jerusalem unto this day.",
+        "LSG": "Les fils de Benjamin ne chassèrent point les Jébusiens qui habitaient à Jérusalem; et les Jébusiens ont habité jusqu'à ce jour dans Jérusalem avec les fils de Benjamin.",
+        "MAB": "Quant aux enfants de Benjamin, ils ne dépossédèrent point le Jébusien qui habitait à Jérusalem; c'est pourquoi le Jébusien a habité avec les enfants de Benjamin à Jérusalem jusqu'à ce jour.",
+        "OST": "Quant aux descendants de Benjamin, ils ne dépossédèrent point les Jébusiens, qui habitaient à Jérusalem; aussi les Jébusiens ont habité avec les enfants de Benjamin, à Jérusalem, jusqu'à ce jour.",
+        "S21": "Les Benjaminites ne chassèrent pas les Jébusiens qui habitaient à Jérusalem, et ceux-ci ont habité jusqu'à aujourd’hui dans Jérusalem avec les Benjaminites."
+      }
+    },
+    {
+      "verse": 22,
+      "texts": {
+        "BDS": "Les descendants de Joseph partirent de leur côté attaquer Béthel et l’Eternel fut avec eux.",
+        "DBY": "Et la maison de Joseph, eux aussi, montèrent à Béthel, et l'Éternel fut avec eux.",
+        "KJV": "And the house of Joseph, they also went up against Bethel: and the LORD [was] with them.",
+        "LSG": "La maison de Joseph monta aussi contre Béthel, et l'Eternel fut avec eux.",
+        "MAB": "Ceux aussi de la maison de Joseph montèrent contre Bethel, et l'Eternel fut avec eux.",
+        "OST": "La maison de Joseph monta aussi contre Béthel, et l'Éternel fut avec eux.",
+        "S21": "La famille de Joseph monta aussi contre Béthel, et l'Eternel fut avec eux."
+      }
+    },
+    {
+      "verse": 23,
+      "texts": {
+        "BDS": "Ils envoyèrent d’abord des hommes en reconnaissance à Béthel qui s’appelait autrefois Louz.",
+        "DBY": "Et la maison de Joseph fit reconnaître Béthel: le nom de la ville était auparavant Luz.",
+        "KJV": "And the house of Joseph sent to descry Bethel. (Now the name of the city before [was] Luz.)",
+        "LSG": "La maison de Joseph fit explorer Béthel, qui s'appelait autrefois Luz.",
+        "MAB": "Et ceux de la maison de Joseph firent reconnaître Bethel, dont le nom était auparavant, Luz.",
+        "OST": "La maison de Joseph fit donc explorer Béthel, dont le nom était auparavant Luz;",
+        "S21": "La famille de Joseph fit explorer Béthel, qui s'appelait autrefois Luz."
+      }
+    },
+    {
+      "verse": 24,
+      "texts": {
+        "BDS": "Les envoyés virent un homme sortir de la ville et ils lui dirent:\r\n—Montre-nous par où on peut pénétrer dans la ville, et nous te traiterons avec bonté.",
+        "DBY": "Et les gardes virent un homme qui sortait de la ville, et ils lui dirent: Montre-nous, nous t'en prions, par où l'on entre dans la ville; et nous userons de bonté envers toi.",
+        "KJV": "And the spies saw a man come forth out of the city, and they said unto him, Shew us, we pray thee, the entrance into the city, and we will shew thee mercy.",
+        "LSG": "Les gardes virent un homme qui sortait de la ville, et ils lui dirent: Montre-nous par où nous pourrons entrer dans la ville, et nous te ferons grâce.",
+        "MAB": "Et les espions virent un homme qui sortait de la ville, auquel ils dirent : Nous te prions de nous montrer un endroit par où l'on puisse entrer dans la ville, et nous te ferons grâce.",
+        "OST": "Et les espions virent un homme, qui sortait de la ville, et ils lui dirent: Fais-nous voir, nous t'en prions, par où l'on peut entrer dans la ville, et nous te ferons grâce.",
+        "S21": "Les guetteurs virent un homme sortir de la ville et lui dirent: «Montre-nous par où nous pourrons entrer dans la ville et nous te ferons grâce.»"
+      }
+    },
+    {
+      "verse": 25,
+      "texts": {
+        "BDS": "L’homme leur montra donc comment pénétrer dans la ville. Ils massacrèrent tous les habitants, mais laissèrent partir cet homme avec toute sa famille.",
+        "DBY": "Et il leur montra par où l'on entrait dans dans la ville; et ils frappèrent la ville par le tranchant de l'épée, mais ils laissèrent aller l'homme et toute sa famille.",
+        "KJV": "And when he shewed them the entrance into the city, they smote the city with the edge of the sword; but they let go the man and all his family.",
+        "LSG": "Il leur montra par où ils pourraient entrer dans la ville. Et ils frappèrent la ville du tranchant de l'épée; mais ils laissèrent aller cet homme et toute sa famille.",
+        "MAB": "Il leur montra donc un endroit par où l'on pouvait entrer dans la ville, et ils la firent passer au tranchant de l'épée; mais ils laissèrent aller cet homme-là, et toute sa famille.",
+        "OST": "Et il leur montra par où l'on pouvait entrer dans la ville, et ils la firent passer au fil de l'épée; mais ils laissèrent aller cet homme-là et toute sa famille.",
+        "S21": "Il leur montra par où ils pourraient entrer dans la ville. Ils frappèrent alors la ville du tranchant de l'épée, mais ils laissèrent partir cet homme et toute sa famille."
+      }
+    },
+    {
+      "verse": 26,
+      "texts": {
+        "BDS": "L’homme émigra dans le pays des Hittites; il y construisit une ville à laquelle il donna le nom de Louz qu’elle porte encore aujourd’hui.",
+        "DBY": "Et l'homme s'en alla dans le pays des Héthiens, et bâtit une ville et l'appela du nom de Luz: c'est là son nom jusqu'à ce jour.",
+        "KJV": "And the man went into the land of the Hittites, and built a city, and called the name thereof Luz: which [is] the name thereof unto this day.",
+        "LSG": "Cet homme se rendit dans le pays des Héthiens; il bâtit une ville, et lui donna le nom de Luz, nom qu'elle a porté jusqu'à ce jour.",
+        "MAB": "Puis cet homme s'en étant allé au pays des Héthiens, y bâtit une ville, et l'appela Luz, qui est son nom jusqu'à ce jour.",
+        "OST": "Puis, cet homme se rendit au pays des Héthiens; il y bâtit une ville, et l'appela Luz, nom qu'elle a porté jusqu'à ce jour.",
+        "S21": "Cet homme se rendit dans le pays des Hittites. Il y construisit une ville et l’appela Luz, nom qu'elle a porté jusqu'à aujourd’hui."
+      }
+    },
+    {
+      "verse": 27,
+      "texts": {
+        "BDS": "Les hommes de Manassé ne dépossédèrent pas les habitants de Beth-Cheân, de Taanak, de Dor, de Yibleam, de Meguiddo et des localités qui dépendaient de ces villes. Les Cananéens continuèrent donc à se maintenir dans cette région.",
+        "DBY": "Et Manassé ne déposséda pas Beth-Shean et les villages de son ressort, ni Thaanac et les villages de son ressort, ni les habitants de Dor et des villages de son ressort, ni les habitants de Jibleam et les villages de son ressort, ni les habitants de Meguiddo et des villages de son ressort; et le Cananéen voulut habiter dans ce pays-là.",
+        "KJV": "Neither did Manasseh drive out [the inhabitants of] Bethshean and her towns, nor Taanach and her towns, nor the inhabitants of Dor and her towns, nor the inhabitants of Ibleam and her towns, nor the inhabitants of Megiddo and her towns: but the Canaanites would dwell in that land.",
+        "LSG": "Manassé ne chassa point les habitants de Beth-Schean et des villes de son ressort, de Thaanac et des villes de son ressort, de Dor et des villes de son ressort, de Jibleam et des villes de son ressort, de Meguiddo et des villes de son ressort; et les Cananéens voulurent rester dans ce pays.",
+        "MAB": "Manassé aussi ne déposséda point [les habitants] de Beth-séan, ni des villes de son ressort, ni [les habitants] de Tahanac, ni des villes de son ressort; ni les habitants de Dor, ni des villes de son ressort; ni les habitants de Jibléham, ni des villes de son ressort, ni les habitants de Meguiddo, ni des villes de son ressort; et les Cananéens osèrent encore habiter en ce pays-là.",
+        "OST": "Manassé ne déposséda point les habitants de Beth-Shéan et des villes de son ressort, ni les habitants de Thaanac et des villes de son ressort, ni les habitants de Dor et des villes de son ressort, ni les habitants de Jibléam et des villes de son ressort, ni les habitants de Méguiddo et des villes de son ressort; ainsi les Cananéens persistèrent à habiter ce pays-là.",
+        "S21": "Manassé ne chassa pas les habitants de Beth-Shean, Thaanac, Dor, Jibleam, Meguiddo et des villes qui en dépendaient. Les Cananéens voulurent rester dans ce pays."
+      }
+    },
+    {
+      "verse": 28,
+      "texts": {
+        "BDS": "Lorsque les Israélites furent devenus plus forts, ils leur imposèrent des corvées, mais ils ne les dépossédèrent pas.",
+        "DBY": "Et il arriva que quand Israël fut devenu fort, il rendit le Cananéen tributaire; mais il ne le déposséda pas entièrement.",
+        "KJV": "And it came to pass, when Israel was strong, that they put the Canaanites to tribute, and did not utterly drive them out.",
+        "LSG": "Lorsqu'Israël fut assez fort, il assujettit les Cananéens à un tribut, mais il ne les chassa point.",
+        "MAB": "Il est vrai qu'il arriva que quand Israël fut devenu plus fort, il rendît les Cananéens tributaires; mais il ne les déposséda pas entièrement.",
+        "OST": "Cependant, quand Israël fut devenu plus fort, il rendit les Cananéens tributaires; mais il ne les chassa pas entièrement.",
+        "S21": "Lorsque Israël fut assez fort, il soumit les Cananéens à des corvées, mais il ne les chassa pas."
+      }
+    },
+    {
+      "verse": 29,
+      "texts": {
+        "BDS": "Les gens d’Ephraïm ne dépossédèrent pas les Cananéens établis à Guézer, et ceux-ci continuèrent à y vivre au milieu des Ephraïmites.",
+        "DBY": "Et Éphraïm ne déposséda pas le Cananéen qui habitait à Guézer; mais le Cananéen a habité au milieu d'eux à Guézer.",
+        "KJV": "Neither did Ephraim drive out the Canaanites that dwelt in Gezer; but the Canaanites dwelt in Gezer among them.",
+        "LSG": "Ephraïm ne chassa point les Cananéens qui habitaient à Guézer, et les Cananéens habitèrent au milieu d'Ephraïm à Guézer.",
+        "MAB": "Ephraïm aussi ne déposséda point les Cananéens qui habitaient à Guézer; mais les Cananéens habitèrent avec lui à Guézer.",
+        "OST": "Éphraïm ne déposséda point non plus les Cananéens qui habitaient à Guézer; mais les Cananéens habitèrent avec lui à Guézer.",
+        "S21": "Ephraïm ne chassa pas les Cananéens qui habitaient à Guézer, et ceux-ci habitèrent au milieu d'Ephraïm à Guézer."
+      }
+    },
+    {
+      "verse": 30,
+      "texts": {
+        "BDS": "Ceux de Zabulon ne dépossédèrent pas non plus les habitants de Qitrôn et de Nahalol; les Cananéens habitèrent donc au milieu des gens de Zabulon qui leur imposèrent des corvées.",
+        "DBY": "Zabulon ne déposséda pas les habitants de Kitron, ni les habitants de Nahalol; mais le Cananéen a habité au milieu d'eux, et fut rendu tributaire.",
+        "KJV": "Neither did Zebulun drive out the inhabitants of Kitron, nor the inhabitants of Nahalol; but the Canaanites dwelt among them, and became tributaries.",
+        "LSG": "Zabulon ne chassa point les habitants de Kitron, ni les habitants de Nahalol; et les Cananéens habitèrent au milieu de Zabulon, mais ils furent assujettis à un tribut.",
+        "MAB": "Zabulon ne déposséda point les habitants de Kitron, ni les habitants de Nahalol; mais les Cananéens habitèrent avec lui, et lui furent tributaires.",
+        "OST": "Zabulon ne déposséda point les habitants de Kitron, ni les habitants de Nahalol; et les Cananéens habitèrent avec lui, mais ils lui furent tributaires.",
+        "S21": "Zabulon ne chassa pas les habitants de Kitron ni ceux de Nahalol. Les Cananéens habitèrent au milieu de Zabulon, mais ils furent soumis à des corvées."
+      }
+    },
+    {
+      "verse": 31,
+      "texts": {
+        "BDS": "Les gens d’Aser ne dépossédèrent pas les habitants d’Akko, de Sidon, d’Ahlab, d’Akzib, de Helba, d’Aphiq et de Rehob.",
+        "DBY": "Aser ne déposséda pas les habitants d'Acco, ni les habitants de Sidon, ni Akhlab, ni Aczib, ni Helba, ni Aphik, ni Rehob;",
+        "KJV": "Neither did Asher drive out the inhabitants of Accho, nor the inhabitants of Zidon, nor of Ahlab, nor of Achzib, nor of Helbah, nor of Aphik, nor of Rehob:",
+        "LSG": "Aser ne chassa point les habitants d'Acco, ni les habitants de Sidon, ni ceux d'Achlal, d'Aczib, de Helba, d'Aphik et de Rehob;",
+        "MAB": "Aser ne déposséda point les habitants de Hacco, ni les habitants de Sidon, ni d'Ahlab, ni d'Aczib, ni d'Helba, ni d'Aphik, ni de Rehob.",
+        "OST": "Asser ne déposséda point les habitants d'Acco, ni les habitants de Sidon, ni d'Achlab, ni d'Aczib, ni d'Helba, ni d'Aphik, ni de Réhob;",
+        "S21": "Aser ne chassa pas les habitants d'Acco ni ceux de Sidon, d'Achlal, d'Aczib, de Helba, d'Aphik et de Rehob."
+      }
+    },
+    {
+      "verse": 32,
+      "texts": {
+        "BDS": "Les descendants d’Aser s’établirent donc au milieu des Cananéens qui occupaient le pays, car ils ne les dépossédèrent pas.",
+        "DBY": "et l'Asérite a habité au milieu des Cananéens, habitants du pays, car il ne les déposséda pas.",
+        "KJV": "But the Asherites dwelt among the Canaanites, the inhabitants of the land: for they did not drive them out.",
+        "LSG": "et les Asérites habitèrent au milieu des Cananéens, habitants du pays, car ils ne les chassèrent point.",
+        "MAB": "Mais ceux d'Aser habitèrent parmi les Cananéens habitants du pays; car ils ne les dépossédèrent point.",
+        "OST": "Mais ceux d'Asser habitèrent parmi les Cananéens, habitants du pays; car ils ne les dépossédèrent point.",
+        "S21": "Les Asérites habitèrent au milieu des Cananéens qui étaient installés dans le pays, car ils ne les chassèrent pas."
+      }
+    },
+    {
+      "verse": 33,
+      "texts": {
+        "BDS": "Les gens de Nephtali ne dépossédèrent pas les habitants de Beth-Chémech ni ceux de Beth-Anath. Ils s’installèrent au milieu des Cananéens qui habitaient le pays et ils soumirent à des corvées les habitants de ces deux villes.",
+        "DBY": "Nephthali ne déposséda pas les habitants de Beth-Shémesh, ni les habitants de Beth-Anath; et il a habité au milieu des Cananéens, habitants du pays; mais les habitants de Beth-Shémesh et de Beth-Anath lui devinrent tributaires.",
+        "KJV": "Neither did Naphtali drive out the inhabitants of Bethshemesh, nor the inhabitants of Bethanath; but he dwelt among the Canaanites, the inhabitants of the land: nevertheless the inhabitants of Bethshemesh and of Bethanath became tributaries unto them.",
+        "LSG": "Nephthali ne chassa point les habitants de Beth-Schémesch, ni les habitants de Beth-Anath, et il habita au milieu des Cananéens, habitants du pays, mais les habitants de Beth-Schémesch et de Beth-Anath furent assujettis à un tribut.",
+        "MAB": "Nephthali ne déposséda point les habitants de Beth-sémes, ni les habitants de Beth-hanath, mais il habita parmi les Cananéens habitants du pays; et les habitants de Beth-sémes, et de Beth-hanath lui furent tributaires.",
+        "OST": "Nephthali ne déposséda point les habitants de Beth-Shémèsh, ni les habitants de Beth-Anath; mais il habita parmi les Cananéens, habitants du pays; et les habitants de Beth-Shémèsh et de Beth-Anath leur furent tributaires.",
+        "S21": "Nephthali ne chassa pas les habitants de Beth-Shémesh ni ceux de Beth-Anath. Il habita au milieu des Cananéens qui étaient installés dans le pays, mais les habitants de Beth-Shémesh et de Beth-Anath furent soumis à des corvées."
+      }
+    },
+    {
+      "verse": 34,
+      "texts": {
+        "BDS": "Les Amoréens refoulèrent les Danites dans la région montagneuse et les empêchèrent de descendre dans la vallée.",
+        "DBY": "Et les Amoréens repoussèrent dans la montagne les fils de Dan, car ils ne leur permirent pas de descendre dans la vallée.",
+        "KJV": "And the Amorites forced the children of Dan into the mountain: for they would not suffer them to come down to the valley:",
+        "LSG": "Les Amoréens repoussèrent dans la montagne les fils de Dan, et ne les laissèrent pas descendre dans la plaine.",
+        "MAB": "Et les Amorrhéens tinrent les enfants de Dan fort resserrés dans la montagne, et ils ne souffraient point qu'ils descendissent dans la vallée.",
+        "OST": "Et les Amoréens resserrèrent dans la montagne les descendants de Dan, et ne les laissèrent point descendre dans la vallée.",
+        "S21": "Les Amoréens repoussèrent les Danites dans la montagne, ils ne les laissèrent pas descendre dans la plaine."
+      }
+    },
+    {
+      "verse": 35,
+      "texts": {
+        "BDS": "Les Amoréens continuèrent donc à se maintenir à Har-Hérès, à Ayalôn et à Chaalbim, mais les descendants de Joseph furent de plus en plus puissants et leur imposèrent des corvées.",
+        "DBY": "Et l'Amoréen voulut habiter dans la montagne de Hérès, à Ajalon et à Shaalbim; mais la main de la maison de Joseph devint forte, et ils furent soumis au tribut.",
+        "KJV": "But the Amorites would dwell in mount Heres in Aijalon, and in Shaalbim: yet the hand of the house of Joseph prevailed, so that they became tributaries.",
+        "LSG": "Les Amoréens voulurent rester à Har- Hérès, à Ajalon et à Schaalbim; mais la main de la maison de Joseph s'appesantit sur eux, et ils furent assujettis à un tribut.",
+        "MAB": "Et ces Amorrhéens-là osèrent encore habiter à Har-Hérés, à Ajalon, et à Sahalbim; mais la main de la maison de Joseph étant devenue plus forte, ils furent rendus tributaires.",
+        "OST": "Et ces Amoréens persistèrent à demeurer à Har-Hérès, à Ajalon, et à Shaalbim; mais la main de la maison de Joseph pesa sur eux, et ils furent rendus tributaires.",
+        "S21": "Les Amoréens voulurent rester à Har-Hérès, à Ajalon et à Shaalbim, mais la famille de Joseph domina sur eux et ils furent soumis à des corvées."
+      }
+    },
+    {
+      "verse": 36,
+      "texts": {
+        "BDS": "Le territoire des Amoréens s’étendait de la montée des Scorpions, depuis Séla, en remontant.",
+        "DBY": "Et la frontière de l'Amoréen était depuis la montée d'Akrabbim, depuis le rocher, et en dessus.",
+        "KJV": "And the coast of the Amorites [was] from the going up to Akrabbim, from the rock, and upward.",
+        "LSG": "Le territoire des Amoréens s'étendait depuis la montée d'Akrabbim, depuis Séla, et en dessus.",
+        "MAB": "Or la contrée des Amorrhéens [était] depuis la montée de Hakrabbim, depuis la roche, et au-dessus.",
+        "OST": "Or, le territoire des Amoréens s'étendait depuis la montée d'Akrabbim, depuis Séla (la Roche), et au-dessus.",
+        "S21": "Le territoire des Amoréens partait de la montée d'Akrabbim, de Séla, et couvrait le territoire situé au-dessus."
+      }
+    }
+  ]
+}

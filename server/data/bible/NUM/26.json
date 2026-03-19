@@ -1,0 +1,786 @@
+{
+  "bookCode": "NUM",
+  "chapter": 26,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "Après ce fléau, l’Eternel dit à Moïse et à Eléazar, fils du prêtre Aaron:",
+        "DBY": "Et il arriva, après la plaie, que l'Éternel parla à Moïse et à Éléazar, fils d'Aaron, le sacrificateur, disant:",
+        "KJV": "And it came to pass after the plague, that the LORD spake unto Moses and unto Eleazar the son of Aaron the priest, saying,",
+        "LSG": "A la suite de cette plaie, l'Eternel dit à Moïse et à Eléazar, fils du sacrificateur Aaron:",
+        "MAB": "Or il arriva après cette plaie-là, que l'Eternel parla à Moïse, et à Eléazar, fils d'Aaron, le Sacrificateur, en disant :",
+        "OST": "Or il arriva, après cette plaie, que l'Éternel dit à Moïse et à Éléazar, fils d'Aaron, le sacrificateur:",
+        "S21": "A la suite de ce fléau, l'Eternel dit à Moïse et à Eléazar, le fils du prêtre Aaron:"
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "—Faites le recensement de toute la communauté d’Israël; vous dénombrerez, par groupes familiaux, tous les hommes de vingt ans et plus, aptes à servir dans l’armée d’Israël.",
+        "DBY": "Relevez la somme de toute l'assemblée des fils d'Israël, depuis l'âge de vingt ans et au-dessus, selon leurs maisons de pères, tous ceux qui sont propres au service militaire en Israël.",
+        "KJV": "Take the sum of all the congregation of the children of Israel, from twenty years old and upward, throughout their fathers' house, all that are able to go to war in Israel.",
+        "LSG": "Faites le dénombrement de toute l'assemblée des enfants d'Israël, depuis l'âge de vingt ans et au-dessus, selon les maisons de leurs pères, de tous ceux d'Israël en état de porter les armes.",
+        "MAB": "Faites le dénombrement de toute l'assemblée des enfants d'Israël, depuis l'âge de vingt ans, et au dessus, selon les maisons de leurs pères, [savoir] de tous ceux d'Israël qui peuvent aller à la guerre.",
+        "OST": "Faites le compte de toute l'assemblée des enfants d'Israël, depuis l'âge de vingt ans et au-dessus, selon les maisons de leurs pères, tous ceux d'Israël qui peuvent aller à la guerre.",
+        "S21": "«Faites le dénombrement de toute l'assemblée des Israélites âgés de 20 ans et plus en fonction de leur famille, de tous les membres du peuple d'Israël aptes au service militaire.»"
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "Moïse et le prêtre Eléazar s’adressèrent au peuple dans les plaines de Moab au bord du Jourdain à la hauteur de Jéricho. Ils leur dirent:",
+        "DBY": "Et Moïse, et Éléazar, le sacrificateur, leur parlèrent dans les plaines de Moab, près du Jourdain de Jéricho, disant:",
+        "KJV": "And Moses and Eleazar the priest spake with them in the plains of Moab by Jordan [near] Jericho, saying,",
+        "LSG": "Moïse et le sacrificateur Eléazar leur parlèrent dans les plaines de Moab, près du Jourdain, vis-à-vis de Jéricho. Ils dirent:",
+        "MAB": "Moïse donc et Eléazar le Sacrificateur leur parlèrent dans les campagnes de Moab, auprès du Jourdain de Jéricho, en disant :",
+        "OST": "Moïse et Éléazar, le sacrificateur, leur parlèrent donc dans les plaines de Moab, près du Jourdain de Jérico, en disant:",
+        "S21": "Moïse et le prêtre Eléazar leur parlèrent dans les plaines de Moab, près du Jourdain, vis-à-vis de Jéricho. Ils dirent:"
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "—Nous allons faire le recensement de tous les hommes de vingt ans et plus, comme l’Eternel l’a ordonné à Moïse. Voici les descendants d’Israël sortis d’Egypte.",
+        "DBY": "-Depuis l'âge de vingt ans et au-dessus, comme l'Éternel le commanda à Moïse et aux fils d'Israël, qui sortirent du pays d'Égypte.",
+        "KJV": "[Take the sum of the people], from twenty years old and upward; as the LORD commanded Moses and the children of Israel, which went forth out of the land of Egypt.",
+        "LSG": "On fera le dénombrement, depuis l'âge de vingt ans et au-dessus, comme l'Eternel l'avait ordonné à Moïse et aux enfants d'Israël, quand ils furent sortis du pays d'Egypte.",
+        "MAB": "[Qu'on fasse le dénombrement] depuis l'âge de vingt ans, et au dessus, comme l'Eternel l'avait commandé à Moïse et aux enfants d'Israël, quand ils furent sortis du pays d'Egypte.",
+        "OST": "Qu'on fasse le dénombrement depuis l'âge de vingt ans et au-dessus, comme l'Éternel l'a commandé à Moïse et aux enfants d'Israël, sortis du pays d'Égypte.",
+        "S21": "«On fera le dénombrement des hommes âgés de 20 ans et plus, comme l'Eternel l'avait ordonné à Moïse et aux Israélites à leur sortie d'Egypte.»"
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "Fils de Ruben, premier-né d’Israël:\r\nHénok, de qui est issue la famille des Hénokites;\r\nde Pallou, la famille des Pallouites;",
+        "DBY": "Ruben, le premier-né d'Israël. Les fils de Ruben: de Hénoc, la famille des Hénokites; de Pallu, la famille des Palluites;",
+        "KJV": "Reuben, the eldest son of Israel: the children of Reuben; Hanoch, [of whom cometh] the family of the Hanochites: of Pallu, the family of the Palluites:",
+        "LSG": "Ruben, premier-né d'Israël. Fils de Ruben: Hénoc de qui descend la famille des Hénokites; Pallu, de qui descend la famille des Palluites;",
+        "MAB": "Ruben fut le premier-né d'Israël; et les enfants de Ruben furent Hénoc; [de lui sortit] la famille des Hénokites; de Pallu, la famille des Palluites.",
+        "OST": "Ruben, premier-né d'Israël. Fils de Ruben: Hénoc; de lui sort la famille des Hénokites; de Pallu, la famille des Palluites;",
+        "S21": "Ruben était l’aîné d'Israël. Voici les descendants de Ruben: Hénoc dont descend le clan des Hénokites, Pallu dont descend celui des Palluites,"
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "de Hetsrôn, celle des Hetsronites;\r\nde Karmi, celle des Karmites.",
+        "DBY": "de Hetsron, la famille des Hetsronites: de Carmi, la famille des Carmites.",
+        "KJV": "Of Hezron, the family of the Hezronites: of Carmi, the family of the Carmites.",
+        "LSG": "Hetsron, de qui descend la famille des Hetsronites; Carmi, de qui descend la famille des Carmites.",
+        "MAB": "De Hetsron, la famille des Hetsronites; de Carmi, la famille des Carmites.",
+        "OST": "De Hetsron, la famille des Hetsronites; de Carmi, la famille des Carmites.",
+        "S21": "Hetsron dont descend celui des Hetsronites, Carmi dont descend celui des Carmites."
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "Telles étaient les familles de Ruben. Leur effectif était de 43 730 hommes.",
+        "DBY": "-Ce sont là les familles des Rubénites; et leurs dénombrés furent quarante-trois mille sept cent trente.",
+        "KJV": "These [are] the families of the Reubenites: and they that were numbered of them were forty and three thousand and seven hundred and thirty.",
+        "LSG": "Ce sont là les familles des Rubénites: ceux dont on fit le dénombrement furent quarante-trois mille sept cent trente. -",
+        "MAB": "Ce sont là les familles des Rubénites, et ceux qui furent dénombrés étaient quarante-trois mille sept cent trente.",
+        "OST": "Telles sont les familles des Rubénites; et ceux dont on fit le dénombrement furent quarante-trois mille sept cent trente.",
+        "S21": "Tels sont les clans des Rubénites. On dénombra 43'730 hommes."
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "Eliab, fils de Pallou,",
+        "DBY": "-Et les fils de Pallu: Éliab;",
+        "KJV": "And the sons of Pallu; Eliab.",
+        "LSG": "Fils de Pallu: Eliab.",
+        "MAB": "Et les enfants de Pallu, Eliab.",
+        "OST": "Et les fils de Pallu: Éliab.",
+        "S21": "Descendant de Pallu: Eliab."
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "eut pour fils: Nemouel, Datan et Abirâm. Ce sont ces deux derniers, membres du conseil de la communauté, qui s’en prirent à Moïse et Aaron avec les partisans de Qoré, lorsque ceux-ci se rebellèrent contre l’Eternel.",
+        "DBY": "et les fils d'Éliab: Nemuel, et Dathan, et Abiram. C'est ce Dathan et cet Abiram, des principaux de l'assemblée, qui se soulevèrent contre Moïse et contre Aaron dans l'assemblée de Coré, lorsqu'ils se soulevèrent contre l'Éternel;",
+        "KJV": "And the sons of Eliab; Nemuel, and Dathan, and Abiram. This [is that] Dathan and Abiram, [which were] famous in the congregation, who strove against Moses and against Aaron in the company of Korah, when they strove against the LORD:",
+        "LSG": "Fils d'Eliab: Nemuel, Dathan et Abiram. C'est ce Dathan et cet Abiram, qui étaient de ceux que l'on convoquait à l'assemblée, et qui se soulevèrent contre Moïse et Aaron, dans l'assemblée de Koré, lors de leur révolte contre l'Eternel.",
+        "MAB": "Et les enfants d'Eliab, Némuel, Dathan et Abiram. Ce Dathan et cet Abiram, qui étaient de ceux qu'on appelait pour tenir l'assemblée, se mutinèrent contre Moïse et contre Aaron en l'assemblée de Coré, lorsqu'on se mutina contre l'Eternel;",
+        "OST": "Et les fils d'Éliab: Némuël, Dathan et Abiram. C'est ce Dathan et cet Abiram, convoqués à l'assemblée, qui se soulevèrent contre Moïse et contre Aaron, dans l'assemblée de Coré, quand ils se soulevèrent contre l'Éternel,",
+        "S21": "Fils d'Eliab: Nemuel, Dathan et Abiram. C'est ce Dathan et cet Abiram qui faisaient partie des hommes convoqués à l'assemblée et qui se soulevèrent contre Moïse et Aaron avec la bande des partisans de Koré, lors de leur révolte contre l'Eternel."
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "La terre se fendit et les engloutit avec Qoré le jour où tous ses partisans périrent par le feu qui dévora les deux cent cinquante hommes. Ils servirent ainsi d’exemple.",
+        "DBY": "et la terre ouvrit sa bouche et les engloutit, ainsi que Coré, lorsque l'assemblée mourut, quand le feu dévora les deux cent cinquante hommes; et ils furent pour signe.",
+        "KJV": "And the earth opened her mouth, and swallowed them up together with Korah, when that company died, what time the fire devoured two hundred and fifty men: and they became a sign.",
+        "LSG": "La terre ouvrit sa bouche, et les engloutit avec Koré, quand moururent ceux qui s'étaient assemblés, et que le feu consuma les deux cent cinquante hommes: ils servirent au peuple d'avertissement.",
+        "MAB": "Et lorsque la terre ouvrit sa bouche et les engloutit. Mais Coré fut enveloppé en la mort de ceux qui étaient assemblés avec lui, quand le feu consuma les deux cent cinquante hommes; et ils furent pour signe.",
+        "OST": "Et que la terre ouvrit sa bouche et les engloutit, avec Coré, alors que ceux qui s'étaient assemblés moururent, quand le feu dévora les deux cent cinquante hommes et qu'ils servirent d'exemple.",
+        "S21": "La terre s’entrouvrit et les engloutit avec Koré, quand ceux qui s'étaient rassemblés moururent et que le feu dévora les 250 hommes: ils servirent d’avertissement au peuple."
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "Par contre, les fils de Qoré ne moururent pas.",
+        "DBY": "Mais les fils de Coré ne moururent pas.",
+        "KJV": "Notwithstanding the children of Korah died not.",
+        "LSG": "Les fils de Koré ne moururent pas.",
+        "MAB": "Mais les enfants de Coré ne moururent point.",
+        "OST": "Mais les fils de Coré ne moururent point.",
+        "S21": "Quant aux fils de Koré, ils ne moururent pas."
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "Descendants de Siméon, classés par familles:\r\nissue de Nemouel, la famille des Nemouélites;\r\nde Yamîn, celle des Yaminites;\r\nde Yakîn, celle des Yakinites;",
+        "DBY": "Les fils de Siméon, selon leurs familles: de Nemuel, la famille des Nemuélites; de Jamin, la famille des Jaminites; de Jakin, la famille des Jakinites;",
+        "KJV": "The sons of Simeon after their families: of Nemuel, the family of the Nemuelites: of Jamin, the family of the Jaminites: of Jachin, the family of the Jachinites:",
+        "LSG": "Fils de Siméon, selon leurs familles: de Nemuel descend la famille des Nemuélites; de Jamin, la famille des Jaminites; de Jakin, la famille des Jakinites;",
+        "MAB": "Les enfants de Siméon selon leurs familles. De Némuel, la famille des Némuélites; de Jamin, la famille des Jaminites; de Jakin, la famille des Jakinites;",
+        "OST": "Fils de Siméon, selon leurs familles: de Némuël, la famille des Némuélites; de Jamin, la famille des Jaminites; de Jakin, la famille des Jakinites;",
+        "S21": "Voici les descendants de Siméon en fonction de leur clan: de Nemuel descend le clan des Nemuélites, de Jamin celui des Jaminites, de Jakin celui des Jakinites,"
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "de Zérah, celle des Zérahites;\r\nde Saül, celle des Saülites.",
+        "DBY": "de Zérakh, la famille des Zarkhites; de Saül, la famille des Saülites.",
+        "KJV": "Of Zerah, the family of the Zarhites: of Shaul, the family of the Shaulites.",
+        "LSG": "de Zérach, la famille des Zérachites; de Saül, la famille des Saülites.",
+        "MAB": "De Zérah, la famille des Zarhites; de Saül, la famille des Saülites.",
+        "OST": "De Zérach, la famille des Zérachites; de Saül, la famille des Saülites.",
+        "S21": "de Zérach celui des Zérachites, de Saül celui des Saülites."
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "Telles étaient les familles de Siméon. Leur effectif était de 22 200 hommes.",
+        "DBY": "-Ce sont là les familles des Siméonites, vingt-deux mille deux cents.",
+        "KJV": "These [are] the families of the Simeonites, twenty and two thousand and two hundred.",
+        "LSG": "Ce sont là les familles des Siméonites; vingt-deux mille deux cents.",
+        "MAB": "Ce sont là les familles des Siméonites; qui furent vingt-deux mille deux cents.",
+        "OST": "Telles sont les familles des Siméonites: vingt-deux mille deux cents.",
+        "S21": "Tels sont les clans des Siméonites. On dénombra 22'200 hommes."
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "Descendants de Gad, classés par familles:\r\nde Tsephôn, la famille des Tsephonites;\r\nde Haggui, celle des Hagguites;\r\nde Chouni, celle des Chounites;",
+        "DBY": "Les fils de Gad, selon leurs familles: de Tsephon, la famille des Tsephonites; de Haggui, la famille des Hagguites; de Shuni, la famille des Shunites;",
+        "KJV": "The children of Gad after their families: of Zephon, the family of the Zephonites: of Haggi, the family of the Haggites: of Shuni, the family of the Shunites:",
+        "LSG": "Fils de Gad, selon leurs familles: de Tsephon descend la famille des Tsephonites; de Haggi, la famille des Haggites; de Schuni, la famille des Schunites;",
+        "MAB": "Les enfants de Gad selon leurs familles. De Tséphon, la famille des Tséphonites; de Haggi, la famille des Haggites; de Suni, la famille des Sunites;",
+        "OST": "Fils de Gad, selon leurs familles: de Tséphon, la famille des Tséphonites; de Haggi, la famille des Haggites; de Shuni, la famille des Shunites;",
+        "S21": "Voici les descendants de Gad en fonction de leur clan: de Tsephon descend le clan des Tsephonites, de Haggi celui des Haggites, de Shuni celui des Shunites,"
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "d’Ozni, celle des Oznites;\r\nd’Eri, celle des Erites;",
+        "DBY": "d'Ozni, la famille des Oznites; d'Éri, la famille des Érites;",
+        "KJV": "Of Ozni, the family of the Oznites: of Eri, the family of the Erites:",
+        "LSG": "d'Ozni, la famille des Oznites; d'Eri, la famille des Erites;",
+        "MAB": "D'Ozni, la famille des Oznites; deHéri, la famille des Hérites;",
+        "OST": "D'Ozni, la famille des Oznites; d'Éri, la famille des Érites;",
+        "S21": "d'Ozni celui des Oznites, d'Eri celui des Erites,"
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "d’Arod, celle des Arodites;\r\nd’Areéli, celle des Areélites.",
+        "DBY": "d'Arod, la famille des Arodites; d'Areéli, la famille des Areélites.",
+        "KJV": "Of Arod, the family of the Arodites: of Areli, the family of the Arelites.",
+        "LSG": "d'Arod, la famille des Arodites; d'Areéli, la famille des Areélites.",
+        "MAB": "D'Arod, la famille des Arodites; d'Aréel, la famille des Aréélites.",
+        "OST": "D'Arod, la famille des Arodites; d'Aréli, la famille des Arélites.",
+        "S21": "d'Arod celui des Arodites, d'Areéli celui des Areélites."
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "Telles étaient les familles de Gad. Leur effectif était de 40 500 hommes.",
+        "DBY": "Ce sont les familles des fils de Gad, selon leur dénombrement, quarante mille cinq cents. Ce sont les familles des fils de Gad, selon leur dénombrement, quarante mille cinq cents.",
+        "KJV": "These [are] the families of the children of Gad according to those that were numbered of them, forty thousand and five hundred.",
+        "LSG": "Ce sont là les familles des fils de Gad, d'après leur dénombrement: quarante mille cinq cents.",
+        "MAB": "Ce sont là les familles des enfants de Gad, selon leur dénombrement, qui fut de quarante mille cinq cents.",
+        "OST": "Telles sont les familles des fils de Gad, selon leur dénombrement: quarante mille cinq cents.",
+        "S21": "Tels sont les clans des descendants de Gad. On dénombra 40'500 hommes."
+      }
+    },
+    {
+      "verse": 19,
+      "texts": {
+        "BDS": "Descendants de Juda: Deux d’entre eux, Er et Onân, moururent dans le pays de Canaan.",
+        "DBY": "Les fils de Juda: Er et Onan; et Er et Onan moururent dans le pays de Canaan.",
+        "KJV": "The sons of Judah [were] Er and Onan: and Er and Onan died in the land of Canaan.",
+        "LSG": "Fils de Juda: Er et Onan; mais Er et Onan moururent au pays de Canaan.",
+        "MAB": "Les enfants de Juda, Her, et Onan; mais Her et Onan moururent au pays de Canaan.",
+        "OST": "Fils de Juda: Er et Onan; mais Er et Onan moururent au pays de Canaan.",
+        "S21": "Les fils de Juda étaient Er et Onan, mais ils moururent dans le pays de Canaan."
+      }
+    },
+    {
+      "verse": 20,
+      "texts": {
+        "BDS": "Autres descendants de Juda, classés par familles:\r\nde Chéla, la famille des Chélanites;\r\nde Pérets, celle des Partsites;\r\nde Zérah, celle des Zarhites.",
+        "DBY": "Et les fils de Juda, selon leurs familles: de Shéla, la famille des Shélanites; de Pérets, la famille des Partsites; de Zérakh, la famille des Zarkhites.",
+        "KJV": "And the sons of Judah after their families were; of Shelah, the family of the Shelanites: of Pharez, the family of the Pharzites: of Zerah, the family of the Zarhites.",
+        "LSG": "Voici les fils de Juda, selon leurs familles: de Schéla descend la famille des Schélanites; de Pérets, la famille des Péretsites; de Zérach, la famille des Zérachites.",
+        "MAB": "Ainsi les enfants de Juda [distingués] par leurs familles, furent, de Séla, la famille des Sélanites ; de Pharès, la famille des Pharésites; de Zara, la famille des Zarhites.",
+        "OST": "Les fils de Juda, selon leurs familles, furent: de Shéla, la famille des Shélanites; de Pharets, la famille des Phartsites; de Zérach, la famille des Zérachites.",
+        "S21": "Voici donc les descendants de Juda en fonction de leur clan: de Shéla descend le clan des Shélanites, de Pérets celui des Péretsites, de Zérach celui des Zérachites."
+      }
+    },
+    {
+      "verse": 21,
+      "texts": {
+        "BDS": "Pérets eut deux fils:\r\nHetsrôn, de qui est issue la famille des Hetsronites,\r\net Hamoul, de qui est issue la famille des Hamoulites.",
+        "DBY": "Et les fils de Pérets: de Hetsron, la famille des Hetsronites; de Hamul, la famille des Hamulites.",
+        "KJV": "And the sons of Pharez were; of Hezron, the family of the Hezronites: of Hamul, the family of the Hamulites.",
+        "LSG": "Les fils de Pérets furent: Hetsron, de qui descend la famille des Hetsronites; Hamul, de qui descend la famille des Hamulites.",
+        "MAB": "Et les enfants de Pharès furent, de Hetsron, la famille des Hetsronites; et de Hamul, la famille des Hamulites.",
+        "OST": "Et les fils de Pharets furent: de Hetsron, la famille des Hetsronites; et de Hamul, la famille des Hamulites.",
+        "S21": "Les fils de Pérets furent Hetsron, dont descend le clan des Hetsronites, et Hamul, dont descend celui des Hamulites."
+      }
+    },
+    {
+      "verse": 22,
+      "texts": {
+        "BDS": "Telles étaient les familles de Juda. Leur effectif était de 76 500 hommes.",
+        "DBY": "-Ce sont là les familles de Juda, selon leur dénombrement, soixante-seize mille cinq cents.",
+        "KJV": "These [are] the families of Judah according to those that were numbered of them, threescore and sixteen thousand and five hundred.",
+        "LSG": "Ce sont là les familles de Juda, d'après leur dénombrement: soixante-seize mille cinq cents.",
+        "MAB": "Ce sont là les familles de Juda, selon leur dénombrement, qui fut de soixante et seize mille cinq cents.",
+        "OST": "Telles sont les familles de Juda, selon leur dénombrement: soixante et seize mille cinq cents.",
+        "S21": "Tels sont les clans de Juda. On dénombra 76'500 hommes."
+      }
+    },
+    {
+      "verse": 23,
+      "texts": {
+        "BDS": "Descendants d’Issacar, classés par familles:\r\nde Tola, la famille des Tolaïtes;\r\nde Pouva, celle des Pouvites;",
+        "DBY": "Les fils d'Issacar, selon leurs familles: de Thola, la famille des Tholaïtes; de Puva, la famille des Punites;",
+        "KJV": "[Of] the sons of Issachar after their families: [of] Tola, the family of the Tolaites: of Pua, the family of the Punites:",
+        "LSG": "Fils d'Issacar, selon leurs familles: de Thola descend la famille des Tholaïtes; de Puva, la famille des Puvites;",
+        "MAB": "Les enfants d'Issacar selon leurs familles. De Tolah, la famille des Tolahites; de Puva, la famille des Puvites.",
+        "OST": "Fils d'Issacar, selon leurs familles: de Thola, la famille des Tholaïtes; de Puva, la famille des Puvites;",
+        "S21": "Voici les descendants d'Issacar en fonction de leur clan: de Thola descend le clan des Tholaïtes, de Puva celui des Puvites,"
+      }
+    },
+    {
+      "verse": 24,
+      "texts": {
+        "BDS": "de Yachoub, celle des Yachoubites;\r\nde Chimrôn, celle des Chimronites.",
+        "DBY": "de Jashub, la famille des Jashubites; de Shimron, la famille des Shimronites.",
+        "KJV": "Of Jashub, the family of the Jashubites: of Shimron, the family of the Shimronites.",
+        "LSG": "de Jaschub, la famille des Jaschubites; de Schimron, la famille des Schimronites.",
+        "MAB": "De Jasub, la famille des Jasubites; de Simron, la famille des Simronites.",
+        "OST": "De Jashub, la famille des Jashubites; de Shimron, la famille des Shimronites.",
+        "S21": "de Jashub celui des Jashubites, de Shimron celui des Shimronites."
+      }
+    },
+    {
+      "verse": 25,
+      "texts": {
+        "BDS": "Telles étaient les familles d’Issacar. Leur effectif était de 64 300 hommes.",
+        "DBY": "-Ce sont là les familles d'Issacar, selon leur dénombrement, soixante-quatre mille trois cents.",
+        "KJV": "These [are] the families of Issachar according to those that were numbered of them, threescore and four thousand and three hundred.",
+        "LSG": "Ce sont là les familles d'Issacar, d'après leur dénombrement: soixante quatre mille trois cents.",
+        "MAB": "Ce sont là les familles d'Issacar, selon leur dénombrement, qui fut de soixante-quatre mille trois cents.",
+        "OST": "Telles sont les familles d'Issacar, selon leur dénombrement: soixante-quatre mille trois cents.",
+        "S21": "Tels sont les clans d'Issacar. On dénombra 64'300 hommes."
+      }
+    },
+    {
+      "verse": 26,
+      "texts": {
+        "BDS": "Descendants de Zabulon, classés par familles:\r\nde Séred, la famille des Sardites;\r\nd’Elôn, celle des Elonites;\r\nde Yahleél, celle des Yahleélites.",
+        "DBY": "Les fils de Zabulon, selon leurs familles: de Séred, la famille des Sardites; d'Élon, la famille des Élonites; de Jakhleël, la famille des Jakhleélites.",
+        "KJV": "[Of] the sons of Zebulun after their families: of Sered, the family of the Sardites: of Elon, the family of the Elonites: of Jahleel, the family of the Jahleelites.",
+        "LSG": "Fils de Zabulon, selon leurs familles: de Séred descend la famille des Sardites; d'Elon, la famille des Elonites; de Jahleel, la famille des Jahleélites.",
+        "MAB": "Les enfants de Zabulon, selon leurs familles. De Séred, la famille des Sérédites; d'Elon, la famille des Elonites; de Jahléel, la famille des Jahléélites.",
+        "OST": "Fils de Zabulon, selon leurs familles: de Séred, la famille des Sardites; d'Élon, la famille des Élonites; de Jahléel, la famille des Jahléélites.",
+        "S21": "Voici les descendants de Zabulon en fonction de leur clan: de Séred descend le clan des Sardites, d'Elon celui des Elonites, de Jahleel celui des Jahleélites."
+      }
+    },
+    {
+      "verse": 27,
+      "texts": {
+        "BDS": "Telles étaient les familles de Zabulon. Leur effectif était de 60 500 hommes.",
+        "DBY": "-Ce sont là les familles des Zabulonites, selon leur dénombrement, soixante mille cinq cents.",
+        "KJV": "These [are] the families of the Zebulunites according to those that were numbered of them, threescore thousand and five hundred.",
+        "LSG": "Ce sont là les familles des Zabulonites, d'après leur dénombrement: soixante mille cinq cents.",
+        "MAB": "Ce sont là les familles des Zabulonites, selon leur dénombrement, qui fut de soixante mille cinq cents.",
+        "OST": "Telles sont les familles des Zabulonites, selon leur dénombrement: soixante mille cinq cents.",
+        "S21": "Tels sont les clans des Zabulonites. On dénombra 60'500 hommes."
+      }
+    },
+    {
+      "verse": 28,
+      "texts": {
+        "BDS": "Joseph eut pour fils Manassé et Ephraïm.",
+        "DBY": "Les fils de Joseph, selon leurs familles, Manassé et Éphraïm.",
+        "KJV": "The sons of Joseph after their families [were] Manasseh and Ephraim.",
+        "LSG": "Fils de Joseph, selon leurs familles: Manassé et Ephraïm.",
+        "MAB": "Les enfants de Joseph, selon leurs familles, furent Manassé et Ephraïm.",
+        "OST": "Fils de Joseph, selon leurs familles: Manassé et Éphraïm.",
+        "S21": "Les fils de Joseph, en fonction de leur clan, furent Manassé et Ephraïm."
+      }
+    },
+    {
+      "verse": 29,
+      "texts": {
+        "BDS": "Fils de Manassé:\r\nMakir, de qui est issue la famille des Makirites et qui eut pour fils Galaad, de qui sont issus les Galaadites.",
+        "DBY": "-Les fils de Manassé: de Makir, la famille des Makirites; et Makir engendra Galaad; de Galaad, la famille des Galaadites.",
+        "KJV": "Of the sons of Manasseh: of Machir, the family of the Machirites: and Machir begat Gilead: of Gilead [come] the family of the Gileadites.",
+        "LSG": "Fils de Manassé: de Makir descend la famille des Makirites. -Makir engendra Galaad. De Galaad descend la famille des Galaadites.",
+        "MAB": "Les enfants de Manassé. De Makir, la famille des Makirites; et Makir engendra Galaad; de Galaad, la famille des Galaadites.",
+        "OST": "Fils de Manassé: de Makir, la famille des Makirites; et Makir engendra Galaad; de Galaad, la famille des Galaadites.",
+        "S21": "Voici les descendants de Manassé: de Makir descend le clan des Makirites. Makir eut pour fils Galaad. De Galaad descend le clan des Galaadites."
+      }
+    },
+    {
+      "verse": 30,
+      "texts": {
+        "BDS": "Voici les descendants de Galaad:\r\nYézer, de qui est issue la famille des Yézérites;\r\nHéleq avec la famille des Hélqites;",
+        "DBY": "-Ce sont ici les fils de Galaad: d'Ihézer, la famille des Ihézrites; de Hélek, la famille des Helkites;",
+        "KJV": "These [are] the sons of Gilead: [of] Jeezer, the family of the Jeezerites: of Helek, the family of the Helekites:",
+        "LSG": "Voici les fils de Galaad: Jézer, de qui descend la famille des Jézerites; Hélek, la famille des Hélekites;",
+        "MAB": "Ce sont ici les enfants de Galaad; de Ihézer, la famille des Ihézérites; de Hélek, la famille des Hélékites.",
+        "OST": "Voici les fils de Galaad: de Jézer, la famille des Jézerites; de Hélek, la famille des Helkites;",
+        "S21": "Voici les fils de Galaad: Jézer, dont descend le clan des Jézerites, Hélek celui des Hélekites,"
+      }
+    },
+    {
+      "verse": 31,
+      "texts": {
+        "BDS": "Asriel avec la famille des Asriélites;\r\nSichem avec la famille des Sichémites;",
+        "DBY": "d'Asriel, la famille des Asriélites; de Sichem, la famille des Sichémites;",
+        "KJV": "And [of] Asriel, the family of the Asrielites: and [of] Shechem, the family of the Shechemites:",
+        "LSG": "Asriel, la famille des Asriélites; Sichem, la famille des Sichémites;",
+        "MAB": "D'Asriel, la famille des Asriélites; de Sékem, la famille des Sékémites.",
+        "OST": "D'Asriel, la famille des Asriélites; de Sichem, la famille des Sichémites;",
+        "S21": "Asriel celui des Asriélites, Sichem celui des Sichémites,"
+      }
+    },
+    {
+      "verse": 32,
+      "texts": {
+        "BDS": "Chemida avec la famille des Chemidaïtes;\r\nHépher avec la famille des Héphrites.",
+        "DBY": "de Shemida, la famille des Shemidaïtes; de Hépher, la famille des Héphrites.",
+        "KJV": "And [of] Shemida, the family of the Shemidaites: and [of] Hepher, the family of the Hepherites.",
+        "LSG": "Schemida, la famille des Schemidaïtes; Hépher, la famille des Héphrites.",
+        "MAB": "De Semidah, la famille des Semidahites; de Hépher, la famille des Héphrites.",
+        "OST": "De Shémida, la famille des Shémidaïtes; de Hépher, la famille des Héphrites.",
+        "S21": "Shemida celui des Shemidaïtes, Hépher celui des Héphérites."
+      }
+    },
+    {
+      "verse": 33,
+      "texts": {
+        "BDS": "Tselophhad, fils de Hépher, n’eut pas de fils, mais il eut pour filles: Mahla, Noa, Hogla, Milka et Tirtsa.",
+        "DBY": "-Et Tselophkhad, fils de Hépher, n'eut pas de fils, mais des filles; et les noms des filles de Tselophkhad étaient: Makhla, et Noa, Hogla, Milca, et Thirtsa.",
+        "KJV": "And Zelophehad the son of Hepher had no sons, but daughters: and the names of the daughters of Zelophehad [were] Mahlah, and Noah, Hoglah, Milcah, and Tirzah.",
+        "LSG": "Tselophchad, fils de Hépher, n'eut point de fils, mais il eut des filles. Voici les noms des filles de Tselophchad: Machla, Noa, Hogla, Milca et Thirtsa.",
+        "MAB": "r Tsélophcad, fils de Hépher, n'eut point de fils, mais des filles : et les noms des filles de Tsélophcad sont Mahla, Noha, Hogla, Milca, et Tirtsa.",
+        "OST": "Or, Tselophcad, fils de Hépher, n'eut point de fils, mais des filles. Et les noms des filles de Tselophcad étaient: Machla, Noa, Hogla, Milca et Thirtsa.",
+        "S21": "Tselophchad, un descendant de Hépher, n'eut pas de fils, mais il eut des filles. Voici leur nom: Machla, Noa, Hogla, Milca et Thirtsa."
+      }
+    },
+    {
+      "verse": 34,
+      "texts": {
+        "BDS": "Telles étaient les familles de Manassé. Leur effectif était de 52 700 hommes.",
+        "DBY": "-Ce sont là les familles de Manassé; et leurs dénombrés, cinquante-deux mille sept cents.",
+        "KJV": "These [are] the families of Manasseh, and those that were numbered of them, fifty and two thousand and seven hundred.",
+        "LSG": "Ce sont là les familles de Manassé, d'après leur dénombrement: cinquante-deux mille sept cents.",
+        "MAB": "Ce sont là les familles de Manassé, et leur dénombrement fut de cinquante-deux mille sept cents.",
+        "OST": "Telles sont les familles de Manassé, et leur dénombrement fut de cinquante-deux mille sept cents.",
+        "S21": "Tels sont les clans de Manassé. On dénombra 52'700 hommes."
+      }
+    },
+    {
+      "verse": 35,
+      "texts": {
+        "BDS": "Voici les descendants d’Ephraïm classés par familles:\r\nde Choutélah, la famille des Choutalhites;\r\nde Béker, celle des Bakrites;\r\nde Tahan, celle des Tahanites.",
+        "DBY": "Ce sont ici les fils d'Éphraïm, selon leurs familles: de Shuthélakh, la famille des Shuthalkhites; de Béker, la famille des Bacrites; de Thakhan, la famille des Thakhanites.",
+        "KJV": "These [are] the sons of Ephraim after their families: of Shuthelah, the family of the Shuthalhites: of Becher, the family of the Bachrites: of Tahan, the family of the Tahanites.",
+        "LSG": "Voici les fils d'Ephraïm, selon leurs familles: de Schutélach descend la famille des Schutalchites; de Béker, la famille des Bakrites; de Thachan, la famille des Thachanites. -",
+        "MAB": "Ce sont ici les enfants d'Ephraïm, selon leurs familles. De Suthélah, la famille des Suthélahites; de Béker, la famille des Bakrites; de Tahan, la famille des Tahanites.",
+        "OST": "Voici les fils d'Éphraïm, selon leurs familles: de Shuthélach, la famille des Shuthélachites; de Béker, la famille des Bakrites; de Thachan, la famille des Thachanites.",
+        "S21": "Voici les descendants d'Ephraïm en fonction de leur clan: de Shutélach descend le clan des Shutalchites, de Béker celui des Bakrites, de Thachan celui des Thachanites."
+      }
+    },
+    {
+      "verse": 36,
+      "texts": {
+        "BDS": "Choutélah eut pour fils Erân de qui est issue la famille des Eranites.",
+        "DBY": "-Et ce sont ici les fils de Shuthélakh: d'Éran, la famille des Éranites.",
+        "KJV": "And these [are] the sons of Shuthelah: of Eran, the family of the Eranites.",
+        "LSG": "Voici les fils de Schutélach: d'Eran est descendue la famille des Eranites.",
+        "MAB": "Et ce sont ici les enfants de Suthélah; de Héran, la famille des Héranites.",
+        "OST": "Et voici les fils de Shuthélach: d'Éran, la famille des Éranites.",
+        "S21": "Voici les descendants de Shutélach: d'Eran est descendu le clan des Eranites."
+      }
+    },
+    {
+      "verse": 37,
+      "texts": {
+        "BDS": "Telles étaient les familles d’Ephraïm. Leur effectif était de 32 500 hommes. Tels sont les descendants de Joseph selon leurs familles.",
+        "DBY": "-Ce sont là les familles des fils d'Éphraïm, selon leur dénombrement, trente-deux mille cinq cents. -Ce sont là les fils de Joseph, selon leurs familles.",
+        "KJV": "These [are] the families of the sons of Ephraim according to those that were numbered of them, thirty and two thousand and five hundred. These [are] the sons of Joseph after their families.",
+        "LSG": "Ce sont là les familles des fils d'Ephraïm, d'après leur dénombrement: trente-deux mille cinq cents. Ce sont là les fils de Joseph, selon leurs familles.",
+        "MAB": "Ce sont là les familles des enfants d'Ephraïm, selon leur dénombrement, qui furent trente-deux mille cinq cents. Ce sont là les enfants de Joseph, selon leurs familles.",
+        "OST": "Telles sont les familles des fils d'Éphraïm, selon leur dénombrement: trente-deux mille cinq cents. Ce sont là les fils de Joseph, selon leurs familles.",
+        "S21": "Tels sont les clans des descendants d'Ephraïm. On dénombra 32'500 hommes. Ce sont les descendants de Joseph en fonction de leur clan."
+      }
+    },
+    {
+      "verse": 38,
+      "texts": {
+        "BDS": "Descendants de Benjamin, classés par familles:\r\nde Béla, la famille des Balites;\r\nd’Achbel, celle des Achbélites;\r\nd’Ahiram, celle des Ahiramites;",
+        "DBY": "Les fils de Benjamin, selon leurs familles: de Béla, la famille des Balites; d'Ashbel, la famille des Ashbélites; d'Akhiram, la famille des Akhiramites;",
+        "KJV": "The sons of Benjamin after their families: of Bela, the family of the Belaites: of Ashbel, the family of the Ashbelites: of Ahiram, the family of the Ahiramites:",
+        "LSG": "Fils de Benjamin, selon leurs familles: de Béla descend la famille des Balites; d'Aschbel, la famille des Aschbélites; d'Achiram, la famille des Achiramites;",
+        "MAB": "Les enfants de Benjamin, selon leurs familles. De Bélah, la famille des Balhites; d'Asbel, la famille des Asbélites; d'Ahiram, la famille des Ahiramites.",
+        "OST": "Fils de Benjamin, selon leurs familles: de Béla, la famille des Balites; d'Ashbel, la famille des Ashbélites; d'Achiram, la famille des Achiramites;",
+        "S21": "Voici les descendants de Benjamin en fonction de leur clan: de Béla descend le clan des Balites, d'Ashbel celui des Ashbélites, d'Achiram celui des Achiramites,"
+      }
+    },
+    {
+      "verse": 39,
+      "texts": {
+        "BDS": "de Choupham, celle des Chouphamites;\r\nde Houpham, celle des Houphamites.",
+        "DBY": "de Shephupham, la famille des Shuphamites; de Hupham, la famille des Huphamites.",
+        "KJV": "Of Shupham, the family of the Shuphamites: of Hupham, the family of the Huphamites.",
+        "LSG": "de Schupham, la famille des Schuphamites; de Hupham, la famille des Huphamites. -",
+        "MAB": "De Séphupham, la famille des Séphuphamites; de Hupham, la famille des Huphamites.",
+        "OST": "De Shéphupham, la famille des Shuphamites; de Hupham, la famille des Huphamites.",
+        "S21": "de Shupham celui des Shuphamites, de Hupham celui des Huphamites."
+      }
+    },
+    {
+      "verse": 40,
+      "texts": {
+        "BDS": "Béla eut deux fils:\r\nArd, de qui est issue la famille des Ardites,\r\net Naaman, de qui est issue la famille des Naamanites.",
+        "DBY": "-Et les fils de Béla furent Ard et Naaman: d'Ard, la famille des Ardites; de Naaman, la famille des Naamites.",
+        "KJV": "And the sons of Bela were Ard and Naaman: [of Ard], the family of the Ardites: [and] of Naaman, the family of the Naamites.",
+        "LSG": "Les fils de Béla furent: Ard et Naaman. D'Ard descend la famille des Ardites; de Naaman, la famille des Naamanites.",
+        "MAB": "Et les enfants de Bélah furent Ard et Nahaman ; d'Ard, la famille des Ardites; et de Nahaman, la famille des Nahamanites.",
+        "OST": "Les fils de Béla furent Ard et Naaman; d'Ard, la famille des Ardites; de Naaman, la famille des Naamites.",
+        "S21": "Les fils de Béla furent Ard et Naaman. D'Ard descend le clan des Ardites et de Naaman celui des Naamanites."
+      }
+    },
+    {
+      "verse": 41,
+      "texts": {
+        "BDS": "Telles étaient les familles de Benjamin. Leur effectif était de 45 600 hommes.",
+        "DBY": "-Ce sont là les fils de Benjamin, selon leurs familles; et leurs dénombrés, quarante cinq mille six cents.",
+        "KJV": "These [are] the sons of Benjamin after their families: and they that were numbered of them [were] forty and five thousand and six hundred.",
+        "LSG": "Ce sont là les fils de Benjamin, selon leurs familles et d'après leur dénombrement; quarante-cinq mille six cents.",
+        "MAB": "Ce sont là les enfants de Benjamin, selon leurs familles; et leur dénombrement fut de quarante-cinq mille six cents.",
+        "OST": "Tels sont les fils de Benjamin, selon leurs familles; et leur dénombrement fut de quarante-cinq mille six cents.",
+        "S21": "Tels sont les descendants de Benjamin en fonction de leur clan. On dénombra 45'600 hommes."
+      }
+    },
+    {
+      "verse": 42,
+      "texts": {
+        "BDS": "Voici les descendants de Dan classés par familles:\r\nde Chouham est issue la famille des Chouhamites. Les familles de Dan sont les familles des Chouhamites.",
+        "DBY": "Ce sont ici les fils de Dan, selon leurs familles: de Shukham, la famille des Shukhamites. Ce sont là les familles de Dan selon leurs familles.",
+        "KJV": "These [are] the sons of Dan after their families: of Shuham, the family of the Shuhamites. These [are] the families of Dan after their families.",
+        "LSG": "Voici les fils de Dan, selon leurs familles: de Schucham descend la famille des Schuchamites. Ce sont là les familles de Dan, selon leurs familles.",
+        "MAB": "Ce sont ici les enfants de Dan, selon leurs familles. De Suham, la famille des Suhamites; ce sont là les familles de Dan, selon leurs familles.",
+        "OST": "Voici les fils de Dan, selon leurs familles: de Shucham, la famille des Shuchamites. Ce sont là les familles de Dan, selon leurs familles;",
+        "S21": "Voici les descendants de Dan en fonction de leur clan: de Shucham descend le clan des Shuchamites. Tels sont les clans de Dan en fonction de leur clan."
+      }
+    },
+    {
+      "verse": 43,
+      "texts": {
+        "BDS": "L’ensemble des familles des Chouhamites était de 64 500 hommes.",
+        "DBY": "-Toutes les familles des Shukhamites, selon leur dénombrement, soixante-quatre mille quatre cents.",
+        "KJV": "All the families of the Shuhamites, according to those that were numbered of them, [were] threescore and four thousand and four hundred.",
+        "LSG": "Total pour les familles des Schuchamites, d'après leur dénombrement: soixante-quatre mille quatre cents.",
+        "MAB": "Toutes les familles des Suhamites, selon leur dénombrement, furent soixante-quatre mille, et quatre cents.",
+        "OST": "Toutes les familles des Shuchamites, selon leur dénombrement, furent soixante-quatre mille quatre cents.",
+        "S21": "On dénombra au total, pour les clans des Shuchamites, 64'400 hommes."
+      }
+    },
+    {
+      "verse": 44,
+      "texts": {
+        "BDS": "Descendants d’Aser, classés par familles:\r\nde Yimna la famille des Yimnites;\r\nde Yichvi, celle des Yichvites;\r\nde Beria, celle des Beriites.",
+        "DBY": "Les fils d'Aser, selon leurs familles: de Jimna, la famille des Jimna; de Jishvi, la famille des Jishvites; de Beriha, la famille des Berihites.",
+        "KJV": "[Of] the children of Asher after their families: of Jimna, the family of the Jimnites: of Jesui, the family of the Jesuites: of Beriah, the family of the Beriites.",
+        "LSG": "Fils d'Aser, selon leurs familles: de Jimna descend la famille des Jimnites; de Jischvi, la famille des Jischvites; de Beria, la famille des Beriites.",
+        "MAB": "Les enfants d'Aser, selon leurs familles. De Jimna, la famille des Jimnaïtes; de Jisui, la famille des Jisuites; de Bériah, la famille des Bériahites.",
+        "OST": "Fils d'Asser, selon leurs familles: de Jimma, la famille des Jimmites; de Jishvi, la famille des Jishvites; de Beria, la famille des Beriites.",
+        "S21": "Voici les descendants d'Aser en fonction de leur clan: de Jimna descend le clan des Jimnites, de Jishvi celui des Jishvites, de Beria celui des Beriites."
+      }
+    },
+    {
+      "verse": 45,
+      "texts": {
+        "BDS": "De ce dernier sont issues la famille des Hébrites de Héber et celle des Malkiélites de Malkiel.",
+        "DBY": "-Des fils de Beriha: de Héber, la famille des Hébrites; de Malkiel, la famille des Malkiélites.",
+        "KJV": "Of the sons of Beriah: of Heber, the family of the Heberites: of Malchiel, the family of the Malchielites.",
+        "LSG": "Des fils de Beria descendent: de Héber, la famille des Hébrites; de Malkiel, la famille des Malkiélites.",
+        "MAB": "Des enfants de Bériah, de Héber, la famille des Hébrites; de Malkiel, la famille des Malkiélites.",
+        "OST": "Des fils de Beria: de Héber, la famille des Hébrites; de Malkiel, la famille des Malkiélites.",
+        "S21": "Des fils de Beria descendent: de Héber le clan des Hébrites et de Malkiel celui des Malkiélites."
+      }
+    },
+    {
+      "verse": 46,
+      "texts": {
+        "BDS": "Aser avait aussi une fille appelée Serah.",
+        "DBY": "-Et le nom de la fille d'Aser était Sérakh.",
+        "KJV": "And the name of the daughter of Asher [was] Sarah.",
+        "LSG": "Le nom de la fille d'Aser était Sérach.",
+        "MAB": "Et le nom de la fille d'Aser, fut Sérah.",
+        "OST": "Et le nom de la fille d'Asser, était Sérach.",
+        "S21": "La fille d'Aser s’appelait Sérach."
+      }
+    },
+    {
+      "verse": 47,
+      "texts": {
+        "BDS": "Telles étaient les familles d’Aser. Leur effectif était de 53 400 hommes.",
+        "DBY": "Ce sont là les familles des fils d'Aser, selon leur dénombrement, cinquante-trois mille quatre cents.",
+        "KJV": "These [are] the families of the sons of Asher according to those that were numbered of them; [who were] fifty and three thousand and four hundred.",
+        "LSG": "Ce sont là les familles des fils d'Aser, d'après leur dénombrement: cinquante-trois mille quatre cents.",
+        "MAB": "Ce sont là les familles des enfants d'Aser, selon leur dénombrement, qui furent cinquante-trois mille quatre cents.",
+        "OST": "Telles sont les familles des fils d'Asser, selon leur dénombrement: cinquante-trois mille quatre cents.",
+        "S21": "Tels sont les clans des descendants d'Aser. On dénombra 53'400 hommes."
+      }
+    },
+    {
+      "verse": 48,
+      "texts": {
+        "BDS": "Descendants de Nephtali, classés par familles:\r\nde Yahtseél, la famille des Yahtseélites;\r\nde Gouni, celle des Gounites;",
+        "DBY": "Les fils de Nephthali, selon leurs familles: de Jahtseël, la famille des Jahtseélites; de Guni, la famille des Gunites;",
+        "KJV": "[Of] the sons of Naphtali after their families: of Jahzeel, the family of the Jahzeelites: of Guni, the family of the Gunites:",
+        "LSG": "Fils de Nephthali, selon leurs familles: de Jahtseel descend la famille des Jahtseélites; de Guni, la famille des Gunites;",
+        "MAB": "Les enfants de Nephthali, selon leurs familles. De Jahtséel, la famille des Jahtséélites; de Guni, la famille des Gunites.",
+        "OST": "Fils de Nephthali, selon leurs familles: de Jahtseel, la famille des Jahtséelites; de Guni, la famille des Gunites;",
+        "S21": "Voici les descendants de Nephthali en fonction de leur clan: de Jahtseel descend le clan des Jahtseélites, de Guni celui des Gunites,"
+      }
+    },
+    {
+      "verse": 49,
+      "texts": {
+        "BDS": "de Yétsér, celle des Yitsrites;\r\nde Chillem, celle des Chillémites.",
+        "DBY": "de Jétser, la famille des Jitsrites; de Shillem, la famille des Shillémites.",
+        "KJV": "Of Jezer, the family of the Jezerites: of Shillem, the family of the Shillemites.",
+        "LSG": "de Jetser, la famille des Jitsrites; de Schillem, la famille des Schillémites.",
+        "MAB": "De Jetser la famille des Jitsrites; de Sillem, la famille des Sillémites.",
+        "OST": "De Jetser, la famille des Jitsrites; de Shillem, la famille des Shillémites.",
+        "S21": "de Jetser celui des Jitsrites, de Shillem celui des Shillémites."
+      }
+    },
+    {
+      "verse": 50,
+      "texts": {
+        "BDS": "Telles étaient les familles de Nephtali. Leur effectif était de 45 400 hommes.",
+        "DBY": "-Ce sont là les familles de Nephthali, selon leurs familles; et leurs dénombrés, quarante cinq mille quatre cents.",
+        "KJV": "These [are] the families of Naphtali according to their families: and they that were numbered of them [were] forty and five thousand and four hundred.",
+        "LSG": "Ce sont là les familles de Nephthali, selon leurs familles et d'après leur dénombrement: quarante-cinq mille quatre cents.",
+        "MAB": "Ce sont là les familles de Nephthali, selon leurs familles, et leur dénombrement fut de quarante-cinq mille quatre cents.",
+        "OST": "Telles sont les familles de Nephthali, selon leurs familles; et leur dénombrement fut de quarante-cinq mille quatre cents.",
+        "S21": "Tels sont les clans de Nephthali en fonction de leur clan. On dénombra 45'400 hommes."
+      }
+    },
+    {
+      "verse": 51,
+      "texts": {
+        "BDS": "L’effectif total des Israélites recensés était de 601 730 hommes.",
+        "DBY": "Ce sont là les dénombrés des fils d'Israël, six cent un mille sept cent trente.",
+        "KJV": "These [were] the numbered of the children of Israel, six hundred thousand and a thousand seven hundred and thirty.",
+        "LSG": "Tels sont ceux des enfants d'Israël dont on fit le dénombrement: six cent un mille sept cent trente.",
+        "MAB": "Ce sont là les dénombrés des enfants d'Israël, qui furent six cent et un mille sept cent trente.",
+        "OST": "Tels sont ceux des enfants d'Israël dont on fit le dénombrement: six cent un mille sept cent trente.",
+        "S21": "On dénombra 601'730 Israélites."
+      }
+    },
+    {
+      "verse": 52,
+      "texts": {
+        "BDS": "L’Eternel parla à Moïse, en ces termes:",
+        "DBY": "Et l'Éternel parla à Moïse, disant:",
+        "KJV": "And the LORD spake unto Moses, saying,",
+        "LSG": "L'Eternel parla à Moïse, et dit:",
+        "MAB": "Et l'Eternel parla à Moïse, en disant :",
+        "OST": "Et l'Éternel parla à Moïse, en disant:",
+        "S21": "L'Eternel dit à Moïse:"
+      }
+    },
+    {
+      "verse": 53,
+      "texts": {
+        "BDS": "—C’est entre ceux-là que le pays sera partagé, et donné en possession en se basant sur le nombre de personnes.",
+        "DBY": "Le pays sera partagé à ceux-ci en héritage, selon le nombre des noms.",
+        "KJV": "Unto these the land shall be divided for an inheritance according to the number of names.",
+        "LSG": "Le pays sera partagé entre eux, pour être leur propriété, selon le nombre des noms.",
+        "MAB": "Le pays sera partagé à ceux-ci par héritage, selon le nombre des noms.",
+        "OST": "Le pays sera partagé entre ceux-ci en héritage, selon le nombre des noms;",
+        "S21": "«Le pays sera partagé entre eux pour être leur propriété proportionnellement au nombre de personnes."
+      }
+    },
+    {
+      "verse": 54,
+      "texts": {
+        "BDS": "Aux tribus plus nombreuses, tu donneras un patrimoine plus grand, et aux moins nombreuses, un plus petit; à chacun sera donné un territoire proportionné à son effectif.",
+        "DBY": "A ceux qui sont nombreux tu augmenteras l'héritage; et à ceux qui sont peu nombreux tu diminueras l'héritage: tu donneras à chacun son héritage en proportion de ses dénombrés.",
+        "KJV": "To many thou shalt give the more inheritance, and to few thou shalt give the less inheritance: to every one shall his inheritance be given according to those that were numbered of him.",
+        "LSG": "A ceux qui sont en plus grand nombre tu donneras une portion plus grande, et à ceux qui sont en plus petit nombre tu donneras une portion plus petite; on donnera à chacun sa portion d'après le dénombrement.",
+        "MAB": "A ceux qui sont en plus grand nombre tu donneras plus d'héritage, et à ceux qui sont en plus petit nombre tu donneras moins d'héritage; on donnera à chacun son héritage selon le nombre de ses dénombrés.",
+        "OST": "A ceux qui sont en grand nombre, tu donneras plus d'héritage, et à ceux qui sont en petit nombre, tu donneras moins d'héritage; on donnera à chacun son héritage en proportion de son recensement.",
+        "S21": "A ceux qui sont plus nombreux tu donneras une portion plus grande, et à ceux qui sont moins nombreux tu donneras une portion plus petite. On donnera à chacun sa portion en se basant sur le dénombrement."
+      }
+    },
+    {
+      "verse": 55,
+      "texts": {
+        "BDS": "Toutefois, c’est par tirage au sort que se fera le partage du pays; chaque tribu recevra sa part d’après le nombre de ses ressortissants.",
+        "DBY": "Seulement, le pays sera partagé par le sort; ils l'hériteront selon les noms des tribus de leurs pères.",
+        "KJV": "Notwithstanding the land shall be divided by lot: according to the names of the tribes of their fathers they shall inherit.",
+        "LSG": "Mais le partage du pays aura lieu par le sort; ils le recevront en propriété selon les noms des tribus de leurs pères.",
+        "MAB": "Toutefois que le pays soit divisé par sort, [et] qu'ils prennent leur héritage selon les noms des Tribus de leurs pères.",
+        "OST": "Mais le pays sera partagé par le sort; ils recevront leur héritage selon les noms des tribus de leurs pères.",
+        "S21": "Toutefois, le partage du pays s’effectuera par tirage au sort. Ils le recevront en propriété selon le nom des tribus de leurs ancêtres."
+      }
+    },
+    {
+      "verse": 56,
+      "texts": {
+        "BDS": "C’est le sort qui décidera du territoire attribué aux plus nombreux et à ceux qui le sont moins.",
+        "DBY": "C'est selon la décision du sort que leur héritage sera partagé, qu'ils soient en grand nombre ou en petit nombre.",
+        "KJV": "According to the lot shall the possession thereof be divided between many and few.",
+        "LSG": "C'est par le sort que le pays sera partagé entre ceux qui sont en grand nombre et ceux qui sont en petit nombre.",
+        "MAB": "L'héritage de chacun sera selon que le sort le montrera, et on aura égard au plus grand et au plus petit nombre.",
+        "OST": "L'héritage de chacun sera déterminé par le sort, en ayant égard au grand nombre ou au petit nombre.",
+        "S21": "C'est par tirage au sort qu’on répartira le pays entre eux, en fonction de leur nombre.»"
+      }
+    },
+    {
+      "verse": 57,
+      "texts": {
+        "BDS": "Voici les effectifs des lévites recensés par familles: de Guerchôn est issue la famille des Guerchonites; de Qehath, celle des Qehatites; de Merari, celle des Merarites.",
+        "DBY": "Et ce sont ici les dénombrés de Lévi, selon leurs familles: de Guershon, la famille des Guershonites; de Kehath, la famille des Kehathites; de Merari, la famille des Merarites.",
+        "KJV": "And these [are] they that were numbered of the Levites after their families: of Gershon, the family of the Gershonites: of Kohath, the family of the Kohathites: of Merari, the family of the Merarites.",
+        "LSG": "Voici les Lévites dont on fit le dénombrement, selon leurs familles: de Guerschon descend la famille des Guerschonites; de Kehath, la famille des Kehathites; de Merari, la famille des Merarites.",
+        "MAB": "Et ce sont ici les dénombrés de Lévi selon leurs familles; de Guerson, la famille des Guersonites; de Kéhath, la famille des Kéhathites; de Mérari, la famille des Mérarites.",
+        "OST": "Voici les Lévites dont on fit le dénombrement, selon leurs familles: de Guershon, la famille des Guershonites; de Kéhath, la famille des Kéhathites; de Mérari, la famille des Mérarites.",
+        "S21": "Voici les Lévites dont on fit le dénombrement en fonction de leur clan: de Guershon descend le clan des Guershonites, de Kehath celui des Kehathites, de Merari celui des Merarites."
+      }
+    },
+    {
+      "verse": 58,
+      "texts": {
+        "BDS": "Voici les familles issues de Lévi: celle des Libnites, des Hébronites, des Mahlites, des Mouchites et des Qoréites. Qehath eut pour fils Amrâm",
+        "DBY": "Ce sont ici les familles de Lévi: la famille des Libnites, la famille des Hébronites, la famille des Makhites, la famille des Mushites, la famille des Corites. -Et Kehath engendra Amram.",
+        "KJV": "These [are] the families of the Levites: the family of the Libnites, the family of the Hebronites, the family of the Mahlites, the family of the Mushites, the family of the Korathites. And Kohath begat Amram.",
+        "LSG": "Voici les familles de Lévi: la famille des Libnites, la famille des Hébronites, la famille des Machlites, la famille des Muschites, la famille des Korites. Kehath engendra Amram.",
+        "MAB": "Ce sont donc ici les familles de Lévi; la famille des Libnites, la famille des Hébronites, la famille des Mahlites, la famille des Musites, la famille des Corhites. Or Kéhath engendra Hamram.",
+        "OST": "Voici les familles de Lévi: la famille des Libnites, la famille des Hébronites, la famille des Machlites, la famille des Mushites, la famille des Corhites. Or Kéhath engendra Amram.",
+        "S21": "Voici les clans de Lévi: le clan des Libnites, celui des Hébronites, celui des Machlites, celui des Mushites, celui des Koréites. Kehath eut pour descendant Amram."
+      }
+    },
+    {
+      "verse": 59,
+      "texts": {
+        "BDS": "qui épousa Yokébed, fille de Lévi, née en Egypte. Ils eurent pour enfants Aaron, Moïse et leur sœur Miryam.",
+        "DBY": "Et le nom de la femme d'Amram était Jokébed, fille de Lévi, qui naquit à Lévi en Égypte; et elle enfanta à Amram, Aaron et Moïse, et Marie, leur sœur.",
+        "KJV": "And the name of Amram's wife [was] Jochebed, the daughter of Levi, whom [her mother] bare to Levi in Egypt: and she bare unto Amram Aaron and Moses, and Miriam their sister.",
+        "LSG": "Le nom de la femme d'Amram était Jokébed, fille de Lévi, laquelle naquit à Lévi, en Egypte; elle enfanta à Amram: Aaron, Moïse, et Marie, leur soeur.",
+        "MAB": "Et le nom de la femme de Hamram, fut Jokébed, fille de Lévi, qui naquit à Lévi en Egypte, et elle enfanta à Hamram, Aaron, Moïse, et Marie leur sœur.",
+        "OST": "Et le nom de la femme d'Amram était Jokébed, fille de Lévi, qui naquit à Lévi en Égypte; elle enfanta à Amram, Aaron, Moïse et Marie leur sœur.",
+        "S21": "La femme d'Amram s’appelait Jokébed. Elle était une descendante de Lévi née en Egypte; elle donna à Amram Aaron, Moïse et leur sœur Miriam."
+      }
+    },
+    {
+      "verse": 60,
+      "texts": {
+        "BDS": "Aaron eut pour fils: Nadab, Abihou, Eléazar et Itamar.",
+        "DBY": "Et à Aaron naquirent Nadab, et Abihu, Éléazar, et Ithamar.",
+        "KJV": "And unto Aaron was born Nadab, and Abihu, Eleazar, and Ithamar.",
+        "LSG": "Il naquit à Aaron: Nadab et Abihu, Eléazar et Ithamar.",
+        "MAB": "Et à Aaron naquirent Nadab, Abihu, Eléazar et Ithamar.",
+        "OST": "Et à Aaron, naquirent Nadab et Abihu, Éléazar et Ithamar.",
+        "S21": "Aaron eut pour fils Nadab et Abihu, Eléazar et Ithamar."
+      }
+    },
+    {
+      "verse": 61,
+      "texts": {
+        "BDS": "Nadab et Abihou moururent pour avoir présenté devant l’Eternel un feu profane.",
+        "DBY": "Et Nadab et Abihu moururent comme ils présentaient du feu étranger devant l'Éternel.",
+        "KJV": "And Nadab and Abihu died, when they offered strange fire before the LORD.",
+        "LSG": "Nadab et Abihu moururent, lorsqu'ils apportèrent devant l'Eternel du feu étranger.",
+        "MAB": "Et Nadab et Abihu moururent en offrant du feu étranger devant l'Eternel.",
+        "OST": "Mais Nadab et Abihu moururent en offrant un feu étranger devant l'Éternel.",
+        "S21": "Nadab et Abihu moururent lorsqu'ils apportèrent du feu étranger devant l'Eternel."
+      }
+    },
+    {
+      "verse": 62,
+      "texts": {
+        "BDS": "L’effectif des lévites de sexe masculin âgés d’un mois et plus était de 23 000. Les lévites ne furent pas compris dans le recensement des Israélites, car ils ne devaient pas recevoir de patrimoine comme ceux-ci.",
+        "DBY": "-Et les dénombrés des Lévites furent vingt trois mille, tous les mâles, depuis l'âge d'un mois et au-dessus; car ils ne furent pas dénombrés avec les fils d'Israël, parce qu'on ne leur donna pas d'héritage parmi les fils d'Israël.",
+        "KJV": "And those that were numbered of them were twenty and three thousand, all males from a month old and upward: for they were not numbered among the children of Israel, because there was no inheritance given them among the children of Israel.",
+        "LSG": "Ceux dont on fit le dénombrement, tous les mâles depuis l'âge d'un mois et au-dessus, furent vingt-trois mille. Ils ne furent pas compris dans le dénombrement des enfants d'Israël, parce qu'il ne leur fut point donné de possession au milieu des enfants d'Israël.",
+        "MAB": "Et tous les dénombrés des Lévites furent vingt-trois mille, tous mâles, depuis l'âge d'un mois, et au dessus, qui ne furent point dénombrés avec les [autres] enfants d'Israël, car on ne leur donna point d'héritage entre les enfants d'Israël.",
+        "OST": "Or ceux des Lévites qu'on dénombra furent vingt-trois mille, tous mâles, depuis l'âge d'un mois et au-dessus; car ils ne furent point dénombrés avec les enfants d'Israël, parce qu'il ne leur fut point donné d'héritage au milieu des enfants d'Israël.",
+        "S21": "On dénombra au total 23'000 hommes âgés d'un mois et plus. Ils ne furent pas inclus dans le dénombrement des Israélites parce qu'ils ne reçurent pas de possession au milieu d’eux."
+      }
+    },
+    {
+      "verse": 63,
+      "texts": {
+        "BDS": "Tel fut le résultat du recensement des Israélites effectué par Moïse et le prêtre Eléazar dans les plaines de Moab au bord du Jourdain, en face de Jéricho.",
+        "DBY": "Ce sont là ceux qui furent dénombrés par Moïse et Éléazar, le sacrificateur, qui dénombrèrent les fils d'Israël dans les plaines de Moab, près du Jourdain de Jéricho.",
+        "KJV": "These [are] they that were numbered by Moses and Eleazar the priest, who numbered the children of Israel in the plains of Moab by Jordan [near] Jericho.",
+        "LSG": "Tels sont ceux des enfants d'Israël dont Moïse et le sacrificateur Eléazar firent le dénombrement dans les plaines de Moab, près du Jourdain, vis-à-vis de Jéricho.",
+        "MAB": "Ce sont là ceux qui furent dénombrés par Moïse et Eléazar le Sacrificateur, qui firent le dénombrement des enfants d'Israël aux campagnes de Moab, près du Jourdain de Jéricho.",
+        "OST": "Tel est le dénombrement fait par Moïse et Éléazar; le sacrificateur, qui dénombrèrent les enfants d'Israël dans les campagnes de Moab, près du Jourdain de Jérico;",
+        "S21": "Tels sont les Israélites dont Moïse et le prêtre Eléazar firent le dénombrement dans les plaines de Moab, près du Jourdain, vis-à-vis de Jéricho."
+      }
+    },
+    {
+      "verse": 64,
+      "texts": {
+        "BDS": "Parmi eux, il ne restait plus personne de ceux que Moïse et Aaron avaient recensés dans le désert du Sinaï,",
+        "DBY": "Et parmi ceux-là, il n'y a eut aucun de ceux qui avaient été dénombrés par Moïse et Aaron, le sacrificateur, qui dénombrèrent les fils d'Israël dans le désert de Sinaï;",
+        "KJV": "But among these there was not a man of them whom Moses and Aaron the priest numbered, when they numbered the children of Israel in the wilderness of Sinai.",
+        "LSG": "Parmi eux, il n'y avait aucun des enfants d'Israël dont Moïse et le sacrificateur Aaron avaient fait le dénombrement dans le désert de Sinaï.",
+        "MAB": "Entre lesquels il ne s'en trouva aucun de ceux qui avaient été dénombrés par Moïse et Aaron Sacrificateur, quand ils firent le dénombrement des enfants d'Israël au désert de Sinaï.",
+        "OST": "Et parmi ceux-ci il n'y avait aucun de ceux qui avaient été dénombrés par Moïse et Aaron, le sacrificateur, quand ils firent le dénombrement des enfants d'Israël au désert de Sinaï;",
+        "S21": "Parmi eux ne figurait aucun des Israélites dont Moïse et le prêtre Aaron avaient fait le dénombrement dans le désert du Sinaï."
+      }
+    },
+    {
+      "verse": 65,
+      "texts": {
+        "BDS": "car l’Eternel leur avait déclaré qu’ils mourraient dans le désert. Il ne subsistait donc aucun d’entre eux, excepté Caleb, fils de Yephounné, et Josué, fils de Noun.",
+        "DBY": "car l'Éternel avait dit d'eux: Ils mourront certainement dans le désert; et il n'en resta pas un homme, excepté Caleb, fils de Jephunné, et Josué, fils de Nun.",
+        "KJV": "For the LORD had said of them, They shall surely die in the wilderness. And there was not left a man of them, save Caleb the son of Jephunneh, and Joshua the son of Nun.",
+        "LSG": "Car l'Eternel avait dit: ils mourront dans le désert, et il n'en restera pas un, excepté Caleb, fils de Jephunné, et Josué, fils de Nun.",
+        "MAB": "Car l'Eternel avait dit d'eux, que certainement ils mourraient au désert; et ainsi il n'en resta pas un, excepté Caleb, fils de Jéphunné, et Josué, fils de Nun.",
+        "OST": "Car l'Éternel avait dit d'eux: Ils mourront dans le désert; et il n'en resta pas un, excepté Caleb, fils de Jephunné, et Josué, fils de Nun.",
+        "S21": "En effet, l'Eternel avait dit: «Ils mourront dans le désert et il ne restera pas un seul d’entre eux, excepté Caleb, fils de Jephunné, et Josué, fils de Nun.»"
+      }
+    }
+  ]
+}

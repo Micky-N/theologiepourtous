@@ -1,4 +1,5 @@
 import { prisma } from '~~/lib/prisma';
+import { buildBookPayload, buildVersePreview, resolveSyntheticVerseReference } from '~~/server/utils/bibleData';
 
 export default defineEventHandler(async (event) => {
     try {
@@ -24,15 +25,9 @@ export default defineEventHandler(async (event) => {
             });
         }
 
-        // Vérifier que le verset existe
-        const verse = await prisma.bibleVerse.findUnique({
-            where: { id: verseId },
-            include: {
-                book: true
-            }
-        });
+        const syntheticReference = await resolveSyntheticVerseReference(verseId);
 
-        if (!verse) {
+        if (!syntheticReference) {
             throw createError({
                 statusCode: 404,
                 statusMessage: 'Verset non trouvé'
@@ -43,34 +38,37 @@ export default defineEventHandler(async (event) => {
         const note = await prisma.bibleNote.create({
             data: {
                 userId,
-                verseId,
-                bookId: verse.bookId,
+                bookOrderIndex: syntheticReference.book.orderIndex,
+                versionOrderIndex: syntheticReference.version.orderIndex,
+                chapter: syntheticReference.chapter,
+                verse: syntheticReference.verse,
                 title: title || null,
                 content,
                 isPrivate: isPrivate !== false // par défaut true
-            },
-            include: {
-                book: {
-                    select: {
-                        id: true,
-                        name: true
-                    }
-                },
-                verse: {
-                    select: {
-                        id: true,
-                        chapter: true,
-                        verse: true,
-                        text: true
-                    }
-                }
             }
+        });
+
+        const verse = await buildVersePreview({
+            bookCode: syntheticReference.book.code,
+            chapter: note.chapter,
+            verse: note.verse,
+            versionCode: syntheticReference.version.code,
+            versionName: syntheticReference.version.name
         });
 
         return {
             success: true,
             message: 'Note créée avec succès',
-            note
+            note: {
+                id: note.id,
+                title: note.title,
+                content: note.content,
+                isPrivate: note.isPrivate,
+                createdAt: note.createdAt,
+                updatedAt: note.updatedAt,
+                book: buildBookPayload(syntheticReference.book),
+                verse
+            }
         };
     } catch (error: any) {
         console.error('Erreur lors de la création de la note:', error);

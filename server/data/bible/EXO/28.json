@@ -1,0 +1,522 @@
+{
+  "bookCode": "EXO",
+  "chapter": 28,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "—Tu feras venir auprès de toi ton frère Aaron et ses fils, Nadab et Abihou, Eléazar et Itamar. Ils seront pris du milieu des Israélites pour me servir comme prêtres.",
+        "DBY": "Et toi, fais approcher de toi Aaron, ton frère, et ses fils avec lui, du milieu des fils d'Israël, pour exercer la sacrificature devant moi: Aaron, Nadab et Abihu, Éléazar et Ithamar, fils d'Aaron.",
+        "KJV": "And take thou unto thee Aaron thy brother, and his sons with him, from among the children of Israel, that he may minister unto me in the priest's office, [even] Aaron, Nadab and Abihu, Eleazar and Ithamar, Aaron's sons.",
+        "LSG": "Fais approcher de toi Aaron, ton frère, et ses fils, et prends-les parmi les enfants d'Israël pour les consacrer à mon service dans le sacerdoce: Aaron et les fils d'Aaron, Nadab, Abihu, Eléazar et Ithamar.",
+        "MAB": "Et toi fais approcher de toi Aaron ton frère, et ses fils avec lui, d'entre les enfants d'Israël, pour m'exercer la Sacrificature, [savoir] Aaron, et Nadab, Abihu, Eléazar et Ithamar, fils d'Aaron.",
+        "OST": "Fais aussi approcher de toi, d'entre les enfants d'Israël, Aaron ton frère, avec ses fils, pour exercer devant moi la sacrificature: Aaron, Nadab et Abihu, Éléazar et Ithamar, fils d'Aaron.",
+        "S21": "»Fais approcher de toi ton frère Aaron et ses fils, prends-les parmi les Israélites pour qu’ils me servent en tant que prêtres. Il s’agit d’Aaron et de ses fils Nadab, Abihu, Eléazar et Ithamar."
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "Tu confectionneras pour ton frère Aaron des vêtements sacrés, insignes de gloire et de dignité.",
+        "DBY": "Et tu feras de saints vêtements à Aaron, ton frère, pour gloire et pour ornement.",
+        "KJV": "And thou shalt make holy garments for Aaron thy brother for glory and for beauty.",
+        "LSG": "Tu feras à Aaron, ton frère, des vêtements sacrés, pour marquer sa dignité et pour lui servir de parure.",
+        "MAB": "Et tu feras à Aaron ton frère de saints vêtements pour gloire et pour ornement.",
+        "OST": "Et tu feras à Aaron, ton frère, des vêtements sacrés, pour sa gloire et pour son ornement.",
+        "S21": "»Tu feras à ton frère Aaron des vêtements sacrés pour marquer son importance et son rang."
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "Tu donneras des instructions à tous les artisans habiles que j’ai remplis d’un Esprit qui leur confère de l’habileté: tu leur demanderas de confectionner les vêtements d’Aaron pour sa consécration à mon sacerdoce.",
+        "DBY": "Et toi, tu parleras à tous les hommes intelligents que j'ai remplis de l'esprit de sagesse, et ils feront les vêtements d'Aaron pour le sanctifier, afin qu'il exerce la sacrificature devant moi.",
+        "KJV": "And thou shalt speak unto all [that are] wise hearted, whom I have filled with the spirit of wisdom, that they may make Aaron's garments to consecrate him, that he may minister unto me in the priest's office.",
+        "LSG": "Tu parleras à tous ceux qui sont habiles, à qui j'ai donné un esprit plein d'intelligence; et ils feront les vêtements d'Aaron, afin qu'il soit consacré et qu'il exerce mon sacerdoce.",
+        "MAB": "Et tu parleras à tous les hommes d'esprit, à chacun de ceux que j'ai remplis de l'esprit de science, afin qu'ils fassent des vêtements à Aaron pour le sanctifier, afin qu'il m'exerce la Sacrificature.",
+        "OST": "Et tu parleras à tous ceux qui sont intelligents, que j'ai remplis d'un esprit de sagesse, et ils feront les vêtements d'Aaron pour le consacrer, pour qu'il exerce la sacrificature devant moi.",
+        "S21": "Tu parleras à tous les artisans, que j'ai remplis d’un esprit d'habileté, et ils feront les vêtements qu’Aaron portera lorsqu'il sera consacré et lorsqu'il remplira la fonction de prêtre pour moi."
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "Voici les habits qu’ils auront à confectionner: un pectoral, un éphod, une robe, une tunique brodée, un turban et une écharpe. Ils feront ces vêtements sacrés pour ton frère Aaron et pour ses fils, afin qu’ils me servent comme prêtres.",
+        "DBY": "Et ce sont ici les vêtements qu'ils feront: un pectoral, et un éphod, et une robe, et une tunique brodée, une tiare, et une ceinture; et ils feront les saints vêtements pour Aaron, ton frère, et pour ses fils, afin qu'ils exercent la sacrificature devant moi.",
+        "KJV": "And these [are] the garments which they shall make; a breastplate, and an ephod, and a robe, and a broidered coat, a mitre, and a girdle: and they shall make holy garments for Aaron thy brother, and his sons, that he may minister unto me in the priest's office.",
+        "LSG": "Voici les vêtements qu'ils feront: un pectoral, un éphod, une robe, une tunique brodée, une tiare, et une ceinture. Ils feront des vêtements sacrés à Aaron, ton frère, et à ses fils, afin qu'ils exercent mon sacerdoce.",
+        "MAB": "Et ce sont ici les vêtements qu'ils feront; le Pectoral, l'Ephod, le Rochet, la Tunique, qui tienne serré, la Tiare, et le Baudrier; ils feront donc les saints vêtements à Aaron ton frère, et à ses fils, pour m'exercer la Sacrificature.",
+        "OST": "Et voici les vêtements qu'ils feront: Le pectoral, l'éphod, la robe, la tunique brodée, la tiare et la ceinture. Ils feront donc des vêtements sacrés à Aaron, ton frère, et à ses fils, pour qu'ils exercent devant moi la sacrificature.",
+        "S21": "Voici les vêtements qu'ils feront: un pectoral, un éphod, une robe, une tunique brodée, une tiare et une écharpe. Ils feront des vêtements sacrés destinés à ton frère Aaron et à ses fils lorsqu'ils rempliront la fonction de prêtres pour moi."
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "Ils utiliseront des fils d’or, de pourpre violette, de pourpre écarlate, de rouge éclatant et du fin lin.",
+        "DBY": "Et ils prendront de l'or, et du bleu, et de la pourpre, et de l'écarlate, et du fin coton;",
+        "KJV": "And they shall take gold, and blue, and purple, and scarlet, and fine linen.",
+        "LSG": "Ils emploieront de l'or, des étoffes teintes en bleu, en pourpre, en cramoisi, et de fin lin.",
+        "MAB": "Et ils prendront de l'or, de la pourpre, de l'écarlate, du cramoisi, et du fin lin.",
+        "OST": "Et ils prendront de l'or, de la pourpre, de l'écarlate, du cramoisi et du fin lin.",
+        "S21": "Ils emploieront de l'or, des étoffes teintes en bleu, en pourpre, en cramoisi, et du fin lin."
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "—Ils feront l’éphod avec des fils d’or, de pourpre violette, de pourpre écarlate, de rouge éclatant et de fin lin retors. Ce sera l’œuvre d’artisans.",
+        "DBY": "et ils feront l'éphod, d'or, de bleu, et de pourpre, d'écarlate, et de fin coton retors, en ouvrage d'art.",
+        "KJV": "And they shall make the ephod [of] gold, [of] blue, and [of] purple, [of] scarlet, and fine twined linen, with cunning work.",
+        "LSG": "Ils feront l'éphod d'or, de fil bleu, pourpre et cramoisi, et de fin lin retors; il sera artistement travaillé.",
+        "MAB": "Et ils feront l'Ephod d'or, de pourpre, d'écarlate, de cramoisi, et de fin lin retors, d'un ouvrage exquis.",
+        "OST": "Et ils feront l'éphod d'or, de pourpre, d'écarlate, de cramoisi et de fin lin retors, en ouvrage d'art.",
+        "S21": "»Ils feront l'éphod en or, en fil bleu, pourpre et cramoisi, et en fin lin retors. Il sera fait selon l’art du brodeur."
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "On y fera deux bretelles fixées à ses deux bords.",
+        "DBY": "Il aura, à ses deux bouts, deux épaulières pour l'assembler; il sera ainsi joint.",
+        "KJV": "It shall have the two shoulderpieces thereof joined at the two edges thereof; and [so] it shall be joined together.",
+        "LSG": "On y fera deux épaulettes, qui le joindront par ses deux extrémités; et c'est ainsi qu'il sera joint.",
+        "MAB": "Il aura deux épaulières qui se joindront par les deux bouts, et il sera [ainsi] joint.",
+        "OST": "Il y aura à ses deux extrémités deux épaulettes qui se joindront; et c'est ainsi qu'il sera joint.",
+        "S21": "On y fera 2 bretelles qui le relieront par ses 2 bords; c'est ainsi qu'il sera assemblé."
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "Sa ceinture sera faite de la même façon, de la même étoffe que l’éphod; elle sera faite de fils d’or, de pourpre violette, de pourpre écarlate, de rouge éclatant et de fin lin retors.",
+        "DBY": "Et la ceinture de son éphod, qui sera par-dessus, sera du même travail, de la même matière, d'or, de bleu, et de pourpre, et d'écarlate, et de fin coton retors.",
+        "KJV": "And the curious girdle of the ephod, which [is] upon it, shall be of the same, according to the work thereof; [even of] gold, [of] blue, and purple, and scarlet, and fine twined linen.",
+        "LSG": "La ceinture sera du même travail que l'éphod et fixée sur lui; elle sera d'or, de fil bleu, pourpre et cramoisi, et de fin lin retors.",
+        "MAB": "Le ceinturon exquis dont il sera ceint, [et] qui sera par-dessus, sera de même ouvrage, et tiré de lui, [étant] d'or, de pourpre, d'écarlate, de cramoisi, et de fin lin retors.",
+        "OST": "La ceinture pour l'attacher, qui se mettra par-dessus, sera du même ouvrage et de la même pièce; elle sera d'or, de pourpre, d'écarlate et de fin lin retors.",
+        "S21": "L’écharpe sera faite du même matériau que l'éphod et fixée sur lui; elle sera en or, en fil bleu, pourpre et cramoisi, et en fin lin retors."
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "Tu prendras deux pierres d’onyx sur lesquelles tu graveras les noms des fils d’Israël:",
+        "DBY": "-Et tu prendras deux pierres d'onyx, et tu graveras sur elles les noms des fils d'Israël:",
+        "KJV": "And thou shalt take two onyx stones, and grave on them the names of the children of Israel:",
+        "LSG": "Tu prendras deux pierres d'onyx, et tu y graveras les noms des fils d'Israël,",
+        "MAB": "Et tu prendras deux pierres d'Onyx, et tu graveras sur elles les noms des enfants d'Israël;",
+        "OST": "Et tu prendras deux pierres d'onyx, et tu graveras sur elles les noms des enfants d'Israël:",
+        "S21": "Tu prendras 2 pierres d'onyx et tu y graveras les noms des fils d'Israël,"
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "six noms sur la première pierre et les six autres sur la seconde dans l’ordre de leur naissance.",
+        "DBY": "six de leurs noms sur une pierre, et les six noms restants sur la seconde pierre, selon leur naissance.",
+        "KJV": "Six of their names on one stone, and [the other] six names of the rest on the other stone, according to their birth.",
+        "LSG": "six de leurs noms sur une pierre, et les six autres sur la seconde pierre, d'après l'ordre des naissances.",
+        "MAB": "Six de leurs noms sur une pierre et les six noms des autres, sur l'autre pierre, selon leur naissance.",
+        "OST": "Six de leurs noms sur une pierre, et les six autres noms sur la seconde pierre, d'après l'ordre de leurs naissances.",
+        "S21": "6 noms sur une pierre et les 6 autres sur la seconde pierre, d'après leur ordre de naissance."
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "Tu feras graver ces noms sur ces deux pierres par un graveur de pierre comme on grave une pierre servant de cachet; tu enchâsseras ces deux pierres dans deux montures en or",
+        "DBY": "Tu graveras, en ouvrage de lapidaire, en gravure de cachet, les deux pierres, d'après les noms des fils d'Israël; tu les feras enchâsser dans des chatons d'or.",
+        "KJV": "With the work of an engraver in stone, [like] the engravings of a signet, shalt thou engrave the two stones with the names of the children of Israel: thou shalt make them to be set in ouches of gold.",
+        "LSG": "Tu graveras sur les deux pierres les noms des fils d'Israël, comme on grave les pierres et les cachets; tu les entoureras de montures d'or.",
+        "MAB": "Tu graveras sur les deux pierres, d'ouvrage de lapidaire, de gravure de cachet, les noms des enfants d'Israël, et tu les enchâsseras dans des chatons d'or.",
+        "OST": "Tu graveras sur les deux pierres, en travail de lapidaire, en gravure de cachet, les noms des enfants d'Israël; tu les enchâsseras dans des chatons d'or.",
+        "S21": "Tu graveras les noms des fils d'Israël sur les deux pierres, comme le fait un graveur de pierres, un graveur de cachets, et tu les entoureras de montures en or."
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "et tu les fixeras sur les bretelles de l’éphod. Ces pierres rappelleront le souvenir des fils d’Israël, et Aaron portera leurs noms sur ses deux épaules devant l’Eternel comme un constant rappel.",
+        "DBY": "Et tu mettras les deux pierres sur les épaulières de l'éphod, comme pierres de mémorial pour les fils d'Israël; et Aaron portera leurs noms devant l'Éternel, sur ses deux épaules, en mémorial.",
+        "KJV": "And thou shalt put the two stones upon the shoulders of the ephod [for] stones of memorial unto the children of Israel: and Aaron shall bear their names before the LORD upon his two shoulders for a memorial.",
+        "LSG": "Tu mettras les deux pierres sur les épaulettes de l'éphod, en souvenir des fils d'Israël; et c'est comme souvenir qu'Aaron portera leurs noms devant l'Eternel sur ses deux épaules.",
+        "MAB": "Et tu mettras les deux pierres sur les épaulières de l'Ephod, afin qu'elles soient des pierres de mémorial pour les enfants d'Israël; car Aaron portera leurs noms sur ses deux épaules devant l'Eternel, pour mémorial.",
+        "OST": "Et tu mettras les deux pierres sur les épaulettes de l'éphod, comme des pierres de mémorial pour les enfants d'Israël; et Aaron portera leurs noms devant l'Éternel, sur ses deux épaules, en mémorial.",
+        "S21": "Tu mettras les deux pierres sur les bretelles de l'éphod en souvenir des fils d'Israël et c'est comme souvenir qu'Aaron portera leurs noms devant l'Eternel sur ses deux épaules."
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "Tu feras aussi faire les deux montures en or",
+        "DBY": "Et tu feras des chatons d'or,",
+        "KJV": "And thou shalt make ouches [of] gold;",
+        "LSG": "Tu feras des montures d'or,",
+        "MAB": "Tu feras aussi des crampons d'or;",
+        "OST": "Tu feras aussi des agrafes d'or,",
+        "S21": "Tu feras des montures en or"
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "et deux chaînettes en or pur que tu feras en forme de tresses torsadées; tu fixeras ces chaînettes ainsi tressées aux montures.",
+        "DBY": "et deux chaînettes d'or pur, à bouts; tu les feras en ouvrage de torsade; et tu attacheras les chaînettes en torsade aux chatons.",
+        "KJV": "And two chains [of] pure gold at the ends; [of] wreathen work shalt thou make them, and fasten the wreathen chains to the ouches.",
+        "LSG": "et deux chaînettes d'or pur, que tu tresseras en forme de cordons; et tu fixeras aux montures les chaînettes ainsi tressées.",
+        "MAB": "Et deux chaînettes de fin or à bouts, en façon de cordon, et tu mettras les chaînettes ainsi faites à cordon dans les crampons.",
+        "OST": "Et deux chaînettes d'or pur, que tu tresseras en forme de cordons, et tu mettras dans les agrafes les chaînettes ainsi tressées.",
+        "S21": "ainsi que 2 chaînettes en or pur, que tu tresseras en forme de cordons, et tu fixeras aux montures les chaînettes ainsi tressées."
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "—Tu feras le pectoral du verdict, ce sera une œuvre d’artisans, ouvragée comme l’éphod: tu le feras de fils d’or, de pourpre violette, de pourpre écarlate, de rouge éclatant et de fin lin retors.",
+        "DBY": "Et tu feras le pectoral de jugement; tu le feras en ouvrage d'art, comme l'ouvrage de l'éphod; tu le feras d'or, de bleu, et de pourpre, et d'écarlate, et de fin coton retors.",
+        "KJV": "And thou shalt make the breastplate of judgment with cunning work; after the work of the ephod thou shalt make it; [of] gold, [of] blue, and [of] purple, and [of] scarlet, and [of] fine twined linen, shalt thou make it.",
+        "LSG": "Tu feras le pectoral du jugement, artistement travaillé; tu le feras du même travail que l'éphod, tu le feras d'or, de fil bleu, pourpre et cramoisi, et de fin lin retors.",
+        "MAB": "Tu feras aussi le Pectoral de jugement d'un ouvrage exquis, comme l'ouvrage de l'Ephod, d'or, de pourpre, d'écarlate, de cramoisi, et de fin lin retors.",
+        "OST": "Tu feras aussi le pectoral du jugement en ouvrage d'art; tu le feras comme l'ouvrage de l'éphod; tu le feras d'or, de pourpre, d'écarlate, de cramoisi et de fin lin retors.",
+        "S21": "»Tu feras le pectoral du jugement selon l’art du brodeur. Tu le feras avec le même matériau que l'éphod, en or, en fil bleu, pourpre et cramoisi, et en fin lin retors."
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "Une fois replié en deux, il aura la forme d’un carré de vingt-cinq centimètres de côté.",
+        "DBY": "Il sera carré, double; sa longueur sera d'un empan, et sa largeur d'un empan.",
+        "KJV": "Foursquare it shall be [being] doubled; a span [shall be] the length thereof, and a span [shall be] the breadth thereof.",
+        "LSG": "Il sera carré et double; sa longueur sera d'un empan, et sa largeur d'un empan.",
+        "MAB": "Il sera carré [et] double; et sa longueur sera d'une paume, et sa largeur d'une paume.",
+        "OST": "Il sera carré et double; sa longueur sera d'un empan, et sa largeur d'un empan.",
+        "S21": "Il sera carré et double; sa longueur et sa largeur seront de 25 centimètres."
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "Tu y sertiras quatre rangées de pierreries. Sur la première, tu enchâsseras une sardoine, une topaze et une émeraude.",
+        "DBY": "Et tu le garniras de pierres enchâssées, de quatre rangées de pierres: la première rangée, une sardoine, une topaze, et une émeraude;",
+        "KJV": "And thou shalt set in it settings of stones, [even] four rows of stones: [the first] row [shall be] a sardius, a topaz, and a carbuncle: [this shall be] the first row.",
+        "LSG": "Tu y enchâsseras une garniture de pierres, quatre rangées de pierres: première rangée, une sardoine, une topaze, une émeraude;",
+        "MAB": "Et tu le rempliras de remplage de pierrerie, à quatre rangées de pierres [précieuses]. A la première rangée on mettra une Sardoine, une Topaze, et une Emeraude.",
+        "OST": "Et tu le garniras d'une garniture de pierreries à quatre rangs de pierres: au premier rang, une sardoine, une topaze et une émeraude;",
+        "S21": "Tu y enchâsseras une garniture de 4 rangées de pierres; première rangée: une sardoine, une topaze, une émeraude;"
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "Sur la seconde rangée: un rubis, un saphir et un diamant.",
+        "DBY": "et la seconde rangée, une escarboucle, un saphir, et un diamant;",
+        "KJV": "And the second row [shall be] an emerald, a sapphire, and a diamond.",
+        "LSG": "seconde rangée, une escarboucle, un saphir, un diamant;",
+        "MAB": "Et à la seconde rangée, une Escarboucle, un Saphir, et un Jaspe.",
+        "OST": "Au second rang une escarboucle, un saphir et une calcédoine;",
+        "S21": "deuxième rangée: une escarboucle, un saphir, un diamant;"
+      }
+    },
+    {
+      "verse": 19,
+      "texts": {
+        "BDS": "Sur la troisième: une opale, une agate et une améthyste.",
+        "DBY": "et la troisième rangée, une opale, une agate, et une améthyste;",
+        "KJV": "And the third row a ligure, an agate, and an amethyst.",
+        "LSG": "troisième rangée, une opale, une agate, une améthyste;",
+        "MAB": "Et à la troisième rangée, un Ligure, une Agathe, et une Améthyste.",
+        "OST": "Au troisième rang, une opale, une agate et une améthyste;",
+        "S21": "troisième rangée: une opale, une agate, une améthyste;"
+      }
+    },
+    {
+      "verse": 20,
+      "texts": {
+        "BDS": "Sur la quatrième: une chrysolithe, un onyx et un jaspe. Ces pierreries seront serties dans des chatons en or.",
+        "DBY": "et la quatrième rangée, un chrysolithe, un onyx, et un jaspe; elles seront enchâssées dans de l'or, dans leurs montures.",
+        "KJV": "And the fourth row a beryl, and an onyx, and a jasper: they shall be set in gold in their inclosings.",
+        "LSG": "quatrième rangée, une chrysolithe, un onyx, un jaspe. Ces pierres seront enchâssées dans leurs montures d'or.",
+        "MAB": "Et à la quatrième rangée, un Chrysolithe, un Onyx et un Béryl, qui seront enchâssés dans de l'or, selon leurs remplages.",
+        "OST": "Et au quatrième rang, un chrysolithe, un onyx et un jaspe. Ces pierres seront enchâssées dans de l'or, dans leurs garnitures.",
+        "S21": "quatrième rangée: une chrysolithe, un onyx, un jaspe. Ces pierres seront enchâssées dans leurs montures en or."
+      }
+    },
+    {
+      "verse": 21,
+      "texts": {
+        "BDS": "Elles seront gravées aux noms des douze fils d’Israël comme des sceaux à cacheter; chacune portera le nom d’une des douze tribus.",
+        "DBY": "Et les pierres seront selon les noms des fils d'Israël, douze, selon leurs noms, en gravure de cachet, chacune selon son nom; elles seront pour les douze tribus.",
+        "KJV": "And the stones shall be with the names of the children of Israel, twelve, according to their names, [like] the engravings of a signet; every one with his name shall they be according to the twelve tribes.",
+        "LSG": "Il y en aura douze, d'après les noms des fils d'Israël; elles seront gravées comme des cachets, chacune avec le nom de l'une des douze tribus. -",
+        "MAB": "Et ces pierres-là seront selon les noms des enfants d'Israël, douze selon leurs noms, chacune d'elles gravée de gravure de cachet, selon le nom qu'elle en doit porter, [et] elles seront pour les douze Tribus.",
+        "OST": "Et les pierres, selon les noms des enfants d'Israël, seront au nombre de douze, d'après leurs noms; elles seront pour les douze tribus, chacune d'après son nom, en gravure de cachet.",
+        "S21": "Il y en aura 12, d'après les noms des fils d'Israël. Elles seront gravées comme des cachets, chacune avec le nom de l'une des 12 tribus."
+      }
+    },
+    {
+      "verse": 22,
+      "texts": {
+        "BDS": "Tu feras pour le pectoral des chaînettes d’or pur, tressées comme des cordons.",
+        "DBY": "-Et tu feras sur le pectoral des chaînettes à bouts, en ouvrage de torsade, d'or pur;",
+        "KJV": "And thou shalt make upon the breastplate chains at the ends [of] wreathen work [of] pure gold.",
+        "LSG": "Tu feras sur le pectoral des chaînettes d'or pur, tressées en forme de cordons.",
+        "MAB": "Tu feras donc pour le Pectoral des chaînettes à bouts, en façon de cordon, qui seront de pur or.",
+        "OST": "Tu feras aussi, sur le pectoral, des chaînettes, tressées en forme de cordons, en or pur.",
+        "S21": "Tu feras sur le pectoral des chaînettes en or pur, tressées en forme de cordons."
+      }
+    },
+    {
+      "verse": 23,
+      "texts": {
+        "BDS": "Tu feras aussi deux anneaux d’or que tu fixeras aux deux bords du pectoral.",
+        "DBY": "et tu feras sur le pectoral deux anneaux d'or; et tu mettras les deux anneaux aux deux bouts du pectoral;",
+        "KJV": "And thou shalt make upon the breastplate two rings of gold, and shalt put the two rings on the two ends of the breastplate.",
+        "LSG": "Tu feras sur le pectoral deux anneaux d'or, et tu mettras ces deux anneaux aux deux extrémités du pectoral.",
+        "MAB": "Et tu feras sur le Pectoral deux anneaux d'or, et tu mettras les deux anneaux aux deux bouts du Pectoral.",
+        "OST": "Puis tu feras sur le pectoral deux anneaux d'or; et tu mettras les deux anneaux aux deux extrémités du pectoral.",
+        "S21": "Tu feras 2 anneaux en or sur le pectoral et tu les mettras aux 2 extrémités du pectoral."
+      }
+    },
+    {
+      "verse": 24,
+      "texts": {
+        "BDS": "Tu passeras les deux cordons d’or dans ces deux anneaux, aux bords du pectoral,",
+        "DBY": "et tu mettras les deux torsades d'or dans les deux anneaux, aux bouts du pectoral;",
+        "KJV": "And thou shalt put the two wreathen [chains] of gold in the two rings [which are] on the ends of the breastplate.",
+        "LSG": "Tu passeras les deux cordons d'or dans les deux anneaux aux deux extrémités du pectoral;",
+        "MAB": "Et tu mettras les deux chaînettes d'or faites à cordon, dans les deux anneaux à l'extrémité du Pectoral.",
+        "OST": "Et tu mettras les deux cordons d'or aux deux anneaux, aux extrémités du pectoral.",
+        "S21": "Tu passeras les 2 cordons en or dans les 2 anneaux placés aux 2 extrémités du pectoral;"
+      }
+    },
+    {
+      "verse": 25,
+      "texts": {
+        "BDS": "et tu fixeras les deux autres bouts des cordons aux deux agrafes, sur les deux bretelles de l’éphod, par devant.",
+        "DBY": "et tu mettras les deux bouts des deux torsades dans les deux chatons, et tu les mettras sur les épaulières de l'éphod, sur le devant.",
+        "KJV": "And [the other] two ends of the two wreathen [chains] thou shalt fasten in the two ouches, and put [them] on the shoulderpieces of the ephod before it.",
+        "LSG": "et tu arrêteras par devant les bouts des deux cordons aux deux montures placées sur les épaulettes de l'éphod.",
+        "MAB": "Et tu mettras les deux autres bouts des deux chaînettes faites à cordon, aux deux crampons, et tu les mettras sur les épaulières de l'Ephod, sur le devant de l'Ephod.",
+        "OST": "Et tu mettras les deux bouts des deux cordons aux deux agrafes; et tu les mettras sur les épaulettes de l'éphod sur le devant.",
+        "S21": "et tu fixeras par-devant les bouts des 2 cordons aux 2 montures placées sur les bretelles de l'éphod."
+      }
+    },
+    {
+      "verse": 26,
+      "texts": {
+        "BDS": "Tu feras de plus deux anneaux d’or que tu placeras aux deux coins inférieurs du pectoral, sur le bord intérieur appliqué contre l’éphod.",
+        "DBY": "Et tu feras deux anneaux d'or, et tu les placeras aux deux bouts du pectoral, sur son bord qui est contre l'éphod, en dedans.",
+        "KJV": "And thou shalt make two rings of gold, and thou shalt put them upon the two ends of the breastplate in the border thereof, which [is] in the side of the ephod inward.",
+        "LSG": "Tu feras encore deux anneaux d'or, que tu mettras aux deux extrémités du pectoral, sur le bord intérieur appliqué contre l'éphod.",
+        "MAB": "Tu feras aussi deux autres anneaux d'or, que tu mettras aux deux autres bouts du Pectoral, sur le bord qui sera du côté de l'Ephod en dedans.",
+        "OST": "Tu feras aussi deux autres anneaux d'or, et tu les mettras sur les deux autres extrémités du pectoral, sur le bord qui sera du côté de l'éphod, en dedans.",
+        "S21": "Tu feras encore 2 anneaux en or, que tu mettras aux 2 extrémités du pectoral, sur le bord intérieur appliqué contre l'éphod."
+      }
+    },
+    {
+      "verse": 27,
+      "texts": {
+        "BDS": "Tu feras deux autres anneaux d’or que tu fixeras aux deux bretelles en bas de l’éphod, sur le devant, près de l’endroit où elles sont fixées, tout près de la ceinture de l’éphod.",
+        "DBY": "Et tu feras deux anneaux d'or, et tu les mettras aux deux épaulières de l'éphod par en bas, sur le devant, juste à sa jointure au-dessus de la ceinture de l'éphod.",
+        "KJV": "And two [other] rings of gold thou shalt make, and shalt put them on the two sides of the ephod underneath, toward the forepart thereof, over against the [other] coupling thereof, above the curious girdle of the ephod.",
+        "LSG": "Et tu feras deux autres anneaux d'or, que tu mettras au bas des deux épaulettes de l'éphod, sur le devant, près de la jointure, au-dessus de la ceinture de l'éphod.",
+        "MAB": "Et tu feras deux autres anneaux d'or, que tu mettras aux deux épaulières de l'Ephod par le bas, répondant sur le devant, à l'endroit où il se joint, au-dessus du ceinturon exquis de l'Ephod.",
+        "OST": "Et tu feras deux autres anneaux d'or, et tu les mettras aux deux épaulettes de l'éphod par le bas, sur le devant, à côté de l'endroit où il se joint, au-dessus de la ceinture de l'éphod.",
+        "S21": "Et tu feras 2 autres anneaux en or, que tu mettras au bas des 2 bretelles de l'éphod, sur le devant, près de leur point d’attache, au-dessus de l’écharpe de l'éphod."
+      }
+    },
+    {
+      "verse": 28,
+      "texts": {
+        "BDS": "On fixera le bas du pectoral en joignant ses anneaux à ceux du bas de l’éphod par un cordonnet de pourpre violette, pour qu’il soit fixé sur la ceinture de l’éphod sans pouvoir s’en séparer.",
+        "DBY": "Et on attachera le pectoral par ses anneaux aux anneaux de l'éphod avec un cordon de bleu, afin qu'il soit au-dessus de la ceinture de l'éphod, et que le pectoral ne bouge pas de dessus l'éphod.",
+        "KJV": "And they shall bind the breastplate by the rings thereof unto the rings of the ephod with a lace of blue, that [it] may be above the curious girdle of the ephod, and that the breastplate be not loosed from the ephod.",
+        "LSG": "On attachera le pectoral par ses anneaux aux anneaux de l'éphod avec un cordon bleu, afin que le pectoral soit au-dessus de la ceinture de l'éphod et qu'il ne puisse pas se séparer de l'éphod.",
+        "MAB": "Et ils joindront le Pectoral élevé par ses anneaux, aux anneaux de l'Ephod, avec un cordon de pourpre, afin qu'il tienne au-dessus du ceinturon exquis de l'Ephod, et que le Pectoral ne bouge point de dessus l'Ephod.",
+        "OST": "Et on attachera le pectoral par ses anneaux aux anneaux de l'éphod, avec un cordon de pourpre, afin qu'il tienne sur la ceinture de l'éphod, et que le pectoral ne se détache pas de l'éphod.",
+        "S21": "On attachera le pectoral par ses anneaux aux anneaux de l'éphod avec un cordon bleu, afin que le pectoral soit au-dessus de l’écharpe de l'éphod et qu'il ne puisse pas se séparer de l'éphod."
+      }
+    },
+    {
+      "verse": 29,
+      "texts": {
+        "BDS": "Ainsi, par ce pectoral du verdict, lorsque Aaron entrera dans le sanctuaire, il portera sur son cœur les noms des fils d’Israël pour en évoquer constamment le souvenir devant l’Eternel.",
+        "DBY": "Et Aaron portera les noms des fils d'Israël au pectoral de jugement sur son cœur, lorsqu'il entrera dans le lieu saint, comme mémorial devant l'Éternel, continuellement.",
+        "KJV": "And Aaron shall bear the names of the children of Israel in the breastplate of judgment upon his heart, when he goeth in unto the holy [place], for a memorial before the LORD continually.",
+        "LSG": "Lorsque Aaron entrera dans le sanctuaire, il portera sur son coeur les noms des fils d'Israël, gravés sur le pectoral du jugement, pour en conserver à toujours le souvenir devant l'Eternel. -",
+        "MAB": "[Ainsi] Aaron portera sur son cœur les noms des enfants d'Israël au Pectoral de jugement, quand il entrera dans le lieu Saint, pour mémorial devant l'Eternel, continuellement.",
+        "OST": "Ainsi Aaron portera les noms des enfants d'Israël, au pectoral du jugement, sur son cœur, quand il entrera dans le lieu saint, pour servir continuellement de mémorial devant l'Éternel.",
+        "S21": "Lorsque Aaron entrera dans le sanctuaire, il portera sur son cœur les noms des fils d'Israël, gravés sur le pectoral du jugement, pour en garder à toujours le souvenir devant l'Eternel."
+      }
+    },
+    {
+      "verse": 30,
+      "texts": {
+        "BDS": "Tu placeras dans le pectoral du verdict l’ourim et le toummim, qui seront ainsi sur le cœur d’Aaron lorsqu’il se présentera devant l’Eternel, et Aaron portera en permanence sur son cœur, devant l’Eternel, le moyen de connaître mon verdict concernant les problèmes des Israélites.",
+        "DBY": "-Et tu mettras sur le pectoral de jugement les urim et les thummim, et ils seront sur le cœur d'Aaron, quand il entrera devant l'Éternel; et Aaron portera le jugement des fils d'Israël sur son cœur, devant l'Éternel, continuellement.",
+        "KJV": "And thou shalt put in the breastplate of judgment the Urim and the Thummim; and they shall be upon Aaron's heart, when he goeth in before the LORD: and Aaron shall bear the judgment of the children of Israel upon his heart before the LORD continually.",
+        "LSG": "Tu joindras au pectoral du jugement l'urim et le thummim, et ils seront sur le coeur d'Aaron, lorsqu'il se présentera devant l'Eternel. Ainsi, Aaron portera constamment sur son coeur le jugement des enfants d'Israël, lorsqu'il se présentera devant l'Eternel.",
+        "MAB": "Et tu mettras sur le Pectoral de jugement l'Urim et le Thummim, qui seront sur le cœur d'Aaron, quand il viendra devant l'Eternel; et Aaron portera le jugement des enfants d'Israël sur son cœur devant l'Eternel, continuellement.",
+        "OST": "Et tu mettras sur le pectoral du jugement l'Urim et le Thummim, et ils seront sur le cœur d'Aaron quand il entrera devant l'Éternel; et Aaron portera le jugement des enfants d'Israël sur son cœur, devant l'Éternel, continuellement.",
+        "S21": "Tu placeras dans le pectoral du jugement l'urim et le thummim, et ils seront sur le cœur d'Aaron lorsqu'il se présentera devant l'Eternel. Ainsi, Aaron portera constamment sur son cœur le jugement des Israélites lorsqu'il se présentera devant l'Eternel."
+      }
+    },
+    {
+      "verse": 31,
+      "texts": {
+        "BDS": "—Tu feras la robe de l’éphod tout entière en pourpre violette.",
+        "DBY": "Et tu feras la robe de l'éphod entièrement de bleu;",
+        "KJV": "And thou shalt make the robe of the ephod all [of] blue.",
+        "LSG": "Tu feras la robe de l'éphod entièrement d'étoffe bleue.",
+        "MAB": "Tu feras aussi le Rochet de l'Ephod entièrement de pourpre.",
+        "OST": "Tu feras aussi la robe de l'éphod, entièrement de pourpre.",
+        "S21": "»Tu feras la robe de l'éphod entièrement en étoffe bleue."
+      }
+    },
+    {
+      "verse": 32,
+      "texts": {
+        "BDS": "Il aura au milieu une ouverture pour y passer la tête, cette ouverture sera garnie tout autour d’un ourlet tissé comme l’encolure d’un vêtement de cuir tressé, pour que la robe ne se déchire pas.",
+        "DBY": "et son ouverture pour la tête sera au milieu; il y aura une bordure à son ouverture, tout autour, en ouvrage de tisserand; elle l'aura comme l'ouverture d'une cotte de mailles: elle ne se déchirera pas.",
+        "KJV": "And there shall be an hole in the top of it, in the midst thereof: it shall have a binding of woven work round about the hole of it, as it were the hole of an habergeon, that it be not rent.",
+        "LSG": "Il y aura, au milieu, une ouverture pour la tête; et cette ouverture aura tout autour un bord tissé, comme l'ouverture d'une cotte de mailles, afin que la robe ne se déchire pas.",
+        "MAB": "Et l'ouverture où passe la tête sera au milieu, [et] il y aura un ourlet à son ouverture tout autour, d'ouvrage tissu, comme l'ouverture d'un corselet, afin qu'il ne se déchire point.",
+        "OST": "Et l'ouverture pour passer la tête sera au milieu; il y aura une bordure à son ouverture tout autour, d'ouvrage tissé, comme l'ouverture d'une cotte d'armes, afin qu'elle ne se déchire pas.",
+        "S21": "Au milieu, il y aura une ouverture pour la tête, et cette ouverture aura tout autour un ourlet tissé, comme l'encolure d'un habit en cuir, afin que la robe ne se déchire pas."
+      }
+    },
+    {
+      "verse": 33,
+      "texts": {
+        "BDS": "Tu en garniras tout le bord inférieur de grenades faites de fils de pourpre violette, de pourpre écarlate et de rouge éclatant alternant avec des clochettes d’or:",
+        "DBY": "-Et tu feras sur ses bords des grenades de bleu, et de pourpre, et d'écarlate, sur ses bords, tout autour, et des clochettes d'or entre elles, tout autour:",
+        "KJV": "And [beneath] upon the hem of it thou shalt make pomegranates [of] blue, and [of] purple, and [of] scarlet, round about the hem thereof; and bells of gold between them round about:",
+        "LSG": "Tu mettras autour de la bordure, en bas, des grenades de couleur bleue, pourpre et cramoisi, entremêlées de clochettes d'or:",
+        "MAB": "Et tu feras à ses bords des grenades de pourpre, d'écarlate, et de cramoisi tout autour, et des clochettes d'or entre elles tout autour.",
+        "OST": "Et tu mettras à ses bords des grenades de pourpre, d'écarlate, et de cramoisi, à ses bords, tout autour; et des clochettes d'or entremêlées, tout autour:",
+        "S21": "Tout autour de la bordure, en bas, tu feras des grenades de couleur bleue, pourpre et cramoisie intercalées avec des clochettes en or:"
+      }
+    },
+    {
+      "verse": 34,
+      "texts": {
+        "BDS": "une clochette d’or et une grenade, et ainsi de suite sur tout le tour du bas de la robe.",
+        "DBY": "une clochette d'or et une grenade, une clochette d'or et une grenade, sur les bords de la robe, tout autour.",
+        "KJV": "A golden bell and a pomegranate, a golden bell and a pomegranate, upon the hem of the robe round about.",
+        "LSG": "une clochette d'or et une grenade, une clochette d'or et une grenade, sur tout le tour de la bordure de la robe.",
+        "MAB": "Une clochette d'or, puis une grenade; une clochette d'or, puis une grenade; aux bords du Rochet tout autour.",
+        "OST": "Une clochette d'or et une grenade, une clochette d'or et une grenade, aux bords de la robe, tout autour.",
+        "S21": "une clochette en or et une grenade, une clochette en or et une grenade, sur toute la bordure de la robe."
+      }
+    },
+    {
+      "verse": 35,
+      "texts": {
+        "BDS": "Aaron le portera pour effectuer son service et l’on entendra le tintement des clochettes lorsqu’il entrera en présence de l’Eternel dans le lieu saint et lorsqu’il en sortira; ainsi il ne mourra pas.",
+        "DBY": "Et Aaron en sera revêtu quand il fera le service; et on en entendra le son quand il entrera dans le lieu saint, devant l'Éternel, et quand il en sortira, afin qu'il ne meure pas.",
+        "KJV": "And it shall be upon Aaron to minister: and his sound shall be heard when he goeth in unto the holy [place] before the LORD, and when he cometh out, that he die not.",
+        "LSG": "Aaron s'en revêtira pour faire le service; quand il entrera dans le sanctuaire devant l'Eternel, et quand il en sortira, on entendra le son des clochettes, et il ne mourra point.",
+        "MAB": "Et Aaron en sera revêtu quand il fera le service, et on en entendra le son lorsqu'il entrera dans le lieu Saint devant l'Eternel, et quand il en sortira, afin qu'il ne meure pas.",
+        "OST": "Or, Aaron en sera revêtu pour faire le service; et on en entendra le son, quand il entrera dans le lieu saint devant l'Éternel, et quand il en sortira; et il ne mourra point.",
+        "S21": "Aaron la portera pour faire le service. Quand il entrera dans le sanctuaire devant l'Eternel et quand il en sortira, on entendra le son des clochettes et il ne mourra pas."
+      }
+    },
+    {
+      "verse": 36,
+      "texts": {
+        "BDS": "Tu feras une plaque frontale d’or pur sur laquelle tu graveras comme sur un cachet: «Consacré à l’Eternel».",
+        "DBY": "Et tu feras une lame d'or pur, et tu graveras sur elle, en gravure de cachet:",
+        "KJV": "And thou shalt make a plate [of] pure gold, and grave upon it, [like] the engravings of a signet, HOLINESS TO THE LORD.",
+        "LSG": "Tu feras une lame d'or pur, et tu y graveras, comme on grave un cachet: Sainteté à l'Eternel.",
+        "MAB": "Et tu feras une lame de pur or, sur laquelle tu graveras [ces mots], de gravure de cachet : LA SAINTETÉ A L'ETERNEL.",
+        "OST": "Tu feras aussi une lame d'or pur, sur laquelle tu graveras, en gravure de cachet: SAINTETÉ A L'ÉTERNEL.",
+        "S21": "»Tu feras une lame en or pur et tu y graveras, comme le fait un graveur de cachet: ‘Sainteté à l'Eternel.’"
+      }
+    },
+    {
+      "verse": 37,
+      "texts": {
+        "BDS": "Tu la fixeras par un cordonnet de pourpre violette sur le devant du turban",
+        "DBY": "Sainteté à l'Éternel; et tu la poseras sur un cordon de bleu, et elle sera sur la tiare; elle sera sur le devant de la tiare;",
+        "KJV": "And thou shalt put it on a blue lace, that it may be upon the mitre; upon the forefront of the mitre it shall be.",
+        "LSG": "Tu l'attacheras avec un cordon bleu sur la tiare, sur le devant de la tiare.",
+        "MAB": "Laquelle tu poseras avec un cordon de pourpre, et elle sera sur la Tiare, répondant sur le devant de la Tiare.",
+        "OST": "Tu la mettras sur un cordon de pourpre; elle sera sur la tiare, sur le devant de la tiare;",
+        "S21": "Tu l'attacheras avec un cordon bleu sur la tiare, sur le devant de la tiare."
+      }
+    },
+    {
+      "verse": 38,
+      "texts": {
+        "BDS": "pour qu’elle orne le front d’Aaron. Ainsi il se chargera des fautes que les Israélites pourront commettre lorsqu’ils m’apporteront toute espèce d’offrandes consacrées. Cette plaque sera toujours sur son front pour que moi, l’Eternel, je les accueille favorablement.",
+        "DBY": "et elle sera sur le front d'Aaron; et Aaron portera l'iniquité des choses saintes que les fils d'Israël auront sanctifiées, dans tous les dons de leurs choses saintes; et elle sera sur son front continuellement, pour être agréée pour eux devant l'Éternel.",
+        "KJV": "And it shall be upon Aaron's forehead, that Aaron may bear the iniquity of the holy things, which the children of Israel shall hallow in all their holy gifts; and it shall be always upon his forehead, that they may be accepted before the LORD.",
+        "LSG": "Elle sera sur le front d'Aaron; et Aaron sera chargé des iniquités commises par les enfants d'Israël en faisant toutes leurs saintes offrandes; elle sera constamment sur son front devant l'Eternel, pour qu'il leur soit favorable.",
+        "MAB": "Et elle sera sur le front d'Aaron; et Aaron portera l'iniquité des saintes offrandes que les enfants d'Israël auront offertes, dans tous les dons de leurs saintes offrandes, et elle sera continuellement sur son front, pour les rendre agréables devant l'Eternel.",
+        "OST": "Et elle sera sur le front d'Aaron; et Aaron portera les iniquités que les enfants d'Israël auront commises dans les saintes oblations qu'ils offriront, dans toutes leurs saintes offrandes; et elle sera sur son front continuellement, pour les rendre agréables devant l'Éternel.",
+        "S21": "Elle sera sur le front d'Aaron, ainsi Aaron sera chargé des fautes commises par les Israélites lorsqu’ils m’apporteront toutes leurs saintes offrandes; elle sera constamment sur son front devant l'Eternel pour qu'il leur soit favorable."
+      }
+    },
+    {
+      "verse": 39,
+      "texts": {
+        "BDS": "Enfin tu feras confectionner pour lui la tunique de lin, le turban de lin et la ceinture; celle-ci sera l’œuvre d’un brodeur.",
+        "DBY": "Et tu broderas la tunique de fin coton; et tu feras la tiare de fin coton; et tu feras la ceinture en ouvrage de brodeur.",
+        "KJV": "And thou shalt embroider the coat of fine linen, and thou shalt make the mitre [of] fine linen, and thou shalt make the girdle [of] needlework.",
+        "LSG": "Tu feras la tunique de fin lin; tu feras une tiare de fin lin, et tu feras une ceinture brodée.",
+        "MAB": "Tu feras aussi une chemise de fin lin qui s'appliquera sur le corps, et tu feras aussi la Tiare de fin lin; mais tu feras le baudrier d'ouvrage de broderie.",
+        "OST": "Tu feras aussi la tunique en tissu de fin lin, et tu feras une tiare de fin lin; mais tu feras la ceinture en ouvrage de broderie.",
+        "S21": "»Tu feras la tunique en fin lin; tu feras une tiare en fin lin et une ceinture brodée."
+      }
+    },
+    {
+      "verse": 40,
+      "texts": {
+        "BDS": "Tu feras aussi pour les fils d’Aaron des tuniques, des ceintures et des turbans, insignes de gloire et de dignité.",
+        "DBY": "Et pour les fils d'Aaron tu feras des tuniques, et tu leur feras des ceintures, et tu leur feras des bonnets, pour gloire et pour ornement.",
+        "KJV": "And for Aaron's sons thou shalt make coats, and thou shalt make for them girdles, and bonnets shalt thou make for them, for glory and for beauty.",
+        "LSG": "Pour les fils d'Aaron tu feras des tuniques, tu leur feras des ceintures, et tu leur feras des bonnets, pour marquer leur dignité et pour leur servir de parure.",
+        "MAB": "Tu feras aussi aux enfants d'Aaron des chemises, des baudriers, et des calottes pour leur gloire et pour leur ornement.",
+        "OST": "Tu feras aussi pour les fils d'Aaron des tuniques, des ceintures et des mitres pour leur gloire et pour leur ornement.",
+        "S21": "»Pour les fils d'Aaron tu feras des tuniques ainsi que des ceintures et des coiffes pour marquer leur importance et l’honneur de leur rang."
+      }
+    },
+    {
+      "verse": 41,
+      "texts": {
+        "BDS": "Tu revêtiras ton frère Aaron et ses fils de ces ornements; tu leur conféreras l’onction pour les investir de leur charge et les consacrer à mon service comme prêtres.",
+        "DBY": "Et tu en revêtiras Aaron, ton frère, et ses fils avec lui; et tu les oindras, et tu les consacreras, et tu les sanctifieras, afin qu'ils exercent la sacrificature devant moi.",
+        "KJV": "And thou shalt put them upon Aaron thy brother, and his sons with him; and shalt anoint them, and consecrate them, and sanctify them, that they may minister unto me in the priest's office.",
+        "LSG": "Tu en revêtiras Aaron, ton frère, et ses fils avec lui. Tu les oindras, tu les consacreras, tu les sanctifieras, et ils seront à mon service dans le sacerdoce.",
+        "MAB": "Et tu en revêtiras Aaron ton frère, et ses fils avec lui; tu les oindras, tu les consacreras et tu les sanctifieras; puis ils m'exerceront la Sacrificature.",
+        "OST": "Et tu en revêtiras Aaron, ton frère, et ses fils avec lui; tu les oindras, tu les installeras, et tu les consacreras, afin qu'ils exercent la sacrificature devant moi.",
+        "S21": "Tu en revêtiras ton frère Aaron et ses fils avec lui. Tu les désigneras par onction, tu les établiras dans leurs fonctions, tu les consacreras et ils seront à mon service en tant que prêtres."
+      }
+    },
+    {
+      "verse": 42,
+      "texts": {
+        "BDS": "Tu leur feras aussi des caleçons de lin allant des reins aux cuisses pour cacher leur nudité.",
+        "DBY": "Et tu leur feras des caleçons de lin pour couvrir la nudité de leur chair; ils iront des reins jusqu'aux cuisses.",
+        "KJV": "And thou shalt make them linen breeches to cover their nakedness; from the loins even unto the thighs they shall reach:",
+        "LSG": "Fais-leur des caleçons de lin, pour couvrir leur nudité; ils iront depuis les reins jusqu'aux cuisses.",
+        "MAB": "Et tu leur feras des caleçons de lin, pour couvrir leur nudité, qui tiendront depuis les reins jusqu'au bas des cuisses.",
+        "OST": "Fais-leur aussi des caleçons de lin, pour couvrir leur nudité; qu'ils tiennent depuis les reins jusqu'aux cuisses.",
+        "S21": "Fais-leur des caleçons en lin pour couvrir leur nudité; ils iront des reins aux cuisses."
+      }
+    },
+    {
+      "verse": 43,
+      "texts": {
+        "BDS": "Aaron et ses fils les porteront quand ils entreront dans la tente de la Rencontre ou quand ils s’approcheront de l’autel pour faire le service dans le lieu saint; ainsi, ils ne se rendront pas coupables d’une faute qui entraînerait leur mort. C’est une ordonnance en vigueur à perpétuité pour Aaron et pour ses descendants.",
+        "DBY": "Et ils seront sur Aaron et sur ses fils lorsqu'ils entreront dans la tente d'assignation ou lorsqu'ils s'approcheront de l'autel pour faire le service dans le lieu saint, afin qu'ils ne portent pas d'iniquité et ne meurent pas. C'est un statut perpétuel, pour lui et pour sa semence après lui.",
+        "KJV": "And they shall be upon Aaron, and upon his sons, when they come in unto the tabernacle of the congregation, or when they come near unto the altar to minister in the holy [place]; that they bear not iniquity, and die: [it shall be] a statute for ever unto him and his seed after him.",
+        "LSG": "Aaron et ses fils les porteront, quand ils entreront dans la tente d'assignation, ou quand ils s'approcheront de l'autel, pour faire le service dans le sanctuaire; ainsi ils ne se rendront point coupables, et ne mourront point. C'est une loi perpétuelle pour Aaron et pour ses descendants après lui.",
+        "MAB": "Et Aaron et ses fils seront ainsi habillés quand ils entreront au Tabernacle d'assignation, ou quand ils approcheront de l'autel pour faire le service dans le lieu Saint; et ils ne porteront point la peine d'aucune iniquité, et ne mourront point. Ce sera une ordonnance perpétuelle pour lui et pour sa postérité après lui.",
+        "OST": "Et Aaron et ses fils en seront revêtus quand ils entreront dans le tabernacle d'assignation, ou quand ils approcheront de l'autel, pour faire le service dans le lieu saint, et ils ne seront point coupables, et ne mourront point. C'est une ordonnance perpétuelle pour lui et pour sa postérité après lui.",
+        "S21": "Aaron et ses fils les porteront quand ils entreront dans la tente de la rencontre ou quand ils s'approcheront de l'autel pour faire le service dans le sanctuaire; ainsi ils ne se rendront pas coupables et ne mourront pas. C'est une prescription perpétuelle pour Aaron et pour ses descendants après lui."
+      }
+    }
+  ]
+}

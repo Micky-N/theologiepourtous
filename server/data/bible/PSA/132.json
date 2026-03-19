@@ -1,0 +1,222 @@
+{
+  "bookCode": "PSA",
+  "chapter": 132,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "Cantique pour la route vers la demeure de l’Eternel.\r\nO Eternel, souviens-toi de David\r\net de toutes ses peines;",
+        "DBY": "Éternel, souviens-toi de David, et de toutes ses afflictions!",
+        "KJV": "A Song of degrees. LORD, remember David, [and] all his afflictions:",
+        "LSG": "Cantique des degrés. Eternel, souviens-toi de David, De toutes ses peines!",
+        "MAB": "Cantique de Mahaloth. Ô Eternel! souviens-toi de David, [et] de toute son affliction.",
+        "OST": "Cantique de Maaloth. Éternel, souviens-toi de David et de toute son affliction;",
+        "S21": "Chant des montées.\r\nEternel, souviens-toi de David, de tout ce qu’il a souffert!"
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "car il fit ce serment à l’Eternel,\r\nil adressa ce vœu au Puissant de Jacob:",
+        "DBY": "Comment il a juré à l'Éternel, et fait un vœu au Puissant de Jacob:",
+        "KJV": "How he sware unto the LORD, [and] vowed unto the mighty [God] of Jacob;",
+        "LSG": "Il jura à l'Eternel, Il fit ce voeu au puissant de Jacob:",
+        "MAB": "Lequel a juré à l'Eternel, [et] fait vœu au Puissant de Jacob, [en disant] :",
+        "OST": "Lui qui jura à l'Éternel, et fit ce vœu au Puissant de Jacob:",
+        "S21": "Il a fait un serment à l’Eternel, il a fait ce vœu au puissant de Jacob:"
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "«Non, je n’entrerai pas dans la tente où j’habite,\r\nje ne m’étendrai pas sur mon lit de repos,",
+        "DBY": "Si j'entre dans la demeure de ma maison, si je monte sur le lit où je couche,",
+        "KJV": "Surely I will not come into the tabernacle of my house, nor go up into my bed;",
+        "LSG": "Je n'entrerai pas dans la tente où j'habite, Je ne monterai pas sur le lit où je repose,",
+        "MAB": "Si j'entre au Tabernacle de ma maison, [et] si je monte sur le lit où je couche;",
+        "OST": "Si j'entre sous l'abri de ma maison, et si je monte sur le lit où je repose;",
+        "S21": "«Je n’entrerai pas dans ma maison, je ne monterai pas sur mon lit,"
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "je ne veux pas donner de sommeil à mes yeux\r\nni de repos à mes paupières,",
+        "DBY": "je permets à mes yeux de dormir, à mes paupières de sommeiller,",
+        "KJV": "I will not give sleep to mine eyes, [or] slumber to mine eyelids,",
+        "LSG": "Je ne donnerai ni sommeil à mes yeux, Ni assoupissement à mes paupières.",
+        "MAB": "Si je donne du sommeil à mes yeux, [si je laisse] sommeiller mes paupières,",
+        "OST": "Si je donne du sommeil à mes yeux, du repos à mes paupières;",
+        "S21": "je ne donnerai pas de sommeil à mes yeux ni de repos à mes paupières"
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "avant d’avoir trouvé un lieu pour l’Eternel,\r\nune demeure pour le Dieu puissant de Jacob.»",
+        "DBY": "Jusqu'à ce que j'aie trouvé un lieu pour l'Éternel, des demeures pour le Puissant de Jacob!",
+        "KJV": "Until I find out a place for the LORD, an habitation for the mighty [God] of Jacob.",
+        "LSG": "Jusqu'à ce que j'aie trouvé un lieu pour l'Eternel, Une demeure pour le puissant de Jacob.",
+        "MAB": "Jusqu'à ce que j'aurai trouvé un lieu à l'Eternel, [et] des pavillons pour le Puissant de Jacob.",
+        "OST": "Jusqu'à ce que j'aie trouvé un lieu pour l'Éternel, une demeure pour le Puissant de Jacob!",
+        "S21": "avant d’avoir trouvé un endroit pour l’Eternel, une demeure pour le puissant de Jacob.»"
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "Oui, nous avons entendu dire que le coffre sacré était à Ephrata,\r\nnous l’avons retrouvé dans les champs de Yaar.",
+        "DBY": "Voici, nous avons ouï parler d'elle à Éphrata, nous l'avons trouvée dans les champs de Jaar.",
+        "KJV": "Lo, we heard of it at Ephratah: we found it in the fields of the wood.",
+        "LSG": "Voici, nous en entendîmes parler à Ephrata, Nous la trouvâmes dans les champs de Jaar...",
+        "MAB": "Voici, nous avons ouï parler d'elle vers Ephrat, nous l'avons trouvée aux champs de Jahar.",
+        "OST": "Voici, nous en avons entendu parler à Éphrath; nous l'avons trouvée dans les champs de Jaar.",
+        "S21": "Oui, nous avons appris que l’arche était à Ephrata, nous l’avons trouvée dans les champs de Jaar."
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "Allons jusqu’à l’endroit où l’Eternel demeure!\r\nAllons nous prosterner devant son piédestal!",
+        "DBY": "Entrons dans ses demeures, prosternons-nous devant le marchepied de ses pieds.",
+        "KJV": "We will go into his tabernacles: we will worship at his footstool.",
+        "LSG": "Allons à sa demeure, Prosternons-nous devant son marchepied!...",
+        "MAB": "Nous entrerons dans ses pavillons, [et] nous nous prosternerons devant son marchepied.",
+        "OST": "Entrons dans ses demeures; prosternons-nous devant son marche-pied!",
+        "S21": "Allons à la demeure du Seigneur, prosternons-nous à ses pieds!"
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "Eternel, lève-toi, et viens dans le lieu de ta paix!\r\nOh! viens avec ton coffre d’où rayonne ta force!",
+        "DBY": "Éternel! pour entrer dans ton repos, toi et l'arche de ta force!",
+        "KJV": "Arise, O LORD, into thy rest; thou, and the ark of thy strength.",
+        "LSG": "Lève-toi, Eternel, viens à ton lieu de repos, Toi et l'arche de ta majesté!",
+        "MAB": "Lève-toi, ô Eternel! [pour venir] en ton repos, toi, et l'Arche de ta force.",
+        "OST": "Lève-toi, ô Éternel, viens au lieu de ton repos, toi et l'arche de ta force!",
+        "S21": "Lève-toi, Eternel, viens à ton lieu de repos, toi et l’arche où réside ta force!"
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "Que tes prêtres se parent de ton salut,\r\nque tes fidèles poussent des cris de joie.",
+        "DBY": "Que tes sacrificateurs soient revêtus de justice, et que tes saints chantent de joie.",
+        "KJV": "Let thy priests be clothed with righteousness; and let thy saints shout for joy.",
+        "LSG": "Que tes sacrificateurs soient revêtus de justice, Et que tes fidèles poussent des cris de joie!",
+        "MAB": "Que tes Sacrificateurs soient revêtus de la justice, et que tes bien-aimés chantent de joie.",
+        "OST": "Que tes sacrificateurs soient revêtus de justice, et que tes bien-aimés chantent de joie!",
+        "S21": "Que tes prêtres aient la justice pour habit et que tes fidèles poussent des cris de joie!"
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "Pour l’amour de David qui fut ton serviteur,\r\nn’écarte pas le roi qui a reçu l’onction!",
+        "DBY": "A cause de David, ton serviteur, ne repousse pas la face de ton oint.",
+        "KJV": "For thy servant David's sake turn not away the face of thine anointed.",
+        "LSG": "A cause de David, ton serviteur, Ne repousse pas ton oint!",
+        "MAB": "Pour l'amour de David ton serviteur, ne fais point que ton Oint tourne le visage en arrière.",
+        "OST": "Pour l'amour de David, ton serviteur, ne rejette pas la face de ton Oint!",
+        "S21": "A cause de ton serviteur David, ne repousse pas celui que tu as désigné par onction!"
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "L’Eternel en a fait le serment à David,\r\nil ne reviendra pas sur ce qu’il a promis:\r\n«Je mettrai sur ton trône\r\nun fils issu de toi.",
+        "DBY": "L'Éternel a juré à David en vérité, il n'en reviendra pas: Je mettrai du fruit de ton ventre sur ton trône.",
+        "KJV": "The LORD hath sworn [in] truth unto David; he will not turn from it; Of the fruit of thy body will I set upon thy throne.",
+        "LSG": "L'Eternel a juré la vérité à David, Il n'en reviendra pas; Je mettrai sur ton trône un fruit de tes entrailles.",
+        "MAB": "L'Eternel a juré en vérité à David, [et] il ne se rétractera point, [disant] : je mettrai du fruit de ton ventre sur ton trône.",
+        "OST": "L'Éternel a juré la vérité à David, et il n'en reviendra pas: Je mettrai sur ton trône le fruit de tes entrailles.",
+        "S21": "L’Eternel a fait ce serment véridique à David, et il ne reviendra pas sur ce qu’il a promis: «Je mettrai sur ton trône un de tes enfants."
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "Et si tes fils respectent mon alliance avec toi\r\net mes préceptes que je leur donnerai,\r\nleurs propres fils aussi\r\nsiégeront sur ton trône à perpétuité.»",
+        "DBY": "Si tes enfants gardent mon alliance et mes témoignages que je leur enseignerai, leurs fils aussi seront assis à perpétuité sur ton trône.",
+        "KJV": "If thy children will keep my covenant and my testimony that I shall teach them, their children shall also sit upon thy throne for evermore.",
+        "LSG": "Si tes fils observent mon alliance Et mes préceptes que je leur enseigne, Leurs fils aussi pour toujours Seront assis sur ton trône.",
+        "MAB": "Si tes enfants gardent mon alliance, et mon témoignage, que je leur enseignerai, leurs fils aussi seront assis à perpétuité sur ton trône.",
+        "OST": "Si tes fils gardent mon alliance et mes témoignages que je leur enseignerai, leurs fils aussi, à perpétuité, seront assis sur ton trône.",
+        "S21": "Si tes fils respectent mon alliance et les instructions que je leur donne, leurs fils aussi seront assis pour toujours sur ton trône.»"
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "En effet, l’Eternel a fait choix de Sion,\r\noui, il l’a désirée pour résidence:",
+        "DBY": "Car l'Éternel a choisi Sion; il l'a désirée pour être son habitation:",
+        "KJV": "For the LORD hath chosen Zion; he hath desired [it] for his habitation.",
+        "LSG": "Oui, l'Eternel a choisi Sion, Il l'a désirée pour sa demeure:",
+        "MAB": "Car l'Eternel a choisi Sion; il l'a préférée pour être son siège.",
+        "OST": "Car l'Éternel a fait choix de Sion; il l'a préférée pour y faire son séjour.",
+        "S21": "Oui, l’Eternel a choisi Sion, il l’a désirée pour lieu d’habitation:"
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "«C’est le lieu de ma paix où je résiderai toujours;\r\nc’est ici que je régnerai, dans Sion que j’ai désirée.",
+        "DBY": "C'est ici mon repos à perpétuité; ici j'habiterai, car je l'ai désirée.",
+        "KJV": "This [is] my rest for ever: here will I dwell; for I have desired it.",
+        "LSG": "C'est mon lieu de repos à toujours; J'y habiterai, car je l'ai désirée.",
+        "MAB": "Elle est, [dit-il], mon repos à perpétuité; j'y demeurerai, parce que je l'ai chérie.",
+        "OST": "Elle est, dit-il, le lieu de mon repos, à perpétuité; j'y habiterai, car je l'ai choisie.",
+        "S21": "«C’est mon lieu de repos pour toujours. J’y habiterai, car je l’ai désiré."
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "Oui, je la bénirai en la comblant de biens,\r\net je rassasierai tous ses pauvres de pain.",
+        "DBY": "Je bénirai abondamment ses vivres, je rassasierai de pain ses pauvres;",
+        "KJV": "I will abundantly bless her provision: I will satisfy her poor with bread.",
+        "LSG": "Je bénirai sa nourriture, Je rassasierai de pain ses indigents;",
+        "MAB": "Je bénirai abondamment ses vivres; je rassasierai de pain ses pauvres.",
+        "OST": "Je bénirai abondamment ses vivres; je rassasierai de pain ses pauvres.",
+        "S21": "Je bénirai sa nourriture, je rassasierai de pain ses pauvres,"
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "Je parerai ses prêtres de mon salut,\r\net ses fidèles exulteront de joie.",
+        "DBY": "Et je revêtirai de salut ses sacrificateurs, et ses saints exulteront en chantant de joie.",
+        "KJV": "I will also clothe her priests with salvation: and her saints shall shout aloud for joy.",
+        "LSG": "Je revêtirai de salut ses sacrificateurs, Et ses fidèles pousseront des cris de joie.",
+        "MAB": "Et je revêtirai ses Sacrificateurs de délivrance; et ses bien-aimés chanteront avec des transports.",
+        "OST": "Je revêtirai de salut ses sacrificateurs, et ses fidèles chanteront d'une grande joie.",
+        "S21": "je revêtirai ses prêtres de salut, et ses fidèles pousseront des cris de joie."
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "Là, je ferai grandir la force de David,\r\net comme un flambeau allumé, j’établirai son successeur le roi consacré par l’onction.",
+        "DBY": "Là je ferai germer la corne de David, j'ai préparé une lampe à mon oint.",
+        "KJV": "There will I make the horn of David to bud: I have ordained a lamp for mine anointed.",
+        "LSG": "Là j'élèverai la puissance de David, Je préparerai une lampe à mon oint,",
+        "MAB": "Je ferai qu'en elle germera une corne à David; je préparerai une lampe à mon Oint.",
+        "OST": "C'est là que je ferai lever une corne à David, et que je prépare une lampe à mon Oint.",
+        "S21": "Là je ferai grandir la puissance de David, je préparerai un successeur pour celui que j’ai désigné par onction."
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "Mais tous ses ennemis auront la honte pour parure\r\nalors que, sur son front, brillera sa couronne.»",
+        "DBY": "Je revêtirai de honte ses ennemis; et sur lui fleurira sa couronne.",
+        "KJV": "His enemies will I clothe with shame: but upon himself shall his crown flourish.",
+        "LSG": "Je revêtirai de honte ses ennemis, Et sur lui brillera sa couronne.",
+        "MAB": "Je revêtirai de honte ses ennemis, et son diadème fleurira sur lui.",
+        "OST": "Je couvrirai de honte ses ennemis, et sur lui brillera son diadème.",
+        "S21": "Je donnerai la honte pour vêtement à ses ennemis, tandis que sur son front brillera sa couronne.»"
+      }
+    }
+  ]
+}

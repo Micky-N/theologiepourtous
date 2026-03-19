@@ -1,0 +1,402 @@
+{
+  "bookCode": "LEV",
+  "chapter": 22,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "L’Eternel s’adressa à Moïse en ces termes:",
+        "DBY": "Et l'Éternel parla à Moïse, disant:",
+        "KJV": "And the LORD spake unto Moses, saying,",
+        "LSG": "L'Eternel parla à Moïse, et dit:",
+        "MAB": "Puis l'Eternel parla à Moïse, en disant :",
+        "OST": "L'Éternel parla encore à Moise, en disant:",
+        "S21": "L'Eternel dit à Moïse:"
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "—Instruis Aaron et ses fils des cas où ils doivent se tenir à l’écart des offrandes saintes des Israélites, afin de ne pas profaner ma sainteté au travers des choses qu’ils me consacrent. Je suis l’Eternel.",
+        "DBY": "Parle à Aaron et à ses fils, afin qu'ils se séparent des choses saintes des fils d'Israël, et qu'ils ne profanent pas mon saint nom dans les choses que ceux-ci me sanctifient. Moi, je suis l'Éternel.",
+        "KJV": "Speak unto Aaron and to his sons, that they separate themselves from the holy things of the children of Israel, and that they profane not my holy name [in those things] which they hallow unto me: I [am] the LORD.",
+        "LSG": "Parle à Aaron et à ses fils, afin qu'ils s'abstiennent des choses saintes qui me sont consacrées par les enfants d'Israël, et qu'ils ne profanent point mon saint nom. Je suis l'Eternel.",
+        "MAB": "Dis à Aaron et à ses fils, quand ils auront à s'abstenir des choses saintes des enfants d'Israël, afin qu'ils ne profanent point le nom de ma sainteté dans les choses qu'eux-mêmes me sanctifient; je suis l'Eternel;",
+        "OST": "Parle à Aaron et à ses fils afin qu'ils s'abstiennent des choses saintes des enfants d'Israël, et qu'ils ne profanent point le nom de ma sainteté dans les choses qu'ils me consacrent: Je suis l'Éternel.",
+        "S21": "«Parle à Aaron et à ses fils des cas où ils doivent s’abstenir des offrandes saintes que me consacrent les Israélites afin de ne pas déshonorer mon saint nom. Je suis l'Eternel."
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "Dis-leur: A l’avenir et pour toutes les générations futures, si l’un de vos descendants s’approche en état d’impureté rituelle des offrandes saintes que les Israélites m’ont consacrées, il sera exclu de ma présence. Je suis l’Eternel.",
+        "DBY": "Dis-leur: Tout homme de toute votre semence, en vos générations, qui, ayant son impureté sur lui, s'approchera des choses saintes que les fils d'Israël ont sanctifiées à l'Éternel, cette âme-là sera retranchée de devant moi. Moi, je suis l'Éternel.",
+        "KJV": "Say unto them, Whosoever [he be] of all your seed among your generations, that goeth unto the holy things, which the children of Israel hallow unto the LORD, having his uncleanness upon him, that soul shall be cut off from my presence: I [am] the LORD.",
+        "LSG": "Dis-leur: Tout homme parmi vos descendants et de votre race, qui s'approchera des choses saintes que consacrent à l'Eternel les enfants d'Israël, et qui aura sur lui quelque impureté, cet homme-là sera retranché de devant moi. Je suis l'Eternel.",
+        "MAB": "Dis-leur donc : Tout homme de toute votre postérité en vos âges qui étant souillé s'approchera des choses saintes que les enfants d'Israël auront sanctifiées à l'Eternel, cette personne-là sera retranchée de ma présence; je suis l'Eternel.",
+        "OST": "Dis-leur: Tout homme, dans toute votre postérité et vos générations, qui, étant souillé, s'approchera des choses saintes que les enfants d'Israël auront consacrées à l'Éternel, cet homme-là sera retranché de devant moi: Je suis l'Éternel.",
+        "S21": "Dis-leur: ‘Au fil des générations, chacun de vos descendants qui s'approchera des offrandes saintes que les Israélites consacrent à l'Eternel et qui aura sur lui une impureté sera exclu de ma présence. Je suis l'Eternel.’"
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "Aucun descendant d’Aaron atteint d’une maladie de la peau à caractère évolutif ou d’une gonorrhée ne mangera sa part des offrandes saintes jusqu’à ce qu’il soit en état de pureté. La même règle s’appliquera à celui qui aura touché ce qui a été rendu impur par le contact d’un cadavre, à celui qui aura des pertes séminales,",
+        "DBY": "Aucun homme de la semence d'Aaron, qui est lépreux ou qui a un flux, ne mangera des choses saintes, jusqu'à ce qu'il soit purifié; et celui qui aura touché quelqu'un qui est impur par un mort, ou celui de qui est sorti de la semence,",
+        "KJV": "What man soever of the seed of Aaron [is] a leper, or hath a running issue; he shall not eat of the holy things, until he be clean. And whoso toucheth any thing [that is] unclean [by] the dead, or a man whose seed goeth from him;",
+        "LSG": "Tout homme de la race d'Aaron, qui aura la lèpre ou une gonorrhée, ne mangera point des choses saintes jusqu'à ce qu'il soit pur. Il en sera de même pour celui qui touchera une personne souillée par le contact d'un cadavre, pour celui qui aura une pollution,",
+        "MAB": "Tout homme de la postérité d'Aaron étant lépreux, ou découlant, ne mangera point des choses saintes jusqu'à ce qu'il soit nettoyé; et celui aussi qui aura touché quelque homme souillé pour avoir touché un mort, et celui qui aura un flux de semence.",
+        "OST": "Quiconque de la postérité d'Aaron sera lépreux ou aura un flux, ne mangera point des choses consacrées jusqu'à ce qu'il soit purifié. De même celui qui aura touché une personne souillée par le contact d'un cadavre, ou l'homme qui aura une perte séminale;",
+        "S21": "»Aucun homme de la tribu d'Aaron qui aura la lèpre ou une blennorragie ne mangera des choses saintes, jusqu'à ce qu'il soit pur. Il en ira de même pour celui qui touchera une personne rendue impure par le contact d'un cadavre, pour celui qui aura une éjaculation,"
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "qui aura touché quelque bestiole qui se meut à ras de terre et de nature à le rendre impur, ou une personne dont le contact rend impur, quelle que soit l’impureté.",
+        "DBY": "ou celui qui a touché un reptile quelconque qui le rende impur, ou un homme qui le rende impur de quelque impureté dont il soit affecté,",
+        "KJV": "Or whosoever toucheth any creeping thing, whereby he may be made unclean, or a man of whom he may take uncleanness, whatsoever uncleanness he hath;",
+        "LSG": "pour celui qui touchera un reptile et en aura été souillé, ou un homme atteint d'une impureté quelconque et en aura été souillé.",
+        "MAB": "Et celui qui aura touché quelque reptile dont il soit souillé, ou quelque homme par lequel il soit souillé, quelque souillure qui puisse être en lui.",
+        "OST": "Ou celui qui aura touché quelque reptile qui l'ait rendu souillé, ou un homme qui l'ait rendu souillé, quelle que soit cette souillure.",
+        "S21": "pour celui qui touchera un reptile ou un homme atteint d'une impureté quelconque et en deviendra impur."
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "Celui qui aura eu de tels contacts restera en état d’impureté jusqu’au soir et il ne mangera pas d’offrandes saintes sans s’être lavé à l’eau.",
+        "DBY": "l'homme qui aura touché cela, sera impur jusqu'au soir, et ne mangera pas des choses saintes, s'il n'a pas lavé sa chair dans l'eau;",
+        "KJV": "The soul which hath touched any such shall be unclean until even, and shall not eat of the holy things, unless he wash his flesh with water.",
+        "LSG": "Celui qui touchera ces choses sera impur jusqu'au soir; il ne mangera pas des choses saintes, mais il lavera son corps dans l'eau;",
+        "MAB": "La personne qui aura touché ces choses sera souillée jusqu'au soir, et ne mangera point des choses saintes, si elle n'a lavé sa chair avec de l'eau.",
+        "OST": "Celui qui touchera ces choses sera souillé jusqu'au soir; il ne mangera point des choses consacrées, mais il lavera son corps dans l'eau.",
+        "S21": "Celui qui touchera ces choses sera impur jusqu'au soir. Il ne mangera pas des offrandes saintes, mais il lavera son corps dans l'eau."
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "Après le coucher du soleil, il sera pur, et alors seulement il pourra manger des offrandes saintes, car c’est sa nourriture.",
+        "DBY": "-et après le coucher du soleil il sera pur; et ensuite, il mangera des choses saintes, car c'est son pain.",
+        "KJV": "And when the sun is down, he shall be clean, and shall afterward eat of the holy things; because it [is] his food.",
+        "LSG": "après le coucher du soleil, il sera pur, et il mangera ensuite des choses saintes, car c'est sa nourriture.",
+        "MAB": "Ensuite, elle sera nette après le soleil couché; et elle mangera des choses saintes; car c'est sa viande.",
+        "OST": "Et après le coucher du soleil il sera pur, et ensuite il pourra manger des choses saintes, car c'est sa nourriture.",
+        "S21": "Après le coucher du soleil, il sera pur et il mangera ensuite des choses saintes car c'est sa nourriture."
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "Il ne doit pas manger de bête crevée ou déchirée par une bête sauvage, cela le rendrait impur. Je suis l’Eternel.",
+        "DBY": "Aucun d'eux ne mangera d'une bête morte d'elle-même ou déchirée, pour se rendre impur par elle. Moi, je suis l'Éternel.",
+        "KJV": "That which dieth of itself, or is torn [with beasts], he shall not eat to defile himself therewith: I [am] the LORD.",
+        "LSG": "Il ne mangera point d'une bête morte ou déchirée, afin de ne pas se souiller par elle. Je suis l'Eternel.",
+        "MAB": "Il ne mangera point de la chair d'aucune bête morte d'elle-même, ou déchirée par [les bêtes sauvages], pour se souiller par elle; je suis l'Eternel.",
+        "OST": "Il ne mangera point d'une bête morte d'elle-même, ou déchirée, afin de ne pas en être souillé: Je suis l'Éternel.",
+        "S21": "Il ne mangera pas d'une bête trouvée morte ou déchiquetée, afin de ne pas se rendre impur par elle. Je suis l'Eternel."
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "Tous les prêtres devront observer mes prescriptions pour ne pas se charger d’une faute et mourir pour avoir commis en cela une profanation. Moi, l’Eternel, je les rends saints.",
+        "DBY": "Et ils garderont ce que j'ai ordonné de garder, afin qu'ils ne portent pas de péché sur eux, et qu'ils ne meurent pas, pour avoir profané mon ordonnance. Moi, je suis l'Éternel qui les sanctifie.",
+        "KJV": "They shall therefore keep mine ordinance, lest they bear sin for it, and die therefore, if they profane it: I the LORD do sanctify them.",
+        "LSG": "Ils observeront mes commandements, de peur qu'ils ne portent la peine de leur péché et qu'ils ne meurent, pour avoir profané les choses saintes. Je suis l'Eternel, qui les sanctifie.",
+        "MAB": "Qu'ils gardent donc ce que j'ai ordonné de garder, et qu'ils ne commettent point de péché au sujet de la viande [sainte], afin qu'ils ne meurent point, pour l'avoir souillée; je suis l'Eternel qui les sanctifie.",
+        "OST": "Qu'ils observent donc ce que j'ai ordonné, de peur qu'ils ne portent leur péché, et qu'ils ne meurent pour avoir profané les choses saintes: Je suis l'Éternel qui les sanctifie.",
+        "S21": "»Ils respecteront mes commandements, ainsi ils n’auront pas à supporter les conséquences de leur péché et ne mourront pas pour avoir profané les offrandes saintes. Je suis l'Eternel qui les considère comme saints."
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "Aucun profane ne mangera d’une offrande sainte; même pas l’hôte d’un prêtre ou son serviteur salarié.",
+        "DBY": "Et aucun étranger ne mangera de ce qui est saint; celui qui demeure chez un sacrificateur, et l'homme à gages, ne mangeront pas de ce qui est saint.",
+        "KJV": "There shall no stranger eat [of] the holy thing: a sojourner of the priest, or an hired servant, shall not eat [of] the holy thing.",
+        "LSG": "Aucun étranger ne mangera des choses saintes; celui qui demeure chez un sacrificateur et le mercenaire ne mangeront point des choses saintes.",
+        "MAB": "Nul étranger aussi ne mangera des choses saintes; le forain logé chez le Sacrificateur, et le mercenaire, ne mangeront point des choses saintes.",
+        "OST": "Or nul étranger ne mangera des choses consacrées; celui qui demeure chez un sacrificateur, et le mercenaire, ne mangeront point des choses saintes.",
+        "S21": "»Aucune personne étrangère ne mangera des offrandes saintes: ni celui qui loge chez un prêtre ni son salarié ne mangeront des offrandes saintes."
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "Par contre, si une personne a été acquise à prix d’argent par un prêtre, ou si elle est née dans sa maison, elle pourra partager sa nourriture.",
+        "DBY": "Mais si le sacrificateur a acheté de son argent un esclave, celui-ci en mangera, ainsi que celui qui est né dans sa maison: ceux-là mangeront de son pain.",
+        "KJV": "But if the priest buy [any] soul with his money, he shall eat of it, and he that is born in his house: they shall eat of his meat.",
+        "LSG": "Mais un esclave acheté par le sacrificateur à prix d'argent pourra en manger, de même que celui qui est né dans sa maison; ils mangeront de sa nourriture.",
+        "MAB": "Mais quand le Sacrificateur aura acheté quelque personne de son argent, elle en mangera; pareillement celui qui sera né dans sa maison; ceux-ci mangeront de sa viande.",
+        "OST": "Mais la personne que le sacrificateur aura achetée de son argent, en mangera; de même que celui qui sera né dans sa maison; ceux-là mangeront de sa nourriture.",
+        "S21": "En revanche, un esclave acheté par le prêtre à prix d'argent pourra en manger, de même que celui qui est né dans sa maison. Ils mangeront de sa nourriture."
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "Une fille de prêtre mariée à un homme d’une autre tribu ne pourra plus manger de ce qui a été prélevé sur les offrandes saintes.",
+        "DBY": "Et une fille de sacrificateur, si elle est mariée à un étranger, ne mangera pas des offrandes élevées des choses saintes.",
+        "KJV": "If the priest's daughter also be [married] unto a stranger, she may not eat of an offering of the holy things.",
+        "LSG": "La fille d'un sacrificateur, mariée à un étranger, ne mangera point des choses saintes offertes par élévation.",
+        "MAB": "Que si la fille du Sacrificateur est mariée à un étranger, elle ne mangera point des choses saintes, présentées en offrande élevée.",
+        "OST": "Si une fille de sacrificateur est mariée à un étranger, elle ne mangera point des choses consacrées, offertes par élévation.",
+        "S21": "»La fille d'un prêtre mariée à un étranger ne mangera pas de ce qui est prélevé sur les offrandes saintes."
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "Mais si elle est devenue veuve ou si elle est divorcée et sans enfants, et qu’elle soit retournée dans la maison de son père comme au temps de sa jeunesse, elle partagera la nourriture de son père; mais aucun profane n’en mangera.",
+        "DBY": "Mais si une fille de sacrificateur est veuve ou répudiée, et n'a pas d'enfants, et est retournée dans la maison de son père, comme dans sa jeunesse, elle mangera du pain de son père; mais aucun étranger n'en mangera.",
+        "KJV": "But if the priest's daughter be a widow, or divorced, and have no child, and is returned unto her father's house, as in her youth, she shall eat of her father's meat: but there shall no stranger eat thereof.",
+        "LSG": "Mais la fille d'un sacrificateur qui sera veuve ou répudiée, sans avoir d'enfants, et qui retournera dans la maison de son père comme dans sa jeunesse, pourra manger de la nourriture de son père. Aucun étranger n'en mangera.",
+        "MAB": "Mais si la fille du Sacrificateur est veuve, ou répudiée, et si elle n'a point d'enfants, étant retournée en la maison de son père, comme [elle y demeurait en] sa jeunesse, elle mangera de la viande de son père ; mais nul étranger n'en mangera.",
+        "OST": "Mais si une fille de sacrificateur, étant veuve, ou répudiée, et sans enfants, retourne à la maison de son père, comme dans sa jeunesse, elle mangera de la nourriture de son père; mais nul étranger n'en mangera.",
+        "S21": "En revanche, la fille d'un prêtre qui sera veuve ou rejetée par son mari, sans enfant, et qui retournera dans la maison de son père comme dans sa jeunesse pourra manger de la nourriture de son père. Aucune personne étrangère n'en mangera."
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "Si quelqu’un a mangé par inadvertance une offrande sainte, il en rendra l’équivalent au prêtre en y ajoutant un cinquième.",
+        "DBY": "Et si un homme, par ignorance, mange d'une chose sainte, il donnera au sacrificateur la chose sainte, et y ajoutera un cinquième par-dessus.",
+        "KJV": "And if a man eat [of] the holy thing unwittingly, then he shall put the fifth [part] thereof unto it, and shall give [it] unto the priest with the holy thing.",
+        "LSG": "Si un homme mange involontairement d'une chose sainte, il donnera au sacrificateur la valeur de la chose sainte, en y ajoutant un cinquième.",
+        "MAB": "Que si quelqu'un par ignorance mange d'une chose sainte, il ajoutera un cinquième par dessus, et le donnera au Sacrificateur avec la chose sainte.",
+        "OST": "Si quelqu'un mange par erreur d'une chose consacrée, il y ajoutera un cinquième, et donnera au sacrificateur la chose consacrée.",
+        "S21": "»Si un homme mange involontairement d'une offrande sainte, il donnera au prêtre la valeur de l’offrande sainte en y ajoutant un cinquième."
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "Les prêtres ne profaneront pas les offrandes saintes des Israélites que ceux-ci prélèvent pour l’Eternel.",
+        "DBY": "Et on ne profanera pas les choses saintes des fils d'Israël, qu'ils offrent en offrande élevée à l'Éternel,",
+        "KJV": "And they shall not profane the holy things of the children of Israel, which they offer unto the LORD;",
+        "LSG": "Les sacrificateurs ne profaneront point les choses saintes qui sont présentées par les enfants d'Israël, et qu'ils ont offertes par élévation à l'Eternel;",
+        "MAB": "Et ils ne souilleront point les choses sanctifiées des enfants d'Israël, qu'ils auront offertes à l'Eternel.",
+        "OST": "Les sacrificateurs ne profaneront point les choses consacrées des enfants d'Israël, ce qu'ils offrent par élévation à l'Éternel.",
+        "S21": "Les prêtres ne profaneront pas les offrandes saintes des Israélites, ce qu'ils ont offert à titre de prélèvement pour l'Eternel;"
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "En consommant leurs offrandes saintes, ils se chargeraient d’une faute exigeant réparation, car moi, l’Eternel, je les rends saintes.",
+        "DBY": "et on ne leur fera pas porter l'iniquité du délit quand ils mangeront de leurs choses saintes, car moi je suis l'Éternel qui les sanctifie.",
+        "KJV": "Or suffer them to bear the iniquity of trespass, when they eat their holy things: for I the LORD do sanctify them.",
+        "LSG": "ils les chargeraient ainsi du péché dont ils se rendraient coupables en mangeant les choses saintes: car je suis l'Eternel, qui les sanctifie.",
+        "MAB": "Mais on leur fera porter la peine du péché, parce qu'ils auront mangé de leurs choses saintes; car je suis l'Eternel qui les sanctifie.",
+        "OST": "Ils leur feraient porter l'iniquité de leur culpabilité en mangeant ainsi leurs choses consacrées; car je suis l'Éternel, qui les sanctifie.",
+        "S21": "ils les chargeraient d’une faute demandant réparation en mangeant leurs offrandes saintes, car je suis l'Eternel qui les considère comme saints.»"
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "L’Eternel s’adressa à Moïse en ces termes:",
+        "DBY": "Et l'Éternel parla à Moïse, disant:",
+        "KJV": "And the LORD spake unto Moses, saying,",
+        "LSG": "L'Eternel parla à Moïse, et dit:",
+        "MAB": "L'Eternel parla encore à Moïse, en disant :",
+        "OST": "L'Éternel parla aussi à Moïse, en disant:",
+        "S21": "L'Eternel dit à Moïse:"
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "—Parle à Aaron, à ses fils et à tous les Israélites, et dis-leur ce qui suit: Tout homme — Israélite ou immigré — qui offre un holocauste à l’Eternel — soit pour l’accomplissement de quelque vœu, soit comme don volontaire —",
+        "DBY": "Parle à Aaron et à ses fils, et à tous les fils d'Israël, et dis-leur: Quiconque de la maison d'Israël ou de ceux qui séjournent en Israël, présentera son offrande, selon tous leurs vœux et selon toutes leurs offrandes volontaires qu'ils présentent en holocauste à l'Éternel,",
+        "KJV": "Speak unto Aaron, and to his sons, and unto all the children of Israel, and say unto them, Whatsoever [he be] of the house of Israel, or of the strangers in Israel, that will offer his oblation for all his vows, and for all his freewill offerings, which they will offer unto the LORD for a burnt offering;",
+        "LSG": "Parle à Aaron et à ses fils, et à tous les enfants d'Israël, et tu leur diras: Tout homme de la maison d'Israël ou des étrangers en Israël, qui offrira un holocauste à l'Eternel, soit pour l'accomplissement d'un voeu, soit comme offrande volontaire,",
+        "MAB": "Parle à Aaron et à ses fils, et à tous les enfants d'Israël, et leur dis : Quiconque de la maison d'Israël, ou des étrangers qui sont en Israël, offrira son offrande, selon tous ses vœux, ou selon toutes ses offrandes volontaires, lesquelles on offre en holocauste à l'Eternel;",
+        "OST": "Parle à Aaron et à ses fils, et à tous les enfants d'Israël, et dis-leur: Quiconque de la maison d'Israël, ou des étrangers en Israël, offrira son offrande, soit pour un vœu, soit comme offrande volontaire qu'on offre en holocauste à l'Éternel, pour que vous soyez agréés,",
+        "S21": "«Transmets ces instructions à Aaron et à ses fils, ainsi qu’à tous les Israélites: Si un Israélite ou un étranger en Israël offre un holocauste à l'Eternel, soit pour l'accomplissement d'un vœu, soit comme offrande volontaire,"
+      }
+    },
+    {
+      "verse": 19,
+      "texts": {
+        "BDS": "devra apporter, pour être agréé, une bête mâle sans défaut, un bœuf, un mouton ou un chevreau.",
+        "DBY": "-pour être agréé, offrira un mâle sans tare, de gros bétail, de moutons, ou de chèvres.",
+        "KJV": "[Ye shall offer] at your own will a male without blemish, of the beeves, of the sheep, or of the goats.",
+        "LSG": "prendra un mâle sans défaut parmi les boeufs, les agneaux ou les chèvres, afin que sa victime soit agréée.",
+        "MAB": "Il offrira de son bon gré, un mâle sans tare, d'entre les vaches, [ou] d'entre les brebis, ou d'entre les chèvres.",
+        "OST": "Qu'il offre un mâle sans défaut, d'entre le gros bétail, les agneaux ou les chèvres.",
+        "S21": "il prendra un mâle sans défaut parmi les bœufs, les agneaux ou les chevreaux, afin que sa victime soit acceptée."
+      }
+    },
+    {
+      "verse": 20,
+      "texts": {
+        "BDS": "Vous n’offrirez pas un animal présentant une malformation, car votre sacrifice ne serait pas agréé.",
+        "DBY": "Vous ne présenterez aucune chose qui ait quelque défaut corporel, car elle ne sera point agréée pour vous.",
+        "KJV": "[But] whatsoever hath a blemish, [that] shall ye not offer: for it shall not be acceptable for you.",
+        "LSG": "Vous n'en offrirez aucune qui ait un défaut, car elle ne serait pas agréée.",
+        "MAB": "Vous n'offrirez aucune chose qui ait quelque tare, car elle ne serait point agréée pour vous.",
+        "OST": "Vous n'offrirez rien qui ait un défaut; car ce ne serait point agréé pour vous.",
+        "S21": "Vous n'en offrirez aucune qui ait un défaut, car elle ne serait pas acceptée."
+      }
+    },
+    {
+      "verse": 21,
+      "texts": {
+        "BDS": "De même, si un homme offre à l’Eternel un sacrifice de communion sous forme de gros ou de menu bétail pour accomplir un vœu, ou comme don volontaire, il devra présenter, s’il veut être agréé, une victime sans défaut ne présentant aucune malformation.",
+        "DBY": "Et si un homme présente un sacrifice de prospérités à l'Éternel, pour s'acquitter d'un vœu, ou en offrande volontaire, soit de gros bétail, soit de menu bétail, son offrande sera sans tare, pour être agréée; il n'y aura en elle aucun défaut corporel.",
+        "KJV": "And whosoever offereth a sacrifice of peace offerings unto the LORD to accomplish [his] vow, or a freewill offering in beeves or sheep, it shall be perfect to be accepted; there shall be no blemish therein.",
+        "LSG": "Si un homme offre à l'Eternel du gros ou du menu bétail en sacrifice d'actions de grâces, soit pour l'accomplissement d'un voeu, soit comme offrande volontaire, la victime sera sans défaut, afin qu'elle soit agréée; il n'y aura en elle aucun défaut.",
+        "MAB": "Que si un homme offre à l'Eternel un sacrifice de prospérités en s'acquittant de quelque vœu, ou en faisant quelque offrande volontaire, soit de bœufs, ou de brebis, ce qui sera sans tare sera agréé; il n'y doit avoir aucune tare.",
+        "OST": "Et quand un homme offrira à l'Éternel un sacrifice de prospérités, de gros ou de menu bétail, pour s'acquitter d'un vœu, ou en offrande volontaire, pour être agréée la victime sera sans défaut; qu'il n'y ait en elle aucun défaut.",
+        "S21": "Si un homme offre à l'Eternel du gros ou du petit bétail en sacrifice de communion, soit pour l'accomplissement d'un vœu, soit comme offrande volontaire, la victime sera sans défaut afin qu'elle soit acceptée; il n'y aura en elle aucun défaut."
+      }
+    },
+    {
+      "verse": 22,
+      "texts": {
+        "BDS": "Vous n’offrirez pas à l’Eternel une bête aveugle, estropiée, mutilée ou affectée d’un ulcère, de la gale ou d’une dartre, vous ne la ferez pas brûler sur l’autel comme sacrifice consumé pour l’Eternel.",
+        "DBY": "Vous ne présenterez point à l'Éternel ce qui est aveugle, ou qui a une fracture ou qui est mutilé, ou qui a des ulcères, ou une gale, ou une dartre, et vous n'en ferez pas un sacrifice fait par feu sur l'autel, à l'Éternel.",
+        "KJV": "Blind, or broken, or maimed, or having a wen, or scurvy, or scabbed, ye shall not offer these unto the LORD, nor make an offering by fire of them upon the altar unto the LORD.",
+        "LSG": "Vous n'en offrirez point qui soit aveugle, estropiée, ou mutilée, qui ait des ulcères, la gale ou une dartre; vous n'en ferez point sur l'autel un sacrifice consumé par le feu devant l'Eternel.",
+        "MAB": "Vous n'offrirez point à l'Eternel ce qui sera aveugle, ou rompu, ou mutilé, ou qui aura un porreau, ou une gâle sèche, ou une gâle d'ulcère, et vous n'en donnerez point pour le sacrifice qui se fait par feu sur l'autel à l'Eternel.",
+        "OST": "Vous n'en offrirez point à l'Éternel qui soit aveugle, ou estropiée, ou mutilée, ou affectée d'ulcères, de la gale ou d'une dartre; et vous n'en ferez point sur l'autel un sacrifice par le feu, à l'Éternel.",
+        "S21": "Vous n’offrirez pas une victime qui soit aveugle, estropiée ou mutilée, qui ait des ulcères, la gale ou une dartre; vous n'en ferez pas sur l'autel un sacrifice passé par le feu pour l'Eternel."
+      }
+    },
+    {
+      "verse": 23,
+      "texts": {
+        "BDS": "Si un bœuf ou un agneau a un membre trop long ou trop court, tu pourras l’offrir comme don volontaire, mais un tel animal ne serait pas agréé pour l’accomplissement d’un vœu.",
+        "DBY": "Tu pourras faire un sacrifice volontaire d'un bœuf ou d'un agneau ayant quelque membre trop long ou trop court; mais pour un vœu, ils ne seront pas agréés.",
+        "KJV": "Either a bullock or a lamb that hath any thing superfluous or lacking in his parts, that mayest thou offer [for] a freewill offering; but for a vow it shall not be accepted.",
+        "LSG": "Tu pourras sacrifier comme offrande volontaire un boeuf ou un agneau ayant un membre trop long ou trop court, mais il ne sera point agréé pour l'accomplissement d'un voeu.",
+        "MAB": "Tu pourras bien faire une offrande volontaire, d'un bœuf, ou d'une brebis, ou d'une chèvre ayant quelque superfluité, ou quelque défaut dans ses membres, mais ils ne seront point agréés pour le vœu.",
+        "OST": "Tu pourras sacrifier comme offrande volontaire un bœuf ou un agneau ayant quelque membre trop long ou trop court; mais il ne sera point agréé pour un vœu.",
+        "S21": "Tu pourras sacrifier comme offrande volontaire un bœuf ou un agneau avec un membre trop long ou trop court, mais il ne sera pas accepté pour l'accomplissement d'un vœu."
+      }
+    },
+    {
+      "verse": 24,
+      "texts": {
+        "BDS": "Vous n’offrirez pas à l’Eternel un animal ayant des organes génitaux écrasés ou broyés, arrachés ou coupés; vous ne ferez pas cela quand vous serez dans votre pays.",
+        "DBY": "Et vous ne présenterez pas à l'Éternel ce qui sera froissé, ou écrasé, ou arraché, ou coupé; vous ne ferez point cela dans votre pays.",
+        "KJV": "Ye shall not offer unto the LORD that which is bruised, or crushed, or broken, or cut; neither shall ye make [any offering thereof] in your land.",
+        "LSG": "Vous n'offrirez point à l'Eternel un animal dont les testicules ont été froissés, écrasés, arrachés ou coupés; vous ne l'offrirez point en sacrifice dans votre pays.",
+        "MAB": "Vous n'offrirez point à l'Eternel, et ne sacrifierez point en votre pays [une bête] qui ait les génitoires froissés, ou cassés, ou arrachés, ou taillés.",
+        "OST": "Vous n'offrirez point à l'Éternel, et vous ne sacrifierez point dans votre pays un animal dont les testicules ont été froissés, écrasés, arrachés ou coupés.",
+        "S21": "Vous n'offrirez pas à l'Eternel un animal dont les testicules ont été écrasés, broyés, arrachés ou coupés. Vous ne l'offrirez pas en sacrifice dans votre pays."
+      }
+    },
+    {
+      "verse": 25,
+      "texts": {
+        "BDS": "Vous n’accepterez même pas de tels animaux de la part d’un étranger pour les offrir comme aliment à votre Dieu; du moment qu’ils sont mutilés ou ont une malformation, ils ne seront pas agréés de votre part.",
+        "DBY": "Et de la main d'un étranger, vous ne présenterez aucune de ces choses comme le pain de votre Dieu; car leur corruption est en elles, il y a un défaut en elles: elles ne seront pas agréées pour vous.",
+        "KJV": "Neither from a stranger's hand shall ye offer the bread of your God of any of these; because their corruption [is] in them, [and] blemishes [be] in them: they shall not be accepted for you.",
+        "LSG": "Vous n'accepterez de l'étranger aucune de ces victimes, pour l'offrir comme aliment de votre Dieu; car elles sont mutilées, elles ont des défauts: elles ne seraient point agréées.",
+        "MAB": "Vous ne prendrez point aussi de la main de l'étranger aucune de toutes ces choses pour les offrir en viande à votre Dieu, car la corruption qui est en eux est une tare en elles; elles ne seront point agréées pour vous.",
+        "OST": "Vous n'accepterez de la main d'un étranger aucune de ces victimes pour l'offrir comme aliment de votre Dieu; car leur mutilation est un défaut en elles; elles ne seront point agréées en votre faveur.",
+        "S21": "Pas même d’un étranger vous n'accepterez une de ces victimes pour l'offrir comme nourriture de votre Dieu, car elles sont mutilées, elles ont des défauts, elles ne seraient pas acceptées.»"
+      }
+    },
+    {
+      "verse": 26,
+      "texts": {
+        "BDS": "L’Eternel parla à Moïse en ces termes:",
+        "DBY": "Et l'Éternel parla à Moïse, disant:",
+        "KJV": "And the LORD spake unto Moses, saying,",
+        "LSG": "L'Eternel dit à Moïse:",
+        "MAB": "L'Eternel parla encore à Moïse, en disant :",
+        "OST": "L'Éternel parla encore à Moïse, en disant:",
+        "S21": "L'Eternel dit à Moïse:"
+      }
+    },
+    {
+      "verse": 27,
+      "texts": {
+        "BDS": "—Quand un veau, un agneau ou un chevreau naîtra, il restera sept jours avec sa mère; à partir du huitième jour seulement, il pourra être agréé comme sacrifice consumé offert à l’Eternel.",
+        "DBY": "Un veau, ou un agneau ou un chevreau, lorsqu'il sera né, sera sept jours sous sa mère; et depuis le huitième jour et après, il sera agréé pour l'offrande du sacrifice fait par feu à l'Éternel.",
+        "KJV": "When a bullock, or a sheep, or a goat, is brought forth, then it shall be seven days under the dam; and from the eighth day and thenceforth it shall be accepted for an offering made by fire unto the LORD.",
+        "LSG": "Un boeuf, un agneau ou une chèvre, quand il naîtra, restera sept jours avec sa mère; dès le huitième jour et les suivants, il sera agréé pour être offert à l'Eternel en sacrifice consumé par le feu.",
+        "MAB": "Quand un veau, ou un agneau, ou une chèvre seront nés, et qu'ils auront été sept jours sous leur mère, depuis le huitième jour et les suivants, ils seront agréables pour l'offrande du sacrifice qui se fait par feu à l'Eternel.",
+        "OST": "Quand un veau, un agneau ou un chevreau naîtra, il sera sept jours avec sa mère; et à partir du huitième jour et les suivants, il sera agréé en offrande de sacrifice fait par le feu à l'Éternel.",
+        "S21": "«Quand un veau, un agneau ou un chevreau naîtra, il restera 7 jours avec sa mère; dès le huitième jour et les suivants, il sera accepté pour être offert à l'Eternel en sacrifice passé par le feu."
+      }
+    },
+    {
+      "verse": 28,
+      "texts": {
+        "BDS": "Mais vous n’immolerez jamais une vache, une brebis ou une chèvre le même jour que son petit.",
+        "DBY": "Et vous n'égorgerez pas la vache, ou la brebis, elle est son petit, en un même jour.",
+        "KJV": "And [whether it be] cow or ewe, ye shall not kill it and her young both in one day.",
+        "LSG": "Boeuf ou agneau, vous n'égorgerez pas un animal et son petit le même jour.",
+        "MAB": "Vous n'égorgerez point aussi en un même jour la vache, ou la brebis, ou la chèvre, avec son petit.",
+        "OST": "Soit gros soit menu bétail, vous n'égorgerez pas un animal et son petit le même jour.",
+        "S21": "Veau ou agneau, vous n'égorgerez pas un animal et son petit le même jour."
+      }
+    },
+    {
+      "verse": 29,
+      "texts": {
+        "BDS": "Quand vous offrirez un sacrifice de reconnaissance à l’Eternel, faites-le de manière à être agréés.",
+        "DBY": "Et si vous sacrifiez un sacrifice d'action de grâces à l'Éternel, vous le sacrifierez pour être agréé pour vous.",
+        "KJV": "And when ye will offer a sacrifice of thanksgiving unto the LORD, offer [it] at your own will.",
+        "LSG": "Quand vous offrirez à l'Eternel un sacrifice d'actions de grâces, vous ferez en sorte qu'il soit agréé.",
+        "MAB": "Quand vous offrirez un sacrifice d'action de grâces à l'Eternel, vous le sacrifierez de votre bon gré.",
+        "OST": "Et quand vous offrirez un sacrifice d'actions de grâces à l'Éternel, vous le sacrifierez de manière qu'il soit agréé en votre faveur.",
+        "S21": "Quand vous offrirez à l'Eternel un sacrifice de reconnaissance, vous ferez en sorte qu'il soit accepté."
+      }
+    },
+    {
+      "verse": 30,
+      "texts": {
+        "BDS": "Il sera mangé le jour même; vous n’en laisserez rien jusqu’au lendemain matin. Je suis l’Eternel.",
+        "DBY": "Il sera mangé le jour même; vous n'en laisserez rien jusqu'au matin. Moi, je suis l'Éternel.",
+        "KJV": "On the same day it shall be eaten up; ye shall leave none of it until the morrow: I [am] the LORD.",
+        "LSG": "La victime sera mangée le jour même; vous n'en laisserez rien jusqu'au matin. Je suis l'Eternel.",
+        "MAB": "Il sera mangé le jour même, [et] vous n'en réserverez rien jusqu'au matin; je suis l'Eternel.",
+        "OST": "Il sera mangé le jour même, vous n'en laisserez rien jusqu'au matin: Je suis l'Éternel.",
+        "S21": "La victime sera mangée le jour même, vous n'en laisserez rien jusqu'au matin. Je suis l'Eternel."
+      }
+    },
+    {
+      "verse": 31,
+      "texts": {
+        "BDS": "Vous obéirez à mes commandements et vous les accomplirez. Je suis l’Eternel.",
+        "DBY": "Et vous garderez mes commandements, et vous les ferez. Moi, je suis l'Éternel.",
+        "KJV": "Therefore shall ye keep my commandments, and do them: I [am] the LORD.",
+        "LSG": "Vous observerez mes commandements, et vous les mettrez en pratique. Je suis l'Eternel.",
+        "MAB": "Gardez donc mes commandements, et les faites.; je suis l'Eternel.",
+        "OST": "Gardez donc mes commandements, et accomplissez-les: Je suis l'Éternel.",
+        "S21": "»Vous respecterez mes commandements, vous les mettrez en pratique. Je suis l'Eternel."
+      }
+    },
+    {
+      "verse": 32,
+      "texts": {
+        "BDS": "Vous ne profanerez pas ma sainteté; ma sainteté sera respectée par les Israélites. Moi, l’Eternel, je vous rends saints,",
+        "DBY": "Et vous ne profanerez pas mon saint nom, mais je serai sanctifié au milieu des fils d'Israël: moi, je suis l'Éternel qui vous sanctifie et",
+        "KJV": "Neither shall ye profane my holy name; but I will be hallowed among the children of Israel: I [am] the LORD which hallow you,",
+        "LSG": "Vous ne profanerez point mon saint nom, afin que je sois sanctifié au milieu des enfants d'Israël. Je suis l'Eternel, qui vous sanctifie,",
+        "MAB": "Et ne profanez point le nom de ma sainteté, car je serai sanctifié entre les enfants d'Israël; je suis l'Eternel qui vous sanctifie;",
+        "OST": "Et ne profanez point mon saint nom, et je serai sanctifié au milieu des enfants d'Israël: Je suis l'Éternel, qui vous sanctifie,",
+        "S21": "Vous ne déshonorerez pas mon saint nom, afin que ma sainteté soit respectée au milieu des Israélites. Je suis l'Eternel qui vous considère comme saints"
+      }
+    },
+    {
+      "verse": 33,
+      "texts": {
+        "BDS": "moi qui vous ai fait sortir d’Egypte pour être votre Dieu. Je suis l’Eternel.",
+        "DBY": "qui vous ai fait sortir du pays d'Égypte pour être votre Dieu. Moi, je suis l'Éternel.",
+        "KJV": "That brought you out of the land of Egypt, to be your God: I [am] the LORD.",
+        "LSG": "et qui vous ai fait sortir du pays d'Egypte pour être votre Dieu. Je suis l'Eternel.",
+        "MAB": "Et qui vous ai retirés du pays d'Egypte, pour vous être Dieu; je suis l'Eternel.",
+        "OST": "Qui vous ai fait sortir du pays d'Égypte pour être votre Dieu. Je suis l'Éternel.",
+        "S21": "et qui vous ai fait sortir d'Egypte pour être votre Dieu. Je suis l'Eternel.»"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "bookCode": "PSA",
+  "chapter": 117,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "Louez l’Eternel, toutes les nations!\r\nChantez ses louanges, ô vous, tous les peuples!",
+        "DBY": "Louez l'Éternel, vous, toutes les nations; célébrez-le, vous, tous les peuples!",
+        "KJV": "O praise the LORD, all ye nations: praise him, all ye people.",
+        "LSG": "Louez l'Eternel, vous toutes les nations, Célébrez-le, vous tous les peuples!",
+        "MAB": "Toutes nations, louez l'Eternel; tous peuples, célébrez-le.",
+        "OST": "Louez l'Éternel, vous, toutes les nations; célébrez-le, vous, tous les peuples!",
+        "S21": "Louez l’Eternel, vous, toutes les nations, célébrez-le, vous, tous les peuples,"
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "Car il est immense, son amour pour nous.\r\nSa fidélité subsiste à jamais.\r\nLouez l’Eternel!",
+        "DBY": "Car sa bonté est grande envers nous, et la vérité de l'Éternel demeure à toujours. Louez Jah!",
+        "KJV": "For his merciful kindness is great toward us: and the truth of the LORD [endureth] for ever. Praise ye the LORD.",
+        "LSG": "Car sa bonté pour nous est grande, Et sa fidélité dure à toujours. Louez l'Eternel!",
+        "MAB": "Car sa miséricorde est grande envers nous, et la vérité de l'Eternel demeure à toujours. Louez l'Eternel.",
+        "OST": "Car sa bonté est grande envers nous, et la fidélité de l'Éternel demeure à toujours. Louez l'Éternel!",
+        "S21": "car sa bonté est grande envers nous et sa vérité dure éternellement! Louez l’Eternel!"
+      }
+    }
+  ]
+}

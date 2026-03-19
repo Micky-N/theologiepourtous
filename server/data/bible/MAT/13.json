@@ -1,0 +1,702 @@
+{
+  "bookCode": "MAT",
+  "chapter": 13,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "Ce jour-là, Jésus sortit de chez lui et alla s’asseoir au bord du lac.",
+        "DBY": "Et en ce jour-là, Jésus, étant sorti de la maison, s'assit près de la mer.",
+        "KJV": "The same day went Jesus out of the house, and sat by the sea side.",
+        "LSG": "Ce même jour, Jésus sortit de la maison, et s'assit au bord de la mer.",
+        "MAB": "Ce même jour-là Jésus étant sorti de la maison, s'assit près de la mer.",
+        "OST": "Ce même jour, Jésus, étant sorti de la maison, s'assit au bord de la mer.",
+        "S21": "Ce jour-là, Jésus sortit de la maison et s'assit au bord du lac."
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "Autour de lui la foule se rassembla si nombreuse qu’il dut monter dans une barque. Il s’y assit. La foule se tenait sur le rivage.",
+        "DBY": "Et de grandes foules étaient rassemblées auprès de lui, de sorte que, montant dans une nacelle, il s'assit; et toute la foule se tenait sur le rivage.",
+        "KJV": "And great multitudes were gathered together unto him, so that he went into a ship, and sat; and the whole multitude stood on the shore.",
+        "LSG": "Une grande foule s'étant assemblée auprès de lui, il monta dans une barque, et il s'assit. Toute la foule se tenait sur le rivage.",
+        "MAB": "Et de grandes troupes s'assemblèrent autour de lui, c'est pourquoi il monta dans une nacelle, et s'assit, et toute la multitude se tenait sur le rivage.",
+        "OST": "Et une grande foule s'assembla auprès de lui; en sorte qu'il monta dans une barque. Il s'y assit, et toute la multitude se tenait sur le rivage.",
+        "S21": "La foule se rassembla autour de lui, si nombreuse qu'il monta dans une barque où il s'assit. Toute la foule se tenait sur le rivage."
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "Il prit la parole et leur exposa bien des choses sous forme de paraboles. Il leur dit:\r\n—Un semeur sortit pour semer.",
+        "DBY": "Et il leur dit beaucoup de choses par des paraboles, disant: Voici, un semeur sortit pour semer.",
+        "KJV": "And he spake many things unto them in parables, saying, ‹Behold, a sower went forth to sow;›",
+        "LSG": "Il leur parla en paraboles sur beaucoup de choses, et il dit: Un semeur sortit pour semer.",
+        "MAB": "Et il leur parla de plusieurs choses par des similitudes, en disant : voici, un semeur sortit pour semer.",
+        "OST": "Et il leur dit plusieurs choses par des similitudes, et il leur parla ainsi:",
+        "S21": "Il leur parla en paraboles sur beaucoup de choses. Il dit:"
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "Alors qu’il répandait sa semence, des grains tombèrent au bord du chemin; les oiseaux vinrent et les mangèrent.",
+        "DBY": "Et comme il semait, quelques grains tombèrent le long du chemin, et les oiseaux vinrent et les dévorèrent.",
+        "KJV": "‹And when he sowed, some› [seeds] ‹fell by the way side, and the fowls came and devoured them up:›",
+        "LSG": "Comme il semait, une partie de la semence tomba le long du chemin: les oiseaux vinrent, et la mangèrent.",
+        "MAB": "Et comme il semait, une partie de la semence tomba le long du chemin, et les oiseaux vinrent, et la mangèrent toute.",
+        "OST": "Un semeur sortit pour semer; et comme il semait, une partie de la semence tomba le long du chemin; et les oiseaux vinrent et la mangèrent toute.",
+        "S21": "«Un semeur sortit pour semer. Comme il semait, une partie de la semence tomba le long du chemin; les oiseaux vinrent et la mangèrent."
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "D’autres tombèrent sur un sol rocailleux et, ne trouvant qu’une mince couche de terre, ils levèrent rapidement parce que la terre n’était pas profonde.",
+        "DBY": "Et d'autres tombèrent sur les endroits rocailleux, où ils n'avaient pas beaucoup de terre; et aussitôt ils levèrent, parce qu'ils n'avaient pas une terre profonde;",
+        "KJV": "‹Some fell upon stony places, where they had not much earth: and forthwith they sprung up, because they had no deepness of earth:›",
+        "LSG": "Une autre partie tomba dans les endroits pierreux, où elle n'avait pas beaucoup de terre: elle leva aussitôt, parce qu'elle ne trouva pas un sol profond;",
+        "MAB": "Et une autre partie tomba dans des lieux pierreux, où elle n'avait guère de terre, et aussitôt elle leva, parce qu'elle n'entrait pas profondément dans la terre.",
+        "OST": "Une autre partie tomba sur les endroits pierreux, où elle n'avait que peu de terre; et elle leva aussitôt, parce qu'elle n'entrait pas profondément dans la terre;",
+        "S21": "Une autre partie tomba dans un sol pierreux où elle n'avait pas beaucoup de terre; elle leva aussitôt, parce qu'elle ne trouva pas un terrain profond,"
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "Mais quand le soleil fut monté haut dans le ciel, les petits plants furent vite brûlés, et comme ils n’avaient pas vraiment pris racine, ils séchèrent.",
+        "DBY": "et, le soleil s'étant levé, ils furent brûlés, et parce qu'ils n'avaient pas de racine, ils séchèrent.",
+        "KJV": "‹And when the sun was up, they were scorched; and because they had no root, they withered away.›",
+        "LSG": "mais, quand le soleil parut, elle fut brûlée et sécha, faute de racines.",
+        "MAB": "Et le soleil s'étant levé, elle fut brûlée; et parce qu'elle n'avait point de racine, elle sécha.",
+        "OST": "Mais le soleil étant levé, elle fut brûlée; et parce qu'elle n'avait point de racine, elle sécha.",
+        "S21": "mais quand le soleil parut, elle fut brûlée et sécha, faute de racines."
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "D’autres grains tombèrent parmi les ronces. Celles-ci grandirent et étouffèrent les jeunes pousses.",
+        "DBY": "Et d'autres tombèrent entre les épines, et les épines montèrent et les étouffèrent.",
+        "KJV": "‹And some fell among thorns; and the thorns sprung up, and choked them:›",
+        "LSG": "Une autre partie tomba parmi les épines: les épines montèrent, et l'étouffèrent.",
+        "MAB": "Et une autre partie tomba entre des épines; et les épines montèrent, et l'étouffèrent.",
+        "OST": "Une autre partie tomba parmi les épines; et les épines crûrent et l'étouffèrent.",
+        "S21": "Une autre partie tomba parmi les ronces; les ronces poussèrent et l'étouffèrent."
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "D’autres grains enfin tombèrent sur la bonne terre et donnèrent du fruit avec un rendement de cent, soixante, ou trente pour un.",
+        "DBY": "Et d'autres tombèrent sur une bonne terre et produisirent du fruit, l'un cent, l'autre soixante, l'autre trente.",
+        "KJV": "‹But other fell into good ground, and brought forth fruit, some an hundredfold, some sixtyfold, some thirtyfold.›",
+        "LSG": "Une autre partie tomba dans la bonne terre: elle donna du fruit, un grain cent, un autre soixante, un autre trente.",
+        "MAB": "Et une autre partie tomba dans une bonne terre, et rendit du fruit, un grain [en rendit] cent, un autre, soixante, et un autre, trente.",
+        "OST": "Et une autre partie tomba dans la bonne terre, et rapporta du fruit: un grain en rapporta cent, un autre soixante, et un autre trente.",
+        "S21": "Une autre partie tomba dans la bonne terre; elle donna du fruit avec un rapport de 100, 60 ou 30 pour 1."
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "Celui qui a des oreilles, qu’il entende!",
+        "DBY": "Qui a des oreilles pour entendre, qu'il entende.",
+        "KJV": "‹Who hath ears to hear, let him hear.›",
+        "LSG": "Que celui qui a des oreilles pour entendre entende.",
+        "MAB": "Qui a des oreilles pour ouïr, qu'il entende.",
+        "OST": "Que celui qui a des oreilles pour entendre, entende.",
+        "S21": "Que celui qui a des oreilles [pour entendre] entende.»"
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "Alors ses disciples s’approchèrent et lui demandèrent:\r\n—Pourquoi te sers-tu de paraboles pour leur parler?",
+        "DBY": "Et les disciples, s'approchant, lui dirent: Pourquoi leur parles-tu en paraboles?",
+        "KJV": "And the disciples came, and said unto him, Why speakest thou unto them in parables?",
+        "LSG": "Les disciples s'approchèrent, et lui dirent: Pourquoi leur parles-tu en paraboles?",
+        "MAB": "Alors les Disciples s'approchant lui dirent : pourquoi leur parles-tu par des similitudes?",
+        "OST": "Alors les disciples, s'étant approchés, lui dirent: Pourquoi leur parles-tu en paraboles?",
+        "S21": "Les disciples s'approchèrent et lui dirent: «Pourquoi leur parles-tu en paraboles?»"
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "Il leur répondit:\r\n—Vous avez reçu le privilège de connaître les secrets du royaume des cieux, eux ne l’ont pas reçu.",
+        "DBY": "Et lui, répondant, leur dit: C'est parce qu'à vous il est donné de connaître les mystères du royaume des cieux; mais à eux, il n'est pas donné.",
+        "KJV": "He answered and said unto them, ‹Because it is given unto you to know the mysteries of the kingdom of heaven, but to them it is not given.›",
+        "LSG": "Jésus leur répondit: Parce qu'il vous a été donné de connaître les mystères du royaume des cieux, et que cela ne leur a pas été donné.",
+        "MAB": "Il répondit, et leur dit : c'est parce qu'il vous est donné de connaître les mystères du Royaume des cieux, et que, pour eux, il ne leur est point donné [de les connaître].",
+        "OST": "Il répondit, et leur dit: Parce qu'il vous est donné de connaître les mystères du royaume des cieux; mais cela ne leur est point donné.",
+        "S21": "Jésus [leur] répondit: «Parce qu'il vous a été donné, à vous, de connaître les mystères du royaume des cieux, mais qu'à eux cela n'a pas été donné."
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "Car à celui qui a, on donnera encore, jusqu’à ce qu’il soit dans l’abondance; mais à celui qui n’a pas, on ôtera même ce qu’il a.",
+        "DBY": "à quiconque a, il sera donné, et il sera dans l'abondance; mais à quiconque n'a pas, cela même qu'il a sera ôté.",
+        "KJV": "‹For whosoever hath, to him shall be given, and he shall have more abundance: but whosoever hath not, from him shall be taken away even that he hath.›",
+        "LSG": "Car on donnera à celui qui a, et il sera dans l'abondance, mais à celui qui n'a pas on ôtera même ce qu'il a.",
+        "MAB": "Car à celui qui a, il sera donné, et il aura encore plus; mais à celui qui n'a rien, cela même qu'il a lui sera ôté.",
+        "OST": "Car on donnera à celui qui a, et il aura encore davantage; mais pour celui qui n'a pas, on lui ôtera même ce qu'il a.",
+        "S21": "En effet, on donnera à celui qui a et il sera dans l'abondance, mais à celui qui n'a pas on enlèvera même ce qu'il a."
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "Voici pourquoi je me sers de paraboles, pour leur parler: c’est que, bien qu’ils regardent, ils ne voient pas, et bien qu’ils écoutent, ils n’entendent pas et ne comprennent pas.",
+        "DBY": "C'est pourquoi je leur parle en paraboles, parce que voyant ils ne voient pas, et qu'entendant ils n'entendent ni ne comprennent.",
+        "KJV": "‹Therefore speak I to them in parables: because they seeing see not; and hearing they hear not, neither do they understand.›",
+        "LSG": "C'est pourquoi je leur parle en paraboles, parce qu'en voyant ils ne voient point, et qu'en entendant ils n'entendent ni ne comprennent.",
+        "MAB": "C'est pourquoi je leur parle par des similitudes, à cause qu'en voyant ils ne voient point, et qu'en entendant ils n'entendent point, et ne comprennent point.",
+        "OST": "C'est à cause de cela que je leur parle en similitudes, parce qu'en voyant ils ne voient point, et qu'en entendant ils n'entendent et ne comprennent point.",
+        "S21": "C'est pourquoi je leur parle en paraboles, parce qu'en voyant ils ne voient pas et qu’en entendant ils n'entendent pas et ne comprennent pas."
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "Pour eux s’accomplit cette prophétie d’Esaïe:\r\nVous aurez beau entendre,\r\nvous ne comprendrez pas.\r\nVous aurez beau voir de vos propres yeux,\r\nvous ne saisirez pas.",
+        "DBY": "Et par eux s'accomplit la prophétie d'Ésaïe qui dit: \"En entendant vous entendrez et vous ne comprendrez point, et en voyant vous verrez et vous n'apercevrez point;",
+        "KJV": "‹And in them is fulfilled the prophecy of Esaias, which saith, By hearing ye shall hear, and shall not understand; and seeing ye shall see, and shall not perceive:›",
+        "LSG": "Et pour eux s'accomplit cette prophétie d'Esaïe: Vous entendrez de vos oreilles, et vous ne comprendrez point; Vous regarderez de vos yeux, et vous ne verrez point.",
+        "MAB": "Et [ainsi] s'accomplit en eux la prophétie d'Esaïe, qui dit : en entendant vous ne comprendrez point; et en voyant vous verrez, et vous n'apercevrez point.",
+        "OST": "Ainsi s'accomplit en eux la prophétie d'Ésaïe, qui dit: Vous entendrez de vos oreilles, et vous ne comprendrez point; en voyant vous verrez, et vous ne discernerez point.",
+        "S21": "Pour eux s'accomplit cette prophétie d'Esaïe: Vous aurez beau entendre, vous ne comprendrez pas, vous aurez beau regarder, vous ne verrez pas."
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "Car le cœur de ce peuple est devenu insensible,\r\nils ont fait la sourde oreille\r\net ils se sont bouché les yeux,\r\nde peur que leurs yeux ne voient,\r\net que leurs oreilles n’entendent,\r\nde peur que leur cœur ne comprenne,\r\nqu’ils ne se tournent vers moi\r\net que je les guérisse.",
+        "DBY": "car le cœur de ce peuple s'est épaissi, et ils ont ouï dur de leurs oreilles, et ils ont fermé leurs yeux, de peur qu'ils ne voient des yeux, et qu'ils n'entendent des oreilles, et qu'ils ne comprennent du cœur, et qu'ils ne se convertissent, et que je ne les guérisse\".",
+        "KJV": "‹For this people's heart is waxed gross, and› [their] ‹ears are dull of hearing, and their eyes they have closed; lest at any time they should see with› [their] ‹eyes, and hear with› [their] ‹ears, and should understand with› [their] ‹heart, and should be converted, and I should heal them.›",
+        "LSG": "Car le coeur de ce peuple est devenu insensible; Ils ont endurci leurs oreilles, et ils ont fermé leurs yeux, De peur qu'ils ne voient de leurs yeux, qu'ils n'entendent de leurs oreilles, Qu'ils ne comprennent de leur coeur, Qu'ils ne se convertissent, et que je ne les guérisse.",
+        "MAB": "Car le cœur de ce peuple est engraissé, et ils ont ouï dur de leurs oreilles, et ont cligné de leurs yeux; de peur qu'ils ne voient des yeux, et qu'ils n'entendent des oreilles, et qu'ils ne comprennent du cœur, et ne se convertissent, et que je ne les guérisse.",
+        "OST": "Car le cœur de ce peuple est appesanti; ils entendent dur de leurs oreilles, ils ont fermé les yeux, de peur qu'ils ne voient de leurs yeux, et qu'ils n'entendent de leurs oreilles, et qu'ils ne comprennent du cœur, et qu'ils ne se convertissent, et que je ne les guérisse.",
+        "S21": "En effet, le cœur de ce peuple est devenu insensible; ils se sont bouché les oreilles et ils ont fermé les yeux de peur que leurs yeux ne voient, que leurs oreilles n'entendent, que leur cœur ne comprenne, qu'ils ne se convertissent et que je ne les guérisse."
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "Vous, au contraire, vous êtes heureux, vos yeux voient et vos oreilles entendent!",
+        "DBY": "Mais bienheureux sont vos yeux, car ils voient, et vos oreilles, car elles entendent;",
+        "KJV": "‹But blessed› [are] ‹your eyes, for they see: and your ears, for they hear.›",
+        "LSG": "Mais heureux sont vos yeux, parce qu'ils voient, et vos oreilles, parce qu'elles entendent!",
+        "MAB": "Mais vos yeux sont bienheureux, car ils voient; et, vos oreilles sont [bienheureuses], car elles entendent.",
+        "OST": "Mais vous êtes heureux d'avoir des yeux qui voient et des oreilles qui entendent.",
+        "S21": "Mais heureux sont vos yeux parce qu'ils voient, et vos oreilles parce qu'elles entendent!"
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "Vraiment, je vous l’assure: beaucoup de prophètes et de justes ont désiré voir ce que vous voyez, mais ne l’ont pas vu; ils ont désiré entendre ce que vous entendez, mais ne l’ont pas entendu.",
+        "DBY": "car en vérité, je vous dis, que plusieurs prophètes et plusieurs justes ont désiré de voir les choses que vous voyez, et ils ne les ont pas vues, et d'entendre les choses que vous entendez, et ils ne les ont pas entendues.",
+        "KJV": "‹For verily I say unto you, That many prophets and righteous› [men] ‹have desired to see› [those things] ‹which ye see, and have not seen› [them]; ‹and to hear› [those things] ‹which ye hear, and have not heard› [them].",
+        "LSG": "Je vous le dis en vérité, beaucoup de prophètes et de justes ont désiré voir ce que vous voyez, et ne l'ont pas vu, entendre ce que vous entendez, et ne l'ont pas entendu.",
+        "MAB": "Car en vérité je vous dis, que plusieurs Prophètes et plusieurs justes ont désiré de voir les choses que vous voyez, et ils ne les ont point vues; et d'ouïr les choses que vous entendez, et ils ne les ont point ouïes.",
+        "OST": "Car je vous dis en vérité que plusieurs prophètes et justes ont désiré de voir ce que vous voyez, et ne l'ont pas vu; et d'entendre ce que vous entendez, et ne l'ont pas entendu.",
+        "S21": "Je vous le dis en vérité, beaucoup de prophètes et de justes ont désiré voir ce que vous voyez et ne l'ont pas vu, entendre ce que vous entendez et ne l'ont pas entendu."
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "—Vous donc, écoutez ce que signifie la parabole du semeur:",
+        "DBY": "Vous donc, écoutez la parabole du semeur.",
+        "KJV": "‹Hear ye therefore the parable of the sower.›",
+        "LSG": "Vous donc, écoutez ce que signifie la parabole du semeur.",
+        "MAB": "Vous donc, écoutez [le sens de] la similitude du semeur.",
+        "OST": "Vous donc entendez la parabole du semeur:",
+        "S21": "»Vous donc, écoutez ce que signifie la parabole du semeur."
+      }
+    },
+    {
+      "verse": 19,
+      "texts": {
+        "BDS": "Chaque fois que quelqu’un entend le message qui concerne le royaume et ne le comprend pas, le diable vient arracher ce qui a été semé dans son cœur. Tel est celui qui a reçu la semence «au bord du chemin».",
+        "DBY": "Toutes les fois que quelqu'un entend la parole du royaume, et ne la comprend pas, le méchant vient et ravit ce qui est semé dans son cœur; c'est là celui qui a été semé le long du chemin.",
+        "KJV": "‹When any one heareth the word of the kingdom, and understandeth› [it] ‹not, then cometh the wicked› [one], ‹and catcheth away that which was sown in his heart. This is he which received seed by the way side.›",
+        "LSG": "Lorsqu'un homme écoute la parole du royaume et ne la comprend pas, le malin vient et enlève ce qui a été semé dans son coeur: cet homme est celui qui a reçu la semence le long du chemin.",
+        "MAB": "Quand un homme écoute la parole du Royaume, et ne la comprend point, le malin vient, et ravit ce qui est semé dans son cœur; et c'est là celui qui a reçu la semence auprès du chemin.",
+        "OST": "Lorsqu'un homme écoute la parole du Royaume, et qu'il ne la comprend point, le Malin vient, et ravit ce qui est semé dans le cœur; c'est celui qui a reçu la semence le long du chemin.",
+        "S21": "Lorsqu'un homme entend la parole du royaume et ne la comprend pas, le mauvais vient et enlève ce qui a été semé dans son cœur: cet homme est celui qui a reçu la semence le long du chemin."
+      }
+    },
+    {
+      "verse": 20,
+      "texts": {
+        "BDS": "Puis il y a celui qui reçoit la semence «sur le sol rocailleux»: quand il entend la Parole, il l’accepte aussitôt avec joie.",
+        "DBY": "Et celui qui a été semé sur les endroits rocailleux, c'est celui qui entend la parole, et qui la reçoit aussitôt avec joie;",
+        "KJV": "‹But he that received the seed into stony places, the same is he that heareth the word, and anon with joy receiveth it;›",
+        "LSG": "Celui qui a reçu la semence dans les endroits pierreux, c'est celui qui entend la parole et la reçoit aussitôt avec joie;",
+        "MAB": "Et celui qui a reçu la semence dans des lieux pierreux, c'est celui qui écoute la parole, et qui la reçoit aussitôt avec joie;",
+        "OST": "Et celui qui a reçu la semence dans des endroits pierreux, c'est celui qui entend la parole, et qui la reçoit aussitôt avec joie;",
+        "S21": "Celui qui a reçu la semence dans le sol pierreux, c'est celui qui entend la parole et l’accepte aussitôt avec joie;"
+      }
+    },
+    {
+      "verse": 21,
+      "texts": {
+        "BDS": "Mais il ne la laisse pas prendre racine en lui, car il est inconstant. Que surviennent des difficultés ou la persécution à cause de la Parole, le voilà qui abandonne tout.",
+        "DBY": "mais il n'a pas de racine en lui-même, mais n'est que pour un temps: et quand la tribulation ou la persécution survient à cause de la parole, il est aussitôt scandalisé.",
+        "KJV": "‹Yet hath he not root in himself, but dureth for a while: for when tribulation or persecution ariseth because of the word, by and by he is offended.›",
+        "LSG": "mais il n'a pas de racines en lui-même, il manque de persistance, et, dès que survient une tribulation ou une persécution à cause de la parole, il y trouve une occasion de chute.",
+        "MAB": "Mais il n'a point de racine en lui-même, c'est pourquoi il n'est qu'à temps; de sorte que dès que l'affliction ou la persécution survienne à cause de la parole, il est aussitôt scandalisé.",
+        "OST": "Mais il n'a point de racine en lui-même, il ne dure qu'un moment, et lorsque l'affliction ou la persécution survient à cause de la parole, il se scandalise aussitôt.",
+        "S21": "mais il n'a pas de racines en lui-même, il est l’homme d’un moment et, dès que surviennent les difficultés ou la persécution à cause de la parole, il trébuche."
+      }
+    },
+    {
+      "verse": 22,
+      "texts": {
+        "BDS": "Un autre encore a reçu la semence «parmi les ronces». C’est celui qui écoute la Parole, mais en qui elle ne porte pas de fruit parce qu’elle est étouffée par les soucis de ce monde et par l’attrait trompeur des richesses.",
+        "DBY": "Et celui qui a été semé dans les épines, c'est celui qui entend la parole; et les soucis de ce siècle et la tromperie des richesses étouffent la parole, et il est sans fruit.",
+        "KJV": "‹He also that received seed among the thorns is he that heareth the word; and the care of this world, and the deceitfulness of riches, choke the word, and he becometh unfruitful.›",
+        "LSG": "Celui qui a reçu la semence parmi les épines, c'est celui qui entend la parole, mais en qui les soucis du siècle et la séduction des richesses étouffent cette parole, et la rendent infructueuse.",
+        "MAB": "Et celui qui a reçu la semence entre les épines, c'est celui qui écoute la parole de Dieu, mais l'inquiétude pour les choses de ce monde, et la tromperie des richesses étouffent la parole, et elle devient infructueuse.",
+        "OST": "Et celui qui a reçu la semence parmi les épines, c'est celui qui entend la parole; mais les soucis de ce monde et la séduction des richesses étouffent la parole, et elle devient infructueuse.",
+        "S21": "Celui qui a reçu la semence parmi les ronces, c'est celui qui entend la parole, mais les préoccupations de ce monde et l’attrait trompeur des richesses étouffent cette parole et la rendent infructueuse."
+      }
+    },
+    {
+      "verse": 23,
+      "texts": {
+        "BDS": "Un autre enfin a reçu la semence «sur la bonne terre». C’est celui qui écoute la Parole et la comprend. Alors il porte du fruit: chez l’un, un grain en rapporte cent, chez un autre soixante, chez un autre trente.",
+        "DBY": "Et celui qui a été semé sur la bonne terre, c'est celui qui entend et comprend la parole, qui aussi porte du fruit, et produit l'un cent, l'autre soixante, l'autre trente.",
+        "KJV": "‹But he that received seed into the good ground is he that heareth the word, and understandeth› [it]; ‹which also beareth fruit, and bringeth forth, some an hundredfold, some sixty, some thirty.›",
+        "LSG": "Celui qui a reçu la semence dans la bonne terre, c'est celui qui entend la parole et la comprend; il porte du fruit, et un grain en donne cent, un autre soixante, un autre trente.",
+        "MAB": "Mais celui qui a reçu la semence dans une bonne terre, c'est celui qui écoute la parole, et qui la comprend; et porte du fruit, et produit, l'un cent, l'autre soixante, et l'autre trente.",
+        "OST": "Mais celui qui a reçu la semence dans une bonne terre, c'est celui qui entend la parole, et qui la comprend, et qui porte du fruit; en sorte qu'un grain en produit cent, un autre soixante, et un autre trente.",
+        "S21": "Celui qui a reçu la semence dans la bonne terre, c'est celui qui entend la parole et la comprend; il porte du fruit avec un rapport de 100, 60 ou 30 pour 1.»"
+      }
+    },
+    {
+      "verse": 24,
+      "texts": {
+        "BDS": "Il leur proposa une autre parabole:\r\n—Il en est du royaume des cieux comme d’un homme qui avait semé du bon grain dans son champ.",
+        "DBY": "Il leur proposa une autre parabole, disant: Le royaume des cieux a été fait semblable à un homme qui semait de bonne semence dans son champ.",
+        "KJV": "Another parable put he forth unto them, saying, ‹The kingdom of heaven is likened unto a man which sowed good seed in his field:›",
+        "LSG": "Il leur proposa une autre parabole, et il dit: Le royaume des cieux est semblable à un homme qui a semé une bonne semence dans son champ.",
+        "MAB": "Il leur proposa une autre similitude, en disant : le Royaume des cieux ressemble à un homme qui a semé de la bonne semence dans son champ.",
+        "OST": "Jésus leur proposa une autre parabole, en disant: Le royaume des cieux est semblable à un homme qui avait semé une bonne semence dans son champ.",
+        "S21": "Il leur proposa une autre parabole: «Le royaume des cieux ressemble à un homme qui avait semé une bonne semence dans son champ."
+      }
+    },
+    {
+      "verse": 25,
+      "texts": {
+        "BDS": "Pendant que tout le monde dormait, son ennemi sema une mauvaise herbe au milieu du blé, puis s’en alla.",
+        "DBY": "Mais pendant que les hommes dormaient, son ennemi vint et sema de l'ivraie parmi le froment, et s'en alla.",
+        "KJV": "‹But while men slept, his enemy came and sowed tares among the wheat, and went his way.›",
+        "LSG": "Mais, pendant que les gens dormaient, son ennemi vint, sema de l'ivraie parmi le blé, et s'en alla.",
+        "MAB": "Mais pendant que les hommes dormaient, son ennemi est venu, qui a semé de l'ivraie parmi le blé, puis s'en est allé.",
+        "OST": "Mais pendant que les hommes dormaient, son ennemi vint, qui sema de l'ivraie parmi le blé, et s'en alla.",
+        "S21": "Mais, pendant que les gens dormaient, son ennemi vint, sema de la mauvaise herbe parmi le blé et s'en alla."
+      }
+    },
+    {
+      "verse": 26,
+      "texts": {
+        "BDS": "Quand le blé eut poussé et produit des épis, on vit aussi paraître la mauvaise herbe.",
+        "DBY": "Et lorsque la tige monta et produisit du fruit, alors l'ivraie aussi parut.",
+        "KJV": "‹But when the blade was sprung up, and brought forth fruit, then appeared the tares also.›",
+        "LSG": "Lorsque l'herbe eut poussé et donné du fruit, l'ivraie parut aussi.",
+        "MAB": "Et après que la semence fut venue en herbe, et qu'elle eut porté du fruit, alors aussi parut l'ivraie.",
+        "OST": "Et après que la semence eut poussé, et qu'elle eut produit du fruit, l'ivraie parut aussi.",
+        "S21": "Lorsque le blé eut poussé et donné du fruit, la mauvaise herbe apparut aussi."
+      }
+    },
+    {
+      "verse": 27,
+      "texts": {
+        "BDS": "Les serviteurs du propriétaire de ce champ vinrent lui demander:\r\n—Maître, n’est-ce pas du bon grain que tu as semé dans ton champ? D’où vient donc cette mauvaise herbe?",
+        "DBY": "Et les esclaves du maître de la maison, s'approchant, lui dirent: Seigneur, n'as-tu pas semé de bonne semence dans ton champ? D'où vient donc qu'il a l'ivraie?",
+        "KJV": "‹So the servants of the householder came and said unto him, Sir, didst not thou sow good seed in thy field? from whence then hath it tares?›",
+        "LSG": "Les serviteurs du maître de la maison vinrent lui dire: Seigneur, n'as-tu pas semé une bonne semence dans ton champ? D'où vient donc qu'il y a de l'ivraie?",
+        "MAB": "Et les serviteurs du père de famille vinrent à lui, et lui dirent : Seigneur, n'as-tu pas semé de la bonne semence dans ton champ? d'où vient donc qu'il y a de l'ivraie?",
+        "OST": "Alors les serviteurs du père de famille lui vinrent dire: Seigneur, n'as-tu pas semé une bonne semence dans ton champ? D'où vient donc qu'il y a de l'ivraie?",
+        "S21": "Les serviteurs du maître de la maison vinrent lui dire: ‘Seigneur, n'as-tu pas semé une bonne semence dans ton champ? Comment se fait-il donc qu'il y ait de la mauvaise herbe?’"
+      }
+    },
+    {
+      "verse": 28,
+      "texts": {
+        "BDS": "Il leur répondit:\r\n—C’est un ennemi qui a fait cela!\r\nAlors les serviteurs demandèrent:\r\n—Veux-tu donc que nous arrachions cette mauvaise herbe?",
+        "DBY": "Et il leur dit: Un ennemi a fait cela. Et les esclaves lui dirent: Veux-tu donc que nous allions et que nous la cueillions?",
+        "KJV": "‹He said unto them, An enemy hath done this. The servants said unto him, Wilt thou then that we go and gather them up?›",
+        "LSG": "Il leur répondit: C'est un ennemi qui a fait cela. Et les serviteurs lui dirent: Veux-tu que nous allions l'arracher?",
+        "MAB": "Mais il leur dit : c'est l'ennemi qui a fait cela. Et les serviteurs lui dirent : veux-tu donc que nous y allions, et que nous cueillions l'ivraie?",
+        "OST": "Et il leur dit: C'est un ennemi qui a fait cela. Et les serviteurs lui répondirent: Veux-tu donc que nous allions la cueillir?",
+        "S21": "Il leur répondit: ‘C'est un ennemi qui a fait cela.’ Les serviteurs lui dirent: ‘Veux-tu que nous allions l'arracher?’"
+      }
+    },
+    {
+      "verse": 29,
+      "texts": {
+        "BDS": "—Non, répondit le maître, car en enlevant la mauvaise herbe, vous risqueriez d’arracher le blé en même temps.",
+        "DBY": "Et il dit: Non, de peur qu'en cueillant l'ivraie, vous ne déraciniez le froment avec elle.",
+        "KJV": "‹But he said, Nay; lest while ye gather up the tares, ye root up also the wheat with them.›",
+        "LSG": "Non, dit-il, de peur qu'en arrachant l'ivraie, vous ne déraciniez en même temps le blé.",
+        "MAB": "Et il leur dit : non; de peur qu'il n'arrive qu'en cueillant l'ivraie, vous n'arrachiez le blé en même temps.",
+        "OST": "Et il dit: Non, de peur qu'en cueillant l'ivraie vous n'arrachiez le froment en même temps.",
+        "S21": "‘Non, dit-il, de peur qu'en arrachant la mauvaise herbe vous ne déraciniez en même temps le blé."
+      }
+    },
+    {
+      "verse": 30,
+      "texts": {
+        "BDS": "Laissez pousser les deux ensemble jusqu’à la moisson. A ce moment-là, je dirai aux moissonneurs: «Enlevez d’abord la mauvaise herbe et liez-la en bottes pour la brûler: ensuite vous couperez le blé et vous le rentrerez dans mon grenier.»",
+        "DBY": "Laissez-les croître tous deux ensemble jusqu'à la moisson; et au temps de la moisson, je dirai aux moissonneurs: Cueillez premièrement l'ivraie, et liez-la en bottes pour la brûler, mais assemblez le froment dans mon grenier.",
+        "KJV": "‹Let both grow together until the harvest: and in the time of harvest I will say to the reapers, Gather ye together first the tares, and bind them in bundles to burn them: but gather the wheat into my barn.›",
+        "LSG": "Laissez croître ensemble l'un et l'autre jusqu'à la moisson, et, à l'époque de la moisson, je dirai aux moissonneurs: Arrachez d'abord l'ivraie, et liez-la en gerbes pour la brûler, mais amassez le blé dans mon grenier.",
+        "MAB": "Laissez-les croître tous deux ensemble, jusqu'à la moisson; et au temps de la moisson, je dirai aux moissonneurs : cueillez premièrement l'ivraie, et la liez en faisceaux pour la brûler; mais assemblez le blé dans mon grenier.",
+        "OST": "Laissez-les croître tous deux ensemble jusqu'à la moisson; et au temps de la moisson, je dirai aux moissonneurs: Cueillez premièrement l'ivraie, et liez-la en faisceaux pour la brûler; mais assemblez le froment dans mon grenier.",
+        "S21": "Laissez l'un et l'autre pousser ensemble jusqu'à la moisson et, au moment de la moisson, je dirai aux moissonneurs: Arrachez d'abord la mauvaise herbe et liez-la en gerbes pour la brûler, mais amassez le blé dans mon grenier.’»"
+      }
+    },
+    {
+      "verse": 31,
+      "texts": {
+        "BDS": "Jésus leur raconta une autre parabole:\r\n—Le royaume des cieux ressemble à une graine de moutarde qu’un homme a prise pour la semer dans son champ.",
+        "DBY": "Il leur proposa une autre parabole, disant: Le royaume des cieux est semblable à un grain de moutarde qu'un homme prit et sema dans son champ:",
+        "KJV": "Another parable put he forth unto them, saying, ‹The kingdom of heaven is like to a grain of mustard seed, which a man took, and sowed in his field:›",
+        "LSG": "Il leur proposa une autre parabole, et il dit: Le royaume des cieux est semblable à un grain de sénevé qu'un homme a pris et semé dans son champ.",
+        "MAB": "Il leur proposa une autre similitude, en disant : le Royaume des cieux est semblable au grain de semence de moutarde que quelqu'un a pris et semé dans son champ.",
+        "OST": "Il leur proposa une autre parabole, en disant: Le royaume des cieux est semblable à un grain de moutarde que quelqu'un prend et sème dans son champ;",
+        "S21": "Il leur proposa une autre parabole: «Le royaume des cieux ressemble à une graine de moutarde qu'un homme a prise et semée dans son champ."
+      }
+    },
+    {
+      "verse": 32,
+      "texts": {
+        "BDS": "C’est la plus petite de toutes les semences; mais quand elle a poussé, elle dépasse les autres plantes du potager et devient un arbuste, si bien que les oiseaux du ciel viennent nicher dans ses branches.",
+        "DBY": "lequel est, il est vrai, plus petit que toutes les semences; mais quand il a pris sa croissance, il est plus grand que les herbes et devient un arbre, de sorte que les oiseaux du ciel viennent et demeurent dans ses branches.",
+        "KJV": "‹Which indeed is the least of all seeds: but when it is grown, it is the greatest among herbs, and becometh a tree, so that the birds of the air come and lodge in the branches thereof.›",
+        "LSG": "C'est la plus petite de toutes les semences; mais, quand il a poussé, il est plus grand que les légumes et devient un arbre, de sorte que les oiseaux du ciel viennent habiter dans ses branches.",
+        "MAB": "Qui est bien la plus petite de toutes les semences; mais quand il est crû, il est plus grand que les autres plantes, et devient un arbre; tellement que les oiseaux du ciel y viennent, et font leurs nids dans ses branches.",
+        "OST": "Ce grain est la plus petite de toutes les semences; mais quand il a crû, il est plus grand que les légumes, et il devient un arbre; tellement que les oiseaux du ciel viennent habiter dans ses branches.",
+        "S21": "C'est la plus petite de toutes les semences, mais quand elle a poussé, elle est plus grande que les légumes et devient un arbre, de sorte que les oiseaux du ciel viennent habiter dans ses branches.»"
+      }
+    },
+    {
+      "verse": 33,
+      "texts": {
+        "BDS": "Il leur raconta une autre parabole:\r\n—Le royaume des cieux ressemble à du levain qu’une femme prend pour le mélanger à une vingtaine de kilogrammes de farine. Et, à la fin, toute la pâte lève.",
+        "DBY": "Il leur dit une autre parabole: Le royaume des cieux est semblable à du levain qu'une femme prit et qu'elle cacha parmi trois mesures de farine, jusqu'à ce que tout fût levé.",
+        "KJV": "Another parable spake he unto them; ‹The kingdom of heaven is like unto leaven, which a woman took, and hid in three measures of meal, till the whole was leavened.›",
+        "LSG": "Il leur dit cette autre parabole: Le royaume des cieux est semblable à du levain qu'une femme a pris et mis dans trois mesures de farine, jusqu'à ce que la pâte soit toute levée.",
+        "MAB": "Il leur dit une autre similitude : le Royaume des cieux est semblable au levain qu'une femme prend, et qu'elle met parmi trois mesures de farine, jusqu'à ce qu'elle soit toute levée.",
+        "OST": "Il leur dit une autre parabole: Le royaume des cieux est semblable à du levain qu'une femme a pris et mêlé à trois mesures de farine, jusqu'à ce que la pâte soit toute levée.",
+        "S21": "Il leur dit cette autre parabole: «Le royaume des cieux ressemble à du levain qu'une femme a pris et mis dans trois mesures de farine pour faire lever toute la pâte.»"
+      }
+    },
+    {
+      "verse": 34,
+      "texts": {
+        "BDS": "Jésus enseigna toutes ces choses aux foules en employant des paraboles, et il ne leur parlait pas sans paraboles.",
+        "DBY": "Jésus dit toutes ces choses aux foules en paraboles, et sans parabole il ne leur disait rien;",
+        "KJV": "All these things spake Jesus unto the multitude in parables; and without a parable spake he not unto them:",
+        "LSG": "Jésus dit à la foule toutes ces choses en paraboles, et il ne lui parlait point sans parabole,",
+        "MAB": "Jésus dit toutes ces choses aux troupes en similitudes, et il ne leur parlait point sans similitudes;",
+        "OST": "Jésus dit toutes ces choses au peuple en similitudes, et il ne leur parlait point sans similitudes.",
+        "S21": "Jésus dit toutes ces choses en paraboles à la foule, et il ne lui parlait pas sans parabole"
+      }
+    },
+    {
+      "verse": 35,
+      "texts": {
+        "BDS": "Ainsi se réalisait la parole du prophète:\r\nJe leur parlerai à l’aide de paraboles.\r\nJe leur annoncerai des secrets cachés depuis la création du monde.",
+        "DBY": "en sorte que fût accompli ce qui a été dit par le prophète, disant: \"J'ouvrirai ma bouche en paraboles, je proférerai des choses qui ont été cachées dès la fondation du monde\".",
+        "KJV": "That it might be fulfilled which was spoken by the prophet, saying, I will open my mouth in parables; I will utter things which have been kept secret from the foundation of the world.",
+        "LSG": "afin que s'accomplît ce qui avait été annoncé par le prophète: J'ouvrirai ma bouche en paraboles, Je publierai des choses cachées depuis la création du monde.",
+        "MAB": "Afin que fût accompli ce dont il avait été parlé par le Prophète, en disant : j'ouvrirai ma bouche en similitudes; je déclarerai les choses qui ont été cachées dès la fondation du monde.",
+        "OST": "De sorte que ce qui avait été dit par le prophète en ces termes, fut accompli: J'ouvrirai ma bouche en similitudes; j'annoncerai des choses qui ont été cachées depuis la création du monde.",
+        "S21": "afin que s'accomplisse ce que le prophète avait annoncé: J'ouvrirai ma bouche pour parler en paraboles, je proclamerai des choses cachées depuis la création [du monde]."
+      }
+    },
+    {
+      "verse": 36,
+      "texts": {
+        "BDS": "Alors Jésus laissa la foule et il rentra dans la maison. Ses disciples vinrent auprès de lui et lui demandèrent:\r\n—Explique-nous la parabole de la mauvaise herbe dans le champ.",
+        "DBY": "Alors, ayant congédié les foules, il entra dans la maison; et ses disciples vinrent à lui, disant: Expose-nous la parabole de l'ivraie du champ.",
+        "KJV": "Then Jesus sent the multitude away, and went into the house: and his disciples came unto him, saying, Declare unto us the parable of the tares of the field.",
+        "LSG": "Alors il renvoya la foule, et entra dans la maison. Ses disciples s'approchèrent de lui, et dirent: Explique-nous la parabole de l'ivraie du champ.",
+        "MAB": "Alors Jésus ayant laissé les troupes, s'en alla à la maison, et ses Disciples vinrent à lui, et lui dirent : explique-nous la similitude de l'ivraie du champ.",
+        "OST": "Alors Jésus, ayant renvoyé le peuple, s'en alla à la maison, et ses disciples, étant venus vers lui, lui dirent: Explique-nous la parabole de l'ivraie du champ.",
+        "S21": "Alors Jésus renvoya la foule et entra dans la maison. Ses disciples s'approchèrent de lui en disant: «Explique-nous la parabole de la mauvaise herbe dans le champ.»"
+      }
+    },
+    {
+      "verse": 37,
+      "texts": {
+        "BDS": "Il leur répondit:\r\n—Celui qui sème la bonne semence, c’est le Fils de l’homme;",
+        "DBY": "Et lui, répondant, leur dit: Celui qui sème la bonne semence, c'est le fils de l'homme;",
+        "KJV": "He answered and said unto them, ‹He that soweth the good seed is the Son of man;›",
+        "LSG": "Il répondit: Celui qui sème la bonne semence, c'est le Fils de l'homme;",
+        "MAB": "Et il leur répondit et dit : celui qui sème la bonne semence, c'est le Fils de l'homme;",
+        "OST": "Il répondit, et leur dit: Celui qui sème la bonne semence, c'est le Fils de l'homme;",
+        "S21": "Il [leur] répondit: «Celui qui sème la bonne semence, c'est le Fils de l'homme;"
+      }
+    },
+    {
+      "verse": 38,
+      "texts": {
+        "BDS": "le champ, c’est le monde; la bonne semence, ce sont ceux qui font partie du royaume. La mauvaise herbe, ce sont ceux qui suivent le diable.",
+        "DBY": "et le champ, c'est le monde; et la bonne semence, ce sont les fils du royaume; et l'ivraie, ce sont les fils du méchant;",
+        "KJV": "‹The field is the world; the good seed are the children of the kingdom; but the tares are the children of the wicked› [one];",
+        "LSG": "le champ, c'est le monde; la bonne semence, ce sont les fils du royaume; l'ivraie, ce sont les fils du malin;",
+        "MAB": "Et le champ, c'est le monde; la bonne semence ce sont les enfants du Royaume, et l'ivraie ce sont les enfants du malin;",
+        "OST": "Le champ, c'est le monde; la bonne semence, ce sont les enfants du royaume; l'ivraie, ce sont les enfants du Malin;",
+        "S21": "le champ, c'est le monde; la bonne semence, ce sont les enfants du royaume; la mauvaise herbe, ce sont les enfants du mal;"
+      }
+    },
+    {
+      "verse": 39,
+      "texts": {
+        "BDS": "L’ennemi qui a semé les mauvaises graines, c’est le diable; la moisson, c’est la fin du monde; les moissonneurs, ce sont les anges.",
+        "DBY": "et l'ennemi qui l'a semée, c'est le diable; et la moisson, c'est la consommation du siècle; et les moissonneurs sont des anges.",
+        "KJV": "‹The enemy that sowed them is the devil; the harvest is the end of the world; and the reapers are the angels.›",
+        "LSG": "l'ennemi qui l'a semée, c'est le diable; la moisson, c'est la fin du monde; les moissonneurs, ce sont les anges.",
+        "MAB": "Et l'ennemi qui l'a semée, c'est le diable; la moisson, c'est la fin du monde, et les moissonneurs sont les Anges.",
+        "OST": "L'ennemi qui l'a semée, c'est le diable; la moisson, c'est la fin du monde; et les moissonneurs sont les anges.",
+        "S21": "l'ennemi qui l'a semée, c'est le diable; la moisson, c'est la fin du monde; les moissonneurs, ce sont les anges."
+      }
+    },
+    {
+      "verse": 40,
+      "texts": {
+        "BDS": "Comme on arrache la mauvaise herbe et qu’on la ramasse pour la jeter au feu, ainsi en sera-t-il à la fin du monde:",
+        "DBY": "Comme donc l'ivraie est cueillie et brûlée au feu, il en sera de même à la consommation du siècle.",
+        "KJV": "‹As therefore the tares are gathered and burned in the fire; so shall it be in the end of this world.›",
+        "LSG": "Or, comme on arrache l'ivraie et qu'on la jette au feu, il en sera de même à la fin du monde.",
+        "MAB": "Comme donc on cueille l'ivraie, et on la brûle au feu, il en sera de même à la fin de ce monde.",
+        "OST": "Comme donc on amasse l'ivraie, et qu'on la brûle dans le feu, il en sera de même à la fin du monde.",
+        "S21": "Tout comme on arrache la mauvaise herbe et la jette au feu, on fera de même à la fin du monde:"
+      }
+    },
+    {
+      "verse": 41,
+      "texts": {
+        "BDS": "le Fils de l’homme enverra ses anges et ils élimineront de son royaume tous ceux qui incitent les autres à pécher et ceux qui font le mal.",
+        "DBY": "Le fils de l'homme enverra ses anges, et ils cueilleront de son royaume tous les scandales et ceux qui commettent l'iniquité,",
+        "KJV": "‹The Son of man shall send forth his angels, and they shall gather out of his kingdom all things that offend, and them which do iniquity;›",
+        "LSG": "Le Fils de l'homme enverra ses anges, qui arracheront de son royaume tous les scandales et ceux qui commettent l'iniquité:",
+        "MAB": "Le Fils de l'homme enverra ses Anges, qui cueilleront de son Royaume tous les scandales, et ceux qui commettent l'iniquité;",
+        "OST": "Le Fils de l'homme enverra ses anges, qui ôteront de son royaume tous les scandales et ceux qui feront l'iniquité;",
+        "S21": "le Fils de l'homme enverra ses anges; ils arracheront de son royaume tous les pièges et ceux qui commettent le mal,"
+      }
+    },
+    {
+      "verse": 42,
+      "texts": {
+        "BDS": "Ils les précipiteront dans la fournaise ardente où il y aura des pleurs et d’amers regrets.",
+        "DBY": "et ils les jetteront dans la fournaise de feu: là seront les pleurs et les grincements de dents.",
+        "KJV": "‹And shall cast them into a furnace of fire: there shall be wailing and gnashing of teeth.›",
+        "LSG": "et ils les jetteront dans la fournaise ardente, où il y aura des pleurs et des grincements de dents.",
+        "MAB": "Et les jetteront dans la fournaise du feu; là il y aura des pleurs et des grincements de dents.",
+        "OST": "Et ils les jetteront dans la fournaise ardente: là seront les pleurs et les grincements de dents.",
+        "S21": "et ils les jetteront dans la fournaise de feu où il y aura des pleurs et des grincements de dents."
+      }
+    },
+    {
+      "verse": 43,
+      "texts": {
+        "BDS": "Alors les justes resplendiront comme le soleil dans le royaume de leur Père. Celui qui a des oreilles, qu’il entende.",
+        "DBY": "Alors les justes resplendiront comme le soleil dans le royaume de leur Père. Qui a des oreilles pour entendre, qu'il entende.",
+        "KJV": "‹Then shall the righteous shine forth as the sun in the kingdom of their Father. Who hath ears to hear, let him hear.›",
+        "LSG": "Alors les justes resplendiront comme le soleil dans le royaume de leur Père. Que celui qui a des oreilles pour entendre entende.",
+        "MAB": "Alors les justes reluiront comme le soleil dans le Royaume de leur Père. Qui a des oreilles pour ouïr, qu'il entende.",
+        "OST": "Alors les justes luiront comme le soleil dans le royaume de leur Père. Que celui qui a des oreilles pour entendre, entende.",
+        "S21": "Alors les justes resplendiront comme le soleil dans le royaume de leur Père. Que celui qui a des oreilles [pour entendre] entende."
+      }
+    },
+    {
+      "verse": 44,
+      "texts": {
+        "BDS": "—Le royaume des cieux ressemble à un trésor enfoui dans un champ. Un homme le découvre: il le cache de nouveau, s’en va, débordant de joie, vend tout ce qu’il possède et achète ce champ.",
+        "DBY": "Encore, le royaume des cieux est semblable à un trésor caché dans un champ, qu'un homme, après l'avoir trouvé, a caché; et de la joie qu'il en a, il s'en va, et vend tout ce qu'il a, et achète ce champ-là.",
+        "KJV": "‹Again, the kingdom of heaven is like unto treasure hid in a field; the which when a man hath found, he hideth, and for joy thereof goeth and selleth all that he hath, and buyeth that field.›",
+        "LSG": "Le royaume des cieux est encore semblable à un trésor caché dans un champ. L'homme qui l'a trouvé le cache; et, dans sa joie, il va vendre tout ce qu'il a, et achète ce champ.",
+        "MAB": "Le Royaume des cieux est encore semblable à un trésor caché dans un champ, lequel un homme ayant trouvé, l'a caché; puis de la joie qu'il en a, il s'en va, et vend tout ce qu'il a, et achète ce champ.",
+        "OST": "Le royaume des cieux est encore semblable à un trésor caché dans un champ, qu'un homme a trouvé et qu'il cache; et dans sa joie, il s'en va et vend tout ce qu'il a, et achète ce champ-là.",
+        "S21": "»Le royaume des cieux ressemble [encore] à un trésor caché dans un champ. L'homme qui l'a trouvé le cache et, dans sa joie, il va vendre tout ce qu'il possède et achète ce champ."
+      }
+    },
+    {
+      "verse": 45,
+      "texts": {
+        "BDS": "Voici à quoi ressemble encore le royaume des cieux: un marchand cherche de belles perles.",
+        "DBY": "Encore, le royaume des cieux est semblable à un marchand qui cherche de belles perles;",
+        "KJV": "‹Again, the kingdom of heaven is like unto a merchant man, seeking goodly pearls:›",
+        "LSG": "Le royaume des cieux est encore semblable à un marchand qui cherche de belles perles.",
+        "MAB": "Le Royaume des cieux est encore semblable à un marchand qui cherche de bonnes perles;",
+        "OST": "Le royaume des cieux est encore semblable à un marchand qui cherche de belles perles,",
+        "S21": "»Le royaume des cieux ressemble encore à un marchand qui cherche de belles perles."
+      }
+    },
+    {
+      "verse": 46,
+      "texts": {
+        "BDS": "Quand il en a trouvé une de grande valeur, il s’en va vendre tout ce qu’il possède et achète cette perle précieuse.",
+        "DBY": "et ayant trouvé une perle de très-grand prix, il s'en alla, et vendit tout ce qu'il avait, et l'acheta.",
+        "KJV": "‹Who, when he had found one pearl of great price, went and sold all that he had, and bought it.›",
+        "LSG": "Il a trouvé une perle de grand prix; et il est allé vendre tout ce qu'il avait, et l'a achetée.",
+        "MAB": "Et qui ayant trouvé une perle de grand prix, s'en est allé, et a vendu tout ce qu'il avait, et l'a achetée.",
+        "OST": "Et qui, ayant trouvé une perle de grand prix, s'en est allé et a vendu tout ce qu'il avait, et l'a achetée.",
+        "S21": "Lorsqu'il a trouvé une perle de grande valeur, il est allé vendre tout ce qu'il possédait et l'a achetée."
+      }
+    },
+    {
+      "verse": 47,
+      "texts": {
+        "BDS": "—Voici encore à quoi ressemble le royaume des cieux: des pêcheurs ont jeté en mer un filet qui ramasse toutes sortes de poissons.",
+        "DBY": "Encore, le royaume des cieux est semblable à une seine jetée dans la mer et rassemblant des poissons de toute sorte;",
+        "KJV": "‹Again, the kingdom of heaven is like unto a net, that was cast into the sea, and gathered of every kind:›",
+        "LSG": "Le royaume des cieux est encore semblable à un filet jeté dans la mer et ramassant des poissons de toute espèce.",
+        "MAB": "Le Royaume des cieux est encore semblable à un filet jeté dans la mer, et amassant toutes sortes de choses;",
+        "OST": "Le royaume des cieux est encore semblable à un filet qui, étant jeté dans la mer, ramasse toutes sortes de choses.",
+        "S21": "»Le royaume des cieux ressemble encore à un filet jeté dans la mer et qui ramène des poissons de toutes sortes."
+      }
+    },
+    {
+      "verse": 48,
+      "texts": {
+        "BDS": "Une fois qu’il est rempli, les pêcheurs le tirent sur le rivage, puis ils s’assoient autour et trient leur prise: ce qui est bon, ils le mettent dans des paniers et ce qui ne vaut rien, ils le rejettent.",
+        "DBY": "et quand elle fut pleine, ils la tirèrent sur le rivage, et s'asseyant, ils mirent ensemble les bons dans des vaisseaux, et jetèrent dehors les mauvais.",
+        "KJV": "‹Which, when it was full, they drew to shore, and sat down, and gathered the good into vessels, but cast the bad away.›",
+        "LSG": "Quand il est rempli, les pêcheurs le tirent; et, après s'être assis sur le rivage, ils mettent dans des vases ce qui est bon, et ils jettent ce qui est mauvais.",
+        "MAB": "Lequel étant plein, les pêcheurs le tirent en haut sur le rivage, puis s'étant assis, ils mettent ce qu'il y a de bon à part dans leurs vaisseaux, et jettent dehors ce qui ne vaut rien.",
+        "OST": "Quand il est rempli, les pêcheurs le tirent sur le rivage; et s'étant assis, ils mettent ce qu'il y a de bon à part dans leurs vaisseaux, et ils jettent ce qui ne vaut rien.",
+        "S21": "Quand il est rempli, les pêcheurs le tirent sur le rivage et s’asseyent; puis ils mettent dans des paniers ce qui est bon et jettent ce qui est mauvais."
+      }
+    },
+    {
+      "verse": 49,
+      "texts": {
+        "BDS": "C’est ainsi que les choses se passeront à la fin du monde: les anges viendront et sépareront les méchants d’avec les justes",
+        "DBY": "Il en sera de même à la consommation du siècle: les anges sortiront, et sépareront les méchants du milieu des justes,",
+        "KJV": "‹So shall it be at the end of the world: the angels shall come forth, and sever the wicked from among the just,›",
+        "LSG": "Il en sera de même à la fin du monde. Les anges viendront séparer les méchants d'avec les justes,",
+        "MAB": "Il en sera de même à la fin du monde, les Anges viendront, et sépareront les méchants d'avec les justes;",
+        "OST": "Il en sera de même à la fin du monde; les anges viendront, et sépareront les méchants du milieu des justes;",
+        "S21": "Il en ira de même à la fin du monde: les anges viendront séparer les méchants d'avec les justes"
+      }
+    },
+    {
+      "verse": 50,
+      "texts": {
+        "BDS": "et ils les précipiteront dans la fournaise ardente où il y aura des pleurs et d’amers regrets.",
+        "DBY": "et les jetteront dans la fournaise de feu: là seront les pleurs et les grincements de dents.",
+        "KJV": "‹And shall cast them into the furnace of fire: there shall be wailing and gnashing of teeth.›",
+        "LSG": "et ils les jetteront dans la fournaise ardente, où il y aura des pleurs et des grincements de dents.",
+        "MAB": "Et les jetteront dans la fournaise du feu; là il y aura des pleurs, et des grincements de dents.",
+        "OST": "Et ils jetteront les méchants dans la fournaise ardente; là seront les pleurs et les grincements de dents.",
+        "S21": "et les jetteront dans la fournaise de feu, où il y aura des pleurs et des grincements de dents.»"
+      }
+    },
+    {
+      "verse": 51,
+      "texts": {
+        "BDS": "—Avez-vous compris tout cela?\r\n—Oui, répondirent-ils.",
+        "DBY": "Jésus leur dit: Avez-vous compris toutes ces choses? Ils lui disent: Oui, Seigneur.",
+        "KJV": "Jesus saith unto them, ‹Have ye understood all these things?› They say unto him, Yea, Lord.",
+        "LSG": "Avez-vous compris toutes ces choses? -Oui, répondirent-ils.",
+        "MAB": "Jésus leur dit : avez-vous compris toutes ces choses? Ils lui répondirent : oui, Seigneur.",
+        "OST": "Et Jésus dit à ses disciples: Avez-vous compris toutes ces choses? Ils lui répondirent: Oui, Seigneur.",
+        "S21": "[Jésus leur dit:] «Avez-vous compris tout cela?» «Oui, [Seigneur]», répondirent-ils."
+      }
+    },
+    {
+      "verse": 52,
+      "texts": {
+        "BDS": "Alors Jésus conclut:\r\n—Ainsi donc, tout spécialiste de la Loi qui a été instruit des choses qui concernent le royaume des cieux est semblable à un père de famille qui tire de son trésor des choses nouvelles et des choses anciennes.",
+        "DBY": "Et il leur dit: C'est pour cela que tout scribe qui a été fait disciple du royaume des cieux est semblable à un maître de maison qui produit de son trésor des choses nouvelles et des choses vieilles.",
+        "KJV": "Then said he unto them, ‹Therefore every scribe› [which is] ‹instructed unto the kingdom of heaven is like unto a man› [that is] ‹an householder, which bringeth forth out of his treasure› [things] ‹new and old.›",
+        "LSG": "Et il leur dit: C'est pourquoi, tout scribe instruit de ce qui regarde le royaume des cieux est semblable à un maître de maison qui tire de son trésor des choses nouvelles et des choses anciennes.",
+        "MAB": "Et il leur dit : c'est pour cela que tout Scribe qui est bien instruit pour le Royaume des cieux, est semblable à un père de famille qui tire de son trésor des choses nouvelles, et des choses anciennes.",
+        "OST": "Et il leur dit: C'est pour cela que tout docteur qui est instruit dans le royaume des cieux, est semblable à un père de famille qui tire de son trésor des choses nouvelles et des choses vieilles.",
+        "S21": "Et il leur dit: «C'est pourquoi, tout spécialiste de la loi instruit de ce qui concerne le royaume des cieux ressemble à un maître de maison qui tire de son trésor des choses nouvelles et des choses anciennes.»"
+      }
+    },
+    {
+      "verse": 53,
+      "texts": {
+        "BDS": "Quand Jésus eut fini de raconter ces paraboles, il partit de là.",
+        "DBY": "Et il arriva que, quand Jésus eut achevé ces paraboles, il retira de là.",
+        "KJV": "And it came to pass, [that] when Jesus had finished these parables, he departed thence.",
+        "LSG": "Lorsque Jésus eut achevé ces paraboles, il partit de là.",
+        "MAB": "Et quand Jésus eut achevé ces similitudes, il partit de là.",
+        "OST": "Et il arriva que quand Jésus eut achevé ces similitudes, il partit de là.",
+        "S21": "Lorsque Jésus eut fini de dire ces paraboles, il partit de là."
+      }
+    },
+    {
+      "verse": 54,
+      "texts": {
+        "BDS": "Il retourna dans la ville où il avait vécu. Il enseignait ses concitoyens dans leur synagogue. Son enseignement les remplissait d’étonnement, si bien qu’ils disaient:\r\n—D’où tient-il cette sagesse et le pouvoir d’accomplir ces miracles?",
+        "DBY": "Et étant venu dans son pays, il les enseignait dans leur synagogue, en sorte qu'ils étaient étonnés et disaient: D'où viennent à celui-ci cette sagesse et ces miracles?",
+        "KJV": "And when he was come into his own country, he taught them in their synagogue, insomuch that they were astonished, and said, Whence hath this [man] this wisdom, and [these] mighty works?",
+        "LSG": "S'étant rendu dans sa patrie, il enseignait dans la synagogue, de sorte que ceux qui l'entendirent étaient étonnés et disaient: D'où lui viennent cette sagesse et ces miracles?",
+        "MAB": "Et étant venu en son pays, il les enseignait dans leur Synagogue, de telle sorte qu'ils en étaient étonnés, et disaient : d'où viennent à celui-ci cette science et ces vertus?",
+        "OST": "Et étant venu en sa patrie, il les enseignait dans leur synagogue; de sorte qu'ils étaient étonnés, et qu'ils disaient: D'où viennent à cet homme cette sagesse et ces miracles?",
+        "S21": "Il se rendit dans sa patrie, et il enseignait dans la synagogue, de sorte que ceux qui l'entendirent étaient étonnés et disaient: «D'où lui viennent cette sagesse et ces miracles?"
+      }
+    },
+    {
+      "verse": 55,
+      "texts": {
+        "BDS": "N’est-il pas le fils du charpentier? N’est-il pas le fils de Marie, et le frère de Jacques, de Joseph, de Simon et de Jude!",
+        "DBY": "Celui-ci n'est-il pas le fils du charpentier? Sa mère ne s'appelle-t-elle pas Marie? et ses frères, Jacques, et Joses, et Simon, et Jude?",
+        "KJV": "Is not this the carpenter's son? is not his mother called Mary? and his brethren, James, and Joses, and Simon, and Judas?",
+        "LSG": "N'est-ce pas le fils du charpentier? n'est-ce pas Marie qui est sa mère? Jacques, Joseph, Simon et Jude, ne sont-ils pas ses frères?",
+        "MAB": "Celui-ci n'est-il pas le fils du charpentier? sa mère ne s'appelle-t-elle pas Marie? et ses frères [ne s'appellent-ils pas] Jacques, Joses, Simon et Jude?",
+        "OST": "N'est-ce pas le fils du charpentier? Sa mère ne s'appelle-t-elle pas Marie? et ses frères, Jacques, Joses, Simon et Jude?",
+        "S21": "N'est-il pas le fils du charpentier? N'est-ce pas Marie qui est sa mère? Jacques, Joseph, Simon et Jude ne sont-ils pas ses frères?"
+      }
+    },
+    {
+      "verse": 56,
+      "texts": {
+        "BDS": "Ses sœurs ne vivent-elles pas toutes parmi nous? D’où a-t-il reçu tout cela?",
+        "DBY": "Et ses sœurs ne sont-elles pas toutes auprès de nous? D'où donc viennent à celui-ci toutes ces choses?",
+        "KJV": "And his sisters, are they not all with us? Whence then hath this [man] all these things?",
+        "LSG": "et ses soeurs ne sont-elles pas toutes parmi nous? D'où lui viennent donc toutes ces choses?",
+        "MAB": "Et ses sœurs ne sont-elles pas toutes parmi nous? D'où viennent donc à celui-ci toutes ces choses?",
+        "OST": "Et ses sœurs ne sont-elles pas toutes parmi nous? D'où lui viennent donc toutes ces choses?",
+        "S21": "Et ses sœurs ne sont-elles pas toutes parmi nous? D'où lui vient donc tout cela?»"
+      }
+    },
+    {
+      "verse": 57,
+      "texts": {
+        "BDS": "Et voilà pourquoi ils trouvaient en lui un obstacle à la foi.\r\nAlors Jésus leur dit:\r\n—C’est seulement dans sa patrie et dans sa propre famille que l’on refuse d’honorer un prophète.",
+        "DBY": "Et ils étaient scandalisés en lui. Et Jésus leur dit: Un prophète n'est pas sans honneur, si ce n'est dans son pays et dans sa maison.",
+        "KJV": "And they were offended in him. But Jesus said unto them, ‹A prophet is not without honour, save in his own country, and in his own house.›",
+        "LSG": "Et il était pour eux une occasion de chute. Mais Jésus leur dit: Un prophète n'est méprisé que dans sa patrie et dans sa maison.",
+        "MAB": "Tellement qu'ils étaient scandalisés en lui. Mais Jésus leur dit : un Prophète n'est sans honneur que dans son pays, et dans sa maison.",
+        "OST": "De sorte qu'ils se scandalisaient de lui. Mais Jésus leur dit: Un prophète n'est méprisé que dans son pays et dans sa maison.",
+        "S21": "Et il représentait un obstacle pour eux. Mais Jésus leur dit: «Un prophète n'est méprisé que dans sa patrie et dans sa famille.»"
+      }
+    },
+    {
+      "verse": 58,
+      "texts": {
+        "BDS": "Aussi ne fit-il là que peu de miracles, à cause de leur incrédulité.",
+        "DBY": "Et il ne fit pas là beaucoup de miracles, à cause de leur incrédulité.",
+        "KJV": "And he did not many mighty works there because of their unbelief.",
+        "LSG": "Et il ne fit pas beaucoup de miracles dans ce lieu, à cause de leur incrédulité.",
+        "MAB": "Et il ne fit là guère de miracles, à cause de leur incrédulité.",
+        "OST": "Et il ne fit là que peu de miracles, à cause de leur incrédulité.",
+        "S21": "Il ne fit pas beaucoup de miracles à cet endroit à cause de leur incrédulité."
+      }
+    }
+  ]
+}

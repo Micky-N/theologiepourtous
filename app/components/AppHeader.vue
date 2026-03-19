@@ -38,10 +38,6 @@ const userMenuItems = computed<DropdownMenuItem[]>(() => [
         icon: 'i-lucide-user',
         onSelect: () => navigateTo('/settings')
     }, {
-        label: 'Mes statistiques',
-        icon: 'i-lucide-bar-chart-2',
-        onSelect: () => navigateTo('/stats')
-    }, {
         label: 'Mes notes',
         icon: 'i-lucide-sticky-note',
         onSelect: () => navigateTo('/notes')

@@ -1,0 +1,270 @@
+{
+  "bookCode": "EXO",
+  "chapter": 1,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "Voici la liste des fils d’Israël qui ont accompagné Jacob en Egypte, chacun avec sa famille:",
+        "DBY": "Et ce sont ici les noms des fils d'Israël qui entrèrent en Égypte; ils y entrèrent avec Jacob, chacun avec sa famille:",
+        "KJV": "Now these [are] the names of the children of Israel, which came into Egypt; every man and his household came with Jacob.",
+        "LSG": "Voici les noms des fils d'Israël, venus en Egypte avec Jacob et la famille de chacun d'eux:",
+        "MAB": "Or ce sont ici les noms des enfants d'Israël, qui entrèrent en Egypte, chacun desquels y entra avec Jacob, et leur famille.",
+        "OST": "Or, voici les noms des fils d'Israël qui vinrent en Égypte avec Jacob. Ils y vinrent chacun avec sa famille.",
+        "S21": "Voici les noms des fils d'Israël venus en Egypte avec Jacob, chacun accompagné de sa famille:"
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "Ruben, Siméon, Lévi et Juda;",
+        "DBY": "Ruben, Siméon, Lévi et Juda;",
+        "KJV": "Reuben, Simeon, Levi, and Judah,",
+        "LSG": "Ruben, Siméon, Lévi, Juda,",
+        "MAB": "Ruben, Siméon, Lévi, et Juda,",
+        "OST": "Ruben, Siméon, Lévi et Juda,",
+        "S21": "Ruben, Siméon, Lévi, Juda,"
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "Issacar, Zabulon et Benjamin;",
+        "DBY": "Issacar, Zabulon et Benjamin;",
+        "KJV": "Issachar, Zebulun, and Benjamin,",
+        "LSG": "Issacar, Zabulon, Benjamin,",
+        "MAB": "Issachar, Zabulon, et Benjamin,",
+        "OST": "Issacar, Zabulon et Benjamin,",
+        "S21": "Issacar, Zabulon, Benjamin,"
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "Dan et Nephtali, Gad et Aser.",
+        "DBY": "Dan et Nephthali; Gad et Aser.",
+        "KJV": "Dan, and Naphtali, Gad, and Asher.",
+        "LSG": "Dan, Nephthali, Gad et Aser.",
+        "MAB": "Dan, et Nephtali, Gad, et Aser.",
+        "OST": "Dan et Nephtali, Gad et Asser.",
+        "S21": "Dan, Nephthali, Gad et Aser."
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "Les descendants de Jacob étaient au nombre de soixante-dix, Joseph étant déjà en Egypte à ce moment-là.",
+        "DBY": "Et toutes les âmes issues des reins de Jacob étaient soixante-dix âmes; or Joseph était en Égypte.",
+        "KJV": "And all the souls that came out of the loins of Jacob were seventy souls: for Joseph was in Egypt [already].",
+        "LSG": "Les personnes issues de Jacob étaient au nombre de soixante-dix en tout. Joseph était alors en Egypte.",
+        "MAB": "Toutes les personnes issues de la hanche de Jacob, étaient soixante et dix, avec Joseph [qui] était en Egypte.",
+        "OST": "Toutes les personnes issues de Jacob étaient soixante et dix; et Joseph était en Égypte.",
+        "S21": "Les personnes issues de Jacob étaient au nombre de 70 en tout. Joseph était alors en Egypte."
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "Joseph mourut, ainsi que tous ses frères et toute leur génération.",
+        "DBY": "Et Joseph mourut, et tous ses frères, et toute cette génération-là.",
+        "KJV": "And Joseph died, and all his brethren, and all that generation.",
+        "LSG": "Joseph mourut, ainsi que tous ses frères et toute cette génération-là.",
+        "MAB": "Or Joseph mourut, et tous ses frères, et toute cette génération-là.",
+        "OST": "Or Joseph mourut, ainsi que tous ses frères, et toute cette génération.",
+        "S21": "Puis Joseph mourut, ainsi que tous ses frères et toute cette génération-là."
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "Les Israélites eurent beaucoup d’enfants, leurs descendants se multiplièrent considérablement et devinrent de plus en plus puissants, si bien qu’ils remplirent tout le pays.",
+        "DBY": "Et les fils d'Israël fructifièrent et foisonnèrent, et multiplièrent, et devinrent extrêmement forts; et le pays en fut rempli.",
+        "KJV": "And the children of Israel were fruitful, and increased abundantly, and multiplied, and waxed exceeding mighty; and the land was filled with them.",
+        "LSG": "Les enfants d'Israël furent féconds et multiplièrent, ils s'accrurent et devinrent de plus en plus puissants. Et le pays en fut rempli.",
+        "MAB": "Et les enfants d'Israël foisonnèrent, et crûrent en très-grande abondance, et multiplièrent, et devinrent très-puissants, tellement que le pays en fut rempli.",
+        "OST": "Et les enfants d'Israël s'accrurent et foisonnèrent, et se multiplièrent et devinrent très puissants; et le pays en fut rempli.",
+        "S21": "Les Israélites eurent des enfants et pullulèrent; ils devinrent très nombreux et puissants, au point de remplir le pays."
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "Un nouveau pharaon vint au pouvoir en Egypte; il ne connaissait pas Joseph.",
+        "DBY": "Et un nouveau roi se leva sur l'Égypte, qui n'avait point connu Joseph.",
+        "KJV": "Now there arose up a new king over Egypt, which knew not Joseph.",
+        "LSG": "Il s'éleva sur l'Egypte un nouveau roi, qui n'avait point connu Joseph.",
+        "MAB": "Depuis il s'éleva un nouveau Roi sur l'Egypte, lequel n'avait point connu Joseph.",
+        "OST": "Mais il s'éleva sur l'Égypte un nouveau roi, qui n'avait point connu Joseph.",
+        "S21": "Un nouveau roi parvint au pouvoir en Egypte, un roi qui n'avait pas connu Joseph."
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "Il dit à ses sujets:\r\n—Voyez, le peuple des Israélites est plus nombreux et plus puissant que nous.",
+        "DBY": "Et il dit à son peuple: Voici, le peuple des fils d'Israël est plus nombreux et plus fort que nous.",
+        "KJV": "And he said unto his people, Behold, the people of the children of Israel [are] more and mightier than we:",
+        "LSG": "Il dit à son peuple: Voilà les enfants d'Israël qui forment un peuple plus nombreux et plus puissant que nous.",
+        "MAB": "Et il dit à son peuple : voici, le peuple des enfants d'Israël est plus grand et plus puissant que nous.",
+        "OST": "Et il dit à son peuple: Voici, le peuple des enfants d'Israël est plus grand et plus puissant que nous;",
+        "S21": "Il dit à son peuple: «Voilà que les Israélites forment un peuple plus nombreux et plus puissant que nous."
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "Il est temps d’aviser à son sujet, pour qu’il cesse de se multiplier. Sinon, en cas de guerre, il risque de se ranger aux côtés de nos ennemis et de combattre contre nous pour quitter ensuite ce pays.",
+        "DBY": "Allons, soyons prudents à son égard, de peur qu'il ne se multiplie, et que, s'il arrivait une guerre, il ne se joigne, lui aussi, à nos ennemis, et ne fasse la guerre contre nous, et ne monte hors du pays.",
+        "KJV": "Come on, let us deal wisely with them; lest they multiply, and it come to pass, that, when there falleth out any war, they join also unto our enemies, and fight against us, and [so] get them up out of the land.",
+        "LSG": "Allons! montrons-nous habiles à son égard; empêchons qu'il ne s'accroisse, et que, s'il survient une guerre, il ne se joigne à nos ennemis, pour nous combattre et sortir ensuite du pays.",
+        "MAB": "Agissons donc prudemment avec lui, de peur qu'il ne se multiplie, et que s'il arrivait quelque guerre il ne se joignît à nos ennemis, et ne fît la guerre contre nous, et qu'il ne s'en allât du pays.",
+        "OST": "Allons! agissons prudemment avec lui, de peur qu'il ne s'accroisse, et que s'il arrive quelque guerre, il ne se joigne aussi à nos ennemis, ne combatte contre nous, et ne monte hors du pays.",
+        "S21": "Allons! Montrons-nous habiles vis-à-vis de lui: empêchons-le de devenir trop nombreux, car en cas de guerre il se joindrait à nos ennemis pour nous combattre et sortir ensuite du pays.»"
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "Alors on imposa aux Israélites des chefs de corvée pour les accabler par des travaux forcés. C’est ainsi qu’ils durent bâtir pour le pharaon les villes de Pitom et de Ramsès pour servir de centres d’approvisionnement.",
+        "DBY": "Et ils établirent sur lui des chefs de corvées pour l'opprimer par leurs fardeaux. Et il bâtit pour le Pharaon des villes à greniers, Pithom et Ramsès.",
+        "KJV": "Therefore they did set over them taskmasters to afflict them with their burdens. And they built for Pharaoh treasure cities, Pithom and Raamses.",
+        "LSG": "Et l'on établit sur lui des chefs de corvées, afin de l'accabler de travaux pénibles. C'est ainsi qu'il bâtit les villes de Pithom et de Ramsès, pour servir de magasins à Pharaon.",
+        "MAB": "Ils établirent donc sur le peuple des Commissaires d'impôts pour l'affliger en le surchargeant; car le [peuple] bâtit des villes fortes à Pharaon, [savoir] Pithom et Rahamsès.",
+        "OST": "Ils établirent donc sur lui des chefs de corvées, pour l'accabler par leurs travaux; et il bâtit pour Pharaon des villes de munitions, Pithom et Ramsès.",
+        "S21": "On établit donc sur lui des chefs de corvées afin de l'accabler de travaux pénibles. C'est ainsi qu'on construisit les villes de Pithom et de Ramsès destinées à servir d'entrepôts au pharaon."
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "Mais plus on les opprimait, plus ils avaient d’enfants et devenaient nombreux, au point que les Egyptiens les prirent en aversion.",
+        "DBY": "Et selon qu'ils l'opprimaient, il multipliait et croissait; et ils eurent peur des fils d'Israël.",
+        "KJV": "But the more they afflicted them, the more they multiplied and grew. And they were grieved because of the children of Israel.",
+        "LSG": "Mais plus on l'accablait, plus il multipliait et s'accroissait; et l'on prit en aversion les enfants d'Israël.",
+        "MAB": "Mais plus ils l'affligeaient, et plus il multipliait, et croissait en toute abondance : c'est pourquoi ils haïssaient les enfants d'Israël.",
+        "OST": "Mais plus ils l'accablaient, plus il multipliait et se répandait; et ils prirent peur des enfants d'Israël.",
+        "S21": "Mais plus on accablait les Israélites, plus ils devenaient nombreux et envahissants, au point que l'on éprouva de la haine pour eux."
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "Alors ils les réduisirent à un dur esclavage",
+        "DBY": "Et les Égyptiens firent servir les fils d'Israël avec dureté,",
+        "KJV": "And the Egyptians made the children of Israel to serve with rigour:",
+        "LSG": "Alors les Egyptiens réduisirent les enfants d'Israël à une dure servitude.",
+        "MAB": "Et les Egyptiens faisaient servir les enfants d'Israël avec rigueur :",
+        "OST": "Et les Égyptiens firent servir les enfants d'Israël avec rigueur;",
+        "S21": "Alors les Egyptiens soumirent les Israélites à un dur esclavage."
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "et leur rendirent la vie amère par de rudes corvées: fabrication de mortier, confection de briques, travaux en tous genres dans les champs, bref, toutes les tâches auxquelles on les asservit avec cruauté.",
+        "DBY": "et ils leur rendirent la vie amère par un dur service, en argile, et en briques, et par toute sorte de service aux champs: tout le service dans lequel on les faisait servir était avec dureté.",
+        "KJV": "And they made their lives bitter with hard bondage, in morter, and in brick, and in all manner of service in the field: all their service, wherein they made them serve, [was] with rigour.",
+        "LSG": "Ils leur rendirent la vie amère par de rudes travaux en argile et en briques, et par tous les ouvrages des champs: et c'était avec cruauté qu'ils leur imposaient toutes ces charges.",
+        "MAB": "Tellement qu'ils leur rendirent la vie amère par une rude servitude, [en les employant] à faire du mortier, des briques, et toute sorte d'ouvrage qui se fait aux champs; tout le service qu'on tirait d'eux [était] avec rigueur.",
+        "OST": "Et ils leur rendirent la vie amère, par un rude travail à l'argile et aux briques, et par toutes sortes de travaux des champs, ainsi que tous les services qu'ils leur imposaient avec rigueur.",
+        "S21": "Ils leur rendirent la vie amère par de lourds travaux avec de l’argile et des briques ainsi que par tous les travaux des champs. Ils leur imposaient toutes ces charges avec cruauté."
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "Il y avait deux sages-femmes pour les Hébreux. Elles se nommaient Chiphra et Poua. Le pharaon leur donna cet ordre:",
+        "DBY": "Et le roi d'Égypte parla aux sages-femmes hébreues, dont l'une avait nom Shiphra et la seconde se nommait Pua, et il dit:",
+        "KJV": "And the king of Egypt spake to the Hebrew midwives, of which the name of the one [was] Shiphrah, and the name of the other Puah:",
+        "LSG": "Le roi d'Egypte parla aussi aux sages-femmes des Hébreux, nommées l'une Schiphra, et l'autre Pua.",
+        "MAB": "Le Roi d'Egypte commanda aussi aux sages-femmes Hébreues, dont l'une avait nom Siphra, et l'autre avait nom Puha;",
+        "OST": "Le roi d'Égypte parla aussi aux sages-femmes des Hébreux, dont l'une s'appelait Shiphra, et l'autre Pua,",
+        "S21": "Le roi d'Egypte parla aussi aux sages-femmes des Hébreux. L'une s'appelait Shiphra et l'autre Pua."
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "—Quand vous accoucherez les femmes des Hébreux, et que vous aurez constaté le sexe de l’enfant, si c’est un garçon, mettez-le à mort, si c’est une fille, laissez-la vivre.",
+        "DBY": "Quand vous accoucherez les femmes hébreues et que vous les verrez sur les sièges, si c'est un fils, vous le ferez mourir, et si c'est une fille, elle vivra.",
+        "KJV": "And he said, When ye do the office of a midwife to the Hebrew women, and see [them] upon the stools; if it [be] a son, then ye shall kill him: but if it [be] a daughter, then she shall live.",
+        "LSG": "Il leur dit: Quand vous accoucherez les femmes des Hébreux et que vous les verrez sur les sièges, si c'est un garçon, faites-le mourir; si c'est une fille, laissez-la vivre.",
+        "MAB": "Et leur dit : quand vous recevrez les enfants des femmes des Hébreux, et que vous les verrez sur les siéges, si c'est un fils, mettez-le à mort; mais si c'est une fille, qu'elle vive.",
+        "OST": "Et il dit: Quand vous accoucherez les femmes des Hébreux, et que vous les verrez sur les sièges, si c'est un fils, vous le ferez mourir; mais si c'est une fille, qu'elle vive.",
+        "S21": "Il leur dit: «Quand vous aiderez les femmes des Hébreux à avoir leur enfant et que vous regarderez sur le siège d’accouchement, si c'est un garçon, faites-le mourir; si c'est une fille, laissez-la vivre.»"
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "Mais les sages-femmes révéraient Dieu; elles n’obéirent pas au pharaon: elles laissèrent la vie sauve aux garçons.",
+        "DBY": "Mais les sages-femmes craignirent Dieu, et ne firent pas comme le roi d'Égypte leur avait dit; et elles laissèrent vivre les enfants mâles.",
+        "KJV": "But the midwives feared God, and did not as the king of Egypt commanded them, but saved the men children alive.",
+        "LSG": "Mais les sages-femmes craignirent Dieu, et ne firent point ce que leur avait dit le roi d'Egypte; elles laissèrent vivre les enfants.",
+        "MAB": "Mais les sages-femmes craignirent Dieu, et ne firent pas ainsi que le Roi d'Egypte leur avait dit; car elles laissèrent vivre les fils.",
+        "OST": "Mais les sages-femmes craignirent Dieu, et ne firent pas ce que le roi d'Égypte leur avait dit; et elles laissèrent vivre les garçons.",
+        "S21": "Mais les sages-femmes avaient la crainte de Dieu et elles ne firent pas ce que leur avait dit le roi d'Egypte: elles laissèrent vivre les enfants."
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "Alors le pharaon les convoqua et leur demanda:\r\n—Pourquoi avez-vous fait cela? Pourquoi avez-vous laissé vivre les garçons?",
+        "DBY": "Et le roi d'Égypte appela les sages-femmes, et leur dit: Pourquoi avez-vous fait cela, et avez-vous laissé vivre les enfants mâles?",
+        "KJV": "And the king of Egypt called for the midwives, and said unto them, Why have ye done this thing, and have saved the men children alive?",
+        "LSG": "Le roi d'Egypte appela les sages-femmes, et leur dit: Pourquoi avez-vous agi ainsi, et avez-vous laissé vivre les enfants?",
+        "MAB": "Alors le Roi d'Egypte appela les sages-femmes, et leur dit : pourquoi avez-vous fait cela, d'avoir laissé vivre les fils?",
+        "OST": "Alors le roi d'Égypte appela les sages-femmes, et leur dit: Pourquoi avez-vous fait ainsi, et avez-vous laissé vivre les garçons?",
+        "S21": "Le roi d'Egypte convoqua les sages-femmes et leur dit: «Pourquoi avez-vous agi ainsi et avez-vous laissé vivre les enfants?»"
+      }
+    },
+    {
+      "verse": 19,
+      "texts": {
+        "BDS": "Les sages-femmes répondirent au pharaon:\r\n—C’est que les femmes des Hébreux ne sont pas comme les Egyptiennes. Elles sont pleines de vie. Avant que la sage-femme arrive auprès d’elles, elles ont déjà mis leur enfant au monde.",
+        "DBY": "Et les sages-femmes dirent au Pharaon: Parce que les femmes hébreues ne sont pas comme les Égyptiennes; car elles sont vigoureuses: avant que la sage-femme vienne vers elles, elles ont enfanté.",
+        "KJV": "And the midwives said unto Pharaoh, Because the Hebrew women [are] not as the Egyptian women; for they [are] lively, and are delivered ere the midwives come in unto them.",
+        "LSG": "Les sages-femmes répondirent à Pharaon: C'est que les femmes des Hébreux ne sont pas comme les Egyptiennes; elles sont vigoureuses et elles accouchent avant l'arrivée de la sage-femme.",
+        "MAB": "Et les sages-femmes répondirent à Pharaon : parce que les Hébreues ne sont point comme les femmes Egyptiennes; car elles sont vigoureuses, [et] elles ont accouché avant que la sage-femme soit arrivée chez elle.",
+        "OST": "Et les sages-femmes répondirent à Pharaon: C'est que les femmes des Hébreux ne sont point comme les Égyptiennes, car elles sont vigoureuses; avant que la sage-femme arrive auprès d'elles, elles ont accouché.",
+        "S21": "Les sages-femmes répondirent au pharaon: «C'est que les femmes des Hébreux ne sont pas comme les Egyptiennes. Elles sont vigoureuses et accouchent avant l'arrivée de la sage-femme.»"
+      }
+    },
+    {
+      "verse": 20,
+      "texts": {
+        "BDS": "Dieu fit du bien aux sages-femmes, et le peuple continua de se multiplier et devint extrêmement puissant.",
+        "DBY": "Et Dieu fit du bien aux sages-femmes; et le peuple multiplia, et devint très-fort.",
+        "KJV": "Therefore God dealt well with the midwives: and the people multiplied, and waxed very mighty.",
+        "LSG": "Dieu fit du bien aux sages-femmes; et le peuple multiplia et devint très nombreux.",
+        "MAB": "Et Dieu fit du bien aux sages-femmes, et le peuple multiplia, et devint très puissant.",
+        "OST": "Et Dieu fit du bien aux sages-femmes; et le peuple se multiplia et devint très nombreux.",
+        "S21": "Dieu fit du bien aux sages-femmes et le peuple devint nombreux et très puissant."
+      }
+    },
+    {
+      "verse": 21,
+      "texts": {
+        "BDS": "Comme les sages-femmes avaient agi parce qu’elles révéraient Dieu, Dieu fit prospérer leurs familles.",
+        "DBY": "Et il arriva, parce que les sages-femmes craignirent Dieu, qu'il leur fit des maisons.",
+        "KJV": "And it came to pass, because the midwives feared God, that he made them houses.",
+        "LSG": "Parce que les sages-femmes avaient eu la crainte de Dieu, Dieu fit prospérer leurs maisons.",
+        "MAB": "Et parce que les sages-femmes craignirent Dieu, il leur édifia des maisons.",
+        "OST": "Et parce que les sages-femmes craignirent Dieu, il fit prospérer leurs maisons.",
+        "S21": "Parce que les sages-femmes avaient eu la crainte de Dieu, Dieu fit prospérer leur famille."
+      }
+    },
+    {
+      "verse": 22,
+      "texts": {
+        "BDS": "Mais le pharaon ordonna à tous ses sujets:\r\n—Jetez dans le fleuve tous les garçons nouveau-nés des Hébreux, mais laissez vivre toutes les filles!",
+        "DBY": "Et le Pharaon commanda à tout son peuple, disant: Tout fils qui naîtra, jetez-le dans le fleuve; mais toute fille, laissez-la vivre.",
+        "KJV": "And Pharaoh charged all his people, saying, Every son that is born ye shall cast into the river, and every daughter ye shall save alive.",
+        "LSG": "Alors Pharaon donna cet ordre à tout son peuple: Vous jetterez dans le fleuve tout garçon qui naîtra, et vous laisserez vivre toutes les filles.",
+        "MAB": "Alors Pharaon commanda à tout son peuple, disant : jetez dans le fleuve tous les fils qui naîtront, mais laissez vivre toutes les filles.",
+        "OST": "Alors Pharaon donna cet ordre à tout son peuple: Jetez dans le fleuve tous les fils qui naîtront, mais laissez vivre toutes les filles.",
+        "S21": "Alors le pharaon ordonna à tout son peuple: «Vous jetterez dans le fleuve tout garçon qui naîtra et vous laisserez vivre toutes les filles.»"
+      }
+    }
+  ]
+}

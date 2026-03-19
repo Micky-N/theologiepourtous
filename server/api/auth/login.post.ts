@@ -1,5 +1,6 @@
 import { prisma } from '~~/lib/prisma';
 import { z } from 'zod';
+import { buildVersionPayload, getBibleVersionByOrderIndex } from '~~/server/utils/bibleData';
 
 // Schéma de validation pour la connexion
 const loginSchema = z.object({
@@ -43,11 +44,12 @@ export default defineEventHandler(async (event) => {
         }
 
         const preferences = await prisma.userPreference.findUnique({
-            where: { userId: user.id },
-            include: {
-                defaultVersion: true
-            }
+            where: { userId: user.id }
         });
+
+        const defaultVersion = preferences?.defaultVersionOrderIndex
+            ? await getBibleVersionByOrderIndex(preferences.defaultVersionOrderIndex)
+            : null;
 
         await setUserSession(event, {
             user: {
@@ -55,7 +57,12 @@ export default defineEventHandler(async (event) => {
                 name: user.name,
                 email: user.email,
                 role: user.role,
-                preferences
+                preferences: {
+                    defaultVersionOrderIndex: preferences?.defaultVersionOrderIndex ?? null,
+                    notesPerVersion: preferences?.notesPerVersion ?? false,
+                    bookmarksPerVersion: preferences?.bookmarksPerVersion ?? false,
+                    defaultVersion: defaultVersion ? buildVersionPayload(defaultVersion) : null
+                }
             }
         });
 

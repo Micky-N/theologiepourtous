@@ -1,0 +1,354 @@
+{
+  "bookCode": "JOB",
+  "chapter": 19,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "Et Job répondit:",
+        "DBY": "Et Job répondit et dit:",
+        "KJV": "Then Job answered and said,",
+        "LSG": "Job prit la parole et dit:",
+        "MAB": "Mais Job répondit, et dit :",
+        "OST": "Alors Job prit la parole, et dit:",
+        "S21": "Job prit la parole et dit:"
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "Jusques à quand me tourmenterez-vous?\r\nOui, jusqu’à quand allez-vous m’accabler de vos discours?",
+        "DBY": "Jusques à quand affligerez-vous mon âme, et m'accablerez-vous de paroles?",
+        "KJV": "How long will ye vex my soul, and break me in pieces with words?",
+        "LSG": "Jusques à quand affligerez-vous mon âme, Et m'écraserez-vous de vos discours?",
+        "MAB": "Jusqu'à quand affligerez-vous mon âme, et m'accablerez-vous de paroles?",
+        "OST": "Jusques à quand affligerez-vous mon âme, et m'accablerez-vous de paroles?",
+        "S21": "«Jusqu'à quand me tourmenterez-vous et m'écraserez-vous par vos discours?"
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "Voilà déjà dix fois que vous me flétrissez!\r\nN’avez-vous donc pas honte de m’outrager ainsi?",
+        "DBY": "Voilà dix fois que vous m'avez outragé, vous n'avez pas honte de m'étourdir.",
+        "KJV": "These ten times have ye reproached me: ye are not ashamed [that] ye make yourselves strange to me.",
+        "LSG": "Voilà dix fois que vous m'outragez; N'avez-vous pas honte de m'étourdir ainsi?",
+        "MAB": "Vous avez déjà par dix fois [tâché] de me couvrir de confusion. N'avez-vous point honte de vous roidir ainsi contre moi?",
+        "OST": "Voilà déjà dix fois que vous m'outragez: vous n'avez pas honte de me maltraiter?",
+        "S21": "Voilà dix fois que vous cherchez à me confondre. N'avez-vous pas honte de m’agresser de cette manière?"
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "Même s’il était vrai que j’aie fait fausse route,\r\naprès tout, c’est moi seul que mon erreur concerne.",
+        "DBY": "Mais si vraiment j'ai erré, mon erreur demeure avec moi.",
+        "KJV": "And be it indeed [that] I have erred, mine error remaineth with myself.",
+        "LSG": "Si réellement j'ai péché, Seul j'en suis responsable.",
+        "MAB": "Mais quand il serait vrai que j'aurais péché, la faute serait pour moi.",
+        "OST": "Vraiment si j'ai failli, ma faute demeure avec moi.",
+        "S21": "»Même si j'avais vraiment commis une faute, cela ne regarderait que moi."
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "Quant à vous, si vraiment vous voulez vous montrer bien supérieurs à moi,\r\nsi vous me reprochez mon humiliation,",
+        "DBY": "Si réellement vous voulez vous élever contre moi et faire valoir mon opprobre contre moi,",
+        "KJV": "If indeed ye will magnify [yourselves] against me, and plead against me my reproach:",
+        "LSG": "Pensez-vous me traiter avec hauteur? Pensez-vous démontrer que je suis coupable?",
+        "MAB": "Mais si absolument vous voulez parler avec hauteur contre moi, et me reprocher mon opprobre;",
+        "OST": "Si vraiment vous vous élevez contre moi, si vous me reprochez l'opprobre où je me trouve,",
+        "S21": "Si vous voulez vous grandir à mes dépens, si vous voulez tirer argument contre moi de mon déshonneur,"
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "sachez bien que c’est Dieu qui a violé mon droit\r\net qui, autour de moi, a tendu ses filets.",
+        "DBY": "Sachez donc que c'est Dieu qui me renverse et qui m'entoure de son filet.",
+        "KJV": "Know now that God hath overthrown me, and hath compassed me with his net.",
+        "LSG": "Sachez alors que c'est Dieu qui me poursuit, Et qui m'enveloppe de son filet.",
+        "MAB": "Sachez donc que c'est Dieu qui m'a renversé, et qui a tendu son filet autour de moi.",
+        "OST": "Sachez donc que c'est Dieu qui m'a fait tort, et qui a tendu ses filets autour de moi.",
+        "S21": "sachez alors que c'est Dieu qui m’accable et m'enveloppe de son filet."
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "Si je crie à la violence dont je suis la victime, personne ne répond,\r\nsi j’appelle au secours, il n’est pas fait justice.",
+        "DBY": "Voici, je crie à la violence, et je ne suis pas exaucé; je pousse des cris, et il n'y a pas de jugement.",
+        "KJV": "Behold, I cry out of wrong, but I am not heard: I cry aloud, but [there is] no judgment.",
+        "LSG": "Voici, je crie à la violence, et nul ne répond; J'implore justice, et point de justice!",
+        "MAB": "Voici je crie pour la violence qui m'est faite, et je ne suis point exaucé; je m'écrie, et il n'y a point de jugement.",
+        "OST": "Voici, je crie à la violence, et on ne me répond pas; je crie au secours, et il n'y a point de justice!",
+        "S21": "»Je dénonce la violence dont je suis victime et personne ne répond, j’appelle au secours et il n’y a personne pour me rendre justice!"
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "Il a bloqué ma route, et je ne puis passer.\r\nIl a enveloppé mes sentiers de ténèbres.",
+        "DBY": "Il a fermé mon chemin et je ne puis passer, et il a mis des ténèbres sur mes sentiers;",
+        "KJV": "He hath fenced up my way that I cannot pass, and he hath set darkness in my paths.",
+        "LSG": "Il m'a fermé toute issue, et je ne puis passer; Il a répandu des ténèbres sur mes sentiers.",
+        "MAB": "Il a fermé son chemin, tellement que je ne saurais passer; et il a mis les ténèbres sur mes sentiers.",
+        "OST": "Il a fermé mon chemin, et je ne puis passer; il a mis des ténèbres sur mes sentiers.",
+        "S21": "Il m'a barré la route et je ne peux passer, il a couvert mes sentiers de ténèbres."
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "Il m’a ravi ma dignité,\r\net la couronne de ma tête il l’a ôtée.",
+        "DBY": "Il m'a dépouillé de ma gloire et a ôté la couronne de dessus ma tête;",
+        "KJV": "He hath stripped me of my glory, and taken the crown [from] my head.",
+        "LSG": "Il m'a dépouillé de ma gloire, Il a enlevé la couronne de ma tête.",
+        "MAB": "Il m'a dépouillé de ma gloire, il m'a ôté la couronne de dessus la tête.",
+        "OST": "Il m'a dépouillé de ma gloire; il a ôté la couronne de ma tête.",
+        "S21": "Il m'a dépouillé de ma gloire, il a retiré la couronne de ma tête."
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "Il m’a détruit de tous côtés et je vais disparaître.\r\nIl a déraciné mon espoir comme un arbre.",
+        "DBY": "Il m'a détruit de tous côtés, et je m'en vais; il a arraché mon espérance comme un arbre.",
+        "KJV": "He hath destroyed me on every side, and I am gone: and mine hope hath he removed like a tree.",
+        "LSG": "Il m'a brisé de toutes parts, et je m'en vais; Il a arraché mon espérance comme un arbre.",
+        "MAB": "Il m'a détruit de tous côtés, et je m'en vais; il a fait disparaître mon espérance comme celle d'un arbre [que l'on arrache].",
+        "OST": "Il m'a détruit de tous côtés, et je m'en vais; il a arraché, comme un arbre, mon espérance.",
+        "S21": "Il m'a brisé à tout point de vue et je m'en vais, il a arraché mon espérance comme un arbre."
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "Contre moi, il déchaîne le feu de sa colère,\r\net il me considère comme son adversaire.",
+        "DBY": "Il a allumé contre moi sa colère, et il m'a tenu pour l'un de ses ennemis.",
+        "KJV": "He hath also kindled his wrath against me, and he counteth me unto him as [one of] his enemies.",
+        "LSG": "Il s'est enflammé de colère contre moi, Il m'a traité comme l'un de ses ennemis.",
+        "MAB": "Il s'est enflammé de colère contre moi, et m'a traité comme un de ses ennemis.",
+        "OST": "Il a allumé sa colère contre moi, et il m'a tenu pour l'un de ses ennemis.",
+        "S21": "Il s'est enflammé de colère contre moi, il m'a traité comme l'un de ses adversaires."
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "Ses bataillons, ensemble, se sont tous mis en route,\r\net jusqu’à moi ils se sont frayé leur chemin,\r\nils ont dressé leur camp autour de ma demeure.",
+        "DBY": "Ses troupes sont venues ensemble, et elles ont dressé en chaussée leur chemin contre moi et se sont campées autour de ma tente.",
+        "KJV": "His troops come together, and raise up their way against me, and encamp round about my tabernacle.",
+        "LSG": "Ses troupes se sont de concert mises en marche, Elles se sont frayé leur chemin jusqu'à moi, Elles ont campées autour de ma tente.",
+        "MAB": "Ses troupes sont venues ensemble, et elles ont dressé leur chemin contre moi, et se sont campées autour de ma tente.",
+        "OST": "Ses troupes sont venues en-semble; elles ont dressé contre moi leurs chaussées, et se sont campées autour de ma tente.",
+        "S21": "Ses troupes viennent en masse, elles ont construit une route jusqu'à moi, elles ont installé leur camp autour de ma tente."
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "Il a fait s’éloigner de moi ma parenté\r\net ceux qui me connaissent se détournent de moi.",
+        "DBY": "Il a éloigné de moi mes frères, et ceux de ma connaissance me sont devenus entièrement étrangers;",
+        "KJV": "He hath put my brethren far from me, and mine acquaintance are verily estranged from me.",
+        "LSG": "Il a éloigné de moi mes frères, Et mes amis se sont détournés de moi;",
+        "MAB": "Il a fait retirer loin de moi mes frères; et ceux qui me connaissaient se sont fort éloignés de moi.",
+        "OST": "Il a éloigné de moi mes frères, et ceux qui me connaissaient se sont écartés comme des étrangers;",
+        "S21": "»Il a éloigné mes frères de moi. Ceux qui me connaissent se détournent de moi comme des étrangers."
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "Mes proches m’ont abandonné,\r\nmes connaissances m’ont oublié.",
+        "DBY": "Mes proches m'ont délaissé, et ceux que je connaissais m'ont oublié.",
+        "KJV": "My kinsfolk have failed, and my familiar friends have forgotten me.",
+        "LSG": "Je suis abandonné de mes proches, Je suis oublié de mes intimes.",
+        "MAB": "Mes proches m'ont abandonné, et ceux que je connaissais m'ont oublié.",
+        "OST": "Mes proches m'ont abandonné, et mes connaissances m'ont oublié.",
+        "S21": "Je suis abandonné de mes proches, ceux que je connais m’oublient."
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "Les gens de ma maison et mes propres servantes\r\nfont comme si j’étais un étranger.\r\nJe ne suis plus pour eux qu’un inconnu.",
+        "DBY": "Ceux qui séjournent dans ma maison et mes servantes me tiennent pour un étranger; je suis à leurs yeux comme un homme du dehors.",
+        "KJV": "They that dwell in mine house, and my maids, count me for a stranger: I am an alien in their sight.",
+        "LSG": "Je suis un étranger pour mes serviteurs et mes servantes, Je ne suis plus à leurs yeux qu'un inconnu.",
+        "MAB": "Ceux qui demeuraient dans ma maison et mes servantes, m'ont tenu pour un inconnu, [et] m'ont réputé comme étranger.",
+        "OST": "Les hôtes de ma maison et mes servantes m'ont traité comme un étranger; je suis devenu un inconnu pour eux.",
+        "S21": "Ceux qui séjournent chez moi et mes servantes me considèrent comme un étranger, je ne suis plus à leurs yeux qu'un inconnu."
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "J’appelle mon esclave, et il ne répond pas,\r\nmême si je l’implore.",
+        "DBY": "J'ai appelé mon serviteur, et il n'a pas répondu; de ma bouche je l'ai supplié.",
+        "KJV": "I called my servant, and he gave [me] no answer; I intreated him with my mouth.",
+        "LSG": "J'appelle mon serviteur, et il ne répond pas; Je le supplie de ma bouche, et c'est en vain.",
+        "MAB": "J'ai appelé mon serviteur, mais il ne m'a point répondu, quoique je l'aie supplié de ma propre bouche.",
+        "OST": "J'ai appelé mon serviteur, il ne m'a pas répondu; de ma propre bouche, j'ai dû le supplier.",
+        "S21": "J'appelle mon serviteur et il ne répond pas, je dois me mettre à le supplier."
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "Mon haleine répugne à ma femme elle-même,\r\net les fils de ma mère me prennent en dégoût.",
+        "DBY": "Mon haleine est étrangère à ma femme, et ma supplication, aux fils du sein de ma mère.",
+        "KJV": "My breath is strange to my wife, though I intreated for the children's [sake] of mine own body.",
+        "LSG": "Mon humeur est à charge à ma femme, Et ma plainte aux fils de mes entrailles.",
+        "MAB": "Mon haleine est devenue odieuse à ma femme; quoique je la supplie par les enfants de mon ventre.",
+        "OST": "Mon haleine est insupportable à ma femme, et ma prière aux fils de ma mère.",
+        "S21": "Mon haleine est repoussante pour ma femme et je provoque le dégoût de mes propres frères."
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "Les petits enfants même me montrent leur dédain:\r\nquand je veux me lever, ils jasent sur mon compte.",
+        "DBY": "Même les petits enfants me méprisent; je me lève, et ils parlent contre moi.",
+        "KJV": "Yea, young children despised me; I arose, and they spake against me.",
+        "LSG": "Je suis méprisé même par des enfants; Si je me lève, je reçois leurs insultes.",
+        "MAB": "Même les petits me méprisent, et si je me lève ils parlent contre moi.",
+        "OST": "Les petits enfants eux-mêmes me méprisent: si je veux me lever, ils parlent contre moi.",
+        "S21": "Même des gamins me méprisent; si je me lève, je suis la cible de leurs insultes."
+      }
+    },
+    {
+      "verse": 19,
+      "texts": {
+        "BDS": "Ils ont horreur de moi, tous mes amis.\r\nCeux que j’aimais le plus se tournent contre moi.",
+        "DBY": "Tous les hommes de mon intimité m'ont en horreur, et ceux que j'aimais se sont tournés contre moi.",
+        "KJV": "All my inward friends abhorred me: and they whom I loved are turned against me.",
+        "LSG": "Ceux que j'avais pour confidents m'ont en horreur, Ceux que j'aimais se sont tournés contre moi.",
+        "MAB": "Tous ceux à qui je déclarais mes secrets, m'ont en abomination; et tous ceux que j'aimais se sont tournés contre moi.",
+        "OST": "Tous mes intimes m'ont en abomination, et ceux que j'aimais se sont tournés contre moi.",
+        "S21": "Tous ceux à qui je confiais mes secrets m'ont en horreur, ceux que j'aimais se sont tournés contre moi."
+      }
+    },
+    {
+      "verse": 20,
+      "texts": {
+        "BDS": "Ma peau colle à mes os de même que ma chair\r\net je n’ai survécu qu’avec la peau des dents.",
+        "DBY": "Mes os s'attachent à ma peau et à ma chair, et j'ai échappé avec la peau de mes dents!",
+        "KJV": "My bone cleaveth to my skin and to my flesh, and I am escaped with the skin of my teeth.",
+        "LSG": "Mes os sont attachés à ma peau et à ma chair; Il ne me reste que la peau des dents.",
+        "MAB": "Mes os sont attachés à ma peau et à ma chair, et il ne me reste d'entier que la peau de mes dents.",
+        "OST": "Mes os se sont attachés à ma peau et à ma chair, et je me suis échappé avec la peau de mes dents.",
+        "S21": "Je n’ai plus que la peau et les os, il ne me reste que les gencives."
+      }
+    },
+    {
+      "verse": 21,
+      "texts": {
+        "BDS": "Ayez pitié de moi, ayez pitié de moi, vous, du moins, mes amis!\r\nCar, la main de Dieu m’a frappé.",
+        "DBY": "Ayez pitié de moi, ayez pitié de moi, vous mes amis! car la main de Dieu m'a atteint.",
+        "KJV": "Have pity upon me, have pity upon me, O ye my friends; for the hand of God hath touched me.",
+        "LSG": "Ayez pitié, ayez pitié de moi, vous, mes amis! Car la main de Dieu m'a frappé.",
+        "MAB": "Ayez pitié de moi, ayez pitié de moi, vous mes amis; car la main de Dieu m'a frappé.",
+        "OST": "Ayez pitié de moi, ayez pitié de moi, vous, mes amis! Car la main de Dieu m'a frappé.",
+        "S21": "»Ayez pitié, ayez pitié de moi, vous, mes amis! En effet, c’est la main de Dieu qui m'a frappé."
+      }
+    },
+    {
+      "verse": 22,
+      "texts": {
+        "BDS": "Pourquoi vous acharner sur moi, tout comme Dieu?\r\nN’en avez-vous donc pas assez de me persécuter?",
+        "DBY": "Pourquoi, comme Dieu, me poursuivez-vous et n'êtes-vous pas rassasiés de ma chair?",
+        "KJV": "Why do ye persecute me as God, and are not satisfied with my flesh?",
+        "LSG": "Pourquoi me poursuivre comme Dieu me poursuit? Pourquoi vous montrer insatiables de ma chair?",
+        "MAB": "Pourquoi me poursuivez-vous comme le [Dieu] Fort [me poursuit], sans pouvoir vous rassasier de ma chair?",
+        "OST": "Pourquoi me persécutez-vous comme Dieu, et ne pouvez-vous vous rassasier de ma chair?",
+        "S21": "Pourquoi me poursuivez-vous comme Dieu le fait? Pourquoi n’en avez-vous jamais assez de vous attaquer à moi?"
+      }
+    },
+    {
+      "verse": 23,
+      "texts": {
+        "BDS": "Oh! si quelqu’un voulait consigner mes paroles!\r\nSi quelqu’un voulait bien les graver dans un livre!",
+        "DBY": "Oh! si seulement mes paroles étaient écrites! si seulement elles étaient inscrites dans un livre,",
+        "KJV": "Oh that my words were now written! oh that they were printed in a book!",
+        "LSG": "Oh! je voudrais que mes paroles fussent écrites, Qu'elles fussent écrites dans un livre;",
+        "MAB": "Plût à Dieu que maintenant mes discours fussent écrits! Plût à Dieu qu'ils fussent gravés dans un livre;",
+        "OST": "Oh! je voudrais que mes paroles fussent écrites quelque part! Je voudrais qu'elles fussent inscrites dans un livre;",
+        "S21": "»Si seulement mes paroles pouvaient être écrites, si seulement elles pouvaient être enregistrées dans un livre!"
+      }
+    },
+    {
+      "verse": 24,
+      "texts": {
+        "BDS": "Que d’une pointe en fer ou d’un stylet de plomb,\r\nelles soient incisées pour toujours dans le roc!",
+        "DBY": "Avec un style de fer et du plomb, et gravées dans le roc pour toujours!",
+        "KJV": "That they were graven with an iron pen and lead in the rock for ever!",
+        "LSG": "Je voudrais qu'avec un burin de fer et avec du plomb Elles fussent pour toujours gravées dans le roc...",
+        "MAB": "Avec une touche de fer, et sur du plomb, [et] qu'ils fussent taillés sur une pierre de roche à perpétuité!",
+        "OST": "Qu'avec un burin de fer et avec du plomb, elles fussent gravées sur le roc, pour toujours!",
+        "S21": "Je voudrais qu'elles soient pour toujours gravées dans le roc avec un burin de fer et avec du plomb."
+      }
+    },
+    {
+      "verse": 25,
+      "texts": {
+        "BDS": "Mais je sais, moi, que mon Défenseur est vivant:\r\nil se lèvera sur la terre pour prononcer le jugement.",
+        "DBY": "Et moi, je sais que mon rédempteur est vivant, et que, le dernier, il sera debout sur la terre;",
+        "KJV": "For I know [that] my redeemer liveth, and [that] he shall stand at the latter [day] upon the earth:",
+        "LSG": "Mais je sais que mon rédempteur est vivant, Et qu'il se lèvera le dernier sur la terre.",
+        "MAB": "Car je sais que mon Rédempteur est vivant, et qu'il demeurera le dernier sur la terre.",
+        "OST": "Pour moi, je sais que mon Rédempteur est vivant, qu'à la fin il se lèvera sur la terre,",
+        "S21": "»Pour ma part, je sais que celui qui me rachète est vivant et qu'il se lèvera le dernier sur la terre."
+      }
+    },
+    {
+      "verse": 26,
+      "texts": {
+        "BDS": "Après que cette peau aura été détruite,\r\nmoi, dans mon corps, je contemplerai Dieu.",
+        "DBY": "Et après ma peau, ceci sera détruit, et de ma chair je verrai Dieu,",
+        "KJV": "And [though] after my skin [worms] destroy this [body], yet in my flesh shall I see God:",
+        "LSG": "Quand ma peau sera détruite, il se lèvera; Quand je n'aurai plus de chair, je verrai Dieu.",
+        "MAB": "Et lorsqu'après ma peau ceci aura été rongé, je verrai Dieu de ma chair,",
+        "OST": "Et qu'après cette peau qui se détruit, et hors de ma chair, je verrai Dieu;",
+        "S21": "Quand ma peau aura été détruite, en personne je contemplerai Dieu."
+      }
+    },
+    {
+      "verse": 27,
+      "texts": {
+        "BDS": "Oui, moi, je le verrai prendre alors mon parti,\r\net, de mes propres yeux, je le contemplerai. Et il ne sera plus un étranger pour moi.\r\nAh! mon cœur se consume d’attente au fond de moi.",
+        "DBY": "Que je verrai, moi, pour moi-même; et mes yeux le verront, et non un autre: -mes reins se consument dans mon sein.",
+        "KJV": "Whom I shall see for myself, and mine eyes shall behold, and not another; [though] my reins be consumed within me.",
+        "LSG": "Je le verrai, et il me sera favorable; Mes yeux le verront, et non ceux d'un autre; Mon âme languit d'attente au dedans de moi.",
+        "MAB": "Je le verrai moi-même, et mes yeux le verront, et non un autre. Mes reins se consument dans mon sein.",
+        "OST": "Moi, je le verrai, à moi propice; mes yeux le verront, et non un autre. Mes reins se consument en mon sein!",
+        "S21": "C’est lui que je contemplerai, et il me sera favorable. Mes yeux le verront, et non ceux d'un autre. Au plus profond de moi, je n’en peux plus d’attendre."
+      }
+    },
+    {
+      "verse": 28,
+      "texts": {
+        "BDS": "Vous qui vous demandez: «Comment allons-nous le poursuivre?»\r\net qui trouvez en moi la racine du mal,",
+        "DBY": "Si vous dites: Comment le poursuivrons-nous? et que la racine de la chose se trouve en moi,",
+        "KJV": "But ye should say, Why persecute we him, seeing the root of the matter is found in me?",
+        "LSG": "Vous direz alors: Pourquoi le poursuivions-nous? Car la justice de ma cause sera reconnue.",
+        "MAB": "Vous devriez plutôt dire : Pourquoi le persécutons-nous? puisque le fondement de mes paroles se trouve en moi.",
+        "OST": "Si vous dites: Comment le poursuivrons-nous, et trouverons-nous en lui la cause de son malheur?",
+        "S21": "»Vous direz alors: ‘Pourquoi le poursuivions-nous?’ quand on découvrira le bien-fondé de ma cause."
+      }
+    },
+    {
+      "verse": 29,
+      "texts": {
+        "BDS": "craignez pour vous l’épée,\r\ncar votre acharnement est passible du glaive.\r\nAinsi vous apprendrez qu’il y a bien un jugement.",
+        "DBY": "Tremblez pour vous-mêmes devant l'épée! car l'épée est l'instrument de la fureur contre les iniquités; afin que vous sachiez qu'il y a un jugement!",
+        "KJV": "Be ye afraid of the sword: for wrath [bringeth] the punishments of the sword, that ye may know [there is] a judgment.",
+        "LSG": "Craignez pour vous le glaive: Les châtiments par le glaive sont terribles! Et sachez qu'il y a un jugement.",
+        "MAB": "Ayez peur de l'épée; car la fureur [avec laquelle vous me persécutez], est [du nombre] des iniquités qui attirent l'épée; c'est pourquoi sachez qu'il y a un jugement.",
+        "OST": "Craignez l'épée pour vous-mêmes, car la fureur est un crime digne de l'épée, afin que vous sachiez qu'il y a un jugement.",
+        "S21": "Redoutez pour vous l'épée: les punitions par l'épée sont terribles! Vous reconnaîtrez ainsi qu'il y a un jugement.»"
+      }
+    }
+  ]
+}

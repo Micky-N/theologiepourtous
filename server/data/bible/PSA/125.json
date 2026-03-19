@@ -1,0 +1,66 @@
+{
+  "bookCode": "PSA",
+  "chapter": 125,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "Cantique pour la route vers la demeure de l’Eternel.\r\nCeux qui ont placé leur confiance en l’Eternel\r\nsont comme le mont de Sion: il n’est pas ébranlé\r\net demeure à jamais.",
+        "DBY": "Ceux qui se confient en l'Éternel sont comme la montagne de Sion, qui ne chancelle pas, qui demeure à toujours.",
+        "KJV": "A Song of degrees. They that trust in the LORD [shall be] as mount Zion, [which] cannot be removed, [but] abideth for ever.",
+        "LSG": "Cantique des degrés. Ceux qui se confient en l'Eternel Sont comme la montagne de Sion: elle ne chancelle point, Elle est affermie pour toujours.",
+        "MAB": "Cantique de Mahaloth. Ceux qui se confient en l'Eternel sont comme la montagne de Sion, qui ne peut être ébranlée, et qui se soutient à toujours.",
+        "OST": "Cantique de Maaloth. Ceux qui se confient en l'Éternel sont comme la montagne de Sion, qui ne peut être ébranlée, et qui subsiste à toujours.",
+        "S21": "Chant des montées.\r\nCeux qui se confient en l’Eternel sont comme le mont Sion: il est inébranlable, il demeure pour toujours."
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "Comme Jérusalem se trouve entourée de montagnes,\r\nde même l’Eternel entoure aussi son peuple,\r\ndès maintenant et à jamais.",
+        "DBY": "Jérusalem! -des montagnes sont autour d'elle, et l'Éternel est autour de son peuple, dès maintenant et à toujours.",
+        "KJV": "As the mountains [are] round about Jerusalem, so the LORD [is] round about his people from henceforth even for ever.",
+        "LSG": "Des montagnes entourent Jérusalem; Ainsi l'Eternel entoure son peuple, Dès maintenant et à jamais.",
+        "MAB": "Quant à Jérusalem, il y a des montagnes à l'entour d'elle, et l'Eternel est à l'entour de son peuple, dès maintenant et à toujours.",
+        "OST": "Jérusalem est environnée de montagnes; et l'Éternel est autour de son peuple, dès maintenant et à toujours.",
+        "S21": "Pareil aux montagnes qui entourent Jérusalem, l’Eternel entoure son peuple, dès maintenant et pour toujours."
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "Un injuste pouvoir ne pourra subsister\r\ndans le pays des justes,\r\nsinon ils en viendraient eux aussi à prêter la main à des actions coupables.",
+        "DBY": "Car le bâton de la méchanceté ne reposera pas sur le lot des justes; afin que les justes n'étendent pas leur main vers l'iniquité.",
+        "KJV": "For the rod of the wicked shall not rest upon the lot of the righteous; lest the righteous put forth their hands unto iniquity.",
+        "LSG": "Car le sceptre de la méchanceté ne restera pas sur le lot des justes, Afin que les justes ne tendent pas les mains vers l'iniquité.",
+        "MAB": "Car la verge de la méchanceté ne reposera point sur le lot des justes; de peur que les justes ne mettent leurs mains à l'iniquité.",
+        "OST": "Car le sceptre de la méchanceté ne reposera pas sur le lot des justes; de peur que les justes ne mettent leurs mains à l'iniquité.",
+        "S21": "Un pouvoir méchant ne pèsera pas sur la part des justes, afin qu’ils ne tendent pas les mains vers le mal."
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "Sois bon, ô Eternel, pour celui qui est bon,\r\npour celui qui a le cœur droit!",
+        "DBY": "Éternel! fais du bien aux gens de bien et à ceux qui sont droits dans leur cœur!",
+        "KJV": "Do good, O LORD, unto [those that be] good, and [to them that are] upright in their hearts.",
+        "LSG": "Eternel, répands tes bienfaits sur les bons Et sur ceux dont le coeur est droit!",
+        "MAB": "Eternel, bénis les gens de bien et ceux dont le cœur est droit.",
+        "OST": "Éternel, fais du bien aux bons, à ceux qui ont le cœur droit!",
+        "S21": "Eternel, montre-toi bon pour les hommes bons, pour ceux dont le cœur est droit!"
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "Mais ceux qui se détournent vers des voies tortueuses,\r\nque l’Eternel les chasse\r\navec tous ceux qui font le mal!\r\nQue la paix soit sur Israël!",
+        "DBY": "Mais quant à ceux qui se détournent dans leurs voies tortueuses, l'Éternel les fera marcher avec les ouvriers d'iniquité. La paix soit sur Israël!",
+        "KJV": "As for such as turn aside unto their crooked ways, the LORD shall lead them forth with the workers of iniquity: [but] peace [shall be] upon Israel.",
+        "LSG": "Mais ceux qui s'engagent dans des voies détournées, Que l'Eternel les détruise avec ceux qui font le mal! Que la paix soit sur Israël!",
+        "MAB": "Mais quant à ceux qui tordent leurs sentiers obliques, l'Eternel les fera marcher avec les ouvriers d'iniquité. La paix [sera] sur Israël.",
+        "OST": "Mais pour ceux qui se détournent dans des voies tortueuses, l'Éternel les fera marcher avec les ouvriers d'iniquité. Que la paix soit sur Israël!",
+        "S21": "Mais ceux qui s’engagent dans des voies tortueuses, que l’Eternel les détruise avec ceux qui font le mal! Que la paix soit sur Israël!"
+      }
+    }
+  ]
+}

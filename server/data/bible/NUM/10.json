@@ -1,0 +1,438 @@
+{
+  "bookCode": "NUM",
+  "chapter": 10,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "L’Eternel parla à Moïse en ces termes:",
+        "DBY": "Et l'Éternel parla à Moïse, disant:",
+        "KJV": "And the LORD spake unto Moses, saying,",
+        "LSG": "L'Eternel parla à Moïse, et dit:",
+        "MAB": "Puis l'Eternel parla à Moïse, en disant :",
+        "OST": "Et l'Éternel parla à Moïse, en disant:",
+        "S21": "L'Eternel dit à Moïse:"
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "—Fais fabriquer deux trompettes d’argent martelé. Elles te serviront pour convoquer la communauté et donner le signal du départ aux camps.",
+        "DBY": "Fais-toi deux trompettes; tu les feras d'argent battu; et elles te serviront pour la convocation de l'assemblée, et pour le départ des camps.",
+        "KJV": "Make thee two trumpets of silver; of a whole piece shalt thou make them: that thou mayest use them for the calling of the assembly, and for the journeying of the camps.",
+        "LSG": "Fais-toi deux trompettes d'argent; tu les feras d'argent battu. Elles te serviront pour la convocation de l'assemblée et pour le départ des camps.",
+        "MAB": "Fais-toi deux trompettes d'argent, fais-les d'ouvrage battu au marteau; et elles te serviront pour convoquer l'assemblée, et pour faire partir les compagnies.",
+        "OST": "Fais-toi deux trompettes d'argent; tu les feras façonnées au marteau; elles te serviront pour convoquer l'assemblée, et pour le départ des camps.",
+        "S21": "«Fais-toi deux trompettes en argent. Tu les feras en argent battu. Elles te serviront pour convoquer l'assemblée et pour signaler le départ des camps."
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "Dès que ces deux trompettes sonneront ensemble, toute la communauté se rassemblera auprès de toi à l’entrée de la tente de la Rencontre.",
+        "DBY": "Et lorsqu'on en sonnera, toute l'assemblée s'assemblera vers toi, à l'entrée de la tente d'assignation.",
+        "KJV": "And when they shall blow with them, all the assembly shall assemble themselves to thee at the door of the tabernacle of the congregation.",
+        "LSG": "Quand on en sonnera, toute l'assemblée se réunira auprès de toi, à l'entrée de la tente d'assignation.",
+        "MAB": "Quand on en sonnera, toute l'assemblée s'assemblera vers toi à l'entrée du Tabernacle d'assignation.",
+        "OST": "Quand on en sonnera, toute l'assemblée se réunira vers toi, à l'entrée du tabernacle d'assignation.",
+        "S21": "Quand on en sonnera, toute l'assemblée se réunira près de toi, à l'entrée de la tente de la rencontre."
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "Si on ne sonne que d’une trompette, seuls les chefs des corps d’armée d’Israël se réuniront auprès de toi.",
+        "DBY": "Et si l'on sonne d'une seule, alors les princes, les chefs des milliers d'Israël, s'assembleront vers toi.",
+        "KJV": "And if they blow [but] with one [trumpet], then the princes, [which are] heads of the thousands of Israel, shall gather themselves unto thee.",
+        "LSG": "Si l'on ne sonne que d'une trompette, les princes, les chefs des milliers d'Israël, se réuniront auprès de toi.",
+        "MAB": "Et quand on sonnera d'une seule, les principaux, qui sont les chefs des milliers d'Israël, s'assembleront vers toi.",
+        "OST": "Si l'on sonne d'une seule, les princes, les chefs des milliers d'Israël, se réuniront vers toi.",
+        "S21": "Si l'on ne sonne que d'une trompette, les princes, les chefs des milliers d'Israël, se réuniront près de toi."
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "Quand vous ferez retentir un signal éclatant, les camps stationnés à l’est partiront.",
+        "DBY": "Et quand vous sonnerez avec éclat, les camps qui sont campés à l'orient partiront.",
+        "KJV": "When ye blow an alarm, then the camps that lie on the east parts shall go forward.",
+        "LSG": "Quand vous sonnerez avec éclat, ceux qui campent à l'orient partiront;",
+        "MAB": "Mais quand vous sonnerez avec un retentissement bruyant, les compagnies qui sont campées vers l'Orient partiront.",
+        "OST": "Quand vous sonnerez d'un son éclatant, les camps qui sont à l'orient partiront.",
+        "S21": "Quand vous sonnerez avec éclat, ceux qui campent à l'est partiront."
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "Lorsque ce signal éclatant retentira pour la deuxième fois, les tribus campant au sud se mettront en marche. La sonnerie éclatante sera le signal des départs.",
+        "DBY": "Et quand vous sonnerez avec éclat une seconde fois, les camps qui sont campés au midi partiront; on sonnera avec éclat pour leurs départs.",
+        "KJV": "When ye blow an alarm the second time, then the camps that lie on the south side shall take their journey: they shall blow an alarm for their journeys.",
+        "LSG": "quand vous sonnerez avec éclat pour la seconde fois, ceux qui campent au midi partiront: on sonnera avec éclat pour leur départ.",
+        "MAB": "Et quand vous sonnerez la seconde fois avec un retentissement bruyant, les compagnies qui sont campées vers le Midi partiront; on sonnera avec un retentissement bruyant, quand on voudra partir.",
+        "OST": "Et quand vous sonnerez une seconde fois d'un son éclatant, les camps qui sont au midi partiront; on sonnera d'un son éclatant lorsqu'ils devront partir.",
+        "S21": "Quand vous sonnerez avec éclat pour la deuxième fois, ceux qui campent au sud partiront; on sonnera avec éclat pour leur départ."
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "Mais pour convoquer l’assemblée, vous sonnerez de la trompette sans faire entendre un son éclatant.",
+        "DBY": "Et quand on réunira la congrégation, vous sonnerez, mais non pas avec éclat.",
+        "KJV": "But when the congregation is to be gathered together, ye shall blow, but ye shall not sound an alarm.",
+        "LSG": "Vous sonnerez aussi pour convoquer l'assemblée, mais vous ne sonnerez pas avec éclat.",
+        "MAB": "Et quand vous convoquerez l'assemblée, vous sonnerez, mais non point avec un retentissement bruyant.",
+        "OST": "Quand on convoquera l'assemblée, vous sonnerez, mais non d'un son éclatant.",
+        "S21": "Vous sonnerez aussi pour convoquer l'assemblée, mais pas avec éclat."
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "Seuls les prêtres descendants d’Aaron sonneront des trompettes. Ce sera une ordonnance en vigueur à perpétuité pour vous et vos descendants.",
+        "DBY": "Les fils d'Aaron, les sacrificateurs, sonneront des trompettes; et elles seront pour vous un statut perpétuel en vos générations.",
+        "KJV": "And the sons of Aaron, the priests, shall blow with the trumpets; and they shall be to you for an ordinance for ever throughout your generations.",
+        "LSG": "Les fils d'Aaron, les sacrificateurs, sonneront des trompettes. Ce sera une loi perpétuelle pour vous et pour vos descendants.",
+        "MAB": "Or les fils d'Aaron Sacrificateurs, sonneront des trompettes; et ceci vous sera une ordonnance perpétuelle en vos âges.",
+        "OST": "Or les fils d'Aaron, les sacrificateurs, sonneront des trompettes; et elles seront pour vous une ordonnance perpétuelle, d'âge en âge.",
+        "S21": "Les fils d'Aaron, les prêtres, sonneront de la trompette. Ce sera une prescription perpétuelle pour vous au fil des générations."
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "Lorsque vous serez installés dans votre pays et que vous partirez en guerre contre un agresseur, vous ferez retentir un signal éclatant de vos trompettes, ainsi vous vous rappellerez à l’attention de l’Eternel votre Dieu, et vous serez délivrés de vos ennemis.",
+        "DBY": "Et quand, dans votre pays, vous irez à la guerre contre l'ennemi qui vous presse, alors vous sonnerez des trompettes avec éclat, et vous serez rappelés en mémoire devant l'Éternel, votre Dieu, et vous serez délivrés de vos ennemis.",
+        "KJV": "And if ye go to war in your land against the enemy that oppresseth you, then ye shall blow an alarm with the trumpets; and ye shall be remembered before the LORD your God, and ye shall be saved from your enemies.",
+        "LSG": "Lorsque, dans votre pays, vous irez à la guerre contre l'ennemi qui vous combattra, vous sonnerez des trompettes avec éclat, et vous serez présents au souvenir de l'Eternel, votre Dieu, et vous serez délivrés de vos ennemis.",
+        "MAB": "Et quand vous marcherez en bataille dans votre pays contre votre ennemi, venant vous attaquer; vous sonnerez des trompettes avec un retentissement bruyant, et l'Eternel votre Dieu se souviendra de vous, et vous serez délivrés de vos ennemis.",
+        "OST": "Et quand vous irez à la guerre dans votre pays, contre l'ennemi qui vous attaquera, vous sonnerez des trompettes avec un son éclatant, et vous serez remis en mémoire devant l'Éternel votre Dieu, et vous serez délivrés de vos ennemis.",
+        "S21": "Dans votre pays, lorsque vous irez à la guerre contre l'ennemi qui vous combattra, vous sonnerez de la trompette avec éclat. Ainsi vous vous rappellerez au souvenir de l'Eternel, votre Dieu, et vous serez délivrés de vos ennemis."
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "Vous sonnerez aussi de ces trompettes dans vos jours de joie, lors de vos fêtes religieuses et au commencement des mois, lorsque vous offrirez vos holocaustes et vos sacrifices de communion. Ce sera un moyen de vous rappeler au souvenir de votre Dieu. Je suis l’Eternel, votre Dieu.",
+        "DBY": "Et dans vos jours de joie, et dans vos jours solennels, et au commencement de vos mois, vous sonnerez des trompettes sur vos holocaustes, et sur vos sacrifices de prospérités, et elles seront un mémorial pour vous devant votre Dieu. Moi, je suis l'Éternel, votre Dieu.",
+        "KJV": "Also in the day of your gladness, and in your solemn days, and in the beginnings of your months, ye shall blow with the trumpets over your burnt offerings, and over the sacrifices of your peace offerings; that they may be to you for a memorial before your God: I [am] the LORD your God.",
+        "LSG": "Dans vos jours de joie, dans vos fêtes, et à vos nouvelles lunes, vous sonnerez des trompettes, en offrant vos holocaustes et vos sacrifices d'actions de grâces, et elles vous mettront en souvenir devant votre Dieu. Je suis l'Eternel, votre Dieu.",
+        "MAB": "Aussi dans vos jours de joie, dans vos fêtes solennelles, et au commencement de vos mois, vous sonnerez des trompettes sur vos holocaustes, et sur vos sacrifices de prospérités, et elles vous serviront de mémorial devant votre Dieu; je [suis] l'Eternel, votre Dieu.",
+        "OST": "Et dans vos jours de joie, dans vos solennités, et au commencement de vos mois, vous sonnerez des trompettes sur vos holocaustes, et sur vos sacrifices de prospérités, et elles vous serviront de mémorial devant votre Dieu. Je suis l'Éternel, votre Dieu.",
+        "S21": "Dans vos jours de joie, lors de vos fêtes et de vos débuts de mois, vous sonnerez de la trompette en offrant vos holocaustes et vos sacrifices de communion, et cela vous servira de souvenir devant votre Dieu. Je suis l'Eternel, votre Dieu.»"
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "Le vingtième jour du deuxième mois de la deuxième année, la nuée s’éleva au-dessus du tabernacle de l’acte de l’alliance.",
+        "DBY": "Et il arriva, en la seconde année, au second mois, le vingtième jour du mois, que la nuée se leva de dessus le tabernacle du témoignage.",
+        "KJV": "And it came to pass on the twentieth [day] of the second month, in the second year, that the cloud was taken up from off the tabernacle of the testimony.",
+        "LSG": "Le vingtième jour du second mois de la seconde année, la nuée s'éleva de dessus le tabernacle du témoignage.",
+        "MAB": "Or il arriva le vingtième jour du second mois de la seconde année, que la nuée se leva de dessus le pavillon du Témoignage.",
+        "OST": "Or il arriva, le vingtième jour du second mois de la seconde année, que la nuée se leva de dessus la Demeure du Témoignage.",
+        "S21": "Le vingtième jour du deuxième mois de la deuxième année, la nuée s'éleva au-dessus du tabernacle du témoignage."
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "Les Israélites partirent du désert du Sinaï, marchant d’étape en étape. La nuée s’arrêta dans le désert de Parân.",
+        "DBY": "Et les fils d'Israël partirent du désert de Sinaï, selon leur ordre de départ, et la nuée demeura dans le désert de Paran.",
+        "KJV": "And the children of Israel took their journeys out of the wilderness of Sinai; and the cloud rested in the wilderness of Paran.",
+        "LSG": "Et les enfants d'Israël partirent du désert de Sinaï, selon l'ordre fixé pour leur marche. La nuée s'arrêta dans le désert de Paran.",
+        "MAB": "Et les enfants d'Israël partirent selon leurs traittes, du désert de Sinaï, et la nuée se posa au désert de Paran.",
+        "OST": "Et les enfants d'Israël partirent, selon leur ordre de marche, du désert de Sinaï; et la nuée s'arrêta au désert de Paran.",
+        "S21": "Les Israélites partirent alors du désert du Sinaï, selon l'ordre fixé pour leur marche. La nuée s'arrêta dans le désert de Paran."
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "C’était la première fois qu’ils levaient le camp sur l’ordre de l’Eternel transmis par Moïse.",
+        "DBY": "Et ils partirent, pour la première fois, selon le commandement de l'Éternel par Moïse.",
+        "KJV": "And they first took their journey according to the commandment of the LORD by the hand of Moses.",
+        "LSG": "Ils firent ce premier départ sur l'ordre de l'Eternel par Moïse.",
+        "MAB": "Ils partirent donc pour la première fois, suivant le commandement de l'Eternel, déclaré par Moïse.",
+        "OST": "Ils partirent donc, pour la première fois, sur l'ordre de l'Éternel, donné par le moyen de Moïse.",
+        "S21": "C’est le premier départ qu’ils effectuèrent conformément à l’ordre que l'Eternel avait donné par l’intermédiaire de Moïse."
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "Le camp des descendants de Juda précédé de sa bannière se mit d’abord en marche avec ses troupes, comprenant les troupes de Juda, sous les ordres de Nahchôn, fils d’Amminadab,",
+        "DBY": "La bannière du camp des fils de Juda partit la première, selon leurs armées; et son armée était sous Nakhshon, fils d'Amminadab;",
+        "KJV": "In the first [place] went the standard of the camp of the children of Judah according to their armies: and over his host [was] Nahshon the son of Amminadab.",
+        "LSG": "La bannière du camp des fils de Juda partit la première, avec ses corps d'armée. Le corps d'armée de Juda était commandé par Nachschon, fils d'Amminadab;",
+        "MAB": "Et la bannière des compagnies des enfants de Juda partit la première, selon leurs troupes; et Nahasson, fils de Hamminadab, conduisait la bande de Juda;",
+        "OST": "La bannière du camp des enfants de Juda partit la première, selon leurs armées; Nahasshon, fils d'Amminadab, commandait l'armée de Juda.",
+        "S21": "L’étendard du camp des Judéens partit le premier avec ses corps d'armée. Le corps d'armée de Juda était commandé par Nachshon, fils d'Amminadab,"
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "les troupes de la tribu des descendants d’Issacar, sous les ordres de Netaneel, fils de Tsouar,",
+        "DBY": "et l'armée de la tribu des fils d'Issacar était sous Nethaneël, fils de Tsuar;",
+        "KJV": "And over the host of the tribe of the children of Issachar [was] Nethaneel the son of Zuar.",
+        "LSG": "le corps d'armée de la tribu des fils d'Issacar, par Nethaneel, fils de Tsuar;",
+        "MAB": "Et Nathanaël, fils de Tsuhar, conduisait la bande de la Tribu des enfants d'Issacar.",
+        "OST": "Nathanaël, fils de Tsuar, commandait l'armée de la tribu des enfants d'Issacar.",
+        "S21": "celui de la tribu d'Issacar par Nathanaël, fils de Tsuar,"
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "et celles de la tribu des descendants de Zabulon, sous les ordres d’Eliab, fils de Hélôn.",
+        "DBY": "et l'armée de la tribu des fils de Zabulon était sous Éliab, fils de Hélon.",
+        "KJV": "And over the host of the tribe of the children of Zebulun [was] Eliab the son of Helon.",
+        "LSG": "le corps d'armée de la tribu des fils de Zabulon, par Eliab, fils de Hélon.",
+        "MAB": "Et Eliab, fils de Hélon, conduisait la bande de la Tribu des enfants de Zabulon.",
+        "OST": "Éliab, fils de Hélon, commandait l'armée de la tribu des enfants de Zabulon.",
+        "S21": "celui de la tribu de Zabulon par Eliab, fils de Hélon."
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "Après cela, le tabernacle fut démonté, et les Guerchonites ainsi que les Merarites se mirent en marche, en le portant.",
+        "DBY": "Et le tabernacle fut démonté; puis les fils de Guershon et les fils de Merari partirent, portant le tabernacle.",
+        "KJV": "And the tabernacle was taken down; and the sons of Gershon and the sons of Merari set forward, bearing the tabernacle.",
+        "LSG": "Le tabernacle fut démonté; et les fils de Guerschon et les fils de Merari partirent, portant le tabernacle.",
+        "MAB": "Et le pavillon fut désassemblé; puis les enfants de Guerson, et les enfants de Mérari, qui portaient le pavillon, partirent.",
+        "OST": "La Demeure fut démontée et les enfants de Guershon et les enfants de Mérari, qui portaient la Demeure, partirent.",
+        "S21": "Le tabernacle fut démonté et les descendants de Guershon et de Merari partirent en le portant."
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "Puis le camp de Ruben se mit en marche précédé de sa bannière, avec ses troupes comprenant les troupes de Ruben, sous les ordres d’Elitsour, fils de Chedéour,",
+        "DBY": "Et la bannière du camp de Ruben partit, selon leurs armées; et son armée était sous Élitsur, fils de Shedéur;",
+        "KJV": "And the standard of the camp of Reuben set forward according to their armies: and over his host [was] Elizur the son of Shedeur.",
+        "LSG": "La bannière du camp de Ruben partit, avec ses corps d'armée. Le corps d'armée de Ruben était commandé par Elitsur, fils de Schedéur;",
+        "MAB": "Puis la bannière des compagnies de Ruben partit, selon leurs troupes; et Elitsur, fils de Sédéur, conduisait la bande de Ruben.",
+        "OST": "Puis la bannière du camp de Ruben partit, selon leurs armées; et Elitsur, fils de Shedéur, commandait l'armée de Ruben.",
+        "S21": "L’étendard du camp de Ruben partit avec ses corps d'armée. Le corps d'armée de Ruben était commandé par Elitsur, fils de Shedéur,"
+      }
+    },
+    {
+      "verse": 19,
+      "texts": {
+        "BDS": "les troupes de la tribu des descendants de Siméon, sous les ordres de Cheloumiel descendants de Tsourichaddaï,",
+        "DBY": "et l'armée de la tribu des fils de Siméon était sous Shelumiel, fils de Tsurishaddaï;",
+        "KJV": "And over the host of the tribe of the children of Simeon [was] Shelumiel the son of Zurishaddai.",
+        "LSG": "le corps d'armée de la tribu des fils de Siméon, par Schelumiel, fils de Tsurischaddaï;",
+        "MAB": "Et Sélumiel, fils de Tsurisaddaï, conduisait la bande de la Tribu des enfants de Siméon.",
+        "OST": "Et Shelumiel, fils de Tsurishaddaï, commandait l'armée de la tribu des enfants de Siméon.",
+        "S21": "celui de la tribu de Siméon par Shelumiel, fils de Tsurishaddaï,"
+      }
+    },
+    {
+      "verse": 20,
+      "texts": {
+        "BDS": "et celles de la tribu des descendants de Gad, sous les ordres d’Eliasaph, fils de Déouel.",
+        "DBY": "et l'armée de la tribu des fils de Gad était sous Éliasaph, fils de Dehuel.",
+        "KJV": "And over the host of the tribe of the children of Gad [was] Eliasaph the son of Deuel.",
+        "LSG": "le corps d'armée de la tribu des fils de Gad, par Eliasaph, fils de Déuel.",
+        "MAB": "Et Eliasaph, fils de Déhuël, conduisait la bande des enfants de Gad.",
+        "OST": "Et Eliasaph, fils de Déhuël, commandait l'armée de la tribu des enfants de Gad.",
+        "S21": "celui de la tribu de Gad par Eliasaph, fils de Déuel."
+      }
+    },
+    {
+      "verse": 21,
+      "texts": {
+        "BDS": "Ensuite les Qehatites se mirent en marche portant les objets sacrés. On devait monter le tabernacle avant l’arrivée des Qehatites à l’étape suivante.",
+        "DBY": "Puis les Kehathites partirent, portant le sanctuaire; et on dressa le tabernacle, en attendant leur arrivée.",
+        "KJV": "And the Kohathites set forward, bearing the sanctuary: and [the other] did set up the tabernacle against they came.",
+        "LSG": "Les Kehathites partirent, portant le sanctuaire; et l'on dressait le tabernacle en attendant leur arrivée.",
+        "MAB": "Alors les Kéhathites, qui portaient le Sanctuaire, partirent; cependant on dressait le Tabernacle, tandis que ceux-ci venaient.",
+        "OST": "Alors les Kéhathites, qui portaient le sanctuaire, partirent; or, on dressait la Demeure, en attendant leur arrivée.",
+        "S21": "Les Kehathites partirent en portant les ustensiles sacrés. On dressait le tabernacle en attendant leur arrivée."
+      }
+    },
+    {
+      "verse": 22,
+      "texts": {
+        "BDS": "Ensuite le camp des descendants d’Ephraïm se mit en marche précédé de sa bannière avec ses troupes comprenant les troupes d’Ephraïm, sous les ordres d’Elichama, fils d’Ammihoud,",
+        "DBY": "Et la bannière du camp des fils d'Éphraïm partit, selon leurs armées; et son armée était sous Elishama, fils d'Ammihud;",
+        "KJV": "And the standard of the camp of the children of Ephraim set forward according to their armies: and over his host [was] Elishama the son of Ammihud.",
+        "LSG": "La bannière du camp des fils d'Ephraïm partit, avec ses corps d'armée. Le corps d'armée d'Ephraïm était commandé par Elischama, fils d'Ammihud;",
+        "MAB": "Puis la bannière des compagnies des enfants d'Ephraïm partit, selon leurs troupes; et Elisamah, fils de Hammihud, conduisait la bande d'Ephraïm.",
+        "OST": "Puis la bannière du camp des enfants d'Éphraïm partit, selon leurs armées; et Elishama, fils d'Ammihud, commandait l'armée d'Éphraïm.",
+        "S21": "L’étendard du camp d'Ephraïm partit avec ses corps d'armée. Le corps d'armée d'Ephraïm était commandé par Elishama, fils d'Ammihud,"
+      }
+    },
+    {
+      "verse": 23,
+      "texts": {
+        "BDS": "les troupes de la tribu des descendants de Manassé, sous les ordres de Gamliel, fils de Pédahtsour,",
+        "DBY": "et l'armée de la tribu des fils de Manassé était sous Gameliel, fils de Pedahtsur;",
+        "KJV": "And over the host of the tribe of the children of Manasseh [was] Gamaliel the son of Pedahzur.",
+        "LSG": "le corps d'armée de la tribu des fils de Manassé, par Gamliel, fils de Pedahtsur;",
+        "MAB": "Et Gamaliel, fils de Pédatsur, conduisait la bande de la Tribu des enfants de Manassé.",
+        "OST": "Et Gamaliel, fils de Pédahtsur, commandait l'armée de la tribu des enfants de Manassé.",
+        "S21": "celui de la tribu de Manassé par Gamliel, fils de Pedahtsur,"
+      }
+    },
+    {
+      "verse": 24,
+      "texts": {
+        "BDS": "et celles de la tribu des descendants de Benjamin, sous les ordres d’Abidân, fils de Guideoni.",
+        "DBY": "et l'armée de la tribu des fils de Benjamin était sous Abidan, fils de Guidhoni.",
+        "KJV": "And over the host of the tribe of the children of Benjamin [was] Abidan the son of Gideoni.",
+        "LSG": "le corps d'armée de la tribu des fils de Benjamin, par Abidan, fils de Guideoni.",
+        "MAB": "Et Abidan, fils de Guidhoni, conduisait la bande de la Tribu des enfants de Benjamin.",
+        "OST": "Et Abidan, fils de Guideoni, commandait l'armée de la tribu des enfants de Benjamin.",
+        "S21": "celui de la tribu de Benjamin par Abidan, fils de Guideoni."
+      }
+    },
+    {
+      "verse": 25,
+      "texts": {
+        "BDS": "A l’arrière-garde de toutes les troupes le camp des descendants de Dan partit précédé de sa bannière avec ses troupes comprenant les troupes de Dan, sous les ordres d’Ahiézer, fils d’Ammichaddaï,",
+        "DBY": "Et la bannière du camp des fils de Dan partit, à l'arrière-garde de tous les camps, selon leurs armées; et son armée était sous Akhiézer, fils d'Ammishaddaï;",
+        "KJV": "And the standard of the camp of the children of Dan set forward, [which was] the rereward of all the camps throughout their hosts: and over his host [was] Ahiezer the son of Ammishaddai.",
+        "LSG": "La bannière du camp des fils de Dan partit, avec ses corps d'armée: elle formait l'arrière-garde de tous les camps. Le corps d'armée de Dan était commandé par Ahiézer, fils d'Ammischaddaï;",
+        "MAB": "Enfin la bannière des compagnies des enfants de Dan, qui faisait l'arrière-garde, partit, selon leurs troupes ; et Ahihézer, fils de Hammisaddaï, conduisait la bande de Dan.",
+        "OST": "Enfin la bannière du camp des enfants de Dan, qui formait l'arrière-garde de tous les camps, partit, selon leurs armées; et Ahiézer, fils d'Ammishaddaï, commandait l'armée de Dan.",
+        "S21": "L’étendard du camp de Dan partit avec ses corps d'armée: il formait l'arrière-garde de tous les camps. Le corps d'armée de Dan était commandé par Ahiézer, fils d'Ammishaddaï,"
+      }
+    },
+    {
+      "verse": 26,
+      "texts": {
+        "BDS": "les troupes de la tribu des descendants d’Aser sous les ordres de Paguiel, fils d’Okrân,",
+        "DBY": "et l'armée de la tribu des fils d'Aser était sous Paghiel, fils d'Ocran;",
+        "KJV": "And over the host of the tribe of the children of Asher [was] Pagiel the son of Ocran.",
+        "LSG": "le corps d'armée de la tribu des fils d'Aser, par Paguiel, fils d'Ocran;",
+        "MAB": "Et Paghiel, fils de Hocran, conduisait la bande de la Tribu des enfants d'Aser.",
+        "OST": "Et Paguiel, fils d'Ocran, commandait l'armée de la tribu des enfants d'Asser.",
+        "S21": "celui de la tribu d'Aser par Paguiel, fils d'Ocran,"
+      }
+    },
+    {
+      "verse": 27,
+      "texts": {
+        "BDS": "et celles de la tribu de Nephtali, sous les ordres d’Ahira, fils d’Enân.",
+        "DBY": "et l'armée de la tribu des fils de Nephthali était sous Akhira, fils d'Énan.",
+        "KJV": "And over the host of the tribe of the children of Naphtali [was] Ahira the son of Enan.",
+        "LSG": "le corps d'armée de la tribu des fils de Nephthali, par Ahira, fils d'Enan.",
+        "MAB": "Et Ahirah, fils de Hénan, conduisait la bande de la Tribu des enfants de Nephthali.",
+        "OST": "Et Ahira, fils d'Enan, commandait l'armée de la tribu des enfants de Nephthali.",
+        "S21": "celui de la tribu de Nephthali par Ahira, fils d'Enan."
+      }
+    },
+    {
+      "verse": 28,
+      "texts": {
+        "BDS": "Tel était l’ordre de départ des Israélites répartis en corps d’armée lorsqu’ils levaient le camp.",
+        "DBY": "Tel fut l'ordre de marche des fils d'Israël, selon leurs armées; et ils partirent.",
+        "KJV": "Thus [were] the journeyings of the children of Israel according to their armies, when they set forward.",
+        "LSG": "Tel fut l'ordre d'après lequel les enfants d'Israël se mirent en marche selon leurs corps d'armée; et c'est ainsi qu'ils partirent.",
+        "MAB": "Tels étaient les décampements des enfants d'Israël selon leurs troupes, quand ils partaient.",
+        "OST": "Tel était l'ordre de marche des enfants d'Israël, selon leurs armées; et ils partirent.",
+        "S21": "Tel fut l'ordre d'après lequel les Israélites se mirent en marche selon leurs corps d'armée. C'est ainsi qu'ils partirent."
+      }
+    },
+    {
+      "verse": 29,
+      "texts": {
+        "BDS": "Moïse dit à Hobab, fils de son beau-père Reouel le Madianite:\r\n—Nous partons pour la contrée que l’Eternel a promis de nous donner. Viens donc avec nous; tu t’en trouveras bien car l’Eternel a promis de faire du bien à Israël.",
+        "DBY": "Moïse dit à Hobab, fils de Rehuel, Madianite, beau-père de Moïse: Nous partons pour le lieu dont l'Éternel a dit: Je vous le donnerai. Viens avec nous, et nous te ferons du bien; car l'Éternel a dit du bien à l'égard d'Israël.",
+        "KJV": "And Moses said unto Hobab, the son of Raguel the Midianite, Moses' father in law, We are journeying unto the place of which the LORD said, I will give it you: come thou with us, and we will do thee good: for the LORD hath spoken good concerning Israel.",
+        "LSG": "Moïse dit à Hobab, fils de Réuel, le Madianite, beau-père de Moïse: Nous partons pour le lieu dont l'Eternel a dit: Je vous le donnerai. Viens avec nous, et nous te ferons du bien, car l'Eternel a promis de faire du bien à Israël.",
+        "MAB": "Or Moïse dit à Hobab, fils de Réhuel Madianite, son beau-père : Nous allons au lieu duquel l'Eternel a dit, je vous le donnerai. Viens avec nous, et nous te ferons du bien; car l'Eternel a promis de faire du bien à Israël.",
+        "OST": "Or, Moïse dit à Hobab, fils de Réuel, le Madianite, beau-père de Moïse: Nous partons pour le lieu dont l'Éternel a dit: Je vous le donnerai; viens avec nous, et nous te ferons du bien; car l'Éternel a promis de faire du bien à Israël.",
+        "S21": "Moïse dit à Hobab, le fils de son beau-père madianite Réuel: «Nous partons pour l’endroit que l’Eternel a déclaré vouloir nous donner. Viens avec nous et nous te ferons du bien, car l'Eternel a promis de faire du bien à Israël.»"
+      }
+    },
+    {
+      "verse": 30,
+      "texts": {
+        "BDS": "Hobab lui répondit:\r\n—Je ne te suivrai pas, je préfère retourner dans mon pays auprès de ma famille.",
+        "DBY": "Et il lui dit: Je n'irai pas; mais je m'en irai dans mon pays, et vers ma parenté.",
+        "KJV": "And he said unto him, I will not go; but I will depart to mine own land, and to my kindred.",
+        "LSG": "Hobab lui répondit: Je n'irai point; mais j'irai dans mon pays et dans ma patrie.",
+        "MAB": "Et Hobab lui répondit : Je n'y irai point, mais je m'en irai en mon pays, et vers ma parenté.",
+        "OST": "Et Hobab lui répondit: Je n'irai point, mais j'irai dans mon pays, et dans le lieu de ma naissance.",
+        "S21": "Hobab lui répondit: «Je ne viendrai pas, j'irai au contraire dans mon pays et dans ma patrie.»"
+      }
+    },
+    {
+      "verse": 31,
+      "texts": {
+        "BDS": "Moïse insista:\r\n—Ne nous quitte pas, je te prie; car tu connais bien ce désert et les endroits où nous pourrons y installer notre camp, et tu pourras nous servir de guide.",
+        "DBY": "Et Moïse dit: Je te prie, ne nous laisse pas, parce que tu connais les lieux où nous aurons à camper dans le désert; et tu nous serviras d'yeux.",
+        "KJV": "And he said, Leave us not, I pray thee; forasmuch as thou knowest how we are to encamp in the wilderness, and thou mayest be to us instead of eyes.",
+        "LSG": "Et Moïse dit: Ne nous quitte pas, je te prie; puisque tu connais les lieux où nous campons dans le désert, tu nous serviras de guide.",
+        "MAB": "Et Moïse lui dit : Je te prie, ne nous quitte point; car tu nous serviras de guide, parce que tu connais les lieux où nous aurons à camper dans le désert.",
+        "OST": "Et Moïse lui dit: Je te prie, ne nous laisse point; puisque tu connais les lieux où nous pouvons camper dans le désert, tu nous serviras de guide.",
+        "S21": "Moïse dit: «Ne nous quitte pas, je t’en prie. Puisque tu connais les endroits où nous campons dans le désert, tu nous serviras de guide."
+      }
+    },
+    {
+      "verse": 32,
+      "texts": {
+        "BDS": "Si tu nous accompagnes, nous te ferons participer au bonheur que l’Eternel va nous accorder.",
+        "DBY": "Et il arrivera, si tu viens avec nous, que le bien que l'Éternel veut nous faire nous te le ferons.",
+        "KJV": "And it shall be, if thou go with us, yea, it shall be, that what goodness the LORD shall do unto us, the same will we do unto thee.",
+        "LSG": "Et si tu viens avec nous, nous te ferons jouir du bien que l'Eternel nous fera.",
+        "MAB": "Et il arrivera que quand tu seras venu avec nous, et que le bien que l'Eternel nous doit faire sera arrivé, nous te ferons aussi du bien.",
+        "OST": "Et il arrivera, si tu viens avec nous et que ce bien que l'Éternel doit nous faire arrive, que nous te ferons aussi du bien.",
+        "S21": "Et si tu viens avec nous, nous te ferons jouir du bien que l'Eternel nous fera.»"
+      }
+    },
+    {
+      "verse": 33,
+      "texts": {
+        "BDS": "Les Israélites partirent de la montagne de l’Eternel et marchèrent durant trois jours. Durant ces trois jours, le coffre de l’alliance de l’Eternel les précéda pour leur chercher un lieu d’étape.",
+        "DBY": "Et ils partirent de la montagne de l'Éternel, le chemin de trois jours; et l'arche de l'alliance de l'Éternel alla devant eux, le chemin de trois jours, pour leur chercher un lieu de repos.",
+        "KJV": "And they departed from the mount of the LORD three days' journey: and the ark of the covenant of the LORD went before them in the three days' journey, to search out a resting place for them.",
+        "LSG": "Ils partirent de la montagne de l'Eternel, et marchèrent trois jours; l'arche de l'alliance de l'Eternel partit devant eux, et fit une marche de trois jours, pour leur chercher un lieu de repos.",
+        "MAB": "Ainsi ils partirent de la montagne de l'Eternel, [et ils marchèrent] le chemin de trois jours; et l'Arche de l'alliance de l'Eternel alla devant eux pendant le chemin de trois jours pour chercher un lieu où ils se reposassent.",
+        "OST": "Ils partirent donc de la montagne de l'Éternel, et marchèrent pendant trois jours; et l'arche de l'alliance de l'Éternel allait devant eux, faisant trois journées de chemin, pour leur chercher un lieu de repos.",
+        "S21": "Ils partirent de la montagne de l'Eternel et marchèrent trois jours. L'arche de l'alliance de l'Eternel partit devant eux et fit une marche de trois jours pour leur chercher un lieu de repos."
+      }
+    },
+    {
+      "verse": 34,
+      "texts": {
+        "BDS": "Lorsqu’ils quittaient le campement, la nuée de l’Eternel les couvrait pendant le jour.",
+        "DBY": "Et la nuée de l'Éternel était sur eux de jour, quand ils partaient de leur campement.",
+        "KJV": "And the cloud of the LORD [was] upon them by day, when they went out of the camp.",
+        "LSG": "La nuée de l'Eternel était au-dessus d'eux pendant le jour, lorsqu'ils partaient du camp.",
+        "MAB": "Et la nuée de l'Eternel était sur eux le jour, quand ils partaient du lieu où ils avaient campé.",
+        "OST": "Et la nuée de l'Éternel était sur eux pendant le jour, quand ils partaient du camp.",
+        "S21": "La nuée de l'Eternel se trouvait au-dessus d'eux pendant le jour lorsqu'ils partaient du camp."
+      }
+    },
+    {
+      "verse": 35,
+      "texts": {
+        "BDS": "Chaque fois que le coffre sacré partait, Moïse priait:\r\n—Lève-toi, Eternel, et que tes ennemis soient dispersés; que ceux qui te haïssent fuient devant toi!",
+        "DBY": "Et il arrivait qu'au départ de l'arche, Moïse disait: Lève-toi, Éternel! et que tes ennemis soient dispersés, et que ceux qui te haïssent s'enfuient devant toi!",
+        "KJV": "And it came to pass, when the ark set forward, that Moses said, Rise up, LORD, and let thine enemies be scattered; and let them that hate thee flee before thee.",
+        "LSG": "Quand l'arche partait, Moïse disait: Lève-toi, Eternel! et que tes ennemis soient dispersés! que ceux qui te haïssent fuient devant ta face!",
+        "MAB": "Or il arrivait qu'au départ de l'Arche, Moïse disait : Lève-toi, ô Eternel, et tes ennemis seront dispersés, et ceux qui te haïssent s'enfuiront de devant toi.",
+        "OST": "Et quand l'arche partait, Moïse disait: Lève-toi, Éternel, et que tes ennemis soient dispersés, et que ceux qui te haïssent s'enfuient devant ta face!",
+        "S21": "Quand l'arche partait, Moïse disait: «Lève-toi, Eternel, et que tes ennemis soient dispersés! Que ceux qui te détestent prennent la fuite devant toi!»"
+      }
+    },
+    {
+      "verse": 36,
+      "texts": {
+        "BDS": "Et lorsqu’on le déposait, il disait:\r\n—Reviens, Eternel, auprès des multitudes des troupes d’Israël!",
+        "DBY": "Et quand elle se reposait, il disait: Reviens, Éternel, aux dix mille milliers d'Israël!",
+        "KJV": "And when it rested, he said, Return, O LORD, unto the many thousands of Israel.",
+        "LSG": "Et quand on la posait, il disait: Reviens, Eternel, aux myriades des milliers d'Israël!",
+        "MAB": "Et quand on la posait, il disait : Retourne, ô Eternel, aux dix mille milliers d'Israël.",
+        "OST": "Et quand on la posait, il disait: Reviens, Éternel, aux dix mille milliers d'Israël!",
+        "S21": "Et quand on la posait, il disait: «Reviens, Eternel, vers les dizaines et dizaines de milliers d'Israël!»"
+      }
+    }
+  ]
+}

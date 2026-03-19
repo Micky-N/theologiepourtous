@@ -1,0 +1,66 @@
+{
+  "bookCode": "PSA",
+  "chapter": 15,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "Psaume de David.\r\nEternel, qui peut rester dans ton sanctuaire?\r\nEt qui donc peut demeurer sur ta montagne sacrée?",
+        "DBY": "Éternel, qui séjournera dans ta tente? qui demeurera en ta montagne sainte?",
+        "KJV": "A Psalm of David. LORD, who shall abide in thy tabernacle? who shall dwell in thy holy hill?",
+        "LSG": "Psaume de David. O Eternel! qui séjournera dans ta tente? Qui demeurera sur ta montagne sainte? -",
+        "MAB": "Psaume de David. Eternel, qui est-ce qui séjournera dans ton Tabernacle? qui est-ce qui habitera en la montagne de ta Sainteté?",
+        "OST": "Psaume de David. Éternel, qui séjournera dans ton tabernacle? Qui habitera sur la montagne de ta sainteté?",
+        "S21": "Psaume de David.\r\nEternel, qui séjournera dans ta tente? Qui demeurera sur ta montagne sainte?"
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "L’homme à la conduite intègre: il pratique la justice,\r\net il dit la vérité qu’il pense au fond de son cœur,",
+        "DBY": "Celui qui marche dans l'intégrité, et qui fait ce qui est juste, et qui parle la vérité de son cœur;",
+        "KJV": "He that walketh uprightly, and worketh righteousness, and speaketh the truth in his heart.",
+        "LSG": "Celui qui marche dans l'intégrité, qui pratique la justice Et qui dit la vérité selon son coeur.",
+        "MAB": "Ce sera celui qui marche dans l'intégrité, qui fait ce qui est juste, et qui profère la vérité telle qu'elle est dans son cœur;",
+        "OST": "C'est celui qui marche dans l'intégrité, et qui pratique la justice; qui dit la vérité telle qu'elle est en son cœur;",
+        "S21": "Celui qui marche dans l’intégrité, pratique la justice et dit ce qu’il pense vraiment."
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "il n’insulte pas son frère,\r\net il ne raconte rien qui déprécie son prochain\r\nou lui cause un préjudice.",
+        "DBY": "Qui ne médit pas de sa langue; qui ne fait pas de mal à son compagnon, et qui ne fait pas venir l'opprobre sur son prochain;",
+        "KJV": "[He that] backbiteth not with his tongue, nor doeth evil to his neighbour, nor taketh up a reproach against his neighbour.",
+        "LSG": "Il ne calomnie point avec sa langue, Il ne fait point de mal à son semblable, Et il ne jette point l'opprobre sur son prochain.",
+        "MAB": "Qui ne médit point par sa langue, qui ne fait point de mal à son ami, qui ne diffame point son prochain;",
+        "OST": "Qui n'emploie pas sa langue à médire, qui ne fait point de mal à son prochain, et ne jette point l'opprobre sur son voisin;",
+        "S21": "Il ne calomnie pas avec sa langue, il ne fait pas de mal à son semblable, et il ne jette pas le déshonneur sur son prochain."
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "Il méprise l’homme vil,\r\nmais il honore celui qui respecte l’Eternel.\r\nIl tient toujours ses serments même s’il doit en pâtir.",
+        "DBY": "Aux yeux duquel l'homme vil est méprisable, mais qui honore ceux qui craignent l'Éternel; qui jure à son détriment, et ne change pas;",
+        "KJV": "In whose eyes a vile person is contemned; but he honoureth them that fear the LORD. [He that] sweareth to [his own] hurt, and changeth not.",
+        "LSG": "Il regarde avec dédain celui qui est méprisable, Mais il honore ceux qui craignent l'Eternel; Il ne se rétracte point, s'il fait un serment à son préjudice.",
+        "MAB": "Aux yeux duquel est méprisable celui qui mérite d'être rejeté, mais il honore ceux qui craignent l'Eternel; s'il a juré, fût-ce à son dommage, il n'en changera rien;",
+        "OST": "Qui regarde avec dédain l'homme méprisable, et honore ceux qui craignent l'Éternel; et s'il a juré, fût-ce à son dommage, il n'y change rien.",
+        "S21": "Il regarde avec répulsion l’homme au comportement méprisable, mais il honore ceux qui craignent l’Eternel. Il ne se rétracte pas, s’il fait un serment à son préjudice,"
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "Lorsqu’il prête de l’argent, c’est toujours sans intérêt,\r\nil refuse qu’on l’achète pour condamner l’innocent.\r\nQui se conduit de la sorte rien ne pourra l’ébranler.",
+        "DBY": "Qui ne donne pas son argent à intérêt, et qui ne prend pas de présent contre l'innocent. Celui qui fait ces choses ne sera jamais ébranlé.",
+        "KJV": "[He that] putteth not out his money to usury, nor taketh reward against the innocent. He that doeth these [things] shall never be moved.",
+        "LSG": "Il n'exige point d'intérêt de son argent, Et il n'accepte point de don contre l'innocent. Celui qui se conduit ainsi ne chancelle jamais.",
+        "MAB": "Qui ne donne point son argent à usure, et qui ne prend point de présent contre l'innocent; celui qui fait ces choses, ne sera jamais ébranlé.",
+        "OST": "Il ne donne point son argent à usure et ne prend point de présent contre l'innocent. Celui qui fait ces choses ne sera jamais ébranlé.",
+        "S21": "il n’exige pas d’intérêt de son argent, et il n’accepte pas de don contre l’innocent.\r\nCelui qui se conduit ainsi ne sera jamais ébranlé."
+      }
+    }
+  ]
+}

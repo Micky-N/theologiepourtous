@@ -69,7 +69,7 @@ export default defineEventHandler(async (event) => {
                 email: user.email,
                 role: user.role,
                 preferences: {
-                    defaultVersionId: null,
+                    defaultVersionOrderIndex: null,
                     notesPerVersion: false,
                     bookmarksPerVersion: false,
                     defaultVersion: null

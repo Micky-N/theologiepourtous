@@ -1,0 +1,690 @@
+{
+  "bookCode": "LEV",
+  "chapter": 14,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "L’Eternel parla à Moïse en ces termes:",
+        "DBY": "Et l'Éternel parla à Moïse, disant:",
+        "KJV": "And the LORD spake unto Moses, saying,",
+        "LSG": "L'Eternel parla à Moïse, et dit:",
+        "MAB": "L'Eternel parla aussi à Moïse, en disant :",
+        "OST": "L'Éternel parla à Moïse, en disant:",
+        "S21": "L'Eternel dit à Moïse:"
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "—Voici la loi concernant la purification de l’homme atteint d’une maladie de peau évolutive, du genre lèpre: on l’amènera au prêtre,",
+        "DBY": "C'est ici la loi du lépreux, au jour de sa purification:",
+        "KJV": "This shall be the law of the leper in the day of his cleansing: He shall be brought unto the priest:",
+        "LSG": "Voici quelle sera la loi sur le lépreux, pour le jour de sa purification. On l'amènera devant le sacrificateur.",
+        "MAB": "C'est ici la loi du lépreux pour le jour de la purification; il sera amené au Sacrificateur.",
+        "OST": "Voici la loi touchant le lépreux, pour le jour de sa purification: on l'amènera au sacrificateur;",
+        "S21": "«Voici quelle sera la loi sur le lépreux pour le jour de sa purification. On l'amènera devant le prêtre."
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "qui sortira du camp pour l’examiner. S’il est guéri de sa maladie de peau,",
+        "DBY": "il sera amené au sacrificateur; et le sacrificateur sortira hors du camp; et le sacrificateur le verra: et voici, le lépreux est guéri de la plaie de la lèpre;",
+        "KJV": "And the priest shall go forth out of the camp; and the priest shall look, and, behold, [if] the plague of leprosy be healed in the leper;",
+        "LSG": "Le sacrificateur sortira du camp, et il examinera le lépreux. Si le lépreux est guéri de la plaie de la lèpre,",
+        "MAB": "Et le Sacrificateur sortira hors du camp, et le regardera; et s'il aperçoit que la plaie de la lèpre soit guérie au lépreux,",
+        "OST": "Le sacrificateur sortira du camp et l'examinera. Si la plaie de la lèpre du lépreux est guérie,",
+        "S21": "Le prêtre sortira du camp et examinera le lépreux. Si le lépreux est guéri de la plaie de la lèpre,"
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "le prêtre ordonnera que l’on apporte en vue de sa purification deux petits oiseaux vivants et purs, un morceau de bois de cèdre, un fil de laine teint en rouge éclatant et une branche d’hysope.",
+        "DBY": "alors le sacrificateur commandera qu'on prenne, pour celui qui doit être purifié, deux oiseaux vivants et purs, et du bois de cèdre, et de l'écarlate, et de l'hysope;",
+        "KJV": "Then shall the priest command to take for him that is to be cleansed two birds alive [and] clean, and cedar wood, and scarlet, and hyssop:",
+        "LSG": "le sacrificateur ordonnera que l'on prenne, pour celui qui doit être purifié, deux oiseaux vivants et purs, du bois de cèdre, du cramoisi et de l'hysope.",
+        "MAB": "Le Sacrificateur commandera qu'on prenne pour celui qui doit être nettoyé, deux passereaux vivants [et] nets, avec du bois de cèdre, et du cramoisi, et de l'hysope,",
+        "OST": "Le sacrificateur ordonnera de prendre pour celui qui doit être purifié, deux oiseaux vivants et purs, du bois de cèdre, du cramoisi et de l'hysope.",
+        "S21": "le prêtre ordonnera que l'on prenne, pour celui qui doit être purifié, deux oiseaux vivants et purs, du bois de cèdre, du cramoisi et de l'hysope."
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "Il donnera ordre d’égorger l’un des oiseaux au-dessus d’un récipient de terre cuite rempli d’eau de source.",
+        "DBY": "et le sacrificateur commandera qu'on égorge l'un des oiseaux sur un vase de terre, sur de l'eau vive.",
+        "KJV": "And the priest shall command that one of the birds be killed in an earthen vessel over running water:",
+        "LSG": "Le sacrificateur ordonnera qu'on égorge l'un des oiseaux sur un vase de terre, sur de l'eau vive.",
+        "MAB": "Et le Sacrificateur commandera qu'on coupe la gorge à l'un des passereaux sur un vaisseau de terre, sur de l'eau vive.",
+        "OST": "Et le sacrificateur commandera qu'on égorge l'un des oiseaux sur un vase de terre, sur de l'eau vive.",
+        "S21": "Le prêtre ordonnera qu'on égorge l'un des oiseaux sur un vase de terre, sur de l'eau vive."
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "Puis il prendra l’oiseau vivant, le bois de cèdre, le fil de laine rouge et l’hysope, et il les trempera avec l’oiseau vivant dans le sang de l’oiseau égorgé, sur l’eau de source.",
+        "DBY": "Quant à l'oiseau vivant, il le prendra, et le bois de cèdre, et l'écarlate, et l'hysope, et il les trempera, ainsi que l'oiseau vivant, dans le sang de l'oiseau égorgé sur l'eau vive;",
+        "KJV": "As for the living bird, he shall take it, and the cedar wood, and the scarlet, and the hyssop, and shall dip them and the living bird in the blood of the bird [that was] killed over the running water:",
+        "LSG": "Il prendra l'oiseau vivant, le bois de cèdre, le cramoisi et l'hysope; et il les trempera, avec l'oiseau vivant, dans le sang de l'oiseau égorgé sur l'eau vive.",
+        "MAB": "Puis il prendra le passereau vivant, le bois de cèdre, le cramoisi, et l'hysope; et il trempera [toutes ces choses] avec le passereau vivant, dans le sang de l'autre passereau qui aura été égorgé sur de l'eau vive.",
+        "OST": "Quant à l'oiseau vivant, il le prendra, avec le bois de cèdre, le cramoisi et l'hysope, et il les trempera, avec l'oiseau vivant, dans le sang de l'oiseau égorgé sur l'eau vive;",
+        "S21": "Il prendra l'oiseau vivant, le bois de cèdre, le cramoisi et l'hysope, et il les trempera avec l'oiseau vivant dans le sang de l'oiseau égorgé sur l'eau vive."
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "Il en fera sept fois aspersion sur celui qui doit être purifié de la lèpre, il le déclarera pur et lâchera l’oiseau vivant dans la nature.",
+        "DBY": "et il fera aspersion, sept fois, sur celui qui doit être purifié de la lèpre, et il le purifiera; puis il lâchera dans les champs l'oiseau vivant.",
+        "KJV": "And he shall sprinkle upon him that is to be cleansed from the leprosy seven times, and shall pronounce him clean, and shall let the living bird loose into the open field.",
+        "LSG": "Il en fera sept fois l'aspersion sur celui qui doit être purifié de la lèpre. Puis il le déclarera pur, et il lâchera dans les champs l'oiseau vivant.",
+        "MAB": "Et il en fera aspersion par sept fois sur celui qui doit être nettoyé de la lèpre, et le nettoiera, et il laissera aller par les champs, le passereau vivant.",
+        "OST": "Il en fera aspersion sept fois sur celui qui se purifie de la lèpre, il le déclarera pur, et il lâchera dans les champs l'oiseau vivant.",
+        "S21": "Il fera 7 fois l'aspersion sur celui qui doit être purifié de la lèpre. Puis il le déclarera pur et lâchera l'oiseau vivant dans les champs."
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "Celui qui est soumis au rite de purification lavera ses vêtements, se rasera tous les poils et se baignera dans l’eau, ainsi il sera pur. Après cela, il pourra réintégrer le camp, mais il restera hors de sa tente pendant sept jours.",
+        "DBY": "Et celui qui doit être purifié lavera ses vêtements et rasera tout son poil, et se lavera dans l'eau; et il sera pur. Et après cela, il entrera dans le camp, et il habitera sept jours hors de sa tente.",
+        "KJV": "And he that is to be cleansed shall wash his clothes, and shave off all his hair, and wash himself in water, that he may be clean: and after that he shall come into the camp, and shall tarry abroad out of his tent seven days.",
+        "LSG": "Celui qui se purifie lavera ses vêtements, rasera tout son poil, et se baignera dans l'eau; et il sera pur. Ensuite il pourra entrer dans le camp, mais il restera sept jours hors de sa tente.",
+        "MAB": "Et celui qui doit être nettoyé lavera ses vêtements, et rasera tout son poil, et se lavera dans l'eau, et il sera net, et ensuite il entrera au camp, mais il demeurera sept jours hors de sa tente.",
+        "OST": "Et celui qui se purifie lavera ses vêtements, rasera tout son poil, se lavera dans l'eau et il sera pur. Ensuite il entrera dans le camp, mais il demeurera hors de sa tente pendant sept jours.",
+        "S21": "»Celui qui se purifie lavera ses vêtements, rasera tous ses poils et se baignera dans l'eau. Il sera pur. Ensuite il pourra entrer dans le camp, mais il restera 7 jours à l’extérieur de sa tente."
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "Le septième jour, il rasera tous les poils de sa peau, cheveux, barbe, sourcils et tout autre poil, il lavera ses vêtements, se baignera dans l’eau et alors il sera pur.",
+        "DBY": "Et il arrivera que, le septième jour, il rasera tout son poil, sa tête et sa barbe et ses sourcils; il rasera tout son poil; et il lavera ses vêtements, et il lavera sa chair dans l'eau, et il sera pur.",
+        "KJV": "But it shall be on the seventh day, that he shall shave all his hair off his head and his beard and his eyebrows, even all his hair he shall shave off: and he shall wash his clothes, also he shall wash his flesh in water, and he shall be clean.",
+        "LSG": "Le septième jour, il rasera tout son poil, sa tête, sa barbe, ses sourcils, il rasera tout son poil; il lavera ses vêtements, et baignera son corps dans l'eau, et il sera pur.",
+        "MAB": "Et au septième jour il rasera tout son poil, sa tête, sa barbe, les sourcils de ses yeux, tout son poil; il rasera, [dis-je], tout son poil; puis il lavera ses vêtements et sa chair, et il sera net.",
+        "OST": "Et au septième jour, il rasera tout son poil, sa tête, sa barbe, ses sourcils, il rasera tout son poil. Il lavera ses vêtements et baignera son corps dans l'eau, et il sera pur.",
+        "S21": "Le septième jour, il rasera tous ses poils, sa tête, sa barbe, ses sourcils, il rasera tous ses poils. Il lavera ses vêtements et baignera son corps dans l'eau, et il sera pur."
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "Le huitième jour, il prendra deux agneaux sans défaut et une brebis dans sa première année, sans défaut, il y ajoutera neuf kilogrammes de fleur de farine en offrande pétrie à l’huile et un demi-litre d’huile.",
+        "DBY": "Et le huitième jour, il prendra deux agneaux sans défaut, et une jeune brebis âgée d'un an, sans défaut, et trois dixièmes de fleur de farine pétrie à l'huile, en offrande de gâteau, et un log d'huile.",
+        "KJV": "And on the eighth day he shall take two he lambs without blemish, and one ewe lamb of the first year without blemish, and three tenth deals of fine flour [for] a meat offering, mingled with oil, and one log of oil.",
+        "LSG": "Le huitième jour, il prendra deux agneaux sans défaut et une brebis d'un an sans défaut, trois dixièmes d'un épha de fleur de farine en offrande pétrie à l'huile, et un log d'huile.",
+        "MAB": "Et au huitième jour il prendra deux agneaux sans tare, et une brebis d'un an sans tare, et trois dixièmes de fine farine à faire le gâteau, pétrie à l'huile, et un log d'huile.",
+        "OST": "Le huitième jour, il prendra deux agneaux sans défaut, et une brebis de l'année sans défaut, trois dixièmes d'épha de fine farine en offrande, arrosée d'huile, et un log d'huile;",
+        "S21": "Le huitième jour, il prendra deux agneaux sans défaut et une brebis d'un an sans défaut, une offrande de 6 litres et demi de fleur de farine pétrie à l'huile et 3 décilitres d'huile."
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "Le prêtre qui procède à sa purification le placera avec tout cela devant l’Eternel à l’entrée de la tente de la Rencontre.",
+        "DBY": "Et le sacrificateur qui fait la purification placera l'homme qui doit être purifié, et ces choses, devant l'Éternel, à l'entrée de la tente d'assignation;",
+        "KJV": "And the priest that maketh [him] clean shall present the man that is to be made clean, and those things, before the LORD, [at] the door of the tabernacle of the congregation:",
+        "LSG": "Le sacrificateur qui fait la purification présentera l'homme qui se purifie et toutes ces choses devant l'Eternel, à l'entrée de la tente d'assignation.",
+        "MAB": "Et le Sacrificateur qui fait la purification, présentera celui qui doit être nettoyé, et ces choses-là, devant l'Eternel à l'entrée du Tabernacle d'assignation.",
+        "OST": "Et le sacrificateur qui fait la purification, présentera l'homme qui se purifie et ces choses devant l'Éternel, à l'entrée du tabernacle d'assignation.",
+        "S21": "Le prêtre qui fait la purification présentera l'homme qui se purifie et tous ces éléments devant l'Eternel, à l'entrée de la tente de la rencontre."
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "Le prêtre prendra l’un des agneaux et l’offrira en sacrifice de réparation avec l’huile offerte; il fera devant l’Eternel le geste de présentation.",
+        "DBY": "et le sacrificateur prendra l'un des agneaux, et le présentera comme sacrifice pour le délit, avec le log d'huile, et les tournoiera en offrande tournoyée devant l'Éternel;",
+        "KJV": "And the priest shall take one he lamb, and offer him for a trespass offering, and the log of oil, and wave them [for] a wave offering before the LORD:",
+        "LSG": "Le sacrificateur prendra l'un des agneaux, et il l'offrira en sacrifice de culpabilité, avec le log d'huile; il les agitera de côté et d'autre devant l'Eternel.",
+        "MAB": "Puis le Sacrificateur prendra l'un des agneaux, et l'offrira en offrande pour le délit avec un log d'huile, et tournoiera ces choses devant l'Eternel, en oblation tournoyée.",
+        "OST": "Ensuite le sacrificateur prendra l'un des agneaux, et l'offrira en sacrifice pour le délit, avec le log d'huile, et il les agitera en oblation devant l'Éternel.",
+        "S21": "»Le prêtre prendra l'un des agneaux et l'offrira en sacrifice de culpabilité avec les 3 décilitres d'huile. Il fera avec eux le geste de présentation devant l'Eternel."
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "Il égorgera l’agneau au lieu où l’on immole le sacrifice pour le péché et l’holocauste, dans ce lieu saint; car la victime du sacrifice de réparation revient au prêtre comme le sacrifice pour le péché; c’est une chose très sainte.",
+        "DBY": "puis il égorgera l'agneau au lieu où l'on égorge le sacrifice pour le péché et l'holocauste, dans un lieu saint; car le sacrifice pour le délit est comme le sacrifice pour le péché, il appartient au sacrificateur: c'est une chose très-sainte.",
+        "KJV": "And he shall slay the lamb in the place where he shall kill the sin offering and the burnt offering, in the holy place: for as the sin offering [is] the priest's, [so is] the trespass offering: it [is] most holy:",
+        "LSG": "Il égorgera l'agneau dans le lieu où l'on égorge les victimes expiatoires et les holocaustes, dans le lieu saint; car, dans le sacrifice de culpabilité, comme dans le sacrifice d'expiation, la victime est pour le sacrificateur; c'est une chose très sainte.",
+        "MAB": "Et il égorgera l'agneau au lieu où l'on égorge [l'offrande] pour le péché, et l'holocauste, dans le lieu saint; car [l'offrande pour] le délit appartient au Sacrificateur, comme [l'offrande pour] le péché; c'est une chose très-sainte.",
+        "OST": "Puis il égorgera l'agneau, au lieu où l'on égorge le sacrifice pour le péché et l'holocauste, dans le lieu saint; car le sacrifice pour le délit appartient au sacrificateur, comme le sacrifice pour le péché; c'est une chose très sainte.",
+        "S21": "Il égorgera l'agneau à l’endroit où l'on égorge les victimes expiatoires et les holocaustes, dans le lieu saint. En effet, dans le sacrifice de culpabilité comme dans le sacrifice d'expiation, la victime est pour le prêtre. C'est une chose très sainte."
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "Le prêtre prendra du sang du sacrifice de réparation, et en mettra sur le lobe de l’oreille droite de celui qui se purifie, sur le pouce de sa main droite et sur le gros orteil de son pied droit.",
+        "DBY": "Et le sacrificateur prendra du sang du sacrifice pour le délit, et le sacrificateur le mettra sur le lobe de l'oreille droite de celui qui doit être purifié, et sur le pouce de sa main droite, et sur le gros orteil de son pied droit.",
+        "KJV": "And the priest shall take [some] of the blood of the trespass offering, and the priest shall put [it] upon the tip of the right ear of him that is to be cleansed, and upon the thumb of his right hand, and upon the great toe of his right foot:",
+        "LSG": "Le sacrificateur prendra du sang de la victime de culpabilité; il en mettra sur le lobe de l'oreille droite de celui qui se purifie, sur le pouce de sa main droite et sur le gros orteil de son pied droit.",
+        "MAB": "Et le Sacrificateur prendra du sang [de l'offrande pour] le délit, et le mettra sur le mol de l'oreille droite de celui qui doit être nettoyé, et sur le pouce de sa main droite, et sur le gros orteil de son pied droit.",
+        "OST": "Et le sacrificateur prendra du sang du sacrifice pour le délit; il en mettra sur le bout de l'oreille droite de celui qui se purifie, sur le pouce de sa main droite, et sur le gros orteil de son pied droit.",
+        "S21": "Le prêtre prendra du sang de la victime de culpabilité. Il en mettra sur le lobe de l'oreille droite de celui qui se purifie, sur le pouce de sa main droite et sur le gros orteil de son pied droit."
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "Ensuite il prendra le demi-litre d’huile, et en versera un peu dans le creux de sa main gauche.",
+        "DBY": "Et le sacrificateur prendra du log d'huile, et en versera dans la paume de sa main gauche, à lui, le sacrificateur;",
+        "KJV": "And the priest shall take [some] of the log of oil, and pour [it] into the palm of his own left hand:",
+        "LSG": "Le sacrificateur prendra du log d'huile, et il en versera dans le creux de sa main gauche.",
+        "MAB": "Puis le Sacrificateur prendra de l'huile du log, et en versera dans la paume de sa main gauche.",
+        "OST": "Le sacrificateur prendra du log d'huile et en versera dans sa main gauche;",
+        "S21": "Le prêtre prendra la mesure d'huile et il en versera dans le creux de sa main gauche."
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "Il y trempera l’index droit et fera sept fois aspersion de l’huile devant l’Eternel.",
+        "DBY": "et le sacrificateur trempera le doigt de sa main droite dans l'huile qui est dans sa paume gauche, et fera aspersion de l'huile avec son doigt, sept fois, devant l'Éternel.",
+        "KJV": "And the priest shall dip his right finger in the oil that [is] in his left hand, and shall sprinkle of the oil with his finger seven times before the LORD:",
+        "LSG": "Le sacrificateur trempera le doigt de sa main droite dans l'huile qui est dans le creux de sa main gauche, et il fera avec le doigt sept fois l'aspersion de l'huile devant l'Eternel.",
+        "MAB": "Et le Sacrificateur trempera le doigt de sa main droite en l'huile qui est dans sa paume gauche, et fera aspersion de l'huile avec son doigt sept fois devant l'Eternel.",
+        "OST": "Ensuite le sacrificateur trempera le doigt de sa main droite dans l'huile qui sera dans sa main gauche, et fera aspersion de l'huile avec son doigt sept fois devant l'Éternel.",
+        "S21": "Il trempera le doigt de sa main droite dans l'huile qui est dans le creux de sa main gauche et il fera avec le doigt 7 fois l'aspersion de l'huile devant l'Eternel."
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "Puis il appliquera de l’huile qui reste dans le creux de sa main sur le lobe de l’oreille droite de celui qui se purifie, sur le pouce de sa main droite et sur le gros orteil de son pied droit, à l’endroit où il a mis du sang du sacrifice de réparation.",
+        "DBY": "Et du reste de l'huile qui sera dans sa paume, le sacrificateur en mettra sur le lobe de l'oreille droite de celui qui doit être purifié, et sur le pouce de sa main droite, et sur le gros orteil de son pied droit, sur le sang du sacrifice pour le délit;",
+        "KJV": "And of the rest of the oil that [is] in his hand shall the priest put upon the tip of the right ear of him that is to be cleansed, and upon the thumb of his right hand, and upon the great toe of his right foot, upon the blood of the trespass offering:",
+        "LSG": "Le sacrificateur mettra de l'huile qui lui reste dans la main sur le lobe de l'oreille droite de celui qui se purifie, sur le pouce de sa main droite et sur le gros orteil de son pied droit, par-dessus le sang de la victime de culpabilité.",
+        "MAB": "Et du reste de l'huile qui sera dans sa paume, le Sacrificateur en mettra sur le mol de l'oreille droite de celui qui doit être nettoyé, et sur le pouce de sa main droite, et sur le gros orteil de son pied droit, sur le sang pris de [l'offrande pour le] délit.",
+        "OST": "Et du reste de l'huile qui sera dans sa main, le sacrificateur en mettra sur le bout de l'oreille droite de celui qui se purifie, sur le pouce de sa main droite, et sur le gros orteil de son pied droit, par-dessus le sang du sacrifice pour le délit.",
+        "S21": "Il mettra de l'huile qui lui reste dans la main sur le lobe de l'oreille droite de celui qui se purifie, sur le pouce de sa main droite et sur le gros orteil de son pied droit, par-dessus le sang de la victime de culpabilité."
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "Il versera ce qui reste d’huile dans sa main sur la tête de celui qui se purifie, afin de faire le rite d’expiation pour lui devant l’Eternel.",
+        "DBY": "et le reste de l'huile qui sera dans la paume du sacrificateur, il le mettra sur la tête de celui qui doit être purifié; et le sacrificateur fera propitiation pour lui devant l'Éternel.",
+        "KJV": "And the remnant of the oil that [is] in the priest's hand he shall pour upon the head of him that is to be cleansed: and the priest shall make an atonement for him before the LORD.",
+        "LSG": "Le sacrificateur mettra ce qui lui reste d'huile dans la main sur la tête de celui qui se purifie; et le sacrificateur fera pour lui l'expiation devant l'Eternel.",
+        "MAB": "Mais ce qui restera de l'huile sur la paume du Sacrificateur, il le mettra sur la tête de celui qui doit être nettoyé; et ainsi le Sacrificateur fera propitiation pour lui devant l'Eternel.",
+        "OST": "Ce qui restera de l'huile qui sera dans sa main, le sacrificateur le mettra sur la tête de celui qui se purifie; et le sacrificateur fera pour lui l'expiation devant l'Éternel.",
+        "S21": "Le prêtre mettra ce qui lui reste d'huile dans la main sur la tête de celui qui se purifie afin de faire l'expiation pour lui devant l'Eternel."
+      }
+    },
+    {
+      "verse": 19,
+      "texts": {
+        "BDS": "Après cela, il offrira le sacrifice pour le péché afin d’accomplir le rite d’expiation pour celui qui se purifie de son impureté; ensuite il immolera l’holocauste.",
+        "DBY": "Et le sacrificateur offrira le sacrifice pour le péché, et fera propitiation pour celui qui doit être purifié de son impureté; et après, il égorgera l'holocauste.",
+        "KJV": "And the priest shall offer the sin offering, and make an atonement for him that is to be cleansed from his uncleanness; and afterward he shall kill the burnt offering:",
+        "LSG": "Puis le sacrificateur offrira le sacrifice d'expiation; et il fera l'expiation pour celui qui se purifie de sa souillure. Ensuite il égorgera l'holocauste.",
+        "MAB": "Ensuite le Sacrificateur offrira [l'offrande pour] le péché, et fera propitiation pour celui qui doit être nettoyé de sa souillure; puis il égorgera l'holocauste.",
+        "OST": "Puis le sacrificateur offrira le sacrifice pour le péché, et fera l'expiation pour celui qui se purifie de sa souillure; ensuite il égorgera l'holocauste.",
+        "S21": "Puis il offrira le sacrifice d'expiation et il fera l'expiation pour celui qui se purifie de sa souillure. Ensuite il égorgera l'holocauste."
+      }
+    },
+    {
+      "verse": 20,
+      "texts": {
+        "BDS": "Il placera l’holocauste avec l’offrande sur l’autel. Ainsi il accomplira le rite d’expiation pour cet homme, et il sera pur.",
+        "DBY": "Et le sacrificateur offrira l'holocauste et le gâteau sur l'autel; et le sacrificateur fera propitiation pour celui qui doit être purifié, et il sera pur.",
+        "KJV": "And the priest shall offer the burnt offering and the meat offering upon the altar: and the priest shall make an atonement for him, and he shall be clean.",
+        "LSG": "Le sacrificateur offrira sur l'autel l'holocauste et l'offrande; et il fera pour cet homme l'expiation, et il sera pur.",
+        "MAB": "Et le Sacrificateur offrira l'holocauste et le gâteau sur l'autel, et fera propitiation pour celui qui doit être nettoyé; et il sera net.",
+        "OST": "Le sacrificateur offrira l'holocauste et l'offrande sur l'autel; et il fera l'expiation pour cet homme, et il sera pur.",
+        "S21": "Il offrira sur l'autel l'holocauste et l'offrande. C’est ainsi que le prêtre fera l'expiation pour cette personne et elle sera pure."
+      }
+    },
+    {
+      "verse": 21,
+      "texts": {
+        "BDS": "Si l’homme est trop pauvre pour se procurer tout cela, il prendra un seul agneau qui sera offert en sacrifice de réparation avec le geste de présentation pour accomplir le rite d’expiation en sa faveur; il y ajoutera une offrande de trois kilogrammes de fleur de farine pétrie à l’huile et un demi-litre d’huile.",
+        "DBY": "Et s'il est pauvre, et que sa main ne puisse atteindre jusque-là, il prendra un agneau comme sacrifice pour le délit, pour offrande tournoyée, afin de faire propitiation pour lui, et un dixième de fleur de farine pétrie à l'huile, pour offrande de gâteau, et un log d'huile,",
+        "KJV": "And if he [be] poor, and cannot get so much; then he shall take one lamb [for] a trespass offering to be waved, to make an atonement for him, and one tenth deal of fine flour mingled with oil for a meat offering, and a log of oil;",
+        "LSG": "S'il est pauvre et que ses ressources soient insuffisantes, il prendra un seul agneau, qui sera offert en sacrifice de culpabilité, après avoir été agité de côté et d'autre, et avec lequel on fera pour lui l'expiation. Il prendra un seul dixième de fleur de farine pétrie à l'huile pour l'offrande, et un log d'huile.",
+        "MAB": "Mais s'il est pauvre, et s'il n'a pas le moyen de fournir ces choses, il prendra un agneau en offrande tournoyée pour le délit, afin de faire propitiation pour soi, et un dixième de fine farine pétrie à l'huile, pour le gâteau, avec un log d'huile;",
+        "OST": "Mais s'il est pauvre et que ses moyens n'y suffisent pas, il prendra un agneau comme sacrifice pour le délit en offrande agitée pour faire l'expiation pour lui, et un dixième de fine farine arrosée d'huile pour l'offrande, et un log d'huile,",
+        "S21": "»Si la personne est pauvre et ne dispose pas de moyens suffisants, elle prendra un seul agneau, qui sera offert en sacrifice de culpabilité avec le geste de présentation et avec lequel on fera l'expiation pour elle. Elle prendra 2 litres de fleur de farine pétrie à l'huile pour l'offrande et 3 décilitres d'huile."
+      }
+    },
+    {
+      "verse": 22,
+      "texts": {
+        "BDS": "Il prendra aussi deux tourterelles ou deux pigeonneaux, selon ses ressources; l’un des oiseaux sera destiné au sacrifice pour le péché, l’autre à l’holocauste.",
+        "DBY": "et deux tourterelles ou deux jeunes pigeons, selon ce que sa main pourra atteindre: l'un sera un sacrifice pour le péché, l'autre un holocauste.",
+        "KJV": "And two turtledoves, or two young pigeons, such as he is able to get; and the one shall be a sin offering, and the other a burnt offering.",
+        "LSG": "Il prendra aussi deux tourterelles ou deux jeunes pigeons, selon ses ressources, l'un pour le sacrifice d'expiation, l'autre pour l'holocauste.",
+        "MAB": "Et deux tourterelles ou deux pigeonneaux, selon qu'il pourra fournir, dont l'un sera pour le péché, et l'autre pour l'holocauste.",
+        "OST": "Et deux tourterelles ou deux pigeonneaux, selon ses moyens, l'un pour le sacrifice pour le péché, l'autre pour l'holocauste.",
+        "S21": "Elle prendra aussi deux tourterelles ou deux jeunes pigeons, en fonction de ses moyens, l'un pour le sacrifice d'expiation, l'autre pour l'holocauste."
+      }
+    },
+    {
+      "verse": 23,
+      "texts": {
+        "BDS": "Il les apportera au prêtre le huitième jour, pour sa purification, à l’entrée de la tente de la Rencontre devant l’Eternel.",
+        "DBY": "Et le huitième jour de sa purification, il les apportera au sacrificateur, à l'entrée de la tente d'assignation, devant l'Éternel;",
+        "KJV": "And he shall bring them on the eighth day for his cleansing unto the priest, unto the door of the tabernacle of the congregation, before the LORD.",
+        "LSG": "Le huitième jour, il apportera pour sa purification toutes ces choses au sacrificateur, à l'entrée de la tente d'assignation, devant l'Eternel.",
+        "MAB": "Et le huitième jour de sa purification il les apportera au Sacrificateur à l'entrée du Tabernacle d'assignation, devant l'Eternel.",
+        "OST": "Il apportera ces choses le huitième jour au sacrificateur, pour sa purification, à l'entrée du tabernacle d'assignation, devant l'Éternel.",
+        "S21": "Le huitième jour, elle apportera tous ces éléments au prêtre à l'entrée de la tente de la rencontre, devant l'Eternel, pour sa purification."
+      }
+    },
+    {
+      "verse": 24,
+      "texts": {
+        "BDS": "Le prêtre prendra l’agneau du sacrifice de réparation et la mesure d’huile, et il accomplira le geste de présentation devant l’Eternel.",
+        "DBY": "et le sacrificateur prendra l'agneau du sacrifice pour le délit, et le log d'huile, et le sacrificateur les tournoiera en offrande tournoyée devant l'Éternel;",
+        "KJV": "And the priest shall take the lamb of the trespass offering, and the log of oil, and the priest shall wave them [for] a wave offering before the LORD:",
+        "LSG": "Le sacrificateur prendra l'agneau pour le sacrifice de culpabilité, et le log d'huile; et il les agitera de côté et d'autre devant l'Eternel.",
+        "MAB": "Et le Sacrificateur recevra l'agneau [de l'offrande pour] le délit, et le log d'huile, et les tournoiera devant l'Eternel en offrande tournoyée.",
+        "OST": "Le sacrificateur prendra l'agneau pour le sacrifice pour le délit, et le log d'huile; et le sacrificateur les agitera en offrande devant l'Éternel.",
+        "S21": "»Le prêtre prendra l'agneau destiné au sacrifice de culpabilité et les 3 décilitres d'huile, et il fera avec eux le geste de présentation devant l'Eternel."
+      }
+    },
+    {
+      "verse": 25,
+      "texts": {
+        "BDS": "Il immolera l’agneau du sacrifice de réparation et il prendra du sang de l’animal pour en mettre sur le lobe de l’oreille droite de celui qui se purifie, sur le pouce de sa main droite et sur l’orteil de son pied droit.",
+        "DBY": "et il égorgera l'agneau du sacrifice pour le délit; et le sacrificateur prendra du sang du sacrifice pour le délit, et le mettra sur le lobe de l'oreille droite de celui qui doit être purifié, et sur le pouce de sa main droite, et sur le gros orteil de son pied droit.",
+        "KJV": "And he shall kill the lamb of the trespass offering, and the priest shall take [some] of the blood of the trespass offering, and put [it] upon the tip of the right ear of him that is to be cleansed, and upon the thumb of his right hand, and upon the great toe of his right foot:",
+        "LSG": "Il égorgera l'agneau du sacrifice de culpabilité. Le sacrificateur prendra du sang de la victime de culpabilité; il en mettra sur le lobe de l'oreille droite de celui qui se purifie, sur le pouce de sa main droite et sur le gros orteil de son pied droit.",
+        "MAB": "Et il égorgera l'agneau de [l'offrande pour le] délit; puis le Sacrificateur prendra du sang de [l'offrande pour le] délit, et le mettra sur le mol de l'oreille droite de celui qui doit être nettoyé, et sur le pouce de sa main droite, et sur le gros orteil de son pied droit.",
+        "OST": "Puis il égorgera l'agneau du sacrifice pour le délit. Le sacrificateur prendra du sang du sacrifice pour le délit et en mettra sur le bout de l'oreille droite de celui qui se purifie, sur le pouce de sa main droite, et sur le gros orteil de son pied droit.",
+        "S21": "Il égorgera l'agneau du sacrifice de culpabilité, prendra du sang de la victime de culpabilité et en mettra sur le lobe de l'oreille droite de celui qui se purifie, sur le pouce de sa main droite et sur le gros orteil de son pied droit."
+      }
+    },
+    {
+      "verse": 26,
+      "texts": {
+        "BDS": "Il versera une partie de l’huile dans le creux de sa main gauche.",
+        "DBY": "Et le sacrificateur versera de l'huile dans la paume de sa main gauche, à lui, le sacrificateur;",
+        "KJV": "And the priest shall pour of the oil into the palm of his own left hand:",
+        "LSG": "Le sacrificateur versera de l'huile dans le creux de sa main gauche.",
+        "MAB": "Puis le Sacrificateur versera de l'huile dans la paume de sa main gauche.",
+        "OST": "Ensuite le sacrificateur se versera de l'huile dans la paume de sa main gauche.",
+        "S21": "Le prêtre versera de l'huile dans le creux de sa main gauche."
+      }
+    },
+    {
+      "verse": 27,
+      "texts": {
+        "BDS": "Il fera sept fois l’aspersion de l’huile qui est dans sa main devant l’Eternel avec son index droit.",
+        "DBY": "et avec le doigt de sa main droite, le sacrificateur fera aspersion de l'huile qui sera dans la paume de sa main gauche, sept fois, devant l'Éternel.",
+        "KJV": "And the priest shall sprinkle with his right finger [some] of the oil that [is] in his left hand seven times before the LORD:",
+        "LSG": "Le sacrificateur fera avec le doigt de sa main droite sept fois l'aspersion de l'huile qui est dans sa main gauche, devant l'Eternel.",
+        "MAB": "Et avec le doigt de sa main droite il fera aspersion de l'huile qui est dans sa main gauche, sept fois devant l'Eternel.",
+        "OST": "Et de l'huile qui sera dans sa main gauche, le sacrificateur fera aspersion avec le doigt de sa main droite, sept fois devant l'Éternel.",
+        "S21": "Il fera avec le doigt de sa main droite 7 fois l'aspersion de l'huile qui est dans sa main gauche devant l'Eternel."
+      }
+    },
+    {
+      "verse": 28,
+      "texts": {
+        "BDS": "Puis il appliquera un peu de cette huile sur le lobe de l’oreille droite de celui qui se purifie, sur le pouce de sa main droite et sur le gros orteil de son pied droit, à l’endroit où il a mis du sang de la victime du sacrifice de réparation.",
+        "DBY": "Et le sacrificateur mettra de l'huile qui sera dans sa paume, sur le lobe de l'oreille droite de celui qui doit être purifié, et sur le pouce de sa main droite, et sur le gros orteil de son pied droit, sur l'endroit où aura été mis le sang du sacrifice pour le délit;",
+        "KJV": "And the priest shall put of the oil that [is] in his hand upon the tip of the right ear of him that is to be cleansed, and upon the thumb of his right hand, and upon the great toe of his right foot, upon the place of the blood of the trespass offering:",
+        "LSG": "Le sacrificateur mettra de l'huile qui est dans sa main sur le lobe de l'oreille droite de celui qui se purifie, sur le pouce de sa main droite et sur le gros orteil de son pied droit, à la place où il a mis du sang de la victime de culpabilité.",
+        "MAB": "Et il mettra de cette huile qui est dans sa paume, sur le mol de l'oreille droite de celui qui doit être nettoyé, et sur le pouce de sa main droite, et sur le gros orteil de son pied droit, sur le lieu du sang pris de [l'offrande pour le] délit.",
+        "OST": "Et le sacrificateur mettra de l'huile qui sera dans sa main sur le bout de l'oreille droite de celui qui se purifie, sur le pouce de sa main droite, et sur le gros orteil de son pied droit, à l'endroit où il a mis du sang du sacrifice pour le délit.",
+        "S21": "Il mettra de l'huile qui est dans sa main sur le lobe de l'oreille droite de celui qui se purifie, sur le pouce de sa main droite et sur le gros orteil de son pied droit, là où il a mis du sang de la victime de culpabilité."
+      }
+    },
+    {
+      "verse": 29,
+      "texts": {
+        "BDS": "Il versera ce qui reste d’huile dans sa main sur la tête de celui qui se purifie, afin d’accomplir le rite d’expiation pour lui devant l’Eternel.",
+        "DBY": "et le reste de l'huile qui sera dans la paume du sacrificateur, il le mettra sur la tête de celui qui doit être purifié, pour faire propitiation pour lui devant l'Éternel.",
+        "KJV": "And the rest of the oil that [is] in the priest's hand he shall put upon the head of him that is to be cleansed, to make an atonement for him before the LORD.",
+        "LSG": "Le sacrificateur mettra ce qui lui reste d'huile dans la main sur la tête de celui qui se purifie, afin de faire pour lui l'expiation devant l'Eternel.",
+        "MAB": "Après il mettra le reste de l'huile qui est dans sa paume sur la tête de celui qui doit être nettoyé, afin de faire propitiation pour lui devant l'Eternel.",
+        "OST": "Ce qui restera de l'huile qui sera dans sa main, le sacrificateur le mettra sur la tête de celui qui se purifie, pour faire l'expiation pour lui, devant l'Éternel.",
+        "S21": "Le prêtre mettra ce qui lui reste d'huile dans la main sur la tête de celui qui se purifie afin de faire l'expiation pour lui devant l'Eternel."
+      }
+    },
+    {
+      "verse": 30,
+      "texts": {
+        "BDS": "Il offrira l’une des tourterelles ou l’un des pigeonneaux — selon ce que la personne a pu se procurer —",
+        "DBY": "Et, de ce que sa main aura pu atteindre, il offrira l'une des tourterelles, ou l'un des jeunes pigeons:",
+        "KJV": "And he shall offer the one of the turtledoves, or of the young pigeons, such as he can get;",
+        "LSG": "Puis il offrira l'une des tourterelles ou l'un des jeunes pigeons qu'il a pu se procurer,",
+        "MAB": "Puis il sacrifiera l'une des tourterelles, ou l'un des pigeonneaux, selon ce qu'il aura pu fournir.",
+        "OST": "Puis, il sacrifiera l'une des tourterelles ou l'un des pigeonneaux, suivant ce qu'il pourra présenter,",
+        "S21": "Puis il offrira l'une des tourterelles ou l'un des jeunes pigeons que la personne aura pu se procurer,"
+      }
+    },
+    {
+      "verse": 31,
+      "texts": {
+        "BDS": "comme sacrifice pour le péché, et l’autre comme holocauste accompagnant l’offrande. Le prêtre accomplira ainsi le rite d’expiation devant l’Eternel pour celui qui se purifie.",
+        "DBY": "de ce que sa main aura pu atteindre, l'un sera un sacrifice pour le péché, l'autre un holocauste, avec l'offrande de gâteau; et le sacrificateur fera propitiation pour celui qui doit être purifié, devant l'Éternel.",
+        "KJV": "[Even] such as he is able to get, the one [for] a sin offering, and the other [for] a burnt offering, with the meat offering: and the priest shall make an atonement for him that is to be cleansed before the LORD.",
+        "LSG": "l'un en sacrifice d'expiation, l'autre en holocauste, avec l'offrande; et le sacrificateur fera pour celui qui se purifie l'expiation devant l'Eternel.",
+        "MAB": "De ce donc qu'il aura pu fournir, l'un sera pour le péché, et l'autre pour l'holocauste, avec le gâteau ; ainsi le Sacrificateur fera propitiation devant l'Eternel pour celui qui doit être nettoyé.",
+        "OST": "Selon ses moyens, l'un en sacrifice pour le péché, l'autre en holocauste, avec l'offrande. Et le sacrificateur fera l'expiation devant l'Éternel pour celui qui se purifie.",
+        "S21": "l'un en sacrifice d'expiation, l'autre en holocauste avec l'offrande. C’est ainsi qu’il fera l'expiation devant l'Eternel pour celui qui se purifie.»"
+      }
+    },
+    {
+      "verse": 32,
+      "texts": {
+        "BDS": "Telle est la loi concernant l’homme atteint d’une maladie de peau évolutive dont les ressources sont insuffisantes pour sa purification.",
+        "DBY": "-Telle est la loi touchant celui en qui il y a une plaie de lèpre, et dont la main n'a pas su atteindre ce qui était ordonné pour sa purification.",
+        "KJV": "This [is] the law [of him] in whom [is] the plague of leprosy, whose hand is not able to get [that which pertaineth] to his cleansing.",
+        "LSG": "Telle est la loi pour la purification de celui qui a une plaie de lèpre, et dont les ressources sont insuffisantes.",
+        "MAB": "Telle est la loi de celui auquel il y a une plaie de lèpre, et qui n'a pas le moyen de fournir à sa purification.",
+        "OST": "Telle est la loi concernant celui qui a une plaie de lèpre, et dont les ressources sont insuffisantes quant à sa purification.",
+        "S21": "Telle est la loi pour la purification de celui qui a une plaie de lèpre et qui ne dispose pas de moyens suffisants."
+      }
+    },
+    {
+      "verse": 33,
+      "texts": {
+        "BDS": "L’Eternel parla à Moïse et à Aaron en ces termes:",
+        "DBY": "Et l'Éternel parla à Moïse et à Aaron, disant:",
+        "KJV": "And the LORD spake unto Moses and unto Aaron, saying,",
+        "LSG": "L'Eternel parla à Moïse et à Aaron, et dit:",
+        "MAB": "Puis l'Eternel parla à Moïse et à Aaron, en disant :",
+        "OST": "L'Éternel parla encore à Moïse et à Aaron, en disant:",
+        "S21": "L'Eternel dit à Moïse et à Aaron:"
+      }
+    },
+    {
+      "verse": 34,
+      "texts": {
+        "BDS": "—Lorsque vous serez entrés au pays de Canaan que je vous donne en propriété, si je produis une tache de moisissure, du genre lèpre, à une maison du pays que vous posséderez,",
+        "DBY": "Quand vous serez entrés dans le pays de Canaan, que je vous donne en possession, si je mets une plaie de lèpre dans une maison du pays de votre possession,",
+        "KJV": "When ye be come into the land of Canaan, which I give to you for a possession, and I put the plague of leprosy in a house of the land of your possession;",
+        "LSG": "Lorsque vous serez entrés dans le pays de Canaan, dont je vous donne la possession; si je mets une plaie de lèpre sur une maison du pays que vous posséderez,",
+        "MAB": "Quand vous serez entrés au pays de Canaan, que je vous donne en possession, si j'envoie une plaie de lèpre en quelque maison du pays que vous posséderez;",
+        "OST": "Quand vous serez entrés au pays de Canaan, dont je vous donne la possession, si je mets une plaie de lèpre dans une maison du pays que vous posséderez,",
+        "S21": "«Lorsque vous serez entrés dans le pays de Canaan dont je vous donne la possession, si je mets une plaie de lèpre sur une maison du pays que vous posséderez,"
+      }
+    },
+    {
+      "verse": 35,
+      "texts": {
+        "BDS": "le propriétaire de la maison ira déclarer au prêtre: «J’ai remarqué quelque chose qui ressemble à une tache de moisissure sur ma maison.»",
+        "DBY": "celui à qui sera la maison viendra et le fera savoir au sacrificateur, en disant: Il me semble voir comme une plaie dans ma maison;",
+        "KJV": "And he that owneth the house shall come and tell the priest, saying, It seemeth to me [there is] as it were a plague in the house:",
+        "LSG": "celui à qui appartiendra la maison ira le déclarer au sacrificateur, et dira: J'aperçois comme une plaie dans ma maison.",
+        "MAB": "Celui à qui la maison appartiendra viendra, et le fera savoir au Sacrificateur, en disant : Il me semble que j'aperçois comme une plaie en ma maison.",
+        "OST": "Celui à qui la maison appartient viendra et le déclarera au sacrificateur, en disant: J'aperçois comme une plaie dans la maison.",
+        "S21": "le propriétaire de la maison ira le déclarer au prêtre en disant: ‘J'aperçois comme une plaie dans ma maison.’"
+      }
+    },
+    {
+      "verse": 36,
+      "texts": {
+        "BDS": "Alors le prêtre ordonnera de vider la maison avant qu’il y entre pour examiner la tache, afin que tout ce qui est dans la maison ne devienne pas impur. Puis il entrera pour examiner la maison.",
+        "DBY": "et le sacrificateur commandera qu'on vide la maison avant que le sacrificateur entre pour voir la plaie, afin que tout ce qui est dans la maison ne soit pas rendu impur; et après cela, le sacrificateur entrera pour voir la maison.",
+        "KJV": "Then the priest shall command that they empty the house, before the priest go [into it] to see the plague, that all that [is] in the house be not made unclean: and afterward the priest shall go in to see the house:",
+        "LSG": "Le sacrificateur, avant d'y entrer pour examiner la plaie, ordonnera qu'on vide la maison, afin que tout ce qui y est ne devienne pas impur. Après cela, le sacrificateur entrera pour examiner la maison.",
+        "MAB": "Alors le Sacrificateur commandera qu'on vide la maison avant qu'il y entre pour regarder la plaie; afin que rien de ce qui est dans la maison ne soit souillé, puis le Sacrificateur entrera pour voir la maison.",
+        "OST": "Alors le sacrificateur commandera qu'on vide la maison, avant qu'il y entre pour voir la plaie, afin que tout ce qui est dans la maison ne soit pas souillé; après cela, le sacrificateur entrera pour voir la maison.",
+        "S21": "Avant d’entrer dans la maison pour examiner la plaie, le prêtre ordonnera qu'on la vide afin que tout ce qu’elle contient ne devienne pas impur. Après cela, il entrera pour examiner la maison."
+      }
+    },
+    {
+      "verse": 37,
+      "texts": {
+        "BDS": "Il examinera la tache: s’il voit qu’elle se présente sous forme de plaques verdâtres ou rougeâtres, formant un creux visible dans le mur,",
+        "DBY": "Et il regardera la plaie: et voici, la plaie est dans les murs de la maison, des creux verdâtres ou roussâtres, et ils paraissent plus enfoncés que la surface du mur;",
+        "KJV": "And he shall look on the plague, and, behold, [if] the plague [be] in the walls of the house with hollow strakes, greenish or reddish, which in sight [are] lower than the wall;",
+        "LSG": "Le sacrificateur examinera la plaie. S'il voit qu'elle offre sur les murs de la maison des cavités verdâtres ou rougeâtres, paraissant plus enfoncées que le mur,",
+        "MAB": "Et il regardera la plaie, et s'il aperçoit que la plaie qui est aux parois de la maison, ait quelques fossettes tirant sur le vert, ou roussâtres, qui soient, à les voir, plus enfoncées que la paroi;",
+        "OST": "Et il examinera la plaie; et si la plaie qui est aux parois de la maison a des cavités verdâtres ou rougeâtres, paraissant plus enfoncées que la paroi,",
+        "S21": "»Le prêtre examinera la plaie. S'il voit qu'elle se présente sur les murs de la maison sous forme de cavités verdâtres ou rougeâtres qui font un creux dans le mur,"
+      }
+    },
+    {
+      "verse": 38,
+      "texts": {
+        "BDS": "il sortira de la maison, se placera à l’entrée et mettra pour sept jours la maison sous séquestre.",
+        "DBY": "alors le sacrificateur sortira de la maison, à l'entrée de la maison, et fera fermer la maison pendant sept jours.",
+        "KJV": "Then the priest shall go out of the house to the door of the house, and shut up the house seven days:",
+        "LSG": "il sortira de la maison, et, quand il sera à la porte, il fera fermer la maison pour sept jours.",
+        "MAB": "Le Sacrificateur sortira de la maison, à l'entrée, et fera fermer la maison pendant sept jours.",
+        "OST": "Le sacrificateur sortira de la maison; et à la porte, il fermera la maison pendant sept jours.",
+        "S21": "il sortira de la maison et, quand il sera à la porte, il fera fermer la maison pour 7 jours."
+      }
+    },
+    {
+      "verse": 39,
+      "texts": {
+        "BDS": "Il y retournera le septième jour, et s’il constate que la tache s’est étendue sur les murs de la maison,",
+        "DBY": "Et le septième jour, le sacrificateur retournera, et regardera: et voici, la plaie s'est étendue dans les murs de la maison;",
+        "KJV": "And the priest shall come again the seventh day, and shall look: and, behold, [if] the plague be spread in the walls of the house;",
+        "LSG": "Le sacrificateur y retournera le septième jour. S'il voit que la plaie s'est étendue sur les murs de la maison,",
+        "MAB": "Et au septième jour le Sacrificateur retournera, et la regardera, et s'il aperçoit que la plaie se soit étendue sur les parois de la maison;",
+        "OST": "Le septième jour, le sacrificateur y retournera; et s'il voit que la plaie s'est étendue sur les parois de la maison,",
+        "S21": "Il y retournera le septième jour. S'il voit que la plaie s'est étendue sur les murs de la maison,"
+      }
+    },
+    {
+      "verse": 40,
+      "texts": {
+        "BDS": "il ordonnera d’arracher les pierres tachées et les fera jeter à l’extérieur de la ville dans un endroit impur.",
+        "DBY": "alors le sacrificateur commandera qu'on arrache les pierres dans lesquelles est la plaie, et qu'on les jette hors de la ville, dans un lieu impur.",
+        "KJV": "Then the priest shall command that they take away the stones in which the plague [is], and they shall cast them into an unclean place without the city:",
+        "LSG": "il ordonnera qu'on ôte les pierres attaquées de la plaie, et qu'on les jette hors de la ville, dans un lieu impur.",
+        "MAB": "Alors il commandera d'arracher les pierres, auxquelles est la plaie, et de les jeter hors de la ville dans un lieu souillé.",
+        "OST": "Le sacrificateur commandera d'arracher les pierres infectées de la plaie, et de les jeter hors de la ville, dans un lieu souillé.",
+        "S21": "il ordonnera qu'on enlève les pierres attaquées de la plaie et qu'on les jette à l’extérieur de la ville, dans un endroit impur."
+      }
+    },
+    {
+      "verse": 41,
+      "texts": {
+        "BDS": "Puis il fera racler toutes les parois intérieures et jeter le crépi ainsi arraché à l’extérieur de la ville dans un endroit impur.",
+        "DBY": "Et il fera racler la maison au dedans, tout autour, et la poussière qu'on aura raclée, on la versera hors de la ville, dans un lieu impur;",
+        "KJV": "And he shall cause the house to be scraped within round about, and they shall pour out the dust that they scrape off without the city into an unclean place:",
+        "LSG": "Il fera râcler tout l'intérieur de la maison; et l'on jettera hors de la ville, dans un lieu impur, la poussière qu'on aura râclée.",
+        "MAB": "Il fera aussi racler l'enduit de la maison par dedans tout à l'entour, et l'enduit qu'on aura raclé, on le jettera hors de la ville en un lieu souillé.",
+        "OST": "Il fera racler la maison à l'intérieur, tout autour, et l'on jettera la poussière qu'on aura raclée, hors de la ville, dans un lieu souillé.",
+        "S21": "Il fera racler tout l'intérieur de la maison et l'on jettera à l’extérieur de la ville, dans un endroit impur, la poussière qu'on aura raclée."
+      }
+    },
+    {
+      "verse": 42,
+      "texts": {
+        "BDS": "On remplacera les pierres enlevées par de nouvelles et l’on prendra un nouveau mortier pour recrépir la maison.",
+        "DBY": "et on prendra d'autres pierres, et on les mettra au lieu des premières pierres, et on prendra d'autre enduit, et on enduira la maison.",
+        "KJV": "And they shall take other stones, and put [them] in the place of those stones; and he shall take other morter, and shall plaister the house.",
+        "LSG": "On prendra d'autres pierres, que l'on mettra à la place des premières; et l'on prendra d'autre mortier, pour recrépir la maison.",
+        "MAB": "Puis on prendra d'autres pierres, et on les apportera au lieu des [premières] pierres, et on prendra d'autre mortier pour r'enduire la maison.",
+        "OST": "On prendra d'autres pierres et on les mettra à la place des premières, et l'on prendra d'autre enduit pour recrépir la maison.",
+        "S21": "On prendra d'autres pierres que l'on mettra à la place des premières et l'on prendra un autre mortier pour recrépir la maison."
+      }
+    },
+    {
+      "verse": 43,
+      "texts": {
+        "BDS": "Si la tache réapparaît dans la maison après qu’on a enlevé les pierres, raclé et recrépi les murs,",
+        "DBY": "Et si la plaie revient et fait éruption dans la maison après qu'on aura arraché les pierres, et après qu'on aura râclé la maison, et après qu'on l'aura enduite,",
+        "KJV": "And if the plague come again, and break out in the house, after that he hath taken away the stones, and after he hath scraped the house, and after it is plaistered;",
+        "LSG": "Si la plaie revient et fait éruption dans la maison, après qu'on a ôté les pierres, râclé et recrépi la maison,",
+        "MAB": "Mais si la plaie retourne et boutonne en la maison, après qu'on aura arraché les pierres, et après qu'on l'aura raclée, et r'enduite,",
+        "OST": "Mais si la plaie revient et fait éruption dans la maison après qu'on aura arraché les pierres, après qu'on aura raclé la maison et après qu'on l'aura recrépie,",
+        "S21": "»Si la plaie apparaît de nouveau dans la maison après qu'on a enlevé les pierres, raclé et recrépi la maison,"
+      }
+    },
+    {
+      "verse": 44,
+      "texts": {
+        "BDS": "le prêtre viendra l’examiner; s’il constate que la tache s’est étendue dans la maison, c’est une moisissure maligne, une sorte de «lèpre»: cette maison est impure.",
+        "DBY": "le sacrificateur entrera et regardera: et voici, la plaie s'est étendue dans la maison, -c'est une lèpre rongeante dans la maison: elle est impure.",
+        "KJV": "Then the priest shall come and look, and, behold, [if] the plague be spread in the house, it [is] a fretting leprosy in the house: it [is] unclean.",
+        "LSG": "le sacrificateur y retournera. S'il voit que la plaie s'est étendue dans la maison, c'est une lèpre invétérée dans la maison: elle est impure.",
+        "MAB": "Le Sacrificateur y entrera, et la regardera, et s'il aperçoit que la plaie soit accrue en la maison, c'est une lèpre rongeante en la maison; elle est souillée.",
+        "OST": "Le sacrificateur reviendra. S'il voit que la plaie s'est étendue dans la maison, c'est une lèpre rongeante dans la maison; elle est souillée.",
+        "S21": "le prêtre y retournera. S'il voit que la plaie s'est étendue dans la maison, c'est une lèpre durable dans la maison. Elle est impure."
+      }
+    },
+    {
+      "verse": 45,
+      "texts": {
+        "BDS": "On la démolira. Les pierres, sa charpente et tout son crépi seront transportés à l’extérieur de la ville dans un endroit impur.",
+        "DBY": "Alors on démolira la maison, ses pierres et son bois, avec tout l'enduit de la maison, et on les transportera hors de la ville, dans un lieu impur.",
+        "KJV": "And he shall break down the house, the stones of it, and the timber thereof, and all the morter of the house; and he shall carry [them] forth out of the city into an unclean place.",
+        "LSG": "On abattra la maison, les pierres, le bois, et tout le mortier de la maison; et l'on portera ces choses hors de la ville dans un lieu impur.",
+        "MAB": "On démolira donc la maison, ses pierres, et son bois, avec tout son mortier, et on les transportera hors de la ville en un lieu souillé.",
+        "OST": "On abattra donc la maison, ses pierres, ses bois, et tous les enduits de la maison, et on transportera le tout hors de la ville, dans un lieu souillé.",
+        "S21": "On démolira la maison, les pierres, le bois et tout le mortier de la maison. On portera ces éléments à l’extérieur de la ville dans un endroit impur."
+      }
+    },
+    {
+      "verse": 46,
+      "texts": {
+        "BDS": "Quiconque entrerait dans la maison durant toute la période où elle est sous séquestre sera impur jusqu’au soir.",
+        "DBY": "Et celui qui sera entré dans la maison pendant tous les jours où elle aura été fermée, sera impur jusqu'au soir;",
+        "KJV": "Moreover he that goeth into the house all the while that it is shut up shall be unclean until the even.",
+        "LSG": "Celui qui sera entré dans la maison pendant tout le temps qu'elle était fermée sera impur jusqu'au soir.",
+        "MAB": "Et si quelqu'un est entré dans la maison, pendant tout le temps que le Sacrificateur l'avait faite fermer, il sera souillé jusqu'au soir.",
+        "OST": "Celui qui sera entré dans la maison pendant tout le temps qu'elle était fermée sera souillé jusqu'au soir.",
+        "S21": "Si quelqu’un est entré dans la maison pendant toute la période où elle était fermée, il sera impur jusqu'au soir."
+      }
+    },
+    {
+      "verse": 47,
+      "texts": {
+        "BDS": "Celui qui y coucherait ou qui y mangerait, lavera ses vêtements.",
+        "DBY": "et celui qui aura couché dans la maison lavera ses vêtements; et celui qui aura mangé dans la maison lavera ses vêtements.",
+        "KJV": "And he that lieth in the house shall wash his clothes; and he that eateth in the house shall wash his clothes.",
+        "LSG": "Celui qui aura couché dans la maison lavera ses vêtements. Celui qui aura mangé dans la maison lavera aussi ses vêtements.",
+        "MAB": "Et celui qui dormira dans cette maison lavera ses vêtements; celui aussi qui mangera dans cette maison lavera ses vêtements.",
+        "OST": "Celui qui aura couché dans la maison, lavera ses vêtements. Celui qui aura mangé dans la maison, lavera ses vêtements.",
+        "S21": "Si quelqu’un y a couché, il lavera ses vêtements. Si quelqu’un y a mangé, il lavera aussi ses vêtements."
+      }
+    },
+    {
+      "verse": 48,
+      "texts": {
+        "BDS": "Mais si le prêtre, lorsqu’il vient, constate que la tache ne s’est pas étendue dans la maison après qu’elle a été recrépie, il la déclarera pure, car le mal est guéri.",
+        "DBY": "Mais si le sacrificateur entre, et regarde, et voici, la plaie ne s'est pas étendue dans la maison après que la maison a été enduite, le sacrificateur déclarera la maison pure, car la plaie est guérie.",
+        "KJV": "And if the priest shall come in, and look [upon it], and, behold, the plague hath not spread in the house, after the house was plaistered: then the priest shall pronounce the house clean, because the plague is healed.",
+        "LSG": "Si le sacrificateur, qui est retourné dans la maison, voit que la plaie ne s'est pas étendue, après que la maison a été recrépie, il déclarera la maison pure, car la plaie est guérie.",
+        "MAB": "Mais quand le Sacrificateur y sera entré, et qu'il aura aperçu que la plaie n'a point crû en cette maison, après l'avoir faite r'enduire, il jugera la maison nette ; car sa plaie est guérie.",
+        "OST": "Mais si le sacrificateur vient et voit que la plaie ne s'est pas étendue dans la maison, après que la maison a été recrépie, le sacrificateur déclarera la maison pure; car la plaie est guérie.",
+        "S21": "»Si le prêtre qui est retourné dans la maison voit que la plaie ne s'est pas étendue après que la maison a été recrépie, il déclarera la maison pure, car la plaie est guérie."
+      }
+    },
+    {
+      "verse": 49,
+      "texts": {
+        "BDS": "Il prendra, pour ôter la tare rituelle de la maison, deux petits oiseaux, du bois de cèdre, un fil de laine de rouge éclatant et une branche d’hysope.",
+        "DBY": "Et il prendra, pour purifier la maison, deux oiseaux, et du bois de cèdre, et de l'écarlate, et de l'hysope;",
+        "KJV": "And he shall take to cleanse the house two birds, and cedar wood, and scarlet, and hyssop:",
+        "LSG": "Il prendra, pour purifier la maison, deux oiseaux, du bois de cèdre, du cramoisi et de l'hysope.",
+        "MAB": "Alors il prendra pour purifier la maison, deux passereaux, du bois de cèdre, du cramoisi, et de l'hysope.",
+        "OST": "Il prendra, pour purifier la maison, deux oiseaux, du bois de cèdre, du cramoisi et de l'hysope;",
+        "S21": "Il prendra deux oiseaux, du bois de cèdre, du cramoisi et de l'hysope pour purifier la maison."
+      }
+    },
+    {
+      "verse": 50,
+      "texts": {
+        "BDS": "Il égorgera l’un des oiseaux au-dessus d’un récipient de terre cuite rempli d’eau de source.",
+        "DBY": "et il égorgera l'un des oiseaux sur un vase de terre, sur de l'eau vive;",
+        "KJV": "And he shall kill the one of the birds in an earthen vessel over running water:",
+        "LSG": "Il égorgera l'un des oiseaux sur un vase de terre, sur de l'eau vive.",
+        "MAB": "Et il coupera la gorge à l'un des passereaux sur un vaisseau de terre, sur de l'eau vive.",
+        "OST": "Il égorgera l'un des oiseaux sur un vase de terre, sur de l'eau vive;",
+        "S21": "Il égorgera l'un des oiseaux sur un vase de terre, sur de l'eau vive."
+      }
+    },
+    {
+      "verse": 51,
+      "texts": {
+        "BDS": "Puis il prendra le bois de cèdre, l’hysope, le fil de laine rouge et l’oiseau vivant, et il les trempera dans le sang de l’oiseau égorgé, mêlé à l’eau de source, et il en fera l’aspersion sept fois sur la maison.",
+        "DBY": "et il prendra le bois de cèdre, et l'hysope, et l'écarlate, et l'oiseau vivant, et les trempera dans le sang de l'oiseau égorgé, et dans l'eau vive; et il fera aspersion sur la maison, sept fois;",
+        "KJV": "And he shall take the cedar wood, and the hyssop, and the scarlet, and the living bird, and dip them in the blood of the slain bird, and in the running water, and sprinkle the house seven times:",
+        "LSG": "Il prendra le bois de cèdre, l'hysope, le cramoisi et l'oiseau vivant; il les trempera dans le sang de l'oiseau égorgé et dans l'eau vive, et il en fera sept fois l'aspersion sur la maison.",
+        "MAB": "Et il prendra le bois de cèdre, l'hysope, le cramoisi, et le passereau vivant, et trempera le tout dans le sang du passereau qu'on aura égorgé, et dans l'eau vive; puis il fera aspersion dans la maison par sept fois.",
+        "OST": "Il prendra le bois de cèdre, l'hysope, le cramoisi et l'oiseau vivant; il les trempera dans le sang de l'oiseau égorgé, et dans l'eau vive, et il en fera aspersion sur la maison, sept fois.",
+        "S21": "Il prendra le bois de cèdre, l'hysope, le cramoisi et l'oiseau vivant, les trempera dans le sang de l'oiseau égorgé et dans l'eau vive et fera 7 fois l'aspersion sur la maison."
+      }
+    },
+    {
+      "verse": 52,
+      "texts": {
+        "BDS": "Il ôtera ainsi l’impureté rituelle de la maison par le sang de l’oiseau, par l’eau de source, par l’oiseau vivant, le bois de cèdre, l’hysope et le fil de laine rouge.",
+        "DBY": "et il purifiera la maison avec le sang de l'oiseau et avec l'eau vive, et avec l'oiseau vivant, et avec le bois de cèdre, et avec l'hysope, et avec l'écarlate;",
+        "KJV": "And he shall cleanse the house with the blood of the bird, and with the running water, and with the living bird, and with the cedar wood, and with the hyssop, and with the scarlet:",
+        "LSG": "Il purifiera la maison avec le sang de l'oiseau, avec de l'eau vive, avec l'oiseau vivant, avec le bois de cèdre, l'hysope et le cramoisi.",
+        "MAB": "Il purifiera donc la maison avec le sang du passereau, et avec l'eau vive, et avec le passereau vivant, le bois de cèdre, l'hysope, et le cramoisi.",
+        "OST": "Il purifiera ainsi la maison avec le sang de l'oiseau, avec l'eau vive, avec l'oiseau vivant, le bois de cèdre, l'hysope et le cramoisi.",
+        "S21": "Il purifiera la maison avec le sang de l'oiseau, l'eau vive, l'oiseau vivant, le bois de cèdre, l'hysope et le cramoisi."
+      }
+    },
+    {
+      "verse": 53,
+      "texts": {
+        "BDS": "Ensuite il lâchera l’oiseau vivant à l’extérieur de la ville, dans la nature. C’est ainsi qu’il accomplira le rite d’expiation pour la maison et elle sera pure.",
+        "DBY": "et il lâchera l'oiseau vivant hors de la ville, dans les champs. Et il fera propitiation pour la maison, et elle sera pure.",
+        "KJV": "But he shall let go the living bird out of the city into the open fields, and make an atonement for the house: and it shall be clean.",
+        "LSG": "Il lâchera l'oiseau vivant hors de la ville, dans les champs. C'est ainsi qu'il fera pour la maison l'expiation, et elle sera pure.",
+        "MAB": "Puis il laissera aller hors de la ville par les champs le passereau vivant, et il fera propitiation pour la maison; et elle sera nette.",
+        "OST": "Puis il lâchera l'oiseau vivant hors de la ville dans les champs; et il fera l'expiation pour la maison, et elle sera pure.",
+        "S21": "Il lâchera l'oiseau vivant à l’extérieur de la ville, dans les champs. C'est ainsi qu'il fera l'expiation pour la maison et elle sera pure.»"
+      }
+    },
+    {
+      "verse": 54,
+      "texts": {
+        "BDS": "—Telle est la loi concernant toute affection du genre lèpre et teigne,",
+        "DBY": "Telle est la loi touchant toute la plaie de lèpre, et la teigne,",
+        "KJV": "This [is] the law for all manner of plague of leprosy, and scall,",
+        "LSG": "Telle est la loi pour toute plaie de lèpre et pour la teigne,",
+        "MAB": "Telle est la loi de toute plaie de lèpre, et de teigne;",
+        "OST": "Telle est la loi concernant toute plaie de lèpre et la teigne,",
+        "S21": "Telle est la loi pour toute plaie de lèpre et pour la teigne,"
+      }
+    },
+    {
+      "verse": 55,
+      "texts": {
+        "BDS": "concernant la moisissure à caractère évolutif sur les tissus et dans les maisons,",
+        "DBY": "et touchant la lèpre des vêtements et des maisons,",
+        "KJV": "And for the leprosy of a garment, and of a house,",
+        "LSG": "pour la lèpre des vêtements et des maisons,",
+        "MAB": "De lèpre de vêtement, et de maison;",
+        "OST": "Pour la lèpre du vêtement et de la maison;",
+        "S21": "pour la lèpre des vêtements et des maisons,"
+      }
+    },
+    {
+      "verse": 56,
+      "texts": {
+        "BDS": "les boursouflures, les dartres et les taches.",
+        "DBY": "et les tumeurs, et les dartres, et les taches blanchâtres,",
+        "KJV": "And for a rising, and for a scab, and for a bright spot:",
+        "LSG": "pour les tumeurs, les dartres et les taches:",
+        "MAB": "De tumeur, de gâle, et de bouton;",
+        "OST": "Pour la tumeur, l'éruption et les taches;",
+        "S21": "pour les grosseurs, les dartres et les taches:"
+      }
+    },
+    {
+      "verse": 57,
+      "texts": {
+        "BDS": "Cette loi permet de déterminer si une personne ou un objet est rituellement pur ou impur. Telle est la loi concernant toutes les formes de «lèpre».",
+        "DBY": "pour enseigner en quel temps il y a impureté et en quel temps il y a pureté: telle est la loi de la lèpre.",
+        "KJV": "To teach when [it is] unclean, and when [it is] clean: this [is] the law of leprosy.",
+        "LSG": "elle enseigne quand une chose est impure, et quand elle est pure. Telle est la loi sur la lèpre.",
+        "MAB": "Pour enseigner en quel temps une chose est souillée, et en quel temps elle est nette; telle est la loi de la lèpre.",
+        "OST": "Afin d'enseigner quand il y a souillure, et quand il y a pureté. Telle est la loi concernant la lèpre.",
+        "S21": "elle enseigne quand une chose est impure et quand elle est pure. Telle est la loi sur la lèpre."
+      }
+    }
+  ]
+}

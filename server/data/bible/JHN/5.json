@@ -1,0 +1,569 @@
+{
+  "bookCode": "JHN",
+  "chapter": 5,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "Quelque temps plus tard, Jésus remonta à Jérusalem à l’occasion d’une fête juive.",
+        "DBY": "Après ces choses, il y avait une fête des Juifs, et Jésus monta à Jérusalem.",
+        "KJV": "After this there was a feast of the Jews; and Jesus went up to Jerusalem.",
+        "LSG": "Après cela, il y eut une fête des Juifs, et Jésus monta à Jérusalem.",
+        "MAB": "Après ces choses il y avait une fête des Juifs, et Jésus monta à Jérusalem.",
+        "OST": "Après cela, venait une fête des Juifs, et Jésus monta à Jérusalem.",
+        "S21": "Après cela, il y eut une fête juive et Jésus monta à Jérusalem."
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "Or, dans cette ville, près de la Porte des Brebis, se trouvait une piscine entourée de cinq galeries couvertes, appelée en hébreu Béthesda.",
+        "DBY": "Or il y a à Jérusalem, près de la porte des brebis, un réservoir d'eau, appelé en hébreu Béthesda, ayant cinq portiques,",
+        "KJV": "Now there is at Jerusalem by the sheep [market] a pool, which is called in the Hebrew tongue Bethesda, having five porches.",
+        "LSG": "Or, à Jérusalem, près de la porte des brebis, il y a une piscine qui s'appelle en hébreu Béthesda, et qui a cinq portiques.",
+        "MAB": "Or il y a à Jérusalem, au marché aux brebis, un lavoir appelé en Hébreu Béthesda ayant cinq portiques;",
+        "OST": "Or, il y a à Jérusalem, près de la porte des Brebis, un réservoir, appelé en hébreu Béthesda, qui a cinq portiques.",
+        "S21": "Or à Jérusalem, près de la porte des brebis, il y a une piscine qui s'appelle en hébreu Béthesda et qui a cinq portiques."
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "Ces galeries étaient remplies de malades qui y restaient couchés: des aveugles, des paralysés, des impotents.",
+        "DBY": "dans lesquels étaient couchés une multitude d'infirmes, d'aveugles, de boiteux et de gens qui avaient les membres secs, attendant le mouvement de l'eau.",
+        "KJV": "In these lay a great multitude of impotent folk, of blind, halt, withered, waiting for the moving of the water.",
+        "LSG": "Sous ces portiques étaient couchés en grand nombre des malades, des aveugles, des boiteux, des paralytiques, qui attendaient le mouvement de l'eau;",
+        "MAB": "Dans lesquels gisait un grand nombre de malades, d'aveugles, de boiteux, [et de gens] qui avaient les membres secs, attendant le mouvement de l'eau.",
+        "OST": "Là étaient couchés un grand nombre de malades, d'aveugles, de boiteux et de paralytiques qui attendaient le mouvement de l'eau.",
+        "S21": "Sous ces portiques un grand nombre de malades étaient couchés: des aveugles, des boiteux, des paralysés; [ils attendaient le mouvement de l'eau,]"
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "Il y avait là un homme malade depuis trente-huit ans.",
+        "DBY": "Car à de certaines saisons un ange descendait dans le réservoir et agitait l'eau; le premier donc qui entrait après que l'eau avait été agitée, était guéri, de quelque maladie qu'il fût pris.",
+        "KJV": "For an angel went down at a certain season into the pool, and troubled the water: whosoever then first after the troubling of the water stepped in was made whole of whatsoever disease he had.",
+        "LSG": "car un ange descendait de temps en temps dans la piscine, et agitait l'eau; et celui qui y descendait le premier après que l'eau avait été agitée était guéri, quelle que fût sa maladie.",
+        "MAB": "Car un Ange descendait en certains temps au lavoir, et troublait l'eau; et alors le premier qui descendait au lavoir après que l'eau en avait été troublée, était guéri, de quelque maladie qu'il fût détenu.",
+        "OST": "Car un ange descendait, à un certain moment, dans le réservoir, et troublait l'eau. Le premier donc qui entrait, après que l'eau avait été troublée, était guéri, de quelque maladie qu'il fût atteint.",
+        "S21": "[car un ange descendait de temps en temps dans la piscine et agitait l'eau; et le premier qui descendait dans l'eau après qu'elle avait été agitée était guéri, quelle que soit sa maladie.]"
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "Jésus le vit couché; quand il sut qu’il était là depuis si longtemps, il lui demanda:\r\n—Veux-tu être guéri?",
+        "DBY": "Or il y avait là un homme infirme depuis trente-huit ans.",
+        "KJV": "And a certain man was there, which had an infirmity thirty and eight years.",
+        "LSG": "Là se trouvait un homme malade depuis trente-huit ans.",
+        "MAB": "Or il y avait là un homme malade depuis trente-huit ans.",
+        "OST": "Or, il y avait là un homme qui était malade depuis trente-huit ans;",
+        "S21": "Là se trouvait un homme infirme depuis 38 ans."
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "—Maître, répondit le malade, je n’ai personne pour me plonger dans la piscine quand l’eau commence à bouillonner. Le temps que je me traîne là-bas, un autre y arrive avant moi.",
+        "DBY": "Jésus, le voyant couché là, et sachant qu'il était dans cet état déjà depuis longtemps, lui dit: Veux-tu être guéri?",
+        "KJV": "When Jesus saw him lie, and knew that he had been now a long time [in that case], he saith unto him, ‹Wilt thou be made whole?›",
+        "LSG": "Jésus, l'ayant vu couché, et sachant qu'il était malade depuis longtemps, lui dit: Veux-tu être guéri?",
+        "MAB": "[Et] Jésus le voyant couché par terre, et connaissant qu'il avait déjà été là longtemps, lui dit : veux-tu être guéri?",
+        "OST": "Jésus le voyant couché, et sachant qu'il était déjà malade depuis longtemps, lui dit: Veux-tu être guéri?",
+        "S21": "Jésus le vit couché et, sachant qu'il était malade depuis longtemps, il lui dit: «Veux-tu être guéri?»"
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "—Eh bien, lui dit Jésus, lève-toi, prends ta natte et marche.",
+        "DBY": "Le malade lui répondit: Seigneur, je n'ai personne qui, lorsque l'eau a été agitée, me jette dans le réservoir; et, pendant que moi je viens, un autre descend avant moi.",
+        "KJV": "The impotent man answered him, Sir, I have no man, when the water is troubled, to put me into the pool: but while I am coming, another steppeth down before me.",
+        "LSG": "Le malade lui répondit: Seigneur, je n'ai personne pour me jeter dans la piscine quand l'eau est agitée, et, pendant que j'y vais, un autre descend avant moi.",
+        "MAB": "Le malade lui répondit : Seigneur, je n'ai personne qui me jette au lavoir quand l'eau est troublée, et pendant que j'y viens, un autre y descend avant moi.",
+        "OST": "Le malade lui répondit: Seigneur, je n'ai personne pour me jeter dans le réservoir quand l'eau est troublée, et, pendant que j'y vais, un autre y descend avant moi.",
+        "S21": "L'infirme lui répondit: «Seigneur, je n'ai personne pour me plonger dans la piscine quand l'eau est agitée, et pendant que j'y vais, un autre descend avant moi.»"
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "A l’instant même l’homme fut guéri. Il prit sa natte et se mit à marcher.\r\nMais cela se passait un jour de sabbat.",
+        "DBY": "Jésus lui dit: Lève-toi, prends ton petit lit, et marche.",
+        "KJV": "Jesus saith unto him, ‹Rise, take up thy bed, and walk.›",
+        "LSG": "Lève-toi, lui dit Jésus, prends ton lit, et marche.",
+        "MAB": "Jésus lui dit : lève-toi, charge ton petit lit, et marche.",
+        "OST": "Jésus lui dit: Lève-toi, emporte ton lit, et marche.",
+        "S21": "«Lève-toi, lui dit Jésus, prends ton brancard et marche.»"
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "Les responsables des Juifs interpellèrent donc l’homme qui venait d’être guéri:\r\n—C’est le sabbat! Tu n’as pas le droit de porter cette natte.",
+        "DBY": "Et aussitôt l'homme fut guéri, et il prit son petit lit, et marcha. Or c'était sabbat ce jour-là.",
+        "KJV": "And immediately the man was made whole, and took up his bed, and walked: and on the same day was the sabbath.",
+        "LSG": "Aussitôt cet homme fut guéri; il prit son lit, et marcha. C'était un jour de sabbat.",
+        "MAB": "Et sur-le-champ l'homme fut guéri, et chargea son petit lit, et il marchait. Or c'était [un jour] de Sabbat.",
+        "OST": "Et aussitôt l'homme fut guéri; et il prit son lit, et marcha. Or, ce jour-là était un sabbat.",
+        "S21": "Aussitôt cet homme fut guéri; il prit son brancard et se mit à marcher."
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "—Mais, répliqua-t-il, celui qui m’a guéri m’a dit: «Prends ta natte et marche.»",
+        "DBY": "Les Juifs donc dirent à celui qui avait été guéri: C'est un jour de sabbat; il ne t'est pas permis de prendre ton petit lit.",
+        "KJV": "The Jews therefore said unto him that was cured, It is the sabbath day: it is not lawful for thee to carry [thy] bed.",
+        "LSG": "Les Juifs dirent donc à celui qui avait été guéri: C'est le sabbat; il ne t'est pas permis d'emporter ton lit.",
+        "MAB": "Les Juifs donc dirent à celui qui avait été guéri : c'est [un jour] de Sabbat, il ne t'est pas permis de charger ton petit lit.",
+        "OST": "Les Juifs disaient donc à celui qui avait été guéri: C'est le sabbat; il ne t'est pas permis d'emporter ton lit.",
+        "S21": "C'était un jour de sabbat. Les Juifs dirent donc à celui qui avait été guéri: «C'est le sabbat; il ne t'est pas permis de porter ton brancard.»"
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "—Et qui t’a dit cela? lui demandèrent-ils.",
+        "DBY": "Il leur répondit: Celui qui m'a guéri, celui-là m'a dit: Prends ton petit lit, et marche.",
+        "KJV": "He answered them, He that made me whole, the same said unto me, Take up thy bed, and walk.",
+        "LSG": "Il leur répondit: Celui qui m'a guéri m'a dit: Prends ton lit, et marche.",
+        "MAB": "Il leur répondit : celui qui m'a guéri m'a dit : charge ton petit lit, et marche.",
+        "OST": "Il leur répondit: Celui qui m'a guéri, m'a dit: Emporte ton lit, et marche.",
+        "S21": "Il leur répondit: «Celui qui m'a guéri m'a dit: ‘Prends ton brancard et marche.’»"
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "Mais l’homme qui avait été guéri ignorait qui c’était, car Jésus avait disparu dans la foule qui se pressait en cet endroit.",
+        "DBY": "Ils lui demandèrent donc: Qui est l'homme qui t'a dit: Prends ton petit lit, et marche?",
+        "KJV": "Then asked they him, What man is that which said unto thee, Take up thy bed, and walk?",
+        "LSG": "Ils lui demandèrent: Qui est l'homme qui t'a dit: Prends ton lit, et marche?",
+        "MAB": "Alors ils lui demandèrent : qui est celui qui t'a dit : charge ton petit lit, et marche?",
+        "OST": "Ils lui demandèrent donc: Qui est cet homme qui t'a dit: Emporte ton lit, et marche?",
+        "S21": "Ils lui demandèrent: «Qui est l'homme qui t'a dit: ‘Prends [ton brancard] et marche’?»"
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "Peu de temps après, Jésus le rencontra dans la cour du Temple.\r\n—Te voilà guéri, lui dit-il. Mais veille à ne plus pécher, pour qu’il ne t’arrive rien de pire.",
+        "DBY": "Mais celui qui avait été guéri ne savait pas qui c'était; car Jésus s'était retiré de là, une foule se trouvant dans ce lieu.",
+        "KJV": "And he that was healed wist not who it was: for Jesus had conveyed himself away, a multitude being in [that] place.",
+        "LSG": "Mais celui qui avait été guéri ne savait pas qui c'était; car Jésus avait disparu de la foule qui était en ce lieu.",
+        "MAB": "Mais celui qui avait été guéri ne savait pas qui c'était : car Jésus s'était éclipsé du milieu de la foule qui était en ce lieu-là.",
+        "OST": "Mais celui qui avait été guéri ne savait qui c'était; car Jésus s'était retiré secrètement, parce qu'il y avait foule en ce lieu-là.",
+        "S21": "Mais celui qui avait été guéri ne savait pas qui c'était, car Jésus avait disparu dans la foule qui était à cet endroit."
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "Et l’homme alla annoncer aux chefs des Juifs que c’était Jésus qui l’avait guéri.",
+        "DBY": "Après ces choses, Jésus le trouva dans le temple, et lui dit: Voici, tu es guéri; ne pèche plus, de peur que pis ne t'arrive.",
+        "KJV": "Afterward Jesus findeth him in the temple, and said unto him, ‹Behold, thou art made whole: sin no more, lest a worse thing come unto thee.›",
+        "LSG": "Depuis, Jésus le trouva dans le temple, et lui dit: Voici, tu as été guéri; ne pèche plus, de peur qu'il ne t'arrive quelque chose de pire.",
+        "MAB": "Depuis, Jésus le trouva au Temple, et lui dit : voici, tu as été guéri; ne pèche plus désormais, de peur que pis ne t'arrive.",
+        "OST": "Après cela, Jésus le trouva dans le temple, et lui dit: Voilà, tu as été guéri; ne pèche plus, de peur qu'il ne t'arrive quelque chose de pire.",
+        "S21": "Quelque temps plus tard, Jésus le retrouva dans le temple et lui dit: «Te voilà guéri. Ne pèche plus, de peur qu'il ne t'arrive quelque chose de pire.»"
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "Les chefs des Juifs se mirent donc à accuser Jésus parce qu’il avait fait cela le jour du sabbat.",
+        "DBY": "L'homme s'en alla et annonça aux Juifs que c'était Jésus qui l'avait guéri.",
+        "KJV": "The man departed, and told the Jews that it was Jesus, which had made him whole.",
+        "LSG": "Cet homme s'en alla, et annonça aux Juifs que c'était Jésus qui l'avait guéri.",
+        "MAB": "Cet homme s'en alla, et rapporta aux Juifs que c'était Jésus qui l'avait guéri.",
+        "OST": "Cet homme s'en alla et rapporta aux Juifs que c'était Jésus qui l'avait guéri.",
+        "S21": "Cet homme s'en alla annoncer aux Juifs que c'était Jésus qui l'avait guéri."
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "Jésus leur répondit:\r\n—Mon Père est à l’œuvre jusqu’à présent, et moi aussi je suis à l’œuvre.",
+        "DBY": "à cause de cela les Juifs persécutaient Jésus et cherchaient à le faire mourir, parce qu'il avait fait ces choses en un jour de sabbat.",
+        "KJV": "And therefore did the Jews persecute Jesus, and sought to slay him, because he had done these things on the sabbath day.",
+        "LSG": "C'est pourquoi les Juifs poursuivaient Jésus, parce qu'il faisait ces choses le jour du sabbat.",
+        "MAB": "C'est pourquoi les Juifs poursuivaient Jésus, et cherchaient à le faire mourir, parce qu'il avait fait ces choses [le jour du] Sabbat.",
+        "OST": "A cause de cela, les Juifs poursuivaient Jésus, et cherchaient à le faire mourir, parce qu'il avait fait cela le jour du sabbat.",
+        "S21": "C'est pourquoi les Juifs poursuivaient Jésus [et cherchaient à le faire mourir], parce qu'il avait fait cela le jour du sabbat."
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "Cette remarque fut pour eux une raison de plus pour chercher à le faire mourir car, non content de violer la loi sur le sabbat, il appelait encore Dieu son propre Père et se faisait ainsi l’égal de Dieu.",
+        "DBY": "Mais Jésus leur répondit: Mon Père travaille jusqu'à maintenant, et moi je travaille.",
+        "KJV": "But Jesus answered them, ‹My Father worketh hitherto, and I work.›",
+        "LSG": "Mais Jésus leur répondit: Mon Père agit jusqu'à présent; moi aussi, j'agis.",
+        "MAB": "Mais Jésus leur répondit : mon Père travaille jusqu'à maintenant, et je travaille aussi.",
+        "OST": "Mais Jésus leur dit: Mon Père travaille jusqu'à maintenant, et je travaille aussi.",
+        "S21": "Cependant, Jésus leur répondit: «Mon Père est à l'œuvre jusqu'à présent; moi aussi, je suis à l'œuvre.»"
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "Jésus répondit à ces reproches en leur disant:\r\n—Vraiment, je vous l’assure: le Fils ne peut rien faire de sa propre initiative; il agit seulement d’après ce qu’il voit faire au Père. Tout ce que fait le Père, le Fils le fait également,",
+        "DBY": "A cause de cela donc les Juifs cherchaient d'autant plus à le faire mourir, parce que non-seulement il violait le sabbat, mais aussi parce qu'il disait que Dieu était son propre Père, se faisant égal à Dieu.",
+        "KJV": "Therefore the Jews sought the more to kill him, because he not only had broken the sabbath, but said also that God was his Father, making himself equal with God.",
+        "LSG": "A cause de cela, les Juifs cherchaient encore plus à le faire mourir, non seulement parce qu'il violait le sabbat, mais parce qu'il appelait Dieu son propre Père, se faisant lui-même égal à Dieu.",
+        "MAB": "Et à cause de cela les Juifs tâchaient encore plus de le faire mourir, parce que non seulement il avait violé le Sabbat, mais aussi parce qu'il disait que Dieu était son propre Père, se faisant égal à Dieu.",
+        "OST": "A cause de cela, les Juifs cherchaient encore plus à le faire mourir, non seulement parce qu'il violait le sabbat, mais encore parce qu'il appelait Dieu son propre Père, se faisant lui-même égal à Dieu.",
+        "S21": "Voilà pourquoi les Juifs cherchaient encore plus à le faire mourir: parce que non seulement il violait le sabbat, mais il appelait aussi Dieu son propre Père, se faisant lui-même égal à Dieu."
+      }
+    },
+    {
+      "verse": 19,
+      "texts": {
+        "BDS": "car le Père aime le Fils et lui montre tout ce qu’il fait. Il lui donnera même le pouvoir d’accomplir des œuvres plus grandes que toutes celles que vous avez vues jusqu’à présent, et vous en serez stupéfaits.",
+        "DBY": "Jésus donc répondit et leur dit: En vérité, en vérité, je vous dis: Le Fils ne peut rien faire de lui-même, à moins qu'il ne voie faire une chose au Père, car quelque chose que celui-ci fasse, cela, le Fils aussi de même le fait.",
+        "KJV": "Then answered Jesus and said unto them, ‹Verily, verily, I say unto you, The Son can do nothing of himself, but what he seeth the Father do: for what things soever he doeth, these also doeth the Son likewise.›",
+        "LSG": "Jésus reprit donc la parole, et leur dit: En vérité, en vérité, je vous le dis, le Fils ne peut rien faire de lui-même, il ne fait que ce qu'il voit faire au Père; et tout ce que le Père fait, le Fils aussi le fait pareillement.",
+        "MAB": "Mais Jésus répondit, et leur dit : en vérité, en vérité je vous dis, que le Fils ne peut rien faire de soi-même, sinon qu'il le voie faire au Père : car quelque chose que le Père fasse, le Fils aussi le fait de même.",
+        "OST": "Jésus prenant la parole, leur dit: En vérité, en vérité je vous dis, que le Fils ne peut rien faire de lui-même, à moins qu'il ne le voit faire au Père; car tout ce que le Père fait, le Fils aussi le fait pareillement.",
+        "S21": "Jésus reprit donc la parole et leur dit: «En vérité, en vérité, je vous le dis, le Fils ne peut rien faire de lui-même, sinon ce qu'il voit le Père accomplir. Tout ce que le Père fait, le Fils aussi le fait pareillement."
+      }
+    },
+    {
+      "verse": 20,
+      "texts": {
+        "BDS": "En effet, comme le Père relève les morts et leur rend la vie, ainsi le Fils, lui aussi, donne la vie à qui il veut.",
+        "DBY": "Car le Père aime le Fils, et lui montre toutes les choses qu'il fait lui-même, et il lui montrera des œuvres plus grandes que celles-ci, afin que vous soyez dans l'admiration.",
+        "KJV": "‹For the Father loveth the Son, and sheweth him all things that himself doeth: and he will shew him greater works than these, that ye may marvel.›",
+        "LSG": "Car le Père aime le Fils, et lui montre tout ce qu'il fait; et il lui montrera des oeuvres plus grandes que celles-ci, afin que vous soyez dans l'étonnement.",
+        "MAB": "Car le Père aime le Fils, et lui montre toutes les choses qu'il fait; et il lui montrera de plus grandes œuvres que celle-ci, afin que vous en soyez dans l'admiration.",
+        "OST": "Car le Père aime le Fils, et lui montre tout ce qu'il fait. Et il lui montrera des ouvres plus grandes que celles-ci, afin que vous soyez dans l'admiration.",
+        "S21": "En effet, le Père aime le Fils et lui montre tout ce que lui-même fait, et il lui montrera des œuvres plus grandes que celles-ci, afin que vous soyez dans l'étonnement."
+      }
+    },
+    {
+      "verse": 21,
+      "texts": {
+        "BDS": "De plus, ce n’est pas le Père qui prononce le jugement sur les hommes; il a remis tout jugement au Fils,",
+        "DBY": "Car comme le Père réveille les morts et les vivifie, de même aussi le Fils vivifie ceux qu'il veut;",
+        "KJV": "‹For as the Father raiseth up the dead, and quickeneth› [them]; ‹even so the Son quickeneth whom he will.›",
+        "LSG": "Car, comme le Père ressuscite les morts et donne la vie, ainsi le Fils donne la vie à qui il veut.",
+        "MAB": "Car comme le Père ressuscite les morts et les vivifie, de même aussi le Fils vivifie ceux qu'il veut.",
+        "OST": "Car, comme le Père ressuscite les morts et donne la vie, de même aussi le Fils donne la vie à ceux qu'il veut.",
+        "S21": "En effet, tout comme le Père ressuscite les morts et donne la vie, le Fils aussi donne la vie à qui il veut."
+      }
+    },
+    {
+      "verse": 22,
+      "texts": {
+        "BDS": "afin que tous les hommes honorent le Fils au même titre que le Père. Ne pas honorer le Fils, c’est ne pas honorer le Père qui l’a envoyé.",
+        "DBY": "car aussi le Père ne juge personne, mais il a donné tout le jugement au Fils;",
+        "KJV": "‹For the Father judgeth no man, but hath committed all judgment unto the Son:›",
+        "LSG": "Le Père ne juge personne, mais il a remis tout jugement au Fils,",
+        "MAB": "Car le Père ne juge personne; mais il a donné tout jugement au Fils;",
+        "OST": "Le Père ne juge personne, mais il a donné au Fils tout le jugement.",
+        "S21": "Le Père ne juge personne, mais il a remis tout jugement au Fils"
+      }
+    },
+    {
+      "verse": 23,
+      "texts": {
+        "BDS": "Oui, vraiment, je vous l’assure: celui qui écoute ce que je dis et qui place sa confiance dans le Père qui m’a envoyé, possède, dès à présent, la vie éternelle et il ne sera pas condamné; il est déjà passé de la mort à la vie.",
+        "DBY": "afin que tous honorent le Fils comme ils honorent le Père. Celui qui n'honore pas le Fils, n'honore pas le Père qui l'a envoyé.",
+        "KJV": "‹That all› [men] ‹should honour the Son, even as they honour the Father. He that honoureth not the Son honoureth not the Father which hath sent him.›",
+        "LSG": "afin que tous honorent le Fils comme ils honorent le Père. Celui qui n'honore pas le Fils n'honore pas le Père qui l'a envoyé.",
+        "MAB": "Afin que tous honorent le Fils, comme ils honorent le Père; celui qui n'honore point le Fils, n'honore point le Père qui l'a envoyé.",
+        "OST": "Afin que tous honorent le Fils, comme ils honorent le Père. Celui qui n'honore pas le Fils n'honore pas le Père qui l'a envoyé.",
+        "S21": "afin que tous honorent le Fils comme ils honorent le Père. Celui qui n'honore pas le Fils n'honore pas le Père qui l'a envoyé."
+      }
+    },
+    {
+      "verse": 24,
+      "texts": {
+        "BDS": "Oui, vraiment, je vous l’assure: l’heure vient, et elle est déjà là, où les morts entendront la voix du Fils de Dieu, et tous ceux qui l’auront entendue vivront.",
+        "DBY": "En vérité, en vérité, je vous dis que celui qui entend ma parole, et qui croit celui qui m'a envoyé, a la vie éternelle et ne vient pas en jugement; mais il est passé de la mort à la vie.",
+        "KJV": "‹Verily, verily, I say unto you, He that heareth my word, and believeth on him that sent me, hath everlasting life, and shall not come into condemnation; but is passed from death unto life.›",
+        "LSG": "En vérité, en vérité, je vous le dis, celui qui écoute ma parole, et qui croit à celui qui m'a envoyé, a la vie éternelle et ne vient point en jugement, mais il est passé de la mort à la vie.",
+        "MAB": "En vérité, en vérité je vous dis : que celui qui entend ma parole, et croit à celui qui m'a envoyé, a la vie éternelle, et il ne sera point exposé à la condamnation, mais il est passé de la mort à la vie.",
+        "OST": "En vérité, en vérité je vous dis, que celui qui écoute ma parole, et qui croit à celui qui m'a envoyé, a la vie éternelle, et il ne vient point en jugement, mais il est passé de la mort à la vie.",
+        "S21": "En vérité, en vérité, je vous le dis, celui qui écoute ma parole et qui croit à celui qui m'a envoyé a la vie éternelle; il ne vient pas en jugement, mais il est passé de la mort à la vie."
+      }
+    },
+    {
+      "verse": 25,
+      "texts": {
+        "BDS": "En effet, comme le Père possède la vie en lui-même, il a accordé au Fils d’avoir la vie en lui-même.",
+        "DBY": "En vérité, en vérité, je vous dis que l'heure vient, et elle est maintenant, que les morts entendront la voix du Fils de Dieu, et ceux qui l'auront entendue vivront.",
+        "KJV": "‹Verily, verily, I say unto you, The hour is coming, and now is, when the dead shall hear the voice of the Son of God: and they that hear shall live.›",
+        "LSG": "En vérité, en vérité, je vous le dis, l'heure vient, et elle est déjà venue, où les morts entendront la voix du Fils de Dieu; et ceux qui l'auront entendue vivront.",
+        "MAB": "En vérité, en vérité je vous dis : que l'heure vient, et elle est même déjà [venue], que les morts entendront la voix du Fils de Dieu, et ceux qui l'auront entendue, vivront.",
+        "OST": "En vérité, en vérité je vous le dis, le temps vient, et il est déjà venu, que les morts entendront la voix du Fils de Dieu, et que ceux qui l'auront entendue vivront.",
+        "S21": "En vérité, en vérité, je vous le dis, l'heure vient, et elle est déjà là, où les morts entendront la voix du Fils de Dieu, et ceux qui l'auront entendue vivront."
+      }
+    },
+    {
+      "verse": 26,
+      "texts": {
+        "BDS": "Et parce qu’il est le Fils de l’homme, il lui a donné autorité pour exercer le jugement.",
+        "DBY": "Car comme le Père a la vie en lui-même, ainsi il a donné au Fils aussi d'avoir la vie en lui-même;",
+        "KJV": "‹For as the Father hath life in himself; so hath he given to the Son to have life in himself;›",
+        "LSG": "Car, comme le Père a la vie en lui-même, ainsi il a donné au Fils d'avoir la vie en lui-même.",
+        "MAB": "Car comme le Père a la vie en soi même, ainsi il a donné au Fils d'avoir la vie en soi-même.",
+        "OST": "Car, comme le Père a la vie en lui-même, il a aussi donné au Fils d'avoir la vie en lui-même.",
+        "S21": "En effet, tout comme le Père a la vie en lui-même, ainsi il a donné au Fils d'avoir la vie en lui-même."
+      }
+    },
+    {
+      "verse": 27,
+      "texts": {
+        "BDS": "Ne vous en étonnez pas: l’heure vient où tous ceux qui sont dans la tombe entendront la voix du Fils de l’homme.",
+        "DBY": "et il lui a donné autorité de juger aussi, parce qu'il est fils de l'homme.",
+        "KJV": "‹And hath given him authority to execute judgment also, because he is the Son of man.›",
+        "LSG": "Et il lui a donné le pouvoir de juger, parce qu'il est Fils de l'homme.",
+        "MAB": "Et il lui a donné le pouvoir de juger parce qu'il est le Fils de l'homme.",
+        "OST": "Et il lui a donné le pouvoir d'exercer le jugement, parce qu'il est le Fils de l'homme.",
+        "S21": "Et il lui a donné [aussi] le pouvoir de juger, parce qu'il est le Fils de l'homme."
+      }
+    },
+    {
+      "verse": 28,
+      "texts": {
+        "BDS": "Alors, ils en sortiront: ceux qui auront fait le bien ressusciteront pour la vie, ceux qui auront fait le mal ressusciteront pour être condamnés.",
+        "DBY": "Ne vous étonnez pas de cela; car l'heure vient en laquelle tous ceux qui sont dans les sépulcres entendront sa voix;",
+        "KJV": "‹Marvel not at this: for the hour is coming, in the which all that are in the graves shall hear his voice,›",
+        "LSG": "Ne vous étonnez pas de cela; car l'heure vient où tous ceux qui sont dans les sépulcres entendront sa voix,",
+        "MAB": "Ne soyez point étonnés de cela : car l'heure viendra, en laquelle tous ceux qui sont dans les sépulcres entendront sa voix.",
+        "OST": "Ne soyez pas surpris de cela; car l'heure vient que tous ceux qui sont dans les sépulcres entendront sa voix,",
+        "S21": "Ne vous en étonnez pas, car l'heure vient où tous ceux qui sont dans les tombeaux entendront sa voix et"
+      }
+    },
+    {
+      "verse": 29,
+      "texts": {
+        "BDS": "Pour moi, je ne peux rien faire de mon propre chef; je juge seulement comme le Père me l’indique. Et mon verdict est juste, car je ne cherche pas à réaliser mes propres désirs, mais à faire la volonté de celui qui m’a envoyé.",
+        "DBY": "et ils sortiront, ceux qui auront pratiqué le bien, en résurrection de vie; et ceux qui auront fait le mal, en résurrection de jugement.",
+        "KJV": "‹And shall come forth; they that have done good, unto the resurrection of life; and they that have done evil, unto the resurrection of damnation.›",
+        "LSG": "et en sortiront. Ceux qui auront fait le bien ressusciteront pour la vie, mais ceux qui auront fait le mal ressusciteront pour le jugement.",
+        "MAB": "Et ils sortiront, savoir ceux qui auront bien fait, en résurrection de vie; et ceux qui auront mal fait, en résurrection de condamnation.",
+        "OST": "Et sortiront: savoir, ceux qui auront bien fait, en résurrection de vie; et ceux qui auront mal fait, en résurrection de condamnation.",
+        "S21": "en sortiront: ceux qui auront fait le bien ressusciteront pour la vie, mais ceux qui auront fait le mal ressusciteront pour le jugement."
+      }
+    },
+    {
+      "verse": 30,
+      "texts": {
+        "BDS": "—Bien sûr, si j’étais seul à témoigner en ma faveur, mon témoignage ne serait pas valable.",
+        "DBY": "Je ne puis rien faire, moi, de moi-même; je juge selon ce que j'entends, et mon jugement est juste; car je ne cherche pas ma volonté, mais la volonté de celui qui m'a envoyé.",
+        "KJV": "‹I can of mine own self do nothing: as I hear, I judge: and my judgment is just; because I seek not mine own will, but the will of the Father which hath sent me.›",
+        "LSG": "Je ne puis rien faire de moi-même: selon que j'entends, je juge; et mon jugement est juste, parce que je ne cherche pas ma volonté, mais la volonté de celui qui m'a envoyé.",
+        "MAB": "Je ne puis rien faire de moi-même : je juge conformément à ce que j'entends, et mon jugement est juste; car je ne cherche point ma volonté, mais la volonté du Père qui m'a envoyé.",
+        "OST": "Je ne puis rien faire de moi-même, je juge selon que j'entends, et mon jugement est juste, car je ne cherche point ma volonté, mais la volonté du Père qui m'a envoyé.",
+        "S21": "Je ne peux rien faire de moi-même: je juge d'après ce que j'entends, et mon jugement est juste parce que je ne cherche pas à faire ma volonté, mais celle du Père qui m'a envoyé."
+      }
+    },
+    {
+      "verse": 31,
+      "texts": {
+        "BDS": "Mais j’ai un autre témoin et je sais que son témoignage est vrai.",
+        "DBY": "Si moi je rends témoignage de moi-même, mon témoignage n'est pas vrai.",
+        "KJV": "‹If I bear witness of myself, my witness is not true.›",
+        "LSG": "Si c'est moi qui rends témoignage de moi-même, mon témoignage n'est pas vrai.",
+        "MAB": "Si je rends témoignage de moi-même, mon témoignage n'est pas digne de foi.",
+        "OST": "Si je me rends témoignage à moi-même, mon témoignage n'est pas digne de foi.",
+        "S21": "»Si je me rends témoignage à moi-même, mon témoignage n'est pas valable."
+      }
+    },
+    {
+      "verse": 32,
+      "texts": {
+        "BDS": "Vous avez envoyé une commission d’enquête auprès de Jean et il a rendu témoignage à la vérité.",
+        "DBY": "C'est un autre qui rend témoignage de moi; et je sais que le témoignage qu'il rend de moi est vrai.",
+        "KJV": "‹There is another that beareth witness of me; and I know that the witness which he witnesseth of me is true.›",
+        "LSG": "Il y en a un autre qui rend témoignage de moi, et je sais que le témoignage qu'il rend de moi est vrai.",
+        "MAB": "C'est un autre qui rend témoignage de moi, et je sais que le témoignage qu'il rend de moi est digne de foi.",
+        "OST": "Il y en a un autre qui me rend témoignage, et je sais que le témoignage qu'il me rend est digne de foi.",
+        "S21": "C'est un autre qui témoigne en ma faveur, et je sais que le témoignage qu'il me rend est vrai."
+      }
+    },
+    {
+      "verse": 33,
+      "texts": {
+        "BDS": "Moi, je n’ai pas besoin d’un homme pour témoigner en ma faveur, mais je dis cela pour que vous, vous soyez sauvés.",
+        "DBY": "Vous, vous avez envoyé auprès de Jean, et il a rendu témoignage à la vérité;",
+        "KJV": "‹Ye sent unto John, and he bare witness unto the truth.›",
+        "LSG": "Vous avez envoyé vers Jean, et il a rendu témoignage à la vérité.",
+        "MAB": "Vous avez envoyé vers Jean, et il a rendu témoignage à la vérité.",
+        "OST": "Vous avez envoyé vers Jean, et il a rendu témoignage à la vérité.",
+        "S21": "Vous avez envoyé une délégation vers Jean, et il a rendu témoignage à la vérité."
+      }
+    },
+    {
+      "verse": 34,
+      "texts": {
+        "BDS": "Oui, Jean était vraiment comme un flambeau que l’on allume pour qu’il répande sa clarté. Mais vous, vous avez simplement voulu, pour un moment, vous réjouir à sa lumière.",
+        "DBY": "mais moi, je ne reçois pas témoignage de l'homme, mais je dis ces choses afin que vous, vous soyez sauvés.",
+        "KJV": "‹But I receive not testimony from man: but these things I say, that ye might be saved.›",
+        "LSG": "Pour moi ce n'est pas d'un homme que je reçois le témoignage; mais je dis ceci, afin que vous soyez sauvés.",
+        "MAB": "Or je ne cherche point le témoignage des hommes; mais je dis ces choses afin que vous soyez sauvés.",
+        "OST": "Pour moi, je ne recherche point le témoignage de l'homme, mais je dis ceci, afin que vous soyez sauvés.",
+        "S21": "Pour ma part, ce n'est pas d'un homme que je reçois le témoignage, mais je dis cela afin que vous soyez sauvés."
+      }
+    },
+    {
+      "verse": 35,
+      "texts": {
+        "BDS": "Quant à moi, j’ai en ma faveur un témoignage qui a plus de poids que celui de Jean: c’est celui des œuvres que le Père m’a donné d’accomplir. Oui, ces œuvres que j’accomplis attestent clairement que le Père m’a envoyé.",
+        "DBY": "Celui-là était la lampe ardente et brillante; et vous, vous avez voulu vous réjouir pour un temps à sa lumière;",
+        "KJV": "‹He was a burning and a shining light: and ye were willing for a season to rejoice in his light.›",
+        "LSG": "Jean était la lampe qui brûle et qui luit, et vous avez voulu vous réjouir une heure à sa lumière.",
+        "MAB": "Il était une lampe ardente et brillante; et vous avez voulu vous réjouir pour un peu de temps en sa lumière.",
+        "OST": "Jean était la lampe qui brûle, et qui luit, et vous avez voulu, pour un moment, vous réjouir à sa lumière.",
+        "S21": "Jean était la lampe qui brûle et qui brille, et vous avez voulu vous réjouir une heure à sa lumière."
+      }
+    },
+    {
+      "verse": 36,
+      "texts": {
+        "BDS": "De plus, le Père lui-même, qui m’a envoyé, a témoigné en ma faveur. Mais vous n’avez jamais entendu sa voix, ni vu sa face.",
+        "DBY": "mais moi, j'ai un témoignage plus grand que celui de Jean; car les œuvres que le Père m'a données pour les accomplir, ces œuvres mêmes que je fais rendent témoignage de moi, que le Père m'a envoyé.",
+        "KJV": "‹But I have greater witness than› [that] ‹of John: for the works which the Father hath given me to finish, the same works that I do, bear witness of me, that the Father hath sent me.›",
+        "LSG": "Moi, j'ai un témoignage plus grand que celui de Jean; car les oeuvres que le Père m'a donné d'accomplir, ces oeuvres mêmes que je fais, témoignent de moi que c'est le Père qui m'a envoyé.",
+        "MAB": "Mais moi j'ai un témoignage plus grand que celui de Jean; car les œuvres que mon Père m'a données pour les accomplir, ces œuvres mêmes que je fais, témoignent de moi que mon Père m'a envoyé.",
+        "OST": "Mais moi, j'ai un témoignage plus grand que celui de Jean; car les ouvres que mon Père m'a donné d'accomplir, ces œuvres même que je fais, rendent de moi ce témoignage, que mon Père m'a envoyé.",
+        "S21": "Pour ma part, j'ai un témoignage plus grand que celui de Jean: ce sont les œuvres que le Père m'a donné d'accomplir. Ces œuvres mêmes que je fais témoignent à mon sujet que c'est le Père qui m'a envoyé,"
+      }
+    },
+    {
+      "verse": 37,
+      "texts": {
+        "BDS": "Sa parole n’habite pas en vous; la preuve, c’est que vous ne croyez pas en celui qu’il a envoyé.",
+        "DBY": "Et le Père qui m'a envoyé, lui, a rendu témoignage de moi. Jamais vous n'avez entendu sa voix, ni vu sa figure;",
+        "KJV": "‹And the Father himself, which hath sent me, hath borne witness of me. Ye have neither heard his voice at any time, nor seen his shape.›",
+        "LSG": "Et le Père qui m'a envoyé a rendu lui-même témoignage de moi. Vous n'avez jamais entendu sa voix, vous n'avez point vu sa face,",
+        "MAB": "Et le Père qui m'a envoyé, a lui-même rendu témoignage de moi; jamais vous n'ouîtes sa voix, ni ne vîtes sa face.",
+        "OST": "Et le Père qui m'a envoyé a lui-même rendu témoignage de moi. Vous n'avez jamais entendu sa voix, ni vu sa face.",
+        "S21": "et le Père qui m'a envoyé a rendu lui-même témoignage à mon sujet. Vous n'avez jamais entendu sa voix, vous n'avez pas vu son visage"
+      }
+    },
+    {
+      "verse": 38,
+      "texts": {
+        "BDS": "Vous étudiez avec soin les Ecritures, parce que vous êtes convaincus d’en obtenir la vie éternelle. Or, précisément, ce sont elles qui témoignent de moi.",
+        "DBY": "et vous n'avez pas sa parole demeurant en vous; car celui-là que lui a envoyé, vous, vous ne le croyez pas.",
+        "KJV": "‹And ye have not his word abiding in you: for whom he hath sent, him ye believe not.›",
+        "LSG": "et sa parole ne demeure point en vous, parce que vous ne croyez pas à celui qu'il a envoyé.",
+        "MAB": "Et vous n'avez point sa parole demeurante en vous; puisque vous ne croyez point à celui qu'il a envoyé.",
+        "OST": "Et sa parole ne demeure pas en vous; puisque vous ne croyez point à celui qu'il vous a envoyé.",
+        "S21": "et sa parole n’habite pas en vous, puisque vous ne croyez pas en celui qu'il a envoyé."
+      }
+    },
+    {
+      "verse": 39,
+      "texts": {
+        "BDS": "Mais voilà: vous ne voulez pas venir à moi pour recevoir la vie.",
+        "DBY": "Sondez les écritures, car vous, vous estimez avoir en elles la vie éternelle, et ce sont elles qui rendent témoignage de moi:",
+        "KJV": "‹Search the scriptures; for in them ye think ye have eternal life: and they are they which testify of me.›",
+        "LSG": "Vous sondez les Ecritures, parce que vous pensez avoir en elles la vie éternelle: ce sont elles qui rendent témoignage de moi.",
+        "MAB": "Enquérez-vous diligemment des Ecritures : car vous estimez avoir par elles la vie éternelle, et ce sont elles qui portent témoignage de moi.",
+        "OST": "Vous sondez les Écritures, parce qu'en elles vous croyez avoir la vie éternelle, et ce sont elles qui rendent témoignage de moi.",
+        "S21": "Vous étudiez les Ecritures parce que vous pensez avoir par elles la vie éternelle. Ce sont elles qui rendent témoignage à mon sujet,"
+      }
+    },
+    {
+      "verse": 40,
+      "texts": {
+        "BDS": "Je ne cherche pas à être applaudi par les hommes.",
+        "DBY": "-et vous ne voulez pas venir à moi pour avoir la vie.",
+        "KJV": "‹And ye will not come to me, that ye might have life.›",
+        "LSG": "Et vous ne voulez pas venir à moi pour avoir la vie!",
+        "MAB": "Mais vous ne voulez point venir à moi, pour avoir la vie.",
+        "OST": "Et vous ne voulez point venir à moi, pour avoir la vie.",
+        "S21": "et vous ne voulez pas venir à moi pour avoir la vie!"
+      }
+    },
+    {
+      "verse": 41,
+      "texts": {
+        "BDS": "Seulement, je constate une chose: au fond de vous-mêmes, vous n’avez pas d’amour pour Dieu.",
+        "DBY": "Je ne reçois pas de gloire des hommes;",
+        "KJV": "‹I receive not honour from men.›",
+        "LSG": "Je ne tire pas ma gloire des hommes.",
+        "MAB": "Je ne tire point ma gloire des hommes.",
+        "OST": "Je ne reçois point ma gloire de la part des hommes;",
+        "S21": "»Je ne reçois pas ma gloire des hommes."
+      }
+    },
+    {
+      "verse": 42,
+      "texts": {
+        "BDS": "Je suis venu au nom de mon Père, et vous ne me recevez pas. Si un autre vient en son propre nom, vous le recevrez!",
+        "DBY": "mais je vous connais, et je sais que vous n'avez pas l'amour de Dieu en vous.",
+        "KJV": "‹But I know you, that ye have not the love of God in you.›",
+        "LSG": "Mais je sais que vous n'avez point en vous l'amour de Dieu.",
+        "MAB": "Mais je connais bien que vous n'avez point l'amour de Dieu en vous.",
+        "OST": "Mais je sais que vous n'avez point en vous-mêmes l'amour de Dieu.",
+        "S21": "Mais je vous connais: vous n'avez pas l'amour de Dieu en vous."
+      }
+    },
+    {
+      "verse": 43,
+      "texts": {
+        "BDS": "D’ailleurs, comment pourriez-vous parvenir à la foi alors que vous voulez être applaudis les uns par les autres et que vous ne recherchez pas la gloire qui vient de Dieu seul?",
+        "DBY": "Moi, je suis venu au nom de mon Père, et vous ne me recevez pas; si un autre vient en son propre nom, celui-là vous le recevrez.",
+        "KJV": "‹I am come in my Father's name, and ye receive me not: if another shall come in his own name, him ye will receive.›",
+        "LSG": "Je suis venu au nom de mon Père, et vous ne me recevez pas; si un autre vient en son propre nom, vous le recevrez.",
+        "MAB": "Je suis venu au Nom de mon Père, et vous ne me recevez point; si un autre vient en son propre nom, vous le recevrez.",
+        "OST": "Je suis venu au nom de mon Père, et vous ne me recevez pas; si un autre vient en son propre nom, vous le recevrez.",
+        "S21": "Je suis venu au nom de mon Père et vous ne me recevez pas; si un autre vient en son propre nom, vous le recevrez."
+      }
+    },
+    {
+      "verse": 44,
+      "texts": {
+        "BDS": "N’allez surtout pas croire que je serai moi votre accusateur auprès de mon Père; c’est Moïse qui vous accusera, oui, ce Moïse même en qui vous avez mis votre espérance.",
+        "DBY": "Comment pouvez-vous croire, vous qui recevez de la gloire l'un de l'autre et qui ne cherchez pas la gloire qui vient de Dieu seul?",
+        "KJV": "‹How can ye believe, which receive honour one of another, and seek not the honour that› [cometh] ‹from God only?›",
+        "LSG": "Comment pouvez-vous croire, vous qui tirez votre gloire les uns des autres, et qui ne cherchez point la gloire qui vient de Dieu seul?",
+        "MAB": "Comment pouvez-vous croire, puisque vous cherchez la gloire l'un de l'autre, et que vous ne cherchez point la gloire qui vient de Dieu seul?",
+        "OST": "Comment pouvez-vous croire, quand vous tirez votre gloire les uns des autres, et que vous ne recherchez point la gloire qui vient de Dieu seul?",
+        "S21": "Comment pouvez-vous croire, vous qui recevez votre gloire les uns des autres et qui ne recherchez pas la gloire qui vient de Dieu seul?"
+      }
+    },
+    {
+      "verse": 45,
+      "texts": {
+        "BDS": "En effet, si vous l’aviez réellement cru, vous m’auriez aussi cru, car il a parlé de moi dans ses livres.",
+        "DBY": "Ne pensez pas que moi, je vous accuserai devant le Père; il y en a un qui vous accuse, Moïse en qui vous espérez.",
+        "KJV": "‹Do not think that I will accuse you to the Father: there is› [one] ‹that accuseth you,› [even] ‹Moses, in whom ye trust.›",
+        "LSG": "Ne pensez pas que moi je vous accuserai devant le Père; celui qui vous accuse, c'est Moïse, en qui vous avez mis votre espérance.",
+        "MAB": "Ne croyez point que je vous doive accuser envers mon Père; Moïse sur qui vous vous fondez, est celui qui vous accusera.",
+        "OST": "Ne pensez point que moi je vous accuse devant le Père; Moïse, en qui vous espérez, est celui qui vous accusera.",
+        "S21": "Ne pensez pas que c'est moi qui vous accuserai devant le Père; celui qui vous accuse, c'est Moïse, celui en qui vous avez mis votre espérance."
+      }
+    },
+    {
+      "verse": 46,
+      "texts": {
+        "BDS": "Si vous ne croyez même pas à ses écrits, comment croirez-vous à mes paroles?",
+        "DBY": "Car si vous croyiez Moïse, vous me croiriez aussi;",
+        "KJV": "‹For had ye believed Moses, ye would have believed me: for he wrote of me.›",
+        "LSG": "Car si vous croyiez Moïse, vous me croiriez aussi, parce qu'il a écrit de moi.",
+        "MAB": "Car si vous croyiez Moïse, vous me croiriez aussi; vu qu'il a écrit de moi.",
+        "OST": "Car si vous croyiez Moïse, vous me croiriez aussi; car il a écrit de moi.",
+        "S21": "En effet, si vous croyiez Moïse, vous me croiriez aussi, puisqu'il a écrit à mon sujet."
+      }
+    },
+    {
+      "verse": 47,
+      "texts": {
+        "DBY": "car lui a écrit de moi. Mais si vous ne croyez pas ses écrits, comment croirez-vous mes paroles?",
+        "KJV": "‹But if ye believe not his writings, how shall ye believe my words?›",
+        "LSG": "Mais si vous ne croyez pas à ses écrits, comment croirez-vous à mes paroles?",
+        "MAB": "Mais si vous ne croyez point à ses écrits, comment croirez-vous à mes paroles?",
+        "OST": "Mais si vous ne croyez pas ses écrits, comment croirez-vous mes paroles?",
+        "S21": "Mais si vous ne croyez pas à ses écrits, comment croirez-vous à mes paroles?»"
+      }
+    }
+  ]
+}

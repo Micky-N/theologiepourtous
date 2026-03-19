@@ -1,4 +1,5 @@
 import { prisma } from '~~/lib/prisma';
+import { buildVersionPayload, getDefaultBibleVersion, getBibleVersionByOrderIndex } from '~~/server/utils/bibleData';
 
 export default defineEventHandler(async (event) => {
     try {
@@ -15,18 +16,11 @@ export default defineEventHandler(async (event) => {
         const userId = userSession.id;
 
         const preferences = await prisma.userPreference.findUnique({
-            where: { userId },
-            include: {
-                defaultVersion: true
-            }
+            where: { userId }
         });
 
         if (!preferences) {
-            // Créer des préférences par défaut si elles n'existent pas
-            const defaultVersion = await prisma.bibleVersion.findFirst({
-                where: { code: 'LSG' },
-                select: { id: true }
-            });
+            const defaultVersion = await getDefaultBibleVersion();
 
             if (!defaultVersion) {
                 throw createError({
@@ -38,10 +32,7 @@ export default defineEventHandler(async (event) => {
             const newPreferences = await prisma.userPreference.create({
                 data: {
                     userId,
-                    defaultVersionId: defaultVersion.id
-                },
-                include: {
-                    defaultVersion: true
+                    defaultVersionOrderIndex: defaultVersion.orderIndex
                 }
             });
 
@@ -49,16 +40,20 @@ export default defineEventHandler(async (event) => {
                 success: true,
                 data: {
                     ...newPreferences,
-                    defaultVersion: newPreferences.defaultVersion
+                    defaultVersion: buildVersionPayload(defaultVersion)
                 }
             };
         }
+
+        const defaultVersion = preferences.defaultVersionOrderIndex
+            ? await getBibleVersionByOrderIndex(preferences.defaultVersionOrderIndex)
+            : await getDefaultBibleVersion();
 
         return {
             success: true,
             data: {
                 ...preferences,
-                defaultVersion: preferences.defaultVersion
+                defaultVersion: defaultVersion ? buildVersionPayload(defaultVersion) : null
             }
         };
     } catch (error: any) {

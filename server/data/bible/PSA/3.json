@@ -1,0 +1,110 @@
+{
+  "bookCode": "PSA",
+  "chapter": 3,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "Psaume de David, quand il fuyait devant son fils Absalom.",
+        "DBY": "Éternel! combien sont multipliés mes ennemis, et sont nombreux ceux qui s'élèvent contre moi.",
+        "KJV": "A Psalm of David, when he fled from Absalom his son. LORD, how are they increased that trouble me! many [are] they that rise up against me.",
+        "LSG": "Psaume de David. A l'occasion de sa fuite devant Absalom, son fils. O Eternel, que mes ennemis sont nombreux! Quelle multitude se lève contre moi!",
+        "MAB": "Psaume de David au sujet de sa fuite de devant Absalom son fils. Ô Eternel! Combien sont multipliés ceux qui me pressent! beaucoup de gens s'élèvent contre moi.",
+        "OST": "Psaume de David, lorsqu'il fuyait devant Absalom, son fils.",
+        "S21": "Psaume de David, lorsqu’il fuyait devant son fils Absalom."
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "O Eternel, mes ennemis sont si nombreux!\r\nOui, si nombreux mes adversaires qui se sont dressés contre moi.",
+        "DBY": "Beaucoup disent de mon âme: Il n'y a point de salut pour lui en Dieu. Sélah.",
+        "KJV": "Many [there be] which say of my soul, [There is] no help for him in God. Selah.",
+        "LSG": "Combien qui disent à mon sujet: Plus de salut pour lui auprès de Dieu! -Pause.",
+        "MAB": "Plusieurs disent de mon âme : il n'y a point en Dieu de délivrance pour lui. Sélah.",
+        "OST": "Éternel, que mes ennemis sont nombreux! Combien de gens se lèvent contre moi!",
+        "S21": "Eternel, que mes ennemis sont nombreux! Beaucoup se dressent contre moi,"
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "Et si nombreux ceux qui prétendent\r\nqu’il n’y a plus aucun secours pour moi auprès de Dieu.\r\nPause",
+        "DBY": "Mais toi, Éternel! tu es un bouclier pour moi; tu es ma gloire, et celui qui élève ma tête.",
+        "KJV": "But thou, O LORD, [art] a shield for me; my glory, and the lifter up of mine head.",
+        "LSG": "Mais toi, ô Eternel! tu es mon bouclier, Tu es ma gloire, et tu relèves ma tête.",
+        "MAB": "Mais toi, ô Eternel! tu es un bouclier autour de moi, tu es ma gloire, et tu es celui qui me fais lever la tête.",
+        "OST": "Combien, qui disent de mon âme: Point de salut pour lui auprès de Dieu! Sélah (pause).",
+        "S21": "beaucoup disent à mon sujet: «Pas de salut pour lui auprès de Dieu!» – Pause."
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "Pourtant, ô Eternel, tu es pour moi un bouclier qui me protège.\r\nO toi ma gloire, tu me feras marcher encore la tête haute.",
+        "DBY": "Je crierai de ma voix à l'Éternel, et il me répondra de sa montagne sainte. Sélah.",
+        "KJV": "I cried unto the LORD with my voice, and he heard me out of his holy hill. Selah.",
+        "LSG": "De ma voix je crie à l'Eternel, Et il me répond de sa montagne sainte. -Pause.",
+        "MAB": "J'ai crié de ma voix à l'Eternel, et il m'a répondu de la montagne de sa sainteté. Sélah.",
+        "OST": "Mais toi, Éternel, tu es mon bouclier, ma gloire, et celui qui me fait lever la tête.",
+        "S21": "Mais toi, Eternel, tu es mon bouclier, tu es ma gloire, et tu relèves ma tête."
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "A haute voix, je crie vers l’Eternel;\r\nde sa montagne sainte, mon Dieu m’exaucera.\r\nPause",
+        "DBY": "Je me suis couché, et je m'endormirai: je me réveillerai, car l'Éternel me soutient.",
+        "KJV": "I laid me down and slept; I awaked; for the LORD sustained me.",
+        "LSG": "Je me couche, et je m'endors; Je me réveille, car l'Eternel est mon soutien.",
+        "MAB": "Je me suis couché, je me suis endormi, je me suis réveillé; car l'Eternel me soutient.",
+        "OST": "Je crie de ma voix à l'Éternel, et il me répond de sa montagne sainte. (Sélah.)",
+        "S21": "A pleine voix je crie à l’Eternel, et il me répond de sa montagne sainte. – Pause."
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "Je me couche et m’endors l’esprit serein;\r\nje me réveille en paix car l’Eternel est mon soutien.",
+        "DBY": "Je n'aurai pas de crainte des myriades du peuple, qui se sont mises contre moi tout autour.",
+        "KJV": "I will not be afraid of ten thousands of people, that have set [themselves] against me round about.",
+        "LSG": "Je ne crains pas les myriades de peuples Qui m'assiègent de toutes parts.",
+        "MAB": "Je ne craindrai point plusieurs milliers de peuples, quand ils se rangeraient contre moi tout à l'entour.",
+        "OST": "Je me couche, je m'endors, et je me réveille; car l'Éternel me soutient.",
+        "S21": "Je me couche, et je m’endors; je me réveille, car l’Eternel est mon soutien."
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "Je ne craindrai donc pas ces multitudes\r\nqui sont postées autour de moi.",
+        "DBY": "Lève-toi, Éternel; sauve-moi, mon Dieu! Car tu as frappé à la joue tous mes ennemis; tu as cassé les dents des méchants.",
+        "KJV": "Arise, O LORD; save me, O my God: for thou hast smitten all mine enemies [upon] the cheek bone; thou hast broken the teeth of the ungodly.",
+        "LSG": "Lève-toi, Eternel! sauve-moi, mon Dieu! Car tu frappes à la joue tous mes ennemis, Tu brises les dents des méchants.",
+        "MAB": "Lève-toi, Eternel mon Dieu! délivre-moi. Certainement tu as frappé en la joue tous mes ennemis; tu as cassé les dents des méchants.",
+        "OST": "Je ne crains point les milliers d'hommes qui se rangent de toute part contre moi.",
+        "S21": "Je n’ai pas peur de ces milliers de personnes qui m’assiègent de tous côtés."
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "Eternel, lève-toi! Au secours, mon Dieu, sauve-moi!\r\nTu gifles tous mes ennemis:\r\ntu casses les dents aux méchants.",
+        "DBY": "De l'Éternel est le salut. Ta bénédiction est sur ton peuple. Sélah.",
+        "KJV": "Salvation [belongeth] unto the LORD: thy blessing [is] upon thy people. Selah.",
+        "LSG": "Le salut est auprès de l'Eternel: Que ta bénédiction soit sur ton peuple! -Pause.",
+        "MAB": "La délivrance vient de l'Eternel; ta bénédiction est sur ton peuple. Sélah.",
+        "OST": "Lève-toi, Éternel, sauve-moi, mon Dieu! Car tu as frappé à la joue tous mes ennemis, tu as brisé les dents des méchants.",
+        "S21": "Lève-toi, Eternel, sauve-moi, mon Dieu! Tu gifles tous mes ennemis, tu brises les dents des méchants."
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "De l’Eternel vient le salut.\r\nO Eternel, fais reposer ta bénédiction sur les tiens.\r\nPause",
+        "OST": "Le salut vient de l'Éternel; ta bénédiction est sur ton peuple! (Sélah. )",
+        "S21": "Le salut appartient à l’Eternel. Que ta bénédiction soit sur ton peuple! – Pause."
+      }
+    }
+  ]
+}

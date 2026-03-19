@@ -1,0 +1,618 @@
+{
+  "bookCode": "MAT",
+  "chapter": 24,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "Là-dessus, Jésus quitta la cour du Temple. Tandis qu’il s’éloignait, ses disciples s’approchèrent pour lui faire remarquer l’architecture du Temple.",
+        "DBY": "Et Jésus sortit et s'en alla du temple; et ses disciples s'approchèrent pour lui montrer les bâtiments du temple.",
+        "KJV": "And Jesus went out, and departed from the temple: and his disciples came to [him] for to shew him the buildings of the temple.",
+        "LSG": "Comme Jésus s'en allait, au sortir du temple, ses disciples s'approchèrent pour lui en faire remarquer les constructions.",
+        "MAB": "Et comme Jésus sortait et s'en allait du Temple, ses Disciples s'approchèrent de lui pour lui faire remarquer les bâtiments du Temple.",
+        "OST": "Comme Jésus sortait du temple et qu'il s'en allait, ses disciples vinrent pour lui faire considérer les bâtiments du temple.",
+        "S21": "Jésus sortit du temple et, comme il s'en allait, ses disciples s'approchèrent pour lui en faire remarquer les constructions."
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "Alors il leur dit:\r\n—Oui, regardez bien tout cela! Vraiment, je vous l’assure: tout sera démoli: il ne restera pas une pierre sur une autre.",
+        "DBY": "Et lui, répondant, leur dit: Ne voyez-vous pas toutes ces choses? En vérité, je vous dis: Il ne sera point laissé ici pierre sur pierre qui ne soit jetée à bas.",
+        "KJV": "And Jesus said unto them, ‹See ye not all these things? verily I say unto you, There shall not be left here one stone upon another, that shall not be thrown down.›",
+        "LSG": "Mais il leur dit: Voyez-vous tout cela? Je vous le dis en vérité, il ne restera pas ici pierre sur pierre qui ne soit renversée.",
+        "MAB": "Et Jésus leur dit : Voyez-vous bien toutes ces choses? en vérité je vous dis, qu'il ne sera laissé ici pierre sur pierre qui ne soit démolie.",
+        "OST": "Et Jésus leur dit: Ne voyez-vous pas tout cela? Je vous dis en vérité qu'il ne restera ici pierre sur pierre qui ne soit renversée.",
+        "S21": "Mais il leur dit: «Vous voyez tout cela? Je vous le dis en vérité, il ne restera pas ici pierre sur pierre, tout sera détruit.»"
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "Comme il était assis sur le mont des Oliviers, ses disciples s’approchèrent, le prirent à part, et lui demandèrent:\r\n—Dis-nous quand cela se produira et quel signe annoncera ta venue et la fin du monde.",
+        "DBY": "Et comme il était assis sur la montagne des Oliviers, les disciples vinrent à lui en particulier, disant: Dis-nous quand ces choses auront lieu, et quel sera le signe de ta venue et de la consommation du siècle.",
+        "KJV": "And as he sat upon the mount of Olives, the disciples came unto him privately, saying, Tell us, when shall these things be? and what [shall be] the sign of thy coming, and of the end of the world?",
+        "LSG": "Il s'assit sur la montagne des oliviers. Et les disciples vinrent en particulier lui faire cette question: Dis-nous, quand cela arrivera-t-il, et quel sera le signe de ton avènement et de la fin du monde?",
+        "MAB": "Puis s'étant assis sur la montagne des oliviers, ses Disciples vinrent à lui en particulier, et lui dirent : Dis-nous quand ces choses arriveront, et quel sera le signe de ton avènement, et de la fin du monde.",
+        "OST": "Et s'étant assis sur la montagne des Oliviers, ses disciples vinrent à lui en particulier et lui dirent: Dis-nous quand ces choses arriveront, et quel sera le signe de ton avènement et de la fin du monde.",
+        "S21": "Il s'assit sur le mont des Oliviers. Les disciples vinrent en privé lui poser cette question: «Dis-nous, quand cela arrivera-t-il et quel sera le signe de ton retour et de la fin du monde?»"
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "Jésus leur répondit:\r\n—Faites bien attention que personne ne vous induise en erreur.",
+        "DBY": "Et Jésus, répondant, leur dit: Prenez garde que personne ne vous séduise;",
+        "KJV": "And Jesus answered and said unto them, ‹Take heed that no man deceive you.›",
+        "LSG": "Jésus leur répondit: Prenez garde que personne ne vous séduise.",
+        "MAB": "Et Jésus répondant leur dit : Prenez garde que personne ne vous séduise.",
+        "OST": "Et Jésus, répondant, leur dit: Prenez garde que personne ne vous séduise.",
+        "S21": "Jésus leur répondit: «Faites bien attention que personne ne vous égare."
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "Car plusieurs viendront sous mon nom en disant: «Je suis le Messie», et ils tromperont beaucoup de gens.",
+        "DBY": "plusieurs viendront en mon nom, disant: Moi, je suis le Christ; et ils en séduiront plusieurs.",
+        "KJV": "‹For many shall come in my name, saying, I am Christ; and shall deceive many.›",
+        "LSG": "Car plusieurs viendront sous mon nom, disant: C'est moi qui suis le Christ. Et ils séduiront beaucoup de gens.",
+        "MAB": "Car plusieurs viendront en mon Nom, disant : je suis le Christ : et ils en séduiront plusieurs.",
+        "OST": "Car plusieurs viendront en mon nom, disant: Je suis le Christ, et ils séduiront beaucoup de gens.",
+        "S21": "En effet, beaucoup viendront sous mon nom et diront: ‘C'est moi qui suis le Messie’, et ils tromperont beaucoup de gens."
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "Vous entendrez parler de guerres et de menaces de guerres. Attention! ne vous laissez pas troubler par ces nouvelles, car cela doit arriver, mais ce ne sera pas encore la fin.",
+        "DBY": "Et vous entendrez parler de guerres et de bruits de guerres; prenez garde que vous ne soyez troublés, car il faut que tout arrive; mais la fin n'est pas encore.",
+        "KJV": "‹And ye shall hear of wars and rumours of wars: see that ye be not troubled: for all› [these things] ‹must come to pass, but the end is not yet.›",
+        "LSG": "Vous entendrez parler de guerres et de bruits de guerres: gardez-vous d'être troublés, car il faut que ces choses arrivent. Mais ce ne sera pas encore la fin.",
+        "MAB": "Et vous entendrez des guerres et des bruits de guerres; [mais] prenez garde que vous n'en soyez point troublés ; car il faut que toutes ces choses arrivent; mais ce ne sera pas encore la fin.",
+        "OST": "Vous entendrez parler de guerres et de bruits de guerres; prenez garde de ne pas vous troubler, car il faut que toutes ces choses arrivent; mais ce ne sera pas encore la fin.",
+        "S21": "Vous entendrez parler de guerres et de menaces de guerres: ne vous laissez pas effrayer, car il faut que toutes ces choses arrivent. Cependant, ce ne sera pas encore la fin."
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "En effet, on verra se dresser une nation contre une nation, un royaume contre un autre; il y aura des famines et des tremblements de terre en divers lieux.",
+        "DBY": "Car nation s'élèvera contre nation, et royaume contre royaume; et il y aura des famines, et des pestes, et des tremblements de terre en divers lieux.",
+        "KJV": "‹For nation shall rise against nation, and kingdom against kingdom: and there shall be famines, and pestilences, and earthquakes, in divers places.›",
+        "LSG": "Une nation s'élèvera contre une nation, et un royaume contre un royaume, et il y aura, en divers lieux, des famines et des tremblements de terre.",
+        "MAB": "Car une nation s'élèvera contre une autre nation, et un Royaume contre un autre Royaume; et il y aura des famines, et des pestes, et des tremblements de terre en divers lieux.",
+        "OST": "Car une nation s'élèvera contre une autre nation, et un royaume contre un autre royaume; et il y aura des famines, des pestes et des tremblements de terre en divers lieux.",
+        "S21": "Une nation se dressera contre une nation et un royaume contre un royaume, et il y aura en divers endroits des famines, [des pestes] et des tremblements de terre."
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "Mais ce ne seront que les premières douleurs de l’enfantement.",
+        "DBY": "Mais toutes ces choses sont un commencement de douleurs.",
+        "KJV": "‹All these› [are] ‹the beginning of sorrows.›",
+        "LSG": "Tout cela ne sera que le commencement des douleurs.",
+        "MAB": "Mais toutes ces choses ne sont qu'un commencement de douleurs.",
+        "OST": "Mais tout cela ne sera qu'un commencement de douleurs.",
+        "S21": "Tout cela sera le commencement des douleurs."
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "Alors on vous persécutera et l’on vous mettra à mort. Toutes les nations vous haïront à cause de moi.",
+        "DBY": "Alors ils vous livreront pour être affligés, et ils vous feront mourir; et vous serez haïs de toutes les nations à cause de mon nom.",
+        "KJV": "‹Then shall they deliver you up to be afflicted, and shall kill you: and ye shall be hated of all nations for my name's sake.›",
+        "LSG": "Alors on vous livrera aux tourments, et l'on vous fera mourir; et vous serez haïs de toutes les nations, à cause de mon nom.",
+        "MAB": "Alors ils vous livreront pour être affligés, et vous tueront; et vous serez haïs de toutes les nations, à cause de mon Nom.",
+        "OST": "Alors ils vous livreront pour être tourmentés, et ils vous feront mourir; et vous serez haïs de toutes les nations à cause de mon nom.",
+        "S21": "Alors on vous livrera à la persécution et l'on vous fera mourir; vous serez détestés de toutes les nations à cause de mon nom."
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "A cause de cela, beaucoup abandonneront la foi, ils se trahiront et se haïront les uns les autres.",
+        "DBY": "Et alors plusieurs seront scandalisés, et se livreront l'un l'autre; et se haïront l'un l'autre;",
+        "KJV": "‹And then shall many be offended, and shall betray one another, and shall hate one another.›",
+        "LSG": "Alors aussi plusieurs succomberont, et ils se trahiront, se haïront les uns les autres.",
+        "MAB": "Et alors plusieurs seront scandalisés, et se trahiront l'un l'autre, et se haïront l'un l'autre.",
+        "OST": "Alors aussi plusieurs se scandaliseront et se trahiront les uns les autres, et se haïront les uns les autres.",
+        "S21": "Beaucoup trébucheront alors, et ils se trahiront, se détesteront les uns les autres."
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "De nombreux faux prophètes surgiront et ils tromperont beaucoup de gens.",
+        "DBY": "et plusieurs faux prophètes s'élèveront et en séduiront plusieurs:",
+        "KJV": "‹And many false prophets shall rise, and shall deceive many.›",
+        "LSG": "Plusieurs faux prophètes s'élèveront, et ils séduiront beaucoup de gens.",
+        "MAB": "Et il s'élèvera plusieurs faux prophètes, qui en séduiront plusieurs.",
+        "OST": "Et plusieurs faux prophètes s'élèveront, et séduiront beaucoup de gens.",
+        "S21": "Beaucoup de prétendus prophètes surgiront et ils tromperont beaucoup de gens."
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "Parce que le mal ne cessera de croître, l’amour du plus grand nombre se refroidira.",
+        "DBY": "et parce que l'iniquité prévaudra, l'amour de plusieurs sera refroidi;",
+        "KJV": "‹And because iniquity shall abound, the love of many shall wax cold.›",
+        "LSG": "Et, parce que l'iniquité se sera accrue, la charité du plus grand nombre se refroidira.",
+        "MAB": "Et parce que l'iniquité sera multipliée, la charité de plusieurs se refroidira.",
+        "OST": "Et parce que l'iniquité sera multipliée, la charité de plusieurs se refroidira.",
+        "S21": "A cause de la progression du mal, l'amour du plus grand nombre se refroidira,"
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "Mais celui qui tiendra bon jusqu’au bout sera sauvé.",
+        "DBY": "mais celui qui persévérera jusqu'à la fin, celui-là sera sauvé.",
+        "KJV": "‹But he that shall endure unto the end, the same shall be saved.›",
+        "LSG": "Mais celui qui persévérera jusqu'à la fin sera sauvé.",
+        "MAB": "Mais qui aura persévéré jusqu'à la fin, celui-là sera sauvé.",
+        "OST": "Mais celui qui aura persévéré jusqu'à la fin sera sauvé.",
+        "S21": "mais celui qui persévérera jusqu'à la fin sera sauvé."
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "Cette Bonne Nouvelle du règne de Dieu sera proclamée dans le monde entier pour que tous les peuples en entendent le témoignage. Alors seulement viendra la fin.",
+        "DBY": "Et cet évangile du royaume sera prêché dans la terre habitée tout entière, en témoignage à toutes les nations; et alors viendra la fin.",
+        "KJV": "‹And this gospel of the kingdom shall be preached in all the world for a witness unto all nations; and then shall the end come.›",
+        "LSG": "Cette bonne nouvelle du royaume sera prêchée dans le monde entier, pour servir de témoignage à toutes les nations. Alors viendra la fin.",
+        "MAB": "Et cet Evangile du Royaume sera prêché dans toute la terre habitable, pour servir de témoignage à toutes les nations, et alors viendra la fin.",
+        "OST": "Et cet évangile du Royaume sera prêché par toute la terre, pour servir de témoignage à toutes les nations; et alors la fin arrivera.",
+        "S21": "Cette bonne nouvelle du royaume sera proclamée dans le monde entier pour servir de témoignage à toutes les nations. Alors viendra la fin."
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "—Quand donc vous verrez l’abominable profanation annoncée par le prophète Daniel s’établir dans le lieu saint — que celui qui lit comprenne —",
+        "DBY": "Quand donc vous verrez l'abomination de la désolation, dont il a été parlé par Daniel le prophète, établie dans le lieu saint (que celui qui lit comprenne),",
+        "KJV": "‹When ye therefore shall see the abomination of desolation, spoken of by Daniel the prophet, stand in the holy place, (whoso readeth, let him understand:)›",
+        "LSG": "C'est pourquoi, lorsque vous verrez l'abomination de la désolation, dont a parlé le prophète Daniel, établie en lieu saint, -que celui qui lit fasse attention! -",
+        "MAB": "Or quand vous verrez l'abomination qui causera la désolation, qui a été prédite par Daniel le Prophète, être établie dans le lieu saint, (Que celui qui lit [ce Prophète] y fasse attention.)",
+        "OST": "Quand donc vous verrez dans le lieu saint l'abomination de la désolation, dont le prophète Daniel a parlé (que celui qui le lit y fasse attention),",
+        "S21": "»C'est pourquoi, lorsque vous verrez l'abominable dévastation dont a parlé le prophète Daniel établie dans le lieu saint – que celui qui lit fasse attention! –"
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "alors, que ceux qui sont en Judée s’enfuient dans les montagnes.",
+        "DBY": "alors que ceux qui sont en Judée s'enfuient dans les montagnes;",
+        "KJV": "‹Then let them which be in Judaea flee into the mountains:›",
+        "LSG": "alors, que ceux qui seront en Judée fuient dans les montagnes;",
+        "MAB": "Alors, que ceux qui seront en Judée, s'enfuient aux montagnes.",
+        "OST": "Alors que ceux qui seront dans la Judée s'enfuient aux montagnes;",
+        "S21": "alors, que ceux qui seront en Judée s'enfuient dans les montagnes,"
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "Si quelqu’un est sur son toit en terrasse, qu’il ne rentre pas dans sa maison pour emporter les biens qui s’y trouvent!",
+        "DBY": "que celui qui est sur le toit ne descende pas pour emporter ses effets hors de sa maison;",
+        "KJV": "‹Let him which is on the housetop not come down to take any thing out of his house:›",
+        "LSG": "que celui qui sera sur le toit ne descende pas pour prendre ce qui est dans sa maison;",
+        "MAB": "Et que celui qui sera sur la maison, ne descende point pour emporter quoi que ce soit de sa maison.",
+        "OST": "Que celui qui sera au haut de la maison ne descende point pour emporter quoi que ce soit de sa maison;",
+        "S21": "que celui qui sera sur le toit ne descende pas pour prendre ce qui est dans sa maison,"
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "Que celui qui sera dans les champs ne retourne pas chez lui pour aller chercher son manteau!",
+        "DBY": "et que celui qui est aux champs ne retourne pas en arrière pour emporter son vêtement.",
+        "KJV": "‹Neither let him which is in the field return back to take his clothes.›",
+        "LSG": "et que celui qui sera dans les champs ne retourne pas en arrière pour prendre son manteau.",
+        "MAB": "Et que celui qui est aux champs, ne retourne point en arrière pour emporter ses habits.",
+        "OST": "Et que celui qui est aux champs ne retourne point en arrière pour emporter ses habits.",
+        "S21": "et que celui qui sera dans les champs ne retourne pas en arrière pour prendre son manteau."
+      }
+    },
+    {
+      "verse": 19,
+      "texts": {
+        "BDS": "Malheur, en ces jours-là, aux femmes enceintes et à celles qui allaitent.",
+        "DBY": "Mais malheur à celles qui sont enceintes et à celles qui allaitent en ces jours-là!",
+        "KJV": "‹And woe unto them that are with child, and to them that give suck in those days!›",
+        "LSG": "Malheur aux femmes qui seront enceintes et à celles qui allaiteront en ces jours-là!",
+        "MAB": "Mais malheur aux femmes enceintes, et à celles qui allaiteront en ces jours-là.",
+        "OST": "Malheur aux femmes qui seront enceintes et à celles qui allaiteront en ces jours-là!",
+        "S21": "Malheur aux femmes qui seront enceintes et à celles qui allaiteront durant ces jours-là!"
+      }
+    },
+    {
+      "verse": 20,
+      "texts": {
+        "BDS": "Priez pour que votre fuite n’ait pas lieu en hiver, ni un jour de sabbat.",
+        "DBY": "Et priez que votre fuite n'ait pas lieu en hiver, ni un jour de sabbat;",
+        "KJV": "‹But pray ye that your flight be not in the winter, neither on the sabbath day:›",
+        "LSG": "Priez pour que votre fuite n'arrive pas en hiver, ni un jour de sabbat.",
+        "MAB": "Or priez que votre fuite ne soit point en hiver, ni en un jour de Sabbat.",
+        "OST": "Priez que votre fuite n'arrive pas en hiver, ni en un jour de sabbat;",
+        "S21": "Priez pour que votre fuite n'arrive pas en hiver, ni un jour de sabbat,"
+      }
+    },
+    {
+      "verse": 21,
+      "texts": {
+        "BDS": "Car à ce moment-là, la détresse sera plus terrible que tout ce qu’on a connu depuis le commencement du monde; et jamais plus, on ne verra pareille souffrance.",
+        "DBY": "car alors il y aura une grande tribulation, telle qu'il n'y en a point eu depuis le commencement du monde jusqu'à maintenant, et qu'il n'y en aura jamais.",
+        "KJV": "‹For then shall be great tribulation, such as was not since the beginning of the world to this time, no, nor ever shall be.›",
+        "LSG": "Car alors, la détresse sera si grande qu'il n'y en a point eu de pareille depuis le commencement du monde jusqu'à présent, et qu'il n'y en aura jamais.",
+        "MAB": "Car alors il y aura une grande affliction, telle qu'il n'y en a point eu de semblable depuis le commencement du monde jusques à maintenant, ni il n'y en aura plus de telle.",
+        "OST": "Car alors il y aura une grande affliction; telle qu'il n'y en a point eu depuis le commencement du monde jusqu'à présent, et telle qu'il n'y en aura jamais.",
+        "S21": "car alors la détresse sera si grande qu'il n'y en a pas eu de pareille depuis le commencement du monde jusqu'à présent et qu'il n'y en aura jamais plus."
+      }
+    },
+    {
+      "verse": 22,
+      "texts": {
+        "BDS": "Vraiment, si le Seigneur n’avait pas décidé de réduire le nombre de ces jours, personne n’en réchapperait; mais, à cause de ceux qu’il a choisis, il abrégera ce temps de calamité.",
+        "DBY": "Et si ces jours là n'eussent été abrégés, nulle chair n'eût été sauvée; mais, à cause des élus, ces jours là seront abrégés.",
+        "KJV": "‹And except those days should be shortened, there should no flesh be saved: but for the elect's sake those days shall be shortened.›",
+        "LSG": "Et, si ces jours n'étaient abrégés, personne ne serait sauvé; mais, à cause des élus, ces jours seront abrégés.",
+        "MAB": "Et si ces jours-là n'eussent été abrégés, il n'y eût eu personne de sauvé; mais à cause des élus, ces jours-là seront abrégés.",
+        "OST": "Que si ces jours-là n'avaient pas été abrégés, aucune chair n'eût échappé; mais à cause des élus ils seront abrégés.",
+        "S21": "Et si ces jours n'étaient pas abrégés, personne ne serait sauvé; mais à cause de ceux qui ont été choisis, ces jours seront abrégés."
+      }
+    },
+    {
+      "verse": 23,
+      "texts": {
+        "BDS": "—Si quelqu’un vous dit alors: «Voyez, le Christ est ici!» ou: «Il est là!» — ne le croyez pas.",
+        "DBY": "Alors, si quelqu'un vous dit: Voici, le Christ est ici, ou: Il est là, ne le croyez pas.",
+        "KJV": "‹Then if any man shall say unto you, Lo, here› [is] ‹Christ, or there; believe› [it] ‹not.›",
+        "LSG": "Si quelqu'un vous dit alors: Le Christ est ici, ou: Il est là, ne le croyez pas.",
+        "MAB": "Alors si quelqu'un vous dit : Voici, le Christ est ici; ou, il est là; ne le croyez point.",
+        "OST": "Alors si quelqu'un vous dit: Le Christ est ici, ou: Il est là; ne le croyez point.",
+        "S21": "Si quelqu'un vous dit alors: ‘Le Messie est ici’, ou: ‘Il est là’, ne le croyez pas,"
+      }
+    },
+    {
+      "verse": 24,
+      "texts": {
+        "BDS": "De faux christs surgiront, ainsi que de faux prophètes. Ils produiront des signes extraordinaires et des prodiges au point de tromper, si c’était possible, ceux que Dieu a choisis.",
+        "DBY": "Car il s'élèvera de faux christs et de faux prophètes; et ils montreront de grands signes et des prodiges, de manière à séduire, si possible, même les élus.",
+        "KJV": "‹For there shall arise false Christs, and false prophets, and shall shew great signs and wonders; insomuch that, if› [it were] ‹possible, they shall deceive the very elect.›",
+        "LSG": "Car il s'élèvera de faux Christs et de faux prophètes; ils feront de grands prodiges et des miracles, au point de séduire, s'il était possible, même les élus.",
+        "MAB": "Car il s'élèvera de faux christs et de faux prophètes, qui feront de grands prodiges et des miracles, pour séduire même les élus, s'il était possible.",
+        "OST": "Car de faux christs et de faux prophètes s'élèveront et feront de grands signes et des prodiges, pour séduire les élus mêmes, s'il était possible.",
+        "S21": "car de prétendus messies et de prétendus prophètes surgiront; ils feront de grands prodiges et des signes miraculeux au point de tromper, si c'était possible, même ceux qui ont été choisis."
+      }
+    },
+    {
+      "verse": 25,
+      "texts": {
+        "BDS": "Voilà, je vous ai prévenus!",
+        "DBY": "Voici, je vous l'ai dit à l'avance.",
+        "KJV": "‹Behold, I have told you before.›",
+        "LSG": "Voici, je vous l'ai annoncé d'avance.",
+        "MAB": "Voici, je vous l'ai prédit.",
+        "OST": "Voilà, je vous l'ai prédit.",
+        "S21": "Voilà, je vous l'ai annoncé d'avance."
+      }
+    },
+    {
+      "verse": 26,
+      "texts": {
+        "BDS": "Si l’on vous dit: «Regardez, il est dans le désert!» n’y allez pas! Si l’on prétend: «Il se cache en quelque endroit secret!» n’en croyez rien.",
+        "DBY": "Si donc on vous dit: Voici, il est au désert, ne sortez pas; voici, il est dans les chambres intérieures, ne le croyez pas.",
+        "KJV": "‹Wherefore if they shall say unto you, Behold, he is in the desert; go not forth: behold,› [he is] ‹in the secret chambers; believe› [it] ‹not.›",
+        "LSG": "Si donc on vous dit: Voici, il est dans le désert, n'y allez pas; voici, il est dans les chambres, ne le croyez pas.",
+        "MAB": "Si on vous dit : voici, il est au désert, ne sortez point; voici, il est dans le lieu le plus retiré de la maison, ne le croyez point.",
+        "OST": "Si donc on vous dit: Le voici dans le désert; n'y allez point: Le voici dans des lieux retirés; ne le croyez point.",
+        "S21": "Si donc on vous dit: ‘Le voici, il est dans le désert’, n'y allez pas, ou: ‘Le voilà, il est dans un lieu secret’, ne le croyez pas."
+      }
+    },
+    {
+      "verse": 27,
+      "texts": {
+        "BDS": "En effet, quand le Fils de l’homme viendra, ce sera comme l’éclair qui jaillit du levant et illumine tout jusqu’au couchant.",
+        "DBY": "Car comme l'éclair sort de l'orient et apparaît jusqu'à l'occident, ainsi sera la venue du fils de l'homme.",
+        "KJV": "‹For as the lightning cometh out of the east, and shineth even unto the west; so shall also the coming of the Son of man be.›",
+        "LSG": "Car, comme l'éclair part de l'orient et se montre jusqu'en occident, ainsi sera l'avènement du Fils de l'homme.",
+        "MAB": "Mais comme l'éclair sort de l'Orient, et se fait voir jusqu'à l'Occident, il en sera de même de l'avènement du Fils de l'homme.",
+        "OST": "Car, comme l'éclair sort de l'orient et se fait voir jusqu'à l'occident, il en sera aussi de même de l'avènement du Fils de l'homme.",
+        "S21": "En effet, tout comme l'éclair part de l'est et apparaît jusqu'à l’ouest, ainsi sera le retour du Fils de l'homme."
+      }
+    },
+    {
+      "verse": 28,
+      "texts": {
+        "BDS": "Où que soit le cadavre, là s’assembleront les vautours.",
+        "DBY": "Car, où que soit le corps mort, là s'assembleront les aigles.",
+        "KJV": "‹For wheresoever the carcase is, there will the eagles be gathered together.›",
+        "LSG": "En quelque lieu que soit le cadavre, là s'assembleront les aigles.",
+        "MAB": "Car où sera le corps mort, là s'assembleront les aigles.",
+        "OST": "Car où sera le corps mort, là s'assembleront les aigles.",
+        "S21": "Là où sera le cadavre, là se rassembleront les vautours."
+      }
+    },
+    {
+      "verse": 29,
+      "texts": {
+        "BDS": "Immédiatement après ces jours de détresse,\r\nle soleil s’obscurcira,\r\nla lune perdra sa clarté,\r\nles étoiles tomberont du ciel,\r\nles puissances célestes seront ébranlées.",
+        "DBY": "Et aussitôt après la tribulation de ces jours-là, le soleil sera obscurci, et la lune ne donnera pas sa lumière, et les étoiles tomberont du ciel, et les puissances des cieux seront ébranlées.",
+        "KJV": "‹Immediately after the tribulation of those days shall the sun be darkened, and the moon shall not give her light, and the stars shall fall from heaven, and the powers of the heavens shall be shaken:›",
+        "LSG": "Aussitôt après ces jours de détresse, le soleil s'obscurcira, la lune ne donnera plus sa lumière, les étoiles tomberont du ciel, et les puissances des cieux seront ébranlées.",
+        "MAB": "Or, aussitôt après l'affliction de ces jours-là, le soleil deviendra obscur, et la lune ne donnera point sa lumière, et les étoiles tomberont du ciel, et les vertus des cieux seront ébranlées.",
+        "OST": "Et aussitôt après l'affliction de ces jours-là le soleil s'obscurcira, la lune ne donnera point sa lumière, les étoiles tomberont du ciel, et les puissances des cieux seront ébranlées.",
+        "S21": "»Aussitôt après ces jours de détresse, le soleil s'obscurcira, la lune ne donnera plus sa lumière, les étoiles tomberont du ciel et les puissances célestes seront ébranlées."
+      }
+    },
+    {
+      "verse": 30,
+      "texts": {
+        "BDS": "C’est alors que le signe du Fils de l’homme apparaîtra dans le ciel. Alors tous les peuples de la terre se lamenteront, et ils verront le Fils de l’homme venir sur les nuées du ciel avec beaucoup de puissance et de gloire.",
+        "DBY": "Et alors paraîtra le signe du fils de l'homme dans le ciel: et alors toutes les tribus de la terre se lamenteront et verront le fils de l'homme venant sur les nuées du ciel, avec puissance et une grande gloire.",
+        "KJV": "‹And then shall appear the sign of the Son of man in heaven: and then shall all the tribes of the earth mourn, and they shall see the Son of man coming in the clouds of heaven with power and great glory.›",
+        "LSG": "Alors le signe du Fils de l'homme paraîtra dans le ciel, toutes les tribus de la terre se lamenteront, et elles verront le Fils de l'homme venant sur les nuées du ciel avec puissance et une grande gloire.",
+        "MAB": "Et alors le signe du Fils de l'homme paraîtra dans le ciel. Alors aussi toutes les Tribus de la terre se lamenteront en se frappant la poitrine, et verront le Fils de l'homme venant dans les nuées du ciel, avec [une grande] puissance, et une grande gloire.",
+        "OST": "Alors le signe du Fils de l'homme paraîtra dans le ciel; alors aussi toutes les tribus de la terre se lamenteront, en se frappant la poitrine, et elles verront le Fils de l'homme venant sur les nuées du ciel, avec une grande puissance et une grande gloire.",
+        "S21": "Alors le signe du Fils de l'homme apparaîtra dans le ciel; tous les peuples de la terre se lamenteront et ils verront le Fils de l'homme venir sur les nuées du ciel avec beaucoup de puissance et de gloire."
+      }
+    },
+    {
+      "verse": 31,
+      "texts": {
+        "BDS": "Il enverra ses anges rassembler, au son des trompettes éclatantes, ses élus des quatre coins du monde, d’un bout à l’autre de l’univers.",
+        "DBY": "Et il enverra ses anges avec un grand son de trompette; et ils rassembleront ses élus des quatre vents, depuis l'un des bouts du ciel jusqu'à l'autre bout.",
+        "KJV": "‹And he shall send his angels with a great sound of a trumpet, and they shall gather together his elect from the four winds, from one end of heaven to the other.›",
+        "LSG": "Il enverra ses anges avec la trompette retentissante, et ils rassembleront ses élus des quatre vents, depuis une extrémité des cieux jusqu'à l'autre.",
+        "MAB": "Et il enverra ses Anges, qui avec un grand son de trompette assembleront ses élus, des quatre vents, depuis l'un des bouts des cieux jusques à l'autre bout.",
+        "OST": "Il enverra ses anges avec un grand éclat de trompette, et ils rassembleront ses élus des quatre vents, depuis un bout des cieux jusqu'à l'autre bout.",
+        "S21": "Il enverra ses anges avec la trompette retentissante et ils rassembleront ceux qu’il a choisis des quatre coins du monde, d'une extrémité du ciel à l'autre."
+      }
+    },
+    {
+      "verse": 32,
+      "texts": {
+        "BDS": "Que l’exemple du figuier vous serve d’enseignement: quand ses rameaux deviennent tendres et que ses feuilles poussent, vous savez que l’été est proche.",
+        "DBY": "Mais apprenez du figuier la parabole qu'il vous offre: Quand déjà son rameau est tendre et qu'il pousse des feuilles, vous connaissez que l'été est proche.",
+        "KJV": "‹Now learn a parable of the fig tree; When his branch is yet tender, and putteth forth leaves, ye know that summer› [is] ‹nigh:›",
+        "LSG": "Instruisez-vous par une comparaison tirée du figuier. Dès que ses branches deviennent tendres, et que les feuilles poussent, vous connaissez que l'été est proche.",
+        "MAB": "Or apprenez cette similitude prise du figuier : Quand ses branches sont déjà en sève, et qu'il pousse des feuilles, vous connaissez que l'été est proche.",
+        "OST": "Or, comprenez la similitude prise du figuier: Quand ses rameaux sont tendres, et qu'il pousse des feuilles, vous connaissez que l'été est proche.",
+        "S21": "Tirez instruction de la parabole du figuier: dès que ses branches deviennent tendres et que les feuilles poussent, vous savez que l'été est proche."
+      }
+    },
+    {
+      "verse": 33,
+      "texts": {
+        "BDS": "De même, quand vous verrez tous ces événements, sachez que le Fils de l’homme est proche, comme aux portes de la ville.",
+        "DBY": "De même aussi vous, quand vous verrez toutes ces choses, sachez que cela est proche, à la porte.",
+        "KJV": "‹So likewise ye, when ye shall see all these things, know that it is near,› [even] ‹at the doors.›",
+        "LSG": "De même, quand vous verrez toutes ces choses, sachez que le Fils de l'homme est proche, à la porte.",
+        "MAB": "De même quand vous verrez toutes ces choses, sachez que [le Fils de l'homme] est proche, et qu'il est à la porte.",
+        "OST": "Vous aussi de même, quand vous verrez toutes ces choses, sachez que le Fils de l'homme est proche et à la porte.",
+        "S21": "De même, quand vous verrez toutes ces choses, sachez que le Fils de l'homme est proche, qu’il est à la porte."
+      }
+    },
+    {
+      "verse": 34,
+      "texts": {
+        "BDS": "Vraiment, je vous assure que cette génération-ci ne passera pas avant que tout cela ne commence à se réaliser.",
+        "DBY": "En vérité, je vous dis: Cette génération ne passera point que toutes ces choses ne soient arrivées.",
+        "KJV": "‹Verily I say unto you, This generation shall not pass, till all these things be fulfilled.›",
+        "LSG": "Je vous le dis en vérité, cette génération ne passera point, que tout cela n'arrive.",
+        "MAB": "En vérité je vous dis, que cette génération ne passera point, que toutes ces choses ne soient arrivées.",
+        "OST": "Je vous dis en vérité que cette génération ne passera point que toutes ces choses ne soient arrivées.",
+        "S21": "Je vous le dis en vérité, cette génération ne passera pas avant que tout cela n'arrive."
+      }
+    },
+    {
+      "verse": 35,
+      "texts": {
+        "BDS": "Le ciel et la terre passeront, mais mes paroles ne passeront jamais.",
+        "DBY": "Le ciel et la terre passeront, mais mes paroles ne passeront point.",
+        "KJV": "‹Heaven and earth shall pass away, but my words shall not pass away.›",
+        "LSG": "Le ciel et la terre passeront, mais mes paroles ne passeront point.",
+        "MAB": "Le ciel et la terre passeront, mais mes paroles ne passeront point.",
+        "OST": "Le ciel et la terre passeront, mais mes paroles ne passeront point.",
+        "S21": "Le ciel et la terre disparaîtront, mais mes paroles ne disparaîtront pas."
+      }
+    },
+    {
+      "verse": 36,
+      "texts": {
+        "BDS": "—Quant au jour et à l’heure où cela se produira, personne ne les connaît, ni les anges du ciel, ni même le Fils; personne, sauf le Père, et lui seul.",
+        "DBY": "Mais, quant à ce jour-là et à l'heure, personne n'en a connaissance, pas même les anges des cieux, si ce n'est mon Père seul.",
+        "KJV": "‹But of that day and hour knoweth no› [man], ‹no, not the angels of heaven, but my Father only.›",
+        "LSG": "Pour ce qui est du jour et de l'heure, personne ne le sait, ni les anges des cieux, ni le Fils, mais le Père seul.",
+        "MAB": "Or quant à ce jour-là, et à l'heure, personne ne le sait; non pas même les Anges du ciel, mais mon Père seul.",
+        "OST": "Pour ce qui est du jour et de l'heure, personne ne le sait, non pas même les anges du ciel, mais mon Père seul.",
+        "S21": "»Quant au jour et à l'heure, personne ne les connaît, pas même les anges du ciel, [ni même le Fils]: mon Père seul les connaît."
+      }
+    },
+    {
+      "verse": 37,
+      "texts": {
+        "BDS": "Lors de la venue du Fils de l’homme, les choses se passeront comme au temps de Noé;",
+        "DBY": "Mais comme ont été les jours de Noé, ainsi sera aussi la venue du fils de l'homme.",
+        "KJV": "‹But as the days of Noe› [were], ‹so shall also the coming of the Son of man be.›",
+        "LSG": "Ce qui arriva du temps de Noé arrivera de même à l'avènement du Fils de l'homme.",
+        "MAB": "Mais comme il en était aux jours de Noé, il en sera de même de l'avènement du fils de l'homme.",
+        "OST": "Mais comme il en était aux jours de Noé, il en sera de même à l'avènement du Fils de l'homme;",
+        "S21": "Ce qui est arrivé à l’époque de Noé arrivera de même au retour du Fils de l'homme."
+      }
+    },
+    {
+      "verse": 38,
+      "texts": {
+        "BDS": "en effet, à l’époque qui précéda le déluge, les gens étaient occupés à manger et à boire, à se marier et à marier leurs enfants, jusqu’au jour où Noé entra dans le bateau.",
+        "DBY": "Car, comme dans les jours avant le déluge on mangeait et on buvait, on se mariait et on donnait en mariage, jusqu'au jour où Noé entra dans l'arche,",
+        "KJV": "‹For as in the days that were before the flood they were eating and drinking, marrying and giving in marriage, until the day that Noe entered into the ark,›",
+        "LSG": "Car, dans les jours qui précédèrent le déluge, les hommes mangeaient et buvaient, se mariaient et mariaient leurs enfants, jusqu'au jour où Noé entra dans l'arche;",
+        "MAB": "Car comme aux jours avant le déluge [les hommes] mangeaient et buvaient, se mariaient, et donnaient en mariage, jusqu'au jour que Noé entra dans l'arche;",
+        "OST": "Car de même qu'aux jours d'avant le déluge les hommes mangeaient et buvaient, se mariaient et donnaient en mariage, jusqu'au jour où Noé entra dans l'arche;",
+        "S21": "En effet, dans les jours précédant le déluge, les hommes mangeaient et buvaient, se mariaient et mariaient leurs enfants, jusqu'au jour où Noé est entré dans l'arche."
+      }
+    },
+    {
+      "verse": 39,
+      "texts": {
+        "BDS": "Ils ne se doutèrent de rien, jusqu’à ce que vienne le déluge qui les emporta tous.\r\nCe sera la même chose lorsque le Fils de l’homme viendra.",
+        "DBY": "et ils ne connurent rien, jusqu'à ce que le déluge vint et les emporta tous, ainsi sera aussi la venue du fils de l'homme.",
+        "KJV": "‹And knew not until the flood came, and took them all away; so shall also the coming of the Son of man be.›",
+        "LSG": "et ils ne se doutèrent de rien, jusqu'à ce que le déluge vînt et les emportât tous: il en sera de même à l'avènement du Fils de l'homme.",
+        "MAB": "Et ils ne connurent point que le déluge viendrait, jusqu'à ce qu'il vint, et les emporta tous; il en sera de même de l'avènement du Fils de l'homme.",
+        "OST": "Et qu'ils ne connurent rien jusqu'à ce que le déluge vint et les emporta tous; il en sera de même à l'avènement du Fils de l'homme.",
+        "S21": "Ils ne se sont doutés de rien jusqu'à ce que le déluge vienne et les emporte tous. Il en ira de même au retour du Fils de l'homme."
+      }
+    },
+    {
+      "verse": 40,
+      "texts": {
+        "BDS": "Alors deux ouvriers travailleront côte à côte dans un champ: l’un sera emmené, l’autre laissé.",
+        "DBY": "Alors deux hommes seront au champ, l'un sera pris et l'autre laissé;",
+        "KJV": "‹Then shall two be in the field; the one shall be taken, and the other left.›",
+        "LSG": "Alors, de deux hommes qui seront dans un champ, l'un sera pris et l'autre laissé;",
+        "MAB": "Alors deux [hommes] seront dans un champ; l'un sera pris, et l'autre laissé.",
+        "OST": "Alors, de deux hommes qui seront dans un champ, l'un sera pris et l'autre laissé;",
+        "S21": "Alors, deux hommes seront dans un champ: l'un sera pris et l'autre laissé;"
+      }
+    },
+    {
+      "verse": 41,
+      "texts": {
+        "BDS": "Deux femmes seront en train de tourner la pierre de meule: l’une sera emmenée, l’autre laissée.",
+        "DBY": "deux femmes moudront à la meule, l'une sera prise et l'autre laissée.",
+        "KJV": "‹Two› [women shall be] ‹grinding at the mill; the one shall be taken, and the other left.›",
+        "LSG": "de deux femmes qui moudront à la meule, l'une sera prise et l'autre laissée.",
+        "MAB": "Deux [femmes] moudront au moulin, l'une sera prise, et l'autre laissée.",
+        "OST": "De deux femmes qui moudront au moulin, l'une sera prise et l'autre laissée.",
+        "S21": "deux femmes moudront à la meule: l'une sera prise et l'autre laissée."
+      }
+    },
+    {
+      "verse": 42,
+      "texts": {
+        "BDS": "Tenez-vous donc en éveil, puisque vous ignorez quel jour votre Seigneur viendra.",
+        "DBY": "Veillez donc; car vous ne savez pas à quelle heure votre Seigneur vient.",
+        "KJV": "‹Watch therefore: for ye know not what hour your Lord doth come.›",
+        "LSG": "Veillez donc, puisque vous ne savez pas quel jour votre Seigneur viendra.",
+        "MAB": "Veillez donc; car vous ne savez point à quelle heure votre Seigneur doit venir.",
+        "OST": "Veillez donc, car vous ne savez pas à quelle heure votre Seigneur viendra.",
+        "S21": "Restez donc vigilants, puisque vous ignorez à quel moment votre Seigneur viendra."
+      }
+    },
+    {
+      "verse": 43,
+      "texts": {
+        "BDS": "Vous le savez bien: si le maître de maison savait à quelle heure de la nuit le voleur doit venir, il resterait éveillé pour ne pas le laisser pénétrer dans sa maison.",
+        "DBY": "Mais sachez ceci, que si le maître de la maison eût su à quelle veille le voleur devait venir, il eût veillé, et n'eût pas laissé percer sa maison.",
+        "KJV": "‹But know this, that if the goodman of the house had known in what watch the thief would come, he would have watched, and would not have suffered his house to be broken up.›",
+        "LSG": "Sachez-le bien, si le maître de la maison savait à quelle veille de la nuit le voleur doit venir, il veillerait et ne laisserait pas percer sa maison.",
+        "MAB": "Mais sachez ceci, que si un père de famille savait à quelle veille de la nuit le larron doit venir, il veillerait, et ne laisserait point percer sa maison.",
+        "OST": "Or, considérez ceci, que si un père de famille était averti à quelle veille de la nuit le larron viendra, il veillerait et ne laisserait pas percer sa maison.",
+        "S21": "Vous le savez bien, si le maître de la maison savait à quelle heure de la nuit le voleur doit venir, il resterait éveillé et ne laisserait pas percer les murs de sa maison."
+      }
+    },
+    {
+      "verse": 44,
+      "texts": {
+        "BDS": "Pour cette même raison, vous aussi, tenez-vous prêts, car c’est à un moment que vous n’auriez pas imaginé que le Fils de l’homme viendra.",
+        "DBY": "C'est pourquoi, vous aussi, soyez prêts; car, à l'heure que vous ne pensez pas, le fils de l'homme vient.",
+        "KJV": "‹Therefore be ye also ready: for in such an hour as ye think not the Son of man cometh.›",
+        "LSG": "C'est pourquoi, vous aussi, tenez-vous prêts, car le Fils de l'homme viendra à l'heure où vous n'y penserez pas.",
+        "MAB": "C'est pourquoi, vous aussi tenez-vous prêts; car le Fils de l'homme viendra à l'heure que vous n'y penserez point.",
+        "OST": "C'est pourquoi vous aussi tenez-vous prêts; car le Fils de l'homme viendra à l'heure que vous ne pensez pas.",
+        "S21": "C'est pourquoi, vous aussi, tenez-vous prêts, car le Fils de l'homme viendra à l'heure où vous n'y penserez pas."
+      }
+    },
+    {
+      "verse": 45,
+      "texts": {
+        "BDS": "—Quel est le serviteur fidèle et sensé à qui le maître a confié le soin de veiller sur l’ensemble de son personnel pour qu’il distribue à chacun sa nourriture au moment voulu?",
+        "DBY": "Qui donc est l'esclave fidèle et prudent, que son maître a établi sur les domestiques de sa maison pour leur donner leur nourriture au temps convenable?",
+        "KJV": "‹Who then is a faithful and wise servant, whom his lord hath made ruler over his household, to give them meat in due season?›",
+        "LSG": "Quel est donc le serviteur fidèle et prudent, que son maître a établi sur ses gens, pour leur donner la nourriture au temps convenable?",
+        "MAB": "Qui est donc le serviteur fidèle et prudent, que son maître a établi sur tous ses serviteurs, pour leur donner la nourriture dans le temps qu'il faut?",
+        "OST": "Quel est donc le serviteur fidèle et prudent que son maître a établi sur ses domestiques, pour leur donner la nourriture au temps marqué?",
+        "S21": "»Quel est donc le serviteur fidèle et prudent que son maître a établi responsable des gens de sa maison pour leur donner la nourriture en temps voulu?"
+      }
+    },
+    {
+      "verse": 46,
+      "texts": {
+        "BDS": "Heureux ce serviteur que le maître, à son retour, trouvera en train d’agir comme il le lui a demandé!",
+        "DBY": "Bienheureux est cet esclave-là que son maître, lorsqu'il viendra, trouvera faisant ainsi.",
+        "KJV": "‹Blessed› [is] ‹that servant, whom his lord when he cometh shall find so doing.›",
+        "LSG": "Heureux ce serviteur, que son maître, à son arrivée, trouvera faisant ainsi!",
+        "MAB": "Bienheureux est ce serviteur que son maître en arrivant trouvera agir de cette manière.",
+        "OST": "Heureux ce serviteur que son maître trouvera faisant ainsi, quand il arrivera.",
+        "S21": "Heureux le serviteur que son maître, à son arrivée, trouvera occupé à son travail!"
+      }
+    },
+    {
+      "verse": 47,
+      "texts": {
+        "BDS": "Vraiment, je vous l’assure, son maître lui confiera l’administration de tout ce qu’il possède.",
+        "DBY": "En vérité, je vous dis qu'il l'établira sur tous ses biens.",
+        "KJV": "‹Verily I say unto you, That he shall make him ruler over all his goods.›",
+        "LSG": "Je vous le dis en vérité, il l'établira sur tous ses biens.",
+        "MAB": "En vérité je vous dis, qu'il l'établira sur tous ses biens.",
+        "OST": "Je vous dis en vérité, qu'il l'établira sur tous ses biens.",
+        "S21": "Je vous le dis en vérité, il l'établira responsable de tous ses biens."
+      }
+    },
+    {
+      "verse": 48,
+      "texts": {
+        "BDS": "Mais si c’est un mauvais serviteur, qui se dit: «Mon maître n’est pas près de rentrer»,",
+        "DBY": "Mais si ce méchant esclave-là dit en son cœur: Mon maître tarde à venir,",
+        "KJV": "‹But and if that evil servant shall say in his heart, My lord delayeth his coming;›",
+        "LSG": "Mais, si c'est un méchant serviteur, qui dise en lui-même: Mon maître tarde à venir,",
+        "MAB": "Mais si c'est un méchant serviteur, qui dise en soi-même : mon maître tarde à venir;",
+        "OST": "Mais si c'est un méchant serviteur, qui dise en son cour: Mon maître tarde à venir;",
+        "S21": "Mais si c'est un mauvais serviteur, qui se dit en lui-même: ‘Mon maître tarde à venir’,"
+      }
+    },
+    {
+      "verse": 49,
+      "texts": {
+        "BDS": "et se met à maltraiter ses compagnons de service, à manger et à boire avec les ivrognes,",
+        "DBY": "et qu'il se mette à battre ceux qui sont esclaves avec lui, et qu'il mange et boive avec les ivrognes,",
+        "KJV": "‹And shall begin to smite› [his] ‹fellowservants, and to eat and drink with the drunken;›",
+        "LSG": "s'il se met à battre ses compagnons, s'il mange et boit avec les ivrognes,",
+        "MAB": "Et qu'il se mette à battre ses compagnons de service, et à manger et à boire avec les ivrognes;",
+        "OST": "Et qu'il se mette à battre ses compagnons de service, et à manger et à boire avec des ivrognes;",
+        "S21": "s'il se met à battre ses compagnons, s'il mange et boit avec les ivrognes,"
+      }
+    },
+    {
+      "verse": 50,
+      "texts": {
+        "BDS": "son maître arrivera un jour où il ne s’y attendra pas et à un moment qu’il ne connaît pas.",
+        "DBY": "le maître de cet esclave-là viendra en un jour qu'il n'attend pas, et à une heure qu'il ne sait pas,",
+        "KJV": "‹The lord of that servant shall come in a day when he looketh not for› [him], ‹and in an hour that he is not aware of,›",
+        "LSG": "le maître de ce serviteur viendra le jour où il ne s'y attend pas et à l'heure qu'il ne connaît pas,",
+        "MAB": "Le maître de ce serviteur viendra au jour qu'il ne l'attend point, et à l'heure qu'il ne sait point.",
+        "OST": "Le maître de ce serviteur-là viendra au jour qu'il n'attend pas, et à l'heure qu'il ne sait pas;",
+        "S21": "le maître de ce serviteur viendra le jour où il ne s'y attend pas et à l'heure qu'il ne connaît pas."
+      }
+    },
+    {
+      "verse": 51,
+      "texts": {
+        "BDS": "Alors le maître le punira très sévèrement, et le traitera comme on traite les hypocrites. C’est là qu’il y aura des pleurs et d’amers regrets.",
+        "DBY": "et il le coupera en deux et lui donnera sa part avec les hypocrites: là seront les pleurs et les grincements de dents.",
+        "KJV": "‹And shall cut him asunder, and appoint› [him] ‹his portion with the hypocrites: there shall be weeping and gnashing of teeth.›",
+        "LSG": "il le mettra en pièces, et lui donnera sa part avec les hypocrites: c'est là qu'il y aura des pleurs et des grincements de dents.",
+        "MAB": "Et il le séparera, et le mettra au rang des hypocrites; là il y aura des pleurs et des grincements de dents.",
+        "OST": "Et il le séparera, et il lui donnera sa part avec les hypocrites; là seront les pleurs et les grincements de dents.",
+        "S21": "Il le punira sévèrement et lui fera partager le sort des hypocrites: c'est là qu'il y aura des pleurs et des grincements de dents."
+      }
+    }
+  ]
+}

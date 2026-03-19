@@ -1,0 +1,521 @@
+{
+  "bookCode": "1CH",
+  "chapter": 4,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "Descendants de Juda: Pérets, Hetsrôn, Karmi, Hour et Chobal.",
+        "DBY": "Les fils de Juda: Pérets, Hetsron, et Carmi, et Hur, et Shobal.",
+        "KJV": "The sons of Judah; Pharez, Hezron, and Carmi, and Hur, and Shobal.",
+        "LSG": "Fils de Juda: Pérets, Hetsron, Carmi, Hur et Schobal.",
+        "MAB": "Les enfants de Juda furent Pharez, Hetsron, Carmi, Hur, et Sobal.",
+        "OST": "Fils de Juda: Pharets, Hetsron, Carmi, Hur et Shobal.",
+        "S21": "Descendants de Juda: Pérets, Hetsron, Carmi, Hur et Shobal."
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "Reaya, fils de Chobal, fut le père de Yahath, et Yahath celui de Ahoumaï et Lahad. Ce sont les ancêtres des familles des Tsoreatiens.",
+        "DBY": "Et Reaïa, fils de Shobal, engendra Jakhath; et Jakhath engendra Akhumaï et Lahad. Ce sont les familles des Tsorhathiens.",
+        "KJV": "And Reaiah the son of Shobal begat Jahath; and Jahath begat Ahumai, and Lahad. These [are] the families of the Zorathites.",
+        "LSG": "Reaja, fils de Schobal, engendra Jachath; Jachath engendra Achumaï et Lahad. Ce sont les familles des Tsoreathiens.",
+        "MAB": "Et Reaja fils de Sobal engendra Jahath, et Jahath engendra Ahumaï, et Ladad. Ce sont là les familles des Tsorhathiens.",
+        "OST": "Réaja, fils de Shobal, engendra Jachath; Jachath engendra Achumaï et Lahad. Ce sont les familles des Tsoreathiens.",
+        "S21": "Reaja, fils de Shobal, eut pour fils Jachath; Jachath eut Achumaï et Lahad. Ce sont les clans des Tsoreathiens."
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "Fils d’Etam: Jizreél, Yichma et Yidbah, et leur sœur Hatselelponi.",
+        "DBY": "-Et ceux-ci sont du père d'Étam: Jizreël, et Jishma, et Jidbash; et le nom de leur sœur était Hatselelponi;",
+        "KJV": "And these [were of] the father of Etam; Jezreel, and Ishma, and Idbash: and the name of their sister [was] Hazelelponi:",
+        "LSG": "Voici les descendants du père d'Etham: Jizreel, Jischma et Jidbasch; le nom de leur soeur était Hatselelponi.",
+        "MAB": "Et ceux-ci sont du père de Hétham, Jizréhel, Jisma, et Jidbas, et le nom de leur sœur était Hatselelponi.",
+        "OST": "Ceux-ci sont issus du père d'Étham: Jizréel, Jishma et Jidbash; le nom de leur sœur était Hatsélelponi;",
+        "S21": "Voici les descendants d'Etham: Jizreel, Jishma et Jidbash; leur sœur s’appelait Hatselelponi."
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "Penouel était le père de Guedor et Ezer celui de Houcha. Ce sont là les fils de Hour, premier-né d’Ephrata, père de Bethléhem.",
+        "DBY": "et Penuel, père de Guedor; et Ézer, père de Husha: ce sont les fils de Hur, premier-né d'Éphratha, père de Bethléhem.",
+        "KJV": "And Penuel the father of Gedor, and Ezer the father of Hushah. These [are] the sons of Hur, the firstborn of Ephratah, the father of Bethlehem.",
+        "LSG": "Penuel était père de Guedor, et Ezer père de Huscha. Ce sont là les fils de Hur, premier-né d'Ephrata, père de Bethléhem.",
+        "MAB": "Et Penuël père de Guédor, et Hézer père de Husa; ce sont là les enfants de Hur, premier-né d'Ephrat père de Bethléhem.",
+        "OST": "Pénuel était père de Guédor, et Ézer, père de Husha. Ce sont là les fils de Hur, premier-né d'Éphrata, père de Bethléhem.",
+        "S21": "Penuel, le père de Guedor, et Ezer, le père de Husha, étaient les fils de Hur, le fils aîné d'Ephrata, père de Bethléhem."
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "Achhour, père de Teqoa, eut deux femmes, Hélea et Naara.",
+        "DBY": "-Et Ashkhur, père de Thekoa, eut deux femmes, Héléa et Naara.",
+        "KJV": "And Ashur the father of Tekoa had two wives, Helah and Naarah.",
+        "LSG": "Aschchur, père de Tekoa, eut deux femmes, Hélea et Naara.",
+        "MAB": "Et Ashur, père de Tékoah, eut deux femmes, Héléa, et Nahara.",
+        "OST": "Ashur, père de Thékoa, eut deux femmes: Héléa et Naara.",
+        "S21": "Ashchur, père de Tekoa, eut deux femmes: Hélea et Naara."
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "Naara lui donna ces fils: Ahouzzam, Hépher, Témeni et Ahachtari.",
+        "DBY": "-Et Naara lui enfanta Akhuzzam, et Hépher, et Themni, et Akhashtari: ce sont les fils de Naara.",
+        "KJV": "And Naarah bare him Ahuzam, and Hepher, and Temeni, and Haahashtari. These [were] the sons of Naarah.",
+        "LSG": "Naara lui enfanta Achuzzam, Hépher, Thémeni et Achaschthari: ce sont là les fils de Naara.",
+        "MAB": "Et Nahara lui enfanta Ahuzam, Hepher, Témeni, et Hahastari : ce [sont] là les enfants de Nahara.",
+        "OST": "Naara lui enfanta Achuzam, Hépher, Théméni et Achashthari. Ce sont là les fils de Naara.",
+        "S21": "Naara lui donna Achuzzam, Hépher, Thémeni et Achashthari. Ce sont là les fils de Naara."
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "Hélea lui donna ces fils: Tséréth, Tsohar et Etnân.",
+        "DBY": "-Et les fils de Hélea: Tséreth, et Tsokhar, et Ethnan.",
+        "KJV": "And the sons of Helah [were], Zereth, and Jezoar, and Ethnan.",
+        "LSG": "Fils de Hélea: Tséreth, Tsochar et Ethnan.",
+        "MAB": "Et les enfants de Héléa furent Tséreth, Jetsohar, et Etnan.",
+        "OST": "Fils de Héléa: Tséreth, Tsochar et Etnan.",
+        "S21": "Quant aux fils de Hélea, ce sont Tséreth, Tsochar et Ethnan."
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "Qots fut le père d’Anoub et de Hatsobéba, et les familles d’Aharehél, fils d’Haroum.",
+        "DBY": "-Et Kots engendra Anub, et Tsobéba, et les familles d'Akharkhel, fils d'Harum.",
+        "KJV": "And Coz begat Anub, and Zobebah, and the families of Aharhel the son of Harum.",
+        "LSG": "Kots engendra Anub et Hatsobéba, et les familles d'Acharchel, fils d'Harum.",
+        "MAB": "Et Kots engendra Hanub, et Tsobeba, et les familles d'Ahathel, fils de Harum;",
+        "OST": "Kots engendra Anub et Hatsobéba et les familles d'Acharchel, fils d'Harum.",
+        "S21": "Kots eut pour descendants Anub et Hatsobéba, ainsi que les clans d'Acharchel, le fils d'Harum."
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "Yaebets était plus considéré que ses frères, sa mère lui avait donné le nom de Yaebets en disant: «C’est parce que je l’ai enfanté dans la douleur.»",
+        "DBY": "Jahbets fut plus honoré que ses frères; et sa mère l'avait appelé du nom de Jahbets, disant: Je l'ai enfanté avec douleur.",
+        "KJV": "And Jabez was more honourable than his brethren: and his mother called his name Jabez, saying, Because I bare him with sorrow.",
+        "LSG": "Jaebets était plus considéré que ses frères; sa mère lui donna le nom de Jaebets, en disant: C'est parce que je l'ai enfanté avec douleur.",
+        "MAB": "Entre lesquelles il y eut Jahbets plus distingué que ses frères; et sa mère lui avait donné le nom de Jahbets, parce que, dit-elle, je l'ai enfanté avec travail.",
+        "OST": "Jaebets était plus honoré que ses frères; sa mère l'avait nommé Jaebets (douleur), en disant: C'est avec douleur que je l'ai enfanté.",
+        "S21": "Jaebets fut plus honoré que ses frères. Sa mère l’avait appelé Jaebets en disant: «C'est parce que je lui ai donné naissance dans la douleur.»"
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "Yaebets invoqua le Dieu d’Israël en disant: «Si tu me bénis réellement et si tu agrandis mon territoire, si tu es avec moi, si tu éloignes de moi le malheur pour m’épargner la souffrance…» Et Dieu lui accorda ce qu’il avait demandé.",
+        "DBY": "Et Jahbets invoqua le Dieu d'Israël, disant: Si tu me bénissais abondamment, et si tu étendais mes limites, et si ta main était avec moi, et si tu me mettais à l'abri du mal, en sorte que je fusse sans douleur! Et Dieu fit arriver ce qu'il avait demandé.",
+        "KJV": "And Jabez called on the God of Israel, saying, Oh that thou wouldest bless me indeed, and enlarge my coast, and that thine hand might be with me, and that thou wouldest keep [me] from evil, that it may not grieve me! And God granted him that which he requested.",
+        "LSG": "Jaebets invoqua le Dieu d'Israël, en disant: Si tu me bénis et que tu étendes mes limites, si ta main est avec moi, et si tu me préserves du malheur, en sorte que je ne sois pas dans la souffrance!... Et Dieu accorda ce qu'il avait demandé.",
+        "MAB": "Or Jahbets invoqua le Dieu d'Israël, en disant : Ô! Si tu me bénissais abondamment, et que tu étendisses mes limites, et que ta main fût avec moi, et que tu me garantisses tellement du mal, que je fusse sans douleur. Et Dieu lui accorda ce qu'il avait demandé.",
+        "OST": "Jaebets invoqua le Dieu d'Israël, en disant: Si tu me bénis et que tu étendes mes limites; si ta main est avec moi, et si tu me préserves du malheur, en sorte que je ne sois pas dans la souffrance! Et Dieu accorda ce qu'il avait demandé.",
+        "S21": "Jaebets fit appel au Dieu d'Israël en disant: «Veuille me bénir et agrandir mon territoire! Que ta main soit avec moi! Préserve-moi du mal, afin que je ne vive pas dans la douleur!» Et Dieu lui accorda ce qu'il avait demandé."
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "Keloub, frère de Chouha, eut pour fils Mehir, qui fut le père d’Echtôn.",
+        "DBY": "Et Kelub, frère de Shukha, engendra Mekhir; il fut père d'Eshton.",
+        "KJV": "And Chelub the brother of Shuah begat Mehir, which [was] the father of Eshton.",
+        "LSG": "Kelub, frère de Schucha, engendra Mechir, qui fut père d'Eschthon.",
+        "MAB": "Et Kélub frère de Suha engendra Méhir, qui [fut] père d'Eston.",
+        "OST": "Kélub, frère de Shucha, engendra Méchir, qui fut père d'Eshthon.",
+        "S21": "Kelub, frère de Shucha, eut pour fils Mechir, le père d'Eshthon."
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "Echtôn fut le père de Beth-Rapha, Paséah et Tehinna, le père de Ir Nahach. Ce sont là les gens qui habitèrent Réka.",
+        "DBY": "Et Eshton engendra Beth-Rapha, et Paséakh, et Thekhinna, père de la ville de Nakhash: ce sont les gens de Réca.",
+        "KJV": "And Eshton begat Bethrapha, and Paseah, and Tehinnah the father of Irnahash. These [are] the men of Rechah.",
+        "LSG": "Eschthon engendra la maison de Rapha, Paséach, et Thechinna, père de la ville de Nachasch. Ce sont là les hommes de Réca.",
+        "MAB": "Et Eston engendra Beth-rapha, Paséah, et Téhinna, père d'Hirnahas; ce sont là les gens de Réca.",
+        "OST": "Eshthon engendra la maison de Rapha, Paséach et Théchinna, père de la ville de Nachash. Ce sont là les gens de Réca.",
+        "S21": "Eshthon eut pour descendants la famille de Rapha, Paséach et Thechinna, le père de la ville de Nachash. Ce sont les habitants de Réca."
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "Fils de Qenaz: Otniel et Seraya. Fils d’Otniel: Hatath",
+        "DBY": "-Et les fils de Kenaz: Othniel et Seraïa; et les fils d'Othniel: Hathath.",
+        "KJV": "And the sons of Kenaz; Othniel, and Seraiah: and the sons of Othniel; Hathath.",
+        "LSG": "Fils de Kenaz: Othniel et Seraja. Fils d'Othniel: Hathath.",
+        "MAB": "Et les enfants de Kénaz furent, Hothniel et Séraja. Et les enfants de Hothniel, Hathath.",
+        "OST": "Fils de Kénaz: Othniel et Séraja. Fils d'Othniel: Hathath.",
+        "S21": "Fils de Kenaz: Othniel et Seraja. Fils d'Othniel: Hathath."
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "et Meonotaï qui fut le père d’Ophra. Seraya fut le père de Joab qui fut celui de Ge Harashim.",
+        "DBY": "Méonothaï engendra Ophra; et Seraïa engendra Joab, père de la vallée des artisans; car ils étaient artisans.",
+        "KJV": "And Meonothai begat Ophrah: and Seraiah begat Joab, the father of the valley of Charashim; for they were craftsmen.",
+        "LSG": "Meonothaï engendra Ophra. Seraja engendra Joab, père de la vallée des ouvriers; car ils étaient ouvriers.",
+        "MAB": "Et Méhonothaï engendra Hophra; et Séraja engendra Joab père de la vallée des ouvriers; car ils étaient ouvriers.",
+        "OST": "Méonothaï engendra Ophra. Séraja engendra Joab, père de la vallée des ouvriers; car ils étaient ouvriers.",
+        "S21": "Meonothaï eut pour fils Ophra. Seraja eut Joab, père de la vallée des artisans. En effet, c’étaient des artisans."
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "Fils de Caleb, fils de Yephounné: Irou, Ela et Naam.\r\nQenaz fut le fils d’Ela.",
+        "DBY": "-Et les fils de Caleb, fils de Jephunné: Iru, Éla, et Naam; et les fils d'Éla,… et Kenaz.",
+        "KJV": "And the sons of Caleb the son of Jephunneh; Iru, Elah, and Naam: and the sons of Elah, even Kenaz.",
+        "LSG": "Fils de Caleb, fils de Jephunné: Iru, Ela et Naam, et les fils d'Ela, et Kenaz.",
+        "MAB": "Et les enfants de Caleb, fils de Jéphunné, furent, Hiru, Ela, et Naham. Et les enfants d'Ela, Kénaz.",
+        "OST": "Fils de Caleb, fils de Jéphunné: Iru, Éla et Naam, et les fils d'Éla, et Kénaz.",
+        "S21": "Descendants de Caleb, le fils de Jephunné: Iru, Ela et Naam, ainsi que les fils d'Ela et Kenaz."
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "Fils de Yehalléleél: Ziph, Zipha, Tirya et Asareel.",
+        "DBY": "-Et les fils de Jehalléleël: Ziph, et Zipha, Tiria, et Asçareël.",
+        "KJV": "And the sons of Jehaleleel; Ziph, and Ziphah, Tiria, and Asareel.",
+        "LSG": "Fils de Jehalléleel: Ziph, Zipha, Thirja et Asareel.",
+        "MAB": "Et les enfants de Jehallelel furent, Ziph, Zipha, Tiria, et Asarel.",
+        "OST": "Fils de Jehalléléel: Ziph, Zipha, Thiria et Asaréel.",
+        "S21": "Fils de Jehalléleel: Ziph, Zipha, Thirja et Asareel."
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "Fils d’Esdras: Yeter, Méred, Epher et Yalôn. Méred épousa Bitya, une fille du pharaon, qui conçut Miryam, Chammaï et Yichbah, le père d’Echtemoa. De sa femme judéenne, il eut Yéred, le père de Guedor, Héber, celui de Soko et Yeqoutiel, celui de Zanoah.",
+        "DBY": "-Et les fils d'Esdras: Jéther, et Méred, et Épher, et Jalon; et elle conçut, et enfanta Miriam, et Shammaï, et Jishbakh, père d'Eshtemoa.",
+        "KJV": "And the sons of Ezra [were], Jether, and Mered, and Epher, and Jalon: and she bare Miriam, and Shammai, and Ishbah the father of Eshtemoa.",
+        "LSG": "Fils d'Esdras: Jéther, Méred, Epher et Jalon. La femme de Méred enfanta Miriam, Schammaï, et Jischbach, père d'Eschthemoa.",
+        "MAB": "Et les enfants d'Esdras furent, Jéther, Méred, Hépher, et Jalon; et [la femme de Méred] enfanta Marie, Sammaï, et Jisbah père d'Estemoah.",
+        "OST": "Fils d'Esdras: Jéther, Méred, Épher et Jalon. Une femme de Méred enfanta Miriam, Shammaï, et Jishbach, père d'Eshthémoa.",
+        "S21": "Fils d'Esdras: Jéther, Méred, Epher et Jalon. La femme de Méred lui donna Miriam, Shammaï et Jishbach, le père d'Eshthemoa."
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "Fils de la femme de Hodiya, sœur de Naham: le père de Qeïla, le Garmite et d’Echtemoa, le Maakathite.",
+        "DBY": "Et sa femme, la Juive, enfanta Jéred, père de Guedor, et Héber, père de Soco, et Jekuthiel, père de Zanoakh. Et ceux-là sont les fils de Bithia, fille du Pharaon, que Méred prit pour femme.",
+        "KJV": "And his wife Jehudijah bare Jered the father of Gedor, and Heber the father of Socho, and Jekuthiel the father of Zanoah. And these [are] the sons of Bithiah the daughter of Pharaoh, which Mered took.",
+        "LSG": "Sa femme, la Juive, enfanta Jéred, père de Guedor, Héber, père de Soco, et Jekuthiel, père de Zanoach. Ceux-là sont les fils de Bithja, fille de Pharaon, que Méred prit pour femme.",
+        "MAB": "Et sa femme Jéhudija enfanta Jéred père de Guédor, et Héber père de Soco, et Jékuthiel père de Zanoah. Mais ceux-là [sont] les enfants de Bithia fille de Pharaon, que Méred prit [pour femme].",
+        "OST": "Sa femme, la Juive, enfanta Jéred, père de Guédor, Héber, père de Soco, et Jékuthiel, père de Zanoach. Ceux-là sont les enfants de Bithia, fille de Pharaon, que Méred prit pour femme.",
+        "S21": "Sa femme judéenne mit au monde Jéred, père de Guedor, Héber, père de Soco, et Jekuthiel, père de Zanoach. Les autres étaient les enfants de Bithja, la fille du pharaon, que Méred avait prise pour femme."
+      }
+    },
+    {
+      "verse": 19,
+      "texts": {
+        "BDS": "Fils de Simon: Amnôn, Rinna, Ben-Hanan et Tilôn. Fils de Yicheï: Zoheth et Ben-Zoheth.",
+        "DBY": "-Et les fils de la femme d'Hodija, sœur de Nakham: le père de Kehila, le Garmien, et Eshtemoa, le Maacathien.",
+        "KJV": "And the sons of [his] wife Hodiah the sister of Naham, the father of Keilah the Garmite, and Eshtemoa the Maachathite.",
+        "LSG": "Fils de la femme d'Hodija, soeur de Nacham: le père de Kehila, le Garmien, et Eschthemoa, le Maacathien.",
+        "MAB": "Et les enfants de la femme de Hodija, sœur de Naham, furent le père de Kéhila Garmien, et Estemoah Mahacatien.",
+        "OST": "Fils de la femme d'Hodija, sœur de Nacham: le père de Kéhila le Garmien, et Eshthémoa le Maacathien.",
+        "S21": "Fils de la femme d'Hodija, qui était une sœur de Nacham: le père de Kehila le Garmien et Eshthemoa le Maacathien."
+      }
+    },
+    {
+      "verse": 20,
+      "texts": {
+        "BDS": "Descendants de Chéla, fils de Juda: Er, père de Léka, Laeda, père de Marécha, et les familles qui travaillent le byssus à Beth-Achbéa,",
+        "DBY": "-Et les fils de Shimon: Amnon, et Rinna, Ben-Hanan, et Thilon. -Et les fils de Jishi: Zokheth et Ben-Zokheth.",
+        "KJV": "And the sons of Shimon [were], Amnon, and Rinnah, Benhanan, and Tilon. And the sons of Ishi [were], Zoheth, and Benzoheth.",
+        "LSG": "Fils de Simon: Amnon, Rinna, Ben-Hanan et Thilon. Fils de Jischeï: Zocheth et Ben-Zocheth.",
+        "MAB": "Et les enfants de Simmon [furent], Amnon, Rinna, Ben-hanan, et Tilon. Et les enfants de Jishi furent, Zoheth, et Ben-zoheth.",
+        "OST": "Fils de Simon: Amnon, Rinna, Ben-Hanan et Thélon. Fils de Jisheï: Zocheth et Ben-Zocheth.",
+        "S21": "Fils de Simon: Amnon, Rinna, Ben-Hanan et Thilon. Descendants de Jisheï: Zocheth et Ben-Zocheth."
+      }
+    },
+    {
+      "verse": 21,
+      "texts": {
+        "BDS": "Yoqim, les hommes de Kozéba, Yoach et Saraph, qui dominèrent sur Moab, et sur Yachoubi-Léhem. Ces choses sont anciennes.",
+        "DBY": "Les fils de Shéla, fils de Juda: Er, père de Léca, et Lahda, père de Marésha, et les familles de la maison des ouvriers en byssus de la maison d'Ashbéa,",
+        "KJV": "The sons of Shelah the son of Judah [were], Er the father of Lecah, and Laadah the father of Mareshah, and the families of the house of them that wrought fine linen, of the house of Ashbea,",
+        "LSG": "Fils de Schéla, fils de Juda: Er, père de Léca, Laeda, père de Maréscha, et les familles de la maison où l'on travaille le byssus, de la maison d'Aschbéa,",
+        "MAB": "Les enfants de Séla fils de Juda, [furent], Hel père de Léca, et Lahda père de Marésa, et les familles de la maison de l'ouvrage du fin lin, qui sont de la maison d'Absbéath.",
+        "OST": "Fils de Shéla, fils de Juda: Er, père de Léca, Laëda, père de Marésha, et les familles de la maison des ouvriers en lin fin, de la maison d'Ashbéa,",
+        "S21": "Descendants de Shéla, le fils de Juda: Er, le père de Léca, Laeda, le père de Marésha, ainsi que les clans qui travaillent le textile à Beth-Ashbéa."
+      }
+    },
+    {
+      "verse": 22,
+      "texts": {
+        "BDS": "C’étaient des potiers qui habitaient à Netaïm et Guedéra près du roi et travaillaient pour lui.",
+        "DBY": "et Jokim, et les gens de Cozéba, et Joas, et Saraph, qui dominèrent en Moab, et Jashubi-Lékhem. Ce sont des choses anciennes.",
+        "KJV": "And Jokim, and the men of Chozeba, and Joash, and Saraph, who had the dominion in Moab, and Jashubilehem. And [these are] ancient things.",
+        "LSG": "et Jokim, et les hommes de Cozéba, et Joas et Saraph, qui dominèrent sur Moab, et Jaschubi-Léchem. Ces choses sont anciennes.",
+        "MAB": "Et Jokim, et les gens de Cozeba, et Joas, et Saraph, qui dominèrent sur Moab, et Jasubiléhem; mais ce sont là des choses anciennes).",
+        "OST": "Et Jokim, et les gens de Cozéba, et Joas et Saraph, qui dominèrent sur Moab, et Jashubi-Léchem. Ces choses sont anciennes.",
+        "S21": "Il avait aussi pour descendants Jokim, les habitants de Cozéba, Joas et Saraph – qui dominèrent sur Moab – et Jashubi-Léchem. Ces événements sont anciens."
+      }
+    },
+    {
+      "verse": 23,
+      "texts": {
+        "BDS": "Fils de Siméon: Nemouel, Yamîn, Yarib, Zérah, Saül.",
+        "DBY": "C'étaient les potiers, et les gens qui se tenaient dans les plantations et dans les enclos; ils habitaient là, auprès du roi, pour ses travaux.",
+        "KJV": "These [were] the potters, and those that dwelt among plants and hedges: there they dwelt with the king for his work.",
+        "LSG": "C'étaient les potiers et les habitants des plantations et des parcs; ils demeuraient là près du roi et travaillaient pour lui.",
+        "MAB": "Ils furent potiers de terre, et gens qui se tenaient dans les vergers et dans les parcs, [et] qui habitaient là chez le Roi pour son ouvrage.",
+        "OST": "C'étaient les potiers et les habitants des plantations et des parcs; ils habitaient là auprès du roi pour son ouvrage.",
+        "S21": "C'étaient les potiers et les habitants des plantations et des parcs; ils habitaient là près du roi et travaillaient pour lui."
+      }
+    },
+    {
+      "verse": 24,
+      "texts": {
+        "BDS": "Son fils: Challoum, son fils Mibsam, son fils Michma.",
+        "DBY": "Les fils de Siméon: Nemuel, et Jamin, Jarib, Zérakh, et Saül;",
+        "KJV": "The sons of Simeon [were], Nemuel, and Jamin, Jarib, Zerah, [and] Shaul:",
+        "LSG": "Fils de Siméon: Nemuel, Jamin, Jarib, Zérach, Saül.",
+        "MAB": "Les enfants de Siméon furent, Némuël, Jamin, Jarib, Zérah, et Saül.",
+        "OST": "Fils de Siméon: Némuel, Jamin, Jarib, Zérach, Saül;",
+        "S21": "Fils de Siméon: Nemuel, Jamin, Jarib, Zérach, Saül."
+      }
+    },
+    {
+      "verse": 25,
+      "texts": {
+        "BDS": "Michma eut pour fils Hammouel, Zakkour et Chimeï.",
+        "DBY": "Shallum, son fils; Mibsam, son fils; Mishma, son fils.",
+        "KJV": "Shallum his son, Mibsam his son, Mishma his son.",
+        "LSG": "Fils de Saül: Schallum. Mibsam, son fils; Mischma, son fils.",
+        "MAB": "Sallum son fils, Mibsam son fils, et Mismah son fils.",
+        "OST": "Shallum, son fils; Mibsam, son fils, et Mishma, son fils.",
+        "S21": "Descendants de Saül: Shallum, lui-même père de Mibsam, père de Mishma."
+      }
+    },
+    {
+      "verse": 26,
+      "texts": {
+        "BDS": "Chimeï eut seize fils et six filles. Ses frères n’eurent pas beaucoup de fils. C’est pourquoi les familles de Siméon ne se multiplièrent pas autant que les descendants de Juda.",
+        "DBY": "Et les fils de Mishma: Hammuel, son fils; Zaccur, son fils; Shimhi, son fils.",
+        "KJV": "And the sons of Mishma; Hamuel his son, Zacchur his son, Shimei his son.",
+        "LSG": "Fils de Mischma: Hammuel, son fils. Zaccur, son fils; Schimeï, son fils.",
+        "MAB": "Et les enfants de Mismah furent Hamuël son fils, Zacur son fils, et Simhi son fils.",
+        "OST": "Fils de Mishma: Hamuel, son fils; Zaccur, son fils; Shimeï, son fils.",
+        "S21": "Descendants de Mishma: Hammuel, lui-même père de Zaccur, père de Shimeï."
+      }
+    },
+    {
+      "verse": 27,
+      "texts": {
+        "BDS": "Elles habitaient à Beer-Chéba, à Molada, à Hatsar-Choual,",
+        "DBY": "Et Shimhi eut seize fils et six filles. Et ses frères n'eurent pas beaucoup de fils, et toutes leurs familles ne se multiplièrent pas comme les fils de Juda.",
+        "KJV": "And Shimei had sixteen sons and six daughters; but his brethren had not many children, neither did all their family multiply, like to the children of Judah.",
+        "LSG": "Schimeï eut seize fils et six filles. Ses frères n'eurent pas beaucoup de fils. Et toutes leurs familles ne se multiplièrent pas autant que les fils de Juda.",
+        "MAB": "Et Simhi eut seize fils et six filles; mais ses frères n'eurent pas beaucoup d'enfants, et toute leur famille ne put être aussi nombreuse que celle des enfants de Juda.",
+        "OST": "Shimeï eut seize fils et six filles; ses frères n'eurent pas beaucoup d'enfants, et toutes leurs familles ne se multiplièrent pas autant que les fils de Juda.",
+        "S21": "Shimeï eut 16 fils et 6 filles. Ses frères n'eurent pas beaucoup de fils et leur clan tout entier n’atteignit pas le nombre des descendants de Juda."
+      }
+    },
+    {
+      "verse": 28,
+      "texts": {
+        "BDS": "à Bilha, à Etsém, à Tolad,",
+        "DBY": "Et ils habitèrent à Beër-Sheba, et à Molada,",
+        "KJV": "And they dwelt at Beersheba, and Moladah, and Hazarshual,",
+        "LSG": "Ils habitaient à Beer-Schéba, à Molada, à Hatsar-Schual,",
+        "MAB": "Et ils habitèrent à Béer-sebah, à Molada, à Hatsar-stuhal,",
+        "OST": "Ils habitèrent à Béer-Shéba, à Molada, à Hatsar-Shual,",
+        "S21": "Ils habitaient à Beer-Shéba, Molada, Hatsar-Shual,"
+      }
+    },
+    {
+      "verse": 29,
+      "texts": {
+        "BDS": "à Betouel, à Horma, à Tsiqlag,",
+        "DBY": "et à Hatsar-Shual, et à Bilha, et à Etsem, et à Tholad,",
+        "KJV": "And at Bilhah, and at Ezem, and at Tolad,",
+        "LSG": "Bilha, à Etsem, à Tholad,",
+        "MAB": "A Bilha, à Hetsem, à Tholad,",
+        "OST": "A Bilha, à Etsem, à Tholad,",
+        "S21": "Bilha, Etsem, Tholad,"
+      }
+    },
+    {
+      "verse": 30,
+      "texts": {
+        "BDS": "à Beth-Markaboth, à Hatsar-Sousim, à Beth-Bireï et à Chaaraïm. Telles furent leurs villes jusqu’au règne de David,",
+        "DBY": "et à Bethuel, et à Horma, et à Tsiklag,",
+        "KJV": "And at Bethuel, and at Hormah, and at Ziklag,",
+        "LSG": "Bethuel, à Horma, à Tsiklag,",
+        "MAB": "A Betuël, à Horma, à Tsiklag,",
+        "OST": "A Béthuel, à Horma, à Tsiklag,",
+        "S21": "Bethuel, Horma, Tsiklag,"
+      }
+    },
+    {
+      "verse": 31,
+      "texts": {
+        "BDS": "et leurs villages étaient au nombre de cinq: Etam, Aïn, Rimmôn, Tokên et Achân.",
+        "DBY": "et à Beth-Marcaboth, et à Hatsar-Susim, et à Beth-Biri, et à Shaaraïm. Ce furent leurs villes jusqu'au règne de David.",
+        "KJV": "And at Bethmarcaboth, and Hazarsusim, and at Bethbirei, and at Shaaraim. These [were] their cities unto the reign of David.",
+        "LSG": "Beth-Marcaboth, à Hatsar-Susim, à Beth-Bireï et à Schaaraïm. Ce furent là leurs villes jusqu'au règne de David, et leurs villages.",
+        "MAB": "A Beth-marcaboth, à Hatsarsusim, à Beth-birei, et à Saharajim. Ce furent là leurs villes jusqu'au temps que David fut Roi.",
+        "OST": "A Beth-Marcaboth, à Hatsar-Susim, à Beth-Biréï et à Shaaraïm. Ce furent là leurs villes jusqu'au règne de David.",
+        "S21": "Beth-Marcaboth, Hatsar-Susim, Beth-Bireï et Shaaraïm. Telles furent leurs villes jusqu'au règne de David, avec leurs villages."
+      }
+    },
+    {
+      "verse": 32,
+      "texts": {
+        "BDS": "Il faut ajouter tous les villages qui sont aux alentours de ces villes, jusqu’à Baal. Telles furent leurs habitations et leur généalogie.",
+        "DBY": "Et leurs villages: Étam, et Aïn, Rimmon, et Thoken, et Ashan, cinq villes,",
+        "KJV": "And their villages [were], Etam, and Ain, Rimmon, and Tochen, and Ashan, five cities:",
+        "LSG": "Ils avaient encore Etham, Aïn, Rimmon, Thoken et Aschan, cinq villes;",
+        "MAB": "Et leurs bourgades furent, Hétam, Hajin, Rimmon, Token, et Hassan, cinq villes;",
+        "OST": "Et leurs villages furent Etam, Aïn, Rimmon, Thoken et Assan, cinq villes;",
+        "S21": "Ils avaient encore Etham, Aïn, Rimmon, Thoken et Ashan, ce qui fait 5 villes,"
+      }
+    },
+    {
+      "verse": 33,
+      "texts": {
+        "BDS": "Mechobad; Yamlek; Yocha, fils d’Amatsia;",
+        "DBY": "et tous leurs villages qui étaient autour de ces villes, jusqu'à Baal. Ce sont là leurs habitations et leur registre généalogique.",
+        "KJV": "And all their villages that [were] round about the same cities, unto Baal. These [were] their habitations, and their genealogy.",
+        "LSG": "et tous les villages aux environs de ces villes, jusqu'à Baal. Voilà leurs habitations et leur généalogie.",
+        "MAB": "Et tous leurs villages, qui étaient autour de ces villes-là, jusqu'à Bahal. Ce sont là leurs habitations, et leur généalogie.",
+        "OST": "Et tous leurs villages, qui étaient autour de ces villes, jusqu'à Baal. Ce sont là leurs habitations et leur enregistrement généalogique.",
+        "S21": "et tous les villages situés aux environs de ces villes, jusqu'à Baal. Voilà leurs lieux d’habitation et leur généalogie."
+      }
+    },
+    {
+      "verse": 34,
+      "texts": {
+        "BDS": "Joël, Jéhu, fils de Yochibia, fils de Seraya, fils de Asiel,",
+        "DBY": "-Et Meshobab, et Jamlec, et Josha, fils d'Amatsia;",
+        "KJV": "And Meshobab, and Jamlech, and Joshah the son of Amaziah,",
+        "LSG": "Meschobab; Jamlec; Joscha, fils d'Amatsia;",
+        "MAB": "Or Mésobab, Jamlec, Josa fils d'Amatsia;",
+        "OST": "Meshobab, Jamlec, Josha, fils d'Amats;",
+        "S21": "Quant à Meshobab, Jamlec, Josha, le fils d'Amatsia,"
+      }
+    },
+    {
+      "verse": 35,
+      "texts": {
+        "BDS": "Elyoénaï, Yaaqoba; Yechohaya, Asaya, Adiel, Yesimiel, Benaya,",
+        "DBY": "et Joël, et Jéhu, fils de Joshibia, fils de Seraïa, fils d'Asciel;",
+        "KJV": "And Joel, and Jehu the son of Josibiah, the son of Seraiah, the son of Asiel,",
+        "LSG": "Joël; Jéhu, fils de Joschibia, fils de Seraja, fils d'Asiel;",
+        "MAB": "Joël, Jéhu fils de Josibia, fils de Séraja, fils de Hasiel;",
+        "OST": "Joël, Jéhu, fils de Joshbia, fils de Séraja, fils d'Asiel;",
+        "S21": "Joël, Jéhu, le fils de Joshibia, lui-même fils de Seraja, fils d'Asiel,"
+      }
+    },
+    {
+      "verse": 36,
+      "texts": {
+        "BDS": "Ziza, fils de Chipheï, et petit-fils d’Allôn, lui-même descendant de Yedaya, de Chimri et de Chemaeya.",
+        "DBY": "et Elioénaï, et Jaakoba, et Jeshokhaïa, et Asçaïa, et Adiel, et Jescimiel, et Benaïa,",
+        "KJV": "And Elioenai, and Jaakobah, and Jeshohaiah, and Asaiah, and Adiel, and Jesimiel, and Benaiah,",
+        "LSG": "Eljoénaï; Jaakoba; Jeschochaja; Asaja; Adiel; Jesimiel; Benaja;",
+        "MAB": "Eliohenaï, Jahakoba, Jésahaja, Hasaïa, Hadiël, Jésimiël, Bénéja.",
+        "OST": "Éljoénaï, Jaakoba, Jeshochaïa, Asaja, Adiel, Jésimiel, Bénaja;",
+        "S21": "Eljoénaï, Jaakoba, Jeshochaja, Asaja, Adiel, Jesimiel, Benaja"
+      }
+    },
+    {
+      "verse": 37,
+      "texts": {
+        "BDS": "Ces hommes qui viennent d’être nommés étaient les chefs de leurs familles, leurs groupes familiaux devinrent très nombreux",
+        "DBY": "et Ziza, fils de Shiphi, fils d'Allon, fils de Jedaïa, fils de Shimri, fils de Shemahia.",
+        "KJV": "And Ziza the son of Shiphi, the son of Allon, the son of Jedaiah, the son of Shimri, the son of Shemaiah;",
+        "LSG": "Ziza, fils de Schipheï, fils d'Allon, fils de Jedaja, fils de Schimri, fils de Schemaeja.",
+        "MAB": "Et Ziza, fils de Siphehi, fils d'Allon, fils de Jedaja, fils de Simri, fils de Semahja;",
+        "OST": "Ziza, fils de Shiphéï, fils d'Allon, fils de Jédaja, fils de Shimri, fils de Shémaja.",
+        "S21": "et Ziza, le fils de Shipheï, lui-même fils d'Allon, fils de Jedaja, fils de Shimri, fils de Shemaeja,"
+      }
+    },
+    {
+      "verse": 38,
+      "texts": {
+        "BDS": "et ils se dispersèrent jusqu’à l’entrée de Guedor, à l’est de la vallée, afin de chercher des pâturages pour leurs moutons et chèvres.",
+        "DBY": "Ceux-ci, mentionnés par nom, furent princes dans leurs familles; et leurs maisons de pères se répandirent beaucoup.",
+        "KJV": "These mentioned by [their] names [were] princes in their families: and the house of their fathers increased greatly.",
+        "LSG": "Ceux-là, désignés par leurs noms, étaient princes dans leurs familles, et leurs maisons paternelles prirent un grand accroissement.",
+        "MAB": "Etaient ceux qui avaient été nommés pour être les principaux dans leurs familles, lorsque les maisons de leurs pères multiplièrent beaucoup.",
+        "OST": "Ceux-là, désignés par leurs noms, étaient princes dans leurs familles, et les maisons de leurs pères se répandirent beaucoup.",
+        "S21": "ces hommes, qui viennent d’être désignés par leur nom, étaient chefs de leur clan, et leurs familles grandirent tant"
+      }
+    },
+    {
+      "verse": 39,
+      "texts": {
+        "BDS": "Ils trouvèrent de gras et bons pâturages, et un pays vaste, tranquille et paisible; ceux qui l’habitaient auparavant descendaient de Cham.",
+        "DBY": "Et ils allèrent à l'entrée de Guedor, jusqu'à l'orient de la vallée, pour chercher des pâturages pour leur menu bétail;",
+        "KJV": "And they went to the entrance of Gedor, [even] unto the east side of the valley, to seek pasture for their flocks.",
+        "LSG": "Ils allèrent du côté de Guedor jusqu'à l'orient de la vallée, afin de chercher des pâturages pour leurs troupeaux.",
+        "MAB": "Et ils partirent pour entrer dans Guédor, jusqu'à l'Orient de la vallée, cherchant des pâturages pour leurs troupeaux.",
+        "OST": "Ils allèrent vers Guédor, jusqu'à l'orient de la vallée, cherchant des pâturages pour leurs troupeaux.",
+        "S21": "qu’ils allèrent du côté de Guedor, jusqu'à l'est de la vallée, afin de chercher des pâturages pour leurs troupeaux."
+      }
+    },
+    {
+      "verse": 40,
+      "texts": {
+        "BDS": "Du temps d’Ezéchias, roi de Juda, ces hommes qui viennent d’être cités arrivèrent dans cette région, détruisirent les lieux d’habitation et les abris qui se trouvaient là, ils exterminèrent les habitants pour les vouer à l’Eternel, et ceux-ci ont disparu jusqu’à ce jour. Puis ils s’établirent à leur place, car il y avait là des pâturages pour leur petit bétail.",
+        "DBY": "et ils trouvèrent un pâturage gras et bon, et un pays spacieux, et paisible et fertile; car ceux qui avaient habité là auparavant étaient de Cham.",
+        "KJV": "And they found fat pasture and good, and the land [was] wide, and quiet, and peaceable; for [they] of Ham had dwelt there of old.",
+        "LSG": "Ils trouvèrent de gras et bons pâturages, et un pays vaste, tranquille et paisible, car ceux qui l'habitaient auparavant descendaient de Cham.",
+        "MAB": "Et ils trouvèrent des pâturages gras et bons, et un pays spacieux, paisible, et fertile; car ceux qui avaient habité là auparavant étaient descendus de Cam.",
+        "OST": "Ils trouvèrent des pâturages gras et bons, et une contrée spacieuse en tous sens, tranquille et sûre; car ceux qui habitaient là auparavant descendaient de Cham.",
+        "S21": "Ils y trouvèrent de riches et bons pâturages et une région vaste, tranquille et paisible, car ceux qui l'habitaient auparavant descendaient de Cham."
+      }
+    },
+    {
+      "verse": 41,
+      "texts": {
+        "BDS": "Il y eut aussi cinq cents descendants de Siméon, qui se rendirent dans la région montagneuse de Séir, avec, à leur tête, Pelatia, Nearia, Rephaya et Ouzziel, les fils de Yicheï.",
+        "DBY": "Et ceux-ci, écrits par nom, vinrent au temps d'Ézéchias, rois de Juda; et ils frappèrent leurs tentes et les Maonites qui se trouvaient là, et les détruisirent entièrement, jusqu'à ce jour, et habitèrent à leur place; car il y avait là des pâturages pour leur menu bétail.",
+        "KJV": "And these written by name came in the days of Hezekiah king of Judah, and smote their tents, and the habitations that were found there, and destroyed them utterly unto this day, and dwelt in their rooms: because [there was] pasture there for their flocks.",
+        "LSG": "Ces hommes, inscrits par leurs noms, arrivèrent du temps d'Ezéchias, roi de Juda; ils attaquèrent leurs tentes et les Maonites qui se trouvaient là, ils les dévouèrent par interdit jusqu'à ce jour, et ils s'établirent à leur place, car il y avait là des pâturages pour leurs troupeaux.",
+        "MAB": "Ceux-ci donc qui ont été décrits par leurs noms, vinrent du temps d'Ezéchias Roi de Juda, et abattirent leurs tentes, et les habitations qui y furent trouvées, et les détruisirent à la façon de l'interdit, jusqu'à ce jour, et y habitèrent à leur place, car il y avait là des pâturages pour leurs brebis.",
+        "OST": "Ces hommes inscrits par leurs noms, vinrent du temps d'Ézéchias, roi de Juda, et frappèrent leurs tentes et les Maonites qui se trouvaient là; ils les vouèrent à l'interdit jusqu'à ce jour, et ils habitèrent à leur place, car il y avait là des pâturages pour leurs troupeaux.",
+        "S21": "Ces hommes mentionnés par leur nom arrivèrent là durant le règne d'Ezéchias sur Juda. Ils attaquèrent leurs tentes et les habitations qui se trouvaient là, ils les vouèrent à la destruction, et ce jusqu'à aujourd’hui. Puis ils s'installèrent à leur place, car il y avait là des pâturages pour leurs troupeaux."
+      }
+    },
+    {
+      "verse": 42,
+      "texts": {
+        "BDS": "Ils tuèrent le reste des rescapés d’Amalec, et ont habité là jusqu’à aujourd’hui.",
+        "DBY": "Et cinq cents hommes d'entre eux, des fils de Siméon, s'en allèrent à la montagne de Séhir; et ils avaient à leur tête Pelatia, et Nearia, et Rephaïa, et Uziel, les fils de Jishi;",
+        "KJV": "And [some] of them, [even] of the sons of Simeon, five hundred men, went to mount Seir, having for their captains Pelatiah, and Neariah, and Rephaiah, and Uzziel, the sons of Ishi.",
+        "LSG": "Il y eut aussi des fils de Siméon qui allèrent à la montagne de Séir, au nombre de cinq cents hommes. Ils avaient à leur tête Pelathia, Nearia, Rephaja et Uziel, fils de Jischeï.",
+        "MAB": "Et cinq cents hommes d'entr'eux, [c'est-à-dire], des enfants de Siméon, s'en allèrent en la montagne de Séhir, et ils avaient pour leurs chefs Pelatia, Néharia, Rephaia, et Huziël, enfants de Jishi;",
+        "OST": "Cinq cents hommes d'entre eux, des enfants de Siméon, s'en allèrent à la montagne de Séir, ayant à leur tête Pélatia, Néaria, Réphaja et Uziel, enfants de Jisheï.",
+        "S21": "Il y eut aussi 500 hommes parmi eux, parmi les descendants de Siméon, qui se rendirent dans la région montagneuse de Séir. Ils avaient à leur tête Pelathia, Nearia, Rephaja et Uziel, fils de Jisheï."
+      }
+    },
+    {
+      "verse": 43,
+      "texts": {
+        "DBY": "et ils frappèrent le reste des réchappés d'Amalek; et ils ont habité là jusqu'à ce jour.",
+        "KJV": "And they smote the rest of the Amalekites that were escaped, and dwelt there unto this day.",
+        "LSG": "Ils battirent le reste des réchappés d'Amalek, et ils s'établirent là jusqu'à ce jour.",
+        "MAB": "Et ils frappèrent le reste des réchappés des Hamalécites, et ils ont habité là jusqu'à aujourd'hui.",
+        "OST": "Ils frappèrent le reste des réchappés d'Amalek, et ils ont habité là jusqu'à ce jour.",
+        "S21": "Ils battirent le reste des survivants amalécites et s'installèrent là jusqu'à aujourd’hui."
+      }
+    }
+  ]
+}

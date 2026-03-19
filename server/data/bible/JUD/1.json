@@ -1,0 +1,306 @@
+{
+  "bookCode": "JUD",
+  "chapter": 1,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "Jude, serviteur de Jésus-Christ et frère de Jacques, salue ceux que Dieu a appelés, qui sont aimés de Dieu le Père et gardés pour Jésus-Christ.",
+        "DBY": "Jude, esclave de Jésus Christ et frère de Jacques, aux appelés, bien-aimés en Dieu le Père, et conservés en Jésus Christ:",
+        "KJV": "Jude, the servant of Jesus Christ, and brother of James, to them that are sanctified by God the Father, and preserved in Jesus Christ, [and] called:",
+        "LSG": "Jude, serviteur de Jésus-Christ, et frère de Jacques, à ceux qui ont été appelés, qui sont aimés en Dieu le Père, et gardés pour Jésus Christ:",
+        "MAB": "Jude serviteur de Jésus-Christ, et frère de Jacques, à ceux qui ont été appelés [par l'Evangile], que Dieu a sanctifiés et Jésus-Christ a conservés.",
+        "OST": "Jude, serviteur de Jésus-Christ, et frère de Jacques, à ceux qui sont appelés, qui ont été sanctifiés en Dieu le Père, et gardés par Jésus-Christ.",
+        "S21": "De la part de Jude, serviteur de Jésus-Christ et frère de Jacques, à ceux qui ont été appelés, qui sont saints en Dieu le Père et gardés pour Jésus-Christ:"
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "Que la bonté, la paix et l’amour de Dieu vous soient pleinement accordés.",
+        "DBY": "Que la miséricorde, et la paix, et l'amour vous soient multipliés!",
+        "KJV": "Mercy unto you, and peace, and love, be multiplied.",
+        "LSG": "que la miséricorde, la paix et la charité vous soient multipliées!",
+        "MAB": "Que la miséricorde, la paix, et l'amour vous soient multipliés.",
+        "OST": "La miséricorde, la paix et la charité vous soient multipliées.",
+        "S21": "que la compassion, la paix et l'amour vous soient multipliés!"
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "Mes chers amis, j’avais le vif désir de vous écrire au sujet du salut qui nous est commun. J’ai vu la nécessité de le faire maintenant afin de vous recommander de lutter pour la foi qui a été transmise une fois pour toutes à ceux qui appartiennent à Dieu.",
+        "DBY": "Bien-aimés, quand j'usais de toute diligence pour vous écrire de notre commun salut, je me suis trouvé dans la nécessité de vous écrire afin de vous exhorter à combattre pour la foi qui a été une fois enseignée aux saints;",
+        "KJV": "Beloved, when I gave all diligence to write unto you of the common salvation, it was needful for me to write unto you, and exhort [you] that ye should earnestly contend for the faith which was once delivered unto the saints.",
+        "LSG": "Bien-aimés, comme je désirais vivement vous écrire au sujet de notre salut commun, je me suis senti obligé de le faire afin de vous exhorter à combattre pour la foi qui a été transmise aux saints une fois pour toutes.",
+        "MAB": "Mes bien-aimés, comme je m'étudie entièrement à vous écrire du salut [qui nous est] commun, il m'a été nécessaire de vous écrire pour vous exhorter à soutenir le combat pour la foi qui a été une fois donnée aux Saints.",
+        "OST": "Bien-aimés, plein de zèle pour vous écrire touchant notre salut commun, j'ai jugé nécessaire de le faire, pour vous exhorter à combattre pour la foi qui a été donnée une fois aux saints.",
+        "S21": "Bien-aimés, alors que j’avais le vif désir de vous écrire au sujet du salut qui nous est commun, j’ai été contraint de vous envoyer cette lettre afin de vous encourager à combattre pour la foi transmise aux saints une fois pour toutes."
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "Car des hommes dont la condamnation est depuis longtemps annoncée dans l’Ecriture se sont infiltrés parmi nous. Ils n’ont aucun respect pour Dieu et travestissent en débauche la grâce de notre Dieu en reniant Jésus-Christ, notre seul Maître et Seigneur.",
+        "DBY": "car certains hommes se sont glissés parmi les fidèles, inscrits jadis à l'avance pour ce jugement, des impies, qui changent la grâce de notre Dieu en dissolution, et qui renient notre seul maître et seigneur, Jésus Christ.",
+        "KJV": "For there are certain men crept in unawares, who were before of old ordained to this condemnation, ungodly men, turning the grace of our God into lasciviousness, and denying the only Lord God, and our Lord Jesus Christ.",
+        "LSG": "Car il s'est glissé parmi vous certains hommes, dont la condamnation est écrite depuis longtemps, des impies, qui changent la grâce de notre Dieu en dissolution, et qui renient notre seul maître et Seigneur Jésus-Christ.",
+        "MAB": "Car quelques-uns se sont glissés [parmi vous], qui dès longtemps auparavant ont été écrits pour une telle condamnation; gens sans piété, qui changent la grâce de notre Dieu en dissolution, et qui renoncent le seul Dominateur Jésus-Christ notre Dieu et Seigneur.",
+        "OST": "Car il s'est glissé parmi vous certains hommes, dont la condamnation est écrite depuis longtemps; des impies, qui changent la grâce de notre Dieu en dissolution, et qui renient Dieu, le seul Dominateur, et Jésus-Christ, notre Seigneur.",
+        "S21": "Il s'est en effet glissé parmi vous certains hommes dont la condamnation est écrite depuis longtemps. Ces impies transforment la grâce de notre Dieu en débauche et renient Dieu, le seul maître, et notre Seigneur Jésus-Christ."
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "Laissez-moi vous rappeler des faits que vous connaissez bien. Après avoir délivré son peuple de l’esclavage en Egypte, le Seigneur a fait périr ceux qui avaient refusé de lui faire confiance.",
+        "DBY": "Or je désire vous rappeler, à vous qui une fois saviez tout, que le Seigneur, ayant délivré le peuple du pays d'Égypte, a détruit ensuite ceux qui n'ont pas cru;",
+        "KJV": "I will therefore put you in remembrance, though ye once knew this, how that the Lord, having saved the people out of the land of Egypt, afterward destroyed them that believed not.",
+        "LSG": "Je veux vous rappeler, à vous qui savez fort bien toutes ces choses, que le Seigneur, après avoir sauvé le peuple et l'avoir tiré du pays d'Egypte, fit ensuite périr les incrédules;",
+        "MAB": "Or je veux vous faire souvenir d'une chose que vous savez déjà, [c'est] que le Seigneur ayant délivré le peuple du pays d'Egypte, il détruisit ensuite ceux qui n'avaient point cru;",
+        "OST": "Or, je veux vous rappeler, à vous qui l'avez su une fois, que le Seigneur ayant délivré le peuple du pays d'Égypte, détruisit ensuite ceux qui ne crurent pas;",
+        "S21": "Je veux vous rappeler – à vous qui le savez bien – que le Seigneur, après avoir sauvé le peuple en le faisant sortir d'Egypte, a fait ensuite mourir ceux qui s’étaient montrés incrédules."
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "Dieu a gardé, enchaînés à perpétuité dans les ténèbres pour le jugement du grand Jour, les anges qui ont abandonné leur demeure au lieu de conserver leur rang.",
+        "DBY": "-et qu'il a réservé dans des liens éternels, sous l'obscurité, pour le jugement du grand jour, les anges qui n'ont pas gardé leur origine, mais qui ont abandonné leur propre demeure;",
+        "KJV": "And the angels which kept not their first estate, but left their own habitation, he hath reserved in everlasting chains under darkness unto the judgment of the great day.",
+        "LSG": "qu'il a réservé pour le jugement du grand jour, enchaînés éternellement par les ténèbres, les anges qui n'ont pas gardé leur dignité, mais qui ont abandonné leur propre demeure;",
+        "MAB": "Et qu'il a réservé sous l'obscurité, dans des liens éternels, jusqu'au jugement de la grande journée, les Anges qui n'ont pas gardé leur origine, mais qui ont abandonné leur propre demeure;",
+        "OST": "Et qu'il retient par des chaînes éternelles dans les ténèbres, pour le jugement du grand jour, les anges qui n'ont pas gardé leur puissance, mais qui ont quitté leur propre demeure.",
+        "S21": "Quant aux anges qui n'ont pas conservé leur rang mais ont abandonné leur demeure propre, il les a enchaînés éternellement dans les ténèbres pour le jugement du grand jour."
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "Les habitants de Sodome, de Gomorrhe et des villes voisines se sont livrés de la même manière à la débauche et ont recherché des relations sexuelles contre nature. C’est pourquoi ces villes ont été condamnées à un feu éternel, elles aussi, et servent ainsi d’exemple.",
+        "DBY": "comme Sodome et Gomorrhe, et les villes d'alentour, s'étant abandonnées à la fornication de la même manière que ceux-là, et étant allées après une autre chair, sont là comme exemple, subissant la peine d'un feu éternel.",
+        "KJV": "Even as Sodom and Gomorrha, and the cities about them in like manner, giving themselves over to fornication, and going after strange flesh, are set forth for an example, suffering the vengeance of eternal fire.",
+        "LSG": "que Sodome et Gomorrhe et les villes voisines, qui se livrèrent comme eux à l'impudicité et à des vices contre nature, sont données en exemple, subissant la peine d'un feu éternel.",
+        "MAB": "[Et] que Sodome et Gomorrhe, et les villes voisines qui s'étaient abandonnées en la même manière que celles-ci, à l'impureté, et qui avaient couru après les péchés contre nature, ont été mises pour servir d'exemple, ayant reçu la punition du feu éternel;",
+        "OST": "Comme Sodome et Gomorrhe, et les villes voisines, qui s'étaient abandonnées à la même impureté qu'eux, et à des péchés contre nature, servent d'exemple, en souffrant la peine d'un feu éternel;",
+        "S21": "De même, Sodome et Gomorrhe et les villes voisines, qui se sont livrées comme eux à l’immoralité sexuelle et à des relations contre nature, sont données en exemple et subissent la peine d'un feu éternel."
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "Eh bien, malgré cela, ces individus font de même: leurs rêveries les entraînent à souiller leur propre corps, à rejeter l’autorité du Seigneur et à insulter les êtres glorieux du ciel.",
+        "DBY": "De la même manière cependant, ces rêveurs aussi souillent la chair, et méprisent la domination, et injurient les dignités.",
+        "KJV": "Likewise also these [filthy] dreamers defile the flesh, despise dominion, and speak evil of dignities.",
+        "LSG": "Malgré cela, ces hommes aussi, entraînés par leurs rêveries, souillent pareillement leur chair, méprisent l'autorité et injurient les gloires.",
+        "MAB": "Nonobstant cela ceux-ci tout de même s'étant endormis [dans le vice], souillent [leur] chair, méprisent la domination, et blâment les dignités.",
+        "OST": "Ceux-là de même, plongés dans leurs songes, souillent leur chair, et méprisent l'autorité et parlent mal des dignités.",
+        "S21": "Malgré cela, ces hommes adoptent une attitude semblable: entraînés par leurs rêveries, ils souillent leur corps, rejettent toute autorité et insultent les êtres glorieux."
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "Pourtant, l’archange Michel lui-même, lorsqu’il contestait avec le diable et lui disputait le corps de Moïse, se garda bien de proférer contre lui un jugement insultant. Il se contenta de dire: Que le Seigneur te punisse!",
+        "DBY": "Mais Michel l'archange, quand, discutant avec le diable, il contestait touchant le corps de Moïse, n'osa pas proférer de jugement injurieux contre lui; mais il dit: Que le Seigneur te censure!",
+        "KJV": "Yet Michael the archangel, when contending with the devil he disputed about the body of Moses, durst not bring against him a railing accusation, but said, The Lord rebuke thee.",
+        "LSG": "Or, l'archange Michel, lorsqu'il contestait avec le diable et lui disputait le corps de Moïse, n'osa pas porter contre lui un jugement injurieux, mais il dit: Que le Seigneur te réprime!",
+        "MAB": "Et néanmoins Michel l'Archange, quand il contestait disputant avec le Démon touchant le corps de Moïse, n'osa point prononcer de sentence de malédiction, mais il dit seulement : que le Seigneur te censure fortement!",
+        "OST": "Or, Michel l'archange, lorsqu'il contestait avec le diable touchant le corps de Moïse, n'osa pas porter de sentence de malédiction; mais il dit: Que le Seigneur te reprenne.",
+        "S21": "Or, lorsqu'il discutait avec le diable et lui disputait le corps de Moïse, l'archange Michel n'a pas osé porter de jugement insultant contre lui mais a dit: «Que le Seigneur te punisse!»"
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "Mais ces gens-là insultent ce qu’ils ne connaissent pas. Quant à ce qu’ils connaissent par instinct, comme les bêtes privées de raison, cela ne sert qu’à leur perte.",
+        "DBY": "Mais ceux-ci, ils injurient tout ce qu'ils ne connaissent pas, et se corrompent dans tout ce qu'ils comprennent naturellement comme des bêtes sans raison.",
+        "KJV": "But these speak evil of those things which they know not: but what they know naturally, as brute beasts, in those things they corrupt themselves.",
+        "LSG": "Eux, au contraire, ils parlent d'une manière injurieuse de ce qu'ils ignorent, et ils se corrompent dans ce qu'ils savent naturellement comme les brutes.",
+        "MAB": "Mais ceux-ci médisent de tout ce qu'ils n'entendent point, et se corrompent en tout ce qu'ils connaissent naturellement, comme font les bêtes brutes.",
+        "OST": "Mais ceux-ci parlent mal de tout ce qu'ils ne connaissent pas; et ils se corrompent en tout ce qu'ils savent naturellement, comme les animaux destitués de raison.",
+        "S21": "Eux, par contre, parlent d’une manière insultante de ce qu'ils ne connaissent pas et se détruisent par tout ce qu'ils savent d’instinct, comme des bêtes sans raison."
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "Malheur à eux! Ils ont marché sur les traces de Caïn; par amour du gain, ils sont tombés dans la même erreur que Balaam; ils ont couru à leur perte en se révoltant comme Qoré.",
+        "DBY": "Malheur à eux, car ils ont marché dans le chemin de Caïn, et se sont abandonnés à l'erreur de Balaam pour une récompense, et ont péri dans la contradiction de Coré.",
+        "KJV": "Woe unto them! for they have gone in the way of Cain, and ran greedily after the error of Balaam for reward, and perished in the gainsaying of Core.",
+        "LSG": "Malheur à eux! car ils ont suivi la voie de Caïn, ils se sont jetés pour un salaire dans l'égarement de Balaam, ils se sont perdus par la révolte de Coré.",
+        "MAB": "Malheur à eux, car ils ont suivi le train de Caïn, et ont couru, par un égarement [tel que celui] de Balaam, [après] la récompense, et ont péri par une contradiction [semblable à celle] de Coré.",
+        "OST": "Malheur à eux! car ils ont suivi la voie de Caïn; en effet, ils se sont jetés dans l'égarement de Balaam, l'amour du gain; ils ont péri de la rébellion de Coré.",
+        "S21": "Malheur à eux, car ils ont suivi la voie de Caïn, ils se sont jetés pour un salaire dans l'égarement de Balaam, ils se sont perdus en se révoltant comme Koré."
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "Leur présence trouble vos repas communautaires. Ils se remplissent la panse sans vergogne, et ne s’intéressent qu’à eux-mêmes. Ils sont pareils à des nuages qui ne donnent pas de pluie et que les vents emportent, à des arbres qui, à la fin de l’automne, n’ont encore donné aucun fruit: ils sont deux fois morts, déracinés.",
+        "DBY": "Ceux-ci, ils sont des taches dans vos agapes, faisant des festins avec vous sans crainte, se repaissant eux-mêmes: nuées sans eau, emportées par les vents; arbres d'automne, sans fruit, deux fois morts, déracinés;",
+        "KJV": "These are spots in your feasts of charity, when they feast with you, feeding themselves without fear: clouds [they are] without water, carried about of winds; trees whose fruit withereth, without fruit, twice dead, plucked up by the roots;",
+        "LSG": "Ce sont des écueils dans vos agapes, faisant impudemment bonne chère, se repaissant eux-mêmes. Ce sont des nuées sans eau, poussées par les vents; des arbres d'automne sans fruits, deux fois morts, déracinés;",
+        "MAB": "Ceux-ci sont des taches dans vos repas de charité, en prenant leurs repas avec vous, et se repaissant eux-mêmes sans crainte; [ce] sont des nuées sans eau, emportées des vents çà et là; des arbres dont le fruit se pourrit, et sans fruit, deux fois morts, et déracinés;",
+        "OST": "Ce sont des taches dans vos repas de charité, lorsqu'ils mangent avec vous, sans aucune retenue, se repaissant eux-mêmes; ce sont des nuées sans eau, emportées çà et là par les vents; des arbres au déclin de l'automne, sans fruits, deux fois morts et déracinés;",
+        "S21": "Ce sont des écueils dans vos agapes, où ils festoient sans scrupule et ne prennent soin que d’eux-mêmes. Ce sont des nuages sans eau emportés par les vents, des arbres d'automne sans fruits, deux fois morts, déracinés,"
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "Ils ressemblent aux vagues furieuses de la mer qui rejettent l’écume de leur honte, à des astres errants auxquels est réservée à perpétuité l’obscurité des ténèbres.",
+        "DBY": "vagues impétueuses de la mer, jetant l'écume de leurs infamies; étoiles errantes, à qui l'obscurité des ténèbres est réservée pour toujours.",
+        "KJV": "Raging waves of the sea, foaming out their own shame; wandering stars, to whom is reserved the blackness of darkness for ever.",
+        "LSG": "des vagues furieuses de la mer, rejetant l'écume de leurs impuretés; des astres errants, auxquels l'obscurité des ténèbres est réservée pour l'éternité.",
+        "MAB": "Des vagues impétueuses de la mer, jetant l'écume de leurs impuretés; des étoiles errantes, à qui l'obscurité des ténèbres est réservée éternellement.",
+        "OST": "Ce sont des vagues furieuses de la mer, rejetant l'écume de leurs impuretés; des astres errants auxquels l'obscurité des ténèbres est réservée pour l'éternité.",
+        "S21": "des vagues furieuses de la mer qui rejettent l'écume de leurs impuretés, des astres errants auxquels l'obscurité des ténèbres est réservée pour l'éternité."
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "A eux aussi s’applique la prophétie d’Hénoc, le septième patriarche depuis Adam, qui dit: Voici, le Seigneur va venir avec ses milliers d’anges",
+        "DBY": "Or Énoch aussi, le septième depuis Adam, a prophétisé de ceux-ci, en disant: Voici, le Seigneur est venu au milieu de ses saintes myriades,",
+        "KJV": "And Enoch also, the seventh from Adam, prophesied of these, saying, Behold, the Lord cometh with ten thousands of his saints,",
+        "LSG": "C'est aussi pour eux qu'Enoch, le septième depuis Adam, a prophétisé en ces termes: Voici, le Seigneur est venu avec ses saintes myriades,",
+        "MAB": "Desquels aussi Enoch, septième homme après Adam, a prophétisé, en disant :",
+        "OST": "C'est sur eux qu'Énoch, le septième homme depuis Adam, a prophétisé, en disant:",
+        "S21": "C'est aussi pour eux qu'Hénoc, le septième depuis Adam, a prophétisé en ces termes: «Voici que le Seigneur est venu avec ses saintes troupes"
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "pour exercer son jugement sur tous, et pour faire rendre compte, à tous ceux qui ne le respectent pas, de tous les actes qu’ils ont commis dans leur révolte et de toutes les insultes que ces pécheurs sacrilèges ont proférées contre lui.",
+        "DBY": "pour exécuter le jugement contre tous, et pour convaincre tous les impies d'entre eux de toutes leurs œuvres d'impiété qu'ils ont impiement commises et de toutes les paroles dures que les pécheurs impies ont proférées contre lui.",
+        "KJV": "To execute judgment upon all, and to convince all that are ungodly among them of all their ungodly deeds which they have ungodly committed, and of all their hard [speeches] which ungodly sinners have spoken against him.",
+        "LSG": "pour exercer un jugement contre tous, et pour faire rendre compte à tous les impies parmi eux de tous les actes d'impiété qu'ils ont commis et de toutes les paroles injurieuses qu'ont proférées contre lui des pécheurs impies.",
+        "MAB": "Voici, le Seigneur est venu avec ses Saints, qui sont par millions, pour juger tous les hommes, et pour convaincre tous les méchants d'entre eux de toutes leurs méchantes actions qu'ils ont commises méchamment, et de toutes les paroles injurieuses que les pécheurs impies ont proférées contre lui.",
+        "OST": "Voici, le Seigneur est venu avec ses saintes myriades pour exercer un jugement contre tous, et convaincre tous les impies, de toutes les œuvres d'impiété qu'ils ont commises, et de toutes les choses injurieuses que les pécheurs impies ont proférées contre lui.",
+        "S21": "pour exercer un jugement contre tous et pour faire rendre compte à tous les impies [qui sont parmi eux] de tous les actes d'impiété qu'ils ont commis et de toutes les paroles dures qu’en pécheurs impies ils ont proférées contre lui.»"
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "Ces hommes-là sont d’éternels mécontents, toujours à se plaindre de leur sort, et entraînés par leurs mauvais désirs. Ils tiennent de grands discours et flattent les gens pour en tirer profit.",
+        "DBY": "Ceux-ci, ils sont des murmurateurs, se plaignant de leur sort, marchant selon leurs propres convoitises (tandis que leur bouche prononce d'orgueilleux discours), et admirant les hommes en vue de leur propre profit.",
+        "KJV": "These are murmurers, complainers, walking after their own lusts; and their mouth speaketh great swelling [words], having men's persons in admiration because of advantage.",
+        "LSG": "Ce sont des gens qui murmurent, qui se plaignent de leur sort, qui marchent selon leurs convoitises, qui ont à la bouche des paroles hautaines, qui admirent les personnes par motif d'intérêt.",
+        "MAB": "Ce sont des murmurateurs, des querelleurs, se conduisant selon leurs convoitises, dont la bouche prononce des discours fort enflés, et qui admirent les personnes pour le profit qui leur en revient.",
+        "OST": "Ce sont des gens qui murmurent, qui se plaignent toujours, qui marchent suivant leurs convoitises, dont la bouche profère des paroles d'orgueil, et qui, par intérêt, admirent les personnes d'apparence.",
+        "S21": "Toujours mécontents, ces hommes se plaignent sans cesse de leur sort et marchent suivant leurs désirs; ils tiennent de grands discours et flattent les gens par intérêt."
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "Mais vous, mes chers amis, rappelez-vous ce que les apôtres de notre Seigneur Jésus-Christ ont prédit.",
+        "DBY": "Mais vous, bien-aimés, souvenez-vous des paroles qui ont été dites auparavant par les apôtres de notre seigneur Jésus Christ,",
+        "KJV": "But, beloved, remember ye the words which were spoken before of the apostles of our Lord Jesus Christ;",
+        "LSG": "Mais vous, bien-aimés, souvenez-vous des choses annoncées d'avance par les apôtres de notre Seigneur-Jésus Christ.",
+        "MAB": "Mais vous, mes bien-aimés, souvenez vous des paroles qui ont été dites auparavant par les Apôtres de notre Seigneur Jésus-Christ.",
+        "OST": "Mais vous, bien-aimés, souvenez-vous des choses qui ont été prédites par les apôtres de notre Seigneur Jésus-Christ;",
+        "S21": "Quant à vous, bien-aimés, souvenez-vous de ce que les apôtres de notre Seigneur Jésus-Christ ont annoncé."
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "Ils vous disaient: «A la fin des temps viendront des gens qui se moqueront de Dieu, qui vivront au gré des désirs que leur inspire leur révolte contre Dieu.»",
+        "DBY": "comment ils vous disaient que, à la fin du temps, il y aurait des moqueurs marchant selon leurs propres convoitises d'impiétés;",
+        "KJV": "How that they told you there should be mockers in the last time, who should walk after their own ungodly lusts.",
+        "LSG": "Ils vous disaient qu'au dernier temps il y aurait des moqueurs, marchant selon leurs convoitises impies;",
+        "MAB": "Et comment ils vous disaient, qu'au dernier temps il y aurait des moqueurs, qui marcheraient selon leurs impies convoitises.",
+        "OST": "Qui vous disaient que dans le dernier temps, il y aurait des moqueurs, qui marcheraient suivant leurs convoitises impies.",
+        "S21": "Ils vous disaient: «A la fin des temps il y aura des moqueurs qui vivront en suivant leurs désirs impies.»"
+      }
+    },
+    {
+      "verse": 19,
+      "texts": {
+        "BDS": "Eh bien! il s’agit de ces gens-là! Ils causent des divisions, ils sont livrés à eux-mêmes et n’ont pas l’Esprit de Dieu.",
+        "DBY": "ceux-ci sont ceux qui se séparent eux-mêmes des hommes naturels, n'ayant pas l'Esprit.",
+        "KJV": "These be they who separate themselves, sensual, having not the Spirit.",
+        "LSG": "ce sont ceux qui provoquent des divisions, hommes sensuels, n'ayant pas l'esprit.",
+        "MAB": "Ce sont ceux qui se séparent eux-mêmes, des gens sensuels, n'ayant point l'Esprit.",
+        "OST": "Ce sont des hommes qui se séparent eux-mêmes, gens sensuels, n'ayant pas l'Esprit.",
+        "S21": "Ce sont ceux qui provoquent des divisions, sont dominés par leur nature propre et n'ont pas l'Esprit."
+      }
+    },
+    {
+      "verse": 20,
+      "texts": {
+        "BDS": "Mais vous, mes chers amis, bâtissez votre vie sur le fondement de votre foi très sainte. Priez par le Saint-Esprit.",
+        "DBY": "Mais vous, bien-aimés, vous édifiant vous-mêmes sur votre très-sainte foi,",
+        "KJV": "But ye, beloved, building up yourselves on your most holy faith, praying in the Holy Ghost,",
+        "LSG": "Pour vous, bien-aimés, vous édifiant vous-mêmes sur votre très sainte foi, et priant par le Saint-Esprit,",
+        "MAB": "Mais vous, mes bien-aimés, vous appuyant vous-mêmes sur votre très-sainte foi, et priant par le Saint-Esprit,",
+        "OST": "Mais vous, bien-aimés, vous édifiant vous-mêmes sur votre très sainte foi, priant par le Saint-Esprit,",
+        "S21": "Quant à vous, bien-aimés, édifiez-vous vous-mêmes sur votre très sainte foi et priez par le Saint-Esprit."
+      }
+    },
+    {
+      "verse": 21,
+      "texts": {
+        "BDS": "Maintenez-vous dans l’amour de Dieu en attendant que notre Seigneur Jésus-Christ, dans sa bonté, vous accorde la vie éternelle.",
+        "DBY": "priant par le Saint Esprit, conservez-vous dans l'amour de Dieu, attendant la miséricorde de notre seigneur Jésus Christ pour la vie éternelle;",
+        "KJV": "Keep yourselves in the love of God, looking for the mercy of our Lord Jesus Christ unto eternal life.",
+        "LSG": "maintenez-vous dans l'amour de Dieu, en attendant la miséricorde de notre Seigneur Jésus-Christ pour la vie éternelle.",
+        "MAB": "Conservez-vous les uns les autres dans l'amour de Dieu, en attendant la miséricorde de notre Seigneur Jésus-Christ, pour [obtenir] la vie éternelle.",
+        "OST": "Conservez-vous dans l'amour de Dieu, en attendant la miséricorde de notre Seigneur Jésus-Christ pour la vie éternelle.",
+        "S21": "Maintenez-vous dans l'amour de Dieu en attendant le jour où la compassion de notre Seigneur Jésus-Christ sera manifestée pour la vie éternelle."
+      }
+    },
+    {
+      "verse": 22,
+      "texts": {
+        "BDS": "Ayez de la pitié pour ceux qui doutent;",
+        "DBY": "et les uns qui contestent, reprenez-les;",
+        "KJV": "And of some have compassion, making a difference:",
+        "LSG": "Reprenez les uns, ceux qui contestent;",
+        "MAB": "Et ayez pitié des uns en usant de discrétion;",
+        "OST": "Et ayez pitié des uns en usant de discernement, et sauvez les autres avec crainte,",
+        "S21": "Ayez compassion des uns en faisant preuve de discernement."
+      }
+    },
+    {
+      "verse": 23,
+      "texts": {
+        "BDS": "sauvez ceux qui peuvent l’être en les arrachant au feu. Pour les autres, ayez de la pitié, mais avec de la crainte, en évitant jusqu’au moindre contact qui pourrait vous contaminer.",
+        "DBY": "les autres, sauvez-les avec crainte, les arrachant hors du feu, haïssant même le vêtement souillé par la chair.",
+        "KJV": "And others save with fear, pulling [them] out of the fire; hating even the garment spotted by the flesh.",
+        "LSG": "sauvez-en d'autres en les arrachant du feu; et pour d'autres encore, ayez une pitié mêlée de crainte, haïssant jusqu'à la tunique souillée par la chair.",
+        "MAB": "Et sauvez les autres par la frayeur, les arrachant comme hors du feu, et haïssez même la robe souillée par la chair.",
+        "OST": "Les arrachant du feu, haïssant jusqu'au vêtement souillé par la chair.",
+        "S21": "Quant aux autres, sauvez-les avec crainte en les arrachant au feu, en détestant jusqu’au vêtement souillé par leur contact."
+      }
+    },
+    {
+      "verse": 24,
+      "texts": {
+        "BDS": "A celui qui peut vous garder de toute chute et vous faire paraître en sa présence glorieuse, sans reproche et exultant de joie,",
+        "DBY": "Or, à celui qui a le pouvoir de vous garder sans que vous bronchiez et de vous placer irréprochables devant sa gloire avec abondance de joie, -",
+        "KJV": "Now unto him that is able to keep you from falling, and to present [you] faultless before the presence of his glory with exceeding joy,",
+        "LSG": "Or, à celui qui peut vous préserver de toute chute et vous faire paraître devant sa gloire irrépréhensibles et dans l'allégresse,",
+        "MAB": "[Or] à celui qui est puissant pour vous garder sans que vous fassiez aucune chute et vous présenter irrépréhensibles devant sa gloire, avec joie;",
+        "OST": "Or, à celui qui peut vous préserver de toute chute, et vous faire comparaître sans tache et dans la joie en sa glorieuse présence,",
+        "S21": "A celui qui peut vous garder de toute chute et vous faire paraître devant sa gloire irréprochables et dans l'allégresse,"
+      }
+    },
+    {
+      "verse": 25,
+      "texts": {
+        "BDS": "au Dieu unique qui nous a sauvés par Jésus-Christ notre Seigneur, à lui appartiennent la gloire et la majesté, la force et l’autorité, depuis toujours, maintenant et durant toute l’éternité! Amen.",
+        "DBY": "au seul Dieu, notre Sauveur, par notre seigneur Jésus Christ, gloire, majesté, force et pouvoir, dès avant tout siècle, et maintenant, et pour tous les siècles! Amen.",
+        "KJV": "To the only wise God our Saviour, [be] glory and majesty, dominion and power, both now and ever. Amen.",
+        "LSG": "Dieu seul, notre Sauveur, par Jésus-Christ notre Seigneur, soient gloire, majesté, force et puissance, dès avant tous les temps, et maintenant, et dans tous les siècles! Amen!",
+        "MAB": "A Dieu, seul sage, notre Sauveur, soit gloire et magnificence, force, et empire dès maintenant et dans tous les siècles, Amen!",
+        "OST": "A Dieu, seul sage, notre Sauveur, soient gloire et magnificence, force et puissance, et maintenant et dans tous les siècles! Amen.",
+        "S21": "oui, à Dieu seul [sage], qui nous a sauvés [par Jésus-Christ notre Seigneur], appartiennent gloire, majesté, force et puissance [avant tous les temps,] maintenant et pour l'éternité! Amen!"
+      }
+    }
+  ]
+}

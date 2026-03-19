@@ -1,0 +1,570 @@
+{
+  "bookCode": "LEV",
+  "chapter": 11,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "L’Eternel s’adressa à Moïse et à Aaron, et leur dit:",
+        "DBY": "Et l'Éternel parla à Moïse et à Aaron, leur disant:",
+        "KJV": "And the LORD spake unto Moses and to Aaron, saying unto them,",
+        "LSG": "L'Eternel parla à Moïse et à Aaron, et leur dit:",
+        "MAB": "Et l'Eternel parla à Moïse et à Aaron, et leur dit :",
+        "OST": "L'Éternel parla à Moïse et à Aaron, en leur disant:",
+        "S21": "L'Eternel dit à Moïse et à Aaron:"
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "—Parlez aux Israélites et dites-leur: Voici, parmi tous les grands mammifères terrestres, ceux que vous pourrez manger:",
+        "DBY": "Parlez aux fils d'Israël, en disant: Ce sont ici les animaux dont vous mangerez, d'entre toutes les bêtes qui sont sur la terre.",
+        "KJV": "Speak unto the children of Israel, saying, These [are] the beasts which ye shall eat among all the beasts that [are] on the earth.",
+        "LSG": "Parlez aux enfants d'Israël, et dites: Voici les animaux dont vous mangerez parmi toutes les bêtes qui sont sur la terre.",
+        "MAB": "Parlez aux enfants d'Israël, et leur dites : Ce sont ici les animaux dont vous mangerez d'entre toutes les bêtes qui sont sur la terre.",
+        "OST": "Parlez aux enfants d'Israël, et dites: Voici les animaux que vous mangerez, d'entre toutes les bêtes qui sont sur la terre:",
+        "S21": "«Transmettez ces instructions aux Israélites: Voici les animaux que vous pourrez manger parmi toutes les bêtes qui vivent sur la terre."
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "tous ceux qui ont le sabot fendu et qui ruminent.",
+        "DBY": "Vous mangerez, d'entre les bêtes qui ruminent, tout ce qui a l'ongle fendu et le pied complètement divisé.",
+        "KJV": "Whatsoever parteth the hoof, and is clovenfooted, [and] cheweth the cud, among the beasts, that shall ye eat.",
+        "LSG": "Vous mangerez de tout animal qui a la corne fendue, le pied fourchu, et qui rumine.",
+        "MAB": "Vous mangerez d'entre les bêtes à quatre pieds de toutes celles qui ont l'ongle divisé, et qui ont le pied fourché, et qui ruminent.",
+        "OST": "Vous mangerez parmi le bétail tout ce qui a l'ongle divisé et le pied fourché, et qui rumine;",
+        "S21": "Vous pourrez manger de tout animal qui a le sabot fendu ou le pied fourchu et qui rumine."
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "Mais vous ne mangerez pas ceux qui ruminent seulement ou qui ont seulement le sabot fendu: le chameau,",
+        "DBY": "Seulement de ceci vous ne mangerez pas, d'entre celles qui ruminent, et d'entre celles qui ont l'ongle fendu: le chameau, car il rumine, mais il n'a pas l'ongle fendu; il vous est impur:",
+        "KJV": "Nevertheless these shall ye not eat of them that chew the cud, or of them that divide the hoof: [as] the camel, because he cheweth the cud, but divideth not the hoof; he [is] unclean unto you.",
+        "LSG": "Mais vous ne mangerez pas de ceux qui ruminent seulement, ou qui ont la corne fendue seulement. Ainsi, vous ne mangerez pas le chameau, qui rumine, mais qui n'a pas la corne fendue: vous le regarderez comme impur.",
+        "MAB": "Mais vous ne mangerez point de celles qui ruminent [seulement], ou qui ont l'ongle divisé [seulement]; comme le chameau, car il rumine bien, mais il n'a point l'ongle divisé; il vous [est] souillé.",
+        "OST": "Mais vous ne mangerez point d'entre celles qui ruminent, et d'entre celles qui ont l'ongle divisé: le chameau, car il rumine, mais il n'a point l'ongle divisé; il vous sera souillé;",
+        "S21": "En revanche, vous ne mangerez aucun de ceux qui ruminent seulement ou qui ont seulement le sabot fendu. Ainsi, vous ne mangerez pas le chameau, qui rumine mais n'a pas le sabot fendu; vous le considérerez comme impur."
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "le daman,",
+        "DBY": "et le daman, car il rumine, mais il n'a pas l'ongle fendu; il vous est impur:",
+        "KJV": "And the coney, because he cheweth the cud, but divideth not the hoof; he [is] unclean unto you.",
+        "LSG": "Vous ne mangerez pas le daman, qui rumine, mais qui n'a pas la corne fendue: vous le regarderez comme impur.",
+        "MAB": "Et le lapin; car il rumine bien, mais il n'a point l'ongle divisé; il vous est souillé.",
+        "OST": "Le lapin, car il rumine, mais il n'a point l'ongle divisé; il vous sera souillé;",
+        "S21": "Vous ne mangerez pas le daman, qui rumine mais n'a pas le sabot fendu; vous le considérerez comme impur."
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "ou le lièvre, qui ruminent, mais n’ont pas le sabot fendu; vous les considérerez comme impurs.",
+        "DBY": "et le lièvre, car il rumine, mais il n'a pas l'ongle fendu; il vous est impur:",
+        "KJV": "And the hare, because he cheweth the cud, but divideth not the hoof; he [is] unclean unto you.",
+        "LSG": "Vous ne mangerez pas le lièvre, qui rumine, mais qui n'a pas la corne fendue: vous le regarderez comme impur.",
+        "MAB": "Et le lièvre; car il rumine bien, mais il n'a point l'ongle divisé; il vous est souillé.",
+        "OST": "Le lièvre, car il rumine, mais il n'a point l'ongle divisé; il vous sera souillé;",
+        "S21": "Vous ne mangerez pas le lièvre, qui rumine mais n'a pas le sabot fendu; vous le considérerez comme impur."
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "Vous tiendrez aussi pour impur le porc, qui a bien le sabot fendu, mais qui ne rumine pas.",
+        "DBY": "et le porc, car il a l'ongle fendu et le pied complètement divisé, mais il ne rumine nullement; il vous est impur.",
+        "KJV": "And the swine, though he divide the hoof, and be clovenfooted, yet he cheweth not the cud; he [is] unclean to you.",
+        "LSG": "Vous ne mangerez pas le porc, qui a la corne fendue et le pied fourchu, mais qui ne rumine pas: vous le regarderez comme impur.",
+        "MAB": "Et le pourceau; car il a bien l'ongle divisé, et le pied fourché, mais il ne rumine nullement; il vous est souillé.",
+        "OST": "Le porc, car il a l'ongle divisé et le pied fourché, mais il ne rumine pas; il vous sera souillé;",
+        "S21": "Vous ne mangerez pas le porc, qui a le sabot fendu, le pied fourchu mais ne rumine pas; vous le considérerez comme impur."
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "Vous ne mangerez pas la viande de ces animaux, vous ne toucherez même pas leurs cadavres; vous les tiendrez pour impurs.",
+        "DBY": "Vous ne mangerez pas de leur chair, et vous ne toucherez pas leur corps mort; ils vous sont impurs.",
+        "KJV": "Of their flesh shall ye not eat, and their carcase shall ye not touch; they [are] unclean to you.",
+        "LSG": "Vous ne mangerez pas de leur chair, et vous ne toucherez pas leurs corps morts: vous les regarderez comme impurs.",
+        "MAB": "Vous ne mangerez point de leur chair, même vous ne toucherez point leur chair morte; ils vous sont souillés.",
+        "OST": "Vous ne mangerez point de leur chair, vous ne toucherez point leur cadavre; ils vous seront souillés.",
+        "S21": "Vous ne mangerez pas leur viande et ne toucherez pas leur cadavre; vous les considérerez comme impurs."
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "Vous pourrez manger tous les poissons qui peuplent les mers et les rivières et qui ont des nageoires et des écailles.",
+        "DBY": "Vous mangerez de ceci, d'entre tout ce qui est dans les eaux: vous mangerez tout ce qui a des nageoires et des écailles, dans les eaux, dans les mers et dans les rivières.",
+        "KJV": "These shall ye eat of all that [are] in the waters: whatsoever hath fins and scales in the waters, in the seas, and in the rivers, them shall ye eat.",
+        "LSG": "Voici les animaux dont vous mangerez parmi tous ceux qui sont dans les eaux. Vous mangerez de tous ceux qui ont des nageoires et des écailles, et qui sont dans les eaux, soit dans les mers, soit dans les rivières.",
+        "MAB": "Vous mangerez de ceci d'entre tout ce qui est dans les eaux; vous mangerez de tout ce qui a des nageoires et des écailles dans les eaux, soit dans la mer, soit dans les fleuves.",
+        "OST": "Voici ce que vous mangerez de tout ce qui est dans les eaux: Vous mangerez tout ce qui a des nageoires et des écailles, dans les eaux, dans les mers, et dans les rivières;",
+        "S21": "»Voici les animaux que vous pourrez manger parmi tous ceux qui vivent dans l’eau. Vous pourrez manger de tous ceux qui ont des nageoires et des écailles et qui vivent dans l’eau, soit dans les mers, soit dans les rivières."
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "Mais vous aurez en abomination tout ce qui n’a pas de nageoires ni d’écailles, parmi tout ce qui grouille et qui vit dans les mers et dans les rivières.",
+        "DBY": "Et tout ce qui n'a point de nageoires et d'écailles, dans les mers et dans les rivières, de tout ce qui fourmille dans les eaux et de tout être vivant qui est dans les eaux, -vous sera une chose abominable.",
+        "KJV": "And all that have not fins and scales in the seas, and in the rivers, of all that move in the waters, and of any living thing which [is] in the waters, they [shall be] an abomination unto you:",
+        "LSG": "Mais vous aurez en abomination tous ceux qui n'ont pas des nageoires et des écailles, parmi tout ce qui se meut dans les eaux et tout ce qui est vivant dans les eaux, soit dans les mers, soit dans les rivières.",
+        "MAB": "Mais vous ne mangerez de rien qui n'ait point de nageoires et d'écailles, soit dans la mer, soit dans les fleuves, tant des reptiles des eaux, que de toute chose vivante qui est dans les eaux; cela vous sera en abomination.",
+        "OST": "Mais tout ce qui n'a point de nageoires ni d'écailles, dans les mers et dans les rivières, parmi tout ce qui fourmille dans les eaux, et parmi tout être vivant dans les eaux, vous sera en abomination.",
+        "S21": "En revanche, parmi tous ceux qui grouillent et ceux qui vivent dans l’eau, soit dans les mers, soit dans les rivières, vous considérerez comme abominables tous ceux qui sont dépourvus de nageoires et d’écailles."
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "Ils seront pour vous une abomination; vous n’en mangerez pas la chair et leurs cadavres vous seront en abomination.",
+        "DBY": "Cela vous sera une chose abominable; vous ne mangerez pas de leur chair, et vous aurez en abomination leur corps mort.",
+        "KJV": "They shall be even an abomination unto you; ye shall not eat of their flesh, but ye shall have their carcases in abomination.",
+        "LSG": "Vous les aurez en abomination, vous ne mangerez pas de leur chair, et vous aurez en abomination leurs corps morts.",
+        "MAB": "Elles vous seront donc en abomination, vous ne mangerez point de leur chair, et vous tiendrez pour une chose abominable leur chair morte.",
+        "OST": "Ils vous seront en abomination; vous ne mangerez point de leur chair, et vous tiendrez pour abominable leur cadavre.",
+        "S21": "Vous les considérerez comme abominables, vous ne mangerez pas leur chair et vous considérerez leur cadavre comme abominable."
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "Tout animal aquatique dépourvu de nageoires et d’écailles sera pour vous une abomination.",
+        "DBY": "Tout ce qui, dans les eaux, n'a point de nageoires et d'écailles, vous sera une chose abominable.",
+        "KJV": "Whatsoever hath no fins nor scales in the waters, that [shall be] an abomination unto you.",
+        "LSG": "Vous aurez en abomination tous ceux qui, dans les eaux, n'ont pas des nageoires et des écailles.",
+        "MAB": "Tout ce donc qui vit dans les eaux, et qui n'a point de nageoires et d'écailles, vous sera en abomination.",
+        "OST": "Tout ce qui n'a pas de nageoires et d'écailles dans les eaux, vous sera en abomination.",
+        "S21": "Vous considérerez comme abominables tous ceux qui, dans l’eau, sont dépourvus de nageoires et d’écailles."
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "Voici les oiseaux que vous aurez en abomination et que vous ne mangerez pas: l’aigle, le gypaète et le vautour,",
+        "DBY": "Et d'entre les oiseaux, vous aurez ceux-ci en abomination; on n'en mangera point, ce sera une chose abominable: l'aigle, et l'orfraie,",
+        "KJV": "And these [are they which] ye shall have in abomination among the fowls; they shall not be eaten, they [are] an abomination: the eagle, and the ossifrage, and the ospray,",
+        "LSG": "Voici, parmi les oiseaux, ceux que vous aurez en abomination, et dont on ne mangera pas: l'aigle, l'orfraie et l'aigle de mer;",
+        "MAB": "Et d'entre les oiseaux vous tiendrez ceux-ci pour abominables, on n'en mangera point, ils vous seront en abomination : l'Aigle, l'Orfraie, le Faucon.",
+        "OST": "Et voici parmi les oiseaux ceux que vous tiendrez pour abominables; on ne les mangera pas, c'est une abomination: l'aigle, l'orfraie, et le vautour;",
+        "S21": "»Voici, parmi les oiseaux, ceux que vous considérerez comme abominables et dont on ne mangera pas: l'aigle, l'orfraie, l'aigle de mer,"
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "le milan et toutes les espèces de faucons,",
+        "DBY": "et l'aigle de mer, et le faucon, et le milan, selon son espèce;",
+        "KJV": "And the vulture, and the kite after his kind;",
+        "LSG": "le milan, l'autour et ce qui est de son espèce;",
+        "MAB": "Le Vautour, et le Milan, selon leur espèce;",
+        "OST": "Le milan et le faucon, selon leur espèce;",
+        "S21": "le milan, les diverses espèces de vautours,"
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "toutes les variétés de corbeaux,",
+        "DBY": "tout corbeau, selon son espèce;",
+        "KJV": "Every raven after his kind;",
+        "LSG": "le corbeau et toutes ses espèces;",
+        "MAB": "Tout Corbeau selon son espèce;",
+        "OST": "Toute espèce de corbeau;",
+        "S21": "toutes les espèces de corbeaux,"
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "l’autruche, la chouette, la mouette et toutes les espèces d’éperviers,",
+        "DBY": "et l'autruche femelle, et l'autruche mâle, et la mouette, et l'épervier, selon son espèce;",
+        "KJV": "And the owl, and the night hawk, and the cuckow, and the hawk after his kind,",
+        "LSG": "l'autruche, le hibou, la mouette, l'épervier et ce qui est de son espèce;",
+        "MAB": "Le Chat-huant, la Hulotte, le Coucou, et l'Epervier, selon leur espèce;",
+        "OST": "Le chat-huant, le coucou, la mouette, l'épervier et ce qui est de son espèce;",
+        "S21": "l'autruche, le hibou, la mouette, les diverses espèces d’éperviers,"
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "le hibou, le cormoran, le chat-huant,",
+        "DBY": "et le hibou, et le plongeon, et l'ibis,",
+        "KJV": "And the little owl, and the cormorant, and the great owl,",
+        "LSG": "le chat-huant, le plongeon et la chouette;",
+        "MAB": "La Chouette, le Plongeon, le Hibou,",
+        "OST": "La chouette, le plongeon, et le hibou;",
+        "S21": "le chat-huant, le plongeon, la chouette,"
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "l’effraie, le pélican, l’orfraie,",
+        "DBY": "et le cygne, et le pélican, et le vautour,",
+        "KJV": "And the swan, and the pelican, and the gier eagle,",
+        "LSG": "le cygne, le pélican et le cormoran;",
+        "MAB": "Le Cygne, le Cormoran, le Pélican,",
+        "OST": "Le cygne, le pélican, le cormoran;",
+        "S21": "le cygne, le pélican, le cormoran,"
+      }
+    },
+    {
+      "verse": 19,
+      "texts": {
+        "BDS": "la cigogne, les différentes espèces de hérons, la huppe et la chauve-souris.",
+        "DBY": "et la cigogne, et le héron, selon son espèce, et la huppe, et la chauve-souris.",
+        "KJV": "And the stork, the heron after her kind, and the lapwing, and the bat.",
+        "LSG": "la cigogne, le héron et ce qui est de son espèce, la huppe et la chauve-souris.",
+        "MAB": "La Cigogne, et le Héron, selon leur espèce, et la Huppe, et la Chauve-souris.",
+        "OST": "La cigogne, le héron, et ce qui est de son espèce; la huppe et la chauve-souris.",
+        "S21": "la cigogne, les diverses espèces de hérons, la huppe et la chauve-souris."
+      }
+    },
+    {
+      "verse": 20,
+      "texts": {
+        "BDS": "Vous aurez en abomination tout insecte ailé marchant sur quatre pattes,",
+        "DBY": "Tout reptile volant qui marche sur quatre pieds, vous sera une chose abominable.",
+        "KJV": "All fowls that creep, going upon [all] four, [shall be] an abomination unto you.",
+        "LSG": "Vous aurez en abomination tout reptile qui vole et qui marche sur quatre pieds.",
+        "MAB": "Et tout reptile volant qui marche sur quatre pieds, vous sera en abomination.",
+        "OST": "Tout reptile qui vole et qui marche sur quatre pieds vous sera en abomination.",
+        "S21": "»Vous considérerez comme abominable tout reptile qui vole et qui marche sur quatre pattes."
+      }
+    },
+    {
+      "verse": 21,
+      "texts": {
+        "BDS": "sauf ceux qui ont, au-dessus de leurs pattes, des membres qui leur permettent de sauter sur le sol. De ceux-là, vous pourrez en manger.",
+        "DBY": "Seulement de ceci vous mangerez d'entre tous les reptiles volants qui marchent sur quatre pieds, ceux qui ont, au-dessus de leurs pieds, des jambes avec lesquelles ils sautent sur la terre.",
+        "KJV": "Yet these may ye eat of every flying creeping thing that goeth upon [all] four, which have legs above their feet, to leap withal upon the earth;",
+        "LSG": "Mais, parmi tous les reptiles qui volent et qui marchent sur quatre pieds, vous mangerez ceux qui ont des jambes au-dessus de leurs pieds, pour sauter sur la terre.",
+        "MAB": "Mais vous mangerez de tout reptile volant qui marche à quatre pieds, ayant des jambes sur ses pieds, pour sauter avec elles sur la terre.",
+        "OST": "Mais de tout reptile qui vole et qui marche sur quatre pieds, vous mangerez ceux qui ont des jambes au-dessus de leurs pieds, pour sauter sur la terre.",
+        "S21": "En revanche, parmi tous les reptiles qui volent et qui marchent sur quatre pattes, vous pourrez manger ceux qui ont sur leurs pattes des articulations qui leur permettent de sauter sur la terre."
+      }
+    },
+    {
+      "verse": 22,
+      "texts": {
+        "BDS": "Ainsi, vous pourrez manger les différentes espèces de sauterelles, de criquets, de grillons et de locustes.",
+        "DBY": "Ce sont ici ceux d'entre eux dont vous mangerez: la sauterelle selon son espèce, et le solham selon son espèce, et le khargol selon son espèce, et le khagab selon son espèce.",
+        "KJV": "[Even] these of them ye may eat; the locust after his kind, and the bald locust after his kind, and the beetle after his kind, and the grasshopper after his kind.",
+        "LSG": "Voici ceux que vous mangerez: la sauterelle, le solam, le hargol et le hagab, selon leurs espèces.",
+        "MAB": "Ce sont donc ici ceux dont vous mangerez; l'Arbé selon son espèce, le Solham selon son espèce, l'Hargol selon son espèce; et le Kabag selon son espèce.",
+        "OST": "Voici ceux que vous mangerez: la sauterelle selon son espèce, le solam selon son espèce, le hargol selon son espèce, et le hagab selon son espèce.",
+        "S21": "Voici ceux que vous pourrez manger: les diverses espèces de sauterelles, de criquets, de grillons et de locustes."
+      }
+    },
+    {
+      "verse": 23,
+      "texts": {
+        "BDS": "Mais toutes les autres bestioles ailées marchant sur quatre pattes seront une abomination pour vous.",
+        "DBY": "Mais tout reptile volant qui a quatre pieds vous sera une chose abominable;",
+        "KJV": "But all [other] flying creeping things, which have four feet, [shall be] an abomination unto you.",
+        "LSG": "Vous aurez en abomination tous les autres reptiles qui volent et qui ont quatre pieds.",
+        "MAB": "Mais tout autre reptile volant qui a quatre pieds, vous sera en abomination.",
+        "OST": "Tout autre reptile qui vole et qui a quatre pieds, vous sera en abomination.",
+        "S21": "Vous considérerez comme abominables tous les autres reptiles qui volent et qui ont quatre pattes."
+      }
+    },
+    {
+      "verse": 24,
+      "texts": {
+        "BDS": "Ces animaux vous rendront impurs et si vous en touchez le cadavre, vous serez impurs jusqu’au soir.",
+        "DBY": "et par eux vous vous rendrez impurs: quiconque touchera leur corps mort sera impur jusqu'au soir;",
+        "KJV": "And for these ye shall be unclean: whosoever toucheth the carcase of them shall be unclean until the even.",
+        "LSG": "Ils vous rendront impurs: quiconque touchera leurs corps morts sera impur jusqu'au soir,",
+        "MAB": "Vous serez donc souillés par ces bêtes; quiconque touchera leur chair morte, sera souillé jusqu'au soir.",
+        "OST": "Vous serez souillés à cause d'eux; quiconque touchera leur cadavre, sera souillé jusqu'au soir.",
+        "S21": "Ils vous rendront impurs. Si quelqu’un touche leur cadavre, il sera impur jusqu'au soir,"
+      }
+    },
+    {
+      "verse": 25,
+      "texts": {
+        "BDS": "Quiconque prend en main quelque partie de leur cadavre devra laver ses vêtements et restera en état d’impureté jusqu’au soir.",
+        "DBY": "et quiconque portera quelque chose de leur corps mort lavera ses vêtements, et sera impur jusqu'au soir.",
+        "KJV": "And whosoever beareth [ought] of the carcase of them shall wash his clothes, and be unclean until the even.",
+        "LSG": "et quiconque portera leurs corps morts lavera ses vêtements et sera impur jusqu'au soir.",
+        "MAB": "Quiconque aussi portera de leur chair morte, lavera ses vêtements, et sera souillé jusqu'au soir.",
+        "OST": "Et quiconque portera leur corps mort, lavera ses vêtements, et sera souillé jusqu'au soir.",
+        "S21": "et si quelqu’un porte leur cadavre, il lavera ses vêtements et sera impur jusqu'au soir."
+      }
+    },
+    {
+      "verse": 26,
+      "texts": {
+        "BDS": "Vous tiendrez aussi pour impur tout animal dont le sabot n’est pas fendu ou qui ne rumine pas; quiconque les touchera sera impur.",
+        "DBY": "Toute bête qui a l'ongle fendu, mais qui n'a pas le pied complètement divisé et ne rumine pas, vous sera impure; quiconque les touchera sera impur.",
+        "KJV": "[The carcases] of every beast which divideth the hoof, and [is] not clovenfooted, nor cheweth the cud, [are] unclean unto you: every one that toucheth them shall be unclean.",
+        "LSG": "Vous regarderez comme impur tout animal qui a la corne fendue, mais qui n'a pas le pied fourchu et qui ne rumine pas: quiconque le touchera sera impur.",
+        "MAB": "Toute bête qui a l'ongle divisé, et qui n'a point le pied fourché, et ne rumine point, vous sera souillée; quiconque les touchera, sera souillé.",
+        "OST": "Toute bête qui a l'ongle divisé, et qui n'a point le pied fourché, et ne rumine pas, vous sera souillée; quiconque la touchera, sera souillé.",
+        "S21": "»Vous considérerez comme impur tout animal qui a le sabot fendu mais n'a pas le pied fourchu et ne rumine pas. Si quelqu’un le touche, il sera impur."
+      }
+    },
+    {
+      "verse": 27,
+      "texts": {
+        "BDS": "Tout quadrupède qui marche sur la plante des pieds sera impur pour vous. Quiconque touchera leur cadavre sera en état d’impureté jusqu’au soir.",
+        "DBY": "Et tout ce qui marche sur ses pattes, parmi tous les animaux qui marchent sur quatre pieds, vous sera impur; quiconque touchera leur corps mort sera impur jusqu'au soir;",
+        "KJV": "And whatsoever goeth upon his paws, among all manner of beasts that go on [all] four, those [are] unclean unto you: whoso toucheth their carcase shall be unclean until the even.",
+        "LSG": "Vous regarderez comme impurs tous ceux des animaux à quatre pieds qui marchent sur leurs pattes: quiconque touchera leurs corps morts sera impur jusqu'au soir,",
+        "MAB": "Et tout ce qui marche sur ses pattes, entre tous les animaux qui marchent à quatre pieds, vous sera souillé; quiconque touchera leur chair morte, sera souillé jusqu'au soir.",
+        "OST": "Et tout ce qui marche sur ses pattes, entre tous les animaux qui marchent sur quatre pieds, vous sera souillé; quiconque en touchera le corps mort, sera souillé jusqu'au soir.",
+        "S21": "Vous considérerez comme impurs tous les quadrupèdes qui marchent sur la plante des pieds. Si quelqu’un touche leur cadavre, il sera impur jusqu'au soir,"
+      }
+    },
+    {
+      "verse": 28,
+      "texts": {
+        "BDS": "Celui qui transportera leur cadavre lavera ses vêtements et restera impur jusqu’au soir. Vous tiendrez ces animaux pour impurs.",
+        "DBY": "et celui qui aura porté leur corps mort lavera ses vêtements, et sera impur jusqu'au soir. Ils vous seront impurs.",
+        "KJV": "And he that beareth the carcase of them shall wash his clothes, and be unclean until the even: they [are] unclean unto you.",
+        "LSG": "et quiconque portera leurs corps morts lavera ses vêtements et sera impur jusqu'au soir. Vous les regarderez comme impurs.",
+        "MAB": "Et celui qui portera de leur chair morte, lavera ses vêtements, et sera souillé jusqu'au soir; elles vous sont souillées.",
+        "OST": "Et quiconque portera leur corps mort, lavera ses vêtements, et sera souillé jusqu'au soir; ces animaux vous seront souillés.",
+        "S21": "et si quelqu’un porte leur cadavre, il lavera ses vêtements et sera impur jusqu'au soir. Vous les considérerez comme impurs."
+      }
+    },
+    {
+      "verse": 29,
+      "texts": {
+        "BDS": "Voici la liste des petites bêtes qui se meuvent sur le sol et que vous devrez considérer comme impures: la taupe, la souris et les différentes espèces de lézards,",
+        "DBY": "Et ceci vous sera impur parmi les reptiles qui rampent sur la terre: la taupe, et la souris, et le lézard selon son espèce;",
+        "KJV": "These also [shall be] unclean unto you among the creeping things that creep upon the earth; the weasel, and the mouse, and the tortoise after his kind,",
+        "LSG": "Voici, parmi les animaux qui rampent sur la terre, ceux que vous regarderez comme impurs: la taupe, la souris et le lézard, selon leurs espèces;",
+        "MAB": "Ceci aussi vous sera souillé entre les reptiles, qui rampent sur la terre, la Belette, la Souris, et la Tortue, selon leur espèce.",
+        "OST": "Et voici ce qui sera souillé pour vous parmi les animaux qui rampent sur la terre: la taupe, la souris et le lézard, selon leur espèce,",
+        "S21": "»Voici, parmi les animaux qui rampent sur la terre, ceux que vous considérerez comme impurs: la taupe, la souris, les diverses espèces de lézards,"
+      }
+    },
+    {
+      "verse": 30,
+      "texts": {
+        "BDS": "le gecko, le lézard ocellé, le lézard vert, la limace et le caméléon.",
+        "DBY": "et le lézard gémissant, et le coakh, et le letaa, et la limace, et le caméléon.",
+        "KJV": "And the ferret, and the chameleon, and the lizard, and the snail, and the mole.",
+        "LSG": "le hérisson, la grenouille, la tortue, le limaçon et le caméléon.",
+        "MAB": "Le Hérisson, le Crocodile, le Lézard, la Limace, et la Taupe.",
+        "OST": "La musaraigne, la grenouille, la tortue, la limace et le caméléon.",
+        "S21": "le gecko, la salamandre, la tortue, la limace et le caméléon."
+      }
+    },
+    {
+      "verse": 31,
+      "texts": {
+        "BDS": "Ces bêtes qui grouillent sur le sol seront impures pour vous. Quiconque les touchera quand elles sont mortes sera en état d’impureté jusqu’au soir.",
+        "DBY": "Ceux-ci vous seront impurs parmi tous les reptiles; quiconque les touchera morts sera impur jusqu'au soir.",
+        "KJV": "These [are] unclean to you among all that creep: whosoever doth touch them, when they be dead, shall be unclean until the even.",
+        "LSG": "Vous les regarderez comme impurs parmi tous les reptiles: quiconque les touchera morts sera impur jusqu'au soir.",
+        "MAB": "Ces choses vous sont souillées entre les reptiles; quiconque les touchera mortes, sera souillé jusqu'au soir.",
+        "OST": "Ceux-là sont souillés pour vous entre tous les reptiles; quiconque les touchera morts, sera souillé jusqu'au soir.",
+        "S21": "Vous les considérerez comme impurs parmi tous les reptiles. Si quelqu’un les touche morts, il sera impur jusqu'au soir."
+      }
+    },
+    {
+      "verse": 32,
+      "texts": {
+        "BDS": "Tout objet sur lequel tombera l’une de ces bêtes mortes sera impur, qu’il s’agisse d’un ustensile en bois, d’un habit, d’une peau ou d’un sac, bref, tout objet destiné à un usage quelconque sera passé à l’eau et restera impur jusqu’au soir, puis il redeviendra pur.",
+        "DBY": "Et tout ce sur quoi il en tombera quand ils seront morts, sera impur: ustensile de bois, vêtement, peau, ou sac, -tout objet qui sert à un usage quelconque, sera mis dans l'eau, et sera impur jusqu'au soir; alors il sera net;",
+        "KJV": "And upon whatsoever [any] of them, when they are dead, doth fall, it shall be unclean; whether [it be] any vessel of wood, or raiment, or skin, or sack, whatsoever vessel [it be], wherein [any] work is done, it must be put into water, and it shall be unclean until the even; so it shall be cleansed.",
+        "LSG": "Tout objet sur lequel tombera quelque chose de leurs corps morts sera souillé, ustensile de bois, vêtement, peau, sac, tout objet dont on fait usage; il sera mis dans l'eau, et restera souillé jusqu'au soir; après quoi, il sera pur.",
+        "MAB": "Aussi tout ce sur quoi il en tombera quelque chose, quand elles seront mortes, sera souillé, soit vaisseau de bois, soit vêtement, soit peau, ou sac, quelque vaisseau que ce soit dont on se sert à faire quelque chose, sera mis dans l'eau, et sera souillé jusqu'au soir, puis il sera net.",
+        "OST": "Tout objet sur lequel il en tombera quand ils seront morts, sera souillé, ustensile de bois, vêtement, peau, sac, tout objet dont on fait usage; il sera mis dans l'eau, et sera souillé jusqu'au soir, puis il sera pur.",
+        "S21": "Tout objet sur lequel tombera un de leurs cadavres sera impur, qu’il s’agisse d’un ustensile en bois, d’un vêtement, d’une peau, d’un sac ou de n’importe quel objet utilitaire. On le passera dans l'eau et il restera impur jusqu'au soir; après quoi, il sera pur."
+      }
+    },
+    {
+      "verse": 33,
+      "texts": {
+        "BDS": "Si l’une de ces bestioles mortes tombe dans un récipient de terre cuite, tout son contenu devient impur, et vous briserez le récipient.",
+        "DBY": "et tout vase de terre dans lequel il en tombe quelque chose,… tout ce qui est dedans, sera impur, et vous casserez le vase;",
+        "KJV": "And every earthen vessel, whereinto [any] of them falleth, whatsoever [is] in it shall be unclean; and ye shall break it.",
+        "LSG": "Tout ce qui se trouvera dans un vase de terre où il en tombera quelque chose, sera souillé, et vous briserez le vase.",
+        "MAB": "Mais s'il en tombe quelque chose dans quelque vaisseau de terre que ce soit, tout ce qui est dedans sera souillé, et vous casserez le vaisseau.",
+        "OST": "Et s'il en tombe quelque chose dans un vase de terre, tout ce qui se trouvera dedans sera souillé, et vous briserez le vase.",
+        "S21": "Si un de leurs cadavres tombe dans un récipient en terre, tout son contenu sera impur et vous briserez le récipient."
+      }
+    },
+    {
+      "verse": 34,
+      "texts": {
+        "BDS": "Si l’eau contenue dans ce récipient a été versée sur un aliment comestible, celui-ci devient impur, de même que toute boisson, quel que soit le récipient dans lequel elle se trouve.",
+        "DBY": "et tout aliment qu'on mange, sur lequel il sera venu de cette eau, sera impur; et tout breuvage qu'on boit, dans quelque vase que ce soit, sera impur;",
+        "KJV": "Of all meat which may be eaten, [that] on which [such] water cometh shall be unclean: and all drink that may be drunk in every [such] vessel shall be unclean.",
+        "LSG": "Tout aliment qui sert à la nourriture, et sur lequel il sera tombé de cette eau, sera souillé; et toute boisson dont on fait usage, quel que soit le vase qui la contienne, sera souillée.",
+        "MAB": "Et toute viande qu'on mange, sur laquelle il y aura eu de l'eau, sera souillée; tout breuvage qu'on boit dans quelque vaisseau que ce soit, en sera souillé.",
+        "OST": "Tout aliment qu'on mange, sur lequel il sera tombé de cette eau, sera souillé; et tout breuvage qu'on boit, dans quelque vase que ce soit, en sera souillé.",
+        "S21": "Tout aliment comestible sur lequel il sera tombé de cette eau sera impur, et toute boisson potable, quel que soit le récipient qui la contient, sera impure."
+      }
+    },
+    {
+      "verse": 35,
+      "texts": {
+        "BDS": "Tout objet sur lequel tombera le cadavre d’une de ces bêtes sera impur. S’il s’agit d’un four ou d’un foyer, ils seront mis en pièces, car ils sont impurs et vous les tiendrez pour tels.",
+        "DBY": "et tout ce sur quoi tombe quelque chose de leur corps mort, sera impur; le four et le foyer seront détruits: ils sont impurs, et ils vous seront impurs;",
+        "KJV": "And every [thing] whereupon [any part] of their carcase falleth shall be unclean; [whether it be] oven, or ranges for pots, they shall be broken down: [for] they [are] unclean, and shall be unclean unto you.",
+        "LSG": "Tout objet sur lequel tombera quelque chose de leurs corps morts sera souillé; le four et le foyer seront détruits: ils seront souillés, et vous les regarderez comme souillés.",
+        "MAB": "Et s'il tombe quelque chose de leur chair morte sur quoi que ce soit, cela sera souillé; le four et le foyer seront abattus; ils sont souillés, et ils vous seront souillés.",
+        "OST": "Tout objet sur lequel tombera quelque chose de leur corps mort, sera souillé; le four et le foyer seront détruits; ils sont souillés, et ils vous seront souillés.",
+        "S21": "Tout objet sur lequel tombera un de leurs cadavres sera impur. S’il s’agit d’un four ou d’un foyer, on les détruira; ils seront impurs et vous les considérerez comme impurs."
+      }
+    },
+    {
+      "verse": 36,
+      "texts": {
+        "BDS": "Toutefois, les sources et les puits constituant une réserve d’eau resteront purs, seul celui qui touche le cadavre sera impur.",
+        "DBY": "mais une fontaine ou un puits, un amas d'eaux, sera net. Mais celui qui touchera leur corps mort sera impur.",
+        "KJV": "Nevertheless a fountain or pit, [wherein there is] plenty of water, shall be clean: but that which toucheth their carcase shall be unclean.",
+        "LSG": "Il n'y aura que les sources et les citernes, formant des amas d'eaux, qui resteront pures; mais celui qui y touchera de leurs corps morts sera impur.",
+        "MAB": "Toutefois la fontaine, ou le puits, [ou tel autre] amas d'eaux seront nets. Celui donc qui touchera leur chair morte, sera souillé.",
+        "OST": "Toutefois une source ou une citerne, formant amas d'eau, seront pures; mais qui touchera leur corps mort sera souillé.",
+        "S21": "Seules les sources et les citernes qui forment une réserve d'eau resteront pures. Mais si quelqu’un touche leur cadavre, il sera impur."
+      }
+    },
+    {
+      "verse": 37,
+      "texts": {
+        "BDS": "Si une partie de leur cadavre tombe sur une semence végétale quelconque, celle-ci restera pure.",
+        "DBY": "Et s'il tombe quelque chose de leur corps mort sur une semence qui se sème, elle sera pure;",
+        "KJV": "And if [any part] of their carcase fall upon any sowing seed which is to be sown, it [shall be] clean.",
+        "LSG": "S'il tombe quelque chose de leurs corps morts sur une semence qui doit être semée, elle restera pure;",
+        "MAB": "Et s'il est tombé de leur chair morte sur quelque semence qui se sème, elle sera nette.",
+        "OST": "Et s'il tombe quelque chose de leur corps mort sur quelque semence que l'on sème, elle sera pure.",
+        "S21": "Si un de leurs cadavres tombe sur une semence qui doit être semée, elle restera pure."
+      }
+    },
+    {
+      "verse": 38,
+      "texts": {
+        "BDS": "Mais si l’on a mis de l’eau sur du grain et qu’il y tombe un de ces cadavres, vous la tiendrez pour impure.",
+        "DBY": "mais si on avait mis de l'eau sur la semence, et qu'il tombe sur elle quelque chose de leur corps mort, elle vous sera impure.",
+        "KJV": "But if [any] water be put upon the seed, and [any part] of their carcase fall thereon, it [shall be] unclean unto you.",
+        "LSG": "mais si l'on a mis de l'eau sur la semence, et qu'il y tombe quelque chose de leurs corps morts, vous la regarderez comme souillée.",
+        "MAB": "Mais si on avait mis de l'eau sur la semence, et que quelque chose de leur chair morte tombe sur elle, elle vous sera souillée.",
+        "OST": "Mais si l'on a mis de l'eau sur la semence, et qu'il y tombe quelque chose de leur corps mort, elle vous sera souillée.",
+        "S21": "Mais si l'on a mis de l'eau sur la semence et qu’un de leurs cadavres y tombe, vous la considérerez comme impure."
+      }
+    },
+    {
+      "verse": 39,
+      "texts": {
+        "BDS": "Si l’un des animaux qui vous sert normalement de nourriture vient à mourir, celui qui touchera son cadavre sera impur jusqu’au soir.",
+        "DBY": "-Et s'il meurt une des bêtes qui vous servent d'aliment, celui qui en touchera le corps mort sera impur jusqu'au soir;",
+        "KJV": "And if any beast, of which ye may eat, die; he that toucheth the carcase thereof shall be unclean until the even.",
+        "LSG": "S'il meurt un des animaux qui vous servent de nourriture, celui qui touchera son corps mort sera impur jusqu'au soir;",
+        "MAB": "Et quand quelqu'une des bêtes qui vous sont pour viande, sera morte [d'elle-même], celui qui en touchera la chair morte, sera souillé jusqu'au soir.",
+        "OST": "Et quand une des bêtes qui vous sert de nourriture mourra, celui qui en touchera le cadavre, sera souillé jusqu'au soir.",
+        "S21": "»Si un des animaux que vous pouvez manger meurt, celui qui touchera son cadavre sera impur jusqu'au soir."
+      }
+    },
+    {
+      "verse": 40,
+      "texts": {
+        "BDS": "Celui qui aura mangé de sa viande lavera ses vêtements et restera en état d’impureté jusqu’au soir; il en est de même pour celui qui transportera le cadavre de la bête.",
+        "DBY": "et celui qui mangera de son corps mort lavera ses vêtements, et sera impur jusqu'au soir; et celui qui portera son corps mort lavera ses vêtements, et sera impur jusqu'au soir.",
+        "KJV": "And he that eateth of the carcase of it shall wash his clothes, and be unclean until the even: he also that beareth the carcase of it shall wash his clothes, and be unclean until the even.",
+        "LSG": "celui qui mangera de son corps mort lavera ses vêtements et sera impur jusqu'au soir, et celui qui portera son corps mort lavera ses vêtements et sera impur jusqu'au soir.",
+        "MAB": "Et celui qui aura mangé de sa chair morte, lavera ses vêtements, et sera souillé jusqu'au soir. Celui aussi qui portera la chair morte de cette bête, lavera ses vêtements, et sera souillé jusqu'au soir.",
+        "OST": "Celui qui mangera de son corps mort lavera ses vêtements, et sera souillé jusqu'au soir; et celui qui portera son corps mort, lavera ses vêtements, et sera souillé jusqu'au soir.",
+        "S21": "Celui qui mangera de ce cadavre lavera ses vêtements et sera impur jusqu'au soir, et celui qui portera le cadavre lavera ses vêtements et sera impur jusqu'au soir."
+      }
+    },
+    {
+      "verse": 41,
+      "texts": {
+        "BDS": "Toute bestiole qui se meut à ras de terre vous sera en abomination, vous n’en mangerez pas.",
+        "DBY": "Et tout reptile qui rampe sur la terre sera une chose abominable; on n'en mangera pas.",
+        "KJV": "And every creeping thing that creepeth upon the earth [shall be] an abomination; it shall not be eaten.",
+        "LSG": "Vous aurez en abomination tout reptile qui rampe sur la terre: on n'en mangera point.",
+        "MAB": "Tout reptile donc qui rampe sur la terre, vous sera en abomination, [et] on n'en mangera point.",
+        "OST": "Tout reptile qui rampe sur la terre est une abomination; on n'en mangera point.",
+        "S21": "»Vous considérerez comme abominable tout reptile qui rampe sur la terre. On n'en mangera pas."
+      }
+    },
+    {
+      "verse": 42,
+      "texts": {
+        "BDS": "Qu’elle rampe sur son ventre, qu’elle se déplace sur quatre pattes ou qu’elle ait beaucoup de pattes, de tout ce qui se meut à ras de terre, vous n’en mangerez pas et vous les aurez en abomination.",
+        "DBY": "De tout ce qui marche sur le ventre, et de tout ce qui marche sur quatre pieds, et de tout ce qui a beaucoup de pieds, parmi tous les reptiles qui rampent sur la terre, vous n'en mangerez pas; car c'est une chose abominable.",
+        "KJV": "Whatsoever goeth upon the belly, and whatsoever goeth upon [all] four, or whatsoever hath more feet among all creeping things that creep upon the earth, them ye shall not eat; for they [are] an abomination.",
+        "LSG": "Vous ne mangerez point, parmi tous les reptiles qui rampent sur la terre, de tous ceux qui se traînent sur le ventre, ni de tous ceux qui marchent sur quatre pieds ou sur un grand nombre de pieds; car vous les aurez en abomination.",
+        "MAB": "Vous ne mangerez point de tout ce qui rampe sur la poitrine, ni de tout ce qui marche sur les quatre pieds, ni de tout ce qui a plusieurs pieds entre tous les reptiles qui se traînent sur la terre; car ils sont en abomination.",
+        "OST": "Vous ne mangerez point, parmi les reptiles qui rampent sur la terre, ceux qui marchent sur le ventre, ni ceux qui marchent sur quatre pieds, ou sur un grand nombre de pieds; car ils sont une abomination.",
+        "S21": "Parmi tous les reptiles qui rampent sur la terre, vous ne mangerez aucun de ceux qui se traînent sur le ventre, ni de ceux qui marchent sur quatre pattes ou sur un grand nombre de pattes, car vous les considérerez comme abominables."
+      }
+    },
+    {
+      "verse": 43,
+      "texts": {
+        "BDS": "Ne vous faites pas vous-mêmes prendre en abomination à cause de l’une de ces bêtes qui se meuvent à ras du sol, ne vous rendez pas impurs par elles pour vous trouver en état d’impureté à cause d’elles,",
+        "DBY": "Ne rendez pas vos âmes abominables par aucun reptile qui rampe, et ne vous rendez pas impurs par eux, de sorte que vous soyez impurs par eux.",
+        "KJV": "Ye shall not make yourselves abominable with any creeping thing that creepeth, neither shall ye make yourselves unclean with them, that ye should be defiled thereby.",
+        "LSG": "Ne rendez point vos personnes abominables par tous ces reptiles qui rampent; ne vous rendez point impurs par eux, ne vous souillez point par eux.",
+        "MAB": "Ne rendez point vos personnes abominables par aucun reptile qui se traîne, et ne vous souillez point par eux : car vous seriez souillés par eux.",
+        "OST": "Ne rendez point vos personnes abominables par aucun reptile qui rampe, ne vous rendez point impurs par eux, ne vous souillez point par eux.",
+        "S21": "Ne vous rendez pas vous-mêmes abominables par tous ces reptiles qui rampent; ne vous rendez pas impurs par eux, ne vous souillez pas par eux."
+      }
+    },
+    {
+      "verse": 44,
+      "texts": {
+        "BDS": "car je suis l’Eternel votre Dieu. Comportez-vous en gens saints et soyez saints, car je suis saint, et ne vous rendez pas impurs par l’une de ces bêtes qui se meuvent à ras de terre.",
+        "DBY": "Car je suis l'Éternel, votre Dieu: et vous vous sanctifierez, et vous serez saints, car je suis saint; et vous ne rendrez pas vos âmes impures par aucun reptile qui se meut sur la terre.",
+        "KJV": "For I [am] the LORD your God: ye shall therefore sanctify yourselves, and ye shall be holy; for I [am] holy: neither shall ye defile yourselves with any manner of creeping thing that creepeth upon the earth.",
+        "LSG": "Car je suis l'Eternel, votre Dieu; vous vous sanctifierez, et vous serez saints, car je suis saint; et vous ne vous rendrez point impurs par tous ces reptiles qui rampent sur la terre.",
+        "MAB": "Parce que je suis l'Eternel votre Dieu. Vous vous sanctifierez donc, et vous serez saints; car je suis saint; ainsi vous ne souillerez point vos personnes par aucun reptile qui se traîne sur la terre.",
+        "OST": "Car je suis l'Éternel, votre Dieu; vous vous sanctifierez, et vous serez saints; car je suis saint. Et vous ne souillerez point vos personnes par aucun de ces reptiles qui rampent sur la terre.",
+        "S21": "En effet, je suis l'Eternel, votre Dieu. Vous vous consacrerez et vous serez saints, car je suis saint; vous ne vous rendrez pas impurs par tous ces reptiles qui rampent sur la terre."
+      }
+    },
+    {
+      "verse": 45,
+      "texts": {
+        "BDS": "Car je suis l’Eternel qui vous ai fait sortir d’Egypte pour être votre Dieu. Soyez donc saints, car je suis saint.",
+        "DBY": "Car je suis l'Éternel qui vous ai fait monter du pays d'Égypte, afin que je sois votre Dieu: et vous serez saints, car je suis saint.",
+        "KJV": "For I [am] the LORD that bringeth you up out of the land of Egypt, to be your God: ye shall therefore be holy, for I [am] holy.",
+        "LSG": "Car je suis l'Eternel, qui vous ai fait monter du pays d'Egypte, pour être votre Dieu, et pour que vous soyez saints; car je suis saint.",
+        "MAB": "Car je suis l'Eternel, qui vous ai fait monter du pays d'Egypte, afin que je sois votre Dieu, et que vous soyez saints; car je suis saint.",
+        "OST": "Car je suis l'Éternel, qui vous ai fait monter du pays d'Égypte, pour être votre Dieu; vous serez saints, car je suis saint.",
+        "S21": "En effet, je suis l'Eternel, qui vous ai fait sortir d’Egypte pour être votre Dieu, et vous serez saints car je suis saint."
+      }
+    },
+    {
+      "verse": 46,
+      "texts": {
+        "BDS": "Telle est la loi concernant les quadrupèdes, les oiseaux et tout être vivant qui se meut dans les eaux ou qui se meut à ras de terre,",
+        "DBY": "Telle est la loi touchant les bêtes et les oiseaux, et tout être vivant qui se meut dans les eaux, et tout être qui rampe sur la terre;",
+        "KJV": "This [is] the law of the beasts, and of the fowl, and of every living creature that moveth in the waters, and of every creature that creepeth upon the earth:",
+        "LSG": "Telle est la loi touchant les animaux, les oiseaux, tous les êtres vivants qui se meuvent dans les eaux, et tous les êtres qui rampent sur la terre,",
+        "MAB": "Telle est la Loi touchant les bêtes, et les oiseaux, et tout animal ayant vie, qui se meut dans les eaux, et toute chose ayant vie, qui se traîne sur la terre.",
+        "OST": "Telle est la loi touchant le bétail, les oiseaux, tout être vivant qui se meut dans les eaux, et pour tout être qui rampe sur la terre,",
+        "S21": "»Telle est la loi concernant les animaux, les oiseaux, tous les êtres qui vivent dans l’eau et tous ceux qui rampent sur la terre,"
+      }
+    },
+    {
+      "verse": 47,
+      "texts": {
+        "BDS": "afin qu’on sépare ce qui est impur de ce qui est pur, et qu’on distingue les animaux qui peuvent être mangés de ceux qu’on ne doit pas manger.",
+        "DBY": "afin de discerner entre ce qui est impur et ce qui est pur, et entre l'animal qu'on mange et l'animal qu'on ne mangera pas.",
+        "KJV": "To make a difference between the unclean and the clean, and between the beast that may be eaten and the beast that may not be eaten.",
+        "LSG": "afin que vous distinguiez ce qui est impur et ce qui est pur, l'animal qui se mange et l'animal qui ne se mange pas.",
+        "MAB": "Afin de discerner entre la chose souillée et la chose nette, et entre les animaux qu'on peut manger, et les animaux dont on ne doit point manger.",
+        "OST": "Afin de discerner entre ce qui est souillé et ce qui est pur, entre l'animal qui se mange et celui qui ne se mange pas.",
+        "S21": "afin que vous distinguiez ce qui est impur et ce qui est pur, l'animal qui se mange et celui qui ne se mange pas.»"
+      }
+    }
+  ]
+}

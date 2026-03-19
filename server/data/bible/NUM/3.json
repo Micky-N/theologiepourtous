@@ -1,0 +1,618 @@
+{
+  "bookCode": "NUM",
+  "chapter": 3,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "Voici la liste des descendants d’Aaron et de Moïse à l’époque où l’Eternel s’adressa à Moïse sur le mont Sinaï.",
+        "DBY": "Et ce sont ici les générations d'Aaron et de Moïse, au jour que l'Éternel parla à Moïse sur la montagne de Sinaï.",
+        "KJV": "These also [are] the generations of Aaron and Moses in the day [that] the LORD spake with Moses in mount Sinai.",
+        "LSG": "Voici la postérité d'Aaron et de Moïse, au temps où l'Eternel parla à Moïse, sur la montagne de Sinaï.",
+        "MAB": "Or ce sont ici les générations d'Aaron et de Moïse, au temps que l'Eternel parla à Moïse sur la montagne de Sinaï.",
+        "OST": "Voici les descendants d'Aaron et de Moïse, au jour où l'Éternel parla à Moïse au mont Sinaï;",
+        "S21": "Voici l’histoire d'Aaron et de Moïse à l’époque où l'Eternel parla à Moïse sur le mont Sinaï."
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "Voici les noms des fils d’Aaron: l’aîné s’appelait Nadab, puis vinrent Abihou, Eléazar et Itamar.",
+        "DBY": "Et ce sont ici les noms des fils d'Aaron: le premier-né, Nadab, et Abihu, Éléazar et Ithamar.",
+        "KJV": "And these [are] the names of the sons of Aaron; Nadab the firstborn, and Abihu, Eleazar, and Ithamar.",
+        "LSG": "Voici les noms des fils d'Aaron: Nadab, le premier-né, Abihu, Eléazar et Ithamar.",
+        "MAB": "Et ce sont ici les noms des enfants d'Aaron; Nadab, qui était l'aîné, Abihu, Eléazar, et Ithamar.",
+        "OST": "Voici les noms des fils d'Aaron: Nadab, le premier-né, Abihu, Éléazar et Ithamar.",
+        "S21": "Voici le nom des fils d'Aaron: Nadab, l’aîné, Abihu, Eléazar et Ithamar."
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "Ils étaient prêtres ayant reçu l’onction pour être investis de la fonction sacerdotale.",
+        "DBY": "Ce sont là les noms des fils d'Aaron, les sacrificateurs oints qui furent consacrés pour exercer la sacrificature.",
+        "KJV": "These [are] the names of the sons of Aaron, the priests which were anointed, whom he consecrated to minister in the priest's office.",
+        "LSG": "Ce sont là les noms des fils d'Aaron, qui reçurent l'onction comme sacrificateurs, et qui furent consacrés pour l'exercice du sacerdoce.",
+        "MAB": "Ce sont là les noms des enfants d'Aaron Sacrificateurs, qui furent oints et consacrés pour exercer la Sacrificature.",
+        "OST": "Ce sont là les noms des fils d'Aaron, des sacrificateurs qui furent oints, qu'on institua pour exercer le sacerdoce.",
+        "S21": "Tel est le nom des fils d'Aaron; ils furent désignés par onction comme prêtres et établis dans leurs fonctions en tant que prêtres."
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "Mais Nadab et Abihou moururent devant l’Eternel, dans le désert du Sinaï, parce qu’ils lui avaient présenté un feu profane; ils n’avaient pas eu d’enfants. Eléazar et Itamar exercèrent le ministère sacerdotal sous la supervision de leur père Aaron.",
+        "DBY": "Et Nadab et Abihu moururent devant l'Éternel, lorsqu'ils présentèrent un feu étranger devant l'Éternel dans le désert de Sinaï, et ils n'eurent point de fils; et Éléazar et Ithamar exercèrent la sacrificature en présence d'Aaron, leur père.",
+        "KJV": "And Nadab and Abihu died before the LORD, when they offered strange fire before the LORD, in the wilderness of Sinai, and they had no children: and Eleazar and Ithamar ministered in the priest's office in the sight of Aaron their father.",
+        "LSG": "Nadab et Abihu moururent devant l'Eternel, lorsqu'ils apportèrent devant l'Eternel du feu étranger, dans le désert de Sinaï; ils n'avaient point de fils. Eléazar et Ithamar exercèrent le sacerdoce, en présence d'Aaron, leur père.",
+        "MAB": "Mais Nadab et Abihu moururent en la présence de l'Eternel, quand ils offrirent un feu étranger devant l'Eternel au désert de Sinaï, et ils n'eurent point d'enfants; mais Eléazar et Ithamar exercèrent la Sacrificature en la présence d'Aaron leur père.",
+        "OST": "Or, Nadab et Abihu moururent devant l'Éternel, lorsqu'ils offrirent un feu étranger devant l'Éternel, au désert de Sinaï. Et ils n'avaient point d'enfants. Mais Éléazar et Ithamar exercèrent la sacrificature, en présence d'Aaron, leur père.",
+        "S21": "Nadab et Abihu moururent devant l'Eternel lorsqu'ils apportèrent du feu étranger devant lui, dans le désert du Sinaï. Ils n'avaient pas de fils. Eléazar et Ithamar officièrent comme prêtres aux côtés de leur père Aaron."
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "L’Eternel parla à Moïse en ces termes:",
+        "DBY": "Et l'Éternel parla à Moïse, disant:",
+        "KJV": "And the LORD spake unto Moses, saying,",
+        "LSG": "L'Eternel parla à Moïse, et dit:",
+        "MAB": "Et l'Eternel parla à Moïse, en disant :",
+        "OST": "Alors l'Éternel parla à Moïse, en disant:",
+        "S21": "L'Eternel dit à Moïse:"
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "—Fais venir la tribu de Lévi et mets ses membres à la disposition du prêtre Aaron pour qu’ils l’assistent.",
+        "DBY": "Fais approcher la tribu de Lévi, et fais-la se tenir devant Aaron, le sacrificateur, afin qu'ils le servent,",
+        "KJV": "Bring the tribe of Levi near, and present them before Aaron the priest, that they may minister unto him.",
+        "LSG": "Fais approcher la tribu de Lévi, et tu la placeras devant le sacrificateur Aaron, pour qu'elle soit à son service.",
+        "MAB": "Fais approcher la Tribu de Lévi, et fais qu'elle se tienne devant Aaron Sacrificateur, afin qu'ils le servent.",
+        "OST": "Fais approcher la tribu de Lévi, et fais-la tenir devant Aaron, le sacrificateur, afin qu'ils le servent;",
+        "S21": "«Fais approcher la tribu de Lévi et mets-la à la disposition du prêtre Aaron pour qu'elle soit à son service."
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "Ils seront à son service et au service de toute la communauté devant la tente de la Rencontre, pour accomplir les tâches relatives au tabernacle.",
+        "DBY": "et qu'ils accomplissent ce qui appartient à son service, et au service de toute l'assemblée, devant la tente d'assignation, pour faire le service du tabernacle;",
+        "KJV": "And they shall keep his charge, and the charge of the whole congregation before the tabernacle of the congregation, to do the service of the tabernacle.",
+        "LSG": "Ils auront le soin de ce qui est remis à sa garde et à la garde de toute l'assemblée, devant la tente d'assignation: ils feront le service du tabernacle.",
+        "MAB": "Et qu'ils aient la charge de ce qu'il leur ordonnera de garder, et de ce que toute l'assemblée leur ordonnera de garder, devant le Tabernacle d'assignation, en faisant le service du Tabernacle.",
+        "OST": "Et qu'ils soignent tout ce qui est commis à ses soins et aux soins de toute l'assemblée, devant le tabernacle d'assignation, en faisant le service de la Demeure;",
+        "S21": "Ils assumeront sa tâche et celle de toute l'assemblée devant la tente de la rencontre en effectuant le service du tabernacle."
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "Ils prendront soin de tous les ustensiles de la tente de la Rencontre et seront au service des Israélites pour accomplir les tâches relatives au tabernacle.",
+        "DBY": "et ils auront la charge de tous les ustensiles de la tente d'assignation, et de ce qui se rapporte au service des fils d'Israël, pour faire le service du tabernacle.",
+        "KJV": "And they shall keep all the instruments of the tabernacle of the congregation, and the charge of the children of Israel, to do the service of the tabernacle.",
+        "LSG": "Ils auront le soin de tous les ustensiles de la tente d'assignation, et de ce qui est remis à la garde des enfants d'Israël: ils feront le service du tabernacle.",
+        "MAB": "Et qu'ils gardent tous les ustensiles du Tabernacle d'assignation, et ce qui leur sera donné en charge par les enfants d'Israël, pour faire le service du Tabernacle.",
+        "OST": "Et qu'ils soignent tous les ustensiles du tabernacle d'assignation, et ce qui leur sera confié par les enfants d'Israël, pour faire le service de la Demeure.",
+        "S21": "Ils auront la responsabilité de tous les ustensiles de la tente de la rencontre et assumeront la tâche des Israélites en effectuant le service du tabernacle."
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "Donc, tu mettras les lévites à la disposition d’Aaron et de ses fils; ils lui seront attribués comme représentants des Israélites.",
+        "DBY": "Et tu donneras les Lévites à Aaron et à ses fils; ils lui sont absolument donnés d'entre les fils d'Israël.",
+        "KJV": "And thou shalt give the Levites unto Aaron and to his sons: they [are] wholly given unto him out of the children of Israel.",
+        "LSG": "Tu donneras les Lévites à Aaron et à ses fils; ils lui seront entièrement donnés, de la part des enfants d'Israël.",
+        "MAB": "Ainsi tu donneras les Lévites à Aaron et à ses fils; ils lui sont absolument donnés d'entre les enfants d'Israël.",
+        "OST": "Ainsi tu donneras les Lévites à Aaron et à ses fils; ils lui sont complètement donnés d'entre les enfants d'Israël.",
+        "S21": "Tu donneras les Lévites à Aaron et à ses fils; ils lui seront donnés comme des dons de la part des Israélites."
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "Tu veilleras à ce qu’Aaron et ses fils exercent les fonctions sacerdotales; celui qui ne serait pas de leur famille et qui s’approcherait du tabernacle sera puni de mort.",
+        "DBY": "Et tu établiras Aaron et ses fils, afin qu'ils accomplissent les devoirs de leur sacrificature; et l'étranger qui approchera sera mis à mort.",
+        "KJV": "And thou shalt appoint Aaron and his sons, and they shall wait on their priest's office: and the stranger that cometh nigh shall be put to death.",
+        "LSG": "Tu établiras Aaron et ses fils pour qu'ils observent les fonctions de leur sacerdoce; et l'étranger qui approchera sera puni de mort.",
+        "MAB": "Tu donneras donc la surintendance à Aaron et à ses fils, et ils exerceront leur Sacrificature. Que si quelque étranger en approche, on le fera mourir.",
+        "OST": "Tu établiras donc Aaron et ses fils, afin qu'ils gardent leur sacerdoce; et l'étranger qui en approchera sera puni de mort.",
+        "S21": "Mais c’est Aaron et ses fils que tu établiras responsables de leur fonction de prêtres. Si quelqu’un d’autre y prend part, il sera puni de mort.»"
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "L’Eternel parla encore à Moïse en ces termes:",
+        "DBY": "Et l'Éternel parla à Moïse, disant:",
+        "KJV": "And the LORD spake unto Moses, saying,",
+        "LSG": "L'Eternel parla à Moïse, et dit:",
+        "MAB": "Et l'Eternel parla à Moïse, en disant :",
+        "OST": "Et l'Éternel parla à Moïse, en disant:",
+        "S21": "L'Eternel dit à Moïse:"
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "—Voici: j’ai choisi les lévites du milieu des Israélites à la place de tous les premiers-nés des mères israélites; ils m’appartiennent donc.",
+        "DBY": "Et moi, voici, j'ai pris les Lévites du milieu des fils d'Israël, à la place de tout premier-né d'entre les fils d'Israël qui ouvre la matrice; et les Lévites seront à moi;",
+        "KJV": "And I, behold, I have taken the Levites from among the children of Israel instead of all the firstborn that openeth the matrix among the children of Israel: therefore the Levites shall be mine;",
+        "LSG": "Voici, j'ai pris les Lévites du milieu des enfants d'Israël, à la place de tous les premiers-nés, des premiers-nés des enfants d'Israël; et les Lévites m'appartiendront.",
+        "MAB": "Voici, j'ai pris les Lévites d'entre les enfants d'Israël, au lieu de tout premier-né qui ouvre la matrice entre les enfants d'Israël; c'est pourquoi les Lévites seront à moi.",
+        "OST": "Voici, j'ai pris les Lévites, d'entre les enfants d'Israël, à la place de tous les premiers-nés des enfants d'Israël, et les Lévites seront à moi.",
+        "S21": "«J'ai pris les Lévites du milieu des Israélites, à la place de tous les premiers-nés des Israélites, et les Lévites m'appartiennent."
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "Tout premier-né m’appartient en effet, depuis le jour où j’ai fait mourir tous les premiers-nés des Egyptiens et où je me suis consacré tout premier-né en Israël, tant ceux des hommes que ceux des animaux. Ils sont à moi. Je suis l’Eternel.",
+        "DBY": "car tout premier-né est à moi. Le jour où j'ai frappé tout premier-né dans le pays d'Égypte, je me suis sanctifié tout premier-né en Israël, depuis l'homme jusqu'à la bête: ils seront à moi. Je suis l'Éternel.",
+        "KJV": "Because all the firstborn [are] mine; [for] on the day that I smote all the firstborn in the land of Egypt I hallowed unto me all the firstborn in Israel, both man and beast: mine shall they be: I [am] the LORD.",
+        "LSG": "Car tout premier-né m'appartient; le jour où j'ai frappé tous les premiers-nés dans le pays d'Egypte, je me suis consacré tous les premiers-nés en Israël, tant des hommes que des animaux: ils m'appartiendront. Je suis l'Eternel.",
+        "MAB": "Car tout premier-né m'appartient, depuis que je frappai tout premier-né au pays d'Egypte; je me suis sanctifié tout premier-né en Israël, depuis les hommes jusqu'aux bêtes; ils seront à moi, je suis l'Eternel.",
+        "OST": "Car tout premier-né m'appartient; au jour où je frappai tout premier-né dans le pays d'Égypte, je me suis consacré tout premier-né en Israël, depuis les hommes jusqu'aux bêtes; ils seront à moi: je suis l'Éternel.",
+        "S21": "En effet, tout premier-né m'appartient. Le jour où j'ai frappé tous les premiers-nés en Egypte, je me suis consacré tous les premiers-nés en Israël, aussi bien des hommes que des animaux: ils m'appartiendront. Je suis l'Eternel.»"
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "Là-dessus, l’Eternel commanda à Moïse, au désert du Sinaï:",
+        "DBY": "Et l'Éternel parla à Moïse, dans le désert de Sinaï, disant:",
+        "KJV": "And the LORD spake unto Moses in the wilderness of Sinai, saying,",
+        "LSG": "L'Eternel parla à Moïse, dans le désert de Sinaï, et dit:",
+        "MAB": "L'Eternel parla aussi à Moïse au désert de Sinaï, en disant :",
+        "OST": "L'Éternel parla aussi à Moïse, au désert de Sinaï, en disant:",
+        "S21": "L'Eternel dit à Moïse dans le désert du Sinaï:"
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "—Fais le recensement des descendants de Lévi, selon leurs groupes familiaux et leurs familles; tu compteras tous les lévites de sexe masculin de l’âge d’un mois et plus.",
+        "DBY": "Dénombre les fils de Lévi selon leurs maisons de pères, selon leurs familles: tu dénombreras tous les mâles depuis l'âge d'un mois et au-dessus.",
+        "KJV": "Number the children of Levi after the house of their fathers, by their families: every male from a month old and upward shalt thou number them.",
+        "LSG": "Fais le dénombrement des enfants de Lévi, selon les maisons de leurs pères, selon leurs familles; tu feras le dénombrement de tous les mâles, depuis l'âge d'un mois et au-dessus.",
+        "MAB": "Dénombre les enfants de Lévi, par les maisons de leurs pères, [et] par leurs familles, en comptant tout mâle depuis l'âge d'un mois, et au dessus.",
+        "OST": "Dénombre les enfants de Lévi, selon les maisons de leurs pères, selon leurs familles, en comptant tous les mâles depuis l'âge d'un mois et au-dessus.",
+        "S21": "«Fais le dénombrement des Lévites en fonction de leur famille, de leur clan. Tu feras le dénombrement de tous les hommes âgés d'un mois et plus.»"
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "Moïse fit ce recensement sur l’ordre de l’Eternel de la manière qu’il lui avait prescrite.",
+        "DBY": "Et Moïse les dénombrera selon le commandement de l'Éternel, comme il lui avait été commandé.",
+        "KJV": "And Moses numbered them according to the word of the LORD, as he was commanded.",
+        "LSG": "Moïse en fit le dénombrement sur l'ordre de l'Eternel, en se conformant à l'ordre qui lui fut donné.",
+        "MAB": "Moïse donc les dénombra selon le commandement de l'Eternel, ainsi qu'il lui avait été commandé.",
+        "OST": "Et Moïse les dénombra, selon le commandement de l'Éternel, ainsi qu'il lui avait été ordonné.",
+        "S21": "Moïse les dénombra sur l'ordre de l'Eternel, il se conforma à cet ordre."
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "Voici les noms des fils de Lévi: Guerchôn, Qehath et Merari.",
+        "DBY": "Ce sont ici les fils de Lévi, selon leurs noms: Guershon, et Kehath, et Merari.",
+        "KJV": "And these were the sons of Levi by their names; Gershon, and Kohath, and Merari.",
+        "LSG": "Ce sont ici les fils de Lévi, d'après leurs noms: Guerschon, Kehath et Merari. -",
+        "MAB": "r ce sont ici les fils de Lévi selon leurs noms : Guerson, Kéhath, et Mérari.",
+        "OST": "Voici quels sont les fils de Lévi, par leurs noms: Guershon, Kéhath et Mérari.",
+        "S21": "Voici les fils de Lévi cités par leur nom: Guershon, Kehath et Merari."
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "Guerchôn avait pour fils Libni et Chimeï, qui ont donné leurs noms à leurs familles.",
+        "DBY": "Et ce sont ici les noms des fils de Guershon, et Kehath, et Merari. Et ce sont ici les noms des fils de Guershon, selon leurs familles: Libni et Shimhi.",
+        "KJV": "And these [are] the names of the sons of Gershon by their families; Libni, and Shimei.",
+        "LSG": "Voici les noms des fils de Guerschon, selon leurs familles: Libni et Schimeï.",
+        "MAB": "Et ce sont ici les noms des fils de Guerson, selon leurs familles, Libni, et Simhi.",
+        "OST": "Et voici les noms des fils de Guershon, selon leurs familles: Libni et Shimeï.",
+        "S21": "Voici le nom des fils de Guershon en fonction de leur clan: Libni et Shimeï."
+      }
+    },
+    {
+      "verse": 19,
+      "texts": {
+        "BDS": "Qehath eut pour fils Amram et Yitsehar, Hébrôn et Ouziel qui ont donné leur nom à leur famille.",
+        "DBY": "Et les fils de Kehath, selon leurs familles: Amram, et Jitsehar, Hébron, et Uziel.",
+        "KJV": "And the sons of Kohath by their families; Amram, and Izehar, Hebron, and Uzziel.",
+        "LSG": "Voici les fils de Kehath, selon leurs familles: Amram, Jitsehar, Hébron et Uziel;",
+        "MAB": "Et les fils de Kéhath selon leurs familles, Hamram, Jitshar, Hébron et Huziel.",
+        "OST": "Et les fils de Kéhath, selon leurs familles: Amram, Jitshar, Hébron et Uziel.",
+        "S21": "Voici les fils de Kehath en fonction de leur clan: Amram, Jitsehar, Hébron et Uziel,"
+      }
+    },
+    {
+      "verse": 20,
+      "texts": {
+        "BDS": "Merari eut pour fils Mahli et Mouchi qui ont donné leur nom à leur famille. Telles sont les familles des groupes familiaux de Lévi.",
+        "DBY": "Et les fils de Merari, selon leurs familles: Makhli et Mushi. Ce sont là les familles de Lévi, selon leurs maisons de pères.",
+        "KJV": "And the sons of Merari by their families; Mahli, and Mushi. These [are] the families of the Levites according to the house of their fathers.",
+        "LSG": "et les fils de Merari, selon leurs familles: Machli et Muschi. Ce sont là les familles de Lévi, selon les maisons de leurs pères.",
+        "MAB": "Et les fils de Mérari, selon leurs familles, Mahli et Musi; ce sont là les familles de Lévi, selon les maisons de leurs pères.",
+        "OST": "Et les fils de Mérari, selon leurs familles: Machli et Mushi. Telles sont les familles de Lévi, selon les maisons de leurs pères.",
+        "S21": "ainsi que les fils de Merari en fonction de leur clan: Machli et Mushi. Tels sont les clans de Lévi en fonction de leur famille."
+      }
+    },
+    {
+      "verse": 21,
+      "texts": {
+        "BDS": "Les descendants de Guerchôn comprennent la famille de Libni et celle de Chimeï, qui représentent les familles guerchonites.",
+        "DBY": "De Guershon, la famille des Libnites et la famille des Shimhites; ce sont là les familles des Guershonites:",
+        "KJV": "Of Gershon [was] the family of the Libnites, and the family of the Shimites: these [are] the families of the Gershonites.",
+        "LSG": "De Guerschon descendent la famille de Libni et la famille de Schimeï, formant les familles des Guerschonites.",
+        "MAB": "De Guerson [est sortie] la famille des Libnites, et la famille des Simhites; ce sont les familles des Guersonites;",
+        "OST": "A Guershon appartient la famille des Libnites, et la famille des Simhites. Telles sont les familles des Guershonites.",
+        "S21": "De Guershon descendent les clans de Libni et de Shimeï; tels sont les clans des Guershonites."
+      }
+    },
+    {
+      "verse": 22,
+      "texts": {
+        "BDS": "Elles comptaient au moment du recensement 7 500 membres de sexe masculin, âgés d’un mois et plus.",
+        "DBY": "ceux d'entre eux qui furent dénombrés, en comptant tous les mâles depuis l'âge d'un mois et au-dessus, ceux qui furent dénombrés furent sept mille cinq cents.",
+        "KJV": "Those that were numbered of them, according to the number of all the males, from a month old and upward, [even] those that were numbered of them [were] seven thousand and five hundred.",
+        "LSG": "Ceux dont on fit le dénombrement, en comptant tous les mâles depuis l'âge d'un mois et au-dessus, furent sept mille cinq cents.",
+        "MAB": "Desquelles ceux dont on fit le dénombrement, après le compte [qui fut fait] de tous les mâles depuis l'âge d'un mois et au dessus, furent au nombre de sept mille cinq cents.",
+        "OST": "Ceux d'entre eux qui furent dénombrés, en comptant tous les mâles, depuis l'âge d'un mois et au-dessus, étaient sept mille cinq cents.",
+        "S21": "En comptant tous les hommes âgés d'un mois et plus, on dénombra 7500 personnes."
+      }
+    },
+    {
+      "verse": 23,
+      "texts": {
+        "BDS": "Les familles guerchonites campaient derrière le tabernacle, du côté ouest.",
+        "DBY": "Les familles des Guershonites campèrent derrière le tabernacle, vers l'occident;",
+        "KJV": "The families of the Gershonites shall pitch behind the tabernacle westward.",
+        "LSG": "Les familles des Guerschonites campaient derrière le tabernacle à l'occident.",
+        "MAB": "Les familles des Guersonites camperont derrière le Tabernacle à l'Occident.",
+        "OST": "Les familles des Guershonites campaient derrière la Demeure, vers l'Occident;",
+        "S21": "Les clans des Guershonites campaient derrière le tabernacle à l’ouest."
+      }
+    },
+    {
+      "verse": 24,
+      "texts": {
+        "BDS": "Le chef de leur groupe familial était Eliasaph, fils de Laël.",
+        "DBY": "et le prince de la maison de père des Guershonites était Éliasaph, fils de Laël.",
+        "KJV": "And the chief of the house of the father of the Gershonites [shall be] Eliasaph the son of Lael.",
+        "LSG": "Le chef de la maison paternelle des Guerschonites était Eliasaph, fils de Laël.",
+        "MAB": "Et Eliasaph, fils de Laël, sera le chef de la maison des pères des Guersonites.",
+        "OST": "Et le chef de la maison des pères des Guershonites était Eliasaph, fils de Laël.",
+        "S21": "Le chef de famille des Guershonites était Eliasaph, fils de Laël."
+      }
+    },
+    {
+      "verse": 25,
+      "texts": {
+        "BDS": "Dans la tente de la Rencontre, ils avaient la responsabilité du tabernacle et de la tenture qui le recouvrait, du rideau de l’entrée de la Tente,",
+        "DBY": "Et la charge des fils de Guershon, à la tente d'assignation, était le tabernacle et la tente, sa couverture, et le rideau de l'entrée de la tente d'assignation,",
+        "KJV": "And the charge of the sons of Gershon in the tabernacle of the congregation [shall be] the tabernacle, and the tent, the covering thereof, and the hanging for the door of the tabernacle of the congregation,",
+        "LSG": "Pour ce qui concerne la tente d'assignation, on remit aux soins des fils de Guerschon le tabernacle et la tente, la couverture, le rideau qui est à l'entrée de la tente d'assignation;",
+        "MAB": "Et les enfants de Guerson auront en charge au Tabernacle d'assignation, la tente, le Tabernacle, sa couverture, la tapisserie de l'entrée du Tabernacle d'assignation;",
+        "OST": "Et la charge des enfants de Guershon, quant au tabernacle d'assignation, était la Demeure et le tabernacle, sa couverture, et la tapisserie de l'entrée du tabernacle d'assignation,",
+        "S21": "Pour ce qui concerne la tente de la rencontre, les descendants de Guershon étaient responsables du tabernacle et de la tente, de la couverture, du rideau qui est à l'entrée de la tente de la rencontre,"
+      }
+    },
+    {
+      "verse": 26,
+      "texts": {
+        "BDS": "des tentures du parvis qui entoure le tabernacle et l’autel, et de sa porte d’entrée ainsi que des cordages. Ils étaient chargés de tous les travaux liés à ces objets.",
+        "DBY": "et les tentures du parvis, et le rideau de l'entrée du parvis qui entoure le tabernacle et l'autel, et ses cordages pour tout son service.",
+        "KJV": "And the hangings of the court, and the curtain for the door of the court, which [is] by the tabernacle, and by the altar round about, and the cords of it for all the service thereof.",
+        "LSG": "les toiles du parvis et le rideau de l'entrée du parvis, tout autour du tabernacle et de l'autel, et tous les cordages pour le service du tabernacle.",
+        "MAB": "Et les courtines du parvis avec la tapisserie de l'entrée du parvis, qui servent pour le pavillon et pour l'autel, tout autour, et son cordage, pour tout son service.",
+        "OST": "Et les tentures du parvis, et la tapisserie de l'entrée du parvis, qui couvrent la Demeure et l'autel tout autour, et ses cordages pour tout son service.",
+        "S21": "des toiles du parvis, du rideau de l'entrée du parvis qui entoure le tabernacle et l'autel, ainsi que de tous les cordages destinés au service du tabernacle."
+      }
+    },
+    {
+      "verse": 27,
+      "texts": {
+        "BDS": "De Qehath sont issues les familles des Amramites, des Yitseharites, des Hébronites et des Ouziélites, qui représentent les familles qehatites.",
+        "DBY": "Et de Kehath, la famille des Amramites, et la famille des Jitseharites, et la famille des Hébronites, et la famille des Uziélites; ce sont là les familles des Kehathites:",
+        "KJV": "And of Kohath [was] the family of the Amramites, and the family of the Izeharites, and the family of the Hebronites, and the family of the Uzzielites: these [are] the families of the Kohathites.",
+        "LSG": "De Kehath descendent la famille des Amramites, la famille des Jitseharites, la famille des Hébronites et la famille des Uziélites, formant les familles des Kehathites.",
+        "MAB": "Et de Kéhath [est sortie] la famille des Hamramites, la famille des Jitsharites, la famille des Hébronites, et la famille des Huziélites; ce furent là les familles des Kéhathites;",
+        "OST": "A Kéhath appartient la famille des Amramites, la famille des Jitseharites, la famille des Hébronites, et la famille des Uziélites. Telles sont les familles des Kéhathites.",
+        "S21": "De Kehath descendent les clans des Amramites, des Jitseharites, des Hébronites et des Uziélites; tels sont les clans des Kehathites."
+      }
+    },
+    {
+      "verse": 28,
+      "texts": {
+        "BDS": "Elles comptaient 8 600 membres de sexe masculin de plus d’un mois. Ils étaient affectés au service du sanctuaire",
+        "DBY": "en comptant tous les mâles, depuis l'âge d'un mois et au-dessus, il y en eut huit mille six cents, qui avaient la charge du lieu saint.",
+        "KJV": "In the number of all the males, from a month old and upward, [were] eight thousand and six hundred, keeping the charge of the sanctuary.",
+        "LSG": "En comptant tous les mâles depuis l'âge d'un mois et au-dessus, il y en eut huit mille six cents, qui furent chargés des soins du sanctuaire.",
+        "MAB": "Dont tous les mâles depuis l'âge d'un mois, et au dessus, furent au nombre de huit mille six cents, ayant la charge du Sanctuaire.",
+        "OST": "En comptant tous les mâles, depuis l'âge d'un mois et au-dessus, ils étaient huit mille six cents, chargés des soins du sanctuaire.",
+        "S21": "En comptant tous les hommes âgés d'un mois et plus, il y en eut 8600 qui furent chargés de la responsabilité du sanctuaire."
+      }
+    },
+    {
+      "verse": 29,
+      "texts": {
+        "BDS": "et campaient du côté sud de la Demeure.",
+        "DBY": "Les familles des fils de Kehath campèrent à côté du tabernacle, vers le midi;",
+        "KJV": "The families of the sons of Kohath shall pitch on the side of the tabernacle southward.",
+        "LSG": "Les familles des fils de Kehath campaient au côté méridional du tabernacle.",
+        "MAB": "Les familles des enfants de Kéhath camperont du côté du Tabernacle vers le Midi.",
+        "OST": "Les familles des enfants de Kéhath campaient sur le côté de la Demeure, vers le Midi;",
+        "S21": "Les clans des descendants de Kehath campaient au côté sud du tabernacle."
+      }
+    },
+    {
+      "verse": 30,
+      "texts": {
+        "BDS": "Leur chef était Elitsaphan, fils d’Ouziel.",
+        "DBY": "et le prince de la maison de père des familles des Kehathites était Élitsaphan, fils d'Uziel.",
+        "KJV": "And the chief of the house of the father of the families of the Kohathites [shall be] Elizaphan the son of Uzziel.",
+        "LSG": "Le chef de la maison paternelle des familles des Kehathites était Elitsaphan, fils d'Uziel.",
+        "MAB": "Et Elitsaphan, fils de Huziel, [sera] le chef de la maison des pères des familles des Kéhathites.",
+        "OST": "Et Elitsaphan, fils d'Uziel, était le chef de la maison des pères des familles des Kéhathites.",
+        "S21": "Le chef de famille pour les clans des Kehathites était Elitsaphan, fils d'Uziel."
+      }
+    },
+    {
+      "verse": 31,
+      "texts": {
+        "BDS": "On avait confié à leur responsabilité: le coffre, la table, le chandelier, les autels, les objets sacrés dont on se sert pour officier, et le voile. Ils étaient chargés de tous les travaux liés à ces objets.",
+        "DBY": "Et leur charge était l'arche, et la table, et le chandelier, et les autels, et les ustensiles du lieu saint, avec lesquels on fait le service, et le rideau et tout le service qui s'y rattachait.",
+        "KJV": "And their charge [shall be] the ark, and the table, and the candlestick, and the altars, and the vessels of the sanctuary wherewith they minister, and the hanging, and all the service thereof.",
+        "LSG": "On remit à leurs soins l'arche, la table, le chandelier, les autels, les ustensiles du sanctuaire, avec lesquels on fait le service, le voile et tout ce qui en dépend.",
+        "MAB": "Et ils auront en charge l'Arche, la Table, le chandelier, les autels, et les ustensiles du Sanctuaire avec lesquels on fait le service, et la tapisserie, avec tout ce qui y sert.",
+        "OST": "Ils avaient en garde l'arche, la table, le chandelier, les autels et les ustensiles du sanctuaire avec lesquels on fait le service, et la tapisserie, et tout son service.",
+        "S21": "Ils étaient responsables de l'arche, de la table, du chandelier, des autels, des ustensiles du sanctuaire avec lesquels on fait le service, du voile et de tout ce qui en dépend."
+      }
+    },
+    {
+      "verse": 32,
+      "texts": {
+        "BDS": "Le chef suprême des lévites était Eléazar, fils du prêtre Aaron. Il supervisait les lévites préposés au service du sanctuaire.",
+        "DBY": "-Et le prince des princes des Lévites était Éléazar, fils d'Aaron, le sacrificateur; il était établi sur ceux qui avaient la charge du lieu saint.",
+        "KJV": "And Eleazar the son of Aaron the priest [shall be] chief over the chief of the Levites, [and have] the oversight of them that keep the charge of the sanctuary.",
+        "LSG": "Le chef des chefs des Lévites était Eléazar, fils du sacrificateur Aaron; il avait la surveillance de ceux qui étaient chargés des soins du sanctuaire.",
+        "MAB": "Et le chef des chefs des Lévites [sera] Eléazar, fils d'Aaron Sacrificateur; qui aura la surintendance sur ceux qui auront la charge du Sanctuaire.",
+        "OST": "Et le chef des chefs des Lévites étaient Éléazar, fils d'Aaron, le sacrificateur, qui était préposé à ceux qui étaient chargés des soins du sanctuaire.",
+        "S21": "Le chef des chefs des Lévites était Eléazar, le fils du prêtre Aaron. Il supervisait les hommes chargés de la responsabilité du sanctuaire."
+      }
+    },
+    {
+      "verse": 33,
+      "texts": {
+        "BDS": "De Merari sont issues la famille de Mahli et celle de Mouchi.",
+        "DBY": "Merari, la famille des Makhlites et la famille des Mushites; ce sont là les familles de Merari:",
+        "KJV": "Of Merari [was] the family of the Mahlites, and the family of the Mushites: these [are] the families of Merari.",
+        "LSG": "De Merari descendent la famille de Machli et la famille de Muschi, formant les familles des Merarites.",
+        "MAB": "Et de Mérari [est sortie] la famille des Mahlites, et la famille des Musites; ce furent là les familles de Mérari;",
+        "OST": "A Mérari appartient la famille des Mahlites, et la famille des Mushites. Telles sont les familles de Mérari.",
+        "S21": "De Merari descendent les clans de Machli et de Mushi; tels sont les clans des Merarites."
+      }
+    },
+    {
+      "verse": 34,
+      "texts": {
+        "BDS": "Ils étaient 6 200 de sexe masculin âgés de plus d’un mois.",
+        "DBY": "et ceux d'entre eux qui furent dénombrés, en comptant tous les mâles depuis l'âge d'un mois et au-dessus, furent six mille deux cents.",
+        "KJV": "And those that were numbered of them, according to the number of all the males, from a month old and upward, [were] six thousand and two hundred.",
+        "LSG": "Ceux dont on fit le dénombrement, en comptant tous les mâles depuis l'âge d'un mois et au-dessus, furent six mille deux cents.",
+        "MAB": "Desquelles ceux dont on fit le dénombrement [après] le compte [qui fut fait] de tous les mâles, depuis l'âge d'un mois et au dessus, furent six mille deux cents.",
+        "OST": "Ceux d'entre eux qui furent dénombrés, en comptant tous les mâles, depuis l'âge d'un mois et au-dessus, étaient six mille deux cents.",
+        "S21": "En comptant tous les hommes âgés d'un mois et plus, on dénombra 6200 personnes."
+      }
+    },
+    {
+      "verse": 35,
+      "texts": {
+        "BDS": "Le chef du groupe familial et des familles de Merari était Tsouriel, fils d’Abihaïl. Ils campaient du côté nord de la Demeure.",
+        "DBY": "Et le prince de la maison de père des familles de Merari était Tsuriel, fils d'Abikhaïl. Ils campèrent du côté du tabernacle, vers le nord.",
+        "KJV": "And the chief of the house of the father of the families of Merari [was] Zuriel the son of Abihail: [these] shall pitch on the side of the tabernacle northward.",
+        "LSG": "Le chef de la maison paternelle des familles de Merari était Tsuriel, fils d'Abihaïl. Ils campaient du côté septentrional du tabernacle.",
+        "MAB": "Et Esuriel, fils d'Abihaïl, sera le chef de la maison des pères des familles des Mérarites; ils camperont du côté du Tabernacle vers l'Aquilon.",
+        "OST": "Et Tsuriel, fils d'Abihaïl, était le chef de la maison des pères des familles des Mérarites; ils campaient sur le côté de la Demeure, vers le Nord.",
+        "S21": "Le chef de famille pour les clans de Merari était Tsuriel, fils d'Abihaïl. Ils campaient du côté nord du tabernacle."
+      }
+    },
+    {
+      "verse": 36,
+      "texts": {
+        "BDS": "Les Merarites étaient responsables des planches du tabernacle, de ses traverses, de ses piliers, de leurs socles et de tous les ustensiles, pour accomplir tous les travaux relatifs à ces objets.",
+        "DBY": "Et la surveillance des ais du tabernacle, et de ses traverses, et de ses piliers, et de ses bases, et de tous ses ustensiles, et tout le service qui s'y rattachait,",
+        "KJV": "And [under] the custody and charge of the sons of Merari [shall be] the boards of the tabernacle, and the bars thereof, and the pillars thereof, and the sockets thereof, and all the vessels thereof, and all that serveth thereto,",
+        "LSG": "On remit à la garde et aux soins des fils de Merari les planches du tabernacle, ses barres, ses colonnes et leurs bases, tous ses ustensiles et tout ce qui en dépend;",
+        "MAB": "Et on donnera aux enfants de Mérari la charge des ais du Tabernacle, de ses barres, de ses piliers, de ses soubassements, et de tous ses ustensiles, avec tout ce qui y sera;",
+        "OST": "Et les enfants de Mérari avaient la surveillance et le soin des planches de la Demeure, de ses traverses, de ses colonnes, de ses soubassements, de tous ses ustensiles, et de tout son service,",
+        "S21": "Les fils de Merari avaient la surveillance et la responsabilité des planches du tabernacle, de ses barres, de ses colonnes et leurs bases, de tous ses ustensiles et de tout ce qui en dépend,"
+      }
+    },
+    {
+      "verse": 37,
+      "texts": {
+        "BDS": "Ils avaient aussi la charge des piliers autour du parvis avec leurs socles, leurs piquets et leurs cordages.",
+        "DBY": "et les piliers du parvis tout autour, et leurs bases, et leurs pieux, et leurs cordages, furent confiés aux fils de Merari.",
+        "KJV": "And the pillars of the court round about, and their sockets, and their pins, and their cords.",
+        "LSG": "les colonnes du parvis tout autour, leurs bases, leurs pieux et leurs cordages.",
+        "MAB": "Et des piliers du parvis tout autour, avec leurs soubassements, leurs pieux, et leurs cordes.",
+        "OST": "Des colonnes du parvis tout autour, avec leurs soubassements, leurs pieux et leurs cordages.",
+        "S21": "des colonnes placées sur tout le pourtour du parvis, de leurs bases, leurs pieux et leurs cordages."
+      }
+    },
+    {
+      "verse": 38,
+      "texts": {
+        "BDS": "Moïse, Aaron et ses fils campaient devant le tabernacle, à l’est, devant la tente de la Rencontre. Ils étaient chargés du service du sanctuaire au nom des Israélites. Toute personne profane qui s’en serait approchée comme eux devait être mise à mort.",
+        "DBY": "Et ceux qui campèrent devant le tabernacle, vers l'orient, devant la tente d'assignation, vers le levant, furent Moïse et Aaron et ses fils, veillant au service du sanctuaire pour ce qui était confié aux fils d'Israël. -Et l'étranger qui approchera sera mis à mort.",
+        "KJV": "But those that encamp before the tabernacle toward the east, [even] before the tabernacle of the congregation eastward, [shall be] Moses, and Aaron and his sons, keeping the charge of the sanctuary for the charge of the children of Israel; and the stranger that cometh nigh shall be put to death.",
+        "LSG": "Moïse, Aaron et ses fils campaient devant le tabernacle, à l'orient, devant la tente d'assignation, au levant; ils avaient la garde et le soin du sanctuaire, remis à la garde des enfants d'Israël; et l'étranger qui s'approchera sera puni de mort.",
+        "MAB": "Et Moïse, et Aaron, et ses fils ayant la charge du Sanctuaire, pour la garde des enfants d'Israël, camperont devant le Tabernacle d'assignation vers l'Orient. Que si quelque étranger en approche, on le fera mourir.",
+        "OST": "Ceux qui campaient devant la Demeure, vers l'Orient, devant le tabernacle d'assignation, c'était Moïse, et Aaron, et ses fils, chargés du soin du sanctuaire pour les enfants d'Israël; et l'étranger qui en approcherait devait être puni de mort.",
+        "S21": "Moïse, Aaron et ses fils campaient devant le tabernacle, à l’est, devant la tente de la rencontre, du côté du soleil levant. Ils étaient chargés de la responsabilité du sanctuaire au nom des Israélites. Si quelqu’un d’autre s'en approchait, il devait être puni de mort."
+      }
+    },
+    {
+      "verse": 39,
+      "texts": {
+        "BDS": "Le nombre total des lévites de sexe masculin d’un mois et plus, recensés par Moïse et Aaron sur l’ordre de l’Eternel et par familles, était de 22 000.",
+        "DBY": "Tous les Lévites dénombrés, que Moïse et Aaron dénombrèrent selon leurs familles, selon le commandement de l'Éternel, tous les mâles, depuis l'âge d'un mois et au-dessus, furent vingt-deux mille.",
+        "KJV": "All that were numbered of the Levites, which Moses and Aaron numbered at the commandment of the LORD, throughout their families, all the males from a month old and upward, [were] twenty and two thousand.",
+        "LSG": "Tous les Lévites dont Moïse et Aaron firent le dénombrement sur l'ordre de l'Eternel, selon leurs familles, tous les mâles depuis l'âge d'un mois et au-dessus, furent vingt-deux mille.",
+        "MAB": "Tous ceux des Lévites dont on fit le dénombrement, lesquels Moïse et Aaron comptèrent par leurs familles, suivant le commandement de l'Eternel, tous les mâles de l'âge d'un mois et au dessus, furent de vingt-deux mille.",
+        "OST": "Tous les Lévites qui furent dénombrés, que Moïse et Aaron dénombrèrent, selon leurs familles, suivant le commandement de l'Éternel, tous les mâles, depuis l'âge d'un mois et au-dessus, étaient vingt-deux mille.",
+        "S21": "Moïse et Aaron dénombrèrent au total parmi les Lévites, sur l'ordre de l'Eternel et en fonction de leur clan, 22'000 hommes âgés d'un mois et plus."
+      }
+    },
+    {
+      "verse": 40,
+      "texts": {
+        "BDS": "L’Eternel dit à Moïse:\r\n—Fais à présent le recensement de tous les fils aînés parmi les Israélites depuis l’âge d’un mois et au-dessus, en dressant leur liste nominative.",
+        "DBY": "Et l'Éternel dit à Moïse: Dénombre tous les premiers-nés mâles des fils d'Israël, depuis l'âge d'un mois et au-dessus, et relève le nombre de leurs noms.",
+        "KJV": "And the LORD said unto Moses, Number all the firstborn of the males of the children of Israel from a month old and upward, and take the number of their names.",
+        "LSG": "L'Eternel dit à Moïse: Fais le dénombrement de tous les premiers-nés mâles parmi les enfants d'Israël, depuis l'âge d'un mois et au-dessus, et compte les d'après leurs noms.",
+        "MAB": "Et l'Eternel dit à Moïse : Fais le dénombrement de tous les premiers-nés mâles des enfants d'Israël, depuis l'âge d'un mois, et au dessus, et lève le compte de leurs noms.",
+        "OST": "Puis l'Éternel dit à Moïse: Fais le dénombrement de tous les premiers-nés mâles des enfants d'Israël, depuis l'âge d'un mois et au-dessus, et fais le compte de leurs noms.",
+        "S21": "L'Eternel dit à Moïse: «Fais le dénombrement de tous les premiers-nés de sexe masculin âgés d'un mois et plus parmi les Israélites et compte-les d'après leurs noms."
+      }
+    },
+    {
+      "verse": 41,
+      "texts": {
+        "BDS": "A leur place, tu m’attribueras les lévites — je suis l’Eternel. Le bétail des lévites m’appartiendra aussi en échange de tous les premiers-nés du bétail des Israélites.",
+        "DBY": "Et tu prendras les Lévites pour moi (je suis l'Éternel), à la place de tous les premier-nés parmi les fils d'Israël, et le bétail des Lévites à la place de tous les premiers-nés parmi le bétail des fils d'Israël.",
+        "KJV": "And thou shalt take the Levites for me (I [am] the LORD) instead of all the firstborn among the children of Israel; and the cattle of the Levites instead of all the firstlings among the cattle of the children of Israel.",
+        "LSG": "Tu prendras les Lévites pour moi, l'Eternel, à la place de tous les premiers-nés des enfants d'Israël, et le bétail des Lévites à la place de tous les premiers-nés du bétail des enfants d'Israël.",
+        "MAB": "Et tu prendras pour moi, je suis l'Eternel, les Lévites, au lieu de tous les premiers-nés qui sont entre les enfants d'Israël; [tu prendras] aussi les bêtes des Lévites, au lieu de tous les premiers-nés des bêtes des enfants d'Israël.",
+        "OST": "Tu prendras les Lévites pour moi, l'Éternel, à la place de tous les premiers-nés parmi les enfants d'Israël; et le bétail des Lévites, à la place de tous les premiers-nés du bétail des enfants d'Israël.",
+        "S21": "Tu prendras les Lévites pour moi, l'Eternel, à la place de tous les premiers-nés des Israélites, et le bétail des Lévites à la place de tous les premiers-nés du bétail des Israélites.»"
+      }
+    },
+    {
+      "verse": 42,
+      "texts": {
+        "BDS": "Moïse fit le recensement de tous les fils aînés des Israélites selon l’ordre que l’Eternel lui avait donné.",
+        "DBY": "Et Moïse fit le dénombrement de tous les premiers-nés parmi les fils d'Israël, comme l'Éternel lui avait commandé;",
+        "KJV": "And Moses numbered, as the LORD commanded him, all the firstborn among the children of Israel.",
+        "LSG": "Moïse fit le dénombrement de tous les premiers-nés parmi les enfants d'Israël, selon l'ordre que l'Eternel lui avait donné.",
+        "MAB": "Moïse donc dénombra, comme l'Eternel lui avait commandé, tous les premiers-nés qui étaient entre les enfants d'Israël.",
+        "OST": "Moïse dénombra donc, comme l'Éternel le lui avait commandé, tous les premiers-nés parmi les enfants d'Israël;",
+        "S21": "Moïse fit le dénombrement de tous les premiers-nés parmi les Israélites, conformément à l'ordre que l'Eternel lui avait donné."
+      }
+    },
+    {
+      "verse": 43,
+      "texts": {
+        "BDS": "Le total des fils aînés âgés d’au moins un mois et dont il enregistra les noms était de 22 273.",
+        "DBY": "et tous les premiers-nés mâles, selon le nombre des noms, depuis l'âge d'un mois et au-dessus, selon leur dénombrement, furent vingt-deux mille deux cent soixante-treize.",
+        "KJV": "And all the firstborn males by the number of names, from a month old and upward, of those that were numbered of them, were twenty and two thousand two hundred and threescore and thirteen.",
+        "LSG": "Tous les premiers-nés mâles, dont on fit le dénombrement, en comptant les noms, depuis l'âge d'un mois et au-dessus, furent vingt-deux mille deux cent soixante-treize.",
+        "MAB": "Et tous les premiers-nés des mâles, le compte des noms étant fait, depuis l'âge d'un mois et au dessus, selon qu ils furent dénombrés, furent vingt-deux mille deux cent soixante et treize.",
+        "OST": "Et tous les premiers-nés mâles, en comptant par les noms depuis l'âge d'un mois et au-dessus, selon leur dénombrement, furent vingt-deux mille deux cent soixante et treize.",
+        "S21": "On dénombra au total, en comptant les noms des hommes âgés d'un mois et plus, 22'273 premiers-nés."
+      }
+    },
+    {
+      "verse": 44,
+      "texts": {
+        "BDS": "L’Eternel parla à Moïse et dit:",
+        "DBY": "Et l'Éternel parla à Moïse, disant:",
+        "KJV": "And the LORD spake unto Moses, saying,",
+        "LSG": "L'Eternel parla à Moïse, et dit:",
+        "MAB": "Et l'Eternel parla à Moïse, en disant :",
+        "OST": "Et l'Éternel parla à Moïse, en disant:",
+        "S21": "L'Eternel dit à Moïse:"
+      }
+    },
+    {
+      "verse": 45,
+      "texts": {
+        "BDS": "—Attribue-moi les lévites en échange de tous les fils aînés des Israélites, et le bétail des lévites à la place du leur, ainsi les lévites seront à moi. Je suis l’Eternel.",
+        "DBY": "Prends les Lévites, à la place de tous les premiers-nés parmi les fils d'Israël, et le bétail des Lévites, à la place de leur bétail; et les Lévites seront à moi. Je suis l'Éternel.",
+        "KJV": "Take the Levites instead of all the firstborn among the children of Israel, and the cattle of the Levites instead of their cattle; and the Levites shall be mine: I [am] the LORD.",
+        "LSG": "Prends les Lévites à la place de tous les premiers-nés des enfants d'Israël, et le bétail des Lévites à la place de leur bétail; et les Lévites m'appartiendront. Je suis l'Eternel.",
+        "MAB": "Prends les Lévites au lieu de tous les premiers-nés qui sont entre les enfants d'Israël, et les bêtes des Lévites, au lieu de leurs bêtes; et les Lévites seront à moi; je suis l'Eternel.",
+        "OST": "Prends les Lévites à la place de tous les premiers-nés des enfants d'Israël, et le bétail des Lévites à la place de leur bétail; et les Lévites seront à moi: je suis l'Éternel.",
+        "S21": "«Prends les Lévites à la place de tous les premiers-nés des Israélites et le bétail des Lévites à la place de leur bétail. Les Lévites m'appartiennent. Je suis l'Eternel."
+      }
+    },
+    {
+      "verse": 46,
+      "texts": {
+        "BDS": "Pour le rachat des 273 fils aînés en surplus par rapport au nombre des lévites,",
+        "DBY": "Et quant à ceux qu'il faut racheter, les deux cent soixante-treize parmi les premiers-nés des fils d'Israël, qui sont de plus que les Lévites,",
+        "KJV": "And for those that are to be redeemed of the two hundred and threescore and thirteen of the firstborn of the children of Israel, which are more than the Levites;",
+        "LSG": "Pour le rachat des deux cent soixante-treize qui dépassent le nombre des Lévites, parmi les premiers-nés des enfants d'Israël,",
+        "MAB": "Et quant à ceux qu'il faudra racheter des premiers-nés des enfants d'Israël, qui sont deux cent soixante et treize, plus que les Lévites;",
+        "OST": "Quant au rachat des premiers-nés des enfants d'Israël, savoir deux cent soixante et treize qui dépassent le nombre des Lévites,",
+        "S21": "Pour le rachat des 273 qui dépassent le nombre des Lévites parmi les premiers-nés des Israélites,"
+      }
+    },
+    {
+      "verse": 47,
+      "texts": {
+        "BDS": "tu feras payer cinq pièces d’argent par tête au taux du sicle utilisé au sanctuaire, qui pèse vingt guéras.",
+        "DBY": "tu prendras cinq sicles par tête; tu les prendras selon le sicle du sanctuaire, le sicle à vingt guéras,",
+        "KJV": "Thou shalt even take five shekels apiece by the poll, after the shekel of the sanctuary shalt thou take [them]: (the shekel [is] twenty gerahs:)",
+        "LSG": "tu prendras cinq sicles par tête; tu les prendras selon le sicle du sanctuaire, qui est de vingt guéras.",
+        "MAB": "Tu prendras cinq sicles par tête, tu les prendras selon le sicle du Sanctuaire; le sicle est de vingt oboles.",
+        "OST": "Tu prendras cinq sicles par tête; tu les prendras selon le sicle du sanctuaire; le sicle est de vingt oboles.",
+        "S21": "tu prendras 5 pièces par personne. Tu les prendras d’après la valeur étalon du sanctuaire, qui est de 10 grammes."
+      }
+    },
+    {
+      "verse": 48,
+      "texts": {
+        "BDS": "Tu donneras l’argent à Aaron et à ses fils comme prix du rachat de ceux qui sont en surplus par rapport au nombre des lévites.",
+        "DBY": "et tu donneras à Aaron et à ses fils l'argent de ceux qui sont rachetés, qui sont de plus que les Lévites.",
+        "KJV": "And thou shalt give the money, wherewith the odd number of them is to be redeemed, unto Aaron and to his sons.",
+        "LSG": "Tu donneras l'argent à Aaron et à ses fils, pour le rachat de ceux qui dépassent le nombre des Lévites.",
+        "MAB": "Et tu donneras à Aaron et à ses fils l'argent de ceux qui auront été rachetés, passant le nombre des Lévites.",
+        "OST": "Et tu donneras l'argent à Aaron et à ses fils; c'est le rachat de ceux qu'il y avait en plus.",
+        "S21": "Tu donneras l'argent à Aaron et à ses fils pour le rachat de ceux qui sont en trop par rapport au nombre des Lévites.»"
+      }
+    },
+    {
+      "verse": 49,
+      "texts": {
+        "BDS": "Moïse reçut l’argent du rachat pour ceux qui étaient en excédent sur le nombre des fils aînés rachetés par les lévites;",
+        "DBY": "Et Moïse prit l'argent du rachat, de ceux qui étaient de plus que le nombre de ceux qui avaient été rachetés par les Lévites;",
+        "KJV": "And Moses took the redemption money of them that were over and above them that were redeemed by the Levites:",
+        "LSG": "Moïse prit l'argent pour le rachat de ceux qui dépassaient le nombre des rachetés par les Lévites;",
+        "MAB": "Moïse donc prit l'argent du rachat de ceux qui étaient de plus, outre ceux qui avaient été rachetés par l'échange des Lévites.",
+        "OST": "Moïse prit donc l'argent du rachat de ceux qu'il y avait en plus, outre les rachetés par les Lévites.",
+        "S21": "Moïse prit l'argent pour le rachat de ceux qui dépassaient le nombre des premiers-nés rachetés par les Lévites;"
+      }
+    },
+    {
+      "verse": 50,
+      "texts": {
+        "BDS": "il reçut de la part des fils aînés israélites la somme de 1 365 sicles au taux du sicle en vigueur au sanctuaire.",
+        "DBY": "il prit l'argent de la part des premiers-nés des fils d'Israël, mille trois cent soixante-cinq sicles, selon le sicle du sanctuaire.",
+        "KJV": "Of the firstborn of the children of Israel took he the money; a thousand three hundred and threescore and five [shekels], after the shekel of the sanctuary:",
+        "LSG": "il prit l'argent des premiers-nés des enfants d'Israël: mille trois cent soixante-cinq sicles, selon le sicle du sanctuaire.",
+        "MAB": "Et il reçut l'argent des premiers-nés des enfants d'Israël, qui fut mille trois cent soixante-cinq sicles, selon le sicle du Sanctuaire.",
+        "OST": "L'argent qu'il prit des premiers-nés des enfants d'Israël, fut de mille trois cent soixante-cinq sicles, selon le sicle du sanctuaire.",
+        "S21": "il prit l'argent des premiers-nés des Israélites: 1365 pièces, d’après la valeur étalon du sanctuaire."
+      }
+    },
+    {
+      "verse": 51,
+      "texts": {
+        "BDS": "Il remit l’argent du rachat à Aaron et à ses fils, selon l’ordre que l’Eternel lui avait donné.",
+        "DBY": "Et Moïse donna l'argent des rachetés à Aaron et à ses fils, selon le commandement de l'Éternel, comme l'Éternel l'avait commandé à Moïse.",
+        "KJV": "And Moses gave the money of them that were redeemed unto Aaron and to his sons, according to the word of the LORD, as the LORD commanded Moses.",
+        "LSG": "Et Moïse donna l'argent du rachat à Aaron et à ses fils, sur l'ordre de l'Eternel, en se conformant à l'ordre que l'Eternel avait donné à Moïse.",
+        "MAB": "Et Moïse donna l'argent des rachetés à Aaron, et à ses fils, selon le commandement de l'Eternel, ainsi que l'Eternel le lui avait commandé.",
+        "OST": "Et Moïse donna l'argent du rachat à Aaron et à ses fils, sur l'ordre de l'Éternel, comme l'Éternel l'avait commandé à Moïse.",
+        "S21": "Moïse donna l'argent du rachat à Aaron et à ses fils, suivant l'ordre de l'Eternel; il se conforma à l'ordre que l'Eternel lui avait donné."
+      }
+    }
+  ]
+}

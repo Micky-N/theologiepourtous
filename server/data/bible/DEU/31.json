@@ -1,0 +1,366 @@
+{
+  "bookCode": "DEU",
+  "chapter": 31,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "Moïse adressa à tout Israël le discours suivant:",
+        "DBY": "Et Moïse alla, et dit ces paroles à tout Israël; et il leur dit:",
+        "KJV": "And Moses went and spake these words unto all Israel.",
+        "LSG": "Moïse adressa encore ces paroles à tout Israël:",
+        "MAB": "Puis Moïse s'en alla, et tint ces discours à tout Israël;",
+        "OST": "Et Moïse s'en alla, et tint à tout Israël ces discours,",
+        "S21": "Moïse adressa encore ces paroles à tout Israël:"
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "—J’ai maintenant cent vingt ans, je ne pourrai plus marcher à votre tête. L’Eternel m’a dit que je ne traverserai pas le Jourdain que voici.",
+        "DBY": "Je suis aujourd'hui âgé de cent vingt ans, je ne puis plus sortir et entrer; et l'Éternel m'a dit: Tu ne passeras pas ce Jourdain.",
+        "KJV": "And he said unto them, I [am] an hundred and twenty years old this day; I can no more go out and come in: also the LORD hath said unto me, Thou shalt not go over this Jordan.",
+        "LSG": "Aujourd'hui, leur dit-il, je suis âgé de cent vingt ans, je ne pourrai plus sortir et entrer, et l'Eternel m'a dit: Tu ne passeras pas ce Jourdain.",
+        "MAB": "Et leur dit : Je suis aujourd'hui âgé de six vingts ans, je ne pourrai plus aller ni venir; aussi l'Eternel m'a dit : Tu ne passeras point ce Jourdain.",
+        "OST": "Et leur dit: Je suis aujourd'hui âgé de cent vingt ans; je ne pourrai plus aller ni venir, et l'Éternel m'a dit: Tu ne passeras point ce Jourdain.",
+        "S21": "«Aujourd'hui, leur dit-il, je suis âgé de 120 ans. Je ne pourrai plus partir en campagne et en revenir, et l'Eternel m'a dit: ‘Tu ne passeras pas ce Jourdain.’"
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "L’Eternel votre Dieu marchera lui-même devant vous. Il détruira devant vous les nations qui habitent là-bas, pour que vous puissiez prendre possession de leur pays; et c’est Josué qui sera à votre tête, comme l’Eternel l’a déclaré.",
+        "DBY": "L'Éternel, ton Dieu, lui-même, va passer devant toi; c'est lui qui détruira ces nations devant toi, et tu les dépossèderas: Josué, lui, va passer devant toi, comme l'Éternel l'a dit.",
+        "KJV": "The LORD thy God, he will go over before thee, [and] he will destroy these nations from before thee, and thou shalt possess them: [and] Joshua, he shall go over before thee, as the LORD hath said.",
+        "LSG": "L'Eternel, ton Dieu, marchera lui-même devant toi, il détruira ces nations devant toi, et tu t'en rendras maître. Josué marchera aussi devant toi, comme l'Eternel l'a dit.",
+        "MAB": "L'Eternel ton Dieu passera lui-même devant toi ; il exterminera ces nations-là devant toi, et tu posséderas leur pays; [et] Josué est celui qui doit passer devant toi, comme l'Eternel en a parlé.",
+        "OST": "C'est l'Éternel ton Dieu qui passera devant toi, c'est lui qui exterminera ces nations de devant toi, et tu posséderas leur pays. C'est Josué qui doit passer devant toi, comme l'Éternel l'a dit.",
+        "S21": "L'Eternel, ton Dieu, marchera lui-même devant toi, il détruira ces nations devant toi et tu t'en rendras maître. Josué marchera aussi devant toi, comme l'Eternel l'a dit."
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "L’Eternel les détruira comme il a détruit Sihôn et Og, rois des Amoréens ainsi que leur pays.",
+        "DBY": "Et l'Éternel leur fera comme il a fait à Sihon et à Og, rois des Amoréens, et à leur pays, qu'il a détruits.",
+        "KJV": "And the LORD shall do unto them as he did to Sihon and to Og, kings of the Amorites, and unto the land of them, whom he destroyed.",
+        "LSG": "L'Eternel traitera ces nations comme il a traité Sihon et Og, rois des Amoréens, qu'il a détruits avec leur pays.",
+        "MAB": "Et l'Eternel leur fera comme il a fait à Sihon et à Hog, Rois des Amorrhéens, et à leurs pays, lesquels il a exterminés.",
+        "OST": "Et l'Éternel leur fera comme il a fait à Sihon et à Og, rois des Amoréens, et à leur pays, qu'il a détruits.",
+        "S21": "L'Eternel traitera ces nations comme il a traité Sihon et Og, les rois des Amoréens, qu'il a détruits avec leur pays."
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "Il vous donnera la victoire sur ces nations, et vous les traiterez exactement comme je vous l’ai ordonné.",
+        "DBY": "Et l'Éternel les livrera devant vous, et vous leur ferez selon tout le commandement que je vous ai commandé.",
+        "KJV": "And the LORD shall give them up before your face, that ye may do unto them according unto all the commandments which I have commanded you.",
+        "LSG": "L'Eternel vous les livrera, et vous agirez à leur égard selon tous les ordres que je vous ai donnés.",
+        "MAB": "Et l'Eternel les livrera devant vous, et vous leur ferez entièrement selon le commandement que je vous ai prescrit.",
+        "OST": "Et l'Éternel vous les livrera, et vous leur ferez selon tout le commandement que je vous ai donné.",
+        "S21": "L'Eternel vous les livrera et vous agirez envers eux conformément à tous les ordres que je vous ai donnés."
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "Prenez courage, tenez bon! Ne craignez rien et ne vous laissez pas effrayer par eux, car l’Eternel votre Dieu marche lui-même avec vous, il ne vous délaissera pas et ne vous abandonnera pas.",
+        "DBY": "Fortifiez-vous et soyez fermes, ne les craignez pas, et ne soyez point épouvantés devant eux; car c'est l'Éternel, ton Dieu, qui marche avec toi; il ne te laissera pas et il ne t'abandonnera pas.",
+        "KJV": "Be strong and of a good courage, fear not, nor be afraid of them: for the LORD thy God, he [it is] that doth go with thee; he will not fail thee, nor forsake thee.",
+        "LSG": "Fortifiez-vous et ayez du courage! Ne craignez point et ne soyez point effrayés devant eux; car l'Eternel, ton Dieu, marchera lui-même avec toi, il ne te délaissera point, il ne t'abandonnera point.",
+        "MAB": "Fortifiez-vous donc et vous renforcez; ne craignez point, et ne soyez point effrayés à cause d'eux; car c'est l'Eternel ton Dieu qui marche avec toi; il ne te délaissera point, et ne t'abandonnera point.",
+        "OST": "Fortifiez-vous et prenez courage; ne craignez point, et ne soyez point effrayés devant eux; car c'est l'Éternel ton Dieu qui marche avec toi; il ne te laissera point, et ne t'abandonnera point.",
+        "S21": "Fortifiez-vous et prenez courage! N’ayez pas peur et ne soyez pas effrayés devant eux, car l'Eternel, ton Dieu, marchera lui-même avec toi. Il ne te délaissera pas, il ne t'abandonnera pas.»"
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "Puis Moïse appela Josué et lui dit devant tout Israël:\r\n—Prends courage, tiens bon, car c’est toi qui feras entrer ce peuple dans le pays que l’Eternel a promis par serment à leurs ancêtres de leur donner, et c’est toi qui leur en feras prendre possession.",
+        "DBY": "Et Moïse appela Josué, et lui dit devant les yeux de tout Israël: Fortifie-toi et sois ferme; car toi, tu entreras avec ce peuple dans le pays que l'Éternel a juré à leurs pères de leur donner, et toi, tu le leur feras hériter.",
+        "KJV": "And Moses called unto Joshua, and said unto him in the sight of all Israel, Be strong and of a good courage: for thou must go with this people unto the land which the LORD hath sworn unto their fathers to give them; and thou shalt cause them to inherit it.",
+        "LSG": "Moïse appela Josué, et lui dit en présence de tout Israël: Fortifie-toi et prends courage, car tu entreras avec ce peuple dans le pays que l'Eternel a juré à leurs pères de leur donner, et c'est toi qui les en mettras en possession.",
+        "MAB": "Et Moïse appela Josué, et lui dit en la présence de tout Israël : Fortifie-toi, et te renforce, car tu entreras avec ce peuple au pays que l'Eternel a juré à leurs pères de leur donner, et c'est toi qui les en mettras en possession.",
+        "OST": "Puis Moïse appela Josué, et lui dit, devant tout Israël: Fortifie-toi et prends courage; car tu entreras avec ce peuple au pays que l'Éternel a juré à leurs pères de leur donner, et c'est toi qui les en mettras en possession.",
+        "S21": "Moïse appela Josué et lui dit devant tous les Israélites: «Fortifie-toi et prends courage, car tu entreras avec ce peuple dans le pays que l'Eternel a juré à leurs ancêtres de leur donner et c'est toi qui les en mettras en possession."
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "L’Eternel lui-même marchera devant toi, il sera avec toi, il ne te délaissera pas et il ne t’abandonnera pas. Ne crains rien et ne te laisse pas effrayer!",
+        "DBY": "Et l'Éternel est celui qui marche devant toi; lui, sera avec toi; il ne te laissera pas et il ne t'abandonnera pas: ne crains point, et ne t'effraye point.",
+        "KJV": "And the LORD, he [it is] that doth go before thee; he will be with thee, he will not fail thee, neither forsake thee: fear not, neither be dismayed.",
+        "LSG": "L'Eternel marchera lui-même devant toi, il sera lui-même avec toi, il ne te délaissera point, il ne t'abandonnera point; ne crains point, et ne t'effraie point.",
+        "MAB": "Car l'Eternel, qui est celui qui marche devant toi, sera lui-même avec toi; il ne te délaissera point, et ne t'abandonnera point; ne crains donc point, et ne sois point effrayé.",
+        "OST": "C'est l'Éternel qui marche devant toi; il sera lui-même avec toi; il ne te laissera point, et ne t'abandonnera point; ne crains point, et ne sois point effrayé.",
+        "S21": "L'Eternel marchera lui-même devant toi, il sera lui-même avec toi. Il ne te délaissera pas, il ne t'abandonnera pas. N’aie pas peur et ne te laisse pas effrayer.»"
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "Moïse mit cette Loi par écrit et la confia aux prêtres descendants de Lévi chargés de porter le coffre de l’alliance de l’Eternel, ainsi qu’à tous les responsables d’Israël.",
+        "DBY": "Et Moïse écrivit cette loi, et la donna aux sacrificateurs, fils de Lévi, qui portaient l'arche de l'alliance de l'Éternel, et à tous les anciens d'Israël.",
+        "KJV": "And Moses wrote this law, and delivered it unto the priests the sons of Levi, which bare the ark of the covenant of the LORD, and unto all the elders of Israel.",
+        "LSG": "Moïse écrivit cette loi, et il la remit aux sacrificateurs, fils de Lévi, qui portaient l'arche de l'alliance de l'Eternel, et à tous les anciens d'Israël.",
+        "MAB": "Or Moïse écrivit cette Loi, et la donna aux Sacrificateurs, enfants de Lévi, qui portaient l'Arche de l'alliance de l'Eternel, et à tous les Anciens d'Israël.",
+        "OST": "Et Moïse écrivit cette loi, et la donna aux sacrificateurs, enfants de Lévi, qui portaient l'arche de l'alliance de l'Éternel, et à tous les anciens d'Israël.",
+        "S21": "Moïse mit cette loi par écrit et la remit aux prêtres, aux descendants de Lévi qui portaient l'arche de l'alliance de l'Eternel, et à tous les anciens d'Israël."
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "Il leur donna cet ordre:\r\n—Tous les sept ans, au moment où commencera l’année de la remise des dettes, lors de la fête des Cabanes,",
+        "DBY": "Et Moïse leur commanda, disant: Au bout de sept ans, au temps fixé de l'année de relâche, à la fête des tabernacles,",
+        "KJV": "And Moses commanded them, saying, At the end of [every] seven years, in the solemnity of the year of release, in the feast of tabernacles,",
+        "LSG": "Moïse leur donna cet ordre: Tous les sept ans, à l'époque de l'année du relâche, à la fête des tabernacles,",
+        "MAB": "Et Moïse leur commanda, en disant : De sept ans en sept ans, au temps précis de l'année de relâche, en la fête des Tabernacles;",
+        "OST": "Et Moïse leur commanda, en disant: Au bout de sept ans, à l'époque de l'année de relâche, à la fête des tabernacles,",
+        "S21": "Moïse leur donna cet ordre: «Tous les 7 ans, l'année de la remise des dettes, lors de la fête des tentes,"
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "quand tout Israël viendra se présenter devant l’Eternel votre Dieu dans le lieu qu’il aura choisi, vous lirez cette Loi pour tout Israël.",
+        "DBY": "quand tout Israël viendra pour paraître devant l'Éternel, ton Dieu, au lieu qu'il aura choisi, tu liras cette loi devant tout Israël, à leurs oreilles;",
+        "KJV": "When all Israel is come to appear before the LORD thy God in the place which he shall choose, thou shalt read this law before all Israel in their hearing.",
+        "LSG": "quand tout Israël viendra se présenter devant l'Eternel, ton Dieu, dans le lieu qu'il choisira, tu liras cette loi devant tout Israël, en leur présence.",
+        "MAB": "Quand tout Israël sera venu pour comparaître devant la face de l'Eternel ton Dieu, au lieu qu'il aura choisi, tu liras alors cette Loi devant tout Israël, eux l'entendant.",
+        "OST": "Quand tout Israël viendra pour comparaître devant l'Éternel ton Dieu, au lieu qu'il choisira, tu liras cette loi devant tout Israël, de manière qu'ils l'entendent.",
+        "S21": "quand tous les Israélites viendront se présenter devant l'Eternel, ton Dieu, à l'endroit qu'il choisira, tu liras cette loi devant eux, en leur présence."
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "Vous rassemblerez tout le peuple, les hommes, les femmes, les enfants et les étrangers qui résident chez vous, afin qu’ils entendent la lecture de la Loi, qu’ils apprennent à révérer l’Eternel votre Dieu et à obéir à toute cette Loi en en appliquant toutes les ordonnances.",
+        "DBY": "tu réuniras le peuple, hommes et femmes, et enfants, et ton étranger qui sera dans tes portes, afin qu'ils entendent, et afin qu'ils apprennent, et qu'ils craignent l'Éternel, votre Dieu, et qu'ils prennent garde à pratiquer toutes les paroles de cette loi;",
+        "KJV": "Gather the people together, men, and women, and children, and thy stranger that [is] within thy gates, that they may hear, and that they may learn, and fear the LORD your God, and observe to do all the words of this law:",
+        "LSG": "Tu rassembleras le peuple, les hommes, les femmes, les enfants, et l'étranger qui sera dans tes portes, afin qu'ils t'entendent, et afin qu'ils apprennent à craindre l'Eternel, votre Dieu, à observer et à mettre en pratique toutes les paroles de cette loi.",
+        "MAB": "Ayant assemblé le peuple, hommes et femmes, et leurs petits enfants, et ton étranger qui sera dans tes portes, afin qu'ils l'entendent, et qu'ils apprennent à craindre l'Eternel votre Dieu, et qu'ils prennent garde de faire toutes les paroles de cette Loi.",
+        "OST": "Rassemble le peuple, les hommes, les femmes, et les enfants, et ton étranger qui sera dans tes portes, afin qu'ils entendent, et qu'ils apprennent à craindre l'Éternel votre Dieu, et qu'ils prennent garde de faire toutes les paroles de cette loi;",
+        "S21": "Tu rassembleras le peuple, les hommes, les femmes, les enfants ainsi que l'étranger qui habitera dans tes villes, afin qu'ils écoutent et qu'ils apprennent à craindre l'Eternel, votre Dieu, à respecter et mettre en pratique toutes les paroles de cette loi."
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "Ainsi leurs enfants, qui ne la connaîtront pas encore, l’entendront aussi et apprendront à révérer l’Eternel votre Dieu, tant que vous vivrez dans le pays dont vous allez prendre possession, après avoir traversé le Jourdain.",
+        "DBY": "et que leurs fils qui n'en auront pas eu connaissance, entendent, et apprennent à craindre l'Éternel, votre Dieu, tous les jours que vous vivrez sur la terre où, en passant le Jourdain, vous entrez, afin de la posséder.",
+        "KJV": "And [that] their children, which have not known [any thing], may hear, and learn to fear the LORD your God, as long as ye live in the land whither ye go over Jordan to possess it.",
+        "LSG": "Et leurs enfants qui ne la connaîtront pas l'entendront, et ils apprendront à craindre l'Eternel, votre Dieu, tout le temps que vous vivrez dans le pays dont vous prendrez possession, après avoir passé le Jourdain.",
+        "MAB": "Et que leurs enfants qui n'en auront point eu connaissance, l'entendent, et apprennent à craindre l'Eternel votre Dieu tous les jours que vous serez vivants sur la terre pour laquelle posséder vous passez le Jourdain.",
+        "OST": "Et que leurs enfants qui n'en ont pas eu connaissance, entendent, et apprennent à craindre l'Éternel votre Dieu, tous les jours que vous serez vivants sur la terre que vous allez posséder après avoir passé le Jourdain.",
+        "S21": "Leurs enfants qui ne la connaîtront pas l'entendront et ils apprendront à craindre l'Eternel, votre Dieu, tout le temps que vous vivrez dans le pays dont vous prendrez possession une fois le Jourdain passé.»"
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "L’Eternel dit à Moïse:\r\n—Voici que le moment de ta fin approche. Fais venir Josué et présentez-vous dans la tente de la Rencontre; là, je lui donnerai mes ordres.\r\nMoïse et Josué se rendirent à la tente de la Rencontre et se tinrent à l’intérieur.",
+        "DBY": "Et l'Éternel dit à Moïse: Voici, le jour de ta mort s'approche; appelle Josué, et présentez-vous dans la tente d'assignation, afin que je lui donne mon commandement. Et Moïse et Josué allèrent et se présentèrent dans la tente d'assignation.",
+        "KJV": "And the LORD said unto Moses, Behold, thy days approach that thou must die: call Joshua, and present yourselves in the tabernacle of the congregation, that I may give him a charge. And Moses and Joshua went, and presented themselves in the tabernacle of the congregation.",
+        "LSG": "L'Eternel dit à Moïse: Voici, le moment approche où tu vas mourir. Appelle Josué, et présentez-vous dans la tente d'assignation. Je lui donnerai mes ordres. Moïse et Josué allèrent se présenter dans la tente d'assignation.",
+        "MAB": "Alors l'Eternel dit à Moïse : Voici, le jour de ta mort est proche, appelle Josué, et présentez-vous au Tabernacle d'assignation, afin que je l'instruise de sa charge. Moïse donc et Josué allèrent, et se présentèrent au Tabernacle d'assignation.",
+        "OST": "Alors l'Éternel dit à Moïse: Voici, le jour de ta mort approche; appelle Josué, et présentez-vous dans le tabernacle d'assignation, afin que je lui donne mes ordres. Moïse et Josué allèrent donc, et se présentèrent dans le tabernacle d'assignation.",
+        "S21": "L'Eternel dit à Moïse: «Voici qu’approche le moment où tu vas mourir. Appelle Josué et présentez-vous dans la tente de la rencontre. Je lui donnerai mes ordres.» Moïse et Josué allèrent se présenter dans la tente de la rencontre."
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "Là, l’Eternel leur apparut dans la colonne de nuée qui se tint à l’entrée de la Tente.",
+        "DBY": "Et l'Éternel apparut dans la tente, dans la colonne de nuée; et la colonne de nuée se tint sur l'entrée de la tente.",
+        "KJV": "And the LORD appeared in the tabernacle in a pillar of a cloud: and the pillar of the cloud stood over the door of the tabernacle.",
+        "LSG": "Et l'Eternel apparut dans la tente dans une colonne de nuée; et la colonne de nuée s'arrêta à l'entrée de la tente.",
+        "MAB": "Et l'Eternel apparut sur le Tabernacle dans la colonne de nuée; et la colonne de nuée s'arrêta sur l'entrée du Tabernacle.",
+        "OST": "Et l'Éternel apparut, dans le tabernacle, dans une colonne de nuée; et la colonne de nuée s'arrêta à l'entrée du tabernacle.",
+        "S21": "L'Eternel apparut dans la tente dans une colonne de nuée, et la colonne de nuée s'arrêta à l'entrée de la tente."
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "S’adressant à Moïse, il dit:\r\n—Voici, tu vas bientôt rejoindre tes ancêtres décédés. Après ta mort, ce peuple ira se prostituer avec les dieux étrangers du pays dans lequel il se rend, il m’abandonnera et violera l’alliance que j’ai conclue avec lui.",
+        "DBY": "Et l'Éternel dit à Moïse: Voici, tu vas dormir avec tes pères; et ce peuple se lèvera et se prostituera après les dieux étrangers du pays au milieu duquel il va entrer; et il m'abandonnera, et rompra mon alliance que j'ai faite avec lui.",
+        "KJV": "And the LORD said unto Moses, Behold, thou shalt sleep with thy fathers; and this people will rise up, and go a whoring after the gods of the strangers of the land, whither they go [to be] among them, and will forsake me, and break my covenant which I have made with them.",
+        "LSG": "L'Eternel dit à Moïse: Voici, tu vas être couché avec tes pères. Et ce peuple se lèvera, et se prostituera après les dieux étrangers du pays au milieu duquel il entre. Il m'abandonnera, et il violera mon alliance, que j'ai traitée avec lui.",
+        "MAB": "Et l'Eternel dit à Moïse : Voici, tu t'en vas dormir avec tes pères, et ce peuple se lèvera, et paillardera après les dieux des étrangers qui sont au pays où il va, pour être parmi eux, et il m'abandonnera, et enfreindra mon alliance que j'ai traitée avec lui.",
+        "OST": "Et l'Éternel dit à Moïse: Voici, tu vas être couché avec tes pères; et ce peuple se lèvera, et se prostituera après les dieux étrangers qui seront au milieu de lui au pays où il va. Et il m'abandonnera, et il enfreindra mon alliance, que j'ai traitée avec lui.",
+        "S21": "L'Eternel dit à Moïse: «Voici que tu vas te coucher avec tes ancêtres. Ce peuple se mettra à se prostituer aux dieux étrangers du pays où il entre. Il m'abandonnera et violera mon alliance, celle que j'ai conclue avec lui."
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "A cause de cela, ma colère s’enflammera contre lui en ce jour-là; je l’abandonnerai, et je me détournerai de lui. Alors le peuple deviendra la proie d’autres nations, beaucoup de malheurs et de grandes détresses s’abattront sur lui. Ce jour-là, les Israélites se diront: «En vérité c’est parce que notre Dieu n’est plus au milieu de nous que tous ces malheurs nous arrivent.»",
+        "DBY": "Et ma colère s'enflammera contre lui en ce jour-là; et je les abandonnerai, et je leur cacherai ma face; et il sera dévoré, et des maux nombreux et des détresses l'atteindront; et il dira en ce jour-là: N'est-ce pas parce que mon Dieu n'est pas au milieu de moi que ces maux m'ont atteint?",
+        "KJV": "Then my anger shall be kindled against them in that day, and I will forsake them, and I will hide my face from them, and they shall be devoured, and many evils and troubles shall befall them; so that they will say in that day, Are not these evils come upon us, because our God [is] not among us?",
+        "LSG": "En ce jour-là, ma colère s'enflammera contre lui. Je les abandonnerai, et je leur cacherai ma face. Il sera dévoré, il sera la proie d'une multitude de maux et d'afflictions, et alors il dira: N'est-ce point parce que mon Dieu n'est pas au milieu de moi que ces maux m'ont atteint?",
+        "MAB": "En ce jour-là ma colère s'enflammera contre lui; je les abandonnerai, je cacherai ma face d'eux, il sera exposé en proie, plusieurs maux et angoisses le trouveront; et il dira en ce jour-là : N'est-ce pas à cause que mon Dieu n'est point au milieu de moi, que ces maux-ci m'ont trouvé?",
+        "OST": "En ce jour-là ma colère s'allumera contre lui; je les abandonnerai, je cacherai d'eux ma face; et il sera exposé à être dévoré, et il souffrira des maux nombreux et des angoisses. Et il dira en ce jour-là: N'est-ce pas parce que mon Dieu n'est plus au milieu de moi, que je souffre ces maux?",
+        "S21": "Ce jour-là, ma colère s'enflammera contre lui. Je les abandonnerai et je me cacherai à eux. Il sera dévoré, il sera atteint par une foule de malheurs et de situations de détresse. Alors il dira: ‘N'est-ce pas parce que mon Dieu n'est pas au milieu de moi que ces malheurs m'ont atteint?’"
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "Oui, à ce moment-là, je me détournerai totalement d’eux, à cause de tout le mal qu’ils auront commis en se tournant vers d’autres dieux.",
+        "DBY": "Et moi, je cacherai entièrement ma face, en ce jour-là, à cause de tout le mal qu'il aura fait; parce qu'il se sera tourné vers d'autres dieux.",
+        "KJV": "And I will surely hide my face in that day for all the evils which they shall have wrought, in that they are turned unto other gods.",
+        "LSG": "Et moi, je cacherai ma face en ce jour-là, à cause de tout le mal qu'il aura fait, en se tournant vers d'autres dieux.",
+        "MAB": "En ce jour-là, [dis-je], je cacherai entièrement ma face, à cause de tout le mal qu'il aura fait, parce qu'il se sera détourné vers d'autres dieux.",
+        "OST": "Mais moi, je cacherai entièrement ma face en ce jour-là, à cause de tout le mal qu'il aura fait, parce qu'il se sera détourné vers d'autres dieux.",
+        "S21": "Et moi, je me cacherai ce jour-là, à cause de tout le mal qu'il aura fait en se tournant vers d'autres dieux."
+      }
+    },
+    {
+      "verse": 19,
+      "texts": {
+        "BDS": "Et maintenant, mettez par écrit le cantique qui suit. Toi, Moïse, tu l’apprendras aux Israélites: fais-le leur chanter afin que ce cantique me serve de témoin contre eux.",
+        "DBY": "Et maintenant, écrivez ce cantique, et enseigne-le aux fils d'Israël; mets-le dans leur bouche, afin que ce cantique me serve de témoignage contre les fils d'Israël.",
+        "KJV": "Now therefore write ye this song for you, and teach it the children of Israel: put it in their mouths, that this song may be a witness for me against the children of Israel.",
+        "LSG": "Maintenant, écrivez ce cantique. Enseigne-le aux enfants d'Israël, mets-le dans leur bouche, et que ce cantique me serve de témoin contre les enfants d'Israël.",
+        "MAB": "Maintenant donc écrivez ce cantique, et l'enseignez aux enfants d'Israël; mets-le dans leur bouche, afin que ce cantique me serve de témoin contre les enfants d'Israël.",
+        "OST": "Maintenant donc, écrivez ce cantique. Enseigne-le aux enfants d'Israël; mets-le dans leur bouche, afin que ce cantique me serve de témoin contre les enfants d'Israël.",
+        "S21": "»Maintenant, mettez par écrit le cantique qui suit. Enseigne-le aux Israélites, mets-le dans leur bouche, et que ce cantique me serve de témoin contre les Israélites."
+      }
+    },
+    {
+      "verse": 20,
+      "texts": {
+        "BDS": "En effet, je les ferai entrer dans le pays où ruissellent le lait et le miel, que j’ai promis par serment à leurs ancêtres: ils y mangeront à satiété et vivront dans l’abondance; alors ils se tourneront vers d’autres dieux et leur rendront un culte, ils m’irriteront et violeront mon alliance.",
+        "DBY": "Car je l'introduirai dans la terre ruisselante de lait et de miel, que j'ai promise par serment à ses pères, et il mangera, et sera rassasié et engraissé, et se tournera vers d'autres dieux; et ils les serviront, et ils me mépriseront, et il rompra mon alliance.",
+        "KJV": "For when I shall have brought them into the land which I sware unto their fathers, that floweth with milk and honey; and they shall have eaten and filled themselves, and waxen fat; then will they turn unto other gods, and serve them, and provoke me, and break my covenant.",
+        "LSG": "Car je mènerai ce peuple dans le pays que j'ai juré à ses pères de lui donner, pays où coulent le lait et le miel; il mangera, se rassasiera, s'engraissera; puis il se tournera vers d'autres dieux et les servira, il me méprisera et violera mon alliance;",
+        "MAB": "Car je l'introduirai en la terre découlante de lait et de miel, de laquelle j'ai juré à ses pères, et il mangera et sera rassasié, et engraissé; puis il se détournera vers d'autres dieux, et ils les serviront, et ils m'irriteront par mépris, et enfreindront mon alliance.",
+        "OST": "Car j'introduirai ce peuple dans le pays au sujet duquel j'ai fait serment à ses pères, pays où coulent le lait et le miel, et il mangera, et sera rassasié et engraissé; puis il se détournera vers d'autres dieux, et il les servira; il me méprisera, et il enfreindra mon alliance.",
+        "S21": "En effet, je vais conduire ce peuple vers le territoire que j'ai juré à ses ancêtres de lui donner, un pays où coulent le lait et le miel. Il mangera à satiété, s'engraissera, puis il se tournera vers d'autres dieux et les servira, il me méprisera et violera mon alliance."
+      }
+    },
+    {
+      "verse": 21,
+      "texts": {
+        "BDS": "Beaucoup de malheurs et de grandes détresses s’abattront sur eux, alors ce cantique servira de témoin à charge contre eux. Car leurs descendants ne l’oublieront pas et ne cesseront pas de le chanter. Je connais, en effet, les dispositions de leur cœur dès à présent, avant même que je les fasse entrer dans le pays que je leur ai promis par serment.",
+        "DBY": "Et quand des maux nombreux et des détresses l'auront atteint, il arrivera que ce cantique élèvera la voix devant lui en témoignage; car il ne sera pas oublié dans la bouche de sa postérité; car je connais sa pensée qu'il a formée déjà aujourd'hui, avant que je l'introduise dans le pays que je lui ai promis par serment.",
+        "KJV": "And it shall come to pass, when many evils and troubles are befallen them, that this song shall testify against them as a witness; for it shall not be forgotten out of the mouths of their seed: for I know their imagination which they go about, even now, before I have brought them into the land which I sware.",
+        "LSG": "quand alors il sera atteint par une multitude de maux et d'afflictions, ce cantique, qui ne sera point oublié et que la postérité aura dans la bouche, déposera comme témoin contre ce peuple. Je connais, en effet, ses dispositions, qui déjà se manifestent aujourd'hui, avant même que je l'aie fait entrer dans le pays que j'ai juré de lui donner.",
+        "MAB": "Et il arrivera que quand plusieurs maux et angoisses les auront trouvés, ce cantique déposera contre eux comme témoin; parce qu'il ne sera point oublié pour n'être plus en la bouche de leur postérité; car je connais leur imagination, [et] ce qu'ils font déjà aujourd'hui, avant que je les introduise au pays duquel j'ai juré.",
+        "OST": "Et il arrivera, quand il souffrira des maux et des angoisses, que ce cantique déposera comme témoin contre lui, parce qu'il ne sera point oublié de la bouche de sa postérité. Car je connais sa nature, ce qu'il fait aujourd'hui, avant que je l'introduise au pays que j'ai juré de lui donner.",
+        "S21": "Quand il sera alors atteint par une foule de malheurs et de situations de détresse, ce cantique déposera en tant que témoin contre ce peuple, car sa descendance ne l’oubliera pas. Je connais, en effet, ses dispositions. Elles se manifestent aujourd'hui déjà, avant même que je l'aie fait entrer dans le pays que j'ai juré de lui donner.»"
+      }
+    },
+    {
+      "verse": 22,
+      "texts": {
+        "BDS": "Ce même jour, Moïse mit par écrit le cantique qui suit et l’apprit aux Israélites.",
+        "DBY": "Et Moïse écrivit ce cantique, en ce jour-là, et il l'enseigna aux fils d'Israël.",
+        "KJV": "Moses therefore wrote this song the same day, and taught it the children of Israel.",
+        "LSG": "En ce jour-là, Moïse écrivit ce cantique, et il l'enseigna aux enfants d'Israël.",
+        "MAB": "Ainsi Moïse écrivit ce cantique en ce jour-là, et l'enseigna aux enfants d'Israël.",
+        "OST": "Et Moïse écrivit ce cantique en ce jour-là, et l'enseigna aux enfants d'Israël.",
+        "S21": "Ce jour-là, Moïse écrivit le cantique qui suit et il l'enseigna aux Israélites."
+      }
+    },
+    {
+      "verse": 23,
+      "texts": {
+        "BDS": "Après cela, l’Eternel donna ses ordres à Josué, fils de Noun. Il lui dit:\r\n—Prends courage et tiens bon, car c’est toi qui feras entrer les Israélites dans le pays que je leur ai promis par serment; et moi je serai avec toi.",
+        "DBY": "Et l'Éternel commanda à Josué, fils de Nun, disant: Fortifie-toi et sois ferme, car c'est toi qui introduiras les fils d'Israël dans le pays que je leur ai promis par serment, et moi, je serai avec toi.",
+        "KJV": "And he gave Joshua the son of Nun a charge, and said, Be strong and of a good courage: for thou shalt bring the children of Israel into the land which I sware unto them: and I will be with thee.",
+        "LSG": "L'Eternel donna ses ordres à Josué, fils de Nun. Il dit: Fortifie-toi et prends courage, car c'est toi qui feras entrer les enfants d'Israël dans le pays que j'ai juré de leur donner; et je serai moi-même avec toi.",
+        "MAB": "Et l'Eternel commanda à Josué, fils de Nun, en disant : Fortifie-toi, et te renforce, car c'est toi qui introduiras les enfants d'Israël au pays duquel je leur ai juré; et je serai avec toi.",
+        "OST": "Et l'Éternel commanda à Josué, fils de Nun, et lui dit: Fortifie-toi et prends courage; car c'est toi qui introduiras les enfants d'Israël au pays que j'ai juré de leur donner, et moi, je serai avec toi.",
+        "S21": "L'Eternel donna ses ordres à Josué, fils de Nun. Il dit: «Fortifie-toi et prends courage, car c'est toi qui feras entrer les Israélites dans le pays que j'ai juré de leur donner. Je serai moi-même avec toi.»"
+      }
+    },
+    {
+      "verse": 24,
+      "texts": {
+        "BDS": "Lorsque Moïse eut fini de transcrire dans un livre toutes les paroles de cette Loi dans leur intégralité,",
+        "DBY": "Et quand Moïse eut achevé d'écrire dans un livre les paroles de cette loi jusqu'à ce qu'elles fussent complètes,",
+        "KJV": "And it came to pass, when Moses had made an end of writing the words of this law in a book, until they were finished,",
+        "LSG": "Lorsque Moïse eut complètement achevé d'écrire dans un livre les paroles de cette loi,",
+        "MAB": "Et il arriva que quand Moïse eut achevé d'écrire les paroles de cette Loi dans un livre, sans qu'il en manquât rien;",
+        "OST": "Et quand Moïse eut achevé d'écrire les paroles de cette loi sur un livre, jusqu'à la fin,",
+        "S21": "Lorsque Moïse eut complètement fini d'écrire dans un livre les paroles de cette loi,"
+      }
+    },
+    {
+      "verse": 25,
+      "texts": {
+        "BDS": "il donna cet ordre aux lévites chargés de porter le coffre de l’alliance de l’Eternel:",
+        "DBY": "il arriva que Moïse commanda aux Lévites qui portaient l'arche de l'alliance de l'Éternel, disant:",
+        "KJV": "That Moses commanded the Levites, which bare the ark of the covenant of the LORD, saying,",
+        "LSG": "il donna cet ordre aux Lévites qui portaient l'arche de l'alliance de l'Eternel:",
+        "MAB": "Il commanda aux Lévites qui portaient l'Arche de l'alliance de l'Eternel, en disant :",
+        "OST": "Il fit ce commandement aux Lévites qui portaient l'arche de l'alliance de l'Éternel, et leur dit:",
+        "S21": "il ordonna aux Lévites qui portaient l'arche de l'alliance de l'Eternel:"
+      }
+    },
+    {
+      "verse": 26,
+      "texts": {
+        "BDS": "—Prenez ce livre de la Loi et déposez-le à côté du coffre de l’alliance de l’Eternel votre Dieu. Il y restera pour servir de témoin contre le peuple d’Israël.",
+        "DBY": "Prenez ce livre de la loi, et placez-le à côté de l'arche de l'alliance de l'Éternel, votre Dieu; et il sera là en témoignage contre toi.",
+        "KJV": "Take this book of the law, and put it in the side of the ark of the covenant of the LORD your God, that it may be there for a witness against thee.",
+        "LSG": "Prenez ce livre de la loi, et mettez-le à côté de l'arche de l'alliance de l'Eternel, votre Dieu, et il sera là comme témoin contre toi.",
+        "MAB": "Prenez ce livre de la Loi, et mettez-le à côté de l'Arche de l'alliance de l'Eternel votre Dieu, et il sera là pour témoin contre toi.",
+        "OST": "Prenez ce livre de la loi, et mettez-le à côté de l'arche de l'alliance de l'Éternel votre Dieu. Et il sera là comme témoin contre toi;",
+        "S21": "«Prenez ce livre de la loi et mettez-le à côté de l'arche de l'alliance de l'Eternel, votre Dieu. Il sera là comme témoin contre toi."
+      }
+    },
+    {
+      "verse": 27,
+      "texts": {
+        "BDS": "En effet, je sais que vous êtes indociles et rebelles. Si aujourd’hui, alors que je suis encore en vie au milieu de vous, vous vous révoltez contre l’Eternel, combien plus le ferez-vous après ma mort!",
+        "DBY": "Car moi, je connais ton esprit de rébellion et ton cou roide. Voici, aujourd'hui, tandis que je suis encore vivant avec vous, vous avez été rebelles à l'Éternel: combien plus le serez-vous après ma mort!",
+        "KJV": "For I know thy rebellion, and thy stiff neck: behold, while I am yet alive with you this day, ye have been rebellious against the LORD; and how much more after my death?",
+        "LSG": "Car je connais ton esprit de rébellion et la roideur de ton cou. Si vous êtes rebelles contre l'Eternel pendant que je suis encore vivant au milieu de vous, combien plus le serez-vous après ma mort!",
+        "MAB": "Car je connais ta rébellion et ton cou roide. Voici, moi étant encore aujourd'hui avec vous, vous avez été rebelles contre l'Eternel, combien plus donc le serez-vous après ma mort?",
+        "OST": "Car je connais ta rébellion et ton cou roide. Voici, pendant que je suis encore aujourd'hui vivant avec vous, vous avez été rebelles contre l'Éternel; combien plus le serez-vous après ma mort!",
+        "S21": "En effet, je connais ta révolte et ton esprit réfractaire. Si vous vous révoltez contre l'Eternel pendant que je suis encore en vie au milieu de vous, combien plus le ferez-vous après ma mort!"
+      }
+    },
+    {
+      "verse": 28,
+      "texts": {
+        "BDS": "Maintenant, rassemblez autour de moi tous les responsables de vos tribus et vos responsables, je leur communiquerai les paroles de ce cantique et je prendrai le ciel et la terre à témoin contre eux.",
+        "DBY": "Réunissez auprès de moi tous les anciens de vos tribus, et vos magistrats, et je prononcerai ces paroles à leurs oreilles, et j'appellerai à témoin contre eux les cieux et la terre.",
+        "KJV": "Gather unto me all the elders of your tribes, and your officers, that I may speak these words in their ears, and call heaven and earth to record against them.",
+        "LSG": "Assemblez devant moi tous les anciens de vos tribus et vos officiers; je dirai ces paroles en leur présence, et je prendrai à témoin contre eux le ciel et la terre.",
+        "MAB": "Faites assembler vers moi tous les Anciens de vos Tribus, et vos officiers, et je dirai ces paroles, eux les entendant, et j'appellerai à témoin contr'eux les cieux et la terre.",
+        "OST": "Faites assembler vers moi tous les anciens de vos tribus et vos officiers, et je prononcerai ces paroles à leurs oreilles, et je prendrai à témoin contre eux les cieux et la terre.",
+        "S21": "Rassemblez devant moi tous les anciens de vos tribus et vos officiers. Je dirai ces paroles en leur présence et je prendrai le ciel et la terre à témoin contre eux."
+      }
+    },
+    {
+      "verse": 29,
+      "texts": {
+        "BDS": "Je sais, en effet, qu’après ma mort vous ne manquerez pas de vous corrompre et de vous détourner du chemin que je vous ai prescrit. Alors le malheur fondra sur vous dans l’avenir, parce que vous aurez fait ce que l’Eternel considère comme mal et que vous aurez provoqué sa colère par vos actes.",
+        "DBY": "Car je sais qu'après ma mort vous vous corromprez certainement, et vous vous détournerez du chemin que je vous ai commandé; et il vous arrivera du mal à la fin des jours, parce que vous ferez ce qui est mauvais aux yeux de l'Éternel, pour le provoquer à colère par l'œuvre de vos mains.",
+        "KJV": "For I know that after my death ye will utterly corrupt [yourselves], and turn aside from the way which I have commanded you; and evil will befall you in the latter days; because ye will do evil in the sight of the LORD, to provoke him to anger through the work of your hands.",
+        "LSG": "Car je sais qu'après ma mort vous vous corromprez, et que vous vous détournerez de la voie que je vous ai prescrite; et le malheur finira par vous atteindre, quand vous ferez ce qui est mal aux yeux de l'Eternel, au point de l'irriter par l'oeuvre de vos mains.",
+        "MAB": "Car je sais qu'après ma mort vous ne manquerez point de vous corrompre, et que vous vous détournerez de la voie que je vous ai prescrite; mais à la fin il vous arrivera du mal, parce que vous aurez fait ce qui déplaît à l'Eternel, en l'irritant par les œuvres de vos mains.",
+        "OST": "Car je sais qu'après ma mort vous ne manquerez pas de vous corrompre et de vous détourner de la voie que je vous ai prescrite; et que le malheur vous arrivera dans les jours à venir, parce que vous ferez ce qui est mal aux yeux de l'Éternel, en l'irritant par les œuvres de vos mains.",
+        "S21": "Oui, je sais qu'après ma mort vous vous corromprez et que vous vous écarterez de la voie que je vous ai prescrite. Le malheur finira par vous atteindre, quand vous ferez ce qui est mal aux yeux de l'Eternel au point de l'irriter par votre manière d’agir.»"
+      }
+    },
+    {
+      "verse": 30,
+      "texts": {
+        "BDS": "Moïse transmit donc à toute l’assemblée d’Israël le cantique suivant dans sa totalité:",
+        "DBY": "Et Moïse prononça aux oreilles de toute la congrégation d'Israël les paroles de ce cantique-ci, jusqu'à ce qu'elles fussent complètes:",
+        "KJV": "And Moses spake in the ears of all the congregation of Israel the words of this song, until they were ended.",
+        "LSG": "Moïse prononça dans leur entier les paroles de ce cantique, en présence de toute l'assemblée d'Israël:",
+        "MAB": "Ainsi Moïse prononça les paroles de ce cantique-ci sans qu'il s'en manquât rien, toute l'assemblée d'Israël l'entendant.",
+        "OST": "Et Moïse prononça aux oreilles de toute l'assemblée d'Israël les paroles de ce cantique jusqu'à la fin.",
+        "S21": "Moïse fit entendre à toute l'assemblée d'Israël la totalité du cantique qui suit."
+      }
+    }
+  ]
+}

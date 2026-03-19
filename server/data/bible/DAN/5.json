@@ -1,0 +1,376 @@
+{
+  "bookCode": "DAN",
+  "chapter": 5,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "Un jour, le roi Balthazar organisa un banquet en l’honneur de ses mille dignitaires et se mit à boire du vin en leur présence.",
+        "DBY": "Le roi Belshatsar fit un grand festin à mille de ses grands, et but du vin devant les mille.",
+        "KJV": "Belshazzar the king made a great feast to a thousand of his lords, and drank wine before the thousand.",
+        "LSG": "Le roi Belschatsar donna un grand festin à ses grands au nombre de mille, et il but du vin en leur présence.",
+        "MAB": "Le Roi Belsatsar fit un grand festin à mille de ses gentilshommes, et il buvait le vin devant ces mille [courtisans.]",
+        "OST": "Le roi Belshatsar donna un grand festin à ses mille grands seigneurs, et en présence de ces mille il but du vin.",
+        "S21": "Le roi Belshatsar donna un grand festin à ses hauts fonctionnaires au nombre de 1000, et il but du vin en leur présence."
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "Excité par le vin, Balthazar ordonna d’apporter les coupes d’or et d’argent que Nabuchodonosor, son père, avait rapportées du Temple de Jérusalem. Il avait l’intention de s’en servir pour boire, lui et ses hauts dignitaires, ses femmes et ses concubines.",
+        "DBY": "Belshatsar, comme il buvait le vin, commanda d'apporter les vases d'or et d'argent que son père Nebucadnetsar avait tirés du temple qui était à Jérusalem, afin que le roi et ses grands, ses femmes et ses concubines, y bussent.",
+        "KJV": "Belshazzar, whiles he tasted the wine, commanded to bring the golden and silver vessels which his father Nebuchadnezzar had taken out of the temple which [was] in Jerusalem; that the king, and his princes, his wives, and his concubines, might drink therein.",
+        "LSG": "Belschatsar, quand il eut goûté au vin, fit apporter les vases d'or et d'argent que son père Nebucadnetsar avait enlevés du temple de Jérusalem, afin que le roi et ses grands, ses femmes et ses concubines, s'en servissent pour boire.",
+        "MAB": "Et ayant un peu bu, il commanda qu'on apportât les vaisseaux d'or et d'argent que Nébucadnetsar son père avait tirés du Temple qui était à Jérusalem ; afin que le Roi et ses gentilshommes, ses femmes et ses concubines y bussent.",
+        "OST": "Belshatsar, animé par le goût du vin, ordonna qu'on apportât les vases d'or et d'argent que Nébucadnetsar, son père, avait enlevés du temple de Jérusalem, afin que le roi et ses grands, ses femmes et ses concubines y bussent.",
+        "S21": "Sous l’effet du vin, Belshatsar ordonna que l’on apporte les coupes en or et en argent que son prédécesseur Nebucadnetsar avait enlevées du temple de Jérusalem. C’était afin que le roi et ses hauts fonctionnaires, ainsi que ses femmes et ses concubines, s'en servent pour boire."
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "Aussitôt, on apporta les coupes d’or qui avaient été prises dans le Temple de Dieu à Jérusalem, et le roi, ses hauts dignitaires, ses femmes et ses concubines s’en servirent pour boire.",
+        "DBY": "Alors on apporta les vases d'or qu'on avait tirés du temple de la maison de Dieu, qui était à Jérusalem; et le roi et ses grands, ses femmes et ses concubines, y burent.",
+        "KJV": "Then they brought the golden vessels that were taken out of the temple of the house of God which [was] at Jerusalem; and the king, and his princes, his wives, and his concubines, drank in them.",
+        "LSG": "Alors on apporta les vases d'or qui avaient été enlevés du temple, de la maison de Dieu à Jérusalem; et le roi et ses grands, ses femmes et ses concubines, s'en servirent pour boire.",
+        "MAB": "Alors furent apportés les vaisseaux d'or qu'on avait tirés du Temple de la maison de Dieu qui était à Jérusalem, et le Roi, et ses gentilshommes, ses femmes, et ses concubines y burent.",
+        "OST": "Alors on apporta les vases d'or qui avaient été enlevés du temple, de la maison de Dieu, à Jérusalem; et le roi et ses grands, ses femmes et ses concubines y burent.",
+        "S21": "On apporta alors les coupes en or qui avaient été enlevées du temple, de la maison de Dieu à Jérusalem, et le roi, ses hauts fonctionnaires, ses femmes et ses concubines les utilisèrent pour boire."
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "Après avoir bu du vin, ils se mirent à louer les dieux d’or, d’argent, de bronze, de fer, de bois et de pierre.",
+        "DBY": "Ils burent du vin, et il louèrent les dieux d'or et d'argent, d'airain, de fer, de bois, et de pierre.",
+        "KJV": "They drank wine, and praised the gods of gold, and of silver, of brass, of iron, of wood, and of stone.",
+        "LSG": "Ils burent du vin, et ils louèrent les dieux d'or, d'argent, d'airain, de fer, de bois et de pierre.",
+        "MAB": "Ils y burent [donc] du vin, et louèrent leurs dieux d'or, d'argent, d'airain, de fer, de bois et de pierre.",
+        "OST": "Ils burent du vin et ils louèrent les dieux d'or et d'argent, d'airain, de fer, de bois et de pierre.",
+        "S21": "Ils burent du vin et ils célébrèrent les dieux en or, en argent, en bronze, en fer, en bois et en pierre."
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "A ce moment-là apparurent soudain, devant le candélabre, les doigts d’une main humaine qui se mirent à écrire sur le plâtre du mur du palais royal. Le roi vit cette main qui écrivait.",
+        "DBY": "En ce même moment, les doigt d'une main d'homme sortirent, et écrivirent, vis-à-vis du chandelier, sur le plâtre de la muraille du palais du roi; et le roi vit l'extrémité de la main qui écrivait.",
+        "KJV": "In the same hour came forth fingers of a man's hand, and wrote over against the candlestick upon the plaister of the wall of the king's palace: and the king saw the part of the hand that wrote.",
+        "LSG": "En ce moment, apparurent les doigts d'une main d'homme, et ils écrivirent, en face du chandelier, sur la chaux de la muraille du palais royal. Le roi vit cette extrémité de main qui écrivait.",
+        "MAB": "Et à cette même heure-là sortirent [de la muraille] des doigts d'une main d'homme, qui écrivaient à l'endroit du chandelier, sur l'enduit de la muraille du palais royal; et le Roi voyait cette partie de main qui écrivait.",
+        "OST": "A ce moment-là, on vit sortir les doigts d'une main d'homme, et ils écrivaient vis-à-vis du chandelier, sur l'enduit de la muraille du palais royal; et le roi vit cette partie de main qui écrivait.",
+        "S21": "A ce moment-là apparurent les doigts d'une main humaine et ils écrivirent, devant le chandelier, sur le plâtre du mur du palais royal. Le roi vit cette partie de main qui écrivait."
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "Alors son visage devint blême, des pensées terrifiantes l’assaillirent, il se mit à trembler de tout son être et ses genoux s’entrechoquèrent.",
+        "DBY": "Alors le roi changea de couleur, et ses pensées le troublèrent; et les liens de ses reins se délièrent, et ses genoux se heurtèrent l'un contre l'autre.",
+        "KJV": "Then the king's countenance was changed, and his thoughts troubled him, so that the joints of his loins were loosed, and his knees smote one against another.",
+        "LSG": "Alors le roi changea de couleur, et ses pensées le troublèrent; les jointures de ses reins se relâchèrent, et ses genoux se heurtèrent l'un contre l'autre.",
+        "MAB": "Alors le visage du Roi fut changé, et ses pensées le troublèrent, et les jointures de ses reins se desserraient, et ses genoux heurtaient l'un contre l'autre.",
+        "OST": "Alors le roi changea de couleur, et ses pensées le troublèrent; les jointures de ses reins se relâchèrent, et ses genoux se heurtèrent l'un contre l'autre.",
+        "S21": "Il changea alors de couleur, terrifié par ses pensées. Les jointures de ses hanches se relâchèrent et ses genoux se heurtèrent l'un contre l'autre."
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "Il ordonna à grands cris de faire venir les magiciens, les astrologues et les devins, et fit dire aux sages:\r\n—Celui qui déchiffrera cette inscription et m’en donnera l’interprétation sera revêtu de pourpre, on lui mettra une chaîne d’or au cou et il partagera le gouvernement du royaume avec deux autres hauts fonctionnaires.",
+        "DBY": "Le roi cria avec force d'amener les enchanteurs, les Chaldéens et les augures. Le roi prit la parole et dit aux sages de Babylone: Quiconque lira cette écriture et m'en indiquera l'interprétation sera revêtu de pourpre, et aura une chaîne d'or autour de son cou, et sera le troisième gouverneur dans le royaume.",
+        "KJV": "The king cried aloud to bring in the astrologers, the Chaldeans, and the soothsayers. [And] the king spake, and said to the wise [men] of Babylon, Whosoever shall read this writing, and shew me the interpretation thereof, shall be clothed with scarlet, and [have] a chain of gold about his neck, and shall be the third ruler in the kingdom.",
+        "LSG": "Le roi cria avec force qu'on fît venir les astrologues, les Chaldéens et les devins; et le roi prit la parole et dit aux sages de Babylone: Quiconque lira cette écriture et m'en donnera l'explication sera revêtu de pourpre, portera un collier d'or à son cou, et aura la troisième place dans le gouvernement du royaume.",
+        "MAB": "Puis le Roi cria à haute voix qu'on amenât les astrologues, les Caldéens, et les devins; et le Roi parla et dit aux sages de Babylone : Quiconque lira cette écriture, et me déclarera son interprétation, sera vêtu d'écarlate, et il aura un collier d'or à son cou, et sera le troisième dans le Royaume.",
+        "OST": "Le roi cria avec force qu'on fît venir les astrologues, les Caldéens et les devins. Le roi prit la parole et dit aux sages de Babylone: Quiconque lira cette écriture et m'en donnera l'interprétation sera revêtu de pourpre, il aura un collier d'or à son cou, et sera le troisième dans le gouvernement du royaume.",
+        "S21": "Le roi cria avec force de faire venir les astrologues, les prêtres chaldéens et les devins. Puis, prenant la parole, il dit aux sages de Babylone: «Celui qui lira cette inscription et m'en révélera l'explication sera habillé de pourpre, portera un collier en or à son cou et aura la troisième place dans le gouvernement du royaume.»"
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "Tous les sages du roi entrèrent dans la salle, mais aucun d’eux ne put déchiffrer l’inscription, ni en faire connaître l’interprétation au roi.",
+        "DBY": "Alors arrivèrent tous les sages du roi, mais il ne purent lire l'écriture ni faire connaître au roi l'interprétation.",
+        "KJV": "Then came in all the king's wise [men]: but they could not read the writing, nor make known to the king the interpretation thereof.",
+        "LSG": "Tous les sages du roi entrèrent; mais ils ne purent pas lire l'écriture et en donner au roi l'explication.",
+        "MAB": "Alors tous les sages du Roi entrèrent, mais ils ne purent point lire l'écriture, ni en donner au Roi l'interprétation.",
+        "OST": "Alors les sages du roi entrèrent; mais ils ne purent lire l'écriture, ni en donner au roi l'interprétation.",
+        "S21": "Tous les sages du roi entrèrent, mais ils furent incapables de lire l’inscription et d’en faire connaître l'explication au roi."
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "Alors le roi Balthazar fut encore plus effrayé, il pâlit davantage et ses hauts dignitaires furent très troublés.",
+        "DBY": "Alors le roi Belshatsar fut extrêmement troublé, et il changea de couleur; et ses grands furent bouleversés.",
+        "KJV": "Then was king Belshazzar greatly troubled, and his countenance was changed in him, and his lords were astonied.",
+        "LSG": "Sur quoi le roi Belschatsar, fut très effrayé, il changea de couleur, et ses grands furent consternés.",
+        "MAB": "Dont le Roi Belsatsar fut fort troublé, et son visage en fut tout changé; ses gentilshommes aussi en furent épouvantés.",
+        "OST": "De sorte que le roi Belshatsar fut fort troublé, il changea de couleur et ses grands furent consternés.",
+        "S21": "Le roi Belshatsar fut alors très effrayé et changea de couleur, et ses hauts fonctionnaires furent consternés."
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "Quand la reine-mère fut informée de ce qui troublait le roi et ses hauts dignitaires, elle pénétra dans la salle du festin. Elle prit la parole et dit:\r\n—Que le roi vive éternellement! Ne te laisse pas terrifier par tes pensées et que ton visage ne pâlisse pas ainsi!",
+        "DBY": "La reine, à cause des paroles du roi et de ses grands, entra dans la maison du festin. La reine prit la parole et dit: O roi, vis à jamais! Que tes pensées ne te troublent pas, et ne change pas de couleur:",
+        "KJV": "[Now] the queen, by reason of the words of the king and his lords, came into the banquet house: [and] the queen spake and said, O king, live for ever: let not thy thoughts trouble thee, nor let thy countenance be changed:",
+        "LSG": "La reine, à cause des paroles du roi et de ses grands, entra dans la salle du festin, et prit ainsi la parole: O roi, vis éternellement! Que tes pensées ne te troublent pas, et que ton visage ne change pas de couleur!",
+        "MAB": "[Or] la Reine entra dans la maison du festin, à cause de ce qui était arrivé au Roi et à ses gentilshommes; et la Reine parla, et dit : Roi, vis éternellement! que tes pensées ne te troublent point, et que ton visage ne se change point.",
+        "OST": "La reine entra dans la salle du festin, à cause des paroles du roi et de ses grands. La reine prit la parole et dit: Roi, vis éternellement! que tes pensées ne te troublent point, et que ton visage ne change pas de couleur.",
+        "S21": "Alertée par les paroles du roi et de ses hauts fonctionnaires, la reine entra dans la salle du festin et dit: «Roi, puisses-tu vivre toujours! Ne te laisse pas terrifier par tes pensées et ne change pas de couleur!"
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "Il y a, dans ton royaume, un homme en qui réside l’esprit des dieux saints; du temps de ton père, on trouva en lui une clairvoyance, une intelligence et une sagesse pareilles à la sagesse des dieux, aussi le roi Nabuchodonosor, ton père, l’a-t-il établi chef des mages, des magiciens, des astrologues et des devins.",
+        "DBY": "il y a un homme dans ton royaume, en qui est l'esprit des dieux saints; et, aux jours de ton père, de la lumière, et de l'intelligence, et une sagesse comme la sagesse des dieux, ont été trouvées en lui; et le roi Nebucadnetsar, ton père, -ton père, ô roi, l'a établi chef des devins, des enchanteurs, des Chaldéens, des augures,",
+        "KJV": "There is a man in thy kingdom, in whom [is] the spirit of the holy gods; and in the days of thy father light and understanding and wisdom, like the wisdom of the gods, was found in him; whom the king Nebuchadnezzar thy father, the king, [I say], thy father, made master of the magicians, astrologers, Chaldeans, [and] soothsayers;",
+        "LSG": "Il y a dans ton royaume un homme qui a en lui l'esprit des dieux saints; et du temps de ton père, on trouva chez lui des lumières, de l'intelligence, et une sagesse semblable à la sagesse des dieux. Aussi le roi Nebucadnetsar, ton père, le roi, ton père, l'établit chef des magiciens, des astrologues, des Chaldéens, des devins,",
+        "MAB": "Il y a dans ton Royaume un homme en qui est l'Esprit des dieux saints, et au temps de ton père l'on trouva en lui une lumière, une intelligence, et une sagesse telle qu'est la sagesse des dieux; et le Roi Nébucadnetsar ton père, ton père [lui-même], ô Roi! l'établit chef des Mages, des astrologues, des Caldéens et des devins,",
+        "OST": "Il y a un homme dans ton royaume en qui est l'esprit des dieux saints; et du temps de ton père, on trouva en lui une lumière, une intelligence et une sagesse semblables à la sagesse des dieux; et le roi Nébucadnetsar ton père, - ton père, ô roi! - l'établit chef des magiciens, des astrologues, des Caldéens et des devins,",
+        "S21": "Il y a dans ton royaume un homme qui a en lui l'esprit des dieux saints. Déjà à l’époque de ton prédécesseur, on a trouvé chez lui des lumières, de l'intelligence et une sagesse semblable à la sagesse des dieux. Aussi, le roi Nebucadnetsar l’a désigné chef suprême des magiciens, des astrologues, des prêtres chaldéens et des devins. C’est ce qu’a fait ton prédécesseur sur le trône."
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "Car cet homme, Daniel, que le roi a nommé Beltchatsar, possède un esprit extraordinaire, de la connaissance et de l’intelligence pour interpréter les rêves, trouver la solution des énigmes et résoudre les problèmes difficiles. Que l’on appelle donc Daniel et il te donnera l’interprétation.",
+        "DBY": "parce qu'un esprit extraordinaire, et la connaissance et l'intelligence pour interpréter les songes et pour expliquer les énigmes et pour résoudre les problèmes difficiles, ont été trouvés en lui, en Daniel, à qui le roi a donné le nom de Belteshatsar. Que Daniel soit donc appelé, et il indiquera l'interprétation.",
+        "KJV": "Forasmuch as an excellent spirit, and knowledge, and understanding, interpreting of dreams, and shewing of hard sentences, and dissolving of doubts, were found in the same Daniel, whom the king named Belteshazzar: now let Daniel be called, and he will shew the interpretation.",
+        "LSG": "parce qu'on trouva chez lui, chez Daniel, nommé par le roi Beltschatsar, un esprit supérieur, de la science et de l'intelligence, la faculté d'interpréter les songes, d'expliquer les énigmes, et de résoudre les questions difficiles. Que Daniel soit donc appelé, et il donnera l'explication.",
+        "MAB": "Parce qu'un plus grand esprit, et plus de connaissance et d'intelligence, pour interpréter les songes, et pour expliquer les questions obscures, et résoudre les choses difficiles, fut trouvé en lui, et [cet homme c'est] Daniel, à qui le Roi avait donné le nom de Beltesatsar. Maintenant donc que Daniel soit appelé, et il donnera l'interprétation, [que tu souhaites.]",
+        "OST": "Parce qu'on trouva en lui, Daniel, que le roi avait nommé Beltshatsar, un esprit extraordinaire, et de la connaissance, et de l'intelligence pour interpréter les songes, expliquer les énigmes et résoudre les questions difficiles. Que Daniel soit donc appelé, et il donnera l'interprétation.",
+        "S21": "En effet, on a trouvé chez lui, chez Daniel appelé Beltshatsar par le roi, un esprit supérieur, de la connaissance et de l'intelligence, la faculté d'interpréter les rêves, d'expliquer les énigmes et de résoudre les questions difficiles. Que Daniel soit donc convoqué et il révélera l'explication.»"
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "Aussitôt, Daniel fut introduit en présence du roi. Celui-ci prit la parole et lui dit:\r\n—Es-tu ce Daniel qui fait partie des exilés de Juda, que le roi, mon père, a amenés de Juda?",
+        "DBY": "Alors Daniel fut introduit devant le roi. Le roi prit la parole et dit à Daniel: Es-tu ce Daniel, l'un des fils de la captivité de Juda, que le roi, mon père, a amenés de Juda?",
+        "KJV": "Then was Daniel brought in before the king. [And] the king spake and said unto Daniel, [Art] thou that Daniel, which [art] of the children of the captivity of Judah, whom the king my father brought out of Jewry?",
+        "LSG": "Alors Daniel fut introduit devant le roi. Le roi prit la parole et dit à Daniel: Es-tu ce Daniel, l'un des captifs de Juda, que le roi, mon père, a amenés de Juda?",
+        "MAB": "Alors Daniel fut amené devant le Roi, et le Roi prenant la parole dit à Daniel : Es-tu ce Daniel qui es d'entre ceux qui ont été emmenés captifs de Juda, que le Roi mon père a fait emmener de Juda?",
+        "OST": "Alors Daniel fut introduit devant le roi. Le roi prit la parole et dit à Daniel: Es-tu ce Daniel, l'un des captifs de Juda, que le roi, mon père, a amenés de Juda?",
+        "S21": "Alors Daniel fut conduit devant le roi. Le roi s’adressa à lui: «Es-tu Daniel, l'un des exilés de Juda que mon prédécesseur sur le trône a fait venir de Juda?"
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "J’ai entendu dire que l’esprit des dieux réside en toi et que tu possèdes une clairvoyance, une intelligence et une sagesse extraordinaires.",
+        "DBY": "Et j'ai entendu dire de toi que l'esprit des dieux est en toi, et que de la lumière, et de l'intelligence, et une sagesse extraordinaire se trouvent en toi.",
+        "KJV": "I have even heard of thee, that the spirit of the gods [is] in thee, and [that] light and understanding and excellent wisdom is found in thee.",
+        "LSG": "J'ai appris sur ton compte que tu as en toi l'esprit des dieux, et qu'on trouve chez toi des lumières, de l'intelligence, et une sagesse extraordinaire.",
+        "MAB": "Or j'ai ouï dire de toi que l'Esprit des dieux est en toi, et qu'il s'est trouvé en toi une lumière, une intelligence, et une sagesse singulière;",
+        "OST": "J'ai entendu dire de toi que l'esprit des dieux est en toi, et qu'on a trouvé en toi une lumière, une intelligence et une sagesse extraordinaires.",
+        "S21": "J'ai appris à ton sujet que tu as en toi l'esprit des dieux et qu'on trouve chez toi des lumières, de l'intelligence et une sagesse extraordinaire."
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "Or, on vient de m’amener les sages et les magiciens pour lire cette inscription et m’en faire connaître l’interprétation; mais ils n’en ont pas été capables.",
+        "DBY": "Et maintenant, les sages, les enchanteurs, ont été amenés devant moi, afin qu'ils lussent cette écriture et m'en fissent connaître l'interprétation, et ils n'ont pu indiquer l'interprétation de la chose.",
+        "KJV": "And now the wise [men], the astrologers, have been brought in before me, that they should read this writing, and make known unto me the interpretation thereof: but they could not shew the interpretation of the thing:",
+        "LSG": "On vient d'amener devant moi les sages et les astrologues, afin qu'ils lussent cette écriture et m'en donnassent l'explication; mais ils n'ont pas pu donner l'explication des mots.",
+        "MAB": "Et maintenant les sages et les astrologues ont été amenés devant moi, afin qu'ils lussent cette écriture, et m'en donnassent l'interprétation, mais ils n'en peuvent point donner l'interprétation.",
+        "OST": "Et maintenant les sages, les astrologues ont été amenés devant moi, afin de lire cette écriture et de m'en donner l'interprétation, mais ils ne peuvent donner l'interprétation de la chose.",
+        "S21": "On vient d'amener devant moi les sages et les astrologues afin qu'ils lisent cette inscription et m'en fassent connaître l'explication, mais ils n'ont pas été capables de révéler l'explication des mots."
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "On m’a dit que toi, tu peux donner des interprétations et résoudre les problèmes difficiles. Si donc tu es capable de lire cette inscription et de m’en faire connaître l’interprétation, tu seras revêtu de pourpre, tu porteras une chaîne d’or au cou et tu partageras le gouvernement du royaume avec deux autres hauts fonctionnaires.",
+        "DBY": "Et j'ai entendu dire de toi que tu peux donner des interprétations et résoudre les problèmes difficiles. Maintenant, si tu peux lire l'écriture et m'en faire connaître l'interprétation, tu seras vêtu de pourpre, et tu auras une chaîne d'or autour de ton cou, et tu seras le troisième gouverneur dans le royaume.",
+        "KJV": "And I have heard of thee, that thou canst make interpretations, and dissolve doubts: now if thou canst read the writing, and make known to me the interpretation thereof, thou shalt be clothed with scarlet, and [have] a chain of gold about thy neck, and shalt be the third ruler in the kingdom.",
+        "LSG": "J'ai appris que tu peux donner des explications et résoudre des questions difficiles; maintenant, si tu peux lire cette écriture et m'en donner l'explication, tu seras revêtu de pourpre, tu porteras un collier d'or à ton cou, et tu auras la troisième place dans le gouvernement du royaume.",
+        "MAB": "Mais j'ai ouï dire de toi que tu peux interpréter et résoudre les choses difficiles; maintenant [donc] si tu peux lire cette écriture, et m'en donner l'interprétation, tu seras vêtu d'écarlate, et tu [porteras] à ton cou un collier d'or, et tu seras le troisième dans le Royaume.",
+        "OST": "Or j'ai entendu dire que tu peux donner des explications et résoudre les questions difficiles. Si donc tu peux lire cette écriture et m'en donner l'interprétation, tu seras revêtu de pourpre et tu porteras un collier d'or à ton cou, et tu seras le troisième dans le gouvernement du royaume.",
+        "S21": "J'ai appris que tu peux donner des explications et résoudre des questions difficiles. Maintenant, si tu peux lire cette inscription et m'en faire connaître l'explication, tu seras habillé de pourpre, tu porteras un collier en or à ton cou et tu auras la troisième place dans le gouvernement du royaume.»"
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "Alors Daniel prit la parole et dit au roi:\r\n—Garde tes présents et donne tes cadeaux à un autre! Je vais cependant te déchiffrer l’inscription et t’en faire connaître l’interprétation.",
+        "DBY": "Alors Daniel répondit et dit devant le roi: Que tes présents te demeurent, et donne tes récompenses à un autre. Toutefois je lirai l'écriture au roi, et je lui en ferai connaître l'interprétation.",
+        "KJV": "Then Daniel answered and said before the king, Let thy gifts be to thyself, and give thy rewards to another; yet I will read the writing unto the king, and make known to him the interpretation.",
+        "LSG": "Daniel répondit en présence du roi: Garde tes dons, et accorde à un autre tes présents; je lirai néanmoins l'écriture au roi, et je lui en donnerai l'explication.",
+        "MAB": "Alors Daniel répondit et dit devant le Roi : Que tes dons te demeurent, et donne tes présents à un autre; toutefois je lirai l'écriture au Roi, et je lui en donnerai l'interprétation.",
+        "OST": "Alors Daniel répondit, et dit devant le roi: Que tes dons te demeurent, et fais à un autre tes présents; toutefois je lirai l'écriture au roi, et je lui en donnerai l'interprétation.",
+        "S21": "Daniel répondit devant le roi: «Garde tes dons pour toi et accorde tes récompenses à un autre! Je lirai néanmoins l’inscription au roi et je lui en ferai connaître l'explication."
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "O roi, le Dieu très-haut avait donné à Nabuchodonosor, ton père, la royauté et la grandeur, la gloire et la majesté.",
+        "DBY": "O roi, le Dieu Très-haut donna à Nebucadnetsar, ton père, le royaume, et la grandeur, et l'honneur, et la majesté;",
+        "KJV": "O thou king, the most high God gave Nebuchadnezzar thy father a kingdom, and majesty, and glory, and honour:",
+        "LSG": "O roi, le Dieu suprême avait donné à Nebucadnetsar, ton père, l'empire, la grandeur, la gloire et la magnificence;",
+        "MAB": "Ô Roi! le Dieu souverain avait donné à Nébucadnetsar ton père, le Royaume, la magnificence, la gloire et l'honneur.",
+        "OST": "O roi! le Dieu souverain avait donné à Nébucadnetsar, ton père, la royauté et la grandeur, la gloire et la magnificence.",
+        "S21": "Roi, le Dieu très-haut avait donné à ton prédécesseur Nebucadnetsar la royauté, la grandeur, la gloire et la majesté."
+      }
+    },
+    {
+      "verse": 19,
+      "texts": {
+        "BDS": "Et à cause de la grandeur qu’il lui avait accordée, les gens de tous peuples, de toutes nations et de toutes langues tremblaient de peur devant lui. La vie et la mort de chacun dépendaient de son bon vouloir; il élevait et abaissait qui il lui plaisait.",
+        "DBY": "et, à cause de la grandeur qu'il lui donna, tous les peuples, les peuplades et les langues, tremblaient devant lui, et le craignaient; il tuait qui il voulait, et il conservait en vie qui il voulait; il exaltait qui il voulait, et il abaissait qui il voulait.",
+        "KJV": "And for the majesty that he gave him, all people, nations, and languages, trembled and feared before him: whom he would he slew; and whom he would he kept alive; and whom he would he set up; and whom he would he put down.",
+        "LSG": "et à cause de la grandeur qu'il lui avait donnée, tous les peuples, les nations, les hommes de toutes langues étaient dans la crainte et tremblaient devant lui. Le roi faisait mourir ceux qu'il voulait, et il laissait la vie à ceux qu'il voulait; il élevait ceux qu'il voulait, et il abaissait ceux qu'il voulait.",
+        "MAB": "Et à cause de la grandeur qu'il lui avait donnée, tous les peuples, les nations, et les Langues tremblaient devant lui, et le redoutaient; car il faisait mourir ceux qu'il voulait, et sauvait la vie à ceux qu'il voulait; il élevait ceux qu'il voulait, et abaissait ceux qu'il voulait.",
+        "OST": "Et à cause de la grandeur qu'il lui avait donnée, tous les peuples, nations et langues tremblaient devant lui et le redoutaient. Il faisait mourir ceux qu'il voulait, et il laissait la vie à ceux à qui il voulait. Il élevait ceux qu'il voulait, et abaissait ceux qu'il voulait.",
+        "S21": "A cause de la grandeur qu'il lui avait donnée, tous les peuples, les nations, les hommes de toute langue tremblaient et avaient peur devant lui. Le roi faisait mourir ceux qu'il voulait et laissait la vie à ceux qu'il voulait. Il donnait une position élevée à ceux qu'il voulait et abaissait ceux qu'il voulait."
+      }
+    },
+    {
+      "verse": 20,
+      "texts": {
+        "BDS": "Mais lorsque son cœur s’enorgueillit et qu’il s’endurcit jusqu’à l’arrogance, on lui fit quitter son trône royal et il fut dépouillé de sa gloire.",
+        "DBY": "Mais quand son cœur s'éleva et que son esprit s'endurcit jusqu'à l'orgueil, il fut précipité du trône de son royaume, et sa dignité lui fut ôtée;",
+        "KJV": "But when his heart was lifted up, and his mind hardened in pride, he was deposed from his kingly throne, and they took his glory from him:",
+        "LSG": "Mais lorsque son coeur s'éleva et que son esprit s'endurcit jusqu'à l'arrogance, il fut précipité de son trône royal et dépouillé de sa gloire;",
+        "MAB": "Mais après que son cœur se fut élevé, et que son esprit se fut affermi dans son orgueil, il fut déposé de son siège royal, et on le dépouilla de sa gloire;",
+        "OST": "Mais son cœur s'étant élevé et son esprit s'étant affermi dans l'orgueil, il fut renversé de son trône royal et dépouillé de sa gloire;",
+        "S21": "Cependant, lorsque son cœur s’est rempli d’orgueil et que son esprit s’est obstiné jusqu'à l'arrogance, il a été précipité de son trône royal et dépouillé de sa gloire."
+      }
+    },
+    {
+      "verse": 21,
+      "texts": {
+        "BDS": "Il fut chassé de la société des humains, sa raison devint semblable à celle des bêtes et il se mit à vivre en compagnie des ânes sauvages, il se nourrissait d’herbe comme les bœufs et son corps était trempé par la rosée du ciel. Cela dura jusqu’au jour où il reconnut que le Dieu très-haut est maître de toute royauté humaine et qu’il élève à la royauté qui il veut.",
+        "DBY": "et il fut chassé du milieu des fils des hommes, et son cœur fut rendu semblable à celui des bêtes, et sa demeure fut avec les ânes sauvages; on le nourrit d'herbe comme les bœufs, et son corps fut baigné de la rosée des cieux, jusqu'à ce qu'il connut que le Dieu Très-haut domine sur le royaume des hommes, et qu'il y établit qui il veut.",
+        "KJV": "And he was driven from the sons of men; and his heart was made like the beasts, and his dwelling [was] with the wild asses: they fed him with grass like oxen, and his body was wet with the dew of heaven; till he knew that the most high God ruled in the kingdom of men, and [that] he appointeth over it whomsoever he will.",
+        "LSG": "il fut chassé du milieu des enfants des hommes, son coeur devint semblable à celui des bêtes, et sa demeure fut avec les ânes sauvages; on lui donna comme aux boeufs de l'herbe à manger, et son corps fut trempé de la rosée du ciel, jusqu'à ce qu'il reconnût que le Dieu suprême domine sur le règne des hommes et qu'il le donne à qui il lui plaît.",
+        "MAB": "Et il fut chassé d'entre les hommes, et son cœur fut rendu semblable à celui des bêtes, et sa demeure fut avec les ânes sauvages; on le paissait d'herbe comme les bœufs, et son corps fut arrosé de la rosée des cieux, jusqu'à ce qu'il connût que le Dieu souverain a puissance sur les Royaumes des hommes, et qu'il y établit ceux qu'il lui plaît.",
+        "OST": "Il fut chassé du milieu des enfants des hommes; son cœur fut rendu semblable à celui des bêtes, et son habitation fut avec les ânes sauvages; il fut nourri d'herbe comme les bœufs, et son corps fut trempé de la rosée du ciel, jusqu'à ce qu'il reconnût que le Dieu souverain domine sur le règne des hommes, et qu'il y établit qui il lui plaît.",
+        "S21": "Il a été chassé du milieu des hommes, son cœur est devenu semblable à celui des bêtes et il a habité avec les ânes sauvages. On lui a donné de l'herbe à manger, comme aux bœufs, et son corps a été trempé de la rosée du ciel, et ce jusqu'à ce qu'il reconnaisse que le Dieu très-haut domine sur toute royauté humaine et la donne à qui il le désire."
+      }
+    },
+    {
+      "verse": 22,
+      "texts": {
+        "BDS": "Et toi, son fils, Balthazar, tu savais tout cela, et cependant tu n’as pas gardé une attitude humble.",
+        "DBY": "Et toi, son fils Belshatsar, tu n'as pas humilié ton cœur, bien que tu aies su tout cela.",
+        "KJV": "And thou his son, O Belshazzar, hast not humbled thine heart, though thou knewest all this;",
+        "LSG": "Et toi, Belschatsar, son fils, tu n'as pas humilié ton coeur, quoique tu susses toutes ces choses.",
+        "MAB": "Toi aussi Belsatsar son fils, tu n'as point humilié ton cœur, quoique tu susses toutes ces choses.",
+        "OST": "Et toi aussi, Belshatsar, son fils, tu n'as point humilié ton cœur, quoique tu susses toutes ces choses.",
+        "S21": "»Et toi, Belshatsar, son successeur, tu n'as pas humilié ton cœur, alors que tu savais tout cela."
+      }
+    },
+    {
+      "verse": 23,
+      "texts": {
+        "BDS": "Tu t’es élevé contre le Seigneur du ciel et tu t’es fait apporter les coupes de son temple, puis toi et tes hauts dignitaires, tes femmes et tes concubines, vous y avez bu du vin et tu as loué les dieux d’argent, d’or, de bronze, de fer, de bois et de pierre, des dieux qui ne voient rien, n’entendent rien et ne savent rien. Mais le Dieu qui tient ton souffle de vie dans sa main et de qui dépend toute ta destinée, tu ne l’as pas honoré.",
+        "DBY": "Mais tu t'es élevé contre le Seigneur des cieux; et on a apporté devant toi les vases de sa maison, et toi et tes grands, tes femmes et tes concubines, vous y avez bu du vin; et tu as loué les dieux d'argent et d'or, d'airain, de fer, de bois et de pierre, qui ne voient, et n'entendent, et ne comprennent point; et le Dieu en la main duquel est ton souffle, et à qui appartiennent toutes tes voies, tu ne l'as pas glorifié.",
+        "KJV": "But hast lifted up thyself against the Lord of heaven; and they have brought the vessels of his house before thee, and thou, and thy lords, thy wives, and thy concubines, have drunk wine in them; and thou hast praised the gods of silver, and gold, of brass, iron, wood, and stone, which see not, nor hear, nor know: and the God in whose hand thy breath [is], and whose [are] all thy ways, hast thou not glorified:",
+        "LSG": "Tu t'es élevé contre le Seigneur des cieux; les vases de sa maison ont été apportés devant toi, et vous vous en êtes servis pour boire du vin, toi et tes grands, tes femmes et tes concubines; tu as loué les dieux d'argent, d'or, d'airain, de fer, de bois et de pierre, qui ne voient point, qui n'entendent point, et qui ne savent rien, et tu n'as pas glorifié le Dieu qui a dans sa main ton souffle et toutes tes voies.",
+        "MAB": "Mais tu t'es élevé contre le Seigneur des cieux, et on a apporté devant toi les vaisseaux de sa maison, et vous y avez bu du vin, toi et tes gentilshommes, tes femmes et tes concubines; et tu as loué les dieux d'argent, d'or, d'airain, de fer, de bois, et de pierre, qui ne voient, ni n'entendent, ni ne connaissent, et tu n'as point glorifié le Dieu dans la main duquel est ton souffle, et toutes tes voies.",
+        "OST": "Mais tu t'es élevé contre le Seigneur des cieux, et on a apporté les vases de sa maison devant toi, et vous y avez bu du vin, toi et tes grands, tes femmes et tes concubines, et tu as loué les dieux d'argent, d'or, d'airain, de fer, de bois et de pierre, qui ne voient, ni n'entendent, ni ne connaissent, et tu n'as pas glorifié le Dieu qui a dans sa main ton souffle et toutes tes voies.",
+        "S21": "C’est contre le Seigneur du ciel que tu t’es dressé. Tu as fait apporter devant toi les coupes de son temple et vous les avez utilisées pour boire du vin, toi et tes hauts fonctionnaires, ainsi que tes femmes et tes concubines. Tu as célébré les dieux en argent, en or, en bronze, en fer, en bois et en pierre, qui ne voient pas, qui n'entendent pas et qui ne savent rien, et tu n'as pas donné gloire au Dieu qui tient dans sa main ton souffle et tous tes chemins."
+      }
+    },
+    {
+      "verse": 24,
+      "texts": {
+        "BDS": "C’est pourquoi il a envoyé cette main pour tracer cette inscription.",
+        "DBY": "Alors a été envoyée de sa part l'extrémité de la main, et cette écriture a été tracée.",
+        "KJV": "Then was the part of the hand sent from him; and this writing was written.",
+        "LSG": "C'est pourquoi il a envoyé cette extrémité de main qui a tracé cette écriture.",
+        "MAB": "Alors de sa part a été envoyée cette partie de main, et cette écriture a été écrite.",
+        "OST": "C'est alors qu'a été envoyée de sa part cette partie de main, et que cette écriture a été tracée.",
+        "S21": "C'est pourquoi il a envoyé cette partie de main qui a tracé cette inscription."
+      }
+    },
+    {
+      "verse": 25,
+      "texts": {
+        "BDS": "Voici mot à mot ce qui est écrit là:\r\n«Il a été compté: une mine, un sicle et deux demi-sicles.»",
+        "DBY": "Et voici l'écriture qui a été tracée: MENE, MENE, THEKEL, UPHARSIN!",
+        "KJV": "And this [is] the writing that was written, MENE, MENE, TEKEL, UPHARSIN.",
+        "LSG": "Voici l'écriture qui a été tracée: Compté, compté, pesé, et divisé.",
+        "MAB": "Or c'est ici l'écriture qui a été écrite : MÉNÉ, MÉNÉ, THÉKEL, UPHARSIN.",
+        "OST": "Voici l'écriture qui a été tracée: MENÉ, MENÉ, THEKEL, UPHARSIN (Compté, compté; pesé et divisé).",
+        "S21": "»Voici l’inscription qui a été tracée: ‘Compté, compté, pesé et divisé.’"
+      }
+    },
+    {
+      "verse": 26,
+      "texts": {
+        "BDS": "Et voici l’interprétation: «une mine»: Dieu a «compté» les années de ton règne et les a menées à leur terme.",
+        "DBY": "Voici l'interprétation des paroles. MENE: Dieu a compté ton royaume, et y a mis fin.",
+        "KJV": "This [is] the interpretation of the thing: MENE; God hath numbered thy kingdom, and finished it.",
+        "LSG": "Et voici l'explication de ces mots. Compté: Dieu a compté ton règne, et y a mis fin.",
+        "MAB": "[Et] c'est ici l'interprétation de ces paroles ; MÉNÉ : Dieu a calculé ton règne, et y a mis la fin.",
+        "OST": "Et voici l'interprétation de ces paroles: MENÉ: Dieu a compté ton règne, et y a mis fin.",
+        "S21": "Et voici l'explication de ces mots. Compté: Dieu a fait les comptes de ton règne et y a mis fin."
+      }
+    },
+    {
+      "verse": 27,
+      "texts": {
+        "BDS": "«Un sicle»: Tu as été «pesé» dans la balance et l’on a trouvé que tu ne fais pas le poids.",
+        "DBY": "THEKEL: Tu as été pesé à la balance, et tu as été trouvé manquant de poids.",
+        "KJV": "TEKEL; Thou art weighed in the balances, and art found wanting.",
+        "LSG": "Pesé: Tu as été pesé dans la balance, et tu as été trouvé léger.",
+        "MAB": "THÉKEL : Tu as été pesé en la balance, et tu as été trouvé léger.",
+        "OST": "THEKEL: tu as été pesé dans la balance, et tu as été trouvé léger.",
+        "S21": "Pesé: tu as été pesé dans la balance et tu as été trouvé léger."
+      }
+    },
+    {
+      "verse": 28,
+      "texts": {
+        "BDS": "«Deux demi-sicles»: Ton royaume a été «divisé» pour être livré aux Mèdes et aux Perses.",
+        "DBY": "PERES: Ton royaume est divisé, et donné aux Mèdes et aux Perses.",
+        "KJV": "PERES; Thy kingdom is divided, and given to the Medes and Persians.",
+        "LSG": "Divisé: Ton royaume sera divisé, et donné aux Mèdes et aux Perses.",
+        "MAB": "PÉRÈS : Ton Royaume a été divisé, et il a été donné aux Mèdes et aux Perses.",
+        "OST": "PERES: ton royaume a été divisé, et donné aux Mèdes et aux Perses.",
+        "S21": "Divisé: ton royaume sera divisé et donné aux Mèdes et aux Perses.»"
+      }
+    },
+    {
+      "verse": 29,
+      "texts": {
+        "BDS": "Alors Balthazar ordonna de revêtir Daniel de pourpre, de lui mettre une chaîne d’or au cou et de faire proclamer qu’il partagerait le gouvernement du royaume avec deux autres hauts fonctionnaires.",
+        "DBY": "Alors Belshatsar donna des ordres, et on vêtit Daniel de pourpre, et on mit une chaîne d'or à son cou, et on proclama qu'il serait le troisième gouverneur dans le royaume.",
+        "KJV": "Then commanded Belshazzar, and they clothed Daniel with scarlet, and [put] a chain of gold about his neck, and made a proclamation concerning him, that he should be the third ruler in the kingdom.",
+        "LSG": "Aussitôt Belschatsar donna des ordres, et l'on revêtit Daniel de pourpre, on lui mit au cou un collier d'or, et on publia qu'il aurait la troisième place dans le gouvernement du royaume.",
+        "MAB": "Alors par le commandement de Belsatsar on vêtit Daniel d'écarlate, et on mit un collier d'or à son cou, et on publia de lui, qu'il serait le troisième dans le Royaume.",
+        "OST": "Alors, sur l'ordre de Belshatsar, on revêtit Daniel de pourpre, on lui mit au cou un collier d'or, et on publia qu'il serait le troisième dans le gouvernement du royaume.",
+        "S21": "Aussitôt Belshatsar ordonna qu’on habille Daniel de pourpre, qu’on lui mette au cou un collier en or et qu’on proclame qu'il aurait la troisième place dans le gouvernement du royaume."
+      }
+    },
+    {
+      "verse": 30,
+      "texts": {
+        "BDS": "Mais, dans la même nuit, Balthazar, roi des Chaldéens, fut tué.",
+        "DBY": "En cette nuit-là, Belshatsar, roi des Chaldéens, fut tué.",
+        "KJV": "In that night was Belshazzar the king of the Chaldeans slain.",
+        "LSG": "Cette même nuit, Belschatsar, roi des Chaldéens, fut tué.",
+        "MAB": "En cette même nuit Belsatsar, Roi de Caldée, fut tué;",
+        "OST": "Dans cette même nuit Belshatsar, roi des Caldéens, fut tué.",
+        "S21": "La même nuit, Belshatsar, le roi des Babyloniens, fut tué."
+      }
+    },
+    {
+      "verse": 31,
+      "texts": {
+        "DBY": "Et Darius, le Mède, reçut le royaume, étant âgé d'environ soixante-deux ans.",
+        "KJV": "And Darius the Median took the kingdom, [being] about threescore and two years old.",
+        "LSG": "Et Darius, le Mède, s'empara du royaume, étant âgé de soixante-deux ans.",
+        "MAB": "Et Darius le Mède prit le Royaume, étant âgé d'environ soixante-deux ans.",
+        "OST": "Et Darius, le Mède, prit possession du royaume, étant âgé de soixante-deux ans."
+      }
+    }
+  ]
+}

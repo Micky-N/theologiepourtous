@@ -1,0 +1,78 @@
+{
+  "bookCode": "PSA",
+  "chapter": 126,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "Cantique pour la route vers la demeure de l’Eternel.\r\nQuand l’Eternel a ramené les captifs de Sion,\r\nnous avons cru rêver.",
+        "DBY": "Quand l'Éternel rétablit les captifs de Sion, nous étions comme ceux qui songent.",
+        "KJV": "A Song of degrees. When the LORD turned again the captivity of Zion, we were like them that dream.",
+        "LSG": "Cantique des degrés. Quand l'Eternel ramena les captifs de Sion, Nous étions comme ceux qui font un rêve.",
+        "MAB": "Cantique de Mahaloth. Quand l'Eternel ramena les captifs de Sion, nous étions comme ceux qui songent.",
+        "OST": "Cantique de Maaloth. Quand l'Éternel ramena les captifs de Sion, nous étions comme ceux qui font un rêve.",
+        "S21": "Chant des montées.\r\nQuand l’Eternel a ramené les déportés de Sion, nous étions pareils à ceux qui font un rêve."
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "Alors nous ne cessions de rire\r\net de pousser des cris de joie.\r\nAlors on se disait chez les autres nations:\r\n«Oui, l’Eternel a fait pour eux de grandes choses!»",
+        "DBY": "Alors notre bouche fut remplie de rire, et notre langue de chants de joie; alors on dit parmi les nations: l'Éternel a fait de grandes choses pour ceux-ci!",
+        "KJV": "Then was our mouth filled with laughter, and our tongue with singing: then said they among the heathen, The LORD hath done great things for them.",
+        "LSG": "Alors notre bouche était remplie de cris de joie, Et notre langue de chants d'allégresse; Alors on disait parmi les nations: L'Eternel a fait pour eux de grandes choses!",
+        "MAB": "Alors notre bouche fut remplie de joie, et notre langue de chant de triomphe, alors on disait parmi les nations : l'Eternel a fait de grandes choses à ceux-ci;",
+        "OST": "Alors notre bouche fut pleine de cris de joie, et notre langue de chants de triomphe. Alors on disait parmi les nations: L'Éternel a fait de grandes choses à ceux-ci.",
+        "S21": "Alors notre bouche était remplie de rires, et notre langue poussait des cris de joie. Alors on disait parmi les nations: «L’Eternel a fait de grandes choses pour eux!»"
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "Oui, l’Eternel a fait pour nous\r\nde grandes choses:\r\nnous sommes dans la joie.",
+        "DBY": "L'Éternel a fait de grandes choses pour nous; nous en avons été réjouis.",
+        "KJV": "The LORD hath done great things for us; [whereof] we are glad.",
+        "LSG": "L'Eternel a fait pour nous de grandes choses; Nous sommes dans la joie.",
+        "MAB": "L'Eternel nous a fait de grandes choses; nous [en] avons été réjouis.",
+        "OST": "L'Éternel nous a fait de grandes choses; nous en avons été joyeux.",
+        "S21": "Oui, l’Eternel a fait de grandes choses pour nous, et nous sommes dans la joie."
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "Viens changer notre sort, ô Eternel,\r\ncomme tu fais couler des cours d’eau au désert.",
+        "DBY": "O Éternel! rétablis nos captifs, comme les ruisseaux dans le midi!",
+        "KJV": "Turn again our captivity, O LORD, as the streams in the south.",
+        "LSG": "Eternel, ramène nos captifs, Comme des ruisseaux dans le midi!",
+        "MAB": "Ô Eternel! ramène nos prisonniers, [en sorte qu'ils soient] comme les courants [des eaux] au pays du Midi.",
+        "OST": "Éternel, ramène nos captifs, comme les ruisseaux au pays du midi!",
+        "S21": "Eternel, ramène nos déportés comme tu ramènes les ruisseaux dans le Néguev!"
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "Qui sème dans les larmes\r\nmoissonne avec des cris de joie!",
+        "DBY": "Ceux qui sèment avec larmes moissonneront avec chant de joie.",
+        "KJV": "They that sow in tears shall reap in joy.",
+        "LSG": "Ceux qui sèment avec larmes Moissonneront avec chants d'allégresse.",
+        "MAB": "Ceux qui sèment avec larmes, moissonneront avec chant de triomphe.",
+        "OST": "Ceux qui sèment avec larmes, moissonneront avec chants de triomphe.",
+        "S21": "Ceux qui sèment avec larmes moissonneront dans la joie,"
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "Qui s’en va en pleurant pour porter sa semence\r\nrevient rempli de joie, sous le poids de ses gerbes.",
+        "DBY": "Il va en pleurant, portant la semence qu'il répand; il revient avec chant de joie, portant ses gerbes.",
+        "KJV": "He that goeth forth and weepeth, bearing precious seed, shall doubtless come again with rejoicing, bringing his sheaves [with him].",
+        "LSG": "Celui qui marche en pleurant, quand il porte la semence, Revient avec allégresse, quand il porte ses gerbes.",
+        "MAB": "Celui qui porte la semence pour la mettre en terre, ira son chemin en pleurant, mais il reviendra avec chant de triomphe, quand il portera ses gerbes.",
+        "OST": "Celui qui porte la semence pour la répandre, marche en pleurant; mais il reviendra en chantant de joie, quand il portera ses gerbes.",
+        "S21": "celui qui marche en pleurant avec un sac de semence reviendra avec joie en portant ses gerbes."
+      }
+    }
+  ]
+}

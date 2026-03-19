@@ -1,0 +1,558 @@
+{
+  "bookCode": "DEU",
+  "chapter": 1,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "Voici les paroles que Moïse adressa à tout Israël à l’est du Jourdain, dans le désert, dans la plaine qui fait face à Souph, entre Parân et Tophel, et entre Labân, Hatséroth et Di-Zahab.",
+        "DBY": "Ce sont ici les paroles que Moïse dit à tout Israël, en deçà du Jourdain, dans le désert, dans la plaine, vis-à-vis de Suph, entre Paran et Thophel, Laban, Hatséroth et Di-Zahab.",
+        "KJV": "These [be] the words which Moses spake unto all Israel on this side Jordan in the wilderness, in the plain over against the Red [sea], between Paran, and Tophel, and Laban, and Hazeroth, and Dizahab.",
+        "LSG": "Voici les paroles que Moïse adressa à tout Israël, de l'autre côté du Jourdain, dans le désert, dans la plaine, vis-à-vis de Suph, entre Paran, Tophel, Laban, Hatséroth et Di-Zahab.",
+        "MAB": "Ce sont ici les paroles que Moïse dit à tout Israël deçà le Jourdain au désert, dans la campagne, qui est vis à vis de la mer Rouge, entre Paran, et Tophel, et Laban, et Hatséroth, et Dizahab.",
+        "OST": "Ce sont ici les paroles que Moïse dit à tout Israël, au delà du Jourdain, au désert, dans la campagne, vis-à-vis de Suph, entre Paran et Tophel, et Laban, et Hatséroth, et Di-Zahab.",
+        "S21": "Voici les paroles que Moïse adressa à tout Israël de l'autre côté du Jourdain, dans le désert, dans la plaine qui se trouve vis-à-vis de Suph, entre Paran, Tophel, Laban, Hatséroth et Di-Zahab."
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "Il y a onze journées de marche depuis Horeb, par le chemin de la montagne de Séir, jusqu’à Qadech-Barnéa.",
+        "DBY": "Il y a onze journées depuis Horeb, par le chemin de la montagne de Séhir, jusqu'à Kadès-Barnéa.",
+        "KJV": "([There are] eleven days' [journey] from Horeb by the way of mount Seir unto Kadeshbarnea.)",
+        "LSG": "Il y a onze journées depuis Horeb, par le chemin de la montagne de Séir, jusqu'à Kadès-Barnéa.",
+        "MAB": "Il y a onze journées depuis Horeb, par le chemin de la montagne de Séhir, jusqu'à Kadès-Barné.",
+        "OST": "Il y a onze journées depuis l'Horeb, par le chemin de la montagne de Séir, jusqu'à Kadès-Barnéa.",
+        "S21": "Il y a 11 journées de marche depuis Horeb jusqu'à Kadès-Barnéa en passant par la région montagneuse de Séir."
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "Le premier jour du onzième mois de la quarantième année après la sortie d’Egypte, Moïse communiqua aux Israélites tout ce que l’Eternel lui ordonna pour eux.",
+        "DBY": "-Et il arriva, en la quarantième année, au onzième mois, le premier jour du mois, que Moïse parla aux fils d'Israël, selon tout ce que l'Éternel lui avait commandé pour eux,",
+        "KJV": "And it came to pass in the fortieth year, in the eleventh month, on the first [day] of the month, [that] Moses spake unto the children of Israel, according unto all that the LORD had given him in commandment unto them;",
+        "LSG": "Dans la quarantième année, au onzième mois, le premier du mois, Moïse parla aux enfants d'Israël selon tout ce que l'Eternel lui avait ordonné de leur dire.",
+        "MAB": "Or il arriva en la quarantième année, au premier jour de l'onzième mois, que Moïse parla aux enfants d'Israël selon tout ce que l'Eternel lui avait commandé de leur dire.",
+        "OST": "Or, en la quarantième année, au premier jour du onzième mois, Moïse dit aux enfants d'Israël tout ce que l'Éternel lui avait commandé de leur dire;",
+        "S21": "Au cours de la quarantième année après la sortie d’Egypte, le premier jour du onzième mois, Moïse parla aux Israélites conformément à tout ce que l'Eternel lui avait ordonné de leur dire."
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "Cela se passait après leur victoire sur Sihôn, roi des Amoréens, dont la capitale était Hechbôn, et sur Og, roi du Basan, qui résidait à Achtaroth et à Edréi.",
+        "DBY": "après qu'il eut frappé Sihon, roi des Amoréens, qui habitait à Hesbon, et Og, roi de Basan, qui habitait à Ashtaroth, à Édréhi.",
+        "KJV": "After he had slain Sihon the king of the Amorites, which dwelt in Heshbon, and Og the king of Bashan, which dwelt at Astaroth in Edrei:",
+        "LSG": "C'était après qu'il eut battu Sihon, roi des Amoréens, qui habitait à Hesbon, et Og, roi de Basan, qui habitait à Aschtaroth et à Edréi.",
+        "MAB": "Après qu'il eut défait Sihon, Roi des Amorrhéens, qui demeurait à Hesbon; et Hog, Roi de Basan, qui demeurait à Hastaroth [et] à Edréhi.",
+        "OST": "Après qu'il eut défait Sihon, roi des Amoréens, qui habitait à Hesbon, et Og, roi de Bassan, qui habitait à Ashtaroth et à Édréi.",
+        "S21": "C'était après ses victoires contre Sihon, le roi des Amoréens qui habitait à Hesbon, et contre Og, le roi du Basan qui habitait à Ashtaroth et à Edréï."
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "C’est au-delà du Jourdain, au pays de Moab, que Moïse se mit à leur exposer cette Loi. Il leur dit:",
+        "DBY": "En deçà du Jourdain, dans le pays de Moab, Moïse commença à exposer cette loi, en disant:",
+        "KJV": "On this side Jordan, in the land of Moab, began Moses to declare this law, saying,",
+        "LSG": "De l'autre côté du Jourdain, dans le pays de Moab, Moïse commença à expliquer cette loi, et dit:",
+        "MAB": "Moïse [donc] commença à déclarer cette loi deçà le Jourdain, dans le pays de Moab, en disant :",
+        "OST": "Moïse commença à expliquer cette loi, au delà du Jourdain, dans le pays de Moab, en disant:",
+        "S21": "De l'autre côté du Jourdain, dans le pays de Moab, Moïse commença à expliquer cette loi. Il dit:"
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "—L’Eternel notre Dieu nous a parlé au mont Horeb en ces termes: «Vous avez assez longtemps séjourné près de cette montagne.",
+        "DBY": "L'Éternel, notre Dieu, nous parla en Horeb, disant: Vous avez assez demeuré dans cette montagne.",
+        "KJV": "The LORD our God spake unto us in Horeb, saying, Ye have dwelt long enough in this mount:",
+        "LSG": "L'Eternel, notre Dieu, nous a parlé à Horeb, en disant: Vous avez assez demeuré dans cette montagne.",
+        "MAB": "L'Eternel notre Dieu nous parla en Horeb, en disant : Vous avez assez demeuré en cette montagne.",
+        "OST": "L'Éternel notre Dieu nous parla en Horeb, et nous dit: Vous avez assez demeuré dans cette montagne;",
+        "S21": "«L'Eternel, notre Dieu, nous a dit à Horeb: ‘Vous êtes assez restés sur cette montagne."
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "Levez le camp et partez, rendez-vous dans la région montagneuse des Amoréens et dans toutes les contrées voisines, la steppe, la montagne et la plaine côtière, le Néguev et les côtes de la mer, dans le pays des Cananéens et le Liban jusqu’au grand fleuve, l’Euphrate.",
+        "DBY": "Tournez-vous, et partez, et allez à la montagne des Amoréens et dans tous les lieux voisins, dans la plaine, dans la montagne, et dans le pays plat, et dans le midi, et sur le rivage de la mer, au pays des Cananéens et au Liban, jusqu'au grand fleuve, le fleuve Euphrate.",
+        "KJV": "Turn you, and take your journey, and go to the mount of the Amorites, and unto all [the places] nigh thereunto, in the plain, in the hills, and in the vale, and in the south, and by the sea side, to the land of the Canaanites, and unto Lebanon, unto the great river, the river Euphrates.",
+        "LSG": "Tournez-vous, et partez; allez à la montagne des Amoréens et dans tout le voisinage, dans la plaine, sur la montagne, dans la vallée, dans le midi, sur la côte de la mer, au pays des Cananéens et au Liban, jusqu'au grand fleuve, au fleuve d'Euphrate.",
+        "MAB": "Tournez, et partez, et allez vers la montagne des Amorrhéens, et dans tous les lieux circonvoisins, en la campagne, à la montagne, et en la plaine, et vers le Midi, et sur le rivage de la mer, au pays des Cananéens, et au Liban jusqu'au grand fleuve, le fleuve d'Euphrate.",
+        "OST": "Tournez-vous et partez, et allez vers la montagne des Amoréens, et dans tous les lieux circonvoisins, dans la campagne, dans la montagne, et dans la plaine, et vers le Midi, et sur la côte de la mer, au pays des Cananéens, et au Liban, jusqu'au grand fleuve, le fleuve d'Euphrate.",
+        "S21": "Tournez-vous et partez. Rendez-vous dans la région montagneuse des Amoréens et chez tous leurs voisins, dans la plaine, sur la montagne, dans la vallée, dans le sud, sur la côte de la mer, dans le pays des Cananéens et au Liban, jusqu'au grand fleuve, jusqu’à l'Euphrate."
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "Voyez, je vous donne cette terre, entrez-y et prenez possession du pays que l’Eternel a promis par serment à vos ancêtres Abraham, Isaac et Jacob, de leur donner, à eux et à leurs descendants.»",
+        "DBY": "Regarde, j'ai mis le pays devant vous: entrez, et possédez le pays que l'Éternel a juré à vos pères, à Abraham, à Isaac, et à Jacob, de leur donner, et à leur semence après eux.",
+        "KJV": "Behold, I have set the land before you: go in and possess the land which the LORD sware unto your fathers, Abraham, Isaac, and Jacob, to give unto them and to their seed after them.",
+        "LSG": "Voyez, j'ai mis le pays devant vous; allez, et prenez possession du pays que l'Eternel a juré à vos pères, Abraham, Isaac et Jacob, de donner à eux et à leur postérité après eux.",
+        "MAB": "Regardez, j'ai mis devant vous le pays, entrez et possédez le pays que l'Eternel a juré à vos pères, Abraham, Isaac et Jacob, de leur donner, et à leur postérité après eux.",
+        "OST": "Voyez, j'ai mis devant vous le pays; entrez et possédez le pays que l'Éternel a juré de donner à vos pères, Abraham, Isaac et Jacob, et à leur postérité après eux.",
+        "S21": "Voyez, j'ai mis le pays devant vous: allez-y et prenez possession du pays que l'Eternel a juré de donner à vos ancêtres Abraham, Isaac et Jacob ainsi qu’à leur descendance après eux.’"
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "—A cette époque-là, je vous ai dit: «Je ne peux pas, à moi seul, assumer la responsabilité de vous tous.",
+        "DBY": "Et je vous parlai, en ce temps-là, disant: Je ne puis, moi seul, vous porter.",
+        "KJV": "And I spake unto you at that time, saying, I am not able to bear you myself alone:",
+        "LSG": "Dans ce temps-là, je vous dis: Je ne puis pas, à moi seul, vous porter.",
+        "MAB": "Et je vous parlai en ce temps-là, et vous dis : Je ne puis pas vous porter moi seul.",
+        "OST": "Et je vous parlai en ce temps là, et je vous dis: Je ne puis vous porter, moi seul.",
+        "S21": "»A cette époque-là, je vous ai dit: ‘Je ne peux pas, à moi tout seul, vous porter."
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "L’Eternel votre Dieu vous a multipliés, au point que vous êtes aujourd’hui aussi nombreux que les étoiles du ciel.",
+        "DBY": "L'Éternel, votre Dieu, vous a multipliés, et vous voici aujourd'hui, en multitude, comme les étoiles des cieux.",
+        "KJV": "The LORD your God hath multiplied you, and, behold, ye [are] this day as the stars of heaven for multitude.",
+        "LSG": "L'Eternel, votre Dieu, vous a multipliés, et vous êtes aujourd'hui aussi nombreux que les étoiles du ciel.",
+        "MAB": "L'Eternel votre Dieu vous a multipliés, et vous voici aujourd'hui comme les étoiles du ciel, par le grand nombre que vous êtes.",
+        "OST": "L'Éternel votre Dieu vous a multipliés, et vous voici, aujourd'hui, nombreux comme les étoiles du ciel.",
+        "S21": "L'Eternel, votre Dieu, vous a multipliés et vous êtes aujourd'hui aussi nombreux que les étoiles du ciel."
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "Que l’Eternel, le Dieu de vos ancêtres, vous rende mille fois plus nombreux encore, et qu’il vous bénisse comme il vous l’a promis.",
+        "DBY": "Que l'Éternel, le Dieu de vos pères, ajoute à votre nombre mille fois ce que vous êtes, et vous bénisse, comme il vous l'a dit!",
+        "KJV": "(The LORD God of your fathers make you a thousand times so many more as ye [are], and bless you, as he hath promised you!)",
+        "LSG": "Que l'Eternel, le Dieu de vos pères, vous augmente mille fois autant, et qu'il vous bénisse comme il vous l'a promis!",
+        "MAB": "Que l'Eternel le Dieu de vos pères vous fasse croître mille fois au delà de ce que vous êtes, et vous bénisse, comme il vous l'a dit.",
+        "OST": "Que l'Éternel, le Dieu de vos pères, vous fasse croître encore mille fois autant, et qu'il vous bénisse comme il vous l'a dit.",
+        "S21": "Que l'Eternel, le Dieu de vos ancêtres, vous augmente 1000 fois autant et vous bénisse comme il vous l'a promis!"
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "Comment pourrais-je à moi seul m’occuper de vous, de vos affaires et de vos différends?",
+        "DBY": "Comment porterai-je, moi seul, votre charge, et votre fardeau, et vos contestations?",
+        "KJV": "How can I myself alone bear your cumbrance, and your burden, and your strife?",
+        "LSG": "Comment porterais-je, à moi seul, votre charge, votre fardeau et vos contestations?",
+        "MAB": "Comment porterais-je moi seul vos chagrins, vos charges, et vos procès?",
+        "OST": "Comment porterais-je moi seul vos peines, vos fardeaux et vos procès?",
+        "S21": "Comment pourrais-je porter, à moi tout seul, votre charge, votre fardeau et vos contestations?"
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "Désignez dans chacune de vos tribus des hommes sages, intelligents et estimés, et je les mettrai à votre tête.»",
+        "DBY": "Donnez-vous des hommes sages, et intelligents, et connus, selon vos tribus, et je les établirai chefs sur vous.",
+        "KJV": "Take you wise men, and understanding, and known among your tribes, and I will make them rulers over you.",
+        "LSG": "Prenez dans vos tribus des hommes sages, intelligents et connus, et je les mettrai à votre tête.",
+        "MAB": "Prenez-vous de vos Tribus des gens sages et habiles, et connus, et je vous les établirai pour chefs.",
+        "OST": "Prenez dans vos tribus des hommes sages, intelligents et connus, et je les établirai chefs sur vous.",
+        "S21": "Prenez dans vos tribus des hommes sages, intelligents et connus, et je les mettrai à votre tête.’"
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "Vous m’avez alors répondu: «Ce que tu proposes est une bonne chose.»",
+        "DBY": "Et vous me répondîtes et dîtes: La chose que tu as dit de faire est bonne.",
+        "KJV": "And ye answered me, and said, The thing which thou hast spoken [is] good [for us] to do.",
+        "LSG": "Vous me répondîtes, en disant: Ce que tu proposes de faire est une bonne chose.",
+        "MAB": "Et vous me répondîtes et dîtes : Il est bon de faire ce que tu as dit.",
+        "OST": "Et vous me répondîtes, et dîtes: Il est bon de faire ce que tu as dit.",
+        "S21": "Vous m’avez répondu: ‘Ce que tu proposes de faire est une bonne chose.’"
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "J’ai donc pris les chefs de vos tribus, des hommes sages et estimés, et je les ai établis chefs de vos «milliers», de vos «centaines», de vos «cinquantaines» et de vos «dizaines» et administrateurs pour vos tribus.",
+        "DBY": "Et je pris les chefs de vos tribus, des hommes sages et connus, et je les établis chefs sur vous, chefs de milliers, et chefs de centaines, et chefs de cinquantaines, et chefs de dizaines, et officiers sur vos tribus.",
+        "KJV": "So I took the chief of your tribes, wise men, and known, and made them heads over you, captains over thousands, and captains over hundreds, and captains over fifties, and captains over tens, and officers among your tribes.",
+        "LSG": "Je pris alors les chefs de vos tribus, des hommes sages et connus, et je les mis à votre tête comme chefs de mille, chefs de cent, chefs de cinquante, et chefs de dix, et comme ayant autorité dans vos tribus.",
+        "MAB": "Alors je pris des chefs de vos Tribus, des hommes sages et connus, et je les établis chefs sur vous, gouverneurs sur milliers, et sur centaines, sur cinquantaines et sur dizaines, et officiers selon vos Tribus.",
+        "OST": "Alors je pris les chefs de vos tribus, des hommes sages et connus, et je les établis chefs sur vous, gouverneurs de milliers, de centaines, de cinquantaines et de dizaines, et officiers dans vos tribus.",
+        "S21": "J’ai alors pris les chefs de vos tribus, des hommes sages et connus, et je les ai mis à votre tête comme chefs de milliers, de centaines, de cinquantaines et de dizaines, et comme responsables dans vos tribus."
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "J’ai donné, en ce temps-là, les instructions suivantes à vos juges: «Ecoutez avec une attention égale les causes de vos compatriotes et jugez avec équité les différends de chacun dans ses rapports avec son compatriote ou avec un étranger.",
+        "DBY": "-Et je commandai à vos juges, en ce temps-là, disant: Écoutez les différends entre vos frères, et jugez avec justice entre un homme et son frère, et l'étranger qui est avec lui.",
+        "KJV": "And I charged your judges at that time, saying, Hear [the causes] between your brethren, and judge righteously between [every] man and his brother, and the stranger [that is] with him.",
+        "LSG": "Je donnai, dans le même temps, cet ordre à vos juges: Ecoutez vos frères, et jugez selon la justice les différends de chacun avec son frère ou avec l'étranger.",
+        "MAB": "Puis je commandai en ce temps-là à vos juges, en disant : Ecoutez [les différends qui seront] entre vos frères, et jugez droitement entre l'homme et son frère, et entre l'étranger qui est avec lui.",
+        "OST": "Et je commandai à vos juges, en ce temps-là, en disant: Écoutez les différends qui sont entre vos frères, et jugez avec droiture entre l'homme et son frère, et l'étranger qui est avec lui;",
+        "S21": "A la même époque j’ai donné l’ordre suivant à vos juges: ‘Ecoutez vos frères et jugez conformément à la justice les différends de chacun avec son frère ou avec l'étranger."
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "Soyez impartiaux dans vos décisions, écoutez le petit comme le grand, et ne vous laissez pas intimider par qui que ce soit; car la justice relève de Dieu. Si une cause paraît trop difficile pour vous, soumettez-la moi et je l’examinerai.»",
+        "DBY": "Vous ne ferez point acception des personnes dans le jugement; vous entendrez aussi bien le petit que le grand; vous n'aurez peur d'aucun homme, car le jugement est de Dieu; et l'affaire qui sera trop difficile pour vous, vous me la présenterez, et je l'entendrai.",
+        "KJV": "Ye shall not respect persons in judgment; [but] ye shall hear the small as well as the great; ye shall not be afraid of the face of man; for the judgment [is] God's: and the cause that is too hard for you, bring [it] unto me, and I will hear it.",
+        "LSG": "Vous n'aurez point égard à l'apparence des personnes dans vos jugements; vous écouterez le petit comme le grand; vous ne craindrez aucun homme, car c'est Dieu qui rend la justice. Et lorsque vous trouverez une cause trop difficile, vous la porterez devant moi, pour que je l'entende.",
+        "MAB": "Vous n'aurez point d'égard à l'apparence de la personne en jugement; vous entendrez autant le petit que le grand; vous ne craindrez personne, car le jugement est à Dieu; et vous ferez venir devant moi la cause qui sera trop difficile pour vous, et je l'entendrai.",
+        "OST": "Vous n'aurez point égard à l'apparence de la personne, dans le jugement; vous écouterez le petit comme le grand; vous ne craindrez personne, car le jugement est à Dieu; et vous ferez venir devant moi la cause qui sera trop difficile pour vous, et je l'entendrai.",
+        "S21": "Vous ne ferez pas preuve de partialité dans vos jugements: vous écouterez le petit comme le grand. Vous ne montrerez aucune crainte devant un homme, car c'est Dieu qui rend la justice. Et lorsque vous trouverez une cause trop difficile, vous la porterez devant moi pour que je l'entende.’"
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "C’est ainsi que je vous ai ordonné à ce moment-là tout ce que vous avez à faire.",
+        "DBY": "Et je vous commandai, en ce temps-là, toutes les choses que vous devez faire.",
+        "KJV": "And I commanded you at that time all the things which ye should do.",
+        "LSG": "C'est ainsi que je vous prescrivis, dans ce temps-là, tout ce que vous aviez à faire.",
+        "MAB": "Et en ce temps-là je vous ordonnai toutes les choses que vous auriez à faire.",
+        "OST": "Et je vous ordonnai, en ce temps-là, toutes les choses que vous deviez faire.",
+        "S21": "C'est ainsi que je vous ai prescrit, à cette époque-là, tout ce que vous aviez à faire."
+      }
+    },
+    {
+      "verse": 19,
+      "texts": {
+        "BDS": "—Après cela, nous sommes partis du mont Horeb, nous avons traversé tout ce vaste et terrible désert que vous avez vu, en nous dirigeant vers la montagne des Amoréens, comme l’Eternel notre Dieu nous l’avait ordonné; et nous sommes arrivés à Qadech-Barnéa.",
+        "DBY": "Et nous partîmes d'Horeb, et nous traversâmes tout ce grand et terrible désert que vous avez vu, le chemin de la montagne des Amoréens, comme l'Éternel, notre Dieu, nous l'avait commandé, et nous vînmes jusqu'à Kadès-Barnéa.",
+        "KJV": "And when we departed from Horeb, we went through all that great and terrible wilderness, which ye saw by the way of the mountain of the Amorites, as the LORD our God commanded us; and we came to Kadeshbarnea.",
+        "LSG": "Nous partîmes d'Horeb, et nous parcourûmes en entier ce grand et affreux désert que vous avez vu; nous prîmes le chemin de la montagne des Amoréens, comme l'Eternel, notre Dieu, nous l'avait ordonné, et nous arrivâmes à Kadès-Barnéa.",
+        "MAB": "Puis nous partîmes d'Horeb, et nous marchâmes dans tout ce grand et affreux désert que vous avez vu, par le chemin de la montagne des Amorrhéens, ainsi que l'Eternel notre Dieu nous avait commandé, et nous vînmes jusqu'à Kadès-barné.",
+        "OST": "Puis, nous partîmes d'Horeb, et nous marchâmes par tout ce grand et affreux désert que vous avez vu, dans la direction de la montagne des Amoréens, ainsi que l'Éternel notre Dieu nous l'avait commandé; et nous vînmes jusqu'à Kadès-Barnéa.",
+        "S21": "»Nous sommes partis d'Horeb et nous avons parcouru en entier le grand et affreux désert que vous avez vu. Nous avons pris le chemin de la région montagneuse des Amoréens, comme l'Eternel, notre Dieu, nous l'avait ordonné, et nous sommes arrivés à Kadès-Barnéa."
+      }
+    },
+    {
+      "verse": 20,
+      "texts": {
+        "BDS": "Je vous ai dit alors: «Vous voilà arrivés à la montagne des Amoréens que l’Eternel notre Dieu nous donne.",
+        "DBY": "Et je vous dis: Vous êtes arrivés jusqu'à la montagne des Amoréens, laquelle l'Éternel, notre Dieu, nous donne.",
+        "KJV": "And I said unto you, Ye are come unto the mountain of the Amorites, which the LORD our God doth give unto us.",
+        "LSG": "Je vous dis: Vous êtes arrivés à la montagne des Amoréens, que l'Eternel, notre Dieu, nous donne.",
+        "MAB": "Alors je vous dis : Vous êtes arrivés jusqu'à la montagne des Amorrhéens, laquelle l'Eternel notre Dieu nous donne.",
+        "OST": "Alors je vous dis: Vous êtes arrivés jusqu'à la montagne des Amoréens, que l'Éternel notre Dieu nous donne.",
+        "S21": "»Je vous ai dit: ‘Vous êtes arrivés à la région montagneuse des Amoréens, que l'Eternel, notre Dieu, nous donne."
+      }
+    },
+    {
+      "verse": 21,
+      "texts": {
+        "BDS": "Regardez: l’Eternel votre Dieu met le pays à votre disposition; allez-y et prenez-en possession, comme l’Eternel, le Dieu de vos ancêtres, vous l’a dit. N’ayez pas peur, ne vous laissez pas effrayer.»",
+        "DBY": "Regarde, l'Éternel, ton Dieu, a mis devant toi le pays: monte, prends possession, comme l'Éternel, le Dieu de tes pères, te l'a dit; ne crains point et ne t'effraye point.",
+        "KJV": "Behold, the LORD thy God hath set the land before thee: go up [and] possess [it], as the LORD God of thy fathers hath said unto thee; fear not, neither be discouraged.",
+        "LSG": "Vois, l'Eternel, ton Dieu, met le pays devant toi; monte, prends-en possession, comme te l'a dit l'Eternel, le Dieu de tes pères; ne crains point, et ne t'effraie point.",
+        "MAB": "Regarde, l'Eternel ton Dieu met devant toi le pays, monte et le possède, selon que l'Eternel le Dieu de tes pères t'a dit : Ne crains point, et ne t'effraie point.",
+        "OST": "Vois, l'Éternel ton Dieu met devant toi le pays; monte, prends-en possession, comme l'Éternel, le Dieu de tes pères, te l'a dit; ne crains point, et ne t'effraie point.",
+        "S21": "Regarde, l'Eternel, ton Dieu, met le pays devant toi. Monte, prends-en possession, comme te l'a dit l'Eternel, le Dieu de tes ancêtres. N’aie pas peur, ne te laisse pas effrayer!’"
+      }
+    },
+    {
+      "verse": 22,
+      "texts": {
+        "BDS": "—Alors vous êtes tous venus me trouver pour me dire: «Nous voudrions envoyer quelques hommes en avant pour qu’ils fassent, pour nous, une reconnaissance du pays et qu’ils nous renseignent sur la route que nous devons prendre et sur les villes où nous devons aller.»",
+        "DBY": "Et vous vous approchâtes tous de moi, et vous dîtes: Envoyons des hommes devant nous, et ils examineront le pays pour nous, et ils nous rapporteront des nouvelles du chemin par lequel nous pourrons monter et des villes auxquelles nous viendrons.",
+        "KJV": "And ye came near unto me every one of you, and said, We will send men before us, and they shall search us out the land, and bring us word again by what way we must go up, and into what cities we shall come.",
+        "LSG": "Vous vous approchâtes tous de moi, et vous dîtes: Envoyons des hommes devant nous, pour explorer le pays, et pour nous faire un rapport sur le chemin par lequel nous y monterons et sur les villes où nous arriverons.",
+        "MAB": "Et vous vîntes tous vers moi, et dîtes : Envoyons devant nous des hommes, pour reconnaître le pays, et qui nous rapportent des nouvelles du chemin par lequel nous [devrons] monter, et des villes où nous devrons aller.",
+        "OST": "Et vous vous approchâtes tous de moi, et vous dîtes: Envoyons devant nous des hommes qui explorent pour nous le pays et nous rendent compte du chemin par lequel nous monterons, et des villes où nous devons aller;",
+        "S21": "Vous vous êtes tous approchés de moi et vous avez dit: ‘Envoyons des hommes devant nous pour explorer le pays et pour nous faire un rapport sur le chemin par lequel nous y monterons et sur les villes où nous arriverons.’"
+      }
+    },
+    {
+      "verse": 23,
+      "texts": {
+        "BDS": "La proposition m’a parue bonne et j’ai pris douze hommes d’entre vous, un par tribu.",
+        "DBY": "Et la chose fut bonne à mes yeux, et je pris d'entre vous douze hommes, un homme par tribu.",
+        "KJV": "And the saying pleased me well: and I took twelve men of you, one of a tribe:",
+        "LSG": "Cet avis me parut bon; et je pris douze hommes parmi vous, un homme par tribu.",
+        "MAB": "Et ce discours me sembla bon, de sorte que je pris douze hommes d'entre vous, [savoir] un homme de chaque Tribu.",
+        "OST": "Et ce discours me plut; et je pris douze hommes d'entre vous, un homme par tribu.",
+        "S21": "Cet avis m’a paru bon et j’ai pris douze hommes parmi vous, un par tribu."
+      }
+    },
+    {
+      "verse": 24,
+      "texts": {
+        "BDS": "Ils ont pris la direction de la montagne et sont arrivés jusqu’à la vallée d’Echkol qu’ils ont explorée.",
+        "DBY": "Et ils se tournèrent, et montèrent dans la montagne, et vinrent jusqu'au torrent d'Eshcol, et explorèrent le pays.",
+        "KJV": "And they turned and went up into the mountain, and came unto the valley of Eshcol, and searched it out.",
+        "LSG": "Ils partirent, traversèrent la montagne, et arrivèrent jusqu'à la vallée d'Eschcol, qu'ils explorèrent.",
+        "MAB": "Et ils se mirent en chemin, et étant montés en la montagne ils vinrent jusqu'au torrent d'Escol, et reconnurent le pays.",
+        "OST": "Et ils se mirent en chemin, et montèrent vers la montagne, et vinrent jusqu'au torrent d'Eshcol, et explorèrent le pays.",
+        "S21": "Ils sont partis, ont traversé la montagne et sont arrivés jusqu'à la vallée d'Eshcol, qu'ils ont explorée."
+      }
+    },
+    {
+      "verse": 25,
+      "texts": {
+        "BDS": "Ils ont emporté des produits du pays et nous les ont rapportés. Dans leur rapport, ils nous ont dit: «Le pays que l’Eternel notre Dieu nous donne est un bon pays.»",
+        "DBY": "Et ils prirent dans leurs mains du fruit du pays et nous l'apportèrent, et ils nous rendirent compte et dirent: Le pays que l'Éternel, notre Dieu, nous donne, est bon.",
+        "KJV": "And they took of the fruit of the land in their hands, and brought [it] down unto us, and brought us word again, and said, [It is] a good land which the LORD our God doth give us.",
+        "LSG": "Ils prirent dans leurs mains des fruits du pays, et nous les présentèrent; ils nous firent un rapport, et dirent: C'est un bon pays, que l'Eternel, notre Dieu, nous donne.",
+        "MAB": "Et ils prirent en leurs mains du fruit du pays, et ils nous l'apportèrent; ils nous donnèrent des nouvelles, et nous dirent : Le pays que l'Eternel, notre Dieu nous donne, est bon.",
+        "OST": "Et ils prirent dans leurs mains du fruit du pays, et nous l'apportèrent; et ils nous rendirent compte, et dirent: Le pays que l'Éternel notre Dieu nous donne, est bon.",
+        "S21": "Ils ont pris dans leurs mains des produits du pays et nous les ont présentés. Ils nous ont fait un rapport et ont dit: ‘C'est un bon pays que l'Eternel, notre Dieu, nous donne.’"
+      }
+    },
+    {
+      "verse": 26,
+      "texts": {
+        "BDS": "Mais vous avez refusé de vous y rendre et vous avez désobéi à l’Eternel votre Dieu.",
+        "DBY": "Mais vous ne voulûtes pas monter, et vous fûtes rebelles au commandement de l'Éternel, votre Dieu.",
+        "KJV": "Notwithstanding ye would not go up, but rebelled against the commandment of the LORD your God:",
+        "LSG": "Mais vous ne voulûtes point y monter, et vous fûtes rebelles à l'ordre de l'Eternel, votre Dieu.",
+        "MAB": "Mais vous refusâtes d'y monter, et vous fûtes rebelles au commandement de l'Eternel votre Dieu.",
+        "OST": "Mais vous ne voulûtes point y monter, et vous fûtes rebelles au commandement de l'Éternel votre Dieu;",
+        "S21": "Mais vous n’avez pas voulu y monter et vous vous êtes révoltés contre l'ordre de l'Eternel, votre Dieu."
+      }
+    },
+    {
+      "verse": 27,
+      "texts": {
+        "BDS": "Vous vous êtes plaints sous vos tentes en disant: «C’est parce que l’Eternel nous hait qu’il nous a fait sortir d’Egypte, pour nous livrer aux Amoréens afin de nous exterminer.",
+        "DBY": "Et vous murmurâtes dans vos tentes et vous dîtes: C'est parce que l'Éternel nous hait, qu'il nous a fait sortir du pays d'Égypte, afin de nous livrer aux mains des Amoréens, pour nous détruire. Où monterions-nous?",
+        "KJV": "And ye murmured in your tents, and said, Because the LORD hated us, he hath brought us forth out of the land of Egypt, to deliver us into the hand of the Amorites, to destroy us.",
+        "LSG": "Vous murmurâtes dans vos tentes, et vous dîtes: C'est parce que l'Eternel nous hait, qu'il nous a fait sortir du pays d'Egypte, afin de nous livrer entre les mains des Amoréens et de nous détruire.",
+        "MAB": "Et vous murmurâtes dans vos tentes, en disant : Parce que l'Eternel nous haïssait il nous a fait sortir du pays d'Egypte, afin de nous livrer entre les mains des Amorrhéens pour nous exterminer.",
+        "OST": "Et vous murmurâtes dans vos tentes, et vous dîtes: C'est parce que l'Éternel nous haïssait, qu'il nous a fait sortir du pays d'Égypte, pour nous livrer entre les mains des Amoréens, pour nous exterminer.",
+        "S21": "Vous avez murmuré dans vos tentes et vous avez dit: ‘C'est parce que l'Eternel nous déteste qu'il nous a fait sortir d'Egypte. Il voulait nous livrer entre les mains des Amoréens et nous détruire."
+      }
+    },
+    {
+      "verse": 28,
+      "texts": {
+        "BDS": "Où veux-tu que nous allions? Nos compatriotes nous ont démoralisés en disant: “C’est un peuple plus grand et plus fort que nous, leurs villes sont immenses et leurs remparts atteignent le ciel; nous avons même vu là-bas des descendants d’Anaq.”»",
+        "DBY": "Nos frères nous ont fait fondre le cœur, en disant: C'est un peuple plus grand et de plus haute taille que nous; les villes sont grandes, et murées jusqu'aux cieux; et de plus nous avons vu là des fils des Anakim.",
+        "KJV": "Whither shall we go up? our brethren have discouraged our heart, saying, The people [is] greater and taller than we; the cities [are] great and walled up to heaven; and moreover we have seen the sons of the Anakims there.",
+        "LSG": "Où monterions-nous? Nos frères nous ont fait perdre courage, en disant: C'est un peuple plus grand et de plus haute taille que nous; ce sont des villes grandes et fortifiées jusqu'au ciel; nous y avons même vu des enfants d'Anak.",
+        "MAB": "Où monterions-nous? Nos frères nous ont fait fondre le cœur, en disant : Le peuple est plus grand que nous, et de plus haute taille; les villes sont grandes et closes jusques au ciel; et même nous avons vu là les enfants des Hanakins.",
+        "OST": "Où monterions-nous? Nos frères nous ont fait fondre le cœur, en nous disant: C'est un peuple plus grand et de plus haute taille que nous, ce sont des villes grandes et fortifiées jusqu'au ciel, et même nous avons vu là des descendants des Anakim.",
+        "S21": "Où pourrions-nous monter? Nos frères nous ont fait perdre courage en disant: C'est un peuple plus grand et de plus haute taille que nous; ce sont des villes grandes et fortifiées jusqu'au ciel; nous y avons même vu des descendants d'Anak.’"
+      }
+    },
+    {
+      "verse": 29,
+      "texts": {
+        "BDS": "Je vous ai répondu: «Ne vous effrayez pas et n’ayez pas peur d’eux.",
+        "DBY": "-Et je vous dis: Ne vous épouvantez pas, et ne les craignez point:",
+        "KJV": "Then I said unto you, Dread not, neither be afraid of them.",
+        "LSG": "Je vous dis: Ne vous épouvantez pas, et n'ayez pas peur d'eux.",
+        "MAB": "Mais je vous dis : N'ayez point de peur, et ne les craignez point.",
+        "OST": "Mais je vous dis: N'ayez point peur, et ne les craignez point.",
+        "S21": "Je vous ai dit: ‘Ne tremblez pas et n'ayez pas peur d'eux."
+      }
+    },
+    {
+      "verse": 30,
+      "texts": {
+        "BDS": "L’Eternel votre Dieu, qui marche à votre tête, combattra lui-même pour vous, tout comme il l’a fait pour vous en Egypte — vous l’avez bien vu —",
+        "DBY": "l'Éternel, votre Dieu, qui marche devant vous, combattra lui-même pour vous, selon tout ce qu'il a fait pour vous sous vos yeux, en Égypte,",
+        "KJV": "The LORD your God which goeth before you, he shall fight for you, according to all that he did for you in Egypt before your eyes;",
+        "LSG": "L'Eternel, votre Dieu, qui marche devant vous, combattra lui-même pour vous, selon tout ce qu'il a fait pour vous sous vos yeux en Egypte,",
+        "MAB": "L'Eternel votre Dieu qui marche devant vous, lui-même combattra pour vous, selon tout ce que vous avez vu qu'il a fait pour vous en Egypte;",
+        "OST": "L'Éternel votre Dieu, qui marche devant vous, combattra lui-même pour vous, selon tout ce qu'il a fait pour vous, sous vos yeux, en Égypte,",
+        "S21": "L'Eternel, votre Dieu qui marche devant vous, combattra lui-même pour vous, conformément à tout ce qu'il a fait pour vous sous vos yeux en Egypte,"
+      }
+    },
+    {
+      "verse": 31,
+      "texts": {
+        "BDS": "et dans le désert, où vous avez pu constater que l’Eternel votre Dieu s’est occupé de vous comme un homme s’occupe de son fils; il l’a fait tout au long du chemin que vous avez parcouru pour arriver jusqu’ici.»",
+        "DBY": "et dans le désert, où tu as vu que l'Éternel, ton Dieu, t'a porté comme un homme porte son fils, dans tout le chemin où vous avez marché, jusqu'à ce que vous soyez arrivés en ce lieu-ci.",
+        "KJV": "And in the wilderness, where thou hast seen how that the LORD thy God bare thee, as a man doth bear his son, in all the way that ye went, until ye came into this place.",
+        "LSG": "puis au désert, où tu as vu que l'Eternel, ton Dieu, t'a porté comme un homme porte son fils, pendant toute la route que vous avez faite jusqu'à votre arrivée en ce lieu.",
+        "MAB": "Et au désert, où tu as vu de quelle manière l'Eternel ton Dieu t'a porté, comme un homme porterait son fils, dans tout le chemin où vous avez marché, jusqu'à ce que vous soyez arrivés en ce lieu-ci.",
+        "OST": "Et dans le désert; où tu as vu que l'Éternel ton Dieu t'a porté, comme un homme porte son fils, dans tout le chemin que vous avez fait, jusqu'à ce que vous soyez arrivés en ce lieu.",
+        "S21": "puis dans le désert. Tu as vu que l'Eternel, ton Dieu, t'a porté comme un homme porte son fils, pendant tout le parcours que vous avez effectué jusqu'à votre arrivée ici.’"
+      }
+    },
+    {
+      "verse": 32,
+      "texts": {
+        "BDS": "Malgré tout cela, vous n’avez pas fait confiance à l’Eternel votre Dieu,",
+        "DBY": "Mais, dans cette circonstance, vous ne crûtes point l'Éternel, votre Dieu, qui,",
+        "KJV": "Yet in this thing ye did not believe the LORD your God,",
+        "LSG": "Malgré cela, vous n'eûtes point confiance en l'Eternel, votre Dieu,",
+        "MAB": "Mais malgré cela vous ne crûtes point encore en l'Eternel votre Dieu;",
+        "OST": "Mais malgré cela vous n'eûtes point foi en l'Éternel votre Dieu,",
+        "S21": "Malgré cela, vous n’avez pas eu confiance en l'Eternel, votre Dieu"
+      }
+    },
+    {
+      "verse": 33,
+      "texts": {
+        "BDS": "qui marchait devant vous sur le chemin pour vous chercher vos lieux de campement, vous précédant la nuit dans une colonne de feu pour vous montrer la route sur laquelle marcher, et le jour dans la nuée.",
+        "DBY": "afin de reconnaître pour vous un lieu pour que vous y campiez, allait devant vous dans le chemin, la nuit, dans le feu, pour vous faire voir le chemin où vous deviez marcher, et, le jour, dans la nuée.",
+        "KJV": "Who went in the way before you, to search you out a place to pitch your tents [in], in fire by night, to shew you by what way ye should go, and in a cloud by day.",
+        "LSG": "qui allait devant vous sur la route pour vous chercher un lieu de campement, la nuit dans un feu afin de vous montrer le chemin où vous deviez marcher, et le jour dans une nuée.",
+        "MAB": "Qui marchait devant vous dans le chemin, afin de vous chercher un lieu pour camper, marchant de nuit dans la colonne de feu, pour vous éclairer dans le chemin par lequel vous deviez marcher ; et de jour, dans la nuée.",
+        "OST": "Qui marchait devant vous par le chemin afin de chercher un lieu pour votre camp, la nuit dans la colonne de feu, pour vous montrer le chemin où vous deviez marcher, et le jour, dans la nuée.",
+        "S21": "qui marchait devant vous sur la route pour vous chercher un lieu de campement, la nuit dans un feu afin de vous montrer le chemin où vous deviez marcher, et le jour dans une nuée."
+      }
+    },
+    {
+      "verse": 34,
+      "texts": {
+        "BDS": "—Quand l’Eternel entendit vos propos, il s’est irrité et a fait ce serment:",
+        "DBY": "Et l'Éternel entendit la voix de vos paroles et fut courroucé, et jura, disant:",
+        "KJV": "And the LORD heard the voice of your words, and was wroth, and sware, saying,",
+        "LSG": "L'Eternel entendit le bruit de vos paroles. Il s'irrita, et jura, en disant:",
+        "MAB": "Et l'Eternel ouït la voix de vos paroles, et se mit en grande colère, et jura, disant :",
+        "OST": "Alors l'Éternel entendit la voix de vos paroles, et se courrouça, et jura, en disant:",
+        "S21": "»L'Eternel a entendu vos paroles. Il s’est irrité et a juré:"
+      }
+    },
+    {
+      "verse": 35,
+      "texts": {
+        "BDS": "«Aucun des hommes de cette génération rebelle ne verra le beau pays que j’ai promis par serment à vos ancêtres,",
+        "DBY": "Si aucun de ces hommes, de cette génération méchante, voit ce bon pays que j'ai juré de donner à vos pères!…",
+        "KJV": "Surely there shall not one of these men of this evil generation see that good land, which I sware to give unto your fathers,",
+        "LSG": "Aucun des hommes de cette génération méchante ne verra le bon pays que j'ai juré de donner à vos pères,",
+        "MAB": "Si aucun des hommes de cette méchante génération voit ce bon pays que j'ai juré de donner à vos pères.",
+        "OST": "Aucun des hommes de cette méchante génération ne verra ce bon pays que j'ai juré de donner à vos pères,",
+        "S21": "‘Aucun des hommes de cette génération méchante ne verra le bon pays que j'ai juré de donner à vos ancêtres,"
+      }
+    },
+    {
+      "verse": 36,
+      "texts": {
+        "BDS": "excepté Caleb, fils de Yephounné. Lui, il le verra et je lui donnerai, à lui et à ses descendants, le pays que son pied a foulé, parce qu’il a fidèlement accompli ma volonté.»",
+        "DBY": "excepté Caleb, fils de Jephunné: lui, le verra, et je lui donnerai, et à ses fils, le pays où il a marché, parce qu'il a pleinement suivi l'Éternel.",
+        "KJV": "Save Caleb the son of Jephunneh; he shall see it, and to him will I give the land that he hath trodden upon, and to his children, because he hath wholly followed the LORD.",
+        "LSG": "excepté Caleb, fils de Jephunné; il le verra, lui, et je donnerai à lui et à ses enfants le pays sur lequel il a marché, parce qu'il a pleinement suivi la voie de l'Eternel.",
+        "MAB": "Sinon Caleb, fils de Jéphunné; lui le verra, et je lui donnerai à lui et à ses enfants le pays sur lequel il a marché, parce qu'il a persévéré à suivre l'Eternel.",
+        "OST": "Excepté Caleb, fils de Jephunné. Lui, il le verra; et je lui donnerai, à lui et à ses enfants, le pays sur lequel il a marché, parce qu'il a pleinement suivi l'Éternel.",
+        "S21": "excepté Caleb, fils de Jephunné. Il le verra, lui, et parce qu'il a pleinement suivi la voie de l'Eternel, je lui donnerai, ainsi qu’à ses enfants, le pays sur lequel il a marché.’"
+      }
+    },
+    {
+      "verse": 37,
+      "texts": {
+        "BDS": "L’Eternel s’est aussi mis en colère contre moi à cause de vous et il a dit: «Toi non plus, tu n’y entreras pas.",
+        "DBY": "Contre moi aussi l'Éternel s'irrita, à cause de vous, disant: Toi non plus, tu n'y entreras pas.",
+        "KJV": "Also the LORD was angry with me for your sakes, saying, Thou also shalt not go in thither.",
+        "LSG": "L'Eternel s'irrita aussi contre moi, à cause de vous, et il dit: Toi non plus, tu n'y entreras point.",
+        "MAB": "Même l'Eternel s'est mis en colère contre moi à cause de vous, disant : Et toi aussi tu n'y entreras pas.",
+        "OST": "L'Éternel se mit même en colère contre moi à cause de vous, en disant: Toi non plus, tu n'y entreras pas.",
+        "S21": "L'Eternel s’est aussi irrité contre moi à cause de vous et il a dit: ‘Toi non plus, tu n'y entreras pas."
+      }
+    },
+    {
+      "verse": 38,
+      "texts": {
+        "BDS": "Par contre, Josué, fils de Noun ton assistant, y entrera; encourage-le, car c’est lui qui mettra Israël en possession de ce pays.",
+        "DBY": "Josué, fils de Nun, qui se tient devant toi, lui, y entrera; fortifie-le, car c'est lui qui le fera hériter à Israël.",
+        "KJV": "[But] Joshua the son of Nun, which standeth before thee, he shall go in thither: encourage him: for he shall cause Israel to inherit it.",
+        "LSG": "Josué, fils de Nun, ton serviteur, y entrera; fortifie-le, car c'est lui qui mettra Israël en possession de ce pays.",
+        "MAB": "Josué, fils de Nun, qui te sert, y entrera; fortifie-le, car c'est lui qui mettra les enfants d'Israël en possession de ce pays.",
+        "OST": "Josué, fils de Nun, qui te sert, y entrera; encourage-le, car c'est lui qui mettra Israël en possession de ce pays;",
+        "S21": "C’est Josué, fils de Nun, ton serviteur, qui y entrera. Fortifie-le, car c'est lui qui mettra Israël en possession de ce pays."
+      }
+    },
+    {
+      "verse": 39,
+      "texts": {
+        "BDS": "Ce sont vos enfants, dont vous avez prétendu qu’ils deviendraient la proie des ennemis, vos fils qui aujourd’hui ne savent pas encore distinguer le bien du mal, qui y entreront; c’est à eux que je le donnerai, et ils en prendront possession.",
+        "DBY": "Et vos petits enfants dont vous avez dit qu'ils seraient une proie, et vos fils qui aujourd'hui ne connaissent pas le bien et le mal, ceux-là y entreront, et c'est à eux que je le donnerai, et ils le posséderont.",
+        "KJV": "Moreover your little ones, which ye said should be a prey, and your children, which in that day had no knowledge between good and evil, they shall go in thither, and unto them will I give it, and they shall possess it.",
+        "LSG": "Et vos petits enfants, dont vous avez dit: Ils deviendront une proie! et vos fils, qui ne connaissent aujourd'hui ni le bien ni le mal, ce sont eux qui y entreront, c'est à eux que je le donnerai, et ce sont eux qui le posséderont.",
+        "MAB": "Et vos petits enfants, desquels vous avez dit qu'ils seront en proie; vos enfants, [dis-je], qui aujourd'hui ne savent pas ce que c'est que le bien ou le mal; ceux-là y entreront, et je leur donnerai ce pays, et ils le posséderont.",
+        "OST": "Et vos petits enfants, dont vous avez dit qu'ils y seraient une proie, et vos fils, qui aujourd'hui ne savent ce que c'est que le bien ou le mal, ce sont eux qui y entreront, et je leur donnerai ce pays, et ils le posséderont;",
+        "S21": "Ce sont vos petits enfants, eux dont vous avez dit qu’ils deviendraient une proie, vos fils, qui ne connaissent aujourd'hui ni le bien ni le mal, ce sont eux qui y entreront, c'est à eux que je le donnerai et ce sont eux qui le posséderont."
+      }
+    },
+    {
+      "verse": 40,
+      "texts": {
+        "BDS": "Quant à vous, faites demi-tour. Repartez au désert en direction de la mer des Roseaux!»",
+        "DBY": "Et vous, tournez-vous, et partez pour le désert, par le chemin de la mer Rouge.",
+        "KJV": "But [as for] you, turn you, and take your journey into the wilderness by the way of the Red sea.",
+        "LSG": "Mais vous, tournez-vous, et partez pour le désert, dans la direction de la mer Rouge.",
+        "MAB": "Mais vous, retournez vous-en en arrière, et allez dans le désert par le chemin de la mer Rouge.",
+        "OST": "Mais vous, retournez-vous-en, et partez pour le désert dans la direction de la mer Rouge.",
+        "S21": "Mais vous, tournez-vous et partez pour le désert, dans la direction de la mer des Roseaux.’"
+      }
+    },
+    {
+      "verse": 41,
+      "texts": {
+        "BDS": "—Alors vous vous êtes écriés: «Nous avons commis une faute contre l’Eternel. Nous irons et combattrons, comme l’Eternel notre Dieu nous l’a ordonné.» Chacun de vous a pris ses armes. Vous avez décidé présomptueusement de gravir la montagne.",
+        "DBY": "-Et vous répondîtes et me dîtes: Nous avons péché contre l'Éternel; nous monterons, et nous combattrons, selon tout ce que l'Éternel, notre Dieu, nous a commandé. Et vous ceignîtes chacun ses armes de guerre, et légèrement vous entreprîtes de monter dans la montagne.",
+        "KJV": "Then ye answered and said unto me, We have sinned against the LORD, we will go up and fight, according to all that the LORD our God commanded us. And when ye had girded on every man his weapons of war, ye were ready to go up into the hill.",
+        "LSG": "Vous répondîtes, en me disant: Nous avons péché contre l'Eternel; nous monterons et nous combattrons, comme l'Eternel, notre Dieu, nous l'a ordonné. Et vous ceignîtes chacun vos armes, et vous fîtes le projet téméraire de monter à la montagne.",
+        "MAB": "Et vous répondîtes, et me dîtes : Nous avons péché contre l'Eternel; nous monterons et nous combattrons, comme l'Eternel, notre Dieu nous a commandé; et ayant pris chacun vos armes, vous entreprîtes de monter sur la montagne.",
+        "OST": "Alors vous répondîtes, et vous me dîtes: Nous avons péché contre l'Éternel; nous monterons et nous combattrons, selon tout ce que l'Éternel notre Dieu nous a commandé. Et vous ceignîtes chacun vos armes, et vous entreprîtes à la légère de monter vers la montagne.",
+        "S21": "»Vous m’avez répondu: ‘Nous avons péché contre l'Eternel. Nous monterons et nous combattrons, comme l'Eternel, notre Dieu, nous l'a ordonné.’ Vous avez mis chacun vos armes à la ceinture et vous avez formé le projet téméraire de monter sur la montagne."
+      }
+    },
+    {
+      "verse": 42,
+      "texts": {
+        "BDS": "Mais l’Eternel m’a dit: «Ordonne-leur de ne pas monter et de ne pas combattre, car je ne suis pas avec eux, et ils vont se faire battre par leurs ennemis.»",
+        "DBY": "Et l'Éternel me dit: Dis-leur: Ne montez pas, et ne combattez pas, car je ne suis point au milieu de vous, afin que vous ne soyez pas battus par vos ennemis.",
+        "KJV": "And the LORD said unto me, Say unto them, Go not up, neither fight; for I [am] not among you; lest ye be smitten before your enemies.",
+        "LSG": "L'Eternel me dit: Dis-leur: Ne montez pas et ne combattez pas, car je ne suis pas au milieu de vous; ne vous faites pas battre par vos ennemis.",
+        "MAB": "Et l'Eternel me dit : Dis-leur : Ne montez point, et ne combattez point (car je ne suis point au milieu de vous) afin que vous ne soyez point battus par vos ennemis.",
+        "OST": "Et l'Éternel me dit: Dis-leur: Ne montez point, et ne combattez point, car je ne suis point au milieu de vous; de peur que vous ne soyez battus devant vos ennemis.",
+        "S21": "L'Eternel m’a dit: ‘Dis-leur: Ne montez pas et ne combattez pas, car je ne suis pas au milieu de vous. Ne vous faites pas battre par vos ennemis.’"
+      }
+    },
+    {
+      "verse": 43,
+      "texts": {
+        "BDS": "Cependant, j’ai eu beau vous parler, vous n’avez pas écouté: vous avez désobéi à l’Eternel et vous avez eu la témérité de gravir la montagne.",
+        "DBY": "Et je vous parlai; mais vous n'écoutâtes point, et vous vous rebellâtes contre le commandement de l'Éternel, et vous fûtes présomptueux, et montâtes dans la montagne.",
+        "KJV": "So I spake unto you; and ye would not hear, but rebelled against the commandment of the LORD, and went presumptuously up into the hill.",
+        "LSG": "Je vous parlai, mais vous n'écoutâtes point; vous fûtes rebelles à l'ordre de l'Eternel, et vous montâtes audacieusement à la montagne.",
+        "MAB": "Ce que je vous rapportai, mais vous ne m'écoutâtes point, et vous vous rebellâtes contre le commandement de l'Eternel, et vous fûtes orgueilleux, et montâtes sur la montagne.",
+        "OST": "Je vous le rapportai, mais vous ne m'écoutâtes point; et vous fûtes rebelles au commandement de l'Éternel, et, pleins d'orgueil, vous montâtes vers la montagne.",
+        "S21": "Je vous ai parlé, mais vous n’avez pas écouté. Vous vous êtes révoltés contre l'ordre de l'Eternel et, dans votre insolence, vous êtes montés sur la montagne."
+      }
+    },
+    {
+      "verse": 44,
+      "texts": {
+        "BDS": "Alors les Amoréens qui l’occupent sont sortis pour marcher contre vous et vous ont poursuivis comme un essaim d’abeilles, ils vous ont battus depuis Séir jusqu’à Horma.",
+        "DBY": "Et l'Amoréen, qui habitait cette montagne, sortit à votre rencontre, et vous poursuivit, comme font les abeilles, et il vous tailla en pièces en Séhir, jusqu'à Horma.",
+        "KJV": "And the Amorites, which dwelt in that mountain, came out against you, and chased you, as bees do, and destroyed you in Seir, [even] unto Hormah.",
+        "LSG": "Alors les Amoréens, qui habitent cette montagne, sortirent à votre rencontre, et vous poursuivirent comme font les abeilles; ils vous battirent en Séir, jusqu'à Horma.",
+        "MAB": "Et l'Amorrhéen, qui demeurait sur cette montagne, sortit contre vous, et vous poursuivit, comme font les abeilles, et vous battit depuis Séhir jusqu'à Horma.",
+        "OST": "Alors l'Amoréen, qui demeurait dans cette montagne, sortit à votre rencontre, et vous poursuivit comme font les abeilles, et vous battit en Séir, jusqu'à Horma.",
+        "S21": "Alors les Amoréens qui y habitent sont sortis à votre rencontre et vous ont poursuivis comme le font les abeilles. Ils vous ont battus en Séir et vous ont poursuivis jusqu'à Horma."
+      }
+    },
+    {
+      "verse": 45,
+      "texts": {
+        "BDS": "A votre retour, vous avez pleuré devant l’Eternel, mais il ne vous a pas écoutés, il a fait la sourde oreille à vos lamentations.",
+        "DBY": "Et vous retournâtes, et vous pleurâtes devant l'Éternel; et l'Éternel n'écouta point votre voix et ne vous prêta point l'oreille.",
+        "KJV": "And ye returned and wept before the LORD; but the LORD would not hearken to your voice, nor give ear unto you.",
+        "LSG": "A votre retour, vous pleurâtes devant l'Eternel; mais l'Eternel n'écouta point votre voix, et ne vous prêta point l'oreille.",
+        "MAB": "Et étant retournés vous pleurâtes devant l'Eternel,; mais l'Eternel n'écouta point votre voix, et ne vous prêta point l'oreille.",
+        "OST": "Et vous revîntes et pleurâtes devant l'Éternel; mais l'Éternel n'écouta point votre voix, et ne vous prêta point l'oreille.",
+        "S21": "A votre retour, vous avez pleuré devant l'Eternel, mais l'Eternel n’a pas écouté votre voix, il ne vous a pas prêté l'oreille."
+      }
+    },
+    {
+      "verse": 46,
+      "texts": {
+        "BDS": "C’est ainsi que vous êtes restés très longtemps à Qadech.",
+        "DBY": "Et vous demeurâtes à Kadès plusieurs jours, selon les jours que vous y avez habité.",
+        "KJV": "So ye abode in Kadesh many days, according unto the days that ye abode [there].",
+        "LSG": "Vous restâtes à Kadès, où le temps que vous y avez passé fut de longue durée.",
+        "MAB": "Ainsi vous demeurâtes en Kadès plusieurs jours, selon les jours que vous y aviez demeuré.",
+        "OST": "Et vous demeurâtes à Kadès bien des jours, autant de temps que vous y aviez demeuré.",
+        "S21": "Vous êtes restés à Kadès. Vous y avez séjourné longtemps."
+      }
+    }
+  ]
+}

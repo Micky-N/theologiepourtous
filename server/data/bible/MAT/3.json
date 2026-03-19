@@ -1,0 +1,210 @@
+{
+  "bookCode": "MAT",
+  "chapter": 3,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "En ce temps-là, parut Jean-Baptiste. Il se mit à prêcher dans le désert de Judée.",
+        "DBY": "Or, en ces jours-là vient Jean le baptiseur, prêchant dans le désert de la Judée,",
+        "KJV": "In those days came John the Baptist, preaching in the wilderness of Judaea,",
+        "LSG": "En ce temps-là parut Jean Baptiste, prêchant dans le désert de Judée.",
+        "MAB": "Or, en ce temps-là vint Jean-Baptiste, prêchant dans le désert de la Judée;",
+        "OST": "En ce temps-là, Jean-Baptiste vint, prêchant dans le désert de Judée,",
+        "S21": "A cette époque-là parut Jean-Baptiste, qui prêchait dans le désert de Judée."
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "Il disait:\r\n—Changez, car le règne des cieux est proche.",
+        "DBY": "et disant: Repentez-vous, car le royaume des cieux s'est approché.",
+        "KJV": "And saying, Repent ye: for the kingdom of heaven is at hand.",
+        "LSG": "Il disait: Repentez-vous, car le royaume des cieux est proche.",
+        "MAB": "Et disant : Convertissez-vous; car le Royaume des cieux est proche.",
+        "OST": "Et disant: Repentez-vous, car le royaume des cieux est proche.",
+        "S21": "Il disait: «Changez d’attitude, car le royaume des cieux est proche.»"
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "C’est Jean que le prophète Esaïe a annoncé lorsqu’il a dit:\r\nOn entend la voix de quelqu’un qui crie dans le désert:\r\nPréparez le chemin pour le Seigneur,\r\nfaites-lui des sentiers droits.",
+        "DBY": "Car c'est ici celui dont il a été parlé par Ésaïe le prophète, disant: \"Voix de celui qui crie dans le désert: Préparez le chemin du Seigneur, faites droits ses sentiers\".",
+        "KJV": "For this is he that was spoken of by the prophet Esaias, saying, The voice of one crying in the wilderness, Prepare ye the way of the Lord, make his paths straight.",
+        "LSG": "Jean est celui qui avait été annoncé par Esaïe, le prophète, lorsqu'il dit: C'est ici la voix de celui qui crie dans le désert: Préparez le chemin du Seigneur, Aplanissez ses sentiers.",
+        "MAB": "Car c'est ici celui dont il a été parlé par Esaïe le Prophète, en disant : la voix de celui qui crie dans le désert [est] : préparez le chemin du Seigneur, aplanissez ses sentiers.",
+        "OST": "Car c'est celui dont Ésaïe le prophète a parlé, en disant: Voix de celui qui crie dans le désert: Préparez le chemin du Seigneur; redressez ses sentiers.",
+        "S21": "Jean est celui que le prophète Esaïe avait annoncé lorsqu'il a dit: C'est la voix de celui qui crie dans le désert: ‘Préparez le chemin du Seigneur, rendez ses sentiers droits.’"
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "Jean portait un vêtement de poil de chameau maintenu autour de la taille par une ceinture de cuir. Il se nourrissait de sauterelles et de miel sauvage.",
+        "DBY": "Or Jean lui-même avait son vêtement de poil de chameau et une ceinture de cuir autour de ses reins; et sa nourriture était des sauterelles et du miel sauvage.",
+        "KJV": "And the same John had his raiment of camel's hair, and a leathern girdle about his loins; and his meat was locusts and wild honey.",
+        "LSG": "Jean avait un vêtement de poils de chameau, et une ceinture de cuir autour des reins. Il se nourrissait de sauterelles et de miel sauvage.",
+        "MAB": "Or Jean avait son vêtement de poil de chameau, et une ceinture de cuir autour de ses reins, et son manger était des sauterelles et du miel sauvage.",
+        "OST": "Or, ce Jean avait un vêtement de poil de chameau, et une ceinture de cuir autour de ses reins; et sa nourriture était des sauterelles et du miel sauvage.",
+        "S21": "Jean portait un vêtement en poil de chameau et une ceinture de cuir autour de la taille. Il se nourrissait de sauterelles et de miel sauvage."
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "On venait à lui de Jérusalem, de la Judée entière et de toutes les contrées riveraines du Jourdain.",
+        "DBY": "Alors Jérusalem, et toute la Judée, et tout le pays des environs du Jourdain, sortaient vers lui;",
+        "KJV": "Then went out to him Jerusalem, and all Judaea, and all the region round about Jordan,",
+        "LSG": "Les habitants de Jérusalem, de toute la Judée et de tout le pays des environs du Jourdain, se rendaient auprès de lui;",
+        "MAB": "Alors les habitants de Jérusalem, et de toute la Judée, et de tout le pays des environs du Jourdain, vinrent à lui.",
+        "OST": "Alors Jérusalem, et toute la Judée, et tous les environs du Jourdain, venaient à lui;",
+        "S21": "Les habitants de Jérusalem, de toute la Judée et de toute la région du Jourdain se rendaient vers lui."
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "Tous se faisaient baptiser par lui dans le Jourdain, en reconnaissant ainsi leurs péchés.",
+        "DBY": "et ils étaient baptisés par lui dans le Jourdain, confessant leurs péchés.",
+        "KJV": "And were baptized of him in Jordan, confessing their sins.",
+        "LSG": "et, confessant leurs péchés, ils se faisaient baptiser par lui dans le fleuve du Jourdain.",
+        "MAB": "Et ils étaient baptisés par lui au Jourdain confessant leurs péchés.",
+        "OST": "Et ils étaient baptisés par lui dans le Jourdain, en confessant leurs péchés.",
+        "S21": "Reconnaissant publiquement leurs péchés, ils se faisaient baptiser par lui dans les eaux du Jourdain."
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "Beaucoup de pharisiens et de sadducéens venaient se faire baptiser par lui. Il leur dit:\r\n—Espèces de vipères! Qui vous a enseigné à fuir la colère de Dieu qui va se manifester?",
+        "DBY": "Et voyant plusieurs des pharisiens et des sadducéens qui venaient à son baptême, il leur dit: Race de vipères, qui vous a avertis de fuir la colère qui vient?",
+        "KJV": "But when he saw many of the Pharisees and Sadducees come to his baptism, he said unto them, O generation of vipers, who hath warned you to flee from the wrath to come?",
+        "LSG": "Mais, voyant venir à son baptême beaucoup de pharisiens et de sadducéens, il leur dit: Races de vipères, qui vous a appris à fuir la colère à venir?",
+        "MAB": "Mais voyant plusieurs des Pharisiens et des Saducéens venir à son baptême, il leur dit : race de vipères, qui vous a avertis de fuir la colère à venir?",
+        "OST": "Mais quand il vit venir à son baptême plusieurs des pharisiens et des sadducéens, il leur dit: Race de vipères! qui vous a appris à fuir la colère à venir?",
+        "S21": "Cependant, quand il vit beaucoup de pharisiens et de sadducéens venir se faire baptiser par lui, il leur dit: «Races de vipères, qui vous a appris à fuir la colère à venir?"
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "Montrez plutôt par vos actes que vous avez changé de vie.",
+        "DBY": "Produisez donc du fruit qui convienne à la repentance;",
+        "KJV": "Bring forth therefore fruits meet for repentance:",
+        "LSG": "Produisez donc du fruit digne de la repentance,",
+        "MAB": "Faites donc des fruits convenables à la repentance.",
+        "OST": "Produisez donc des fruits convenables à la repentance.",
+        "S21": "Produisez donc du fruit qui confirme votre changement d’attitude"
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "Ne vous imaginez pas qu’il vous suffit de répéter en vous-mêmes: «Nous sommes les descendants d’Abraham.» Car, regardez ces pierres: je vous déclare que Dieu peut en faire des enfants d’Abraham.",
+        "DBY": "et ne pensez pas de dire en vous-mêmes: Nous avons Abraham pour père; car je vous dis que Dieu peut, de ces pierres, susciter des enfants à Abraham.",
+        "KJV": "And think not to say within yourselves, We have Abraham to [our] father: for I say unto you, that God is able of these stones to raise up children unto Abraham.",
+        "LSG": "et ne prétendez pas dire en vous-mêmes: Nous avons Abraham pour père! Car je vous déclare que de ces pierres-ci Dieu peut susciter des enfants à Abraham.",
+        "MAB": "Et ne présumez point de dire en vous-mêmes : nous avons Abraham pour père; car je vous dis que Dieu peut faire naître de ces pierres mêmes des enfants à Abraham.",
+        "OST": "Et ne pensez pas à dire en vous-mêmes: Nous avons Abraham pour père; car je vous dis que, de ces pierres, Dieu peut susciter des enfants à Abraham.",
+        "S21": "et ne vous avisez pas de dire en vous-mêmes: ‘Nous avons Abraham pour ancêtre!’ En effet, je vous déclare que de ces pierres Dieu peut faire naître des descendants à Abraham."
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "Attention: la hache est déjà sur le point d’attaquer les arbres à la racine. Tout arbre qui ne produit pas de bon fruit sera coupé et jeté au feu.",
+        "DBY": "Et déjà la cognée est mise à la racine des arbres; tout arbre donc qui ne produit pas de bon fruit est coupé et jeté au feu.",
+        "KJV": "And now also the axe is laid unto the root of the trees: therefore every tree which bringeth not forth good fruit is hewn down, and cast into the fire.",
+        "LSG": "Déjà la cognée est mise à la racine des arbres: tout arbre donc qui ne produit pas de bons fruits sera coupé et jeté au feu.",
+        "MAB": "Or la cognée est déjà mise à la racine des arbres; c'est pourquoi tout arbre qui ne fait point de bon fruit s'en va être coupé, et jeté au feu.",
+        "OST": "Et la cognée est déjà mise à la racine des arbres; tout arbre donc qui ne produit point de bon fruit est coupé et jeté au feu.",
+        "S21": "Déjà la hache est mise à la racine des arbres; tout arbre qui ne produit pas de bons fruits sera donc coupé et jeté au feu."
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "—Moi, je vous baptise dans l’eau, en signe de votre changement de vie. Mais quelqu’un vient après moi: il est bien plus puissant que moi et je ne suis même pas digne de lui enlever les sandales. C’est lui qui vous baptisera dans le Saint-Esprit et le feu.",
+        "DBY": "Moi, je vous baptise d'eau pour la repentance; mais celui qui vient après moi est plus puissant que moi, et je ne suis pas digne de porter ses sandales: lui vous baptisera de l'Esprit Saint et de feu.",
+        "KJV": "I indeed baptize you with water unto repentance: but he that cometh after me is mightier than I, whose shoes I am not worthy to bear: he shall baptize you with the Holy Ghost, and [with] fire:",
+        "LSG": "Moi, je vous baptise d'eau, pour vous amener à la repentance; mais celui qui vient après moi est plus puissant que moi, et je ne suis pas digne de porter ses souliers. Lui, il vous baptisera du Saint-Esprit et de feu.",
+        "MAB": "Pour moi, je vous baptise d'eau en [signe de] repentance; mais celui qui vient après moi est plus puissant que moi, et je ne suis pas digne de porter ses souliers; celui-là vous baptisera du Saint-Esprit, et de feu.",
+        "OST": "Pour moi, je vous baptise d'eau, en vue de la repentance; mais celui qui vient après moi est plus puissant que moi, et je ne suis pas digne de lui porter les souliers: c'est lui qui vous baptisera du Saint-Esprit et de feu.",
+        "S21": "Moi, je vous baptise d'eau en vue de la repentance, mais celui qui vient après moi est plus puissant que moi et je ne suis pas digne de porter ses sandales. Lui, il vous baptisera du Saint-Esprit et de feu."
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "Il tient en main sa pelle à vanner, il va nettoyer son aire de battage et amasser le blé dans son grenier. Quant à la bale, il la brûlera dans un feu qui ne s’éteindra jamais.",
+        "DBY": "Il a son van dans sa main, et il nettoiera entièrement son aire et assemblera son froment dans le grenier; mais il brûlera la balle au feu inextinguible.",
+        "KJV": "Whose fan [is] in his hand, and he will throughly purge his floor, and gather his wheat into the garner; but he will burn up the chaff with unquenchable fire.",
+        "LSG": "Il a son van à la main; il nettoiera son aire, et il amassera son blé dans le grenier, mais il brûlera la paille dans un feu qui ne s'éteint point.",
+        "MAB": "Il a son van en sa main, et il nettoiera entièrement son aire, et il assemblera son froment au grenier; mais il brûlera la paille au feu qui ne s'éteint point.",
+        "OST": "Il a son van dans ses mains, et il nettoiera parfaitement son aire, et amassera son froment dans le grenier; mais il brûlera la paille au feu qui ne s'éteint point.",
+        "S21": "Il a sa pelle à la main; il nettoiera son aire de battage et il amassera son blé dans le grenier, mais il brûlera la paille dans un feu qui ne s'éteint pas.»"
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "C’est à cette époque que parut Jésus. Il se rendit de la Galilée au Jourdain, auprès de Jean, pour être baptisé par lui.",
+        "DBY": "Jésus vient de Galilée au Jourdain auprès de Jean, pour être baptisé par lui;",
+        "KJV": "Then cometh Jesus from Galilee to Jordan unto John, to be baptized of him.",
+        "LSG": "Alors Jésus vint de la Galilée au Jourdain vers Jean, pour être baptisé par lui.",
+        "MAB": "Alors Jésus vint de Galilée au Jourdain vers Jean pour être baptisé par lui.",
+        "OST": "Alors Jésus vint de Galilée au Jourdain, vers Jean, pour être baptisé par lui.",
+        "S21": "Alors Jésus vint de la Galilée jusqu’au Jourdain vers Jean, pour être baptisé par lui,"
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "Mais Jean essaya de l’en dissuader. Il lui disait:\r\n—C’est moi qui ai besoin d’être baptisé par toi, et c’est toi qui viens à moi!",
+        "DBY": "mais Jean l'en empêchait fort, disant: Moi, j'ai besoin d'être baptisé par toi, et toi, tu viens à moi!",
+        "KJV": "But John forbad him, saying, I have need to be baptized of thee, and comest thou to me?",
+        "LSG": "Mais Jean s'y opposait, en disant: C'est moi qui ai besoin d'être baptisé par toi, et tu viens à moi!",
+        "MAB": "Mais Jean l'en empêchait fort, en [lui] disant : J'ai besoin d'être baptisé par toi, et tu viens vers moi?",
+        "OST": "Mais Jean s'y opposait, en disant: C'est moi qui ai besoin d'être baptisé par toi, et tu viens à moi!",
+        "S21": "mais Jean s'y opposait en disant: «C'est moi qui ai besoin d'être baptisé par toi, et c'est toi qui viens vers moi?»"
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "Jésus lui répondit:\r\n—Accepte, pour le moment, qu’il en soit ainsi! Car c’est de cette manière qu’il nous convient d’accomplir tout ce que Dieu demande.\r\nLà-dessus, Jean accepta de le baptiser.",
+        "DBY": "Et Jésus, répondant, lui dit: Laisse faire maintenant, car ainsi il nous est convenable d'accomplir toute justice.",
+        "KJV": "And Jesus answering said unto him, ‹Suffer› [it to be so] ‹now: for thus it becometh us to fulfil all righteousness.› Then he suffered him.",
+        "LSG": "Jésus lui répondit: Laisse faire maintenant, car il est convenable que nous accomplissions ainsi tout ce qui est juste. Et Jean ne lui résista plus.",
+        "MAB": "Et Jésus répondant lui dit : Laisse [moi faire] pour le présent : car il nous est ainsi convenable d'accomplir toute justice; et alors il le laissa faire.",
+        "OST": "Et Jésus, répondant, lui dit: Ne t'y oppose pas pour le moment; car c'est ainsi qu'il nous convient d'accomplir tout ce qui est juste. Alors il ne s'y opposa plus.",
+        "S21": "Jésus lui répondit: «Laisse faire maintenant, car il est convenable que nous accomplissions ainsi tout ce qui est juste», et Jean ne lui résista plus."
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "Aussitôt après avoir été baptisé, Jésus sortit de l’eau. Alors le ciel s’ouvrit pour lui et il vit l’Esprit de Dieu descendre sous la forme d’une colombe et venir sur lui.",
+        "DBY": "Alors il le laissa faire. Et Jésus, ayant été baptisé, monta aussitôt, s'éloignant de l'eau; et voici, les cieux lui furent ouverts, et il vit l'Esprit de Dieu descendre comme une colombe, et venant sur lui.",
+        "KJV": "And Jesus, when he was baptized, went up straightway out of the water: and, lo, the heavens were opened unto him, and he saw the Spirit of God descending like a dove, and lighting upon him:",
+        "LSG": "Dès que Jésus eut été baptisé, il sortit de l'eau. Et voici, les cieux s'ouvrirent, et il vit l'Esprit de Dieu descendre comme une colombe et venir sur lui.",
+        "MAB": "Et quand Jésus eut été baptisé, il sortit incontinent hors de l'eau, et voilà, les cieux lui furent ouverts, et [Jean] vit l'Esprit de Dieu descendant comme une colombe, et venant sur lui.",
+        "OST": "Et quand Jésus eut été baptisé, il sortit aussitôt de l'eau; et à l'instant les cieux s'ouvrirent à lui, et il vit l'Esprit de Dieu descendant comme une colombe et venant sur lui.",
+        "S21": "Dès qu’il fut baptisé, Jésus sortit de l'eau. Alors le ciel s’ouvrit [pour lui] et il vit l'Esprit de Dieu descendre comme une colombe et venir sur lui."
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "En même temps, une voix venant du ciel fit entendre ces paroles:\r\n—Celui-ci est mon Fils bien-aimé, celui qui fait toute ma joie.",
+        "DBY": "Et voici une voix qui venait des cieux, disant: Celui-ci est mon fils bien-aimé, en qui j'ai trouvé mon plaisir.",
+        "KJV": "And lo a voice from heaven, saying, This is my beloved Son, in whom I am well pleased.",
+        "LSG": "Et voici, une voix fit entendre des cieux ces paroles: Celui-ci est mon Fils bien-aimé, en qui j'ai mis toute mon affection.",
+        "MAB": "Et voilà une voix du ciel, disant : Celui-ci est mon Fils bien-aimé, en qui j'ai pris mon bon plaisir.",
+        "OST": "Et voici une voix des cieux, qui dit: Celui-ci est mon Fils bien-aimé, en qui j'ai pris plaisir.",
+        "S21": "Au même instant, une voix fit entendre du ciel ces paroles: «Celui-ci est mon Fils bien-aimé, qui a toute mon approbation.»"
+      }
+    }
+  ]
+}

@@ -1,0 +1,378 @@
+{
+  "bookCode": "PRO",
+  "chapter": 31,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "Paroles du roi Lemouel, maximes que sa mère lui a enseignées:",
+        "DBY": "Paroles du roi Lemuel, l'oracle que sa mère lui enseigna:",
+        "KJV": "The words of king Lemuel, the prophecy that his mother taught him.",
+        "LSG": "Paroles du roi Lemuel. Sentences par lesquelles sa mère l'instruisit.",
+        "MAB": "Les paroles du Roi Lémuel et l'instruction que sa mère lui donna.",
+        "OST": "Paroles du roi Lémuel, sentences par lesquelles sa mère l'instruisit.",
+        "S21": "Paroles du roi Lemuel. Message par lequel sa mère l'a instruit."
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "Que te dirai-je, mon fils?\r\nQue te conseillerai-je, ô mon fils bien-aimé?\r\nQue te dirai-je, fils appelé de mes vœux?",
+        "DBY": "Quoi, mon fils? et quoi, fils de mon ventre? et quoi, fils de mes vœux?",
+        "KJV": "What, my son? and what, the son of my womb? and what, the son of my vows?",
+        "LSG": "Que te dirai-je, mon fils? que te dirai-je, fils de mes entrailles? Que te dirai-je, mon fils, objet de mes voeux?",
+        "MAB": "Quoi? mon fils? quoi, fils de mon ventre? eh quoi? mon fils, pour lequel j'ai tant fait de vœux?",
+        "OST": "Que te dirai-je, mon fils? Que te dirai-je, fils de mes entrailles? Que te dirai-je, fils de mes vœux?",
+        "S21": "Que te dirai-je, mon fils? Que te dirai-je, fils de mon ventre? Que te dirai-je, fils de mes vœux?"
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "Ne gaspille pas tes forces avec les femmes,\r\nne te laisse pas mener par celles qui perdent les rois.",
+        "DBY": "Ne donne point ta force aux femmes, ni tes voies à celles qui perdent les rois.",
+        "KJV": "Give not thy strength unto women, nor thy ways to that which destroyeth kings.",
+        "LSG": "Ne livre pas ta vigueur aux femmes, Et tes voies à celles qui perdent les rois.",
+        "MAB": "Ne donne point ta force aux femmes, et [ne mets point] ton étude à détruire les Rois.",
+        "OST": "Ne livre point ta force aux femmes, ni tes voies à celles qui perdent les rois.",
+        "S21": "Ne livre pas ta force aux femmes, ni tes voies à celles qui causent la perte des rois!"
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "Il ne convient pas aux rois, Lemouel,\r\nnon, il ne convient pas aux rois de boire du vin,\r\nni à ceux qui gouvernent d’aimer les boissons enivrantes,",
+        "DBY": "Ce n'est point aux rois, Lemuel, ce n'est point aux rois de boire du vin, ni aux grands de dire: Où sont les boissons fortes?",
+        "KJV": "[It is] not for kings, O Lemuel, [it is] not for kings to drink wine; nor for princes strong drink:",
+        "LSG": "Ce n'est point aux rois, Lemuel, Ce n'est point aux rois de boire du vin, Ni aux princes de rechercher des liqueurs fortes,",
+        "MAB": "Lémuel, ce n'est point aux Rois, ce n'est point aux Rois de boire le vin, ni aux Princes de boire la cervoise.",
+        "OST": "Ce n'est point aux rois, Lémuel, ce n'est point aux rois de boire le vin, ni aux princes de boire la boisson forte;",
+        "S21": "Ce n'est pas aux rois, Lemuel, ce n'est pas aux rois de boire du vin, ni aux princes de rechercher des boissons fortes."
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "car, après avoir bu, ils pourraient oublier les lois\r\net léser les droits des victimes de la misère.",
+        "DBY": "de peur qu'ils ne boivent, et n'oublient le statut, et ne fassent fléchir le jugement de tous les fils de l'affliction.",
+        "KJV": "Lest they drink, and forget the law, and pervert the judgment of any of the afflicted.",
+        "LSG": "De peur qu'en buvant ils n'oublient la loi, Et ne méconnaissent les droits de tous les malheureux.",
+        "MAB": "De peur qu'ayant bu, ils n'oublient l'ordonnance, et qu'ils n'altèrent le droit de tous les pauvres affligés.",
+        "OST": "De peur qu'ayant bu, ils n'oublient ce qui est ordonné, et qu'ils ne méconnaissent le droit de tous les pauvres affligés.",
+        "S21": "En effet, en buvant ils pourraient oublier les lois et porter atteinte à la cause des plus malheureux."
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "Que l’on donne plutôt les boissons enivrantes à celui qui va périr,\r\net du vin à qui a le cœur malheureux.",
+        "DBY": "Donnez de la boisson forte à celui qui va périr, et du vin à ceux qui ont l'amertume dans le cœur:",
+        "KJV": "Give strong drink unto him that is ready to perish, and wine unto those that be of heavy hearts.",
+        "LSG": "Donnez des liqueurs fortes à celui qui périt, Et du vin à celui qui a l'amertume dans l'âme;",
+        "MAB": "Donnez de la cervoise à celui qui s'en va périr, et du vin à celui qui est dans l'amertume de cœur;",
+        "OST": "Donnez de la boisson forte à celui qui va périr, et du vin à celui qui a l'amertume dans l'âme;",
+        "S21": "Donnez des liqueurs fortes à celui qui va mourir, du vin à celui qui est rempli d’amertume:"
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "Qu’il boive et qu’il oublie sa misère,\r\nqu’il ne se souvienne plus de son tourment!",
+        "DBY": "qu'il boive et qu'il oublie sa pauvreté, et ne se souvienne plus de ses peines.",
+        "KJV": "Let him drink, and forget his poverty, and remember his misery no more.",
+        "LSG": "Qu'il boive et oublie sa pauvreté, Et qu'il ne se souvienne plus de ses peines.",
+        "MAB": "Afin qu'il en boive, et qu'il oublie sa pauvreté, et ne se souvienne plus de sa peine.",
+        "OST": "Pour qu'il en boive, qu'il oublie sa pauvreté, et ne se souvienne plus de sa peine.",
+        "S21": "qu'il boive et oublie ainsi sa pauvreté, qu'il ne se souvienne plus de sa peine."
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "Ouvre la bouche pour défendre ceux qui ne peuvent parler,\r\npour défendre les droits de tous ceux qui sont délaissés.",
+        "DBY": "Ouvre ta bouche pour le muet, pour la cause de tous les délaissés.",
+        "KJV": "Open thy mouth for the dumb in the cause of all such as are appointed to destruction.",
+        "LSG": "Ouvre ta bouche pour le muet, Pour la cause de tous les délaissés.",
+        "MAB": "Ouvre ta bouche en faveur du muet, pour le droit de tous ceux qui s'en vont périr.",
+        "OST": "Ouvre ta bouche en faveur du muet, et pour le droit de ceux qui sont délaissés.",
+        "S21": "Ouvre ta bouche pour celui qui ne peut pas s’exprimer, pour la cause de tous les délaissés!"
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "Oui, parle pour prononcer de justes verdicts.\r\nDéfends les droits des malheureux et des pauvres!",
+        "DBY": "Ouvre ta bouche, juge avec justice, et fais droit à l'affligé et au pauvre.",
+        "KJV": "Open thy mouth, judge righteously, and plead the cause of the poor and needy.",
+        "LSG": "Ouvre ta bouche, juge avec justice, Et défends le malheureux et l'indigent.",
+        "MAB": "Ouvre ta bouche, fais justice, et fais droit à l'affligé et au nécessiteux.",
+        "OST": "Ouvre ta bouche, juge avec justice, et fais droit à l'affligé et au pauvre.",
+        "S21": "Ouvre ta bouche, juge avec justice et défends le malheureux et le pauvre!"
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "Heureux celui qui trouve une femme vaillante,\r\nelle a bien plus de prix que des perles précieuses.",
+        "DBY": "Une femme vertueuse! Qui la trouvera? Car son prix est bien au delà des rubis.",
+        "KJV": "Who can find a virtuous woman? for her price [is] far above rubies.",
+        "LSG": "Qui peut trouver une femme vertueuse? Elle a bien plus de valeur que les perles.",
+        "MAB": "[Aleph.] Qui est-ce qui trouvera une vaillante femme? car son prix surpasse de beaucoup les perles.",
+        "OST": "Qui est-ce qui trouvera une femme vertueuse? Car son prix surpasse beaucoup celui des perles.",
+        "S21": "Qui trouvera une femme de valeur? Elle vaut bien plus que des perles."
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "Son mari a confiance en elle,\r\nil ne manquera pas de biens dans sa maison.",
+        "DBY": "Le cœur de son mari se confie en elle, et il ne manquera point de butin.",
+        "KJV": "The heart of her husband doth safely trust in her, so that he shall have no need of spoil.",
+        "LSG": "Le coeur de son mari a confiance en elle, Et les produits ne lui feront pas défaut.",
+        "MAB": "[Beth.] Le cœur de son mari s'assure en elle, et il ne manquera point de dépouilles.",
+        "OST": "Le cœur de son mari s'assure en elle, et il ne manquera point de butin;",
+        "S21": "Le cœur de son mari a confiance en elle, et c’est tout bénéfice pour lui."
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "Tous les jours de sa vie, elle lui fait du bien,\r\net non du mal.",
+        "DBY": "Elle lui fait du bien et non du mal, tous les jours de sa vie.",
+        "KJV": "She will do him good and not evil all the days of her life.",
+        "LSG": "Elle lui fait du bien, et non du mal, Tous les jours de sa vie.",
+        "MAB": "[Guimel.] Elle lui fait du bien tous les jours de sa vie, et jamais du mal.",
+        "OST": "Elle lui fera du bien tous les jours de sa vie, et jamais du mal.",
+        "S21": "Elle lui fait du bien, et non du mal, tous les jours de sa vie."
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "Elle cherche avec soin du lin et de la laine\r\net elle les travaille de ses mains diligentes.",
+        "DBY": "Elle cherche de la laine et du lin, et travaille de ses mains avec joie.",
+        "KJV": "She seeketh wool, and flax, and worketh willingly with her hands.",
+        "LSG": "Elle se procure de la laine et du lin, Et travaille d'une main joyeuse.",
+        "MAB": "[Daleth.] Elle cherche de la laine et du lin, et elle fait ce qu'elle veut de ses mains.",
+        "OST": "Elle cherche de la laine et du lin, et elle fait de ses mains ce qu'elle veut;",
+        "S21": "Elle se procure de la laine et du lin et travaille d'une main joyeuse."
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "Comme un vaisseau marchand,\r\nelle amène des vivres de loin en sa demeure.",
+        "DBY": "Elle est comme les navires d'un marchand, elle amène son pain de loin.",
+        "KJV": "She is like the merchants' ships; she bringeth her food from afar.",
+        "LSG": "Elle est comme un navire marchand, Elle amène son pain de loin.",
+        "MAB": "[He.] Elle est comme les navires d'un marchand, elle amène son pain de loin.",
+        "OST": "Elle est comme les navires d'un marchand, elle amène son pain de loin.",
+        "S21": "Pareille à un navire marchand, elle rapporte ses provisions de loin."
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "Quand il fait nuit encore, elle est déjà debout,\r\npréparant pour sa maisonnée ce qu’il faut pour manger\r\net elle distribue leurs tâches à toutes ses servantes.",
+        "DBY": "Elle se lève quand il est encore nuit, et elle donne la nourriture à sa maison, et la tâche à ses servantes.",
+        "KJV": "She riseth also while it is yet night, and giveth meat to her household, and a portion to her maidens.",
+        "LSG": "Elle se lève lorsqu'il est encore nuit, Et elle donne la nourriture à sa maison Et la tâche à ses servantes.",
+        "MAB": "[Vau.] Elle se lève lorsqu'il est encore nuit, elle distribue la nourriture nécessaire à sa maison, et elle [donne] à ses servantes leur tâche.",
+        "OST": "Elle se lève lorsqu'il est encore nuit, et elle distribue la nourriture à sa famille, et la tâche à ses servantes;",
+        "S21": "Elle se lève alors qu'il fait encore nuit, et elle donne la nourriture à sa famille et ses ordres à ses servantes."
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "Elle pense à un champ, alors elle l’achète.\r\nDu fruit de son travail, elle plante une vigne.",
+        "DBY": "Elle pense à un champ, et elle l'acquiert; du fruit de ses mains elle plante une vigne.",
+        "KJV": "She considereth a field, and buyeth it: with the fruit of her hands she planteth a vineyard.",
+        "LSG": "Elle pense à un champ, et elle l'acquiert; Du fruit de son travail elle plante une vigne.",
+        "MAB": "[Zajin.] Elle considère un champ, et l'acquiert; et elle plante la vigne du fruit de ses mains.",
+        "OST": "Elle considère un champ, et l'acquiert, et du fruit de ses mains elle plante une vigne.",
+        "S21": "Elle pense à un champ, et elle l'achète. Avec le fruit de son travail elle plante une vigne."
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "Avec plein d’énergie, elle se met à l’œuvre\r\net active ses bras.",
+        "DBY": "Elle ceint ses reins de force, et fortifie ses bras.",
+        "KJV": "She girdeth her loins with strength, and strengtheneth her arms.",
+        "LSG": "Elle ceint de force ses reins, Et elle affermit ses bras.",
+        "MAB": "[Heth.] Elle ceint ses reins de force, et fortifie ses bras.",
+        "OST": "Elle ceint ses reins de force, et elle affermit ses bras;",
+        "S21": "Avec la force en guise de ceinture, elle affermit ses bras."
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "Elle constate que ses affaires marchent bien.\r\nJusque tard dans la nuit, sa lampe est allumée.",
+        "DBY": "Elle éprouve que son trafic est bon; de nuit sa lampe ne s'éteint pas.",
+        "KJV": "She perceiveth that her merchandise [is] good: her candle goeth not out by night.",
+        "LSG": "Elle sent que ce qu'elle gagne est bon; Sa lampe ne s'éteint point pendant la nuit.",
+        "MAB": "[Teth.] Elle éprouve que son trafic est bon; sa lampe ne s'éteint point la nuit.",
+        "OST": "Elle éprouve que son trafic est bon; sa lampe ne s'éteint point la nuit;",
+        "S21": "Elle constate que ce qu'elle gagne est bon. Sa lampe ne s'éteint pas pendant la nuit:"
+      }
+    },
+    {
+      "verse": 19,
+      "texts": {
+        "BDS": "Ses mains filent la laine\r\net ses doigts tissent des vêtements.",
+        "DBY": "Elle met la main à la quenouille, et ses doigts tiennent le fuseau.",
+        "KJV": "She layeth her hands to the spindle, and her hands hold the distaff.",
+        "LSG": "Elle met la main à la quenouille, Et ses doigts tiennent le fuseau.",
+        "MAB": "[Jod.] Elle met ses mains au fuseau, et ses mains tiennent la quenouille.",
+        "OST": "Elle met ses mains à la quenouille, et ses doigts tiennent le fuseau.",
+        "S21": "elle file elle-même la laine, elle tisse elle-même les habits."
+      }
+    },
+    {
+      "verse": 20,
+      "texts": {
+        "BDS": "Elle ouvre largement la main à l’indigent\r\net tend les bras au pauvre.",
+        "DBY": "Elle étend sa main vers l'affligé, et tend ses mains au nécessiteux.",
+        "KJV": "She stretcheth out her hand to the poor; yea, she reacheth forth her hands to the needy.",
+        "LSG": "Elle tend la main au malheureux, Elle tend la main à l'indigent.",
+        "MAB": "[Caph.] Elle tend sa main à l'affligé, et avance ses mains au nécessiteux.",
+        "OST": "Elle tend la main à l'affligé, et présente ses mains aux pauvres.",
+        "S21": "Elle ouvre ses bras au malheureux, elle tend la main au pauvre."
+      }
+    },
+    {
+      "verse": 21,
+      "texts": {
+        "BDS": "Pour elle et tous les siens, peu importe la neige,\r\ncar toute sa famille est revêtue de doubles vêtements.",
+        "DBY": "Elle ne craint pas la neige pour sa maison, car toute sa maison est vêtue d'écarlate.",
+        "KJV": "She is not afraid of the snow for her household: for all her household [are] clothed with scarlet.",
+        "LSG": "Elle ne craint pas la neige pour sa maison, Car toute sa maison est vêtue de cramoisi.",
+        "MAB": "[Lamed.] Elle ne craint point la neige pour sa famille, car toute sa famille est vêtue de vêtements doubles.",
+        "OST": "Elle ne craint point la neige pour sa famille; car toute sa famille est vêtue de laine cramoisi.",
+        "S21": "Elle ne redoute pas la neige pour sa famille, car chacun y est habillé de cramoisi."
+      }
+    },
+    {
+      "verse": 22,
+      "texts": {
+        "BDS": "Elle se fait des couvertures,\r\nelle a des vêtements de fin lin et de pourpre.",
+        "DBY": "Elle se fait des tapis; le fin coton et la pourpre sont ses vêtements.",
+        "KJV": "She maketh herself coverings of tapestry; her clothing [is] silk and purple.",
+        "LSG": "Elle se fait des couvertures, Elle a des vêtements de fin lin et de pourpre.",
+        "MAB": "[Mem.] Elle se fait des tours de lit; le fin lin et l'écarlate est ce dont elle s'habille.",
+        "OST": "Elle se fait des couvertures; ses vêtements sont de fin lin et d'écarlate.",
+        "S21": "Elle se fait des couvertures, elle a des habits en fin lin et en pourpre."
+      }
+    },
+    {
+      "verse": 23,
+      "texts": {
+        "BDS": "Son mari est connu aux portes de la ville.\r\nCar il y siège avec les responsables du pays.",
+        "DBY": "Son mari est connu dans les portes quand il s'assied avec les anciens du pays.",
+        "KJV": "Her husband is known in the gates, when he sitteth among the elders of the land.",
+        "LSG": "Son mari est considéré aux portes, Lorsqu'il siège avec les anciens du pays.",
+        "MAB": "[Nun.] Son mari est reconnu aux portes, quand il est assis avec les Anciens du pays.",
+        "OST": "Son mari est considéré aux portes, lorsqu'il est assis avec les anciens du pays.",
+        "S21": "Son mari est reconnu aux portes de la ville, lorsqu'il siège avec les anciens du pays."
+      }
+    },
+    {
+      "verse": 24,
+      "texts": {
+        "BDS": "Elle tisse elle-même des habits et les vend,\r\nelle fait des ceintures qu’elle cède aux marchands.",
+        "DBY": "Elle fait des chemises, et les vend; et elle livre des ceintures au marchand.",
+        "KJV": "She maketh fine linen, and selleth [it]; and delivereth girdles unto the merchant.",
+        "LSG": "Elle fait des chemises, et les vend, Et elle livre des ceintures au marchand.",
+        "MAB": "[Samech.] Elle fait du linge, et le vend; et elle fait des ceintures, qu'elle donne au marchand.",
+        "OST": "Elle fait du linge et le vend; et des ceintures, qu'elle donne au marchand;",
+        "S21": "Elle fait des chemises et les vend, et elle livre des ceintures au marchand."
+      }
+    },
+    {
+      "verse": 25,
+      "texts": {
+        "BDS": "La force et la splendeur lui servent de parure.\r\nC’est avec le sourire qu’elle envisage l’avenir.",
+        "DBY": "Elle est vêtue de force et de dignité, et elle se rit du jour à venir.",
+        "KJV": "Strength and honour [are] her clothing; and she shall rejoice in time to come.",
+        "LSG": "Elle est revêtue de force et de gloire, Et elle se rit de l'avenir.",
+        "MAB": "[Hajin.] La force et la magnificence est son vêtement, et elle se rit du jour à venir.",
+        "OST": "La force et la magnificence forment son vêtement, et elle se rit du jour à venir;",
+        "S21": "La force et l'honneur, voilà ce qui l’habille. Elle rit en pensant à l'avenir."
+      }
+    },
+    {
+      "verse": 26,
+      "texts": {
+        "BDS": "Ses paroles sont sages,\r\nelle dispense avec bonté l’enseignement.",
+        "DBY": "Elle ouvre sa bouche avec sagesse, et la loi de la bonté est sur sa langue.",
+        "KJV": "She openeth her mouth with wisdom; and in her tongue [is] the law of kindness.",
+        "LSG": "Elle ouvre la bouche avec sagesse, Et des instructions aimables sont sur sa langue.",
+        "MAB": "[Pe.] Elle ouvre sa bouche avec sagesse, et la Loi de la charité est sur sa langue.",
+        "OST": "Elle ouvre la bouche avec sagesse, et des instructions aimables sont sur sa langue;",
+        "S21": "Elle ouvre la bouche avec sagesse et un enseignement plein de bonté est sur sa langue."
+      }
+    },
+    {
+      "verse": 27,
+      "texts": {
+        "BDS": "Elle veille à la bonne marche de sa maison\r\net ne se nourrit pas du pain de la paresse.",
+        "DBY": "Elle surveille les voies de sa maison, et ne mange pas le pain de paresse.",
+        "KJV": "She looketh well to the ways of her household, and eateth not the bread of idleness.",
+        "LSG": "Elle veille sur ce qui se passe dans sa maison, Et elle ne mange pas le pain de paresse.",
+        "MAB": "[Tsade.] Elle contemple le train de sa maison, et ne mange point le pain de paresse.",
+        "OST": "Elle surveille ce qui se fait dans sa maison, et elle ne mange point le pain de paresse.",
+        "S21": "Elle veille à la bonne marche de sa maison, elle ne mange pas le pain de la paresse."
+      }
+    },
+    {
+      "verse": 28,
+      "texts": {
+        "BDS": "Ses enfants, dès leur lever, la disent bienheureuse,\r\net son mari aussi fait son éloge:",
+        "DBY": "Ses fils se lèvent et la disent bienheureuse, son mari aussi, et il la loue:",
+        "KJV": "Her children arise up, and call her blessed; her husband [also], and he praiseth her.",
+        "LSG": "Ses fils se lèvent, et la disent heureuse; Son mari se lève, et lui donne des louanges:",
+        "MAB": "[Koph.] Ses enfants se lèvent, et la disent bienheureuse; son mari [aussi], et il la loue, [en disant] :",
+        "OST": "Ses enfants se lèvent, et la disent bienheureuse; son mari aussi, et il la loue, et dit:",
+        "S21": "Ses fils se lèvent et la disent heureuse, son mari aussi, et il chante ses louanges:"
+      }
+    },
+    {
+      "verse": 29,
+      "texts": {
+        "BDS": "«Il y a bien des filles qui montrent leur valeur,\r\nmais toi, tu les surpasses toutes.»",
+        "DBY": "Plusieurs filles ont agi vertueusement; mais toi, tu les surpasses toutes!",
+        "KJV": "Many daughters have done virtuously, but thou excellest them all.",
+        "LSG": "Plusieurs filles ont une conduite vertueuse; Mais toi, tu les surpasses toutes.",
+        "MAB": "[Resch.] Plusieurs filles ont été vaillantes; mais tu les surpasses toutes.",
+        "OST": "Plusieurs filles ont une conduite vertueuse; mais toi, tu les surpasses toutes.",
+        "S21": "«Bien des femmes font preuve de valeur, mais toi, tu leur es à toutes supérieure.»"
+      }
+    },
+    {
+      "verse": 30,
+      "texts": {
+        "BDS": "La grâce est décevante et la beauté fugace;\r\nla femme qui révère l’Eternel est digne de louanges.",
+        "DBY": "La grâce est trompeuse, et la beauté est vanité; la femme qui craint l'Éternel, c'est elle qui sera louée.",
+        "KJV": "Favour [is] deceitful, and beauty [is] vain: [but] a woman [that] feareth the LORD, she shall be praised.",
+        "LSG": "La grâce est trompeuse, et la beauté est vaine; La femme qui craint l'Eternel est celle qui sera louée.",
+        "MAB": "[Scin.] La grâce trompe, et la beauté s'évanouit; [mais] la femme qui craint l'Eternel, sera celle qui sera louée.",
+        "OST": "La grâce est trompeuse, et la beauté s'évanouit; mais la femme qui craint l'Éternel est celle qui sera louée.",
+        "S21": "La grâce est trompeuse et la beauté est illusoire; c'est de la femme qui craint l'Eternel qu’on chantera les louanges."
+      }
+    },
+    {
+      "verse": 31,
+      "texts": {
+        "BDS": "Donnez-lui donc le fruit de son travail!\r\nQu’on dise ses louanges aux portes de la ville pour tout ce qu’elle fait!",
+        "DBY": "Donnez-lui du fruit de ses mains, et qu'aux portes ses œuvres la louent.",
+        "KJV": "Give her of the fruit of her hands; and let her own works praise her in the gates.",
+        "LSG": "Récompensez-la du fruit de son travail, Et qu'aux portes ses oeuvres la louent.",
+        "MAB": "[Thau.] Donnez-lui des fruits de ses mains, et que ses œuvres la louent aux portes.",
+        "OST": "Donnez-lui le fruit de ses mains, et qu'aux portes ses œuvres la louent.",
+        "S21": "Donnez-lui du fruit de son travail et qu'aux portes de la ville ses œuvres fassent son éloge!"
+      }
+    }
+  ]
+}

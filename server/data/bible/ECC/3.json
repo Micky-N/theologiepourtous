@@ -1,0 +1,270 @@
+{
+  "bookCode": "ECC",
+  "chapter": 3,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "Il y a un temps pour tout et un moment pour toute chose sous le soleil.",
+        "DBY": "Il y a une saison pour tout, et il y a un temps pour toute affaire sous les cieux.",
+        "KJV": "To every [thing there is] a season, and a time to every purpose under the heaven:",
+        "LSG": "Il y a un temps pour tout, un temps pour toute chose sous les cieux:",
+        "MAB": "A toute chose sa saison, et à toute affaire sous les cieux, son temps.",
+        "OST": "A toute chose sa saison, et à toute affaire sous les cieux, son temps.",
+        "S21": "Il y a un moment pour tout et un temps pour toute activité sous le ciel:"
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "Il y a un temps pour naître et un temps pour mourir, un temps pour planter, et un temps pour arracher le plant,",
+        "DBY": "Il y a un temps de naître, et un temps de mourir; un temps de planter, et un temps d'arracher ce qui est planté;",
+        "KJV": "A time to be born, and a time to die; a time to plant, and a time to pluck up [that which is] planted;",
+        "LSG": "un temps pour naître, et un temps pour mourir; un temps pour planter, et un temps pour arracher ce qui a été planté;",
+        "MAB": "Il y a un temps de naître, et un temps de mourir; un temps de planter, et un temps d'arracher ce qui est planté;",
+        "OST": "Il y a un temps pour naître, et un temps pour mourir; un temps pour planter, et un temps pour arracher ce qui est planté;",
+        "S21": "un temps pour naître et un temps pour mourir, un temps pour planter et un temps pour arracher ce qui a été planté,"
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "un temps pour tuer et un temps pour soigner les blessures, un temps pour démolir et un temps pour construire.",
+        "DBY": "un temps de tuer, et un temps de guérir; un temps de démolir, et un temps de bâtir;",
+        "KJV": "A time to kill, and a time to heal; a time to break down, and a time to build up;",
+        "LSG": "un temps pour tuer, et un temps pour guérir; un temps pour abattre, et un temps pour bâtir;",
+        "MAB": "Un temps de tuer, et un temps de guérir; un temps de démolir, et un temps de bâtir;",
+        "OST": "Un temps pour tuer, et un temps pour guérir; un temps pour démolir, et un temps pour bâtir;",
+        "S21": "un temps pour tuer et un temps pour guérir, un temps pour démolir et un temps pour construire,"
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "Il y a aussi un temps pour pleurer et un temps pour rire, un temps pour se lamenter et un temps pour danser,",
+        "DBY": "un temps de pleurer, et un temps de rire; un temps de se lamenter, et un temps de sauter de joie;",
+        "KJV": "A time to weep, and a time to laugh; a time to mourn, and a time to dance;",
+        "LSG": "un temps pour pleurer, et un temps pour rire; un temps pour se lamenter, et un temps pour danser;",
+        "MAB": "Un temps de pleurer, et un temps de rire; un temps de lamenter, et un temps de sauter [de joie];",
+        "OST": "Un temps pour pleurer, et un temps pour rire; un temps pour se lamenter, et un temps pour sauter de joie.",
+        "S21": "un temps pour pleurer et un temps pour rire, un temps pour se lamenter et un temps pour danser,"
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "un temps pour jeter des pierres et un temps pour en ramasser, un temps pour embrasser et un temps pour s’en abstenir.",
+        "DBY": "un temps de jeter des pierres, et un temps d'amasser des pierres; un temps d'embrasser, et un temps de s'éloigner des embrassements;",
+        "KJV": "A time to cast away stones, and a time to gather stones together; a time to embrace, and a time to refrain from embracing;",
+        "LSG": "un temps pour lancer des pierres, et un temps pour ramasser des pierres; un temps pour embrasser, et un temps pour s'éloigner des embrassements;",
+        "MAB": "Un temps de jeter des pierres, et un temps de les ramasser; un temps d'embrasser, et un temps de s'éloigner des embrassements;",
+        "OST": "Un temps pour jeter des pierres, et un temps pour les ramasser; un temps pour embrasser, et un temps pour s'éloigner des embrassements;",
+        "S21": "un temps pour lancer des pierres et un temps pour en ramasser, un temps pour embrasser et un temps pour s’éloigner des embrassades,"
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "Il y a un temps pour chercher et un temps pour perdre, un temps pour conserver et un temps pour jeter,",
+        "DBY": "un temps de chercher, et un temps de perdre; un temps de garder, et un temps de jeter;",
+        "KJV": "A time to get, and a time to lose; a time to keep, and a time to cast away;",
+        "LSG": "un temps pour chercher, et un temps pour perdre; un temps pour garder, et un temps pour jeter;",
+        "MAB": "Un temps de chercher, et un temps de laisser perdre; un temps de garder, et un temps de rejeter;",
+        "OST": "Un temps pour chercher, et un temps pour laisser perdre; un temps pour conserver, et un temps pour jeter;",
+        "S21": "un temps pour chercher et un temps pour perdre, un temps pour garder et un temps pour jeter,"
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "un temps pour déchirer et un temps pour recoudre, un temps pour garder le silence et un temps pour parler,",
+        "DBY": "un temps de déchirer, et un temps de coudre; un temps de se taire, et un temps de parler;",
+        "KJV": "A time to rend, and a time to sew; a time to keep silence, and a time to speak;",
+        "LSG": "un temps pour déchirer, et un temps pour coudre; un temps pour se taire, et un temps pour parler;",
+        "MAB": "Un temps de déchirer, et un temps de coudre; un temps de se taire, et un temps de parler;",
+        "OST": "Un temps pour déchirer, et un temps pour coudre; un temps pour se taire, et un temps pour parler;",
+        "S21": "un temps pour déchirer et un temps pour coudre, un temps pour se taire et un temps pour parler,"
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "un temps pour aimer et un temps pour haïr, un temps pour la guerre et un temps pour la paix.",
+        "DBY": "un temps d'aimer, et un temps de haïr; un temps de guerre, et un temps de paix.",
+        "KJV": "A time to love, and a time to hate; a time of war, and a time of peace.",
+        "LSG": "un temps pour aimer, et un temps pour haïr; un temps pour la guerre, et un temps pour la paix.",
+        "MAB": "Un temps d'aimer, et un temps de haïr; un temps de guerre, et un temps de paix.",
+        "OST": "Un temps pour aimer, et un temps pour haïr; un temps pour la guerre, et un temps pour la paix.",
+        "S21": "un temps pour aimer et un temps pour détester, un temps pour la guerre et un temps pour la paix."
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "Quel avantage celui qui travaille retire-t-il de la peine qu’il se donne?",
+        "DBY": "Celui qui agit, quel profit a-t-il de ce à quoi il travaille?",
+        "KJV": "What profit hath he that worketh in that wherein he laboureth?",
+        "LSG": "Quel avantage celui qui travaille retire-t-il de sa peine?",
+        "MAB": "Quel avantage a celui qui travaille, de ce en quoi il se travaille?",
+        "OST": "Quel avantage celui qui travaille a-t-il de sa peine?",
+        "S21": "Mais quel avantage celui qui agit retire-t-il de la peine qu’il se donne?"
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "J’ai considéré les différentes occupations auxquelles Dieu impose aux hommes de s’appliquer.",
+        "DBY": "J'ai vu l'occupation que Dieu a donnée aux fils des hommes pour s'y fatiguer:",
+        "KJV": "I have seen the travail, which God hath given to the sons of men to be exercised in it.",
+        "LSG": "J'ai vu à quelle occupation Dieu soumet les fils de l'homme.",
+        "MAB": "J'ai considéré cette occupation que Dieu a donnée aux hommes pour s'y appliquer.",
+        "OST": "J'ai vu l'occupation que Dieu a donnée aux hommes pour s'y exercer.",
+        "S21": "J'ai vu quelle occupation Dieu réserve aux humains."
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "Dieu fait toute chose belle en son temps.\r\nIl a implanté au tréfonds de l’être humain le sens de l’éternité. Et pourtant, l’homme est incapable de saisir l’œuvre que Dieu accomplit du commencement à la fin.",
+        "DBY": "il a fait toute chose belle en son temps; et il a mis le monde dans leur cœur, de sorte que l'homme ne peut comprendre, depuis le commencement jusqu'à la fin, l'œuvre que Dieu a faite.",
+        "KJV": "He hath made every [thing] beautiful in his time: also he hath set the world in their heart, so that no man can find out the work that God maketh from the beginning to the end.",
+        "LSG": "Il fait toute chose bonne en son temps; même il a mis dans leur coeur la pensée de l'éternité, bien que l'homme ne puisse pas saisir l'oeuvre que Dieu fait, du commencement jusqu'à la fin.",
+        "MAB": "Il a fait que toutes choses sont belles en leur temps ; aussi a-t-il mis le monde en leur cœur, sans toutefois que l'homme puisse comprendre d'un bout à l'autre l'œuvre que Dieu a faite.",
+        "OST": "Il a fait toute chose belle en son temps; même il a mis l'éternité dans leur cœur, sans que l'homme puisse toutefois comprendre, depuis le commencement jusques à la fin, l'œuvre que Dieu fait.",
+        "S21": "Il fait toute chose belle au moment voulu. Il a même mis dans leur cœur la pensée de l'éternité, même si l'homme ne peut pas comprendre l'œuvre que Dieu accomplit du début à la fin."
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "Aussi ai-je conclu qu’il n’y a rien d’autre qui soit bon pour lui que jouir du bonheur et se donner du bon temps durant sa vie.",
+        "DBY": "J'ai connu qu'il n'y a rien de bon pour eux, sauf de se réjouir et de se faire du bien pendant leur vie;",
+        "KJV": "I know that [there is] no good in them, but for [a man] to rejoice, and to do good in his life.",
+        "LSG": "J'ai reconnu qu'il n'y a de bonheur pour eux qu'à se réjouir et à se donner du bien-être pendant leur vie;",
+        "MAB": "C'est pourquoi j'ai connu qu'il n'y a rien de meilleur aux hommes, que de se réjouir, et de bien faire pendant leur vie.",
+        "OST": "J'ai reconnu qu'il n'y a rien de bon pour les hommes, que de se réjouir et de bien faire pendant leur vie.",
+        "S21": "J'ai reconnu que leur seul bonheur consiste à se réjouir et à bien agir pendant leur vie,"
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "Car, si quelqu’un peut manger et boire et jouir du bonheur au milieu de son dur labeur, c’est un don de Dieu.",
+        "DBY": "et aussi que tout homme mange et boive, et qu'il jouisse du bien-être dans tout son travail: cela, c'est un don de Dieu.",
+        "KJV": "And also that every man should eat and drink, and enjoy the good of all his labour, it [is] the gift of God.",
+        "LSG": "mais que, si un homme mange et boit et jouit du bien-être au milieu de tout son travail, c'est là un don de Dieu.",
+        "MAB": "Et même, que chacun mange et boive, et qu'il jouisse du bien de tout son travail, c'est un don de Dieu.",
+        "OST": "Et même, que chacun mange et boive, et jouisse du bien-être au milieu de tout son travail, c'est un don de Dieu.",
+        "S21": "et que, si un homme mange, boit et prend du plaisir dans tout son travail, c'est un cadeau de Dieu."
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "Je sais que tout ce que Dieu fait demeurera toujours: il n’y a rien à y ajouter, et rien à en retrancher. Et Dieu l’a fait ainsi pour qu’on le révère.",
+        "DBY": "J'ai connu que tout ce que Dieu fait subsiste à toujours; il n'y a rien à y ajouter, ni rien à en retrancher; et Dieu le fait, afin que, devant lui, on craigne.",
+        "KJV": "I know that, whatsoever God doeth, it shall be for ever: nothing can be put to it, nor any thing taken from it: and God doeth [it], that [men] should fear before him.",
+        "LSG": "J'ai reconnu que tout ce que Dieu fait durera toujours, qu'il n'y a rien à y ajouter et rien à en retrancher, et que Dieu agit ainsi afin qu'on le craigne.",
+        "MAB": "J'ai connu que quoi que Dieu fasse, c'est toujours lui-même, on ne saurait qu'y ajouter, ni qu'en diminuer; et Dieu le fait afin qu'on le craigne.",
+        "OST": "J'ai reconnu que tout ce que Dieu fait, subsiste à toujours; il n'y a rien à y ajouter, ni rien à en retrancher; et Dieu le fait afin qu'on le craigne.",
+        "S21": "J'ai reconnu que tout ce que Dieu fait durera toujours, sans qu’on puisse ajouter ou enlever quoi que ce soit, et que Dieu agit de cette manière afin qu'on éprouve de la crainte devant lui."
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "Ce qui est aujourd’hui, a déjà été dans le passé, et ce qui sera dans l’avenir a déjà été, et Dieu fait revenir ce qui a disparu.",
+        "DBY": "Ce qui est a déjà été, et ce qui est à venir est déjà arrivé, et Dieu ramène ce qui est passé.",
+        "KJV": "That which hath been is now; and that which is to be hath already been; and God requireth that which is past.",
+        "LSG": "Ce qui est a déjà été, et ce qui sera a déjà été, et Dieu ramène ce qui est passé.",
+        "MAB": "Ce qui a été, est maintenant; et ce qui doit être, a déjà été; et Dieu rappelle ce qui est passé.",
+        "OST": "Ce qui est, a déjà été, et ce qui doit être a déjà été, et Dieu ramène ce qui est passé.",
+        "S21": "Ce qui existe a déjà existé, tout comme ce qui existera, et Dieu ramène ce qui est passé."
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "J’ai encore constaté autre chose sous le soleil: à la place du droit, il y a la méchanceté, et à la place de la justice, il y a la méchanceté.",
+        "DBY": "Et j'ai encore vu sous le soleil que, dans le lieu du jugement, là il y avait la méchanceté, et que, dans le lieu de la justice, là il y avait la méchanceté.",
+        "KJV": "And moreover I saw under the sun the place of judgment, [that] wickedness [was] there; and the place of righteousness, [that] iniquity [was] there.",
+        "LSG": "J'ai encore vu sous le soleil qu'au lieu établi pour juger il y a de la méchanceté, et qu'au lieu établi pour la justice il y a de la méchanceté.",
+        "MAB": "J'ai encore vu sous le soleil, qu'au lieu établi pour juger, il y a de la méchanceté; et qu'au lieu établi pour faire justice, il y a aussi de la méchanceté.",
+        "OST": "J'ai vu encore sous le soleil, qu'au lieu établi pour juger, il y a de la méchanceté, qu'au lieu établi pour la justice, il y a de la méchanceté.",
+        "S21": "J’ai encore vu, sous le soleil, qu'à l'endroit désigné pour le jugement se trouvait la méchanceté et qu'à l'endroit désigné pour la justice régnait la méchanceté."
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "Je me suis dit en moi-même: «Dieu jugera le juste et l’injuste, car pour chaque chose et pour chaque acte, il y a un temps pour le jugement.»",
+        "DBY": "J'ai dit en mon cœur: Dieu jugera le juste et le méchant; car il y a là un temps pour toute affaire et pour toute œuvre.",
+        "KJV": "I said in mine heart, God shall judge the righteous and the wicked: for [there is] a time there for every purpose and for every work.",
+        "LSG": "J'ai dit en mon coeur: Dieu jugera le juste et le méchant; car il y a là un temps pour toute chose et pour toute oeuvre.",
+        "MAB": "[Et] j'ai dit en mon cœur : Dieu jugera le juste et l'injuste; car il y a là un temps pour toute chose, et sur toute œuvre.",
+        "OST": "Et j'ai dit en mon cœur: Dieu jugera le juste et le méchant; car il y a là un temps pour tout dessein et pour toute œuvre.",
+        "S21": "Je me suis dit dans mon cœur: «Le juste et le méchant, c’est Dieu qui les jugera, car il y a un temps pour toute activité et pour tout ce qui se fait.»"
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "Je me suis dit en moi-même que Dieu éprouve les hommes afin de leur montrer qu’ils ne valent guère mieux que les bêtes.",
+        "DBY": "J'ai dit en mon cœur: Quant aux fils des hommes il en est ainsi, pour que Dieu les éprouve, et qu'ils voient eux-mêmes qu'ils ne sont que des bêtes.",
+        "KJV": "I said in mine heart concerning the estate of the sons of men, that God might manifest them, and that they might see that they themselves are beasts.",
+        "LSG": "J'ai dit en mon coeur, au sujet des fils de l'homme, que Dieu les éprouverait, et qu'eux-mêmes verraient qu'ils ne sont que des bêtes.",
+        "MAB": "J'ai pensé en mon cœur sur l'état des hommes, que Dieu les en éclaircirait, et qu'ils verraient qu'ils ne sont que des bêtes.",
+        "OST": "J'ai dit en mon cœur, au sujet des hommes, que Dieu les éprouverait, et qu'ils verraient eux-mêmes qu'ils ne sont que des bêtes.",
+        "S21": "Je me suis dit dans mon cœur, à propos des humains, que Dieu les met à l'épreuve pour qu’ils voient par eux-mêmes qu'ils ne sont que des bêtes."
+      }
+    },
+    {
+      "verse": 19,
+      "texts": {
+        "BDS": "Car, après tout, le sort des humains est identique à celui des bêtes. Ils meurent les uns comme les autres. Un même souffle les anime tous. L’homme n’a aucun avantage sur l’animal, car tout passe.",
+        "DBY": "Car ce qui arrive aux fils des hommes et aussi ce qui arrive aux bêtes; il y a pour tous un même sort: comme celle-ci meurt, ainsi meurt celui-là; et ils ont tous un même souffle, et l'homme n'a point d'avantage sur la bête, car tout est vanité.",
+        "KJV": "For that which befalleth the sons of men befalleth beasts; even one thing befalleth them: as the one dieth, so dieth the other; yea, they have all one breath; so that a man hath no preeminence above a beast: for all [is] vanity.",
+        "LSG": "Car le sort des fils de l'homme et celui de la bête sont pour eux un même sort; comme meurt l'un, ainsi meurt l'autre, ils ont tous un même souffle, et la supériorité de l'homme sur la bête est nulle; car tout est vanité.",
+        "MAB": "Car l'accident qui arrive aux hommes, et l'accident qui arrive aux bêtes est un même accident : telle qu'est la mort de l'un, telle est la mort de l'autre; et ils ont tous un même souffle, et l'homme n'a point d'avantage sur la bête; car tout est vanité.",
+        "OST": "Car l'accident qui arrive aux hommes, et l'accident qui arrive aux bêtes, est un même accident; telle qu'est la mort de l'un, telle est la mort de l'autre; ils ont tous un même souffle, et l'homme n'a nul avantage sur la bête; car tout est vanité.",
+        "S21": "En effet, le sort de l’homme et celui de la bête sont identiques: ils meurent tous les deux, ils ont tous un même souffle et la supériorité de l'homme sur la bête est nulle, puisque tout n’est que fumée."
+      }
+    },
+    {
+      "verse": 20,
+      "texts": {
+        "BDS": "Tout va vers une même destination: tout a été tiré de la poussière et tout retourne à l’état de poussière.",
+        "DBY": "Tout va dans un même lieu, tout est de poussière, et tout retourne à la poussière.",
+        "KJV": "All go unto one place; all are of the dust, and all turn to dust again.",
+        "LSG": "Tout va dans un même lieu; tout a été fait de la poussière, et tout retourne à la poussière.",
+        "MAB": "Tout va en un même lieu; tout a été fait de la poudre, et tout retourne en la poudre.",
+        "OST": "Tout va en un même lieu; tout a été fait de la poussière, et tout retourne dans la poussière.",
+        "S21": "Tout va au même endroit. Tout a été fait à partir de la poussière et tout retourne à la poussière."
+      }
+    },
+    {
+      "verse": 21,
+      "texts": {
+        "BDS": "Qui peut dire ce qu’est l’esprit de l’homme, celui qui se dirige vers le haut et ce qu’est le souffle de la bête, celui qui descend en-dessous de la terre?",
+        "DBY": "Qui est-ce qui connaît l'esprit des fils des hommes? Celui-ci monte-t-il en haut, et l'esprit de la bête descend-il en bas dans la terre?",
+        "KJV": "Who knoweth the spirit of man that goeth upward, and the spirit of the beast that goeth downward to the earth?",
+        "LSG": "Qui sait si le souffle des fils de l'homme monte en haut, et si le souffle de la bête descend en bas dans la terre?",
+        "MAB": "Qui est-ce qui connaît que le souffle des hommes monte en haut, et que le souffle de la bête descend en bas en terre?",
+        "OST": "Qui sait si l'esprit des hommes monte en haut, et si l'esprit de la bête descend en bas dans la terre?",
+        "S21": "Qui sait si le souffle des humains monte vers les hauteurs et si le souffle de la bête descend dans la terre?"
+      }
+    },
+    {
+      "verse": 22,
+      "texts": {
+        "BDS": "J’ai compris qu’il n’y a pour l’homme rien de bon sinon de jouir de ses œuvres, car telle est la part qui lui revient. En effet, qui donc le fera revenir pour qu’il voie ce qui sera après lui?",
+        "DBY": "Et j'ai vu qu'il n'y a rien de mieux que ceci: que l'homme se réjouisse dans ce qu'il fait, car c'est là sa part; car qui l'amènera pour voir ce qui sera après lui?",
+        "KJV": "Wherefore I perceive that [there is] nothing better, than that a man should rejoice in his own works; for that [is] his portion: for who shall bring him to see what shall be after him?",
+        "LSG": "Et j'ai vu qu'il n'y a rien de mieux pour l'homme que de se réjouir de ses oeuvres: c'est là sa part. Car qui le fera jouir de ce qui sera après lui?",
+        "MAB": "J'ai donc connu qu'il n'y a rien de meilleur à l'homme que de se réjouir en ce qu'il fait; parce que c'est là sa portion; car qui est-ce qui le ramènera pour voir ce qui sera après lui?",
+        "OST": "Et j'ai vu qu'il n'y a rien de mieux pour l'homme que de se réjouir de ses œuvres; puisque c'est là sa part. Car qui le ramènera pour voir ce qui sera après lui?",
+        "S21": "J'ai vu qu'il n'y a rien de mieux pour l'homme que de se réjouir de ce qu’il fait: voilà quelle est sa part. En effet, qui le ramènera pour qu’il voie ce qui sera après lui?"
+      }
+    }
+  ]
+}

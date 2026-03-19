@@ -1,0 +1,450 @@
+{
+  "bookCode": "LEV",
+  "chapter": 19,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "L’Eternel s’adressa à Moïse en ces termes:",
+        "DBY": "Et l'Éternel parla à Moïse, disant:",
+        "KJV": "And the LORD spake unto Moses, saying,",
+        "LSG": "L'Eternel parla à Moïse, et dit:",
+        "MAB": "L'Eternel parla aussi à Moïse, en disant :",
+        "OST": "L'Éternel parla aussi à Moïse, en disant:",
+        "S21": "L'Eternel dit à Moïse:"
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "—Parle à toute la communauté des Israélites et dis-leur: Soyez saints, car je suis saint, moi l’Eternel, votre Dieu.",
+        "DBY": "Parle à toute l'assemblée des fils d'Israël, et dis-leur: Vous serez saints, car moi, l'Éternel votre Dieu, je suis saint.",
+        "KJV": "Speak unto all the congregation of the children of Israel, and say unto them, Ye shall be holy: for I the LORD your God [am] holy.",
+        "LSG": "Parle à toute l'assemblée des enfants d'Israël, et tu leur diras: Soyez saints, car je suis saint, moi, l'Eternel, votre Dieu.",
+        "MAB": "Parle à toute l'assemblée des enfants d'Israël, et leur dis : Soyez saints; car je suis saint, moi l'Eternel votre Dieu.",
+        "OST": "Parle à toute l'assemblée des enfants d'Israël, et dis-leur: Soyez saints, car je suis saint, moi, l'Éternel, votre Dieu.",
+        "S21": "«Transmets ces instructions à toute l'assemblée des Israélites: Vous serez saints, car je suis saint, moi, l'Eternel, votre Dieu."
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "Que chacun de vous respecte sa mère et son père, et observe les jours de repos que j’ai prescrits. Je suis l’Eternel, votre Dieu.",
+        "DBY": "Vous craindrez chacun sa mère et son père; et vous garderez mes sabbats. Moi, je suis l'Éternel, votre Dieu.",
+        "KJV": "Ye shall fear every man his mother, and his father, and keep my sabbaths: I [am] the LORD your God.",
+        "LSG": "Chacun de vous respectera sa mère et son père, et observera mes sabbats. Je suis l'Eternel, votre Dieu.",
+        "MAB": "Vous craindrez chacun sa mère et son père, et vous garderez mes Sabbats; je suis l'Eternel votre Dieu.",
+        "OST": "Que chacun révère sa mère et son père, et observez mes sabbats: Je suis l'Éternel, votre Dieu.",
+        "S21": "Chacun de vous traitera sa mère et son père avec déférence et respectera mes sabbats. Je suis l'Eternel, votre Dieu."
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "Ne vous tournez pas vers les faux dieux, ne vous fabriquez pas d’idoles sous forme de statues en métal fondu. Je suis l’Eternel, votre Dieu.",
+        "DBY": "Vous ne vous tournerez point vers les idoles, et vous ne vous ferez point de dieux de fonte. Moi, je suis l'Éternel, votre Dieu.",
+        "KJV": "Turn ye not unto idols, nor make to yourselves molten gods: I [am] the LORD your God.",
+        "LSG": "Vous ne vous tournerez point vers les idoles, et vous ne vous ferez point des dieux de fonte.",
+        "MAB": "Vous ne vous tournerez point vers les idoles, et ne vous ferez aucuns dieux de fonte; je suis l'Eternel votre Dieu.",
+        "OST": "Ne vous tournez point vers les idoles, et ne vous faites point de dieux de fonte: Je suis l'Éternel, votre Dieu.",
+        "S21": "Vous ne vous tournerez pas vers les faux dieux, vous ne vous ferez pas des dieux en métal fondu. Je suis l'Eternel, votre Dieu."
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "Lorsque vous m’offrirez un sacrifice de communion, faites-le de façon à ce qu’il puisse être agréé.",
+        "DBY": "Et si vous sacrifiez un sacrifice de prospérités à l'Éternel, vous le sacrifierez pour être agréés.",
+        "KJV": "And if ye offer a sacrifice of peace offerings unto the LORD, ye shall offer it at your own will.",
+        "LSG": "Quand vous offrirez à l'Eternel un sacrifice d'actions de grâces, vous l'offrirez en sorte qu'il soit agréé.",
+        "MAB": "Si vous offrez un sacrifice de prospérités à l'Eternel, vous le sacrifierez de votre bon gré.",
+        "OST": "Quand vous sacrifierez un sacrifice de prospérités à l'Éternel, vous le sacrifierez de manière à être agréés.",
+        "S21": "»Quand vous offrirez à l'Eternel un sacrifice de communion, vous l'offrirez de sorte qu'il soit accepté."
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "La victime sera mangée le jour même où vous l’offrirez en sacrifice, ou le lendemain; ce qui en restera le troisième jour sera brûlé,",
+        "DBY": "Il sera mangé le jour où vous l'aurez sacrifié, et le lendemain; et ce qui restera le troisième jour, sera brûlé au feu.",
+        "KJV": "It shall be eaten the same day ye offer it, and on the morrow: and if ought remain until the third day, it shall be burnt in the fire.",
+        "LSG": "La victime sera mangée le jour où vous la sacrifierez, ou le lendemain; ce qui restera jusqu'au troisième jour sera brûlé au feu.",
+        "MAB": "II se mangera au jour que vous l'aurez sacrifié, et le lendemain, mais ce qui restera jusqu'au troisième jour, sera brûlé au feu.",
+        "OST": "On le mangera au jour du sacrifice, et le lendemain; ce qui restera jusqu'au troisième jour sera brûlé au feu.",
+        "S21": "On mangera la victime le jour où vous la sacrifierez ou le lendemain. On brûlera au feu ce qui restera jusqu'au troisième jour."
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "le troisième jour, si on en mange, ce sera impur et le sacrifice ne sera pas agréé.",
+        "DBY": "Et si on mange aucunement le troisième jour, ce sera une chose impure; il ne sera point agréé.",
+        "KJV": "And if it be eaten at all on the third day, it [is] abominable; it shall not be accepted.",
+        "LSG": "Si l'on en mange le troisième jour, ce sera une chose infecte: le sacrifice ne sera point agréé.",
+        "MAB": "Que si on en mange au troisième jour, ce sera une abomination; il ne sera point agréé.",
+        "OST": "Si on en mange le troisième jour, c'est une abomination, il ne sera point agréé.",
+        "S21": "Si l'on en mange le troisième jour, ce sera une chose infecte: le sacrifice ne sera pas accepté."
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "Celui qui en mangera portera le poids de sa faute, car il a profané une chose consacrée à l’Eternel, et il sera retranché de son peuple.",
+        "DBY": "Et celui qui en mangera portera son iniquité, car il a profané ce qui est consacré à l'Éternel; et cette âme-là sera retranchée de ses peuples.",
+        "KJV": "Therefore [every one] that eateth it shall bear his iniquity, because he hath profaned the hallowed thing of the LORD: and that soul shall be cut off from among his people.",
+        "LSG": "Celui qui en mangera portera la peine de son péché, car il profane ce qui est consacré à l'Eternel: cette personne-là sera retranchée de son peuple.",
+        "MAB": "Quiconque aussi en mangera, portera son iniquité; car il aura profané la chose sainte de l'Eternel; et cette personne-là sera retranchée d'entre ses peuples.",
+        "OST": "Celui qui en mangera portera son iniquité; car il aura profané ce qui est consacré à l'Éternel: cette personne-là sera retranchée de son peuple.",
+        "S21": "Celui qui en mangera supportera les conséquences de sa faute, car il profane ce qui est consacré à l'Eternel: cette personne-là sera exclue de son peuple."
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "Quand vous ferez les moissons dans votre pays, tu ne couperas pas les épis jusqu’au bord de ton champ, et tu ne ramasseras pas ce qui reste à glaner.",
+        "DBY": "Et quand vous ferez la moisson de votre terre, tu n'achèveras pas de moissonner les coins de ton champ et tu ne glaneras pas la glanure de ta moisson.",
+        "KJV": "And when ye reap the harvest of your land, thou shalt not wholly reap the corners of thy field, neither shalt thou gather the gleanings of thy harvest.",
+        "LSG": "Quand vous ferez la moisson dans votre pays, tu laisseras un coin de ton champ sans le moissonner, et tu ne ramasseras pas ce qui reste à glaner.",
+        "MAB": "Et quand vous ferez la moisson de votre terre, tu n'achèveras point de moissonner le bout de ton champ, et tu ne glaneras point ce qui restera à cueillir de ta moisson.",
+        "OST": "Et quand vous ferez la moisson dans votre pays, tu n'achèveras point de moissonner le bout de ton champ, et tu ne ramasseras point la glanure de ta moisson;",
+        "S21": "»Quand vous ferez la moisson dans votre pays, tu ne moissonneras pas ton champ jusqu’aux bords et tu ne ramasseras pas ce qui reste à glaner."
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "De même, tu ne cueilleras pas les grappes restées dans ta vigne et tu ne ramasseras pas les fruits qui y seront tombés. Tu laisseras tout cela au pauvre et à l’immigré. Je suis l’Eternel, votre Dieu.",
+        "DBY": "Et tu ne ne grappilleras pas ta vigne, ni ne recueilleras les grains tombés de ta vigne; tu les laisseras pour le pauvre et pour l'étranger. Moi, je suis l'Éternel, votre Dieu.",
+        "KJV": "And thou shalt not glean thy vineyard, neither shalt thou gather [every] grape of thy vineyard; thou shalt leave them for the poor and stranger: I [am] the LORD your God.",
+        "LSG": "Tu ne cueilleras pas non plus les grappes restées dans ta vigne, et tu ne ramasseras pas les grains qui en seront tombés. Tu abandonneras cela au pauvre et à l'étranger. Je suis l'Eternel, votre Dieu.",
+        "MAB": "Et tu ne grappilleras point ta vigne, ni ne recueilleras point les grains [tombés] de ta vigne, mais tu les laisseras au pauvre et à l'étranger; je suis l'Eternel votre Dieu.",
+        "OST": "Tu ne grappilleras point ta vigne, et tu n'en recueilleras pas les grains tombés; tu les laisseras au pauvre et à l'étranger: Je suis l'Éternel, votre Dieu.",
+        "S21": "Tu ne cueilleras pas non plus les grappes restées dans ta vigne et tu ne ramasseras pas les grains qui en seront tombés. Tu le laisseras au pauvre et à l'étranger. Je suis l'Eternel, votre Dieu."
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "Vous ne commettrez pas de vol, vous n’userez ni de mensonge ni de tromperie à l’égard de votre prochain.",
+        "DBY": "Vous ne volerez pas, et vous ne vous tromperez pas l'un l'autre, et vous ne vous mentirez pas l'un à l'autre.",
+        "KJV": "Ye shall not steal, neither deal falsely, neither lie one to another.",
+        "LSG": "Vous ne déroberez point, et vous n'userez ni de mensonge ni de tromperie les uns envers les autres.",
+        "MAB": "Vous ne déroberez point, ni ne dénierez point [la chose à qui elle appartient]; et aucun de vous ne mentira à son prochain.",
+        "OST": "Vous ne déroberez point, et vous ne mentirez point, ni ne vous tromperez les uns les autres.",
+        "S21": "»Vous ne commettrez pas de vol et vous ne recourrez ni au mensonge ni à la tromperie les uns envers les autres."
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "Vous ne prononcerez pas de faux serment par mon nom, car en faisant cela, vous profaneriez le nom de votre Dieu. Je suis l’Eternel.",
+        "DBY": "Et vous ne jurerez pas par mon nom, en mentant; et tu ne profaneras pas le nom de ton Dieu. Moi, je suis l'Éternel.",
+        "KJV": "And ye shall not swear by my name falsely, neither shalt thou profane the name of thy God: I [am] the LORD.",
+        "LSG": "Vous ne jurerez point faussement par mon nom, car tu profanerais le nom de ton Dieu. Je suis l'Eternel.",
+        "MAB": "Vous ne jurerez point par mon Nom en mentant; car tu profanerais le Nom de ton Dieu; je suis l'Eternel.",
+        "OST": "Vous ne jurerez point faussement par mon nom; car tu profanerais le nom de ton Dieu: Je suis l'Éternel.",
+        "S21": "Vous ne jurerez pas faussement par mon nom, car ce serait déshonorer le nom de ton Dieu. Je suis l'Eternel."
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "Tu n’exploiteras pas ton prochain et tu ne le voleras pas. Tu ne retiendras pas le salaire d’un ouvrier jusqu’au lendemain matin.",
+        "DBY": "Tu n'opprimeras pas ton prochain, et tu ne le pilleras pas. Le salaire de ton homme à gages ne passera pas la nuit chez toi jusqu'au matin.",
+        "KJV": "Thou shalt not defraud thy neighbour, neither rob [him]: the wages of him that is hired shall not abide with thee all night until the morning.",
+        "LSG": "Tu n'opprimeras point ton prochain, et tu ne raviras rien par violence. Tu ne retiendras point jusqu'au lendemain le salaire du mercenaire.",
+        "MAB": "Tu n'opprimeras point ton prochain, et tu ne le pilleras point. Le salaire de ton mercenaire ne demeurera point par devers toi jusqu'au matin.",
+        "OST": "Tu n'opprimeras point ton prochain, et tu ne le pilleras point. Le salaire du mercenaire ne demeurera point chez toi jusqu'au lendemain.",
+        "S21": "»Tu n’exploiteras pas ton prochain et tu ne prendras rien par violence. Tu ne garderas pas chez toi jusqu'au lendemain la paie d’un salarié."
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "Tu n’insulteras pas un sourd et tu ne mettras pas d’obstacle sur le chemin d’un aveugle, et ainsi tu révéreras ton Dieu. Je suis l’Eternel.",
+        "DBY": "Tu ne maudiras pas le sourd, et tu ne mettras pas d'achoppement devant l'aveugle, mais tu craindras ton Dieu. Moi, je suis l'Éternel.",
+        "KJV": "Thou shalt not curse the deaf, nor put a stumblingblock before the blind, but shalt fear thy God: I [am] the LORD.",
+        "LSG": "Tu ne maudiras point un sourd, et tu ne mettras devant un aveugle rien qui puisse le faire tomber; car tu auras la crainte de ton Dieu. Je suis l'Eternel.",
+        "MAB": "Tu ne maudiras point le sourd, et tu ne mettras point d'achoppement devant l'aveugle, mais tu craindras ton Dieu; je suis l'Eternel.",
+        "OST": "Tu ne maudiras point un sourd, et tu ne mettras devant un aveugle rien qui puisse le faire tomber; mais tu craindras ton Dieu: Je suis l'Éternel.",
+        "S21": "Tu ne maudiras pas un sourd et tu ne mettras devant un aveugle rien qui puisse le faire tomber, mais tu craindras ton Dieu. Je suis l'Eternel."
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "Vous ne commettrez pas d’injustice dans les jugements. Tu n’avantageras pas le pauvre, et tu ne favoriseras pas le grand; tu jugeras ton prochain selon la justice.",
+        "DBY": "Vous ne ferez pas d'injustice dans le jugement: tu n'auras pas égard à la personne du pauvre, et tu n'honoreras pas la personne du riche; tu jugeras ton prochain avec justice.",
+        "KJV": "Ye shall do no unrighteousness in judgment: thou shalt not respect the person of the poor, nor honour the person of the mighty: [but] in righteousness shalt thou judge thy neighbour.",
+        "LSG": "Tu ne commettras point d'iniquité dans tes jugements: tu n'auras point égard à la personne du pauvre, et tu ne favoriseras point la personne du grand, mais tu jugeras ton prochain selon la justice.",
+        "MAB": "Vous ne ferez point d'iniquité en jugement; tu n'auras point d'égard à la personne du pauvre, et tu n'honoreras point la personne du grand, [mais] tu jugeras justement ton prochain.",
+        "OST": "Vous ne ferez point d'iniquité dans le jugement; tu ne favoriseras point le pauvre, et n'honoreras point la personne du grand; tu jugeras ton prochain selon la justice.",
+        "S21": "»Tu ne commettras pas d'injustice dans tes jugements: tu n’avantageras pas le faible et tu ne favoriseras pas non plus le grand, mais tu jugeras ton prochain avec justice."
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "Tu ne calomnieras pas les membres de ton peuple; tu ne porteras pas atteinte à la vie de ton prochain par un faux témoignage. Je suis l’Eternel.",
+        "DBY": "Tu n'iras point ça et là médisant parmi ton peuple. Tu ne t'élèveras pas contre la vie de ton prochain. Moi, je suis l'Éternel.",
+        "KJV": "Thou shalt not go up and down [as] a talebearer among thy people: neither shalt thou stand against the blood of thy neighbour: I [am] the LORD.",
+        "LSG": "Tu ne répandras point de calomnies parmi ton peuple. Tu ne t'élèveras point contre le sang de ton prochain. Je suis l'Eternel.",
+        "MAB": "Tu n'iras point médisant parmi ton peuple. Tu ne t'élèveras point contre le sang de ton prochain; je suis l'Eternel.",
+        "OST": "Tu ne répandras point de calomnies parmi ton peuple; tu ne t'élèveras point contre le sang de ton prochain: Je suis l'Éternel.",
+        "S21": "»Tu ne propageras pas de calomnies parmi ton peuple et tu ne t’attaqueras pas à la vie de ton prochain. Je suis l'Eternel."
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "Tu ne haïras pas ton frère dans ton cœur, mais tu ne manqueras pas de reprendre ton prochain pour ne pas te charger d’un péché à son égard.",
+        "DBY": "Tu ne haïras point ton frère dans ton cœur. Tu ne manqueras pas à reprendre ton prochain, et tu ne porteras pas de péché à cause de lui.",
+        "KJV": "Thou shalt not hate thy brother in thine heart: thou shalt in any wise rebuke thy neighbour, and not suffer sin upon him.",
+        "LSG": "Tu ne haïras point ton frère dans ton coeur; tu auras soin de reprendre ton prochain, mais tu ne te chargeras point d'un péché à cause de lui.",
+        "MAB": "Tu ne haïras point ton frère en ton cœur. Tu reprendras soigneusement ton prochain, et tu ne souffriras point de péché en lui.",
+        "OST": "Tu ne haïras point ton frère dans ton cœur. Tu reprendras ton prochain, et tu ne te chargeras pas d'un péché à cause de lui.",
+        "S21": "Tu ne détesteras pas ton frère dans ton cœur, mais tu veilleras à reprendre ton prochain, ainsi tu ne te chargeras pas d'un péché à cause de lui."
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "Tu ne te vengeras pas et tu ne garderas pas de rancune envers les membres de ton peuple, mais tu aimeras ton prochain comme toi-même. Je suis l’Eternel.",
+        "DBY": "Tu ne te vengeras pas, et tu ne garderas pas rancune aux fils de ton peuple; mais tu aimeras ton prochain comme toi-même. Moi, je suis l'Éternel.",
+        "KJV": "Thou shalt not avenge, nor bear any grudge against the children of thy people, but thou shalt love thy neighbour as thyself: I [am] the LORD.",
+        "LSG": "Tu ne te vengeras point, et tu ne garderas point de rancune contre les enfants de ton peuple. Tu aimeras ton prochain comme toi-même. Je suis l'Eternel.",
+        "MAB": "Tu n'useras point de vengeance, et tu ne la garderas point aux enfants de ton peuple; mais tu aimeras ton prochain comme toi-même; je suis l'Eternel.",
+        "OST": "Tu ne te vengeras point, et tu ne garderas point de ressentiment contre les enfants de ton peuple; mais tu aimeras ton prochain comme toi-même: Je suis l'Éternel.",
+        "S21": "Tu ne te vengeras pas et tu ne garderas pas de rancune contre les membres de ton peuple. Tu aimeras ton prochain comme toi-même. Je suis l'Eternel."
+      }
+    },
+    {
+      "verse": 19,
+      "texts": {
+        "BDS": "Vous obéirez à mes commandements. Tu n’accoupleras pas des animaux de ton bétail d’espèces différentes. Tu n’ensemenceras pas ton champ de deux espèces de graines. Tu ne porteras pas un vêtement tissé de deux fibres différentes.",
+        "DBY": "Vous garderez mes statuts. Tu n'accoupleras pas, parmi ton bétail, deux espèces différentes. Tu ne sèmeras pas ton champ de deux espèces de semence; et tu ne mettras pas sur toi un vêtement d'un tissu mélangé de deux espèces de fil.",
+        "KJV": "Ye shall keep my statutes. Thou shalt not let thy cattle gender with a diverse kind: thou shalt not sow thy field with mingled seed: neither shall a garment mingled of linen and woollen come upon thee.",
+        "LSG": "Vous observerez mes lois. Tu n'accoupleras point des bestiaux de deux espèces différentes; tu n'ensemenceras point ton champ de deux espèces de semences; et tu ne porteras pas un vêtement tissé de deux espèces de fils.",
+        "MAB": "Vous garderez mes ordonnances. Tu n'accoupleras point tes bêtes avec d'autres de diverse espèce. Tu ne sèmeras point ton champ de diverses sortes de grains, et tu ne mettras point sur toi de vêtements de diverses espèces, [comme] de laine et de lin.",
+        "OST": "Vous garderez mes ordonnances. Tu n'accoupleras point des bêtes de différentes espèces. Tu ne sèmeras point ton champ de diverses sortes de graines, et tu ne mettras point sur toi un vêtement de diverses sortes de fils, un tissu mélangé.",
+        "S21": "»Vous respecterez mes prescriptions. Tu n'accoupleras pas deux bêtes d’espèces différentes. Tu n'ensemenceras pas ton champ de deux espèces de semences. Et tu ne porteras pas un vêtement tissé de deux espèces de fils."
+      }
+    },
+    {
+      "verse": 20,
+      "texts": {
+        "BDS": "Si un homme couche avec une servante fiancée à un autre homme sans qu’elle ait été ni achetée ni affranchie, il versera une indemnité, mais les deux ne seront pas punis de mort car elle n’avait pas encore été affranchie.",
+        "DBY": "Et si un homme couche et a commerce avec une femme, et qu'elle soit servante, fiancée à un homme, et qu'elle n'ait aucunement été rachetée ni mise en liberté, ils seront châtiés; on ne les mettra pas à mort, car elle n'avait pas été mise en liberté.",
+        "KJV": "And whosoever lieth carnally with a woman, that [is] a bondmaid, betrothed to an husband, and not at all redeemed, nor freedom given her; she shall be scourged; they shall not be put to death, because she was not free.",
+        "LSG": "Lorsqu'un homme couchera et aura commerce avec une femme, si c'est une esclave fiancée à un autre homme, et qui n'a pas été rachetée ou affranchie, ils seront châtiés, mais non punis de mort, parce qu'elle n'a pas été affranchie.",
+        "MAB": "Si un homme a couché avec une femme, laquelle étant esclave fut fiancée à un homme, et qu'elle n'ait pas été rachetée, et que la liberté ne lui ait pas été donnée, ils auront le fouet; [mais] on ne les fera point mourir; parce qu'elle n'avait pas été affranchie.",
+        "OST": "Si un homme couche et a commerce avec une femme, et que ce soit une servante, promise à un homme, mais qui n'a pas été rachetée, ou à qui la liberté n'a point été donnée, ils seront châtiés; ils ne seront pas mis à mort, car elle n'était pas affranchie.",
+        "S21": "»Lorsqu'un homme couchera avec une femme, si c'est une esclave fiancée à un autre homme et qui n'a pas été rachetée ou affranchie, ils seront punis, mais non de mort, parce qu'elle n'a pas été affranchie."
+      }
+    },
+    {
+      "verse": 21,
+      "texts": {
+        "BDS": "Cet homme apportera à l’Eternel, à l’entrée de la tente de la Rencontre, comme sacrifice de réparation pour sa faute, un bélier",
+        "DBY": "Et l'homme amènera à l'Éternel, à l'entrée de la tente d'assignation, son sacrifice pour le délit, un bélier en sacrifice pour le délit.",
+        "KJV": "And he shall bring his trespass offering unto the LORD, unto the door of the tabernacle of the congregation, [even] a ram for a trespass offering.",
+        "LSG": "L'homme amènera pour sa faute à l'Eternel, à l'entrée de la tente d'assignation, un bélier en sacrifice de culpabilité.",
+        "MAB": "Et l'homme amènera son [offrande pour le] délit à l'Eternel à l'entrée du Tabernacle d'assignation, [savoir] un bélier pour le délit.",
+        "OST": "Et l'homme amènera à l'Éternel son sacrifice pour le délit, à l'entrée du tabernacle d'assignation, un bélier en sacrifice pour le délit.",
+        "S21": "L'homme amènera un bélier à l'Eternel, à l'entrée de la tente de la rencontre, en sacrifice de culpabilité pour sa faute."
+      }
+    },
+    {
+      "verse": 22,
+      "texts": {
+        "BDS": "avec lequel le prêtre accomplira le rite d’expiation pour lui devant l’Eternel, pour le péché qu’il a commis, et il lui sera pardonné.",
+        "DBY": "Et le sacrificateur fera propitiation pour lui devant l'Éternel, avec le bélier du sacrifice pour le délit, à cause de son péché qu'il a commis; et son péché qu'il a commis lui sera pardonné.",
+        "KJV": "And the priest shall make an atonement for him with the ram of the trespass offering before the LORD for his sin which he hath done: and the sin which he hath done shall be forgiven him.",
+        "LSG": "Le sacrificateur fera pour lui l'expiation devant l'Eternel, pour le péché qu'il a commis, avec le bélier offert en sacrifice de culpabilité, et le péché qu'il a commis lui sera pardonné.",
+        "MAB": "Et le Sacrificateur fera propitiation pour lui devant l'Eternel par le bélier de [l'offrande pour le] délit, à cause de son péché qu'il aura commis; et son péché qu'il aura commis lui sera pardonné.",
+        "OST": "Et le sacrificateur fera l'expiation pour lui, avec le bélier du sacrifice pour le délit, devant l'Éternel, pour le péché qu'il a commis; et le péché qu'il a commis lui sera pardonné.",
+        "S21": "Le prêtre fera l'expiation pour lui devant l'Eternel avec le bélier offert en sacrifice de culpabilité pour le péché qu'il a commis, et le péché qu'il a commis lui sera pardonné."
+      }
+    },
+    {
+      "verse": 23,
+      "texts": {
+        "BDS": "Quand vous serez entrés dans le pays promis et que vous planterez toutes sortes d’arbres fruitiers, vous considérerez pendant trois ans leurs fruits comme impurs, vous n’en mangerez donc pas.",
+        "DBY": "Et quand vous serez entrés dans le pays, et que vous y aurez planté toute sorte d'arbres dont on mange, vous en regardez le fruit comme incirconcis; il sera incirconcis pour vous pendant trois ans: on n'en mangera point.",
+        "KJV": "And when ye shall come into the land, and shall have planted all manner of trees for food, then ye shall count the fruit thereof as uncircumcised: three years shall it be as uncircumcised unto you: it shall not be eaten of.",
+        "LSG": "Quand vous serez entrés dans le pays, et que vous y aurez planté toutes sortes d'arbres fruitiers, vous en regarderez les fruits comme incirconcis; pendant trois ans, ils seront pour vous incirconcis; on n'en mangera point.",
+        "MAB": "Et quand vous serez entrés au pays, et que vous y aurez planté quelque arbre fruitier, vous tiendrez son fruit pour son prépuce; il vous sera incirconcis pendant trois ans, et on n'en mangera point.",
+        "OST": "Et quand vous serez entrés au pays, et que vous aurez planté toutes sortes d'arbres fruitiers, vous considérerez leurs premiers fruits comme incirconcis; ils vous seront incirconcis pendant trois ans; on n'en mangera point;",
+        "S21": "»Quand vous serez entrés dans le pays et que vous y aurez planté toutes sortes d'arbres fruitiers, vous rejetterez leurs fruits comme étant impurs; pendant trois ans vous les considérerez comme impurs, on n'en mangera pas."
+      }
+    },
+    {
+      "verse": 24,
+      "texts": {
+        "BDS": "La quatrième année, tous leurs fruits seront consacrés à l’Eternel en témoignage de reconnaissance.",
+        "DBY": "Et la quatrième année tout leur fruit sera une chose sainte à la louange de l'Éternel.",
+        "KJV": "But in the fourth year all the fruit thereof shall be holy to praise the LORD [withal].",
+        "LSG": "La quatrième année, tous leurs fruits seront consacrés à l'Eternel au milieu des réjouissances.",
+        "MAB": "Mais en la quatrième année tout son fruit sera une chose sainte, pour en louer l'Eternel.",
+        "OST": "Mais la quatrième année, tous leurs fruits seront consacrés en sacrifices de louanges à l'Éternel.",
+        "S21": "La quatrième année, tous leurs fruits seront consacrés à l'Eternel au milieu des réjouissances."
+      }
+    },
+    {
+      "verse": 25,
+      "texts": {
+        "BDS": "La cinquième année, vous en mangerez les fruits. Ainsi vous aurez des récoltes abondantes. Je suis l’Eternel, votre Dieu.",
+        "DBY": "Et la cinquième année vous mangerez leur fruit, afin qu'ils vous multiplient leur rapport. Moi, je suis l'Éternel, votre Dieu.",
+        "KJV": "And in the fifth year shall ye eat of the fruit thereof, that it may yield unto you the increase thereof: I [am] the LORD your God.",
+        "LSG": "La cinquième année, vous en mangerez les fruits, et vous continuerez à les récolter. Je suis l'Eternel, votre Dieu.",
+        "MAB": "Et en la cinquième année vous mangerez son fruit, afin qu'il vous multiplie son rapport; je suis l'Eternel votre Dieu.",
+        "OST": "Et la cinquième année, vous en mangerez le fruit, afin qu'il vous multiplie son produit: Je suis l'Éternel, votre Dieu.",
+        "S21": "La cinquième année, vous mangerez leurs fruits et vous continuerez à les récolter. Je suis l'Eternel, votre Dieu."
+      }
+    },
+    {
+      "verse": 26,
+      "texts": {
+        "BDS": "Vous ne mangerez aucune viande contenant encore son sang. Vous ne pratiquerez pas la divination; vous ne rechercherez pas les augures.",
+        "DBY": "Vous ne mangerez rien avec le sang. -Vous ne pratiquerez ni enchantements, ni pronostics.",
+        "KJV": "Ye shall not eat [any thing] with the blood: neither shall ye use enchantment, nor observe times.",
+        "LSG": "Vous ne mangerez rien avec du sang. Vous n'observerez ni les serpents ni les nuages pour en tirer des pronostics.",
+        "MAB": "Vous ne mangerez rien avec le sang. Vous n'userez point de divinations, et vous ne pronostiquerez point le temps.",
+        "OST": "Vous ne mangerez rien avec le sang. Vous n'userez point de divinations et ne pratiquerez point de magie.",
+        "S21": "»Vous ne mangerez rien avec du sang. Vous n'observerez ni les serpents ni les nuages pour en tirer des pronostics."
+      }
+    },
+    {
+      "verse": 27,
+      "texts": {
+        "BDS": "Vous ne vous taillerez pas en rond le bord de votre chevelure, vous ne vous raserez pas les coins de la barbe.",
+        "DBY": "-Vous n'arrondirez point les coins de votre chevelure, et vous ne gâterez pas les coins de votre barbe.",
+        "KJV": "Ye shall not round the corners of your heads, neither shalt thou mar the corners of thy beard.",
+        "LSG": "Vous ne couperez point en rond les coins de votre chevelure, et tu ne raseras point les coins de ta barbe.",
+        "MAB": "Vous ne tondrez point en rond les coins de votre tête, et vous ne gâterez point les coins de votre barbe.",
+        "OST": "Vous ne couperez point en rond les coins de votre chevelure, et tu ne détruiras point les coins de ta barbe.",
+        "S21": "Vous ne couperez pas en rond les coins de votre chevelure et tu ne raseras pas les coins de ta barbe."
+      }
+    },
+    {
+      "verse": 28,
+      "texts": {
+        "BDS": "Vous ne vous ferez pas d’incisions sur le corps à cause d’un mort et vous ne ferez pas dessiner des tatouages sur le corps. Je suis l’Eternel.",
+        "DBY": "Et vous ne ferez point d'incisions dans votre chair pour un mort, et vous ne vous ferez pas de tatouages. Moi, je suis l'Éternel.",
+        "KJV": "Ye shall not make any cuttings in your flesh for the dead, nor print any marks upon you: I [am] the LORD.",
+        "LSG": "Vous ne ferez point d'incisions dans votre chair pour un mort, et vous n'imprimerez point de figures sur vous. Je suis l'Eternel.",
+        "MAB": "Vous ne ferez point d'incisions dans votre chair pour un mort, et vous n'imprimerez point de caractère sur vous; je suis l'Eternel.",
+        "OST": "Vous ne ferez point d'incision dans votre chair pour un mort, et vous n'imprimerez point de caractères sur vous: Je suis l'Éternel.",
+        "S21": "Vous ne ferez pas d'incisions sur votre corps pour un mort et vous ne vous ferez pas de tatouages. Je suis l'Eternel."
+      }
+    },
+    {
+      "verse": 29,
+      "texts": {
+        "BDS": "Ne déshonorez pas vos filles en faisant d’elles des prostituées; le pays entier s’adonnerait à la prostitution et se remplirait d’immoralité.",
+        "DBY": "-Tu ne profaneras point ta fille, pour la faire se prostituer, afin que le pays ne se prostitue pas et que le pays ne se remplisse pas d'infamie.",
+        "KJV": "Do not prostitute thy daughter, to cause her to be a whore; lest the land fall to whoredom, and the land become full of wickedness.",
+        "LSG": "Tu ne profaneras point ta fille en la livrant à la prostitution, de peur que le pays ne se prostitue et ne se remplisse de crimes.",
+        "MAB": "Tu ne souilleras point ta fille en la prostituant pour la faire paillarder; afin que la terre ne soit point souillée par la paillardise, et ne soit point remplie d'énormité.",
+        "OST": "Ne profane point ta fille en la prostituant; afin que le pays ne se prostitue pas et ne se remplisse pas de crimes.",
+        "S21": "»Tu ne déshonoreras pas ta fille en la livrant à la prostitution, de peur que le pays ne se prostitue et ne se remplisse de crimes."
+      }
+    },
+    {
+      "verse": 30,
+      "texts": {
+        "BDS": "Vous observerez les jours de repos que je vous ai prescrits et vous respecterez mon sanctuaire. Je suis l’Eternel.",
+        "DBY": "-Vous garderez mes sabbats, et vous révérerez mon sanctuaire. Moi, je suis l'Éternel.",
+        "KJV": "Ye shall keep my sabbaths, and reverence my sanctuary: I [am] the LORD.",
+        "LSG": "Vous observerez mes sabbats, et vous révérerez mon sanctuaire. Je suis l'Eternel.",
+        "MAB": "Vous garderez mes Sabbats, et vous aurez en révérence mon Sanctuaire; je suis l'Eternel.",
+        "OST": "Vous observerez mes sabbats, et vous révérerez mon sanctuaire: Je suis l'Éternel.",
+        "S21": "»Vous respecterez mes sabbats et vous traiterez mon sanctuaire avec déférence. Je suis l'Eternel."
+      }
+    },
+    {
+      "verse": 31,
+      "texts": {
+        "BDS": "Ne vous adressez ni à des médiums, ni à des devins; ne les consultez pas, vous vous rendriez impurs. Je suis l’Eternel, votre Dieu.",
+        "DBY": "-Ne vous tournez pas vers ceux qui évoquent les esprits, ni vers les diseurs de bonne aventure; n'ayez pas recours à eux pour vous rendre impurs. Moi, je suis l'Éternel, votre Dieu.",
+        "KJV": "Regard not them that have familiar spirits, neither seek after wizards, to be defiled by them: I [am] the LORD your God.",
+        "LSG": "Ne vous tournez point vers ceux qui évoquent les esprits, ni vers les devins; ne les recherchez point, de peur de vous souiller avec eux. Je suis l'Eternel, votre Dieu.",
+        "MAB": "Ne vous détournez point après ceux qui ont l'esprit de Python, ni après les devins; ne cherchez point de vous souiller par eux; je suis l'Eternel votre Dieu.",
+        "OST": "Ne vous adressez point à ceux qui évoquent les esprits, ni aux devins; ne les consultez pas pour vous souiller avec eux: Je suis l'Éternel, votre Dieu.",
+        "S21": "Ne vous adressez pas à ceux qui invoquent les esprits et aux spirites, ne les recherchez pas, de peur de vous rendre impurs par eux. Je suis l'Eternel, votre Dieu."
+      }
+    },
+    {
+      "verse": 32,
+      "texts": {
+        "BDS": "Tu te lèveras devant ceux qui ont des cheveux blancs, tu honoreras la personne du vieillard, c’est ainsi que tu révéreras ton Dieu. Je suis l’Eternel.",
+        "DBY": "Tu te lèveras devant les cheveux blancs, et tu honoreras la personne du vieillard, et tu craindras ton Dieu. Moi, je suis l'Éternel.",
+        "KJV": "Thou shalt rise up before the hoary head, and honour the face of the old man, and fear thy God: I [am] the LORD.",
+        "LSG": "Tu te lèveras devant les cheveux blancs, et tu honoreras la personne du vieillard. Tu craindras ton Dieu. Je suis l'Eternel.",
+        "MAB": "Lève-toi devant les cheveux blancs, et honore la personne du vieillard, et crains ton Dieu; je suis l'Eternel.",
+        "OST": "Lève-toi devant les cheveux blancs, honore la personne du vieillard, et crains ton Dieu: Je suis l'Éternel.",
+        "S21": "»Tu te lèveras devant la personne aux cheveux blancs et tu traiteras le vieillard avec honneur. Tu craindras ton Dieu. Je suis l'Eternel."
+      }
+    },
+    {
+      "verse": 33,
+      "texts": {
+        "BDS": "Si un étranger vient s’installer dans votre pays, ne l’exploitez pas.",
+        "DBY": "Si quelque étranger séjourne avec toi dans votre pays, vous ne l'opprimerez pas.",
+        "KJV": "And if a stranger sojourn with thee in your land, ye shall not vex him.",
+        "LSG": "Si un étranger vient séjourner avec vous dans votre pays, vous ne l'opprimerez point.",
+        "MAB": "Si quelque étranger habite en votre pays, vous ne lui ferez point de tort.",
+        "OST": "Quand un étranger séjournera parmi vous, dans votre pays, vous ne l'opprimerez pas.",
+        "S21": "Si un étranger vient séjourner avec vous dans votre pays, vous ne le maltraiterez pas."
+      }
+    },
+    {
+      "verse": 34,
+      "texts": {
+        "BDS": "Traitez-le comme s’il était l’un des vôtres. Tu l’aimeras comme toi-même: car vous avez été vous-mêmes étrangers en Egypte. Je suis l’Eternel, votre Dieu.",
+        "DBY": "L'étranger qui séjourne parmi vous sera pour vous comme l'Israélite de naissance, et tu l'aimeras comme toi-même; car vous avez été étrangers dans le pays d'Égypte. Moi, je suis l'Éternel, votre Dieu.",
+        "KJV": "[But] the stranger that dwelleth with you shall be unto you as one born among you, and thou shalt love him as thyself; for ye were strangers in the land of Egypt: I [am] the LORD your God.",
+        "LSG": "Vous traiterez l'étranger en séjour parmi vous comme un indigène du milieu de vous; vous l'aimerez comme vous-mêmes, car vous avez été étrangers dans le pays d'Egypte. Je suis l'Eternel, votre Dieu.",
+        "MAB": "L'étranger qui habite parmi vous, vous sera comme celui qui est né parmi vous, et vous l'aimerez comme vous-mêmes; car vous avez été étrangers au pays d'Egypte. Je suis l'Eternel votre Dieu.",
+        "OST": "L'étranger qui séjourne parmi vous, vous sera comme celui qui est né parmi vous, et tu l'aimeras comme toi-même; car vous avez été étrangers dans le pays d'Égypte: Je suis l'Éternel, votre Dieu.",
+        "S21": "Vous traiterez l'étranger en séjour parmi vous comme un Israélite, comme l’un de vous; vous l'aimerez comme vous-mêmes, car vous avez été étrangers en Egypte. Je suis l'Eternel, votre Dieu."
+      }
+    },
+    {
+      "verse": 35,
+      "texts": {
+        "BDS": "Vous ne commettrez pas de malhonnêteté en fraudant sur les mesures de longueur, de poids ou de capacité.",
+        "DBY": "Et vous ne ferez pas d'injustice dans le jugement, ni dans la mesure de longueur, ni dans le poids, ni dans la mesure de capacité.",
+        "KJV": "Ye shall do no unrighteousness in judgment, in meteyard, in weight, or in measure.",
+        "LSG": "Vous ne commettrez point d'iniquité ni dans les jugements, ni dans les mesures de dimension, ni dans les poids, ni dans les mesures de capacité.",
+        "MAB": "Vous ne ferez point d'iniquité en jugement, ni en règle, ni en poids, ni en mesure.",
+        "OST": "Vous ne commettrez point d'iniquité dans le jugement, ni dans la mesure, ni dans le poids, ni dans la contenance.",
+        "S21": "»Vous ne commettrez pas d’injustice ni dans les jugements, ni dans les mesures de dimension, ni dans les poids, ni dans les mesures de capacité."
+      }
+    },
+    {
+      "verse": 36,
+      "texts": {
+        "BDS": "Vous vous servirez de balances justes, de poids justes, de mesures de capacité justes. Je suis l’Eternel, votre Dieu, qui vous ai fait sortir d’Egypte.",
+        "DBY": "Vous aurez des balances justes, des poids justes, l'épha juste, et le hin juste. Moi, je suis l'Éternel, votre Dieu, qui vous ai fait sortir du pays d'Égypte.",
+        "KJV": "Just balances, just weights, a just ephah, and a just hin, shall ye have: I [am] the LORD your God, which brought you out of the land of Egypt.",
+        "LSG": "Vous aurez des balances justes, des poids justes, des épha justes et des hin justes. Je suis l'Eternel, votre Dieu, qui vous ai fait sortir du pays d'Egypte.",
+        "MAB": "Vous aurez les balances justes, les pierres [à peser] justes, l'Epha juste, et le Hin juste. Je suis l'Eternel votre Dieu qui vous ai retirés du pays d'Egypte.",
+        "OST": "Vous aurez des balances justes, des pierres à peser justes, un épha juste, et un hin juste: Je suis l'Éternel, votre Dieu, qui vous ai fait sortir du pays d'Égypte.",
+        "S21": "Vous aurez des balances justes, des poids justes, des mesures de solides justes et des mesures de liquides justes. Je suis l'Eternel, votre Dieu, qui vous ai fait sortir d'Egypte."
+      }
+    },
+    {
+      "verse": 37,
+      "texts": {
+        "BDS": "Vous obéirez donc à toutes mes ordonnances et à toutes mes lois et vous les appliquerez. Je suis l’Eternel.",
+        "DBY": "Et vous garderez tous mes statuts et toutes mes ordonnances, et vous les ferez. Moi, je suis l'Éternel.",
+        "KJV": "Therefore shall ye observe all my statutes, and all my judgments, and do them: I [am] the LORD.",
+        "LSG": "Vous observerez toutes mes lois et toutes mes ordonnances, et vous les mettrez en pratique. Je suis l'Eternel.",
+        "MAB": "Gardez donc toutes mes ordonnances, et mes jugements, et les faites; je suis l'Eternel.",
+        "OST": "Vous garderez donc toutes mes lois et toutes mes ordonnances, et vous les pratiquerez: Je suis l'Éternel.",
+        "S21": "Vous respecterez toutes mes prescriptions et toutes mes règles, vous les mettrez en pratique. Je suis l'Eternel.»"
+      }
+    }
+  ]
+}

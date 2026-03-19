@@ -1,0 +1,534 @@
+{
+  "bookCode": "1CH",
+  "chapter": 9,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "Tout Israël a été recensé et inscrit dans les Annales des rois d’Israël. La population de Juda fut déportée à Babylone, à cause de ses infidélités.",
+        "DBY": "Et tous ceux d'Israël furent enregistrés par généalogies; et voici, ils sont inscrits dans le livre des rois d'Israël. Et Juda fut transporté à Babylone à cause de ses péchés.",
+        "KJV": "So all Israel were reckoned by genealogies; and, behold, they [were] written in the book of the kings of Israel and Judah, [who] were carried away to Babylon for their transgression.",
+        "LSG": "Tout Israël est enregistré dans les généalogies et inscrit dans le livre des rois d'Israël. Et Juda fut emmené captif à Babylone, à cause de ses infidélités.",
+        "MAB": "Ainsi tous ceux d'Israël furent rangés par généalogie, et voilà, ils sont écrits au Livre des Rois d'Israël; et ceux de Juda furent transportés à Babylone à cause de leurs péchés.",
+        "OST": "Tous ceux d'Israël furent enregistrés dans les généalogies; et voici, ils sont inscrits dans le livre des rois d'Israël. Et Juda fut transporté à Babylone à cause de ses prévarications.",
+        "S21": "Tous les Israélites étaient enregistrés sur des listes généalogiques et inscrits dans le livre des rois d'Israël. Puis les habitants de Juda furent exilés à Babylone à cause de leurs infidélités."
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "Les premiers à s’établir de nouveau dans leurs propriétés et dans leurs villes respectives, furent des Israélites, des prêtres, des lévites, et desservants du Temple.",
+        "DBY": "Et les premiers habitants qui étaient dans leurs possessions, dans leurs villes, étaient Israël, les sacrificateurs, les lévites, et les Nethiniens.",
+        "KJV": "Now the first inhabitants that [dwelt] in their possessions in their cities [were], the Israelites, the priests, Levites, and the Nethinims.",
+        "LSG": "Les premiers habitants qui demeuraient dans leurs possessions, dans leurs villes, étaient les Israélites, les sacrificateurs, les Lévites, et les Néthiniens.",
+        "MAB": "Mais ce sont ici les premiers qui habitèrent dans leurs possessions, [et] dans leurs villes, tant d'Israël, que des Sacrificateurs, des Lévites, et des Néthiniens.",
+        "OST": "Les premiers habitants qui demeurèrent dans leurs possessions, dans leurs villes, étaient les Israélites, les sacrificateurs, les Lévites et les Néthiniens.",
+        "S21": "Les premiers habitants à retrouver leurs possessions et leurs villes furent des Israélites, les prêtres, les Lévites et les serviteurs du temple."
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "De plus, des gens des tribus de Juda, de Benjamin, d’Ephraïm et de Manassé s’établirent à Jérusalem:",
+        "DBY": "à Jérusalem habitèrent des fils de Juda, et des fils de Benjamin, et des fils d'Éphraïm et de Manassé:",
+        "KJV": "And in Jerusalem dwelt of the children of Judah, and of the children of Benjamin, and of the children of Ephraim, and Manasseh;",
+        "LSG": "A Jérusalem habitaient des fils de Juda, des fils de Benjamin, et des fils d'Ephraïm et de Manassé. -",
+        "MAB": "Et il demeura dans Jérusalem, des enfants de Juda, des enfants de Benjamin, et des enfants d'Ephraïm et de Manassé.",
+        "OST": "A Jérusalem habitaient des enfants de Juda, des enfants de Benjamin, des enfants d'Éphraïm et de Manassé.",
+        "S21": "A Jérusalem s’installèrent des Judéens, des Benjaminites, des Ephraïmites et des Manassites."
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "Outaï, fils d’Ammihoud, ayant pour ascendants Omri, Imri, Bani, du lignage de Pérets, fils de Juda.",
+        "DBY": "Uthaï, fils d'Ammihud, fils d'Omri, fils d'Imri, fils de Bani, des fils de Pérets, fils de Juda.",
+        "KJV": "Uthai the son of Ammihud, the son of Omri, the son of Imri, the son of Bani, of the children of Pharez the son of Judah.",
+        "LSG": "Des fils de Pérets, fils de Juda: Uthaï, fils d'Ammihud, fils d'Omri, fils d'Imri, fils de Bani.",
+        "MAB": "Huthaï fils d'Hammihud, fils de Homri, fils d'Imri, fils de Bani, des enfants de Pharez, fils de Juda.",
+        "OST": "Des enfants de Pharets, fils de Juda: Uthaï, fils d'Ammihud, fils d'Omri, fils d'Imri, fils de Bani.",
+        "S21": "Parmi les descendants de Pérets, le fils de Juda, figurait Uthaï, fils d'Ammihud et descendant d'Omri, d'Imri et de Bani."
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "Parmi les Chilonites, il y avait Asaya, le premier-né et ses fils.",
+        "DBY": "Et des Shilonites: Asçaïa, le premier-né, et ses fils.",
+        "KJV": "And of the Shilonites; Asaiah the firstborn, and his sons.",
+        "LSG": "Des Schilonites: Asaja, le premier-né, et ses fils.",
+        "MAB": "Et des Silonites, Hasaïa le premier-né, et ses fils.",
+        "OST": "Des Shilonites: Asaja, le premier-né, et ses fils.",
+        "S21": "Parmi les Shilonites figuraient Asaja, l’aîné, et ses fils."
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "Des descendants de Zérah, il y avait Yeouel. Les membres de la tribu de Juda installés à Jérusalem étaient au nombre de 690.",
+        "DBY": "Et des fils de Zérakh: Jehuel, et ses frères, six cent quatre-vingt-dix.",
+        "KJV": "And of the sons of Zerah; Jeuel, and their brethren, six hundred and ninety.",
+        "LSG": "Des fils de Zérach: Jeuel, et ses frères, six cent quatre-vingt-dix. -",
+        "MAB": "Et des enfants de Zara, Jéhuël, et ses frères, six cent quatre-vingt et dix.",
+        "OST": "Des enfants de Zérach: Jéuël et ses frères, six cent quatre-vingt-dix.",
+        "S21": "Parmi les descendants de Zérach figurait Jeuel. Avec leurs frères, ils étaient 690 en tout."
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "De la tribu de Benjamin, il y avait Sallou, fils de Mechoullam, qui avait pour ascendants: Hodavia et Hassenoua;",
+        "DBY": "Et des fils de Benjamin: Sallu, fils de Meshullam, fils d'Hodavia, fils d'Hassenua;",
+        "KJV": "And of the sons of Benjamin; Sallu the son of Meshullam, the son of Hodaviah, the son of Hasenuah,",
+        "LSG": "Des fils de Benjamin: Sallu, fils de Meschullam, fils d'Hodavia, fils d'Assenua;",
+        "MAB": "Et des enfants de Benjamin, Sallu fils de Mésullam, fils de Hodavia, fils de Hassenua.",
+        "OST": "Des enfants de Benjamin: Sallu, fils de Meshullam, fils de Hodavia, fils d'Assénua;",
+        "S21": "Parmi les Benjaminites figuraient Sallu, fils de Meshullam et descendant d'Hodavia et d'Assenua,"
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "Yibneya, fils de Yeroham; Ela, fils d’Ouzzi, et petit-fils de Mikri; Mechoullam, fils de Chepatia et petit-fils de Reouel, le fils de Yibniya.",
+        "DBY": "et Jibneïa, fils de Jerokham; et Éla, fils d'Uzzi, fils de Micri; et Meshullam, fils de Shephatia, fils de Rehuel, fils de Jibnija;",
+        "KJV": "And Ibneiah the son of Jeroham, and Elah the son of Uzzi, the son of Michri, and Meshullam the son of Shephathiah, the son of Reuel, the son of Ibnijah;",
+        "LSG": "Jibneja, fils de Jerocham; Ela, fils d'Uzzi, fils de Micri; Meschullam, fils de Schephathia, fils de Reuel, fils de Jibnija;",
+        "MAB": "Et Jibnéja fils de Jéroham, et Ela fils de Huzi, fils de Micri; et Mésullam fils de Saphatia, fils de Réhuël, fils de Jibnija.",
+        "OST": "Jibnéja, fils de Jérocham; Éla, fils d'Uzzi, fils de Micri; Meshullam, fils de Shéphatia, fils de Réuël, fils de Jibnija;",
+        "S21": "Jibneja, fils de Jerocham, Ela, fils d'Uzzi et petit-fils de Micri, Meshullam, fils de Shephathia et descendant de Reuel et de Jibnija."
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "Les membres de la tribu de Benjamin installés à Jérusalem étaient au nombre de 956 et tous ces hommes étaient des chefs de groupe familial dans leur groupe familial.",
+        "DBY": "et leurs frères, selon leurs générations, neuf cent cinquante-six. Tous ces hommes-là étaient chefs des pères de leurs maisons de pères.",
+        "KJV": "And their brethren, according to their generations, nine hundred and fifty and six. All these men [were] chief of the fathers in the house of their fathers.",
+        "LSG": "et leurs frères, selon leurs générations, neuf cent cinquante-six. Tous ces hommes étaient chefs de famille dans les maisons de leurs pères.",
+        "MAB": "Leurs frères, selon leurs générations, furent neuf cent cinquante-six. Tous ces hommes-là furent chefs des pères, selon la maison de leurs pères.",
+        "OST": "Et leurs frères, selon leur génération: neuf cent cinquante-six. Tous ces hommes-là étaient chefs des pères, selon les maisons de leurs pères.",
+        "S21": "Avec leurs frères, dans leur lignée, ils étaient 956 en tout. Tous ces hommes étaient des chefs de famille."
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "Parmi les prêtres, il y avait: Yedaeya, Yehoyarib, Yakîn,",
+        "DBY": "Et des sacrificateurs: Jedahia, et Joïarib, et Jakin;",
+        "KJV": "And of the priests; Jedaiah, and Jehoiarib, and Jachin,",
+        "LSG": "Des sacrificateurs: Jedaeja; Jehojarib; Jakin;",
+        "MAB": "Et des Sacrificateurs, Jédahja, Jéhojarib, et Jakin.",
+        "OST": "Des sacrificateurs: Jédaeja, Jéhojarib, Jakin,",
+        "S21": "Parmi les prêtres figuraient Jedaeja, Jehojarib, Jakin,"
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "Azaria, fils de Hilqiya, qui avait pour ascendants: Mechoullam, Tsadoq, Merayoth, Ahitoub, responsable en chef du Temple de Dieu;",
+        "DBY": "et Azaria, fils de Hilkija, fils de Meshullam, fils de Tsadok, fils de Meraïoth, fils d'Akhitub, prince de la maison de Dieu;",
+        "KJV": "And Azariah the son of Hilkiah, the son of Meshullam, the son of Zadok, the son of Meraioth, the son of Ahitub, the ruler of the house of God;",
+        "LSG": "Azaria, fils de Hilkija, fils de Meschullam, fils de Tsadok, fils de Merajoth, fils d'Achithub, prince de la maison de Dieu;",
+        "MAB": "Et Hazaria fils de Hilkija, fils de Mésullam, fils de Tsadoc, fils de Mérajoth, fils d'Ahitub, conducteur de la maison de Dieu.",
+        "OST": "Azaria, fils de Hilkija, fils de Meshullam, fils de Tsadok, fils de Mérajoth, fils d'Achitub, gouverneur de la maison de Dieu;",
+        "S21": "Azaria, fils de Hilkija et descendant de Meshullam, Tsadok, Merajoth et Achithub, qui était responsable de la maison de Dieu,"
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "il y avait aussi Adaya, fils de Yeroham, qui avait pour ascendants Pachhour et Malkiya; il y avait Maesaï, fils d’Adiel, dont les ascendants étaient Yahzéra, Mechoullam, Mechillémith et Immer.",
+        "DBY": "et Adaïa, fils de Jerokham, fils de Pashkhur, fils de Malkija; et Mahçaï, fils d'Adiel, fils de Jakhzéra, fils de Meshullam, fils de Meshillémith, fils d'Immer;",
+        "KJV": "And Adaiah the son of Jeroham, the son of Pashur, the son of Malchijah, and Maasiai the son of Adiel, the son of Jahzerah, the son of Meshullam, the son of Meshillemith, the son of Immer;",
+        "LSG": "Adaja, fils de Jerocham, fils de Paschhur, fils de Malkija; Maesaï, fils d'Adiel, fils de Jachzéra, fils de Meschullam, fils de Meschillémith, fils d'Immer;",
+        "MAB": "Et Hadaja fils de Jéroham, fils de Pashur, fils de Malkija; et Mahasaï, fils d'Hadiël, fils de Jahzéra, fils de Mésullam, fils de Mésillémith, fils d'Immer.",
+        "OST": "Adaja, fils de Jérocham, fils de Pashur, fils de Malkija; Maesaï, fils d'Adiel, fils de Jachzéra, fils de Meshullam, fils de Meshillémith, fils d'Immer;",
+        "S21": "Adaja, fils de Jerocham et descendant de Pashhur et Malkija, ainsi que Maesaï, fils d'Adiel et descendant de Jachzéra, Meshullam, Meshillémith et Immer."
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "Avec les autres prêtres, chefs de leur groupe familial, ils étaient au nombre de 1 760 hommes forts et vaillants affectés au service du Temple de Dieu.",
+        "DBY": "et leurs frères, chefs de leurs maisons de pères, mille sept cent soixante hommes forts et vaillants, pour l'œuvre du service de la maison de Dieu.",
+        "KJV": "And their brethren, heads of the house of their fathers, a thousand and seven hundred and threescore; very able men for the work of the service of the house of God.",
+        "LSG": "et leurs frères, chefs des maisons de leurs pères, mille sept cent soixante, hommes vaillants, occupés au service de la maison de Dieu.",
+        "MAB": "Et leurs frères chefs en la maison de leurs pères, mille sept cent soixante hommes, forts et vaillants, pour faire l'œuvre du service de la maison de Dieu.",
+        "OST": "Et leurs frères, chefs de la maison de leurs pères, mille sept cent soixante, hommes vaillants, pour l'œuvre du service de la maison de Dieu.",
+        "S21": "Avec leurs frères, qui étaient chefs de leurs familles, ils étaient 1760 en tout. C’étaient des hommes vaillants, chargés du service de la maison de Dieu."
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "Parmi les lévites: Chemaeya, fils de Hachoub, descendant d’Azriqam, Hachabya du lignage de Merari;",
+        "DBY": "Et des lévites: Shemahia, fils de Hashub, fils d'Azrikam, fils de Hashabia, des fils de Merari;",
+        "KJV": "And of the Levites; Shemaiah the son of Hasshub, the son of Azrikam, the son of Hashabiah, of the sons of Merari;",
+        "LSG": "Des Lévites: Schemaeja, fils de Haschub, fils d'Azrikam, fils de Haschabia, des fils de Merari;",
+        "MAB": "Et les Lévites, Sémahja, fils de Hasub, fils de Hazrikam, fils de Hasabia, des enfants de Mérari,",
+        "OST": "Des Lévites: Shémaja, fils de Hashub, fils d'Azrikam, fils de Hashabia, des enfants de Mérari;",
+        "S21": "Parmi les Lévites figuraient Shemaeja, fils de Hashub et descendant d'Azrikam et Hashabia, qui était un descendant de Merari,"
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "il y avait aussi Baqbaqar, Hérech, Galal, Mattania, fils de Michée, petit-fils de Zikri, et descendant d’Asaph.",
+        "DBY": "et Bakbakkar, Héresh, et Galal; et Matthania, fils de Michée, fils de Zicri, fils d'Asaph;",
+        "KJV": "And Bakbakkar, Heresh, and Galal, and Mattaniah the son of Micah, the son of Zichri, the son of Asaph;",
+        "LSG": "Bakbakkar; Héresch; Galal; Matthania, fils de Michée, fils de Zicri, fils d'Asaph;",
+        "MAB": "Bakbakar, Hérès, et Galal; et Mattania fils de Mica, fils de Zicri, fils d'Asaph.",
+        "OST": "Bakbakkar, Hérèsh, Galal, Matthania, fils de Mica, fils de Zicri, fils d'Asaph;",
+        "S21": "Bakbakkar, Héresh, Galal, Matthania, fils de Michée et descendant de Zicri et Asaph,"
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "Il y avait Abdias, fils de Chemaeya, descendant de Galal et Yedoutoun; il y avait Bérékia, fils d’Asa et petit-fils d’Elqana, qui habitait dans les villages des Netophatites.",
+        "DBY": "et Abdias, fils de Shemahia, fils de Galal, fils de Jeduthun; et Bérékia, fils d'Asa, fils d'Elkana, qui habitait dans les villages des Netophathites.",
+        "KJV": "And Obadiah the son of Shemaiah, the son of Galal, the son of Jeduthun, and Berechiah the son of Asa, the son of Elkanah, that dwelt in the villages of the Netophathites.",
+        "LSG": "Abdias, fils de Schemaeja, fils de Galal, fils de Jeduthun; Bérékia, fils d'Asa, fils d'Elkana, qui habitait dans les villages des Nethophathiens.",
+        "MAB": "Et Hobadia fils de Sémathia, fils de Galal, fils de Jéduthun; et Bérécia, fils d'Asa, fils d'Elkana, qui habita dans les bourgs des Nétophatiens.",
+        "OST": "Obadia, fils de Shémaja, fils de Galal, fils de Jéduthun; Bérekia, fils d'Asa, fils d'Elkana, qui habita dans les villages des Néthophatiens.",
+        "S21": "Abdias, fils de Shemaeja et descendant de Galal et Jeduthun, ainsi que Bérékia, fils d'Asa et petit-fils d'Elkana, qui habitait dans les villages des Nethophathiens."
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "Il y avait encore des portiers: Challoum, Aqoub, Talmôn, Ahimân et leurs frères. Challoum en était le chef.",
+        "DBY": "Et les portiers: Shallum, et Akkub, et Talmon, et Akhiman, et leurs frères; Shallum était le chef.",
+        "KJV": "And the porters [were], Shallum, and Akkub, and Talmon, and Ahiman, and their brethren: Shallum [was] the chief;",
+        "LSG": "Et les portiers: Schallum, Akkub, Thalmon, Achiman, et leurs frères; Schallum était le chef,",
+        "MAB": "Et quant aux portiers, Sallum, Hakkub, Talmon, et Ahiman, et leurs frères; [mais] Sallum était le chef;",
+        "OST": "Et les portiers: Shallum, Akkub, Talmon, Achiman, et leurs frères; Shallum était le chef.",
+        "S21": "Comme portiers, il y avait Shallum, Akkub, Thalmon, Achiman et leurs frères; Shallum était leur chef,"
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "Et, jusqu’à présent, ses descendants surveillent l’entrée orientale du Temple appelée la porte du roi. Ce sont là les portiers du camp des lévites.",
+        "DBY": "Et ils sont jusqu'à maintenant à la porte du roi, au levant; ils étaient les portiers des camps des fils de Lévi.",
+        "KJV": "Who hitherto [waited] in the king's gate eastward: they [were] porters in the companies of the children of Levi.",
+        "LSG": "et jusqu'à présent il est à la porte du roi, à l'orient. Ce sont là les portiers pour le camp des fils de Lévi.",
+        "MAB": "[Et il l'a été] jusqu'à maintenant, [ayant la charge] de la porte du Roi vers l'Orient. Ceux-là furent portiers selon les familles des enfants de Lévi.",
+        "OST": "Et jusqu'à présent ils sont à la porte du roi, à l'orient. Ce sont les portiers pour le camp des enfants de Lévi.",
+        "S21": "et jusqu'à présent ils se tiennent à la porte du roi, à l'est. C’étaient eux les portiers du camp des Lévites."
+      }
+    },
+    {
+      "verse": 19,
+      "texts": {
+        "BDS": "Challoum, fils de Qoré, descendant d’Ebiasaph, et de Qoré, ainsi que les autres membres du groupe familial des Qoréites, remplissaient les fonctions de gardiens de l’entrée de la tente de la Rencontre, comme leurs ancêtres avaient gardé l’entrée du camp de l’Eternel.",
+        "DBY": "Et Shallum, fils de Koré, fils d'Ébiasaph, fils de Coré, et ses frères, les Corites, de la maison de son père, étaient préposés sur l'œuvre du service, gardant les seuils de la tente: et leurs pères avaient été préposés sur le camp de l'Éternel, gardant l'entrée;",
+        "KJV": "And Shallum the son of Kore, the son of Ebiasaph, the son of Korah, and his brethren, of the house of his father, the Korahites, [were] over the work of the service, keepers of the gates of the tabernacle: and their fathers, [being] over the host of the LORD, [were] keepers of the entry.",
+        "LSG": "Schallum, fils de Koré, fils d'Ebiasaph, fils de Koré, et ses frères de la maison de son père, les Koréites, remplissaient les fonctions de gardiens des seuils de la tente; leurs pères avaient gardé l'entrée du camp de l'Eternel,",
+        "MAB": "Et Sallum fils de Coré, fils d'Ebiasaph, fils de Coré, et ses frères Corites, selon la maison de son père, avaient la charge de l'ouvrage du service, gardant les vaisseaux du Tabernacle, comme leurs pères en avaient gardé l'entrée au camp de l'Eternel,",
+        "OST": "Shallum, fils de Coré, fils d'Ebiasaph, fils de Coré, et ses frères, les Corites, de la maison de son père, avaient la charge de l'ouvrage du service, gardant les seuils du tabernacle; leurs pères avaient gardé l'entrée du camp de l'Éternel;",
+        "S21": "Shallum, fils de Koré et descendant d'Ebiasaph et de Koré, ainsi que ses frères, membres de la même famille, les Koréites, remplissaient les fonctions de gardiens des entrées de la tente. Leurs ancêtres avaient gardé l'entrée du camp de l'Eternel,"
+      }
+    },
+    {
+      "verse": 20,
+      "texts": {
+        "BDS": "Phinéas, fils d’Eléazar, avait été autrefois leur chef car l’Eternel était avec lui.",
+        "DBY": "et Phinées, fils d'Éléazar, fut autrefois prince sur eux: l'Éternel était avec lui.",
+        "KJV": "And Phinehas the son of Eleazar was the ruler over them in time past, [and] the LORD [was] with him.",
+        "LSG": "et Phinées, fils d'Eléazar, avait été autrefois leur chef, et l'Eternel était avec lui.",
+        "MAB": "Lorsque Phinées, fils d'Eléazar, fut établi chef sur eux en la présence de l'Eternel, qui était avec lui.",
+        "OST": "Phinées, fils d'Éléazar, avec qui l'Éternel était, fut autrefois leur chef.",
+        "S21": "et Phinées, le fils d'Eléazar, avait été leur chef, par le passé, car l'Eternel était avec lui."
+      }
+    },
+    {
+      "verse": 21,
+      "texts": {
+        "BDS": "Zacharie, fils de Mechélémia, était aussi portier à l’entrée de la tente de la Rencontre.",
+        "DBY": "Zacharie, fils de Meshélémia, était portier à l'entrée de la tente d'assignation.",
+        "KJV": "[And] Zechariah the son of Meshelemiah [was] porter of the door of the tabernacle of the congregation.",
+        "LSG": "Zacharie, fils de Meschélémia, était portier à l'entrée de la tente d'assignation.",
+        "MAB": "Et Zacharie fils de Mésélémia [était] le portier de l'entrée du Tabernacle d'assignation.",
+        "OST": "Zacharie, fils de Meshélémia, était portier à l'entrée du tabernacle d'assignation.",
+        "S21": "Zacharie, fils de Meshélémia, était portier à l'entrée de la tente de la rencontre."
+      }
+    },
+    {
+      "verse": 22,
+      "texts": {
+        "BDS": "Ils étaient en tout 212 qui avaient été choisis comme portiers des entrées et ils avaient été recensés d’après leurs villages d’origine. David et Samuel le prophète les avaient établis dans leur fonction de façon permanente.",
+        "DBY": "Tous ceux-là, choisis pour portiers des seuils, étaient deux cent douze; ils furent enregistrés par généalogies dans leurs villages; David et Samuel, le voyant, les avaient établis dans leur charge.",
+        "KJV": "All these [which were] chosen to be porters in the gates [were] two hundred and twelve. These were reckoned by their genealogy in their villages, whom David and Samuel the seer did ordain in their set office.",
+        "LSG": "Ils étaient en tout deux cent douze, choisis pour portiers des seuils, et enregistrés dans les généalogies d'après leurs villages; David et Samuel le voyant les avaient établis dans leurs fonctions.",
+        "MAB": "Ce sont là tous ceux qui furent choisis pour être les portiers des entrées, deux cent et douze; qui furent mis selon les familles par généalogie, selon leurs bourgs, comme David et Samuël le Voyant les avaient établis dans leur office.",
+        "OST": "Tous choisis pour portiers des seuils, ils étaient deux cent douze, enregistrés dans les généalogies d'après leurs villages; David et Samuel, le Voyant, les avaient établis dans leur office.",
+        "S21": "Ils étaient en tout 212, choisis comme portiers et enregistrés dans les généalogies d'après leurs villages; c’étaient David et Samuel le voyant qui les avaient établis dans leurs fonctions permanentes."
+      }
+    },
+    {
+      "verse": 23,
+      "texts": {
+        "BDS": "Eux et leurs descendants ont donc pour fonction de surveiller les portes du sanctuaire de l’Eternel, c’est-à-dire du sanctuaire de la Tente.",
+        "DBY": "Et eux, et leurs fils, étaient établis aux portes de la maison de l'Éternel, de la maison de la tente, pour y faire la garde.",
+        "KJV": "So they and their children [had] the oversight of the gates of the house of the LORD, [namely], the house of the tabernacle, by wards.",
+        "LSG": "Eux et leurs enfants gardaient les portes de la maison de l'Eternel, de la maison de la tente.",
+        "MAB": "Eux, [dis-je], et leurs enfants furent établis sur les portes de la maison de l'Eternel, qui est la maison du Tabernacle, pour y faire la garde.",
+        "OST": "Eux et leurs enfants étaient préposés à la garde des portes de la maison de l'Éternel, de la maison du tabernacle.",
+        "S21": "Eux et leurs enfants étaient responsables de garder les portes de la maison de l'Eternel, du tabernacle."
+      }
+    },
+    {
+      "verse": 24,
+      "texts": {
+        "BDS": "Il y avait des portiers des quatre côtés: à l’est, à l’ouest, au nord et au sud.",
+        "DBY": "Les portiers étaient vers les quatre vents, à l'orient, à l'occident, au nord, et au midi.",
+        "KJV": "In four quarters were the porters, toward the east, west, north, and south.",
+        "LSG": "Il y avait des portiers aux quatre vents, à l'orient, à l'occident, au nord et au midi.",
+        "MAB": "Les portiers devaient être vers les quatre vents; [savoir], vers l'Orient et l'Occident, vers le Septentrion et le Midi.",
+        "OST": "Il y avait des portiers aux quatre vents, à l'orient, à l'occident, au nord et au midi.",
+        "S21": "Les portiers étaient postés des quatre côtés: à l'est, à l'ouest, au nord et au sud."
+      }
+    },
+    {
+      "verse": 25,
+      "texts": {
+        "BDS": "D’autres portiers, qui demeuraient dans leurs villages respectifs, devaient de temps à autre venir auprès d’eux pendant sept jours.",
+        "DBY": "Et leurs frères, dans leurs villages, devaient venir de sept jours en sept jours, d'un terme à l'autre, auprès d'eux;",
+        "KJV": "And their brethren, [which were] in their villages, [were] to come after seven days from time to time with them.",
+        "LSG": "Leurs frères, qui demeuraient dans leurs villages, devaient de temps à autre venir auprès d'eux pendant sept jours.",
+        "MAB": "Et leurs frères, qui étaient dans leurs bourgs, devaient venir avec eux de sept jours en sept jours, de temps en temps.",
+        "OST": "Leurs frères, qui étaient dans leurs villages, devaient de temps en temps venir auprès d'eux pendant sept jours.",
+        "S21": "Leurs frères, qui habitaient dans leurs villages, devaient de temps à autre venir auprès d'eux pendant sept jours."
+      }
+    },
+    {
+      "verse": 26,
+      "texts": {
+        "BDS": "Cependant, ces quatre portiers principaux étaient en fonction de façon permanente; c’étaient des lévites et ils avaient la responsabilité des salles et des trésors du sanctuaire de Dieu.",
+        "DBY": "car, dans leur charge, ces quatre furent les principaux portiers: ils étaient Lévites; et ils étaient préposés sur les chambres et sur les trésors de la maison de Dieu,",
+        "KJV": "For these Levites, the four chief porters, were in [their] set office, and were over the chambers and treasuries of the house of God.",
+        "LSG": "Car ces quatre chefs des portiers, ces Lévites, étaient toujours en fonctions, et ils avaient encore la surveillance des chambres et des trésors de la maison de Dieu;",
+        "MAB": "Car selon cet ordre, il y avait toujours quatre maîtres-portiers, Lévites, qui étaient même commis sur les chambres, et sur les trésors de la maison de Dieu.",
+        "OST": "Car ces quatre chefs des portiers étaient toujours en fonctions. Ils étaient Lévites, et étaient préposés sur les chambres et sur les trésors de la maison de Dieu.",
+        "S21": "En effet, ces quatre chefs des portiers, ces Lévites, étaient toujours en fonctions. Ils étaient en outre responsables des chambres et des trésors de la maison de Dieu."
+      }
+    },
+    {
+      "verse": 27,
+      "texts": {
+        "BDS": "Ils passaient la nuit dans les environs du sanctuaire de Dieu, puisqu’ils en avaient la garde et qu’ils devaient en ouvrir les portes chaque matin.",
+        "DBY": "et ils se tenaient la nuit autour de la maison de Dieu, car la garde leur en appartenait, et ils en avaient la clé, pour ouvrir chaque matin.",
+        "KJV": "And they lodged round about the house of God, because the charge [was] upon them, and the opening thereof every morning [pertained] to them.",
+        "LSG": "ils passaient la nuit autour de la maison de Dieu, dont ils avaient la garde, et qu'ils devaient ouvrir chaque matin.",
+        "MAB": "Et ils se tenaient la nuit tout autour de la maison de Dieu; car la garde leur en appartenait, et ils avaient la charge de l'ouvrir tous les matins.",
+        "OST": "Ils se tenaient la nuit autour de la maison de Dieu; car la garde leur en appartenait, et ils avaient la charge de l'ouvrir tous les matins.",
+        "S21": "Ils passaient la nuit dans les environs de la maison de Dieu, car ils en avaient la garde et devaient l’ouvrir chaque matin."
+      }
+    },
+    {
+      "verse": 28,
+      "texts": {
+        "BDS": "Certains lévites avaient la responsabilité des ustensiles du service: ils les comptaient lorsqu’on les emportait et lorsqu’on les rapportait.",
+        "DBY": "Il y en avait aussi quelques-uns d'entre eux qui étaient préposés sur les ustensiles du service; car ils les rentraient en les comptant, et ils les sortaient en les comptant.",
+        "KJV": "And [certain] of them had the charge of the ministering vessels, that they should bring them in and out by tale.",
+        "LSG": "Quelques-uns des Lévites prenaient soin des ustensiles du service, qu'ils rentraient en les comptant et sortaient en les comptant.",
+        "MAB": "Il y en avait aussi quelques-uns d'entr'eux commis sur les vaisseaux du service; car on les portait dans le [Temple], par compte, et on les en tirait par compte.",
+        "OST": "Il y en avait d'entre eux qui étaient commis sur les ustensiles du service. Car on en faisait le compte lorsqu'on les rentrait et qu'on les sortait.",
+        "S21": "Quelques-uns des Lévites étaient responsables des ustensiles du service, qu'ils comptaient en les rentrant et en les sortant."
+      }
+    },
+    {
+      "verse": 29,
+      "texts": {
+        "BDS": "D’autres étaient désignés pour veiller sur les ustensiles, y compris les ustensiles du sanctuaire, et sur la fleur de farine, le vin, l’huile, l’encens et les aromates.",
+        "DBY": "Et il y en avait qui étaient commis sur les vases, et sur tous les ustensiles du lieu saint, et sur la fleur de farine, et sur le vin, et sur l'huile, et sur l'encens, et sur les aromates.",
+        "KJV": "[Some] of them also [were] appointed to oversee the vessels, and all the instruments of the sanctuary, and the fine flour, and the wine, and the oil, and the frankincense, and the spices.",
+        "LSG": "D'autres veillaient sur les ustensiles, sur tous les ustensiles du sanctuaire, et sur la fleur de farine, le vin, l'huile, l'encens et les aromates.",
+        "MAB": "Il y en avait aussi qui étaient commis sur les autres ustensiles, et sur tous les vaisseaux consacrés, et sur la fleur de farine, et sur le vin, et sur l'huile, et sur l'encens, et sur les choses aromatiques.",
+        "OST": "Il y en avait aussi qui étaient commis sur les ustensiles, sur tous les ustensiles du sanctuaire et sur la fleur de farine, le vin, l'huile, l'encens et les aromates.",
+        "S21": "D'autres étaient chargés des ustensiles, de tous les ustensiles du sanctuaire, et de la fleur de farine, du vin, de l'huile, de l'encens et des aromates."
+      }
+    },
+    {
+      "verse": 30,
+      "texts": {
+        "BDS": "Mais c’étaient des membres des familles sacerdotales qui composaient les parfums aromatiques.",
+        "DBY": "Et c'étaient des fils des sacrificateurs qui composaient les parfums avec les aromates.",
+        "KJV": "And [some] of the sons of the priests made the ointment of the spices.",
+        "LSG": "C'étaient des fils de sacrificateurs qui composaient les parfums aromatiques.",
+        "MAB": "Mais ceux qui faisaient les parfums des choses aromatiques, étaient des enfants des Sacrificateurs.",
+        "OST": "Ceux qui faisaient les parfums aromatiques étaient des fils de sacrificateurs.",
+        "S21": "C'étaient des fils de prêtres qui faisaient les mélanges pour les parfums aromatiques."
+      }
+    },
+    {
+      "verse": 31,
+      "texts": {
+        "BDS": "Mattita, l’un des lévites, fils aîné de Challoum le Qoréite, était responsable de la fabrication des gâteaux cuits à la poêle.",
+        "DBY": "Et Mathithia, d'entre les Lévites, premier-né de Shallum, le Corite, avait la charge de l'ouvrage des gâteaux cuits sur la plaque;",
+        "KJV": "And Mattithiah, [one] of the Levites, who [was] the firstborn of Shallum the Korahite, had the set office over the things that were made in the pans.",
+        "LSG": "Matthithia, l'un des Lévites, premier-né de Schallum le Koréite, s'occupait des gâteaux cuits sur la plaque.",
+        "MAB": "Et Mattitia, d'entre les Lévites, premier-né de Sallum, Corite, avait la charge de ce qui se faisait avec les plaques.",
+        "OST": "Matthithia, d'entre les Lévites, premier-né de Shallum, Corite, avait la charge des gâteaux cuits sur la plaque.",
+        "S21": "Matthithia, l'un des Lévites, fils aîné de Shallum le Koréite, s'occupait des gâteaux cuits sur la plaque."
+      }
+    },
+    {
+      "verse": 32,
+      "texts": {
+        "BDS": "D’autres lévites, faisant partie des Qehatites, avaient la responsabilité de préparer chaque jour de repos les pains devant être exposés devant l’Eternel.",
+        "DBY": "et des fils de Kehathites, d'entre leurs frères, étaient chargés des pains à placer en rangées, pour les apprêter chaque sabbat.",
+        "KJV": "And [other] of their brethren, of the sons of the Kohathites, [were] over the shewbread, to prepare [it] every sabbath.",
+        "LSG": "Et quelques-uns de leurs frères, parmi les Kehathites, étaient chargés de préparer pour chaque sabbat les pains de proposition.",
+        "MAB": "Et il y en avait d'entre les enfants des Kéhathites, leurs frères, qui avaient la charge du pain de proposition pour l'apprêter chaque Sabbat.",
+        "OST": "Parmi les enfants des Kéhathites, leurs frères, il y en avait qui avaient la charge des pains de proposition, pour les apprêter, chaque sabbat.",
+        "S21": "Quelques-uns de leurs frères, des Kehathites, étaient chargés de préparer pour chaque sabbat les pains consacrés."
+      }
+    },
+    {
+      "verse": 33,
+      "texts": {
+        "BDS": "Les chefs de groupe familial des lévites affectés au chant avaient leurs chambres; ils étaient dispensés de toute autre tâche, parce qu’ils étaient de service jour et nuit.",
+        "DBY": "Et ce sont là les chantres, chefs des pères des Lévites, qui étaient dans les chambres, étant exempts d'autres fonctions, parce que, jour et nuit, ils étaient à l'œuvre.",
+        "KJV": "And these [are] the singers, chief of the fathers of the Levites, [who remaining] in the chambers [were] free: for they were employed in [that] work day and night.",
+        "LSG": "Ce sont là les chantres, chefs de famille des Lévites, demeurant dans les chambres, exempts des autres fonctions parce qu'ils étaient à l'oeuvre jour et nuit.",
+        "MAB": "Et d'entr'eux il y avait aussi des chantres, chefs des pères des Lévites, qui demeuraient dans les chambres, sans avoir autre charge, parce qu'ils devaient être en fonction le jour et la nuit.",
+        "OST": "Ce sont là les chantres, chefs des maisons des pères des Lévites, demeurant dans les chambres, exemptés d'autres charges parce qu'ils devaient être en fonctions le jour et la nuit.",
+        "S21": "Les chefs de famille des Lévites qui étaient musiciens habitaient dans les chambres. Ils étaient dispensés des autres fonctions parce qu'ils étaient à l'œuvre jour et nuit."
+      }
+    },
+    {
+      "verse": 34,
+      "texts": {
+        "BDS": "Ce sont là des chefs de groupe familial des lévites chacun dans sa génération. Ils habitaient à Jérusalem.",
+        "DBY": "Ce sont les chefs des pères des Lévites, selon leurs générations, des chefs; ceux-là habitèrent à Jérusalem.",
+        "KJV": "These chief fathers of the Levites [were] chief throughout their generations; these dwelt at Jerusalem.",
+        "LSG": "Ce sont là les chefs de famille des Lévites, chefs selon leurs générations. Ils habitaient à Jérusalem.",
+        "MAB": "Ce sont là les chefs des pères des Lévites, selon leurs familles; ils furent chefs, et ils habitèrent à Jérusalem.",
+        "OST": "Ce sont là les chefs des pères des Lévites, chefs selon leur naissance; ils habitaient à Jérusalem.",
+        "S21": "Tels étaient les chefs de famille des Lévites en fonction de leur lignée. Ils habitaient à Jérusalem."
+      }
+    },
+    {
+      "verse": 35,
+      "texts": {
+        "BDS": "Le père de Gabaon, Yeïel, habitait à Gabaon. Sa femme s’appelait Maaka.",
+        "DBY": "Et à Gabaon habita le père de Gabaon, Jehiel; et le nom de sa femme était Maaca.",
+        "KJV": "And in Gibeon dwelt the father of Gibeon, Jehiel, whose wife's name [was] Maachah:",
+        "LSG": "Le père de Gabaon, Jeïel, habitait à Gabaon, et le nom de sa femme était Maaca.",
+        "MAB": "Or Jéhiël, le père de Gabaon, habita à Gabaon; et le nom de sa femme était Mahaca.",
+        "OST": "Le père de Gabaon, Jéïel, habita à Gabaon; et le nom de sa femme était Maaca;",
+        "S21": "Le père de Gabaon, Jeïel, habitait à Gabaon et sa femme s’appelait Maaca."
+      }
+    },
+    {
+      "verse": 36,
+      "texts": {
+        "BDS": "Abdôn fut son fils premier-né, puis vinrent Tsour, Qich, Baal, Ner, Nadab,",
+        "DBY": "Et son fils premier-né: Abdon; et Tsur, et Kis, et Baal, et Ner, et Nadab,",
+        "KJV": "And his firstborn son Abdon, then Zur, and Kish, and Baal, and Ner, and Nadab,",
+        "LSG": "Abdon, son fils premier-né, puis Tsur, Kis, Baal, Ner, Nadab,",
+        "MAB": "Et son fils premier-né Habdon, puis Tsur, Kis, Bahal, Ner, Nadab,",
+        "OST": "Son fils, le premier-né, fut Abdon, puis Tsur, Kis, Baal, Ner, Nadab,",
+        "S21": "Abdon était son fils aîné, puis venaient Tsur, Kis, Baal, Ner, Nadab,"
+      }
+    },
+    {
+      "verse": 37,
+      "texts": {
+        "BDS": "Guedor, Ahyo, Zacharie et Miqloth.",
+        "DBY": "et Guedor, et Akhio, et Zacharie, et Mikloth.",
+        "KJV": "And Gedor, and Ahio, and Zechariah, and Mikloth.",
+        "LSG": "Guedor, Achjo, Zacharie et Mikloth.",
+        "MAB": "Guédor, Ahio, Zacharie, et Mikloth.",
+        "OST": "Guédor, Achjo, Zacharie et Mikloth.",
+        "S21": "Guedor, Achjo, Zacharie et Mikloth."
+      }
+    },
+    {
+      "verse": 38,
+      "texts": {
+        "BDS": "Miqloth eut pour fils Chimeam. Ces derniers habitaient eux aussi à Jérusalem avec ceux qui leur étaient apparentés.",
+        "DBY": "Et Mikloth engendra Shimeam. Et eux aussi habitèrent à côté de leurs frères à Jérusalem, avec leurs frères.",
+        "KJV": "And Mikloth begat Shimeam. And they also dwelt with their brethren at Jerusalem, over against their brethren.",
+        "LSG": "Mikloth engendra Schimeam. Ils habitaient aussi à Jérusalem près de leurs frères, avec leurs frères. -",
+        "MAB": "Et Mikloth engendra Siméam; et ils habitèrent vis-à-vis de leurs frères à Jérusalem avec leurs frères.",
+        "OST": "Mikloth engendra Shiméam. Ils habitèrent aussi près de leurs frères à Jérusalem, avec leurs frères.",
+        "S21": "Mikloth eut pour fils Shimeam. Contrairement à leurs frères, ils habitaient à Jérusalem avec leurs frères."
+      }
+    },
+    {
+      "verse": 39,
+      "texts": {
+        "BDS": "Ner eut pour fils Qich, qui eut pour fils Saül; les fils de Saül furent Jonathan, Malki-Choua, Abinadab et Echbaal.",
+        "DBY": "-Et Ner engendra Kis; et Kis engendra Saül; et Saül engendra Jonathan, et Malki-Shua, et Abinadab, et Eshbaal.",
+        "KJV": "And Ner begat Kish; and Kish begat Saul; and Saul begat Jonathan, and Malchishua, and Abinadab, and Eshbaal.",
+        "LSG": "Ner engendra Kis; Kis engendra Saül; Saül engendra Jonathan, Malki-Schua, Abinadab et Eschbaal.",
+        "MAB": "Et Ner engendra Kis, et Kis engendra Saül, et Saül engendra Jonathan, Malki-suah, Abinadab et Esbahal.",
+        "OST": "Ner engendra Kis; Kis engendra Saül; Saül engendra Jonathan, Malkishua, Abinadab et Eshbaal.",
+        "S21": "Ner eut pour fils Kis; Kis eut Saül; Saül eut Jonathan, Malki-Shua, Abinadab et Eshbaal."
+      }
+    },
+    {
+      "verse": 40,
+      "texts": {
+        "BDS": "Jonathan eut pour fils Merib-Baal, qui eut pour fils Michée.",
+        "DBY": "-Et le fils de Jonathan fut Merib-Baal; et Merib-Baal engendra Michée.",
+        "KJV": "And the son of Jonathan [was] Meribbaal: and Meribbaal begat Micah.",
+        "LSG": "Fils de Jonathan: Merib-Baal. Merib-Baal engendra Michée.",
+        "MAB": "Et le fils de Jonathan [fut] Mérib-bahal; et Mérib-bahal engendra Mica.",
+        "OST": "Le fils de Jonathan fut Mérib-Baal; et Mérib-Baal engendra Mica.",
+        "S21": "Fils de Jonathan: Merib-Baal. Merib-Baal eut pour fils Michée."
+      }
+    },
+    {
+      "verse": 41,
+      "texts": {
+        "BDS": "Fils de Michée: Pitôn, Mélek et Tahréa.",
+        "DBY": "Et les fils de Michée: Pithon, et Mélec, et Thakhréa.",
+        "KJV": "And the sons of Micah [were], Pithon, and Melech, and Tahrea, [and Ahaz].",
+        "LSG": "Fils de Michée: Pithon, Mélec, et Thachréa.",
+        "MAB": "Et les enfants de Mica furent, Pithon, Mélec, Tahréah, [et Achaz].",
+        "OST": "Fils de Mica: Pithon, Mélec, Thaeréa et Achaz.",
+        "S21": "Fils de Michée: Pithon, Mélec, Thachréa."
+      }
+    },
+    {
+      "verse": 42,
+      "texts": {
+        "BDS": "Ahaz eut pour fils Yaera qui eut pour fils: Alémeth, Azmaveth et Zimri. Voici les descendants de Zimri en ligne directe: Motsa, Binea,",
+        "DBY": "-Et Achaz engendra Jahra; et Jahra engendra Alémeth, et Azmaveth, et Zimri. Et Zimri engendra Motsa;",
+        "KJV": "And Ahaz begat Jarah; and Jarah begat Alemeth, and Azmaveth, and Zimri; and Zimri begat Moza;",
+        "LSG": "Achaz engendra Jaera; Jaera engendra Alémeth, Azmaveth et Zimri; Zimri engendra Motsa;",
+        "MAB": "Et Achaz engendra Jahra; et Jahra engendra Halemeth, Hazmaveth, et Zimri; et Zimri engendra Motsa,",
+        "OST": "Achaz engendra Jaera; Jaera engendra Alémeth, Azmaveth et Zimri; Zimri engendra Motsa;",
+        "S21": "Achaz eut pour fils Jaera; Jaera eut Alémeth, Azmaveth et Zimri; Zimri eut Motsa;"
+      }
+    },
+    {
+      "verse": 43,
+      "texts": {
+        "BDS": "Rephaya, Eleasa, Atsel.",
+        "DBY": "et Motsa engendra Binha: et Rephaïa, son fils; Elhasça, son fils; Atsel, son fils.",
+        "KJV": "And Moza begat Binea; and Rephaiah his son, Eleasah his son, Azel his son.",
+        "LSG": "Motsa engendra Binea. Rephaja, son fils; Eleasa, son fils; Atsel, son fils.",
+        "MAB": "Et Motsa engendra Binha, qui eut pour fils Réphaja, qui eut pour fils Elhasa, qui eut pour fils Atsel.",
+        "OST": "Motsa engendra Binea, qui eut pour fils Réphaja, qui eut pour fils Éleasa, qui eut pour fils Atsel.",
+        "S21": "Motsa eut Binea, lui-même père de Rephaja, père d’Eleasa, père d’Atsel."
+      }
+    },
+    {
+      "verse": 44,
+      "texts": {
+        "BDS": "Atsel eut six fils, dont voici les noms: Azriqam, Bokrou, Ismaël, Chearia, Abdias et Hanân. Tels étaient les fils d’Atsel.",
+        "DBY": "Et Atsel eut six fils, et ce sont ici leurs noms: Azrikam, Bocru, et Ismaël, et Shearia, et Abdias, et Hanan; ce furent là les fils d'Atsel.",
+        "KJV": "And Azel had six sons, whose names [are] these, Azrikam, Bocheru, and Ishmael, and Sheariah, and Obadiah, and Hanan: these [were] the sons of Azel.",
+        "LSG": "Atsel eut six fils, dont voici les noms: Azrikam, Bocru, Ismaël, Schearia, Abdias et Hanan. Ce sont là les fils d'Atsel.",
+        "MAB": "Et Atsel eut six fils, dont les noms [sont] Hazrikam, Bocru, Ismaël, Séharia, Hobadia, et Hanan. Ce furent là les fils d'Atsel.",
+        "OST": "Atsel eut six fils, dont voici les noms: Azrikam, Bocru, Ismaël, Shéaria, Obadia et Hanan. Ce sont là les fils d'Atsel.",
+        "S21": "Atsel eut six fils, dont voici les noms: Azrikam, Bocru, Ismaël, Shearia, Abdias et Hanan. Ce sont là les fils d'Atsel."
+      }
+    }
+  ]
+}

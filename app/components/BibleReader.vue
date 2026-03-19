@@ -70,27 +70,14 @@
 </template>
 
 <script lang="ts" setup>
-import type { $Enums, BibleBook, BibleBookmark, BibleNote, BibleVerse, BibleVersion } from '@prisma/client';
+import type {
+    BibleBookData,
+    BibleBookmarkWithVersePreview,
+    BibleNoteWithVersePreview,
+    BibleVerseResponseData,
+    BibleVersionData
+} from '~/types';
 import { computed } from 'vue';
-
-interface ApiVerseResponseData {
-    book: {
-        name: string;
-        code: string;
-        testament: $Enums.Testament;
-    };
-    chapter: number;
-    version: {
-        name: string;
-        code: string;
-    };
-    verses: BibleVerse[];
-    navigation: {
-        previousChapter: number | null;
-        nextChapter: number | null;
-        totalChapters: number;
-    };
-}
 
 interface ActivedVerse {
     book: { code: string; name: string; };
@@ -100,13 +87,13 @@ interface ActivedVerse {
 }
 
 const props = defineProps<{
-    book: BibleBook;
+    book: BibleBookData;
     chapter: number;
-    versesData: ApiVerseResponseData;
-    notes: (BibleNote & { verse: { chapter: number; verse: number; text: string; version: { code: string; name: string; }; }; })[];
-    bookmarks: (BibleBookmark & { verse: { chapter: number; verse: number; text: string; version: { code: string; name: string; }; }; })[];
-    versions: BibleVersion[];
-    selectedVersion: BibleVersion;
+    versesData: BibleVerseResponseData;
+    notes: BibleNoteWithVersePreview[];
+    bookmarks: BibleBookmarkWithVersePreview[];
+    versions: BibleVersionData[];
+    selectedVersion: BibleVersionData;
 }>();
 
 const showCompare = (verseId: number) => {

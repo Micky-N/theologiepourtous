@@ -1,0 +1,134 @@
+{
+  "bookCode": "PSA",
+  "chapter": 6,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "Au chef de chœur. Un psaume de David, à chanter avec accompagnement de harpes à huit cordes.",
+        "DBY": "Éternel! ne me reprends pas dans ta colère, et ne me châtie pas dans ta fureur.",
+        "KJV": "To the chief Musician on Neginoth upon Sheminith, A Psalm of David. O LORD, rebuke me not in thine anger, neither chasten me in thy hot displeasure.",
+        "LSG": "Au chef des chantres. Avec instruments à cordes. Sur la harpe à huit cordes. Psaume de David. Eternel! ne me punis pas dans ta colère, Et ne me châtie pas dans ta fureur.",
+        "MAB": "Psaume de David, [donné] au maître chantre, [pour le chanter] en Néguinoth, sur Séminith. Eternel! ne me reprends point en ta colère, et ne me châtie point en ta fureur.",
+        "OST": "Au maître-chantre. Avec instruments à cordes. Sur Shéminith. Psaume de David.",
+        "S21": "Au chef de chœur, avec instruments à cordes, sur la harpe à huit cordes. Psaume de David."
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "Eternel, mon Dieu, malgré ta colère, ne me punis pas\r\net, dans ton courroux, ne me châtie pas!",
+        "DBY": "Use de grâce envers moi, Éternel! car je suis défaillant; guéris-moi, Éternel! car mes os sont troublés.",
+        "KJV": "Have mercy upon me, O LORD; for I [am] weak: O LORD, heal me; for my bones are vexed.",
+        "LSG": "Aie pitié de moi, Eternel! car je suis sans force; Guéris-moi, Eternel! car mes os sont tremblants.",
+        "MAB": "Eternel, aie pitié de moi, car je suis sans aucune force; guéris-moi, ô Eternel! car mes os sont épouvantés.",
+        "OST": "Éternel, ne me reprends pas dans ton indignation, et ne me châtie pas dans ta colère.",
+        "S21": "Eternel, ne me punis pas dans ta colère et ne me corrige pas dans ta fureur."
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "Eternel, aie pitié de moi, car je suis sans force.\r\nO Eternel, guéris-moi, car, de tous mes membres, vois: je suis tremblant.",
+        "DBY": "Mon âme aussi est fort troublée… Et toi, Éternel! jusques à quand?",
+        "KJV": "My soul is also sore vexed: but thou, O LORD, how long?",
+        "LSG": "Mon âme est toute troublée; Et toi, Eternel! jusques à quand?...",
+        "MAB": "Même mon âme est fort troublée; et toi, ô Eternel! jusques à quand?",
+        "OST": "Aie pitié de moi, Éternel! car je suis sans force; Éternel, guéris-moi, car mes os sont tremblants.",
+        "S21": "Aie pitié de moi, Eternel, car je suis sans force! Guéris-moi, Eternel, car je tremble de tous mes os!"
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "Je suis en plein désarroi.\r\nQuand viendras-tu donc, Eternel, à mon secours?",
+        "DBY": "Reviens, Éternel! délivre mon âme; sauve-moi à cause de ta bonté.",
+        "KJV": "Return, O LORD, deliver my soul: oh save me for thy mercies' sake.",
+        "LSG": "Reviens, Eternel! délivre mon âme; Sauve-moi, à cause de ta miséricorde.",
+        "MAB": "Eternel! retourne-toi, garantis mon âme, délivre-moi pour l'amour de ta gratuité.",
+        "OST": "Mon âme aussi est fort troublée; et toi, Éternel, jusques à quand?",
+        "S21": "Mon âme est toute troublée. Et toi, Eternel, jusqu’à quand me traiteras-tu ainsi?"
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "Ne voudrais-tu pas revenir vers moi pour me délivrer?\r\nDans ton amour, sauve-moi!",
+        "DBY": "Car on ne se souvient point de toi dans la mort; dans le shéol, qui te célébrera?",
+        "KJV": "For in death [there is] no remembrance of thee: in the grave who shall give thee thanks?",
+        "LSG": "Car celui qui meurt n'a plus ton souvenir; Qui te louera dans le séjour des morts?",
+        "MAB": "Car il n'est point fait mention de toi en la mort; [et] qui est-ce qui te célébrera dans le sépulcre?",
+        "OST": "Reviens, Éternel, délivre mon âme; sauve-moi pour l'amour de ta bonté!",
+        "S21": "Reviens, Eternel, délivre-moi, sauve-moi à cause de ta bonté,"
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "Car ceux qui sont morts ne sont plus capables de parler de toi!\r\nQui peut te louer au séjour des morts?",
+        "DBY": "Je suis las à force de gémir; toute la nuit je baigne ma couche, je trempe mon lit de mes larmes.",
+        "KJV": "I am weary with my groaning; all the night make I my bed to swim; I water my couch with my tears.",
+        "LSG": "Je m'épuise à force de gémir; Chaque nuit ma couche est baignée de mes larmes, Mon lit est arrosé de mes pleurs.",
+        "MAB": "Je me suis épuisé à force de soupirer; je baigne mon lit toutes les nuits, je le trempe de mes larmes.",
+        "OST": "Car dans la mort on ne se souvient point de toi; qui te célébrera dans le Sépulcre?",
+        "S21": "car dans la mort on n’évoque plus ton souvenir: qui te louera dans le séjour des morts?"
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "Or, à force de gémir, je suis épuisé,\r\net, durant la nuit, sur mon lit, je pleure;\r\nma couche est trempée, inondée de larmes.",
+        "DBY": "Mon œil dépérit de chagrin, il a vieilli à cause de tous ceux qui me pressent.",
+        "KJV": "Mine eye is consumed because of grief; it waxeth old because of all mine enemies.",
+        "LSG": "J'ai le visage usé par le chagrin; Tous ceux qui me persécutent le font vieillir.",
+        "MAB": "Mon regard est tout défait de chagrin, il est envieilli à cause de tous ceux qui me pressent.",
+        "OST": "Je m'épuise à gémir; chaque nuit je baigne ma couche de pleurs, je trempe mon lit de mes larmes.",
+        "S21": "Je m’épuise à force de gémir; chaque nuit mon lit est trempé de mes larmes, il est inondé de mes pleurs."
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "Mes yeux sont usés, tant j’ai de chagrin, ils n’en peuvent plus.\r\nCe sont tous mes ennemis qui en sont la cause.",
+        "DBY": "Retirez-vous de moi, vous, tous les ouvriers d'iniquité, car l'Éternel a entendu la voix de mes pleurs;",
+        "KJV": "Depart from me, all ye workers of iniquity; for the LORD hath heard the voice of my weeping.",
+        "LSG": "Eloignez-vous de moi, vous tous qui faites le mal! Car l'Eternel entend la voix de mes larmes;",
+        "MAB": "Retirez-vous loin de moi, vous tous ouvriers d'iniquité, car l'Eternel a entendu la voix de mes pleurs.",
+        "OST": "Mon visage est tout défait de chagrin; il dépérit à cause de tous mes ennemis.",
+        "S21": "Mes yeux sont usés par le chagrin: tous ceux qui me persécutent les affaiblissent."
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "Retirez-vous tous, artisans du mal,\r\ncar l’Eternel voit mes larmes.",
+        "DBY": "L'Éternel a entendu ma supplication; l'Éternel a reçu ma prière.",
+        "KJV": "The LORD hath heard my supplication; the LORD will receive my prayer.",
+        "LSG": "L'Eternel exauce mes supplications, L'Eternel accueille ma prière.",
+        "MAB": "L'Eternel a entendu ma supplication, l'Eternel a reçu ma requête.",
+        "OST": "Éloignez-vous de moi, vous tous, ouvriers d'iniquité! Car l'Éternel a entendu la voix de mes pleurs.",
+        "S21": "Eloignez-vous de moi, vous tous qui commettez l’injustice, car l’Eternel entend mes pleurs!"
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "L’Eternel exauce mes supplications.\r\nL’Eternel accueille ma prière.",
+        "DBY": "Tous mes ennemis seront honteux et fort troublés; ils s'en retourneront, ils seront confus en un moment.",
+        "KJV": "Let all mine enemies be ashamed and sore vexed: let them return [and] be ashamed suddenly.",
+        "LSG": "Tous mes ennemis sont confondus, saisis d'épouvante; Ils reculent, soudain couverts de honte.",
+        "MAB": "Tous mes ennemis seront honteux et épouvantés; ils s'en retourneront, ils seront confus en un moment.",
+        "OST": "L'Éternel a entendu ma supplication, l'Éternel reçoit ma prière.",
+        "S21": "L’Eternel exauce mes supplications, l’Eternel accueille ma prière."
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "Tous mes ennemis seront dans la honte et dans l’épouvante,\r\nils reculeront soudain, tout honteux.",
+        "OST": "Tous mes ennemis seront confus et saisis d'effroi; ils reculeront, ils seront soudain couverts de honte.",
+        "S21": "Tous mes ennemis sont remplis de confusion et d’effroi; ils reculent, soudain couverts de honte."
+      }
+    }
+  ]
+}

@@ -1,0 +1,486 @@
+{
+  "bookCode": "EXO",
+  "chapter": 25,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "L’Eternel parla à Moïse en ces termes:",
+        "DBY": "Et l'Éternel parla à Moïse, disant:",
+        "KJV": "And the LORD spake unto Moses, saying,",
+        "LSG": "L'Eternel parla à Moïse, et dit:",
+        "MAB": "Et l'Eternel parla à Moïse, en disant :",
+        "OST": "Et l'Éternel parla à Moïse, en disant:",
+        "S21": "L’Eternel dit à Moïse:"
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "—Invite les Israélites à me faire des offrandes prélevées sur leurs biens. Vous accepterez de tout homme qui la donnera de bon cœur l’offrande qu’il me fera.",
+        "DBY": "Parle aux fils d'Israël, et qu'ils prennent pour moi une offrande élevée. Vous prendrez mon offrande élevée de tout homme qui aura un esprit libéral.",
+        "KJV": "Speak unto the children of Israel, that they bring me an offering: of every man that giveth it willingly with his heart ye shall take my offering.",
+        "LSG": "Parle aux enfants d'Israël. Qu'ils m'apportent une offrande; vous la recevrez pour moi de tout homme qui la fera de bon coeur.",
+        "MAB": "Parle aux enfants d'Israël, et qu'on prenne une offrande pour moi. Vous prendrez mon offrande de tout homme, dont le cœur [me] l'offrira volontairement.",
+        "OST": "Parle aux enfants d'Israël, et qu'ils prennent une offrande pour moi. Vous recevrez mon offrande de tout homme que son cœur y disposera.",
+        "S21": "«Ordonne aux Israélites de m'apporter une offrande. Vous la recevrez pour moi de tout homme qui la fera de bon cœur."
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "Voici ce que vous accepterez en guise d’offrande: de l’or, de l’argent et du bronze,",
+        "DBY": "Et c'est ici l'offrande élevée que vous prendrez d'eux: de l'or, et de l'argent, et de l'airain;",
+        "KJV": "And this [is] the offering which ye shall take of them; gold, and silver, and brass,",
+        "LSG": "Voici ce que vous recevrez d'eux en offrande: de l'or, de l'argent et de l'airain;",
+        "MAB": "Et c'est ici l'offrande que vous prendrez d'eux, de l'or, de l'argent, de l'airain,",
+        "OST": "Et voici l'offrande que vous recevrez d'eux: de l'or, de l'argent et de l'airain,",
+        "S21": "Voici ce que vous recevrez d'eux en offrande: de l'or, de l'argent et du bronze;"
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "des fils de pourpre violette, de pourpre écarlate et de rouge éclatant, du fin lin blanc et du poil de chèvre,",
+        "DBY": "et du bleu, et de la pourpre, et de l'écarlate, et du coton blanc, et du poil de chèvre;",
+        "KJV": "And blue, and purple, and scarlet, and fine linen, and goats' [hair],",
+        "LSG": "des étoffes teintes en bleu, en pourpre, en cramoisi, du fin lin et du poil de chèvre;",
+        "MAB": "De la pourpre, de l'écarlate, du cramoisi, du fin lin, des poils de chèvres,",
+        "OST": "De la pourpre, de l'écarlate, du cramoisi, du fin lin, du poil de chèvre,",
+        "S21": "des étoffes teintes en bleu, en pourpre, en cramoisi, du fin lin et du poil de chèvre;"
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "des peaux de bélier teintes en rouge, des peaux de dauphin et du bois d’acacia,",
+        "DBY": "et des peaux de béliers teintes en rouge, et des peaux de taissons, et du bois de sittim;",
+        "KJV": "And rams' skins dyed red, and badgers' skins, and shittim wood,",
+        "LSG": "des peaux de béliers teintes en rouge et des peaux de dauphins; du bois d'acacia;",
+        "MAB": "Des peaux de moutons teintes en rouge, des peaux de taissons, du bois de Sittim,",
+        "OST": "Des peaux de bélier teintes en rouge, et des peaux de couleur d'hyacinthe, du bois de Sittim,",
+        "S21": "des peaux de béliers teintes en rouge et des peaux de dauphins; du bois d'acacia;"
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "de l’huile pour le chandelier et des aromates pour l’huile d’onction et pour les parfums à brûler,",
+        "DBY": "de l'huile pour le luminaire, des aromates pour l'huile de l'onction et pour l'encens des drogues odoriférantes;",
+        "KJV": "Oil for the light, spices for anointing oil, and for sweet incense,",
+        "LSG": "de l'huile pour le chandelier, des aromates pour l'huile d'onction et pour le parfum odoriférant;",
+        "MAB": "De l'huile pour le luminaire, des odeurs aromatiques pour l'huile de l'onction, des drogues pour le parfum,",
+        "OST": "De l'huile pour le luminaire, des aromates pour l'huile de l'onction, et pour le parfum aromatique,",
+        "S21": "de l'huile pour le chandelier, des aromates pour l'huile d'onction et pour le parfum odoriférant;"
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "des pierres d’onyx et des pierres précieuses à enchâsser pour l’éphod et pour le pectoral.",
+        "DBY": "des pierres d'onyx, et des pierres à enchâsser pour l'éphod et pour le pectoral.",
+        "KJV": "Onyx stones, and stones to be set in the ephod, and in the breastplate.",
+        "LSG": "des pierres d'onyx et d'autres pierres pour la garniture de l'éphod et du pectoral.",
+        "MAB": "Des pierres d'Onyx, et des pierres de remplages pour l'Ephod et pour le Pectoral,",
+        "OST": "Des pierres d'onyx et des pierres d'enchâssure pour l'éphod et pour le pectoral.",
+        "S21": "des pierres d'onyx et d'autres pierres pour la garniture de l'éphod et du pectoral."
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "Le peuple me fabriquera un sanctuaire pour que j’habite au milieu de lui.",
+        "DBY": "Et ils feront pour moi un sanctuaire, et j'habiterai au milieu d'eux.",
+        "KJV": "And let them make me a sanctuary; that I may dwell among them.",
+        "LSG": "Ils me feront un sanctuaire, et j'habiterai au milieu d'eux.",
+        "MAB": "Et ils me feront un Sanctuaire, et j'habiterai au milieu d'eux.",
+        "OST": "Et ils me feront un sanctuaire, et j'habiterai au milieu d'eux;",
+        "S21": "Ils me feront un sanctuaire et j'habiterai au milieu d'eux."
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "Je te montrerai le modèle du tabernacle et de tous les ustensiles qu’il contiendra, et vous exécuterez tout exactement selon ce modèle.",
+        "DBY": "Selon tout ce que je te montre, le modèle du tabernacle et le modèle de tous ses ustensiles, ainsi vous ferez.",
+        "KJV": "According to all that I shew thee, [after] the pattern of the tabernacle, and the pattern of all the instruments thereof, even so shall ye make [it].",
+        "LSG": "Vous ferez le tabernacle et tous ses ustensiles d'après le modèle que je vais te montrer.",
+        "MAB": "[Ils le feront] conformément à tout ce que je te vais montrer, selon le patron du pavillon, et [selon] le patron de tous ses ustensiles; vous le ferez donc ainsi.",
+        "OST": "Vous le ferez exactement semblable au modèle de la Demeure et au modèle de tous ses ustensiles, que je vais te montrer.",
+        "S21": "Vous ferez ce tabernacle et tous ses ustensiles d'après le modèle que je vais te montrer."
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "—On fabriquera un coffre en bois d’acacia. Il aura cent vingt-cinq centimètres de long, soixante-quinze centimètres de large et soixante-quinze centimètres de haut.",
+        "DBY": "Et ils feront une arche de bois de sittim: sa longueur sera de deux coudées et demie, et sa largeur d'une coudée et demie, et sa hauteur d'une coudée et demie.",
+        "KJV": "And they shall make an ark [of] shittim wood: two cubits and a half [shall be] the length thereof, and a cubit and a half the breadth thereof, and a cubit and a half the height thereof.",
+        "LSG": "Ils feront une arche de bois d'acacia, sa longueur sera de deux coudées et demie, sa largeur d'une coudée et demie, et sa hauteur d'une coudée et demie.",
+        "MAB": "Et ils feront une Arche de bois de Sittim; et sa longueur sera de deux coudées et demie, et sa largeur d'une coudée et demie, et sa hauteur d'une coudée et demie.",
+        "OST": "Ils feront donc une arche de bois de Sittim; sa longueur sera de deux coudées et demie, sa largeur d'une coudée et demie, et sa hauteur d'une coudée et demie.",
+        "S21": "»Ils feront un coffre en bois d'acacia. Sa longueur sera de 125 centimètres, sa largeur et sa hauteur de 75 centimètres."
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "Tu le plaqueras d’or pur, à l’intérieur et à l’extérieur, et tu le garniras d’une bordure d’or tout autour.",
+        "DBY": "Et tu la plaqueras d'or pur; tu la plaqueras dedans et dehors, et tu y feras un couronnement d'or tout autour;",
+        "KJV": "And thou shalt overlay it with pure gold, within and without shalt thou overlay it, and shalt make upon it a crown of gold round about.",
+        "LSG": "Tu la couvriras d'or pur, tu la couvriras en dedans et en dehors, et tu y feras une bordure d'or tout autour.",
+        "MAB": "Et tu la couvriras de pur or, tu l'[en] couvriras par dehors et par-dedans; et tu feras sur elle un couronnement d'or tout autour.",
+        "OST": "Tu la couvriras d'or pur; tu la couvriras par dedans et par dehors, et tu mettras dessus un couronnement d'or tout autour.",
+        "S21": "Tu le couvriras d'or pur, à l’intérieur et à l’extérieur, et tu lui feras une bordure d'or tout autour."
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "Tu couleras quatre anneaux d’or et tu les fixeras aux quatre coins du coffre, deux de chaque côté.",
+        "DBY": "et tu fondras pour elle quatre anneaux d'or, et tu les mettras à ses quatre coins, deux anneaux à l'un de ses côtés, et deux anneaux à l'autre de ses côtés.",
+        "KJV": "And thou shalt cast four rings of gold for it, and put [them] in the four corners thereof; and two rings [shall be] in the one side of it, and two rings in the other side of it.",
+        "LSG": "Tu fondras pour elle quatre anneaux d'or, et tu les mettras à ses quatre coins, deux anneaux d'un côté et deux anneaux de l'autre côté.",
+        "MAB": "Et tu fondras pour elle quatre anneaux d'or, que tu mettras à ses quatre coins, deux anneaux à l'un de ses côtés, et deux autres à l'autre côté.",
+        "OST": "Et tu fondras quatre anneaux d'or que tu mettras à ses quatre coins: deux anneaux d'un côté, et deux anneaux de l'autre côté.",
+        "S21": "Tu fondras pour lui 4 anneaux en or et tu les mettras à ses 4 coins, 2 d'un côté et 2 de l'autre."
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "Tu tailleras aussi des barres de bois d’acacia et tu les plaqueras d’or.",
+        "DBY": "Et tu feras des barres de bois de sittim, et tu les plaqueras d'or;",
+        "KJV": "And thou shalt make staves [of] shittim wood, and overlay them with gold.",
+        "LSG": "Tu feras des barres de bois d'acacia, et tu les couvriras d'or.",
+        "MAB": "Tu feras aussi des barres de bois de Sittim, et tu les couvriras d'or.",
+        "OST": "Tu feras aussi des barres de bois de Sittim, et tu les couvriras d'or.",
+        "S21": "Tu feras des barres en bois d'acacia, que tu couvriras d'or."
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "Tu les engageras dans les anneaux, le long des côtés du coffre pour qu’on puisse le porter.",
+        "DBY": "et tu feras entrer les barres dans les anneaux, aux côtés de l'arche, pour porter l'arche par elles.",
+        "KJV": "And thou shalt put the staves into the rings by the sides of the ark, that the ark may be borne with them.",
+        "LSG": "Tu passeras les barres dans les anneaux sur les côtés de l'arche, pour qu'elles servent à porter l'arche;",
+        "MAB": "Puis tu feras entrer les barres dans les anneaux aux côtés de l'Arche, pour porter l'Arche avec elles.",
+        "OST": "Et tu feras entrer les barres dans les anneaux, aux côtés de l'arche, pour porter l'arche au moyen des barres.",
+        "S21": "Tu passeras les barres dans les anneaux sur les côtés du coffre, pour qu'elles servent à son transport."
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "Les barres devront rester en permanence dans les anneaux du coffre, on ne les en retirera pas.",
+        "DBY": "Les barres seront dans les anneaux de l'arche; on ne les en retirera point.",
+        "KJV": "The staves shall be in the rings of the ark: they shall not be taken from it.",
+        "LSG": "les barres resteront dans les anneaux de l'arche, et n'en seront point retirées.",
+        "MAB": "Les barres seront dans les anneaux de l'Arche, et on ne les en tirera point.",
+        "OST": "Les barres seront dans les anneaux de l'arche; on ne les en retirera point.",
+        "S21": "Les barres resteront dans les anneaux du coffre et n'en seront pas retirées."
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "Tu déposeras à l’intérieur de ce coffre l’acte de l’alliance que je te donnerai.",
+        "DBY": "Et tu mettras dans l'arche le témoignage que je te donnerai.",
+        "KJV": "And thou shalt put into the ark the testimony which I shall give thee.",
+        "LSG": "Tu mettras dans l'arche le témoignage, que je te donnerai.",
+        "MAB": "Et tu mettras dans l'Arche le Témoignage que je te donnerai.",
+        "OST": "Et tu mettras dans l'arche le Témoignage que je te donnerai.",
+        "S21": "Tu mettras dans cette arche le témoignage que je te donnerai."
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "Tu feras aussi un propitiatoire d’or pur de cent vingt-cinq centimètres de long et de soixante-quinze centimètres de large qui servira de couvercle pour le coffre.",
+        "DBY": "-Et tu feras un propitiatoire d'or pur: sa longueur sera de deux coudées et demie, et sa largeur d'une coudée et demie.",
+        "KJV": "And thou shalt make a mercy seat [of] pure gold: two cubits and a half [shall be] the length thereof, and a cubit and a half the breadth thereof.",
+        "LSG": "Tu feras un propitiatoire d'or pur; sa longueur sera de deux coudées et demie, et sa largeur d'une coudée et demie.",
+        "MAB": "Tu feras aussi un Propitiatoire de pur or, dont la longueur sera de deux coudées et demie, et la largeur d'une coudée et demie.",
+        "OST": "Tu feras aussi un propitiatoire d'or pur, dont la longueur sera de deux coudées et demie, et la largeur d'une coudée et demie.",
+        "S21": "Tu feras un couvercle en or pur. Sa longueur sera de 125 centimètres, et sa largeur de 75 centimètres."
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "Tu façonneras au marteau deux chérubins d’or massif, et tu les fixeras aux deux extrémités du propitiatoire.",
+        "DBY": "Et tu feras deux chérubins d'or; tu les feras d'or battu, aux deux bouts du propitiatoire.",
+        "KJV": "And thou shalt make two cherubims [of] gold, [of] beaten work shalt thou make them, in the two ends of the mercy seat.",
+        "LSG": "Tu feras deux chérubins d'or, tu les feras d'or battu, aux deux extrémités du propitiatoire;",
+        "MAB": "Et tu feras deux Chérubins d'or; tu les feras d'ouvrage étendu au marteau, [tiré] des deux bouts du Propitiatoire.",
+        "OST": "Et tu feras deux chérubins d'or; tu les feras au marteau, aux deux bouts du propitiatoire.",
+        "S21": "Tu feras 2 chérubins en or, en or battu, aux 2 extrémités de ce propitiatoire."
+      }
+    },
+    {
+      "verse": 19,
+      "texts": {
+        "BDS": "Tu feras un chérubin pour chacune des deux extrémités du propitiatoire, tu les feras en saillie sur le propitiatoire à ses deux extrémités.",
+        "DBY": "Fais un chérubin au bout de deçà, et un chérubin au bout de delà: vous ferez les chérubins tirés du propitiatoire, à ses deux bouts.",
+        "KJV": "And make one cherub on the one end, and the other cherub on the other end: [even] of the mercy seat shall ye make the cherubims on the two ends thereof.",
+        "LSG": "fais un chérubin à l'une des extrémités et un chérubin à l'autre extrémité; vous ferez les chérubins sortant du propitiatoire à ses deux extrémités.",
+        "MAB": "Fais donc un Chérubin tiré du bout de deçà, et l'autre Chérubin du bout de delà : vous ferez les Chérubins tirés du Propitiatoire sur ses deux bouts.",
+        "OST": "Fais donc un chérubin à ce bout, et un chérubin à l'autre bout. Vous ferez les chérubins sortant du propitiatoire à ses deux bouts.",
+        "S21": "Fais un chérubin à l'une des extrémités et un chérubin à l'autre extrémité. Vous les ferez sortir du propitiatoire à ses deux extrémités."
+      }
+    },
+    {
+      "verse": 20,
+      "texts": {
+        "BDS": "Leurs ailes seront déployées vers le haut pour protéger le propitiatoire et ils se feront face, regardant vers le propitiatoire.",
+        "DBY": "Et les chérubins étendront les ailes en haut, couvrant de leurs ailes le propitiatoire, et leurs faces seront l'une vis-à-vis de l'autre; les faces des chérubins seront tournées vers le propitiatoire.",
+        "KJV": "And the cherubims shall stretch forth [their] wings on high, covering the mercy seat with their wings, and their faces [shall look] one to another; toward the mercy seat shall the faces of the cherubims be.",
+        "LSG": "Les chérubins étendront les ailes par-dessus, couvrant de leurs ailes le propitiatoire, et se faisant face l'un à l'autre; les chérubins auront la face tournée vers le propitiatoire.",
+        "MAB": "Et les Chérubins étendront les ailes en haut, couvrant de leurs ailes le Propitiatoire, et leurs faces seront vis-à-vis l'une de l'autre; et le regard des Chérubins sera vers le Propitiatoire.",
+        "OST": "Et les chérubins étendront les ailes en haut, couvrant de leurs ailes le propitiatoire, et leurs faces seront vis-à-vis l'une de l'autre. La face des chérubins sera dirigée vers le propitiatoire.",
+        "S21": "Les chérubins étendront les ailes par-dessus le propitiatoire, ils le couvriront de leurs ailes et se feront face l'un à l'autre; ils auront le visage tourné vers ce couvercle."
+      }
+    },
+    {
+      "verse": 21,
+      "texts": {
+        "BDS": "Après avoir déposé dans le coffre l’acte de l’alliance que je te donnerai, tu placeras le propitiatoire dessus.",
+        "DBY": "Et tu mettras le propitiatoire sur l'arche, par-dessus, et tu mettras dans l'arche le témoignage que je te donnerai.",
+        "KJV": "And thou shalt put the mercy seat above upon the ark; and in the ark thou shalt put the testimony that I shall give thee.",
+        "LSG": "Tu mettras le propitiatoire sur l'arche, et tu mettras dans l'arche le témoignage, que je te donnerai.",
+        "MAB": "Et tu poseras le Propitiatoire au-dessus de l'Arche, et tu mettras dans l'Arche le Témoignage que je te donnerai.",
+        "OST": "Et tu poseras le propitiatoire en haut sur l'arche, et tu mettras dans l'arche le Témoignage que je te donnerai.",
+        "S21": "Tu mettras le propitiatoire sur le coffre et tu mettras dans cette arche le témoignage que je te donnerai."
+      }
+    },
+    {
+      "verse": 22,
+      "texts": {
+        "BDS": "C’est là, au-dessus du propitiatoire, entre les deux chérubins placés sur le coffre, que je me manifesterai à toi; c’est de là que je te communiquerai tous mes ordres pour les Israélites.",
+        "DBY": "Et je me rencontrerai là avec toi, et je parlerai avec toi de dessus le propitiatoire, d'entre les deux chérubins, qui seront sur l'arche du témoignage, et te dirai tout ce que je te commanderai pour les fils d'Israël.",
+        "KJV": "And there I will meet with thee, and I will commune with thee from above the mercy seat, from between the two cherubims which [are] upon the ark of the testimony, of all [things] which I will give thee in commandment unto the children of Israel.",
+        "LSG": "C'est là que je me rencontrerai avec toi; du haut du propitiatoire, entre les deux chérubins placés sur l'arche du témoignage, je te donnerai tous mes ordres pour les enfants d'Israël.",
+        "MAB": "Et je me trouverai là avec toi, et je te dirai de dessus le Propitiatoire, d'entre les deux Chérubins qui seront sur l'Arche du Témoignage, toutes les choses que je te commanderai pour les enfants d'Israël.",
+        "OST": "Et je me rencontrerai là avec toi, et je te dirai, de dessus le propitiatoire, d'entre les deux chérubins qui seront sur l'arche du Témoignage, tout ce que je te commanderai pour les enfants d'Israël.",
+        "S21": "C'est là que je te rencontrerai; du haut du propitiatoire, entre les deux chérubins placés sur l'arche du témoignage, je te donnerai tous mes ordres pour les Israélites."
+      }
+    },
+    {
+      "verse": 23,
+      "texts": {
+        "BDS": "—Tu fabriqueras une table en bois d’acacia de cent centimètres de long, de cinquante centimètres de large et de soixante-quinze centimètres de haut.",
+        "DBY": "Et tu feras une table de bois de sittim: sa longueur sera de deux coudées, et sa largeur d'une coudée, et sa hauteur d'une coudée et demie.",
+        "KJV": "Thou shalt also make a table [of] shittim wood: two cubits [shall be] the length thereof, and a cubit the breadth thereof, and a cubit and a half the height thereof.",
+        "LSG": "Tu feras une table de bois d'acacia; sa longueur sera de deux coudées, sa largeur d'une coudée, et sa hauteur d'une coudée et demie.",
+        "MAB": "Tu feras aussi une table de bois de Sittim : sa longueur sera de deux coudées, et sa largeur d'une coudée, et sa hauteur d'une coudée et demie.",
+        "OST": "Tu feras aussi une table de bois de Sittim; sa longueur sera de deux coudées, sa largeur d'une coudée, et sa hauteur d'une coudée et demie.",
+        "S21": "»Tu feras une table en bois d'acacia. Sa longueur sera d’un mètre, sa largeur de 50 centimètres et sa hauteur de 75 centimètres."
+      }
+    },
+    {
+      "verse": 24,
+      "texts": {
+        "BDS": "Tu la plaqueras d’or pur et tu garniras son pourtour d’une bordure d’or.",
+        "DBY": "Et tu la plaqueras d'or pur, et tu y feras un couronnement d'or tout autour.",
+        "KJV": "And thou shalt overlay it with pure gold, and make thereto a crown of gold round about.",
+        "LSG": "Tu la couvriras d'or pur, et tu y feras une bordure d'or tout autour.",
+        "MAB": "Tu la couvriras de pur or, et tu lui feras un couronnement d'or à l'entour.",
+        "OST": "Tu la couvriras d'or pur, et tu lui feras un couronnement d'or tout autour.",
+        "S21": "Tu la couvriras d'or pur et tu lui feras une bordure d'or tout autour."
+      }
+    },
+    {
+      "verse": 25,
+      "texts": {
+        "BDS": "Tu lui feras un cadre de huit centimètres que tu garniras d’une bordure d’or.",
+        "DBY": "Et tu y feras un rebord d'une paume tout autour, et tu feras un couronnement d'or à son rebord, tout autour.",
+        "KJV": "And thou shalt make unto it a border of an hand breadth round about, and thou shalt make a golden crown to the border thereof round about.",
+        "LSG": "Tu y feras à l'entour un rebord de quatre doigts, sur lequel tu mettras une bordure d'or tout autour.",
+        "MAB": "Tu lui feras aussi à l'entour une clôture d'une paume, et tout autour de sa clôture tu feras un couronnement d'or.",
+        "OST": "Tu lui feras aussi, à l'entour, un rebord de quatre doigts, et tu feras à ce rebord un couronnement d'or tout autour.",
+        "S21": "Tu feras tout autour un cadre de 8 centimètres de large sur lequel tu mettras une bordure d'or, tout autour."
+      }
+    },
+    {
+      "verse": 26,
+      "texts": {
+        "BDS": "Tu feras quatre anneaux d’or que tu fixeras aux quatre coins de la table correspondant à ses quatre pieds.",
+        "DBY": "Et tu lui feras quatre anneaux d'or, et tu mettras les anneaux aux quatre coins qui seront à ses quatre pieds.",
+        "KJV": "And thou shalt make for it four rings of gold, and put the rings in the four corners that [are] on the four feet thereof.",
+        "LSG": "Tu feras pour la table quatre anneaux d'or, et tu mettras les anneaux aux quatre coins, qui seront à ses quatre pieds.",
+        "MAB": "Tu lui feras aussi quatre anneaux d'or, que tu mettras aux quatre coins, qui seront à ses quatre pieds.",
+        "OST": "Tu lui feras aussi quatre anneaux d'or, et tu mettras les anneaux aux quatre coins qui seront à ses quatre pieds.",
+        "S21": "Tu feras 4 anneaux en or pour la table et tu les mettras aux 4 coins, à ses 4 pieds."
+      }
+    },
+    {
+      "verse": 27,
+      "texts": {
+        "BDS": "Dans ces anneaux placés tout près du cadre viendront s’insérer les barres destinées à porter la table.",
+        "DBY": "Les anneaux seront près du rebord, pour recevoir les barres, pour porter la table.",
+        "KJV": "Over against the border shall the rings be for places of the staves to bear the table.",
+        "LSG": "Les anneaux seront près du rebord, et recevront les barres pour porter la table.",
+        "MAB": "Les anneaux seront à l'endroit de la clôture, afin d'y mettre les barres pour porter la table.",
+        "OST": "Les anneaux seront près du rebord, afin d'y mettre des barres, pour porter la table.",
+        "S21": "Les anneaux seront situés près du cadre et recevront les barres destinées au transport de la table."
+      }
+    },
+    {
+      "verse": 28,
+      "texts": {
+        "BDS": "Tu feras ces barres en bois d’acacia et tu les plaqueras d’or. Elles serviront à transporter la table.",
+        "DBY": "Et tu feras les barres de bois de sittim, et tu les plaqueras d'or; et avec elles on portera la table.",
+        "KJV": "And thou shalt make the staves [of] shittim wood, and overlay them with gold, that the table may be borne with them.",
+        "LSG": "Tu feras les barres de bois d'acacia, et tu les couvriras d'or; et elles serviront à porter la table.",
+        "MAB": "Tu feras les barres de bois de Sittim, et tu les couvriras d'or, et on portera la table avec elles.",
+        "OST": "Tu feras les barres de bois de Sittim, et tu les couvriras d'or, et on portera la table avec elles.",
+        "S21": "Tu feras ces barres en bois d'acacia et tu les couvriras d'or. Elles serviront à porter la table."
+      }
+    },
+    {
+      "verse": 29,
+      "texts": {
+        "BDS": "Tu fabriqueras aussi des plats et des coupes, des carafes et des bols qui serviront aux libations; tu les feras d’or pur.",
+        "DBY": "Et tu feras ses plats, et ses coupes, et ses gobelets, et ses vases, avec lesquels on fera les libations; tu les feras d'or pur.",
+        "KJV": "And thou shalt make the dishes thereof, and spoons thereof, and covers thereof, and bowls thereof, to cover withal: [of] pure gold shalt thou make them.",
+        "LSG": "Tu feras ses plats, ses coupes, ses calices et ses tasses, pour servir aux libations; tu les feras d'or pur.",
+        "MAB": "Tu feras aussi ses plats, ses tasses, ses gobelets, et ses bassins, avec lesquels on fera les aspersions; tu les feras de pur or.",
+        "OST": "Tu feras aussi ses plats, ses tasses, ses vases et ses coupes, avec lesquels on fera les libations; tu les feras d'or pur.",
+        "S21": "Tu feras ses plats, ses coupes, ses gobelets et ses tasses destinés aux offrandes de produits liquides. Tu les feras en or pur."
+      }
+    },
+    {
+      "verse": 30,
+      "texts": {
+        "BDS": "Tu placeras sur la table le pain exposé devant moi. Il sera en permanence devant moi.",
+        "DBY": "Et tu mettras sur la table le pain de proposition, devant moi, continuellement.",
+        "KJV": "And thou shalt set upon the table shewbread before me alway.",
+        "LSG": "Tu mettras sur la table les pains de proposition continuellement devant ma face.",
+        "MAB": "Et tu mettras sur cette table le pain de proposition, continuellement devant moi.",
+        "OST": "Et tu mettras sur la table du pain de proposition qui sera continuellement devant moi.",
+        "S21": "Tu mettras constamment les pains consacrés sur la table devant moi."
+      }
+    },
+    {
+      "verse": 31,
+      "texts": {
+        "BDS": "—Tu feras un chandelier en or pur, travaillé au marteau. Tu le feras d’une seule pièce avec son pied, ses calices, ses boutons et ses fleurs.",
+        "DBY": "Et tu feras un chandelier d'or pur: le chandelier sera fait d'or battu; son pied, et sa tige, ses calices, ses pommes, et ses fleurs, seront tirés de lui.",
+        "KJV": "And thou shalt make a candlestick [of] pure gold: [of] beaten work shall the candlestick be made: his shaft, and his branches, his bowls, his knops, and his flowers, shall be of the same.",
+        "LSG": "Tu feras un chandelier d'or pur; ce chandelier sera fait d'or battu; son pied, sa tige, ses calices, ses pommes et ses fleurs seront d'une même pièce.",
+        "MAB": "Tu feras aussi un chandelier de pur or; le chandelier sera étendu au marteau; sa tige et ses branches, ses plats, ses pommeaux, et ses fleurs, seront [tirés] de lui.",
+        "OST": "Tu feras aussi un chandelier d'or pur. Le chandelier, son pied et sa tige seront faits au marteau; ses calices, ses pommes et ses fleurs en seront tirés.",
+        "S21": "»Tu feras un chandelier en or pur. Ce chandelier sera fait d'or battu; son pied, sa tige, ses coupes, ses pommes et ses fleurs seront d'une seule pièce."
+      }
+    },
+    {
+      "verse": 32,
+      "texts": {
+        "BDS": "Six branches en sortiront latéralement, trois d’un côté et trois de l’autre.",
+        "DBY": "Et six branches sortiront de ses côtés, trois branches du chandelier d'un côté, et trois branches du chandelier de l'autre côté.",
+        "KJV": "And six branches shall come out of the sides of it; three branches of the candlestick out of the one side, and three branches of the candlestick out of the other side:",
+        "LSG": "Six branches sortiront de ses côtés, trois branches du chandelier de l'un des côtés, et trois branches du chandelier de l'autre côté.",
+        "MAB": "Six branches sortiront de ses côtés; trois branches d'un côté du chandelier, et trois autres de l'autre côté du chandelier.",
+        "OST": "Il sortira six branches de ses côtés: trois branches du chandelier d'un côté, et trois branches du chandelier de l'autre côté.",
+        "S21": "Il y aura 6 branches qui sortiront de ses côtés, 3 branches du chandelier de l'un des côtés et 3 de l'autre."
+      }
+    },
+    {
+      "verse": 33,
+      "texts": {
+        "BDS": "Chacune des six branches du chandelier portera trois calices en forme de fleur d’amandier, avec le bouton et la fleur.",
+        "DBY": "Il y aura, sur une branche, trois calices en forme de fleur d'amandier, une pomme et une fleur; et, sur une autre branche, trois calices en forme de fleur d'amandier, une pomme et une fleur; ainsi pour les six branches sortant du chandelier.",
+        "KJV": "Three bowls made like unto almonds, [with] a knop and a flower in one branch; and three bowls made like almonds in the other branch, [with] a knop and a flower: so in the six branches that come out of the candlestick.",
+        "LSG": "Il y aura sur une branche trois calices en forme d'amande, avec pommes et fleurs, et sur une autre branche trois calices en forme d'amande, avec pommes et fleurs; il en sera de même pour les six branches sortant du chandelier.",
+        "MAB": "Il y aura en une des branches trois petits plats en forme d'amande, un pommeau et une fleur; en l'autre branche trois petits plats en forme d'amande, un pommeau et une fleur; [il en sera] de même des six branches procédant du chandelier.",
+        "OST": "Il y aura trois calices en forme d'amande, à une branche, avec pomme et fleur; et trois calices en forme d'amande à l'autre branche, avec pomme et fleur. Il en sera de même pour les six branches sortant du chandelier.",
+        "S21": "Il y aura sur une branche 3 coupes en forme d'amande, avec pommes et fleurs, et sur une autre branche 3 coupes en forme d'amande, avec pommes et fleurs; il en ira de même pour les 6 branches sortant du chandelier."
+      }
+    },
+    {
+      "verse": 34,
+      "texts": {
+        "BDS": "Le pied portera quatre calices en forme de fleur d’amandier avec le bouton et la fleur.",
+        "DBY": "Et il y aura au chandelier quatre calices en forme de fleur d'amandier, ses pommes et ses fleurs;",
+        "KJV": "And in the candlestick [shall be] four bowls made like unto almonds, [with] their knops and their flowers.",
+        "LSG": "A la tige du chandelier, il y aura quatre calices en forme d'amande, avec leurs pommes et leurs fleurs.",
+        "MAB": "Il y aura aussi au chandelier quatre petits plats en forme d'amande, ses pommeaux et ses fleurs.",
+        "OST": "Il y aura au chandelier même quatre calices en forme d'amande, et ses pommes et ses fleurs:",
+        "S21": "Sur la tige du chandelier seront fixées 4 coupes en forme d'amande, avec leurs pommes et leurs fleurs."
+      }
+    },
+    {
+      "verse": 35,
+      "texts": {
+        "BDS": "Il y aura un bouton sous chacune des trois paires de branches du chandelier.",
+        "DBY": "et une pomme sous deux branches sortant de lui, et une pomme sous deux branches sortant de lui, et une pomme sous deux branches sortant de lui, pour les six branches sortant du chandelier;",
+        "KJV": "And [there shall be] a knop under two branches of the same, and a knop under two branches of the same, and a knop under two branches of the same, according to the six branches that proceed out of the candlestick.",
+        "LSG": "Il y aura une pomme sous deux des branches sortant de la tige du chandelier, une pomme sous deux autres branches, et une pomme sous deux autres branches; il en sera de même pour les six branches sortant du chandelier.",
+        "MAB": "Un pommeau sous deux branches [tirées] du chandelier, un pommeau sous deux [autres] branches [tirées] de lui, et un pommeau sous deux [autres] branches tirées de lui; il [en sera] de même des six branches procédant du chandelier.",
+        "OST": "Une pomme sous les deux branches qui en sortent, une autre pomme sous les deux autres branches, et encore une pomme sous les deux autres branches qui en sortent, pour les six branches sortant du chandelier.",
+        "S21": "Il y aura une pomme sous 2 des branches qui sortent de la tige du chandelier, une pomme sous 2 autres branches et une pomme sous 2 autres branches; il en ira de même pour les 6 branches sortant du chandelier."
+      }
+    },
+    {
+      "verse": 36,
+      "texts": {
+        "BDS": "Ces boutons et ces branches seront avec lui d’un seul tenant; le tout sera fait d’une seule masse d’or pur martelé.",
+        "DBY": "leurs pommes et leurs branches seront tirées de lui, le tout battu, d'une pièce, d'or pur.",
+        "KJV": "Their knops and their branches shall be of the same: all it [shall be] one beaten work [of] pure gold.",
+        "LSG": "Les pommes et les branches du chandelier seront d'une même pièce: il sera tout entier d'or battu, d'or pur.",
+        "MAB": "Leurs pommeaux et leurs branches seront [tirés] de lui, [et] tout le chandelier sera un seul ouvrage étendu au marteau, [et] de pur or.",
+        "OST": "Ses pommes et ses branches en seront tirées; il sera tout entier d'une seule pièce au marteau, en or pur.",
+        "S21": "Les pommes et les branches du chandelier seront d'une seule pièce. Il sera tout entier en or battu, en or pur."
+      }
+    },
+    {
+      "verse": 37,
+      "texts": {
+        "BDS": "Tu fabriqueras aussi sept lampes que tu fixeras en haut du chandelier, de manière à éclairer l’espace devant lui.",
+        "DBY": "-Et tu feras ses sept lampes; et on allumera ses lampes, afin qu'elles éclairent vis-à-vis de lui.",
+        "KJV": "And thou shalt make the seven lamps thereof: and they shall light the lamps thereof, that they may give light over against it.",
+        "LSG": "Tu feras ses sept lampes, qui seront placées dessus, de manière à éclairer en face.",
+        "MAB": "Tu feras aussi ses sept lampes, et on les allumera, afin qu'elles éclairent vis-à-vis du chandelier.",
+        "OST": "Tu feras aussi ses sept lampes; et l'on allumera ses lampes, de manière qu'elles éclairent en avant du chandelier.",
+        "S21": "Tu feras ses 7 lampes. Elles seront placées sur le chandelier de manière à éclairer en face."
+      }
+    },
+    {
+      "verse": 38,
+      "texts": {
+        "BDS": "Tu feras ses pincettes et ses mouchettes en or pur.",
+        "DBY": "Et ses mouchettes et ses vases à cendre seront d'or pur.",
+        "KJV": "And the tongs thereof, and the snuffdishes thereof, [shall be of] pure gold.",
+        "LSG": "Ses mouchettes et ses vases à cendre seront d'or pur.",
+        "MAB": "Et ses mouchettes, et ses creuseaux seront de pur or.",
+        "OST": "Et ses mouchettes, et ses porte-mouchettes seront d'or pur.",
+        "S21": "Ses mouchettes et ses vases à cendre seront en or pur."
+      }
+    },
+    {
+      "verse": 39,
+      "texts": {
+        "BDS": "On emploiera une trentaine de kilogrammes d’or pur pour faire le chandelier et tous ses accessoires.",
+        "DBY": "On le fera, avec tous ces ustensiles, d'un talent d'or pur.",
+        "KJV": "[Of] a talent of pure gold shall he make it, with all these vessels.",
+        "LSG": "On emploiera un talent d'or pur pour faire le chandelier avec tous ses ustensiles.",
+        "MAB": "On le fera avec tous ses ustensiles d'un talent de pur or.",
+        "OST": "On fera ce chandelier, avec tous ses ustensiles, d'un talent d'or pur.",
+        "S21": "On emploiera 30 kilos d'or pur pour faire le chandelier avec tous ses ustensiles."
+      }
+    },
+    {
+      "verse": 40,
+      "texts": {
+        "BDS": "Aie soin d’exécuter tout ce travail exactement selon le modèle qui t’a été montré sur la montagne.",
+        "DBY": "Regarde, et fais selon le modèle qui t'en est montré sur la montagne.",
+        "KJV": "And look that thou make [them] after their pattern, which was shewed thee in the mount.",
+        "LSG": "Regarde, et fais d'après le modèle qui t'est montré sur la montagne.",
+        "MAB": "Regarde donc, et fais selon le patron qui t'est montré en la montagne.",
+        "OST": "Regarde donc, et fais-les d'après leur modèle, qui t'a été montré sur la montagne.",
+        "S21": "Regarde et fais tout d'après le modèle qui t'est montré sur la montagne."
+      }
+    }
+  ]
+}

@@ -1,0 +1,481 @@
+{
+  "bookCode": "NEH",
+  "chapter": 10,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "A cause de tout cela, nous prenons un ferme engagement que nous mettons par écrit. L’acte scellé a été signé par nos dirigeants, nos lévites et nos prêtres.",
+        "DBY": "Et à la tête de ceux qui apposèrent leur sceau furent: Néhémie, le Thirshatha, fils de Hacalia, et Sédécias.",
+        "KJV": "Now those that sealed [were], Nehemiah, the Tirshatha, the son of Hachaliah, and Zidkijah,",
+        "LSG": "Voici ceux qui apposèrent leur sceau. Néhémie, le gouverneur, fils de Hacalia. Sédécias,",
+        "MAB": "Or [ceux qui] apposèrent leurs seings, [furent], Néhémie, qui est Attirsatha, fils de Hachalia, et Sédécias.",
+        "OST": "Or, ceux qui apposèrent leur sceau furent: Néhémie, le gouverneur, fils de Hacalia, et Sédécias,",
+        "S21": "A cause de tout cela, nous avons conclu un pacte que nous avons mis par écrit, et nos chefs, nos Lévites et nos prêtres y ont apposé leur empreinte."
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "Voici la liste de ceux qui apposèrent leur sceau sur les documents: Néhémie le gouverneur, fils de Hakalia, Sédécias,",
+        "DBY": "-Seraïa, Azaria, Jérémie,",
+        "KJV": "Seraiah, Azariah, Jeremiah,",
+        "LSG": "Seraja, Azaria, Jérémie,",
+        "MAB": "Séraja, Hazaria, Jérémie,",
+        "OST": "Séraja, Azaria, Jérémie,",
+        "S21": "Voici la liste des signataires: Néhémie, fils de Hacalia, le gouverneur; Sédécias,"
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "Seraya, Azaria, Jérémie,",
+        "DBY": "Pashkhur, Amaria, Malkija,",
+        "KJV": "Pashur, Amariah, Malchijah,",
+        "LSG": "Paschhur, Amaria, Malkija,",
+        "MAB": "Pashur, Hamaria, Malkija,",
+        "OST": "Pashur, Amaria, Malkija,",
+        "S21": "Seraja, Azaria, Jérémie,"
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "Pachhour, Amaria, Malkiya,",
+        "DBY": "Hattush, Shebania, Malluc,",
+        "KJV": "Hattush, Shebaniah, Malluch,",
+        "LSG": "Hattusch, Schebania, Malluc,",
+        "MAB": "Hattus, Sébania, Malluc,",
+        "OST": "Hattush, Shébania, Malluc,",
+        "S21": "Pashhur, Amaria, Malkija,"
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "Hattouch, Chebania, Mallouk,",
+        "DBY": "Harim, Merémoth, Abdias,",
+        "KJV": "Harim, Meremoth, Obadiah,",
+        "LSG": "Harim, Merémoth, Abdias,",
+        "MAB": "Harim, Mérémoth, Hobadia,",
+        "OST": "Harim, Mérémoth, Obadia,",
+        "S21": "Hattush, Shebania, Malluc,"
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "Harim, Merémoth, Abdias,",
+        "DBY": "Daniel, Guinnethon, Baruc,",
+        "KJV": "Daniel, Ginnethon, Baruch,",
+        "LSG": "Daniel, Guinnethon, Baruc,",
+        "MAB": "Daniel, Guinnethon, Baruc,",
+        "OST": "Daniel, Guinnéthon, Baruc,",
+        "S21": "Harim, Merémoth, Abdias,"
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "Daniel, Guinnethôn, Baruk,",
+        "DBY": "Meshullam, Abija, Mijamin,",
+        "KJV": "Meshullam, Abijah, Mijamin,",
+        "LSG": "Meschullam, Abija, Mijamin,",
+        "MAB": "Mésullam, Abija, Mijamin,",
+        "OST": "Méshullam, Abija, Mijamin,",
+        "S21": "Daniel, Guinnethon, Baruc,"
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "Mechoullam, Abiya, Miyamin,",
+        "DBY": "Maazia, Bilgaï, Shemahia: c'étaient là les sacrificateurs.",
+        "KJV": "Maaziah, Bilgai, Shemaiah: these [were] the priests.",
+        "LSG": "Maazia, Bilgaï, Schemaeja, sacrificateurs.",
+        "MAB": "Mahazia, Bilgaï et Sémahia. Ce [furent]-là les Sacrificateurs.",
+        "OST": "Maazia, Bilgaï, Shémaja. Ce sont les sacrificateurs.",
+        "S21": "Meshullam, Abija, Mijamin,"
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "Maazia, Bilgaï et Chemaeya, les prêtres.",
+        "DBY": "-Et les lévites: Jéshua, fils d'Azania; Binnuï, des fils de Hénadad; Kadmiel,",
+        "KJV": "And the Levites: both Jeshua the son of Azaniah, Binnui of the sons of Henadad, Kadmiel;",
+        "LSG": "Lévites: Josué, fils d'Azania, Binnuï, des fils de Hénadad, Kadmiel,",
+        "MAB": "Des Lévites : Jésuah fils d'Azania, Binnui d'entre les enfants de Hénadad, et Kadmiel.",
+        "OST": "Les Lévites: Jéshua, fils d'Azania, Binnuï, des fils de Hénadad, Kadmiel;",
+        "S21": "Maazia, Bilgaï et Shemaeja, parmi les prêtres;"
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "Pour les lévites: Josué, fils d’Azania, Binnouï, des descendants de Hénadad, Qadmiel,",
+        "DBY": "et leurs frères, Shebania, Hodija, Kelita, Pelaïa, Hanan,",
+        "KJV": "And their brethren, Shebaniah, Hodijah, Kelita, Pelaiah, Hanan,",
+        "LSG": "et leurs frères, Schebania, Hodija, Kelitha, Pelaja, Hanan,",
+        "MAB": "Et leurs frères, Sébania, Hodija, Kélita, Pélaja, Hanan,",
+        "OST": "Et leurs frères, Shébania, Hodija, Kélita, Pélaja, Hanan,",
+        "S21": "parmi les Lévites, Josué, fils d'Azania, Binnuï, qui faisait partie des descendants de Hénadad, et Kadmiel,"
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "et leurs collègues Chebania, Hodiya, Qelita, Pelaya, Hanân,",
+        "DBY": "Michée, Rehob, Hashabia,",
+        "KJV": "Micha, Rehob, Hashabiah,",
+        "LSG": "Michée, Rehob, Haschabia,",
+        "MAB": "Micaï, Réhob, Asabja.",
+        "OST": "Mica, Réhob, Hashabia,",
+        "S21": "ainsi que leurs frères Shebania, Hodija, Kelitha, Pelaja, Hanan,"
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "Michée, Rehob, Hachabia,",
+        "DBY": "Zaccur, Shérébia, Shebania,",
+        "KJV": "Zaccur, Sherebiah, Shebaniah,",
+        "LSG": "Zaccur, Schérébia, Schebania,",
+        "MAB": "Zaccur, Sérebia, Sébania,",
+        "OST": "Zaccur, Shérébia, Shébania,",
+        "S21": "Michée, Rehob, Hashabia,"
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "Zakkour, Chérébia, Chebania,",
+        "DBY": "Hodija, Bani, Beninu.",
+        "KJV": "Hodijah, Bani, Beninu.",
+        "LSG": "Hodija, Bani, Beninu.",
+        "MAB": "Hodija, Bani et Béninu.",
+        "OST": "Hodija, Bani, Béninu.",
+        "S21": "Zaccur, Shérébia, Shebania,"
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "Hodiya, Bani et Beninou.",
+        "DBY": "-Les chefs du peuple: Parhosh, Pakhath-Moab, Élam, Zatthu, Bani,",
+        "KJV": "The chief of the people; Parosh, Pahathmoab, Elam, Zatthu, Bani,",
+        "LSG": "Chefs du peuple: Pareosch, Pachath-Moab, Elam, Zatthu, Bani,",
+        "MAB": "Des Chefs du peuple, Parhos, Pahath-Moab, Hélam, Zattu, Bani,",
+        "OST": "Les chefs du peuple: Parosh, Pachath-Moab, Élam, Zatthu, Bani,",
+        "S21": "Hodija, Bani et Beninu;"
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "Les chefs du peuple qui signèrent furent: Pareoch, Pahath-Moab, Elam, Zatthou, Bani,",
+        "DBY": "Bunni, Azgad, Bébaï,",
+        "KJV": "Bunni, Azgad, Bebai,",
+        "LSG": "Bunni, Azgad, Bébaï,",
+        "MAB": "Bunni, Hazgad, Bébaï,",
+        "OST": "Bunni, Azgad, Bébaï,",
+        "S21": "parmi les chefs du peuple, Pareosh, Pachath-Moab, Elam, Zatthu, Bani,"
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "Bounni, Azgad, Bébaï,",
+        "DBY": "Adonija, Bigvaï, Adin,",
+        "KJV": "Adonijah, Bigvai, Adin,",
+        "LSG": "Adonija, Bigvaï, Adin,",
+        "MAB": "Adonija, Bigvaï, Hadin,",
+        "OST": "Adonija, Bigvaï, Adin,",
+        "S21": "Bunni, Azgad, Bébaï,"
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "Adoniya, Bigvaï, Adîn,",
+        "DBY": "Ater, Ézéchias, Azzur,",
+        "KJV": "Ater, Hizkijah, Azzur,",
+        "LSG": "Ather, Ezéchias, Azzur,",
+        "MAB": "Ater, Ezéchias, Hazur,",
+        "OST": "Ater, Ézéchias, Azzur,",
+        "S21": "Adonija, Bigvaï, Adin,"
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "Ather, Ezéchias, Azzour,",
+        "DBY": "Hodija, Hashum, Bétsaï,",
+        "KJV": "Hodijah, Hashum, Bezai,",
+        "LSG": "Hodija, Haschum, Betsaï,",
+        "MAB": "Hodija, Hasum, Betsaï,",
+        "OST": "Hodija, Hashum, Betsaï,",
+        "S21": "Ather, Ezéchias, Azzur,"
+      }
+    },
+    {
+      "verse": 19,
+      "texts": {
+        "BDS": "Hodiya, Hachoum, Betsaï,",
+        "DBY": "Hariph, Anathoth,",
+        "KJV": "Hariph, Anathoth, Nebai,",
+        "LSG": "Hariph, Anathoth, Nébaï,",
+        "MAB": "Hariph, Hanathoth, Nébaï,",
+        "OST": "Hariph, Anathoth, Nébaï,",
+        "S21": "Hodija, Hashum, Betsaï,"
+      }
+    },
+    {
+      "verse": 20,
+      "texts": {
+        "BDS": "Hariph, Anatoth, Nébaï,",
+        "DBY": "Nébaï,",
+        "KJV": "Magpiash, Meshullam, Hezir,",
+        "LSG": "Magpiasch, Meschullam, Hézir,",
+        "MAB": "Magpihas, Mésullam, Hézir,",
+        "OST": "Magpiash, Méshullam, Hézir,",
+        "S21": "Hariph, Anathoth, Nébaï,"
+      }
+    },
+    {
+      "verse": 21,
+      "texts": {
+        "BDS": "Magpiach, Mechoullam, Hézir,",
+        "DBY": "Magpiash, Meshullam, Hézir, Meshézabeël, Tsadok, Jaddua,",
+        "KJV": "Meshezabeel, Zadok, Jaddua,",
+        "LSG": "Meschézabeel, Tsadok, Jaddua,",
+        "MAB": "Mésézabéel, Tsadok, Jadduah,",
+        "OST": "Meshézabéel, Tsadok, Jaddua,",
+        "S21": "Magpiash, Meshullam, Hézir,"
+      }
+    },
+    {
+      "verse": 22,
+      "texts": {
+        "BDS": "Mechézabeel, Tsadoq, Yaddoua,",
+        "DBY": "Pelatia, Hanan, Anaïa,",
+        "KJV": "Pelatiah, Hanan, Anaiah,",
+        "LSG": "Pelathia, Hanan, Anaja,",
+        "MAB": "Pélatia, Hanan, Hanaja,",
+        "OST": "Pélatia, Hanan, Anaja,",
+        "S21": "Meshézabeel, Tsadok, Jaddua,"
+      }
+    },
+    {
+      "verse": 23,
+      "texts": {
+        "BDS": "Pelatia, Hanân, Asaya,",
+        "DBY": "Osée, Hanania, Hashub,",
+        "KJV": "Hoshea, Hananiah, Hashub,",
+        "LSG": "Hosée, Hanania, Haschub,",
+        "MAB": "Osée, Hanania, Hasub,",
+        "OST": "Osée, Hanania, Hashub,",
+        "S21": "Pelathia, Hanan, Anaja,"
+      }
+    },
+    {
+      "verse": 24,
+      "texts": {
+        "BDS": "Hosée, Hanania, Hachoub,",
+        "DBY": "Hallokhesh, Pilkha, Shobek,",
+        "KJV": "Hallohesh, Pileha, Shobek,",
+        "LSG": "Hallochesch, Pilcha, Schobek,",
+        "MAB": "Lohès, Pilha, Sobek,",
+        "OST": "Lochèsh, Pilcha, Shobek,",
+        "S21": "Hosée, Hanania, Hashub,"
+      }
+    },
+    {
+      "verse": 25,
+      "texts": {
+        "BDS": "Hallohech, Pilha, Chobeq,",
+        "DBY": "Rehum, Hashabna, Maascéïa,",
+        "KJV": "Rehum, Hashabnah, Maaseiah,",
+        "LSG": "Rehum, Haschabna, Maaséja,",
+        "MAB": "Réhum, Hasabna, Mahaséja,",
+        "OST": "Réhum, Hashabna, Maaséja,",
+        "S21": "Hallochesh, Pilcha, Shobek,"
+      }
+    },
+    {
+      "verse": 26,
+      "texts": {
+        "BDS": "Rohoum, Hachabna, Maaséya,",
+        "DBY": "et Akhija, Hanan, Anan,",
+        "KJV": "And Ahijah, Hanan, Anan,",
+        "LSG": "Achija, Hanan, Anan,",
+        "MAB": "Ahija, Hanan, Hunan,",
+        "OST": "Achija, Hanan, Anan,",
+        "S21": "Rehum, Hashabna, Maaséja,"
+      }
+    },
+    {
+      "verse": 27,
+      "texts": {
+        "BDS": "Ahiya, Hanân, Anân,",
+        "DBY": "Malluc, Harim, Baana.",
+        "KJV": "Malluch, Harim, Baanah.",
+        "LSG": "Malluc, Harim, Baana.",
+        "MAB": "Malluc, Harim et Bahana.",
+        "OST": "Malluc, Harim, Baana.",
+        "S21": "Achija, Hanan, Anan,"
+      }
+    },
+    {
+      "verse": 28,
+      "texts": {
+        "BDS": "Mallouk, Harim, Baana.",
+        "DBY": "Et le reste du peuple, les sacrificateurs, les lévites, les portiers, les chantres, les Nethiniens, et tous ceux qui s'étaient séparés des peuples des pays pour s'attacher à la loi de Dieu, leurs femmes, leurs fils et leurs filles, tous ceux qui avaient de la connaissance et de l'intelligence,",
+        "KJV": "And the rest of the people, the priests, the Levites, the porters, the singers, the Nethinims, and all they that had separated themselves from the people of the lands unto the law of God, their wives, their sons, and their daughters, every one having knowledge, and having understanding;",
+        "LSG": "Le reste du peuple, les sacrificateurs, les Lévites, les portiers, les chantres, les Néthiniens, et tous ceux qui s'étaient séparés des peuples étrangers pour suivre la loi de Dieu, leurs femmes, leurs fils et leurs filles, tous ceux qui étaient capables de connaissance et d'intelligence,",
+        "MAB": "Quant au reste du peuple les Sacrificateurs, les Lévites, les portiers, les chantres, les Néthiniens, et tous ceux qui s'étaient séparés des peuples des pays pour [faire] la Loi de Dieu, leurs femmes, leurs fils, et leurs filles, tous ceux qui étaient capables de connaissance et d'intelligence,",
+        "OST": "Et le reste du peuple, les sacrificateurs, les Lévites, les portiers, les chantres, les Néthiniens, et tous ceux qui s'étaient séparés des peuples de ces pays, pour observer la loi de Dieu, leurs femmes, leurs fils, et leurs filles, tous ceux qui étaient capables de connaissance et d'intelligence,",
+        "S21": "Malluc, Harim et Baana."
+      }
+    },
+    {
+      "verse": 29,
+      "texts": {
+        "BDS": "Se joignirent à eux le reste des Israélites, des prêtres, des lévites, les portiers, les musiciens, les desservants du Temple, tous ceux qui s’étaient séparés des peuples étrangers pour suivre la Loi de Dieu, de même que leurs femmes, leurs fils et leurs filles et tous ceux qui étaient en âge de comprendre.",
+        "DBY": "se joignirent à leurs frères, les principaux d'entre eux, et s'engagèrent par exécration et par serment de marcher selon la loi de Dieu qui avait été donnée par Moïse, serviteur de Dieu, et d'observer et de pratiquer tous les commandements de l'Éternel, notre Seigneur, et ses ordonnances et ses statuts,",
+        "KJV": "They clave to their brethren, their nobles, and entered into a curse, and into an oath, to walk in God's law, which was given by Moses the servant of God, and to observe and do all the commandments of the LORD our Lord, and his judgments and his statutes;",
+        "LSG": "se joignirent à leurs frères les plus considérables d'entre eux. Ils promirent avec serment et jurèrent de marcher dans la loi de Dieu donnée par Moïse, serviteur de Dieu, d'observer et de mettre en pratique tous les commandements de l'Eternel, notre Seigneur, ses ordonnances et ses lois.",
+        "MAB": "Adhérèrent entièrement à leurs frères, les plus considérables d'entre eux, et prêtèrent serment avec exécration et jurèrent de marcher dans la Loi de Dieu, qui avait été donnée par le moyen de Moïse serviteur de Dieu, et de garder et de faire tous les commandements de l'Eternel notre Seigneur, ses jugements et ses ordonnances;",
+        "OST": "Se joignirent à leurs frères, les plus considérables d'entre eux, et s'engagèrent par imprécation et serment, à marcher dans la loi de Dieu, qui avait été donnée par Moïse, serviteur de Dieu, à garder et à faire tous les commandements de l'Éternel notre Seigneur, ses ordonnances et ses lois;",
+        "S21": "Le reste du peuple, les prêtres, les Lévites, les portiers, les musiciens, les serviteurs du temple et tous ceux qui s'étaient séparés des populations installées dans la région pour suivre la loi de Dieu, y compris leurs femmes, leurs fils et leurs filles, tous ceux qui étaient aptes à comprendre,"
+      }
+    },
+    {
+      "verse": 30,
+      "texts": {
+        "BDS": "Tous donnèrent leur soutien aux compatriotes les plus considérés d’entre eux. Ils promirent et s’engagèrent par serment à vivre en accord avec la Loi de Dieu donnée par l’intermédiaire de Moïse, son serviteur, à obéir à tous les commandements de l’Eternel, notre Seigneur, à ses articles de droit et à ses ordonnances et à les appliquer.",
+        "DBY": "et promettant que nous ne donnerions pas nos filles aux peuples du pays, et que nous ne prendrions pas leurs filles pour nos fils;",
+        "KJV": "And that we would not give our daughters unto the people of the land, nor take their daughters for our sons:",
+        "LSG": "Nous promîmes de ne pas donner nos filles aux peuples du pays et de ne pas prendre leurs filles pour nos fils;",
+        "MAB": "Et de ne donner point de nos filles aux peuples du pays, et de ne prendre point leurs filles pour nos fils;",
+        "OST": "A ne pas donner nos filles aux peuples du pays, et à ne point prendre leurs filles pour nos fils;",
+        "S21": "ont apporté leur soutien à leurs frères les plus influents. Ils se sont engagés, sous peine de malédiction et avec serment, à marcher suivant la loi de Dieu donnée par l’intermédiaire de son serviteur Moïse, à respecter et à mettre en pratique tous les commandements, les règles et les prescriptions de l'Eternel, notre Seigneur:"
+      }
+    },
+    {
+      "verse": 31,
+      "texts": {
+        "BDS": "—Nous nous engageons en particulier, dirent-ils, à ne pas donner nos filles en mariage aux peuples étrangers qui sont dans le pays et à ne pas faire épouser leurs filles par nos fils;",
+        "DBY": "et que, si les peuples du pays apportaient des marchandises ou toutes sortes de grains, le jour du sabbat, pour les vendre, nous n'en prendrions pas le jour du sabbat, ni en un jour saint; et que nous laisserions la terre en friche la septième année, et remettrions toute espèce de dettes.",
+        "KJV": "And [if] the people of the land bring ware or any victuals on the sabbath day to sell, [that] we would not buy it of them on the sabbath, or on the holy day: and [that] we would leave the seventh year, and the exaction of every debt.",
+        "LSG": "de ne rien acheter, le jour du sabbat et les jours de fête, des peuples du pays qui apporteraient à vendre, le jour du sabbat, des marchandises ou denrées quelconques; et de faire relâche la septième année, en n'exigeant le paiement d'aucune dette.",
+        "MAB": "Et de ne prendre rien le jour du Sabbat, ou tel autre jour sanctifié, des peuples du pays, qui apportent des marchandises, et toutes sortes de denrées le jour du Sabbat, pour les vendre; et d'abandonner la septième année, avec tout le droit d'exiger ce qui est dû.",
+        "OST": "Et à ne prendre rien, au jour du sabbat, ni dans un autre jour consacré, des peuples du pays qui apportent des marchandises et toutes sortes de denrées, le jour du sabbat, pour les vendre, et à faire relâche la septième année, et à faire remise de toute dette.",
+        "S21": "«Nous nous engageons à ne pas donner nos filles en mariage aux peuples qui habitent le pays et à ne pas prendre leurs filles comme femmes pour nos fils,"
+      }
+    },
+    {
+      "verse": 32,
+      "texts": {
+        "BDS": "et à ne rien acheter le jour du sabbat et les jours de fête aux gens du pays si, ces jours-là, ils apportent des marchandises et toutes sortes de denrées à vendre. Tous les sept ans, nous laisserons reposer la terre et nous annulerons toutes les dettes.",
+        "DBY": "Et nous nous établîmes des commandements, nous imposant le tiers d'un sicle par an pour le service de la maison de notre Dieu,",
+        "KJV": "Also we made ordinances for us, to charge ourselves yearly with the third part of a shekel for the service of the house of our God;",
+        "LSG": "Nous nous imposâmes aussi des ordonnances qui nous obligeaient à donner un tiers de sicle par année pour le service de la maison de notre Dieu,",
+        "MAB": "Nous fîmes aussi des ordonnances, nous chargeant de donner chaque année la troisième partie d'un sicle, pour le service de la maison de notre Dieu;",
+        "OST": "Nous fîmes aussi des ordonnances, nous chargeant de donner, par an, le tiers d'un sicle, pour le service de la maison de notre Dieu,",
+        "S21": "à ne leur acheter, le jour du sabbat et les jours de fête, aucune des marchandises ou des céréales qu’ils amèneraient le jour du sabbat pour les vendre, à respecter le répit de la septième année et à renoncer au paiement de toute dette."
+      }
+    },
+    {
+      "verse": 33,
+      "texts": {
+        "BDS": "De plus, nous nous imposons comme règle de donner obligatoirement chaque année une pièce d’argent de quatre grammes pour l’entretien et le culte du Temple de notre Dieu,",
+        "DBY": "pour les pains à placer en rangées, et pour l'offrande de gâteau continuelle, et pour les holocaustes, l'holocauste continuel, celui des sabbats, et celui des nouvelles lunes, pour les jours solennels et pour les choses saintes, et pour les sacrifices pour le péché, afin de faire propitiation pour Israël, et pour toute l'œuvre de la maison de notre Dieu.",
+        "KJV": "For the shewbread, and for the continual meat offering, and for the continual burnt offering, of the sabbaths, of the new moons, for the set feasts, and for the holy [things], and for the sin offerings to make an atonement for Israel, and [for] all the work of the house of our God.",
+        "LSG": "pour les pains de proposition, pour l'offrande perpétuelle, pour l'holocauste perpétuel des sabbats, des nouvelles lunes et des fêtes, pour les choses consacrées, pour les sacrifices d'expiation en faveur d'Israël, et pour tout ce qui se fait dans la maison de notre Dieu.",
+        "MAB": "Pour les pains de proposition, pour le gâteau continuel, et pour l'holocauste continuel; et pour ceux des Sabbats, des nouvelles lunes, et des fêtes solennelles; pour les choses saintes, et pour les offrandes pour le péché, afin de réconcilier Israël; enfin, pour tout ce qui se faisait dans la maison de notre Dieu.",
+        "OST": "Pour les pains de proposition, pour l'offrande perpétuelle, pour l'holocauste perpétuel des sabbats, des nouvelles lunes, pour les fêtes, pour les choses consacrées, pour les sacrifices d'expiation en faveur d'Israël, et pour tout ce qui se fait dans la maison de notre Dieu.",
+        "S21": "»Nous nous imposons aussi des commandements par lesquels nous nous obligeons à donner 4 grammes d’argent par an pour le service de la maison de notre Dieu,"
+      }
+    },
+    {
+      "verse": 34,
+      "texts": {
+        "BDS": "pour les pains exposés devant l’Eternel, pour l’offrande permanente, pour l’holocauste perpétuel et celui des jours de sabbat, des nouvelles lunes et des fêtes, pour les choses consacrées, pour les sacrifices d’expiation des péchés d’Israël, et pour tout ce qui se fait dans le Temple de notre Dieu.",
+        "DBY": "Et nous jetâmes le sort, sacrificateurs, lévites, et peuple, au sujet de l'offrande du bois à amener à la maison de notre Dieu, selon nos maisons de pères, à des époques fixes, chaque année, pour le brûler sur l'autel de l'Éternel, notre Dieu, comme il est écrit dans la loi.",
+        "KJV": "And we cast the lots among the priests, the Levites, and the people, for the wood offering, to bring [it] into the house of our God, after the houses of our fathers, at times appointed year by year, to burn upon the altar of the LORD our God, as [it is] written in the law:",
+        "LSG": "Nous tirâmes au sort, sacrificateurs, Lévites et peuple, au sujet du bois qu'on devait chaque année apporter en offrande à la maison de notre Dieu, selon nos maisons paternelles, à des époques fixes, pour qu'il fût brûlé sur l'autel de l'Eternel, notre Dieu, comme il est écrit dans la loi.",
+        "MAB": "Nous jetâmes aussi le sort touchant le bois des oblations, tant les sacrificateurs et les Lévites, que le peuple ; afin de l'amener dans la maison de notre Dieu, selon les maisons de nos pères, et dans les temps déterminés, d'année en année, pour brûler sur l'autel de notre Dieu, ainsi qu'il est écrit dans la Loi.",
+        "OST": "Nous tirâmes au sort, pour l'offrande du bois, tant les sacrificateurs et les Lévites que le peuple, afin de l'amener à la maison de notre Dieu, selon les maisons de nos pères, à des époques déterminées, année par année, pour le brûler sur l'autel de l'Éternel, notre Dieu, ainsi qu'il est écrit dans la loi.",
+        "S21": "pour les pains consacrés, pour l'offrande perpétuelle, pour l'holocauste perpétuel des sabbats, des débuts de mois et des fêtes, pour les éléments consacrés, pour les sacrifices d'expiation en faveur d'Israël et pour toute l’activité de la maison de notre Dieu."
+      }
+    },
+    {
+      "verse": 35,
+      "texts": {
+        "BDS": "Nous avons aussi tiré au sort quelles familles de prêtres, de lévites et de gens du peuple devaient apporter chaque année à date fixe au Temple de notre Dieu, le bois destiné à brûler sur l’autel de l’Eternel, notre Dieu, comme cela est écrit dans la Loi.",
+        "DBY": "Et nous nous engageâmes à apporter les prémices de notre terre, et les prémices de tous les fruits de tous les arbres, chaque année, à la maison de l'Éternel,",
+        "KJV": "And to bring the firstfruits of our ground, and the firstfruits of all fruit of all trees, year by year, unto the house of the LORD:",
+        "LSG": "Nous résolûmes d'apporter chaque année à la maison de l'Eternel les prémices de notre sol et les prémices de tous les fruits de tous les arbres;",
+        "MAB": "[Nous ordonnâmes] aussi que nous apporterions dans la maison de l'Eternel, d'année en année, les premiers fruits de notre terre, et les prémices de tous les fruits de tous les arbres;",
+        "OST": "Nous décidâmes aussi d'apporter à la maison de l'Éternel, année par année, les premiers fruits de notre terre, et les premiers fruits de tous les arbres;",
+        "S21": "Nous avons tiré au sort entre prêtres, Lévites et membres du peuple pour déterminer quelle famille devait apporter, et à quel moment fixe de chaque année, l’offrande de bois destinée à la maison de notre Dieu. Ce bois est celui qui doit brûler sur l'autel de l'Eternel, notre Dieu, conformément à ce qui est écrit dans la loi."
+      }
+    },
+    {
+      "verse": 36,
+      "texts": {
+        "BDS": "Nous prenons aussi l’engagement d’apporter tous les ans au Temple de l’Eternel les premières récoltes de notre sol et les premiers fruits de tous nos arbres,",
+        "DBY": "et les premiers-nés de nos fils et de nos bêtes, comme il est écrit dans la loi; et à apporter les premiers-nés de notre gros et de notre menu bétail, à la maison de notre Dieu, aux sacrificateurs qui font le service dans la maison de notre Dieu:",
+        "KJV": "Also the firstborn of our sons, and of our cattle, as [it is] written in the law, and the firstlings of our herds and of our flocks, to bring to the house of our God, unto the priests that minister in the house of our God:",
+        "LSG": "d'amener à la maison de notre Dieu, aux sacrificateurs qui font le service dans la maison de notre Dieu, les premiers-nés de nos fils et de notre bétail, comme il est écrit dans la loi, les premiers-nés de nos boeufs et de nos brebis;",
+        "MAB": "Et [que nous rachèterions] les premiers-nés de nos fils, et de nos bêtes, comme il est écrit dans la Loi; et que nous amènerions en la maison de notre Dieu, aux Sacrificateurs qui font le service dans la maison de notre Dieu, les premiers-nés de nos bœufs et de notre menu bétail.",
+        "OST": "Et les premiers-nés de nos fils et de nos bêtes, comme il est écrit dans la loi; et d'amener à la maison de notre Dieu, aux sacrificateurs qui font le service dans la maison de notre Dieu, les premiers-nés de notre gros et de notre menu bétail.",
+        "S21": "»Nous nous engageons à amener chaque année à la maison de l'Eternel les premiers produits de notre sol et les premiers fruits de tous les arbres,"
+      }
+    },
+    {
+      "verse": 37,
+      "texts": {
+        "BDS": "d’y présenter les premiers-nés de nos fils et de notre bétail, comme il est écrit dans la Loi, et d’amener au Temple de notre Dieu les premiers-nés de notre petit et de notre gros bétail, pour les remettre aux prêtres qui assurent le service dans le Temple de notre Dieu.",
+        "DBY": "et nous apporterons les prémices de notre pâte et nos offrandes élevées, et le fruit de tout arbre, le moût et l'huile, aux sacrificateurs, dans les chambres de la maison de notre Dieu, et les dîmes de notre terre aux lévites; et eux, les lévites, prélèveront la dîme dans toutes les villes de notre labour;",
+        "KJV": "And [that] we should bring the firstfruits of our dough, and our offerings, and the fruit of all manner of trees, of wine and of oil, unto the priests, to the chambers of the house of our God; and the tithes of our ground unto the Levites, that the same Levites might have the tithes in all the cities of our tillage.",
+        "LSG": "d'apporter aux sacrificateurs, dans les chambres de la maison de notre Dieu, les prémices de notre pâte et nos offrandes, des fruits de tous les arbres, du moût et de l'huile; et de livrer la dîme de notre sol aux Lévites qui doivent la prendre eux-mêmes dans toutes les villes situées sur les terres que nous cultivons.",
+        "MAB": "Et que nous apporterions les prémices de notre pâte, nos oblations, les fruits de tous les arbres, le vin, et l'huile aux Sacrificateurs, dans les chambres de la maison de notre Dieu, et la dîme de notre terre aux Lévites, et que les Lévites prendraient les dîmes par toutes les villes de notre labourage;",
+        "OST": "Et les prémices de notre pâte, nos offrandes, les fruits de tous les arbres, le vin et l'huile, nous les apporterons aux sacrificateurs, dans les chambres de la maison de notre Dieu, ainsi que la dîme de notre terre aux Lévites, qui eux-mêmes en paient la dîme dans toutes nos villes agricoles.",
+        "S21": "ainsi que les premiers-nés de nos fils et de nos animaux, conformément à ce qui est écrit dans la loi, à amener à la maison de notre Dieu, aux prêtres qui y font le service, les premiers-nés de notre petit et de notre gros bétail."
+      }
+    },
+    {
+      "verse": 38,
+      "texts": {
+        "BDS": "Nous apporterons aux prêtres, dans les salles de notre Dieu, la pâte faite avec notre première farine, nos offrandes, des fruits de tous les arbres, du vin nouveau, de l’huile, et nous remettrons aux lévites la dixième partie des produits de nos terres. Ils viendront eux-mêmes prélever cette dîme dans toutes les localités où nous travaillons.",
+        "DBY": "et le sacrificateur, fils d'Aaron, sera avec les lévites quand les lévites prélèveront la dîme, et les lévites apporteront la dîme de la dîme à la maison de notre Dieu, dans les chambres de la maison du trésor;",
+        "KJV": "And the priest the son of Aaron shall be with the Levites, when the Levites take tithes: and the Levites shall bring up the tithe of the tithes unto the house of our God, to the chambers, into the treasure house.",
+        "LSG": "Le sacrificateur, fils d'Aaron, sera avec les Lévites quand ils lèveront la dîme; et les Lévites apporteront la dîme de la dîme à la maison de notre Dieu, dans les chambres de la maison du trésor.",
+        "MAB": "Et qu'il y aurait un Sacrificateur, fils d'Aaron, avec les Lévites pour dîmer les Lévites, et que les Lévites apporteraient la dîme de la dîme en la maison de notre Dieu, dans les chambres, au lieu où étaient les greniers.",
+        "OST": "Le sacrificateur, fils d'Aaron, sera avec les Lévites, lorsque les Lévites paieront la dîme; et les Lévites apporteront la dîme de la dîme à la maison de notre Dieu, dans les chambres de la maison du trésor.",
+        "S21": "»Nous apporterons aux prêtres, en les déposant dans les salles de la maison de notre Dieu, notre première fournée, nos offrandes, des fruits de tous les arbres, du vin nouveau et de l'huile et nous donnerons la dîme des produits de notre sol aux Lévites; ces derniers devront la prendre eux-mêmes dans toutes les villes situées sur les terres que nous cultivons."
+      }
+    },
+    {
+      "verse": 39,
+      "texts": {
+        "BDS": "Un prêtre, descendant d’Aaron, accompagnera les lévites quand ceux-ci prélèveront la dîme, et ceux-ci apporteront la dîme de la dîme au Temple de notre Dieu, dans les salles de l’annexe qui sert d’entrepôt.",
+        "DBY": "car les fils d'Israël et les fils de Lévi apporteront l'offrande élevée du blé, du moût, et de l'huile, dans les chambres où sont les ustensiles du sanctuaire, et les sacrificateurs qui font le service, et les portiers et les chantres. Et nous n'abandonnerons pas la maison de notre Dieu.",
+        "KJV": "For the children of Israel and the children of Levi shall bring the offering of the corn, of the new wine, and the oil, unto the chambers, where [are] the vessels of the sanctuary, and the priests that minister, and the porters, and the singers: and we will not forsake the house of our God.",
+        "LSG": "Car les enfants d'Israël et les fils de Lévi apporteront dans ces chambres les offrandes de blé, de moût et d'huile; là sont les ustensiles du sanctuaire, et se tiennent les sacrificateurs qui font le service, les portiers et les chantres. C'est ainsi que nous résolûmes de ne pas abandonner la maison de notre Dieu.",
+        "MAB": "(car les enfants d'Israël? et les enfants de Lévi devaient apporter dans les chambres l'oblation du froment, du vin? et de l'huile; et là étaient les ustensiles du Sanctuaire, et les Sacrificateurs qui font le service, et les portiers, et les chantres ) et que nous n'abandonnerions point la maison de notre Dieu.",
+        "OST": "Car les enfants d'Israël et les enfants de Lévi doivent apporter dans ces chambres l'offrande du blé, du vin et de l'huile; là sont les ustensiles du sanctuaire, les sacrificateurs qui font le service, les portiers et les chantres. Et nous n'abandonnerons point la maison de notre Dieu.",
+        "S21": "Le prêtre en service issu d'Aaron devra accompagner les Lévites quand ils prélèveront la dîme, et ceux-ci devront apporter la dîme de cette dîme à la maison de notre Dieu, dans les salles de la maison du trésor."
+      }
+    },
+    {
+      "verse": 40,
+      "texts": {
+        "BDS": "Car les Israélites et les lévites apporteront dans ces salles leurs offrandes de blé, de vin nouveau et d’huile; c’est dans ces locaux que sont entreposés les objets du sanctuaire et que se tiendront les prêtres qui font le service, les portiers et les musiciens. Ainsi, nous ne négligerons pas le Temple de notre Dieu.",
+        "S21": "En effet, c’est dans ces salles que les Israélites et les Lévites doivent apporter les prélèvements de blé, de vin nouveau et d'huile; c’est là que se trouvent les ustensiles du sanctuaire et que se tiennent les prêtres qui font le service, les portiers et les musiciens. Nous n’abandonnerons pas la maison de notre Dieu.»"
+      }
+    }
+  ]
+}

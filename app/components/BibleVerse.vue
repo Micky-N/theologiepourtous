@@ -124,13 +124,13 @@
 
 <script lang="ts" setup>
 import type { ContextMenuItem } from '@nuxt/ui';
-import type { BibleBook, BibleBookmark, BibleNote, BibleVerse } from '@prisma/client';
+import type { BibleBookData, BibleBookmarkData, BibleNoteData, BibleVerseData } from '~/types';
 
 const props = defineProps<{
-    book: BibleBook;
-    verse: BibleVerse;
-    notes: BibleNote[];
-    bookmark: BibleBookmark | null;
+    book: BibleBookData;
+    verse: BibleVerseData;
+    notes: BibleNoteData[];
+    bookmark: BibleBookmarkData | null;
 }>();
 
 const emit = defineEmits<{
@@ -193,9 +193,9 @@ const deleteBookmark = async () => {
     }
 };
 
-const noteToEdit = ref<BibleNote | null>(null);
+const noteToEdit = ref<BibleNoteData | null>(null);
 
-const editNote = (note: BibleNote) => {
+const editNote = (note: BibleNoteData) => {
     noteToEdit.value = note;
     openedNoteCreateDrawer.value = true;
 };

@@ -1,0 +1,110 @@
+{
+  "bookCode": "PSA",
+  "chapter": 4,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "Au chef de chœur, un psaume de David à chanter avec accompagnement d’instruments à cordes.",
+        "DBY": "Quand je crie, réponds-moi, Dieu de ma justice! Dans la détresse tu m'as mis au large; use de grâce envers-moi, et écoute ma prière.",
+        "KJV": "To the chief Musician on Neginoth, A Psalm of David. Hear me when I call, O God of my righteousness: thou hast enlarged me [when I was] in distress; have mercy upon me, and hear my prayer.",
+        "LSG": "Au chef des chantres. Avec instruments à cordes. Psaume de David. Quand je crie, réponds-moi, Dieu de ma justice! Quand je suis dans la détresse, sauve-moi! Aie pitié de moi, écoute ma prière!",
+        "MAB": "Psaume de David, [donné] au maître chantre, [pour le chanter] sur Néguinoth. Ô Dieu! de ma justice, puisque je crie, réponds-moi; quand j'étais à l'étroit, tu m'as mis au large; aie pitié de moi, et exauce ma requête.",
+        "OST": "Au maître-chantre. Avec instruments à cordes. Psaume de David.",
+        "S21": "Au chef de chœur, avec instruments à cordes. Psaume de David."
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "Quand je t’appelle à l’aide, Dieu qui me rends justice, oh, réponds-moi!\r\nToi qui délivres de la détresse,\r\nDieu, fais-moi grâce, et entends ma prière!",
+        "DBY": "Fils d'hommes, jusques à quand livrerez-vous ma gloire à l'opprobre? Jusques à quand aimerez-vous la vanité et chercherez-vous le mensonge? Sélah.",
+        "KJV": "O ye sons of men, how long [will ye turn] my glory into shame? [how long] will ye love vanity, [and] seek after leasing? Selah.",
+        "LSG": "Fils des hommes, jusques à quand ma gloire sera-t-elle outragée? Jusques à quand aimerez-vous la vanité, Chercherez-vous le mensonge? -Pause.",
+        "MAB": "Gens d'autorité, jusqu'à quand ma gloire sera-t-elle diffamée? [jusqu'à quand] aimerez-vous la vanité, et chercherez-vous le mensonge? Sélah.",
+        "OST": "Quand je crie, réponds-moi, ô Dieu de ma justice! Quand j'étais à l'étroit, tu m'as mis au large; aie pitié de moi, entends ma prière!",
+        "S21": "Quand je crie, réponds-moi, Dieu de ma justice! Quand j’étais dans la détresse, tu m’as mis au large. Aie pitié de moi, écoute ma prière!"
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "Et vous, les hommes, jusques à quand jetterez-vous le discrédit sur mon honneur?\r\nJusques à quand vous plairez-vous à poursuivre le vent\r\net le mensonge?\r\nPause",
+        "DBY": "Mais sachez que l'Éternel s'est choisi l'homme pieux. L'Éternel écoutera quand je crierai à lui.",
+        "KJV": "But know that the LORD hath set apart him that is godly for himself: the LORD will hear when I call unto him.",
+        "LSG": "Sachez que l'Eternel s'est choisi un homme pieux; L'Eternel entend, quand je crie à lui.",
+        "MAB": "Or sachez que l'Eternel s'est choisi un bien-aimé. L'Eternel m'exaucera quand je crierai vers lui.",
+        "OST": "Fils des hommes, jusques à quand ma gloire sera-t-elle mise en opprobre? Jusques à quand aimerez-vous la vanité, et rechercherez-vous le mensonge? (Sélah. )",
+        "S21": "Vous les hommes, jusqu’à quand mépriserez-vous ma gloire? Jusqu’à quand aimerez-vous ce qui est sans valeur et rechercherez-vous le mensonge? – Pause."
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "Sachez-le bien: l’Eternel s’est choisi un homme qui lui est fidèle:\r\net il m’entend quand je l’appelle.",
+        "DBY": "Agitez-vous, et ne péchez pas; méditez dans vos cœurs sur votre couche, et soyez tranquilles. Sélah.",
+        "KJV": "Stand in awe, and sin not: commune with your own heart upon your bed, and be still. Selah.",
+        "LSG": "Tremblez, et ne péchez point; Parlez en vos coeurs sur votre couche, puis taisez-vous. -Pause.",
+        "MAB": "Tremblez, et ne péchez point; pensez en vous-mêmes sur votre couche, et demeurez tranquilles. Sélah.",
+        "OST": "Sachez que l'Éternel s'est choisi un bien-aimé. L'Éternel m'entend quand je crie à lui.",
+        "S21": "Sachez que l’Eternel s’est choisi un homme fidèle. L’Eternel entend quand je crie à lui."
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "Mettez-vous en colère mais n’allez pas jusqu’à pécher!\r\nRéfléchissez, sur votre lit, puis taisez-vous!\r\nPause",
+        "DBY": "Offrez des sacrifices de justice, et confiez-vous en l'Éternel.",
+        "KJV": "Offer the sacrifices of righteousness, and put your trust in the LORD.",
+        "LSG": "Offrez des sacrifices de justice, Et confiez-vous à l'Eternel.",
+        "MAB": "Sacrifiez des sacrifices de justice, et confiez-vous en l'Eternel.",
+        "OST": "Tremblez, et ne péchez point! Parlez en vos cœurs sur votre couche, et gardez le silence! (Sélah. )",
+        "S21": "Si vous vous mettez en colère, ne péchez pas! Parlez dans votre cœur, sur votre lit, et faites silence. – Pause."
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "Offrez des sacrifices conformes à la Loi\r\net confiez-vous en l’Eternel!",
+        "DBY": "Beaucoup disent: Qui nous fera voir du bien? Lève sur nous la lumière de ta face, ô Éternel!",
+        "KJV": "[There be] many that say, Who will shew us [any] good? LORD, lift thou up the light of thy countenance upon us.",
+        "LSG": "Plusieurs disent: Qui nous fera voir le bonheur? Fais lever sur nous la lumière de ta face, ô Eternel!",
+        "MAB": "Plusieurs disent : qui nous fera voir des biens? Lève sur nous la clarté de ta face, ô Eternel!",
+        "OST": "Offrez des sacrifices de justice, et confiez-vous en l'Éternel.",
+        "S21": "Offrez des sacrifices conformes à la justice et confiez-vous en l’Eternel."
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "Ils sont nombreux ceux qui demandent: «D’où nous viendra donc le bonheur?»\r\nO Eternel, porte sur nous un regard favorable! Que notre vie en soit illuminée!",
+        "DBY": "Tu as mis de la joie dans mon cœur, plus qu'au temps où leur froment et leur moût ont été abondants.",
+        "KJV": "Thou hast put gladness in my heart, more than in the time [that] their corn and their wine increased.",
+        "LSG": "Tu mets dans mon coeur plus de joie qu'ils n'en ont Quand abondent leur froment et leur moût.",
+        "MAB": "Tu as mis plus de joie dans mon cœur, qu'ils n'en ont au temps que leur froment et leur meilleur vin ont été abondants.",
+        "OST": "Plusieurs disent: Qui nous fera voir du bien? Fais lever sur nous la lumière de ta face, ô Éternel!",
+        "S21": "Beaucoup disent: «Qui nous fera voir le bonheur?» Fais briller la lumière de ton visage sur nous, Eternel!"
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "Tu mets dans mon cœur de la joie, plus qu’ils n’en ont jamais\r\nquand leurs moissons abondent, quand leur vin nouveau coule.",
+        "DBY": "Je me coucherai, et aussi je dormirai en paix; car toi seul, ô Éternel! tu me fais habiter en sécurité.",
+        "KJV": "I will both lay me down in peace, and sleep: for thou, LORD, only makest me dwell in safety.",
+        "LSG": "Je me couche et je m'endors en paix, Car toi seul, ô Eternel! tu me donnes la sécurité dans ma demeure.",
+        "MAB": "Je me coucherai et je dormirai aussi en paix; car toi seul, ô Eternel! me feras habiter en assurance.",
+        "OST": "Tu as mis dans mon cœur plus de joie, qu'ils n'en ont quand leur blé et leur vin sont abondants.",
+        "S21": "Tu mets dans mon cœur plus de joie qu’ils n’en éprouvent quand abondent leur blé, leur vin [et leur huile]."
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "Dans la paix, je me couche et m’endors aussitôt;\r\ngrâce à toi seul, ô Eternel, je demeure en sécurité.",
+        "OST": "Je me coucherai, je m'endormirai aussi en paix; car toi seul, ô Éternel, tu me fais reposer en assurance.",
+        "S21": "Je me couche et aussitôt je m’endors en paix, car c’est toi seul, Eternel, qui me donnes la sécurité dans ma demeure."
+      }
+    }
+  ]
+}

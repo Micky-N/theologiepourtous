@@ -1,0 +1,630 @@
+{
+  "bookCode": "LUK",
+  "chapter": 2,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "En ce temps-là, l’empereur Auguste publia un édit qui ordonnait le recensement de tous les habitants de l’Empire.",
+        "DBY": "Or il arriva, en ces jours-là, qu'un décret fut rendu de la part de César Auguste, portant qu'il fût fait un recensement de toute la terre habitée.",
+        "KJV": "And it came to pass in those days, that there went out a decree from Caesar Augustus, that all the world should be taxed.",
+        "LSG": "En ce temps-là parut un édit de César Auguste, ordonnant un recensement de toute la terre.",
+        "MAB": "Or il arriva en ces jours-là, qu'un Edit fut publié de la part de César Auguste, [portant] que tout le monde fût enregistré.",
+        "OST": "En ce temps-là on publia un édit de César Auguste, pour faire le dénombrement des habitants de toute la terre.",
+        "S21": "A cette époque-là parut un édit de l'empereur Auguste qui ordonnait le recensement de tout l’Empire."
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "Ce recensement, le premier du genre, eut lieu à l’époque où Quirinius était gouverneur de la province de Syrie.",
+        "DBY": "Le recensement lui-même se fit seulement lorsque Cyrénius eut le gouvernement de la Syrie.)",
+        "KJV": "([And] this taxing was first made when Cyrenius was governor of Syria.)",
+        "LSG": "Ce premier recensement eut lieu pendant que Quirinius était gouverneur de Syrie.",
+        "MAB": "Et cette première description fut faite lorsque Cyrénius avait le gouvernement de Syrie.",
+        "OST": "Ce premier dénombrement se fit pendant que Quirinus était gouverneur de Syrie.",
+        "S21": "Ce premier recensement eut lieu pendant que Quirinius était gouverneur de Syrie."
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "Tout le monde allait se faire recenser, chacun dans la localité dont il était originaire.",
+        "DBY": "Et tous allaient pour être enregistrés, chacun en sa propre ville.",
+        "KJV": "And all went to be taxed, every one into his own city.",
+        "LSG": "Tous allaient se faire inscrire, chacun dans sa ville.",
+        "MAB": "Ainsi tous allaient pour être mis par écrit, chacun en sa ville.",
+        "OST": "Ainsi tous allaient pour être enregistrés, chacun dans sa ville.",
+        "S21": "Tous allaient se faire inscrire, chacun dans sa ville d'origine."
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "C’est ainsi que Joseph, lui aussi, partit de Nazareth et monta de la Galilée en Judée, à Bethléhem, la ville de David: il appartenait, en effet, à la famille de David.",
+        "DBY": "Et Joseph aussi monta de Galilée, de la ville de Nazareth, en Judée, dans la ville de David qui est appelée Bethléhem, parce qu'il était de la maison et de la famille de David,",
+        "KJV": "And Joseph also went up from Galilee, out of the city of Nazareth, into Judaea, unto the city of David, which is called Bethlehem; (because he was of the house and lineage of David:)",
+        "LSG": "Joseph aussi monta de la Galilée, de la ville de Nazareth, pour se rendre en Judée, dans la ville de David, appelée Bethléhem, parce qu'il était de la maison et de la famille de David,",
+        "MAB": "Et Joseph monta de Galilée en Judée, [savoir] de la ville de Nazareth, en la cité de David, appelée Bethléhem, à cause qu'il était de la maison et de la famille de David;",
+        "OST": "Joseph aussi monta de Galilée en Judée, de la ville de Nazareth à la ville de David, nommée Bethléhem, parce qu'il était de la maison et de la famille de David,",
+        "S21": "Joseph aussi monta de la Galilée, de la ville de Nazareth, pour se rendre en Judée dans la ville de David, appelée Bethléhem, parce qu'il était de la famille et de la lignée de David."
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "Il s’y rendit pour se faire recenser avec Marie, sa fiancée, qui attendait un enfant.",
+        "DBY": "pour être enregistré avec Marie, la femme qui lui était fiancée, laquelle était enceinte.",
+        "KJV": "To be taxed with Mary his espoused wife, being great with child.",
+        "LSG": "afin de se faire inscrire avec Marie, sa fiancée, qui était enceinte.",
+        "MAB": "Pour être enregistré avec Marie, la femme qui lui avait été fiancée, laquelle était enceinte.",
+        "OST": "Pour être enregistré avec Marie son épouse, qui était enceinte.",
+        "S21": "Il y alla pour se faire inscrire avec sa femme Marie qui était enceinte."
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "Or, durant leur séjour à Bethléhem, arriva le moment où Marie devait accoucher.",
+        "DBY": "Et il arriva, pendant qu'ils étaient là, que les jours où elle devait accoucher s'accomplirent;",
+        "KJV": "And so it was, that, while they were there, the days were accomplished that she should be delivered.",
+        "LSG": "Pendant qu'ils étaient là, le temps où Marie devait accoucher arriva,",
+        "MAB": "Et il arriva comme ils étaient là, que son terme pour accoucher fut accompli.",
+        "OST": "Et pendant qu'ils étaient là, le temps auquel elle devait accoucher arriva.",
+        "S21": "Pendant qu'ils étaient là, le moment où Marie devait accoucher arriva,"
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "Elle mit au monde un fils: son premier-né. Elle lui mit des langes et le coucha dans une mangeoire parce qu’il n’y avait pas de place pour eux dans la pièce réservée aux hôtes.",
+        "DBY": "et elle mit au monde son fils premier-né, et l'emmaillota, et le coucha dans la crèche, parce qu'il n'y avait pas de place pour eux dans l'hôtellerie.",
+        "KJV": "And she brought forth her firstborn son, and wrapped him in swaddling clothes, and laid him in a manger; because there was no room for them in the inn.",
+        "LSG": "et elle enfanta son fils premier-né. Elle l'emmaillota, et le coucha dans une crèche, parce qu'il n'y avait pas de place pour eux dans l'hôtellerie.",
+        "MAB": "Et elle mit au monde son fils premier-né, et l'emmaillota, et le coucha dans une crèche, à cause qu'il n'y avait point de place pour eux dans l'hôtellerie.",
+        "OST": "Et elle mit au monde son fils premier-né, et elle l'emmaillota, et le coucha dans une crèche, parce qu'il n'y avait point de place pour eux dans l'hôtellerie.",
+        "S21": "et elle mit au monde son fils premier-né. Elle l'enveloppa de langes et le coucha dans une mangeoire parce qu'il n'y avait pas de place pour eux dans la salle des hôtes."
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "Dans les champs environnants, des bergers passaient la nuit pour garder leurs troupeaux.",
+        "DBY": "Et il y avait dans la même contrée des bergers demeurant aux champs, et gardant leur troupeau durant les veilles de la nuit.",
+        "KJV": "And there were in the same country shepherds abiding in the field, keeping watch over their flock by night.",
+        "LSG": "Il y avait, dans cette même contrée, des bergers qui passaient dans les champs les veilles de la nuit pour garder leurs troupeaux.",
+        "MAB": "Or il y avait en ces quartiers-là des bergers couchant aux champs, et gardant leur troupeau durant les veilles de la nuit.",
+        "OST": "Or, il y avait dans la même contrée des bergers qui couchaient aux champs, et qui gardaient leurs troupeaux pendant les veilles de la nuit.",
+        "S21": "Il y avait dans la même région des bergers qui passaient la nuit dans les champs pour y garder leur troupeau."
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "Un ange du Seigneur leur apparut et la gloire du Seigneur resplendit autour d’eux. Une grande frayeur les saisit.",
+        "DBY": "Et voici, un ange du Seigneur se trouva avec eux, et la gloire du Seigneur resplendit autour d'eux; et ils furent saisis d'une fort grande peur.",
+        "KJV": "And, lo, the angel of the Lord came upon them, and the glory of the Lord shone round about them: and they were sore afraid.",
+        "LSG": "Et voici, un ange du Seigneur leur apparut, et la gloire du Seigneur resplendit autour d'eux. Ils furent saisis d'une grande frayeur.",
+        "MAB": "Et voici, l'Ange du Seigneur survint vers eux, et la clarté du Seigneur resplendit autour d'eux, et ils furent saisis d'une fort grande peur.",
+        "OST": "Et voici un ange du Seigneur se présenta à eux, et la gloire du Seigneur resplendit autour d'eux, et ils furent saisis d'une grande peur.",
+        "S21": "Un ange du Seigneur leur apparut et la gloire du Seigneur resplendit autour d'eux. Ils furent saisis d'une grande frayeur."
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "Mais l’ange les rassura:\r\n—N’ayez pas peur: je vous annonce une nouvelle qui sera pour tout le peuple le sujet d’une très grande joie.",
+        "DBY": "Et l'ange leur dit: N'ayez point de peur, car voici, je vous annonce un grand sujet de joie qui sera pour tout le peuple;",
+        "KJV": "And the angel said unto them, Fear not: for, behold, I bring you good tidings of great joy, which shall be to all people.",
+        "LSG": "Mais l'ange leur dit: Ne craignez point; car je vous annonce une bonne nouvelle, qui sera pour tout le peuple le sujet d'une grande joie:",
+        "MAB": "Mais l'Ange leur dit : n'ayez point de peur; car voici, je vous annonce un grand sujet de joie qui sera tel pour tout le peuple :",
+        "OST": "Alors l'ange leur dit: N'ayez point de peur; car je vous annonce une grande joie, qui sera pour tout le peuple;",
+        "S21": "Mais l'ange leur dit: «N’ayez pas peur, car je vous annonce une bonne nouvelle qui sera une source de grande joie pour tout le peuple:"
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "Un Sauveur vous est né aujourd’hui dans la ville de David; c’est lui le Messie, le Seigneur.",
+        "DBY": "car aujourd'hui, dans la cité de David, vous est né un sauveur, qui est le Christ, le Seigneur.",
+        "KJV": "For unto you is born this day in the city of David a Saviour, which is Christ the Lord.",
+        "LSG": "c'est qu'aujourd'hui, dans la ville de David, il vous est né un Sauveur, qui est le Christ, le Seigneur.",
+        "MAB": "C'est qu'aujourd'hui dans la cité de David vous est né le Sauveur, qui est le Christ, le Seigneur.",
+        "OST": "C'est qu'aujourd'hui, dans la ville de David, un Sauveur, qui est le Christ, le Seigneur, vous est né.",
+        "S21": "aujourd'hui, dans la ville de David, il vous est né un Sauveur qui est le Messie, le Seigneur."
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "Et voici à quoi vous le reconnaîtrez: vous trouverez un nouveau-né dans ses langes et couché dans une mangeoire.",
+        "DBY": "Et ceci en est le signe pour vous, c'est que vous trouverez un petit enfant emmailloté et couché dans une crèche.",
+        "KJV": "And this [shall be] a sign unto you; Ye shall find the babe wrapped in swaddling clothes, lying in a manger.",
+        "LSG": "Et voici à quel signe vous le reconnaîtrez: vous trouverez un enfant emmailloté et couché dans une crèche.",
+        "MAB": "Et c'est ici la marque à laquelle vous le reconnaîtrez, c'est que vous trouverez le petit enfant emmailloté, et couché dans une crèche.",
+        "OST": "Et ceci vous servira de signe: Vous trouverez le petit enfant emmailloté et couché dans une crèche.",
+        "S21": "Voici à quel signe vous le reconnaîtrez: vous trouverez un nouveau-né enveloppé de langes et couché dans une mangeoire.»"
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "Et tout à coup apparut, aux côtés de l’ange, une multitude d’anges de l’armée céleste qui chantaient les louanges de Dieu:",
+        "DBY": "Et soudain il y eut avec l'ange une multitude de l'armée céleste, louant Dieu, et disant:",
+        "KJV": "And suddenly there was with the angel a multitude of the heavenly host praising God, and saying,",
+        "LSG": "Et soudain il se joignit à l'ange une multitude de l'armée céleste, louant Dieu et disant:",
+        "MAB": "Et aussitôt avec l'Ange il y eut une multitude de l'armée céleste, louant Dieu, et disant :",
+        "OST": "Et au même instant il y eut avec l'ange une multitude de l'armée céleste, louant Dieu et disant:",
+        "S21": "Et tout à coup une foule d'anges de l'armée céleste se joignit à l'ange. Ils adressaient des louanges à Dieu et disaient:"
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "Gloire à Dieu au plus haut des cieux!\r\nEt paix sur la terre aux hommes qu’il aime.",
+        "DBY": "Gloire à Dieu dans les lieux très-hauts; et sur la terre, paix; et bon plaisir dans les hommes!",
+        "KJV": "Glory to God in the highest, and on earth peace, good will toward men.",
+        "LSG": "Gloire à Dieu dans les lieux très hauts, Et paix sur la terre parmi les hommes qu'il agrée!",
+        "MAB": "Gloire soit à Dieu dans les lieux très-hauts, que la paix soit sur la terre et la bonne volonté dans les hommes!",
+        "OST": "Gloire à Dieu, dans les lieux très hauts; paix sur la terre, bonne volonté envers les hommes!",
+        "S21": "«Gloire à Dieu dans les lieux très hauts, paix sur la terre et bienveillance parmi les hommes!»"
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "Quand les anges les eurent quittés pour retourner au ciel, les bergers se dirent l’un à l’autre:\r\n—Allons donc jusqu’à Bethléhem pour voir ce qui est arrivé, ce que le Seigneur nous a fait connaître.",
+        "DBY": "Et il arriva, lorsque les anges s'en furent allés d'avec eux au ciel, que les bergers dirent entre eux: Allons donc jusqu'à Bethléhem, et voyons cette chose qui est arrivée que le Seigneur nous a fait connaître.",
+        "KJV": "And it came to pass, as the angels were gone away from them into heaven, the shepherds said one to another, Let us now go even unto Bethlehem, and see this thing which is come to pass, which the Lord hath made known unto us.",
+        "LSG": "Lorsque les anges les eurent quittés pour retourner au ciel, les bergers se dirent les uns aux autres: Allons jusqu'à Bethléhem, et voyons ce qui est arrivé, ce que le Seigneur nous a fait connaître.",
+        "MAB": "Et il arriva qu'après que les Anges s'en furent allés d'avec eux au ciel, les bergers dirent entre eux : allons donc jusqu'à Bethléhem, et voyons cette chose qui est arrivée, et que le Seigneur nous a découverte.",
+        "OST": "Et quand les anges se furent retirés d'avec eux dans le ciel, les bergers se dirent les uns aux autres: Allons donc jusqu'à Bethléhem, et voyons ce qui est arrivé, ce que le Seigneur nous a fait connaître.",
+        "S21": "Lorsque les anges les eurent quittés pour retourner au ciel, les bergers se dirent les uns aux autres: «Allons jusqu'à Bethléhem pour voir ce qui est arrivé, ce que le Seigneur nous a fait connaître.»"
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "Ils se dépêchèrent donc d’y aller et trouvèrent Marie et Joseph avec le nouveau-né couché dans une mangeoire.",
+        "DBY": "Et ils allèrent en hâte, et ils trouvèrent Marie et Joseph, et le petit enfant couché dans la crèche.",
+        "KJV": "And they came with haste, and found Mary, and Joseph, and the babe lying in a manger.",
+        "LSG": "Ils y allèrent en hâte, et ils trouvèrent Marie et Joseph, et le petit enfant couché dans la crèche.",
+        "MAB": "Ils allèrent donc à grand hâte, et ils trouvèrent Marie et Joseph, et le petit enfant couché dans une crèche.",
+        "OST": "Ils y allèrent donc en hâte, et trouvèrent Marie, et Joseph, et le petit enfant, qui était couché dans la crèche.",
+        "S21": "Ils se dépêchèrent d'y aller et ils trouvèrent Marie et Joseph, ainsi que le nouveau-né couché dans la mangeoire."
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "Quand ils le virent, ils racontèrent ce qui leur avait été dit au sujet de cet enfant.",
+        "DBY": "Et l'ayant vu, ils divulguèrent la parole qui leur avait été dite touchant ce petit enfant.",
+        "KJV": "And when they had seen [it], they made known abroad the saying which was told them concerning this child.",
+        "LSG": "Après l'avoir vu, ils racontèrent ce qui leur avait été dit au sujet de ce petit enfant.",
+        "MAB": "Et quand ils l'eurent vu, ils divulguèrent ce qui leur avait été dit touchant ce petit enfant.",
+        "OST": "Et l'ayant vu, ils publièrent ce qui leur avait été dit touchant ce petit enfant.",
+        "S21": "Après l'avoir vu, ils racontèrent ce qui leur avait été dit au sujet de ce petit enfant."
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "Tous ceux qui entendirent le récit des bergers en furent très étonnés.",
+        "DBY": "Et tous ceux qui l'ouïrent s'étonnèrent des choses qui leur étaient dites par les bergers.",
+        "KJV": "And all they that heard [it] wondered at those things which were told them by the shepherds.",
+        "LSG": "Tous ceux qui les entendirent furent dans l'étonnement de ce que leur disaient les bergers.",
+        "MAB": "Et tous ceux qui les ouïrent s'étonnèrent des choses qui leur étaient dites par les bergers.",
+        "OST": "Et tous ceux qui les entendirent, étaient dans l'admiration de ce que les bergers leur disaient.",
+        "S21": "Tous ceux qui entendirent les bergers furent étonnés de ce qu'ils leur disaient."
+      }
+    },
+    {
+      "verse": 19,
+      "texts": {
+        "BDS": "Marie, elle, conservait le souvenir de toutes ces paroles et y repensait souvent.",
+        "DBY": "Et Marie gardait toutes ces choses par devers elle, les repassant dans son cœur.",
+        "KJV": "But Mary kept all these things, and pondered [them] in her heart.",
+        "LSG": "Marie gardait toutes ces choses, et les repassait dans son coeur.",
+        "MAB": "Et Marie gardait soigneusement toutes ces choses, et les repassait dans son esprit.",
+        "OST": "Et Marie conservait toutes ces choses, les repassant dans son cœur.",
+        "S21": "Marie gardait le souvenir de tout cela et le méditait dans son cœur."
+      }
+    },
+    {
+      "verse": 20,
+      "texts": {
+        "BDS": "Les bergers s’en retournèrent, louant et glorifiant Dieu au sujet de tout ce qu’ils avaient vu et entendu: c’était bien ce que l’ange leur avait annoncé.",
+        "DBY": "Et les bergers s'en retournèrent, glorifiant et louant Dieu de toutes les choses qu'ils avaient entendues et vues, selon qu'il leur en avait été parlé.",
+        "KJV": "And the shepherds returned, glorifying and praising God for all the things that they had heard and seen, as it was told unto them.",
+        "LSG": "Et les bergers s'en retournèrent, glorifiant et louant Dieu pour tout ce qu'ils avaient entendu et vu, et qui était conforme à ce qui leur avait été annoncé.",
+        "MAB": "Puis les bergers s'en retournèrent, glorifiant et louant Dieu de toutes ces choses qu'ils avaient ouïes et vues, selon qu'il leur en avait été parlé.",
+        "OST": "Et les bergers s'en retournèrent, glorifiant et louant Dieu de tout ce qu'ils avaient entendu et vu, conformément à ce qui leur avait été dit.",
+        "S21": "Puis les bergers repartirent en célébrant la gloire de Dieu et en lui adressant des louanges à cause de tout ce qu'ils avaient entendu et vu et qui était conforme à ce qui leur avait été annoncé."
+      }
+    },
+    {
+      "verse": 21,
+      "texts": {
+        "BDS": "Lorsque, huit jours plus tard, arriva le moment de circoncire l’enfant, on lui donna le nom de Jésus: c’était le nom que l’ange avait indiqué avant qu’il ne fût conçu.",
+        "DBY": "Et quand huit jours furent accomplis pour le circoncire, son nom fut appelé Jésus, nom duquel il avait été appelé par l'ange avant qu'il fût conçu dans le ventre.",
+        "KJV": "And when eight days were accomplished for the circumcising of the child, his name was called JESUS, which was so named of the angel before he was conceived in the womb.",
+        "LSG": "Le huitième jour, auquel l'enfant devait être circoncis, étant arrivé, on lui donna le nom de Jésus, nom qu'avait indiqué l'ange avant qu'il fût conçu dans le sein de sa mère.",
+        "MAB": "Et quand les huit jours furent accomplis pour circoncire l'enfant, alors son nom fut appelé JESUS, lequel avait été nommé par l'Ange, avant qu'il fût conçu dans le ventre.",
+        "OST": "Quand les huit jours furent accomplis pour circoncire l'enfant, il fut appelé JÉSUS, nom qui lui avait été donné par l'ange, avant qu'il fût conçu dans le sein de sa mère.",
+        "S21": "Huit jours plus tard, ce fut le moment de circoncire l'enfant; on lui donna le nom de Jésus, nom que l'ange avait indiqué avant sa conception."
+      }
+    },
+    {
+      "verse": 22,
+      "texts": {
+        "BDS": "Puis, une fois passé le temps prescrit par la Loi de Moïse pour leur purification, les parents de Jésus l’emmenèrent à Jérusalem pour le présenter au Seigneur.",
+        "DBY": "Et quand les jours de leur purification, selon la loi de Moïse, furent accomplis, ils le portèrent à Jérusalem, pour le présenter au Seigneur",
+        "KJV": "And when the days of her purification according to the law of Moses were accomplished, they brought him to Jerusalem, to present [him] to the Lord;",
+        "LSG": "Et, quand les jours de leur purification furent accomplis, selon la loi de Moïse, Joseph et Marie le portèrent à Jérusalem, pour le présenter au Seigneur, -",
+        "MAB": "Et quand les jours de la purification de [Marie] furent accomplis selon la Loi de Moïse, ils le portèrent à Jérusalem, pour le présenter au Seigneur,",
+        "OST": "Et quand les jours de leur purification, selon la loi de Moïse, furent accomplis, on porta l'enfant à Jérusalem, pour le présenter au Seigneur,",
+        "S21": "Quand la période de leur purification prit fin, conformément à la loi de Moïse, Joseph et Marie l'amenèrent à Jérusalem pour le présenter au Seigneur"
+      }
+    },
+    {
+      "verse": 23,
+      "texts": {
+        "BDS": "En effet, il est écrit dans la Loi du Seigneur:\r\nTout garçon premier-né sera consacré au Seigneur.",
+        "DBY": "(selon qu'il est écrit dans la loi du Seigneur, que tout mâle qui ouvre la matrice sera appelé saint au Seigneur),",
+        "KJV": "(As it is written in the law of the Lord, Every male that openeth the womb shall be called holy to the Lord;)",
+        "LSG": "suivant ce qui est écrit dans la loi du Seigneur: Tout mâle premier-né sera consacré au Seigneur, -",
+        "MAB": "(Selon ce qui est écrit dans la Loi du Seigneur : que tout mâle premier-né sera appelé saint au Seigneur.)",
+        "OST": "Selon qu'il est écrit dans la loi du Seigneur: Tout mâle premier-né sera consacré au Seigneur; et pour offrir en sacrifice,",
+        "S21": "– suivant ce qui est écrit dans la loi du Seigneur: Tout mâle premier-né sera consacré au Seigneur –"
+      }
+    },
+    {
+      "verse": 24,
+      "texts": {
+        "BDS": "Ils venaient aussi offrir le sacrifice requis par la Loi du Seigneur: une paire de tourterelles ou deux jeunes pigeons.",
+        "DBY": "et pour offrir un sacrifice, selon ce qui est prescrit dans la loi du Seigneur, une paire de tourterelles ou deux jeunes colombes.",
+        "KJV": "And to offer a sacrifice according to that which is said in the law of the Lord, A pair of turtledoves, or two young pigeons.",
+        "LSG": "et pour offrir en sacrifice deux tourterelles ou deux jeunes pigeons, comme cela est prescrit dans la loi du Seigneur.",
+        "MAB": "Et pour offrir l'oblation prescrite dans la Loi du Seigneur, [savoir] une paire de tourterelles, ou deux pigeonneaux.",
+        "OST": "Selon ce qui est prescrit dans la loi du Seigneur, une paire de tourterelles, ou deux pigeonneaux.",
+        "S21": "et pour offrir en sacrifice un couple de tourterelles ou deux jeunes pigeons, comme cela est prescrit dans la loi du Seigneur."
+      }
+    },
+    {
+      "verse": 25,
+      "texts": {
+        "BDS": "Il y avait alors, à Jérusalem, un homme appelé Siméon. C’était un homme droit et pieux; il vivait dans l’attente du salut d’Israël, et le Saint-Esprit reposait sur lui.",
+        "DBY": "Et voici, il y avait à Jérusalem un homme dont le nom était Siméon; et cet homme était juste et pieux, et il attendait la consolation d'Israël; et l'Esprit Saint était sur lui.",
+        "KJV": "And, behold, there was a man in Jerusalem, whose name [was] Simeon; and the same man [was] just and devout, waiting for the consolation of Israel: and the Holy Ghost was upon him.",
+        "LSG": "Et voici, il y avait à Jérusalem un homme appelé Siméon. Cet homme était juste et pieux, il attendait la consolation d'Israël, et l'Esprit-Saint était sur lui.",
+        "MAB": "Or voici, il y avait à Jérusalem un homme qui avait nom Siméon, et cet homme était juste et craignant Dieu, et il attendait la consolation d'Israël; et le Saint-Esprit était en lui.",
+        "OST": "Il y avait à Jérusalem un homme qui s'appelait Siméon; cet homme était juste et pieux, il attendait la consolation d'Israël; et le Saint-Esprit était sur lui.",
+        "S21": "Or il y avait à Jérusalem un homme appelé Siméon. Cet homme était juste et pieux, il attendait la consolation d'Israël et l'Esprit saint était sur lui."
+      }
+    },
+    {
+      "verse": 26,
+      "texts": {
+        "BDS": "L’Esprit Saint lui avait révélé qu’il ne mourrait pas avant d’avoir vu le Messie, l’Envoyé du Seigneur.",
+        "DBY": "Et il avait été averti divinement par l'Esprit Saint qu'il ne verrait pas la mort, que premièrement il n'eût vu le Christ du Seigneur.",
+        "KJV": "And it was revealed unto him by the Holy Ghost, that he should not see death, before he had seen the Lord's Christ.",
+        "LSG": "Il avait été divinement averti par le Saint-Esprit qu'il ne mourrait point avant d'avoir vu le Christ du Seigneur.",
+        "MAB": "Et il avait été averti divinement par le Saint-Esprit, qu'il ne mourrait point, que premièrement il n'eût vu le Christ du Seigneur.",
+        "OST": "Et il avait été averti divinement par le Saint-Esprit qu'il ne mourrait point, qu'auparavant il n'eût vu le Christ du Seigneur.",
+        "S21": "Le Saint-Esprit lui avait révélé qu'il ne mourrait pas avant d'avoir vu le Messie du Seigneur."
+      }
+    },
+    {
+      "verse": 27,
+      "texts": {
+        "BDS": "Poussé par l’Esprit, il vint au Temple. Quand les parents de Jésus apportèrent le petit enfant pour accomplir les rites qu’ordonnait la Loi,",
+        "DBY": "Et il vint par l'Esprit dans le temple; et comme les parents apportaient le petit enfant Jésus pour faire à son égard selon l'usage de la loi,",
+        "KJV": "And he came by the Spirit into the temple: and when the parents brought in the child Jesus, to do for him after the custom of the law,",
+        "LSG": "Il vint au temple, poussé par l'Esprit. Et, comme les parents apportaient le petit enfant Jésus pour accomplir à son égard ce qu'ordonnait la loi,",
+        "MAB": "Lui donc étant poussé par l'Esprit vint au Temple; et comme le père et la mère portaient dans [le Temple] le petit enfant Jésus, pour faire de lui selon l'usage de la Loi,",
+        "OST": "Il vint au temple par l'Esprit, et comme le père et la mère apportaient le petit enfant Jésus, pour faire à son égard ce qui était en usage selon la loi,",
+        "S21": "Il vint au temple, poussé par l'Esprit. Et quand les parents amenèrent le petit enfant Jésus pour accomplir à son sujet ce que prescrivait la loi,"
+      }
+    },
+    {
+      "verse": 28,
+      "texts": {
+        "BDS": "Siméon le prit dans ses bras et loua Dieu en disant:",
+        "DBY": "il le prit entre ses bras et bénit Dieu et dit:",
+        "KJV": "Then took he him up in his arms, and blessed God, and said,",
+        "LSG": "il le reçut dans ses bras, bénit Dieu, et dit:",
+        "MAB": "Il le prit entre ses bras, et bénit Dieu, et dit :",
+        "OST": "Il le prit entre ses bras, et bénit Dieu, et dit:",
+        "S21": "il le prit dans ses bras, bénit Dieu et dit:"
+      }
+    },
+    {
+      "verse": 29,
+      "texts": {
+        "BDS": "Maintenant, Seigneur, tu laisses ton serviteur\r\ns’en aller en paix: tu as tenu ta promesse;",
+        "DBY": "Maintenant, Seigneur, tu laisses aller ton esclave en paix selon ta parole;",
+        "KJV": "Lord, now lettest thou thy servant depart in peace, according to thy word:",
+        "LSG": "Maintenant, Seigneur, tu laisses ton serviteur S'en aller en paix, selon ta parole.",
+        "MAB": "Seigneur, tu laisses maintenant aller ton serviteur en paix selon ta parole.",
+        "OST": "Seigneur, tu laisses maintenant aller ton serviteur en paix, selon ta parole;",
+        "S21": "«Maintenant, Seigneur, tu laisses ton serviteur s'en aller en paix, conformément à ta promesse,"
+      }
+    },
+    {
+      "verse": 30,
+      "texts": {
+        "BDS": "car mes yeux ont vu le Sauveur qui vient de toi,",
+        "DBY": "car mes yeux ont vu ton salut,",
+        "KJV": "For mine eyes have seen thy salvation,",
+        "LSG": "Car mes yeux ont vu ton salut,",
+        "MAB": "Car mes yeux ont vu ton salut;",
+        "OST": "Car mes yeux ont vu ton salut,",
+        "S21": "car mes yeux ont vu ton salut,"
+      }
+    },
+    {
+      "verse": 31,
+      "texts": {
+        "BDS": "et que tu as suscité en faveur de tous les peuples:",
+        "DBY": "lequel tu as préparé devant la face de tous les peuples:",
+        "KJV": "Which thou hast prepared before the face of all people;",
+        "LSG": "Salut que tu as préparé devant tous les peuples,",
+        "MAB": "Lequel tu as préparé devant la face de tous les peuples.",
+        "OST": "Que tu as préparé à la face de tous les peuples,",
+        "S21": "salut que tu as préparé devant tous les peuples,"
+      }
+    },
+    {
+      "verse": 32,
+      "texts": {
+        "BDS": "il est la lumière pour éclairer les nations,\r\nil sera la gloire d’Israël ton peuple.",
+        "DBY": "une lumière pour la révélation des nations: et la gloire de ton peuple Israël.",
+        "KJV": "A light to lighten the Gentiles, and the glory of thy people Israel.",
+        "LSG": "Lumière pour éclairer les nations, Et gloire d'Israël, ton peuple.",
+        "MAB": "La lumière pour éclairer les nations; et pour être la gloire de ton peuple d'Israël.",
+        "OST": "La lumière qui doit éclairer les nations, et la gloire de ton peuple d'Israël.",
+        "S21": "lumière pour éclairer les nations et gloire d'Israël, ton peuple.»"
+      }
+    },
+    {
+      "verse": 33,
+      "texts": {
+        "BDS": "Le père et la mère de Jésus étaient émerveillés de ce qu’il disait de lui.",
+        "DBY": "Et son père et sa mère s'étonnaient des choses qui étaient dites de lui.",
+        "KJV": "And Joseph and his mother marvelled at those things which were spoken of him.",
+        "LSG": "Son père et sa mère étaient dans l'admiration des choses qu'on disait de lui.",
+        "MAB": "Et Joseph et sa mère s'étonnaient des choses qui étaient dites de lui.",
+        "OST": "Et Joseph et sa mère étaient dans l'admiration des choses qu'on disait de lui.",
+        "S21": "Joseph et la mère [de Jésus] étaient émerveillés de ce qu'on disait de lui."
+      }
+    },
+    {
+      "verse": 34,
+      "texts": {
+        "BDS": "Siméon les bénit et dit à Marie, sa mère:\r\n—Sache-le: cet enfant est destiné à être, pour beaucoup en Israël, une occasion de chute ou de relèvement. Il sera un signe qui suscitera la contradiction:",
+        "DBY": "Et Siméon les bénit et dit à Marie sa mère: Voici, celui-ci est mis pour la chute et le relèvement de plusieurs en Israël, et pour un signe que l'on contredira",
+        "KJV": "And Simeon blessed them, and said unto Mary his mother, Behold, this [child] is set for the fall and rising again of many in Israel; and for a sign which shall be spoken against;",
+        "LSG": "Siméon les bénit, et dit à Marie, sa mère: Voici, cet enfant est destiné à amener la chute et le relèvement de plusieurs en Israël, et à devenir un signe qui provoquera la contradiction,",
+        "MAB": "Et Siméon le bénit, et dit à Marie sa mère : voici, celui-ci est mis pour être une occasion de chute et de relèvement de plusieurs en Israël, et pour être un signe auquel on contredira.",
+        "OST": "Et Siméon les bénit, et dit à Marie sa mère: Voici, cet enfant est mis pour la chute et le relèvement de plusieurs en Israël, et pour être en butte à la contradiction;",
+        "S21": "Siméon les bénit et dit à Marie, sa mère: «Cet enfant est destiné à amener la chute et le relèvement de beaucoup en Israël et à devenir un signe qui provoquera la contradiction."
+      }
+    },
+    {
+      "verse": 35,
+      "texts": {
+        "BDS": "ainsi seront dévoilées les pensées cachées de bien des gens. Quant à toi, tu auras le cœur comme transpercé par une épée.",
+        "DBY": "(et même une épée transpercera ta propre âme), en sorte que les pensées de plusieurs cœurs soient révélées.",
+        "KJV": "(Yea, a sword shall pierce through thy own soul also,) that the thoughts of many hearts may be revealed.",
+        "LSG": "et à toi-même une épée te transpercera l'âme, afin que les pensées de beaucoup de coeurs soient dévoilées.",
+        "MAB": "(Et même aussi une épée percera ta propre âme) afin que les pensées de plusieurs cœurs soient découvertes.",
+        "OST": "En sorte que les pensées du cœur de plusieurs seront découvertes; et pour toi une épée te transpercera l'âme.",
+        "S21": "Toi-même, une épée te transpercera l'âme. Ainsi, les pensées de beaucoup de cœurs seront révélées.»"
+      }
+    },
+    {
+      "verse": 36,
+      "texts": {
+        "BDS": "Il y avait aussi une prophétesse, Anne, fille de Phanuel, de la tribu d’Aser. Elle était très âgée. Dans sa jeunesse, elle avait été mariée pendant sept ans,",
+        "DBY": "Et il y avait Anne, une prophétesse, fille de Phanuel, de la tribu d'Aser (elle était fort avancée en âge, ayant vécu avec un mari sept ans depuis sa virginité,",
+        "KJV": "And there was one Anna, a prophetess, the daughter of Phanuel, of the tribe of Aser: she was of a great age, and had lived with an husband seven years from her virginity;",
+        "LSG": "Il y avait aussi une prophétesse, Anne, fille de Phanuel, de la tribu d'Aser. Elle était fort avancée en âge, et elle avait vécu sept ans avec son mari depuis sa virginité.",
+        "MAB": "Il y avait aussi Anne la Prophétesse, fille de Phanuel de la Tribu d'Aser, qui était déjà avancée en âge, et qui avait vécu avec son mari sept ans depuis sa virginité;",
+        "OST": "Il y avait aussi Anne la prophétesse, fille de Phanuel, de la tribu d'Ascer; elle était fort avancée en âge, et elle avait vécu avec son mari, sept ans, depuis sa virginité.",
+        "S21": "Il y avait aussi une prophétesse, Anne, fille de Phanuel, de la tribu d'Aser. Elle était d'un âge très avancé. Elle n’avait vécu que 7 ans avec son mari après son mariage."
+      }
+    },
+    {
+      "verse": 37,
+      "texts": {
+        "BDS": "puis elle était devenue veuve et avait vécu seule jusqu’à quatre-vingt-quatre ans. Elle ne quittait jamais le Temple où elle servait Dieu, nuit et jour, par le jeûne et la prière.",
+        "DBY": "veuve d'environ quatre-vingt-quatre ans), qui ne quittait pas le temple, servant Dieu en jeûnes et en prières, nuit et jour;",
+        "KJV": "And she [was] a widow of about fourscore and four years, which departed not from the temple, but served [God] with fastings and prayers night and day.",
+        "LSG": "Restée veuve, et âgée de quatre vingt-quatre ans, elle ne quittait pas le temple, et elle servait Dieu nuit et jour dans le jeûne et dans la prière.",
+        "MAB": "Et veuve d'environ quatre-vingt-quatre ans, elle ne bougeait point du temple, servant [Dieu] en jeûnes et en prières, nuit et jour.",
+        "OST": "Elle était veuve, âgée d'environ quatre-vingt-quatre ans, et elle ne sortait point du temple, servant Dieu nuit et jour en jeûnes et en prières.",
+        "S21": "Restée veuve et âgée de 84 ans, elle ne quittait pas le temple; elle servait Dieu nuit et jour dans le jeûne et dans la prière."
+      }
+    },
+    {
+      "verse": 38,
+      "texts": {
+        "BDS": "Elle arriva, elle aussi, au même moment; elle louait Dieu et parlait de l’enfant à tous ceux qui attendaient que Dieu délivre Jérusalem.",
+        "DBY": "celle-ci, survenant en ce même moment, louait le Seigneur, et parlait de lui à tous ceux qui, à Jérusalem, attendaient la délivrance.",
+        "KJV": "And she coming in that instant gave thanks likewise unto the Lord, and spake of him to all them that looked for redemption in Jerusalem.",
+        "LSG": "Etant survenue, elle aussi, à cette même heure, elle louait Dieu, et elle parlait de Jésus à tous ceux qui attendaient la délivrance de Jérusalem.",
+        "MAB": "Elle étant donc survenue en ce même moment, louait aussi le Seigneur, et parlait de lui à tous ceux qui attendaient la délivrance à Jérusalem.",
+        "OST": "Étant survenue à cette heure, elle louait aussi le Seigneur, et elle parlait de Jésus à tous ceux de Jérusalem qui attendaient la délivrance d'Israël.",
+        "S21": "Arrivée elle aussi à la même heure, elle disait publiquement sa reconnaissance envers Dieu et parlait de Jésus à tous ceux qui attendaient la délivrance à Jérusalem."
+      }
+    },
+    {
+      "verse": 39,
+      "texts": {
+        "BDS": "Après avoir accompli tout ce que la Loi du Seigneur ordonnait, Marie et Joseph retournèrent en Galilée, à Nazareth, leur village.",
+        "DBY": "Et quand ils eurent tout accompli selon la loi du Seigneur, ils s'en retournèrent en Galilée, à Nazareth, leur ville.",
+        "KJV": "And when they had performed all things according to the law of the Lord, they returned into Galilee, to their own city Nazareth.",
+        "LSG": "Lorsqu'ils eurent accompli tout ce qu'ordonnait la loi du Seigneur, Joseph et Marie retournèrent en Galilée, à Nazareth, leur ville.",
+        "MAB": "Et quand ils eurent accompli tout ce qui est ordonné par la Loi du Seigneur, ils s'en retournèrent en Galilée, à Nazareth leur ville.",
+        "OST": "Et après qu'ils eurent accompli tout ce qui est ordonné par la loi du Seigneur, ils retournèrent en Galilée, à Nazareth, leur ville.",
+        "S21": "Après avoir accompli tout ce que prescrivait la loi du Seigneur, Joseph et Marie retournèrent en Galilée, à Nazareth, leur ville."
+      }
+    },
+    {
+      "verse": 40,
+      "texts": {
+        "BDS": "Le petit enfant grandissait et se développait. Il était plein de sagesse, et la grâce de Dieu reposait sur lui.",
+        "DBY": "Et l'enfant croissait et se fortifiait, étant rempli de sagesse; et la faveur de Dieu était sur lui.",
+        "KJV": "And the child grew, and waxed strong in spirit, filled with wisdom: and the grace of God was upon him.",
+        "LSG": "Or, l'enfant croissait et se fortifiait. Il était rempli de sagesse, et la grâce de Dieu était sur lui.",
+        "MAB": "Et le petit enfant croissait et se fortifiait en esprit, étant rempli de sagesse; et la grâce de Dieu était sur lui.",
+        "OST": "Et l'enfant croissait et se fortifiait en esprit, étant rempli de sagesse; et la grâce de Dieu était sur lui.",
+        "S21": "Or l'enfant grandissait et se fortifiait [en esprit]. Il était rempli de sagesse et la grâce de Dieu était sur lui."
+      }
+    },
+    {
+      "verse": 41,
+      "texts": {
+        "BDS": "Les parents de Jésus se rendaient chaque année à Jérusalem pour la fête de la Pâque.",
+        "DBY": "Et ses parents allaient chaque année à Jérusalem, à la fête de Pâque.",
+        "KJV": "Now his parents went to Jerusalem every year at the feast of the passover.",
+        "LSG": "Les parents de Jésus allaient chaque année à Jérusalem, à la fête de Pâque.",
+        "MAB": "Or son père et sa mère allaient tous les ans à Jérusalem à la fête de Pâque.",
+        "OST": "Or, son père et sa mère allaient tous les ans à Jérusalem, à la fête de Pâque.",
+        "S21": "Les parents de Jésus allaient chaque année à Jérusalem pour la fête de la Pâque."
+      }
+    },
+    {
+      "verse": 42,
+      "texts": {
+        "BDS": "Quand Jésus eut douze ans, ils y montèrent selon la coutume de la fête.",
+        "DBY": "Et quand il eut douze ans, comme ils étaient montés à Jérusalem, selon la coutume de la fête,",
+        "KJV": "And when he was twelve years old, they went up to Jerusalem after the custom of the feast.",
+        "LSG": "Lorsqu'il fut âgé de douze ans, ils y montèrent, selon la coutume de la fête.",
+        "MAB": "Et quand il eut atteint l'âge de douze ans, [son père et sa mère] étant montés à Jérusalem selon la coutume de la fête,",
+        "OST": "Et quand il eut douze ans, ils montèrent à Jérusalem, selon la coutume de la fête.",
+        "S21": "Lorsqu'il eut 12 ans, ils y montèrent avec lui comme c’était la coutume pour cette fête."
+      }
+    },
+    {
+      "verse": 43,
+      "texts": {
+        "BDS": "Une fois la fête terminée, ils prirent le chemin du retour, mais Jésus, leur fils, resta à Jérusalem et ses parents ne s’en aperçurent pas.",
+        "DBY": "et qu'ils avaient accompli les jours de la fête, comme ils s'en retournaient, l'enfant Jésus demeura dans Jérusalem; et ses parents ne le savaient pas.",
+        "KJV": "And when they had fulfilled the days, as they returned, the child Jesus tarried behind in Jerusalem; and Joseph and his mother knew not [of it].",
+        "LSG": "Puis, quand les jours furent écoulés, et qu'ils s'en retournèrent, l'enfant Jésus resta à Jérusalem. Son père et sa mère ne s'en aperçurent pas.",
+        "MAB": "Et s'en retournant après avoir accompli les jours [de la Fête], l'enfant Jésus demeura dans Jérusalem; et Joseph et sa mère ne s'en aperçurent point.",
+        "OST": "Lorsque les jours de la fête furent achevés, comme ils s'en retournaient, l'enfant Jésus resta à Jérusalem;",
+        "S21": "Puis, quand la fête fut terminée, ils repartirent, mais l'enfant Jésus resta à Jérusalem sans que sa mère et Joseph s'en aperçoivent."
+      }
+    },
+    {
+      "verse": 44,
+      "texts": {
+        "BDS": "Ils supposaient, en effet, qu’il se trouvait avec leurs compagnons de voyage et firent ainsi une journée de marche. Ils se mirent alors à le chercher parmi leurs parents et leurs connaissances.",
+        "DBY": "Mais croyant qu'il était dans la troupe des voyageurs, ils marchèrent le chemin d'un jour et le cherchèrent parmi leurs parents et leurs connaissances;",
+        "KJV": "But they, supposing him to have been in the company, went a day's journey; and they sought him among [their] kinsfolk and acquaintance.",
+        "LSG": "Croyant qu'il était avec leurs compagnons de voyage, ils firent une journée de chemin, et le cherchèrent parmi leurs parents et leurs connaissances.",
+        "MAB": "Mais croyant qu'il était dans la troupe des voyageurs, ils marchèrent une journée; puis ils le cherchèrent entre leurs parents et ceux de leur connaissance.",
+        "OST": "Et Joseph et sa mère ne s'en aperçurent point. Mais, pensant qu'il était avec leurs compagnons de voyage, ils marchèrent une journée, puis ils le cherchèrent parmi leurs parents et ceux de leur connaissance;",
+        "S21": "Croyant qu'il était avec leurs compagnons de voyage, ils firent une journée de chemin, tout en le cherchant parmi leurs parents et leurs connaissances."
+      }
+    },
+    {
+      "verse": 45,
+      "texts": {
+        "BDS": "Mais ils ne le trouvèrent pas. Aussi retournèrent-ils à Jérusalem pour le chercher.",
+        "DBY": "et ne le trouvant pas, ils s'en retournèrent à Jérusalem à sa recherche.",
+        "KJV": "And when they found him not, they turned back again to Jerusalem, seeking him.",
+        "LSG": "Mais, ne l'ayant pas trouvé, ils retournèrent à Jérusalem pour le chercher.",
+        "MAB": "Et ne le trouvant point, ils s'en retournèrent à Jérusalem, en le cherchant.",
+        "OST": "Et ne le trouvant point, ils retournèrent à Jérusalem pour le chercher.",
+        "S21": "Mais ils ne le trouvèrent pas et ils retournèrent à Jérusalem pour le chercher."
+      }
+    },
+    {
+      "verse": 46,
+      "texts": {
+        "BDS": "Trois jours plus tard, ils le retrouvèrent dans le Temple, assis au milieu des maîtres; il les écoutait et leur posait des questions.",
+        "DBY": "Et il arriva qu'après trois jours ils le trouvèrent dans le temple, assis au milieu des docteurs, les écoutant et les interrogeant.",
+        "KJV": "And it came to pass, that after three days they found him in the temple, sitting in the midst of the doctors, both hearing them, and asking them questions.",
+        "LSG": "Au bout de trois jours, ils le trouvèrent dans le temple, assis au milieu des docteurs, les écoutant et les interrogeant.",
+        "MAB": "Or il arriva que trois jours après ils le trouvèrent dans le Temple, assis au milieu des Docteurs, les écoutant, et les interrogeant.",
+        "OST": "Et au bout de trois jours ils le trouvèrent dans le temple, assis au milieu des docteurs, les écoutant et leur faisant des questions.",
+        "S21": "Au bout de trois jours, ils le trouvèrent dans le temple, assis au milieu des maîtres; il les écoutait et les interrogeait."
+      }
+    },
+    {
+      "verse": 47,
+      "texts": {
+        "BDS": "Tous ceux qui l’entendaient s’émerveillaient de son intelligence et de ses réponses.",
+        "DBY": "Et tous ceux qui l'entendaient s'étonnaient de son intelligence et de ses réponses.",
+        "KJV": "And all that heard him were astonished at his understanding and answers.",
+        "LSG": "Tous ceux qui l'entendaient étaient frappés de son intelligence et de ses réponses.",
+        "MAB": "Et tous ceux qui l'entendaient s'étonnaient de sa sagesse et de ses réponses.",
+        "OST": "Et tous ceux qui l'entendaient, étaient ravis de sa sagesse et de ses réponses.",
+        "S21": "Tous ceux qui l'entendaient étaient stupéfaits de son intelligence et de ses réponses."
+      }
+    },
+    {
+      "verse": 48,
+      "texts": {
+        "BDS": "Ses parents furent très étonnés de le voir là, et sa mère lui dit:\r\n—Mon enfant, pourquoi nous as-tu fait cela? Tu sais, ton père et moi, nous étions très inquiets et nous t’avons cherché partout.",
+        "DBY": "Et quand ils le virent, ils furent frappés d'étonnement, et sa mère lui dit: Mon enfant, pourquoi nous as-tu fait ainsi? Voici, ton père et moi nous te cherchions, étant en grande peine.",
+        "KJV": "And when they saw him, they were amazed: and his mother said unto him, Son, why hast thou thus dealt with us? behold, thy father and I have sought thee sorrowing.",
+        "LSG": "Quand ses parents le virent, ils furent saisis d'étonnement, et sa mère lui dit: Mon enfant, pourquoi as-tu agi de la sorte avec nous? Voici, ton père et moi, nous te cherchions avec angoisse.",
+        "MAB": "Et quand ils le virent, ils en furent étonnés, et sa mère lui dit : mon enfant, pourquoi nous as-tu fait ainsi; voici, ton père et moi te cherchions étant en grande peine.",
+        "OST": "Quand ses parents le virent, ils furent étonnés; et sa mère lui dit: Mon enfant, pourquoi as-tu ainsi agi avec nous? Voici ton père et moi, nous te cherchions, étant fort en peine.",
+        "S21": "Quand ses parents le virent, ils furent frappés d'étonnement, et sa mère lui dit: «Mon enfant, pourquoi as-tu agi ainsi avec nous? Ton père et moi, nous te cherchions avec angoisse.»"
+      }
+    },
+    {
+      "verse": 49,
+      "texts": {
+        "BDS": "—Pourquoi m’avez-vous cherché? leur répondit Jésus. Ne saviez-vous pas que je dois m’occuper des affaires de mon Père?",
+        "DBY": "Et il leur dit: Pourquoi me cherchiez-vous? Ne saviez-vous pas qu'il me faut être aux affaires de mon Père?",
+        "KJV": "And he said unto them, ‹How is it that ye sought me? wist ye not that I must be about my Father's business?›",
+        "LSG": "Il leur dit: Pourquoi me cherchiez-vous? Ne saviez-vous pas qu'il faut que je m'occupe des affaires de mon Père?",
+        "MAB": "Et il leur dit : pourquoi me cherchiez vous? ne saviez-vous pas qu'il me faut être [occupé] aux affaires de mon Père?",
+        "OST": "Et il leur dit: Pourquoi me cherchiez-vous? Ne saviez-vous pas qu'il me faut être occupé aux affaires de mon Père?",
+        "S21": "Il leur dit: «Pourquoi me cherchiez-vous? Ne saviez-vous pas qu'il faut que je m'occupe des affaires de mon Père?»"
+      }
+    },
+    {
+      "verse": 50,
+      "texts": {
+        "BDS": "Mais ils ne comprirent pas ce qu’il leur disait.",
+        "DBY": "Et ils ne comprirent pas la parole qu'il leur disait.",
+        "KJV": "And they understood not the saying which he spake unto them.",
+        "LSG": "Mais ils ne comprirent pas ce qu'il leur disait.",
+        "MAB": "Mais ils ne comprirent point ce qu'il leur disait.",
+        "OST": "Mais ils ne comprirent point ce qu'il leur disait.",
+        "S21": "Mais ils ne comprirent pas ce qu'il leur disait."
+      }
+    },
+    {
+      "verse": 51,
+      "texts": {
+        "BDS": "Il repartit donc avec eux et retourna à Nazareth. Et il leur était obéissant. Sa mère gardait précieusement dans son cœur le souvenir de tout ce qui s’était passé.",
+        "DBY": "Et il descendit avec eux, et vint à Nazareth, et leur était soumis. Et sa mère conservait toutes ces paroles dans son cœur.",
+        "KJV": "And he went down with them, and came to Nazareth, and was subject unto them: but his mother kept all these sayings in her heart.",
+        "LSG": "Puis il descendit avec eux pour aller à Nazareth, et il leur était soumis. Sa mère gardait toutes ces choses dans son coeur.",
+        "MAB": "Alors il descendit avec eux, et vint à Nazareth; et il leur était soumis; et sa mère conservait toutes ces paroles-là dans son cœur.",
+        "OST": "Il s'en alla ensuite avec eux, et vint à Nazareth, et il leur était soumis. Et sa mère conservait toutes ces choses dans son cœur.",
+        "S21": "Puis il descendit avec eux pour aller à Nazareth et il leur était soumis. Sa mère gardait précieusement toutes ces choses dans son cœur."
+      }
+    },
+    {
+      "verse": 52,
+      "texts": {
+        "BDS": "Jésus grandissait et progressait en sagesse, et il se rendait toujours plus agréable à Dieu et aux hommes.",
+        "DBY": "Et Jésus avançait en sagesse et en stature, et en faveur auprès de Dieu et des hommes.",
+        "KJV": "And Jesus increased in wisdom and stature, and in favour with God and man.",
+        "LSG": "Et Jésus croissait en sagesse, en stature, et en grâce, devant Dieu et devant les hommes.",
+        "MAB": "Et Jésus s'avançait en sagesse, et en stature, et en grâce, envers Dieu et envers les hommes.",
+        "OST": "Et Jésus croissait en sagesse, en stature et en grâce, devant Dieu et devant les hommes.",
+        "S21": "Jésus grandissait en sagesse, en taille et en grâce devant Dieu et devant les hommes."
+      }
+    }
+  ]
+}

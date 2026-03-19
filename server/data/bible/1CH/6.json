@@ -1,0 +1,948 @@
+{
+  "bookCode": "1CH",
+  "chapter": 6,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "Fils de Lévi: Guerchom, Qehath et Merari.",
+        "DBY": "Les fils de Lévi: Guershom, Kehath, et Merari.",
+        "KJV": "The sons of Levi; Gershon, Kohath, and Merari.",
+        "LSG": "Fils de Lévi: Guerschom, Kehath et Merari.",
+        "MAB": "Les enfants de Lévi furent, Guerson, Kéhath, et Mérari.",
+        "OST": "Fils de Lévi: Guershon, Kéhath et Mérari.",
+        "S21": "Fils de Lévi: Guershon, Kehath et Merari."
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "Voici les noms des fils de Guerchom: Libni et Chimeï.",
+        "DBY": "-Et les fils de Kehath: Amram, Jitsehar, et Hébron, et Uziel.",
+        "KJV": "And the sons of Kohath; Amram, Izhar, and Hebron, and Uzziel.",
+        "LSG": "Fils de Kehath: Amram, Jitsehar, Hébron et Uziel.",
+        "MAB": "Les enfants de Kéhath furent, Hamram, Jitshar, Hébron, et Huziël.",
+        "OST": "Fils de Kéhath: Amram, Jitsehar, Hébron et Uziel.",
+        "S21": "Voici les noms des fils de Guershon: Libni et Shimeï."
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "Fils de Qehath: Amram, Yitsehar, Hébrôn et Ouzziel.",
+        "DBY": "Et les fils d'Amram: Aaron et Moïse, et Marie. Et les fils d'Aaron: Nadab et Abihu, Éléazar et Ithamar.",
+        "KJV": "And the children of Amram; Aaron, and Moses, and Miriam. The sons also of Aaron; Nadab, and Abihu, Eleazar, and Ithamar.",
+        "LSG": "Fils d'Amram: Aaron et Moïse; et Marie. Fils d'Aaron: Nadab, Abihu, Eléazar et Ithamar.",
+        "MAB": "Et les enfants d'Hamram, Aaron, Moïse, et Marie. Et les enfants d'Aaron, Nadab, Abihu, Eléazar, et Ithamar.",
+        "OST": "Enfants d'Amram: Aaron, Moïse et Marie. Fils d'Aaron: Nadab, Abihu, Éléazar et Ithamar.",
+        "S21": "Fils de Kehath: Amram, Jitsehar, Hébron et Uziel."
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "Fils de Merari: Mahli et Mouchi.",
+        "DBY": "-Éléazar engendra Phinées; Phinées engendra Abishua,",
+        "KJV": "Eleazar begat Phinehas, Phinehas begat Abishua,",
+        "LSG": "Eléazar engendra Phinées; Phinées engendra Abischua;",
+        "MAB": "Eléazar engendra Phinées, [et] Phinées engendra Abisuah.",
+        "OST": "Éléazar engendra Phinées; Phinées engendra Abishua;",
+        "S21": "Fils de Merari: Machli et Mushi. Tels sont les clans de Lévi en fonction de leurs ancêtres."
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "Voici les familles de Lévi, données à partir de leur ancêtre. Pour Guerchom, de père en fils: Libni, Yahath, Zimma,",
+        "DBY": "et Abishua engendra Bukki, et Bukki engendra Uzzi,",
+        "KJV": "And Abishua begat Bukki, and Bukki begat Uzzi,",
+        "LSG": "Abischua engendra Bukki; Bukki engendra Uzzi;",
+        "MAB": "Et Abisuah engendra Bukki, et Bukki engendra Huzi.",
+        "OST": "Abishua engendra Bukki; Bukki engendra Uzzi;",
+        "S21": "De Guershon descend Libni, lui-même père de Jachath, père de Zimma,"
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "Yoah, Iddo, Zérah, Yeatraï.",
+        "DBY": "et Uzzi engendra Zerakhia, et Zerakhia engendra Meraïoth;",
+        "KJV": "And Uzzi begat Zerahiah, and Zerahiah begat Meraioth,",
+        "LSG": "Uzzi engendra Zerachja; Zerachja engendra Merajoth;",
+        "MAB": "Et Huzi engendra Zérahja, et Zérahja engendra Mérajoth.",
+        "OST": "Uzzi engendra Zérachia; Zérachia engendra Mérajoth;",
+        "S21": "père de Joach, père d’Iddo, père de Zérach, père de Jeathraï."
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "Descendants de Qehath de père en fils: Amminadab, Qoré, Assir,",
+        "DBY": "Meraïoth engendra Amaria, et Amaria engendra Akhitub,",
+        "KJV": "Meraioth begat Amariah, and Amariah begat Ahitub,",
+        "LSG": "Merajoth engendra Amaria; Amaria engendra Achithub;",
+        "MAB": "Et Mérajoth engendra Amaria, et Amaria engendra Ahitub.",
+        "OST": "Mérajoth engendra Amaria; Amaria engendra Achitub;",
+        "S21": "Descendants de Kehath: Amminadab, père de Koré, père d’Assir,"
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "Elqana, Ebyasaph, Assir,",
+        "DBY": "et Akhitub engendra Tsadok, et Tsadok engendra Akhimaats,",
+        "KJV": "And Ahitub begat Zadok, and Zadok begat Ahimaaz,",
+        "LSG": "Achithub engendra Tsadok; Tsadok engendra Achimaats;",
+        "MAB": "Et Ahitub engendra Tsadoc, et Tsadoc engendra Ahimahats.",
+        "OST": "Achitub engendra Tsadok; Tsadok engendra Achimaats;",
+        "S21": "père d’Elkana, père d’Ebjasaph, père d’Assir,"
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "Tahath, Ouriel, Ouzzia, Saül.",
+        "DBY": "et Akhimaats engendra Azaria, et Azaria engendra Jokhanan,",
+        "KJV": "And Ahimaaz begat Azariah, and Azariah begat Johanan,",
+        "LSG": "Achimaats engendra Azaria; Azaria engendra Jochanan;",
+        "MAB": "Et Ahimahats engendra Hazaria, et Hazaria engendra Johanan.",
+        "OST": "Achimaats engendra Azaria; Azaria engendra Jochanan;",
+        "S21": "père de Thachath, père d’Uriel, père d’Ozias, père de Saül."
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "Fils d’Elqana: Amasaï et Ahimoth.",
+        "DBY": "et Jokhanan engendra Azaria: c'est lui qui exerça la sacrificature dans la maison que Salomon bâtit à Jérusalem.",
+        "KJV": "And Johanan begat Azariah, (he [it is] that executed the priest's office in the temple that Solomon built in Jerusalem:)",
+        "LSG": "Jochanan engendra Azaria, qui exerça le sacerdoce dans la maison que Salomon bâtit à Jérusalem;",
+        "MAB": "Et Johanan engendra Hazaria, qui exerça la sacrificature au Temple que Salomon bâtit à Jérusalem.",
+        "OST": "Jochanan engendra Azaria, qui exerça la sacrificature dans la maison que Salomon bâtit à Jérusalem.",
+        "S21": "Fils d'Elkana: Amasaï, Achimoth"
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "Voici les descendants d’Elqana de père en fils: Tsophaï, Nahath,",
+        "DBY": "Et Azaria engendra Amaria, et Amaria engendra Akhitub,",
+        "KJV": "And Azariah begat Amariah, and Amariah begat Ahitub,",
+        "LSG": "Azaria engendra Amaria; Amaria engendra Achithub;",
+        "MAB": "Et Hazaria engendra Amaria, et Amaria engendra Ahitub.",
+        "OST": "Azaria engendra Amaria; Amaria engendra Achitub;",
+        "S21": "et Elkana. Descendants d’Elkana: Tsophaï – lui-même père de Nachath,"
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "Eliab, Yeroham, Elqana, et Samuel.",
+        "DBY": "et Akhitub engendra Tsadok, et Tsadok engendra Shallum,",
+        "KJV": "And Ahitub begat Zadok, and Zadok begat Shallum,",
+        "LSG": "Achithub engendra Tsadok; Tsadok engendra Schallum;",
+        "MAB": "Et Ahitub engendra Tsadoc, et Tsadoc engendra Sallum.",
+        "OST": "Achitub engendra Tsadok; Tsadok engendra Shallum;",
+        "S21": "père d’Eliab, père de Jerocham, père d’Elkana –"
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "Fils de Samuel: Joël l’aîné, et Abiya le cadet.",
+        "DBY": "et Shallum engendra Hilkija, et Hilkija engendra Azaria,",
+        "KJV": "And Shallum begat Hilkiah, and Hilkiah begat Azariah,",
+        "LSG": "Schallum engendra Hilkija; Hilkija engendra Azaria;",
+        "MAB": "Et Sallum engendra Hilkija, et Hilkija engendra Hazaria.",
+        "OST": "Shallum engendra Hilkija; Hilkija engendra Azaria;",
+        "S21": "et les fils de Samuel, l’aîné et le second, Abija."
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "Les descendants de Merari en ligne directe de père en fils furent: Mahli, Libni, Chimeï, Ouzza,",
+        "DBY": "et Azaria engendra Seraïa, et Seraïa engendra Jotsadak,",
+        "KJV": "And Azariah begat Seraiah, and Seraiah begat Jehozadak,",
+        "LSG": "et Azaria engendra Seraja; Seraja engendra Jehotsadak,",
+        "MAB": "Et Hazaria engendra Séraja, et Séraja engendra Jéhotsadak;",
+        "OST": "Azaria engendra Séraja; Séraja engendra Jéhotsadak;",
+        "S21": "Fils de Merari: Machli, lui-même père de Libni, père de Shimeï, père d’Uzza,"
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "Chimea, Hagguiya, et Asaya.",
+        "DBY": "et Jotsadak partit quand l'Éternel transporta Juda et Jérusalem par la main de Nebucadnetsar.",
+        "KJV": "And Jehozadak went [into captivity], when the LORD carried away Judah and Jerusalem by the hand of Nebuchadnezzar.",
+        "LSG": "Jehotsadak s'en alla quand l'Eternel emmena en captivité Juda et Jérusalem par Nebucadnetsar.",
+        "MAB": "Et Jéhotsadak s'en alla, quand l'Eternel transporta Juda et Jérusalem par le moyen de Nébuchadnetsar.",
+        "OST": "Jéhotsadak s'en alla, quand l'Éternel transporta Juda et Jérusalem par Nébucadnetsar.",
+        "S21": "père de Shimea, père de Hagguija, père d’Asaja."
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "Voici les noms des lévites à qui David confia la responsabilité du chant dans le sanctuaire de l’Eternel, dès que le coffre y fut déposé.",
+        "DBY": "Les fils de Lévi: Guershom, Kehath, et Merari.",
+        "KJV": "The sons of Levi; Gershom, Kohath, and Merari.",
+        "LSG": "Fils de Lévi: Guerschom, Kehath et Merari.",
+        "MAB": "Les enfants de Lévi [donc] furent, Guerson, Kéhath, et Mérari.",
+        "OST": "Fils de Lévi: Guershom, Kéhath et Mérari.",
+        "S21": "Voici ceux que David établit pour diriger le chant dans la maison de l'Eternel, depuis que l'arche eut un emplacement fixe."
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "Ils exerçaient déjà leur service par le chant devant le tabernacle, la tente de la Rencontre, jusqu’à ce que Salomon eût bâti le Temple de l’Eternel à Jérusalem, et ils exerçaient leur fonction d’après la règle qui leur avait été prescrite.",
+        "DBY": "-Et ce sont ici les noms des fils de Guershom: Libni et Shimhi.",
+        "KJV": "And these [be] the names of the sons of Gershom; Libni, and Shimei.",
+        "LSG": "Voici les noms des fils de Guerschom: Libni et Schimeï.",
+        "MAB": "Et ce sont ici les noms des enfants de Guerson, Ribni, et Simhi.",
+        "OST": "Voici les noms des fils de Guershom: Libni et Shimeï.",
+        "S21": "Ils remplirent les fonctions de musiciens devant le tabernacle, devant la tente de la rencontre, jusqu'à ce que Salomon ait construit la maison de l'Eternel à Jérusalem. Ils accomplissaient leur service conformément à leur règle."
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "Voici ceux qui accomplissaient ce service avec leurs fils. Parmi les Qehatites, Hémân officiait comme musicien. Ses ascendants en ligne directe étaient: Joël, Samuel,",
+        "DBY": "Et les fils de Kehath: Amram, et Jitsehar, et Hébron, et Uziel.",
+        "KJV": "And the sons of Kohath [were], Amram, and Izhar, and Hebron, and Uzziel.",
+        "LSG": "Fils de Kehath: Amram, Jitsehar, Hébron et Uziel.",
+        "MAB": "Les enfants de Kéhath furent, Hamram, Jitshar, Hébron, et Huziël.",
+        "OST": "Fils de Kéhath: Amram, Jitsehar, Hébron et Uziel.",
+        "S21": "Voici ceux qui officiaient avec leurs fils. Parmi les descendants des Kehathites figurait Héman, le musicien, fils de Joël et petit-fils de Samuel,"
+      }
+    },
+    {
+      "verse": 19,
+      "texts": {
+        "BDS": "Elqana, Yeroham, Eliel, Toah,",
+        "DBY": "Les fils de Merari: Makhli et Mushi. -Ce sont là les familles de Lévi, selon leurs pères.",
+        "KJV": "The sons of Merari; Mahli, and Mushi. And these [are] the families of the Levites according to their fathers.",
+        "LSG": "Fils de Merari: Machli et Muschi. -Ce sont là les familles de Lévi, selon leurs pères.",
+        "MAB": "Les enfants de Mérari furent, Mahli, et Musi. Ce sont là les familles des Lévites, selon [les maisons] de leurs pères.",
+        "OST": "Fils de Mérari: Machli et Mushi. Ce sont là les familles de Lévi, selon les maisons de leurs pères.",
+        "S21": "descendant d'Elkana, Jerocham, Eliel, Thoach,"
+      }
+    },
+    {
+      "verse": 20,
+      "texts": {
+        "BDS": "Tsouph, Elqana, Mahath, Amasaï,",
+        "DBY": "De Guershom: Libni, son fils; Jakhath, sont fils; Zimma, son fils;",
+        "KJV": "Of Gershom; Libni his son, Jahath his son, Zimmah his son,",
+        "LSG": "De Guerschom: Libni, son fils; Jachath, son fils; Zimma, son fils;",
+        "MAB": "De Guerson, Libni son fils, Jahath son fils, Zimna son fils,",
+        "OST": "De Guershom: Libni, son fils; Jachath, son fils; Zimma, son fils;",
+        "S21": "Tsuph, Elkana, Machath, Amasaï,"
+      }
+    },
+    {
+      "verse": 21,
+      "texts": {
+        "BDS": "Elqana, Joël, Azaria, Sophonie,",
+        "DBY": "Joakh, son fils; Iddo, son fils; Zérakh, son fils; Jathraï, son fils.",
+        "KJV": "Joah his son, Iddo his son, Zerah his son, Jeaterai his son.",
+        "LSG": "Joach, son fils; Iddo, son fils; Zérach, son fils; Jeathraï, son fils.",
+        "MAB": "Joah son fils, Hiddo son fils, Zérah son fils, Jéhateraï son fils.",
+        "OST": "Joach, son fils; Iddo, son fils; Zérach, son fils; Jéathraï, son fils.",
+        "S21": "Elkana, Joël, Azaria, Sophonie,"
+      }
+    },
+    {
+      "verse": 22,
+      "texts": {
+        "BDS": "Tahath, Assir, Ebyasaph, Qoré,",
+        "DBY": "Les fils de Kehath: Amminadab, son fils; Coré, son fils; Assir, son fils;",
+        "KJV": "The sons of Kohath; Amminadab his son, Korah his son, Assir his son,",
+        "LSG": "Fils de Kehath: Amminadab, son fils; Koré, son fils; Assir, son fils;",
+        "MAB": "Des enfants de Kéhath, Hamminadab son fils, Coré son fils, Assir son fils,",
+        "OST": "Fils de Kéhath: Amminadab, son fils; Coré, son fils; Assir, son fils;",
+        "S21": "Thachath, Assir, Ebjasaph, Koré,"
+      }
+    },
+    {
+      "verse": 23,
+      "texts": {
+        "BDS": "Yitsehar, Qehath, Lévi, fils d’Israël.",
+        "DBY": "Elkana, son fils; et Ébiasaph, son fils; et Assir, son fils;",
+        "KJV": "Elkanah his son, and Ebiasaph his son, and Assir his son,",
+        "LSG": "Elkana, son fils; Ebjasaph, son fils; Assir, son fils;",
+        "MAB": "Elkana son fils, Ebiasaph son fils, Assir son fils,",
+        "OST": "Elkana, son fils; Ébiasaph, son fils; Assir, son fils;",
+        "S21": "Jitsehar, Kehath et Lévi, lui-même fils d'Israël."
+      }
+    },
+    {
+      "verse": 24,
+      "texts": {
+        "BDS": "A la droite de Hémân se tenait Asaph, membre de la même tribu, dont les ascendants de fils en père étaient Bérékiahou, Chimea,",
+        "DBY": "Thakhath, son fils; Uriel, son fils; Ozias, son fils; et Saül, son fils.",
+        "KJV": "Tahath his son, Uriel his son, Uzziah his son, and Shaul his son.",
+        "LSG": "Thachath, son fils; Uriel, son fils; Ozias, son fils; Saül, son fils.",
+        "MAB": "Tahath son fils, Uriël son fils, Huzija son fils, et Saül son fils.",
+        "OST": "Tachath, son fils; Uriel, son fils; Uzzija, son fils; Saül, son fils.",
+        "S21": "Asaph, qui lui était apparenté et qui se tenait à sa droite, était fils de Bérékia et petit-fils de Shimea,"
+      }
+    },
+    {
+      "verse": 25,
+      "texts": {
+        "BDS": "Mikaël, Baaséya, Malkiya,",
+        "DBY": "-Et les fils d'Elkana: Amasçaï et Akhimoth.",
+        "KJV": "And the sons of Elkanah; Amasai, and Ahimoth.",
+        "LSG": "Fils d'Elkana: Amasaï et Achimoth;",
+        "MAB": "Les enfants d'Elkana furent, Hamasaï, puis Ahimoth,",
+        "OST": "Fils d'Elkana: Amasaï et Achimoth; Elkana, son fils;",
+        "S21": "descendant de Micaël, Baaséja, Malkija,"
+      }
+    },
+    {
+      "verse": 26,
+      "texts": {
+        "BDS": "Etni, Zérah, Adaya,",
+        "DBY": "Elkana, -les fils d'Elkana: Tsophaï, son fils; et Nakhath, son fils;",
+        "KJV": "[As for] Elkanah: the sons of Elkanah; Zophai his son, and Nahath his son,",
+        "LSG": "Elkana, son fils; Elkana Tsophaï, son fils; Nachath, son fils;",
+        "MAB": "[Puis] Elkana. Les enfants d'Elkana furent, Tsophaï son fils, Nahats son fils,",
+        "OST": "Elkana-Tsophaï, son fils; Nachath, son fils;",
+        "S21": "Ethni, Zérach, Adaja,"
+      }
+    },
+    {
+      "verse": 27,
+      "texts": {
+        "BDS": "Etân, Zimma, Chimeï,",
+        "DBY": "Éliab, son fils; Jerokham, son fils; Elkana, son fils.",
+        "KJV": "Eliab his son, Jeroham his son, Elkanah his son.",
+        "LSG": "Eliab, son fils; Jerocham, son fils; Elkana, son fils;",
+        "MAB": "Eliab son fils, Jéroham son fils, Elkana son fils.",
+        "OST": "Éliab, son fils; Jérocham, son fils; Elkana, son fils.",
+        "S21": "Ethan, Zimma, Shimeï,"
+      }
+    },
+    {
+      "verse": 28,
+      "texts": {
+        "BDS": "Yahath, Guerchom, fils de Lévi.",
+        "DBY": "Et les fils de Samuel: le premier-né, Vashni, et Abija.",
+        "KJV": "And the sons of Samuel; the firstborn Vashni, and Abiah.",
+        "LSG": "et les fils de Samuel, le premier-né Vaschni et Abija.",
+        "MAB": "Quant aux enfants de Samuël [fils d'Elkana], son fils aîné fut Vasni, puis Abija.",
+        "OST": "Et les fils de Samuel: le premier-né, Vashni, et Abija.",
+        "S21": "Jachath et Guershon, lui-même fils de Lévi."
+      }
+    },
+    {
+      "verse": 29,
+      "texts": {
+        "BDS": "Sur la gauche se tenait Etân, des descendants de Merari, membres de la même tribu qu’eux. Les ascendants d’Etân en ligne directe étaient: Qichi, Abdi, Mallouk,",
+        "DBY": "Les fils de Merari: Makhli; Libni, son fils; Shimhi, son fils;",
+        "KJV": "The sons of Merari; Mahli, Libni his son, Shimei his son, Uzza his son,",
+        "LSG": "Fils de Merari: Machli; Libni, son fils; Schimeï, son fils; Uzza, son fils;",
+        "MAB": "Les enfants de Mérari furent, Mahli, Libni son fils, Simhi son fils, Huza son fils,",
+        "OST": "Fils de Mérari: Machli; Libni, son fils; Shimeï, son fils; Uzza, son fils;",
+        "S21": "Les descendants de Merari, qui leur étaient apparentés, se tenaient à gauche; il y avait Ethan, fils de Kishi et petit-fils d'Abdi, descendant de Malluc,"
+      }
+    },
+    {
+      "verse": 30,
+      "texts": {
+        "BDS": "Hachabia, Amatsia, Hilqiya,",
+        "DBY": "Uzza, son fils; Shimha, son fils; Hagguija, son fils; Asçaïa, son fils.",
+        "KJV": "Shimea his son, Haggiah his son, Asaiah his son.",
+        "LSG": "Schimea, son fils; Hagguija, son fils; Asaja, son fils.",
+        "MAB": "Simha son fils, Hagguija son fils, Hasaïa son fils.",
+        "OST": "Shimea, son fils; Hagguija, son fils; Asaja, son fils.",
+        "S21": "Hashabia, Amatsia, Hilkija,"
+      }
+    },
+    {
+      "verse": 31,
+      "texts": {
+        "BDS": "Amtsi, Bani, Chémer,",
+        "DBY": "Et ce sont ici ceux que David établit pour la direction du chant dans la maison de l'Éternel, depuis que l'arche fut en repos.",
+        "KJV": "And these [are they] whom David set over the service of song in the house of the LORD, after that the ark had rest.",
+        "LSG": "Voici ceux que David établit pour la direction du chant dans la maison de l'Eternel, depuis que l'arche eut un lieu de repos:",
+        "MAB": "Or ce sont ici ceux que David établit pour maîtres de la musique de la maison de l'Eternel, depuis que l'Arche fut dans un lieu arrêté;",
+        "OST": "Or voici ceux que David établit pour la direction du chant de la maison de l'Éternel, depuis que l'arche fut en lieu de repos.",
+        "S21": "Amtsi, Bani, Shémer,"
+      }
+    },
+    {
+      "verse": 32,
+      "texts": {
+        "BDS": "Mahli, Mouchi, Merari, Lévi.",
+        "DBY": "Et ils faisaient le service devant le tabernacle de la tente d'assignation, pour le chant, jusqu'à ce que Salomon eût bâti la maison de l'Éternel à Jérusalem; et ils se tinrent là selon l'ordre établi pour leur service.",
+        "KJV": "And they ministered before the dwelling place of the tabernacle of the congregation with singing, until Solomon had built the house of the LORD in Jerusalem: and [then] they waited on their office according to their order.",
+        "LSG": "ils remplirent les fonctions de chantres devant le tabernacle, devant la tente d'assignation, jusqu'à ce que Salomon eût bâti la maison de l'Eternel à Jérusalem, et ils faisaient leur service d'après la règle qui leur était prescrite.",
+        "MAB": "Qui faisaient le service devant le pavillon du Tabernacle d'assignation en chantant; jusqu'à ce que Salomon eût bâti la maison de l'Eternel à Jérusalem; et qui continuèrent dans leur ministère selon l'ordonnance qui en fut faite;",
+        "OST": "Ils firent le service du chant devant la demeure du tabernacle d'assignation, jusqu'à ce que Salomon eût bâti la maison de l'Éternel à Jérusalem; et ils faisaient leur service suivant la règle qui était prescrite.",
+        "S21": "Machli, Mushi et Merari, lui-même fils de Lévi."
+      }
+    },
+    {
+      "verse": 33,
+      "texts": {
+        "BDS": "Les autres lévites étaient affectés à toutes les autres tâches afférentes au sanctuaire de Dieu.",
+        "DBY": "Et ce sont ici ceux qui se tenaient là, et leurs fils: Des fils des Kehathites: Héman, le chantre, fils de Joël, fils de Samuel,",
+        "KJV": "And these [are] they that waited with their children. Of the sons of the Kohathites: Heman a singer, the son of Joel, the son of Shemuel,",
+        "LSG": "Voici ceux qui officiaient avec leurs fils. -D'entre les fils des Kehathites: Héman, le chantre, fils de Joël, fils de Samuel,",
+        "MAB": "Ce sont, [dis-je], ici ceux qui firent le service avec leurs fils. D'entre les enfants des Kéhathites, Héman le chantre, fils de Joël, fils de Samuël,",
+        "OST": "Voici ceux qui officiaient, avec leurs fils. D'entre les enfants des Kéhathites: Héman, le chantre, fils de Joël, fils de Samuel,",
+        "S21": "Leurs frères lévites étaient chargés de tout le service du tabernacle, de la maison de Dieu."
+      }
+    },
+    {
+      "verse": 34,
+      "texts": {
+        "BDS": "Aaron et ses descendants offraient les sacrifices sur l’autel des holocaustes et les parfums sur l’autel des parfums; ils accomplissaient toutes les tâches relatives au lieu très-saint et faisaient le rite d’expiation pour Israël, conformément à tout ce qu’avait ordonné Moïse, serviteur de Dieu.",
+        "DBY": "fils d'Elkana, fils de Jerokham, fils d'Éliel, fils de Thoakh,",
+        "KJV": "The son of Elkanah, the son of Jeroham, the son of Eliel, the son of Toah,",
+        "LSG": "fils d'Elkana, fils de Jerocham, fils d'Eliel, fils de Thoach,",
+        "MAB": "Fils d'Elkana, fils de Jéroham, fils d'Eliël, fils de Toah,",
+        "OST": "Fils d'Elkana, fils de Jérocham, fils d'Éliel, fils de Thoach,",
+        "S21": "C’étaient Aaron et ses descendants qui offraient les sacrifices sur l'autel des holocaustes ainsi que l'encens sur l'autel des parfums. Ils remplissaient toutes les tâches liées au lieu très saint et faisaient l'expiation pour Israël, conformément à tout ce qu'avait ordonné Moïse, le serviteur de Dieu."
+      }
+    },
+    {
+      "verse": 35,
+      "texts": {
+        "BDS": "Voici la liste des descendants d’Aaron de père en fils: Eléazar, Phinéas, Abichoua,",
+        "DBY": "Fils de Tsuph, fils d'Elkana, fils de Makhath,",
+        "KJV": "The son of Zuph, the son of Elkanah, the son of Mahath, the son of Amasai,",
+        "LSG": "fils de Tsuph, fils d'Elkana, fils de Machath, fils d'Amasaï,",
+        "MAB": "Fils de Tsuph, fils d'Elkana, fils de Mahat, fils de Hamasaï,",
+        "OST": "Fils de Tsuph, fils d'Elkana, fils de Machath, fils d'Amasaï,",
+        "S21": "Voici les descendants d'Aaron: ses fils Eléazar et Phinées, lui-même père d’Abishua,"
+      }
+    },
+    {
+      "verse": 36,
+      "texts": {
+        "BDS": "Bouqqi, Ouzzi, Zerahya,",
+        "DBY": "fils d'Amasçaï, fils d'Elkana, fils de Joël, fils d'Azaria, fils de Sophonie,",
+        "KJV": "The son of Elkanah, the son of Joel, the son of Azariah, the son of Zephaniah,",
+        "LSG": "fils d'Elkana, fils de Joël, fils d'Azaria, fils de Sophonie,",
+        "MAB": "Fils d'Elkana, fils de Joël, fils de Hazaria, fils de Sophonie,",
+        "OST": "Fils d'Elkana, fils de Joël, fils d'Azaria, fils de Sophonie,",
+        "S21": "père de Bukki, père d’Uzzi, père de Zerachja,"
+      }
+    },
+    {
+      "verse": 37,
+      "texts": {
+        "BDS": "Merayoth, Amaria, Ahitoub,",
+        "DBY": "fils de Thakhath, fils d'Assir, fils d'Ébiasaph, fils de Coré,",
+        "KJV": "The son of Tahath, the son of Assir, the son of Ebiasaph, the son of Korah,",
+        "LSG": "fils de Thachath, fils d'Assir, fils d'Ebjasaph, fils de Koré,",
+        "MAB": "Fils de Tahat, fils d'Assir, fils de Ebiasaph, fils de Coré,",
+        "OST": "Fils de Tachath, fils d'Assir, fils d'Ébiasaph, fils de Coré,",
+        "S21": "père de Merajoth, père d’Amaria, père d’Achithub,"
+      }
+    },
+    {
+      "verse": 38,
+      "texts": {
+        "BDS": "Tsadoq et Ahimaats.",
+        "DBY": "fils de Jitsehar, fils de Kehath, fils de Lévi, fils d'Israël.",
+        "KJV": "The son of Izhar, the son of Kohath, the son of Levi, the son of Israel.",
+        "LSG": "fils de Jitsehar, fils de Kehath, fils de Lévi, fils d'Israël. -",
+        "MAB": "Fils de Jitshar, fils de Kéhath, fils de Lévi, fils d'Israël.",
+        "OST": "Fils de Jitsehar, fils de Kéhath, fils de Lévi, fils d'Israël.",
+        "S21": "père de Tsadok, père d’Achimaats."
+      }
+    },
+    {
+      "verse": 39,
+      "texts": {
+        "BDS": "Voici la liste des territoires avec leurs enclos attribués aux descendants d’Aaron, de la famille des Qehatites, auxquels fut attribué par le sort un lot:",
+        "DBY": "Et son frère Asaph, qui se tenait à sa droite: Asaph, fils de Bérékia,",
+        "KJV": "And his brother Asaph, who stood on his right hand, [even] Asaph the son of Berachiah, the son of Shimea,",
+        "LSG": "Son frère Asaph, qui se tenait à sa droite, Asaph, fils de Bérékia, fils de Schimea,",
+        "MAB": "Et son frère Asaph, qui se tenait à sa droite. Asaph [était] fils de Bérécia, fils de Simha,",
+        "OST": "Son frère Asaph, qui se tenait à sa droite. Asaph, fils de Bérekia, fils de Shimea,",
+        "S21": "Voici leurs lieux d’habitation, en fonction des domaines qu’ils formaient avec leurs limites. Aux descendants d'Aaron du clan des Kehathites, qui furent les premiers bénéficiaires du tirage au sort,"
+      }
+    },
+    {
+      "verse": 40,
+      "texts": {
+        "BDS": "Hébron, dans le pays de Juda, avec les terres attenantes;",
+        "DBY": "fils de Shimha, fils de Micaël, fils de Baascéïa, fils de Malkija,",
+        "KJV": "The son of Michael, the son of Baaseiah, the son of Malchiah,",
+        "LSG": "fils de Micaël, fils de Baaséja, fils de Malkija,",
+        "MAB": "Fils de Micaël, fils de Bahaséja, fils de Malkija,",
+        "OST": "Fils de Micaël, fils de Baaséja, fils de Malkija,",
+        "S21": "on donna Hébron, dans le pays de Juda, et le territoire qui l'entoure."
+      }
+    },
+    {
+      "verse": 41,
+      "texts": {
+        "BDS": "mais les champs et les villages qui dépendaient de la ville furent donnés à Caleb, fils de Yephounné.",
+        "DBY": "fils d'Ethni, fils de Zérakh,",
+        "KJV": "The son of Ethni, the son of Zerah, the son of Adaiah,",
+        "LSG": "fils d'Ethni, fils de Zérach, fils d'Adaja,",
+        "MAB": "Fils d'Etni, fils de Zérah, fils de Hadaja,",
+        "OST": "Fils d'Ethni, fils de Zérach, fils d'Adaja,",
+        "S21": "La campagne et les villages rattachés à la ville avaient été attribués à Caleb, fils de Jephunné,"
+      }
+    },
+    {
+      "verse": 42,
+      "texts": {
+        "BDS": "On donna aux descendants d’Aaron Hébron, la ville de refuge, et les villes suivantes avec leurs terres attenantes: Libna, Yattir, Echtemoa,",
+        "DBY": "fils d'Adaïa, fils d'Éthan, fils de Zimma,",
+        "KJV": "The son of Ethan, the son of Zimmah, the son of Shimei,",
+        "LSG": "fils d'Ethan, fils de Zimma, fils de Schimeï,",
+        "MAB": "Fils d'Ethan, fils de Zimma, fils de Simhi,",
+        "OST": "Fils d'Éthan, fils de Zimma, fils de Shimeï,",
+        "S21": "mais on donna aux descendants d'Aaron la ville de refuge d’Hébron, Libna et ses environs, Jatthir, Eshthemoa et ses environs,"
+      }
+    },
+    {
+      "verse": 43,
+      "texts": {
+        "BDS": "Hilên, Debir,",
+        "DBY": "fils de Shimhi, fils de Jakhath, fils de Guershom, fils de Lévi.",
+        "KJV": "The son of Jahath, the son of Gershom, the son of Levi.",
+        "LSG": "fils de Jachath, fils de Guerschom, fils de Lévi. -",
+        "MAB": "Fils de Jahath, fils de Guerson, fils de Lévi.",
+        "OST": "Fils de Jachath, fils de Guershom, fils de Lévi.",
+        "S21": "Hilen et ses environs, Debir et ses environs,"
+      }
+    },
+    {
+      "verse": 44,
+      "texts": {
+        "BDS": "Achân, Beth-Chémech.",
+        "DBY": "Et les fils de Merari, leurs frères, à la gauche: Éthan, fils de Kishi, fils d'Abdi, fils de Malluc,",
+        "KJV": "And their brethren the sons of Merari [stood] on the left hand: Ethan the son of Kishi, the son of Abdi, the son of Malluch,",
+        "LSG": "Fils de Merari, leurs frères, à la gauche; Ethan, fils de Kischi, fils d'Abdi, fils de Malluc,",
+        "MAB": "Et les enfants de Mérari leurs frères étaient à la main gauche; [savoir] Ethan, fils de Kisi, fils de Habdi, fils de Malluc,",
+        "OST": "Enfants de Mérari, leurs frères, à la gauche: Éthan, fils de Kishi, fils d'Abdi, fils de Malluc,",
+        "S21": "Ashan et ses environs ainsi que Beth-Shémesh et ses environs."
+      }
+    },
+    {
+      "verse": 45,
+      "texts": {
+        "BDS": "Dans le territoire de la tribu de Benjamin, ils reçurent, avec leurs terres attenantes: Guéba, Allémeth, Anatoth. Ils reçurent donc au total treize villes réparties entre leurs familles.",
+        "DBY": "fils de Hashabia, fils d'Amatsia,",
+        "KJV": "The son of Hashabiah, the son of Amaziah, the son of Hilkiah,",
+        "LSG": "fils de Haschabia, fils d'Amatsia, fils de Hilkija,",
+        "MAB": "Fils de Hasabia, fils d'Amatsia, fils de Hilkija,",
+        "OST": "Fils de Hashabia, fils d'Amatsia, fils de Hilkija,",
+        "S21": "Dans la tribu de Benjamin, on leur donna Guéba et ses environs, Allémeth et ses environs, Anathoth et ses environs. Total de leurs villes: 13, d'après leurs clans."
+      }
+    },
+    {
+      "verse": 46,
+      "texts": {
+        "BDS": "Les autres Qehatites obtinrent par tirage au sort dix villes situées dans les territoires des familles de la tribu [d’Ephraïm, de la tribu de Dan et] de la demi-tribu de Manassé.",
+        "DBY": "fils de Hilkija, fils d'Amtsi, fils de Bani,",
+        "KJV": "The son of Amzi, the son of Bani, the son of Shamer,",
+        "LSG": "fils d'Amtsi, fils de Bani, fils de Schémer,",
+        "MAB": "Fils d'Amtsi, fils de Bani, fils de Semer,",
+        "OST": "Fils d'Amtsi, fils de Bani, fils de Shémer,",
+        "S21": "Les autres descendants de Kehath reçurent par tirage au sort 10 villes situées chez les clans des tribus d'Ephraïm et de Dan ainsi que de la demi-tribu de Manassé."
+      }
+    },
+    {
+      "verse": 47,
+      "texts": {
+        "BDS": "Les Guerchonites obtinrent pour leurs familles treize villes situées dans les territoires des tribus d’Issacar, d’Aser, de Nephtali et de la tribu de Manassé établie dans le Basan.",
+        "DBY": "fils de Shémer, fils de Makhli, fils de Mushi, fils de Merari, fils de Lévi.",
+        "KJV": "The son of Mahli, the son of Mushi, the son of Merari, the son of Levi.",
+        "LSG": "fils de Machli, fils de Muschi, fils de Merari, fils de Lévi.",
+        "MAB": "Fils de Mahli, fils de Musi, fils de Mérari, fils de Lévi.",
+        "OST": "Fils de Machli, fils de Mushi, fils de Mérari, fils de Lévi.",
+        "S21": "Les descendants de Guershon, en fonction de leurs clans, eurent 13 villes prises aux tribus d'Issacar, d'Aser, de Nephthali et de Manassé en Basan."
+      }
+    },
+    {
+      "verse": 48,
+      "texts": {
+        "BDS": "Les Merarites reçurent pour leurs familles, par tirage au sort, douze villes situées dans les territoires des tribus de Ruben, de Gad et de Zabulon.",
+        "DBY": "Et leurs frères, les Lévites, furent donnés pour tout le service du tabernacle de la maison de Dieu.",
+        "KJV": "Their brethren also the Levites [were] appointed unto all manner of service of the tabernacle of the house of God.",
+        "LSG": "Leurs frères, les Lévites, étaient chargés de tout le service du tabernacle, de la maison de Dieu.",
+        "MAB": "Et leurs autres frères Lévites furent ordonnés pour tout le service du pavillon de la maison de Dieu.",
+        "OST": "Leurs frères, les Lévites, étaient chargés de tout le service de la demeure de la maison de Dieu.",
+        "S21": "Les descendants de Merari, en fonction de leurs clans, reçurent par tirage au sort 12 villes prises aux tribus de Ruben, de Gad et de Zabulon."
+      }
+    },
+    {
+      "verse": 49,
+      "texts": {
+        "BDS": "Les Israélites attribuèrent ces villes et les terres attenantes aux lévites.",
+        "DBY": "Et Aaron et ses fils faisaient ce qui se brûlait sur l'autel de l'holocauste et sur l'autel de l'encens, pour tout le service du lieu très-saint, et pour faire propitiation pour Israël, selon tout ce que Moïse, serviteur de Dieu, avait commandé.",
+        "KJV": "But Aaron and his sons offered upon the altar of the burnt offering, and on the altar of incense, [and were appointed] for all the work of the [place] most holy, and to make an atonement for Israel, according to all that Moses the servant of God had commanded.",
+        "LSG": "Aaron et ses fils offraient les sacrifices sur l'autel des holocaustes et l'encens sur l'autel des parfums, ils remplissaient toutes les fonctions dans le lieu très saint, et faisaient l'expiation pour Israël, selon tout ce qu'avait ordonné Moïse, serviteur de Dieu.",
+        "MAB": "Mais Aaron et ses fils offraient les parfums sur l'autel de l'holocauste, et sur l'autel des parfums, pour tout ce qu'il fallait faire dans le lieu Très-saint, et pour faire propitiation pour Israël; comme Moïse, serviteur de Dieu, l'avait commandé.",
+        "OST": "Aaron et ses fils faisaient fumer les oblations sur l'autel des holocaustes et sur l'autel des parfums, vaquant à toute l'œuvre du lieu très-saint, et faisant l'expiation pour Israël, selon tout ce qu'avait commandé Moïse, serviteur de Dieu.",
+        "S21": "Les Israélites donnèrent ces villes et leurs environs aux Lévites."
+      }
+    },
+    {
+      "verse": 50,
+      "texts": {
+        "BDS": "Ils attribuèrent par tirage au sort ces villes désignées par leur nom et situées dans le territoire des tribus de Juda, de Siméon et de Benjamin.",
+        "DBY": "Et ce sont ici les fils d'Aaron: Éléazar, son fils; Phinées, son fils;",
+        "KJV": "And these [are] the sons of Aaron; Eleazar his son, Phinehas his son, Abishua his son,",
+        "LSG": "Voici les fils d'Aaron: Eléazar, son fils; Phinées, son fils: Abischua, son fils;",
+        "MAB": "Or ce sont ici les enfants d'Aaron, Eléazar son fils, Phinées son fils, Abisuah son fils,",
+        "OST": "Voici les enfants d'Aaron: Éléazar, son fils; Phinées, son fils; Abishua, son fils;",
+        "S21": "Ils attribuèrent par tirage au sort, dans les tribus des Judéens, des Siméonites et des Benjaminites, les villes qui ont été citées."
+      }
+    },
+    {
+      "verse": 51,
+      "texts": {
+        "BDS": "Les autres familles des Qehatites obtinrent pour domaine des villes situées dans le territoire de la tribu d’Ephraïm",
+        "DBY": "Abishua, son fils; Bukki, son fils; Uzzi, son fils; Zerakhia, son fils;",
+        "KJV": "Bukki his son, Uzzi his son, Zerahiah his son,",
+        "LSG": "Bukki, son fils; Uzzi, son fils; Zerachja, son fils;",
+        "MAB": "Bukki son fils, Huzi son fils, Zérahja son fils,",
+        "OST": "Bukki, son fils; Uzzi, son fils; Zérachia, son fils;",
+        "S21": "Quant aux autres clans des descendants de Kehath, les villes de leur territoire furent prises dans la tribu d'Ephraïm."
+      }
+    },
+    {
+      "verse": 52,
+      "texts": {
+        "BDS": "avec leurs terres attenantes: Sichem, la ville de refuge, dans la région montagneuse d’Ephraïm, Guézer,",
+        "DBY": "Meraïoth, son fils; Amaria, son fils;",
+        "KJV": "Meraioth his son, Amariah his son, Ahitub his son,",
+        "LSG": "Merajoth, son fils; Amaria, son fils; Achithub, son fils;",
+        "MAB": "Mérajoth son fils, Amaria son fils, Ahitub son fils,",
+        "OST": "Mérajoth, son fils; Amaria, son fils; Achitub, son fils;",
+        "S21": "On leur donna la ville de refuge de Sichem et ses environs, dans la région montagneuse d'Ephraïm, Guézer et ses environs,"
+      }
+    },
+    {
+      "verse": 53,
+      "texts": {
+        "BDS": "Yoqmeam, Beth-Horôn,",
+        "DBY": "Akhitub, son fils; Tsadok, son fils; Akhimaats, son fils.",
+        "KJV": "Zadok his son, Ahimaaz his son.",
+        "LSG": "Tsadok, son fils; Achimaats, son fils.",
+        "MAB": "Tsadoc son fils, Ahimahats son fils.",
+        "OST": "Tsadok, son fils; Achimaats, son fils.",
+        "S21": "Jokmeam et ses environs, Beth-Horon et ses environs,"
+      }
+    },
+    {
+      "verse": 54,
+      "texts": {
+        "BDS": "Ayalôn, Gath-Rimmôn.",
+        "DBY": "Et ce sont ici leurs habitations, selon leurs enclos, dans leurs confins. -Pour les fils d'Aaron, de la famille des Kehathites, car le sort tomba pour eux:",
+        "KJV": "Now these [are] their dwelling places throughout their castles in their coasts, of the sons of Aaron, of the families of the Kohathites: for theirs was the lot.",
+        "LSG": "Voici leurs habitations, selon leurs enclos, dans les limites qui leur furent assignées. Aux fils d'Aaron de la famille des Kehathites, indiqués les premiers par le sort,",
+        "MAB": "Et ce sont ici leurs demeures, selon leurs châteaux, dans leurs contrées. Quant aux enfants d'Aaron, qui appartiennent à la famille des Kéhathites, lorsqu'on jeta le sort pour eux;",
+        "OST": "Voici leurs habitations, selon leurs enclaves, dans leurs limites. Aux enfants d'Aaron de la famille des Kéhathites (car le premier sort fut pour eux),",
+        "S21": "Ajalon et ses environs, ainsi que Gath-Rimmon et ses environs."
+      }
+    },
+    {
+      "verse": 55,
+      "texts": {
+        "BDS": "Dans le territoire de la demi-tribu de Manassé, ils reçurent, avec leurs terres attenantes: Aner et Bileam. Voilà ce que reçurent les autres familles des descendants de Qehath.",
+        "DBY": "et on leur donna Hébron, dans le pays de Juda, et sa banlieue autour d'elle;",
+        "KJV": "And they gave them Hebron in the land of Judah, and the suburbs thereof round about it.",
+        "LSG": "on donna Hébron, dans le pays de Juda, et la banlieue qui l'entoure;",
+        "MAB": "On leur donna Hébron au pays de Juda, et ses faubourgs tout autour.",
+        "OST": "On donna Hébron, au pays de Juda, et sa banlieue tout autour.",
+        "S21": "Dans la demi-tribu de Manassé, on donna Aner et ses environs ainsi que Bileam et ses environs au clan des autres descendants de Kehath."
+      }
+    },
+    {
+      "verse": 56,
+      "texts": {
+        "BDS": "Les descendants de Guerchom reçurent: dans le territoire des familles de la demi-tribu de Manassé les villes suivantes, avec leurs terres attenantes: Golân, dans le Basan, et Achtaroth.",
+        "DBY": "mais la campagne de la ville et ses hameaux, on les donna à Caleb, fils de Jephunné.",
+        "KJV": "But the fields of the city, and the villages thereof, they gave to Caleb the son of Jephunneh.",
+        "LSG": "mais le territoire de la ville et ses villages furent accordés à Caleb, fils de Jephunné.",
+        "MAB": "Mais on donna à Caleb, fils de Jéphunné, le territoire de la ville et ses villages.",
+        "OST": "Mais on donna à Caleb, fils de Jéphunné, le territoire de la ville et ses villages.",
+        "S21": "On donna aux descendants de Guershon: dans le clan de la demi-tribu de Manassé, Golan en Basan et ses environs ainsi qu’Ashtaroth et ses environs;"
+      }
+    },
+    {
+      "verse": 57,
+      "texts": {
+        "BDS": "Dans le territoire de la tribu d’Issacar, ils reçurent, avec leurs terres attenantes: Qédech, Dobrath,",
+        "DBY": "Et aux fils d'Aaron on donna la ville de refuge: Hébron; et Libna et sa banlieue, et Jatthir, et Eshtemoa et sa banlieue,",
+        "KJV": "And to the sons of Aaron they gave the cities of Judah, [namely], Hebron, [the city] of refuge, and Libnah with her suburbs, and Jattir, and Eshtemoa, with their suburbs,",
+        "LSG": "Aux fils d'Aaron on donna la ville de refuge Hébron, Libna et sa banlieue, Jatthir, Eschthemoa et sa banlieue,",
+        "MAB": "On donna donc aux enfants d'Aaron, Hébron d'entre les villes de refuge, et Libna, avec ses faubourgs, Jattir et Estemoah, avec leurs faubourgs,",
+        "OST": "Aux enfants d'Aaron on donna les villes de refuge Hébron, Libna et sa banlieue, Jatthir, Eshthémoa et sa banlieue,",
+        "S21": "dans la tribu d'Issacar, Kédesh et ses environs, Dobrath et ses environs,"
+      }
+    },
+    {
+      "verse": 58,
+      "texts": {
+        "BDS": "Ramoth et Anem.",
+        "DBY": "et Hilen et sa banlieue, et Debir et sa banlieue,",
+        "KJV": "And Hilen with her suburbs, Debir with her suburbs,",
+        "LSG": "Hilen et sa banlieue, Debir et sa banlieue,",
+        "MAB": "Hilen, avec ses faubourgs, Débir, avec ses faubourgs,",
+        "OST": "Hilen et sa banlieue, Débir et sa banlieue,",
+        "S21": "Ramoth et ses environs, ainsi qu’Anem et ses environs;"
+      }
+    },
+    {
+      "verse": 59,
+      "texts": {
+        "BDS": "Dans le territoire de la tribu d’Aser, avec leurs terres attenantes: Machal, Abdôn,",
+        "DBY": "et Ashan et sa banlieue, et Beth-Shémesh et sa banlieue;",
+        "KJV": "And Ashan with her suburbs, and Bethshemesh with her suburbs:",
+        "LSG": "Aschan et sa banlieue, Beth-Schémesch et sa banlieue;",
+        "MAB": "Hasan, avec ses faubourgs, et Beth-sémes, avec ses faubourgs.",
+        "OST": "Ashan et sa banlieue, Beth-Shémèsh et sa banlieue;",
+        "S21": "dans la tribu d'Aser, Mashal et ses environs, Abdon et ses environs,"
+      }
+    },
+    {
+      "verse": 60,
+      "texts": {
+        "BDS": "Houqoq et Rehob.",
+        "DBY": "et de la tribu de Benjamin: Guéba et sa banlieue, et Allémeth et sa banlieue, et Anathoth et sa banlieue. Toutes leurs villes: treize villes, selon leurs familles.",
+        "KJV": "And out of the tribe of Benjamin; Geba with her suburbs, and Alemeth with her suburbs, and Anathoth with her suburbs. All their cities throughout their families [were] thirteen cities.",
+        "LSG": "et de la tribu de Benjamin, Guéba et sa banlieue, Allémeth et sa banlieue, Anathoth et sa banlieue. Total de leurs villes: treize villes, d'après leurs familles.",
+        "MAB": "Et de la Tribu de Benjamin, Guébah, avec ses faubourgs, Halemeth, avec ses faubourgs, et Hanathoth, avec ses faubourgs. Toutes leurs villes, selon leurs familles, étaient treize en nombre.",
+        "OST": "Et de la tribu de Benjamin, Guéba et sa banlieue, Alémeth et sa banlieue, Anathoth et sa banlieue. Toutes leurs villes étaient treize en nombre, selon leurs familles.",
+        "S21": "Hukok et ses environs, ainsi que Rehob et ses environs;"
+      }
+    },
+    {
+      "verse": 61,
+      "texts": {
+        "BDS": "Et dans le territoire de la tribu de Nephtali: Qédech en Galilée et les terres attenantes, Hammôn et les terres attenantes et Qiryathaïm et les terres attenantes.",
+        "DBY": "Et aux autres fils de Kehath on donna, part le sort, dix villes, des familles de la tribu d'Éphraïm et de la tribu de Dan et de la moitié de la tribu de Manassé;",
+        "KJV": "And unto the sons of Kohath, [which were] left of the family of that tribe, [were cities given] out of the half tribe, [namely, out of] the half [tribe] of Manasseh, by lot, ten cities.",
+        "LSG": "Les autres fils de Kehath eurent par le sort dix villes des familles de la tribu d'Ephraïm, de la tribu de Dan et de la demi-tribu de Manassé.",
+        "MAB": "On donna au reste des enfants de Kéhath, par sort, dix villes des familles de la demi-Tribu, [c'est-à-dire], de la demi-Tribu de Manassé.",
+        "OST": "Aux enfants de Kéhath qui restaient, on donna par le sort dix villes de la tribu d'Éphraïm, de la moitié de la tribu de Dan, et de la demi-tribu de Manassé.",
+        "S21": "et dans la tribu de Nephthali, Kédesh en Galilée et ses environs, Hammon et ses environs ainsi que Kirjathaïm et ses environs."
+      }
+    },
+    {
+      "verse": 62,
+      "texts": {
+        "BDS": "Le reste des Merarites reçurent, dans le territoire de la tribu de Zabulon, les villes suivantes avec leurs terres attenantes: Rimmono, Thabor.",
+        "DBY": "et aux fils de Guershom, selon leurs familles, treize villes, de la tribu d'Issacar, et de la tribu d'Aser, et de la tribu de Nephthali, et de la tribu de Manassé, en Basan;",
+        "KJV": "And to the sons of Gershom throughout their families out of the tribe of Issachar, and out of the tribe of Asher, and out of the tribe of Naphtali, and out of the tribe of Manasseh in Bashan, thirteen cities.",
+        "LSG": "Les fils de Guerschom, d'après leurs familles, eurent treize villes de la tribu d'Issacar, de la tribu d'Aser, de la tribu de Nephthali et de la tribu de Manassé en Basan.",
+        "MAB": "Et aux enfants de Guerson, selon leurs familles, de la Tribu d'Issacar, de la Tribu d'Aser, de la Tribu de Nephthali, et de la Tribu de Manassé en Basan, treize villes.",
+        "OST": "Aux enfants de Guershom, d'après leurs familles, on donna treize villes, de la tribu d'Issacar, de la tribu d'Asser, de la tribu de Nephthali, et de la tribu de Manassé, en Bassan.",
+        "S21": "On donna au reste des Lévites, aux descendants de Merari, dans la tribu de Zabulon, Rimmono et ses environs ainsi que Thabor et ses environs."
+      }
+    },
+    {
+      "verse": 63,
+      "texts": {
+        "BDS": "En Transjordanie, en face de Jéricho, à l’est du Jourdain, dans le territoire de la tribu de Ruben, ils reçurent, avec leurs terres attenantes: Bétser au désert, Yahtsa,",
+        "DBY": "et aux fils de Merari, selon leurs familles, par le sort, douze villes, de la tribu de Ruben, et de la tribu de Gad, et de la tribu de Zabulon.",
+        "KJV": "Unto the sons of Merari [were given] by lot, throughout their families, out of the tribe of Reuben, and out of the tribe of Gad, and out of the tribe of Zebulun, twelve cities.",
+        "LSG": "Les fils de Merari, d'après leurs familles, eurent par le sort douze villes de la tribu de Ruben, de la tribu de Gad et de la tribu de Zabulon.",
+        "MAB": "Et aux enfants de Mérari, selon leurs familles, par sort, douze villes, de la Tribu de Ruben, de la Tribu de Gad, et de la Tribu de Zabulon.",
+        "OST": "Aux enfants de Mérari, d'après leurs familles, on donna, par le sort, douze villes, de la tribu de Ruben, de la tribu de Gad, et de la tribu de Zabulon.",
+        "S21": "De l'autre côté du Jourdain, vis-à-vis de Jéricho, à l'est du Jourdain on leur donna: dans la tribu de Ruben, Betser, ville située dans le désert, et ses environs, Jahtsa et ses environs,"
+      }
+    },
+    {
+      "verse": 64,
+      "texts": {
+        "BDS": "Qedémoth, Méphaat.",
+        "DBY": "Et les fils d'Israël donnèrent aux Lévites les villes et leurs banlieues.",
+        "KJV": "And the children of Israel gave to the Levites [these] cities with their suburbs.",
+        "LSG": "Les enfants d'Israël donnèrent aux Lévites les villes et leurs banlieues.",
+        "MAB": "Ainsi les enfants d'Israël donnèrent aux Lévites ces villes-là, avec leurs faubourgs.",
+        "OST": "Les enfants d'Israël donnèrent aux Lévites ces villes et leurs banlieues.",
+        "S21": "Kedémoth et ses environs ainsi que Méphaath et ses environs;"
+      }
+    },
+    {
+      "verse": 65,
+      "texts": {
+        "BDS": "Et dans le territoire de la tribu de Gad, avec leurs terres attenantes: Ramoth en Galaad, Mahanaïm,",
+        "DBY": "Et ils donnèrent, par le sort, de la tribu des fils de Juda, et de la tribu des fils de Siméon, et de la tribu des fils de Benjamin, ces villes-là, qu'ils nommèrent par leurs noms.",
+        "KJV": "And they gave by lot out of the tribe of the children of Judah, and out of the tribe of the children of Simeon, and out of the tribe of the children of Benjamin, these cities, which are called by [their] names.",
+        "LSG": "Ils donnèrent par le sort, de la tribu des fils de Juda, de la tribu des fils de Siméon et de la tribu des fils de Benjamin, ces villes qu'ils désignèrent nominativement.",
+        "MAB": "Et ils donnèrent, par sort de la Tribu des enfants de Juda, de la Tribu des enfants de Siméon, et de la Tribu des enfants de Benjamin, ces villes-là qui devaient être nommées par leurs noms.",
+        "OST": "Ils donnèrent par le sort, de la tribu des enfants de Juda, de la tribu des enfants de Siméon, et de la tribu des enfants de Benjamin, ces villes qu'ils désignèrent par leurs noms.",
+        "S21": "et dans la tribu de Gad, Ramoth en Galaad et ses environs, Mahanaïm et ses environs,"
+      }
+    },
+    {
+      "verse": 66,
+      "texts": {
+        "BDS": "Hechbôn et Yaezer.",
+        "DBY": "Et pour les familles des fils de Kehath qui eurent les villes de leur territoire de la tribu d'Éphraïm,",
+        "KJV": "And [the residue] of the families of the sons of Kohath had cities of their coasts out of the tribe of Ephraim.",
+        "LSG": "Et pour les autres familles des fils de Kehath les villes de leur territoire furent de la tribu d'Ephraïm.",
+        "MAB": "Et pour ceux qui étaient des [autres] familles des enfants de Kéhath, il [y] eut pour leur contrée des villes de la Tribu d'Ephraïm.",
+        "OST": "Et pour les autres familles des enfants de Kéhath, les villes de leur territoire furent de la tribu d'Éphraïm.",
+        "S21": "Hesbon et ses environs, et Jaezar et ses environs."
+      }
+    },
+    {
+      "verse": 67,
+      "texts": {
+        "DBY": "on leur donna la ville de refuge: Sichem et sa banlieue, dans la montagne d'Éphraïm, et Guézer et sa banlieue,",
+        "KJV": "And they gave unto them, [of] the cities of refuge, Shechem in mount Ephraim with her suburbs; [they gave] also Gezer with her suburbs,",
+        "LSG": "Ils leur donnèrent la ville de refuge Sichem et sa banlieue, dans la montagne d'Ephraïm, Guézer et sa banlieue,",
+        "MAB": "Car on leur donna entre les villes de refuge, Sichem, avec ses faubourgs, en la montagne d'Ephraïm, Guézer, avec ses faubourgs,",
+        "OST": "On leur donna les villes de refuge, Sichem et sa banlieue, dans la montagne d'Éphraïm, Guézer et sa banlieue,"
+      }
+    },
+    {
+      "verse": 68,
+      "texts": {
+        "DBY": "et Jokmeam et sa banlieue, et Beth-Horon et sa banlieue,",
+        "KJV": "And Jokmeam with her suburbs, and Bethhoron with her suburbs,",
+        "LSG": "Jokmeam et sa banlieue, Beth-Horon et sa banlieue,",
+        "MAB": "Jokméham, avec ses faubourgs; Beth-horon, avec ses faubourgs,",
+        "OST": "Jokméam et sa banlieue, Beth-Horon et sa banlieue,"
+      }
+    },
+    {
+      "verse": 69,
+      "texts": {
+        "DBY": "et Ajalon et sa banlieue; et Gath-Rimmon et sa banlieue;",
+        "KJV": "And Aijalon with her suburbs, and Gathrimmon with her suburbs:",
+        "LSG": "Ajalon et sa banlieue, et Gath-Rimmon et sa banlieue;",
+        "MAB": "Ajalon, avec ses faubourgs, et Gath-rimmon, avec ses faubourgs.",
+        "OST": "Ajalon et sa banlieue, et Gath-Rimmon et sa banlieue;"
+      }
+    },
+    {
+      "verse": 70,
+      "texts": {
+        "DBY": "et de la demi-tribu de Manassé: Aner et sa banlieue, et Bilham et sa banlieue, -pour les familles des autres fils de Kehath.",
+        "KJV": "And out of the half tribe of Manasseh; Aner with her suburbs, and Bileam with her suburbs, for the family of the remnant of the sons of Kohath.",
+        "LSG": "et de la demi-tribu de Manassé, Aner et sa banlieue, et Bileam et sa banlieue, pour la famille des autres fils de Kehath.",
+        "MAB": "Et de la demi-Tribu de Manassé, Haner, avec ses faubourgs, et Bilham, avec ses faubourgs, [on donna], dis-je, [ces villes-là] aux familles qui restaient des enfants de Kéhath.",
+        "OST": "Et de la demi-tribu de Manassé, Aner et sa banlieue, et Bileam et sa banlieue. On donna ces villes aux enfants des familles de Kéhath qui restaient."
+      }
+    },
+    {
+      "verse": 71,
+      "texts": {
+        "DBY": "Aux fils de Guershom, on donna, de la famille de la demi-tribu de Manassé: Golan, en Basan, et sa banlieue, et Ashtaroth et sa banlieue;",
+        "KJV": "Unto the sons of Gershom [were given] out of the family of the half tribe of Manasseh, Golan in Bashan with her suburbs, and Ashtaroth with her suburbs:",
+        "LSG": "On donna aux fils de Guerschom: de la famille de la demi-tribu de Manassé, Golan en Basan et sa banlieue, et Aschtaroth et sa banlieue;",
+        "MAB": "Aux enfants de Guerson, [on donna], des familles de la demi-Tribu de Manassé, Golan en Basan, avec ses faubourgs, et Hastaroth, avec ses faubourgs.",
+        "OST": "Aux enfants de Guershom, on donna de la famille de la demi-tribu de Manassé, Golan en Bassan et sa banlieue, et Ashtharoth et sa banlieue;"
+      }
+    },
+    {
+      "verse": 72,
+      "texts": {
+        "DBY": "et de la tribu d'Issacar: Kédesh et sa banlieue, Dobrath et sa banlieue,",
+        "KJV": "And out of the tribe of Issachar; Kedesh with her suburbs, Daberath with her suburbs,",
+        "LSG": "de la tribu d'Issacar, Kédesch et sa banlieue, Dobrath et sa banlieue,",
+        "MAB": "De la Tribu d'Issacar, Kédes avec ses faubourgs, Dobrath, avec ses faubourgs,",
+        "OST": "De la tribu d'Issacar, Kédès et sa banlieue, Dobrath et sa banlieue,"
+      }
+    },
+    {
+      "verse": 73,
+      "texts": {
+        "DBY": "et Ramoth et sa banlieue, et Anem et sa banlieue;",
+        "KJV": "And Ramoth with her suburbs, and Anem with her suburbs:",
+        "LSG": "Ramoth et sa banlieue, et Anem et sa banlieue;",
+        "MAB": "Ramoth, avec ses faubourgs, et Hanem, avec ses faubourgs.",
+        "OST": "Ramoth et sa banlieue, et Anem et sa banlieue;"
+      }
+    },
+    {
+      "verse": 74,
+      "texts": {
+        "DBY": "et de la tribu d'Aser: Mashal et sa banlieue, et Abdon et sa banlieue,",
+        "KJV": "And out of the tribe of Asher; Mashal with her suburbs, and Abdon with her suburbs,",
+        "LSG": "de la tribu d'Aser, Maschal et sa banlieue, Abdon et sa banlieue,",
+        "MAB": "Et de la Tribu d'Aser, Masal, avec ses faubourgs, Habdon, avec ses faubourgs,",
+        "OST": "De la tribu d'Asser, Mashal et sa banlieue, Abdon et sa banlieue,"
+      }
+    },
+    {
+      "verse": 75,
+      "texts": {
+        "DBY": "et Hukok et sa banlieue, et Rehob et sa banlieue;",
+        "KJV": "And Hukok with her suburbs, and Rehob with her suburbs:",
+        "LSG": "Hukok et sa banlieue, et Rehob et sa banlieue;",
+        "MAB": "Hukkok, avec ses faubourgs, et Rehod, avec ses faubourgs.",
+        "OST": "Hukok et sa banlieue, Réhob et sa banlieue;"
+      }
+    },
+    {
+      "verse": 76,
+      "texts": {
+        "DBY": "et de la tribu de Nepthali: Kédesh, en Galilée, et sa banlieue, et Hammon et sa banlieue, et Kiriathaïm et sa banlieue.",
+        "KJV": "And out of the tribe of Naphtali; Kedesh in Galilee with her suburbs, and Hammon with her suburbs, and Kirjathaim with her suburbs.",
+        "LSG": "et de la tribu de Nephthali, Kédesch en Galilée et sa banlieue, Hammon et sa banlieue, et Kirjathaïm et sa banlieue.",
+        "MAB": "Et de la Tribu de Nephthali, Kédes en Galilée, avec ses faubourgs, Hammon, avec ses faubourgs, et Kirjathajim, avec ses faubourgs.",
+        "OST": "Et de la tribu de Nephthali, Kédès en Galilée et sa banlieue, Hammon et sa banlieue, et Kirjathaïm et sa banlieue."
+      }
+    },
+    {
+      "verse": 77,
+      "texts": {
+        "DBY": "Aux fils de Merari qui restaient, on donna, de la tribu de Zabulon: Rimmono et sa banlieue, et Thabor et sa banlieue;",
+        "KJV": "Unto the rest of the children of Merari [were given] out of the tribe of Zebulun, Rimmon with her suburbs, Tabor with her suburbs:",
+        "LSG": "On donna au reste des Lévites, aux fils de Merari: de la tribu de Zabulon, Rimmono et sa banlieue, et Thabor et sa banlieue;",
+        "MAB": "Aux enfants de Mérari, qui étaient de reste [d'entre les Lévites, on donna], de la Tribu de Zabulon, Rimmono, avec ses faubourgs, et Tabor, avec ses faubourgs.",
+        "OST": "Aux enfants de Mérari qui restaient, on donna, de la tribu de Zabulon, Rimmono et sa banlieue, et Thabor et sa banlieue;"
+      }
+    },
+    {
+      "verse": 78,
+      "texts": {
+        "DBY": "et au delà du Jourdain de Jéricho, à l'orient du Jourdain, de la tribu de Ruben; Bétser, au désert, et sa banlieue,",
+        "KJV": "And on the other side Jordan by Jericho, on the east side of Jordan, [were given them] out of the tribe of Reuben, Bezer in the wilderness with her suburbs, and Jahzah with her suburbs,",
+        "LSG": "et de l'autre côté du Jourdain, vis-à-vis de Jéricho, à l'orient du Jourdain: de la tribu de Ruben, Betser au désert et sa banlieue, Jahtsa et sa banlieue,",
+        "MAB": "Et au delà du Jourdain, vis-à-vis de Jérico, vers l'Orient du Jourdain, de la Tribu de Ruben, Betser au désert, avec ses faubourgs, Jathsa, avec ses faubourgs.",
+        "OST": "Et au delà du Jourdain de Jérico, vers l'orient du Jourdain, de la tribu de Ruben, Betser au désert et sa banlieue, Jahtsa et sa banlieue,"
+      }
+    },
+    {
+      "verse": 79,
+      "texts": {
+        "DBY": "et Jahtsa et sa banlieue, et Kedémoth et sa banlieue, et Méphaath et sa banlieue;",
+        "KJV": "Kedemoth also with her suburbs, and Mephaath with her suburbs:",
+        "LSG": "Kedémoth et sa banlieue, et Méphaath et sa banlieue;",
+        "MAB": "Kédémoth, avec ses faubourgs, et Méphahath, avec ses faubourgs.",
+        "OST": "Kédémoth et sa banlieue, et Méphaath et sa banlieue;"
+      }
+    },
+    {
+      "verse": 80,
+      "texts": {
+        "DBY": "et de la tribu de Gad: Ramoth, en Galaad, et sa banlieue, et Mahanaïm et sa banlieue,",
+        "KJV": "And out of the tribe of Gad; Ramoth in Gilead with her suburbs, and Mahanaim with her suburbs,",
+        "LSG": "et de la tribu de Gad, Ramoth en Galaad et sa banlieue, Mahanaïm et sa banlieue,",
+        "MAB": "Et de la Tribu de Gad, Ramoth en Galaad, avec ses faubourgs, Mahanajim, avec ses faubourgs.",
+        "OST": "Et de la tribu de Gad, Ramoth en Galaad et sa banlieue, Mahanaïm et sa banlieue,"
+      }
+    },
+    {
+      "verse": 81,
+      "texts": {
+        "DBY": "et Hesbon et sa banlieue, et Jahzer et sa banlieue.",
+        "KJV": "And Heshbon with her suburbs, and Jazer with her suburbs.",
+        "LSG": "Hesbon et sa banlieue, et Jaezer et sa banlieue.",
+        "MAB": "Hesbon, avec ses faubourgs, et Jahzer, avec ses faubourgs.",
+        "OST": "Hesbon et sa banlieue, et Jaezer et sa banlieue."
+      }
+    }
+  ]
+}

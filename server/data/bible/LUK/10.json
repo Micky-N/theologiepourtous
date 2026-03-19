@@ -1,0 +1,509 @@
+{
+  "bookCode": "LUK",
+  "chapter": 10,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "Après cela, le Seigneur choisit encore soixante-douze autres disciples et les envoya deux par deux, pour le précéder dans toutes les villes et les localités où il devait se rendre.",
+        "DBY": "Or après ces choses, le Seigneur en désigna aussi soixante-dix autres, et les envoya deux à deux devant sa face dans toutes les villes et dans tous les lieux où il devait lui-même aller.",
+        "KJV": "After these things the Lord appointed other seventy also, and sent them two and two before his face into every city and place, whither he himself would come.",
+        "LSG": "Après cela, le Seigneur désigna encore soixante-dix autres disciples, et il les envoya deux à deux devant lui dans toutes les villes et dans tous les lieux où lui-même devait aller.",
+        "MAB": "Or après ces choses le Seigneur en ordonna aussi soixante-dix autres, et les envoya deux à deux devant lui, dans toutes les villes et dans tous les lieux où il devait aller.",
+        "OST": "Après cela, le Seigneur établit encore soixante et dix autres disciples; et il les envoya deux à deux devant lui, dans toutes les villes et dans tous les lieux où lui-même devait aller.",
+        "S21": "Après cela, le Seigneur désigna encore 70 autres disciples et les envoya devant lui deux par deux dans toutes les villes et dans tous les endroits où lui-même devait aller."
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "Il leur disait:\r\n—La moisson est abondante, mais les ouvriers peu nombreux. Demandez donc au Seigneur à qui appartient la moisson d’envoyer des ouvriers pour la rentrer.",
+        "DBY": "Il leur disait donc: La moisson est grande, mais il y a peu d'ouvriers: suppliez donc le Seigneur de la moisson, en sorte qu'il pousse des ouvriers dans sa moisson.",
+        "KJV": "Therefore said he unto them, ‹The harvest truly› [is] ‹great, but the labourers› [are] ‹few: pray ye therefore the Lord of the harvest, that he would send forth labourers into his harvest.›",
+        "LSG": "Il leur dit: La moisson est grande, mais il y a peu d'ouvriers. Priez donc le maître de la moisson d'envoyer des ouvriers dans sa moisson.",
+        "MAB": "Et il leur disait : La moisson est grande, mais il y a peu d'ouvriers; priez donc le Seigneur de la moisson, qu'il pousse des ouvriers dans sa moisson.",
+        "OST": "Et il leur disait: La moisson est grande; mais il y a peu d'ouvriers; priez donc le Maître de la moisson d'envoyer des ouvriers dans sa moisson.",
+        "S21": "Il leur dit: «La moisson est grande, mais il y a peu d'ouvriers. Priez donc le maître de la moisson d'envoyer des ouvriers dans sa moisson."
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "Allez: je vous envoie comme des agneaux au milieu des loups.",
+        "DBY": "Allez; voici, moi je vous envoie comme des agneaux au milieu des loups.",
+        "KJV": "‹Go your ways: behold, I send you forth as lambs among wolves.›",
+        "LSG": "Partez; voici, je vous envoie comme des agneaux au milieu des loups.",
+        "MAB": "Allez, voici, je vous envoie comme des agneaux au milieu des loups.",
+        "OST": "Allez, je vous envoie comme des agneaux au milieu des loups.",
+        "S21": "Allez-y! Je vous envoie comme des agneaux au milieu des loups."
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "N’emportez ni bourse, ni sac de voyage, ni sandales, et ne vous attardez pas en chemin pour saluer les gens.",
+        "DBY": "Ne portez ni bourse, ni sac, ni sandales; et ne saluez personne en chemin.",
+        "KJV": "‹Carry neither purse, nor scrip, nor shoes: and salute no man by the way.›",
+        "LSG": "Ne portez ni bourse, ni sac, ni souliers, et ne saluez personne en chemin.",
+        "MAB": "Ne portez ni bourse, ni sac, ni souliers, et ne saluez personne dans le chemin.",
+        "OST": "Ne portez ni bourse, ni sac, ni souliers; et ne saluez personne en chemin.",
+        "S21": "Ne prenez ni bourse, ni sac, ni sandales et ne saluez personne en chemin."
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "Lorsque vous entrerez dans une maison, dites d’abord: «Que la paix soit sur cette maison.»",
+        "DBY": "Mais, dans quelque maison que vous entriez, dites premièrement: Paix sur cette maison!",
+        "KJV": "‹And into whatsoever house ye enter, first say, Peace› [be] ‹to this house.›",
+        "LSG": "Dans quelque maison que vous entriez, dites d'abord: Que la paix soit sur cette maison!",
+        "MAB": "Et en quelque maison que vous entriez, dites premièrement : paix soit à cette maison!",
+        "OST": "Et dans quelque maison que vous entriez, dites en entrant: La paix soit sur cette maison.",
+        "S21": "Dans toute maison où vous entrerez, dites d'abord: ‘Que la paix soit sur cette maison!’"
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "Si un homme de paix y habite, votre paix reposera sur lui. Si ce n’est pas le cas, elle reviendra à vous.",
+        "DBY": "Et si un fils de paix est là, votre paix reposera sur elle, sinon elle retournera sur vous.",
+        "KJV": "‹And if the son of peace be there, your peace shall rest upon it: if not, it shall turn to you again.›",
+        "LSG": "Et s'il se trouve là un enfant de paix, votre paix reposera sur lui; sinon, elle reviendra à vous.",
+        "MAB": "Que s'il y a là quelqu'un qui soit digne de paix, votre paix reposera sur lui; sinon elle retournera à vous.",
+        "OST": "S'il y a là un enfant de paix, votre paix reposera sur lui; sinon elle retournera à vous.",
+        "S21": "Et s'il se trouve là un homme de paix, votre paix reposera sur lui; sinon, elle reviendra sur vous."
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "Restez dans cette maison-là, prenez la nourriture et la boisson que l’on vous donnera, car «l’ouvrier mérite son salaire». Ne passez pas d’une maison à l’autre pour demander l’hospitalité.",
+        "DBY": "Et demeurez dans la même maison, mangeant et buvant de ce qui vous sera offert de leur part; car l'ouvrier est digne de son salaire. Ne passez pas de maison en maison.",
+        "KJV": "‹And in the same house remain, eating and drinking such things as they give: for the labourer is worthy of his hire. Go not from house to house.›",
+        "LSG": "Demeurez dans cette maison-là, mangeant et buvant ce qu'on vous donnera; car l'ouvrier mérite son salaire. N'allez pas de maison en maison.",
+        "MAB": "Et demeurez dans cette maison, mangeant et buvant de ce qui sera mis devant vous; car l'ouvrier est digne de son salaire. Ne passez point de maison en maison.",
+        "OST": "Et demeurez dans cette maison, mangeant et buvant de ce qu'on vous donnera; car l'ouvrier est digne de son salaire. Ne passez point d'une maison à une autre maison.",
+        "S21": "Restez dans cette maison, mangez et buvez ce qu'on vous donnera, car l'ouvrier mérite son salaire. N'allez pas de maison en maison."
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "Dans toute ville où vous irez et où l’on vous accueillera, mangez ce qu’on vous offrira,",
+        "DBY": "Et dans quelque ville que vous entriez et qu'on vous reçoive, mangez de ce qui sera mis devant vous,",
+        "KJV": "‹And into whatsoever city ye enter, and they receive you, eat such things as are set before you:›",
+        "LSG": "Dans quelque ville que vous entriez, et où l'on vous recevra, mangez ce qui vous sera présenté,",
+        "MAB": "Et en quelque ville que vous entriez, et qu'on vous reçoive, mangez de ce qui sera mis devant vous.",
+        "OST": "Et dans quelque ville que vous entriez, si l'on vous y reçoit, mangez de ce qu'on vous présentera.",
+        "S21": "Dans toute ville où vous entrerez et où l'on vous accueillera, mangez ce que l'on vous offrira,"
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "guérissez les malades qui s’y trouveront et dites aux gens: «Le royaume de Dieu est proche de vous.»",
+        "DBY": "et guérissez les infirmes qui y seront, et dites-leur: Le royaume de Dieu s'est approché de vous.",
+        "KJV": "‹And heal the sick that are therein, and say unto them, The kingdom of God is come nigh unto you.›",
+        "LSG": "guérissez les malades qui s'y trouveront, et dites-leur: Le royaume de Dieu s'est approché de vous.",
+        "MAB": "Et guérissez les malades qui y seront, et dites-leur : Le Royaume de Dieu est approché de vous.",
+        "OST": "Guérissez les malades qui s'y trouveront, et dites-leur: Le royaume de Dieu s'est approché de vous.",
+        "S21": "guérissez les malades qui s'y trouveront et dites-leur: ‘Le royaume de Dieu s'est approché de vous.’"
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "Mais dans toute ville où vous entrerez et où l’on ne voudra pas vous recevoir, allez sur la place publique et dites:",
+        "DBY": "Mais dans quelque ville que vous soyez entrés et qu'on ne vous reçoive pas, sortez dans ses rues et dites:",
+        "KJV": "‹But into whatsoever city ye enter, and they receive you not, go your ways out into the streets of the same, and say,›",
+        "LSG": "Mais dans quelque ville que vous entriez, et où l'on ne vous recevra pas, allez dans ses rues, et dites:",
+        "MAB": "Mais en quelque ville que vous entriez, si on ne vous reçoit point, sortez dans ses rues, et dites :",
+        "OST": "Mais dans quelque ville que vous entriez, si l'on ne vous reçoit pas, sortez dans les rues, et dites:",
+        "S21": "Mais dans toute ville où vous entrerez et où l'on ne vous accueillera pas, allez dans les rues et dites:"
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "«La poussière de votre ville qui s’est attachée à nos pieds, nous la secouons contre vous. Sachez pourtant ceci: le royaume de Dieu est proche.»",
+        "DBY": "La poussière même de votre ville, qui s'est attachée à nos pieds, nous la secouons contre vous; mais sachez ceci, que le royaume de Dieu s'est approché.",
+        "KJV": "‹Even the very dust of your city, which cleaveth on us, we do wipe off against you: notwithstanding be ye sure of this, that the kingdom of God is come nigh unto you.›",
+        "LSG": "Nous secouons contre vous la poussière même de votre ville qui s'est attachée à nos pieds; sachez cependant que le royaume de Dieu s'est approché.",
+        "MAB": "Nous secouons contre vous-mêmes la poussière de votre ville qui s'est attachée à nous ; toutefois sachez que le Royaume de Dieu est approché de vous.",
+        "OST": "Nous secouons contre vous la poussière qui s'est attachée à nous dans votre ville; sachez pourtant que le règne de Dieu s'est approché de vous.",
+        "S21": "‘Nous secouons contre vous même la poussière de votre ville qui s'est attachée à nos pieds. Sachez cependant que le royaume de Dieu s'est approché [de vous].’"
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "—Je vous assure qu’au grand Jour, Sodome sera traitée avec moins de rigueur que cette ville-là.",
+        "DBY": "Je vous dis que le sort de Sodome sera plus supportable en ce jour-là que celui de cette ville-là.",
+        "KJV": "‹But I say unto you, that it shall be more tolerable in that day for Sodom, than for that city.›",
+        "LSG": "Je vous dis qu'en ce jour Sodome sera traitée moins rigoureusement que cette ville-là.",
+        "MAB": "Et je vous dis, qu'en cette journée-là ceux de Sodome seront traités moins rigoureusement que cette ville-là.",
+        "OST": "Je vous dis qu'en ce jour-là le sort de Sodome sera plus supportable que celui de cette ville-là.",
+        "S21": "Je vous dis que, ce jour-là, Sodome sera traitée moins sévèrement que cette ville-là."
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "Malheur à toi, Chorazin, malheur à toi, Bethsaïda! car si les miracles qui se sont produits au milieu de vous avaient eu lieu à Tyr et à Sidon, il y a longtemps que leurs habitants auraient changé de vie et l’auraient manifesté en revêtant des habits de toile de sac et en se couvrant de cendre.",
+        "DBY": "Malheur à toi, Chorazin! malheur à toi, Bethsaïda! car si les miracles qui ont été faits au milieu de vous eussent été faits dans Tyr et dans Sidon, il y a longtemps qu'elles se seraient repenties, s'étant assises dans le sac et la cendre;",
+        "KJV": "‹Woe unto thee, Chorazin! woe unto thee, Bethsaida! for if the mighty works had been done in Tyre and Sidon, which have been done in you, they had a great while ago repented, sitting in sackcloth and ashes.›",
+        "LSG": "Malheur à toi, Chorazin! malheur à toi, Bethsaïda! car, si les miracles qui ont été faits au milieu de vous avaient été faits dans Tyr et dans Sidon, il y a longtemps qu'elles se seraient repenties, en prenant le sac et la cendre.",
+        "MAB": "Malheur à toi Chorazin, malheur à toi Bethsaïda! car si les miracles qui ont été faits au milieu de vous avaient été faits dans Tyr et dans Sidon, il y a longtemps qu'elles se seraient repenties, couvertes d'un sac, et assises sur la cendre.",
+        "OST": "Malheur à toi, Chorazin; malheur à toi, Bethsaïda; car si les miracles qui ont été faits au milieu de vous, avaient été faits à Tyr et à Sidon, il y a longtemps qu'elles se seraient converties, en prenant le sac et la cendre.",
+        "S21": "»Malheur à toi, Chorazin, malheur à toi, Bethsaïda, car si les miracles accomplis au milieu de vous l'avaient été dans Tyr et dans Sidon, il y a longtemps que leurs habitants se seraient repentis, habillés d’un sac et assis dans la cendre."
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "C’est pourquoi, au jour du jugement, ces villes seront traitées avec moins de rigueur que vous.",
+        "DBY": "mais le sort de Tyr et de Sidon, au jugement, sera plus supportable que le vôtre.",
+        "KJV": "‹But it shall be more tolerable for Tyre and Sidon at the judgment, than for you.›",
+        "LSG": "C'est pourquoi, au jour du jugement, Tyr et Sidon seront traitées moins rigoureusement que vous.",
+        "MAB": "C'est pourquoi Tyr et Sidon seront traitées moins rigoureusement que vous au [jour du] jugement.",
+        "OST": "C'est pourquoi le sort de Tyr et de Sidon sera plus supportable au Jugement que le vôtre.",
+        "S21": "C'est pourquoi, lors du jugement Tyr et Sidon seront traitées moins sévèrement que vous."
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "Et toi, Capernaüm, crois-tu que tu seras élevée jusqu’au ciel? Non, tu seras précipitée au séjour des morts.",
+        "DBY": "Et toi, Capernaüm, qui as été élevée jusqu'au ciel, tu seras abaissée jusque dans le hadès.",
+        "KJV": "‹And thou, Capernaum, which art exalted to heaven, shalt be thrust down to hell.›",
+        "LSG": "Et toi, Capernaüm, qui as été élevée jusqu'au ciel, tu seras abaissée jusqu'au séjour des morts.",
+        "MAB": "Et toi Capernaüm, qui as été élevée jusqu'au ciel, tu seras abaissée jusque dans l'enfer.",
+        "OST": "Et toi, Capernaüm, qui as été élevée jusqu'au ciel, tu seras abaissée jusqu'en enfer.",
+        "S21": "Et toi, Capernaüm, qui as été élevée jusqu'au ciel, tu seras abaissée jusqu'au séjour des morts."
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "Il ajouta:\r\n—Si quelqu’un vous écoute, c’est moi qu’il écoute, si quelqu’un vous rejette, c’est moi qu’il rejette. Or, celui qui me rejette, rejette celui qui m’a envoyé.",
+        "DBY": "Celui qui vous écoute, m'écoute; et celui qui vous rejette, me rejette; et celui qui me rejette, rejette celui qui m'a envoyé.",
+        "KJV": "‹He that heareth you heareth me; and he that despiseth you despiseth me; and he that despiseth me despiseth him that sent me.›",
+        "LSG": "Celui qui vous écoute m'écoute, et celui qui vous rejette me rejette; et celui qui me rejette rejette celui qui m'a envoyé.",
+        "MAB": "Celui qui vous écoute, m'écoute; et celui qui vous rejette, me rejette; or celui qui me rejette, rejette celui qui m a envoyé.",
+        "OST": "Qui vous écoute, m'écoute; et qui vous rejette, me rejette; et qui me rejette, rejette celui qui m'a envoyé.",
+        "S21": "Celui qui vous écoute m'écoute, celui qui vous rejette me rejette, et celui qui me rejette rejette celui qui m'a envoyé.»"
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "Quand les soixante-douze disciples revinrent, ils étaient pleins de joie et disaient:\r\n—Seigneur, même les démons se soumettent à nous quand nous leur donnons des ordres en ton nom!",
+        "DBY": "Et les soixante-dix s'en revinrent avec joie, disant: Seigneur, les démons même nous sont assujettis en ton nom.",
+        "KJV": "And the seventy returned again with joy, saying, Lord, even the devils are subject unto us through thy name.",
+        "LSG": "Les soixante-dix revinrent avec joie, disant: Seigneur, les démons mêmes nous sont soumis en ton nom.",
+        "MAB": "Or les soixante-dix s'en revinrent avec joie, en disant : Seigneur, les démons mêmes nous sont assujettis en ton Nom.",
+        "OST": "Or, les soixante et dix disciples revinrent avec joie, disant: Seigneur, les démons mêmes nous sont assujettis en ton nom.",
+        "S21": "Les 70 revinrent tout joyeux et dirent: «Seigneur, même les démons nous sont soumis en ton nom.»"
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "—Oui, leur répondit-il, je voyais Satan tomber du ciel comme l’éclair.",
+        "DBY": "Et il leur dit: Je voyais Satan tombant du ciel comme un éclair.",
+        "KJV": "And he said unto them, ‹I beheld Satan as lightning fall from heaven.›",
+        "LSG": "Jésus leur dit: Je voyais Satan tomber du ciel comme un éclair.",
+        "MAB": "Et il leur dit : je contemplais satan tombant du ciel comme un éclair.",
+        "OST": "Et il leur dit: Je voyais Satan tomber du ciel comme un éclair.",
+        "S21": "Jésus leur dit: «Je regardais Satan tomber du ciel comme un éclair."
+      }
+    },
+    {
+      "verse": 19,
+      "texts": {
+        "BDS": "Ecoutez bien ceci: il est vrai que je vous ai donné le pouvoir de marcher sur les serpents et les scorpions, et d’écraser toutes les forces de l’Ennemi, sans que rien ne puisse vous faire du mal.",
+        "DBY": "Voici, je vous donne l'autorité de marcher sur les serpents et sur les scorpions, et sur toute la puissance de l'ennemi; et rien ne vous nuira;",
+        "KJV": "‹Behold, I give unto you power to tread on serpents and scorpions, and over all the power of the enemy: and nothing shall by any means hurt you.›",
+        "LSG": "Voici, je vous ai donné le pouvoir de marcher sur les serpents et les scorpions, et sur toute la puissance de l'ennemi; et rien ne pourra vous nuire.",
+        "MAB": "Voici, je vous donne la puissance de marcher sur les serpents et sur les scorpions, et sur toute la force de l'ennemi; et rien ne vous nuira.",
+        "OST": "Voici, je vous donne le pouvoir de marcher sur les serpents, sur les scorpions, et sur toutes les forces de l'ennemi; et rien ne pourra vous nuire.",
+        "S21": "Voici, je vous ai donné le pouvoir de marcher sur les serpents et les scorpions et sur toute la puissance de l'ennemi, et rien ne pourra vous nuire."
+      }
+    },
+    {
+      "verse": 20,
+      "texts": {
+        "BDS": "Toutefois, ce qui doit vous réjouir, ce n’est pas de voir que les esprits mauvais vous sont soumis; mais de savoir que vos noms sont inscrits dans le ciel.",
+        "DBY": "toutefois ne vous réjouissez pas de ce que les esprits vous sont assujettis, mais réjouissez-vous parce que vos noms sont écrits dans les cieux.",
+        "KJV": "‹Notwithstanding in this rejoice not, that the spirits are subject unto you; but rather rejoice, because your names are written in heaven.›",
+        "LSG": "Cependant, ne vous réjouissez pas de ce que les esprits vous sont soumis; mais réjouissez-vous de ce que vos noms sont écrits dans les cieux.",
+        "MAB": "Toutefois ne vous réjouissez pas de ce que les esprits vous sont assujettis, mais plutôt réjouissez-vous de ce que vos noms sont écrits dans les cieux.",
+        "OST": "Toutefois ne vous réjouissez pas de ce que les esprits vous sont assujettis; mais réjouissez-vous plutôt de ce que vos noms sont écrits dans les cieux.",
+        "S21": "Cependant, ne vous réjouissez pas de ce que les esprits vous sont soumis, mais réjouissez-vous de ce que vos noms sont inscrits dans le ciel.»"
+      }
+    },
+    {
+      "verse": 21,
+      "texts": {
+        "BDS": "Au même moment, Jésus fut transporté de joie par le Saint-Esprit et s’écria:\r\n—Je te loue, ô Père, Seigneur du ciel et de la terre, parce que tu as caché ces vérités aux sages et aux intelligents, et que tu les as dévoilées à ceux qui sont tout petits. Oui, Père, car dans ta bonté, tu l’as voulu ainsi.",
+        "DBY": "En cette même heure, Jésus se réjouit en esprit et dit: Je te loue, ô Père, Seigneur du ciel et de la terre, parce que tu as caché ces choses aux sages et aux intelligents, et que tu les as révélées aux petits enfants. Oui, Père, car c'est ce que tu as trouvé bon devant toi.",
+        "KJV": "In that hour Jesus rejoiced in spirit, and said, ‹I thank thee, O Father, Lord of heaven and earth, that thou hast hid these things from the wise and prudent, and hast revealed them unto babes: even so, Father; for so it seemed good in thy sight.›",
+        "LSG": "En ce moment même, Jésus tressaillit de joie par le Saint-Esprit, et il dit: Je te loue, Père, Seigneur du ciel et de la terre, de ce que tu as caché ces choses aux sages et aux intelligents, et de ce que tu les as révélées aux enfants. Oui, Père, je te loue de ce que tu l'as voulu ainsi.",
+        "MAB": "En ce même instant Jésus se réjouit en esprit, et dit : je te loue, ô Père! Seigneur du ciel et de la terre, de ce que tu as caché ces choses aux sages et aux intelligents, et que tu les as révélées aux petits enfants; il est ainsi, ô Père! parce que telle a été ta bonne volonté.",
+        "OST": "En ce même instant, Jésus tressaillit de joie en son esprit et dit: Je te loue, ô Père, Seigneur du ciel et de la terre, de ce que tu as caché ces choses aux sages et aux intelligents, et de ce que tu les as révélées aux enfants! Oui, ô Père, cela est ainsi, parce que tu l'as trouvé bon!",
+        "S21": "A ce moment même, Jésus fut rempli de joie par le Saint-Esprit et il dit: «Je te suis reconnaissant, Père, Seigneur du ciel et de la terre, de ce que tu as caché ces choses aux sages et aux intelligents et les as révélées aux enfants. Oui, Père, je te suis reconnaissant car c’est ce que tu as voulu."
+      }
+    },
+    {
+      "verse": 22,
+      "texts": {
+        "BDS": "Mon Père a remis toutes choses entre mes mains. Personne ne sait qui est le Fils, si ce n’est le Père; et personne ne sait qui est le Père, si ce n’est le Fils et celui à qui le Fils veut le révéler.",
+        "DBY": "Toutes choses m'ont été livrées par mon Père; et personne ne connaît qui est le Fils, si ce n'est le Père; ni qui est le Père, si ce n'est le Fils, et celui à qui le Fils voudra le révéler.",
+        "KJV": "‹All things are delivered to me of my Father: and no man knoweth who the Son is, but the Father; and who the Father is, but the Son, and› [he] ‹to whom the Son will reveal› [him].",
+        "LSG": "Toutes choses m'ont été données par mon Père, et personne ne connaît qui est le Fils, si ce n'est le Père, ni qui est le Père, si ce n'est le Fils et celui à qui le Fils veut le révéler.",
+        "MAB": "Toutes choses m'ont été données en main par mon Père; et personne ne connaît qui est le Fils, sinon le Père; ni qui est le Père, sinon le Fils; et celui à qui le Fils l'aura voulu révéler.",
+        "OST": "Toutes choses m'ont été données par mon Père; et nul ne connaît qui est le Fils, que le Père, ni qui est le Père, que le Fils, et celui à qui le Fils le voudra révéler.",
+        "S21": "Mon Père m’a tout donné et personne ne sait qui est le Fils, si ce n'est le Père, ni qui est le Père, si ce n'est le Fils et celui à qui le Fils veut le révéler.»"
+      }
+    },
+    {
+      "verse": 23,
+      "texts": {
+        "BDS": "Puis, se tournant vers ses disciples, il leur dit en particulier:\r\n—Heureux ceux qui voient ce que vous voyez!",
+        "DBY": "Et se tournant vers les disciples, il leur dit en particulier: Bienheureux sont les yeux qui voient ce que vous voyez!",
+        "KJV": "And he turned him unto [his] disciples, and said privately, ‹Blessed› [are] ‹the eyes which see the things that ye see:›",
+        "LSG": "Et, se tournant vers les disciples, il leur dit en particulier: Heureux les yeux qui voient ce que vous voyez!",
+        "MAB": "Puis se tournant vers ses Disciples, il leur dit en particulier : bienheureux sont les yeux qui voient ce que vous voyez.",
+        "OST": "Puis, se tournant vers ses disciples, il leur dit en particulier: Heureux les yeux qui voient ce que vous voyez!",
+        "S21": "Puis il se tourna vers les disciples et leur dit en privé: «Heureux les yeux qui voient ce que vous voyez!"
+      }
+    },
+    {
+      "verse": 24,
+      "texts": {
+        "BDS": "Car, je vous l’assure: beaucoup de prophètes et de rois auraient voulu voir ce que vous voyez, mais ne l’ont pas vu; ils auraient voulu entendre ce que vous entendez, mais ne l’ont pas entendu.",
+        "DBY": "Car je vous dis que plusieurs prophètes et plusieurs rois ont désiré de voir les choses que vous voyez, et il ne les ont pas vues, et d'entendre les choses que vous entendez, et ils ne les ont pas entendues.",
+        "KJV": "‹For I tell you, that many prophets and kings have desired to see those things which ye see, and have not seen› [them]; ‹and to hear those things which ye hear, and have not heard› [them].",
+        "LSG": "Car je vous dis que beaucoup de prophètes et de rois ont désiré voir ce que vous voyez, et ne l'ont pas vu, entendre ce que vous entendez, et ne l'ont pas entendu.",
+        "MAB": "Car je vous dis, que plusieurs Prophètes et plusieurs Rois ont désiré de voir les choses que vous voyez, et ils ne les ont point vues, et d'ouïr les choses que vous entendez, et ils ne les ont point entendues.",
+        "OST": "Car je vous dis que plusieurs prophètes et plusieurs rois ont désiré de voir ce que vous voyez, et ne l'ont point vu; et d'entendre ce que vous entendez, et ne l'ont point entendu.",
+        "S21": "En effet, je vous le dis, beaucoup de prophètes et de rois ont désiré voir ce que vous voyez et ne l'ont pas vu, entendre ce que vous entendez et ne l'ont pas entendu.»"
+      }
+    },
+    {
+      "verse": 25,
+      "texts": {
+        "BDS": "Un enseignant de la Loi se leva et posa une question à Jésus pour lui tendre un piège.\r\n—Maître, lui dit-il, que dois-je faire pour obtenir la vie éternelle?",
+        "DBY": "Et voici, un docteur de la loi se leva pour l'éprouver, et dit: Maître, que faut-il que j'aie fait pour hériter de la vie éternelle?",
+        "KJV": "And, behold, a certain lawyer stood up, and tempted him, saying, Master, what shall I do to inherit eternal life?",
+        "LSG": "Un docteur de la loi se leva, et dit à Jésus, pour l'éprouver: Maître, que dois-je faire pour hériter la vie éternelle?",
+        "MAB": "Alors voici, un Docteur de la Loi s'étant levé pour l'éprouver lui dit : Maître, que dois-je faire pour avoir la vie éternelle?",
+        "OST": "Alors un docteur de la loi se leva et dit à Jésus, pour l'éprouver: Maître, que faut-il que je fasse pour hériter de la vie éternelle?",
+        "S21": "Un professeur de la loi se leva et dit à Jésus pour le mettre à l'épreuve: «Maître, que dois-je faire pour hériter de la vie éternelle?»"
+      }
+    },
+    {
+      "verse": 26,
+      "texts": {
+        "BDS": "Jésus lui répondit:\r\n—Qu’est-il écrit dans notre Loi?",
+        "DBY": "Et il lui dit: Qu'est-il écrit dans la loi?",
+        "KJV": "He said unto him, ‹What is written in the law? how readest thou?›",
+        "LSG": "Jésus lui dit: Qu'est-il écrit dans la loi? Qu'y lis-tu?",
+        "MAB": "Et il lui dit : qu'est-il écrit dans la Loi? comment lis-tu?",
+        "OST": "Jésus lui dit: Qu'est-ce qui est écrit dans la loi, et qu'y lis-tu?",
+        "S21": "Jésus lui dit: «Qu'est-il écrit dans la loi? Qu'y lis-tu?»"
+      }
+    },
+    {
+      "verse": 27,
+      "texts": {
+        "BDS": "Comment la comprends-tu?\r\nIl lui répondit:\r\n—Tu aimeras le Seigneur ton Dieu, de tout ton cœur, de toute ton âme, de toute ton énergie et de toute ta pensée, et ton prochain comme toi-même.",
+        "DBY": "Comment lis-tu? Et répondant, il dit: \"Tu aimeras le Seigneur ton Dieu de tout ton cœur, et de toute ton âme, et de toute ta force, et de toute ta pensée\"; \"et ton prochain comme toi-même\".",
+        "KJV": "And he answering said, Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy strength, and with all thy mind; and thy neighbour as thyself.",
+        "LSG": "Il répondit: Tu aimeras le Seigneur, ton Dieu, de tout ton coeur, de toute ton âme, de toute ta force, et de toute ta pensée; et ton prochain comme toi-même.",
+        "MAB": "Et il répondit, et dit : tu aimeras le Seigneur ton Dieu de tout ton cœur, et de toute ton âme, et de toute ta force, et de toute ta pensée; et ton prochain comme toi-même.",
+        "OST": "Il répondit: Tu aimeras le Seigneur ton Dieu de tout ton cœur, de toute ton âme, de toute ta force et de toute ta pensée; et ton prochain comme toi-même.",
+        "S21": "Il répondit: «Tu aimeras le Seigneur, ton Dieu, de tout ton cœur, de toute ton âme, de toute ta force et de toute ta pensée, et ton prochain comme toi-même.»"
+      }
+    },
+    {
+      "verse": 28,
+      "texts": {
+        "BDS": "—Tu as bien répondu, lui dit Jésus: fais cela, et tu auras la vie.",
+        "DBY": "Et il lui dit: Tu as bien répondu; fais cela, et tu vivras.",
+        "KJV": "And he said unto him, ‹Thou hast answered right: this do, and thou shalt live.›",
+        "LSG": "Tu as bien répondu, lui dit Jésus; fais cela, et tu vivras.",
+        "MAB": "Et [Jésus] lui dit : tu as bien répondu; fais cela, et tu vivras.",
+        "OST": "Et Jésus lui dit: Tu as bien répondu; fais cela, et tu vivras.",
+        "S21": "«Tu as bien répondu, lui dit Jésus. Fais cela et tu vivras.»"
+      }
+    },
+    {
+      "verse": 29,
+      "texts": {
+        "BDS": "Mais l’enseignant de la Loi, voulant se donner raison, reprit:\r\n—Oui, mais qui donc est mon prochain?",
+        "DBY": "Mais lui, voulant se justifier lui-même, dit à Jésus: Et qui est mon prochain?",
+        "KJV": "But he, willing to justify himself, said unto Jesus, And who is my neighbour?",
+        "LSG": "Mais lui, voulant se justifier, dit à Jésus: Et qui est mon prochain?",
+        "MAB": "Mais lui se voulant justifier, dit à Jésus : et qui est mon prochain?",
+        "OST": "Mais cet homme voulant paraître juste, dit à Jésus: Et qui est mon prochain?",
+        "S21": "Mais lui, voulant se justifier, dit à Jésus: «Et qui est mon prochain?»"
+      }
+    },
+    {
+      "verse": 30,
+      "texts": {
+        "BDS": "En réponse, Jésus lui dit:\r\n—Il y avait un homme qui descendait de Jérusalem à Jéricho, quand il fut attaqué par des brigands. Ils lui arrachèrent ses vêtements, le rouèrent de coups et s’en allèrent, le laissant à moitié mort.",
+        "DBY": "Et Jésus, répondant, dit: Un homme descendit de Jérusalem à Jéricho, et tomba entre les mains des voleurs, qui aussi, l'ayant dépouillé et l'ayant couvert de blessures, s'en allèrent, le laissant à demi mort.",
+        "KJV": "And Jesus answering said, ‹A certain› [man] ‹went down from Jerusalem to Jericho, and fell among thieves, which stripped him of his raiment, and wounded› [him], ‹and departed, leaving› [him] ‹half dead.›",
+        "LSG": "Jésus reprit la parole, et dit: Un homme descendait de Jérusalem à Jéricho. Il tomba au milieu des brigands, qui le dépouillèrent, le chargèrent de coups, et s'en allèrent, le laissant à demi mort.",
+        "MAB": "Et Jésus répondant, lui dit : un homme descendait de Jérusalem à Jéricho, et il tomba entre les mains des voleurs, qui le dépouillèrent, et qui après l'avoir blessé de plusieurs coups, s'en allèrent, le laissant à demi-mort.",
+        "OST": "Et Jésus, reprenant la parole, dit: Un homme descendit de Jérusalem à Jérico, et tomba entre les mains des brigands, qui le dépouillèrent; et après l'avoir blessé de plusieurs coups, ils s'en allèrent, le laissant à demi mort.",
+        "S21": "Jésus reprit la parole et dit: «Un homme descendait de Jérusalem à Jéricho. Il tomba entre les mains de brigands qui le dépouillèrent, le rouèrent de coups et s'en allèrent en le laissant à moitié mort."
+      }
+    },
+    {
+      "verse": 31,
+      "texts": {
+        "BDS": "Or il se trouva qu’un prêtre descendait par le même chemin. Il vit le blessé et, s’en écartant, poursuivit sa route.",
+        "DBY": "Or, par aventure, un sacrificateur descendait par ce chemin-là, et, le voyant, passa outre de l'autre côté;",
+        "KJV": "‹And by chance there came down a certain priest that way: and when he saw him, he passed by on the other side.›",
+        "LSG": "Un sacrificateur, qui par hasard descendait par le même chemin, ayant vu cet homme, passa outre.",
+        "MAB": "Or par rencontre un Sacrificateur descendait par le même chemin, et quand il le vit, il passa de l'autre côté.",
+        "OST": "Or, il se rencontra qu'un sacrificateur descendait par ce chemin-là, et ayant vu cet homme, il passa outre.",
+        "S21": "Un prêtre qui, par hasard, descendait par le même chemin vit cet homme et passa à distance."
+      }
+    },
+    {
+      "verse": 32,
+      "texts": {
+        "BDS": "De même aussi un lévite arriva au même endroit, le vit, et, s’en écartant, poursuivit sa route.",
+        "DBY": "et pareillement aussi un lévite, étant arrivé en cet endroit-là, s'en vint, et, le voyant, passa outre de l'autre côté:",
+        "KJV": "‹And likewise a Levite, when he was at the place, came and looked› [on him], ‹and passed by on the other side.›",
+        "LSG": "Un Lévite, qui arriva aussi dans ce lieu, l'ayant vu, passa outre.",
+        "MAB": "Un Lévite aussi étant arrivé en cet endroit-là, et voyant cet homme, passa tout de même de l'autre côté.",
+        "OST": "Un lévite étant aussi venu dans le même endroit, et le voyant, passa outre.",
+        "S21": "De même aussi un Lévite arriva à cet endroit; il le vit et passa à distance."
+      }
+    },
+    {
+      "verse": 33,
+      "texts": {
+        "BDS": "Mais un Samaritain qui passait par là arriva près de cet homme. En le voyant, il fut pris de pitié.",
+        "DBY": "mais un Samaritain, allant son chemin, vint à lui, et, le voyant, fut ému de compassion,",
+        "KJV": "‹But a certain Samaritan, as he journeyed, came where he was: and when he saw him, he had compassion› [on him],",
+        "LSG": "Mais un Samaritain, qui voyageait, étant venu là, fut ému de compassion lorsqu'il le vit.",
+        "MAB": "Mais un Samaritain faisant son chemin vint à lui, et le voyant il fut touché de compassion.",
+        "OST": "Mais un Samaritain, passant son chemin, vint vers cet homme, et le voyant, il fut touché de compassion.",
+        "S21": "Mais un Samaritain qui voyageait arriva près de lui et fut rempli de compassion lorsqu'il le vit."
+      }
+    },
+    {
+      "verse": 34,
+      "texts": {
+        "BDS": "Il s’approcha de lui, soigna ses plaies avec de l’huile et du vin, et les recouvrit de pansements. Puis, le chargeant sur sa propre mule, il l’emmena dans une auberge où il le soigna de son mieux.",
+        "DBY": "et s'approcha et banda ses plaies, y versant de l'huile et du vin; et l'ayant mis sur sa propre bête, il le mena dans l'hôtellerie et eut soin de lui.",
+        "KJV": "‹And went to› [him], ‹and bound up his wounds, pouring in oil and wine, and set him on his own beast, and brought him to an inn, and took care of him.›",
+        "LSG": "Il s'approcha, et banda ses plaies, en y versant de l'huile et du vin; puis il le mit sur sa propre monture, le conduisit à une hôtellerie, et prit soin de lui.",
+        "MAB": "Et s'approchant lui banda ses plaies, et y versa de l'huile et du vin; puis le mit sur sa propre monture, et le mena dans l'hôtellerie, et eut soin de lui.",
+        "OST": "Et s'approchant, il banda ses plaies, et il y versa de l'huile et du vin; puis il le mit sur sa monture, et le mena à une hôtellerie, et prit soin de lui.",
+        "S21": "Il s'approcha et banda ses plaies en y versant de l'huile et du vin; puis il le mit sur sa propre monture, le conduisit dans une auberge et prit soin de lui."
+      }
+    },
+    {
+      "verse": 35,
+      "texts": {
+        "BDS": "Le lendemain, il sortit deux pièces d’argent, les remit à l’aubergiste et lui dit: «Prends soin de cet homme, et tout ce que tu auras dépensé en plus, je te le rembourserai moi-même quand je repasserai.»",
+        "DBY": "Et le lendemain, s'en allant, il tira deux deniers et les donna à l'hôtelier, et lui dit: Prends soin de lui; et ce que tu dépenseras de plus, moi, à mon retour, je te le rendrai.",
+        "KJV": "‹And on the morrow when he departed, he took out two pence, and gave› [them] ‹to the host, and said unto him, Take care of him; and whatsoever thou spendest more, when I come again, I will repay thee.›",
+        "LSG": "Le lendemain, il tira deux deniers, les donna à l'hôte, et dit: Aie soin de lui, et ce que tu dépenseras de plus, je te le rendrai à mon retour.",
+        "MAB": "Et le lendemain en partant il tira [de sa bourse] deux deniers, et les donna à l'hôte, en lui disant : aie soin de lui; et tout ce que tu dépenseras de plus, je te le rendrai à mon retour.",
+        "OST": "Le lendemain, en partant, il tira deux deniers d'argent, et les donna à l'hôte, et lui dit: Aie soin de lui, et tout ce que tu dépenseras de plus, je te le rendrai à mon retour.",
+        "S21": "Le lendemain, [à son départ,] il sortit deux pièces d’argent, les donna à l'aubergiste et dit: ‘Prends soin de lui, et ce que tu dépenseras en plus, je te le rendrai à mon retour.’"
+      }
+    },
+    {
+      "verse": 36,
+      "texts": {
+        "BDS": "Et Jésus ajouta:\r\n—A ton avis, lequel des trois s’est montré le prochain de l’homme qui avait été victime des brigands?",
+        "DBY": "Lequel de ces trois te semble avoir été le prochain de celui qui était tombé entre les mains des voleurs?",
+        "KJV": "‹Which now of these three, thinkest thou, was neighbour unto him that fell among the thieves?›",
+        "LSG": "Lequel de ces trois te semble avoir été le prochain de celui qui était tombé au milieu des brigands?",
+        "MAB": "Lequel donc de ces trois te semble-t-il avoir été le prochain de celui qui était tombé entre les mains des voleurs?",
+        "OST": "Lequel donc de ces trois te semble avoir été le prochain de celui qui est tombé entre les mains des voleurs?",
+        "S21": "Lequel de ces trois te semble avoir été le prochain de celui qui était tombé au milieu des brigands?»"
+      }
+    },
+    {
+      "verse": 37,
+      "texts": {
+        "BDS": "—C’est celui qui a eu pitié de lui, lui répondit l’enseignant de la Loi.\r\n—Eh bien, va, et agis de même, lui dit Jésus.",
+        "DBY": "Et il dit: C'est celui qui a usé de miséricorde envers lui. Et Jésus lui dit: Va, et toi fais de même.",
+        "KJV": "And he said, He that shewed mercy on him. Then said Jesus unto him, ‹Go, and do thou likewise.›",
+        "LSG": "C'est celui qui a exercé la miséricorde envers lui, répondit le docteur de la loi. Et Jésus lui dit: Va, et toi, fais de même.",
+        "MAB": "Il répondit : c'est celui qui a usé de miséricorde envers lui. Jésus donc lui dit : va, et toi aussi fais de même.",
+        "OST": "Le docteur dit: C'est celui qui a exercé la miséricorde envers lui. Jésus donc lui dit: Va, et fais la même chose.",
+        "S21": "«C'est celui qui a agi avec bonté envers lui», répondit le professeur de la loi. Jésus lui dit [donc]: «Va agir de la même manière, toi aussi.»"
+      }
+    },
+    {
+      "verse": 38,
+      "texts": {
+        "BDS": "Pendant qu’ils étaient en route, Jésus entra dans un village. Là, une femme nommée Marthe l’accueillit dans sa maison.",
+        "DBY": "Et il arriva, comme ils étaient en chemin, qu'il entra dans un village. Et une femme nommée Marthe le reçut dans sa maison.",
+        "KJV": "Now it came to pass, as they went, that he entered into a certain village: and a certain woman named Martha received him into her house.",
+        "LSG": "Comme Jésus était en chemin avec ses disciples, il entra dans un village, et une femme, nommée Marthe, le reçut dans sa maison.",
+        "MAB": "Et il arriva comme ils s'en allaient, qu'il entra dans une bourgade; et une femme nommée Marthe le reçut dans sa maison.",
+        "OST": "Comme ils étaient en chemin, il entra dans un bourg, et une femme, nommée Marthe, le reçut dans sa maison.",
+        "S21": "Comme Jésus était en chemin avec ses disciples, il entra dans un village, et une femme du nom de Marthe l’accueillit dans sa maison."
+      }
+    },
+    {
+      "verse": 39,
+      "texts": {
+        "BDS": "Elle avait une sœur appelée Marie. Celle-ci vint s’asseoir aux pieds de Jésus, et elle écoutait ce qu’il disait.",
+        "DBY": "Et elle avait une sœur appelée Marie, qui aussi, s'étant assise aux pieds de Jésus, écoutait sa parole;",
+        "KJV": "And she had a sister called Mary, which also sat at Jesus' feet, and heard his word.",
+        "LSG": "Elle avait une soeur, nommée Marie, qui, s'étant assise aux pieds du Seigneur, écoutait sa parole.",
+        "MAB": "Et elle avait une sœur nommée Marie, qui se tenant assise aux pieds de Jésus, écoutait sa parole.",
+        "OST": "Elle avait une sœur nommée Marie, qui, se tenant assise aux pieds de Jésus, écoutait sa parole.",
+        "S21": "Elle avait une sœur appelée Marie, qui s'assit aux pieds de Jésus et écoutait ce qu’il disait."
+      }
+    },
+    {
+      "verse": 40,
+      "texts": {
+        "BDS": "Pendant ce temps, Marthe était affairée aux multiples travaux que demandait le service. Elle s’approcha de Jésus et lui dit:\r\n—Maître, cela ne te dérange pas de voir que ma sœur me laisse seule à servir? Dis-lui donc de m’aider.",
+        "DBY": "mais Marthe était distraite par beaucoup de service. Et étant venue à Jésus, elle dit: Seigneur, ne te soucies-tu pas de ce que ma sœur me laisse toute seule à servir? Dis-lui donc qu'elle m'aide.",
+        "KJV": "But Martha was cumbered about much serving, and came to him, and said, Lord, dost thou not care that my sister hath left me to serve alone? bid her therefore that she help me.",
+        "LSG": "Marthe, occupée à divers soins domestiques, survint et dit: Seigneur, cela ne te fait-il rien que ma soeur me laisse seule pour servir? Dis-lui donc de m'aider.",
+        "MAB": "Mais Marthe était distraite par divers soins; et étant venue à Jésus, elle dit : Seigneur, ne te soucies-tu point que ma sœur me laisse servir toute seule, dis-lui donc qu'elle m'aide de son côté.",
+        "OST": "Et Marthe était distraite par divers soins du ménage. Étant survenue, elle dit: Seigneur, ne considères-tu point que ma sœur me laisse servir toute seule? Dis-lui donc qu'elle m'aide.",
+        "S21": "Marthe était affairée aux nombreuses tâches du service. Elle survint et dit: «Seigneur, cela ne te fait-il rien que ma sœur me laisse seule pour servir? Dis-lui donc de venir m'aider.»"
+      }
+    },
+    {
+      "verse": 41,
+      "texts": {
+        "BDS": "Mais le Seigneur lui répondit:\r\n—Marthe, Marthe, tu t’inquiètes et tu t’agites pour beaucoup de choses;",
+        "DBY": "Et Jésus, lui répondant, dit: Marthe, Marthe, tu es en souci et tu te tourmentes de beaucoup de choses,",
+        "KJV": "And Jesus answered and said unto her, ‹Martha, Martha, thou art careful and troubled about many things:›",
+        "LSG": "Le Seigneur lui répondit: Marthe, Marthe, tu t'inquiètes et tu t'agites pour beaucoup de choses.",
+        "MAB": "Et Jésus répondant, lui dit : Marthe, Marthe, tu t'inquiètes et tu t'agites pour beaucoup de choses;",
+        "OST": "Et Jésus lui répondit: Marthe, Marthe, tu te mets en peine et tu t'agites pour beaucoup de choses; mais une seule est nécessaire; et Marie a choisi la bonne part, qui ne lui sera point ôtée.",
+        "S21": "Jésus lui répondit: «Marthe, Marthe, tu t'inquiètes et tu t'agites pour beaucoup de choses,"
+      }
+    },
+    {
+      "verse": 42,
+      "texts": {
+        "BDS": "il n’y en a qu’une seule qui soit vraiment nécessaire. Marie a choisi la meilleure part, et personne ne la lui enlèvera.",
+        "DBY": "mais il n'est besoin que d'une seule; et Marie a choisi la bonne part qui ne lui sera pas ôtée.",
+        "KJV": "‹But one thing is needful: and Mary hath chosen that good part, which shall not be taken away from her.›",
+        "LSG": "Une seule chose est nécessaire. Marie a choisi la bonne part, qui ne lui sera point ôtée.",
+        "MAB": "Mais une chose est nécessaire; et Marie a choisi la bonne part, qui ne lui sera point ôtée.",
+        "S21": "mais une seule est nécessaire. Marie a choisi la bonne part, elle ne lui sera pas enlevée.»"
+      }
+    }
+  ]
+}

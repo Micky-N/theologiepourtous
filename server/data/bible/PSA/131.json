@@ -1,0 +1,42 @@
+{
+  "bookCode": "PSA",
+  "chapter": 131,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "Cantique pour la route vers la demeure de l’Eternel. De David.\r\nO Eternel, mon cœur ne s’enfle pas d’orgueil, mes yeux n’ont pas visé trop haut,\r\nje ne me suis pas engagé dans des projets trop grands,\r\ntrop élevés pour moi.",
+        "DBY": "Éternel! mon cœur n'est pas hautain, et mes yeux ne s'élèvent pas; et je n'ai pas marché en des choses trop grandes et trop merveilleuses pour moi.",
+        "KJV": "A Song of degrees of David. LORD, my heart is not haughty, nor mine eyes lofty: neither do I exercise myself in great matters, or in things too high for me.",
+        "LSG": "Cantique des degrés. De David. Eternel! je n'ai ni un coeur qui s'enfle, ni des regards hautains; Je ne m'occupe pas de choses trop grandes et trop relevées pour moi.",
+        "MAB": "Cantique de Mahaloth, de David. Ô Éternel! mon cœur ne s'est point élevé, et mes yeux ne se sont point haussés, et je n'ai point marché en des choses grandes et merveilleuses au-dessus de ma portée.",
+        "OST": "Cantique de Maaloth, de David. Éternel, mon cœur ne s'est point enflé; mes yeux ne se sont point élevés; et je n'ai point recherché des choses trop grandes et trop élevées pour moi.",
+        "S21": "Chant des montées, de David.\r\nEternel, je n’ai pas un cœur orgueilleux ni des regards hautains, et je ne m’engage pas dans des projets trop grands et trop élevés pour moi."
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "Bien au contraire: je suis resté tranquille et dans le calme.\r\nJe me sentais comme un nourrisson rassasié dans les bras de sa mère,\r\ncomme un nourrisson apaisé.",
+        "DBY": "N'ai-je pas soumis et fait taire mon âme, comme un enfant sevré auprès de sa mère? Mon âme est en moi comme l'enfant sevré.",
+        "KJV": "Surely I have behaved and quieted myself, as a child that is weaned of his mother: my soul [is] even as a weaned child.",
+        "LSG": "Loin de là, j'ai l'âme calme et tranquille, Comme un enfant sevré qui est auprès de sa mère; J'ai l'âme comme un enfant sevré.",
+        "MAB": "N'ai-je point soumis et fait taire mon cœur, comme celui qui est sevré fait envers sa mère; mon cœur est en moi, comme celui qui est sevré.",
+        "OST": "N'ai-je pas soumis et fait taire mon âme, comme un enfant sevré fait envers sa mère? Mon âme est en moi comme un enfant sevré.",
+        "S21": "Au contraire, je suis calme et tranquille comme un enfant sevré qui se trouve avec sa mère, je suis comme un enfant sevré."
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "Israël, mets ton espérance en l’Eternel,\r\ndès maintenant et pour toujours.",
+        "DBY": "Israël, attends-toi à l'Éternel, dès maintenant et à toujours!",
+        "KJV": "Let Israel hope in the LORD from henceforth and for ever.",
+        "LSG": "Israël, mets ton espoir en l'Eternel, Dès maintenant et à jamais!",
+        "MAB": "Israël attends-toi à l'Eternel dès maintenant et à toujours.",
+        "OST": "Israël, attends-toi à l'Éternel, dès maintenant et à toujours!",
+        "S21": "Israël, mets ton espoir en l’Eternel dès maintenant et pour toujours!"
+      }
+    }
+  ]
+}

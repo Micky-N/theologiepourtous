@@ -1,9 +1,9 @@
-import type { BibleVersion } from '@prisma/client';
 import z from 'zod';
 import { prisma } from '~~/lib/prisma';
+import { buildVersionPayload, getDefaultBibleVersion, getBibleVersionByOrderIndex } from '~~/server/utils/bibleData';
 
 const preferencesSchema = z.object({
-    defaultVersionId: z.number().nullable(),
+    defaultVersionOrderIndex: z.number().nullable(),
     notesPerVersion: z.boolean(),
     bookmarksPerVersion: z.boolean()
 });
@@ -20,14 +20,11 @@ export default defineEventHandler(async (event) => {
             });
         }
 
-        const { defaultVersionId, notesPerVersion, bookmarksPerVersion } = await readValidatedBody(event, preferencesSchema.parse);
+        const { defaultVersionOrderIndex, notesPerVersion, bookmarksPerVersion } = await readValidatedBody(event, preferencesSchema.parse);
 
-        // Vérifier que la version existe si fournie
-        let version: BibleVersion | null = null;
-        if (defaultVersionId) {
-            version = await prisma.bibleVersion.findUnique({
-                where: { id: defaultVersionId }
-            });
+        let version = null;
+        if (defaultVersionOrderIndex) {
+            version = await getBibleVersionByOrderIndex(defaultVersionOrderIndex);
 
             if (!version) {
                 throw createError({
@@ -36,35 +33,26 @@ export default defineEventHandler(async (event) => {
                 });
             }
         } else {
-            version = await prisma.bibleVersion.findFirst({
-                where: { code: 'LSG' }
-            });
+            version = await getDefaultBibleVersion();
         }
 
         // Mettre à jour ou créer les préférences
         const preferences = await prisma.userPreference.upsert({
             where: { userId: userSession.id },
             update: {
-                defaultVersionId: version?.id,
+                defaultVersionOrderIndex: version?.orderIndex ?? null,
                 notesPerVersion,
                 bookmarksPerVersion
             },
             create: {
                 userId: userSession.id,
-                defaultVersionId: version?.id,
+                defaultVersionOrderIndex: version?.orderIndex ?? null,
                 notesPerVersion,
                 bookmarksPerVersion
-            },
-            include: {
-                defaultVersion: {
-                    select: {
-                        id: true,
-                        code: true,
-                        name: true
-                    }
-                }
             }
         });
+
+        const defaultVersion = version ? buildVersionPayload(version) : null;
 
         await replaceUserSession(event, {
             user: {
@@ -73,10 +61,10 @@ export default defineEventHandler(async (event) => {
                 email: userSession.email,
                 role: userSession.role,
                 preferences: {
-                    defaultVersionId: preferences.defaultVersionId,
+                    defaultVersionOrderIndex: preferences.defaultVersionOrderIndex,
                     notesPerVersion: preferences.notesPerVersion,
                     bookmarksPerVersion: preferences.bookmarksPerVersion,
-                    defaultVersion: preferences.defaultVersion
+                    defaultVersion
                 }
             }
         });
@@ -85,7 +73,8 @@ export default defineEventHandler(async (event) => {
             success: true,
             message: 'Préférences mises à jour avec succès',
             data: {
-                defaultVersion: preferences.defaultVersion,
+                defaultVersionOrderIndex: preferences.defaultVersionOrderIndex,
+                defaultVersion,
                 notesPerVersion: preferences.notesPerVersion,
                 bookmarksPerVersion: preferences.bookmarksPerVersion,
                 createdAt: preferences.createdAt,

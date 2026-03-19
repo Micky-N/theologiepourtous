@@ -1,0 +1,534 @@
+{
+  "bookCode": "ACT",
+  "chapter": 27,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "Quand il fut décidé que nous partirions en bateau pour l’Italie, on confia Paul et quelques autres prisonniers à la garde d’un officier du bataillon impérial, nommé Julius.",
+        "DBY": "Or après qu'il eut été décidé que nous ferions voile pour l'Italie, ils remirent Paul et quelques autres prisonniers à un centurion nommé Jules, de la cohorte Auguste.",
+        "KJV": "And when it was determined that we should sail into Italy, they delivered Paul and certain other prisoners unto [one] named Julius, a centurion of Augustus' band.",
+        "LSG": "Lorsqu'il fut décidé que nous nous embarquerions pour l'Italie, on remit Paul et quelques autres prisonniers à un centenier de la cohorte Auguste, nommé Julius.",
+        "MAB": "Or après qu'il eut été résolu que nous naviguerions en Italie, ils remirent Paul avec quelques autres prisonniers à un nommé Jule, centenier d'une cohorte [de la Légion]appelée Auguste.",
+        "OST": "Après qu'il eut été résolu que nous nous embarquerions pour l'Italie, on confia Paul et quelques autres prisonniers à un centenier nommé Julius, de la cohorte appelée Auguste;",
+        "S21": "Quand notre embarquement pour l’Italie a été décidé, on a confié Paul et quelques autres prisonniers à un dénommé Julius, officier de la cohorte impériale."
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "Nous nous sommes embarqués sur un navire d’Adramytte, qui devait se rendre dans les ports d’Asie mineure, et nous sommes partis. Nous avions avec nous Aristarque de Thessalonique en Macédoine.",
+        "DBY": "Et étant montés sur un navire d'Adramytte devant faire voile pour les lieux qui sont situés le long de la côte d'Asie, nous partîmes, Aristarque, Macédonien de Thessalonique, étant avec nous.",
+        "KJV": "And entering into a ship of Adramyttium, we launched, meaning to sail by the coasts of Asia; [one] Aristarchus, a Macedonian of Thessalonica, being with us.",
+        "LSG": "Nous montâmes sur un navire d'Adramytte, qui devait côtoyer l'Asie, et nous partîmes, ayant avec nous Aristarque, Macédonien de Thessalonique.",
+        "MAB": "Et étant montés dans un navire d'Adramite, nous partîmes pour tirer vers les quartiers d'Asie, et Aristarque Macédonien [de la ville] de Thessalonique, était avec nous.",
+        "OST": "Et étant montés sur un vaisseau d'Adramytte, nous partîmes, devant toucher aux lieux du littoral de l'Asie, ayant avec nous Aristarque, Macédonien de Thessalonique.",
+        "S21": "Nous sommes montés sur un bateau d'Adramytte qui devait faire voile vers les côtes de l'Asie et nous sommes partis. Aristarque, un Macédonien de Thessalonique, était avec nous."
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "Le lendemain, nous avons fait escale à Sidon. Julius, qui témoignait une grande bienveillance à Paul, lui a permis alors de se rendre chez ses amis pour recevoir leur aide.",
+        "DBY": "Et le jour suivant nous arrivâmes à Sidon; et Jules, traitant Paul avec humanité, lui permit d'aller vers ses amis pour jouir de leurs soins.",
+        "KJV": "And the next [day] we touched at Sidon. And Julius courteously entreated Paul, and gave [him] liberty to go unto his friends to refresh himself.",
+        "LSG": "Le jour suivant, nous abordâmes à Sidon; et Julius, qui traitait Paul avec bienveillance, lui permit d'aller chez ses amis et de recevoir leurs soins.",
+        "MAB": "Le jour suivant nous arrivâmes à Sidon; et Jules traitant humainement Paul, lui permit d'aller vers ses amis, afin qu'ils eussent soin de lui.",
+        "OST": "Le jour suivant, nous abordâmes à Sidon; et Julius, traitant Paul avec humanité, lui permit d'aller chez ses amis, pour recevoir leurs soins.",
+        "S21": "Le jour suivant, nous avons abordé à Sidon; Julius, qui traitait Paul avec bienveillance, lui a permis d'aller chez ses amis et de recevoir leurs soins."
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "Une fois repartis de là, nous avons longé la côte de Chypre pour nous protéger des vents contraires.",
+        "DBY": "Et étant partis de là, nous voguâmes à l'abri de Chrypre, parce que les vents étaient contraires;",
+        "KJV": "And when we had launched from thence, we sailed under Cyprus, because the winds were contrary.",
+        "LSG": "Partis de là, nous longeâmes l'île de Chypre, parce que les vents étaient contraires.",
+        "MAB": "Puis étant partis de là, nous tînmes notre route au-dessous de Cypre, parce que les vents étaient contraires.",
+        "OST": "Puis étant partis de là, nous naviguâmes en dessous de l'île de Cypre, parce que les vents étaient contraires.",
+        "S21": "Partis de là, nous avons longé l'île de Chypre, parce que les vents étaient contraires."
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "Puis nous avons traversé la mer qui baigne la Cilicie et la Pamphylie, et nous avons débarqué à Myra, en Lycie.",
+        "DBY": "et après avoir traversé la mer qui baigne la Cilicie et la Pamphylie, nous arrivâmes à Myra en Lycie;",
+        "KJV": "And when we had sailed over the sea of Cilicia and Pamphylia, we came to Myra, [a city] of Lycia.",
+        "LSG": "Après avoir traversé la mer qui baigne la Cilicie et la Pamphylie, nous arrivâmes à Myra en Lycie.",
+        "MAB": "Et après avoir passé la mer qui est vis-à-vis de la Cilicie et de la Pamphylie, nous vînmes à Myra, [ville] de Lycie,",
+        "OST": "Et après avoir traversé la mer de Cilicie et de Pamphylie, nous abordâmes à Myrrha en Lycie,",
+        "S21": "Après avoir traversé la mer qui baigne la Cilicie et la Pamphylie, nous sommes arrivés à Myra en Lycie."
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "Là, l’officier a trouvé un bateau d’Alexandrie qui était sur le point de partir pour l’Italie et il nous a fait monter à son bord.",
+        "DBY": "et là, le centurion ayant trouvé un navire d'Alexandrie qui allait en Italie, nous y fit monter.",
+        "KJV": "And there the centurion found a ship of Alexandria sailing into Italy; and he put us therein.",
+        "LSG": "Et là, le centenier, ayant trouvé un navire d'Alexandrie qui allait en Italie, nous y fit monter.",
+        "MAB": "Où le centenier trouva un navire d'Alexandrie qui allait en Italie, dans lequel il nous fit monter.",
+        "OST": "Et le centenier y ayant trouvé un vaisseau d'Alexandrie, qui allait en Italie, nous y fit monter.",
+        "S21": "Là, ayant trouvé un bateau d'Alexandrie qui allait en Italie, l’officier nous y a fait monter."
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "Pendant plusieurs jours, nous avons navigué lentement et c’est avec beaucoup de peine que nous sommes parvenus à la hauteur de Cnide. Mais le vent ne nous permettait plus d’avancer dans cette direction, et nous sommes passés au sud de la Crète, en doublant le cap Salmoné.",
+        "DBY": "Et naviguant pesamment durant plusieurs jours, et étant arrivés avec peine à la hauteur de Cnide, le vent ne nous permettant pas d'avancer, nous côtoyâmes la Crète, vis-à-vis de Salmone;",
+        "KJV": "And when we had sailed slowly many days, and scarce were come over against Cnidus, the wind not suffering us, we sailed under Crete, over against Salmone;",
+        "LSG": "Pendant plusieurs jours nous naviguâmes lentement, et ce ne fut pas sans difficulté que nous atteignîmes la hauteur de Cnide, où le vent ne nous permit pas d'aborder. Nous passâmes au-dessous de l'île de Crète, du côté de Salmone.",
+        "MAB": "Et comme nous naviguions pesamment durant plusieurs jours, en sorte qu'à grande peine pûmes-nous arriver jusques à la vue de Guide, parce que le vent ne nous poussait point, nous passâmes au-dessous de Crète, vers Salmone.",
+        "OST": "Et comme pendant plusieurs jours nous avancions fort peu, et que nous n'étions arrivés qu'avec peine vis-à-vis de Gnide, parce que le vent ne nous permettait pas d'avancer, nous naviguâmes en dessous de la Crète, vers Salmone;",
+        "S21": "Pendant plusieurs jours nous avons navigué lentement, et ce n'est pas sans difficulté que nous sommes parvenus à la hauteur de Cnide, où le vent ne nous a pas permis d'aborder. Nous avons alors doublé le cap Salmoné pour passer au sud de la Crète."
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "Nous avons eu du mal à longer la côte et nous sommes arrivés à un endroit appelé «Beaux Ports», près de la ville de Lasée.",
+        "DBY": "et l'ayant longée avec peine, nous arrivâmes en un lieu qui est appelé Beaux-Ports, près duquel était la ville de Lasée.",
+        "KJV": "And, hardly passing it, came unto a place which is called The fair havens; nigh whereunto was the city [of] Lasea.",
+        "LSG": "Nous la côtoyâmes avec peine, et nous arrivâmes à un lieu nommé Beaux Ports, près duquel était la ville de Lasée.",
+        "MAB": "Et la côtoyant avec peine, nous vînmes en un lieu qui est appelé Beaux-ports, près duquel était la ville de Lasée.",
+        "OST": "Et la côtoyant avec difficulté, nous vînmes dans un lieu appelé Beaux-Ports, près duquel est la ville de Lasée.",
+        "S21": "Nous avons longé l’île avec peine et sommes arrivés à un endroit appelé Beaux-Ports près de la ville de Lasée."
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "Beaucoup de temps s’était écoulé ainsi, et la navigation devenait dangereuse, car l’époque du grand jeûne d’automne était déjà passée.\r\nAlors Paul leur a donné cet avertissement:",
+        "DBY": "Et comme il s'était écoulé assez de temps, et que la navigation était déjà périlleuse, parce que le jeûne aussi était déjà passé,",
+        "KJV": "Now when much time was spent, and when sailing was now dangerous, because the fast was now already past, Paul admonished [them],",
+        "LSG": "Un temps assez long s'était écoulé, et la navigation devenait dangereuse, car l'époque même du jeûne était déjà passée. C'est pourquoi Paul avertit",
+        "MAB": "Et parce qu'il s'était écoulé beaucoup de temps, et que la navigation était déjà périlleuse, vu que même le jeûne était déjà passé, Paul les exhortait,",
+        "OST": "Comme il s'était écoulé beaucoup de temps, et que la navigation devenait dangereuse, puisque le temps du jeûne était déjà passé, Paul les avertit,",
+        "S21": "Un temps assez long s'était écoulé et la navigation devenait dangereuse, car l'époque même du jeûne était déjà passée. C'est pourquoi Paul a donné cet avertissement:"
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "—Mes amis, je considère que, si nous continuons notre voyage, non seulement la cargaison et le bateau subiront de grands dommages, mais nous-mêmes nous risquerons notre vie.",
+        "DBY": "Paul les avertissait, disant: Hommes, je vois que la navigation sera accompagnée de revers et de beaucoup de dommage, non seulement quant au chargement et au navire, mais même quant à nos vies.",
+        "KJV": "And said unto them, Sirs, I perceive that this voyage will be with hurt and much damage, not only of the lading and ship, but also of our lives.",
+        "LSG": "les autres, en disant: O hommes, je vois que la navigation ne se fera pas sans péril et sans beaucoup de dommage, non seulement pour la cargaison et pour le navire, mais encore pour nos personnes.",
+        "MAB": "En leur disant : hommes, je vois que la navigation sera périlleuse et que nous serons exposés non seulement à la perte de la charge du vaisseau, mais même de nos propres vies.",
+        "OST": "Et dit: Je vois que la navigation sera accompagnée de périls et de grand dommage, non seulement pour le vaisseau et pour sa charge, mais encore pour nos personnes.",
+        "S21": "«Mes amis, je vois que la navigation ne se fera pas sans dommages et qu'il y aura beaucoup de pertes, non seulement pour la cargaison et pour le bateau, mais encore pour nous-mêmes.»"
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "Mais l’officier romain se fiait plus à l’opinion du pilote et du patron du bateau qu’aux paroles de Paul.",
+        "DBY": "Mais le centurion se fiait plus au pilote et au patron du navire qu'à ce que Paul disait.",
+        "KJV": "Nevertheless the centurion believed the master and the owner of the ship, more than those things which were spoken by Paul.",
+        "LSG": "Le centenier écouta le pilote et le patron du navire plutôt que les paroles de Paul.",
+        "MAB": "Mais le centenier croyait plus le Pilote, et le maître du navire, que ce que Paul disait.",
+        "OST": "Mais le centenier ajoutait plus de foi au pilote et au maître du vaisseau, qu'à ce que Paul disait.",
+        "S21": "Mais l’officier se fiait plus au capitaine et au patron du bateau qu'aux paroles de Paul."
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "De plus, comme le port ne convenait pas à un hivernage, la majorité a décidé d’en repartir pour gagner, si possible, Phénix, un port de Crète orienté vers le sud-ouest et le nord-ouest, et d’y passer l’hiver.",
+        "DBY": "Et comme le port n'était pas commode pour hiverner, la plupart furent d'avis de partir de là, afin d'atteindre, s'il était possible, Phénice, port de Crète regardant vers le nord-est et le sud-est, afin d'y passer l'hiver.",
+        "KJV": "And because the haven was not commodious to winter in, the more part advised to depart thence also, if by any means they might attain to Phenice, [and there] to winter; [which is] an haven of Crete, and lieth toward the south west and north west.",
+        "LSG": "Et comme le port n'était pas bon pour hiverner, la plupart furent d'avis de le quitter pour tâcher d'atteindre Phénix, port de Crète qui regarde le sud-ouest et le nord-ouest, afin d'y passer l'hiver.",
+        "MAB": "Et parce que le port n'était pas propre pour y passer l'hiver, la plupart furent d'avis de partir de là, pour [tâcher] d'aborder à Phénix, qui est un port de Crète, situé contre le vent d'Afrique et du couchant septentrional, afin d'y passer l'hiver.",
+        "OST": "Et comme le port n'était pas propre pour hiverner, la plupart furent d'avis de partir de là, pour tâcher de gagner Phœnice, port de Crète, qui regarde le vent d'Afrique et le nord-ouest, afin d'y passer l'hiver.",
+        "S21": "Comme le port n'était pas approprié pour hiverner, la plupart ont été d'avis de le quitter pour essayer d'atteindre Phénix, un port de Crète orienté vers le sud-ouest et le nord-ouest, afin d'y passer l'hiver."
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "Une légère brise du sud s’était levée et ils voyaient déjà leur projet réalisé. Ils ont donc levé l’ancre et longé la côte de Crète au plus près.",
+        "DBY": "Et comme le vent du midi soufflait doucement, pensant qu'ils étaient venus à bout de leur dessein, ils levèrent l'ancre et côtoyèrent de près l'île de Crète.",
+        "KJV": "And when the south wind blew softly, supposing that they had obtained [their] purpose, loosing [thence], they sailed close by Crete.",
+        "LSG": "Un léger vent du sud vint à souffler, et, se croyant maîtres de leur dessein, ils levèrent l'ancre et côtoyèrent de près l'île de Crète.",
+        "MAB": "Et le vent du Midi commençant à souffler doucement, ils crurent venir à bout de leur dessein, et étant partis, ils côtoyèrent Crète de plus près.",
+        "OST": "Et le vent du midi ayant soufflé doucement, ils se crurent maîtres de leur dessein, et levant l'ancre, ils côtoyèrent de près la Crète.",
+        "S21": "Un léger vent du sud s’est mis à souffler et, se croyant maîtres de leur projet, ils ont levé l'ancre et ont longé de près l'île de Crète."
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "Mais peu de temps après, un vent violent comme un typhon — connu sous le nom d’euraquilon — s’est mis à souffler des hauteurs de l’île.",
+        "DBY": "Mais un peu après, un vent orageux, appelé Euroclydon, descendit violemment de l'île.",
+        "KJV": "But not long after there arose against it a tempestuous wind, called Euroclydon.",
+        "LSG": "Mais bientôt un vent impétueux, qu'on appelle Euraquilon, se déchaîna sur l'île.",
+        "MAB": "Mais un peu après un vent orageux [du nord-est], qu'on appelle Euroclydon, se leva du côté de l'île.",
+        "OST": "Mais peu après, un vent impétueux, qu'on appelle Euroclydon, se déchaîna contre le rivage.",
+        "S21": "Mais bientôt un vent violent, qu'on appelle Euraquilon, s’est déchaîné."
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "Le bateau était entraîné au large: il ne pouvait pas résister au vent et nous avons dû nous laisser emporter à la dérive.",
+        "DBY": "Et le navire étant emporté et ne pouvant tenir contre le vent, nous le laissâmes aller à la dérive et fûmes emportés.",
+        "KJV": "And when the ship was caught, and could not bear up into the wind, we let [her] drive.",
+        "LSG": "Le navire fut entraîné, sans pouvoir lutter contre le vent, et nous nous laissâmes aller à la dérive.",
+        "MAB": "Et le navire étant emporté par le vent, de telle sorte qu'il ne pouvait point résister, nous fûmes emportés, ayant abandonné [le navire au vent].",
+        "OST": "Le vaisseau fut entraîné, et ne pouvant résister au vent, nous nous laissâmes emporter;",
+        "S21": "Le bateau a été entraîné sans pouvoir résister au vent et nous nous sommes laissé emporter à la dérive."
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "Nous avons passé ainsi au sud d’une petite île appelée Cauda. Comme elle nous abritait un peu du vent, nous en avons profité pour nous rendre maîtres du canot de sauvetage. Nous sommes parvenus, à grand-peine,",
+        "DBY": "Et courant sous une petite île appelée Clauda, nous nous rendîmes à grand'peine maîtres de la chaloupe;",
+        "KJV": "And running under a certain island which is called Clauda, we had much work to come by the boat:",
+        "LSG": "Nous passâmes au-dessous d'une petite île nommée Clauda, et nous eûmes de la peine à nous rendre maîtres de la chaloupe;",
+        "MAB": "Et ayant passé au-dessous d'une petite île, appelée Clauda, à grande peine pûmes-nous être maîtres de l'esquif;",
+        "OST": "Et quand nous eûmes passé en dessous d'une petite île, appelée Clauda, nous eûmes de la peine à être maîtres de la chaloupe.",
+        "S21": "Alors que nous passions au sud d'une petite île appelée Cauda, nous avons eu beaucoup de peine à nous rendre maîtres du canot de sauvetage."
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "à le hisser à bord. Puis on a eu recours à des moyens de fortune: on a ceinturé tout le bateau de cordages. Comme on avait peur d’échouer sur les bancs de sable de la Syrte, on a jeté l’ancre flottante et l’on continuait ainsi à dériver.",
+        "DBY": "et l'ayant retirée à bord, ils employèrent des mesures de sûreté en liant le navire avec un câble passé dessous; et craignant de tomber sur les bancs de sable de la Syrte, ils descendirent les agrès supérieurs, et étaient ainsi emportés.",
+        "KJV": "Which when they had taken up, they used helps, undergirding the ship; and, fearing lest they should fall into the quicksands, strake sail, and so were driven.",
+        "LSG": "après l'avoir hissée, on se servit des moyens de secours pour ceindre le navire, et, dans la crainte de tomber sur la Syrte, on abaissa les voiles. C'est ainsi qu'on se laissa emporter par le vent.",
+        "MAB": "Mais l'ayant tirée à nous, les [matelots] cherchaient tous les remèdes possibles, en liant le navire par-dessous; et comme ils craignaient de tomber sur des bancs de sable, ils abattirent les voiles, et ils étaient portés de cette manière.",
+        "OST": "L'ayant retirée, les matelots firent usage de secours, en liant le vaisseau avec des câbles; et craignant d'échouer sur la Syrte ils abaissèrent le mât; et ils étaient emportés ainsi.",
+        "S21": "Après l'avoir hissé à bord, ils ont utilisé les cordages de secours pour ceinturer le bateau. Dans la crainte d'échouer sur la Syrte, ils ont abaissé les voiles, et c'est ainsi qu'ils se sont laissé emporter par le vent."
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "Le lendemain, comme la tempête n’arrêtait pas de secouer le bateau avec violence, on l’a délesté d’une partie de sa cargaison.",
+        "DBY": "Et comme nous étions violemment battus par la tempête, le jour suivant ils jetèrent une partie de la charge.",
+        "KJV": "And we being exceedingly tossed with a tempest, the next [day] they lightened the ship;",
+        "LSG": "Comme nous étions violemment battus par la tempête, le lendemain on jeta la cargaison à la mer,",
+        "MAB": "Or parce que nous étions agités d'une grande tempête, le jour suivant ils jetèrent les marchandises dans la mer.",
+        "OST": "Comme nous étions fortement battus de la tempête, le jour suivant ils jetèrent la cargaison dans la mer.",
+        "S21": "Comme nous étions violemment battus par la tempête, le lendemain ils ont jeté la cargaison à la mer,"
+      }
+    },
+    {
+      "verse": 19,
+      "texts": {
+        "BDS": "Le troisième jour, les matelots ont jeté, de leurs propres mains, tous les agrès du bateau à la mer.",
+        "DBY": "Et le troisième jour ils jetèrent de leurs propres mains les agrès du navire.",
+        "KJV": "And the third [day] we cast out with our own hands the tackling of the ship.",
+        "LSG": "et le troisième jour nous y lançâmes de nos propres mains les agrès du navire.",
+        "MAB": "Puis le troisième jour nous jetâmes de nos propres mains les agrès du navire.",
+        "OST": "Et le troisième jour, nous jetâmes de nos propres mains les agrès du vaisseau.",
+        "S21": "et le troisième jour ils ont jeté de leurs propres mains les agrès du bateau."
+      }
+    },
+    {
+      "verse": 20,
+      "texts": {
+        "BDS": "Pendant plusieurs jours, on ne voyait plus ni le soleil ni les étoiles. La tempête continuait de faire rage et nous finissions par perdre tout espoir d’en sortir sains et saufs.",
+        "DBY": "Et comme durant plusieurs jours il ne parut ni soleil ni étoiles, et qu'une grande tempête nous pressait, dès lors toute espérance de pouvoir nous sauver nous fut ôtée.",
+        "KJV": "And when neither sun nor stars in many days appeared, and no small tempest lay on [us], all hope that we should be saved was then taken away.",
+        "LSG": "Le soleil et les étoiles ne parurent pas pendant plusieurs jours, et la tempête était si forte que nous perdîmes enfin toute espérance de nous sauver.",
+        "MAB": "Et comme il ne nous parut durant plusieurs jours ni soleil ni étoiles, et qu'une grande tempête nous agitait violemment, toute espérance de nous pouvoir sauver à l'avenir nous fut ôtée.",
+        "OST": "Et comme pendant plusieurs jours, ni le soleil, ni les étoiles ne parurent, et que nous étions en butte à une forte tempête, nous perdîmes tout espoir de nous sauver.",
+        "S21": "Le soleil et les étoiles ne nous sont pas apparus pendant plusieurs jours et la tempête a été si forte que, finalement, nous avions perdu tout espoir d'être sauvés."
+      }
+    },
+    {
+      "verse": 21,
+      "texts": {
+        "BDS": "Il y avait longtemps qu’on n’avait plus rien mangé.\r\nAlors Paul, debout au milieu d’eux, leur a dit:\r\n—Mes amis, vous auriez mieux fait de m’écouter et de ne pas quitter la Crète. Vous auriez évité tous ces dégâts et toutes ces pertes.",
+        "DBY": "Et après qu'on eut été longtemps sans manger, alors Paul, se tenant au milieu d'eux, dit: O hommes, vous auriez dû m'écouter et ne pas partir de Crète, et éviter ces avaries et ce dommage.",
+        "KJV": "But after long abstinence Paul stood forth in the midst of them, and said, Sirs, ye should have hearkened unto me, and not have loosed from Crete, and to have gained this harm and loss.",
+        "LSG": "On n'avait pas mangé depuis longtemps. Alors Paul, se tenant au milieu d'eux, leur dit: O hommes, il fallait m'écouter et ne pas partir de Crète, afin d'éviter ce péril et ce dommage.",
+        "MAB": "Mais après qu'ils eurent été longtemps sans manger, Paul se tenant alors debout au milieu d'eux, leur dit : ô hommes! certes il fallait me croire, et ne point partir de Crète, afin d'éviter cette tempête et cette perte.",
+        "OST": "Or il y avait longtemps qu'on n'avait mangé. Alors Paul se levant au milieu d'eux, leur dit: O hommes, il fallait donc me croire, et ne pas partir de Crète, pour éviter cette détresse et ce dommage.",
+        "S21": "On n'avait pas mangé depuis longtemps. Alors Paul, debout au milieu d'eux, leur a dit: «Mes amis, il aurait fallu m'écouter et ne pas quitter la Crète, afin d'éviter ces dommages et ces pertes."
+      }
+    },
+    {
+      "verse": 22,
+      "texts": {
+        "BDS": "Mais maintenant, je vous invite à reprendre courage, car aucun de vous n’y perdra la vie; seul le bateau sera perdu.",
+        "DBY": "Et maintenant je vous exhorte à avoir bon courage; car on ne fera la perte de la vie d'aucun de vous, mais seulement du navire.",
+        "KJV": "And now I exhort you to be of good cheer: for there shall be no loss of [any man's] life among you, but of the ship.",
+        "LSG": "Maintenant je vous exhorte à prendre courage; car aucun de vous ne périra, et il n'y aura de perte que celle du navire.",
+        "MAB": "Mais maintenant je vous exhorte d'avoir bon courage : car nul de vous ne perdra la vie, et le navire seul périra.",
+        "OST": "Je vous exhorte maintenant à prendre courage, car aucun de vous ne perdra la vie, le vaisseau seul périra.",
+        "S21": "Mais maintenant, je vous invite à prendre courage, car aucun de vous ne perdra la vie; seul le bateau sera perdu."
+      }
+    },
+    {
+      "verse": 23,
+      "texts": {
+        "BDS": "En effet, cette nuit, un ange du Dieu à qui j’appartiens et que je sers, s’est présenté devant moi",
+        "DBY": "Car un ange du Dieu à qui je suis et que je sers, est venu à moi cette nuit, disant:",
+        "KJV": "For there stood by me this night the angel of God, whose I am, and whom I serve,",
+        "LSG": "Un ange du Dieu à qui j'appartiens et que je sers m'est apparu cette nuit,",
+        "MAB": "Car en cette propre nuit un Ange du Dieu à qui je suis, et lequel je sers, s'est présenté à moi,",
+        "OST": "Car un ange du Dieu, à qui je suis et que je sers, m'est apparu cette nuit, et m'a dit:",
+        "S21": "En effet, un ange du Dieu auquel j'appartiens et que je sers m'est apparu cette nuit"
+      }
+    },
+    {
+      "verse": 24,
+      "texts": {
+        "BDS": "et m’a dit: «Paul, ne crains rien! Il faut que tu comparaisses devant l’empereur, et Dieu t’accorde la vie sauve pour tous tes compagnons de voyage.»",
+        "DBY": "Ne crains point, Paul: il faut que tu comparaisses devant César; et voici, Dieu t'a donné tous ceux qui naviguent avec toi.",
+        "KJV": "Saying, Fear not, Paul; thou must be brought before Caesar: and, lo, God hath given thee all them that sail with thee.",
+        "LSG": "et m'a dit: Paul, ne crains point; il faut que tu comparaisses devant César, et voici, Dieu t'a donné tous ceux qui naviguent avec toi.",
+        "MAB": "[Me] disant : Paul, ne crains point, il faut que tu sois présenté à César; et voici, Dieu t'a donné tous ceux qui naviguent avec toi.",
+        "OST": "Paul, ne crains point; il faut que tu comparaisses devant César; et voici, Dieu t'a donné tous ceux qui naviguent avec toi.",
+        "S21": "et m'a dit: ‘Paul, n’aie pas peur! Il faut que tu comparaisses devant l'empereur, et voici que Dieu t'accorde la vie de tous ceux qui naviguent avec toi.’"
+      }
+    },
+    {
+      "verse": 25,
+      "texts": {
+        "BDS": "Courage donc, mes amis! J’ai confiance en Dieu: tout se passera comme il me l’a dit.",
+        "DBY": "C'est pourquoi, ô hommes, ayez bon courage; car je crois Dieu, et je sais que la chose arrivera comme il m'a été dit.",
+        "KJV": "Wherefore, sirs, be of good cheer: for I believe God, that it shall be even as it was told me.",
+        "LSG": "C'est pourquoi, ô hommes, rassurez-vous, car j'ai cette confiance en Dieu qu'il en sera comme il m'a été dit.",
+        "MAB": "C'est pourquoi, ô hommes! ayez bon courage, car j'ai cette confiance en Dieu que la chose arrivera comme elle m'a été dite.",
+        "OST": "C'est pourquoi, ô hommes, prenez courage; car j'ai cette confiance en Dieu, qu'il en arrivera comme il m'a été dit;",
+        "S21": "C'est pourquoi, mes amis, prenez courage! J'ai confiance en Dieu: tout se passera comme cela m'a été dit."
+      }
+    },
+    {
+      "verse": 26,
+      "texts": {
+        "BDS": "Nous devons échouer quelque part sur une île.",
+        "DBY": "Mais il faut que nous soyons jetés sur quelque île. -",
+        "KJV": "Howbeit we must be cast upon a certain island.",
+        "LSG": "Mais nous devons échouer sur une île.",
+        "MAB": "Mais il faut que nous soyons jetés contre quelque île.",
+        "OST": "Mais il faut que nous échouions sur quelque île.",
+        "S21": "Nous devons toutefois échouer sur une île.»"
+      }
+    },
+    {
+      "verse": 27,
+      "texts": {
+        "BDS": "C’était la quatorzième nuit que nous étions ainsi ballottés sur l’Adriatique quand, vers le milieu de la nuit, les marins ont eu l’impression qu’on approchait d’une terre.",
+        "DBY": "Et quand la quatorzième nuit fut venue, comme nous étions portés çà et là sur la mer Adriatique, les matelots, au milieu de la nuit, pensèrent que quelque terre les approchait;",
+        "KJV": "But when the fourteenth night was come, as we were driven up and down in Adria, about midnight the shipmen deemed that they drew near to some country;",
+        "LSG": "La quatorzième nuit, tandis que nous étions ballottés sur l'Adriatique, les matelots, vers le milieu de la nuit, soupçonnèrent qu'on approchait de quelque terre.",
+        "MAB": "Quand donc la quatorzième nuit fut venue, comme nous étions portés çà et là sur la mer Adriatique, les matelots eurent opinion environ sur le minuit qu'ils approchaient de quelque contrée.",
+        "OST": "Comme la quatorzième nuit était venue, et que nous étions portés çà et là dans l'Adriatique, les matelots, vers minuit, estimèrent qu'ils approchaient de quelque terre.",
+        "S21": "La quatorzième nuit, vers le milieu de la nuit, alors que nous étions ballottés sur l'Adriatique, les marins ont supposé que l'on approchait d'une terre."
+      }
+    },
+    {
+      "verse": 28,
+      "texts": {
+        "BDS": "Ils ont jeté la sonde et ont découvert que le fond était à trente-sept mètres. Un peu plus loin, ils ont recommencé et trouvé le fond à vingt-huit mètres.",
+        "DBY": "et ayant jeté la sonde, ils trouvèrent vingt brasses; puis ayant passé un peu plus loin, et ayant encore jeté la sonde, ils trouvèrent quinze brasses.",
+        "KJV": "And sounded, and found [it] twenty fathoms: and when they had gone a little further, they sounded again, and found [it] fifteen fathoms.",
+        "LSG": "Ayant jeté la sonde, ils trouvèrent vingt brasses; un peu plus loin, ils la jetèrent de nouveau, et trouvèrent quinze brasses.",
+        "MAB": "Et ayant jeté la sonde, ils trouvèrent vingt brasses; puis étant passés un peu plus loin, et ayant encore jeté la sonde, ils trouvèrent quinze brasses.",
+        "OST": "Et ayant jeté la sonde, ils trouvèrent vingt brasses. A quelque distance de là, ayant jeté la sonde de nouveau, ils trouvèrent quinze brasses.",
+        "S21": "Ils ont jeté la sonde et trouvé 36 mètres de profondeur. Un peu plus loin, ils l’ont de nouveau jetée et ont trouvé 27 mètres."
+      }
+    },
+    {
+      "verse": 29,
+      "texts": {
+        "BDS": "Comme ils avaient peur de voir le bateau s’écraser sur quelque récif, ils ont jeté quatre ancres à l’arrière en attendant avec impatience la venue du jour.",
+        "DBY": "Et craignant que nous ne donnassions au milieu des écueils, ils jetèrent quatre ancres de la poupe et souhaitèrent que le jour vînt.",
+        "KJV": "Then fearing lest we should have fallen upon rocks, they cast four anchors out of the stern, and wished for the day.",
+        "LSG": "Dans la crainte de heurter contre des écueils, ils jetèrent quatre ancres de la poupe, et attendirent le jour avec impatience.",
+        "MAB": "Mais craignant de donner contre quelque écueil, ils jetèrent quatre ancres de la poupe, désirant que le jour vînt.",
+        "OST": "Et craignant d'échouer contre des écueils, ils jetèrent quatre ancres de la poupe, et ils désiraient que le jour vînt.",
+        "S21": "Dans la crainte d'échouer sur des récifs, ils ont jeté quatre ancres à l’arrière du bateau et attendu le jour avec impatience."
+      }
+    },
+    {
+      "verse": 30,
+      "texts": {
+        "BDS": "Alors les marins, qui voulaient s’enfuir du bateau, ont commencé à mettre à la mer le canot de sauvetage, sous prétexte d’aller amarrer une ancre à l’avant.",
+        "DBY": "Et comme les matelots cherchaient à s'enfuir du navire, ayant descendu la chaloupe en mer sous prétexte d'aller jeter au loin les ancres de la proue,",
+        "KJV": "And as the shipmen were about to flee out of the ship, when they had let down the boat into the sea, under colour as though they would have cast anchors out of the foreship,",
+        "LSG": "Mais, comme les matelots cherchaient à s'échapper du navire, et mettaient la chaloupe à la mer sous prétexte de jeter les ancres de la proue,",
+        "MAB": "Et comme les matelots cherchaient à s'enfuir du navire, ayant descendu l'esquif en mer, sous prétexte d'aller porter loin les ancres du côté de la proue,",
+        "OST": "Et comme les matelots cherchaient à se sauver du vaisseau, et qu'ils avaient descendu la chaloupe à la mer, sous prétexte de jeter les ancres de la proue,",
+        "S21": "Mais, alors que les marins cherchaient à s'échapper du bateau et mettaient le canot à la mer sous prétexte de jeter les ancres situées à l’avant,"
+      }
+    },
+    {
+      "verse": 31,
+      "texts": {
+        "BDS": "Mais Paul a dit à l’officier romain et aux soldats:\r\n—Attention, si ces hommes ne restent pas à bord, vous ne pourrez plus être sauvés.",
+        "DBY": "dit au centurion et aux soldats: Si ceux-ci ne demeurent pas dans le navire, vous ne pouvez être sauvés.",
+        "KJV": "Paul said to the centurion and to the soldiers, Except these abide in the ship, ye cannot be saved.",
+        "LSG": "Paul dit au centenier et aux soldats: Si ces hommes ne restent pas dans le navire, vous ne pouvez être sauvés.",
+        "MAB": "Paul dit au centenier et aux soldats : si ceux-ci ne demeurent dans le navire, vous ne pouvez point vous sauver.",
+        "OST": "Paul dit au centenier et aux soldats: S'ils ne demeurent dans le vaisseau, vous ne pouvez être sauvés.",
+        "S21": "Paul a dit à l’officier et aux soldats: «Si ces hommes ne restent pas sur le bateau, vous ne pouvez pas être sauvés.»"
+      }
+    },
+    {
+      "verse": 32,
+      "texts": {
+        "BDS": "Alors les soldats ont coupé les cordages retenant le canot et l’ont laissé tomber à la mer.",
+        "DBY": "Alors les soldats coupèrent les cordes de la chaloupe et la laissèrent tomber.",
+        "KJV": "Then the soldiers cut off the ropes of the boat, and let her fall off.",
+        "LSG": "Alors les soldats coupèrent les cordes de la chaloupe, et la laissèrent tomber.",
+        "MAB": "Alors les soldats coupèrent les cordes de l'esquif, et le laissèrent tomber.",
+        "OST": "Alors les soldats coupèrent les cordes de la chaloupe, et la laissèrent tomber.",
+        "S21": "Alors les soldats ont coupé les cordages du canot et l’ont laissé tomber."
+      }
+    },
+    {
+      "verse": 33,
+      "texts": {
+        "BDS": "En attendant que le jour paraisse, Paul a encouragé tout le monde à manger:\r\n—Voilà quatorze jours, leur a-t-il dit, que vous êtes dans l’attente, sans rien prendre à manger!",
+        "DBY": "Et en attendant que le jour vînt, Paul les exhortait tous à prendre de la nourriture, disant: C'est aujourd'hui le quatorzième jour que vous passez à jeun, dans l'attente, sans avoir rien pris;",
+        "KJV": "And while the day was coming on, Paul besought [them] all to take meat, saying, This day is the fourteenth day that ye have tarried and continued fasting, having taken nothing.",
+        "LSG": "Avant que le jour parût, Paul exhorta tout le monde à prendre de la nourriture, disant: C'est aujourd'hui le quatorzième jour que vous êtes dans l'attente et que vous persistez à vous abstenir de manger.",
+        "MAB": "Et jusqu'à ce que le jour vînt, Paul les exhorta tous de prendre quelque nourriture, en leur disant : c'est aujourd'hui le quatorzième jour qu'en attendant, vous êtes demeurés à jeun, et n'avez rien pris;",
+        "OST": "Et en attendant que le jour vînt, Paul les exhorta tous à prendre de la nourriture, en disant: C'est aujourd'hui le quatorzième jour que, en attendant, vous êtes sans manger, et vous n'avez rien pris.",
+        "S21": "Avant que le jour se lève, Paul a encouragé tout le monde à prendre de la nourriture en disant: «C'est aujourd'hui le quatorzième jour que vous êtes dans l'attente sans manger, sans rien prendre."
+      }
+    },
+    {
+      "verse": 34,
+      "texts": {
+        "BDS": "Je vous encourage donc vivement à prendre de la nourriture maintenant. Vous en avez besoin pour vous tirer de là. Encore une fois, croyez-moi: aucun de vous ne perdra un cheveu de sa tête.",
+        "DBY": "c'est pourquoi je vous exhorte à prendre de la nourriture, car cela est nécessaire pour votre conservation; car pas un cheveu de la tête d'aucun de vous ne périra.",
+        "KJV": "Wherefore I pray you to take [some] meat: for this is for your health: for there shall not an hair fall from the head of any of you.",
+        "LSG": "Je vous invite donc à prendre de la nourriture, car cela est nécessaire pour votre salut, et il ne se perdra pas un cheveu de la tête d'aucun de vous.",
+        "MAB": "Je vous exhorte donc à prendre quelque nourriture, vu que cela est nécessaire pour votre conservation : car il ne tombera pas un cheveu de la tête d'aucun de vous.",
+        "OST": "Je vous exhorte donc à prendre de la nourriture, car cela importe à votre conservation; et il ne tombera pas un cheveu de la tête d'aucun de vous.",
+        "S21": "Je vous invite donc à prendre de la nourriture, car cela est nécessaire pour votre salut et aucun de vous ne perdra un cheveu de sa tête.»"
+      }
+    },
+    {
+      "verse": 35,
+      "texts": {
+        "BDS": "Après avoir ainsi parlé, il a pris du pain et il a remercié Dieu devant tous; puis il a rompu le pain et a commencé à manger.",
+        "DBY": "Et quand il eut dit ces choses, ayant pris du pain il rendit grâces à Dieu devant tous, et, l'ayant rompu, il se mit à manger.",
+        "KJV": "And when he had thus spoken, he took bread, and gave thanks to God in presence of them all: and when he had broken [it], he began to eat.",
+        "LSG": "Ayant ainsi parlé, il prit du pain, et, après avoir rendu grâces à Dieu devant tous, il le rompit, et se mit à manger.",
+        "MAB": "Et quand il eut dit ces choses, il prit du pain, et rendit grâces à Dieu en présence de tous, et l'ayant rompu il commença a manger.",
+        "OST": "Ayant dit cela, il prit du pain, et rendit grâces à Dieu en présence de tous; et l'ayant rompu, il se mit à manger.",
+        "S21": "Après avoir dit cela, il a pris du pain, a remercié Dieu devant tous, puis il l’a rompu et s’est mis à manger."
+      }
+    },
+    {
+      "verse": 36,
+      "texts": {
+        "BDS": "Alors tous les autres ont repris courage et se sont aussi mis à manger.",
+        "DBY": "Et ayant tous pris courage, eux aussi prirent de la nourriture.",
+        "KJV": "Then were they all of good cheer, and they also took [some] meat.",
+        "LSG": "Et tous, reprenant courage, mangèrent aussi.",
+        "MAB": "Alors ayant tous pris courage, ils commencèrent aussi à manger.",
+        "OST": "Tous alors, ayant pris courage, mangèrent aussi.",
+        "S21": "Alors tous ont repris courage et ont eux aussi mangé."
+      }
+    },
+    {
+      "verse": 37,
+      "texts": {
+        "BDS": "Nous étions en tout deux cent soixante-seize personnes à bord.",
+        "DBY": "Or nous étions en tout dans le navire deux cent soixante-seize personnes.",
+        "KJV": "And we were in all in the ship two hundred threescore and sixteen souls.",
+        "LSG": "Nous étions, dans le navire, deux cent soixante-seize personnes en tout.",
+        "MAB": "Or nous étions en tout dans le navire deux cent soixante-seize personnes.",
+        "OST": "Or, nous étions en tout, dans le vaisseau, deux cent soixante-seize personnes.",
+        "S21": "Nous étions 276 personnes en tout sur le bateau."
+      }
+    },
+    {
+      "verse": 38,
+      "texts": {
+        "BDS": "Une fois rassasiés, ils ont continué à délester le bateau en jetant le reste des provisions de blé à la mer.",
+        "DBY": "Et quand ils eurent assez mangé, ils allégèrent le navire en jetant le froment dans la mer.",
+        "KJV": "And when they had eaten enough, they lightened the ship, and cast out the wheat into the sea.",
+        "LSG": "Quand ils eurent mangé suffisamment, ils allégèrent le navire en jetant le blé à la mer.",
+        "MAB": "Et quand ils eurent mangé jusqu'à être rassasiés, ils allégèrent le navire, en jetant le blé dans la mer.",
+        "OST": "Et quand ils eurent mangé suffisamment, ils allégèrent le vaisseau en jetant le blé à la mer.",
+        "S21": "Une fois rassasiés, ils ont allégé le bateau en jetant le blé à la mer."
+      }
+    },
+    {
+      "verse": 39,
+      "texts": {
+        "BDS": "Mais lorsque le jour était venu, aucun des membres de l’équipage ne reconnaissait l’endroit. Ils entrevoyaient seulement, au fond d’une baie, une plage de sable. Ils ont alors décidé d’y faire échouer le bateau, si c’était possible.",
+        "DBY": "Et le jour étant venu, ils ne reconnaissaient pas le pays; mais ils apercevaient une baie ayant une plage, sur laquelle ils résolurent, s'ils le pouvaient, de faire échouer le navire.",
+        "KJV": "And when it was day, they knew not the land: but they discovered a certain creek with a shore, into the which they were minded, if it were possible, to thrust in the ship.",
+        "LSG": "Lorsque le jour fut venu, ils ne reconnurent point la terre; mais, ayant aperçu un golfe avec une plage, ils résolurent d'y pousser le navire, s'ils le pouvaient.",
+        "MAB": "Et le jour étant venu ils ne reconnaissaient point le pays; mais ils aperçurent un golfe ayant rivage, et ils résolurent d'y faire échouer le navire, s'il leur était possible.",
+        "OST": "Et le jour étant venu, ils ne reconnaissaient point la terre; mais ayant aperçu un golfe qui avait une plage, ils résolurent d'y faire échouer le vaisseau, s'ils le pouvaient.",
+        "S21": "Au lever du jour, sans reconnaître l’endroit, ils ont aperçu un golfe avec une plage et décidé, si possible, d'y faire échouer le bateau."
+      }
+    },
+    {
+      "verse": 40,
+      "texts": {
+        "BDS": "Les matelots ont coupé les câbles des ancres qu’ils ont abandonnées à la mer; en même temps, ils ont délié les courroies de deux grandes rames servant de gouvernails et hissé au vent la voile de misaine au mât d’artimon. Ils avaient mis le cap sur la plage",
+        "DBY": "Et ils abandonnèrent les ancres à la mer, coupant les câbles, lâchant en même temps les attaches des gouvernails; et ayant mis au vent la voile d'artimon, ils cinglèrent vers la plage.",
+        "KJV": "And when they had taken up the anchors, they committed [themselves] unto the sea, and loosed the rudder bands, and hoised up the mainsail to the wind, and made toward shore.",
+        "LSG": "Ils délièrent les ancres pour les laisser aller dans la mer, et ils relâchèrent en même temps les attaches des gouvernails; puis ils mirent au vent la voile d'artimon, et se dirigèrent vers le rivage.",
+        "MAB": "C'est pourquoi ayant retiré les ancres, ils abandonnèrent le navire à la mer, lâchant en même temps les attaches des gouvernails; et ayant tendu la voile de l'artimon, ils tirèrent vers le rivage.",
+        "OST": "Ayant donc coupé les ancres, ils les laissèrent dans la mer, lâchant en même temps les attaches des gouvernails; et ayant mis au vent la voile de l'artimon, ils se dirigeaient vers le rivage.",
+        "S21": "Ils ont détaché les ancres pour les laisser aller dans la mer et ont en même temps relâché les attaches des gouvernails. Puis ils ont mis au vent la voile d'artimon et se sont dirigés vers le rivage,"
+      }
+    },
+    {
+      "verse": 41,
+      "texts": {
+        "BDS": "quand le bateau a touché un banc de sable battu des deux côtés par la mer et s’y est échoué. L’avant s’est enfoncé dans le sol, s’immobilisant définitivement, tandis que l’arrière commençait à se disloquer sous la violence des vagues.",
+        "DBY": "Et étant tombés en un lieu baigné des deux côtés par la mer, ils échouèrent le navire; et la proue se trouvant engagée demeurait immobile, mais la poupe se rompait par la violence des vagues.",
+        "KJV": "And falling into a place where two seas met, they ran the ship aground; and the forepart stuck fast, and remained unmoveable, but the hinder part was broken with the violence of the waves.",
+        "LSG": "Mais ils rencontrèrent une langue de terre, où ils firent échouer le navire; et la proue, s'étant engagée, resta immobile, tandis que la poupe se brisait par la violence des vagues.",
+        "MAB": "Mais étant tombés en un lieu où deux courants se rencontraient, ils y heurtèrent le navire, et la proue s'y étant enfoncée demeurait ferme, mais la poupe se rompait par la violence des vagues.",
+        "OST": "Et rencontrant un endroit qui avait la mer des deux côtés, le vaisseau y échoua, et la proue engagée avec force, demeurait immobile, mais la poupe se rompait par la violence des vagues.",
+        "S21": "mais ils sont tombés sur un banc de sable où ils ont fait échouer le bateau. L’avant du bateau s'y est enfoncé et a été immobilisé, tandis que l’arrière se brisait sous la violence [des vagues]."
+      }
+    },
+    {
+      "verse": 42,
+      "texts": {
+        "BDS": "Les soldats avaient l’intention de tuer tous les prisonniers, de peur d’en voir s’échapper à la nage.",
+        "DBY": "Et l'avis des soldats fut de tuer les prisonniers, de peur que quelqu'un d'eux ne se sauvât à la nage et ne s'enfuît.",
+        "KJV": "And the soldiers' counsel was to kill the prisoners, lest any of them should swim out, and escape.",
+        "LSG": "Les soldats furent d'avis de tuer les prisonniers, de peur que quelqu'un d'eux ne s'échappât à la nage.",
+        "MAB": "Alors le conseil des soldats fut de tuer les prisonniers, de peur que quelqu'un s'étant sauvé à la nage, ne s'enfuît.",
+        "OST": "Alors les soldats furent d'avis de tuer les prisonniers, de peur que quelqu'un d'eux ne se sauvât à la nage.",
+        "S21": "Les soldats étaient d’avis de tuer les prisonniers de peur que l’un d’eux ne s'échappe à la nage,"
+      }
+    },
+    {
+      "verse": 43,
+      "texts": {
+        "BDS": "Mais l’officier désirait sauver Paul et les a empêché d’exécuter leur projet. Il a donné ordre à ceux qui savaient nager de sauter à l’eau les premiers pour gagner la terre ferme.",
+        "DBY": "Mais le centurion, voulant sauver Paul, les empêcha d'exécuter leur dessein, et il ordonna que ceux qui savaient nager se jetassent dehors les premiers et gagnassent la terre;",
+        "KJV": "But the centurion, willing to save Paul, kept them from [their] purpose; and commanded that they which could swim should cast [themselves] first [into the sea], and get to land:",
+        "LSG": "Mais le centenier, qui voulait sauver Paul, les empêcha d'exécuter ce dessein. Il ordonna à ceux qui savaient nager de se jeter les premiers dans l'eau pour gagner la terre,",
+        "MAB": "Mais le centenier voulant sauver Paul, les empêcha [d'exécuter] ce conseil, et il commanda que ceux qui pourraient nager se jetassent dehors les premiers, et se sauvassent à terre;",
+        "OST": "Mais le centenier, voulant sauver Paul, les détourna de ce dessein, et ordonna à tous ceux qui savaient nager de se jeter à l'eau les premiers, et de se sauver à terre;",
+        "S21": "mais l’officier, qui voulait sauver Paul, les a empêchés de mettre ce projet à exécution. Il a ordonné à ceux qui savaient nager de se jeter les premiers à l'eau pour gagner la terre"
+      }
+    },
+    {
+      "verse": 44,
+      "texts": {
+        "BDS": "Les autres suivraient en s’agrippant à des planches ou à des épaves du bateau. C’est ainsi que tous sont arrivés sains et saufs sur le rivage.",
+        "DBY": "et le reste, les uns sur des planches, et les autres sur quelques débris du navire. Et ainsi il arriva que tous parvinrent à terre sains et saufs.",
+        "KJV": "And the rest, some on boards, and some on [broken pieces] of the ship. And so it came to pass, that they escaped all safe to land.",
+        "LSG": "et aux autres de se mettre sur des planches ou sur des débris du navire. Et ainsi tous parvinrent à terre sains et saufs.",
+        "MAB": "Et le reste, les uns sur des planches, et les autres sur quelques [pièces] du navire; et ainsi il arriva que tous se sauvèrent à terre.",
+        "OST": "Et aux autres de se mettre, les uns sur des planches, les autres sur quelque pièce du vaisseau. Il arriva ainsi que tous se sauvèrent à terre.",
+        "S21": "et aux autres de s’agripper à des planches ou à des débris du bateau. C'est ainsi que tous sont parvenus sains et saufs à terre."
+      }
+    }
+  ]
+}

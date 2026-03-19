@@ -1,0 +1,426 @@
+{
+  "bookCode": "NUM",
+  "chapter": 11,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "Un jour, le peuple adressa d’amères plaintes à l’Eternel. Lorsqu’il les entendit, il se mit en colère et déchaîna la foudre contre eux. Déjà, le feu dévorait une extrémité du camp.",
+        "DBY": "Et il arriva que comme le peuple se plaignait, cela fut mauvais aux oreilles de l'Éternel; et l'Éternel l'entendit, et sa colère s'embrasa, et le feu de l'Éternel brûla parmi eux, et dévora au bout du camp.",
+        "KJV": "And [when] the people complained, it displeased the LORD: and the LORD heard [it]; and his anger was kindled; and the fire of the LORD burnt among them, and consumed [them that were] in the uttermost parts of the camp.",
+        "LSG": "Le peuple murmura et cela déplut aux oreilles de l'Eternel. Lorsque l'Eternel l'entendit, sa colère s'enflamma; le feu de l'Eternel s'alluma parmi eux, et dévora l'extrémité du camp.",
+        "MAB": "Après il arriva que le peuple se plaignit de la fatigue, et l'Eternel l'ouït, et l'Eternel l'ayant ouï, sa colère s'embrasa, et le feu de l'Eternel s'alluma parmi eux, et en consuma [quelques-uns] à l'extrémité du camp.",
+        "OST": "Or le peuple fut comme des gens qui se plaignent d'un malheur, aux oreilles de l'Éternel; et l'Éternel l'entendit, et sa colère s'embrasa, et le feu de l'Éternel s'alluma parmi eux et dévora à l'extrémité du camp.",
+        "S21": "Le peuple murmura, et cela déplut à l'Eternel: lorsqu’il l'entendit, sa colère s'enflamma. Le feu de l'Eternel s'alluma parmi eux et dévora une extrémité du camp."
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "Le peuple implora Moïse à grands cris; celui-ci pria l’Eternel, et le feu s’arrêta.",
+        "DBY": "Et le peuple cria à Moïse, et Moïse pria l'Éternel, et le feu s'éteignit.",
+        "KJV": "And the people cried unto Moses; and when Moses prayed unto the LORD, the fire was quenched.",
+        "LSG": "Le peuple cria à Moïse. Moïse pria l'Eternel, et le feu s'arrêta.",
+        "MAB": "Alors le peuple cria à Moïse, et Moïse pria l'Eternel, et le feu s'éteignit.",
+        "OST": "Alors le peuple cria à Moïse, et Moïse pria l'Éternel, et le feu s'arrêta.",
+        "S21": "Le peuple poussa des cris vers Moïse. Moïse pria l'Eternel et le feu s'arrêta."
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "On appela ce lieu Tabeéra, parce que le feu de l’Eternel s’était embrasé contre le peuple.",
+        "DBY": "Et on appela le nom de ce lieu Tabhéra, parce que le feu de l'Éternel avait brûlé parmi eux.",
+        "KJV": "And he called the name of the place Taberah: because the fire of the LORD burnt among them.",
+        "LSG": "On donna à ce lieu le nom de Tabeéra, parce que le feu de l'Eternel s'était allumé parmi eux.",
+        "MAB": "Et on nomma ce lieu-là Tabhérah, parce que le feu de l'Eternel s'était allumé parmi eux.",
+        "OST": "Et l'on nomma ce lieu Thabéera (incendie), parce que le feu de l'Éternel s'était allumé parmi eux.",
+        "S21": "On appela cet endroit Tabeéra parce que le feu de l'Eternel s'était allumé parmi eux."
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "Il y avait parmi le peuple un ramassis d’individus qui furent saisis de toutes sortes de désirs. Alors les Israélites, à leur tour, recommencèrent à pleurer en disant:\r\n—Ah! Si seulement nous pouvions manger de la viande!",
+        "DBY": "Et le ramassis de peuple qui était au milieu d'eux s'éprit de convoitise, et les fils d'Israël aussi se mirent encore à pleurer, et dirent:",
+        "KJV": "And the mixt multitude that [was] among them fell a lusting: and the children of Israel also wept again, and said, Who shall give us flesh to eat?",
+        "LSG": "Le ramassis de gens qui se trouvaient au milieu d'Israël fut saisi de convoitise; et même les enfants d'Israël recommencèrent à pleurer et dirent: Qui nous donnera de la viande à manger?",
+        "MAB": "Et le peuple ramassé qui était parmi eux, fut épris de convoitise, et même les enfants d'Israël se mirent à pleurer, disant : Qui nous fera manger de la chair?",
+        "OST": "Et le ramassis d'étrangers qui était parmi eux se livra à la convoitise; et même les enfants d'Israël se mirent de nouveau à pleurer, et dirent: Qui nous fera manger de la chair?",
+        "S21": "Le ramassis de gens qui se trouvait au milieu d'Israël éprouva des désirs. Les Israélites eux-mêmes recommencèrent à pleurer et dirent: «Qui nous donnera de la viande à manger?"
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "Nous regrettons le poisson qu’on mangeait pour rien en Egypte! Et les concombres! Et les melons! Et les poireaux! Et les oignons! Et l’ail!",
+        "DBY": "Qui nous fera manger de la chair? Il nous souvient du poisson que nous mangions en Égypte pour rien, des concombres, et des melons, et des poireaux, et des oignons, et de l'ail;",
+        "KJV": "We remember the fish, which we did eat in Egypt freely; the cucumbers, and the melons, and the leeks, and the onions, and the garlick:",
+        "LSG": "Nous nous souvenons des poissons que nous mangions en Egypte, et qui ne nous coûtaient rien, des concombres, des melons, des poireaux, des oignons et des aulx.",
+        "MAB": "Il nous souvient des poissons que nous mangions en Egypte, sans qu'il nous en coûtât rien, des concombres, des melons, des poireaux, des oignons, et des aulx.",
+        "OST": "Il nous souvient des poissons que nous mangions en Égypte, pour rien; des concombres, des melons, des poireaux, des oignons et des aulx.",
+        "S21": "Nous nous souvenons des poissons que nous mangions en Egypte et qui ne nous coûtaient rien, des concombres, des melons, des poireaux, des oignons et des gousses d’ail."
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "A présent, nous dépérissons. Nous sommes privés de tout, rien que de la manne, toujours de la manne!",
+        "DBY": "et maintenant notre âme est asséchée; il n'y a rien, si ce n'est cette manne devant nos yeux.",
+        "KJV": "But now our soul [is] dried away: [there is] nothing at all, beside this manna, [before] our eyes.",
+        "LSG": "Maintenant, notre âme est desséchée: plus rien! Nos yeux ne voient que de la manne.",
+        "MAB": "Et maintenant nos âmes sont asséchées; nos yeux ne voient rien que Manne.",
+        "OST": "Et maintenant, notre âme est desséchée; il n'y a rien du tout! Nos yeux ne voient que la manne.",
+        "S21": "Maintenant, notre gosier est desséché: plus rien! Nos yeux ne voient que de la manne.»"
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "La manne ressemblait à de la graine de coriandre, elle était transparente comme de la résine de bdellium.",
+        "DBY": "-Et la manne était comme la graine de coriandre, et son apparence comme l'apparence du bdellium.",
+        "KJV": "And the manna [was] as coriander seed, and the colour thereof as the colour of bdellium.",
+        "LSG": "La manne ressemblait à de la graine de coriandre, et avait l'apparence du bdellium.",
+        "MAB": "Or la Manne était comme le grain de coriandre, et sa couleur était comme la couleur du Bdellion.",
+        "OST": "Or la manne était comme de la semence de coriandre, et sa couleur, comme celle du bdellion.",
+        "S21": "La manne avait la forme de la graine de coriandre et l'apparence du bdellium."
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "Le peuple se dispersait pour la ramasser; puis on la broyait à la meule ou la pilait au mortier, et on la faisait cuire dans des pots pour en faire des galettes qui avaient un goût de gâteau à l’huile.",
+        "DBY": "Le peuple se dispersait et la ramassait; et ils la broyaient sous la meule ou la pilaient dans le mortier; et ils la cuisaient dans des pots, et en faisaient des gâteaux; et son goût était comme le goût d'un gâteau à l'huile.",
+        "KJV": "[And] the people went about, and gathered [it], and ground [it] in mills, or beat [it] in a mortar, and baked [it] in pans, and made cakes of it: and the taste of it was as the taste of fresh oil.",
+        "LSG": "Le peuple se dispersait pour la ramasser; il la broyait avec des meules, ou la pilait dans un mortier; il la cuisait au pot, et en faisait des gâteaux. Elle avait le goût d'un gâteau à l'huile.",
+        "MAB": "Le peuple se dispersait, et la ramassait, puis il la moulait aux meules, ou la pilait dans un mortier, et la faisait cuire dans un chauderon, et en faisait des gâteaux, dont le goût était semblable à celui d'une liqueur d'huile fraîche.",
+        "OST": "Le peuple se dispersait et la ramassait; puis il la broyait avec les meules, ou la pilait dans un mortier, et la faisait cuire dans un chaudron, et en faisait des gâteaux; et le goût en était semblable à celui d'un gâteau à l'huile.",
+        "S21": "Le peuple se dispersait pour la ramasser. Il la broyait avec des meules ou la pilait dans un mortier; puis il la cuisait au pot ou en faisait des gâteaux. Elle avait le goût d'un gâteau à l'huile."
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "Elle se déposait la nuit sur le camp avec la rosée.",
+        "DBY": "Et quand la rosée descendait la nuit sur le camp, la manne descendait dessus.",
+        "KJV": "And when the dew fell upon the camp in the night, the manna fell upon it.",
+        "LSG": "Quand la rosée descendait la nuit sur le camp, la manne y descendait aussi.",
+        "MAB": "Et quand la rosée était descendue la nuit sur le camp, la Manne descendait dessus.",
+        "OST": "Et quand la rosée tombait la nuit sur le camp, la manne descendait dessus.",
+        "S21": "Quand la rosée descendait la nuit sur le camp, la manne y descendait aussi."
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "Chaque famille se lamentait à l’entrée de sa tente. Moïse entendit le peuple pleurer, et l’Eternel entra dans une grande colère. Moïse en fut très affecté.",
+        "DBY": "Et Moïse entendit le peuple pleurant, selon ses familles, chacun à l'entrée de sa tente; et la colère de l'Éternel s'embrasa extrêmement, et cela fut mauvais aux yeux de Moïse.",
+        "KJV": "Then Moses heard the people weep throughout their families, every man in the door of his tent: and the anger of the LORD was kindled greatly; Moses also was displeased.",
+        "LSG": "Moïse entendit le peuple qui pleurait, chacun dans sa famille et à l'entrée de sa tente. La colère de l'Eternel s'enflamma fortement. Moïse fut attristé,",
+        "MAB": "Moïse donc entendit le peuple pleurant dans leurs familles, chacun à l'entrée de sa tente; [et] l'Eternel en fut extrêmement irrité, et Moïse en fut affligé.",
+        "OST": "Moïse entendit donc le peuple qui pleurait dans ses familles, chacun à l'entrée de sa tente; et la colère de l'Éternel s'embrasa fortement, et Moïse en fut affligé.",
+        "S21": "Moïse entendit le peuple pleurer, chacun dans sa famille, à l'entrée de sa tente. La colère de l'Eternel s'enflamma fortement. Moïse en fut attristé,"
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "Il dit à l’Eternel:\r\n—Pourquoi fais-tu du mal à ton serviteur? Pourquoi ne m’accordes-tu pas ta faveur? Comment peux-tu m’imposer la charge de tout ce peuple?",
+        "DBY": "Et Moïse dit à l'Éternel: Pourquoi as-tu fait ce mal à ton serviteur? et pourquoi n'ai-je pas trouvé grâce à tes yeux, que tu aies mis sur moi le fardeau de tout ce peuple?",
+        "KJV": "And Moses said unto the LORD, Wherefore hast thou afflicted thy servant? and wherefore have I not found favour in thy sight, that thou layest the burden of all this people upon me?",
+        "LSG": "et il dit à l'Eternel: Pourquoi affliges-tu ton serviteur, et pourquoi n'ai-je pas trouvé grâce à tes yeux, que tu aies mis sur moi la charge de tout ce peuple?",
+        "MAB": "Et Moïse dit à l'Eternel : Pourquoi as-tu affligé ton serviteur? et pourquoi n'ai-je pas trouvé grâce devant toi, que tu aies mis sur moi la charge de tout ce peuple?",
+        "OST": "Et Moïse dit à l'Éternel: Pourquoi as-tu affligé ton serviteur; et pourquoi n'ai-je pas trouvé grâce devant tes y eux, que tu aies mis sur moi la charge de tout ce peuple?",
+        "S21": "et il dit à l'Eternel: «Pourquoi fais-tu du mal à ton serviteur et pourquoi n'ai-je pas trouvé grâce à tes yeux, au point que tu m’imposes la charge de tout ce peuple?"
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "Est-ce moi qui ai conçu tout ce peuple? Est-ce moi qui l’ai mis au monde pour que tu me dises: «Portes-le sur ton cœur comme une nourrice porte le bébé qu’elle allaite, et cela jusqu’au pays que tu as promis à ses ancêtres»?",
+        "DBY": "Est-ce moi qui ai conçu tout ce peuple? Est-ce moi qui l'ai enfanté, pour que tu me dises: Porte-le dans ton sein, comme le nourricier porte l'enfant qui tette, jusqu'au pays que tu as promis par serment à ses pères?",
+        "KJV": "Have I conceived all this people? have I begotten them, that thou shouldest say unto me, Carry them in thy bosom, as a nursing father beareth the sucking child, unto the land which thou swarest unto their fathers?",
+        "LSG": "Est-ce moi qui ai conçu ce peuple? est-ce moi qui l'ai enfanté, pour que tu me dises: Porte-le sur ton sein, comme le nourricier porte un enfant, jusqu'au pays que tu as juré à ses pères de lui donner?",
+        "MAB": "Est-ce moi qui ai conçu tout ce peuple; ou l'ai-je engendré, pour me dire : Porte-le dans ton sein, comme le nourricier porte un enfant qui tette, [porte-le] jusqu'au pays pour lequel tu as juré à ses pères?",
+        "OST": "Est-ce moi qui ai conçu tout ce peuple, ou l'ai-je engendré, que tu me dises: Porte-le dans ton sein, comme le nourricier porte l'enfant qui tète, jusqu'au pays que tu as promis par serment à ses pères?",
+        "S21": "Est-ce moi qui suis le père de ce peuple? Est-ce moi qui l'ai mis au monde pour que tu me dises: ‘Porte-le contre toi comme une nourrice porte un enfant’ jusqu'au pays que tu as juré à ses ancêtres de lui donner?"
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "Où trouverai-je de la viande pour la distribuer à tous ces gens qui pleurent autour de moi en disant: «Donne-nous de la viande à manger!»",
+        "DBY": "D'où aurais-je de la chair pour en donner à tout ce peuple? car ils pleurent après moi, disant: Donne-nous de la chair, afin que nous en mangions.",
+        "KJV": "Whence should I have flesh to give unto all this people? for they weep unto me, saying, Give us flesh, that we may eat.",
+        "LSG": "Où prendrai-je de la viande pour donner à tout ce peuple? Car ils pleurent auprès de moi, en disant: Donne-nous de la viande à manger!",
+        "MAB": "D'où aurais-je de la chair pour en donner à tout ce peuple? car il pleure après moi, en disant : Donne-nous de la chair, afin que nous en mangions.",
+        "OST": "D'où aurais-je de la chair pour en donner à tout ce peuple? Car il pleure après moi, en disant: Donne-nous de la chair, que nous mangions.",
+        "S21": "Où prendrai-je de la viande pour en donner à tout ce peuple? En effet, ils viennent pleurer près de moi en disant: ‘Donne-nous de la viande à manger!’"
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "Je ne suis pas capable de porter, à moi seul, la responsabilité de tout ce peuple. C’est trop lourd pour moi!",
+        "DBY": "Je ne puis, moi seul, porter tout ce peuple, car il est trop pesant pour moi.",
+        "KJV": "I am not able to bear all this people alone, because [it is] too heavy for me.",
+        "LSG": "Je ne puis pas, à moi seul, porter tout ce peuple, car il est trop pesant pour moi.",
+        "MAB": "Je ne puis moi seul porter tout ce peuple, car il est trop pesant pour moi.",
+        "OST": "Je ne puis, moi seul, porter tout ce peuple; car il est trop pesant pour moi.",
+        "S21": "Je ne peux pas, à moi tout seul, porter tout ce peuple, car il est trop lourd pour moi."
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "Si tu veux bien m’accorder une faveur, prends ma vie plutôt que de me traiter ainsi, et que je n’aie plus à contempler mon malheur.",
+        "DBY": "Et si tu agis ainsi avec moi, tue-moi donc, je te prie, si j'ai trouvé grâce à tes yeux, et que je ne voie pas mon malheur.",
+        "KJV": "And if thou deal thus with me, kill me, I pray thee, out of hand, if I have found favour in thy sight; and let me not see my wretchedness.",
+        "LSG": "Plutôt que de me traiter ainsi, tue-moi, je te prie, si j'ai trouvé grâce à tes yeux, et que je ne voie pas mon malheur.",
+        "MAB": "Que si tu agis ainsi à mon égard, je te prie, si j'ai trouvé grâce devant toi, de me faire mourir, afin que je ne voie point mon malheur.",
+        "OST": "Que si tu agis ainsi à mon égard, tue-moi, je te prie, si j'ai trouvé grâce à tes yeux; et que je ne voie point mon malheur.",
+        "S21": "Plutôt que de me traiter ainsi, tue-moi donc, si j'ai trouvé grâce à tes yeux, et que je ne voie pas mon malheur.»"
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "L’Eternel répondit à Moïse:\r\n—Rassemble-moi soixante-dix hommes choisis parmi les responsables d’Israël, des hommes que tu sais être des responsables et des chefs du peuple, et amène-les devant la tente de la Rencontre. Qu’ils se tiennent là avec toi.",
+        "DBY": "Et l'Éternel dit à Moïse: Assemble-moi soixante-dix hommes des anciens d'Israël, que tu sais être les anciens du peuple et ses magistrats, et amène-les à la tente d'assignation, et ils se tiendront là avec toi.",
+        "KJV": "And the LORD said unto Moses, Gather unto me seventy men of the elders of Israel, whom thou knowest to be the elders of the people, and officers over them; and bring them unto the tabernacle of the congregation, that they may stand there with thee.",
+        "LSG": "L'Eternel dit à Moïse: Assemble auprès de moi soixante-dix hommes des anciens d'Israël, de ceux que tu connais comme anciens du peuple et ayant autorité sur lui; amène-les à la tente d'assignation, et qu'ils s'y présentent avec toi.",
+        "MAB": "Alors l'Eternel dit à Moïse : Assemble-moi soixante et dix hommes d'entre les Anciens d'Israël, que tu connais être les Anciens du peuple et ses officiers, et les amène au Tabernacle d'assignation, et qu'ils se présentent là avec toi.",
+        "OST": "Alors l'Éternel dit à Moïse: Assemble-moi soixante et dix hommes, d'entre les anciens d'Israël, que tu connais pour être les anciens du peuple, et préposés sur lui; amène-les au tabernacle d'assignation, et qu'ils se tiennent là avec toi.",
+        "S21": "L'Eternel dit à Moïse: «Rassemble auprès de moi 70 hommes pris parmi les anciens d'Israël, des hommes que tu connais comme anciens et responsables du peuple. Amène-les à la tente de la rencontre et qu'ils s'y présentent avec toi."
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "Alors je descendrai m’entretenir là avec toi, je prendrai de l’Esprit qui est sur toi et je le leur donnerai, pour qu’ils portent avec toi la charge de ce peuple, de sorte que tu n’auras plus à la porter seul.",
+        "DBY": "Et je descendrai, et je parlerai là avec toi, et j'ôterai de l'Esprit qui est sur toi, et je le mettrai sur eux, afin qu'ils portent avec toi le fardeau du peuple, et que tu ne le portes pas toi seul.",
+        "KJV": "And I will come down and talk with thee there: and I will take of the spirit which [is] upon thee, and will put [it] upon them; and they shall bear the burden of the people with thee, that thou bear [it] not thyself alone.",
+        "LSG": "Je descendrai, et là je te parlerai; je prendrai de l'esprit qui est sur toi, et je le mettrai sur eux, afin qu'ils portent avec toi la charge du peuple, et que tu ne la portes pas à toi seul.",
+        "MAB": "Puis je descendrai, et je parlerai là avec toi, et je mettrai à part de l'Esprit qui est sur toi, et je le mettrai sur eux; afin qu'ils portent avec toi la charge du peuple, et que tu ne la portes point toi seul.",
+        "OST": "Puis je descendrai, et là je parlerai avec toi; je mettrai à part de l'esprit qui est sur toi, et je le mettrai sur eux, afin qu'ils portent avec toi la charge du peuple, et que tu ne la portes pas toi seul.",
+        "S21": "Je descendrai te parler là. Je prendrai de l'Esprit qui est sur toi et je le mettrai sur eux, afin qu'ils portent la charge du peuple avec toi et que tu ne la portes pas tout seul."
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "Tu diras au peuple: «Purifiez-vous pour demain, et vous mangerez de la viande, puisque vous avez pleuré aux oreilles de l’Eternel en disant: “Ah! Si seulement nous pouvions manger de la viande! Nous étions si bien en Egypte!” Eh bien, l’Eternel va vous donner de la viande à manger.",
+        "DBY": "Et tu diras au peuple: Sanctifiez-vous pour demain, et vous mangerez de la chair; car vous avez pleuré aux oreilles de l'Éternel, disant: Qui nous fera manger de la chair? car nous étions bien en Égypte! Et l'Éternel vous donnera de la chair, et vous en mangerez.",
+        "KJV": "And say thou unto the people, Sanctify yourselves against to morrow, and ye shall eat flesh: for ye have wept in the ears of the LORD, saying, Who shall give us flesh to eat? for [it was] well with us in Egypt: therefore the LORD will give you flesh, and ye shall eat.",
+        "LSG": "Tu diras au peuple: Sanctifiez-vous pour demain, et vous mangerez de la viande, puisque vous avez pleuré aux oreilles de l'Eternel, en disant: Qui nous fera manger de la viande? car nous étions bien en Egypte. L'Eternel vous donnera de la viande, et vous en mangerez.",
+        "MAB": "Et tu diras au peuple : Apprêtez-vous pour demain, et vous mangerez de la chair; parce que vous avez pleuré, l'Eternel l'entendant, et que vous avez dit : Qui nous fera manger de la chair? car nous étions bien en Egypte; ainsi l'Eternel vous donnera de la chair, et vous en mangerez.",
+        "OST": "Et tu diras au peuple: Sanctifiez-vous pour demain et vous mangerez de la chair. Parce que vous avez pleuré aux oreilles de l'Éternel, en disant: Qui nous fera manger de la chair? car nous étions bien en Égypte; l'Éternel vous donnera de la chair et vous en mangerez.",
+        "S21": "Tu diras au peuple: ‘Consacrez-vous pour demain. Vous mangerez de la viande, puisque vous avez pleuré aux oreilles de l'Eternel en disant: Qui nous fera manger de la viande? Nous étions bien en Egypte! L'Eternel vous donnera de la viande et vous en mangerez."
+      }
+    },
+    {
+      "verse": 19,
+      "texts": {
+        "BDS": "Pas un seul jour, ni deux jours, ni cinq jours, ni dix jours, ni même vingt jours,",
+        "DBY": "Vous n'en mangerez pas un jour, ni deux jours, ni cinq jours, ni dix jours, ni vingt jours,",
+        "KJV": "Ye shall not eat one day, nor two days, nor five days, neither ten days, nor twenty days;",
+        "LSG": "Vous en mangerez non pas un jour, ni deux jours, ni cinq jours, ni dix jours, ni vingt jours,",
+        "MAB": "Vous n'en mangerez pas un jour, ni deux jours, ni cinq jours, ni dix jours, ni vingt jours;",
+        "OST": "Vous n'en mangerez pas un jour, ni deux jours, ni cinq jours, ni dix jours, ni vingt jours;",
+        "S21": "Vous en mangerez non pas un jour, ni 2 jours, ni 5 jours, ni 10 jours, ni 20 jours,"
+      }
+    },
+    {
+      "verse": 20,
+      "texts": {
+        "BDS": "mais durant tout un mois vous en mangerez, jusqu’à ce qu’elle vous sorte par les narines et que vous en ayez la nausée. Car vous avez méprisé l’Eternel qui est au milieu de vous, et vous avez pleuré devant lui, en disant: “Pourquoi donc avons-nous quitté l’Egypte?”»",
+        "DBY": "mais jusqu'à un mois entier, jusqu'à ce qu'elle vous sorte par les narines et que vous l'ayez en dégoût; parce que vous avez méprisé l'Éternel qui est au milieu de vous, et que vous avez pleuré devant lui, disant: Pourquoi sommes-nous donc sortis d'Égypte?",
+        "KJV": "[But] even a whole month, until it come out at your nostrils, and it be loathsome unto you: because that ye have despised the LORD which [is] among you, and have wept before him, saying, Why came we forth out of Egypt?",
+        "LSG": "mais un mois entier, jusqu'à ce qu'elle vous sorte par les narines et que vous en ayez du dégoût, parce que vous avez rejeté l'Eternel qui est au milieu de vous, et parce que vous avez pleuré devant lui, en disant: Pourquoi donc sommes-nous sortis d'Egypte?",
+        "MAB": "Mais jusqu'à un mois entier, jusqu'à ce qu'elle vous sorte par les narines, et que vous la rendiez par la bouche, parce que vous avez rejeté l'Eternel, qui est au milieu de vous, et que vous avez pleuré devant lui, en disant : Pourquoi sommes-nous sortis d'Egypte?",
+        "OST": "Mais jusqu'à un mois entier, jusqu'à ce qu'elle vous sorte par les narines, et que vous en soyez dégoûtés, parce que vous avez rejeté l'Éternel qui est au milieu de vous, et que vous avez pleuré devant lui, en disant: Pourquoi donc sommes-nous sortis d'Égypte?",
+        "S21": "mais un mois tout entier, jusqu'à ce qu'elle vous sorte par les narines et que vous en soyez dégoûtés. Cela arrivera parce que vous avez rejeté l'Eternel qui est au milieu de vous et parce que vous avez pleuré devant lui en disant: Pourquoi donc sommes-nous sortis d'Egypte?’»"
+      }
+    },
+    {
+      "verse": 21,
+      "texts": {
+        "BDS": "Moïse répondit:\r\n—Ce peuple dont je fais partie compte six cent mille hommes de pied, et toi tu leur promets, pour un mois entier, de la viande à manger!",
+        "DBY": "Et Moïse dit: Il y a six cent mille hommes de pied dans ce peuple au milieu duquel je suis, et tu as dit: Je leur donnerai de la chair, et ils en mangeront un mois entier.",
+        "KJV": "And Moses said, The people, among whom I [am, are] six hundred thousand footmen; and thou hast said, I will give them flesh, that they may eat a whole month.",
+        "LSG": "Moïse dit: Six cent mille hommes de pied forment le peuple au milieu duquel je suis, et tu dis: Je leur donnerai de la viande, et ils en mangeront un mois entier!",
+        "MAB": "Et Moïse dit : Il y a six cent mille hommes de pied en ce peuple au milieu duquel je suis, et tu as dit : Je leur donnerai de la chair afin qu'ils en mangent un mois entier!",
+        "OST": "Et Moïse dit: Il y a six cent mille hommes de pied dans ce peuple, au milieu duquel je suis; et tu as dit: Je leur donnerai de la chair, et ils en mangeront un mois entier.",
+        "S21": "Moïse dit: «Le peuple au milieu duquel je me trouve compte 600'000 fantassins et toi, tu dis: ‘Je leur donnerai de la viande et ils en mangeront un mois tout entier’!"
+      }
+    },
+    {
+      "verse": 22,
+      "texts": {
+        "BDS": "Abattra-t-on pour eux des brebis et des bœufs pour qu’ils en aient suffisamment? Et même si on leur pêchait tous les poissons de la mer, en auraient-ils assez?",
+        "DBY": "Leur égorgera-t-on du menu et du gros bétail, afin qu'il y en ait assez pour eux? ou assemblera-t-on tous les poissons de la mer pour eux, afin qu'il y en ait assez pour eux?",
+        "KJV": "Shall the flocks and the herds be slain for them, to suffice them? or shall all the fish of the sea be gathered together for them, to suffice them?",
+        "LSG": "Egorgera-t-on pour eux des brebis et des boeufs, en sorte qu'ils en aient assez? ou rassemblera-t-on pour eux tous les poissons de la mer, en sorte qu'ils en aient assez?",
+        "MAB": "Leur tuera-t-on des brebis ou des bœufs, en sorte qu'il y en ait assez pour eux? ou leur assemblera-t-on tous les poissons de la mer, jusqu'à ce qu'il y en ait assez pour eux?",
+        "OST": "Leur égorgera-t-on des brebis et des bœufs, en sorte qu'il y en ait assez pour eux? ou leur assemblera-t-on tous les poissons de la mer, en sorte qu'il y en ait assez pour eux?",
+        "S21": "Devra-t-on égorger pour eux des brebis et des bœufs pour qu'ils en aient assez? Ou faudra-t-il rassembler pour eux tous les poissons de la mer pour qu'ils en aient assez?»"
+      }
+    },
+    {
+      "verse": 23,
+      "texts": {
+        "BDS": "L’Eternel lui répondit:\r\n—Le bras de l’Eternel serait-il trop court? Tu verras sans tarder si, oui ou non, ma parole se réalise devant toi.",
+        "DBY": "Et l'Éternel dit à Moïse: La main de l'Éternel est-elle devenue courte? Tu verras maintenant si ce que j'ai dit t'arrivera ou non.",
+        "KJV": "And the LORD said unto Moses, Is the LORD'S hand waxed short? thou shalt see now whether my word shall come to pass unto thee or not.",
+        "LSG": "L'Eternel répondit à Moïse: La main de l'Eternel serait-elle trop courte? Tu verras maintenant si ce que je t'ai dit arrivera ou non.",
+        "MAB": "Et l'Eternel répondit à Moïse : La main de l'Eternel est-elle raccourcie? tu verras maintenant si ce que je t'ai dit arrivera, ou non.",
+        "OST": "Et l'Éternel répondit à Moïse: La main de l'Éternel est-elle raccourcie? Tu verras maintenant si ce que je t'ai dit, arrivera ou non.",
+        "S21": "L'Eternel répondit à Moïse: «Le bras de l'Eternel serait-il trop court? Tu vas voir maintenant si ce que je t'ai dit arrivera ou non.»"
+      }
+    },
+    {
+      "verse": 24,
+      "texts": {
+        "BDS": "Moïse sortit et rapporta au peuple les paroles de l’Eternel, puis il rassembla soixante-dix hommes choisis parmi leurs responsables, et les plaça autour de la Tente.",
+        "DBY": "Et Moïse sortit, et dit au peuple les paroles de l'Éternel; et il assembla soixante-dix hommes des anciens du peuple, et les fit se tenir tout autour de la tente.",
+        "KJV": "And Moses went out, and told the people the words of the LORD, and gathered the seventy men of the elders of the people, and set them round about the tabernacle.",
+        "LSG": "Moïse sortit, et rapporta au peuple les paroles de l'Eternel. Il assembla soixante-dix hommes des anciens du peuple, et les plaça autour de la tente.",
+        "MAB": "Moïse donc s'en alla, et récita au peuple les paroles de l'Eternel, et il assembla soixante-dix hommes d'entre les Anciens du peuple, et les fit tenir à l'entour du Tabernacle.",
+        "OST": "Moïse sortit donc et rapporta au peuple les paroles de l'Éternel; et il assembla soixante et dix hommes d'entre les anciens du peuple, et les plaça tout autour du tabernacle.",
+        "S21": "Moïse sortit rapporter au peuple les paroles de l'Eternel. Il rassembla 70 hommes pris parmi les anciens du peuple et les plaça autour de la tente."
+      }
+    },
+    {
+      "verse": 25,
+      "texts": {
+        "BDS": "L’Eternel descendit dans la nuée et lui parla; il prit de l’Esprit qui reposait sur lui et le donna à ces soixante-dix responsables. Quand l’Esprit se fut posé sur eux, ils se mirent à parler sous son inspiration, comme des prophètes — c’est l’unique fois que cela leur arriva.",
+        "DBY": "Et l'Éternel descendit dans la nuée, et lui parla; et il ôta de l'Esprit qui était sur lui, et le mit sur les soixante-dix anciens. Et il arriva qu'aussitôt que l'Esprit reposa sur eux, ils prophétisèrent, mais ils ne continuèrent pas.",
+        "KJV": "And the LORD came down in a cloud, and spake unto him, and took of the spirit that [was] upon him, and gave [it] unto the seventy elders: and it came to pass, [that], when the spirit rested upon them, they prophesied, and did not cease.",
+        "LSG": "L'Eternel descendit dans la nuée, et parla à Moïse; il prit de l'esprit qui était sur lui, et le mit sur les soixante-dix anciens. Et dès que l'esprit reposa sur eux, ils prophétisèrent; mais ils ne continuèrent pas.",
+        "MAB": "Alors l'Eternel descendit dans la nuée, et parla à Moïse, et ayant mis à part de l'Esprit qui était sur lui, il le mit sur ces soixante-dix hommes Anciens. Et il arriva qu'aussitôt que l'Esprit reposa sur eux, ils prophétisèrent; mais ils ne continuèrent pas.",
+        "OST": "Alors l'Éternel descendit dans la nuée, et lui parla, et il mit à part de l'esprit qui était sur lui, et le mit sur les soixante et dix anciens. Et dès que l'esprit reposa sur eux, ils prophétisèrent; mais ils ne continuèrent pas.",
+        "S21": "L'Eternel descendit dans la nuée et parla à Moïse. Il prit de l'Esprit qui était sur lui et le mit sur les 70 anciens. Dès que l'Esprit reposa sur eux, ceux-ci prophétisèrent, mais ce ne fut que momentané."
+      }
+    },
+    {
+      "verse": 26,
+      "texts": {
+        "BDS": "L’Esprit vint également demeurer sur deux hommes qui se trouvaient dans le camp, et qui s’appelaient Eldad et Médad. L’Esprit vint reposer sur eux car ils figuraient parmi les inscrits, bien qu’ils ne se soient pas rendus à la Tente, et, dans le camp, ils se mirent à parler sous l’inspiration de Dieu.",
+        "DBY": "Et il était demeuré deux hommes dans le camp; le nom de l'un était Eldad, et le nom du second, Médad; et l'Esprit reposa sur eux; et ils étaient de ceux qui avaient été inscrits, mais ils n'étaient pas sortis vers la tente, et ils prophétisèrent dans le camp.",
+        "KJV": "But there remained two [of the] men in the camp, the name of the one [was] Eldad, and the name of the other Medad: and the spirit rested upon them; and they [were] of them that were written, but went not out unto the tabernacle: and they prophesied in the camp.",
+        "LSG": "Il y eut deux hommes, l'un appelé Eldad, et l'autre Médad, qui étaient restés dans le camp, et sur lesquels l'esprit reposa; car ils étaient parmi les inscrits, quoiqu'ils ne fussent point allés à la tente; et ils prophétisèrent dans le camp.",
+        "MAB": "Or il en était demeuré deux au camp, dont l'un s'appelait Eldad, et l'autre, Médad, sur lesquels l'Esprit reposa, et ils étaient de ceux [dont les noms] avaient été écrits, mais ils n'étaient point allés au Tabernacle et ils prophétisaient dans le camp.",
+        "OST": "Or il en était demeuré deux au camp, dont l'un s'appelait Eldad, et l'autre Médad, et l'esprit reposa sur eux; or ils étaient de ceux qui avaient été inscrits, mais ils n'étaient point sortis vers le tabernacle; et ils prophétisèrent dans le camp.",
+        "S21": "Il y eut deux hommes, l'un appelé Eldad, et l'autre Médad, qui étaient restés dans le camp et sur lesquels l'Esprit reposa. En effet, ils figuraient sur la liste, mais ils ne s’étaient pas rendus à la tente, et ils prophétisèrent dans le camp."
+      }
+    },
+    {
+      "verse": 27,
+      "texts": {
+        "BDS": "Un jeune homme courut avertir Moïse:\r\n—Eldad et Médad sont en train de parler sous l’inspiration de Dieu dans le camp!",
+        "DBY": "Et un jeune homme courut et rapporta cela à Moïse, disant: Eldad et Médad prophétisent dans le camp.",
+        "KJV": "And there ran a young man, and told Moses, and said, Eldad and Medad do prophesy in the camp.",
+        "LSG": "Un jeune garçon courut l'annoncer à Moïse, et dit: Eldad et Médad prophétisent dans le camp.",
+        "MAB": "Alors un garçon courut le rapporter à Moïse, en disant : Eldad et Médad prophétisent dans le camp.",
+        "OST": "Et un jeune garçon courut le rapporter à Moïse, et dit: Eldad et Médad prophétisent dans le camp.",
+        "S21": "Un jeune garçon courut annoncer à Moïse: «Eldad et Médad prophétisent dans le camp.»"
+      }
+    },
+    {
+      "verse": 28,
+      "texts": {
+        "BDS": "Alors Josué, fils de Noun, qui était l’assistant de Moïse depuis sa jeunesse, intervint en disant:\r\n—Moïse, mon maître, empêche-les de faire cela!",
+        "DBY": "Et Josué, fils de Nun, qui servait Moïse, l'un de ses jeunes gens, répondit et dit: Mon seigneur Moïse, empêche-les.",
+        "KJV": "And Joshua the son of Nun, the servant of Moses, [one] of his young men, answered and said, My lord Moses, forbid them.",
+        "LSG": "Et Josué, fils de Nun, serviteur de Moïse depuis sa jeunesse, prit la parole et dit: Moïse, mon seigneur, empêche-les!",
+        "MAB": "Et Josué, fils de Nun, qui servait Moïse, l'un de ses jeunes gens, répondit, en disant : Mon seigneur Moïse, empêche-les.",
+        "OST": "Et Josué, fils de Nun, serviteur de Moïse, dès sa jeunesse, répondit, et dit: Moïse, mon seigneur, empêche-les!",
+        "S21": "Josué, fils de Nun, qui était au service de Moïse depuis sa jeunesse, prit la parole: «Moïse, mon seigneur, empêche-les-en!»"
+      }
+    },
+    {
+      "verse": 29,
+      "texts": {
+        "BDS": "Moïse lui répondit:\r\n—Serais-tu jaloux pour moi? Que l’Eternel, au contraire, accorde son Esprit à tous les membres de son peuple pour qu’ils deviennent tous des prophètes!",
+        "DBY": "Et Moïse lui dit: Es-tu jaloux pour moi? Ah! que plutôt tout le peuple de l'Éternel fût prophète; que l'Éternel mît son Esprit sur eux!",
+        "KJV": "And Moses said unto him, Enviest thou for my sake? would God that all the LORD'S people were prophets, [and] that the LORD would put his spirit upon them!",
+        "LSG": "Moïse lui répondit: Es-tu jaloux pour moi? Puisse tout le peuple de l'Eternel être composé de prophètes; et veuille l'Eternel mettre son esprit sur eux!",
+        "MAB": "Et Moïse lui répondit : Es-tu jaloux pour moi? Plût à Dieu que tout le peuple de l'Eternel fût Prophète, et que l'Eternel mît son Esprit sur eux!",
+        "OST": "Et Moïse lui répondit: Es-tu jaloux pour moi? Plût à Dieu de tout, que le peuple de l'Éternel fût prophète, et que l'Éternel mît son esprit sur eux!",
+        "S21": "Moïse lui répondit: «Es-tu jaloux pour moi? Si seulement tout le peuple de l'Eternel était composé de prophètes! Si seulement l'Eternel mettait son Esprit sur eux!»"
+      }
+    },
+    {
+      "verse": 30,
+      "texts": {
+        "BDS": "Puis Moïse regagna le camp avec les responsables d’Israël.",
+        "DBY": "Et Moïse revint dans le camp, lui et les anciens d'Israël.",
+        "KJV": "And Moses gat him into the camp, he and the elders of Israel.",
+        "LSG": "Et Moïse se retira au camp, lui et les anciens d'Israël.",
+        "MAB": "Puis Moïse se retira au camp, lui et les Anciens d'Israël.",
+        "OST": "Et Moïse se retira au camp, lui et les anciens d'Israël.",
+        "S21": "Et Moïse retourna dans le camp, ainsi que les anciens d'Israël."
+      }
+    },
+    {
+      "verse": 31,
+      "texts": {
+        "BDS": "Un vent envoyé par l’Eternel entraîna des cailles par-dessus la mer et les fit s’abattre autour du camp, sur un rayon d’une journée de marche. Elles recouvraient le sol jusqu’à un mètre de hauteur.",
+        "DBY": "Et il se leva, de par l'Éternel, un vent qui fit venir de la mer des cailles, et les jeta sur le camp, environ une journée de chemin en deçà, et environ une journée de chemin en delà, tout autour du camp, et environ deux coudées sur la surface de la terre.",
+        "KJV": "And there went forth a wind from the LORD, and brought quails from the sea, and let [them] fall by the camp, as it were a day's journey on this side, and as it were a day's journey on the other side, round about the camp, and as it were two cubits [high] upon the face of the earth.",
+        "LSG": "L'Eternel fit souffler de la mer un vent, qui amena des cailles, et les répandit sur le camp, environ une journée de chemin d'un côté et environ une journée de chemin de l'autre côté, autour du camp. Il y en avait près de deux coudées au-dessus de la surface de la terre.",
+        "MAB": "Alors l'Eternel fit lever un vent, qui enleva des cailles de devers la mer, et les répandit sur le camp environ le chemin d'une journée, deçà et delà, tout autour du camp; et il y en avait presque la hauteur de deux coudées sur la terre.",
+        "OST": "Alors l'Éternel fit lever un vent, qui enleva des cailles de la mer, et les répandit sur le camp, environ le chemin d'une journée, d'un côté et de l'autre, tout autour du camp, et presque deux coudées de haut sur la terre.",
+        "S21": "L'Eternel fit souffler de la mer un vent qui amena des cailles et les dispersa sur le camp, sur environ une journée de marche de chaque côté tout autour du camp. Il y en avait près d’un mètre au-dessus du sol."
+      }
+    },
+    {
+      "verse": 32,
+      "texts": {
+        "BDS": "Le peuple fut debout toute cette journée et toute la nuit, et encore tout le lendemain, pour ramasser les cailles. Personne n’en prit moins d’une tonne. Ils les étalèrent tout autour du camp.",
+        "DBY": "Et le peuple se leva tout ce jour-là, et toute la nuit, et tout le jour du lendemain, et amassa des cailles: celui qui en avait amassé le moins, en avait amassé dix khomers; et ils les étendirent pour eux tout autour du camp.",
+        "KJV": "And the people stood up all that day, and all [that] night, and all the next day, and they gathered the quails: he that gathered least gathered ten homers: and they spread [them] all abroad for themselves round about the camp.",
+        "LSG": "Pendant tout ce jour et toute la nuit, et pendant toute la journée du lendemain, le peuple se leva et ramassa les cailles; celui qui en avait ramassé le moins en avait dix homers. Ils les étendirent pour eux autour du camp.",
+        "MAB": "Et le peuple se leva tout ce jour-là, et toute la nuit, et tout le jour suivant, et amassa des cailles; celui qui en avait amassé le moins en avait dix Chomers; et ils les étendirent soigneusement pour eux tout autour du camp.",
+        "OST": "Et le peuple se leva, tout ce jour-là, et toute la nuit, et tout le jour suivant, et ils amassèrent les cailles; celui qui en amassa le moins, en avait dix homers, et ils les étendirent pour eux, tout autour du camp.",
+        "S21": "Tout ce jour-là et toute la nuit, ainsi que toute la journée du lendemain, le peuple se leva et ramassa les cailles. Celui qui en avait ramassé le moins en avait un volume de 2200 litres. Ils les étendirent pour eux autour du camp."
+      }
+    },
+    {
+      "verse": 33,
+      "texts": {
+        "BDS": "Ils avaient encore la viande à la bouche quand la colère de l’Eternel éclata contre le peuple, et il le frappa d’une grave épidémie.",
+        "DBY": "-La chair était encore entre leurs dents, avant qu'elle fût mâchée, que la colère de l'Éternel s'embrasa contre le peuple, et que l'Éternel frappa le peuple d'un fort grand coup.",
+        "KJV": "And while the flesh [was] yet between their teeth, ere it was chewed, the wrath of the LORD was kindled against the people, and the LORD smote the people with a very great plague.",
+        "LSG": "Comme la chair était encore entre leurs dents sans être mâchée, la colère de l'Eternel s'enflamma contre le peuple, et l'Eternel frappa le peuple d'une très grande plaie.",
+        "MAB": "Mais la chair étant encore entre leurs dents, avant qu'elle fût mâchée, la colère de l'Eternel s'embrasa contre le peuple, et il frappa le peuple d'une très-grande plaie.",
+        "OST": "La chair était encore entre leurs dents, elle n'était pas encore mâchée, que la colère de l'Éternel s'embrasa contre le peuple, et l'Éternel frappa le peuple d'une très grande plaie.",
+        "S21": "La viande était encore entre leurs dents et n’avait même pas encore été mâchée lorsque la colère de l'Eternel s'enflamma contre le peuple. L'Eternel frappa le peuple d'un très grand fléau."
+      }
+    },
+    {
+      "verse": 34,
+      "texts": {
+        "BDS": "On appela cet endroit Qibroth-Hattaava (Tombeaux de la convoitise), car c’est là qu’on enterra beaucoup de gens, qui avaient cédé à la convoitise.",
+        "DBY": "Et on appela le nom de ce lieu-là Kibroth-Hattaava, parce qu'on y enterra le peuple qui avait convoité.",
+        "KJV": "And he called the name of that place Kibrothhattaavah: because there they buried the people that lusted.",
+        "LSG": "On donna à ce lieu le nom de Kibroth-Hattaava, parce qu'on y enterra le peuple que la convoitise avait saisi.",
+        "MAB": "Et on nomma ce lieu-là Kibroth-taava; car on ensevelit là le peuple qui avait convoité.",
+        "OST": "Et l'on nomma ce lieu-là Kibroth-Hatthaava (tombeaux de la convoitise); car on ensevelit là le peuple qui avait convoité.",
+        "S21": "On appela cet endroit Kibroth-Hattaava parce qu'on y enterra les membres du peuple qui avaient éprouvé de la convoitise."
+      }
+    },
+    {
+      "verse": 35,
+      "texts": {
+        "BDS": "De Qibroth-Hattaava le peuple se mit en marche pour Hatséroth, où il s’installa.",
+        "DBY": "De Kibroth-Hattaava le peuple partit pour Hatséroth, et ils furent à Hatséroth.",
+        "KJV": "[And] the people journeyed from Kibrothhattaavah unto Hazeroth; and abode at Hazeroth.",
+        "LSG": "De Kibroth-Hattaava le peuple partit pour Hatséroth, et il s'arrêta à Hatséroth.",
+        "MAB": "Et de Kibroth-taava le peuple s'en alla en Hatséroth, et ils s'arrêtèrent en Hatséroth.",
+        "OST": "De Kibroth-Hatthaava le peuple partit pour Hatséroth; et ils s'arrêtèrent à Hatséroth.",
+        "S21": "De Kibroth-Hattaava le peuple partit pour Hatséroth, où il s'arrêta."
+      }
+    }
+  ]
+}

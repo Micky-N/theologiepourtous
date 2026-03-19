@@ -1,14 +1,14 @@
 <script setup lang="ts">
-import type { BibleBook, BibleVerse, BibleVersion } from '@prisma/client';
+import type { BibleBookData, BibleVerseData, BibleVersionData } from '~/types';
 
 // Types locaux simplifiés
 interface SimpleComparison {
-    version: BibleVersion;
-    verses: BibleVerse[];
+    version: BibleVersionData;
+    verses: BibleVerseData[];
 }
 
 interface ActiveComparison {
-    book: BibleBook;
+    book: BibleBookData;
     chapter: number;
     verseRange: {
         start: number;
@@ -38,7 +38,7 @@ try {
 }
 
 // Variables temporaires pour remplacer les composables
-const availableVersions = ref<BibleVersion[]>([]);
+const availableVersions = ref<BibleVersionData[]>([]);
 const loadingComparison = ref(false);// Configuration de la page
 
 // État de la page
@@ -53,7 +53,7 @@ const endVerse = ref<number | null>(null);
 const selectedVersions = ref<number[]>([]);
 
 // Données
-const booksOptions = ref<BibleBook[]>([]);
+const booksOptions = ref<BibleBookData[]>([]);
 const activeComparison = ref<ActiveComparison | null>(null);
 
 // Computed
@@ -92,8 +92,8 @@ const initCompare = () => {
             : ['LSG', 'S21'];
         const versions = (route.query.versions as string | undefined)?.split(',') || defaultVersionCodes;
         const defaultVersions = availableVersions.value
-            .filter((v: BibleVersion) => versions.includes(v.code))
-            .map((v: BibleVersion) => v.id);
+            .filter((v: BibleVersionData) => versions.includes(v.code))
+            .map((v: BibleVersionData) => v.id);
 
         if (defaultVersions.length >= 2) {
             selectedVersions.value = defaultVersions;
@@ -117,7 +117,7 @@ const loadBooks = async () => {
     try {
         loadingBooks.value = true;
         const response = await $fetch('/api/bible/books');
-        booksOptions.value = (response.data?.all) as unknown as BibleBook[];
+        booksOptions.value = (response.data?.all) as unknown as BibleBookData[];
     } catch (err) {
         error.value = 'Erreur lors du chargement des livres';
         console.error(err);
@@ -181,14 +181,14 @@ const closeComparison = async () => {
     selectedBookCode.value = undefined;
     selectedChapter.value = null;
     selectedVersions.value = availableVersions.value
-        .filter((v: BibleVersion) => ['LSG', 'S21'].includes(v.code))
-        .map((v: BibleVersion) => v.id);
+        .filter((v: BibleVersionData) => ['LSG', 'S21'].includes(v.code))
+        .map((v: BibleVersionData) => v.id);
     startVerse.value = 1;
     endVerse.value = null;
     error.value = '';
 };
 
-const handleAddVersion = async (version: BibleVersion) => {
+const handleAddVersion = async (version: BibleVersionData) => {
     if (!activeComparison.value) return;
 
     // Ajouter la version à la comparaison existante avec placeholder
@@ -220,7 +220,7 @@ const handleRemoveVersion = (versionId: number) => {
         .filter(id => id !== versionId);
 };
 
-const handleAddBookmark = (verse: BibleVerse) => {
+const handleAddBookmark = (verse: BibleVerseData) => {
     const toast = useToast();
     (async () => {
         try {
@@ -247,13 +247,13 @@ const handleAddBookmark = (verse: BibleVerse) => {
     })();
 };
 
-const handleAddNote = (verse: BibleVerse) => {
+const handleAddNote = (verse: BibleVerseData) => {
     selectedVerseForNote.value = verse;
     noteDrawerOpen.value = true;
 };
 // Intégration NoteCreateDrawer
 const noteDrawerOpen = ref(false);
-const selectedVerseForNote = ref<BibleVerse | null>(null);
+const selectedVerseForNote = ref<BibleVerseData | null>(null);
 
 const refreshComparison = async () => {
     if (!activeComparison.value) return;

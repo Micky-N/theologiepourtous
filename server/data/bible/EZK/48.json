@@ -1,0 +1,426 @@
+{
+  "bookCode": "EZK",
+  "chapter": 48,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "—Voici les noms des tribus: Dan recevra une part qui ira de l’extrémité septentrionale le long de la route de Hetlôn à Lebo-Hamath, jusqu’à Hatsar-Enôn, le territoire de Damas étant au nord, près de Hamath, donc de la limite orientale à la limite occidentale.",
+        "DBY": "Et ce sont ici les noms des tribus. Depuis l'extrémité nord, le long du chemin de Hethlon quand on va à Hamath et Hatsar-Énan, la frontière de Damas, au nord près de Hamath, -le côté de l'orient, et l'occident, seront à lui, -une part pour Dan.",
+        "KJV": "Now these [are] the names of the tribes. From the north end to the coast of the way of Hethlon, as one goeth to Hamath, Hazarenan, the border of Damascus northward, to the coast of Hamath; for these are his sides east [and] west; a [portion for] Dan.",
+        "LSG": "Voici les noms des tribus. Depuis l'extrémité septentrionale, le long du chemin de Hethlon à Hamath, Hatsar-Enon, la frontière de Damas au nord vers Hamath, de l'orient à l'occident: Dan, une tribu.",
+        "MAB": "Ce sont ici les noms des Tribus; depuis le bout du côté qui regarde vers le Septentrion, le long de la contrée du chemin de Hethlon, du quartier par lequel on entre en Hamath, [jusques à] Hatsar-henan, qui est la frontière de Damas, du côté qui regarde vers le Septentrion, le long de la contrée de Hamath, tellement que ce bout ait le canton de l'Orient et celui de l'Occident, il y aura une [portion pour] Dan.",
+        "OST": "Voici les noms des tribus. Depuis l'extrémité septentrionale, le long du chemin de Héthlon, en continuant vers Hamath, Hatsar-Énon, la frontière de Damas au Nord vers Hamath, de l'Est à l'Ouest, ce sera la part de Dan.",
+        "S21": "»Voici la liste des tribus. Sur le territoire qui part de l'extrémité nord, longe le chemin de Hethlon en direction de Hamath et Hatsar-Enon, et laisse la frontière de Damas au nord vers Hamath, d’est en ouest, il y aura une tribu: celle de Dan."
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "Sur la frontière de Dan, de la limite orientale à la limite occidentale, Aser aura une part.",
+        "DBY": "Et sur la frontière de Dan, depuis le côté de l'orient jusqu'au côté de l'occident: une part pour Aser.",
+        "KJV": "And by the border of Dan, from the east side unto the west side, a [portion for] Asher.",
+        "LSG": "Sur la limite de Dan, de l'orient à l'occident: Aser, une tribu.",
+        "MAB": "Et tout joignant les confins de Dan, depuis le canton de l'Orient, jusqu'au canton qui regarde vers l'Occident, il y aura une [autre portion pour] Aser.",
+        "OST": "Sur la frontière de Dan, de l'Est à l'Ouest, la part d'Asser.",
+        "S21": "Le long du territoire de Dan, d’est en ouest, il y aura une tribu: celle d’Aser."
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "Sur la frontière d’Aser, de la limite orientale à la limite occidentale, Nephtali aura une part.",
+        "DBY": "Et sur la frontière d'Aser, depuis le côté de l'orient jusqu'au côté de l'occident: une part pour Nephthali.",
+        "KJV": "And by the border of Asher, from the east side even unto the west side, a [portion for] Naphtali.",
+        "LSG": "Sur la limite d'Aser, de l'orient à l'occident: Nephthali, une tribu.",
+        "MAB": "Et tout joignant les confins d'Aser, encore depuis le canton qui regarde vers l'Orient, jusqu'au canton qui regarde vers l'Occident, il y aura une [autre portion pour] Nephthali.",
+        "OST": "Sur la frontière d'Asser, de l'Est à l'Ouest, la part de Nephthali.",
+        "S21": "Le long du territoire d'Aser, d’est en ouest, il y aura une tribu: celle de Nephthali."
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "Sur la frontière de Nephtali, de la limite orientale à la limite occidentale, Manassé aura une part.",
+        "DBY": "Et sur la frontière de Nephthali, depuis le côté de l'orient jusqu'au côté de l'occident: une part pour Manassé.",
+        "KJV": "And by the border of Naphtali, from the east side unto the west side, a [portion for] Manasseh.",
+        "LSG": "Sur la limite de Nephthali, de l'orient à l'occident: Manassé, une tribu.",
+        "MAB": "Et tout joignant les confins de Nephthali, depuis le canton qui regarde vers l'Orient, jusqu'au canton qui regarde vers l'Occident, il y aura une [autre portion pour] Manassé.",
+        "OST": "Sur la frontière de Nephthali, de l'Est à l'Ouest, la part de Manassé;",
+        "S21": "Le long du territoire de Nephthali, d’est en ouest, il y aura une tribu: celle de Manassé."
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "Sur la frontière de Manassé, de la limite orientale à la limite occidentale, Ephraïm aura une part.",
+        "DBY": "Et sur la frontière de Manassé, depuis le côté de l'orient jusqu'au côté de l'occident: une part pour Éphraïm.",
+        "KJV": "And by the border of Manasseh, from the east side unto the west side, a [portion for] Ephraim.",
+        "LSG": "Sur la limite de Manassé, de l'orient à l'occident: Ephraïm, une tribu.",
+        "MAB": "Et tout joignant les confins de Manassé, depuis le canton qui regarde vers l'Occident, jusqu'au canton qui regarde vers l'Orient, il y aura une [autre portion pour] Ephraïm.",
+        "OST": "Sur la frontière de Manassé, de l'Est à l'Ouest, la part d'Éphraïm.",
+        "S21": "Le long du territoire de Manassé, d’est en ouest, il y aura une tribu: celle d’Ephraïm."
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "Sur la frontière d’Ephraïm, de la limite orientale à la limite occidentale, Ruben aura une part.",
+        "DBY": "Et sur la frontière d'Éphraïm, depuis le côté de l'orient jusqu'au côté de l'occident: une part pour Ruben.",
+        "KJV": "And by the border of Ephraim, from the east side even unto the west side, a [portion for] Reuben.",
+        "LSG": "Sur la limite d'Ephraïm, de l'orient à l'occident: Ruben, une tribu.",
+        "MAB": "Et tout joignant les confins d'Ephraïm, encore depuis le canton de l'Orient, jusqu'au canton qui regarde vers l'Occident, il y aura une [autre portion pour] Ruben.",
+        "OST": "Sur la frontière d'Éphraïm, de l'Est à l'Ouest, la part de Ruben.",
+        "S21": "Le long du territoire d'Ephraïm, d’est en ouest, il y aura une tribu: celle de Ruben."
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "Sur la frontière de Ruben, de la limite orientale à la limite occidentale, Juda aura une part.",
+        "DBY": "Et sur la frontière de Ruben, depuis le côté de l'orient jusqu'au côté de l'occident: une part pour Juda.",
+        "KJV": "And by the border of Reuben, from the east side unto the west side, a [portion for] Judah.",
+        "LSG": "Sur la limite de Ruben, de l'orient à l'occident: Juda, une tribu.",
+        "MAB": "Et tout joignant les confins de Ruben, depuis le canton de l'Orient, jusqu'au canton qui regarde vers l'Occident, il y aura une [autre portion pour] Juda.",
+        "OST": "Sur la frontière de Ruben, de l'Est à l'Ouest, la part de Juda;",
+        "S21": "Le long du territoire de Ruben, d’est en ouest, il y aura une tribu: celle de Juda."
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "—Sur la frontière de Juda, de la limite orientale à la limite occidentale, il y aura la part que vous offrirez à l’Eternel: elle aura vingt-cinq mille coudées de large et la même longueur que les autres parts, d’est en ouest. Le sanctuaire sera en son centre.",
+        "DBY": "Et sur la frontière de Juda, depuis le côté de l'orient jusqu'au côté de l'occident, sera l'offrande élevée que vous offrirez: vingt-cinq mille coudées en largeur, et la longueur comme l'une des autres parts, depuis le côté de l'orient jusqu'au côté de l'occident; et le sanctuaire sera au milieu.",
+        "KJV": "And by the border of Judah, from the east side unto the west side, shall be the offering which ye shall offer of five and twenty thousand [reeds in] breadth, and [in] length as one of the [other] parts, from the east side unto the west side: and the sanctuary shall be in the midst of it.",
+        "LSG": "Sur la frontière de Juda, de l'orient à l'occident, sera la portion que vous prélèverez, large de vingt-cinq mille cannes et longue comme l'une des parts de l'orient à l'occident; et le sanctuaire sera au milieu.",
+        "MAB": "Et tout le long des confins de Juda, depuis le canton de l'Orient, jusqu'au canton qui regarde vers l'Occident, il y aura une portion que vous lèverez sur toute la masse [du pays comme] en offrande élevée, laquelle aura vingt-cinq mille [cannes de] largeur; et [de] longueur autant que l'une des autres portions, depuis le [canton] qui regarde vers l'Orient, jusqu'au canton qui regarde vers l'Occident; tellement que le Sanctuaire sera au milieu.",
+        "OST": "Sur la frontière de Juda, de l'Est à l'Ouest, sera la part que vous prélèverez, vingt-cinq mille cannes de large et longue comme l'une des parts de l'Est à l'Ouest; le sanctuaire sera au milieu.",
+        "S21": "»Le long du territoire de Juda, d’est en ouest, se trouvera la partie que vous prélèverez à titre de contribution, large de 12 kilomètres et demi, aussi longue qu'une des parts qui va d’est en ouest, et qui aura le sanctuaire au centre."
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "La part que vous prélèverez pour l’Eternel aura vingt-cinq mille coudées de long sur dix mille de large.",
+        "DBY": "élevée que vous offrirez à l'Éternel sera de vingt-cinq mille en longueur, et de dix mille en largeur.",
+        "KJV": "The oblation that ye shall offer unto the LORD [shall be] of five and twenty thousand in length, and of ten thousand in breadth.",
+        "LSG": "La portion que vous prélèverez pour l'Eternel aura vingt-cinq mille cannes de longueur et dix mille de largeur.",
+        "MAB": "La portion que vous lèverez pour l'Eternel, la lui présentant comme en offrande élevée, aura vingt-cinq mille [cannes de] longueur, et dix mille de largeur.",
+        "OST": "La portion que vous prélèverez pour l'Éternel, aura vingt-cinq mille cannes de long, et dix mille de large.",
+        "S21": "La partie que vous prélèverez pour l'Eternel aura 12 kilomètres et demi de long et 5 de large."
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "Cette part appartiendra aux prêtres. Elle aura vingt-cinq mille coudées au nord, dix mille en largeur à l’ouest, dix mille en largeur à l’est et vingt-cinq mille en longueur au sud. Le sanctuaire de l’Eternel s’élèvera au milieu de ce territoire.",
+        "DBY": "Et cette portion sera pour les sacrificateurs, la sainte offrande: au nord, vingt-cinq mille; et à l'occident, la largeur, dix mille; et à l'orient, la largeur, dix mille; et au midi, la longueur, vingt-cinq mille; et le sanctuaire de l'Éternel sera au milieu.",
+        "KJV": "And for them, [even] for the priests, shall be [this] holy oblation; toward the north five and twenty thousand [in length], and toward the west ten thousand in breadth, and toward the east ten thousand in breadth, and toward the south five and twenty thousand in length: and the sanctuary of the LORD shall be in the midst thereof.",
+        "LSG": "C'est aux sacrificateurs qu'appartiendra cette portion sainte: vingt-cinq mille cannes au septentrion, dix mille en largeur à l'occident, dix mille en largeur à l'orient, et vingt-cinq mille en longueur au midi; et le sanctuaire de l'Eternel sera au milieu.",
+        "MAB": "Et cette portion sainte sera pour ceux-ci, [savoir] pour les Sacrificateurs, [et] elle aura le long du côté qui regarde vers le Septentrion vingt-cinq mille [cannes de longueur], et le long du côté qui regarde vers l'Occident dix mille de largeur; et pareillement le long du côté qui regarde vers l'Orient dix mille, puis le long du côté qui regarde vers le Midi vingt-cinq mille [cannes de longueur]; et le Sanctuaire de l'Eternel sera au milieu.",
+        "OST": "C'est pour les sacrificateurs que sera cette portion sainte; vingt-cinq mille cannes au Nord, dix mille en largeur à l'Ouest, et dix mille en largeur à l'Est, et vers le Midi vingt-cinq mille en longueur; le sanctuaire de l'Éternel sera au milieu.",
+        "S21": "C'est aux prêtres qu'appartiendra cette partie sainte de 12 kilomètres et demi au nord, 5 de large à l’ouest, 5 de large à l’est et 12 et demi de long au sud, et le sanctuaire de l'Eternel sera au centre."
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "Il appartiendra aux prêtres consacrés, descendants de Tsadok, qui ont assuré fidèlement mon service et qui, contrairement aux lévites, n’ont pas dévié lorsque les Israélites se sont égarés.",
+        "DBY": "L'offrande sera pour les sacrificateurs qui sont sanctifiés d'entre les fils de Tsadok, qui ont fait l'acquit de la charge que je leur ai confiée, qui ne se sont pas égarés dans les égarements des fils d'Israël, comme les Lévites se sont égarés.",
+        "KJV": "[It shall be] for the priests that are sanctified of the sons of Zadok; which have kept my charge, which went not astray when the children of Israel went astray, as the Levites went astray.",
+        "LSG": "Elle appartiendra aux sacrificateurs consacrés, aux fils de Tsadok, qui ont fait le service de mon sanctuaire, qui ne se sont point égarés, lorsque les enfants d'Israël s'égaraient, comme s'égaraient les Lévites.",
+        "MAB": "Elle sera pour les Sacrificateurs, et quiconque aura été sanctifié d'entre les fils de Tsadok, qui ont fait ce que j'avais ordonné qu'on fît, et qui ne se sont point égarés quand les enfants d'Israël se sont égarés, comme se sont égarés les [autres]Lévites;",
+        "OST": "Elle sera pour les sacrificateurs consacrés, pour les fils de Tsadok, qui ont fait le service de mon sanctuaire sans s'égarer, lorsque s'égarèrent les enfants d'Israël, comme se sont égarés les Lévites.",
+        "S21": "Elle appartiendra aux prêtres consacrés, aux descendants de Tsadok qui ont persévéré à mon service, qui ne se sont pas égarés comme l’ont fait les Lévites lorsque les Israélites s'égaraient."
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "Dans la zone prélevée sur le pays, ils auront donc un domaine réservé qui sera un lieu très saint, attenant au territoire des lévites.",
+        "DBY": "Et, sur l'offrande du pays, ils auront une offrande élevée, une chose très-sainte, sur la frontière des Lévites.",
+        "KJV": "And [this] oblation of the land that is offered shall be unto them a thing most holy by the border of the Levites.",
+        "LSG": "Elle leur appartiendra comme portion très sainte, prélevée sur la portion du pays qui aura été prélevée, à côté de la limite des Lévites.",
+        "MAB": "Ceux-là auront une portion ainsi levée sur l'autre qui aura été auparavant levée sur toute la masse du pays, comme étant une chose très-sainte, et elle sera vers les confins [de la portion] des Lévites.",
+        "OST": "Ils auront une portion prélevée sur la portion prélevée du pays, une portion très sainte, à côté de la frontière des Lévites;",
+        "S21": "Elle sera pour eux une partie très sainte, prise sur la partie du pays prélevée à titre de contribution, à côté du territoire des Lévites."
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "Ces derniers occuperont, le long du territoire des prêtres, un territoire de vingt-cinq mille coudées de longueur sur dix mille de largeur: chaque longueur sera de vingt-cinq mille coudées et chaque largeur de dix mille coudées.",
+        "DBY": "Et le long de la frontière des sacrificateurs, les Lévites auront une longueur de vingt-cinq mille, et une largeur de dix mille; toute la longueur sera de vingt-cinq mille, et la largeur, de dix mille.",
+        "KJV": "And over against the border of the priests the Levites [shall have] five and twenty thousand in length, and ten thousand in breadth: all the length [shall be] five and twenty thousand, and the breadth ten thousand.",
+        "LSG": "Les Lévites auront, parallèlement à la limite des sacrificateurs, vingt-cinq mille cannes en longueur et dix mille en largeur, vingt-cinq mille pour toute la longueur et dix mille pour la largeur.",
+        "MAB": "Car [la portion] des Lévites [sera] tout joignant les confins de ce qui appartiendra aux Sacrificateurs, [et elle aura] vingt-cinq mille [cannes] de longueur, et dix mille de largeur; tellement que toute la longueur sera de vingt-cinq mille [cannes], et la largeur de dix mille.",
+        "OST": "Car les Lévites auront, parallèle-ment à la frontière des sacrificateurs, vingt-cinq mille cannes de longueur et dix mille en largeur; vingt-cinq mille pour toute la longueur, et dix mille pour la largeur.",
+        "S21": "»Parallèlement au territoire des prêtres, les Lévites posséderont un territoire de 12 kilomètres et demi de long et 5 de large; la longueur totale sera de 12 kilomètres et demi et la largeur de 5."
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "Ce domaine constitue les prémices du pays, il est propriété sainte de l’Eternel: il ne pourra donc pas être aliéné. Les lévites n’en vendront rien et n’en échangeront rien.",
+        "DBY": "Ils n'en vendront rien, et n'en feront pas d'échange, et ils n'aliéneront pas les prémices du pays, car il est saint, consacré à l'Éternel.",
+        "KJV": "And they shall not sell of it, neither exchange, nor alienate the firstfruits of the land: for [it is] holy unto the LORD.",
+        "LSG": "Ils n'en pourront rien vendre ni échanger; et les prémices du pays ne seront point aliénées, car elles sont consacrées à l'Eternel.",
+        "MAB": "Or ils n'en vendront rien, et aucun d'entre eux n'en échangera rien, ni ne transportera les prémices du pays; parce que c'est une chose sanctifiée à l'Eternel.",
+        "OST": "Ils n'en vendront ni n'en échangeront rien; ils n'aliéneront point les prémices du sol, parce qu'elles sont consacrées à l'Éternel.",
+        "S21": "Ils ne pourront rien vendre de ce territoire. On n’échangera pas et ne cédera pas cette meilleure partie du pays, car elle est consacrée à l'Eternel."
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "—Quant à l’espace restant, sur cinq mille coudées en largeur, le long des vingt-cinq mille coudées, il constituera un terrain non consacré destiné à la ville, pour la zone d’habitation et ses abords. La ville elle-même en occupera le centre,",
+        "DBY": "Et les cinq mille qui restent de la largeur en face des vingt-cinq mille seront un espace profane pour la ville, pour des habitations et pour une banlieue; et la ville sera au milieu.",
+        "KJV": "And the five thousand, that are left in the breadth over against the five and twenty thousand, shall be a profane [place] for the city, for dwelling, and for suburbs: and the city shall be in the midst thereof.",
+        "LSG": "Les cinq mille cannes qui resteront en largeur sur les vingt-cinq mille seront destinées à la ville, pour les habitations et la banlieue; et la ville sera au milieu.",
+        "MAB": "Mais les cinq mille [cannes] qui restent dans la largeur sur le devant des vingt-cinq mille cannes [de longueur], est un lieu profane pour la ville, tant pour son assiette que pour ses faubourgs; et la ville sera au milieu.",
+        "OST": "Mais les cinq mille cannes qui resteront, dans la largeur, sur le décompte des vingt-cinq mille de longueur, seront un espace non consacré, pour la ville, pour les habitations et les faubourgs; la ville sera au milieu.",
+        "S21": "»La zone de 2500 mètres de large sur 12 kilomètres et demi de long qui restera sera une zone profane réservée pour la ville, pour ses habitations et ses environs immédiats, et la ville sera au centre."
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "dans un carré de quatre mille cinq cents coudées de côté au nord, au sud, à l’est et à l’ouest.",
+        "DBY": "Et ce sont ici ses mesures: le côté du nord, quatre mille cinq cents; et le côté du midi, quatre mille cinq cents; et le côté de l'orient, quatre mille cinq cents; et le côté de l'occident, quatre mille cinq cents.",
+        "KJV": "And these [shall be] the measures thereof; the north side four thousand and five hundred, and the south side four thousand and five hundred, and on the east side four thousand and five hundred, and the west side four thousand and five hundred.",
+        "LSG": "En voici les mesures: du côté septentrional quatre mille cinq cents, du côté méridional quatre mille cinq cents, du côté oriental quatre mille cinq cents, et du côté occidental quatre mille cinq cents.",
+        "MAB": "Et ce sont ici les mesures [qu'aura l'assiette de la ville], du côté du Septentrion, quatre mille cinq cents [cannes], et du côté du Midi, quatre mille cinq cents, et du côté de l'Orient, quatre mille cinq cents, et du côté tirant vers l'Occident, quatre mille cinq cents.",
+        "OST": "Voici ses mesures: du côté Nord quatre mille cinq cents cannes, du côté Sud quatre mille cinq cents, du côté oriental quatre mille cinq cents, du côté occidental quatre mille cinq cents.",
+        "S21": "Voici ses dimensions: du côté nord elle fera 2250 mètres, du côté sud 2250 mètres, du côté est 2250 mètres et du côté ouest 2250 mètres."
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "Tout autour de la ville, sur les quatre côtés, une bande de deux cent cinquante coudées restera libre.",
+        "DBY": "Et la banlieue de la ville, au nord, sera de deux cent cinquante, et au midi, de deux cent cinquante, et à l'orient, de deux cent cinquante, et à l'occident, de deux cent cinquante.",
+        "KJV": "And the suburbs of the city shall be toward the north two hundred and fifty, and toward the south two hundred and fifty, and toward the east two hundred and fifty, and toward the west two hundred and fifty.",
+        "LSG": "La ville aura une banlieue de deux cent cinquante au nord, de deux cent cinquante au midi, de deux cent cinquante à l'orient, et de deux cent cinquante à l'occident.",
+        "MAB": "Puis il y aura des faubourgs pour la ville, vers le Septentrion, de deux cent cinquante cannes; et vers le Midi, de deux cent cinquante, et vers l'Orient, de deux cent cinquante; et vers l'Occident, de deux cent cinquante.",
+        "OST": "Les faubourgs pour la ville auront au Nord deux cent cinquante, et au Midi deux cent cinquante; à l'Orient deux cent cinquante, et à l'Occident deux cent cinquante.",
+        "S21": "Les environs immédiats de la ville feront 125 mètres au nord, 125 mètres au sud, 125 mètres à l’est et 125 mètres à l’ouest."
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "Quant à la terre qui restera parallèlement au territoire consacré, en longueur, c’est-à-dire dix mille coudées à l’est et autant à l’ouest, ses productions agricoles seront destinées à la nourriture des employés de la ville.",
+        "DBY": "Et ce qui reste sur la longueur, le long de la sainte offrande, sera de dix mille vers l'orient, et de dix mille vers l'occident: il sera le long de la sainte offrande élevée, et son rapport sera pour la nourriture de ceux qui servent la ville.",
+        "KJV": "And the residue in length over against the oblation of the holy [portion shall be] ten thousand eastward, and ten thousand westward: and it shall be over against the oblation of the holy [portion]; and the increase thereof shall be for food unto them that serve the city.",
+        "LSG": "Le reste sur la longueur, parallèlement à la portion sainte, dix mille à l'orient et dix mille à l'occident, parallèlement à la portion sainte, formera les revenus destinés à l'entretien de ceux qui travailleront pour la ville.",
+        "MAB": "Quant à ce qui sera de reste en la longueur, et qui sera tout joignant la portion sanctitiée, et qui aura dix mille [cannes] du côté tirant vers l'Orient, et dix mille [autres cannes] du côlé tirant vers l'Occident, auquel côté il sera aussi tout joignant la portion sanctifiée, le revenu qu'on en tirera sera pour nourrir ceux qui feront le service qu'il faut dans la ville.",
+        "OST": "Quant à ce qui restera sur la longueur, parallèlement à la portion consacrée, soit dix mille cannes à l'Orient et dix mille à l'Occident, parallèlement à la portion consacrée, ce sera le revenu pour nourrir ceux qui travailleront pour la ville.",
+        "S21": "Ce qui restera de la longueur, parallèlement à la partie sainte, sera une zone de 5 kilomètres à l’est et de 5 kilomètres à l’ouest. Les produits de ces zones serviront de nourriture à ceux qui travailleront pour la ville."
+      }
+    },
+    {
+      "verse": 19,
+      "texts": {
+        "BDS": "Ce sont des gens de toutes les tribus d’Israël qui la cultiveront.",
+        "DBY": "Et ceux qui servent la ville la serviront, de toutes les tribus d'Israël.",
+        "KJV": "And they that serve the city shall serve it out of all the tribes of Israel.",
+        "LSG": "Le sol en sera cultivé par ceux de toutes les tribus d'Israël qui travailleront pour la ville.",
+        "MAB": "Or ceux qui feront le service qu'il faut dans la ville, [étant pris] de toutes les Tribus d'Israël, cultiveront ce pays-là.",
+        "OST": "Ceux qui travailleront pour la ville, de toutes les tribus d'Israël, cultiveront cette portion.",
+        "S21": "Leur sol sera cultivé par les membres de toutes les tribus d'Israël qui travailleront pour la ville."
+      }
+    },
+    {
+      "verse": 20,
+      "texts": {
+        "BDS": "La surface totale du territoire consacré à l’Eternel sera donc un carré de vingt-cinq mille coudées de côté et vous en prélèverez un quart pour le domaine de la ville.",
+        "DBY": "Toute l'offrande élevée sera de vingt-cinq mille sur vingt-cinq mille; vous offrirez la sainte offrande élevée, un carré, avec la possession de la ville.",
+        "KJV": "All the oblation [shall be] five and twenty thousand by five and twenty thousand: ye shall offer the holy oblation foursquare, with the possession of the city.",
+        "LSG": "Toute la portion prélevée sera de vingt-cinq mille cannes en longueur sur vingt-cinq mille en largeur; vous en séparerez un carré pour la propriété de la ville.",
+        "MAB": "Vous lèverez donc sur toute la masse [du pays] pour être une portion sainte, [présentée à l'Eternel comme] en offrande élevée, toute cette portion qui sera de vingt-cinq mille [cannes], répondant à vingt-cinq mille autres [cannes], le tout pris en carré, et en y comprenant la possession de la ville.",
+        "OST": "Le total de la portion prélevée sera de vingt-cinq mille sur vingt-cinq mille; vous prélèverez un quart de cette portion sainte, pour la possession de la ville.",
+        "S21": "»Au total, la partie prélevée à titre de contribution fera 12 kilomètres et demi de long sur 12 kilomètres et demi de large. Vous prélèverez un carré de cette partie sainte pour qu’il soit propriété de la ville."
+      }
+    },
+    {
+      "verse": 21,
+      "texts": {
+        "BDS": "Ce qui restera de part et d’autre du domaine consacré et du terrain de la ville, le long des vingt-cinq mille coudées à l’est et à l’ouest, sera pour le prince qui aura ainsi son domaine en bordure des autres parts. Le domaine consacré et le sanctuaire du Temple seront au milieu.",
+        "DBY": "Et le restant sera pour le prince, d'un côté et de l'autre de la sainte offrande et de la possession de la ville, en face des vingt-cinq mille de l'offrande élevée jusqu'à la frontière d'orient, et, vers l'occident, en face des vingt-cinq mille jusqu'à la frontière d'occident, le long des autres portions: cela sera pour le prince. Et la sainte offrande élevée et le sanctuaire de la maison seront au milieu d'elle.",
+        "KJV": "And the residue [shall be] for the prince, on the one side and on the other of the holy oblation, and of the possession of the city, over against the five and twenty thousand of the oblation toward the east border, and westward over against the five and twenty thousand toward the west border, over against the portions for the prince: and it shall be the holy oblation; and the sanctuary of the house [shall be] in the midst thereof.",
+        "LSG": "Ce qui restera sera pour le prince, aux deux côtés de la portion sainte et de la propriété de la ville, le long des vingt-cinq mille cannes de la portion sainte jusqu'à la limite de l'orient, et à l'occident le long des vingt-cinq mille cannes vers la limite de l'occident, parallèlement aux parts. C'est là ce qui appartiendra au prince; et la portion sainte et le sanctuaire de la maison seront au milieu.",
+        "MAB": "Puis ce qui restera sera pour le Prince, tant au delà de la portion sainte, [présentée à l'Eternel comme] en offrande élevée, qu'au deçà de la possession de la ville, le long des vingt-cinq mille [cannes] de la portion qui aura été levée sur toute la masse, jusques aux frontières qui regardent vers l'Orient, et ce qui sera tendant vers l'Occident, le long des [autres] vingt-cinq mille [cannes], jusques aux frontières qui regardent vers l'Occident, tout joignant les [autres] portions, sera pour le Prince; et ainsi la portion sainte, [présentée à l'Eternel comme] en offrande élevée, et le Sanctuaire de la maison seront au milieu de tout le pays.",
+        "OST": "Le reste sera pour le prince, aux deux côtés de la portion sainte prélevée et de la possession de la ville, le long des vingt-cinq mille cannes de la portion prélevée, jusqu'à la frontière de l'Orient, et à l'Occident, le long des vingt-cinq mille cannes jusqu'à la frontière de l'Occident, parallèlement aux parts. Ce sera pour le prince; la portion sainte prélevée et le sanctuaire de la maison seront au milieu.",
+        "S21": "»Ce qui restera sera pour le prince, des deux côtés de la partie sainte et de la propriété de la ville, le long des 12 kilomètres et demi de la partie sainte jusqu'aux frontières est et ouest du pays, parallèlement aux autres parts. Voilà ce qui appartiendra au prince; la partie sainte et le sanctuaire du temple seront au milieu."
+      }
+    },
+    {
+      "verse": 22,
+      "texts": {
+        "BDS": "Ainsi le prince occupera tout l’espace compris entre la frontière du domaine de Juda et celle de Benjamin, la propriété des lévites et celle de la ville étant au milieu des terres du prince.",
+        "DBY": "Et depuis la possession des Lévites et la possession de la ville, qui sont au milieu de ce qui sera au prince, -ce qui est entre la frontière de Juda et la frontière de Benjamin sera pour le prince.",
+        "KJV": "Moreover from the possession of the Levites, and from the possession of the city, [being] in the midst [of that] which is the prince's, between the border of Judah and the border of Benjamin, shall be for the prince.",
+        "LSG": "Ainsi ce qui appartiendra au prince sera l'espace compris depuis la propriété des Lévites et depuis la propriété de la ville; ce qui sera entre la limite de Juda et la limite de Benjamin appartiendra au prince.",
+        "MAB": "Ce qui sera donc pour le Prince sera dans les entre-deux depuis la possession des Lévites, et depuis la possession de la ville; ce qui sera entre [ces possessions-là, et] les confins de Juda, et les confins de Benjamin, sera pour le Prince.",
+        "OST": "La part du prince sera donc depuis la possession des Lévites et depuis la possession de la ville; l'espace entre la frontière de Juda et la frontière de Benjamin, sera pour le prince.",
+        "S21": "La propriété des Lévites et la propriété de la ville seront au milieu de ce qui appartiendra au prince. La part qui appartiendra au prince se situera entre la frontière de Juda et la frontière de Benjamin."
+      }
+    },
+    {
+      "verse": 23,
+      "texts": {
+        "BDS": "Pour ce qui est des autres tribus: Benjamin aura une part allant de la limite orientale à la limite occidentale du pays.",
+        "DBY": "Et quant au reste des tribus, depuis le côté de l'orient jusqu'au côté de l'occident: une part pour Benjamin.",
+        "KJV": "As for the rest of the tribes, from the east side unto the west side, Benjamin [shall have] a [portion].",
+        "LSG": "Voici les autres tribus. De l'orient à l'occident: Benjamin, une tribu.",
+        "MAB": "Or ce qui sera de reste sera pour les [autres] Tribus. Depuis le canton de ce qui regarde vers l'Orient, jusques au canton de ce qui regarde vers l'Occident, il y aura une [portion] pour Benjamin.",
+        "OST": "Le reste sera pour les autres tribus: de l'Est à l'Ouest, une part pour Benjamin;",
+        "S21": "»Ensuite, il y aura les autres tribus. D’est en ouest, il y aura une tribu: celle de Benjamin."
+      }
+    },
+    {
+      "verse": 24,
+      "texts": {
+        "BDS": "Sur la frontière de Benjamin, de la limite orientale à la limite occidentale, Siméon aura une part.",
+        "DBY": "Et sur la frontière de Benjamin, depuis le côté de l'orient jusqu'au côté de l'occident: une part pour Siméon.",
+        "KJV": "And by the border of Benjamin, from the east side unto the west side, Simeon [shall have] a [portion].",
+        "LSG": "Sur la limite de Benjamin, de l'orient à l'occident: Siméon, une tribu.",
+        "MAB": "Puis tout joignant les confins de Benjamin depuis le canton de ce qui regarde vers l'Orient, jusques au canton de ce qui regarde vers l'Occident, il y aura une [autre portion] pour Siméon.",
+        "OST": "Sur la frontière de Benjamin, de l'Est à l'Ouest, une part pour Siméon;",
+        "S21": "Le long du territoire de Benjamin, d’est en ouest, il y aura une tribu: celle de Siméon."
+      }
+    },
+    {
+      "verse": 25,
+      "texts": {
+        "BDS": "Sur la frontière de Siméon, de la limite orientale à la limite occidentale, Issacar aura une part.",
+        "DBY": "Et sur la frontière de Siméon, depuis le côté de l'orient jusqu'au côté de l'occident: une part pour Issacar.",
+        "KJV": "And by the border of Simeon, from the east side unto the west side, Issachar a [portion].",
+        "LSG": "Sur la limite de Siméon, de l'orient à l'occident: Issacar, une tribu.",
+        "MAB": "Puis tout joignant les confins de Siméon, depuis le canton de ce [qui regarde] vers l'Orient, jusques au canton de ce qui regarde vers l'Occident, il y aura une [autre portion] pour Issacar.",
+        "OST": "Sur la frontière de Siméon, de l'Est à l'Ouest, une part pour Issacar;",
+        "S21": "Le long du territoire de Siméon, d’est en ouest, il y aura une tribu: celle d’Issacar."
+      }
+    },
+    {
+      "verse": 26,
+      "texts": {
+        "BDS": "Sur la frontière d’Issacar, de la limite orientale à la limite occidentale, Zabulon aura une part.",
+        "DBY": "Et sur la frontière d'Issacar, depuis le côté de l'orient jusqu'au côté de l'occident: une part pour Zabulon.",
+        "KJV": "And by the border of Issachar, from the east side unto the west side, Zebulun a [portion].",
+        "LSG": "Sur la limite d'Issacar, de l'orient à l'occident: Zabulon, une tribu.",
+        "MAB": "Puis tout joignant les confins d'Issacar, depuis le canton de ce [qui regarde] vers l'Orient, jusques au canton de ce qui regarde vers l'Occident, il y aura une [autre portion] pour Zabulon.",
+        "OST": "Sur la frontière d'Issacar, de l'Est à l'Ouest, une part pour Zabulon;",
+        "S21": "Le long du territoire d'Issacar, d’est en ouest, il y aura une tribu: celle de Zabulon."
+      }
+    },
+    {
+      "verse": 27,
+      "texts": {
+        "BDS": "Sur la frontière de Zabulon, de la limite orientale à la limite occidentale, Gad aura une part.",
+        "DBY": "Et sur la frontière de Zabulon, depuis le côté de l'orient jusqu'au côté de l'occident: une part pour Gad.",
+        "KJV": "And by the border of Zebulun, from the east side unto the west side, Gad a [portion].",
+        "LSG": "Sur la limite de Zabulon, de l'orient à l'occident: Gad, une tribu.",
+        "MAB": "Puis tout joignant les confins de Zabulon, depuis le canton de ce [qui regarde] vers l'Orient, jusques au canton de ce [qui regarde] vers l'Occident, il y aura une [autre portion] pour Gad.",
+        "OST": "Sur la frontière de Zabulon, de l'Est à l'Ouest, une part pour Gad;",
+        "S21": "Le long du territoire de Zabulon, d’est en ouest, il y aura une tribu: celle de Gad."
+      }
+    },
+    {
+      "verse": 28,
+      "texts": {
+        "BDS": "Le territoire de Gad sera délimité du côté du sud, vers le Néguev, par une frontière allant de Tamar jusqu’aux eaux de Meriba de Qadech, puis elle suivra le torrent d’Egypte jusqu’à la mer Méditerranée.",
+        "DBY": "Et sur la frontière de Gad, du côté du midi, vers le sud, la frontière sera depuis Thamar jusqu'aux eaux de Meriba de Kadès, la rivière jusqu'à la grande mer.",
+        "KJV": "And by the border of Gad, at the south side southward, the border shall be even from Tamar [unto] the waters of strife [in] Kadesh, [and] to the river toward the great sea.",
+        "LSG": "Sur la limite de Gad, du côté méridional, au midi, la frontière ira depuis Thamar, jusqu'aux eaux de Meriba à Kadès, jusqu'au torrent vers la grande mer.",
+        "MAB": "Or [ce qui appartient] au côté du Midi, qui regarde [proprement] le vent d'Autan, est sur la frontière de Gad; et cette frontière sera depuis Tamar [jusques] aux eaux du débat de Kadès, [le long] du torrent jusques à la grande mer.",
+        "OST": "Et sur la frontière de Gad du côté Sud, au Midi, la frontière ira depuis Thamar jusqu'aux eaux de contestation, à Kadès, jusqu'au torrent vers la grande mer.",
+        "S21": "Le long du territoire de Gad, du côté du Néguev, au sud, la frontière s’étendra de Thamar jusqu'aux eaux de Meriba à Kadès, et le long du torrent jusqu’à la mer Méditerranée."
+      }
+    },
+    {
+      "verse": 29,
+      "texts": {
+        "BDS": "Tel est le pays que vous partagerez en patrimoines entre les tribus d’Israël, telles sont leurs parts respectives, le Seigneur, l’Eternel, le déclare.",
+        "DBY": "C'est là le pays que vous partagerez par le sort, comme héritage entre les tribus d'Israël, et ce sont là leurs parts, dit le Seigneur, l'Éternel.",
+        "KJV": "This [is] the land which ye shall divide by lot unto the tribes of Israel for inheritance, and these [are] their portions, saith the Lord GOD.",
+        "LSG": "Tel est le pays que vous diviserez en héritage par le sort pour les tribus d'Israël et telles sont leurs parts, dit le Seigneur, l'Eternel.",
+        "MAB": "C'est là le pays que vous partagerez par sort en héritage aux Tribus d'Israël, et ce sont là leurs portions, dit le Seigneur l'Eternel.",
+        "OST": "C'est là le pays que vous partagerez, par le sort, en héritage aux tribus d'Israël, et ce sont là leurs portions, dit le Seigneur, l'Éternel.",
+        "S21": "»Tel est le pays que vous attribuerez en héritage aux tribus d'Israël et telles sont leurs portions, déclare le Seigneur, l'Eternel."
+      }
+    },
+    {
+      "verse": 30,
+      "texts": {
+        "BDS": "—Et voici quels seront les accès de la ville: sur chacun des murs mesurant quatre mille cinq cents coudées de long,",
+        "DBY": "Et ce sont ici les issues de la ville: du côté du nord, une mesure de quatre mille cinq cents coudées;",
+        "KJV": "And these [are] the goings out of the city on the north side, four thousand and five hundred measures.",
+        "LSG": "Voici les issues de la ville. Du côté septentrional quatre mille cinq cents cannes.",
+        "MAB": "Et ce sont ici les sorties de la ville. Du côté du Septentrion il y aura quatre mille cinq cents mesures.",
+        "OST": "Voici les sorties de la ville: du côté Nord, quatre mille cinq cents cannes;",
+        "S21": "»Voici les issues de la ville. Son côté nord mesurera 2250 mètres."
+      }
+    },
+    {
+      "verse": 31,
+      "texts": {
+        "BDS": "il y aura trois portes portant le nom de trois tribus d’Israël. Du côté nord se trouveront les portes de Ruben, de Juda et de Lévi.",
+        "DBY": "et les portes de la ville seront selon les noms des tribus d'Israël: trois portes vers le nord: la porte de Ruben, une; la porte de Juda, une; la porte de Lévi, une.",
+        "KJV": "And the gates of the city [shall be] after the names of the tribes of Israel: three gates northward; one gate of Reuben, one gate of Judah, one gate of Levi.",
+        "LSG": "et les portes de la ville d'après les noms des tribus d'Israël, trois portes au nord: la porte de Ruben, une, la porte de Juda, une, la porte de Lévi, une.",
+        "MAB": "Puis quant aux portes de la ville, qui seront nommées des noms des Tribus d'Israël, il y aura trois portes qui regarderont vers le Septentrion; une [appelée] la porte de Ruben; une [appelée] la porte de Juda, [et] une [appelée] la porte de Lévi.",
+        "OST": "Les portes de la ville porteront le nom des tribus d'Israël: trois portes au Nord: la porte de Ruben, une; la porte de Juda, une; la porte de Lévi, une.",
+        "S21": "Les portes de la ville porteront les noms des tribus d'Israël. Il y aura 3 portes au nord: la porte de Ruben, la porte de Juda et la porte de Lévi."
+      }
+    },
+    {
+      "verse": 32,
+      "texts": {
+        "BDS": "Du côté est, celles de Joseph, de Benjamin et de Dan.",
+        "DBY": "Et vers le côté de l'orient, quatre mille cinq cents, et trois portes: la porte de Joseph, une; la porte de Benjamin, une; la porte de Dan, une.",
+        "KJV": "And at the east side four thousand and five hundred: and three gates; and one gate of Joseph, one gate of Benjamin, one gate of Dan.",
+        "LSG": "Du côté oriental quatre mille cinq cents cannes, et trois portes: la porte de Joseph, une, la porte de Benjamin, une, la porte de Dan, une.",
+        "MAB": "Au côté de ce qui regarde vers l'Orient, il y aura quatre mille cinq cents [cannes], et trois portes; une [appelée] la porte de Joseph; une [appelée] la porte de Benjamin, [et] une [appelée] la porte de Dan.",
+        "OST": "Du côté oriental, quatre mille cinq cents cannes, et trois portes: la porte de Joseph, une; la porte de Benjamin, une; la porte de Dan, une.",
+        "S21": "A l’est, il y aura 2250 mètres et 3 portes: la porte de Joseph, la porte de Benjamin et la porte de Dan."
+      }
+    },
+    {
+      "verse": 33,
+      "texts": {
+        "BDS": "Du côté sud, les portes de Siméon, d’Issacar et de Zabulon.",
+        "DBY": "Et du côté du midi, une mesure de quatre mille cinq cents coudées, et trois portes: la porte de Siméon, une; la porte d'Issacar, une; la porte de Zabulon, une.",
+        "KJV": "And at the south side four thousand and five hundred measures: and three gates; one gate of Simeon, one gate of Issachar, one gate of Zebulun.",
+        "LSG": "Du côté méridional quatre mille cinq cents cannes, et trois portes: la porte de Siméon, une, la porte d'Issacar, une, la porte de Zabulon, une.",
+        "MAB": "Et [au] côté de ce qui regarde vers le Midi il y aura quatre mille cinq cents mesures, et trois portes; une [appelée] la porte de Siméon; une [appelée] la porte d'Issacar; et une [appelée] la porte de Zabulon.",
+        "OST": "Du côté Sud, quatre mille cinq cents cannes, et trois portes: la porte de Siméon, une; la porte d'Issacar, une; la porte de Zabulon, une.",
+        "S21": "Au sud, il y aura 2250 mètres et 3 portes: la porte de Siméon, la porte d’Issacar et la porte de Zabulon."
+      }
+    },
+    {
+      "verse": 34,
+      "texts": {
+        "BDS": "Et du côté ouest celles de Gad, d’Aser et de Nephtali.",
+        "DBY": "Du côté de l'occident, quatre mille cinq cents et leurs trois portes: la porte de Gad, une; la porte d'Aser, une; la porte de Nephthali, une.",
+        "KJV": "At the west side four thousand and five hundred, [with] their three gates; one gate of Gad, one gate of Asher, one gate of Naphtali.",
+        "LSG": "Du côté occidental quatre mille cinq cents cannes, et trois portes: la porte de Gad, une, la porte d'Aser, une, la porte de Nephthali, une.",
+        "MAB": "[Au] côté de ce [qui regarde] vers l'Occident il y aura quatre mille cinq cents [cannes], auxquelles il y aura trois portes; une [appelée] la porte de Gad; une [appelée] la porte d'Aser; [et] une [appelée] la porte de Nephthali.",
+        "OST": "Du côté occidental, quatre mille cinq cents cannes, et trois portes: la porte de Gad, une; la porte d'Asser, une; la porte de Nephthali, une.",
+        "S21": "A l’ouest, il y aura 2250 mètres et leurs 3 portes: la porte de Gad, la porte d’Aser et la porte de Nephthali."
+      }
+    },
+    {
+      "verse": 35,
+      "texts": {
+        "BDS": "La ville aura un périmètre total de dix-huit mille coudées. Et le nom de la ville sera désormais: L’Eternel est ici.",
+        "DBY": "Le circuit était de dix-huit mille coudées; et le nom de la ville, dès ce jour: l'Éternel est là.",
+        "KJV": "[It was] round about eighteen thousand [measures]: and the name of the city from [that] day [shall be], The LORD [is] there.",
+        "LSG": "Circuit: dix-huit mille cannes. Et, dès ce jour, le nom de la ville sera: l'Eternel est ici.",
+        "MAB": "Ainsi le circuit [de la ville] sera de dix-huit mille [cannes]; et le nom de la ville depuis ce jour-là sera : L'ETERNEL EST LA.",
+        "OST": "Le circuit de la ville sera de dix-huit mille cannes, et depuis ce jour le nom de la ville sera: L'Éternel est ici.",
+        "S21": "Le pourtour de la ville fera 9 kilomètres et, dès ce jour, le nom de la ville sera ‘l'Eternel est ici’.»"
+      }
+    }
+  ]
+}

@@ -1,0 +1,618 @@
+{
+  "bookCode": "JOS",
+  "chapter": 19,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "Le deuxième lot échut par le sort aux familles de la tribu de Siméon. Leur territoire était au milieu de celui de Juda.",
+        "DBY": "Et le deuxième lot échut à Siméon, pour la tribu des fils de Siméon, selon leurs familles; et leur héritage fut au milieu de l'héritage des fils de Juda.",
+        "KJV": "And the second lot came forth to Simeon, [even] for the tribe of the children of Simeon according to their families: and their inheritance was within the inheritance of the children of Judah.",
+        "LSG": "La seconde part échut par le sort à Siméon, à la tribu des fils de Siméon, selon leurs familles. Leur héritage était au milieu de l'héritage des fils de Juda.",
+        "MAB": "Le deuxième sort échut à Siméon, pour la Tribu des enfants de Siméon selon leurs familles, et leur héritage fut parmi l'héritage des enfants de Juda.",
+        "OST": "Le second sort échut à Siméon, pour la tribu des enfants de Siméon, selon leurs familles; et leur héritage fut au milieu de l'héritage des enfants de Juda.",
+        "S21": "La deuxième part fut attribuée par tirage au sort à Siméon, aux clans de la tribu de Siméon. Leur héritage était situé au milieu de celui des Judéens."
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "Il comprenait Beer-Chéba, Chéba, Molada,",
+        "DBY": "Et ils eurent dans leur héritage Beër-Shéba, et Shéba, et Molada,",
+        "KJV": "And they had in their inheritance Beersheba, or Sheba, and Moladah,",
+        "LSG": "Ils eurent dans leur héritage: Beer-Schéba, Schéba, Molada,",
+        "MAB": "Et ils eurent dans leur héritage Béer-sebah, Sebah, Molada,",
+        "OST": "Et ils eurent dans leur héritage Béer-Shéba, Shéba, Molada,",
+        "S21": "Ils eurent dans leur héritage Beer-Shéba, Shéba, Molada,"
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "Hatsar-Choual, Bala, Atsem,",
+        "DBY": "et Hatsar-Shual, et Bala, et Etsem,",
+        "KJV": "And Hazarshual, and Balah, and Azem,",
+        "LSG": "Hatsar-Schual, Bala, Atsem,",
+        "MAB": "Hatsar-suhal, Bala, Hetsem,",
+        "OST": "Hatsar-Shual, Bala, Atsem,",
+        "S21": "Hatsar-Shual, Bala, Atsem,"
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "Eltolad, Betoul, Horma,",
+        "DBY": "et Eltholad, et Bethul, et Horma,",
+        "KJV": "And Eltolad, and Bethul, and Hormah,",
+        "LSG": "Eltholad, Bethul, Horma,",
+        "MAB": "Eltolad, Bethul, Horma,",
+        "OST": "Eltholad, Bethul, Horma,",
+        "S21": "Eltholad, Bethul, Horma,"
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "Tsiqlag, Beth-Markaboth, Hatsar-Sousa,",
+        "DBY": "et Tsiklag, et Beth-Marcaboth, et Hatsar-Susa, et Beth-Lebaoth,",
+        "KJV": "And Ziklag, and Bethmarcaboth, and Hazarsusah,",
+        "LSG": "Tsiklag, Beth-Marcaboth, Hatsar-Susa,",
+        "MAB": "Tsiklag, Beth-marcaboth, Hatsar-susa,",
+        "OST": "Tsiklag, Beth-Marcaboth, Hatsar-Susa,",
+        "S21": "Tsiklag, Beth-Marcaboth, Hatsar-Susa,"
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "Beth-Lebaoth et Charouhen: soit treize villes avec leurs villages.",
+        "DBY": "et Sharu-khen: treize villes et leurs hameaux;",
+        "KJV": "And Bethlebaoth, and Sharuhen; thirteen cities and their villages:",
+        "LSG": "Beth-Lebaoth et Scharuchen, treize villes, et leurs villages;",
+        "MAB": "Beth-lebaoth et Saruhen; treize villes et leurs villages.",
+        "OST": "Beth-Lebaoth, et Shearuchen: treize villes et leurs villages;",
+        "S21": "Beth-Lebaoth et Sharuchen, soit 13 villes avec leurs villages;"
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "Aïn, Rimmôn, Eter et Achân: quatre villes et leurs villages.",
+        "DBY": "Aïn, Rimmon, et Éther, et Ashan: quatre villes et leurs hameaux;",
+        "KJV": "Ain, Remmon, and Ether, and Ashan; four cities and their villages:",
+        "LSG": "Aïn, Rimmon, Ether, et Aschan, quatre villes, et leurs villages;",
+        "MAB": "Hajin, Rimmon, Hether, et Hasan; quatre villes et leurs villages.",
+        "OST": "Aïn, Rimmon, Éther, et Ashan: quatre villes et leurs villages;",
+        "S21": "Aïn, Rimmon, Ether et Ashan, soit 4 villes avec leurs villages."
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "Tous les villages qui sont aux alentours de ces villes jusqu’à Baalath-Beer, la Ramath du Néguev. Tout cela constituait le patrimoine des familles de la tribu de Siméon.",
+        "DBY": "et tous les hameaux qui étaient autour de ces villes, jusqu'à Baalath-Beër, la Rama du midi. Tel fut l'héritage de la tribu des fils de Siméon, selon leurs familles.",
+        "KJV": "And all the villages that [were] round about these cities to Baalathbeer, Ramath of the south. This [is] the inheritance of the tribe of the children of Simeon according to their families.",
+        "LSG": "et tous les villages aux environs de ces villes, jusqu'à Baalath-Beer, qui est Ramath du midi. Tel fut l'héritage de la tribu des fils de Siméon, selon leurs familles.",
+        "MAB": "Et tous les villages qui étaient autour de ces villes-là jusqu'à Balath-béer, qui est Rama du Midi. Tel fut l'héritage de la Tribu des enfants de Siméon, selon leurs familles.",
+        "OST": "Et tous les villages qui sont autour de ces villes, jusqu'à Baalath-Béer, qui est Rama la méridionale. Tel fut l'héritage de la tribu des enfants de Siméon, selon leurs familles.",
+        "S21": "Ils eurent aussi tous les villages situés aux environs de ces villes jusqu'à Baalath-Beer, c’est-à-dire Ramath du sud. Tel fut l'héritage des clans de la tribu de Siméon."
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "Leur territoire fut pris sur la part attribuée aux descendants de Juda car celle-ci était trop grande pour eux. Voilà pourquoi le territoire des descendants de Siméon se trouvait au milieu de celui de Juda.",
+        "DBY": "L'héritage des fils de Siméon fut pris du lot des fils de Juda, car la part des fils de Juda était trop grande pour eux; et les fils de Siméon héritèrent au milieu de leur héritage.",
+        "KJV": "Out of the portion of the children of Judah [was] the inheritance of the children of Simeon: for the part of the children of Judah was too much for them: therefore the children of Simeon had their inheritance within the inheritance of them.",
+        "LSG": "L'héritage des fils de Siméon fut pris sur la portion des fils de Juda; car la portion des fils de Juda était trop grande pour eux, et c'est au milieu de leur héritage que les fils de Siméon reçurent le leur.",
+        "MAB": "L'héritage des enfants de Siméon fut pris du lot des enfants de Juda; car la part des enfants de Juda était trop grande pour eux; c'est pourquoi les enfants de Siméon eurent leur héritage parmi le leur.",
+        "OST": "L'héritage des enfants de Siméon fut pris du lot des enfants de Juda; car la part des enfants de Juda était trop grande pour eux; et les enfants de Siméon eurent leur héritage au milieu de celui de Juda.",
+        "S21": "L'héritage des Siméonites fut pris sur la portion des Judéens. En effet, la portion des Judéens était trop grande pour eux et c'est au milieu de leur héritage que les Siméonites reçurent le leur."
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "Le troisième lot fut attribué par tirage au sort aux familles de la tribu de Zabulon. Leur territoire s’étendait jusqu’à Sarid.",
+        "DBY": "Et le troisième sort tomba pour les fils de Zabulon, selon leurs familles; et la frontière de leur héritage fut jusqu'à Sarid;",
+        "KJV": "And the third lot came up for the children of Zebulun according to their families: and the border of their inheritance was unto Sarid:",
+        "LSG": "La troisième part échut par le sort aux fils de Zabulon, selon leurs familles. La limite de leur héritage s'étendait jusqu'à Sarid.",
+        "MAB": "Le troisième sort monta pour les enfants de Zabulon, selon leurs familles; et la frontière de leur héritage fut jusqu'à Sarid.",
+        "OST": "Le troisième sort échut aux enfants de Zabulon, selon leurs familles; et la frontière de leur héritage fut jusqu'à Sarid.",
+        "S21": "La troisième part fut attribuée par tirage au sort aux clans des Zabulonites. La frontière de leur héritage s'étendait jusqu'à Sarid."
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "De là, la frontière de leur domaine remontait à l’ouest vers Mareala, touchait à Dabbécheth et au torrent qui coule près de Yokneam.",
+        "DBY": "et leur frontière montait vers l'occident, et à Marhala, et touchait à Dabbésheth, et touchait au torrent qui est devant Jokneam;",
+        "KJV": "And their border went up toward the sea, and Maralah, and reached to Dabbasheth, and reached to the river that [is] before Jokneam;",
+        "LSG": "Elle montait à l'occident vers Mareala, et touchait à Dabbéscheth, puis au torrent qui coule devant Jokneam.",
+        "MAB": "Et leur frontière devait monter vers le quartier devers la mer, même jusqu'à Marhala, puis se rencontrer à Dabbeseth, et de là au torrent qui est vis-à-vis de Jokneham.",
+        "OST": "Or, leur frontière montait à l'occident vers Maréala, et touchait à Dabbesheth, puis au torrent qui est en face de Joknéam.",
+        "S21": "Elle montait à l'ouest vers Mareala et touchait Dabbésheth, puis le torrent qui coule devant Jokneam."
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "De Sarid, elle allait vers l’est rejoindre le territoire de Kisloth-Thabor, se dirigeait vers Dabrath, et montait à Yaphia.",
+        "DBY": "et elle tournait de Sarid vers l'orient au soleil levant, sur la frontière de Kisloth-Thabor, et sortait vers Dabrath, et montait à Japhia,",
+        "KJV": "And turned from Sarid eastward toward the sunrising unto the border of Chislothtabor, and then goeth out to Daberath, and goeth up to Japhia,",
+        "LSG": "De Sarid elle tournait à l'orient, vers le soleil levant, jusqu'à la frontière de Kisloth-Thabor, continuait à Dabrath, et montait à Japhia.",
+        "MAB": "Or [cette frontière] devait retourner de Sarid vers l'Orient, au soleil levant vers les confins de Kislothtabor, puis sortir vers Dabrath, et monter à Japhiah;",
+        "OST": "De Sarid elle tournait à l'orient, vers le soleil levant, sur les confins de Kisloth-Thabor; puis elle sortait vers Dabrath, et montait à Japhia;",
+        "S21": "De Sarid elle tournait à l'est, vers le soleil levant, jusqu'à la frontière de Kisloth-Thabor, continuait à Dabrath et montait à Japhia."
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "Ensuite, elle continuait plus à l’est sur Guitta-Hépher, Itta-Qatsin, puis se dirigeait sur Rimmôn, et s’incurvait pour passer à Néa.",
+        "DBY": "et de là passait vers l'orient, au levant, à Gath-Hépher, et Eth-Katsin, et sortait à Rimmon, qui s'étend jusqu'à Néa.",
+        "KJV": "And from thence passeth on along on the east to Gittahhepher, to Ittahkazin, and goeth out to Remmonmethoar to Neah;",
+        "LSG": "De là elle passait à l'orient par Guittha-Hépher, par Ittha-Katsin, continuait à Rimmon, et se prolongeait jusqu'à Néa.",
+        "MAB": "Puis de là passer vers l'Orient, au Levant, à Guitta-hépher qui est Hittakatsin, puis sortir, à Rimmon-Methoar, qui est Neha.",
+        "OST": "De là elle passait vers l'orient, au levant, à Gath-Hépher, à Eth-Katsin; et elle sortait à Rimmon, se prolongeant vers Néa.",
+        "S21": "De là elle passait à l'est par Guittha-Hépher, par Ittha-Katsin, continuait à Rimmon et se prolongeait jusqu'à Néa."
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "Au nord, la frontière contournait Hannathôn et débouchait dans la vallée de Yiphtah-El.",
+        "DBY": "Et la frontière en faisait le tour, au nord, vers Hannathon, et aboutissait à la vallée de Jiphtah-El;…",
+        "KJV": "And the border compasseth it on the north side to Hannathon: and the outgoings thereof are in the valley of Jiphthahel:",
+        "LSG": "Elle tournait ensuite du côté du nord vers Hannathon, et aboutissait à la vallée de Jiphthach-El.",
+        "MAB": "Puis cette frontière devait tourner du côté du Septentrion à Hannathon; et ses extrémités devaient se rendre en la vallée de Jiphtahel.",
+        "OST": "Puis la frontière en faisait le tour au nord vers Hannathon, et aboutissait à la vallée de Jiphthach-El;",
+        "S21": "Elle tournait ensuite du côté du nord vers Hannathon et débouchait sur la vallée de Jiphthach-El."
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "Le territoire comprenait douze villes avec les villages qui en dépendaient, dont Qattath, Nahalal,",
+        "DBY": "et Kattath, et Nahalal, et Shimron, et Jideala, et Bethléhem: douze villes et leurs hameaux.",
+        "KJV": "And Kattath, and Nahallal, and Shimron, and Idalah, and Bethlehem: twelve cities with their villages.",
+        "LSG": "De plus, Katthath, Nahalal, Schimron, Jideala, Bethléhem. Douze villes, et leurs villages.",
+        "MAB": "Avec Kattath, Nahalal, Simron, Jidéala, et Beth-lehem; il y avait douze villes, et leurs villages.",
+        "OST": "Avec Kattath, Nahalal, Shimron, Jidéala, et Bethléhem: douze villes et leurs villages.",
+        "S21": "Leur territoire comprenait en outre Katthath, Nahalal, Shimron, Jideala, Bethléhem. Il y avait 12 villes avec leurs villages."
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "Chimrôn, Yideala, et Bethléhem. Tel fut le patrimoine des familles de Zabulon, avec leurs villes et les villages qui en dépendaient.",
+        "DBY": "Tel fut l'héritage des fils de Zabulon, selon leurs familles: ces villes-là et leurs hameaux.",
+        "KJV": "This [is] the inheritance of the children of Zebulun according to their families, these cities with their villages.",
+        "LSG": "Tel fut l'héritage des fils de Zabulon, selon leurs familles, ces villes-là et leurs villages.",
+        "MAB": "Tel fut l'héritage des enfants de Zabulon selon leurs familles; ces villes-là, et leurs villages.",
+        "OST": "Tel fut l'héritage des enfants de Zabulon, selon leurs familles, ces villes-là et leurs villages.",
+        "S21": "Tel fut l'héritage des clans des Zabulonites. C’étaient ces villes-là et leurs villages."
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "Le quatrième lot fut attribué par le sort aux familles d’Issacar.",
+        "DBY": "Le quatrième sort échut à Issacar, pour les fils d'Issacar, selon leurs familles.",
+        "KJV": "[And] the fourth lot came out to Issachar, for the children of Issachar according to their families.",
+        "LSG": "La quatrième part échut par le sort à Issacar, aux fils d'Issacar, selon leurs familles.",
+        "MAB": "Le quatrième sort échut à Issacar, pour les enfants d'Issacar, selon leurs familles.",
+        "OST": "Le quatrième sort échut à Issacar, pour les enfants d'Issacar, selon leurs familles.",
+        "S21": "La quatrième part fut attribuée par tirage au sort à Issacar, aux clans des Issacarites."
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "Leur territoire comprenait Yizreél, Kesoulloth, Sunem,",
+        "DBY": "Et leur territoire fut vers Jizreël, et Kesulloth, et Sunem,",
+        "KJV": "And their border was toward Jezreel, and Chesulloth, and Shunem,",
+        "LSG": "Leur limite passait par Jizreel, Kesulloth, Sunem,",
+        "MAB": "Et leur contrée fut ce qui est vers Jizrehel, Kesulloth, Sunem,",
+        "OST": "Et leur frontière fut Jizréel, Kesulloth, Sunem,",
+        "S21": "Leur frontière passait par Jizreel, Kesulloth, Sunem,"
+      }
+    },
+    {
+      "verse": 19,
+      "texts": {
+        "BDS": "Hapharaïm, Chiôn, Anaharath,",
+        "DBY": "et Hapharaïm, et Shion, et Anakharath,",
+        "KJV": "And Hapharaim, and Shion, and Anaharath,",
+        "LSG": "Hapharaïm, Schion, Anacharath,",
+        "MAB": "Hapharjim, Sion, Anaharath,",
+        "OST": "Hapharaïm, Shion, Anacharath,",
+        "S21": "Hapharaïm, Shion, Anacharath,"
+      }
+    },
+    {
+      "verse": 20,
+      "texts": {
+        "BDS": "Rabbith, Qichyôn, Abets,",
+        "DBY": "et Rabbith, et Kishion, et Ebets,",
+        "KJV": "And Rabbith, and Kishion, and Abez,",
+        "LSG": "Rabbith, Kischjon, Abets,",
+        "MAB": "Rabbith, Kisjon, Ebets,",
+        "OST": "Rabbith, Kishjon, Abets,",
+        "S21": "Rabbith, Kishjon, Abets,"
+      }
+    },
+    {
+      "verse": 21,
+      "texts": {
+        "BDS": "Rémeth, Eyn-Gannim, Eyn-Hadda et Beth-Patsets.",
+        "DBY": "et Rémeth, et En-Gannim, et En-Hadda, et Beth-Patsets;",
+        "KJV": "And Remeth, and Engannim, and Enhaddah, and Bethpazzez;",
+        "LSG": "Rémeth, En-Gannim, En-Hadda, et Beth-Patsets;",
+        "MAB": "Remeth, Hen-gannim, Hen-hadda et Beth-patsets.",
+        "OST": "Rémeth, En-Gannim, En-Hadda, et Beth-Patsets.",
+        "S21": "Rémeth, En-Gannim, En-Hadda et Beth-Patsets."
+      }
+    },
+    {
+      "verse": 22,
+      "texts": {
+        "BDS": "La frontière touchait à Thabor, Chahatsima et à Beth-Chémech, pour aboutir au Jourdain. Le territoire comprenait seize villes et les villages qui en dépendaient.",
+        "DBY": "et la frontière touchait à Thabor, et à Shakhatsim, et à Beth-Shémesh; et leur frontière aboutissait au Jourdain: seize villes et leurs hameaux.",
+        "KJV": "And the coast reacheth to Tabor, and Shahazimah, and Bethshemesh; and the outgoings of their border were at Jordan: sixteen cities with their villages.",
+        "LSG": "elle touchait à Thabor, à Schachatsima, à Beth-Schémesch, et aboutissait au Jourdain. Seize villes, et leurs villages.",
+        "MAB": "Et la frontière se devait rencontrer à Tabor et vers Sabatsim, et à Beth-semes; tellement que les extrémités de leur frontière se devaient rendre au Jourdain; seize villes, et leurs villages.",
+        "OST": "Et la frontière touchait à Thabor, à Shachatsima, et à Beth-Shémesh; et leur frontière aboutissait au Jourdain: seize villes et leurs villages.",
+        "S21": "Elle touchait Thabor, Shachatsima, Beth-Shémesh et débouchait sur le Jourdain. Leur territoire comprenait 16 villes avec leurs villages."
+      }
+    },
+    {
+      "verse": 23,
+      "texts": {
+        "BDS": "Tel fut le patrimoine des familles d’Issacar avec les villages qui en dépendaient.",
+        "DBY": "Tel fut l'héritage de la tribu des fils d'Issacar, selon leurs familles: ces villes et leurs hameaux.",
+        "KJV": "This [is] the inheritance of the tribe of the children of Issachar according to their families, the cities and their villages.",
+        "LSG": "Tel fut l'héritage de la tribu des fils d'Issacar, selon leurs familles, ces villes-là et leurs villages.",
+        "MAB": "Tel fut l'héritage de la Tribu des enfants d'Issacar, selon leurs familles, ces villes-là, et leurs villages.",
+        "OST": "Tel fut l'héritage de la tribu des enfants d'Issacar, selon leurs familles, ces villes-là et leurs villages.",
+        "S21": "Tel fut l'héritage des clans de la tribu d'Issacar. C’étaient ces villes-là avec leurs villages."
+      }
+    },
+    {
+      "verse": 24,
+      "texts": {
+        "BDS": "Le cinquième lot échut par le sort aux familles de la tribu d’Aser.",
+        "DBY": "Et le cinquième sort échut à la tribu des fils d'Aser, selon leurs familles.",
+        "KJV": "And the fifth lot came out for the tribe of the children of Asher according to their families.",
+        "LSG": "La cinquième part échut par le sort à la tribu des fils d'Aser, selon leurs familles.",
+        "MAB": "Le cinquième sort échut à la Tribu des enfants d'Aser, selon leurs familles.",
+        "OST": "Le cinquième sort échut à la tribu des enfants d'Asser, selon leurs familles.",
+        "S21": "La cinquième part fut attribuée par tirage au sort aux clans de la tribu d'Aser."
+      }
+    },
+    {
+      "verse": 25,
+      "texts": {
+        "BDS": "Leur territoire comprenait les villes de Helqath, Hali, Béten, Akchaph,",
+        "DBY": "Et leur territoire fut Helkath, et Hali, et Béten, et Acshaph,",
+        "KJV": "And their border was Helkath, and Hali, and Beten, and Achshaph,",
+        "LSG": "Leur limite passait par Helkath, Hali, Béthen, Acschaph,",
+        "MAB": "Et leur frontière fut Helkath, Hali, Beten, Acsaph,",
+        "OST": "Et leur frontière fut Helkath, Hali, Béten, Acshaph,",
+        "S21": "Leur frontière passait par Helkath, Hali, Béthen, Acshaph,"
+      }
+    },
+    {
+      "verse": 26,
+      "texts": {
+        "BDS": "Allammélek, Amead et Micheal. La frontière atteignait le mont Carmel à l’ouest, et Chihor-Libnath.",
+        "DBY": "et Allammélec, et Amhad, et Misheal; et la frontière touchait au Carmel, à l'occident, et au Shikhor-Libnath;",
+        "KJV": "And Alammelech, and Amad, and Misheal; and reacheth to Carmel westward, and to Shihorlibnath;",
+        "LSG": "Allammélec, Amead et Mischeal; elle touchait, vers l'occident, au Carmel et au Schichor-Libnath;",
+        "MAB": "Alammélec, Hamhad et Miséal; et elle se devait rencontrer à Carmel, [au quartier] vers la mer, et à Sihor vers Benath.",
+        "OST": "Allammélec, Améad, et Mishéal. Elle touchait vers l'occident au Carmel, et au torrent de Libnath;",
+        "S21": "Allammélec, Amead et Misheal; elle touchait, vers l'ouest, le Carmel et le Shichor-Libnath."
+      }
+    },
+    {
+      "verse": 27,
+      "texts": {
+        "BDS": "Puis elle tournait à l’est vers Beth-Dagôn, touchait le territoire de Zabulon et la vallée de Yiphtah-El, au nord de Beth-Emeq et Neïel, pour se prolonger vers Kaboul à gauche,",
+        "DBY": "et elle tournait vers le soleil levant, contre Beth-Dagon, et touchait à Zabulon et à la vallée de Jiphtah-El, au nord de Beth-Émek et de Neïel, et sortait vers Cabul au nord;",
+        "KJV": "And turneth toward the sunrising to Bethdagon, and reacheth to Zebulun, and to the valley of Jiphthahel toward the north side of Bethemek, and Neiel, and goeth out to Cabul on the left hand,",
+        "LSG": "puis elle tournait du côté de l'orient à Beth-Dagon, atteignait Zabulon et la vallée de Jiphthach-El au nord de Beth-Emek et de Neïel, et se prolongeait vers Cabul, à gauche,",
+        "MAB": "Puis elle devait retourner vers le soleil levant, à Beth-dagon, et se rencontrer en Zabulon, et à la vallée de Jiphtahel vers le Septentrion, [et à] Beth-hemek et Nehiel; puis sortir à main gauche vers Cabul.",
+        "OST": "Puis elle tournait au soleil levant vers Beth-Dagon, touchait à Zabulon, et à la vallée de Jiphthach-El au nord de Beth-Émek et de Neïel; puis elle sortait vers Cabul, à gauche;",
+        "S21": "Puis elle tournait du côté de l'est à Beth-Dagon, atteignait Zabulon et la vallée de Jiphthach-El au nord de Beth-Emek et de Neïel et se prolongeait vers Cabul, à gauche,"
+      }
+    },
+    {
+      "verse": 28,
+      "texts": {
+        "BDS": "Ebrôn, Rehob, Hammôn et Qana, jusqu’à Sidon-la-Grande.",
+        "DBY": "et vers Ébron, et Rehob, et Hammon, et Kana, jusqu'à Sidon la grande;",
+        "KJV": "And Hebron, and Rehob, and Hammon, and Kanah, [even] unto great Zidon;",
+        "LSG": "et vers Ebron, Rehob, Hammon et Kana, jusqu'à Sidon la grande.",
+        "MAB": "Et Hébron, et Rehob, et Hammon, et Cana, jusqu'à Sidon la grande.",
+        "OST": "Et vers Ébron, Réhob, Hammon, et Kana, jusqu'à Sidon la grande.",
+        "S21": "ainsi que vers Ebron, Rehob, Hammon et Kana jusqu'à Sidon la grande."
+      }
+    },
+    {
+      "verse": 29,
+      "texts": {
+        "BDS": "Ensuite elle tournait vers Rama et la forteresse de Tyr, partait vers Hosa, pour aboutir à la mer Méditerranée en passant dans la région d’Akzib,",
+        "DBY": "et la frontière tournait vers Rama et jusqu'à la ville forte de Tyr; et la frontière tournait vers Hosa, et aboutissait à la mer, près de la contrée d'Aczib;",
+        "KJV": "And [then] the coast turneth to Ramah, and to the strong city Tyre; and the coast turneth to Hosah; and the outgoings thereof are at the sea from the coast to Achzib:",
+        "LSG": "Elle tournait ensuite vers Rama jusqu'à la ville forte de Tyr, et vers Hosa, pour aboutir à la mer, par la contrée d'Aczib.",
+        "MAB": "Puis la frontière devait retourner à Rama, même jusqu'à Tsor, ville forte; puis cette frontière devait retourner à Hosa; tellement que ses extrémités, se devaient rendre au quartier qui est vers la mer, depuis la portion tirant vers Aczib;",
+        "OST": "La frontière tournait ensuite vers Rama jusqu'à la ville forte de Tyr; puis la frontière tournait vers Hosa, et aboutissait à la mer, à partir du district d'Aczib;",
+        "S21": "Elle tournait ensuite vers Rama jusqu'à la ville fortifiée de Tyr et vers Hosa, pour déboucher sur la mer en passant par la région d'Aczib."
+      }
+    },
+    {
+      "verse": 30,
+      "texts": {
+        "BDS": "puis par Oumma, Apheq et Rehob. Le territoire comprenait vingt-deux villes et leurs villages.",
+        "DBY": "et Umma, et Aphek, et Rehob: vingt-deux villes et leurs hameaux.",
+        "KJV": "Ummah also, and Aphek, and Rehob: twenty and two cities with their villages.",
+        "LSG": "De plus, Umma, Aphek et Rehob. Vingt-deux villes, et leurs villages.",
+        "MAB": "Avec Hummah, et Aphek, et Rehob; vingt-deux villes, et leurs villages.",
+        "OST": "Avec Umma, Aphek, et Réhob: vingt-deux villes et leurs villages.",
+        "S21": "Leur territoire comprenait de plus Umma, Aphek et Rehob. Il y avait 22 villes avec leurs villages."
+      }
+    },
+    {
+      "verse": 31,
+      "texts": {
+        "BDS": "Tel fut le patrimoine des familles de la tribu d’Aser avec leurs villes et leurs villages.",
+        "DBY": "Tel fut l'héritage de la tribu des fils d'Aser, selon leurs familles: ces villes-là et leurs hameaux.",
+        "KJV": "This [is] the inheritance of the tribe of the children of Asher according to their families, these cities with their villages.",
+        "LSG": "Tel fut l'héritage de la tribu des fils d'Aser, selon leurs familles, ces villes-là et leurs villages.",
+        "MAB": "Tel fut l'héritage de la Tribu des enfants d'Aser, selon leurs familles; ces villes-là et leurs villages.",
+        "OST": "Tel fut l'héritage de la tribu des enfants d'Asser, selon leurs familles, ces villes-là et leurs villages.",
+        "S21": "Tel fut l'héritage des clans de la tribu d'Aser. C’étaient ces villes-là et leurs villages."
+      }
+    },
+    {
+      "verse": 32,
+      "texts": {
+        "BDS": "Le sixième lot échut par le sort aux familles de Nephtali.",
+        "DBY": "Le sixième sort échut aux fils de Nephthali, pour les fils de Nephthali, selon leurs familles.",
+        "KJV": "The sixth lot came out to the children of Naphtali, [even] for the children of Naphtali according to their families.",
+        "LSG": "La sixième part échut par le sort aux fils de Nephthali, selon leurs familles.",
+        "MAB": "Le sixième sort échut aux enfants de Nephthali, pour les enfants de Nephthali, selon leurs familles.",
+        "OST": "Le sixième sort échut aux enfants de Nephthali, aux enfants de Nephthali selon leurs familles.",
+        "S21": "La sixième part fut attribuée par tirage au sort aux clans des Nephthalites."
+      }
+    },
+    {
+      "verse": 33,
+      "texts": {
+        "BDS": "Leur frontière partait de Héleph et du chêne de Tsaanannim, puis passait par Adami-Nékeb et Yabneél pour aller à Lakkoum et déboucher sur le Jourdain.",
+        "DBY": "Et leur frontière fut depuis Héleph, depuis le chêne de Tsaanannim, et Adami-Nékeb, et Jabneël, jusqu'à Lakkum, et elle aboutissait au Jourdain;",
+        "KJV": "And their coast was from Heleph, from Allon to Zaanannim, and Adami, Nekeb, and Jabneel, unto Lakum; and the outgoings thereof were at Jordan:",
+        "LSG": "Leur limite s'étendait depuis Héleph, depuis Allon, par Tsaanannim, Adami-Nékeb et Jabneel, jusqu'à Lakkum, et elle aboutissait au Jourdain.",
+        "MAB": "Et leur frontière fut depuis Heleph, [et] depuis Allon à Tsahannim, et Adami-nekeb, et Jabnéel jusqu'à Lakkum, tellement que ses extrémités se devaient rendre au Jourdain.",
+        "OST": "Et leur frontière fut depuis Héleph, depuis le Chêne à Tsaanannim, Adami-Nékeb et Jabnéel, jusqu'à Lakkum; et elle aboutissait au Jourdain.",
+        "S21": "Leur frontière s'étendait depuis Héleph, depuis le chêne de Tsaanannim, passait par Adami-Nékeb et Jabneel jusqu'à Lakkum et débouchait sur le Jourdain."
+      }
+    },
+    {
+      "verse": 34,
+      "texts": {
+        "BDS": "Elle tournait à l’ouest vers Aznoth-Tabor, et de là se dirigeait vers Houqoq et touchait le territoire de Zabulon au sud, puis celui d’Aser à l’ouest. A l’est, elle était constituée par le Jourdain.",
+        "DBY": "et la frontière tournait vers l'occident, contre Aznoth-Thabor, et sortait de là vers Hukkok, et touchait au midi à Zabulon; et à l'occident elle touchait à Aser, et à Juda sur le Jourdain au soleil levant.",
+        "KJV": "And [then] the coast turneth westward to Aznothtabor, and goeth out from thence to Hukkok, and reacheth to Zebulun on the south side, and reacheth to Asher on the west side, and to Judah upon Jordan toward the sunrising.",
+        "LSG": "Elle tournait vers l'occident à Aznoth-Thabor, et de là continuait à Hukkok; elle touchait à Zabulon du côté du midi, à Aser du côté de l'occident, et à Juda; le Jourdain était du côté de l'orient.",
+        "MAB": "Puis cette frontière devait retourner du côté d'Occident, vers Aznoth-Tabor, et sortir de là à Hukkok; tellement que du côté du Midi elle devait se rencontrer en Zabulon, et du côté d'Occident elle devait se rencontrer en Aser. Or jusqu'en Juda le Jourdain [était au] soleil levant.",
+        "OST": "Puis la frontière tournait vers l'occident, à Aznoth-Thabor, sortait de là vers Hukkok. Du côté du midi elle touchait à Zabulon, et du côté de l'occident elle touchait à Asser et à Juda; le Jourdain était au soleil levant.",
+        "S21": "Elle tournait vers l'ouest à Aznoth-Thabor et de là continuait à Hukkok. Elle touchait Zabulon du côté du sud, Aser du côté de l'ouest et Juda. Le Jourdain était du côté de l'est."
+      }
+    },
+    {
+      "verse": 35,
+      "texts": {
+        "BDS": "Les villes fortifiées étaient Tsiddim, Tser, Hammath, Raqqath, Kinnéreth,",
+        "DBY": "Et les villes fortes étaient: Tsiddim, Tser, et Hammath, Rakkath, et Kinnéreth,",
+        "KJV": "And the fenced cities [are] Ziddim, Zer, and Hammath, Rakkath, and Chinnereth,",
+        "LSG": "Les villes fortes étaient: Tsiddim, Tser, Hammath, Rakkath, Kinnéreth,",
+        "MAB": "Au reste, les villes closes étaient Tsiddim, Tser, Hammath, Rakkath, Kinnereth,",
+        "OST": "Et les villes fortes étaient Tsiddim, Tser, Hammath, Rakkath, Kinnéreth,",
+        "S21": "Les villes fortifiées étaient Tsiddim, Tser, Hammath, Rakkath, Génésareth,"
+      }
+    },
+    {
+      "verse": 36,
+      "texts": {
+        "BDS": "Adama, Rama, Hatsor;",
+        "DBY": "et Adama, et Rama, et Hatsor,",
+        "KJV": "And Adamah, and Ramah, and Hazor,",
+        "LSG": "Adama, Rama, Hatsor,",
+        "MAB": "Adama, Rama, Hatsor,",
+        "OST": "Adama, Rama, Hatsor,",
+        "S21": "Adama, Rama, Hatsor,"
+      }
+    },
+    {
+      "verse": 37,
+      "texts": {
+        "BDS": "Qédech, Edréi, Eyn-Hatsor;",
+        "DBY": "et Kédesh, et Édréhi, et En-Hatsor,",
+        "KJV": "And Kedesh, and Edrei, and Enhazor,",
+        "LSG": "Kédesch, Edréï, En-Hatsor,",
+        "MAB": "Kédès, Edréhi, Hen-Hatsor,",
+        "OST": "Kédès, Édréï, En-Hatsor,",
+        "S21": "Kédesh, Edreï, En-Hatsor,"
+      }
+    },
+    {
+      "verse": 38,
+      "texts": {
+        "BDS": "Yireôn, Migdal-El, Horem, Beth-Anath et Beth-Chémech: soit dix-neuf villes et les villages qui en dépendaient.",
+        "DBY": "et Jireon, et Migdal-El, Horem, et Beth-Anath, et Beth-Shémesh: dix-neuf villes et leurs hameaux.",
+        "KJV": "And Iron, and Migdalel, Horem, and Bethanath, and Bethshemesh; nineteen cities with their villages.",
+        "LSG": "Jireon, Migdal-El, Horem, Beth-Anath et Beth-Schémesch. Dix-neuf villes, et leurs villages.",
+        "MAB": "Jireon, Migdal-el, Harem, Beth-hanath et Beth-semes; dix-neuf villes et leurs villages.",
+        "OST": "Jiréon, Migdal-El, Horem, Beth-Anath, et Beth-Shémesh: dix-neuf villes et leurs villages.",
+        "S21": "Jireon, Migdal-El, Horem, Beth-Anath et Beth-Shémesh. Il y avait 19 villes avec leurs villages."
+      }
+    },
+    {
+      "verse": 39,
+      "texts": {
+        "BDS": "Tel fut le patrimoine des familles de la tribu de Nephtali avec leurs villes et les villages qui en dépendaient.",
+        "DBY": "Tel fut l'héritage de la tribu des fils de Nephthali, selon leurs familles: ces villes et leurs hameaux.",
+        "KJV": "This [is] the inheritance of the tribe of the children of Naphtali according to their families, the cities and their villages.",
+        "LSG": "Tel fut l'héritage de la tribu des fils de Nephthali, selon leurs familles, ces villes-là et leurs villages.",
+        "MAB": "Tel fut l'héritage de la Tribu des enfants de Nephthali, selon leurs familles; ces villes-là, et leurs villages.",
+        "OST": "Tel fut l'héritage de la tribu des enfants de Nephthali, selon leurs familles, ces villes-là et leurs villages.",
+        "S21": "Tel fut l'héritage des clans de la tribu de Nephthali. C’étaient ces villes-là et leurs villages."
+      }
+    },
+    {
+      "verse": 40,
+      "texts": {
+        "BDS": "La septième part fut attribuée par le sort aux familles de la tribu de Dan.",
+        "DBY": "Le septième sort échut à la tribu des fils de Dan, selon leurs familles.",
+        "KJV": "[And] the seventh lot came out for the tribe of the children of Dan according to their families.",
+        "LSG": "La septième part échut par le sort à la tribu des fils de Dan, selon leurs familles.",
+        "MAB": "Le septième sort échut à la Tribu des enfants de Dan selon leurs familles.",
+        "OST": "Le septième sort échut à la tribu des enfants de Dan, selon leurs familles.",
+        "S21": "La septième part fut attribuée par tirage au sort aux clans de la tribu de Dan."
+      }
+    },
+    {
+      "verse": 41,
+      "texts": {
+        "BDS": "Le territoire qu’ils reçurent en possession comprenait Tsorea, Echtaol, Ir-Chémech:",
+        "DBY": "Et le territoire de leur héritage fut: Tsorha, et Eshtaol, et Ir-Shémesh,",
+        "KJV": "And the coast of their inheritance was Zorah, and Eshtaol, and Irshemesh,",
+        "LSG": "La limite de leur héritage comprenait Tsorea, Eschthaol, Ir-Schémesch,",
+        "MAB": "Et la contrée de leur héritage fut, Tsorah, Estaol, Hir-semes,",
+        "OST": "Et la contrée de leur héritage fut Tsoréa, Eshthaol, Ir-Shémesh,",
+        "S21": "Le territoire dont ils héritèrent comprenait Tsorea, Eshthaol, Ir-Shémesh,"
+      }
+    },
+    {
+      "verse": 42,
+      "texts": {
+        "BDS": "Chaalabbîn, Ayalôn, Yitla;",
+        "DBY": "et Shaalabbin, et Ajalon, et Jithla,",
+        "KJV": "And Shaalabbin, and Ajalon, and Jethlah,",
+        "LSG": "Schaalabbin, Ajalon, Jithla,",
+        "MAB": "Sahalabim, Ajalon, Jithla,",
+        "OST": "Shaalabbin, Ajalon, Jithla,",
+        "S21": "Shaalabbin, Ajalon, Jithla,"
+      }
+    },
+    {
+      "verse": 43,
+      "texts": {
+        "BDS": "Elôn, Timnata, Ekron:",
+        "DBY": "et Élon, et Thimnatha, et Ékron,",
+        "KJV": "And Elon, and Thimnathah, and Ekron,",
+        "LSG": "Elon, Thimnatha, Ekron,",
+        "MAB": "Elon, Timnatha, Hekron,",
+        "OST": "Élon, Thimnatha, Ékron,",
+        "S21": "Elon, Thimnatha, Ekron,"
+      }
+    },
+    {
+      "verse": 44,
+      "texts": {
+        "BDS": "Elteqé, Guibbetôn, Baalath;",
+        "DBY": "et Eltheké, et Guibbethon, et Baalath,",
+        "KJV": "And Eltekeh, and Gibbethon, and Baalath,",
+        "LSG": "Eltheké, Guibbethon, Baalath,",
+        "MAB": "Elteké, Guibbethon, Bahalath,",
+        "OST": "Eltheké, Guibbethon, Baalath,",
+        "S21": "Eltheké, Guibbethon, Baalath,"
+      }
+    },
+    {
+      "verse": 45,
+      "texts": {
+        "BDS": "Yehoud, Bené-Beraq, Gath-Rimmôn;",
+        "DBY": "et Jehud, et Bené-Berak, et Gath-Rimmon,",
+        "KJV": "And Jehud, and Beneberak, and Gathrimmon,",
+        "LSG": "Jehud, Bené-Berak, Gath-Rimmon,",
+        "MAB": "Jehud, Bené-berak, Gath-rimmon,",
+        "OST": "Jéhud, Bené-Bérak, Gath-Rimmon,",
+        "S21": "Jehud, Bené-Berak, Gath-Rimmon,"
+      }
+    },
+    {
+      "verse": 46,
+      "texts": {
+        "BDS": "le cours du Yarqôn et le territoire en face de Jaffa. —",
+        "DBY": "et Mé-Jarkon, et Rakkon, avec la frontière vis-à-vis de Japho.",
+        "KJV": "And Mejarkon, and Rakkon, with the border before Japho.",
+        "LSG": "Mé-Jarkon et Rakkon, avec le territoire vis-à-vis de Japho.",
+        "MAB": "Me-jarkon, et Rakkon, avec les limites qui sont vis-à-vis de Japho.",
+        "OST": "Mé-Jarkon et Rakkon, avec le territoire vis-à-vis de Japho.",
+        "S21": "Mé-Jarkon et Rakkon, avec le territoire qui fait face à Jaffa."
+      }
+    },
+    {
+      "verse": 47,
+      "texts": {
+        "BDS": "Mais le territoire des Danites leur échappa. Alors les Danites allèrent attaquer Léchem. Ils s’emparèrent de la ville et en tuèrent les habitants, puis ils en prirent possession et s’y installèrent. Ils donnèrent à Léchem le nom de Dan, du nom de leur ancêtre. —",
+        "DBY": "Et la frontière des fils de Dan se terminait par elles. Et les fils de Dan montèrent et combattirent contre Léshem, et la prirent, et la frappèrent par le tranchant de l'épée, et en prirent possession et y habitèrent; et il appelèrent Léshem, Dan, du nom de Dan, leur père.",
+        "KJV": "And the coast of the children of Dan went out [too little] for them: therefore the children of Dan went up to fight against Leshem, and took it, and smote it with the edge of the sword, and possessed it, and dwelt therein, and called Leshem, Dan, after the name of Dan their father.",
+        "LSG": "Le territoire des fils de Dan s'étendait hors de chez eux. Les fils de Dan montèrent et combattirent contre Léschem; ils s'en emparèrent et la frappèrent du tranchant de l'épée; ils en prirent possession, s'y établirent, et l'appelèrent Dan, du nom de Dan, leur père.",
+        "MAB": "Or la contrée qui était échue aux enfants de Dan, était [trop petite] pour eux; c'est pourquoi les enfants de Dan montèrent, et combattirent contre Lesem, et la prirent, et la frappèrent au tranchant de l'épée, et la possédèrent, et y habitèrent; et ils appelèrent Lesem, Dan, du nom de Dan leur père.",
+        "OST": "Or, le territoire des enfants de Dan s'étendit hors de chez eux; les enfants de Dan montèrent et combattirent contre Léshem, la prirent, et la firent passer au fil de l'épée; ils en prirent possession, et y habitèrent, et appelèrent Léshem, Dan, du nom de Dan, leur père.",
+        "S21": "Toutefois, le territoire des Danites dépassa ces limites. Les Danites montèrent et combattirent contre Léshem. Ils s'en emparèrent et la frappèrent du tranchant de l'épée. Ils en prirent possession, s'y installèrent et l'appelèrent Dan, du nom de leur ancêtre Dan."
+      }
+    },
+    {
+      "verse": 48,
+      "texts": {
+        "BDS": "Tel fut le patrimoine des familles de la tribu de Dan, avec leurs villes et les villages qui en dépendaient.",
+        "DBY": "Tel fut l'héritage de la tribu des fils de Dan, selon leurs familles: ces villes-là et leurs hameaux.",
+        "KJV": "This [is] the inheritance of the tribe of the children of Dan according to their families, these cities with their villages.",
+        "LSG": "Tel fut l'héritage de la tribu des fils de Dan, selon leurs familles, ces villes-là et leurs villages.",
+        "MAB": "Tel fut l'héritage de la Tribu des enfants de Dan selon leurs familles; ces villes-là, et leurs villages.",
+        "OST": "Tel fut l'héritage de la tribu des enfants de Dan, selon leurs familles, ces villes-là et leurs villages.",
+        "S21": "Tel fut l'héritage des clans de la tribu de Dan. C’étaient ces villes-là et leurs villages."
+      }
+    },
+    {
+      "verse": 49,
+      "texts": {
+        "BDS": "Lorsque les Israélites eurent fini de partager le pays en patrimoines délimités, ils attribuèrent un patrimoine à Josué, fils de Noun, parmi les leurs.",
+        "DBY": "Et quand on eut achevé de partager le pays selon ses frontières, les fils d'Israël donnèrent un héritage au milieu d'eux à Josué, fils de Nun.",
+        "KJV": "When they had made an end of dividing the land for inheritance by their coasts, the children of Israel gave an inheritance to Joshua the son of Nun among them:",
+        "LSG": "Lorsqu'ils eurent achevé de faire le partage du pays, d'après ses limites, les enfants d'Israël donnèrent à Josué, fils de Nun, une possession au milieu d'eux.",
+        "MAB": "Au reste après qu'on eut achevé de partager le pays selon ses confins, les enfants d'Israël donnèrent un héritage parmi eux à Josué fils de Nun.",
+        "OST": "Quand on eut achevé de partager le pays selon ses limites, les enfants d'Israël donnèrent au milieu d'eux un héritage à Josué, fils de Nun.",
+        "S21": "Lorsqu'ils eurent fini de procéder au partage du pays d'après ses frontières, les Israélites donnèrent à Josué, fils de Nun, une possession au milieu d'eux."
+      }
+    },
+    {
+      "verse": 50,
+      "texts": {
+        "BDS": "Sur l’ordre de l’Eternel, ils lui donnèrent la ville qu’il avait demandée, c’est-à-dire Timnath-Sérah dans la région montagneuse d’Ephraïm. Josué rebâtit la ville et s’y installa.",
+        "DBY": "Selon le commandement de l'Éternel, ils lui donnèrent la ville qu'il demanda: Thimnath-Sérakh, dans la montagne d'Éphraïm; et il bâtit la ville, et y habita.",
+        "KJV": "According to the word of the LORD they gave him the city which he asked, [even] Timnathserah in mount Ephraim: and he built the city, and dwelt therein.",
+        "LSG": "Selon l'ordre de l'Eternel, ils lui donnèrent la ville qu'il demanda, Thimnath-Sérach, dans la montagne d'Ephraïm. Il rebâtit la ville, et y fit sa demeure.",
+        "MAB": "Selon le commandement de l'Eternel; ils lui donnèrent la ville qu'il demanda; [savoir] Timnath-sérah en la montagne d'Ephraïm; et il bâtit la ville, et y habita.",
+        "OST": "Selon l'ordre de l'Éternel, ils lui donnèrent la ville qu'il demanda: Thimnath-Sérach, dans la montagne d'Éphraïm. Il bâtit la ville et y habita.",
+        "S21": "Conformément à l'ordre de l'Eternel, ils lui donnèrent la ville qu'il avait demandée: Thimnath-Sérach, dans la région montagneuse d'Ephraïm. Josué reconstruisit la ville et y habita."
+      }
+    },
+    {
+      "verse": 51,
+      "texts": {
+        "BDS": "Tels furent les patrimoines que le prêtre Eléazar, Josué, fils de Noun, et les chefs des groupes familiaux des tribus d’Israël attribuèrent par tirage au sort, à Silo, devant l’Eternel, à l’entrée de la tente de la Rencontre. Ainsi fut achevé le partage du pays.",
+        "DBY": "Ce sont là les héritages qu'Éléazar, le sacrificateur, et Josué, fils de Nun, et les chefs des pères des tribus des fils d'Israël, distribuèrent par le sort, à Silo, devant l'Éternel, à l'entrée de la tente d'assignation; et ils achevèrent le partage du pays.",
+        "KJV": "These [are] the inheritances, which Eleazar the priest, and Joshua the son of Nun, and the heads of the fathers of the tribes of the children of Israel, divided for an inheritance by lot in Shiloh before the LORD, at the door of the tabernacle of the congregation. So they made an end of dividing the country.",
+        "LSG": "Tels sont les héritages que le sacrificateur Eléazar, Josué, fils de Nun, et les chefs de famille des tribus des enfants d'Israël, distribuèrent par le sort devant l'Eternel à Silo, à l'entrée de la tente d'assignation. Ils achevèrent ainsi le partage du pays.",
+        "MAB": "Ce sont là les héritages qu'Eléazar le Sacrificateur, et Josué, fils de Nun, et les chefs des pères des Tribus des enfants d'Israël partagèrent par sort en Silo, devant l'Eternel, à l'entrée du Tabernacle d'assignation, et ils achevèrent [ainsi] de partager le pays.",
+        "OST": "Tels sont les héritages qu'Éléazar le sacrificateur, Josué, fils de Nun, et les chefs des familles des tribus des enfants d'Israël distribuèrent par le sort à Silo, devant l'Éternel, à l'entrée du tabernacle d'assignation. C'est ainsi qu'ils achevèrent le partage du pays.",
+        "S21": "Tels sont les héritages que le prêtre Eléazar, Josué, fils de Nun, et les chefs de famille des tribus israélites distribuèrent par tirage au sort devant l'Eternel à Silo, à l'entrée de la tente de la rencontre. Ils mirent ainsi un terme au partage du pays."
+      }
+    }
+  ]
+}

@@ -1,0 +1,282 @@
+{
+  "bookCode": "MAT",
+  "chapter": 2,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "Jésus était né à Bethléhem en Judée, sous le règne du roi Hérode. Or, des mages venant de l’Orient arrivèrent à Jérusalem.",
+        "DBY": "Or, après que Jésus fut né à Bethléhem de Judée, aux jours du roi Hérode, voici, des mages de l'orient arrivèrent à Jérusalem, disant:",
+        "KJV": "Now when Jesus was born in Bethlehem of Judaea in the days of Herod the king, behold, there came wise men from the east to Jerusalem,",
+        "LSG": "Jésus étant né à Bethléhem en Judée, au temps du roi Hérode, voici des mages d'Orient arrivèrent à Jérusalem,",
+        "MAB": "Or Jésus étant né à Bethléhem, [ville] de Juda, au temps du Roi Hérode, voici arriver des Sages d'Orient à Jérusalem.",
+        "OST": "Jésus étant né à Bethléhem, de Judée, au temps du roi Hérode, des mages d'Orient arrivèrent à Jérusalem,",
+        "S21": "Jésus naquit à Bethléhem en Judée, à l’époque du roi Hérode. Or, des mages venus d'Orient arrivèrent à Jérusalem"
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "Ils demandaient:\r\n—Où est le roi des Juifs qui vient de naître? Nous avons vu se lever son étoile, et nous sommes venus lui rendre hommage.",
+        "DBY": "Où est le roi des Juifs qui a été mis au monde? Car nous avons vu son étoile dans l'orient, et nous sommes venus lui rendre hommage.",
+        "KJV": "Saying, Where is he that is born King of the Jews? for we have seen his star in the east, and are come to worship him.",
+        "LSG": "et dirent: Où est le roi des Juifs qui vient de naître? car nous avons vu son étoile en Orient, et nous sommes venus pour l'adorer.",
+        "MAB": "En disant : où est le Roi des Juifs qui est né? car nous avons vu son étoile en Orient, et nous sommes venus l'adorer.",
+        "OST": "Et dirent: Où est le roi des Juifs qui est né? car nous avons vu son étoile en Orient, et nous sommes venus l'adorer.",
+        "S21": "et dirent: «Où est le roi des Juifs qui vient de naître? En effet, nous avons vu son étoile en Orient et nous sommes venus pour l'adorer.»"
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "Quand le roi Hérode apprit la nouvelle, il en fut profondément troublé, et tout Jérusalem avec lui.",
+        "DBY": "Mais le roi Hérode, l'ayant ouï dire, en fut troublé, et tout Jérusalem avec lui;",
+        "KJV": "When Herod the king had heard [these things], he was troubled, and all Jerusalem with him.",
+        "LSG": "Le roi Hérode, ayant appris cela, fut troublé, et tout Jérusalem avec lui.",
+        "MAB": "Ce que le Roi Hérode ayant entendu, il en fut troublé, et tout Jérusalem avec lui.",
+        "OST": "Le roi Hérode, l'ayant appris, en fut troublé, et tout Jérusalem avec lui.",
+        "S21": "Quand le roi Hérode apprit cela, il fut troublé et tout Jérusalem avec lui."
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "Il convoqua tous les chefs des prêtres et les spécialistes de la Loi que comptait son peuple et il leur demanda où devait naître le Messie.",
+        "DBY": "et ayant assemblé tous les principaux sacrificateurs et scribes du peuple, il s'enquit d'eux où le Christ devait naître.",
+        "KJV": "And when he had gathered all the chief priests and scribes of the people together, he demanded of them where Christ should be born.",
+        "LSG": "Il assembla tous les principaux sacrificateurs et les scribes du peuple, et il s'informa auprès d'eux où devait naître le Christ.",
+        "MAB": "Et ayant assemblé tous les principaux Sacrificateurs, et les Scribes du peuple, il s'informa d'eux où le Christ devait naître.",
+        "OST": "Et ayant assemblé tous les principaux sacrificateurs et les scribes du peuple, il s'informa d'eux où le Christ devait naître.",
+        "S21": "Il rassembla tous les chefs des prêtres et spécialistes de la loi que comptait le peuple et leur demanda où le Messie devait naître."
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "—A Bethléhem en Judée, lui répondirent-ils, car voici ce que le prophète a écrit:",
+        "DBY": "Et ils lui dirent: A Bethléhem de Judée; car il est ainsi écrit par le prophète:",
+        "KJV": "And they said unto him, In Bethlehem of Judaea: for thus it is written by the prophet,",
+        "LSG": "Ils lui dirent: A Bethléhem en Judée; car voici ce qui a été écrit par le prophète:",
+        "MAB": "Et ils lui dirent : à Bethléhem, [ville] de Judée; car il est ainsi écrit par un Prophète :",
+        "OST": "Et ils lui dirent: C'est à Bethléhem, de Judée; car il a été écrit ainsi par le prophète:",
+        "S21": "Ils lui dirent: «A Bethléhem en Judée, car voici ce qui a été écrit par le prophète:"
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "Et toi, Bethléhem, village de Judée,\r\ntu n’es certes pas le plus insignifiant\r\ndes chefs-lieux de Juda,\r\ncar c’est de toi que sortira le chef\r\nqui, comme un berger, conduira Israël mon peuple.",
+        "DBY": "\"Et toi, Bethléhem, terre de Juda, tu n'es nullement la plus petite parmi les gouverneurs de Juda, car de toi sortira un conducteur qui paîtra mon peuple Israël\".",
+        "KJV": "And thou Bethlehem, [in] the land of Juda, art not the least among the princes of Juda: for out of thee shall come a Governor, that shall rule my people Israel.",
+        "LSG": "Et toi, Bethléhem, terre de Juda, Tu n'es certes pas la moindre entre les principales villes de Juda, Car de toi sortira un chef Qui paîtra Israël, mon peuple.",
+        "MAB": "Et toi, Bethléhem, terre de Juda, tu n'es nullement la plus petite entre les Gouverneurs de Juda, car de toi sortira le Conducteur qui paîtra mon peuple d'Israël.",
+        "OST": "Et toi, Bethléhem, terre de Juda, tu n'es pas la moindre entre les principales villes de Juda; car c'est de toi que sortira le Conducteur qui paîtra Israël mon peuple.",
+        "S21": "Et toi, Bethléhem, terre de Juda, tu n'es certes pas la plus petite parmi les principales villes de Juda, car de toi sortira un chef qui prendra soin d’Israël, mon peuple.»"
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "Là-dessus, Hérode fit appeler secrètement les mages et se fit préciser à quel moment l’étoile leur était apparue.",
+        "DBY": "Alors Hérode, ayant appelé secrètement les mages, s'informa exactement auprès d'eux du temps de l'étoile qui apparaissait;",
+        "KJV": "Then Herod, when he had privily called the wise men, enquired of them diligently what time the star appeared.",
+        "LSG": "Alors Hérode fit appeler en secret les mages, et s'enquit soigneusement auprès d'eux depuis combien de temps l'étoile brillait.",
+        "MAB": "Alors Hérode ayant appelé en secret les Sages, s'informa d'eux soigneusement du temps que l'étoile leur était apparue.",
+        "OST": "Alors Hérode, ayant appelé en secret les mages, s'informa d'eux exactement du temps auquel avait paru l'étoile.",
+        "S21": "Alors Hérode fit appeler en secret les mages; il s'informa soigneusement auprès d'eux du moment où l'étoile était apparue,"
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "Puis il les envoya à Bethléhem en disant:\r\n—Allez là-bas et renseignez-vous avec précision sur cet enfant; puis, quand vous l’aurez trouvé, venez me le faire savoir, pour que j’aille, moi aussi, lui rendre hommage.",
+        "DBY": "et les ayant envoyés à Bethléhem, il dit: Allez et enquérez-vous exactement touchant le petit enfant; et quand vous l'aurez trouvé, faites-le-moi savoir, en sorte que moi aussi j'aille lui rendre hommage.",
+        "KJV": "And he sent them to Bethlehem, and said, Go and search diligently for the young child; and when ye have found [him], bring me word again, that I may come and worship him also.",
+        "LSG": "Puis il les envoya à Bethléhem, en disant: Allez, et prenez des informations exactes sur le petit enfant; quand vous l'aurez trouvé, faites-le-moi savoir, afin que j'aille aussi moi-même l'adorer.",
+        "MAB": "Et les envoyant à Bethléhem, il leur dit : Allez, et vous informez soigneusement touchant le petit enfant; et quand vous l'aurez trouvé, faites-le-moi savoir, afin que j'y aille aussi, et que je l'adore.",
+        "OST": "Et les envoyant à Bethléhem, il leur dit: Allez, et informez-vous exactement du petit enfant, et quand vous l'aurez trouvé, faites-le-moi savoir, afin que j'y aille aussi, et que je l'adore.",
+        "S21": "puis il les envoya à Bethléhem en disant: «Allez prendre des informations exactes sur le petit enfant. Quand vous l'aurez trouvé, faites-le-moi savoir, afin que j'aille moi aussi l'adorer.»"
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "Quand le roi leur eut donné ces instructions, les mages se mirent en route. Et voici: l’étoile qu’ils avaient vu se lever les précédait. Elle parvint au-dessus de l’endroit où se trouvait le petit enfant. Et là, elle s’arrêta.",
+        "DBY": "Et eux, ayant ouï le roi, s'en allèrent; et voici, l'étoile qu'ils avaient vue dans l'orient allait devant eux, jusqu'à ce qu'elle vint et se tint au-dessus du lieu où était le petit enfant.",
+        "KJV": "When they had heard the king, they departed; and, lo, the star, which they saw in the east, went before them, till it came and stood over where the young child was.",
+        "LSG": "Après avoir entendu le roi, ils partirent. Et voici, l'étoile qu'ils avaient vue en Orient marchait devant eux jusqu'à ce qu'étant arrivée au-dessus du lieu où était le petit enfant, elle s'arrêta.",
+        "MAB": "Eux donc ayant ouï le Roi, s'en allèrent, et voici, l'étoile qu'ils avaient vue en Orient allait devant eux, jusqu'à ce qu'elle vint et s'arrêta sur le lieu où était le petit enfant.",
+        "OST": "Eux donc, ayant entendu le roi, s'en allèrent; et voici, l'étoile qu'ils avaient vue en Orient allait devant eux, jusqu'à ce qu'étant arrivée sur le lieu où était le petit enfant, elle s'y arrêta.",
+        "S21": "Après avoir entendu le roi, ils partirent. L'étoile qu'ils avaient vue en Orient allait devant eux jusqu'au moment où, arrivée au-dessus de l'endroit où était le petit enfant, elle s'arrêta."
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "En revoyant l’étoile, les mages furent remplis de joie.",
+        "DBY": "Et quand ils virent l'étoile, ils se réjouirent d'une fort grande joie.",
+        "KJV": "When they saw the star, they rejoiced with exceeding great joy.",
+        "LSG": "Quand ils aperçurent l'étoile, ils furent saisis d'une très grande joie.",
+        "MAB": "Et quand ils virent l'étoile, ils se réjouirent d'une fort grande joie.",
+        "OST": "Or à la vue de l'étoile ils furent remplis d'une très grande joie.",
+        "S21": "Quand ils aperçurent l'étoile, ils furent remplis d'une très grande joie."
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "Ils entrèrent dans la maison, virent l’enfant avec Marie, sa mère et, tombant à genoux, ils lui rendirent hommage. Puis ils ouvrirent leurs coffrets et lui offrirent en cadeau de l’or, de l’encens et de la myrrhe.",
+        "DBY": "Et étant entrés dans la maison, ils virent le petit enfant avec Marie sa mère; et, se prosternant, ils lui rendirent hommage; et ayant ouvert leurs trésors, ils lui offrirent des dons, de l'or, et de l'encens, et de la myrrhe.",
+        "KJV": "And when they were come into the house, they saw the young child with Mary his mother, and fell down, and worshipped him: and when they had opened their treasures, they presented unto him gifts; gold, and frankincense, and myrrh.",
+        "LSG": "Ils entrèrent dans la maison, virent le petit enfant avec Marie, sa mère, se prosternèrent et l'adorèrent; ils ouvrirent ensuite leurs trésors, et lui offrirent en présent de l'or, de l'encens et de la myrrhe.",
+        "MAB": "Et entrés dans la maison, ils trouvèrent le petit enfant avec Marie sa mère, lequel ils adorèrent, en se prosternant en terre; et après avoir déployé leurs trésors, ils lui offrirent des présents, [savoir], de l'or, de l'encens et de la myrrhe.",
+        "OST": "Et étant entrés dans la maison, ils trouvèrent le petit enfant, avec Marie sa mère, et se prosternant devant lui ils l'adorèrent; et ouvrant leurs trésors, ils lui présentèrent des dons, de l'or, de l'encens et de la myrrhe.",
+        "S21": "Ils entrèrent dans la maison, virent le petit enfant avec Marie, sa mère, se prosternèrent et l'adorèrent. Ensuite, ils ouvrirent leurs trésors et lui offrirent en cadeau de l'or, de l'encens et de la myrrhe."
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "Cependant, Dieu les avertit par un rêve de ne pas retourner auprès d’Hérode. Ils regagnèrent donc leur pays par un autre chemin.",
+        "DBY": "Et étant avertis divinement, en songe, de ne pas retourner vers Hérode, ils se retirèrent dans leur pays par un autre chemin.",
+        "KJV": "And being warned of God in a dream that they should not return to Herod, they departed into their own country another way.",
+        "LSG": "Puis, divinement avertis en songe de ne pas retourner vers Hérode, ils regagnèrent leur pays par un autre chemin.",
+        "MAB": "Puis étant divinement avertis dans un songe, de ne retourner point vers Hérode, ils se retirèrent en leur pays par un autre chemin.",
+        "OST": "Puis, ayant été divinement avertis par un songe de ne pas retourner vers Hérode, ils se retirèrent en leur pays par un autre chemin.",
+        "S21": "Puis, avertis dans un rêve de ne pas retourner vers Hérode, ils regagnèrent leur pays par un autre chemin."
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "Après leur départ, un ange du Seigneur apparut à Joseph dans un rêve et lui dit:\r\n—Lève-toi, prends l’enfant et sa mère, et fuis en Egypte. Tu y resteras jusqu’à ce que je te dise de revenir, car Hérode fera rechercher l’enfant pour le tuer.",
+        "DBY": "Or, après qu'ils se furent retirés, voici, un ange du Seigneur apparut en songe à Joseph, disant: Lève-toi, prends le petit enfant et sa mère, et fuis en Égypte, et demeure là jusqu'à ce que je te le dise; car Hérode cherchera le petit enfant pour le faire périr.",
+        "KJV": "And when they were departed, behold, the angel of the Lord appeareth to Joseph in a dream, saying, Arise, and take the young child and his mother, and flee into Egypt, and be thou there until I bring thee word: for Herod will seek the young child to destroy him.",
+        "LSG": "Lorsqu'ils furent partis, voici, un ange du Seigneur apparut en songe à Joseph, et dit: Lève-toi, prends le petit enfant et sa mère, fuis en Egypte, et restes-y jusqu'à ce que je te parle; car Hérode cherchera le petit enfant pour le faire périr.",
+        "MAB": "Or après qu'ils se furent retirés, voici, l'Ange du Seigneur apparut dans un songe à Joseph, et lui dit : lève-toi, et prends le petit enfant, et sa mère, et t'enfuis en Egypte, et demeure là, jusqu'à ce que je te le dise; car Hérode cherchera le petit enfant pour le faire mourir.",
+        "OST": "Après qu'ils furent partis, un ange du Seigneur apparut en songe à Joseph, et lui dit: Lève-toi; prends le petit enfant et sa mère, et t'enfuis en Égypte, et te tiens là jusqu'à ce que je te le dise; car Hérode cherchera le petit enfant pour le faire mourir.",
+        "S21": "Lorsqu'ils furent partis, un ange du Seigneur apparut dans un rêve à Joseph et dit: «Lève-toi, prends le petit enfant et sa mère, fuis en Egypte et restes-y jusqu'à ce que je te parle, car Hérode va rechercher le petit enfant pour le faire mourir.»"
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "Joseph se leva donc et partit dans la nuit, emmenant l’enfant et sa mère pour se réfugier en Egypte.",
+        "DBY": "Et lui, s'étant levé, prit de nuit le petit enfant et sa mère, et se retira en Égypte.",
+        "KJV": "When he arose, he took the young child and his mother by night, and departed into Egypt:",
+        "LSG": "Joseph se leva, prit de nuit le petit enfant et sa mère, et se retira en Egypte.",
+        "MAB": "Joseph donc étant réveillé, prit de nuit le petit enfant, et sa mère, et se retira en Egypte.",
+        "OST": "Joseph s'étant levé, prit de nuit le petit enfant et sa mère, et se retira en Égypte.",
+        "S21": "Joseph se leva, prit de nuit le petit enfant et sa mère et se retira en Egypte."
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "Il y resta jusqu’à la mort d’Hérode. Ainsi s’accomplit ce que le Seigneur avait dit par le prophète: J’ai appelé mon fils à sortir d’Egypte.",
+        "DBY": "Et il fut là jusqu'à la mort d'Hérode, afin que fût accompli ce que le Seigneur avait dit par le prophète, disant: \"j'ai appelé mon fils hors d'Égypte\".",
+        "KJV": "And was there until the death of Herod: that it might be fulfilled which was spoken of the Lord by the prophet, saying, Out of Egypt have I called my son.",
+        "LSG": "Il y resta jusqu'à la mort d'Hérode, afin que s'accomplît ce que le Seigneur avait annoncé par le prophète: J'ai appelé mon fils hors d'Egypte.",
+        "MAB": "Et il demeura là jusques à la mort d'Hérode; afin que fût accompli ce dont le Seigneur avait parlé par un Prophète, disant : J'ai appelé mon Fils hors d'Egypte.",
+        "OST": "Et il y demeura jusqu'à la mort d'Hérode. C'est ainsi que s'accomplit ce que le Seigneur avait dit par le prophète en ces termes: J'ai appelé mon Fils hors d'Égypte.",
+        "S21": "Il y resta jusqu'à la mort d'Hérode, afin que s'accomplisse ce que le Seigneur avait annoncé par le prophète: J'ai appelé mon fils à sortir d'Egypte."
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "Quand Hérode s’aperçut que les mages s’étaient moqués de lui, il devint furieux: il donna l’ordre de tuer à Bethléhem et dans les environs tous les garçons en-dessous de deux ans, conformément aux précisions que lui avaient données les mages sur l’époque où l’étoile était apparue.",
+        "DBY": "Hérode, voyant que les mages s'étaient joués de lui, fut fort en colère; et il envoya, et fit tuer tous les enfants qui étaient dans Bethléhem et dans tout son territoire, depuis l'âge de deux ans et au-dessous, selon le temps dont il s'était enquis exactement auprès des mages.",
+        "KJV": "Then Herod, when he saw that he was mocked of the wise men, was exceeding wroth, and sent forth, and slew all the children that were in Bethlehem, and in all the coasts thereof, from two years old and under, according to the time which he had diligently enquired of the wise men.",
+        "LSG": "Alors Hérode, voyant qu'il avait été joué par les mages, se mit dans une grande colère, et il envoya tuer tous les enfants de deux ans et au-dessous qui étaient à Bethléhem et dans tout son territoire, selon la date dont il s'était soigneusement enquis auprès des mages.",
+        "MAB": "Alors Hérode voyant que les Sages s'étaient moqués de lui, fut fort en colère, et il envoya tuer tous les enfants qui étaient à Bethléhem, et dans tout son territoire; depuis l'âge de deux ans, et au-dessous, selon le temps dont il s'était exactement informé des Sages.",
+        "OST": "Alors Hérode, voyant que les mages s'étaient moqués de lui, fut fort en colère; et envoya tuer tous les enfants de deux ans et au-dessous qui étaient dans Bethléhem et dans tout son territoire, selon le temps dont il s'était exactement informé auprès des mages.",
+        "S21": "Quand Hérode vit que les mages l'avaient trompé, il se mit dans une grande colère, et il envoya tuer tous les enfants de deux ans et au-dessous qui étaient à Bethléhem et dans tout son territoire, selon la date qu'il s'était fait préciser par les mages."
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "Ainsi s’accomplit la parole transmise par Jérémie, le prophète:",
+        "DBY": "Alors fut accompli ce qui a été dit par Jérémie le prophète, disant:",
+        "KJV": "Then was fulfilled that which was spoken by Jeremy the prophet, saying,",
+        "LSG": "Alors s'accomplit ce qui avait été annoncé par Jérémie, le prophète:",
+        "MAB": "Alors fut accompli ce dont avait parlé Jérémie le Prophète, en disant :",
+        "OST": "Alors s'accomplit ce qui avait été dit par Jérémie le prophète:",
+        "S21": "Alors s'accomplit ce que le prophète Jérémie avait annoncé:"
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "On entend à Rama une voix qui gémit\r\net d’abondants sanglots amers:\r\nRachel pleure ses fils\r\net elle ne veut pas se laisser consoler\r\ncar ses fils ne sont plus.",
+        "DBY": "\"Une voix a été ouïe à Rama, des lamentations, et des pleurs, et de grands gémissements, Rachel pleurant ses enfants; et elle n'a pas voulu être consolée, parce qu'ils ne sont pas\".",
+        "KJV": "In Rama was there a voice heard, lamentation, and weeping, and great mourning, Rachel weeping [for] her children, and would not be comforted, because they are not.",
+        "LSG": "On a entendu des cris à Rama, Des pleurs et de grandes lamentations: Rachel pleure ses enfants, Et n'a pas voulu être consolée, Parce qu'ils ne sont plus.",
+        "MAB": "On a ouï à Rama un cri, une lamentation, des plaintes, et un grand gémissement : Rachel pleurant ses enfants, et n'ayant point voulu être consolée de ce qu'ils ne sont plus.",
+        "OST": "On a entendu dans Rama des cris, des lamentations, des pleurs et de grands gémissements: Rachel pleurait ses enfants; et elle n'a pas voulu être consolée, parce qu'ils ne sont plus.",
+        "S21": "On a entendu des cris à Rama, des pleurs et de grandes lamentations: c'est Rachel qui pleure ses enfants et n'a pas voulu être consolée, parce qu'ils ne sont plus là."
+      }
+    },
+    {
+      "verse": 19,
+      "texts": {
+        "BDS": "Après la mort d’Hérode, un ange du Seigneur apparut en rêve à Joseph, en Egypte,",
+        "DBY": "Or, Hérode étant mort, voici, un ange du Seigneur apparaît en songe à Joseph en Égypte,",
+        "KJV": "But when Herod was dead, behold, an angel of the Lord appeareth in a dream to Joseph in Egypt,",
+        "LSG": "Quand Hérode fut mort, voici, un ange du Seigneur apparut en songe à Joseph, en Egypte,",
+        "MAB": "Mais après qu'Hérode fut mort, voici, l'Ange du Seigneur apparut dans un songe à Joseph, en Egypte,",
+        "OST": "Mais après qu'Hérode fut mort, voici un ange du Seigneur apparut en songe à Joseph, en Égypte,",
+        "S21": "Après la mort d'Hérode, un ange du Seigneur apparut dans un rêve à Joseph, en Egypte,"
+      }
+    },
+    {
+      "verse": 20,
+      "texts": {
+        "BDS": "et lui dit:\r\n—Lève-toi, prends l’enfant et sa mère et retourne avec eux dans le pays d’Israël, car ceux qui voulaient tuer l’enfant sont morts.",
+        "DBY": "disant: Lève-toi et prends le petit enfant et sa mère, et va dans la terre d'Israël; car ceux qui cherchaient la vie du petit enfant sont morts.",
+        "KJV": "Saying, Arise, and take the young child and his mother, and go into the land of Israel: for they are dead which sought the young child's life.",
+        "LSG": "et dit: Lève-toi, prends le petit enfant et sa mère, et va dans le pays d'Israël, car ceux qui en voulaient à la vie du petit enfant sont morts.",
+        "MAB": "Et [lui] dit : lève-toi, et prends le petit enfant, et sa mère, et t'en va au pays d'Israël; car ceux qui cherchaient à ôter la vie au petit enfant sont morts.",
+        "OST": "Et lui dit: Lève-toi, prends le petit enfant et sa mère, et retourne au pays d'Israël; car ceux qui en voulaient à la vie du petit enfant sont morts.",
+        "S21": "et dit: «Lève-toi, prends le petit enfant et sa mère et va dans le pays d'Israël, car ceux qui en voulaient à la vie du petit enfant sont morts.»"
+      }
+    },
+    {
+      "verse": 21,
+      "texts": {
+        "BDS": "Joseph se leva, prit l’enfant et sa mère et retourna dans le pays d’Israël.",
+        "DBY": "Et lui, s'étant levé, prit le petit enfant et sa mère, et s'en vint dans la terre d'Israël;",
+        "KJV": "And he arose, and took the young child and his mother, and came into the land of Israel.",
+        "LSG": "Joseph se leva, prit le petit enfant et sa mère, et alla dans le pays d'Israël.",
+        "MAB": "Joseph donc s'étant réveillé, prit le petit enfant et sa mère, et s'en vint au pays d'Israël.",
+        "OST": "Joseph donc, s'étant levé, prit le petit enfant et sa mère, et s'en vint au pays d'Israël.",
+        "S21": "Joseph se leva, prit le petit enfant et sa mère et alla dans le pays d'Israël."
+      }
+    },
+    {
+      "verse": 22,
+      "texts": {
+        "BDS": "Mais il apprit qu’Archélaüs était devenu roi de Judée à la place de son père Hérode. Il eut donc peur de s’y installer, et, averti par Dieu dans un rêve, il se retira dans la province de Galilée,",
+        "DBY": "mais, ayant ouï dire qu'Archélaüs régnait en Judée à la place d'Hérode son père, il craignit d'y aller; et ayant été averti divinement, en songe, il se retira dans les quartiers de la Galilée, et alla et habita dans une",
+        "KJV": "But when he heard that Archelaus did reign in Judaea in the room of his father Herod, he was afraid to go thither: notwithstanding, being warned of God in a dream, he turned aside into the parts of Galilee:",
+        "LSG": "Mais, ayant appris qu'Archélaüs régnait sur la Judée à la place d'Hérode, son père, il craignit de s'y rendre; et, divinement averti en songe, il se retira dans le territoire de la Galilée,",
+        "MAB": "Mais quand il eut appris qu'Archélaüs régnait en Judée, à la place d'Hérode son père, il craignit d'y aller; et étant divinement averti dans un songe, il se retira en Galilée.",
+        "OST": "Mais comme il apprit qu'Archélaüs régnait en Judée à la place d'Hérode, son père, il craignit d'y aller, et, ayant été averti divinement en songe, il se retira dans les quartiers de la Galilée,",
+        "S21": "Cependant, quand il apprit qu'Archélaüs régnait sur la Judée à la place de son père Hérode, il eut peur de s'y rendre. Averti dans un rêve, il se retira dans le territoire de la Galilée"
+      }
+    },
+    {
+      "verse": 23,
+      "texts": {
+        "BDS": "où il s’établit dans une ville appelée Nazareth. Ainsi se réalisa cette parole des prophètes: On l’appellera: le Nazaréen.",
+        "DBY": "ville appelée Nazareth; en sorte que fût accompli ce qui avait été dit par les prophètes: Il sera appelé Nazaréen.",
+        "KJV": "And he came and dwelt in a city called Nazareth: that it might be fulfilled which was spoken by the prophets, He shall be called a Nazarene.",
+        "LSG": "et vint demeurer dans une ville appelée Nazareth, afin que s'accomplît ce qui avait été annoncé par les prophètes: Il sera appelé Nazaréen.",
+        "MAB": "Et y étant arrivé, il habita dans la ville appelée Nazareth; afin que fût accompli ce qui avait été dit par les Prophètes : il sera appelé Nazarien.",
+        "OST": "Et alla demeurer dans une ville appelée Nazareth; de sorte que fut accompli ce qui avait été dit par les prophètes: il sera appelé Nazarien.",
+        "S21": "et vint habiter dans une ville appelée Nazareth, afin que s'accomplisse ce que les prophètes avaient annoncé: «Il sera appelé nazaréen.»"
+      }
+    }
+  ]
+}

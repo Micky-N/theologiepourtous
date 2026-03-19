@@ -1,0 +1,294 @@
+{
+  "bookCode": "1CO",
+  "chapter": 16,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "Venons-en à la question de la collecte en faveur de ceux qui, en Judée, appartiennent à Dieu: j’ai déjà donné mes directives aux Eglises de la Galatie. Suivez-les, vous aussi.",
+        "DBY": "Or pour ce qui est de la collecte qui se fait pour les saints, comme j'en ai ordonné aux assemblées de Galatie, ainsi faites, vous aussi.",
+        "KJV": "Now concerning the collection for the saints, as I have given order to the churches of Galatia, even so do ye.",
+        "LSG": "Pour ce qui concerne la collecte en faveur des saints, agissez, vous aussi, comme je l'ai ordonné aux Eglises de la Galatie.",
+        "MAB": "Touchant la collecte qui se fait pour les Saints, faites comme j'en ai ordonné aux Eglises de Galatie.",
+        "OST": "A l'égard de la collecte qui se fait pour les saints, faites comme je l'ai ordonné aux Églises de Galatie.",
+        "S21": "En ce qui concerne la collecte en faveur des saints, faites, vous aussi, comme je l'ai prescrit aux Eglises de la Galatie:"
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "Que tous les dimanches chacun de vous mette de côté, chez lui, une somme d’argent selon ce qu’il aura lui-même gagné, pour qu’on n’ait pas besoin d’organiser des collectes au moment de mon arrivée.",
+        "DBY": "Que chaque premier jour de la semaine chacun de vous mette à part chez lui, accumulant selon qu'il aura prospéré, afin que, lorsque je serai arrivé, il ne se fasse pas alors de collectes.",
+        "KJV": "Upon the first [day] of the week let every one of you lay by him in store, as [God] hath prospered him, that there be no gatherings when I come.",
+        "LSG": "Que chacun de vous, le premier jour de la semaine, mette à part chez lui ce qu'il pourra, selon sa prospérité, afin qu'on n'attende pas mon arrivée pour recueillir les dons.",
+        "MAB": "C'est que chaque premier jour de la semaine, chacun de vous mette à part chez soi, ce qu'il pourra assembler suivant la prospérité [que Dieu lui accordera], afin que lorsque je viendrai, les collectes ne soient point à faire.",
+        "OST": "Chaque premier jour de la semaine, que chacun de vous mette à part chez soi, et rassemble ce qu'il pourra, selon sa prospérité, afin qu'on n'attende pas que je sois arrivé pour faire les collectes.",
+        "S21": "que chacun de vous, le dimanche, mette de côté chez lui ce qu'il pourra, en fonction de ses moyens, afin qu'on n'attende pas mon arrivée pour récolter les dons."
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "Quand je serai venu, j’enverrai à Jérusalem, pour y porter vos dons, les hommes que vous aurez choisis, munis de lettres de recommandation.",
+        "DBY": "Et quand je serai là, ceux que vous approuverez, je les enverrai avec des lettres, pour porter votre libéralité à Jérusalem.",
+        "KJV": "And when I come, whomsoever ye shall approve by [your] letters, them will I send to bring your liberality unto Jerusalem.",
+        "LSG": "Et quand je serai venu, j'enverrai avec des lettres, pour porter vos libéralités à Jérusalem, les personnes que vous aurez approuvées.",
+        "MAB": "Puis quand je serai arrivé, j'enverrai ceux que vous approuverez par vos Lettres pour porter votre libéralité à Jérusalem.",
+        "OST": "Et lorsque je serai arrivé, j'enverrai avec des lettres ceux que vous aurez approuvés, pour porter votre libéralité à Jérusalem.",
+        "S21": "Quand je serai chez vous, j'enverrai avec des lettres ceux que vous aurez choisis pour porter vos dons à Jérusalem."
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "S’il vaut la peine que j’y aille moi-même, ils iront avec moi.",
+        "DBY": "Et s'il convient que j'y aille moi-même, ils iront avec moi.",
+        "KJV": "And if it be meet that I go also, they shall go with me.",
+        "LSG": "Si la chose mérite que j'y aille moi-même, elles feront le voyage avec moi.",
+        "MAB": "Et s'il est à propos que j'y aille moi-même, ils viendront aussi avec moi.",
+        "OST": "Et si la chose mérite que j'y aille moi-même, ils viendront avec moi.",
+        "S21": "S'il est approprié que j'y aille moi aussi, ils feront le voyage avec moi."
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "Je compte venir chez vous après avoir traversé la Macédoine — car je vais passer par cette province.",
+        "DBY": "Or je me rendrai auprès de vous quand j'aurai traversé la Macédoine, car je traverse la Macédoine;",
+        "KJV": "Now I will come unto you, when I shall pass through Macedonia: for I do pass through Macedonia.",
+        "LSG": "J'irai chez vous quand j'aurai traversé la Macédoine, car je traverserai la Macédoine.",
+        "MAB": "J'irai donc vers vous, ayant passé par la Macédoine; car je passerai par la Macédoine.",
+        "OST": "Au reste, j'irai chez vous, après que j'aurai passé par la Macédoine; car je passerai par la Macédoine.",
+        "S21": "Je viendrai chez vous après avoir traversé la Macédoine, car je vais passer par là."
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "Peut-être séjournerai-je quelque temps chez vous, ou même y passerai-je l’hiver: ce sera pour vous l’occasion de m’aider à continuer mon voyage vers ma destination.",
+        "DBY": "et peut-être séjournerai-je auprès de vous, ou même y passerai-je l'hiver, afin que vous me fassiez la conduite où que ce soit que j'aille;",
+        "KJV": "And it may be that I will abide, yea, and winter with you, that ye may bring me on my journey whithersoever I go.",
+        "LSG": "Peut-être séjournerai-je auprès de vous, ou même y passerai-je l'hiver, afin que vous m'accompagniez là où je me rendrai.",
+        "MAB": "Et peut-être que je séjournerai parmi vous, ou même que j'y passerai l'hiver; afin que vous me conduisiez partout où j'irai.",
+        "OST": "Et peut-être que je ferai quelque séjour chez vous, ou même que j'y passerai l'hiver, afin que vous me reconduisiez partout où j'irai.",
+        "S21": "Il est possible que je séjourne quelque temps chez vous ou même que j’y passe l'hiver. Ainsi vous pourrez m’aider à poursuivre mon voyage là où je dois me rendre."
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "En effet, je ne veux pas me contenter de vous voir en passant. Je compte demeurer quelque temps avec vous, si le Seigneur le permet.",
+        "DBY": "car je ne veux pas vous voir maintenant en passant, car j'espère que je demeurerai avec vous quelques temps, si le Seigneur le permet.",
+        "KJV": "For I will not see you now by the way; but I trust to tarry a while with you, if the Lord permit.",
+        "LSG": "Je ne veux pas cette fois vous voir en passant, mais j'espère demeurer quelque temps auprès de vous, si le Seigneur le permet.",
+        "MAB": "Car je ne vous veux point voir maintenant en passant, mais j'espère que je demeurerai avec vous quelque temps, si le Seigneur le permet.",
+        "OST": "Car je ne veux pas vous voir maintenant en passant; mais j'espère de demeurer avec vous quelque temps, si le Seigneur le permet.",
+        "S21": "Je ne veux pas, cette fois-ci, vous voir seulement en passant, mais j'espère rester quelque temps avec vous, si le Seigneur le permet."
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "Pour le moment, je vais rester à Ephèse jusqu’à la Pentecôte,",
+        "DBY": "Mais je demeurerai à Éphèse jusqu'à la Pentecôte;",
+        "KJV": "But I will tarry at Ephesus until Pentecost.",
+        "LSG": "Je resterai néanmoins à Ephèse jusqu'à la Pentecôte;",
+        "MAB": "Toutefois je demeurerai à Ephèse jusqu'à la Pentecôte.",
+        "OST": "Cependant, je demeurerai à Éphèse jusqu'à la Pentecôte;",
+        "S21": "Cependant je resterai à Ephèse jusqu'à la Pentecôte,"
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "car j’y ai trouvé de grandes possibilités d’action — en même temps que beaucoup d’adversaires.",
+        "DBY": "car une porte grande et efficace m'est ouverte, et il y a beaucoup d'adversaires.",
+        "KJV": "For a great door and effectual is opened unto me, and [there are] many adversaries.",
+        "LSG": "car une porte grande et d'un accès efficace m'est ouverte, et les adversaires sont nombreux.",
+        "MAB": "Car une grande porte, [et de grande] efficace m'y est ouverte, mais il y a plusieurs adversaires.",
+        "OST": "Car une grande porte m'y est ouverte, avec espérance de succès; mais il y a beaucoup d'adversaires.",
+        "S21": "car une porte m'y est largement ouverte pour un travail efficace, et les adversaires sont nombreux."
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "Si Timothée arrive, veillez à ce qu’il se sente à l’aise parmi vous, car il travaille à l’œuvre du Seigneur, tout comme moi.",
+        "DBY": "Or, si Timothée vient, ayez soin qu'il soit sans crainte au milieu de vous, car il s'emploie à l'œuvre du Seigneur comme moi-même.",
+        "KJV": "Now if Timotheus come, see that he may be with you without fear: for he worketh the work of the Lord, as I also [do].",
+        "LSG": "Si Timothée arrive, faites en sorte qu'il soit sans crainte parmi vous, car il travaille comme moi à l'oeuvre du Seigneur.",
+        "MAB": "Que si Timothée vient, prenez garde qu'il soit en sûreté parmi vous; car il s'emploie à l'œuvre du Seigneur comme moi-même.",
+        "OST": "Si Timothée vient, ayez soin qu'il soit sans crainte parmi vous, car il travaille à l'œuvre du Seigneur comme moi-même.",
+        "S21": "Si Timothée arrive, veillez à ce qu'il soit sans crainte parmi vous, car il travaille tout comme moi à l'œuvre du Seigneur."
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "Que personne ne le méprise donc. A son départ, fournissez-lui les moyens de revenir dans la paix auprès de moi, car je l’attends, lui et les frères qui l’accompagnent.",
+        "DBY": "Que personne donc ne le méprise; mais faites-lui la conduite en paix, afin qu'il vienne vers moi, car je l'attends avec les frères.",
+        "KJV": "Let no man therefore despise him: but conduct him forth in peace, that he may come unto me: for I look for him with the brethren.",
+        "LSG": "Que personne donc ne le méprise. Accompagnez-le en paix, afin qu'il vienne vers moi, car je l'attends avec les frères.",
+        "MAB": "Que personne donc ne le méprise; mais conduisez-le en toute sûreté, afin qu'il vienne me trouver ; car je l'attends avec les frères.",
+        "OST": "Que personne donc ne le méprise, et reconduisez-le en paix, afin qu'il vienne me trouver, car je l'attends avec les frères.",
+        "S21": "Que personne donc ne le méprise. Aidez-le à poursuivre en paix son voyage de retour vers moi, car je l'attends avec les frères."
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "Quant à notre frère Apollos, je l’ai encouragé à plusieurs reprises à se joindre aux frères qui retournent chez vous, mais il n’a pas du tout l’intention d’entreprendre ce voyage maintenant. Il ira certainement dès qu’il en trouvera l’occasion.",
+        "DBY": "Or, pour ce qui est du frère Apollos, je l'ai beaucoup prié d'aller auprès de vous avec les frères, mais ce n'a pas été du tout sa volonté d'y aller maintenant; mais il ira quand il trouvera l'occasion favorable.",
+        "KJV": "As touching [our] brother Apollos, I greatly desired him to come unto you with the brethren: but his will was not at all to come at this time; but he will come when he shall have convenient time.",
+        "LSG": "Pour ce qui est du frère Apollos, je l'ai beaucoup exhorté à se rendre chez vous avec les frères, mais ce n'était décidément pas sa volonté de le faire maintenant; il partira quand il en aura l'occasion.",
+        "MAB": "Quant à Apollos notre frère, je l'ai beaucoup prié d'aller vers vous avec les frères, mais il n'a nullement eu la volonté d'y aller maintenant : toutefois il y ira quand il en aura la commodité.",
+        "OST": "Quant à Apollos, notre frère, je l'ai beaucoup prié d'aller chez vous avec les frères; mais il n'a nullement voulu y aller maintenant; toutefois, il y ira quand il en trouvera l'occasion.",
+        "S21": "Quant au frère Apollos, je l'ai beaucoup encouragé à venir aussi chez vous avec les frères, mais ce n'était décidément pas sa volonté de le faire maintenant; il viendra quand il en aura l'occasion."
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "Soyez vigilants, demeurez fermes dans la foi, faites preuve de courage, soyez forts.",
+        "DBY": "Veillez, tenez ferme dans la foi; soyez hommes, affermissez-vous.",
+        "KJV": "Watch ye, stand fast in the faith, quit you like men, be strong.",
+        "LSG": "Veillez, demeurez fermes dans la foi, soyez des hommes, fortifiez-vous.",
+        "MAB": "Veillez, soyez fermes en la foi, portez-vous vaillamment, fortifiez-vous.",
+        "OST": "Veillez, demeurez fermes dans la foi, agissez courageusement, fortifiez-vous;",
+        "S21": "Restez vigilants, tenez ferme dans la foi, soyez courageux, fortifiez-vous."
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "Que l’amour inspire toutes vos actions.",
+        "DBY": "Que toutes choses parmi vous se fassent dans l'amour.",
+        "KJV": "Let all your things be done with charity.",
+        "LSG": "Que tout ce que vous faites se fasse avec charité!",
+        "MAB": "Que toutes vos affaires se fassent en charité.",
+        "OST": "Que tout ce que vous faites, se fasse avec charité.",
+        "S21": "Que tout ce que vous faites soit fait avec amour."
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "Encore une recommandation, frères: vous connaissez Stéphanas et sa famille. Vous vous souvenez qu’ils ont été les premiers à se convertir au Seigneur dans toute l’Achaïe. Vous savez qu’ils se sont spontanément mis au service de ceux qui appartenaient à Dieu.",
+        "DBY": "Or je vous exhorte, frères– (vous connaissez la maison de Stéphanas, qu'elle est les prémices de l'Achaïe, et qu'ils se sont voués au service des saints,)",
+        "KJV": "I beseech you, brethren, (ye know the house of Stephanas, that it is the firstfruits of Achaia, and [that] they have addicted themselves to the ministry of the saints,)",
+        "LSG": "Encore une recommandation que je vous adresse, frères. Vous savez que la famille de Stéphanas est les prémices de l'Achaïe, et qu'elle s'est dévouée au service des saints.",
+        "MAB": "Or, mes frères, vous connaissez la famille de Stéphanas, [et vous savez] qu'elle est les prémices de l'Achaïe, et qu'ils se sont entièrement appliqués au service des Saints;",
+        "OST": "Je vous prie, frères, vous qui connaissez la famille de Stéphanas, et savez qu'ils sont les prémices de l'Achaïe, et qu'ils se sont dévoués au service des Saints,",
+        "S21": "Voici encore une recommandation, frères et sœurs. Vous savez que la famille de Stéphanas est le premier fruit de l'Achaïe et qu'elle s'est consacrée au service des saints."
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "Laissez-vous conduire par de telles personnes et par ceux qui partagent leur travail et leurs efforts.",
+        "DBY": "-à vous soumettre, vous aussi, à de tels hommes et à quiconque coopère à l'œuvre et travaille.",
+        "KJV": "That ye submit yourselves unto such, and to every one that helpeth with [us], and laboureth.",
+        "LSG": "Ayez vous aussi de la déférence pour de tels hommes, et pour tous ceux qui travaillent à la même oeuvre.",
+        "MAB": "Je vous prie de vous soumettre à eux, et à chacun de ceux qui s'emploient à l'œuvre [du Seigneur], et qui travaillent avec nous.",
+        "OST": "D'être soumis à de telles personnes et à tous ceux qui travaillent avec nous et qui prennent de la peine.",
+        "S21": "Soumettez-vous à de telles personnes ainsi qu’à tous ceux qui travaillent et peinent avec elles."
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "Je suis heureux de la visite de Stéphanas, de Fortunatus et d’Achaïcus: ils ont fait pour moi ce que votre éloignement vous a empêchés de faire.",
+        "DBY": "Or je me réjouis de la venue de Stéphanas, et de Fortunat, et d'Achaïque, parce qu'ils sont suppléé à ce qui a manqué de votre part: car ils ont suppléé à ce qui a manqué de votre part;",
+        "KJV": "I am glad of the coming of Stephanas and Fortunatus and Achaicus: for that which was lacking on your part they have supplied.",
+        "LSG": "Je me réjouis de la présence de Stéphanas, de Fortunatus et d'Achaïcus; ils ont suppléé à votre absence,",
+        "MAB": "Or je me réjouis de la venue de Stéphanas, de Fortunat, et d'Achaïque; parce qu'ils ont suppléé à ce que vous ne pouvez pas faire pour moi.",
+        "OST": "Or, je me réjouis de l'arrivée de Stéphanas, de Fortunatus et d'Achaïque, parce qu'ils ont suppléé à votre absence;",
+        "S21": "Je me réjouis de la présence de Stéphanas, de Fortunatus et d'Achaïcus; ils ont suppléé à votre absence,"
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "Ils m’ont réconforté, comme ils l’ont souvent fait pour vous. Sachez donc apprécier de tels hommes.",
+        "DBY": "car ils ont récréé mon esprit et le vôtre: reconnaissez donc de tels hommes.",
+        "KJV": "For they have refreshed my spirit and yours: therefore acknowledge ye them that are such.",
+        "LSG": "car ils ont tranquillisé mon esprit et le vôtre. Sachez donc apprécier de tels hommes.",
+        "MAB": "Car ils ont recréé mon esprit et le vôtre : ayez donc de la considération pour de telles personnes.",
+        "OST": "Car ils ont restauré mon esprit et le vôtre. Ayez donc des égards pour de telles personnes.",
+        "S21": "car ils ont tranquillisé mon esprit et le vôtre. Sachez donc apprécier de telles personnes."
+      }
+    },
+    {
+      "verse": 19,
+      "texts": {
+        "BDS": "Les Eglises de la province d’Asie vous saluent. Aquilas et Prisca vous envoient leurs salutations au nom du Seigneur, ainsi que l’Eglise qui se réunit dans leur maison.",
+        "DBY": "Les assemblées de l'Asie vous saluent. Aquilas et Priscilla, avec l'assemblée qui se réunit dans leur maison, vous saluent affectueusement dans le Seigneur.",
+        "KJV": "The churches of Asia salute you. Aquila and Priscilla salute you much in the Lord, with the church that is in their house.",
+        "LSG": "Les Eglises d'Asie vous saluent. Aquilas et Priscille, avec l'Eglise qui est dans leur maison, vous saluent beaucoup dans le Seigneur.",
+        "MAB": "Les Eglises d'Asie vous saluent. Aquilas et Priscille, avec l'Eglise qui [est] en leur maison, vous saluent affectueusement en [notre] Seigneur.",
+        "OST": "Les Églises d'Asie vous saluent. Aquilas et Priscille, avec l'Église qui est dans leur maison, vous saluent bien en notre Seigneur.",
+        "S21": "Les Eglises d'Asie vous saluent. Aquilas et Priscille, ainsi que l'Eglise qui se réunit dans leur maison, vous saluent chaleureusement dans le Seigneur."
+      }
+    },
+    {
+      "verse": 20,
+      "texts": {
+        "BDS": "Tous les frères vous saluent. Saluez-vous les uns les autres en vous donnant le baiser fraternel.",
+        "DBY": "Tous les frères vous saluent. Saluez-vous les uns les autres par un saint baiser.",
+        "KJV": "All the brethren greet you. Greet ye one another with an holy kiss.",
+        "LSG": "Tous les frères vous saluent. Saluez-vous les uns les autres par un saint baiser.",
+        "MAB": "Tous les frères vous saluent. Saluez-vous l'un l'autre par un saint baiser.",
+        "OST": "Tous les frères vous saluent. Saluez-vous les uns les autres par un saint baiser.",
+        "S21": "Tous les frères et sœurs vous saluent. Saluez-vous les uns les autres par un saint baiser."
+      }
+    },
+    {
+      "verse": 21,
+      "texts": {
+        "BDS": "C’est moi, Paul, qui écris cette salutation de ma propre main.",
+        "DBY": "La salutation, de la propre main de moi, Paul.",
+        "KJV": "The salutation of [me] Paul with mine own hand.",
+        "LSG": "Je vous salue, moi Paul, de ma propre main.",
+        "MAB": "La salutation [est] de la propre main de moi Paul.",
+        "OST": "Je vous salue, moi Paul, de ma propre main.",
+        "S21": "Moi Paul, je vous salue de ma propre main."
+      }
+    },
+    {
+      "verse": 22,
+      "texts": {
+        "BDS": "Si quelqu’un n’aime pas le Seigneur, qu’il soit maudit.\r\nMarana tha. (Notre Seigneur, viens!)",
+        "DBY": "-Si quelqu'un n'aime pas le Seigneur Jésus Christ, qu'il soit anathème, Maranatha!",
+        "KJV": "If any man love not the Lord Jesus Christ, let him be Anathema Maranatha.",
+        "LSG": "Si quelqu'un n'aime pas le Seigneur, qu'il soit anathème! Maranatha.",
+        "MAB": "S'il y a quelqu'un qui n'aime point le Seigneur Jésus-Christ, qu'il soit anathème, Maranatha.",
+        "OST": "Si quelqu'un n'aime point le Seigneur Jésus-Christ, qu'il soit anathème, Maranatha! (Le Seigneur vient. )",
+        "S21": "Si quelqu'un n'aime pas le Seigneur [Jésus-Christ], qu'il soit maudit! Maranatha."
+      }
+    },
+    {
+      "verse": 23,
+      "texts": {
+        "BDS": "Que la grâce du Seigneur Jésus soit avec vous!",
+        "DBY": "Que la grâce du Seigneur Jésus Christ soit avec vous!",
+        "KJV": "The grace of our Lord Jesus Christ [be] with you.",
+        "LSG": "Que la grâce du Seigneur Jésus soit avec vous!",
+        "MAB": "Que la grâce de notre Seigneur Jésus-Christ soit avec vous!",
+        "OST": "La grâce du Seigneur Jésus-Christ soit avec vous.",
+        "S21": "Que la grâce du Seigneur Jésus[-Christ] soit avec vous!"
+      }
+    },
+    {
+      "verse": 24,
+      "texts": {
+        "BDS": "Mon amour vous accompagne tous, dans l’union avec Jésus-Christ.\r\nAmen!",
+        "DBY": "Mon amour est avec vous tous dans le christ Jésus. Amen.",
+        "KJV": "My love [be] with you all in Christ Jesus. Amen.",
+        "LSG": "Mon amour est avec vous tous en Jésus-Christ.",
+        "MAB": "Mon amour s'étend à vous tous en Jésus-Christ. Amen.",
+        "OST": "Mon amour est avec vous tous en Jésus-Christ! Amen.",
+        "S21": "Mon amour est avec vous tous en Jésus-Christ."
+      }
+    }
+  ]
+}

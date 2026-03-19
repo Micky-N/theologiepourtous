@@ -1,0 +1,342 @@
+{
+  "bookCode": "PSA",
+  "chapter": 35,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "De David.\r\nO Eternel, viens accuser ceux qui m’accusent,\r\ncombats toi-même qui me combat.",
+        "DBY": "Éternel! conteste contre ceux qui contestent contre moi; fais la guerre à ceux qui me font la guerre.",
+        "KJV": "[A Psalm] of David. Plead [my cause], O LORD, with them that strive with me: fight against them that fight against me.",
+        "LSG": "De David. Eternel! défends-moi contre mes adversaires, Combats ceux qui me combattent!",
+        "MAB": "Psaume de David. Eternel, plaide contre ceux qui plaident contre moi, fais la guerre à ceux qui me font la guerre.",
+        "OST": "Psaume de David. Éternel, défends-moi contre mes adversaires; combats ceux qui me combattent!",
+        "S21": "De David.\r\nEternel, accuse ceux qui m’accusent, combats ceux qui me combattent!"
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "Saisis le bouclier et revêts ton armure,\r\nlève-toi pour me secourir!",
+        "DBY": "Saisis l'écu et le bouclier, et lève-toi à mon secours.",
+        "KJV": "Take hold of shield and buckler, and stand up for mine help.",
+        "LSG": "Saisis le petit et le grand bouclier, Et lève-toi pour me secourir!",
+        "MAB": "Prends le bouclier et l'écu, et lève-toi pour me secourir.",
+        "OST": "Prends l'écu et le bouclier, et lève-toi pour me secourir!",
+        "S21": "Empare-toi du petit et du grand boucliers, et lève-toi pour me secourir!"
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "Brandis ta lance avec le javelot contre mes poursuivants!\r\nDis-moi que tu es mon Sauveur.",
+        "DBY": "Tire la lance, et barre le chemin au-devant de ceux qui me poursuivent! Dis à mon âme: Je suis ton salut!",
+        "KJV": "Draw out also the spear, and stop [the way] against them that persecute me: say unto my soul, I [am] thy salvation.",
+        "LSG": "Brandis la lance et le javelot contre mes persécuteurs! Dis à mon âme: Je suis ton salut!",
+        "MAB": "Saisis la lance, et serre [le passage] au-devant de ceux qui me poursuivent; dis à mon âme : je suis ta délivrance.",
+        "OST": "Saisis la lance, barre le passage à ceux qui me poursuivent; dis à mon âme: Je suis ton salut.",
+        "S21": "Brandis la lance et le javelot contre mes persécuteurs, dis à mon âme: «Je suis ton salut!»"
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "Qu’ils soient honteux, déshonorés, ceux qui en veulent à ma vie!\r\nQu’ils soient déboutés et reculent, ceux qui projettent mon malheur!",
+        "DBY": "Que ceux qui cherchent ma vie soient honteux et confus; que ceux qui complotent mon malheur se retirent en arrière et soient confondus.",
+        "KJV": "Let them be confounded and put to shame that seek after my soul: let them be turned back and brought to confusion that devise my hurt.",
+        "LSG": "Qu'ils soient honteux et confus, ceux qui en veulent à ma vie! Qu'ils reculent et rougissent, ceux qui méditent ma perte!",
+        "MAB": "Que ceux qui cherchent mon âme soient honteux et confus, et que ceux qui machinent mon mal, soient repoussés en arrière, [et] rougissent.",
+        "OST": "Qu'ils soient honteux et confus, ceux qui en veulent à ma vie; qu'ils reculent et qu'ils rougissent, ceux qui méditent mon malheur!",
+        "S21": "Qu’ils soient honteux et déçus, ceux qui en veulent à ma vie, qu’ils reculent et rougissent, ceux qui méditent ma perte!"
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "Qu’ils soient comme la paille emportée par le vent,\r\nquand les repoussera l’ange de l’Eternel!",
+        "DBY": "Qu'ils soient comme la balle devant le vent, et que l'ange de l'Éternel les chasse!",
+        "KJV": "Let them be as chaff before the wind: and let the angel of the LORD chase [them].",
+        "LSG": "Qu'ils soient comme la balle emportée par le vent, Et que l'ange de l'Eternel les chasse!",
+        "MAB": "Qu'ils soient comme de la balle exposée au vent, et que l'Ange de l'Eternel les chasse çà et là.",
+        "OST": "Qu'ils soient comme la paille livrée au vent, et que l'ange de l'Éternel les chasse!",
+        "S21": "Qu’ils soient comme la paille emportée par le vent, et que l’ange de l’Eternel les chasse!"
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "Que leur chemin soit sombre, qu’il soit glissant\r\nlorsque l’ange de l’Eternel viendra les pourchasser!",
+        "DBY": "Que leur chemin soit ténèbres et lieux glissants, et que l'ange de l'Éternel les poursuive!",
+        "KJV": "Let their way be dark and slippery: and let the angel of the LORD persecute them.",
+        "LSG": "Que leur route soit ténébreuse et glissante, Et que l'ange de l'Eternel les poursuive!",
+        "MAB": "Que leur chemin soit ténébreux et glissant; que l'Ange de l'Eternel les poursuive.",
+        "OST": "Que leur chemin soit ténébreux et glissant, et que l'ange de l'Éternel les poursuive!",
+        "S21": "Que leur route soit sombre et glissante, et que l’ange de l’Eternel les poursuive!"
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "Sans cause, ils ont caché des pièges sur ma route,\r\nsans raison, pour me perdre, ils ont creusé des fosses.",
+        "DBY": "Car, sans cause, ils ont préparé secrètement pour moi leur filet; sans cause, ils ont creusé une fosse pour mon âme.",
+        "KJV": "For without cause have they hid for me their net [in] a pit, [which] without cause they have digged for my soul.",
+        "LSG": "Car sans cause ils m'ont tendu leur filet sur une fosse, Sans cause ils l'ont creusée pour m'ôter la vie.",
+        "MAB": "Car sans cause ils m'ont caché la fosse où étaient tendus leurs rets [et] sans cause ils ont creusé pour [surprendre] mon âme.",
+        "OST": "Car sans cause ils m'ont tendu leur filet sur une fosse; sans cause ils l'ont creusée pour m'ôter la vie.",
+        "S21": "En effet, c’est sans raison qu’ils m’ont tendu un piège, c’est sans raison qu’ils ont creusé un trou pour m’enlever la vie."
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "Que le malheur s’abatte sur eux à l’improviste!\r\nQue, dans leurs propres pièges, ils puissent s’empêtrer!\r\nQu’ils tombent dans la fosse qu’ils ont creusée et qu’elle fasse leur propre ruine.",
+        "DBY": "Qu'une ruine qu'il n'a pas connue vienne sur lui, et que son filet qu'il a caché le prenne: qu'il y tombe, pour sa ruine.",
+        "KJV": "Let destruction come upon him at unawares; and let his net that he hath hid catch himself: into that very destruction let him fall.",
+        "LSG": "Que la ruine les atteigne à l'improviste, Qu'ils soient pris dans le filet qu'ils ont tendu, Qu'ils y tombent et périssent!",
+        "MAB": "Que la ruine dont il ne s'avise point, lui advienne; et que son filet, qu'il a caché, le surprenne, [et] qu'il tombe en cette même ruine.",
+        "OST": "Qu'une ruine imprévue l'atteigne! Qu'il soit pris au filet qu'il a caché! Qu'il y tombe et qu'il périsse!",
+        "S21": "Que la ruine les atteigne à l’improviste, qu’ils soient pris dans le piège qu’ils ont tendu, qu’ils y tombent pour leur ruine!"
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "J’exulterai de joie en l’Eternel,\r\nbondissant d’allégresse, parce qu’il m’a sauvé.",
+        "DBY": "Et mon âme s'égayera en l'Éternel, elle se réjouira en son salut.",
+        "KJV": "And my soul shall be joyful in the LORD: it shall rejoice in his salvation.",
+        "LSG": "Et mon âme aura de la joie en l'Eternel, De l'allégresse en son salut.",
+        "MAB": "Mais que mon âme s'égaye en l'Eternel, [et] se réjouisse en sa délivrance.",
+        "OST": "Et mon âme s'égaiera en l'Éternel, et se réjouira de sa délivrance.",
+        "S21": "Alors j’exulterai de joie en l’Eternel, je me réjouirai à cause de son salut."
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "Je clamerai de tout mon être: «Eternel, qui est comme toi?\r\nLe malheureux, tu le délivres d’un ennemi plus fort que lui,\r\nles pauvres et les opprimés, tu les libères de ceux qui les exploitent.»",
+        "DBY": "Tous mes os diront: Éternel! qui est comme toi, qui délivres l'affligé de celui qui est plus fort que lui, et l'affligé et le pauvre de celui qui les pille?",
+        "KJV": "All my bones shall say, LORD, who [is] like unto thee, which deliverest the poor from him that is too strong for him, yea, the poor and the needy from him that spoileth him?",
+        "LSG": "Tous mes os diront: Eternel! qui peut, comme toi, Délivrer le malheureux d'un plus fort que lui, Le malheureux et le pauvre de celui qui le dépouille?",
+        "MAB": "Tous mes os diront : Eternel, qui est semblable à toi, qui délivres l'affligé [de la main] de celui qui est plus fort que lui, l'affligé, dis-je, et le pauvre, [de la main] de celui qui le pille?",
+        "OST": "Tous mes os diront: Éternel, qui est semblable à toi, qui délivres l'affligé de celui qui est plus fort que lui, l'affligé et le pauvre de celui qui le dépouille?",
+        "S21": "Tout mon être dira: «Eternel, qui peut, comme toi, délivrer le malheureux d’un plus fort que lui, le malheureux et le pauvre de celui qui les dépouille?»"
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "De faux témoins se lèvent,\r\non vient m’interroger sur des faits que j’ignore.",
+        "DBY": "Des témoins violents se lèvent, ils m'interrogent sur des choses que je n'ai pas connues;",
+        "KJV": "False witnesses did rise up; they laid to my charge [things] that I knew not.",
+        "LSG": "De faux témoins se lèvent: Ils m'interrogent sur ce que j'ignore.",
+        "MAB": "Des témoins violents s'élèvent contre moi, on me redemande des choses dont je ne sais rien.",
+        "OST": "De faux témoins se lèvent; ils me demandent des choses dont je ne sais rien.",
+        "S21": "De faux témoins se lèvent: ils m’interrogent sur des faits que j’ignore;"
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "Ils me rendent le mal pour le bien que j’ai fait.\r\nJe suis abandonné.",
+        "DBY": "Ils m'ont rendu le mal pour le bien: mon âme est dans l'abandon.",
+        "KJV": "They rewarded me evil for good [to] the spoiling of my soul.",
+        "LSG": "Ils me rendent le mal pour le bien: Mon âme est dans l'abandon.",
+        "MAB": "Ils m'ont rendu le mal pour le bien, [tâchant] de m'ôter la vie.",
+        "OST": "Ils me rendent le mal pour le bien; mon âme est dans l'abandon.",
+        "S21": "ils me rendent le mal pour le bien, je suis abandonné de tous."
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "Et moi, quand ils étaient malades, je revêtais un vêtement de deuil\r\net je m’humiliais en jeûnant.\r\nSans cesse, je priais pour eux",
+        "DBY": "Mais moi, quand ils ont été malades, je me vêtais d'un sac; j'humiliais mon âme dans le jeûne, et ma prière retournait dans mon sein.",
+        "KJV": "But as for me, when they were sick, my clothing [was] sackcloth: I humbled my soul with fasting; and my prayer returned into mine own bosom.",
+        "LSG": "Et moi, quand ils étaient malades, je revêtais un sac, J'humiliais mon âme par le jeûne, Je priais, la tête penchée sur mon sein.",
+        "MAB": "Mais moi, quand ils ont été malades, je me vêtais d'un sac, j'affligeais mon âme par le jeûne, ma prière retournait dans mon sein.",
+        "OST": "Mais moi, quand ils étaient malades, je me couvrais d'un sac, j'affligeais mon âme par le jeûne, et ma prière revenait sur mon sein.",
+        "S21": "Moi, quand ils étaient malades, je mettais une tenue de deuil, j’humiliais mon âme par le jeûne, je priais, la tête penchée sur la poitrine."
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "comme pour un ami ou pour un frère. J’allais, courbé sous la tristesse,\r\ncomme en menant le deuil pour la mort d’une mère.",
+        "DBY": "J'ai marché comme si c'eût été mon compagnon, mon frère; triste, je me suis courbé comme celui qui mène deuil pour sa mère.",
+        "KJV": "I behaved myself as though [he had been] my friend [or] brother: I bowed down heavily, as one that mourneth [for his] mother.",
+        "LSG": "Comme pour un ami, pour un frère, je me traînais lentement; Comme pour le deuil d'une mère, je me courbais avec tristesse.",
+        "MAB": "J'ai agi comme [si c'eût été] mon intime ami, comme [si c'eût été] mon frère; [j'allais] courbé en habit de deuil, comme celui qui mènerait deuil pour sa mère.",
+        "OST": "Je marchais lentement comme pour le deuil d'un ami, d'un frère; j'allais courbé tristement comme au deuil d'une mère.",
+        "S21": "Comme pour un ami, pour un frère, je marchais lentement, comme pour le deuil d’une mère, j’étais accablé de tristesse."
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "Je suis tombé dans le malheur: les voilà qui s’attroupent en triomphant à mon sujet;\r\noui, ils s’attroupent contre moi. Ce sont des gens violents que je ne connais pas.\r\nSans répit, ils m’outragent.",
+        "DBY": "Mais, dans mon adversité, ils se sont réjouis et se sont rassemblés; les calomniateurs se sont rassemblés contre moi, et je ne l'ai pas su; ils m'ont déchiré et n'ont pas cessé;",
+        "KJV": "But in mine adversity they rejoiced, and gathered themselves together: [yea], the abjects gathered themselves together against me, and I knew [it] not; they did tear [me], and ceased not:",
+        "LSG": "Puis, quand je chancelle, ils se réjouissent et s'assemblent, Ils s'assemblent à mon insu pour m'outrager, Ils me déchirent sans relâche;",
+        "MAB": "Mais quand j'ai chancelé, ils se réjouissaient, et s'assemblaient; des gens de néant se sont assemblés contre moi, sans que j'en susse rien; ils ont ri à bouche ouverte, et n'ont point cessé;",
+        "OST": "Mais quand j'ai chancelé, ils se sont rassemblés joyeux; ils se sont rassemblés, me frappant à mon insu, me déchirant sans cesse.",
+        "S21": "Et maintenant que je trébuche, ils se rassemblent pour se réjouir, ils se rassemblent à mon insu pour me calomnier, ils me déchirent sans arrêt."
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "Avec une ironie mordante, ces hypocrites\r\ngrincent des dents à mon sujet.",
+        "DBY": "Avec d'impies parasites moqueurs ils ont grincé les dents contre moi.",
+        "KJV": "With hypocritical mockers in feasts, they gnashed upon me with their teeth.",
+        "LSG": "Avec les impies, les parasites moqueurs, Ils grincent des dents contre moi.",
+        "MAB": "Avec les hypocrites d'entre les railleurs qui suivent les bonnes tables, [et] ils ont grincé les dents contre moi.",
+        "OST": "Avec des impies, des bouffons de table, ils grincent les dents contre moi.",
+        "S21": "Avec les impies et les moqueurs, ils grincent des dents contre moi."
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "Seigneur, comment supportes-tu cela?\r\nSoustrais ma vie à leurs sévices,\r\nma vie qui m’est précieuse, à ces lions!",
+        "DBY": "Seigneur! jusques à quand regarderas-tu? Retire mon âme de leurs destructions, mon unique, des jeunes lions.",
+        "KJV": "Lord, how long wilt thou look on? rescue my soul from their destructions, my darling from the lions.",
+        "LSG": "Seigneur! Jusques à quand le verras-tu? Protège mon âme contre leurs embûches, Ma vie contre les lionceaux!",
+        "MAB": "Seigneur, combien de temps le verras-tu? retire mon âme de leurs tempêtes, mon unique d'entre les lionceaux.",
+        "OST": "Seigneur, jusques à quand le verras-tu? Délivre mon âme de leurs violences; arrache au lion mon unique bien!",
+        "S21": "Seigneur, combien de temps le supporteras-tu? Protège-moi contre leurs actes de violence, protège ma vie contre les lionceaux!"
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "Je te rendrai hommage dans la grande assemblée.\r\nJe te louerai avec la foule immense.",
+        "DBY": "Je te célébrerai dans la grande congrégation, je te louerai au milieu d'un grand peuple.",
+        "KJV": "I will give thee thanks in the great congregation: I will praise thee among much people.",
+        "LSG": "Je te louerai dans la grande assemblée, Je te célébrerai au milieu d'un peuple nombreux.",
+        "MAB": "Je te célébrerai dans une grande assemblée, je te louerai parmi un grand peuple.",
+        "OST": "Je te célébrerai dans la grande assemblée; je te louerai au milieu d'un peuple nombreux.",
+        "S21": "Je te louerai dans la grande assemblée, je te célébrerai au milieu d’un peuple nombreux."
+      }
+    },
+    {
+      "verse": 19,
+      "texts": {
+        "BDS": "Sans cause, ils sont mes ennemis: qu’ils ne triomphent pas à mon sujet!\r\nIls me détestent sans raison. Qu’ils n’osent plus cligner de l’œil pour m’insulter!",
+        "DBY": "Que ceux qui sont à tort mes ennemis ne se réjouissent pas de moi; que ceux qui me haïssent sans cause ne clignent pas l'œil.",
+        "KJV": "Let not them that are mine enemies wrongfully rejoice over me: [neither] let them wink with the eye that hate me without a cause.",
+        "LSG": "Que ceux qui sont à tort mes ennemis ne se réjouissent pas à mon sujet, Que ceux qui me haïssent sans cause ne m'insultent pas du regard!",
+        "MAB": "Que ceux qui me sont ennemis sans sujet ne se réjouissent point de moi; et que ceux qui me haïssent sans cause ne m'insultent point par leurs regards.",
+        "OST": "Que mes injustes ennemis ne se réjouissent point à mon sujet; que ceux qui me haïssent sans cause ne clignent pas l'œil!",
+        "S21": "Ils sont à tort mes ennemis: qu’ils ne se réjouissent pas à mon sujet! Ils me détestent sans raison: qu’ils ne m’insultent pas du regard!"
+      }
+    },
+    {
+      "verse": 20,
+      "texts": {
+        "BDS": "Car ce n’est pas la paix qu’apporte leur parole,\r\nils inventent des calomnies contre les gens paisibles qui habitent dans le pays.",
+        "DBY": "Car ils ne parlent pas de paix; mais ils méditent des tromperies contre les hommes paisibles du pays.",
+        "KJV": "For they speak not peace: but they devise deceitful matters against [them that are] quiet in the land.",
+        "LSG": "Car ils tiennent un langage qui n'est point celui de la paix, Ils méditent la tromperie contre les gens tranquilles du pays.",
+        "MAB": "Car ils ne parlent point de paix; mais ils préméditent des choses pleines de fraude contre les pacifiques de la terre.",
+        "OST": "Car ils ne parlent point de paix, mais ils méditent des tromperies contre les gens paisibles du pays.",
+        "S21": "Oui, leur langage n’est pas celui de la paix, ils inventent des mensonges contre les gens tranquilles du pays."
+      }
+    },
+    {
+      "verse": 21,
+      "texts": {
+        "BDS": "La bouche grande ouverte,\r\nils disent: «Eh, eh! Nous l’avons vu!»",
+        "DBY": "Et ils ont élargi leur bouche contre moi; ils ont dit: Ha ha! ha ha! notre œil l'a vu.",
+        "KJV": "Yea, they opened their mouth wide against me, [and] said, Aha, aha, our eye hath seen [it].",
+        "LSG": "Ils ouvrent contre moi leur bouche, Ils disent: Ah! ah! nos yeux regardent! -",
+        "MAB": "Et ils ont ouvert leur bouche autant qu'ils ont pu contre moi, et ont dit : aha! aha! notre œil l'a vu.",
+        "OST": "Ils ont ouvert contre moi leur bouche, disant: Ah! ah! notre œil a vu!",
+        "S21": "Ils ouvrent leur bouche contre moi, ils disent: «Ah! ah! Nous l’avons vu de nos yeux!»"
+      }
+    },
+    {
+      "verse": 22,
+      "texts": {
+        "BDS": "Eternel, toi, tu as tout vu! Ne reste pas muet!\r\nSeigneur, ne te tiens pas si éloigné de moi!",
+        "DBY": "Tu l'as vu, Éternel! ne garde pas le silence: Seigneur! ne t'éloigne pas de moi.",
+        "KJV": "[This] thou hast seen, O LORD: keep not silence: O Lord, be not far from me.",
+        "LSG": "Eternel, tu le vois! ne reste pas en silence! Seigneur, ne t'éloigne pas de moi!",
+        "MAB": "Ô Eternel! tu l'as vu : ne te tais point; Seigneur, ne t'éloigne point de moi.",
+        "OST": "Tu l'as vu, Éternel; ne te tais point!",
+        "S21": "Eternel, tu as tout vu: ne reste pas silencieux! Seigneur, ne t’éloigne pas de moi!"
+      }
+    },
+    {
+      "verse": 23,
+      "texts": {
+        "BDS": "Interviens donc!\r\nOui, interviens pour défendre mon droit,\r\ntoi, mon Dieu, mon Seigneur, pour prendre en main ma cause!",
+        "DBY": "Éveille-toi, réveille-toi, pour me faire droit, mon Dieu et Seigneur, pour soutenir ma cause.",
+        "KJV": "Stir up thyself, and awake to my judgment, [even] unto my cause, my God and my Lord.",
+        "LSG": "Réveille-toi, réveille-toi pour me faire justice! Mon Dieu et mon Seigneur, défends ma cause!",
+        "MAB": "Réveille-toi, réveille-toi, dis-je, ô mon Dieu et mon Seigneur! pour me rendre justice, [et] pour soutenir ma cause.",
+        "OST": "Seigneur, ne sois pas loin de moi! Réveille-toi, lève-toi pour me faire droit, mon Dieu, mon Seigneur, pour défendre ma cause!",
+        "S21": "Réveille-toi, lève-toi pour me faire justice, mon Dieu et mon Seigneur, défends ma cause!"
+      }
+    },
+    {
+      "verse": 24,
+      "texts": {
+        "BDS": "Rends-moi justice, toi qui es juste, ô Eternel mon Dieu!\r\nEmpêche-les de triompher à mon sujet!",
+        "DBY": "Juge-moi selon ta justice, ô Éternel, mon Dieu! et qu'ils ne se réjouissent pas à mon sujet.",
+        "KJV": "Judge me, O LORD my God, according to thy righteousness; and let them not rejoice over me.",
+        "LSG": "Juge-moi selon ta justice, Eternel, mon Dieu! Et qu'ils ne se réjouissent pas à mon sujet!",
+        "MAB": "Juge-moi selon ta justice, Eternel mon Dieu! et qu'ils ne se réjouissent point de moi.",
+        "OST": "Juge-moi selon ta justice, Éternel mon Dieu, et qu'ils ne se réjouissent point de moi!",
+        "S21": "Juge-moi conformément à ta justice, Eternel, mon Dieu! Qu’ils ne se réjouissent pas à mon sujet,"
+      }
+    },
+    {
+      "verse": 25,
+      "texts": {
+        "BDS": "Qu’ils ne se disent plus: «Ah, ah, nous le tenons!\r\nNous n’en ferons qu’une bouchée!»",
+        "DBY": "Qu'ils ne disent pas dans leur cœur: Ha ha! voilà notre désir! Qu'ils ne disent pas: Nous l'avons englouti.",
+        "KJV": "Let them not say in their hearts, Ah, so would we have it: let them not say, We have swallowed him up.",
+        "LSG": "Qu'ils ne disent pas dans leur coeur: Ah! voilà ce que nous voulions! Qu'ils ne disent pas: Nous l'avons englouti!",
+        "MAB": "Qu'ils ne disent point en leur cœur : aha, notre âme! et qu'ils ne disent point : nous l'avons englouti.",
+        "OST": "Qu'ils ne disent pas en leur cœur: Ah! notre âme est contente! Qu'ils ne disent pas: Nous l'avons englouti!",
+        "S21": "qu’ils ne disent pas dans leur cœur: «Ah! voilà ce que nous voulions!» Qu’ils ne disent pas: «Nous l’avons anéanti.»"
+      }
+    },
+    {
+      "verse": 26,
+      "texts": {
+        "BDS": "Que la honte et le déshonneur s’abattent sur tous ceux\r\nqui triomphent à mon sujet!\r\nQu’ils soient couverts de honte et revêtus de confusion,\r\nceux qui, pour se grandir, me couvrent de mépris!",
+        "DBY": "Que ceux qui se réjouissent de mon malheur soient tous ensemble honteux et confus; que ceux qui s'élèvent orgueilleusement contre moi soient couverts de honte et de confusion.",
+        "KJV": "Let them be ashamed and brought to confusion together that rejoice at mine hurt: let them be clothed with shame and dishonour that magnify [themselves] against me.",
+        "LSG": "Que tous ensemble ils soient honteux et confus, Ceux qui se réjouissent de mon malheur! Qu'ils revêtent l'ignominie et l'opprobre, Ceux qui s'élèvent contre moi!",
+        "MAB": "Que ceux qui se réjouissent de mon mal soient honteux et rougissent [tous] ensemble; et que ceux qui s'élèvent contre moi soient couverts de honte et de confusion.",
+        "OST": "Qu'ils soient honteux et confus, tous ceux qui se réjouissent de mon mal! Qu'ils soient revêtus de honte et de confusion, ceux qui s'élèvent fièrement contre moi!",
+        "S21": "Que tous ensemble ils soient honteux et rougissent, ceux qui se réjouissent de mon malheur! Qu’ils soient couverts de honte et de confusion, ceux qui s’attaquent à moi!"
+      }
+    },
+    {
+      "verse": 27,
+      "texts": {
+        "BDS": "Alors ceux qui désirent voir mon droit rétabli\r\npourront se réjouir, et ils crieront de joie\r\nen répétant sans cesse: «Que l’Eternel est grand,\r\nlui qui désire le bonheur de son serviteur!»",
+        "DBY": "Qu'ils exultent et qu'ils se réjouissent, ceux qui sont affectionnés à ma justice; et qu'ils disent continuellement: Magnifié soit l'Éternel, qui prend plaisir à la paix de son serviteur!",
+        "KJV": "Let them shout for joy, and be glad, that favour my righteous cause: yea, let them say continually, Let the LORD be magnified, which hath pleasure in the prosperity of his servant.",
+        "LSG": "Qu'ils aient de l'allégresse et de la joie, Ceux qui prennent plaisir à mon innocence, Et que sans cesse ils disent: Exalté soit l'Eternel, Qui veut la paix de son serviteur!",
+        "MAB": "Mais que ceux qui sont affectionnés à ma justice se réjouissent avec chant de triomphe, et s'égayent, et qu'ils disent incessamment : magnifié soit l'Eternel qui s'affectionne à la paix de son serviteur.",
+        "OST": "Que ceux qui prennent plaisir à ma justice chantent et se réjouissent! Et que sans cesse ils disent: Magnifié soit l'Éternel, qui se plaît à la prospérité de son serviteur!",
+        "S21": "Qu’ils aient de l’allégresse et de la joie, ceux qui prennent plaisir à me voir justifié! Ils pourront dire sans cesse: «Que l’Eternel est grand, lui qui veut la paix de son serviteur!»"
+      }
+    },
+    {
+      "verse": 28,
+      "texts": {
+        "BDS": "Oui, je chanterai ta justice\r\net ta louange tout le jour.",
+        "DBY": "Et ma langue redira ta justice, ta louange, tout le jour.",
+        "KJV": "And my tongue shall speak of thy righteousness [and] of thy praise all the day long.",
+        "LSG": "Et ma langue célébrera ta justice, Elle dira tous les jours ta louange.",
+        "MAB": "Alors ma langue s'entretiendra de ta justice [et] de ta louange tout le jour.",
+        "OST": "Alors ma langue racontera ta justice, et tous les jours elle dira tes louanges.",
+        "S21": "Alors ma langue célébrera ta justice et ta louange tous les jours."
+      }
+    }
+  ]
+}

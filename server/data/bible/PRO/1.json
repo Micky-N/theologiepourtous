@@ -1,0 +1,402 @@
+{
+  "bookCode": "PRO",
+  "chapter": 1,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "Proverbes de Salomon, fils de David, roi d’Israël.",
+        "DBY": "Proverbes de Salomon, fils de David, roi d'Israël,",
+        "KJV": "The proverbs of Solomon the son of David, king of Israel;",
+        "LSG": "Proverbes de Salomon, fils de David, roi d'Israël,",
+        "MAB": "Les Proverbes de Salomon, fils de David, et Roi d'Israël.",
+        "OST": "Proverbes de Salomon, fils de David, roi d'Israël;",
+        "S21": "Proverbes de Salomon, fils de David, roi d'Israël,"
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "Ils ont pour but d’enseigner aux hommes la sagesse et de les former, pour qu’ils comprennent les paroles prononcées avec intelligence,",
+        "DBY": "pour connaître la sagesse et l'instruction, pour discerner les paroles d'intelligence;",
+        "KJV": "To know wisdom and instruction; to perceive the words of understanding;",
+        "LSG": "Pour connaître la sagesse et l'instruction, Pour comprendre les paroles de l'intelligence;",
+        "MAB": "Pour connaître la sagesse et l'instruction, pour entendre les discours d'intelligence;",
+        "OST": "Pour faire connaître la sagesse et l'instruction, pour faire comprendre les discours d'intelligence;",
+        "S21": "pour connaître la sagesse et l'instruction, pour comprendre les paroles de l'intelligence,"
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "et qu’ils apprennent à agir de façon réfléchie, juste, droite et correcte.",
+        "DBY": "pour recevoir instruction dans la sagesse, la justice, le juste jugement, et la droiture;",
+        "KJV": "To receive the instruction of wisdom, justice, and judgment, and equity;",
+        "LSG": "Pour recevoir des leçons de bon sens, De justice, d'équité et de droiture;",
+        "MAB": "Pour recevoir une leçon de bon sens, de justice, de jugement et d'équité.",
+        "OST": "Pour faire recevoir une instruction de raison, de justice, de jugement, et d'équité;",
+        "S21": "pour recevoir des leçons de bon sens, de justice, d'équité et de droiture,"
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "Ces proverbes donneront aux gens sans expérience le bon sens et aux jeunes la connaissance et le jugement.",
+        "DBY": "pour donner aux simples de la prudence, au jeune homme de la connaissance et de la réflexion.",
+        "KJV": "To give subtilty to the simple, to the young man knowledge and discretion.",
+        "LSG": "Pour donner aux simples du discernement, Au jeune homme de la connaissance et de la réflexion.",
+        "MAB": "Pour donner du discernement aux simples, et de la connaissance et de l'adresse aux jeunes gens.",
+        "OST": "Pour donner du discernement aux simples, de la connaissance et de la réflexion au jeune homme.",
+        "S21": "pour donner du discernement à ceux qui manquent d’expérience, de la connaissance et de la réflexion aux jeunes."
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "En les écoutant, le sage enrichira son savoir-faire, et l’homme avisé acquerra l’art de bien se conduire.",
+        "DBY": "Le sage écoutera, et croîtra en science,",
+        "KJV": "A wise [man] will hear, and will increase learning; and a man of understanding shall attain unto wise counsels:",
+        "LSG": "Que le sage écoute, et il augmentera son savoir, Et celui qui est intelligent acquerra de l'habileté,",
+        "MAB": "Le sage écoutera, et deviendra mieux appris, et l'homme intelligent acquerra de la prudence;",
+        "OST": "Le sage écoutera et deviendra plus instruit, et l'homme intelligent acquerra de la prudence,",
+        "S21": "Que le sage écoute, et il augmentera son savoir! Celui qui est intelligent gagnera en habileté"
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "Ces proverbes sont destinés à faire comprendre les maximes et les paraboles et à pénétrer les propos des sages et leurs paroles énigmatiques.",
+        "DBY": "et l'intelligent acquerra du sens pour comprendre un proverbe et une allégorie, les paroles des sages et leurs énigmes.",
+        "KJV": "To understand a proverb, and the interpretation; the words of the wise, and their dark sayings.",
+        "LSG": "Pour saisir le sens d'un proverbe ou d'une énigme, Des paroles des sages et de leurs sentences.",
+        "MAB": "Afin d'entendre les discours sentencieux, et ce qui est élégamment dit; les paroles des sages, et leurs énigmes.",
+        "OST": "Afin d'entendre les sentences et les énigmes, les paroles des sages, et leurs discours profonds.",
+        "S21": "pour comprendre les proverbes et les paraboles, les paroles des sages et leurs énigmes."
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "La clé de la sagesse, c’est de révérer l’Eternel,\r\nmais les insensés dédaignent la sagesse et l’éducation.",
+        "DBY": "La crainte de l'Éternel est le commencement de la connaissance; les fous méprisent la sagesse et l'instruction.",
+        "KJV": "The fear of the LORD [is] the beginning of knowledge: [but] fools despise wisdom and instruction.",
+        "LSG": "La crainte de l'Eternel est le commencement de la science; Les insensés méprisent la sagesse et l'instruction.",
+        "MAB": "La crainte de l'Eternel est la principale science; [mais] les fous méprisent la sagesse et l'instruction.",
+        "OST": "La crainte de l'Éternel est le principal point de la science; mais les fous méprisent la sagesse et l'instruction.",
+        "S21": "La connaissance commence par la crainte de l'Eternel. Il faut être fou pour mépriser la sagesse et l'instruction."
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "Mon fils, sois attentif à l’éducation que tu reçois de ton père\r\net ne néglige pas l’instruction de ta mère,",
+        "DBY": "Écoute, mon fils, l'instruction de ton père, et n'abandonne pas l'enseignement de ta mère;",
+        "KJV": "My son, hear the instruction of thy father, and forsake not the law of thy mother:",
+        "LSG": "Ecoute, mon fils, l'instruction de ton père, Et ne rejette pas l'enseignement de ta mère;",
+        "MAB": "Mon fils, écoute l'instruction de ton père, et n'abandonne point l'enseignement de ta mère.",
+        "OST": "Mon fils, écoute l'instruction de ton père, et n'abandonne point l'enseignement de ta mère.",
+        "S21": "Mon fils, écoute l'instruction de ton père et ne rejette pas l'enseignement de ta mère!"
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "car elles seront comme une belle couronne sur ta tête\r\net comme des colliers à ton cou.",
+        "DBY": "car ce sera une guirlande de grâce à ta tête, et des colliers à ton cou.",
+        "KJV": "For they [shall be] an ornament of grace unto thy head, and chains about thy neck.",
+        "LSG": "Car c'est une couronne de grâce pour ta tête, Et une parure pour ton cou.",
+        "MAB": "Car ce seront des grâces enfilées ensemble autour de ta tête, et des colliers autour de ton cou.",
+        "OST": "Car ce sont des grâces assemblées autour de ta tête, et des colliers à ton cou.",
+        "S21": "En effet, ce sera une couronne de grâce pour ta tête et un collier pour ton cou."
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "Mon fils, si des gens malfaisants veulent t’entraîner,\r\nne leur cède pas.",
+        "DBY": "Mon fils, si les pécheurs cherchent à te séduire, n'y acquiesce pas.",
+        "KJV": "My son, if sinners entice thee, consent thou not.",
+        "LSG": "Mon fils, si des pécheurs veulent te séduire, Ne te laisse pas gagner.",
+        "MAB": "Mon fils, si les pécheurs te veulent attirer, ne t'y accorde point.",
+        "OST": "Mon fils, si les pécheurs veulent te séduire, n'y consens pas.",
+        "S21": "Mon fils, si des pécheurs veulent t’entraîner, ne cède pas!"
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "S’ils te disent: «Viens avec nous,\r\ndressons une embuscade pour tuer quelqu’un,\r\ntendons, pour le plaisir, un piège à l’innocent:",
+        "DBY": "S'ils disent: Viens avec nous, nous serons aux embûches pour le sang, nous nous cacherons pour guetter l'innocent, sans cause;",
+        "KJV": "If they say, Come with us, let us lay wait for blood, let us lurk privily for the innocent without cause:",
+        "LSG": "S'ils disent: Viens avec nous! dressons des embûches, versons du sang, Tendons des pièges à celui qui se repose en vain sur son innocence,",
+        "MAB": "S'ils disent : Viens avec nous, dressons des embûches pour tuer; épions secrètement l'innocent, quoiqu'il ne nous en ait point donné de sujet;",
+        "OST": "S'ils disent: Viens avec nous, dressons des embûches pour tuer; tendons des pièges à l'innocent, sans qu'il en ait donné de sujet;",
+        "S21": "Peut-être te diront-ils: «Viens avec nous! Dressons des embuscades pour verser du sang, tendons sans raison un piège aux innocents!"
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "nous l’engloutirons tout vif comme le séjour des morts,\r\nil disparaîtra tout entier comme ceux qui descendent dans la tombe.",
+        "DBY": "nous les engloutirons vivants, comme le shéol, et tout entiers comme ceux qui descendent dans la fosse;",
+        "KJV": "Let us swallow them up alive as the grave; and whole, as those that go down into the pit:",
+        "LSG": "Engloutissons-les tout vifs, comme le séjour des morts, Et tout entiers, comme ceux qui descendent dans la fosse;",
+        "MAB": "Engloutissons-les tout vifs, comme le sépulcre; et tout entiers, comme ceux qui descendent en la fosse;",
+        "OST": "Engloutissons-les tout vifs comme le Sépulcre, et tout entiers comme ceux qui descendent dans la fosse;",
+        "S21": "Engloutissons-les vivants, comme le séjour des morts! Oui, engloutissons-les tout entiers comme ceux qui descendent dans la tombe!"
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "Nous ferons main basse sur un tas d’objets précieux,\r\nnous remplirons nos maisons de butin.",
+        "DBY": "nous trouverons toute sorte de biens précieux, nous remplirons nos maisons de butin;",
+        "KJV": "We shall find all precious substance, we shall fill our houses with spoil:",
+        "LSG": "Nous trouverons toute sorte de biens précieux, Nous remplirons de butin nos maisons;",
+        "MAB": "Nous trouverons toute sorte de biens précieux, nous remplirons nos maisons de butin;",
+        "OST": "Nous trouverons toutes sortes de biens précieux, nous remplirons nos maisons de butin;",
+        "S21": "Nous trouverons toutes sortes de biens précieux et nous remplirons nos maisons de butin."
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "Tu en auras ta part avec nous,\r\nnous ferons tous bourse commune.»",
+        "DBY": "prends ton lot parmi nous, il n'y aura qu'une bourse pour nous tous:",
+        "KJV": "Cast in thy lot among us; let us all have one purse:",
+        "LSG": "Tu auras ta part avec nous, Il n'y aura qu'une bourse pour nous tous!",
+        "MAB": "Tu y auras ton lot parmi nous, il n'y aura qu'une bourse pour nous tous.",
+        "OST": "Tu y auras ta part avec nous, il n'y aura qu'une bourse pour nous tous.",
+        "S21": "Tu auras ta part avec nous, il n'y aura qu'une bourse pour nous tous!»"
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "Mon fils, ne te mets pas en route avec ces gens-là,\r\névite d’emprunter les mêmes chemins qu’eux,",
+        "DBY": "mon fils, ne fais pas route avec eux, retiens ton pied de leur sentier;",
+        "KJV": "My son, walk not thou in the way with them; refrain thy foot from their path:",
+        "LSG": "Mon fils, ne te mets pas en chemin avec eux, Détourne ton pied de leur sentier;",
+        "MAB": "Mon fils, ne te mets point en chemin avec eux; retire ton pied de leur sentier.",
+        "OST": "Mon fils, ne te mets point en chemin avec eux; détourne ton pied de leur sentier.",
+        "S21": "Mon fils, ne te mets pas en chemin avec eux, écarte ton pied de leur sentier!"
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "car leurs pieds se précipitent vers le mal,\r\nils ont hâte de répandre le sang.",
+        "DBY": "car leurs pieds courent au mal, et ils se hâtent pour verser le sang.",
+        "KJV": "For their feet run to evil, and make haste to shed blood.",
+        "LSG": "Car leurs pieds courent au mal, Et ils ont hâte de répandre le sang.",
+        "MAB": "Parce que leurs pieds courent au mal, et se hâtent pour répandre le sang.",
+        "OST": "Car leurs pieds courent au mal, et ils se hâtent pour répandre le sang.",
+        "S21": "En effet, leurs pieds courent au mal et ils sont pressés de verser le sang."
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "Mais il est vain de vouloir tendre un filet\r\npendant que tous les oiseaux t’observent.",
+        "DBY": "Car en vain le filet est étendu devant les yeux de tout ce qui a des ailes;",
+        "KJV": "Surely in vain the net is spread in the sight of any bird.",
+        "LSG": "Mais en vain jette-t-on le filet Devant les yeux de tout ce qui a des ailes;",
+        "MAB": "Car [comme] c'est sans sujet que le rets est étendu devant les yeux de tout ce qui a des ailes;",
+        "OST": "Or c'est en vain qu'on tend le filet devant les yeux de tout ce qui a des ailes;",
+        "S21": "Or, il ne sert à rien de poser un piège sous les yeux de tout ce qui peut voler."
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "En vérité, c’est pour répandre leur propre sang que ces gens-là dressent des embûches,\r\nc’est à eux-mêmes qu’ils tendent des pièges.",
+        "DBY": "et eux, ils sont aux embûches contre leur propre sang, ils se cachent pour guetter leurs propres âmes.",
+        "KJV": "And they lay wait for their [own] blood; they lurk privily for their [own] lives.",
+        "LSG": "Et eux, c'est contre leur propre sang qu'ils dressent des embûches, C'est à leur âme qu'ils tendent des pièges.",
+        "MAB": "Ainsi ceux-ci dressent des embûches contre le sang de ceux-là, et épient secrètement leurs vies.",
+        "OST": "Mais eux, ils dressent des embûches contre leur propre sang, et ils tendent des pièges à leur âme.",
+        "S21": "Eux, c’est contre leur propre vie qu’ils dressent des embuscades, c'est à eux-mêmes qu'ils tendent un piège."
+      }
+    },
+    {
+      "verse": 19,
+      "texts": {
+        "BDS": "C’est à cela qu’aboutiront tous ceux qui cherchent à s’enrichir par des voies malhonnêtes:\r\nun gain mal acquis fait périr celui qui le détient.",
+        "DBY": "Telles sont les voies de tout homme qui cherche le gain déshonnête, lequel ôte la vie à ceux qui le possèdent.",
+        "KJV": "So [are] the ways of every one that is greedy of gain; [which] taketh away the life of the owners thereof.",
+        "LSG": "Ainsi arrive-t-il à tout homme avide de gain; La cupidité cause la perte de ceux qui s'y livrent.",
+        "MAB": "Tel est le train de tout homme convoiteux de gain [déshonnête], lequel enlèvera la vie de ceux qui y sont adonnés.",
+        "OST": "Telles sont les voies de celui qui convoite le gain déshonnête, lequel perdra l'âme de ceux qui le poursuivent.",
+        "S21": "Tel est le sentier de tout homme assoiffé de profit: le gain malhonnête cause la perte de son propriétaire."
+      }
+    },
+    {
+      "verse": 20,
+      "texts": {
+        "BDS": "La Sagesse crie bien haut dans les rues,\r\nsa voix résonne sur les places publiques.",
+        "DBY": "La sagesse crie au dehors, elle fait retentir sa voix sur les places;",
+        "KJV": "Wisdom crieth without; she uttereth her voice in the streets:",
+        "LSG": "La sagesse crie dans les rues, Elle élève sa voix dans les places:",
+        "MAB": "La souveraine Sapience crie hautement au dehors, elle fait retentir sa voix dans les rues.",
+        "OST": "La souveraine sagesse crie hautement par les rues, elle fait retentir sa voix sur les places;",
+        "S21": "La sagesse crie dans les rues, elle parle tout haut sur les places,"
+      }
+    },
+    {
+      "verse": 21,
+      "texts": {
+        "BDS": "Dominant le tumulte, elle appelle.\r\nPrès des portes de la ville, elle fait entendre ses paroles, disant:",
+        "DBY": "elle crie à l'entrée des lieux bruyants, aux ouvertures des portes; elle prononce ses paroles dans la ville:",
+        "KJV": "She crieth in the chief place of concourse, in the openings of the gates: in the city she uttereth her words, [saying],",
+        "LSG": "Elle crie à l'entrée des lieux bruyants; Aux portes, dans la ville, elle fait entendre ses paroles:",
+        "MAB": "Elle crie dans les carrefours, là où on fait le plus de bruit, aux entrées des portes, elle prononce ses paroles par la ville :",
+        "OST": "Elle crie dans les carrefours, où on fait le plus de bruit, aux entrées des portes; elle prononce ses paroles par la ville:",
+        "S21": "elle appelle à l'entrée des endroits bruyants. Aux portes, dans la ville, elle fait entendre ses paroles:"
+      }
+    },
+    {
+      "verse": 22,
+      "texts": {
+        "BDS": "Jusqu’à quand, stupides, vous complairez-vous à des sottises?\r\nEt vous, moqueurs, jusqu’à quand prendrez-vous plaisir à vous moquer?\r\nEt vous, insensés, jusqu’à quand détesterez-vous la connaissance?",
+        "DBY": "Simples, jusques à quand aimerez-vous la simplicité, et jusques à quand les moqueurs prendront-ils plaisir à la moquerie, et les sots haïront-ils la connaissance?",
+        "KJV": "How long, ye simple ones, will ye love simplicity? and the scorners delight in their scorning, and fools hate knowledge?",
+        "LSG": "Jusqu'à quand, stupides, aimerez-vous la stupidité? Jusqu'à quand les moqueurs se plairont-ils à la moquerie, Et les insensés haïront-ils la science?",
+        "MAB": "Sots, [dit-elle], jusques à quand aimerez-vous la sottise? Et jusqu'à quand les moqueurs prendront-ils plaisir à la moquerie, et les fous auront-ils en haine la science?",
+        "OST": "Stupides, dit-elle, jusques à quand aimerez-vous la sottise? Jusques à quand les moqueurs prendront-ils plaisir à la moquerie, et les insensés auront-ils en haine la science?",
+        "S21": "«Jusqu'à quand, vous qui manquez d’expérience, aimerez-vous la naïveté? Jusqu'à quand les moqueurs trouveront-ils leur plaisir dans la moquerie et les hommes stupides détesteront-ils la connaissance?"
+      }
+    },
+    {
+      "verse": 23,
+      "texts": {
+        "BDS": "Ecoutez mes avertissements,\r\nvoici: je répandrai sur vous mon Esprit\r\net je vous ferai connaître mes paroles.",
+        "DBY": "Revenez à ma répréhension; voici, je ferai couler pour vous mon esprit, je vous ferai savoir mes paroles.",
+        "KJV": "Turn you at my reproof: behold, I will pour out my spirit unto you, I will make known my words unto you.",
+        "LSG": "Tournez-vous pour écouter mes réprimandes! Voici, je répandrai sur vous mon esprit, Je vous ferai connaître mes paroles...",
+        "MAB": "Etant repris par moi, convertissez-vous; voici, je vous donnerai de mon Esprit en abondance, et je vous ferai connaître mes paroles.",
+        "OST": "Étant repris par moi, convertissez-vous. Voici, je vous communiquerai de mon esprit en abondance, je vous ferai comprendre mes paroles.",
+        "S21": "Revenez pour écouter mes reproches! Je veux déverser mon Esprit sur vous, je veux vous faire connaître mes paroles."
+      }
+    },
+    {
+      "verse": 24,
+      "texts": {
+        "BDS": "J’ai appelé et vous m’avez résisté,\r\nj’ai tendu la main et personne n’y a prêté attention.",
+        "DBY": "Parce que j'ai crié et que vous avez refusé d'écouter, parce que j'ai étendu ma main et que personne n'a pris garde,",
+        "KJV": "Because I have called, and ye refused; I have stretched out my hand, and no man regarded;",
+        "LSG": "Puisque j'appelle et que vous résistez, Puisque j'étends ma main et que personne n'y prend garde,",
+        "MAB": "Parce que j'ai crié, et que vous avez refusé [d'ouïr]; parce que j'ai étendu ma main, et qu'il n'y a eu personne qui y prit garde;",
+        "OST": "Puisque j'ai crié, et que vous avez refusé d'entendre; que j'ai étendu ma main, et que personne n'y a pris garde;",
+        "S21": "»Puisque j'appelle et que vous résistez, puisque je tends la main et que personne n'y prête attention,"
+      }
+    },
+    {
+      "verse": 25,
+      "texts": {
+        "BDS": "Vous avez rejeté tous mes conseils\r\net vous n’avez pas voulu de mes avertissements.",
+        "DBY": "et que vous avez rejeté tout mon conseil et que vous n'avez pas voulu de ma répréhension,",
+        "KJV": "But ye have set at nought all my counsel, and would none of my reproof:",
+        "LSG": "Puisque vous rejetez tous mes conseils, Et que vous n'aimez pas mes réprimandes,",
+        "MAB": "Et parce que vous avez rejeté tout mon conseil, et que vous n'avez point agréé que je vous reprisse;",
+        "OST": "Puisque vous rejetez tous mes conseils, et que vous n'aimez pas mes réprimandes,",
+        "S21": "puisque vous négligez tous mes conseils et n'acceptez pas mes reproches,"
+      }
+    },
+    {
+      "verse": 26,
+      "texts": {
+        "BDS": "C’est pourquoi, lorsque le malheur fondra sur vous, je rirai,\r\nquand la terreur vous saisira, je me moquerai.",
+        "DBY": "moi aussi je rirai lors de votre calamité, je me moquerai quand viendra votre frayeur,",
+        "KJV": "I also will laugh at your calamity; I will mock when your fear cometh;",
+        "LSG": "Moi aussi, je rirai quand vous serez dans le malheur, Je me moquerai quand la terreur vous saisira,",
+        "MAB": "Aussi je me rirai de votre calamité, je me moquerai quand votre effroi surviendra.",
+        "OST": "Je me rirai, moi, de votre calamité, je me moquerai quand votre effroi surviendra;",
+        "S21": "moi aussi je rirai quand vous serez dans le malheur, je me moquerai quand la terreur fondra sur vous,"
+      }
+    },
+    {
+      "verse": 27,
+      "texts": {
+        "BDS": "Quand l’épouvante, comme une tempête, viendra sur vous,\r\nque le malheur fondra sur vous comme un ouragan,\r\net que la détresse et l’angoisse vous assailliront,",
+        "DBY": "quand votre frayeur viendra comme une subite destruction et que votre calamité arrivera comme un tourbillon, quand la détresse et l'angoisse viendront sur vous:",
+        "KJV": "When your fear cometh as desolation, and your destruction cometh as a whirlwind; when distress and anguish cometh upon you.",
+        "LSG": "Quand la terreur vous saisira comme une tempête, Et que le malheur vous enveloppera comme un tourbillon, Quand la détresse et l'angoisse fondront sur vous.",
+        "MAB": "Quand votre effroi surviendra comme une ruine, et que votre calamité viendra comme un tourbillon; quand la détresse et l'angoisse viendront sur vous;",
+        "OST": "Quand votre effroi surviendra comme une ruine, et votre calamité comme une tempête; quand la détresse et l'angoisse viendront sur vous.",
+        "S21": "quand la terreur fondra sur vous comme une tempête et que le malheur vous enveloppera comme un tourbillon, quand la détresse et l'angoisse s’empareront de vous."
+      }
+    },
+    {
+      "verse": 28,
+      "texts": {
+        "BDS": "alors ils m’appelleront, mais je ne répondrai pas.\r\nIls me chercheront, mais ne me trouveront pas.",
+        "DBY": "alors ils crieront vers moi, et je ne répondrai pas; ils me chercheront de bonne heure, mais ils ne me trouveront point.",
+        "KJV": "Then shall they call upon me, but I will not answer; they shall seek me early, but they shall not find me:",
+        "LSG": "Alors ils m'appelleront, et je ne répondrai pas; Ils me chercheront, et ils ne me trouveront pas.",
+        "MAB": "Alors on criera vers moi, mais je ne répondrai point; on me cherchera de grand matin, mais on ne me trouvera point.",
+        "OST": "Alors ils crieront vers moi, mais je ne répondrai point; ils me chercheront de grand matin, mais ils ne me trouveront point;",
+        "S21": "»Alors ils m'appelleront et je ne répondrai pas, ils me chercheront et ils ne me trouveront pas."
+      }
+    },
+    {
+      "verse": 29,
+      "texts": {
+        "BDS": "Puisqu’ils ont détesté mon enseignement\r\net qu’ils n’ont pas choisi de révérer l’Eternel,",
+        "DBY": "Parce qu'ils ont haï la connaissance et qu'ils n'ont pas choisi la crainte de l'Éternel,",
+        "KJV": "For that they hated knowledge, and did not choose the fear of the LORD:",
+        "LSG": "Parce qu'ils ont haï la science, Et qu'ils n'ont pas choisi la crainte de l'Eternel,",
+        "MAB": "Parce qu'ils auront haï la science, et qu'ils n'auront point choisi la crainte de l'Eternel.",
+        "OST": "Parce qu'ils ont haï la science, et qu'ils n'ont point choisi la crainte de l'Éternel.",
+        "S21": "Parce qu'ils ont détesté la connaissance et n'ont pas choisi la crainte de l'Eternel,"
+      }
+    },
+    {
+      "verse": 30,
+      "texts": {
+        "BDS": "qu’ils n’ont pas voulu de mes conseils\r\net qu’ils ont dédaigné tous mes avertissements,",
+        "DBY": "qu'ils n'ont point voulu de mon conseil, qu'ils ont méprisé toute ma répréhension,",
+        "KJV": "They would none of my counsel: they despised all my reproof.",
+        "LSG": "Parce qu'ils n'ont point aimé mes conseils, Et qu'ils ont dédaigné toutes mes réprimandes,",
+        "MAB": "Ils n'ont point aimé mon conseil; ils ont dédaigné toutes mes répréhensions.",
+        "OST": "Ils n'ont point pris plaisir à mon conseil; ils ont dédaigné toutes mes réprimandes.",
+        "S21": "parce qu'ils n'ont pas accepté mes conseils et ont méprisé tous mes reproches,"
+      }
+    },
+    {
+      "verse": 31,
+      "texts": {
+        "BDS": "eh bien, ils récolteront les fruits de leur conduite\r\net ils se repaîtront jusqu’à ce qu’ils en aient plus qu’assez de leurs propres projets.",
+        "DBY": "ils mangeront du fruit de leur voie et seront rassasiés de leurs propres conseils.",
+        "KJV": "Therefore shall they eat of the fruit of their own way, and be filled with their own devices.",
+        "LSG": "Ils se nourriront du fruit de leur voie, Et ils se rassasieront de leurs propres conseils,",
+        "MAB": "Qu'ils mangent donc le fruit de leur voie, et qu'ils se rassasient de leurs conseils.",
+        "OST": "Qu'ils mangent donc le fruit de leur voie, et qu'ils se rassasient de leurs conseils.",
+        "S21": "ils se nourriront du fruit de leur conduite et ils se rassasieront de leurs propres conseils."
+      }
+    },
+    {
+      "verse": 32,
+      "texts": {
+        "BDS": "Car la présomption des stupides causera leur mort,\r\net l’assurance des insensés les perdra.",
+        "DBY": "Car la révolte des simples les tue, et la prospérité des sots les fait périr.",
+        "KJV": "For the turning away of the simple shall slay them, and the prosperity of fools shall destroy them.",
+        "LSG": "Car la résistance des stupides les tue, Et la sécurité des insensés les perd;",
+        "MAB": "Car l'aise des sots les tue, et la prospérité des fous les perd.",
+        "OST": "Car l'égarement des sots les tue, et la sécurité des insensés les perd.",
+        "S21": "En effet, l'égarement de ceux qui manquent d’expérience les tue et l'insouciance des hommes stupides provoque leur perte."
+      }
+    },
+    {
+      "verse": 33,
+      "texts": {
+        "BDS": "Mais celui qui m’écoute habitera en sécurité,\r\nil vivra tranquille, sans avoir à redouter le malheur.",
+        "DBY": "Mais celui qui m'écoute habitera en sécurité et sera tranquille, sans crainte du mal.",
+        "KJV": "But whoso hearkeneth unto me shall dwell safely, and shall be quiet from fear of evil.",
+        "LSG": "Mais celui qui m'écoute reposera avec assurance, Il vivra tranquille et sans craindre aucun mal.",
+        "MAB": "Mais celui qui m'écoutera, habitera en sûreté, et sera à son aise sans être effrayé d'aucun mal.",
+        "OST": "Mais celui qui m'écoute, habitera en sûreté, et sera tranquille, sans être effrayé d'aucun mal.",
+        "S21": "En revanche, celui qui m'écoute habitera en sécurité. Il vivra tranquille et n’aura à redouter aucun mal.»"
+      }
+    }
+  ]
+}

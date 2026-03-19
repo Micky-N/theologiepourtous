@@ -228,31 +228,31 @@
 </template>
 
 <script setup lang="ts">
-import type { BibleBook, BibleVerse, BibleVersion } from '@prisma/client';
+import type { BibleBookData, BibleVerseData, BibleVersionData } from '~/types';
 
 interface Comparison {
-    version: BibleVersion;
-    verses: BibleVerse[];
+    version: BibleVersionData;
+    verses: BibleVerseData[];
 }
 
 interface Props {
-    book: BibleBook;
+    book: BibleBookData;
     chapter: number;
     verseRange: {
         start: number;
         end: number;
     };
     comparisons: Comparison[];
-    availableVersions?: BibleVersion[];
+    availableVersions?: BibleVersionData[];
     loading?: boolean;
 }
 
 const emit = defineEmits<{
     close: [];
-    addVersion: [version: BibleVersion];
+    addVersion: [version: BibleVersionData];
     removeVersion: [versionId: number];
-    addBookmark: [verse: BibleVerse];
-    addNote: [verse: BibleVerse];
+    addBookmark: [verse: BibleVerseData];
+    addNote: [verse: BibleVerseData];
 }>();
 
 const props = withDefaults(defineProps<Props>(), {
@@ -282,7 +282,7 @@ const fontSizeOptions = [
 ];
 
 // Méthodes
-const addVersion = (version: BibleVersion) => {
+const addVersion = (version: BibleVersionData) => {
     if (props.comparisons.length < 6) {
         emit('addVersion', version);
         showVersionSelector.value = false;
@@ -293,7 +293,7 @@ const removeVersion = (versionId: number) => {
     emit('removeVersion', versionId);
 };
 
-const copyVerse = async (verse: BibleVerse, version: BibleVersion) => {
+const copyVerse = async (verse: BibleVerseData, version: BibleVersionData) => {
     const text = `${props.book.name} ${props.chapter}:${verse.verse} (${version.code})\n"${verse.text}"`;
 
     try {

@@ -1,4 +1,11 @@
-import { prisma } from '~~/lib/prisma';
+import {
+    getBibleBookByCode,
+    getBibleBooks,
+    getBibleChapter,
+    getBibleVersionByCode
+} from '~~/server/utils/bibleData';
+
+const escapeRegExp = (value: string) => value.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
 
 export default defineEventHandler(async (event) => {
     try {
@@ -17,10 +24,10 @@ export default defineEventHandler(async (event) => {
             });
         }
 
-        // Récupérer la version
-        const version = await prisma.bibleVersion.findUnique({
-            where: { code: versionCode.toUpperCase() }
-        });
+        const normalizedSearchTerm = searchTerm.trim();
+        const normalizedSearchTermLower = normalizedSearchTerm.toLocaleLowerCase();
+
+        const version = await getBibleVersionByCode(versionCode);
 
         if (!version) {
             throw createError({
@@ -29,79 +36,83 @@ export default defineEventHandler(async (event) => {
             });
         }
 
-        // Construire les filtres de recherche
-        const whereClause: any = {
-            versionId: version.id,
-            text: {
-                contains: searchTerm.trim(),
-                mode: 'insensitive'
-            }
-        };
+        let books = (await getBibleBooks())
+            .sort((left, right) => left.orderIndex - right.orderIndex);
 
-        // Filtrer par livre si spécifié
         if (bookCode) {
-            const book = await prisma.bibleBook.findUnique({
-                where: { code: bookCode.toUpperCase() }
-            });
-            if (book) {
-                whereClause.bookId = book.id;
+            const book = await getBibleBookByCode(bookCode);
+            books = book ? [book] : [];
+        }
+
+        if (testament && !bookCode) {
+            books = books.filter(book => book.testament === testament);
+        }
+
+        const allMatches: Array<{
+            id: number;
+            reference: string;
+            book: {
+                id: number;
+                code: string;
+                name: string;
+                testament: 'OLD' | 'NEW';
+                orderIndex: number;
+                chapterCount: number;
+                createdAt: string;
+                updatedAt: string;
+            };
+            chapter: number;
+            verse: number;
+            text: string;
+            highlightedText: string;
+        }> = [];
+
+        const highlightPattern = new RegExp(`(${escapeRegExp(normalizedSearchTerm)})`, 'gi');
+
+        for (const book of books) {
+            for (let chapterNumber = 1; chapterNumber <= book.chapterCount; chapterNumber++) {
+                const chapter = await getBibleChapter(book.code, chapterNumber);
+
+                if (!chapter) {
+                    continue;
+                }
+
+                for (const verse of chapter.verses) {
+                    const text = verse.texts[version.code];
+
+                    if (typeof text !== 'string' || !text.toLocaleLowerCase().includes(normalizedSearchTermLower)) {
+                        continue;
+                    }
+
+                    allMatches.push({
+                        id: (book.orderIndex * 1_000_000) + (chapterNumber * 1_000) + (verse.verse * 10) + version.orderIndex,
+                        reference: `${book.name} ${chapterNumber}:${verse.verse}`,
+                        book: {
+                            id: book.orderIndex,
+                            code: book.code,
+                            name: book.name,
+                            testament: book.testament,
+                            orderIndex: book.orderIndex,
+                            chapterCount: book.chapterCount,
+                            createdAt: new Date(0).toISOString(),
+                            updatedAt: new Date(0).toISOString()
+                        },
+                        chapter: chapterNumber,
+                        verse: verse.verse,
+                        text,
+                        highlightedText: text.replace(highlightPattern, '<mark>$1</mark>')
+                    });
+                }
             }
         }
 
-        // Filtrer par testament si spécifié
-        if (testament && !bookCode) {
-            const booksInTestament = await prisma.bibleBook.findMany({
-                where: { testament },
-                select: { id: true }
-            });
-            whereClause.bookId = {
-                in: booksInTestament.map(b => b.id)
-            };
-        }
-
-        // Rechercher les versets avec pagination
-        const [results, total] = await Promise.all([
-            prisma.bibleVerse.findMany({
-                where: whereClause,
-                include: {
-                    book: {
-                        select: {
-                            code: true,
-                            name: true,
-                            testament: true
-                        }
-                    }
-                },
-                orderBy: [
-                    { book: { orderIndex: 'asc' } },
-                    { chapter: 'asc' },
-                    { verse: 'asc' }
-                ],
-                take: limit,
-                skip: offset
-            }),
-            prisma.bibleVerse.count({ where: whereClause })
-        ]);
-
-        // Formatter les résultats avec highlighting
-        const formattedResults = results.map(verse => ({
-            id: verse.id,
-            reference: `${verse.book.name} ${verse.chapter}:${verse.verse}`,
-            book: verse.book,
-            chapter: verse.chapter,
-            verse: verse.verse,
-            text: verse.text,
-            // Simplistic highlighting - dans une vraie app, utiliser une lib plus sophistiquée
-            highlightedText: verse.text.replace(
-                new RegExp(`(${searchTerm.trim()})`, 'gi'),
-                '<mark>$1</mark>'
-            )
-        }));
+        const total = allMatches.length;
+        const results = allMatches.slice(offset, offset + limit);
 
         return {
             success: true,
             data: {
-                results: formattedResults,
+                results,
                 searchTerm,
                 version: {
                     code: version.code,

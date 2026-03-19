@@ -1,0 +1,414 @@
+{
+  "bookCode": "NUM",
+  "chapter": 2,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "L’Eternel parla à Moïse et à Aaron en ces termes:",
+        "DBY": "Et l'Éternel parla à Moïse et à Aaron, disant:",
+        "KJV": "And the LORD spake unto Moses and unto Aaron, saying,",
+        "LSG": "L'Eternel parla à Moïse et à Aaron, et dit:",
+        "MAB": "Et l'Eternel parla à Moïse et à Aaron, en disant :",
+        "OST": "L'Éternel parla aussi à Moïse et à Aaron, en disant:",
+        "S21": "L'Eternel dit à Moïse et à Aaron:"
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "—Les Israélites camperont chacun près de sa bannière, sous les enseignes de son groupe familial, à une certaine distance autour de la tente de la Rencontre.",
+        "DBY": "Les fils d'Israël camperont chacun près de sa bannière, sous les enseignes de leurs maisons de pères; ils camperont autour de la tente d'assignation, à distance, vis-à-vis.",
+        "KJV": "Every man of the children of Israel shall pitch by his own standard, with the ensign of their father's house: far off about the tabernacle of the congregation shall they pitch.",
+        "LSG": "Les enfants d'Israël camperont chacun près de sa bannière, sous les enseignes de la maison de ses pères; ils camperont vis-à-vis et tout autour de la tente d'assignation.",
+        "MAB": "Les enfants d'Israël camperont chacun sous sa bannière, avec les enseignes des maisons de leurs pères, tout autour du Tabernacle d'assignation, vis-à-vis de lui.",
+        "OST": "Les enfants d'Israël camperont chacun sous sa bannière, près des enseignes des maisons de leurs pères; ils camperont vis-à-vis et tout autour du tabernacle d'assignation.",
+        "S21": "«Les Israélites camperont chacun près de son étendard, sous les enseignes de sa famille; ils camperont à une certaine distance tout autour de la tente de la rencontre."
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "A l’est, campera la tribu de Juda, sous sa bannière, rangée par corps d’armée, sous la direction de son chef Nahchôn, fils d’Amminadab;",
+        "DBY": "Voici ceux qui camperont à l'orient, vers le levant, sous la bannière du camp de Juda, selon leurs armées: le prince des fils de Juda, Nakhshon, fils d'Amminadab, et son armée;",
+        "KJV": "And on the east side toward the rising of the sun shall they of the standard of the camp of Judah pitch throughout their armies: and Nahshon the son of Amminadab [shall be] captain of the children of Judah.",
+        "LSG": "A l'orient, le camp de Juda, avec sa bannière, et avec ses corps d'armée. Là camperont le prince des fils de Juda, Nachschon, fils d'Amminadab,",
+        "MAB": "[Ceux de] la bannière de la compagnie de Juda camperont droit vers le Levant, par ses troupes; et Nahasson, fils de Hamminadab, sera le chef des enfants de Juda;",
+        "OST": "Ceux qui camperont en avant, vers l'Orient, ce sera la bannière du camp de Juda, selon ses armées, et le chef des enfants de Juda, Nahasshon, fils d'Amminadab,",
+        "S21": "»Ceux qui camperont à l’est, du côté du soleil levant, seront sous l’étendard du camp de Juda, répartis dans leurs corps d'armée. Là camperont le prince des Judéens, Nachshon, fils d'Amminadab,"
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "son armée compte un effectif de 74 600 hommes.",
+        "DBY": "et ses dénombrés, soixante-quatorze mille six cents.",
+        "KJV": "And his host, and those that were numbered of them, [were] threescore and fourteen thousand and six hundred.",
+        "LSG": "et son corps d'armée composé de soixante-quatorze mille six cents hommes, d'après le dénombrement.",
+        "MAB": "Et sa troupe, et ses dénombrés, soixante-quatorze mille six cents.",
+        "OST": "Et son armée, ses dénombrés: soixante-quatorze mille six cents.",
+        "S21": "et son corps d'armée composé de 74'600 hommes d'après le dénombrement."
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "A ses côtés camperont la tribu d’Issacar sous la direction de son chef Netaneel, fils de Tsouar,",
+        "DBY": "-Et ceux qui camperont près de lui, sont la tribu d'Issacar: le prince des fils d'Issacar, Nethaneël, fils de Tsuar, et son armée;",
+        "KJV": "And those that do pitch next unto him [shall be] the tribe of Issachar: and Nethaneel the son of Zuar [shall be] captain of the children of Issachar.",
+        "LSG": "A ses côtés camperont la tribu d'Issacar, le prince des fils d'Issacar, Nethaneel, fils de Tsuar,",
+        "MAB": "Près de lui campera la Tribu d'Issacar, et Nathanaël, fils de Tsuhar, [sera] le chef des enfants d'Issacar;",
+        "OST": "Et la tribu d'Issacar campera auprès de lui; et le chef des enfants d'Issacar, Nathanaël, fils de Tsuar,",
+        "S21": "A ses côtés camperont la tribu d'Issacar, le prince des Issacarites, Nathanaël, fils de Tsuar,"
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "avec un effectif de 54 400 hommes,",
+        "DBY": "et ses dénombrés, cinquante-quatre mille quatre cents.",
+        "KJV": "And his host, and those that were numbered thereof, [were] fifty and four thousand and four hundred.",
+        "LSG": "et son corps d'armée composé de cinquante-quatre mille quatre cents hommes, d'après le dénombrement;",
+        "MAB": "Et sa troupe, et ses dénombrés, cinquante-quatre mille quatre cents.",
+        "OST": "Et son armée, ses dénombrés: cinquante-quatre mille quatre cents.",
+        "S21": "et son corps d'armée composé de 54'400 hommes d'après le dénombrement,"
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "et la tribu de Zabulon sous la direction de son chef Eliab, fils de Hélôn,",
+        "DBY": "-Avec eux sera la tribu de Zabulon: le prince des fils de Zabulon, Éliab, fils de Hélon, et son armée;",
+        "KJV": "[Then] the tribe of Zebulun: and Eliab the son of Helon [shall be] captain of the children of Zebulun.",
+        "LSG": "puis la tribu de Zabulon, le prince des fils de Zabulon, Eliab, fils de Hélon,",
+        "MAB": "[Puis] la Tribu de Zabulon, et Eliab, fils de Hélon, sera le chef des enfants de Zabulon;",
+        "OST": "Puis la tribu de Zabulon, et le chef des enfants de Zabulon, Eliab, fils de Hélon,",
+        "S21": "puis la tribu de Zabulon, le prince des Zabulonites, Eliab, fils de Hélon,"
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "avec un effectif de 57 400 hommes.",
+        "DBY": "et ses dénombrés, cinquante-sept mille quatre cents.",
+        "KJV": "And his host, and those that were numbered thereof, [were] fifty and seven thousand and four hundred.",
+        "LSG": "et son corps d'armée composé de cinquante-sept mille quatre cents hommes, d'après le dénombrement.",
+        "MAB": "Et sa troupe, et ses dénombrés, cinquante-sept mille quatre cents.",
+        "OST": "Et son armée, ses dénombrés: cinquante-sept mille quatre cents.",
+        "S21": "et son corps d'armée composé de 57'400 hommes d'après le dénombrement."
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "Total des hommes recensés dans le camp de Juda: 186 400 hommes pour les trois armées. Ils ouvriront la marche.",
+        "DBY": "-Tous les dénombrés du camp de Juda, cent quatre-vingt-six mille quatre cents, selon leurs armées; ils partiront les premiers.",
+        "KJV": "All that were numbered in the camp of Judah [were] an hundred thousand and fourscore thousand and six thousand and four hundred, throughout their armies. These shall first set forth.",
+        "LSG": "Total pour le camp de Juda, d'après le dénombrement: cent quatre-vingt six mille quatre cents hommes, selon leurs corps d'armée. Ils seront les premiers dans la marche.",
+        "MAB": "Tous les dénombrés de la compagnie de Juda, cent quatre-vingt-six mille quatre cents par leurs troupes, partiront les premiers.",
+        "OST": "Tous les hommes dénombrés pour le camp de Juda sont cent quatre-vingt-six mille quatre cents, selon leurs armées. Ils partiront les premiers.",
+        "S21": "Total pour le camp de Juda, d'après le dénombrement: 186'400 hommes répartis dans leurs corps d'armée. Ils se mettront en marche les premiers."
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "Au sud se dressera la bannière du camp de Ruben rangé par corps d’armée, ayant pour chef Elitsour, fils de Chedéour,",
+        "DBY": "La bannière du camp de Ruben, selon ses armées, sera vers le midi: le prince des fils de Ruben, Élitsur, fils de Shedéur, et son armée;",
+        "KJV": "On the south side [shall be] the standard of the camp of Reuben according to their armies: and the captain of the children of Reuben [shall be] Elizur the son of Shedeur.",
+        "LSG": "Au midi, le camp de Ruben, avec sa bannière, et avec ses corps d'armée. Là camperont le prince des fils de Ruben, Elitsur, fils de Schedéur,",
+        "MAB": "La bannière de la compagnie de Ruben, par ses troupes, sera vers le Midi, et Elitsur, fils de Sédéur, sera le chef des enfants de Ruben;",
+        "OST": "La bannière du camp de Ruben, selon ses armées, sera vers le Midi, avec le chef des enfants de Ruben, Elitsur, fils de Shedéur,",
+        "S21": "»L’étendard du camp de Ruben se trouvera au sud avec ses corps d'armée. Là camperont le prince des Rubénites, Elitsur, fils de Shedéur,"
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "avec un effectif de 46 500 hommes.",
+        "DBY": "et ses dénombrés, quarante six mille cinq cents.",
+        "KJV": "And his host, and those that were numbered thereof, [were] forty and six thousand and five hundred.",
+        "LSG": "et son corps d'armée composé de quarante-six mille cinq cents hommes, d'après le dénombrement.",
+        "MAB": "Et sa troupe, et ses dénombrés, quarante-six mille cinq cents.",
+        "OST": "Et son armée, et ses dénombrés: quarante-six mille cinq cents.",
+        "S21": "et son corps d'armée composé de 46'500 hommes d'après le dénombrement."
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "A ses côtés camperont la tribu de Siméon sous la direction de son chef Cheloumiel, fils de Tsourichaddaï,",
+        "DBY": "-Et ceux qui camperont près de lui, sont la tribu de Siméon: le prince des fils de Siméon, Shelumiel, fils de Tsurishaddaï, et son armée;",
+        "KJV": "And those which pitch by him [shall be] the tribe of Simeon: and the captain of the children of Simeon [shall be] Shelumiel the son of Zurishaddai.",
+        "LSG": "A ses côtés camperont la tribu de Siméon, le prince des fils de Siméon, Schelumiel, fils de Tsurischaddaï,",
+        "MAB": "Près de lui campera la Tribu de Siméon, et Sélumiel, fils de Tsurisaddaï, sera le chef des enfants de Siméon;",
+        "OST": "Et la tribu de Siméon campera auprès de lui, et le chef des enfants de Siméon, Shelumiel, fils de Tsurishaddaï,",
+        "S21": "A ses côtés camperont la tribu de Siméon, le prince des Siméonites, Shelumiel, fils de Tsurishaddaï,"
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "avec un effectif de 59 300 hommes,",
+        "DBY": "et ses dénombrés, cinquante-neuf mille trois cents.",
+        "KJV": "And his host, and those that were numbered of them, [were] fifty and nine thousand and three hundred.",
+        "LSG": "et son corps d'armée composé de cinquante-neuf mille trois cents hommes, d'après le dénombrement;",
+        "MAB": "Et sa troupe, et ses dénombrés, cinquante-neuf mille trois cents.",
+        "OST": "Et son armée, ses dénombrés: cinquante-neuf mille trois cents.",
+        "S21": "et son corps d'armée composé de 59'300 hommes d'après le dénombrement,"
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "et la tribu de Gad sous la direction de Eliasaph, fils de Reouel,",
+        "DBY": "-Et avec eux sera la tribu de Gad: le prince des fils de Gad, Éliasaph, fils de Rehuel, et son armée;",
+        "KJV": "Then the tribe of Gad: and the captain of the sons of Gad [shall be] Eliasaph the son of Reuel.",
+        "LSG": "puis la tribu de Gad, le prince des fils de Gad, Eliasaph, fils de Déuel,",
+        "MAB": "Puis la Tribu de Gad, et Eliasaph, fils de Réhuel, sera le chef des enfants de Gad;",
+        "OST": "Puis la tribu de Gad, et le chef des enfants de Gad, Eliasaph, fils de Réhuel,",
+        "S21": "puis la tribu de Gad, le prince des Gadites, Eliasaph, fils de Déuel,"
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "avec un effectif de 45 650 hommes.",
+        "DBY": "et ses dénombrés, quarante cinq mille six cent cinquante.",
+        "KJV": "And his host, and those that were numbered of them, [were] forty and five thousand and six hundred and fifty.",
+        "LSG": "et son corps d'armée composé de quarante-cinq mille six cent cinquante hommes, d'après le dénombrement.",
+        "MAB": "Et sa troupe, et ses dénombrés, quarante-cinq mille six cent cinquante.",
+        "OST": "Et son armée, ses dénombrés: quarante-cinq mille six cent cinquante.",
+        "S21": "et son corps d'armée composé de 45'650 hommes d'après le dénombrement."
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "Total des hommes recensés dans le camp de Ruben: 151 450 pour les trois armées. Ils seront les seconds à se mettre en marche.",
+        "DBY": "-Tous les dénombrés du camp de Ruben, cent cinquante et un mille quatre cent cinquante, selon leurs armées; et ils partiront les seconds.",
+        "KJV": "All that were numbered in the camp of Reuben [were] an hundred thousand and fifty and one thousand and four hundred and fifty, throughout their armies. And they shall set forth in the second rank.",
+        "LSG": "Total pour le camp de Ruben, d'après le dénombrement: cent cinquante et un mille quatre cent cinquante hommes, selon leurs corps d'armée. Ils seront les seconds dans la marche.",
+        "MAB": "Tous les dénombrés de la compagnie de Ruben, cent cinquante et un mille quatre cent cinquante, par leurs troupes, partiront les seconds.",
+        "OST": "Tous les hommes dénombrés pour le camp de Ruben sont cent cinquante et un mille quatre cent cinquante, selon leurs armées. Ils partiront les seconds.",
+        "S21": "Total pour le camp de Ruben, d'après le dénombrement: 151'450 hommes répartis dans leurs corps d'armée. Ils seront les deuxièmes à se mettre en marche."
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "Ensuite partira la tente de la Rencontre avec le camp des lévites, au centre des autres camps. Ils partiront dans l’ordre dans lequel ils campent, chacun à son tour sous sa bannière.",
+        "DBY": "Et la tente d'assignation partira, le camp des Lévites étant au milieu des camps; comme ils auront campé, ainsi ils partiront, chacun à sa place, selon leurs bannières.",
+        "KJV": "Then the tabernacle of the congregation shall set forward with the camp of the Levites in the midst of the camp: as they encamp, so shall they set forward, every man in his place by their standards.",
+        "LSG": "Ensuite partira la tente d'assignation, avec le camp des Lévites placé au milieu des autres camps: Ils suivront dans la marche l'ordre dans lequel ils auront campé, chacun dans son rang, selon sa bannière.",
+        "MAB": "Ensuite le Tabernacle d'assignation partira avec la compagnie des Lévites, au milieu des compagnies qui partiront selon qu'elles seront campées, chacune en sa place, selon leurs bannières.",
+        "OST": "Ensuite partira le tabernacle d'assignation, le camp des Lévites, au milieu des autres camps; ils partiront, comme ils auront campé, chacun à son rang, selon leurs bannières.",
+        "S21": "»Ensuite partira la tente de la rencontre, avec le camp des Lévites placé au milieu des autres camps. Ils suivront dans la marche l'ordre dans lequel ils auront campé, chacun à sa place, selon son étendard."
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "La bannière du camp d’Ephraïm sera dressée à l’occident. Il sera rangé par corps d’armée, ayant pour chef Elichama, fils d’Ammihoud,",
+        "DBY": "La bannière du camp d'Éphraïm, selon ses armées, sera vers l'occident: le prince des fils d'Éphraïm, Elishama, fils d'Ammihud, et son armée;",
+        "KJV": "On the west side [shall be] the standard of the camp of Ephraim according to their armies: and the captain of the sons of Ephraim [shall be] Elishama the son of Ammihud.",
+        "LSG": "A l'occident, le camp d'Ephraïm, avec sa bannière, et avec ses corps d'armée. Là camperont le prince des fils d'Ephraïm, Elischama, fils d'Ammihud,",
+        "MAB": "La bannière de la compagnie d'Ephraïm, par ses troupes, sera vers l'Occident; et Elisamah, fils de Hammiud, sera le chef des enfants d'Ephraïm;",
+        "OST": "La bannière du camp d'Éphraïm, selon ses armées, sera vers l'Occident, avec le chef des enfants d'Éphraïm, Elishama, fils d'Ammihud,",
+        "S21": "»L’étendard du camp d'Ephraïm se trouvera à l’ouest avec ses corps d'armée. Là camperont le prince des Ephraïmites, Elishama, fils d'Ammihud,"
+      }
+    },
+    {
+      "verse": 19,
+      "texts": {
+        "BDS": "avec un effectif de 40 500 hommes.",
+        "DBY": "et ses dénombrés, quarante cinq mille cinq cents.",
+        "KJV": "And his host, and those that were numbered of them, [were] forty thousand and five hundred.",
+        "LSG": "et son corps d'armée composé de quarante mille cinq cents hommes, d'après le dénombrement.",
+        "MAB": "Et sa troupe, et ses dénombrés, quarante mille cinq cents.",
+        "OST": "Et son armée, ses dénombrés: quarante mille cinq cents.",
+        "S21": "et son corps d'armée composé de 40'500 hommes d'après le dénombrement."
+      }
+    },
+    {
+      "verse": 20,
+      "texts": {
+        "BDS": "A ses côtés camperont la tribu de Manassé, sous la direction de son chef Gamliel, fils de Pédahtsour,",
+        "DBY": "-Et près de lui la tribu de Manassé: le prince des fils de Manassé, Gameliel,",
+        "KJV": "And by him [shall be] the tribe of Manasseh: and the captain of the children of Manasseh [shall be] Gamaliel the son of Pedahzur.",
+        "LSG": "A ses côtés camperont la tribu de Manassé, le prince des fils de Manassé, Gamliel, fils de Pedahtsur,",
+        "MAB": "Près de lui [campera] la Tribu de Manassé, et Gamaliel, fils de Pédatsur, sera le chef des enfants de Manassé;",
+        "OST": "Et auprès de lui, la tribu de Manassé, et le chef des enfants de Manassé, Gamaliel, fils de Pedahtsur,",
+        "S21": "A ses côtés camperont la tribu de Manassé, le prince des Manassites, Gamliel, fils de Pedahtsur,"
+      }
+    },
+    {
+      "verse": 21,
+      "texts": {
+        "BDS": "avec un effectif de 32 200 hommes",
+        "DBY": "fils de Pedahtsur, et son armée; et ses dénombrés, trente-deux mille deux cents.",
+        "KJV": "And his host, and those that were numbered of them, [were] thirty and two thousand and two hundred.",
+        "LSG": "et son corps d'armée composé de trente-deux mille deux cents hommes, d'après le dénombrement;",
+        "MAB": "Et sa troupe, et ses dénombrés, trente-deux mille deux cents.",
+        "OST": "Et son armée, ses dénombrés: trente-deux mille deux cents.",
+        "S21": "et son corps d'armée composé de 32'200 hommes d'après le dénombrement,"
+      }
+    },
+    {
+      "verse": 22,
+      "texts": {
+        "BDS": "et la tribu de Benjamin sous la direction de son chef Abidân, fils de Guideoni,",
+        "DBY": "-Et avec eux sera la tribu de Benjamin: le prince des fils de Benjamin, Abidan,",
+        "KJV": "Then the tribe of Benjamin: and the captain of the sons of Benjamin [shall be] Abidan the son of Gideoni.",
+        "LSG": "puis la tribu de Benjamin, le prince des fils de Benjamin, Abidan, fils de Guideoni,",
+        "MAB": "Puis la Tribu de Benjamin, et Abidan, fils de Guidhoni, sera le chef des enfants de Benjamin;",
+        "OST": "Puis la tribu de Benjamin, et le chef des enfants de Benjamin, Abidan, fils de Guideoni,",
+        "S21": "puis la tribu de Benjamin, le prince des Benjaminites, Abidan, fils de Guideoni,"
+      }
+    },
+    {
+      "verse": 23,
+      "texts": {
+        "BDS": "avec un effectif de 35 400 hommes.",
+        "DBY": "fils de Guidhoni, et son armée; et ses dénombrés, trente-cinq mille quatre cents.",
+        "KJV": "And his host, and those that were numbered of them, [were] thirty and five thousand and four hundred.",
+        "LSG": "et son corps d'armée composé de trente-cinq mille quatre cents hommes, d'après le dénombrement.",
+        "MAB": "Et sa troupe, et ses dénombrés, trente-cinq mille et quatre cents.",
+        "OST": "Et son armée, ses dénombrés: trente-cinq mille quatre cents.",
+        "S21": "et son corps d'armée composé de 35'400 hommes d'après le dénombrement."
+      }
+    },
+    {
+      "verse": 24,
+      "texts": {
+        "BDS": "Total des hommes recensés dans le camp d’Ephraïm: 108 100 hommes pour les trois armées. Ils partiront en troisième lieu.",
+        "DBY": "-Tous les dénombrés du camp d'Éphraïm, cent huit mille quatre cents, selon leurs armées; et ils partiront les troisièmes.",
+        "KJV": "All that were numbered of the camp of Ephraim [were] an hundred thousand and eight thousand and an hundred, throughout their armies. And they shall go forward in the third rank.",
+        "LSG": "Total pour le camp d'Ephraïm, d'après le dénombrement: cent huit mille et cent hommes, selon leurs corps d'armée. Ils seront les troisièmes dans la marche.",
+        "MAB": "Tous les dénombrés de la compagnie d'Ephraïm, cent huit mille et cent, par leurs troupes, partiront les troisièmes.",
+        "OST": "Tous les hommes dénombrés pour le camp d'Éphraïm sont cent huit mille et cent, selon leurs armées. Ils partiront les troisièmes.",
+        "S21": "Total pour le camp d'Ephraïm, d'après le dénombrement: 108'100 hommes répartis dans leurs corps d'armée. Ils seront les troisièmes à se mettre en marche."
+      }
+    },
+    {
+      "verse": 25,
+      "texts": {
+        "BDS": "Au nord campera la tribu de Dan rangée par corps d’armée et ayant pour chef Ahiézer, fils d’Ammichaddaï,",
+        "DBY": "La bannière du camp de Dan, selon ses armées, sera vers le nord: le prince des fils de Dan, Akhiézer,",
+        "KJV": "The standard of the camp of Dan [shall be] on the north side by their armies: and the captain of the children of Dan [shall be] Ahiezer the son of Ammishaddai.",
+        "LSG": "Au nord, le camp de Dan, avec sa bannière, et avec ses corps d'armée. Là camperont le prince des fils de Dan, Ahiézer, fils d'Ammischaddaï,",
+        "MAB": "La bannière de la compagnie de Dan, par ses troupes, sera vers le Septentrion, et Ahihézer, fils de Hammisadaaï, sera le chef des enfants de Dan;",
+        "OST": "La bannière du camp de Dan sera vers le Nord, selon ses armées, avec le chef des enfants de Dan, Ahiézer, fils d'Ammishaddaï,",
+        "S21": "»L’étendard du camp de Dan se trouvera au nord avec ses corps d'armée. Là camperont le prince des Danites, Ahiézer, fils d'Ammishaddaï,"
+      }
+    },
+    {
+      "verse": 26,
+      "texts": {
+        "BDS": "avec un effectif de 62 700 hommes.",
+        "DBY": "fils d'Ammishaddaï, et son armée; et ses dénombrés, soixante-deux mille sept cents.",
+        "KJV": "And his host, and those that were numbered of them, [were] threescore and two thousand and seven hundred.",
+        "LSG": "et son corps d'armée composé de soixante-deux mille sept cents hommes, d'après le dénombrement.",
+        "MAB": "Et sa troupe, et ses dénombrés, soixante-deux mille sept cents.",
+        "OST": "Et son armée, ses dénombrés: soixante-deux mille sept cents.",
+        "S21": "et son corps d'armée composé de 62'700 hommes d'après le dénombrement."
+      }
+    },
+    {
+      "verse": 27,
+      "texts": {
+        "BDS": "A ses côtés, la tribu d’Aser sous la direction de son chef Paguiel, fils d’Okrân,",
+        "DBY": "-Et ceux qui camperont près de lui, sont la tribu d'Aser: le prince des fils d'Aser,",
+        "KJV": "And those that encamp by him [shall be] the tribe of Asher: and the captain of the children of Asher [shall be] Pagiel the son of Ocran.",
+        "LSG": "A ses côtés camperont la tribu d'Aser, le prince des fils d'Aser, Paguiel, fils d'Ocran,",
+        "MAB": "Près de lui campera la Tribu d'Aser, et Paghiel, fils de Hocran, sera le chef des enfants d'Aser;",
+        "OST": "Et la tribu d'Asser campera auprès de lui, et le chef des enfants d'Asser, Paguiel, fils d'Ocran,",
+        "S21": "A ses côtés camperont la tribu d'Aser, le prince des Asérites, Paguiel, fils d'Ocran,"
+      }
+    },
+    {
+      "verse": 28,
+      "texts": {
+        "BDS": "avec un effectif de 41 500 hommes.",
+        "DBY": "Paghiel, fils d'Ocran, et son armée; et ses dénombrés, quarante et un mille cinq cents.",
+        "KJV": "And his host, and those that were numbered of them, [were] forty and one thousand and five hundred.",
+        "LSG": "et son corps d'armée composé de quarante et un mille cinq cents hommes, d'après le dénombrement;",
+        "MAB": "Et sa troupe, et ses dénombrés, quarante et un mille cinq cents.",
+        "OST": "Et son armée, ses dénombrés: quarante et un mille cinq cents.",
+        "S21": "et son corps d'armée composé de 41'500 hommes d'après le dénombrement,"
+      }
+    },
+    {
+      "verse": 29,
+      "texts": {
+        "BDS": "Puis la tribu de Nephtali sous la direction de son chef Ahira, fils d’Enân,",
+        "DBY": "-Et avec eux sera la tribu de Nephthali: le prince des fils de Nephthali, Akhira, fils d'Énan, et son armée:",
+        "KJV": "Then the tribe of Naphtali: and the captain of the children of Naphtali [shall be] Ahira the son of Enan.",
+        "LSG": "puis la tribu de Nephthali, le prince des fils de Nephthali, Ahira, fils d'Enan,",
+        "MAB": "Puis la Tribu de Nephthali, et Ahirah, fils de Hénan, sera le chef des enfants de Nephthali;",
+        "OST": "Puis la tribu de Nephthali, et le chef des enfants de Nephthali, Ahira, fils d'Enan,",
+        "S21": "puis la tribu de Nephthali, le prince des Nephthalites, Ahira, fils d'Enan,"
+      }
+    },
+    {
+      "verse": 30,
+      "texts": {
+        "BDS": "avec un effectif de 53 400 hommes.",
+        "DBY": "et ses dénombrés, cinquante-trois mille quatre cents.",
+        "KJV": "And his host, and those that were numbered of them, [were] fifty and three thousand and four hundred.",
+        "LSG": "et son corps d'armée composé de cinquante-trois mille quatre cents hommes, d'après le dénombrement.",
+        "MAB": "Et sa troupe, et ses dénombrés, cinquante-trois mille quatre cents.",
+        "OST": "Et son armée, ses dénombrés: cinquante-trois mille quatre cents.",
+        "S21": "et son corps d'armée composé de 53'400 hommes d'après le dénombrement."
+      }
+    },
+    {
+      "verse": 31,
+      "texts": {
+        "BDS": "Total des hommes recensés dans le camp de Dan: 157 600 hommes. Ils partiront en dernier lieu avec leurs bannières.",
+        "DBY": "-Tous les dénombrés du camp de Dan, cent cinquante-sept mille six cents; ils partiront les derniers, selon leurs bannières.",
+        "KJV": "All they that were numbered in the camp of Dan [were] an hundred thousand and fifty and seven thousand and six hundred. They shall go hindmost with their standards.",
+        "LSG": "Total pour le camp de Dan, d'après le dénombrement: cent cinquante-sept mille six cents hommes. Ils seront les derniers dans la marche, selon leur bannière.",
+        "MAB": "Tous les dénombrés de la compagnie de Dan, cent cinquante-sept mille six cents, partiront les derniers des bannières.",
+        "OST": "Tous les hommes dénombrés pour le camp de Dan sont cent cinquante-sept mille six cents. Ils partiront les derniers, selon leurs bannières.",
+        "S21": "Total pour le camp de Dan, d'après le dénombrement: 157'600 hommes. Ils seront les derniers à se mettre en marche, selon leur étendard.»"
+      }
+    },
+    {
+      "verse": 32,
+      "texts": {
+        "BDS": "Le nombre total des Israélites recensés par groupes familiaux et rangés par corps d’armée était de 603 550 hommes.",
+        "DBY": "Ce sont là les dénombrés des fils d'Israël, selon leurs maisons de pères. Tous les dénombrés des camps, selon leurs armées, furent six cent trois mille cinq cent cinquante.",
+        "KJV": "These [are] those which were numbered of the children of Israel by the house of their fathers: all those that were numbered of the camps throughout their hosts [were] six hundred thousand and three thousand and five hundred and fifty.",
+        "LSG": "Tels sont ceux des enfants d'Israël dont on fit le dénombrement, selon les maisons de leurs pères. Tous ceux dont on fit le dénombrement, et qui formèrent les camps, selon leurs corps d'armée, furent six cent trois mille cinq cent cinquante.",
+        "MAB": "Ce sont là ceux des enfants d'Israël dont on fit le dénombrement selon les maisons de leurs pères. Tous les dénombrés des compagnies selon leurs troupes; [furent] six cent trois mille cinq cent cinquante.",
+        "OST": "Ce sont là ceux des enfants d'Israël, dont on fit le dénombrement, selon les maisons de leurs pères. Tous les hommes dénombrés, formant les camps, selon leurs armées, furent six cent trois mille cinq cent cinquante.",
+        "S21": "Tels sont les Israélites dont on fit le dénombrement en fonction de leur famille. On dénombra au total, parmi ceux qui formèrent les camps selon leurs corps d'armée, 603'550 hommes."
+      }
+    },
+    {
+      "verse": 33,
+      "texts": {
+        "BDS": "Les lévites ne furent pas recensés avec les autres Israélites, conformément à l’ordre donné par l’Eternel à Moïse.",
+        "DBY": "Mais les Lévites ne furent pas dénombrés parmi les fils d'Israël, ainsi que l'Éternel l'avait commandé à Moïse.",
+        "KJV": "But the Levites were not numbered among the children of Israel; as the LORD commanded Moses.",
+        "LSG": "Les Lévites, suivant l'ordre que l'Eternel avait donné à Moïse, ne firent point partie du dénombrement au milieu des enfants d'Israël.",
+        "MAB": "Mais les Lévites ne furent point dénombrés avec les [autres] enfants d'Israël, comme l'Eternel [l']avait commandé à Moïse.",
+        "OST": "Mais les Lévites ne furent point dénombrés au milieu des enfants d'Israël, d'après l'ordre que l'Éternel avait donné à Moïse.",
+        "S21": "Conformément à l'ordre que l'Eternel avait donné à Moïse, les Lévites ne furent pas inclus dans le dénombrement effectué au milieu des Israélites."
+      }
+    },
+    {
+      "verse": 34,
+      "texts": {
+        "BDS": "Les Israélites firent tout comme l’Eternel avait ordonné à Moïse: ils campaient sous leurs bannières et partaient par familles et par groupes familiaux.",
+        "DBY": "Et les fils d'Israël firent selon tout ce que l'Éternel avait commandé à Moïse: ainsi ils campèrent selon leurs bannières, et ainsi ils partirent, chacun selon leurs familles, selon leurs maisons de pères.",
+        "KJV": "And the children of Israel did according to all that the LORD commanded Moses: so they pitched by their standards, and so they set forward, every one after their families, according to the house of their fathers.",
+        "LSG": "Et les enfants d'Israël se conformèrent à tous les ordres que l'Eternel avait donnés à Moïse. C'est ainsi qu'ils campaient, selon leurs bannières; et c'est ainsi qu'ils se mettaient en marche, chacun selon sa famille, selon la maison de ses pères.",
+        "MAB": "Et les enfants d'Israël firent selon toutes les choses que l'Eternel avait commandées à Moïse, [et] campèrent ainsi selon leurs bannières, et partirent ainsi, chacun selon leurs familles, [et] selon la maison de leurs pères.",
+        "OST": "Et les enfants d'Israël firent selon tout ce que l'Éternel avait commandé à Moïse; ils campèrent ainsi, selon leurs bannières, et partirent ainsi, chacun selon sa famille, selon la maison de ses pères.",
+        "S21": "Les Israélites se conformèrent à tous les ordres que l'Eternel avait donnés à Moïse. C'est ainsi qu'ils campaient, selon leurs étendards, et c'est ainsi qu'ils se mettaient en marche, chacun en fonction de son clan, suivant sa famille."
+      }
+    }
+  ]
+}

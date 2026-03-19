@@ -1,0 +1,306 @@
+{
+  "bookCode": "JHN",
+  "chapter": 2,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "Deux jours plus tard, on célébrait des noces à Cana, en Galilée. La mère de Jésus y assistait.",
+        "DBY": "Et le troisième jour, il y eut une noce à Cana de Galilée, et la mère de Jésus était là.",
+        "KJV": "And the third day there was a marriage in Cana of Galilee; and the mother of Jesus was there:",
+        "LSG": "Trois jours après, il y eut des noces à Cana en Galilée. La mère de Jésus était là,",
+        "MAB": "Or trois jours après on faisait des noces à Cana de Galilée, et la mère de Jésus était là.",
+        "OST": "Trois jours après, on faisait des noces à Cana en Galilée, et la mère de Jésus y était.",
+        "S21": "Or, le troisième jour, il y eut des noces à Cana en Galilée. La mère de Jésus était là."
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "Jésus avait aussi été invité au mariage avec ses disciples.",
+        "DBY": "Et Jésus fut aussi convié à la noce, ainsi que ses disciples.",
+        "KJV": "And both Jesus was called, and his disciples, to the marriage.",
+        "LSG": "et Jésus fut aussi invité aux noces avec ses disciples.",
+        "MAB": "Et Jésus fut aussi convié aux noces, avec ses Disciples.",
+        "OST": "Et Jésus fut aussi convié aux noces avec ses disciples.",
+        "S21": "Jésus fut aussi invité aux noces avec ses disciples."
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "Or voilà que le vin se mit à manquer. La mère de Jésus lui fit remarquer:\r\n—Ils n’ont plus de vin.",
+        "DBY": "Et le vin étant venu à manquer, la mère de Jésus lui dit: Ils n'ont pas de vin.",
+        "KJV": "And when they wanted wine, the mother of Jesus saith unto him, They have no wine.",
+        "LSG": "Le vin ayant manqué, la mère de Jésus lui dit: Ils n'ont plus de vin.",
+        "MAB": "Et le vin étant venu à manquer, la mère de Jésus lui dit : ils n'ont point de vin.",
+        "OST": "Le vin ayant manqué, la mère de Jésus lui dit: Ils n'ont plus de vin.",
+        "S21": "Comme le vin venait à manquer, la mère de Jésus lui dit: «Ils n'ont plus de vin.»"
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "—Ecoute, lui répondit Jésus, est-ce toi ou moi que cette affaire concerne? Mon heure n’est pas encore venue.",
+        "DBY": "Jésus lui dit: Qu'y a-t-il entre moi et toi, femme? Mon heure n'est pas encore venue.",
+        "KJV": "Jesus saith unto her, ‹Woman, what have I to do with thee? mine hour is not yet come.›",
+        "LSG": "Jésus lui répondit: Femme, qu'y a-t-il entre moi et toi? Mon heure n'est pas encore venue.",
+        "MAB": "Mais Jésus lui répondit : qu'y a-t-il entre moi et toi, femme? mon heure n'est point encore venue.",
+        "OST": "Jésus lui répondit: Femme, qu'y a-t-il entre moi et toi? Mon heure n'est pas encore venue.",
+        "S21": "Jésus lui répondit: «Que me veux-tu, femme? Mon heure n'est pas encore venue.»"
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "Sa mère dit aux serviteurs:\r\n—Faites tout ce qu’il vous dira.",
+        "DBY": "Sa mère dit aux serviteurs: Faites tout ce qu'il vous dira.",
+        "KJV": "His mother saith unto the servants, Whatsoever he saith unto you, do [it].",
+        "LSG": "Sa mère dit aux serviteurs: Faites ce qu'il vous dira.",
+        "MAB": "Sa mère dit aux serviteurs : faites tout ce qu'il vous dira.",
+        "OST": "Sa mère dit à ceux qui servaient: Faites tout ce qu'il vous dira.",
+        "S21": "Sa mère dit aux serviteurs: «Faites tout ce qu'il vous dira.»"
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "Il y avait là six jarres de pierre que les Juifs utilisaient pour leurs ablutions rituelles. Chacune d’elles pouvait contenir entre quatre-vingts et cent vingt litres.",
+        "DBY": "Or il y avait là six vaisseaux de pierre, pour tenir de l'eau, placés là selon l'usage de la purification des Juifs, pouvant recevoir chacun deux ou trois mesures.",
+        "KJV": "And there were set there six waterpots of stone, after the manner of the purifying of the Jews, containing two or three firkins apiece.",
+        "LSG": "Or, il y avait là six vases de pierre, destinés aux purifications des Juifs, et contenant chacun deux ou trois mesures.",
+        "MAB": "Or il y avait là six vaisseaux de pierre, mis selon l'usage de la purification des Juifs, dont chacun tenait deux ou trois mesures.",
+        "OST": "Or, il y avait là six vaisseaux de pierre, placés pour la purification des Juifs, et contenant chacun deux ou trois mesures.",
+        "S21": "Or il y avait là six jarres de pierre, destinées aux purifications des Juifs et contenant chacune une centaine de litres."
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "Jésus dit aux serviteurs:\r\n—Remplissez d’eau ces jarres.\r\nIls les remplirent jusqu’au bord.",
+        "DBY": "Jésus leur dit: Emplissez d'eau les vaisseaux. Et ils les emplirent jusqu'au haut.",
+        "KJV": "Jesus saith unto them, ‹Fill the waterpots with water.› And they filled them up to the brim.",
+        "LSG": "Jésus leur dit: Remplissez d'eau ces vases. Et ils les remplirent jusqu'au bord.",
+        "MAB": "Et Jésus leur dit : emplissez d'eau ces vaisseaux. Et ils les emplirent jusques au haut.",
+        "OST": "Jésus leur dit: Remplissez d'eau ces vaisseaux; et ils les remplirent jusqu'au haut.",
+        "S21": "Jésus leur dit: «Remplissez d'eau ces jarres.» Et ils les remplirent jusqu'au bord."
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "—Maintenant, leur dit-il, prenez-en un peu et allez l’apporter à l’ordonnateur du repas.\r\nCe qu’ils firent.",
+        "DBY": "Et il leur dit: Puisez maintenant, et portez-en au maître d'hôtel. Et ils lui en portèrent.",
+        "KJV": "And he saith unto them, ‹Draw out now, and bear unto the governor of the feast.› And they bare [it].",
+        "LSG": "Puisez maintenant, leur dit-il, et portez-en à l'ordonnateur du repas. Et ils en portèrent.",
+        "MAB": "Puis il leur dit : versez-en maintenant, et portez-en au maître d'hôtel. Et ils lui en portèrent.",
+        "OST": "Et il leur dit: Puisez-en maintenant, et portez-en au chef du festin. Et ils le firent.",
+        "S21": "«Puisez maintenant, leur dit-il, et apportez-en à l'organisateur du repas.» Et ils lui en apportèrent."
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "L’ordonnateur du repas goûta l’eau qui avait été changée en vin. Il ne savait pas d’où venait ce vin, alors que les serviteurs le savaient, puisqu’ils avaient puisé l’eau. Aussitôt il fit appeler le marié",
+        "DBY": "Mais lorsque le maître d'hôtel eut goûté l'eau qui était devenue du vin, et qu'il ne savait point d'où celui-ci venait (mais les serviteurs qui avaient puisé l'eau le savaient), le maître d'hôtel appelle l'époux,",
+        "KJV": "When the ruler of the feast had tasted the water that was made wine, and knew not whence it was: (but the servants which drew the water knew;) the governor of the feast called the bridegroom,",
+        "LSG": "Quand l'ordonnateur du repas eut goûté l'eau changée en vin,-ne sachant d'où venait ce vin, tandis que les serviteurs, qui avaient puisé l'eau, le savaient bien, -il appela l'époux,",
+        "MAB": "Quand le maître d'hôtel eut goûté l'eau qui avait été changée en vin, (or il ne savait pas d'où cela venait, mais les serviteurs qui avaient puisé l'eau, le savaient bien,) il s'adressa à l'époux.",
+        "OST": "Quand le chef du festin eut goûté l'eau changée en vin (or, il ne savait pas d'où venait ce vin, mais les serviteurs qui avaient puisé l'eau le savaient), il appela l'époux,",
+        "S21": "L'organisateur du repas goûta l'eau changée en vin. Ne sachant pas d'où venait ce vin, tandis que les serviteurs qui avaient puisé l'eau le savaient bien, il appela le marié"
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "et lui dit:\r\n—En général, on sert d’abord le bon vin, et quand les gens sont ivres, on leur donne de l’ordinaire. Mais toi, tu as réservé le bon jusqu’à maintenant!",
+        "DBY": "et lui dit: Tout homme sert le bon vin le premier, et puis le moindre, après qu'on a bien bu; toi, tu as gardé le bon vin jusqu'à maintenant.",
+        "KJV": "And saith unto him, Every man at the beginning doth set forth good wine; and when men have well drunk, then that which is worse: [but] thou hast kept the good wine until now.",
+        "LSG": "et lui dit: Tout homme sert d'abord le bon vin, puis le moins bon après qu'on s'est enivré; toi, tu as gardé le bon vin jusqu'à présent.",
+        "MAB": "Et lui dit : tout homme sert le bon vin le premier, et puis le moindre après qu'on a bu plus largement; [mais] toi, tu as gardé le bon vin jusqu'à maintenant.",
+        "OST": "Et lui dit: Tout homme sert d'abord le bon vin, et ensuite le moins bon, après qu'on a beaucoup bu; mais toi, tu as gardé le bon vin jusqu'à présent.",
+        "S21": "et lui dit: «Tout homme sert d'abord le bon vin, puis le moins bon après qu'on s'est enivré; mais toi, tu as gardé le bon vin jusqu'à présent!»"
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "C’est là le premier des signes miraculeux que fit Jésus. Cela se passa à Cana en Galilée. Il révéla ainsi sa gloire, et ses disciples crurent en lui.",
+        "DBY": "Jésus fit ce commencement de ses miracles à Cana de Galilée, et il manifesta sa gloire; et ses disciples crurent en lui.",
+        "KJV": "This beginning of miracles did Jesus in Cana of Galilee, and manifested forth his glory; and his disciples believed on him.",
+        "LSG": "Tel fut, à Cana en Galilée, le premier des miracles que fit Jésus. Il manifesta sa gloire, et ses disciples crurent en lui.",
+        "MAB": "Jésus fit ce premier miracle à Cana de Galilée, et il manifesta sa gloire, et ses Disciples crurent en lui.",
+        "OST": "Jésus fit ce premier miracle à Cana de Galilée, et il manifesta sa gloire; et ses disciples crurent en lui.",
+        "S21": "Tel fut, à Cana en Galilée, le premier des signes miraculeux que fit Jésus. Il manifesta sa gloire et ses disciples crurent en lui."
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "Après cela, Jésus descendit à Capernaüm avec sa mère, ses frères et ses disciples; mais ils n’y restèrent que quelques jours.",
+        "DBY": "Après cela, il descendit à Capernaüm, lui et sa mère et ses frères et ses disciples; et ils y demeurèrent peu de jours.",
+        "KJV": "After this he went down to Capernaum, he, and his mother, and his brethren, and his disciples: and they continued there not many days.",
+        "LSG": "Après cela, il descendit à Capernaüm, avec sa mère, ses frères et ses disciples, et ils n'y demeurèrent que peu de jours.",
+        "MAB": "Après cela il descendit à Capernaüm avec sa mère, et ses frères, et ses Disciples; mais ils y demeurèrent peu de jours.",
+        "OST": "Après cela, il descendit à Capernaüm avec sa mère, ses frères et ses disciples; et ils n'y demeurèrent que peu de jours;",
+        "S21": "Après cela, il descendit à Capernaüm avec sa mère, ses frères et ses disciples, et ils n'y restèrent que peu de jours."
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "Le jour où les Juifs célèbrent la fête de la Pâque était proche et Jésus se rendit à Jérusalem.",
+        "DBY": "Et la Pâque des Juifs était proche, et Jésus monta à Jérusalem.",
+        "KJV": "And the Jews' passover was at hand, and Jesus went up to Jerusalem,",
+        "LSG": "La Pâque des Juifs était proche, et Jésus monta à Jérusalem.",
+        "MAB": "Car la Pâque des Juifs était proche; c'est pourquoi Jésus monta à Jérusalem.",
+        "OST": "Et la Pâque des Juifs était proche, et Jésus monta à Jérusalem.",
+        "S21": "La Pâque juive était proche et Jésus monta à Jérusalem."
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "Il trouva, dans la cour du Temple, des marchands de bœufs, de brebis et de pigeons, ainsi que des changeurs d’argent, installés à leurs comptoirs.",
+        "DBY": "Et il trouva dans le temple les vendeurs de bœufs et de brebis et de colombes, et les changeurs qui y étaient assis.",
+        "KJV": "And found in the temple those that sold oxen and sheep and doves, and the changers of money sitting:",
+        "LSG": "Il trouva dans le temple les vendeurs de boeufs, de brebis et de pigeons, et les changeurs assis.",
+        "MAB": "Et il trouva dans le Temple des gens qui vendaient des bœufs, et des brebis, et des pigeons; et les changeurs qui y étaient assis.",
+        "OST": "Et il trouva dans le temple ceux qui vendaient des taureaux, des brebis et des pigeons, avec les changeurs qui y étaient assis.",
+        "S21": "Il trouva les vendeurs de bœufs, de brebis et de pigeons ainsi que les changeurs de monnaie installés dans le temple."
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "Alors il prit des cordes, en fit un fouet, et les chassa tous de l’enceinte sacrée avec les brebis et les bœufs; il jeta par terre l’argent des changeurs et renversa leurs comptoirs,",
+        "DBY": "Et ayant fait un fouet de cordes, il les chassa tous hors du temple, et les brebis et les bœufs; et il répandit la monnaie des changeurs et renversa les tables.",
+        "KJV": "And when he had made a scourge of small cords, he drove them all out of the temple, and the sheep, and the oxen; and poured out the changers' money, and overthrew the tables;",
+        "LSG": "Ayant fait un fouet avec des cordes, il les chassa tous du temple, ainsi que les brebis et les boeufs; il dispersa la monnaie des changeurs, et renversa les tables;",
+        "MAB": "Et ayant fait un fouet avec de petites cordes, il les chassa tous du Temple, avec les brebis, et les bœufs; et il répandit la monnaie des changeurs, et renversa les tables.",
+        "OST": "Et ayant fait un fouet de cordes, il les chassa tous du temple, et les brebis et les taureaux; il répandit la monnaie des changeurs, et renversa leurs tables.",
+        "S21": "Alors il fit un fouet avec des cordes et les chassa tous du temple, ainsi que les brebis et les bœufs. Il dispersa la monnaie des changeurs et renversa leurs tables."
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "puis il dit aux marchands de pigeons:\r\n—Otez cela d’ici! C’est la maison de mon Père. N’en faites pas une maison de commerce.",
+        "DBY": "Et il dit à ceux qui vendaient les colombes: Otez ces choses d'ici; ne faites pas de la maison de mon Père une maison de trafic.",
+        "KJV": "And said unto them that sold doves, ‹Take these things hence; make not my Father's house an house of merchandise.›",
+        "LSG": "et il dit aux vendeurs de pigeons: Otez cela d'ici, ne faites pas de la maison de mon Père une maison de trafic.",
+        "MAB": "Et il dit à ceux qui vendaient des pigeons : ôtez ces choses d'ici, [et] ne faites pas de la Maison de mon Père un lieu de marché.",
+        "OST": "Et il dit à ceux qui vendaient les pigeons: Otez cela d'ici, et ne faites pas de la maison de mon Père une maison de marché.",
+        "S21": "Et il dit aux vendeurs de pigeons: «Enlevez cela d'ici, ne faites pas de la maison de mon Père une maison de commerce.»"
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "Les disciples se souvinrent alors de ce passage de l’Ecriture:\r\nL’amour que j’ai pour ta maison,\r\nô Dieu, est en moi un feu qui me consume.",
+        "DBY": "Et ses disciples se souvinrent qu'il est écrit: \"Le zèle de ta maison me dévore\".",
+        "KJV": "And his disciples remembered that it was written, The zeal of thine house hath eaten me up.",
+        "LSG": "Ses disciples se souvinrent qu'il est écrit: Le zèle de ta maison me dévore.",
+        "MAB": "Alors ses Disciples se souvinrent qu'il était écrit : le zèle de ta Maison m'a rongé.",
+        "OST": "Alors ses disciples se souvinrent qu'il est écrit: Le zèle de ta maison m'a dévoré.",
+        "S21": "Ses disciples se souvinrent qu'il est écrit: Le zèle de ta maison me dévore."
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "Là-dessus, les gens lui dirent:\r\n—Quel signe miraculeux peux-tu nous montrer pour prouver que tu as le droit d’agir ainsi?",
+        "DBY": "Les Juifs donc répondirent et lui dirent: Quel miracle nous montres-tu, que tu fasses ces choses?",
+        "KJV": "Then answered the Jews and said unto him, What sign shewest thou unto us, seeing that thou doest these things?",
+        "LSG": "Les Juifs, prenant la parole, lui dirent: Quel miracle nous montres-tu, pour agir de la sorte?",
+        "MAB": "Mais les Juifs prenant la parole, lui dirent : quel miracle nous montres-tu, pour entreprendre de faire de telles choses?",
+        "OST": "Les Juifs, prenant la parole, lui dirent: Quel signe nous montres-tu pour agir de la sorte?",
+        "S21": "Les Juifs prirent la parole et lui dirent: «Quel signe nous montres-tu, pour agir de cette manière?»"
+      }
+    },
+    {
+      "verse": 19,
+      "texts": {
+        "BDS": "—Démolissez ce Temple, leur répondit Jésus, et en trois jours, je le relèverai.",
+        "DBY": "Jésus répondit et leur dit: Détruisez ce temple, et en trois jours je le relèverai.",
+        "KJV": "Jesus answered and said unto them, ‹Destroy this temple, and in three days I will raise it up.›",
+        "LSG": "Jésus leur répondit: Détruisez ce temple, et en trois jours je le relèverai.",
+        "MAB": "Jésus répondit, et leur dit : abattez ce Temple, et en trois jours je le relèverai.",
+        "OST": "Jésus répondit et leur dit: Abattez ce temple, et je le relèverai dans trois jours.",
+        "S21": "Jésus leur répondit: «Détruisez ce temple et en 3 jours je le relèverai.»"
+      }
+    },
+    {
+      "verse": 20,
+      "texts": {
+        "BDS": "—Comment? répondirent-ils. Il a fallu quarante-six ans pour reconstruire le Temple, et toi, tu serais capable de le relever en trois jours!",
+        "DBY": "Juifs donc dirent: On a été quarante-six ans à bâtir ce temple, et toi, tu le relèveras en trois jours!",
+        "KJV": "Then said the Jews, Forty and six years was this temple in building, and wilt thou rear it up in three days?",
+        "LSG": "Les Juifs dirent: Il a fallu quarante-six ans pour bâtir ce temple, et toi, en trois jours tu le relèveras!",
+        "MAB": "Et les Juifs dirent : on a été quarante-six ans à bâtir ce Temple, et tu le relèveras dans trois jours!",
+        "OST": "Les Juifs lui dirent: On a été quarante-six ans à bâtir ce temple, et tu le relèveras dans trois jours?",
+        "S21": "Les Juifs dirent: «Il a fallu 46 ans pour construire ce temple et toi, en 3 jours tu le relèverais!»"
+      }
+    },
+    {
+      "verse": 21,
+      "texts": {
+        "BDS": "Mais en parlant du «temple», Jésus faisait allusion à son propre corps.",
+        "DBY": "Mais lui parlait du temple de son corps.",
+        "KJV": "But he spake of the temple of his body.",
+        "LSG": "Mais il parlait du temple de son corps.",
+        "MAB": "Mais il parlait du Temple, de son corps.",
+        "OST": "Mais il parlait du temple de son corps.",
+        "S21": "Cependant, lui parlait du temple de son corps."
+      }
+    },
+    {
+      "verse": 22,
+      "texts": {
+        "BDS": "Plus tard, lorsque Jésus fut ressuscité, ses disciples se souvinrent qu’il avait dit cela, et ils crurent à l’Ecriture et à la parole que Jésus avait dite.",
+        "DBY": "Lors donc qu'il fut ressuscité d'entre les morts, ses disciples se souvinrent qu'il avait dit cela; et ils crurent à l'écriture, et à la parole que Jésus avait dite.",
+        "KJV": "When therefore he was risen from the dead, his disciples remembered that he had said this unto them; and they believed the scripture, and the word which Jesus had said.",
+        "LSG": "C'est pourquoi, lorsqu'il fut ressuscité des morts, ses disciples se souvinrent qu'il avait dit cela, et ils crurent à l'Ecriture et à la parole que Jésus avait dite.",
+        "MAB": "C'est pourquoi lorsqu'il fut ressuscité des morts, ses Disciples se souvinrent qu'il leur avait dit cela, et ils crurent à l'Ecriture, et à la parole que Jésus avait dite.",
+        "OST": "Après donc qu'il fut ressuscité des morts, ses disciples se souvinrent qu'il leur avait dit cela; et ils crurent à l'Écriture et à cette parole que Jésus avait dite.",
+        "S21": "C’est pourquoi, lorsqu'il fut ressuscité, ses disciples se souvinrent qu'il avait dit cela et ils crurent à l'Ecriture et à la parole que Jésus avait dite."
+      }
+    },
+    {
+      "verse": 23,
+      "texts": {
+        "BDS": "Pendant que Jésus séjournait à Jérusalem pour la fête de la Pâque, beaucoup de gens crurent en lui en voyant les signes miraculeux qu’il accomplissait.",
+        "DBY": "Et comme il était à Jérusalem, à la Pâque, pendant la fête, plusieurs crurent en son nom, contemplant les miracles qu'il faisait.",
+        "KJV": "Now when he was in Jerusalem at the passover, in the feast [day], many believed in his name, when they saw the miracles which he did.",
+        "LSG": "Pendant que Jésus était à Jérusalem, à la fête de Pâque, plusieurs crurent en son nom, voyant les miracles qu'il faisait.",
+        "MAB": "Et comme il était à Jérusalem le [jour de] la fête de Pâque, plusieurs crurent en son Nom, contemplant les miracles qu'il faisait.",
+        "OST": "Pendant qu'il était à Jérusalem, à la fête de Pâque, plusieurs crurent en son nom, voyant les miracles qu'il faisait.",
+        "S21": "Pendant que Jésus était à Jérusalem, lors de la fête de la Pâque, beaucoup crurent en lui en voyant les signes miraculeux qu'il faisait."
+      }
+    },
+    {
+      "verse": 24,
+      "texts": {
+        "BDS": "Mais Jésus ne se fiait pas à eux, car il les connaissait tous très bien.",
+        "DBY": "Mais Jésus lui-même ne se fiait pas à eux, parce qu'il connaissait tous les hommes,",
+        "KJV": "But Jesus did not commit himself unto them, because he knew all [men],",
+        "LSG": "Mais Jésus ne se fiait point à eux, parce qu'il les connaissait tous,",
+        "MAB": "Mais Jésus ne se fiait point à eux, parce qu'il les connaissait tous;",
+        "OST": "Mais Jésus ne se fiait point à eux, parce qu'il les connaissait tous,",
+        "S21": "Mais Jésus n'avait pas confiance en eux, parce qu'il les connaissait tous."
+      }
+    },
+    {
+      "verse": 25,
+      "texts": {
+        "BDS": "En effet, il n’avait pas besoin qu’on le renseigne sur les hommes car il connaissait le fond de leur cœur.",
+        "DBY": "et qu'il n'avait pas besoin que quelqu'un rendit témoignage de l'homme; car lui-même connaissait ce qui était dans l'homme.",
+        "KJV": "And needed not that any should testify of man: for he knew what was in man.",
+        "LSG": "et parce qu'il n'avait pas besoin qu'on lui rendît témoignage d'aucun homme; car il savait lui-même ce qui était dans l'homme.",
+        "MAB": "Et qu'il n'avait pas besoin que personne lui rendit témoignage d'[aucun] homme; car lui-même savait ce qui était dans l'homme.",
+        "OST": "Et qu'il n'avait pas besoin qu'on lui rendît témoignage d'aucun homme, car il savait de lui-même ce qui était dans l'homme.",
+        "S21": "Il n'avait pas besoin qu'on le renseigne sur les hommes, car il savait lui-même ce qui est dans l'homme."
+      }
+    }
+  ]
+}

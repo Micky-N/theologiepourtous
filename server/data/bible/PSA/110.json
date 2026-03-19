@@ -1,0 +1,90 @@
+{
+  "bookCode": "PSA",
+  "chapter": 110,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "Psaume de David.\r\nDéclaration de l’Eternel. Il dit à mon Seigneur:\r\n«Viens siéger à ma droite\r\njusqu’à ce que j’aie mis tes ennemis comme un escabeau sous tes pieds.»",
+        "DBY": "L'Éternel a dit à mon Seigneur: Assieds-toi à ma droite, jusqu'à ce que je mette tes ennemis pour le marchepied de tes pieds.",
+        "KJV": "A Psalm of David. The LORD said unto my Lord, Sit thou at my right hand, until I make thine enemies thy footstool.",
+        "LSG": "De David. Psaume. Parole de l'Eternel à mon Seigneur: Assieds-toi à ma droite, Jusqu'à ce que je fasse de tes ennemis ton marchepied.",
+        "MAB": "Psaume de David. L'Eternel a dit à mon Seigneur : assieds-toi à ma droite, jusqu'à ce que j'aie mis tes ennemis pour le marchepied de tes pieds.",
+        "OST": "Psaume de David. L'Éternel a dit à mon Seigneur: Assieds-toi à ma droite, jusqu'à ce que j'aie fait de tes ennemis le marchepied de tes pieds.",
+        "S21": "Psaume de David.\r\nL’Eternel a déclaré à mon Seigneur: «Assieds-toi à ma droite jusqu’à ce que j’aie fait de tes ennemis ton marchepied.»"
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "L’Eternel étendra de Sion ton pouvoir royal,\r\net tu domineras parmi tes ennemis.",
+        "DBY": "L'Éternel enverra de Sion la verge de ta force: Domine au milieu de tes ennemis!",
+        "KJV": "The LORD shall send the rod of thy strength out of Zion: rule thou in the midst of thine enemies.",
+        "LSG": "L'Eternel étendra de Sion le sceptre de ta puissance: Domine au milieu de tes ennemis!",
+        "MAB": "L'Eternel transmettra de Sion le sceptre de ta force, [en disant] : Domine au milieu de tes ennemis.",
+        "OST": "L'Éternel étendra de Sion ton sceptre puissant: Domine, dira-t-il, au milieu de tes ennemis!",
+        "S21": "L’Eternel étendra de Sion le sceptre de ta puissance: domine au milieu de tes ennemis!"
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "Au jour où tu combats,\r\nton peuple est plein d’ardeur\r\npour accourir vers toi dans sa parure sainte, et, du sein de l’aurore,\r\ntous tes jeunes guerriers se presseront vers toi comme naît la rosée.",
+        "DBY": "Ton peuple sera un peuple de franche volonté, au jour de ta puissance, en sainte magnificence. Du sein de l'aurore te viendra la rosée de ta jeunesse.",
+        "KJV": "Thy people [shall be] willing in the day of thy power, in the beauties of holiness from the womb of the morning: thou hast the dew of thy youth.",
+        "LSG": "Ton peuple est plein d'ardeur, quand tu rassembles ton armée; Avec des ornements sacrés, du sein de l'aurore Ta jeunesse vient à toi comme une rosée.",
+        "MAB": "Ton peuple [sera un peuple plein] de franche volonté au jour [que tu assembleras] ton armée en sainte pompe; la rosée de ta jeunesse te [sera produite] du sein de l'aube du jour.",
+        "OST": "Ton peuple sera un peuple de franche volonté, au jour où ton armée sortira dans une sainte pompe; ta jeune milice sera devant toi comme la rosée naissant du sein de l'aurore.",
+        "S21": "Ton peuple est plein d’ardeur, quand tu rassembles ton armée; avec des ornements sacrés, du sein de l’aurore, ta jeunesse vient à toi comme une rosée."
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "L’Eternel l’a juré, il ne reviendra pas sur son engagement:\r\n«Tu seras prêtre pour toujours\r\nselon la ligne de Melchisédek.»",
+        "DBY": "L'Éternel a juré, et il ne se repentira point: Tu es sacrificateur pour toujours, selon l'ordre de Melchisédec.",
+        "KJV": "The LORD hath sworn, and will not repent, Thou [art] a priest for ever after the order of Melchizedek.",
+        "LSG": "L'Eternel l'a juré, et il ne s'en repentira point: Tu es sacrificateur pour toujours, A la manière de Melchisédek.",
+        "MAB": "L'Eternel l'a juré, et il ne s'en repentira point, que tu es Sacrificateur éternellement, à la façon de Melchisédec.",
+        "OST": "L'Éternel l'a juré, et il ne s'en repentira point: Tu es sacrificateur à toujours, selon l'ordre de Melchisédec.",
+        "S21": "L’Eternel l’a juré, et il ne se rétractera pas: «Tu es prêtre pour toujours à la manière de Melchisédek.»"
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "Le Seigneur, à ta droite,\r\nva écraser des rois au jour de sa colère.",
+        "DBY": "Le Seigneur, à ta droite, brisera les rois au jour de sa colère.",
+        "KJV": "The Lord at thy right hand shall strike through kings in the day of his wrath.",
+        "LSG": "Le Seigneur, à ta droite, Brise des rois au jour de sa colère.",
+        "MAB": "Le Seigneur est à ta droite, il froissera les Rois au jour de sa colère.",
+        "OST": "Le Seigneur est à ta droite; il écrasera les rois au jour de sa colère.",
+        "S21": "Le Seigneur est à ta droite, il écrase des rois le jour de sa colère."
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "Il juge les nations; les cadavres s’entassent,\r\nil écrase des chefs de par la terre entière.",
+        "DBY": "Il jugera parmi les nations, il remplira tout de corps morts, il brisera le chef d'un grand pays.",
+        "KJV": "He shall judge among the heathen, he shall fill [the places] with the dead bodies; he shall wound the heads over many countries.",
+        "LSG": "Il exerce la justice parmi les nations: tout est plein de cadavres; Il brise des têtes sur toute l'étendue du pays.",
+        "MAB": "Il exercera jugement sur les nations, il remplira tout de corps morts; il froissera le Chef [qui domine] sur un grand pays.",
+        "OST": "Il exercera la justice parmi les nations; il remplira tout de morts; il écrasera le chef qui domine sur un grand pays.",
+        "S21": "Il exerce la justice parmi les nations: tout est rempli de cadavres, il écrase des chefs sur tout le territoire."
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "En chemin, il s’abreuve, il boit l’eau d’un torrent,\r\npuis relève la tête.",
+        "DBY": "Il boira du torrent dans le chemin, c'est pourquoi il lèvera haut la tête.",
+        "KJV": "He shall drink of the brook in the way: therefore shall he lift up the head.",
+        "LSG": "Il boit au torrent pendant la marche: C'est pourquoi il relève la tête.",
+        "MAB": "Il boira du torrent par le chemin, c'est pourquoi il lèvera haut la tête.",
+        "OST": "Il boira au torrent dans le chemin; c'est pourquoi il relèvera la tête.",
+        "S21": "Il boit au torrent pendant la marche, c’est pourquoi il relève la tête."
+      }
+    }
+  ]
+}

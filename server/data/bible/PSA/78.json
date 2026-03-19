@@ -1,0 +1,870 @@
+{
+  "bookCode": "PSA",
+  "chapter": 78,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "Méditation d’Asaph.\r\nMon peuple, écoute mon\r\nenseignement,\r\nsois attentif à ce que je vais dire.",
+        "DBY": "Prête l'oreille à ma loi, mon peuple! inclinez vos oreilles aux paroles de ma bouche.",
+        "KJV": "Maschil of Asaph. Give ear, O my people, [to] my law: incline your ears to the words of my mouth.",
+        "LSG": "Cantique d'Asaph. Mon peuple, écoute mes instructions! Prêtez l'oreille aux paroles de ma bouche!",
+        "MAB": "Maskil d'Asaph. Mon peuple, écoute ma Loi, prêtez vos oreilles aux paroles de ma bouche.",
+        "OST": "Maskil (cantique) d'Asaph. Écoute ma loi, ô mon peuple! Prêtez l'oreille aux paroles de ma bouche.",
+        "S21": "Cantique d’Asaph.\r\nMon peuple, écoute mes instructions! Prête l’oreille aux paroles de ma bouche!"
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "Je dirai des leçons en paraboles,\r\nj’évoquerai les secrets du passé.",
+        "DBY": "J'ouvrirai ma bouche en paraboles, j'annoncerai les énigmes des jours d'autrefois,",
+        "KJV": "I will open my mouth in a parable: I will utter dark sayings of old:",
+        "LSG": "J'ouvre la bouche par des sentences, Je publie la sagesse des temps anciens.",
+        "MAB": "J'ouvrirai ma bouche en similitudes : je manifesterai les choses notables du temps d'autrefois.",
+        "OST": "J'ouvrirai ma bouche pour prononcer des discours sententieux; je publierai les secrets des temps anciens,",
+        "S21": "J’ouvre la bouche pour parler en paraboles, j’annonce la sagesse du passé."
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "Nous avons entendu et nous savons\r\nce que nos pères nous ont raconté,",
+        "DBY": "nous avons entendues et connues, et que nos pères nous ont racontées.",
+        "KJV": "Which we have heard and known, and our fathers have told us.",
+        "LSG": "Ce que nous avons entendu, ce que nous savons, Ce que nos pères nous ont raconté,",
+        "MAB": "Lesquelles nous avons ouïes et connues, et que nos pères nous on racontées.",
+        "OST": "Que nous avons entendus et connus, et que nos pères nous ont racontés.",
+        "S21": "Ce que nous avons entendu, ce que nous savons, ce que nos pères nous ont raconté,"
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "nous n’allons pas le cacher à nos fils.\r\nNous redirons à tous ceux qui nous suivent, les œuvres glorieuses de l’Eternel,\r\net sa puissance et ses nombreux prodiges.",
+        "DBY": "Nous ne les célerons pas à leurs fils; nous raconterons à la génération à venir les louanges de l'Éternel, et sa force, et ses merveilles qu'il a faites.",
+        "KJV": "We will not hide [them] from their children, shewing to the generation to come the praises of the LORD, and his strength, and his wonderful works that he hath done.",
+        "LSG": "Nous ne le cacherons point à leurs enfants; Nous dirons à la génération future les louanges de l'Eternel, Et sa puissance, et les prodiges qu'il a opérés.",
+        "MAB": "Nous ne les cèlerons point à leurs enfants, [et] ils raconteront à la génération à venir les louanges de l'Eternel, et sa force, et ses merveilles qu'il a faites.",
+        "OST": "Nous ne les cacherons point à leurs enfants; nous raconterons à la race future les louanges de l'Éternel, et sa force, et les merveilles qu'il a faites.",
+        "S21": "nous ne le cacherons pas à leurs enfants; nous redirons à la génération future les louanges de l’Eternel, sa puissance et les merveilles qu’il a accomplies."
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "Il a fixé une règle en Jacob,\r\nétabli une loi en Israël,\r\net il a ordonné à nos ancêtres d’enseigner tout cela à leurs enfants,",
+        "DBY": "a établi un témoignage en Jacob, et il a mis en Israël une loi qu'il a commandée à nos pères, pour qu'ils les fissent connaître à leurs fils,",
+        "KJV": "For he established a testimony in Jacob, and appointed a law in Israel, which he commanded our fathers, that they should make them known to their children:",
+        "LSG": "Il a établi un témoignage en Jacob, Il a mis une loi en Israël, Et il a ordonné à nos pères de l'enseigner à leurs enfants,",
+        "MAB": "Car il a établi le témoignage en Jacob, et il a mis la Loi en Israël; et il donna charge à nos pères de les faire entendre à leurs enfants.",
+        "OST": "Il établit un témoignage en Jacob; il mit en Israël une loi, qu'il ordonna à nos pères de faire connaître à leurs enfants;",
+        "S21": "Il a établi un témoignage en Jacob, il a mis une loi en Israël, et il a ordonné à nos ancêtres de l’enseigner à leurs enfants"
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "afin que la génération suivante,\r\ncelle des enfants qui viendront à naître,\r\npuisse l’apprendre et se lève à son tour pour l’enseigner à ses propres enfants,",
+        "DBY": "Afin que la génération à venir, les fils qui naîtraient, les connussent, et qu'ils se levassent et les annonçassent à leurs fils,",
+        "KJV": "That the generation to come might know [them, even] the children [which] should be born; [who] should arise and declare [them] to their children:",
+        "LSG": "Pour qu'elle fût connue de la génération future, Des enfants qui naîtraient, Et que, devenus grands, ils en parlassent à leurs enfants,",
+        "MAB": "Afin que la génération à venir, les enfants, [dis-je], qui naîtraient, les connut, [et] qu'ils se missent en devoir de les raconter à leurs enfants;",
+        "OST": "Afin que la génération suivante, les enfants à venir, la connussent, et qu'en grandissant ils la racontassent à leurs enfants;",
+        "S21": "pour que la génération future, celle des enfants à naître, la connaisse, et que, devenus grands, ils en parlent à leurs enfants."
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "afin qu’ils placent leur confiance en Dieu,\r\nqu’ils n’oublient pas les hauts faits du Dieu fort\r\net qu’ils observent ses commandements,",
+        "DBY": "Et qu'ils missent leur confiance en Dieu, et qu'ils n'oubliassent pas les œuvres de Dieu, et qu'ils observassent ses commandements,",
+        "KJV": "That they might set their hope in God, and not forget the works of God, but keep his commandments:",
+        "LSG": "Afin qu'ils missent en Dieu leur confiance, Qu'ils n'oubliassent pas les oeuvres de Dieu, Et qu'ils observassent ses commandements,",
+        "MAB": "Et afin qu'ils missent leur confiance en Dieu, et qu'ils n'oubliassent point les exploits du [Dieu] Fort, et qu'ils gardassent ses commandements.",
+        "OST": "Qu'ils missent en Dieu leur confiance, qu'ils n'oubliassent pas les œuvres de Dieu, et qu'ils gardassent ses commandements;",
+        "S21": "Ainsi, ils mettraient leur confiance en Dieu, ils n’oublieraient pas la manière d’agir de Dieu et respecteraient ses commandements."
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "qu’ils ne ressemblent pas à leurs ancêtres,\r\ngénération indocile et rebelle,\r\ngénération au cœur trop inconstant,\r\ndont l’esprit n’était pas fidèle à Dieu.",
+        "DBY": "Et qu'ils ne fussent pas, comme leurs pères, une génération indocile et rebelle, une génération qui n'a point affermi son cœur, et dont l'esprit n'a pas été fidèle à Dieu.",
+        "KJV": "And might not be as their fathers, a stubborn and rebellious generation; a generation [that] set not their heart aright, and whose spirit was not stedfast with God.",
+        "LSG": "Afin qu'ils ne fussent pas, comme leurs pères, Une race indocile et rebelle, Une race dont le coeur n'était pas ferme, Et dont l'esprit n'était pas fidèle à Dieu.",
+        "MAB": "Et qu'ils ne fussent point, comme leurs pères, une génération revêche et rebelle, une génération qui n'a point soumis son cœur, et l'esprit de laquelle n'a point été fidèle au [Dieu] Fort.",
+        "OST": "Et qu'ils ne fussent pas, comme leurs pères, une génération rebelle et indocile, génération qui ne disposa point son cœur, et dont l'esprit ne fut pas fidèle à Dieu.",
+        "S21": "Ainsi, ils ne seraient pas comme leurs ancêtres: une génération désobéissante et rebelle, une génération dont le cœur était inconstant et dont l’esprit n’était pas fidèle à Dieu."
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "Les hommes d’Ephraïm, armés de l’arc,\r\nont tourné le dos, au jour du combat.",
+        "DBY": "Les fils d'Éphraïm, armés et tirant de l'arc, ont tourné le dos le jour du combat.",
+        "KJV": "The children of Ephraim, [being] armed, [and] carrying bows, turned back in the day of battle.",
+        "LSG": "Les fils d'Ephraïm, armés et tirant de l'arc, Tournèrent le dos le jour du combat.",
+        "MAB": "Les enfants d'Ephraïm armés entre les archers, ont tourné le dos le jour de la bataille.",
+        "OST": "Les fils d'Éphraïm, armés et tirant de l'arc, ont tourné le dos au jour du combat.",
+        "S21": "Les hommes d’Ephraïm, armés de leur arc, ont tourné le dos, le jour du combat."
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "Ils n’ont pas gardé l’alliance de Dieu,\r\nils ont refusé de suivre sa Loi.",
+        "DBY": "Ils n'ont pas gardé l'alliance de Dieu, et ont refusé de marcher selon sa loi;",
+        "KJV": "They kept not the covenant of God, and refused to walk in his law;",
+        "LSG": "Ils ne gardèrent point l'alliance de Dieu, Et ils refusèrent de marcher selon sa loi.",
+        "MAB": "Ils n'ont point gardé l'alliance de Dieu, et ont refusé de marcher selon sa Loi.",
+        "OST": "Ils n'ont point gardé l'alliance de Dieu, et n'ont pas voulu marcher dans sa loi.",
+        "S21": "Ils n’ont pas gardé l’alliance de Dieu, ils ont refusé de se conformer à sa loi."
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "Ils avaient mis en oubli ses exploits\r\net les hauts faits opérés sous leurs yeux.",
+        "DBY": "Et ils ont oublié ses actes et ses œuvres merveilleuses, qu'il leur avait fait voir.",
+        "KJV": "And forgat his works, and his wonders that he had shewed them.",
+        "LSG": "Ils mirent en oubli ses oeuvres, Ses merveilles qu'il leur avait fait voir.",
+        "MAB": "Et ils ont mis en oubli ses exploits et ses merveilles qu'il leur avait fait voir.",
+        "OST": "Ils ont mis en oubli ses exploits, et ses merveilles qu'il leur avait fait voir.",
+        "S21": "Ils ont oublié ses actes, les merveilles qu’il leur avait fait voir."
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "Devant leurs pères, Dieu fit des prodiges\r\naux champs de Tsoân, au pays d’Egypte.",
+        "DBY": "Il fit des merveilles devant leurs pères dans le pays d'Égypte, dans la campagne de Tsoan.",
+        "KJV": "Marvellous things did he in the sight of their fathers, in the land of Egypt, [in] the field of Zoan.",
+        "LSG": "Devant leurs pères il avait fait des prodiges, Au pays d'Egypte, dans les campagnes de Tsoan.",
+        "MAB": "Il a fait des miracles en la présence de leurs pères au pays d'Egypte, au territoire de Tsohan.",
+        "OST": "Il fit des prodiges devant leurs pères, au pays d'Égypte, aux champs de Tsoan.",
+        "S21": "Devant leurs ancêtres, il avait fait des miracles en Egypte, dans les campagnes de Tsoan:"
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "Il a fendu la mer, ils sont passés,\r\nil a dressé les eaux comme une digue.",
+        "DBY": "Il fendit la mer, et les fit passer: il fit se dresser les eaux comme un monceau;",
+        "KJV": "He divided the sea, and caused them to pass through; and he made the waters to stand as an heap.",
+        "LSG": "Il fendit la mer et leur ouvrit un passage, Il fit dresser les eaux comme une muraille.",
+        "MAB": "Il a fendu la mer, et les a fait passer au travers, et il a fait arrêter les eaux comme un monceau [de pierre].",
+        "OST": "Il fendit la mer et les fit passer; il dressa les eaux comme en un monceau;",
+        "S21": "il avait fendu la mer pour les faire passer, il avait dressé l’eau comme une muraille."
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "Il les guidait, le jour par la nuée,\r\net la nuit, par la lumière d’un feu.",
+        "DBY": "Et il les conduisit, le jour par une nuée, et toute la nuit par une lumière de feu.",
+        "KJV": "In the daytime also he led them with a cloud, and all the night with a light of fire.",
+        "LSG": "Il les conduisit le jour par la nuée, Et toute la nuit par un feu éclatant.",
+        "MAB": "Et il les a conduits de jour par la nuée, et toute la nuit par une lumière de feu.",
+        "OST": "Et il les conduisit, le jour par la nuée, et toute la nuit par la clarté du feu.",
+        "S21": "Il les avait guidés le jour par la nuée, et toute la nuit par un feu éclatant."
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "Il a fendu des rochers au désert,\r\nles a désaltérés de torrents d’eau.",
+        "DBY": "Il fendit les rochers dans le désert, et les abreuva comme aux abîmes, abondamment;",
+        "KJV": "He clave the rocks in the wilderness, and gave [them] drink as [out of] the great depths.",
+        "LSG": "Il fendit des rochers dans le désert, Et il donna à boire comme des flots abondants;",
+        "MAB": "Il a fendu les rochers au désert, et leur a donné abondamment à boire, comme [s'il eût puisé] des abîmes.",
+        "OST": "Il fendit les rochers au désert, et les abreuva comme à flots abondants.",
+        "S21": "Il avait fendu des rochers dans le désert, et il leur avait donné à boire en abondance."
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "Du roc, il a fait jaillir des rivières,\r\nil en a fait sortir l’eau comme un fleuve.",
+        "DBY": "Et il fit sortir des ruisseaux du rocher, et fit couler les eaux comme des fleuves.",
+        "KJV": "He brought streams also out of the rock, and caused waters to run down like rivers.",
+        "LSG": "Du rocher il fit jaillir des sources, Et couler des eaux comme des fleuves.",
+        "MAB": "Il a fait, dis-je, sortir des ruisseaux de la roche, et en a fait découler des eaux comme des rivières.",
+        "OST": "De la pierre il fit sortir des ruisseaux; il fit descendre les eaux comme des rivières.",
+        "S21": "Du rocher il avait fait jaillir des sources et couler de l’eau, comme des fleuves."
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "Mais ils péchaient contre lui sans arrêt,\r\nils bravaient le Très-Haut dans le désert.",
+        "DBY": "Et ils péchèrent de nouveau contre lui, irritant le Très-haut dans le désert;",
+        "KJV": "And they sinned yet more against him by provoking the most High in the wilderness.",
+        "LSG": "Mais ils continuèrent à pécher contre lui, A se révolter contre le Très-Haut dans le désert.",
+        "MAB": "Toutefois ils continuèrent à pécher contre lui, irritant le Souverain au désert.",
+        "OST": "Mais ils continuèrent à pécher contre lui, se rebellant contre le Très-Haut dans le désert.",
+        "S21": "Mais ils ont continué à pécher contre lui, à se révolter contre le Très-Haut dans le désert."
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "Dans leur cœur, ils ont mis Dieu au défi\r\nen réclamant à manger à leur goût.",
+        "DBY": "Et ils tentèrent Dieu dans leurs cœurs, en demandant de la viande selon leur désir;",
+        "KJV": "And they tempted God in their heart by asking meat for their lust.",
+        "LSG": "Ils tentèrent Dieu dans leur coeur, En demandant de la nourriture selon leur désir.",
+        "MAB": "Et ils tentèrent le [Dieu] Fort dans leurs cœurs, en demandant de la viande qui flattât leur appétit.",
+        "OST": "Ils tentèrent Dieu dans leur cœur, demandant des mets selon leur désir.",
+        "S21": "Ils ont provoqué Dieu dans leur cœur en demandant de la nourriture à leur goût."
+      }
+    },
+    {
+      "verse": 19,
+      "texts": {
+        "BDS": "Ils ont tenu des propos contre lui:\r\n«Dieu peut-il dresser la table au désert?»",
+        "DBY": "Et ils parlèrent contre Dieu; ils dirent: Dieu pourrait-il dresser une table dans le désert?",
+        "KJV": "Yea, they spake against God; they said, Can God furnish a table in the wilderness?",
+        "LSG": "Ils parlèrent contre Dieu, Ils dirent: Dieu pourrait-il Dresser une table dans le désert?",
+        "MAB": "Ils parlèrent contre Dieu, disant : le [Dieu] Fort nous pourrait-il dresser une table en ce désert?",
+        "OST": "Ils parlèrent contre Dieu et dirent: Dieu pourrait-il dresser une table au désert?",
+        "S21": "Ils ont parlé contre Dieu, ils ont dit: «Dieu pourrait-il dresser une table dans le désert?"
+      }
+    },
+    {
+      "verse": 20,
+      "texts": {
+        "BDS": "C’est ainsi qu’il a frappé le rocher,\r\nl’eau a coulé, des torrents ont jailli.\r\n«Pourrait-il aussi nous donner du pain\r\nou procurer de la viande à son peuple?»",
+        "DBY": "Voici, il a frappé le rocher, et les eaux ont coulé, et des rivières ont débordé: pourrait-il aussi donner du pain, ou préparer de la chair à son peuple?",
+        "KJV": "Behold, he smote the rock, that the waters gushed out, and the streams overflowed; can he give bread also? can he provide flesh for his people?",
+        "LSG": "Voici, il a frappé le rocher, et des eaux ont coulé, Et des torrents se sont répandus; Pourra-t-il aussi donner du pain, Ou fournir de la viande à son peuple?",
+        "MAB": "Voilà, [dirent-ils], il a frappé le rocher, et les eaux en sont découlées, et il en est sorti des torrents abondamment, mais pourrait-il aussi nous donner du pain? apprêterait-il bien de la viande à son peuple?",
+        "OST": "Voici, il a frappé la roche, et des eaux ont coulé, et des torrents se sont répandus: pourra-t-il bien donner du pain, préparer de la chair à son peuple?",
+        "S21": "Voici, il a frappé le rocher et l’eau a coulé, des torrents se sont déversés. Pourra-t-il aussi donner du pain ou fournir de la viande à son peuple?»"
+      }
+    },
+    {
+      "verse": 21,
+      "texts": {
+        "BDS": "L’Eternel entendit et s’emporta,\r\nil alluma un feu contre Jacob,\r\ncontre Israël éclata sa colère,",
+        "DBY": "C'est pourquoi l'Éternel les entendit, et se mit en grande colère; et le feu s'alluma contre Jacob, et la colère aussi monta contre Israël,",
+        "KJV": "Therefore the LORD heard [this], and was wroth: so a fire was kindled against Jacob, and anger also came up against Israel;",
+        "LSG": "L'Eternel entendit, et il fut irrité; Un feu s'alluma contre Jacob, Et la colère s'éleva contre Israël,",
+        "MAB": "C'est pourquoi l'Eternel les ayant ouïs, se mit en grande colère, et le feu s'embrasa contre Jacob, et sa colère s'excita contre Israël.",
+        "OST": "Aussi l'Éternel l'entendit et s'indigna; un feu s'alluma contre Jacob, et la colère s'éleva contre Israël;",
+        "S21": "L’Eternel a entendu cela, et il a été irrité; un feu s’est allumé contre Jacob, et la colère a éclaté contre Israël"
+      }
+    },
+    {
+      "verse": 22,
+      "texts": {
+        "BDS": "car ils n’avaient pas fait confiance à Dieu,\r\nils n’avaient pas compté sur son secours.",
+        "DBY": "Car ils ne crurent pas Dieu, et ne se fièrent pas en son salut,",
+        "KJV": "Because they believed not in God, and trusted not in his salvation:",
+        "LSG": "Parce qu'ils ne crurent pas en Dieu, Parce qu'ils n'eurent pas confiance dans son secours.",
+        "MAB": "Parce qu'ils n'avaient point cru en Dieu, et ne s'étaient point confiés en sa délivrance.",
+        "OST": "Parce qu'ils n'avaient pas cru en Dieu, et ne s'étaient pas confiés en son salut.",
+        "S21": "parce qu’ils n’ont pas cru en Dieu, parce qu’ils n’ont pas eu confiance dans son secours."
+      }
+    },
+    {
+      "verse": 23,
+      "texts": {
+        "BDS": "Il donna ordre aux nuages d’en haut\r\net il ouvrit les écluses des cieux.",
+        "DBY": "Bien qu'il eût commandé aux nuées d'en haut, et qu'il eût ouvert les portes des cieux,",
+        "KJV": "Though he had commanded the clouds from above, and opened the doors of heaven,",
+        "LSG": "Il commanda aux nuages d'en haut, Et il ouvrit les portes des cieux;",
+        "MAB": "Bien qu'il eût donné commandement aux nuées d'en haut, et qu'il eût ouvert les portes des cieux;",
+        "OST": "Alors il commanda aux nuées en haut, et ouvrit les portes des cieux.",
+        "S21": "Il a donné ses ordres aux nuages d’en haut, et il a ouvert les portes du ciel;"
+      }
+    },
+    {
+      "verse": 24,
+      "texts": {
+        "BDS": "Pour les nourrir, il fit pleuvoir la manne\r\net il leur donna le froment du ciel.",
+        "DBY": "Et qu'il eût fait pleuvoir sur eux la manne pour manger, et qu'il leur eût donné le blé des cieux:",
+        "KJV": "And had rained down manna upon them to eat, and had given them of the corn of heaven.",
+        "LSG": "Il fit pleuvoir sur eux la manne pour nourriture, Il leur donna le blé du ciel.",
+        "MAB": "Et qu'il eût fait pleuvoir la manne sur eux afin qu'ils en mangeassent, et qu'il leur eût donné le froment des cieux;",
+        "OST": "Il fit pleuvoir sur eux la manne pour nourriture, et leur donna le froment des cieux.",
+        "S21": "il a fait pleuvoir sur eux de la manne comme nourriture, il leur a donné le pain du ciel."
+      }
+    },
+    {
+      "verse": 25,
+      "texts": {
+        "BDS": "Chacun mangea de ce pain des puissants,\r\nDieu leur fournit à satiété des vivres.",
+        "DBY": "L'homme mangea le pain des puissants; il leur envoya des vivres à satiété.",
+        "KJV": "Man did eat angels' food: he sent them meat to the full.",
+        "LSG": "Ils mangèrent tous le pain des grands, Il leur envoya de la nourriture à satiété.",
+        "MAB": "Tellement que chacun mangeait du pain des puissants. Il leur envoya donc de la viande pour s'en rassasier.",
+        "OST": "Chacun mangea le pain des puissants; il leur envoya des vivres à souhait.",
+        "S21": "Ils ont tous mangé ce pain des grands, il leur a envoyé de la nourriture à satiété."
+      }
+    },
+    {
+      "verse": 26,
+      "texts": {
+        "BDS": "Il fit souffler le vent d’est dans les cieux,\r\nil força le vent du sud à souffler.",
+        "DBY": "Il fit lever dans les cieux le vent d'orient, et il amena par sa puissance le vent du midi;",
+        "KJV": "He caused an east wind to blow in the heaven: and by his power he brought in the south wind.",
+        "LSG": "Il fit souffler dans les cieux le vent d'orient, Et il amena par sa puissance le vent du midi;",
+        "MAB": "Il excita dans les cieux le vent d'Orient, et il amena par sa force le vent du midi.",
+        "OST": "Il fit lever le vent d'orient dans les cieux, et amena par sa force le vent du midi.",
+        "S21": "Il a fait souffler dans le ciel le vent d’est, et il a amené par sa puissance le vent du sud."
+      }
+    },
+    {
+      "verse": 27,
+      "texts": {
+        "BDS": "Il fit pleuvoir de la viande sur eux, aussi abondante que la poussière.\r\nIl fit tomber une nuée d’oiseaux aussi nombreux que le sable des mers.",
+        "DBY": "Et il fit pleuvoir sur eux de la chair comme de la poussière, et, comme le sable des mers, des oiseaux ailés;",
+        "KJV": "He rained flesh also upon them as dust, and feathered fowls like as the sand of the sea:",
+        "LSG": "Il fit pleuvoir sur eux la viande comme de la poussière, Et comme le sable des mers les oiseaux ailés;",
+        "MAB": "Et il fit pleuvoir sur eux de la chair comme de la poussière, et des oiseaux volants, en une quantité pareille au sable de la mer.",
+        "OST": "Il fit pleuvoir sur eux de la chair comme de la poussière, et des oiseaux ailés, comme le sable des mers.",
+        "S21": "Il a fait pleuvoir sur eux la viande comme de la poussière, et les oiseaux ailés comme le sable de la mer;"
+      }
+    },
+    {
+      "verse": 28,
+      "texts": {
+        "BDS": "Il les fit tomber au milieu du camp,\r\nautour du lieu où se dressaient leurs tentes.",
+        "DBY": "Et il les fit tomber au milieu de leur camp, autour de leurs demeures.",
+        "KJV": "And he let [it] fall in the midst of their camp, round about their habitations.",
+        "LSG": "Il les fit tomber au milieu de leur camp, Tout autour de leurs demeures.",
+        "MAB": "Et il la fit tomber au milieu de leur camp, [et] autour de leurs pavillons.",
+        "OST": "Il les fit tomber au milieu de leur camp, et tout autour de leurs tentes.",
+        "S21": "il les a fait tomber au milieu de leur camp, tout autour de leurs tentes."
+      }
+    },
+    {
+      "verse": 29,
+      "texts": {
+        "BDS": "Ils en mangèrent jusqu’à satiété.\r\nDieu leur avait servi ce qu’ils voulaient.",
+        "DBY": "Et ils mangèrent, et en furent abondamment rassasiés. Il leur envoya ce qu'ils convoitaient.",
+        "KJV": "So they did eat, and were well filled: for he gave them their own desire;",
+        "LSG": "Ils mangèrent et se rassasièrent abondamment: Dieu leur donna ce qu'ils avaient désiré.",
+        "MAB": "Et ils en mangèrent, et en furent pleinement rassasiés, car il avait accompli leur souhait.",
+        "OST": "Ils mangèrent et furent abondamment repus; il leur accorda ce qu'ils désiraient.",
+        "S21": "Ils ont mangé et ont été pleinement rassasiés: Dieu leur a donné ce qu’ils avaient désiré."
+      }
+    },
+    {
+      "verse": 30,
+      "texts": {
+        "BDS": "Mais leur envie n’était pas assouvie,\r\nils avaient encore la viande à la bouche",
+        "DBY": "Ils ne s'étaient pas encore détournés de leur convoitise, leur viande était encore dans leur bouche,",
+        "KJV": "They were not estranged from their lust. But while their meat [was] yet in their mouths,",
+        "LSG": "Ils n'avaient pas satisfait leur désir, Ils avaient encore leur nourriture dans la bouche,",
+        "MAB": "[Mais] ils n'en avaient pas encore perdu l'envie, et leur viande était encore dans leur bouche.",
+        "OST": "Ils n'en avaient pas perdu l'envie, les mets étaient encore dans leur bouche,",
+        "S21": "Mais ils n’avaient pas encore assouvi leur désir, ils avaient encore la nourriture dans la bouche,"
+      }
+    },
+    {
+      "verse": 31,
+      "texts": {
+        "BDS": "que la colère de Dieu éclata.\r\nAlors il frappa les plus vigoureux,\r\nabattant les jeunes gens d’Israël.",
+        "DBY": "Que la colère de Dieu monta contre eux; et il tua de leurs hommes forts, et abattit les hommes d'élite d'Israël.",
+        "KJV": "The wrath of God came upon them, and slew the fattest of them, and smote down the chosen [men] of Israel.",
+        "LSG": "Lorsque la colère de Dieu s'éleva contre eux; Il frappa de mort les plus vigoureux, Il abattit les jeunes hommes d'Israël.",
+        "MAB": "Quand la colère de Dieu s'excita contre eux, et qu'il mit à mort les gras d'entre eux, et abattit les gens d'élite d'Israël.",
+        "OST": "Que la colère de Dieu monta contre eux, qu'il tua leurs hommes forts, et abattit l'élite d'Israël.",
+        "S21": "quand la colère de Dieu a éclaté contre eux: il a fait mourir les plus vigoureux, il a abattu les jeunes hommes d’Israël."
+      }
+    },
+    {
+      "verse": 32,
+      "texts": {
+        "BDS": "Malgré cela, ils ont péché encore,\r\nils n’ont pas eu foi, malgré ses miracles.",
+        "DBY": "Avec tout cela ils péchèrent encore, et ne crurent point par ses œuvres merveilleuses;",
+        "KJV": "For all this they sinned still, and believed not for his wondrous works.",
+        "LSG": "Malgré tout cela, ils continuèrent à pécher, Et ne crurent point à ses prodiges.",
+        "MAB": "Nonobstant cela, ils péchèrent encore, et n'ajoutèrent point de foi à ses merveilles.",
+        "OST": "Et pourtant ils péchèrent encore, et ne crurent point à ses merveilles.",
+        "S21": "Malgré tout cela, ils ont continué à pécher et n’ont pas cru à ses merveilles."
+      }
+    },
+    {
+      "verse": 33,
+      "texts": {
+        "BDS": "De leurs jours, il fit une vanité,\r\ntoutes leurs années ne furent qu’angoisse.",
+        "DBY": "Et il consuma leurs jours par la vanité, et leurs années par la frayeur.",
+        "KJV": "Therefore their days did he consume in vanity, and their years in trouble.",
+        "LSG": "Il consuma leurs jours par la vanité, Et leurs années par une fin soudaine.",
+        "MAB": "C'est pourquoi il consuma soudainement leurs jours, et leurs années promptement.",
+        "OST": "Il consuma leurs jours par un souffle, et leurs années par un effroi soudain.",
+        "S21": "Il a mis un terme à leurs jours d’un seul souffle, à leurs années par une fin soudaine."
+      }
+    },
+    {
+      "verse": 34,
+      "texts": {
+        "BDS": "Dieu les frappait, ils se tournaient vers lui,\r\nils revenaient, cherchaient Dieu ardemment,",
+        "DBY": "S'il les tuait, alors ils le recherchaient, et ils se retournaient, et cherchaient Dieu dès le matin;",
+        "KJV": "When he slew them, then they sought him: and they returned and enquired early after God.",
+        "LSG": "Quand il les frappait de mort, ils le cherchaient, Ils revenaient et se tournaient vers Dieu;",
+        "MAB": "Quand il les mettait à mort, alors ils le recherchaient, ils se repentaient, et ils cherchaient le [Dieu] Fort dès le matin.",
+        "OST": "Quand il les tuait, ils s'enquéraient de lui, et se remettaient à chercher Dieu.",
+        "S21": "Quand il les frappait de mort, ils le cherchaient, ils revenaient à Dieu, ils se tournaient vers lui."
+      }
+    },
+    {
+      "verse": 35,
+      "texts": {
+        "BDS": "se souvenant qu’il était leur rocher,\r\nque le Très-Haut était leur défenseur.",
+        "DBY": "Et ils se souvenaient que Dieu était leur rocher, et Dieu, le Très-haut, leur rédempteur;",
+        "KJV": "And they remembered that God [was] their rock, and the high God their redeemer.",
+        "LSG": "Ils se souvenaient que Dieu était leur rocher, Que le Dieu Très-Haut était leur libérateur.",
+        "MAB": "Et ils se souvenaient que Dieu était leur rocher, et que le [Dieu] Fort et Souverain était celui qui les délivrait.",
+        "OST": "Ils se souvenaient que Dieu était leur rocher, et le Dieu Très-Haut leur rédempteur.",
+        "S21": "Ils se souvenaient que Dieu était leur rocher, que le Dieu très-haut était celui qui les rachetait."
+      }
+    },
+    {
+      "verse": 36,
+      "texts": {
+        "BDS": "Mais s’ils priaient, c’était pour le tromper:\r\nils lui offraient des hommages menteurs,",
+        "DBY": "Mais ils le flattaient de leur bouche et ils lui mentaient de leur langue;",
+        "KJV": "Nevertheless they did flatter him with their mouth, and they lied unto him with their tongues.",
+        "LSG": "Mais ils le trompaient de la bouche, Et ils lui mentaient de la langue;",
+        "MAB": "Mais ils faisaient beau semblant de leur bouche, et ils lui mentaient de leur langue;",
+        "OST": "Mais ils faisaient beau semblant de leur bouche, et de leur langue ils lui mentaient.",
+        "S21": "Cependant, ils le trompaient de la bouche, ils lui mentaient de la langue."
+      }
+    },
+    {
+      "verse": 37,
+      "texts": {
+        "BDS": "car leur cœur n’était pas droit envers lui,\r\nà son alliance, ils n’étaient pas fidèles.",
+        "DBY": "Et leur cœur n'était pas ferme envers lui, et ils ne furent pas fidèles dans son alliance.",
+        "KJV": "For their heart was not right with him, neither were they stedfast in his covenant.",
+        "LSG": "Leur coeur n'était pas ferme envers lui, Et ils n'étaient pas fidèles à son alliance.",
+        "MAB": "Car leur cœur n'était point droit envers lui, et ils ne furent point fidèles en son alliance.",
+        "OST": "Leur cœur n'était pas droit envers lui, et ils n'étaient pas fidèles à son alliance.",
+        "S21": "Leur cœur ne lui était pas fermement attaché et ils n’étaient pas fidèles à son alliance."
+      }
+    },
+    {
+      "verse": 38,
+      "texts": {
+        "BDS": "Lui, cependant, dans sa grande pitié,\r\nleur pardonnait au lieu de les détruire,\r\net, bien souvent, détournait sa colère,\r\nne voulant pas déchaîner son courroux.",
+        "DBY": "Mais lui, étant miséricordieux, pardonna l'iniquité et ne les détruisit pas; mais il détourna souvent sa colère, et n'éveilla pas toute sa fureur.",
+        "KJV": "But he, [being] full of compassion, forgave [their] iniquity, and destroyed [them] not: yea, many a time turned he his anger away, and did not stir up all his wrath.",
+        "LSG": "Toutefois, dans sa miséricorde, il pardonne l'iniquité et ne détruit pas; Il retient souvent sa colère et ne se livre pas à toute sa fureur.",
+        "MAB": "Toutefois, comme il est pitoyable, il pardonna leur iniquité, tellement qu'il ne les détruisit point, mais il apaisa souvent sa colère, et n'émut point toute sa fureur.",
+        "OST": "Mais lui, miséricordieux, pardonnait le crime et ne les détruisait pas; souvent il revint de sa colère, et n'éveilla pas toute sa fureur.",
+        "S21": "Pourtant lui, dans sa compassion, il pardonne la faute et ne détruit pas, il retient souvent sa colère et ne s’abandonne pas à toute sa fureur."
+      }
+    },
+    {
+      "verse": 39,
+      "texts": {
+        "BDS": "Il se souvenait qu’ils étaient fragiles:\r\nun souffle qui passe et ne revient plus.",
+        "DBY": "Et il se souvint qu'ils étaient chair, un souffle qui passe et ne revient pas.",
+        "KJV": "For he remembered that they [were but] flesh; a wind that passeth away, and cometh not again.",
+        "LSG": "Il se souvint qu'ils n'étaient que chair, Un souffle qui s'en va et ne revient pas.",
+        "MAB": "Et il se souvint qu'ils n'étaient que chair, qu'un vent qui passe, et qui ne revient point.",
+        "OST": "Et il se souvint qu'ils n'étaient que chair, un vent qui passe et ne revient pas.",
+        "S21": "Il s’est souvenu qu’ils n’étaient que des créatures, un souffle qui s’en va et ne revient pas."
+      }
+    },
+    {
+      "verse": 40,
+      "texts": {
+        "BDS": "Que de fois ils l’ont bravé au désert\r\net l’ont offensé dans les lieux arides!",
+        "DBY": "Que de fois il l'irritèrent dans le désert, et le provoquèrent dans le lieu désolé!",
+        "KJV": "How oft did they provoke him in the wilderness, [and] grieve him in the desert!",
+        "LSG": "Que de fois ils se révoltèrent contre lui dans le désert! Que de fois ils l'irritèrent dans la solitude!",
+        "MAB": "Combien de fois l'ont-ils irrité au désert, et combien de fois l'ont-ils ennuyé dans ce lieu inhabitable?",
+        "OST": "Que de fois ils se rebellèrent contre lui au désert, et le contristèrent dans la solitude!",
+        "S21": "Que de fois ils se sont révoltés contre lui dans le désert! Que de fois ils l’ont irrité dans les lieux arides!"
+      }
+    },
+    {
+      "verse": 41,
+      "texts": {
+        "BDS": "A nouveau, ils mettaient Dieu au défi\r\net ils attristaient le Saint d’Israël.",
+        "DBY": "Et ils recommencèrent et tentèrent Dieu, et affligèrent le Saint d'Israël:",
+        "KJV": "Yea, they turned back and tempted God, and limited the Holy One of Israel.",
+        "LSG": "Ils ne cessèrent de tenter Dieu, Et de provoquer le Saint d'Israël.",
+        "MAB": "Car coup sur coup ils tentaient le [Dieu] Fort; et bornaient le Saint d'Israël.",
+        "OST": "Ils recommencèrent à tenter Dieu et à provoquer le Saint d'Israël;",
+        "S21": "Ainsi, ils ont recommencé à provoquer Dieu, à attrister le Saint d’Israël."
+      }
+    },
+    {
+      "verse": 42,
+      "texts": {
+        "BDS": "Car ils oubliaient son œuvre puissante:\r\nil les avait sauvés de l’oppresseur,",
+        "DBY": "ne se souvinrent pas de sa main au jour où il les avait délivrés de l'oppresseur,",
+        "KJV": "They remembered not his hand, [nor] the day when he delivered them from the enemy.",
+        "LSG": "Ils ne se souvinrent pas de sa puissance, Du jour où il les délivra de l'ennemi,",
+        "MAB": "Ils ne se sont point souvenus de sa main, ni du jour qu'il les avait délivrés de la main de celui qui les affligeait.",
+        "OST": "Ils ne se souvinrent plus de sa main, du jour où il les délivra de l'oppresseur,",
+        "S21": "Ils ne se sont pas souvenus de sa puissance, du jour où il les avait délivrés de l’ennemi,"
+      }
+    },
+    {
+      "verse": 43,
+      "texts": {
+        "BDS": "en Egypte, il avait fait des miracles,\r\net, au pays de Tsoân, des prodiges,",
+        "DBY": "Lorsqu'il mit ses signes en Égypte, et ses prodiges dans les campagnes de Tsoan,",
+        "KJV": "How he had wrought his signs in Egypt, and his wonders in the field of Zoan:",
+        "LSG": "Des miracles qu'il accomplit en Egypte, Et de ses prodiges dans les campagnes de Tsoan.",
+        "MAB": "[Ils ne se sont point souvenus] de celui qui avait fait ses signes en Egypte, et ses miracles au territoire de Tsohan :",
+        "OST": "Lorsqu'il manifesta ses prodiges en Égypte, et ses miracles dans les champs de Tsoan;",
+        "S21": "des miracles qu’il avait accomplis en Egypte et de ses prodiges dans les campagnes de Tsoan:"
+      }
+    },
+    {
+      "verse": 44,
+      "texts": {
+        "BDS": "canaux et rivières changés en sang,\r\nnul ne pouvait plus s’y désaltérer,",
+        "DBY": "il changea en sang leurs fleuves et leurs courants d'eau, de sorte qu'ils n'en pussent pas boire;",
+        "KJV": "And had turned their rivers into blood; and their floods, that they could not drink.",
+        "LSG": "Il changea leurs fleuves en sang, Et ils ne purent en boire les eaux.",
+        "MAB": "Et qui avait changé en sang leurs rivières et leurs ruisseaux, afin qu'ils n'en pussent point boire.",
+        "OST": "Qu'il changea leurs fleuves en sang, et ils n'en burent plus les ondes;",
+        "S21": "il avait changé leurs fleuves en sang, et ils n’avaient pu en boire l’eau."
+      }
+    },
+    {
+      "verse": 45,
+      "texts": {
+        "BDS": "mouches piquantes qui suçaient le sang,\r\ngrenouilles qui infestaient le pays,",
+        "DBY": "Il envoya contre eux des mouches qui les dévorèrent, et des grenouilles qui les détruisirent;",
+        "KJV": "He sent divers sorts of flies among them, which devoured them; and frogs, which destroyed them.",
+        "LSG": "Il envoya contre eux des mouches venimeuses qui les dévorèrent, Et des grenouilles qui les détruisirent.",
+        "MAB": "Et qui avait envoyé contre eux une mêlée de bêtes, qui les mangèrent; et des grenouilles, qui les détruisirent.",
+        "OST": "Qu'il envoya contre eux des insectes pour les dévorer et des grenouilles pour les infester;",
+        "S21": "Il avait envoyé contre eux des mouches venimeuses qui les dévoraient et des grenouilles qui leur apportaient la dévastation."
+      }
+    },
+    {
+      "verse": 46,
+      "texts": {
+        "BDS": "leurs plantations livrées aux sauterelles\r\net le fruit de leur labeur aux criquets,",
+        "DBY": "Et il livra leurs fruits à la locuste, et leur travail à la sauterelle.",
+        "KJV": "He gave also their increase unto the caterpiller, and their labour unto the locust.",
+        "LSG": "Il livra leurs récoltes aux sauterelles, Le produit de leur travail aux sauterelles.",
+        "MAB": "Et qui avait donné leurs fruits aux vermisseaux, et leur travail aux sauterelles.",
+        "OST": "Qu'il livra leur récolte aux vermisseaux, et leur travail aux sauterelles;",
+        "S21": "Il avait livré leurs récoltes aux criquets, le produit de leur travail aux sauterelles."
+      }
+    },
+    {
+      "verse": 47,
+      "texts": {
+        "BDS": "leurs vignes ravagées par des grêlons\r\net leurs figuiers par les effets du gel,",
+        "DBY": "Il fit périr leurs vignes par la grêle, et leurs sycomores par les grêlons;",
+        "KJV": "He destroyed their vines with hail, and their sycomore trees with frost.",
+        "LSG": "Il fit périr leurs vignes par la grêle, Et leurs sycomores par la gelée.",
+        "MAB": "Qui avait détruit leurs vignes par la grêle, et leurs sycomores par les orages.",
+        "OST": "Qu'il tua leurs vignes par la grêle, et leurs sycomores par les frimas;",
+        "S21": "Il avait détruit leurs vignes par la grêle, et leurs sycomores par la gelée."
+      }
+    },
+    {
+      "verse": 48,
+      "texts": {
+        "BDS": "leurs troupeaux abandonnés à la grêle\r\net leur bétail décimé par la foudre.",
+        "DBY": "Et il livra leur bétail à la grêle, et leurs troupeaux à la foudre.",
+        "KJV": "He gave up their cattle also to the hail, and their flocks to hot thunderbolts.",
+        "LSG": "Il abandonna leur bétail à la grêle, Et leurs troupeaux au feu du ciel.",
+        "MAB": "Et qui avait livré leur bétail à la grêle, et leurs troupeaux aux foudres étincelantes.",
+        "OST": "Qu'il livra leur bétail à la grêle, et leurs troupeaux à la foudre;",
+        "S21": "Il avait abandonné leur bétail à la grêle, et leurs troupeaux à la foudre."
+      }
+    },
+    {
+      "verse": 49,
+      "texts": {
+        "BDS": "Il lança contre eux sa colère ardente,\r\nson courroux, sa fureur et la détresse,\r\nune armée d’anges portant le malheur.",
+        "DBY": "Il envoya sur eux l'ardeur de sa colère, la fureur, et l'indignation, et la détresse, une troupe d'anges de malheur.",
+        "KJV": "He cast upon them the fierceness of his anger, wrath, and indignation, and trouble, by sending evil angels [among them].",
+        "LSG": "Il lança contre eux son ardente colère, La fureur, la rage et la détresse, Une troupe de messagers de malheur.",
+        "MAB": "Qui avait envoyé sur eux l'ardeur de sa colère, grande colère, indignation et détresse, [qui sont] un envoi de messagers de maux.",
+        "OST": "Qu'il envoya contre eux l'ardeur de son courroux, l'indignation, la colère, la détresse, déchaînant les messagers de malheur.",
+        "S21": "Il avait lâché contre eux son ardente colère, la fureur, la rage et la détresse, une troupe d’anges de malheur."
+      }
+    },
+    {
+      "verse": 50,
+      "texts": {
+        "BDS": "Il donna libre cours à sa colère,\r\net il ne leur épargna pas la mort.\r\nAu contraire, il les livra à la peste.",
+        "DBY": "Il fraya un chemin à sa colère; il ne préserva pas leurs âmes de la mort, et livra leur vie à la peste;",
+        "KJV": "He made a way to his anger; he spared not their soul from death, but gave their life over to the pestilence;",
+        "LSG": "Il donna libre cours à sa colère, Il ne sauva pas leur âme de la mort, Il livra leur vie à la mortalité;",
+        "MAB": "Qui avait dressé le chemin à sa colère, et n'avait point retiré leur âme de la mort ; et qui avait livré leur bétail à la mortalité.",
+        "OST": "Il donna carrière à sa colère, et ne préserva point leur âme de la mort; il livra leur vie à la mortalité.",
+        "S21": "Il avait donné libre cours à sa colère: il ne les avait pas sauvés de la mort, il avait livré leur vie à la peste."
+      }
+    },
+    {
+      "verse": 51,
+      "texts": {
+        "BDS": "Il frappa tous les fils aînés d’Egypte,\r\nla fleur de la race au pays de Cham.",
+        "DBY": "Et il frappa tout premier-né en Égypte, les prémices de la vigueur dans les tentes de Cham.",
+        "KJV": "And smote all the firstborn in Egypt; the chief of [their] strength in the tabernacles of Ham:",
+        "LSG": "Il frappa tous les premiers-nés en Egypte, Les prémices de la force sous les tentes de Cham.",
+        "MAB": "Et qui avait frappé tout premier-né en Egypte, les prémices de la vigueur dans les tentes de Cam.",
+        "OST": "Il frappa dans l'Égypte tous les premiers-nés, les prémices de la force dans les tentes de Cham.",
+        "S21": "Il avait frappé tous les premiers-nés de l’Egypte, ceux qui étaient les aînés des enfants sous les tentes de Cham."
+      }
+    },
+    {
+      "verse": 52,
+      "texts": {
+        "BDS": "Comme un troupeau, il fit sortir son peuple\r\net il les conduisit dans le désert, tout comme un berger conduit ses brebis.",
+        "DBY": "Et il fit partir son peuple comme des brebis, et les mena comme un troupeau dans le désert;",
+        "KJV": "But made his own people to go forth like sheep, and guided them in the wilderness like a flock.",
+        "LSG": "Il fit partir son peuple comme des brebis, Il les conduisit comme un troupeau dans le désert.",
+        "MAB": "Qui avait fait partir son peuple comme des brebis; et qui l'avait mené par le désert comme un troupeau.",
+        "OST": "Il fit partir son peuple comme des brebis, et les conduisit par le désert comme un troupeau.",
+        "S21": "Il avait fait partir son peuple comme des brebis, il les avait conduits comme un troupeau dans le désert."
+      }
+    },
+    {
+      "verse": 53,
+      "texts": {
+        "BDS": "Il les conduisit en sécurité, les préservant de tout sujet de crainte,\r\net la mer engloutit leurs ennemis.",
+        "DBY": "Et il les conduisit sains et saufs, et ils furent sans crainte; et la mer couvrit leurs ennemis.",
+        "KJV": "And he led them on safely, so that they feared not: but the sea overwhelmed their enemies.",
+        "LSG": "Il les dirigea sûrement, pour qu'ils fussent sans crainte, Et la mer couvrit leurs ennemis.",
+        "MAB": "Et qui les avait conduits sûrement, et sans qu ils eussent aucune frayeur, là où la mer couvrit leurs ennemis.",
+        "OST": "Il les mena en sûreté et sans crainte; mais la mer couvrit leurs ennemis.",
+        "S21": "Il les avait guidés en toute sécurité, pour qu’ils soient sans crainte, et la mer avait recouvert leurs ennemis."
+      }
+    },
+    {
+      "verse": 54,
+      "texts": {
+        "BDS": "Il les fit pénétrer en Terre Sainte,\r\net les conduisit jusqu’à la montagne qu’il avait conquise par sa puissance.",
+        "DBY": "Et il les introduisit dans les confins de sa sainte terre, cette montagne que sa droite s'est acquise.",
+        "KJV": "And he brought them to the border of his sanctuary, [even to] this mountain, [which] his right hand had purchased.",
+        "LSG": "Il les amena vers sa frontière sainte, Vers cette montagne que sa droite a acquise.",
+        "MAB": "Et qui les avait introduits en la contrée de sa Sainteté, [savoir] en cette montagne que sa droite a conquise.",
+        "OST": "Il les fit parvenir dans ses frontières saintes, à la montagne que sa droite a conquise.",
+        "S21": "Il les avait amenés sur son saint territoire, jusqu’à la montagne que sa main droite avait conquise."
+      }
+    },
+    {
+      "verse": 55,
+      "texts": {
+        "BDS": "Il chassa de devant eux des nations\r\net il leur distribua le pays, donnant à chacun sa part d’héritage.\r\nIl installa les tribus d’Israël dans les demeures des Cananéens.",
+        "DBY": "Et il chassa de devant eux les nations, et leur partagea un héritage, et fit habiter dans leurs tentes les tribus d'Israël.",
+        "KJV": "He cast out the heathen also before them, and divided them an inheritance by line, and made the tribes of Israel to dwell in their tents.",
+        "LSG": "Il chassa devant eux les nations, Leur distribua le pays en héritage, Et fit habiter dans leurs tentes les tribus d'Israël.",
+        "MAB": "Et qui avait chassé de devant eux les nations qu'il leur a fait tomber en lot d'héritage, et avait fait habiter les Tribus d'Israël dans les tentes de ces nations.",
+        "OST": "Il chassa devant eux des nations; il les leur fit échoir en portions d'héritage, et logea les tribus d'Israël dans leurs tentes.",
+        "S21": "Il avait chassé des nations devant eux, leur avait distribué le pays en héritage et avait fait habiter les tribus d’Israël dans les tentes de ces peuples."
+      }
+    },
+    {
+      "verse": 56,
+      "texts": {
+        "BDS": "Mais ils ont voulu forcer la main au Dieu très-haut\r\net ils se sont rebellés contre lui.\r\nIls n’ont pas gardé ses commandements.",
+        "DBY": "Mais ils tentèrent et irritèrent le Dieu Très-haut, et ne gardèrent pas ses témoignages,",
+        "KJV": "Yet they tempted and provoked the most high God, and kept not his testimonies:",
+        "LSG": "Mais ils tentèrent le Dieu Très-Haut et se révoltèrent contre lui, Et ils n'observèrent point ses ordonnances.",
+        "MAB": "Mais ils ont tenté et irrité le Dieu Souverain, et n'ont point gardé ses témoignages.",
+        "OST": "Mais ils tentèrent et irritèrent le Dieu Très-Haut, et ne gardèrent point ses témoignages.",
+        "S21": "Mais ils ont provoqué le Dieu très-haut et se sont révoltés contre lui, ils n’ont pas respecté ses instructions."
+      }
+    },
+    {
+      "verse": 57,
+      "texts": {
+        "BDS": "Ils se sont dérobés comme leurs pères et ils ont agi sans fidélité.\r\nOn ne pouvait pas leur faire confiance pas plus qu’à l’arc dont la flèche dévie.",
+        "DBY": "Et se retirèrent, et agirent infidèlement, comme leurs pères; ils tournèrent comme un arc trompeur.",
+        "KJV": "But turned back, and dealt unfaithfully like their fathers: they were turned aside like a deceitful bow.",
+        "LSG": "Ils s'éloignèrent et furent infidèles, comme leurs pères, Ils tournèrent, comme un arc trompeur.",
+        "MAB": "Et ils se sont retirés en arrière, et se sont portés infidèlement, ainsi que leurs pères ; ils se sont renversés comme un arc qui trompe.",
+        "OST": "Ils reculèrent et furent infidèles comme leurs pères; ils tournèrent comme un arc qui trompe.",
+        "S21": "Ils se sont éloignés et ont été infidèles comme leurs ancêtres, ils se sont retournés comme un arc trompeur."
+      }
+    },
+    {
+      "verse": 58,
+      "texts": {
+        "BDS": "Leurs hauts-lieux ont excité sa fureur\r\net leurs idoles son indignation.",
+        "DBY": "Et ils le provoquèrent à colère par leurs hauts lieux, et l'émurent à jalousie par leurs images taillées.",
+        "KJV": "For they provoked him to anger with their high places, and moved him to jealousy with their graven images.",
+        "LSG": "Ils l'irritèrent par leurs hauts lieux, Et ils excitèrent sa jalousie par leurs idoles.",
+        "MAB": "Et ils l'ont provoqué à la colère par leurs hauts lieux, et l'ont ému à la jalousie par leurs images taillées.",
+        "OST": "Ils le provoquèrent par leurs hauts lieux, et l'émurent à jalousie par leurs idoles.",
+        "S21": "Ils l’ont irrité par leurs hauts lieux, ils ont excité sa jalousie par leurs idoles."
+      }
+    },
+    {
+      "verse": 59,
+      "texts": {
+        "BDS": "Dieu l’entendit: il se mit en colère\r\net il prit Israël en aversion.",
+        "DBY": "Dieu l'entendit, et se mit en grande colère, et il méprisa fort Israël.",
+        "KJV": "When God heard [this], he was wroth, and greatly abhorred Israel:",
+        "LSG": "Dieu entendit, et il fut irrité; Il repoussa fortement Israël.",
+        "MAB": "Dieu l'a ouï, et s'est mis en grande colère, et il a fort méprisé Israël.",
+        "OST": "Dieu l'entendit et s'indigna; il prit Israël en aversion.",
+        "S21": "Dieu a entendu cela, et il a été irrité, il a durement rejeté Israël."
+      }
+    },
+    {
+      "verse": 60,
+      "texts": {
+        "BDS": "Il délaissa sa maison de Silo,\r\nle tabernacle établi chez les hommes.",
+        "DBY": "Et il abandonna la demeure de Silo, la tente où il avait habité parmi les hommes;",
+        "KJV": "So that he forsook the tabernacle of Shiloh, the tent [which] he placed among men;",
+        "LSG": "Il abandonna la demeure de Silo, La tente où il habitait parmi les hommes;",
+        "MAB": "Et il a abandonné le pavillon de Silo, le Tabernacle où il habitait entre les hommes.",
+        "OST": "Il abandonna la demeure de Silo, la tente qu'il avait dressée parmi les hommes.",
+        "S21": "Il a abandonné la demeure de Silo, la tente où il habitait parmi les hommes."
+      }
+    },
+    {
+      "verse": 61,
+      "texts": {
+        "BDS": "Il laissa partir en captivité le coffre sacré porteur de sa force,\r\net livra aux ennemis sa splendeur.",
+        "DBY": "Et il livra à la captivité sa force, et sa magnificence en la main de l'ennemi;",
+        "KJV": "And delivered his strength into captivity, and his glory into the enemy's hand.",
+        "LSG": "Il livra sa gloire à la captivité, Et sa majesté entre les mains de l'ennemi.",
+        "MAB": "Et il a livré en captivité sa force et son ornement entre les mains de l'ennemi.",
+        "OST": "Il livra sa gloire à la captivité, et sa majesté aux mains de l'ennemi.",
+        "S21": "Il a livré sa puissance à l’exil, et sa parure entre les mains de l’ennemi."
+      }
+    },
+    {
+      "verse": 62,
+      "texts": {
+        "BDS": "Il fut en colère contre les siens\r\net abandonna son peuple à l’épée.",
+        "DBY": "Et il livra son peuple à l'épée, et se mit en grande colère contre son héritage:",
+        "KJV": "He gave his people over also unto the sword; and was wroth with his inheritance.",
+        "LSG": "Il mit son peuple à la merci du glaive, Et il s'indigna contre son héritage.",
+        "MAB": "Et il a livré son peuple à l'épée et s'est mis en grande colère contre son héritage.",
+        "OST": "Il abandonna son peuple à l'épée, et s'indigna contre son héritage.",
+        "S21": "Il a livré son peuple à l’épée, il s’est irrité contre son héritage:"
+      }
+    },
+    {
+      "verse": 63,
+      "texts": {
+        "BDS": "Le feu consuma ses adolescents,\r\non ne chanta plus pour ses jeunes filles.",
+        "DBY": "Le feu dévora leurs jeunes hommes, et leurs vierges ne furent pas célébrées;",
+        "KJV": "The fire consumed their young men; and their maidens were not given to marriage.",
+        "LSG": "Le feu dévora ses jeunes hommes, Et ses vierges ne furent pas célébrées;",
+        "MAB": "Le feu a consumé leurs gens d'élite, et leurs vierges n'ont point été louées.",
+        "OST": "Le feu dévora ses jeunes hommes, et ses vierges ne furent point chantées.",
+        "S21": "le feu a dévoré ses jeunes gens, et ses vierges n’ont plus été célébrées;"
+      }
+    },
+    {
+      "verse": 64,
+      "texts": {
+        "BDS": "Frappés par l’épée, ses prêtres périrent,\r\nses veuves n’eurent pas droit à des larmes.",
+        "DBY": "Leurs sacrificateurs tombèrent par l'épée, et leurs veuves ne se lamentèrent pas.",
+        "KJV": "Their priests fell by the sword; and their widows made no lamentation.",
+        "LSG": "Ses sacrificateurs tombèrent par l'épée, Et ses veuves ne pleurèrent pas.",
+        "MAB": "Leurs Sacrificateurs sont tombés par l'épée, et leurs veuves ne les ont point pleuré.",
+        "OST": "Ses sacrificateurs tombèrent par l'épée, et ses veuves ne pleurèrent pas.",
+        "S21": "ses prêtres sont tombés par l’épée, et ses veuves n’ont pas pleuré leurs morts."
+      }
+    },
+    {
+      "verse": 65,
+      "texts": {
+        "BDS": "Mais, comme un dormeur qui sort de ses rêves,\r\ntout à coup, l’Eternel se réveilla comme un guerrier exalté par le vin.",
+        "DBY": "Alors le Seigneur s'éveilla comme un homme puissant qui dort, et comme un homme puissant qui, animé par le vin, pousse des cris.",
+        "KJV": "Then the Lord awaked as one out of sleep, [and] like a mighty man that shouteth by reason of wine.",
+        "LSG": "Le Seigneur s'éveilla comme celui qui a dormi, Comme un héros qu'a subjugué le vin.",
+        "MAB": "Puis le Seigneur s'est réveillé comme un homme qui se serait endormi, et comme un puissant homme qui s'écrie ayant encore le vin dans la tête.",
+        "OST": "Alors le Seigneur s'éveilla comme un homme qui dort, comme un guerrier à qui le vin fait jeter des cris.",
+        "S21": "Le Seigneur s’est éveillé comme un homme qui a dormi, comme un héros ragaillardi par le vin."
+      }
+    },
+    {
+      "verse": 66,
+      "texts": {
+        "BDS": "Il frappa ses ennemis à revers,\r\nil les couvrit d’une honte éternelle.",
+        "DBY": "Et il frappa ses ennemis par derrière, il les livra à un opprobre éternel.",
+        "KJV": "And he smote his enemies in the hinder parts: he put them to a perpetual reproach.",
+        "LSG": "Il frappa ses adversaires en fuite, Il les couvrit d'un opprobre éternel.",
+        "MAB": "Et il a frappé ses adversaires par derrière, et les a mis en opprobre perpétuel.",
+        "OST": "Il refoula ses adversaires; il les chargea d'un opprobre éternel.",
+        "S21": "Il a frappé ses adversaires et les a fait reculer, il les a couverts d’une honte éternelle."
+      }
+    },
+    {
+      "verse": 67,
+      "texts": {
+        "BDS": "Il écarta la maison de Joseph,\r\nne choisit pas la tribu d’Ephraïm.",
+        "DBY": "Et il méprisa la tente de Joseph, et ne choisit pas la tribu d'Éphraïm;",
+        "KJV": "Moreover he refused the tabernacle of Joseph, and chose not the tribe of Ephraim:",
+        "LSG": "Cependant il rejeta la tente de Joseph, Et il ne choisit point la tribu d'Ephraïm;",
+        "MAB": "Mais il a dédaigné le Tabernacle de Joseph, et n'a point choisi la Tribu d'Ephraïm.",
+        "OST": "Mais il rejeta la tente de Joseph, et ne choisit pas la tribu d'Éphraïm.",
+        "S21": "Il a rejeté la tente de Joseph, il n’a pas choisi la tribu d’Ephraïm,"
+      }
+    },
+    {
+      "verse": 68,
+      "texts": {
+        "BDS": "Mais il choisit la tribu de Juda,\r\nce mont Sion qu’il prit en affection.",
+        "DBY": "Mais il choisit la tribu de Juda, la montagne de Sion qu'il aima.",
+        "KJV": "But chose the tribe of Judah, the mount Zion which he loved.",
+        "LSG": "Il préféra la tribu de Juda, La montagne de Sion qu'il aimait.",
+        "MAB": "Mais il a choisi la Tribu de Juda, la montagne de Sion, laquelle il aime;",
+        "OST": "Il choisit la tribu de Juda, la montagne de Sion qu'il aime.",
+        "S21": "mais il a choisi la tribu de Juda, le mont Sion qu’il aimait."
+      }
+    },
+    {
+      "verse": 69,
+      "texts": {
+        "BDS": "C’est là qu’il édifia son sanctuaire pareil aux cimes\r\ncomme la terre établie pour qu’elle dure toujours.",
+        "DBY": "Et il bâtit son sanctuaire comme des lieux très-hauts, comme la terre qu'il a fondée pour toujours.",
+        "KJV": "And he built his sanctuary like high [palaces], like the earth which he hath established for ever.",
+        "LSG": "Et il bâtit son sanctuaire comme les lieux élevés, Comme la terre qu'il a fondée pour toujours.",
+        "MAB": "Et il a bâti son Sanctuaire comme [des bâtiments] haut élevés, et l'a établi comme la terre qu'il a fondée pour toujours.",
+        "OST": "Il bâtit son sanctuaire comme les lieux très hauts, comme la terre qu'il a fondée pour toujours.",
+        "S21": "Il y a construit son sanctuaire, solide comme les hauteurs, comme la terre qu’il a établie pour toujours."
+      }
+    },
+    {
+      "verse": 70,
+      "texts": {
+        "BDS": "Il a choisi son serviteur David\r\net il l’a tiré de ses bergeries.",
+        "DBY": "Et il choisit David, son serviteur, et le prit des parcs des brebis;",
+        "KJV": "He chose David also his servant, and took him from the sheepfolds:",
+        "LSG": "Il choisit David, son serviteur, Et il le tira des bergeries;",
+        "MAB": "Et il a choisi David, son serviteur, et l'a pris des parcs des brebis;",
+        "OST": "Il choisit David son serviteur, et le prit des parcs des brebis.",
+        "S21": "Il a choisi David, son serviteur, et l’a fait sortir des bergeries;"
+      }
+    },
+    {
+      "verse": 71,
+      "texts": {
+        "BDS": "Il l’a pris du milieu de ses brebis\r\npour qu’il soit berger de Jacob, son peuple,\r\net d’Israël qui est sa possession.",
+        "DBY": "Il le fit venir d'auprès des brebis qui allaitent, pour paître Jacob, son peuple, et Israël, son héritage.",
+        "KJV": "From following the ewes great with young he brought him to feed Jacob his people, and Israel his inheritance.",
+        "LSG": "Il le prit derrière les brebis qui allaitent, Pour lui faire paître Jacob, son peuple, Et Israël, son héritage.",
+        "MAB": "[Il l'a pris, dis-je,] d'après les brebis qui allaitent, et l'a amené pour paître Jacob son peuple, et Israël son héritage.",
+        "OST": "Il l'amena d'auprès de celles qui allaitent, pour paître Jacob, son peuple, et Israël, son héritage.",
+        "S21": "il l’a pris derrière les brebis qui allaitent pour faire de lui le berger de Jacob, son peuple, d’Israël, son héritage."
+      }
+    },
+    {
+      "verse": 72,
+      "texts": {
+        "BDS": "David fut pour eux un berger intègre\r\nqui les guida d’une main avisée.",
+        "DBY": "Et il les fit paître selon l'intégrité de son cœur, et les conduisit par l'intelligence de ses mains.",
+        "KJV": "So he fed them according to the integrity of his heart; and guided them by the skilfulness of his hands.",
+        "LSG": "Et David les dirigea avec un coeur intègre, Et les conduisit avec des mains intelligentes.",
+        "MAB": "Aussi les a-t-il fait repus selon l'intégrité de son cœur, et conduits par la sage direction de ses mains.",
+        "OST": "Alors David les fit paître suivant l'intégrité de son cœur, et les conduisit par la sagesse de ses mains.",
+        "S21": "David les a dirigés avec un cœur intègre et les a guidés avec des mains habiles."
+      }
+    }
+  ]
+}

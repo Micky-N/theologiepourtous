@@ -45,16 +45,18 @@
 </template>
 
 <script lang="ts" setup>
-import type { BibleBook, BibleNote, BibleVerse } from '@prisma/client';
+import type { BibleBookData, BibleNoteData, BibleVerseData } from '~/types';
+
+type NoteDrawerVerse = Pick<BibleVerseData, 'chapter' | 'verse'> & { id?: number; };
 
 const emit = defineEmits<{
     (e: 'close' | 'refreshNote'): void;
 }>();
 
 const { note = null, verse, book } = defineProps<{
-    note?: BibleNote | null;
-    verse: BibleVerse;
-    book: BibleBook;
+    note?: BibleNoteData | null;
+    verse: NoteDrawerVerse;
+    book: Pick<BibleBookData, 'name'>;
 }>();
 const open = defineModel<boolean>('open', { default: false });
 const isEdit = ref(false);
@@ -81,13 +83,13 @@ async function handleSubmit() {
         let response: {
             success: boolean;
             message: string;
-            note: BibleNote;
+            note: BibleNoteData;
         } | null = null;
         if (isEdit.value && note) {
             response = await $fetch<{
                 success: boolean;
                 message: string;
-                note: BibleNote;
+                note: BibleNoteData;
             }>(`/api/bible/notes/${note.id}`, {
                 method: 'PUT',
                 body: {
@@ -97,10 +99,13 @@ async function handleSubmit() {
                 }
             });
         } else {
+            if (!verse.id) {
+                throw new Error('ID du verset requis pour créer une note');
+            }
             response = await $fetch<{
                 success: boolean;
                 message: string;
-                note: BibleNote;
+                note: BibleNoteData;
             }>('/api/bible/notes', {
                 method: 'POST',
                 body: {

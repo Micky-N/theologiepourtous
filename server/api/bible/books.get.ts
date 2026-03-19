@@ -1,16 +1,14 @@
-import { prisma } from '~~/lib/prisma';
+import { buildBookPayload, getBibleBooks } from '~~/server/utils/bibleData';
 
 export default defineEventHandler(async (event) => {
     try {
         const query = getQuery(event);
         const testament = query.testament as 'OLD' | 'NEW' | undefined;
 
-        const books = await prisma.bibleBook.findMany({
-            where: testament ? { testament } : undefined,
-            orderBy: {
-                orderIndex: 'asc'
-            }
-        });
+        const books = (await getBibleBooks())
+            .filter(book => !testament || book.testament === testament)
+            .sort((left, right) => left.orderIndex - right.orderIndex)
+            .map(buildBookPayload);
 
         // Grouper par testament pour l'UI
         const grouped = {

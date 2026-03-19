@@ -1,0 +1,654 @@
+{
+  "bookCode": "NUM",
+  "chapter": 1,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "Le premier jour du deuxième mois de la deuxième année après la sortie d’Egypte, l’Eternel s’adressa à Moïse dans le désert du Sinaï dans la tente de la Rencontre. Il lui dit:",
+        "DBY": "Et l'Éternel parla à Moïse, au désert de Sinaï, dans la tente d'assignation, le premier jour du second mois de la seconde année après leur sortie du pays d'Égypte, disant:",
+        "KJV": "And the LORD spake unto Moses in the wilderness of Sinai, in the tabernacle of the congregation, on the first [day] of the second month, in the second year after they were come out of the land of Egypt, saying,",
+        "LSG": "L'Eternel parla à Moïse dans le désert de Sinaï, dans la tente d'assignation, le premier jour du second mois, la seconde année après leur sortie du pays d'Egypte. Il dit:",
+        "MAB": "Or l'Eternel parla à Moïse au désert de Sinaï, dans le Tabernacle d'assignation, le premier jour du second mois de la seconde année, après qu'ils furent sortis du pays d'Egypte, en disant :",
+        "OST": "L'Éternel parla à Moïse, au désert de Sinaï, dans le tabernacle d'assignation, au premier jour du second mois, la seconde année de leur sortie du pays d'Égypte, en disant:",
+        "S21": "L'Eternel parla à Moïse dans le désert du Sinaï, dans la tente de la rencontre, le premier jour du deuxième mois, la deuxième année après leur sortie d'Egypte. Il dit:"
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "—Faites le recensement de toute la communauté des Israélites selon leurs familles et leurs groupes familiaux, en comptant tous les hommes",
+        "DBY": "Relevez la somme de toute l'assemblée des fils d'Israël, selon leurs familles, selon leurs maison de pères, suivant le nombre des noms, tous les mâles, par tête:",
+        "KJV": "Take ye the sum of all the congregation of the children of Israel, after their families, by the house of their fathers, with the number of [their] names, every male by their polls;",
+        "LSG": "Faites le dénombrement de toute l'assemblée des enfants d'Israël, selon leurs familles, selon les maisons de leurs pères, en comptant par tête les noms de tous les mâles,",
+        "MAB": "Faites le dénombrement de toute l'assemblée des enfants d'Israël, selon leurs familles, selon les maisons de leurs pères, en les comptant nom par nom, [savoir] tous les mâles, chacun par tête;",
+        "OST": "Faites le compte de toute l'assemblée des enfants d'Israël, selon leurs familles, selon les maisons de leurs pères, en comptant par tête les noms de tous les mâles,",
+        "S21": "«Faites le dénombrement de toute l'assemblée des Israélites en fonction de leur clan, de leur famille. Vous compterez les noms de tous les individus de sexe masculin"
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "âgés de vingt ans et plus, tous ceux qui sont aptes à servir dans l’armée d’Israël. Toi et Aaron, vous les dénombrerez par corps d’armée.",
+        "DBY": "depuis l'âge de vingt ans et au-dessus, tous ceux d'Israël qui sont propres au service militaire, vous les compterez selon leurs armées, toi et Aaron.",
+        "KJV": "From twenty years old and upward, all that are able to go forth to war in Israel: thou and Aaron shall number them by their armies.",
+        "LSG": "depuis l'âge de vingt ans et au-dessus, tous ceux d'Israël en état de porter les armes; vous en ferez le dénombrement selon leurs divisions, toi et Aaron.",
+        "MAB": "Depuis l'âge de vingt ans, et au dessus, tous ceux d'Israël qui peuvent aller à la guerre, vous les compterez suivant leurs troupes, toi et Aaron.",
+        "OST": "Depuis l'âge de vingt ans et au-dessus, tous ceux d'Israël qui peuvent aller à la guerre; vous les dénombrerez selon leurs armées, toi et Aaron.",
+        "S21": "âgés de 20 ans et plus, tous les membres du peuple d'Israël aptes au service militaire. Vous les dénombrerez par corps d’armée, Aaron et toi."
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "Vous vous adjoindrez un homme par tribu; vous prendrez celui qui se trouve à la tête de son groupe familial.",
+        "DBY": "Et, avec vous, il y aura un homme par tribu, un homme chef de sa maison de pères.",
+        "KJV": "And with you there shall be a man of every tribe; every one head of the house of his fathers.",
+        "LSG": "Il y aura avec vous un homme par tribu, chef de la maison de ses pères.",
+        "MAB": "Et il y aura avec vous un homme de chaque Tribu, [savoir] celui qui [est] le chef de la maison de ses pères.",
+        "OST": "Et il y aura avec vous un homme par tribu, le chef de la maison de ses pères.",
+        "S21": "Il y aura avec vous un homme par tribu, un chef de famille."
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "Voici le nom des hommes qui vous assisteront:\r\n— pour Ruben: Elitsour, fils de Chedéour;",
+        "DBY": "Et ce sont ici les noms des hommes qui se tiendront avec vous: pour Ruben, Élitsur, fils de Shédéur;",
+        "KJV": "And these [are] the names of the men that shall stand with you: of [the tribe of] Reuben; Elizur the son of Shedeur.",
+        "LSG": "Voici les noms des hommes qui se tiendront avec vous. Pour Ruben: Elitsur, fils de Schedéur;",
+        "MAB": "Et ce sont ici les noms de ces hommes qui vous assisteront. Pour la Tribu de Ruben, Elitsur fils de Sédéur.",
+        "OST": "Et voici les noms des hommes qui vous assisteront: Pour la tribu de Ruben, Elitsur, fils de Shedéur;",
+        "S21": "»Voici le nom des hommes qui se tiendront à vos côtés. Pour Ruben: Elitsur, fils de Shedéur;"
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "—pour Siméon: Cheloumiel, fils de Tsourichaddaï;",
+        "DBY": "pour Siméon, Shelumiel, fils de Tsurishaddaï;",
+        "KJV": "Of Simeon; Shelumiel the son of Zurishaddai.",
+        "LSG": "pour Siméon: Schelumiel, fils de Tsurischaddaï;",
+        "MAB": "Pour celle de Siméon, Sélumiel, fils de Tsurisaddaï.",
+        "OST": "Pour celle de Siméon, Shelumiel, fils de Tsurishaddaï;",
+        "S21": "pour Siméon: Shelumiel, fils de Tsurishaddaï;"
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "—pour Juda: Nahchôn, fils d’Amminadab;",
+        "DBY": "pour Juda, Nakhshon, fils d'Amminadab;",
+        "KJV": "Of Judah; Nahshon the son of Amminadab.",
+        "LSG": "pour Juda: Nachschon, fils d'Amminadab;",
+        "MAB": "Pour celle de Juda, Nahasson, fils de Hamminadab.",
+        "OST": "Pour celle de Juda, Nahasshon, fils d'Amminadab;",
+        "S21": "pour Juda: Nachshon, fils d'Amminadab;"
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "—pour Issacar: Netaneel, fils de Tsouar;",
+        "DBY": "pour Issacar, Nethaneël, fils de Tsuar;",
+        "KJV": "Of Issachar; Nethaneel the son of Zuar.",
+        "LSG": "pour Issacar: Nethaneel, fils de Tsuar;",
+        "MAB": "Pour celle d'Issacar, Nathanaël, fils de Tsuhar.",
+        "OST": "Pour celle d'Issacar, Nathanaël, fils de Tsuar;",
+        "S21": "pour Issacar: Nathanaël, fils de Tsuar;"
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "—pour Zabulon: Eliab, fils de Hélôn;",
+        "DBY": "pour Zabulon, Éliab, fils de Hélon;",
+        "KJV": "Of Zebulun; Eliab the son of Helon.",
+        "LSG": "pour Zabulon: Eliab, fils de Hélon;",
+        "MAB": "Pour celle de Zabulon, Eliab, fils de Hélon.",
+        "OST": "Pour celle de Zabulon, Eliab, fils de Hélon;",
+        "S21": "pour Zabulon: Eliab, fils de Hélon;"
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "—pour les fils de Joseph:\r\npour Ephraïm: Elichama, fils d’Ammihoud;\r\npour Manassé: Gamliel, fils de Pédahtsour;",
+        "DBY": "pour les fils de Joseph, pour Éphraïm, Elishama, fils d'Ammihud; pour Manassé, Gameliel, fils de Pedahtsur;",
+        "KJV": "Of the children of Joseph: of Ephraim; Elishama the son of Ammihud: of Manasseh; Gamaliel the son of Pedahzur.",
+        "LSG": "pour les fils de Joseph, -pour Ephraïm: Elischama, fils d'Ammihud; -pour Manassé: Gamliel, fils de Pedahtsur;",
+        "MAB": "des enfants de Joseph, pour la Tribu d'Ephraïm, Elisamah, fils de Hammiud; pour celle de Manassé, Gamaliel fils de Pédatsur.",
+        "OST": "Pour les enfants de Joseph, pour la tribu d'Éphraïm, Elishama, fils d'Ammihud; pour celle de Manassé, Gamaliel, fils de Pédahtsur;",
+        "S21": "pour les fils de Joseph, pour Ephraïm: Elishama, fils d'Ammihud, et pour Manassé: Gamliel, fils de Pedahtsur;"
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "—pour Benjamin: Abidân, fils de Guideoni;",
+        "DBY": "pour Benjamin, Abidan, fils de Guidhoni;",
+        "KJV": "Of Benjamin; Abidan the son of Gideoni.",
+        "LSG": "pour Benjamin: Abidan, fils de Guideoni;",
+        "MAB": "Pour la Tribu de Benjamin, Abidan, fils de Guidhoni.",
+        "OST": "Pour la tribu de Benjamin, Abidan, fils de Guideoni;",
+        "S21": "pour Benjamin: Abidan, fils de Guideoni;"
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "—pour Dan: Ahiézer, fils d’Ammichaddaï;",
+        "DBY": "pour Dan, Akhiézer, fils d'Ammishaddaï;",
+        "KJV": "Of Dan; Ahiezer the son of Ammishaddai.",
+        "LSG": "pour Dan: Ahiézer, fils d'Ammischaddaï;",
+        "MAB": "Pour celle de Dan, Ahihézer, fils de Hammisaddaï.",
+        "OST": "Pour celle de Dan, Ahiézer, fils d'Ammishaddaï;",
+        "S21": "pour Dan: Ahiézer, fils d'Ammishaddaï;"
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "—pour Aser: Paguiel, fils d’Okrân;",
+        "DBY": "pour Aser, Paghiel, fils d'Ocran;",
+        "KJV": "Of Asher; Pagiel the son of Ocran.",
+        "LSG": "pour Aser: Paguiel, fils d'Ocran;",
+        "MAB": "Pour celle d'Aser, Paghiel, fils de Hocran.",
+        "OST": "Pour celle d'Asser, Paguiel, fils d'Ocran;",
+        "S21": "pour Aser: Paguiel, fils d'Ocran;"
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "—pour Gad: Eliasaph, fils de Reouel;",
+        "DBY": "pour Gad, Éliasaph, fils de Dehuel;",
+        "KJV": "Of Gad; Eliasaph the son of Deuel.",
+        "LSG": "pour Gad: Eliasaph, fils de Déuel;",
+        "MAB": "Pour celle de Gad, Eliasaph, fils de Déhuël.",
+        "OST": "Pour celle de Gad, Eliasaph, fils de Déhuël;",
+        "S21": "pour Gad: Eliasaph, fils de Déuel;"
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "—pour Nephtali: Ahira, fils d’Enân.",
+        "DBY": "pour Nephthali, Akhira, fils d'Énan.",
+        "KJV": "Of Naphtali; Ahira the son of Enan.",
+        "LSG": "pour Nephthali: Ahira, fils d'Enan.",
+        "MAB": "Pour celle de Nephthali, Ahirah, fils de Hénan.",
+        "OST": "Pour celle de Nephthali, Ahira, fils d'Enan.",
+        "S21": "pour Nephthali: Ahira, fils d'Enan."
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "Tels sont les membres de la communauté qui furent convoqués. C’étaient les chefs de leurs tribus, ils étaient aussi à la tête des corps d’armée d’Israël.",
+        "DBY": "Ce sont là ceux qui furent les principaux de l'assemblée, les princes des tribus de leurs pères, les chefs des milliers d'Israël.",
+        "KJV": "These [were] the renowned of the congregation, princes of the tribes of their fathers, heads of thousands in Israel.",
+        "LSG": "Tels sont ceux qui furent convoqués à l'assemblée, princes des tribus de leurs pères, chefs des milliers d'Israël.",
+        "MAB": "C'étaient là ceux qu'on appelait pour tenir l'assemblée; ils étaient les principaux des Tribus de leurs pères, chefs des milliers d'Israël.",
+        "OST": "C'étaient là ceux qu'on appelait pour tenir l'assemblée, les princes des tribus de leurs pères, les chefs des milliers d'Israël.",
+        "S21": "Tels sont les princes des tribus de leurs ancêtres, les chefs des milliers d'Israël appelés parmi l’assemblée.»"
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "Moïse et Aaron s’adjoignirent ces hommes qui avaient été nommément désignés",
+        "DBY": "Et Moïse et Aaron prirent ces hommes-là, qui avaient été désignés par leurs noms,",
+        "KJV": "And Moses and Aaron took these men which are expressed by [their] names:",
+        "LSG": "Moïse et Aaron prirent ces hommes, qui avaient été désignés par leurs noms,",
+        "MAB": "Alors Moïse et Aaron prirent ces hommes-là qui avaient été nommés par leurs noms;",
+        "OST": "Moïse et Aaron prirent donc ces hommes qui avaient été désignés par leurs noms;",
+        "S21": "Moïse et Aaron prirent comme adjoints les hommes qui avaient été nommément désignés,"
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "et convoquèrent toute l’assemblée, le premier jour du second mois; les Israélites furent recensés, selon leurs familles et leurs groupes familiaux, on releva le nom des hommes de vingt ans et au-dessus, un par un,",
+        "DBY": "et ils réunirent toute l'assemblée, le premier jour du second mois; et chacun déclara sa filiation, selon leurs familles, selon leurs maisons de pères, suivant le nombre des noms, depuis l'âge de vingt ans et au-dessus, par tête.",
+        "KJV": "And they assembled all the congregation together on the first [day] of the second month, and they declared their pedigrees after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, by their polls.",
+        "LSG": "et ils convoquèrent toute l'assemblée, le premier jour du second mois. On les enregistra selon leurs familles, selon les maisons de leurs pères, en comptant par tête les noms depuis l'âge de vingt ans et au-dessus.",
+        "MAB": "Et ils convoquèrent toute l'assemblée, le premier jour du second mois, et on enregistra chacun selon leurs familles, [et] selon la maison de leurs pères, les enregistrant, nom par nom, depuis l'âge de vingt ans, et au dessus, chacun par tête;",
+        "OST": "Et ils convoquèrent toute l'assemblée, le premier jour du second mois, et on les enregistra d'après leurs familles, selon la maison de leurs pères, en les comptant par leurs noms, depuis l'âge de vingt ans et au-dessus, et par têtes;",
+        "S21": "et ils convoquèrent toute l'assemblée le premier jour du deuxième mois. On enregistra les Israélites sur la base de leurs clans, en fonction de leur famille, en comptant les noms de tous les individus âgés de 20 ans et plus."
+      }
+    },
+    {
+      "verse": 19,
+      "texts": {
+        "BDS": "comme l’Eternel l’avait ordonné à Moïse. De cette manière, Moïse fit leur dénombrement au désert du Sinaï.",
+        "DBY": "Comme l'Éternel l'avait commandé à Moïse, ainsi il les dénombra dans le désert de Sinaï.",
+        "KJV": "As the LORD commanded Moses, so he numbered them in the wilderness of Sinai.",
+        "LSG": "Moïse en fit le dénombrement dans le désert de Sinaï, comme l'Eternel le lui avait ordonné.",
+        "MAB": "Comme l'Eternel l'avait commandé à Moïse, il les dénombra au désert de Sinaï.",
+        "OST": "Comme l'Éternel l'avait commandé à Moïse, il les dénombra au désert de Sinaï.",
+        "S21": "Moïse les dénombra dans le désert du Sinaï, comme l'Eternel le lui avait ordonné."
+      }
+    },
+    {
+      "verse": 20,
+      "texts": {
+        "BDS": "—On établit le recensement des descendants de Ruben, premier-né d’Israël, par familles et par groupes familiaux en relevant un par un le nom de tous les hommes de vingt ans et plus, aptes à servir dans l’armée.",
+        "DBY": "Et les fils de Ruben, premier-né d'Israël, leurs générations, selon leurs familles, selon leurs maisons de pères, suivant le nombre des noms, par tête, tous les mâles, depuis l'âge de vingt ans et au-dessus, tous ceux qui étaient propres au service militaire,",
+        "KJV": "And the children of Reuben, Israel's eldest son, by their generations, after their families, by the house of their fathers, according to the number of the names, by their polls, every male from twenty years old and upward, all that were able to go forth to war;",
+        "LSG": "On enregistra les fils de Ruben, premier-né d'Israël, selon leurs familles, selon les maisons de leurs pères, en comptant par tête les noms de tous les mâles, depuis l'âge de vingt ans et au-dessus, tous ceux en état de porter les armes:",
+        "MAB": "Les enfants donc de Ruben, premier-né d'Israël, selon leurs générations, leurs familles, et les maisons de leurs pères, dont on fit le dénombrement par leur nom, [et] par tête, [savoir] tous les mâles de l'âge de vingt ans, et au dessus, tous ceux qui pouvaient aller à la guerre;",
+        "OST": "Les fils de Ruben, premier-né d'Israël, enregistrés selon leurs familles, selon les maisons de leurs pères, en les comptant par leurs noms et par tête, tous les mâles depuis l'âge de vingt ans et au-dessus, tous ceux qui pouvaient aller à la guerre:",
+        "S21": "On enregistra les descendants de Ruben, l’aîné d'Israël, en fonction de leur clan, de leur famille, en comptant les noms de tous les individus de sexe masculin âgés de 20 ans et plus, tous ceux qui étaient aptes au service militaire."
+      }
+    },
+    {
+      "verse": 21,
+      "texts": {
+        "BDS": "On en dénombra 46 500.",
+        "DBY": "ceux qui furent dénombrés de la tribu de Ruben furent quarante six mille cinq cents.",
+        "KJV": "Those that were numbered of them, [even] of the tribe of Reuben, [were] forty and six thousand and five hundred.",
+        "LSG": "les hommes de la tribu de Ruben dont on fit le dénombrement furent quarante-six mille cinq cents.",
+        "MAB": "Ceux, [dis-je], de la Tribu de Ruben, qui furent dénombrés, furent quarante-six mille cinq cents.",
+        "OST": "Ceux de la tribu de Ruben, qui furent dénombrés, furent quarante-six mille cinq cents.",
+        "S21": "On dénombra 46'500 hommes dans la tribu de Ruben."
+      }
+    },
+    {
+      "verse": 22,
+      "texts": {
+        "BDS": "—On établit le recensement des descendants de Siméon par familles et par groupes familiaux en relevant un par un le nom de tous les hommes de vingt ans et plus, aptes à servir dans l’armée.",
+        "DBY": "Des fils de Siméon: leurs générations, selon leurs familles, selon leurs maisons de pères, ceux qui furent dénombrés suivant le nombre des noms, par tête, tous les mâles, depuis l'âge de vingt ans et au-dessus, tous ceux qui étaient propres au service militaire,",
+        "KJV": "Of the children of Simeon, by their generations, after their families, by the house of their fathers, those that were numbered of them, according to the number of the names, by their polls, every male from twenty years old and upward, all that were able to go forth to war;",
+        "LSG": "On enregistra les fils de Siméon, selon leurs familles, selon les maisons de leurs pères; on en fit le dénombrement, en comptant par tête les noms de tous les mâles depuis l'âge de vingt ans et au-dessus, tous ceux en état de porter les armes:",
+        "MAB": "Des enfants de Siméon, selon leurs générations, leurs familles, et les maisons de leurs pères, ceux qui furent dénombrés par leur nom et par tête, [savoir] tous les mâles de l'âge de vingt ans, et au dessus, tous ceux qui pouvaient aller à la guerre;",
+        "OST": "Les fils de Siméon, enregistrés selon leurs familles, selon les maisons de leurs pères, ceux qui furent dénombrés, en les comptant par leurs noms et par tête, tous les mâles depuis l'âge de vingt ans et au-dessus, tous ceux qui pouvaient aller à la guerre:",
+        "S21": "On enregistra les descendants de Siméon en fonction de leur clan, de leur famille. On les dénombra en comptant les noms de tous les individus de sexe masculin âgés de 20 ans et plus, tous ceux qui étaient aptes au service militaire."
+      }
+    },
+    {
+      "verse": 23,
+      "texts": {
+        "BDS": "On en dénombra 59 300.",
+        "DBY": "ceux qui furent dénombrés de la tribu de Siméon furent cinquante-neuf mille trois cents.",
+        "KJV": "Those that were numbered of them, [even] of the tribe of Simeon, [were] fifty and nine thousand and three hundred.",
+        "LSG": "les hommes de la tribu de Siméon dont on fit le dénombrement furent cinquante-neuf mille trois cents.",
+        "MAB": "Ceux, [dis-je], de la Tribu de Siméon, qui furent dénombrés, furent cinquante-neuf mille trois cents.",
+        "OST": "Ceux de la tribu de Siméon, qui furent dénombrés, furent cinquante-neuf mille trois cents.",
+        "S21": "On dénombra 59'300 hommes dans la tribu de Siméon."
+      }
+    },
+    {
+      "verse": 24,
+      "texts": {
+        "BDS": "—On établit le recensement des descendants de Gad par familles et par groupes familiaux en relevant un par un le nom de tous les hommes de vingt ans et plus, aptes à servir dans l’armée.",
+        "DBY": "Des fils de Gad: leurs générations, selon leurs familles, selon leurs maisons de pères, suivant le nombre des noms, depuis l'âge de vingt ans et au-dessus, tous ceux qui étaient propres au service militaire,",
+        "KJV": "Of the children of Gad, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;",
+        "LSG": "On enregistra les fils de Gad, selon leurs familles, selon les maisons de leurs pères, en comptant les noms depuis l'âge de vingt ans et au-dessus, tous ceux en état de porter les armes:",
+        "MAB": "Des enfants de Gad, selon leurs générations, leurs familles, et les maisons de leurs pères, dénombrés chacun par leur nom, depuis l'âge de vingt ans, et au dessus, tous ceux qui pouvaient aller à la guerre;",
+        "OST": "Les fils de Gad, enregistrés selon leurs familles, selon les maisons de leurs pères, en les comptant par leurs noms, depuis l'âge de vingt ans et au-dessus, tous ceux qui pouvaient aller à la guerre:",
+        "S21": "On enregistra les descendants de Gad en fonction de leur clan, de leur famille, en comptant les noms des hommes âgés de 20 ans et plus, tous ceux qui étaient aptes au service militaire."
+      }
+    },
+    {
+      "verse": 25,
+      "texts": {
+        "BDS": "On en dénombra 45 650.",
+        "DBY": "ceux qui furent dénombrés de la tribu de Gad furent quarante cinq mille six cent cinquante.",
+        "KJV": "Those that were numbered of them, [even] of the tribe of Gad, [were] forty and five thousand six hundred and fifty.",
+        "LSG": "les hommes de la tribu de Gad dont on fit le dénombrement furent quarante-cinq mille six cent cinquante.",
+        "MAB": "Ceux, [ dis-je], de la Tribu de Gad, qui furent dénombrés, furent quarante-cinq mille six cent cinquante.",
+        "OST": "Ceux de la tribu de Gad, qui furent dénombrés, furent quarante-cinq mille six cent cinquante.",
+        "S21": "On dénombra 45'650 hommes dans la tribu de Gad."
+      }
+    },
+    {
+      "verse": 26,
+      "texts": {
+        "BDS": "—On établit le recensement des descendants de Juda par familles et par groupes familiaux en relevant un par un le nom de tous les hommes de vingt ans et plus, aptes à servir dans l’armée.",
+        "DBY": "Des fils de Juda: leurs générations, selon leurs familles, selon leurs maisons de pères, suivant le nombre des noms, depuis l'âge de vingt ans et au-dessus, tous ceux qui étaient propres au service militaire,",
+        "KJV": "Of the children of Judah, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;",
+        "LSG": "On enregistra les fils de Juda, selon leurs familles, selon les maisons de leurs pères, en comptant les noms depuis l'âge de vingt ans et au-dessus, tous ceux en état de porter les armes:",
+        "MAB": "Des enfants de Juda, selon leurs générations, leurs familles, et les maisons de leurs pères, dénombrés chacun par leur nom, depuis l'âge de vingt ans, et au dessus, tous ceux qui pouvaient aller à la guerre;",
+        "OST": "Les fils de Juda, enregistrés selon leurs familles, selon les maisons de leurs pères, en les comptant par leurs noms, depuis l'âge de vingt ans et au-dessus, tous ceux qui pouvaient aller à la guerre:",
+        "S21": "On enregistra les descendants de Juda en fonction de leur clan, de leur famille, en comptant les noms des hommes âgés de 20 ans et plus, tous ceux qui étaient aptes au service militaire."
+      }
+    },
+    {
+      "verse": 27,
+      "texts": {
+        "BDS": "On en dénombra 74 600.",
+        "DBY": "ceux qui furent dénombrés de la tribu de Juda furent soixante-quatorze mille six cents.",
+        "KJV": "Those that were numbered of them, [even] of the tribe of Judah, [were] threescore and fourteen thousand and six hundred.",
+        "LSG": "les hommes de la tribu de Juda dont on fit le dénombrement furent soixante-quatorze mille six cents.",
+        "MAB": "Ceux, [dis-je], de la Tribu de Juda, qui furent dénombrés, furent soixante et quatorze mille six cents.",
+        "OST": "Ceux de la tribu de Juda, qui furent dénombrés, furent soixante-quatorze mille six cents.",
+        "S21": "On dénombra 74'600 hommes dans la tribu de Juda."
+      }
+    },
+    {
+      "verse": 28,
+      "texts": {
+        "BDS": "—On établit le recensement des descendants d’Issacar par familles et par groupes familiaux en relevant un par un le nom de tous les hommes de vingt ans et plus, aptes à servir dans l’armée.",
+        "DBY": "Des fils d'Issacar: leurs générations, selon leurs familles, selon leurs maisons de pères, suivant le nombre des noms, depuis l'âge de vingt ans et au-dessus, tous ceux qui étaient propres au service militaire, ceux qui furent dénombrés",
+        "KJV": "Of the children of Issachar, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;",
+        "LSG": "On enregistra les fils d'Issacar, selon leurs familles, selon les maisons de leurs pères, en comptant les noms depuis l'âge de vingt ans et au-dessus, tous ceux en état de porter les armes:",
+        "MAB": "Des enfants d'Issacar, selon leurs générations, leurs familles, et les maisons de leurs pères, dénombrés chacun par leur nom, depuis l'âge de vingt ans, et au dessus, tous ceux qui pouvaient aller à la guerre;",
+        "OST": "Les fils d'Issacar, enregistrés selon leurs familles, selon les maisons de leurs pères, en les comptant par leurs noms, depuis l'âge de vingt ans et au-dessus, tous ceux qui pouvaient aller à la guerre:",
+        "S21": "On enregistra les descendants d'Issacar en fonction de leur clan, de leur famille, en comptant les noms des hommes âgés de 20 ans et plus, tous ceux qui étaient aptes au service militaire."
+      }
+    },
+    {
+      "verse": 29,
+      "texts": {
+        "BDS": "On en dénombra 54 400.",
+        "DBY": "de la tribu d'Issacar furent cinquante-quatre mille quatre cents.",
+        "KJV": "Those that were numbered of them, [even] of the tribe of Issachar, [were] fifty and four thousand and four hundred.",
+        "LSG": "les hommes de la tribu d'Issacar dont on fit le dénombrement furent cinquante-quatre mille quatre cents.",
+        "MAB": "Ceux, [dis-je], de la Tribu d'Issacar, qui furent dénombrés, furent cinquante-quatre mille quatre cents.",
+        "OST": "Ceux de la tribu d'Issacar, qui furent dénombrés, furent cinquante-quatre mille quatre cents.",
+        "S21": "On dénombra 54'400 hommes dans la tribu d'Issacar."
+      }
+    },
+    {
+      "verse": 30,
+      "texts": {
+        "BDS": "—On établit le recensement des descendants de Zabulon par familles et par groupes familiaux en relevant un par un le nom de tous les hommes de vingt ans et plus, aptes à servir dans l’armée.",
+        "DBY": "Des fils de Zabulon: leurs générations, selon leurs familles, selon leurs maisons de pères, suivant le nombre des noms, depuis l'âge de vingt ans et au-dessus, tous ceux qui étaient propres au service militaire, ceux qui furent dénombrés",
+        "KJV": "Of the children of Zebulun, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;",
+        "LSG": "On enregistra les fils de Zabulon, selon leurs familles, selon les maisons de leurs pères, en comptant les noms depuis l'âge de vingt ans et au-dessus, tous ceux en état de porter les armes:",
+        "MAB": "Des enfants de Zabulon, selon leurs générations, leurs familles, et les maisons de leurs pères, dénombrés chacun par leur nom, depuis l'âge de vingt ans, et au dessus, tous ceux qui pouvaient aller à la guerre;",
+        "OST": "Les fils de Zabulon, enregistrés selon leurs familles, selon les maisons de leurs pères, en les comptant par leurs noms, depuis l'âge de vingt ans et au-dessus, tous ceux qui pouvaient aller à la guerre:",
+        "S21": "On enregistra les descendants de Zabulon en fonction de leur clan, de leur famille, en comptant les noms des hommes âgés de 20 ans et plus, tous ceux qui étaient aptes au service militaire."
+      }
+    },
+    {
+      "verse": 31,
+      "texts": {
+        "BDS": "On en dénombra 57 400.",
+        "DBY": "de la tribu de Zabulon furent cinquante-sept mille quatre cents.",
+        "KJV": "Those that were numbered of them, [even] of the tribe of Zebulun, [were] fifty and seven thousand and four hundred.",
+        "LSG": "les hommes de la tribu de Zabulon dont on fit le dénombrement furent cinquante-sept mille quatre cents.",
+        "MAB": "Ceux, [dis-je], de la Tribu de Zabulon, qui furent dénombrés, furent cinquante-sept mille quatre cents.",
+        "OST": "Ceux de la tribu de Zabulon, qui furent dénombrés, furent cinquante-sept mille quatre cents.",
+        "S21": "On dénombra 57'400 hommes dans la tribu de Zabulon."
+      }
+    },
+    {
+      "verse": 32,
+      "texts": {
+        "BDS": "—Parmi les fils de Joseph: On établit le recensement des descendants d’Ephraïm par familles et par groupes familiaux en relevant un par un le nom de tous les hommes de vingt ans et plus, aptes à servir dans l’armée.",
+        "DBY": "Des fils de Joseph, des fils d'Éphraïm: leurs générations, selon leurs familles, selon leurs maisons de pères, suivant le nombre des noms, depuis l'âge de vingt ans et au-dessus, tous ceux qui étaient propres au service militaire,",
+        "KJV": "Of the children of Joseph, [namely], of the children of Ephraim, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;",
+        "LSG": "On enregistra, d'entre les fils de Joseph, les fils d'Ephraïm, selon leurs familles, selon les maisons de leurs pères, en comptant les noms depuis l'âge de vingt ans et au-dessus, tous ceux en état de porter les armes:",
+        "MAB": "Quant aux enfants de Joseph; les enfants d'Ephraïm, selon leurs générations, leurs familles, et les maisons de leurs pères, dénombrés chacun par leur nom, depuis l'âge de vingt ans, et au dessus, tous ceux qui pouvaient aller à la guerre;",
+        "OST": "Quant aux fils de Joseph: les fils d'Éphraïm, enregistrés selon leurs familles, selon les maisons de leurs pères, en les comptant par leurs noms, depuis l'âge de vingt ans et au-dessus, tous ceux qui pouvaient aller à la guerre:",
+        "S21": "Pour les fils de Joseph, on enregistra les descendants d'Ephraïm en fonction de leur clan, de leur famille, en comptant les noms des hommes âgés de 20 ans et plus, tous ceux qui étaient aptes au service militaire."
+      }
+    },
+    {
+      "verse": 33,
+      "texts": {
+        "BDS": "On en dénombra 40 500.",
+        "DBY": "ceux qui furent dénombrés de la tribu d'Éphraïm furent quarante mille cinq cents.",
+        "KJV": "Those that were numbered of them, [even] of the tribe of Ephraim, [were] forty thousand and five hundred.",
+        "LSG": "les hommes de la tribu d'Ephraïm dont on fit le dénombrement furent quarante mille cinq cents.",
+        "MAB": "Ceux, [dis-je], de la Tribu d'Ephraïm, qui furent dénombrés, furent quarante mille cinq cents.",
+        "OST": "Ceux de la tribu d'Éphraïm, qui furent dénombrés, furent quarante mille cinq cents.",
+        "S21": "On dénombra 40'500 hommes dans la tribu d'Ephraïm."
+      }
+    },
+    {
+      "verse": 34,
+      "texts": {
+        "BDS": "On établit le recensement des descendants de Manassé par familles et par groupes familiaux en relevant un par un le nom de tous les hommes de vingt ans et plus, aptes à servir dans l’armée.",
+        "DBY": "Des fils de Manassé: leurs générations, selon leurs familles, selon leurs maisons de pères, suivant le nombre des noms, depuis l'âge de vingt ans et au-dessus, tous ceux qui étaient propres au service militaire,",
+        "KJV": "Of the children of Manasseh, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;",
+        "LSG": "On enregistra les fils de Manassé, selon leurs familles, selon les maisons de leurs pères, en comptant les noms depuis l'âge de vingt ans et au-dessus, tous ceux en état de porter les armes:",
+        "MAB": "Des enfants de Manassé, selon leurs générations, leurs familles, et les maisons de leurs pères, dénombrés chacun par leur nom, depuis l'âge de vingt ans, et au dessus, tous ceux qui pouvaient aller à la guerre;",
+        "OST": "Les fils de Manassé, enregistrés selon leurs familles, selon les maisons de leurs pères, en les comptant par leurs noms, depuis l'âge de vingt ans et au-dessus, tous ceux qui pouvaient aller à la guerre:",
+        "S21": "On enregistra les descendants de Manassé en fonction de leur clan, de leur famille, en comptant les noms des hommes âgés de 20 ans et plus, tous ceux qui étaient aptes au service militaire."
+      }
+    },
+    {
+      "verse": 35,
+      "texts": {
+        "BDS": "On en dénombra 32 200.",
+        "DBY": "ceux qui furent dénombrés de la tribu de Manassé furent trente-deux mille deux cents.",
+        "KJV": "Those that were numbered of them, [even] of the tribe of Manasseh, [were] thirty and two thousand and two hundred.",
+        "LSG": "les hommes de la tribu de Manassé dont on fit le dénombrement furent trente-deux mille deux cents.",
+        "MAB": "Ceux, [dis-je], de la Tribu de Manassé, qui furent dénombrés, furent trente-deux mille deux cents.",
+        "OST": "Ceux de la tribu de Manassé, qui furent dénombrés, furent trente-deux mille deux cents.",
+        "S21": "On dénombra 32'200 hommes dans la tribu de Manassé."
+      }
+    },
+    {
+      "verse": 36,
+      "texts": {
+        "BDS": "—On établit le recensement des descendants de Benjamin par familles et par groupes familiaux en relevant un par un le nom de tous les hommes de vingt ans et plus, aptes à servir dans l’armée.",
+        "DBY": "Des fils de Benjamin: leurs générations, selon leurs familles, selon leurs maisons de pères, suivant le nombre des noms, depuis l'âge de vingt ans et au-dessus, tous ceux qui étaient propres au service militaire,",
+        "KJV": "Of the children of Benjamin, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;",
+        "LSG": "On enregistra les fils de Benjamin, selon leurs familles, selon les maisons de leurs pères, en comptant les noms depuis l'âge de vingt ans et au-dessus, tous ceux en état de porter les armes:",
+        "MAB": "Des enfants de Benjamin, selon leurs générations, leurs familles, et les maisons de leurs pères, dénombrés chacun par leur nom, depuis l'âge de vingt ans, et au dessus, tous ceux qui pouvaient aller à la guerre;",
+        "OST": "Les fils de Benjamin, enregistrés selon leurs familles, selon les maisons de leurs pères, en les comptant par leurs noms, depuis l'âge de vingt ans et au-dessus, tous ceux qui pouvaient aller à la guerre:",
+        "S21": "On enregistra les descendants de Benjamin en fonction de leur clan, de leur famille, en comptant les noms des hommes âgés de 20 ans et plus, tous ceux qui étaient aptes au service militaire."
+      }
+    },
+    {
+      "verse": 37,
+      "texts": {
+        "BDS": "On en dénombra 35 400.",
+        "DBY": "ceux qui furent dénombrés de la tribu de Benjamin furent trente-cinq mille quatre cents.",
+        "KJV": "Those that were numbered of them, [even] of the tribe of Benjamin, [were] thirty and five thousand and four hundred.",
+        "LSG": "les hommes de la tribu de Benjamin dont on fit le dénombrement furent trente-cinq mille quatre cents.",
+        "MAB": "Ceux, [dis-je], de la Tribu de Benjamin, qui furent dénombrés, furent trente-cinq mille quatre cents.",
+        "OST": "Ceux de la tribu de Benjamin, qui furent dénombrés, furent trente-cinq mille quatre cents.",
+        "S21": "On dénombra 35'400 hommes dans la tribu de Benjamin."
+      }
+    },
+    {
+      "verse": 38,
+      "texts": {
+        "BDS": "—On établit le recensement des descendants de Dan par familles et par groupes familiaux en relevant un par un le nom de tous les hommes de vingt ans et plus, aptes à servir dans l’armée.",
+        "DBY": "Des fils de Dan: leurs générations, selon leurs familles, selon leurs maisons de pères, suivant le nombre des noms, depuis l'âge de vingt ans et au-dessus, tous ceux qui étaient propres au service militaire,",
+        "KJV": "Of the children of Dan, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;",
+        "LSG": "On enregistra les fils de Dan, selon leurs familles, selon les maisons de leurs pères, en comptant les noms depuis l'âge de vingt ans et au-dessus, tous ceux en état de porter les armes:",
+        "MAB": "Des enfants de Dan, selon leurs générations, leurs familles, et les maisons de leurs pères, dénombrés chacun par leur nom, depuis l'âge de vingt ans, et au dessus, tous ceux qui pouvaient aller à la guerre;",
+        "OST": "Les fils de Dan, enregistrés selon leurs familles, selon les maisons de leurs pères, en les comptant par leurs noms, depuis l'âge de vingt ans et au-dessus, tous ceux qui pouvaient aller à la guerre:",
+        "S21": "On enregistra les descendants de Dan en fonction de leur clan, de leur famille, en comptant les noms des hommes âgés de 20 ans et plus, tous ceux qui étaient aptes au service militaire."
+      }
+    },
+    {
+      "verse": 39,
+      "texts": {
+        "BDS": "On en dénombra 62 700.",
+        "DBY": "ceux qui furent dénombrés de la tribu de Dan furent soixante-deux mille sept cents.",
+        "KJV": "Those that were numbered of them, [even] of the tribe of Dan, [were] threescore and two thousand and seven hundred.",
+        "LSG": "les hommes de la tribu de Dan dont on fit le dénombrement furent soixante-deux mille sept cents.",
+        "MAB": "Ceux, [dis-je], de la Tribu de Dan,, qui furent dénombrés, furent soixante-deux mille sept cents.",
+        "OST": "Ceux de la tribu de Dan, qui furent dénombrés, furent soixante-deux mille sept cents.",
+        "S21": "On dénombra 62'700 hommes dans la tribu de Dan."
+      }
+    },
+    {
+      "verse": 40,
+      "texts": {
+        "BDS": "—On établit le recensement des descendants d’Aser par familles et par groupes familiaux en relevant un par un le nom de tous les hommes de vingt ans et plus, aptes à servir dans l’armée.",
+        "DBY": "Des fils d'Aser: leurs générations, selon leurs familles, selon leurs maisons de pères, suivant le nombre des noms, depuis l'âge de vingt ans et au-dessus, tous ceux qui étaient propres au service militaire,",
+        "KJV": "Of the children of Asher, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;",
+        "LSG": "On enregistra les fils d'Aser, selon leurs familles, selon les maisons de leurs pères, en comptant les noms depuis l'âge de vingt ans et au-dessus, tous ceux en état de porter les armes:",
+        "MAB": "Des enfants d'Aser, selon leurs générations, leurs familles, et les maisons de leurs pères, dénombrés chacun par leur nom, depuis l'âge de vingt ans, et au dessus, tous ceux qui pouvaient aller à la guerre;",
+        "OST": "Les fils d'Asser, enregistrés selon leurs familles, selon les maisons de leurs pères, en les comptant par leurs noms, depuis l'âge de vingt ans et au-dessus, tous ceux qui pouvaient aller à la guerre:",
+        "S21": "On enregistra les descendants d'Aser en fonction de leur clan, de leur famille, en comptant les noms des hommes âgés de 20 ans et plus, tous ceux qui étaient aptes au service militaire."
+      }
+    },
+    {
+      "verse": 41,
+      "texts": {
+        "BDS": "On en dénombra 41 500.",
+        "DBY": "ceux qui furent dénombrés de la tribu d'Aser furent quarante et un mille cinq cents.",
+        "KJV": "Those that were numbered of them, [even] of the tribe of Asher, [were] forty and one thousand and five hundred.",
+        "LSG": "les hommes de la tribu d'Aser dont on fit le dénombrement furent quarante et un mille cinq cents.",
+        "MAB": "Ceux, [dis-je], de la Tribu d'Aser, qui furent dénombrés, furent quarante et un mille cinq cents.",
+        "OST": "Ceux de la tribu d'Asser, qui furent dénombrés, furent quarante et un mille cinq cents.",
+        "S21": "On dénombra 41'500 hommes dans la tribu d'Aser."
+      }
+    },
+    {
+      "verse": 42,
+      "texts": {
+        "BDS": "—On établit le recensement des descendants de Nephtali par familles et par groupes familiaux en relevant un par un le nom de tous les hommes de vingt ans et plus, aptes à servir dans l’armée.",
+        "DBY": "Des fils de Nephthali: leurs générations, selon leurs familles, selon leurs maisons de pères, suivant le nombre des noms, depuis l'âge de vingt ans et au-dessus, tous ceux qui étaient propres au service militaire,",
+        "KJV": "Of the children of Naphtali, throughout their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;",
+        "LSG": "On enregistra les fils de Nephthali, selon leurs familles, selon les maisons de leurs pères, en comptant les noms depuis l'âge de vingt ans et au-dessus, tous ceux en état de porter les armes:",
+        "MAB": "[Des] enfants de Nephthali, selon leurs générations, leurs familles, et les maisons de leurs pères, dénombrés chacun par leur nom, depuis l'âge de vingt ans, et au dessus, tous ceux qui pouvaient aller à la guerre;",
+        "OST": "Les fils de Nephthali, enregistrés selon leurs familles, selon les maisons de leurs pères, en les comptant par leurs noms, depuis l'âge de vingt ans et au-dessus, tous ceux qui pouvaient aller à la guerre:",
+        "S21": "On enregistra les descendants de Nephthali en fonction de leur clan, de leur famille, en comptant les noms des hommes âgés de 20 ans et plus, tous ceux qui étaient aptes au service militaire."
+      }
+    },
+    {
+      "verse": 43,
+      "texts": {
+        "BDS": "On en dénombra 53 400.",
+        "DBY": "ceux qui furent dénombrés de la tribu de Nephthali furent cinquante-trois mille quatre cents.",
+        "KJV": "Those that were numbered of them, [even] of the tribe of Naphtali, [were] fifty and three thousand and four hundred.",
+        "LSG": "les hommes de la tribu de Nephthali dont on fit le dénombrement furent cinquante-trois mille quatre cents.",
+        "MAB": "Ceux, [dis-je], de la Tribu de Nephthali, qui furent dénombrés, furent cinquante-trois mille quatre cents.",
+        "OST": "Ceux de la tribu de Nephthali, qui furent dénombrés, furent cinquante-trois mille quatre cents.",
+        "S21": "On dénombra 53'400 hommes dans la tribu de Nephthali."
+      }
+    },
+    {
+      "verse": 44,
+      "texts": {
+        "BDS": "Tels sont les effectifs que recensèrent Moïse et Aaron, assistés de douze chefs d’Israël, un par tribu.",
+        "DBY": "Ce sont là les dénombrés que Moïse et Aaron et les douze hommes, princes d'Israël, dénombrèrent: il y avait un homme pour chaque maison de pères.",
+        "KJV": "These [are] those that were numbered, which Moses and Aaron numbered, and the princes of Israel, [being] twelve men: each one was for the house of his fathers.",
+        "LSG": "Tels sont ceux dont le dénombrement fut fait par Moïse et Aaron, et par les douze hommes, princes d'Israël; il y avait un homme pour chacune des maisons de leurs pères.",
+        "MAB": "Ce sont là ceux dont Moïse et Aaron firent le dénombrement, les douze principaux [d'entre les enfants] d'Israël y étant, un pour chaque maison de leurs pères.",
+        "OST": "Tel est le dénombrement que firent Moïse et Aaron, et les douze princes d'Israël; il y avait un homme pour chaque maison des pères.",
+        "S21": "Tels sont ceux dont le dénombrement fut fait par Moïse et Aaron ainsi que par les douze princes d'Israël; il y avait un homme pour chacune des familles."
+      }
+    },
+    {
+      "verse": 45,
+      "texts": {
+        "BDS": "Le total des Israélites de vingt ans et plus, aptes à servir dans l’armée, dont on fit le recensement selon leurs groupes familiaux,",
+        "DBY": "Et tous les dénombrés des fils d'Israël, selon leurs maisons de pères, depuis l'âge de vingt ans et au-dessus, tous ceux qui étaient propres au service militaire en Israël,",
+        "KJV": "So were all those that were numbered of the children of Israel, by the house of their fathers, from twenty years old and upward, all that were able to go forth to war in Israel;",
+        "LSG": "Tous ceux des enfants d'Israël dont on fit le dénombrement, selon les maisons de leurs pères, depuis l'âge de vingt ans et au-dessus, tous ceux d'Israël en état de porter les armes,",
+        "MAB": "Ainsi tous ceux des enfants d'Israël, dont on fit le dénombrement, selon les maisons de leurs pères, depuis l'âge de vingt ans, et au dessus, tous ceux d'entre les Israélites, qui pouvaient aller à la guerre;",
+        "OST": "Ainsi tous ceux des enfants d'Israël qui furent dénombrés, selon les maisons de leurs pères, depuis l'âge de vingt ans et au-dessus, tous les Israélites qui pouvaient aller à la guerre,",
+        "S21": "On dénombra en fonction de leur famille tous les Israélites âgés de 20 ans et plus, tous les hommes d'Israël qui étaient aptes au service militaire."
+      }
+    },
+    {
+      "verse": 46,
+      "texts": {
+        "BDS": "était de 603 550.",
+        "DBY": "tous les dénombrés, furent six cent trois mille cinq cent cinquante.",
+        "KJV": "Even all they that were numbered were six hundred thousand and three thousand and five hundred and fifty.",
+        "LSG": "tous ceux dont on fit le dénombrement furent six cent trois mille cinq cent cinquante.",
+        "MAB": "Tous ceux, [dis-je], dont on fit le dénombrement, furent six cent trois mille cinq cent cinquante.",
+        "OST": "Tous ceux qui furent dénombrés, furent six cent trois mille cinq cent cinquante.",
+        "S21": "On dénombra au total 603'550 hommes."
+      }
+    },
+    {
+      "verse": 47,
+      "texts": {
+        "BDS": "Les lévites, en tant que tribu patriarcale, ne furent pas recensés avec les autres tribus.",
+        "DBY": "Mais les Lévites, selon la tribu de leurs pères, ne furent pas dénombrés parmi eux.",
+        "KJV": "But the Levites after the tribe of their fathers were not numbered among them.",
+        "LSG": "Les Lévites, selon la tribu de leurs pères, ne firent point partie de ce dénombrement.",
+        "MAB": "Mais les Lévites ne furent point dénombrés avec eux, selon la Tribu de leurs pères.",
+        "OST": "Mais les Lévites, selon la tribu de leurs pères, ne furent point dénombrés avec eux.",
+        "S21": "Les Lévites, selon la tribu de leurs ancêtres, ne furent pas inclus dans ce dénombrement."
+      }
+    },
+    {
+      "verse": 48,
+      "texts": {
+        "BDS": "En effet, l’Eternel avait dit à Moïse:",
+        "DBY": "Car l'Éternel avait parlé à Moïse, disant:",
+        "KJV": "For the LORD had spoken unto Moses, saying,",
+        "LSG": "L'Eternel parla à Moïse, et dit:",
+        "MAB": "Car l'Eternel avait parlé à Moïse, en disant :",
+        "OST": "Car l'Éternel avait parlé à Moïse, en disant:",
+        "S21": "L'Eternel avait transmis ces instructions à Moïse:"
+      }
+    },
+    {
+      "verse": 49,
+      "texts": {
+        "BDS": "—N’inclus pas la tribu de Lévi dans le recensement et ne les compte pas avec les Israélites.",
+        "DBY": "Seulement, tu ne dénombreras pas la tribu de Lévi et tu n'en relèveras pas la somme parmi les fils d'Israël.",
+        "KJV": "Only thou shalt not number the tribe of Levi, neither take the sum of them among the children of Israel:",
+        "LSG": "Tu ne feras point le dénombrement de la tribu de Lévi, et tu n'en compteras point les têtes au milieu des enfants d'Israël.",
+        "MAB": "Tu ne feras aucun dénombrement de la Tribu de Lévi, et tu n'en lèveras point la somme avec les [autres] enfants d'Israël.",
+        "OST": "Tu ne dénombreras point la tribu de Lévi seulement, et tu n'en feras point le compte au milieu des enfants d'Israël;",
+        "S21": "«Tu ne feras pas le dénombrement de la tribu de Lévi et tu ne compteras pas ses membres au milieu des Israélites."
+      }
+    },
+    {
+      "verse": 50,
+      "texts": {
+        "BDS": "Charge-les du service du tabernacle qui abrite l’acte de l’alliance, de tous ses ustensiles et de tout son matériel; ce sont eux qui transporteront le tabernacle avec tous ses accessoires et qui en assureront le service; ils camperont autour du tabernacle.",
+        "DBY": "Et toi, tu préposeras les Lévites sur le tabernacle du témoignage, et sur tous ses ustensiles, et sur tout ce qui lui appartient: ce seront ceux qui porteront le tabernacle et tous ses ustensiles; ils en feront le service, et camperont autour du tabernacle;",
+        "KJV": "But thou shalt appoint the Levites over the tabernacle of testimony, and over all the vessels thereof, and over all things that [belong] to it: they shall bear the tabernacle, and all the vessels thereof; and they shall minister unto it, and shall encamp round about the tabernacle.",
+        "LSG": "Remets aux soins des Lévites le tabernacle du témoignage, tous ses ustensiles et tout ce qui lui appartient. Ils porteront le tabernacle et tous ses ustensiles, ils en feront le service, et ils camperont autour du tabernacle.",
+        "MAB": "Mais tu donneras aux Lévites la charge du pavillon du Témoignage, et de tous ses ustensiles, et de tout ce qui lui appartient; ils porteront le pavillon, et tous ses ustensiles ; ils y serviront, et camperont autour du pavillon.",
+        "OST": "Mais donne aux Lévites la charge de la Demeure du Témoignage, et de tous ses ustensiles, et de tout ce qui lui appartient. Ce sont eux qui porteront la Demeure et tous ses ustensiles, et qui en feront le service; et ils camperont autour de la Demeure.",
+        "S21": "Confie aux Lévites la responsabilité du tabernacle du témoignage, de tous ses ustensiles et de tout ce qui lui appartient. Ils porteront le tabernacle et tous ses ustensiles, ils en feront le service et ils camperont autour du tabernacle."
+      }
+    },
+    {
+      "verse": 51,
+      "texts": {
+        "BDS": "Quand il sera déplacé, les lévites le démonteront, puis ils le dresseront au nouveau campement. Tout membre étranger à leur tribu qui en approchera sera puni de mort.",
+        "DBY": "et quand le tabernacle partira, les Lévites le démonteront, et quand le tabernacle campera, les Lévites le dresseront; et l'étranger qui en approchera sera mis à mort.",
+        "KJV": "And when the tabernacle setteth forward, the Levites shall take it down: and when the tabernacle is to be pitched, the Levites shall set it up: and the stranger that cometh nigh shall be put to death.",
+        "LSG": "Quand le tabernacle partira, les Lévites le démonteront; quand le tabernacle campera, les Lévites le dresseront; et l'étranger qui en approchera sera puni de mort.",
+        "MAB": "Et quand le pavillon partira, les Lévites le désassembleront, et quand le pavillon campera, ils le dresseront. Que si quelque étranger en approche, on le fera mourir.",
+        "OST": "Et quand la Demeure partira, les Lévites la démonteront; et quand la Demeure campera, les Lévites la dresseront; et l'étranger qui en approchera sera puni de mort.",
+        "S21": "Quand le tabernacle partira, les Lévites le démonteront; quand le tabernacle campera, les Lévites le dresseront. Si quelqu’un d’autre s’en approche, il sera puni de mort."
+      }
+    },
+    {
+      "verse": 52,
+      "texts": {
+        "BDS": "Les Israélites camperont chacun dans l’aire qui lui sera assignée, sous sa bannière, et selon leurs corps d’armée.",
+        "DBY": "Et les fils d'Israël camperont chacun dans son camp, et chacun près de sa bannière, selon leurs armées.",
+        "KJV": "And the children of Israel shall pitch their tents, every man by his own camp, and every man by his own standard, throughout their hosts.",
+        "LSG": "Les enfants d'Israël camperont chacun dans son camp, chacun près de sa bannière, selon leurs divisions.",
+        "MAB": "Or les enfants d'Israël camperont chacun en son quartier, et chacun sous son enseigne, selon leurs troupes.",
+        "OST": "Or, les enfants d'Israël camperont chacun dans son camp, et chacun près de sa bannière, selon leurs armées.",
+        "S21": "Les Israélites camperont chacun dans son camp, chacun près de son étendard, selon leurs corps d’armée."
+      }
+    },
+    {
+      "verse": 53,
+      "texts": {
+        "BDS": "Les lévites camperont autour du tabernacle qui abrite l’acte de l’alliance, pour que ma colère ne s’abatte pas sur la communauté des Israélites. Les lévites prendront soin du tabernacle.",
+        "DBY": "Et les Lévites camperont autour du tabernacle du témoignage, afin qu'il n'y ait point de colère sur l'assemblée des fils d'Israël; et les Lévites auront la garde du tabernacle du témoignage.",
+        "KJV": "But the Levites shall pitch round about the tabernacle of testimony, that there be no wrath upon the congregation of the children of Israel: and the Levites shall keep the charge of the tabernacle of testimony.",
+        "LSG": "Mais les Lévites camperont autour du tabernacle du témoignage, afin que ma colère n'éclate point sur l'assemblée des enfants d'Israël; et les Lévites auront la garde du tabernacle du témoignage.",
+        "MAB": "Mais les Lévites camperont autour du pavillon du Témoignage, afin qu'il n'y ait point d'indignation sur l'assemblée des enfants d'Israël, et ils prendront en leur charge le pavillon du Témoignage.",
+        "OST": "Mais les Lévites camperont autour de la Demeure du Témoignage, afin qu'il n'y ait point d'indignation contre l'assemblée des enfants d'Israël; et les Lévites auront la garde de la Demeure du Témoignage.",
+        "S21": "Les Lévites, quant à eux, camperont autour du tabernacle du témoignage afin que ma colère n'éclate pas contre l'assemblée des Israélites. Les Lévites auront la responsabilité du tabernacle du témoignage.»"
+      }
+    },
+    {
+      "verse": 54,
+      "texts": {
+        "BDS": "Les Israélites obéirent à tous les ordres que l’Eternel avait donnés à Moïse et les accomplirent.",
+        "DBY": "Et les fils d'Israël firent selon tout ce que l'Éternel avait commandé à Moïse; ils firent ainsi.",
+        "KJV": "And the children of Israel did according to all that the LORD commanded Moses, so did they.",
+        "LSG": "Les enfants d'Israël se conformèrent à tous les ordres que l'Eternel avait donnés à Moïse; ils firent ainsi.",
+        "MAB": "Et les enfants d'Israël firent selon toutes les choses que l'Eternel avait commandées à Moïse; ils le firent ainsi.",
+        "OST": "Et les enfants d'Israël firent tout ce que l'Éternel avait commandé à Moïse; ils firent ainsi.",
+        "S21": "Les Israélites se conformèrent à tous les ordres que l'Eternel avait donnés à Moïse, c’est ce qu’ils firent."
+      }
+    }
+  ]
+}

@@ -1,0 +1,594 @@
+{
+  "bookCode": "DAN",
+  "chapter": 2,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "La seconde année du règne de Nabuchodonosor, le roi fit un rêve qui le troubla au point qu’il en perdit le sommeil.",
+        "DBY": "Et en la seconde année du règne de Nebucadnetsar, Nebucadnetsar songea des songes, et son esprit fut agité, et son sommeil le quitta.",
+        "KJV": "And in the second year of the reign of Nebuchadnezzar Nebuchadnezzar dreamed dreams, wherewith his spirit was troubled, and his sleep brake from him.",
+        "LSG": "La seconde année du règne de Nebucadnetsar, Nebucadnetsar eut des songes. Il avait l'esprit agité, et ne pouvait dormir.",
+        "MAB": "Or en la seconde année du règne de Nébucadnetsar, Nébucadnetsar songea des songes, et son esprit fut ému, et son sommeil finit.",
+        "OST": "Or, la seconde année du règne de Nébucadnetsar, Nébucadnetsar eut des songes; et son esprit fut troublé, et son sommeil interrompu.",
+        "S21": "La deuxième année de son règne, Nebucadnetsar eut des rêves. Il en eut l'esprit troublé et ne parvint plus à dormir."
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "Il ordonna de convoquer les mages, les magiciens, les devins et les astrologues pour qu’ils lui révèlent ses rêves. Ils vinrent et se tinrent devant le roi.",
+        "DBY": "Et le roi commanda d'appeler les devins, et les enchanteurs, et les magiciens, et les Chaldéens, pour exposer au roi ses songes; et ils vinrent et se tinrent devant le roi.",
+        "KJV": "Then the king commanded to call the magicians, and the astrologers, and the sorcerers, and the Chaldeans, for to shew the king his dreams. So they came and stood before the king.",
+        "LSG": "Le roi fit appeler les magiciens, les astrologues, les enchanteurs et les Chaldéens, pour qu'ils lui disent ses songes. Ils vinrent, et se présentèrent devant le roi.",
+        "MAB": "Alors le Roi commanda qu'on appelât les magiciens, et les astrologues, et les enchanteurs, et les Caldéens, pour expliquer au Roi ses songes; ils vinrent donc et se présentèrent devant le Roi.",
+        "OST": "Et le roi ordonna d'appeler les magiciens, les astrologues, les enchanteurs et les Caldéens, pour lui expliquer ses songes. Et ils vinrent et se présentèrent devant le roi.",
+        "S21": "Le roi fit appeler les magiciens, les astrologues, les sorciers et les prêtres chaldéens pour qu'ils lui racontent ses rêves. Ils vinrent et se présentèrent devant le roi."
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "Celui-ci leur dit:\r\n—J’ai fait un rêve et mon esprit est tourmenté par le désir de savoir ce que c’était.",
+        "DBY": "Et le roi leur dit: J'ai songé un songe, et mon esprit est agité pour connaître le songe.",
+        "KJV": "And the king said unto them, I have dreamed a dream, and my spirit was troubled to know the dream.",
+        "LSG": "Le roi leur dit: J'ai eu un songe; mon esprit est agité, et je voudrais connaître ce songe.",
+        "MAB": "Et le Roi leur dit : J'ai songé un songe, et mon esprit s'est agité, tâchant de savoir le songe.",
+        "OST": "Alors le roi leur dit: J'ai eu un songe; et mon esprit s'est agité pour connaître ce songe.",
+        "S21": "Le roi leur dit: «J'ai fait un rêve. Mon esprit est troublé parce que je voudrais connaître ce rêve.»"
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "Les astrologues dirent au roi en langue araméenne:\r\n—Que le roi vive éternellement! Raconte le rêve à tes serviteurs, et nous t’en donnerons l’interprétation.",
+        "DBY": "Et les Chaldéens dirent au roi, en syriaque: O roi, vis à jamais! Dis le songe à tes serviteurs, et nous en indiquerons l'interprétation.",
+        "KJV": "Then spake the Chaldeans to the king in Syriack, O king, live for ever: tell thy servants the dream, and we will shew the interpretation.",
+        "LSG": "Les Chaldéens répondirent au roi en langue araméenne: O roi, vis éternellement! dis le songe à tes serviteurs, et nous en donnerons l'explication.",
+        "MAB": "Et les Caldéens répondirent au Roi en langue Syriaque : Roi, vis éternellement! dis le songe à tes serviteurs, et nous en donnerons l'interprétation.",
+        "OST": "Et les Caldéens dirent au roi: (langue araméenne) O roi, vis éternellement! Dis le songe à tes serviteurs, et nous en donnerons l'interprétation.",
+        "S21": "Les prêtres chaldéens répondirent au roi en araméen: «Roi, puisses-tu vivre toujours! Raconte le rêve à tes serviteurs et nous en révélerons l'explication.»"
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "Le roi répondit aux astrologues:\r\n—Ma décision est ferme: si vous ne me révélez pas le contenu du rêve et son interprétation, vous serez mis en pièces et vos maisons seront réduites en tas de décombres.",
+        "DBY": "Le roi répondit et dit aux Chaldéens: La chose est par moi prononcée: si vous ne me faites pas connaître le songe et son interprétation, vous serez mis en pièces, et vos maisons seront réduites en tas d'immondices;",
+        "KJV": "The king answered and said to the Chaldeans, The thing is gone from me: if ye will not make known unto me the dream, with the interpretation thereof, ye shall be cut in pieces, and your houses shall be made a dunghill.",
+        "LSG": "Le roi reprit la parole et dit aux Chaldéens: La chose m'a échappé; si vous ne me faites connaître le songe et son explication, vous serez mis en pièces, et vos maisons seront réduites en un tas d'immondices.",
+        "MAB": "[Mais] le Roi répondit, et dit aux Caldéens : La chose m'est échappée; si vous ne me faites connaître le songe et son interprétation, vous serez mis en pièces, et vos maisons seront réduites en voirie.",
+        "OST": "Le roi répondit, et dit aux Caldéens: La chose m'a échappé. Si vous ne me faites connaître le songe et son interprétation, vous serez mis en pièces, et vos maisons réduites en voirie.",
+        "S21": "Le roi reprit la parole et dit aux prêtres chaldéens: «Voici ce que j’ai décidé: si vous ne me faites pas connaître le rêve et son explication, vous serez mis en pièces et vos maisons seront transformées en un tas de décombres."
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "Mais si vous me les révélez, je vous comblerai de cadeaux, de dons et de grands honneurs. Exposez-moi donc mon rêve et ce qu’il signifie.",
+        "DBY": "mais, si vous indiquez le songe et son interprétation, vous recevrez de ma part des dons, et des présents, et de grands honneurs. Indiquez-moi donc le songe et son interprétation.",
+        "KJV": "But if ye shew the dream, and the interpretation thereof, ye shall receive of me gifts and rewards and great honour: therefore shew me the dream, and the interpretation thereof.",
+        "LSG": "Mais si vous me dites le songe et son explication, vous recevrez de moi des dons et des présents, et de grands honneurs. C'est pourquoi dites-moi le songe et son explication.",
+        "MAB": "Mais si vous me manifestez le songe et son interprétation; vous recevrez de moi des dons, des largesses, et un grand honneur; quoi qu'il en soit, manifestez-moi le songe et son interprétation.",
+        "OST": "Mais si vous me dites le songe et son interprétation, vous recevrez de moi des dons, des présents et de grands honneurs. Dites-moi donc le songe et son interprétation.",
+        "S21": "En revanche, si vous me révélez le rêve et son explication, vous recevrez de ma part des cadeaux, des récompenses et de grands honneurs. C'est pourquoi, révélez-moi le rêve et son explication!»"
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "Ils dirent pour la seconde fois au roi:\r\n—Que Sa Majesté raconte le rêve à ses serviteurs, et nous lui en donnerons l’interprétation.",
+        "DBY": "Ils répondirent pour la seconde fois et dirent: Que le roi dise le songe à ses serviteurs, et nous en indiquerons l'interprétation.",
+        "KJV": "They answered again and said, Let the king tell his servants the dream, and we will shew the interpretation of it.",
+        "LSG": "Ils répondirent pour la seconde fois: Que le roi dise le songe à ses serviteurs, et nous en donnerons l'explication.",
+        "MAB": "Ils répondirent pour la seconde fois, et dirent : Que le Roi dise le songe à ses serviteurs, et nous en donnerons l'interprétation.",
+        "OST": "Ils répondirent pour la seconde fois et dirent: Que le roi dise le songe à ses serviteurs, et nous en donnerons l'interprétation.",
+        "S21": "Ils répondirent, pour la deuxième fois: «Que le roi raconte le rêve à ses serviteurs et nous en révélerons l'explication!»"
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "Le roi rétorqua:\r\n—Je vois ce qu’il en est: il est clair que vous cherchez à gagner du temps parce que vous avez compris que ma décision est fermement arrêtée.",
+        "DBY": "Le roi répondit et dit: Je sais très-certainement que vous voulez gagnez du temps, parce que vous voyez que la chose est par moi prononcée;",
+        "KJV": "The king answered and said, I know of certainty that ye would gain the time, because ye see the thing is gone from me.",
+        "LSG": "Le roi reprit la parole et dit: Je m'aperçois, en vérité, que vous voulez gagner du temps, parce que vous voyez que la chose m'a échappé.",
+        "MAB": "Le Roi répondit, et dit : Je connais maintenant que vous ne cherchez qu'à gagner du temps, parce que vous voyez que la chose m'est échappée.",
+        "OST": "Le roi répondit et dit: Je comprends maintenant que vous cherchez à gagner du temps, parce que vous voyez que la chose m'a échappé.",
+        "S21": "Le roi reprit la parole et dit: «Je m'aperçois, en vérité, que vous cherchez à gagner du temps parce que vous voyez que ma décision est prise."
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "Si vous ne me faites pas connaître le rêve, une seule et même sentence vous frappera. Vous vous êtes mis d’accord pour me débiter quelque discours mensonger et trompeur en espérant qu’avec le temps la situation changera. C’est pourquoi, dites-moi ce que j’ai rêvé et je saurai que vous êtes aussi capables de m’en donner l’interprétation.",
+        "DBY": "or, si vous ne me faites pas connaître le songe, il y a un seul et même décret pour vous; car vous avez préparé une parole mensongère et perverse pour la dire devant moi, en attendant que le temps ait changé. C'est pourquoi, dites-moi le songe, et je saurai que vous pouvez m'en indiquer l'interprétation.",
+        "KJV": "But if ye will not make known unto me the dream, [there is but] one decree for you: for ye have prepared lying and corrupt words to speak before me, till the time be changed: therefore tell me the dream, and I shall know that ye can shew me the interpretation thereof.",
+        "LSG": "Si donc vous ne me faites pas connaître le songe, la même sentence vous enveloppera tous; vous voulez vous préparer à me dire des mensonges et des faussetés, en attendant que les temps soient changés. C'est pourquoi dites-moi le songe, et je saurai si vous êtes capables de m'en donner l'explication.",
+        "MAB": "Mais si vous ne me faites pas connaître le songe, il y a une même sentence contre vous; car vous vous êtes préparés pour dire devant moi quelque parole fausse et perverse, en attendant que le temps soit changé. Quoi qu'il en soit, dites-moi le songe, et je saurai que vous m'en pouvez donner l'interprétation.",
+        "OST": "Mais si vous ne me faites pas connaître le songe, la même sentence vous frappera tous; car vous vous êtes préparés à me dire quelque parole fausse et mensongère, en attendant que le temps soit changé. Dites-moi donc le songe, et je saurai si vous pouvez m'en donner l'interprétation.",
+        "S21": "Si donc vous ne me faites pas connaître le rêve, le même décret s’appliquera à vous tous. Vous vous êtes concertés pour me débiter des mensonges et des faussetés en attendant que les circonstances changent. C'est pourquoi, dites-moi quel était le rêve et je saurai que vous êtes vraiment capables de m'en révéler l'explication.»"
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "Les astrologues reprirent la parole devant le roi et dirent:\r\n—Il n’est personne au monde qui puisse faire connaître à Sa Majesté ce qu’elle demande. Aussi, jamais roi, si grand et si puissant qu’il ait été, n’a exigé pareille chose d’aucun mage, magicien ou astrologue.",
+        "DBY": "Les Chaldéens répondirent devant le roi et dirent: Il n'existe pas un homme sur la terre qui puisse indiquer la chose que le roi demande; c'est pourquoi aucun roi, quelque grand et puissant qu'il fût, n'a demandé chose pareille d'aucun devin, ou enchanteur, ou Chaldéen;",
+        "KJV": "The Chaldeans answered before the king, and said, There is not a man upon the earth that can shew the king's matter: therefore [there is] no king, lord, nor ruler, [that] asked such things at any magician, or astrologer, or Chaldean.",
+        "LSG": "Les Chaldéens répondirent au roi: Il n'est personne sur la terre qui puisse dire ce que demande le roi; aussi jamais roi, quelque grand et puissant qu'il ait été, n'a exigé une pareille chose d'aucun magicien, astrologue ou Chaldéen.",
+        "MAB": "Les Caldéens répondirent au Roi, et dirent : Il n'y a aucun homme sur la terre qui puisse exécuter ce que le Roi demande; et aussi il n'y a ni Roi, ni Seigneur, ni Gouverneur qui ait jamais demandé une telle chose à quelque magicien, astrologue, ou Caldéen que ce soit.",
+        "OST": "Les Caldéens répondirent au roi et dirent: Il n'y a aucun homme sur la terre qui puisse faire ce que demande le roi; aussi jamais roi, quelque grand et puissant qu'il fût, n'a demandé pareille chose à aucun magicien, astrologue ou Caldéen.",
+        "S21": "Les prêtres chaldéens répondirent au roi: «Il n'y a personne sur la terre qui puisse faire ce que demande le roi. C’est pourquoi jamais aucun roi, aussi grand et puissant qu'il ait été, n'a exigé une pareille chose d'un magicien, d’un astrologue ou d’un prêtre chaldéen."
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "Ce que le roi demande est trop difficile et il n’y a personne qui soit capable de révéler cette chose au roi, excepté les dieux, mais eux, ils n’habitent pas parmi les mortels.",
+        "DBY": "et la chose que le roi demande est difficile, et il n'existe personne qui puisse l'indiquer devant le roi, excepté les dieux, dont la demeure n'est pas avec la chair.",
+        "KJV": "And [it is] a rare thing that the king requireth, and there is none other that can shew it before the king, except the gods, whose dwelling is not with flesh.",
+        "LSG": "Ce que le roi demande est difficile; il n'y a personne qui puisse le dire au roi, excepté les dieux, dont la demeure n'est pas parmi les hommes.",
+        "MAB": "Car la chose que le Roi demande est extrêmement difficile et il n'y a que les dieux, lesquels n'ont aucune fréquentation avec la chair, qui la puissent déclarer au Roi.",
+        "OST": "Car ce que le roi demande est difficile, et il n'y a personne qui puisse le faire connaître au roi, excepté les dieux, dont l'habitation n'est point parmi les mortels.",
+        "S21": "Ce que le roi demande est difficile. Il n'y a personne qui puisse faire une telle révélation au roi, mis à part les dieux. Or, ils n’habitent pas parmi les hommes.»"
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "Là-dessus le roi s’irrita et entra dans une colère violente. Il ordonna de mettre à mort tous les sages de Babylone.",
+        "DBY": "A cause de cela, le roi s'irrita et se mit dans une très-grande colère, et commanda de détruire tous les sages de Babylone.",
+        "KJV": "For this cause the king was angry and very furious, and commanded to destroy all the wise [men] of Babylon.",
+        "LSG": "Là-dessus le roi se mit en colère, et s'irrita violemment. Il ordonna qu'on fasse périr tous les sages de Babylone.",
+        "MAB": "C'est pourquoi le Roi commanda avec grande colère et indignation qu'on mît à mort tous les sages de Babylone.",
+        "OST": "Sur cela, le roi s'irrita et se mit dans une grande colère, et il commanda de faire périr tous les sages de Babylone.",
+        "S21": "Cela mit le roi en colère. Il fut si irrité qu’il ordonna de faire mourir tous les sages de Babylone."
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "Lorsque le décret de tuer les sages fut publié, on rechercha aussi Daniel et ses compagnons pour les mettre à mort.",
+        "DBY": "Et un décret fut promulgué portant que les sages fussent tués; et on chercha Daniel et ses compagnons, pour les tuer.",
+        "KJV": "And the decree went forth that the wise [men] should be slain; and they sought Daniel and his fellows to be slain.",
+        "LSG": "La sentence fut publiée, les sages étaient mis à mort, et l'on cherchait Daniel et ses compagnons pour les faire périr.",
+        "MAB": "La sentence donc fut publiée, et on tuait les sages; et on cherchait Daniel et ses compagnons, pour les tuer.",
+        "OST": "La sentence fut donc publiée; on mettait à mort tous les sages, et l'on cherchait Daniel et ses compagnons pour les faire mourir.",
+        "S21": "Le décret ordonnant la mise à mort des sages fut proclamé et l’on recherchait aussi Daniel et ses compagnons pour les exécuter."
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "Alors Daniel s’adressa avec sagesse et tact à Aryok, le chef des bourreaux du roi, qui s’apprêtait à tuer les sages de Babylone.",
+        "DBY": "Alors Daniel répondit avec prudence et avec sens à Arioc, chef des gardes du roi, qui était sorti pour tuer les sages de Babylone;",
+        "KJV": "Then Daniel answered with counsel and wisdom to Arioch the captain of the king's guard, which was gone forth to slay the wise [men] of Babylon:",
+        "LSG": "Alors Daniel s'adressa d'une manière prudente et sensée à Arjoc, chef des gardes du roi, qui était sorti pour mettre à mort les sages de Babylone.",
+        "MAB": "Alors Daniel détourna [l'exécution] du conseil, et de l'arrêt donné à Arioc, prévôt de l'hôtel du Roi, qui était sorti pour tuer les sages de Babylone.",
+        "OST": "Alors Daniel parla avec prudence et sagesse à Arioc, chef des gardes du roi, qui sortait pour mettre à mort les sages de Babylone.",
+        "S21": "Daniel s'adressa alors avec bon sens et tact à Arjoc, le responsable des gardes du roi qui était sorti pour mettre à mort les sages de Babylone."
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "Il demanda à Aryok, l’officier du roi:\r\n—Pourquoi le roi a-t-il promulgué une si terrible sentence?\r\nAlors Aryok lui exposa l’affaire.",
+        "DBY": "il répondit et dit à Arioc, le grand officier du roi: Pourquoi ce décret est-il si rigoureux de par le roi? Alors Arioc fit connaître la chose à Daniel.",
+        "KJV": "He answered and said to Arioch the king's captain, Why [is] the decree [so] hasty from the king? Then Arioch made the thing known to Daniel.",
+        "LSG": "Il prit la parole et dit à Arjoc, commandant du roi: Pourquoi la sentence du roi est-elle si sévère? Arjoc exposa la chose à Daniel.",
+        "MAB": "Et il demanda et dit à Arioc, commissaire du Roi : Pourquoi la sentence est-elle si pressante de par le Roi? Et Arioc déclara le fait à Daniel.",
+        "OST": "Prenant la parole, il dit à Arioc, le grand officier du roi: Pourquoi cette sentence si sévère de la part du roi? Alors Arioc fit connaître l'affaire à Daniel.",
+        "S21": "Prenant la parole, il dit à Arjoc, l’officier du roi: «Pourquoi le décret du roi est-il si sévère?» Arjoc exposa la situation à Daniel."
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "Daniel se rendit auprès du roi et le pria de lui accorder un délai, en lui disant qu’il lui ferait alors connaître l’interprétation demandée.",
+        "DBY": "Et Daniel entra et demanda au roi de lui accorder du temps pour indiquer au roi l'interprétation.",
+        "KJV": "Then Daniel went in, and desired of the king that he would give him time, and that he would shew the king the interpretation.",
+        "LSG": "Et Daniel se rendit vers le roi, et le pria de lui accorder du temps pour donner au roi l'explication.",
+        "MAB": "Et Daniel entra, et pria le Roi de lui donner du temps, et qu'il donnerait l'interprétation au Roi.",
+        "OST": "Et Daniel entra et pria le roi de lui accorder du temps pour donner l'interprétation au roi.",
+        "S21": "Celui-ci alla alors trouver le roi et lui demanda de lui accorder un délai pour lui révéler l’explication."
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "Puis il rentra chez lui et informa ses compagnons Hanania, Michaël et Azaria de ce qui s’était passé,",
+        "DBY": "Alors Daniel s'en alla à sa maison et fit connaître la chose à Hanania, Mishaël et Azaria, ses compagnons,",
+        "KJV": "Then Daniel went to his house, and made the thing known to Hananiah, Mishael, and Azariah, his companions:",
+        "LSG": "Ensuite Daniel alla dans sa maison, et il instruisit de cette affaire Hanania, Mischaël et Azaria, ses compagnons,",
+        "MAB": "Alors Daniel alla en sa maison, et déclara l'affaire à Hanania, à Misaël, et à Hazaria, ses compagnons;",
+        "OST": "Puis Daniel alla dans sa maison et informa de cette affaire Hanania, Mishaël et Azaria, ses compagnons,",
+        "S21": "Daniel rentra ensuite chez lui et exposa la situation à ses compagnons Hanania, Mishaël et Azaria."
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "en leur demandant de supplier le Dieu des cieux que, dans sa grâce, il leur révèle ce secret afin qu’on ne le fasse pas périr, ses compagnons et lui, avec le reste des sages de Babylone.",
+        "DBY": "pour implorer, de la part du Dieu des cieux, ses compassions au sujet de ce secret, afin que Daniel et ses compagnons ne fussent pas détruits avec le reste des sages de Babylone.",
+        "KJV": "That they would desire mercies of the God of heaven concerning this secret; that Daniel and his fellows should not perish with the rest of the wise [men] of Babylon.",
+        "LSG": "les engageant à implorer la miséricorde du Dieu des cieux, afin qu'on ne fît pas périr Daniel et ses compagnons avec le reste des sages de Babylone.",
+        "MAB": "Qui implorèrent la miséricorde du Dieu des cieux sur ce secret, afin qu'on ne mît point à mort Daniel et ses compagnons, avec le reste des sages de Babylone.",
+        "OST": "Pour implorer la miséricorde du Dieu des cieux touchant ce secret, afin qu'on ne fit point périr Daniel et ses compagnons, avec le reste des sages de Babylone.",
+        "S21": "Il les invita à implorer la compassion du Dieu du ciel afin qu'on ne les fasse pas mourir, lui et ses compagnons, avec le reste des sages de Babylone."
+      }
+    },
+    {
+      "verse": 19,
+      "texts": {
+        "BDS": "Au cours de la nuit, dans une vision, le secret fut révélé à Daniel. Alors celui-ci loua le Dieu des cieux:",
+        "DBY": "Alors le secret fut révélé à Daniel dans une vision de la nuit. Alors Daniel bénit le Dieu des cieux.",
+        "KJV": "Then was the secret revealed unto Daniel in a night vision. Then Daniel blessed the God of heaven.",
+        "LSG": "Alors le secret fut révélé à Daniel dans une vision pendant la nuit. Et Daniel bénit le Dieu des cieux.",
+        "MAB": "Et le secret fut révélé à Daniel dans une vision de nuit, et là-dessus Daniel bénit le Dieu des cieux.",
+        "OST": "Alors le secret fut révélé à Daniel, dans une vision, pendant la nuit. Et Daniel bénit le Dieu des cieux.",
+        "S21": "C’est alors que le secret fut révélé à Daniel dans une vision pendant la nuit. Il bénit le Dieu du ciel"
+      }
+    },
+    {
+      "verse": 20,
+      "texts": {
+        "BDS": "Il dit:\r\n«Loué soit Dieu\r\ndès maintenant et à toujours,",
+        "DBY": "Daniel répondit et dit: Béni soit le nom de Dieu, d'éternité en éternité! car la sagesse et la puissance sont à lui,",
+        "KJV": "Daniel answered and said, Blessed be the name of God for ever and ever: for wisdom and might are his:",
+        "LSG": "Daniel prit la parole et dit: Béni soit le nom de Dieu, d'éternité en éternité! A lui appartiennent la sagesse et la force.",
+        "MAB": "Daniel [donc] prenant la parole, dit : Béni soit le nom de Dieu, depuis un siècle jusqu'à l'autre; car à lui est la sagesse et la force.",
+        "OST": "Daniel prit la parole et dit: Béni soit le nom de Dieu, d'éternité en éternité; car c'est à lui qu'appartiennent la sagesse et la force!",
+        "S21": "en disant: «Que le nom de Dieu soit béni d’éternité en éternité! C’est à lui qu’appartiennent la sagesse et la force."
+      }
+    },
+    {
+      "verse": 21,
+      "texts": {
+        "BDS": "car à lui appartiennent la sagesse et la force.\r\nIl fait changer les temps et modifie les circonstances,\r\nil renverse les rois\r\net élève les rois,\r\nil donne la sagesse aux sages\r\net, à ceux qui savent comprendre, il accorde la connaissance.",
+        "DBY": "et c'est lui qui change les temps et les saisons, qui dépose les rois et établit les rois, qui donne la sagesse aux sages et la connaissance à ceux qui connaissent l'intelligence:",
+        "KJV": "And he changeth the times and the seasons: he removeth kings, and setteth up kings: he giveth wisdom unto the wise, and knowledge to them that know understanding:",
+        "LSG": "C'est lui qui change les temps et les circonstances, qui renverse et qui établit les rois, qui donne la sagesse aux sages et la science à ceux qui ont de l'intelligence.",
+        "MAB": "Et c'est lui qui change les temps et les saisons, qui ôte les Rois, et qui établit les Rois, qui donne la sagesse aux sages, et la connaissance à ceux qui ont de l'intelligence.",
+        "OST": "Et c'est lui qui change les temps et les moments; qui dépose les rois et qui les établit; qui donne la sagesse aux sages, et la science à ceux qui ont de l'intelligence.",
+        "S21": "C'est lui qui change les temps et les circonstances, qui renverse et établit les rois, qui donne la sagesse aux sages et la connaissance à ceux qui ont de l'intelligence."
+      }
+    },
+    {
+      "verse": 22,
+      "texts": {
+        "BDS": "Il dévoile des choses profondes et secrètes,\r\nil sait ce qu’il y a dans les ténèbres,\r\net la lumière brille auprès de lui.",
+        "DBY": "c'est lui qui révèle les choses profondes et secrètes; il sait ce qui est dans les ténèbres, et la lumière demeure auprès de lui.",
+        "KJV": "He revealeth the deep and secret things: he knoweth what [is] in the darkness, and the light dwelleth with him.",
+        "LSG": "Il révèle ce qui est profond et caché, il connaît ce qui est dans les ténèbres, et la lumière demeure avec lui.",
+        "MAB": "C'est lui qui découvre les choses profondes et cachées, il connaît les choses qui sont dans les ténèbres, et la lumière demeure avec lui.",
+        "OST": "C'est lui qui révèle les choses profondes et cachées. Il connaît ce qui est dans les ténèbres, et la lumière demeure avec lui.",
+        "S21": "C’est lui qui dévoile ce qui est profondément enfoui et caché, qui connaît ce qui est dans les ténèbres, et la lumière réside auprès de lui."
+      }
+    },
+    {
+      "verse": 23,
+      "texts": {
+        "BDS": "C’est toi, Dieu de mes pères,\r\nque je célèbre et que je loue,\r\ntu m’as rempli de sagesse et de force\r\net tu m’as fait connaître ce que nous t’avons demandé,\r\ntu nous as révélé ce que le roi demande.»",
+        "DBY": "Toi, Dieu de mes pères, je te célèbre et je te loue, parce que tu m'as donné sagesse et puissance, et que maintenant tu m'as fait connaître ce que nous t'avons demandé, nous ayant fait connaître la chose que réclame le roi.",
+        "KJV": "I thank thee, and praise thee, O thou God of my fathers, who hast given me wisdom and might, and hast made known unto me now what we desired of thee: for thou hast [now] made known unto us the king's matter.",
+        "LSG": "Dieu de mes pères, je te glorifie et je te loue de ce que tu m'as donné la sagesse et la force, et de ce que tu m'as fait connaître ce que nous t'avons demandé, de ce que tu nous as révélé le secret du roi.",
+        "MAB": "Ô Dieu de nos pères! je te célèbre et te loue de ce que tu m'as donné de la sagesse et de la force, et de ce que tu m'as maintenant fait savoir ce que nous t'avons demandé, en nous ayant fait connaître la parole du Roi.",
+        "OST": "O Dieu de mes pères! je te célèbre et je te loue de ce que tu m'as donné sagesse et force, et de ce que tu m'as fait connaître maintenant ce que nous t'avons demandé; car tu nous as révélé l'affaire du roi.",
+        "S21": "Dieu de mes ancêtres, je te dis toute ma reconnaissance et ma louange parce que tu m'as donné la sagesse et la force et parce que tu m'as fait connaître ce que nous t'avons demandé, parce que tu nous as fait connaître ce qui concerne le roi.»"
+      }
+    },
+    {
+      "verse": 24,
+      "texts": {
+        "BDS": "Après cela, Daniel alla trouver Aryok, que le roi avait chargé de faire périr les sages de Babylone et il lui dit:\r\n—Ne fais pas mourir les sages de Babylone. Introduis-moi en présence du roi et je lui révélerai l’interprétation de son rêve.",
+        "DBY": "C'est pourquoi Daniel entra auprès d'Arioc, que le roi avait établi pour détruire les sages de Babylone; il alla, et lui parla ainsi: Ne détruis pas les sages de Babylone; conduis-moi devant le roi, et j'indiquerai au roi l'interprétation.",
+        "KJV": "Therefore Daniel went in unto Arioch, whom the king had ordained to destroy the wise [men] of Babylon: he went and said thus unto him; Destroy not the wise [men] of Babylon: bring me in before the king, and I will shew unto the king the interpretation.",
+        "LSG": "Après cela, Daniel se rendit auprès d'Arjoc, à qui le roi avait ordonné de faire périr les sages de Babylone; il alla, et lui parla ainsi: Ne fais pas périr les sages de Babylone! Conduis-moi devant le roi, et je donnerai au roi l'explication.",
+        "MAB": "C'est pourquoi Daniel alla vers Arioc, que le Roi avait commis pour faire mourir les sages de Babylone, et étant arrivé, il lui parla ainsi : Ne fais point mettre à mort les sages de Babylone, [mais] fais-moi entrer devant le Roi, et je donnerai au Roi l'interprétation [qu'il souhaite].",
+        "OST": "C'est pourquoi Daniel alla vers Arioc, à qui le roi avait ordonné de faire périr tous les sages de Babylone; il alla et lui parla ainsi: Ne fais pas périr tous les sages de Babylone. Introduis-moi auprès du roi, et je donnerai au roi l'interprétation.",
+        "S21": "Après cela, Daniel alla trouver Arjoc, celui que le roi avait chargé de faire mourir les sages de Babylone. Il alla lui dire: «Ne fais pas mourir les sages de Babylone! Conduis-moi devant le roi et je lui révélerai l'explication.»"
+      }
+    },
+    {
+      "verse": 25,
+      "texts": {
+        "BDS": "Alors Aryok s’empressa d’introduire Daniel auprès du roi et dit à celui-ci:\r\n—J’ai trouvé parmi les déportés de Juda un homme qui donnera à Sa Majesté l’interprétation de son rêve.",
+        "DBY": "Alors Arioc fit entrer Daniel en hâte devant le roi, et lui parla ainsi: J'ai trouvé un homme, des fils de la captivité de Juda, qui fera connaître au roi l'interprétation.",
+        "KJV": "Then Arioch brought in Daniel before the king in haste, and said thus unto him, I have found a man of the captives of Judah, that will make known unto the king the interpretation.",
+        "LSG": "Arjoc conduisit promptement Daniel devant le roi, et lui parla ainsi: J'ai trouvé parmi les captifs de Juda un homme qui donnera l'explication au roi.",
+        "MAB": "Alors Arioc fit promptement entrer Daniel devant le Roi, et lui parla ainsi : J'ai trouvé un homme d'entre ceux qui ont été emmenés captifs de Juda qui donnera au Roi l'interprétation [de son songe.]",
+        "OST": "Alors Arioc introduisit promptement Daniel auprès du roi, et lui parla ainsi: J'ai trouvé parmi les captifs de Juda un homme qui donnera au roi l'interprétation.",
+        "S21": "Arjoc conduisit aussitôt Daniel devant le roi et lui dit: «J'ai trouvé parmi les exilés de Juda un homme qui fera connaître l'explication au roi.»"
+      }
+    },
+    {
+      "verse": 26,
+      "texts": {
+        "BDS": "Le roi s’adressa à Daniel, surnommé Beltchatsar, et lui demanda:\r\n—Es-tu vraiment capable de me révéler le rêve que j’ai eu et de m’en donner l’interprétation?",
+        "DBY": "Le roi répondit et dit à Daniel, dont le nom était Belteshatsar: Peux-tu me faire connaître le songe que j'ai vu et son interprétation?",
+        "KJV": "The king answered and said to Daniel, whose name [was] Belteshazzar, Art thou able to make known unto me the dream which I have seen, and the interpretation thereof?",
+        "LSG": "Le roi prit la parole et dit à Daniel, qu'on nommait Beltschatsar: Es-tu capable de me faire connaître le songe que j'ai eu et son explication?",
+        "MAB": "Et le Roi prenant la parole, dit à Daniel, qui avait nom Beltesatsar : Me pourras-tu faire connaître le songe que j'ai vu, et son interprétation?",
+        "OST": "Le roi prit la parole et dit à Daniel, qu'on appelait Beltshatsar: Es-tu capable de me faire connaître le songe que j'ai eu et son interprétation?",
+        "S21": "Prenant la parole, le roi dit à Daniel, qu'on appelait Beltshatsar: «Es-tu capable de me faire connaître le rêve que j'ai eu et son explication?»"
+      }
+    },
+    {
+      "verse": 27,
+      "texts": {
+        "BDS": "Daniel s’adressa au roi et lui dit:\r\n—Le secret que Sa Majesté demande, aucun sage, aucun magicien, aucun mage, aucun enchanteur n’est capable de le lui faire connaître.",
+        "DBY": "Daniel répondit devant le roi, et dit: Le secret que le roi demande, les sages, les enchanteurs, les devins, les augures, n'ont pu l'indiquer au roi;",
+        "KJV": "Daniel answered in the presence of the king, and said, The secret which the king hath demanded cannot the wise [men], the astrologers, the magicians, the soothsayers, shew unto the king;",
+        "LSG": "Daniel répondit en présence du roi et dit: Ce que le roi demande est un secret que les sages, les astrologues, les magiciens et les devins, ne sont pas capables de découvrir au roi.",
+        "MAB": "Et Daniel répondit en la présence du Roi, et dit : Le secret que le Roi demande [est tel], que ni les astrologues, ni les magiciens, ni les devins, ne le peuvent point découvrir au Roi.",
+        "OST": "Daniel répondit en présence du roi et dit: Le secret que le roi demande, ni les sages, ni les astrologues, ni les magiciens, ni les devins ne sont capables de le découvrir au roi.",
+        "S21": "Daniel fit cette réponse devant le roi: «Ce que le roi demande est un secret que les sages, les astrologues, les magiciens et les devins ne sont pas capables de lui révéler."
+      }
+    },
+    {
+      "verse": 28,
+      "texts": {
+        "BDS": "Mais il y a, dans le ciel, un Dieu qui révèle les secrets; et il a fait savoir au roi Nabuchodonosor ce qui doit arriver dans les temps à venir. Eh bien, voici ce que tu as rêvé et quelles sont les visions que tu as eues sur ton lit:",
+        "DBY": "mais il y a un Dieu dans les cieux qui révèle les secrets et fait savoir au roi Nebucadnetsar ce qui arrivera à la fin des jours. Ton songe et les visions de ta tête, sur ton lit, les voici:",
+        "KJV": "But there is a God in heaven that revealeth secrets, and maketh known to the king Nebuchadnezzar what shall be in the latter days. Thy dream, and the visions of thy head upon thy bed, are these;",
+        "LSG": "Mais il y a dans les cieux un Dieu qui révèle les secrets, et qui a fait connaître au roi Nebucadnetsar ce qui arrivera dans la suite des temps. Voici ton songe et les visions que tu as eues sur ta couche.",
+        "MAB": "Mais il y a un Dieu aux cieux qui révèle les secrets, et qui a fait connaître au Roi Nébucadnetsar ce qui doit arriver aux derniers temps. Ton songe, et les visions de ta tête [que tu as eues] sur ton lit, sont telles.",
+        "OST": "Mais il y a un Dieu dans les cieux qui révèle les secrets, et il a fait connaître au roi Nébucadnetsar ce qui doit arriver dans la suite des jours. Voici ton songe et les visions de ta tête sur ta couche:",
+        "S21": "Cependant, il y a dans le ciel un Dieu qui dévoile les secrets et qui a fait connaître au roi Nebucadnetsar ce qui arrivera dans l’avenir. Voici ton rêve et les visions que tu as eues sur ton lit."
+      }
+    },
+    {
+      "verse": 29,
+      "texts": {
+        "BDS": "pendant que tu étais couché, ô roi, tu t’es mis à penser à l’avenir. Alors celui qui révèle les secrets t’a fait connaître ce qui doit arriver.",
+        "DBY": "Toi, ô roi,… tes pensées, sur ton lit, sont montées dans ton esprit, ce qui doit arriver ci-après; et celui qui révèle les secrets te fait savoir ce qui va arriver.",
+        "KJV": "As for thee, O king, thy thoughts came [into thy mind] upon thy bed, what should come to pass hereafter: and he that revealeth secrets maketh known to thee what shall come to pass.",
+        "LSG": "Sur ta couche, ô roi, il t'est monté des pensées touchant ce qui sera après ce temps-ci; et celui qui révèle les secrets t'a fait connaître ce qui arrivera.",
+        "MAB": "Tes pensées, ô Roi! te sont montées dans ton lit, touchant ce qui arriverait ci-après, et celui qui révèle les secrets t'a déclaré ce qui doit arriver.",
+        "OST": "O roi! il t'est monté des pensées sur ta couche, touchant ce qui arrivera dans la suite. Et celui qui révèle les secrets t'a fait connaître ce qui arrivera.",
+        "S21": "Sur ton lit, roi, tu as eu des pensées concernant ce qui arrivera par la suite, et celui qui dévoile les secrets t'a fait connaître ce qui arrivera."
+      }
+    },
+    {
+      "verse": 30,
+      "texts": {
+        "BDS": "Quant à moi, ce n’est pas parce que je posséderais une sagesse supérieure à celle de tous les autres hommes que ce secret m’a été révélé, mais c’est afin que l’interprétation en soit donnée au roi et que tu comprennes ce qui préoccupe ton cœur.",
+        "DBY": "Et quant à moi, ce n'est pas par quelque sagesse qui soit en moi plus qu'en tous les vivants, que ce secret m'a été révélé: c'est afin que l'interprétation soit connue du roi, et que tu connaisses les pensées de ton cœur.",
+        "KJV": "But as for me, this secret is not revealed to me for [any] wisdom that I have more than any living, but for [their] sakes that shall make known the interpretation to the king, and that thou mightest know the thoughts of thy heart.",
+        "LSG": "Si ce secret m'a été révélé, ce n'est point qu'il y ait en moi une sagesse supérieure à celle de tous les vivants; mais c'est afin que l'explication soit donnée au roi, et que tu connaisses les pensées de ton coeur.",
+        "MAB": "Et ce secret m'a été révélé, non point par quelque sagesse qui soit en moi, plus qu'en aucun des vivants, mais afin de donner au Roi l'interprétation [de son songe], et afin que tu connaisses les pensées de ton cœur.",
+        "OST": "Et ce secret m'a été révélé, non qu'il y ait eu en moi plus de sagesse qu'en aucun des vivants, mais pour que l'interprétation en soit donnée au roi, et que tu connaisses les pensées de ton cœur.",
+        "S21": "Si ce secret m'a été dévoilé, ce n'est pas parce qu'il y aurait en moi une sagesse supérieure à celle de tous les êtres vivants, mais c'est afin que l'explication te soit donnée, roi, et que tu connaisses ce qui trouble ton cœur."
+      }
+    },
+    {
+      "verse": 31,
+      "texts": {
+        "BDS": "Voici donc, ô roi, la vision que tu as eue: tu as vu une grande statue. Cette statue était immense, et d’une beauté éblouissante. Elle était dressée devant toi et son aspect était terrifiant.",
+        "DBY": "Toi, au roi, tu voyais, et voici une grande statue; cette statue était grande, et sa splendeur, extraordinaire; elle se tint devant toi, et son aspect était terrible.",
+        "KJV": "Thou, O king, sawest, and behold a great image. This great image, whose brightness [was] excellent, stood before thee; and the form thereof [was] terrible.",
+        "LSG": "O roi, tu regardais, et tu voyais une grande statue; cette statue était immense, et d'une splendeur extraordinaire; elle était debout devant toi, et son aspect était terrible.",
+        "MAB": "Tu contemplais, ô Roi! et voici une grande statue, et cette grande statue, dont la splendeur était excellente, était debout devant toi, et elle était terrible à voir.",
+        "OST": "O roi! tu regardais, et tu voyais une grande statue; cette statue était immense et d'une splendeur extraordinaire; elle était debout devant toi, et son aspect était terrible.",
+        "S21": "»Roi, tu regardais et tu as vu une grande statue. Cette statue était immense et d'une splendeur extraordinaire. Elle était debout devant toi et son aspect était terrifiant."
+      }
+    },
+    {
+      "verse": 32,
+      "texts": {
+        "BDS": "La tête de cette statue était en or pur, la poitrine et les bras en argent, le ventre et les hanches en bronze,",
+        "DBY": "La tête de cette statue était d'or pur; sa poitrine et ses bras, d'argent; son ventre et ses cuisses, d'airain; ses jambes, de fer;",
+        "KJV": "This image's head [was] of fine gold, his breast and his arms of silver, his belly and his thighs of brass,",
+        "LSG": "La tête de cette statue était d'or pur; sa poitrine et ses bras étaient d'argent; son ventre et ses cuisses étaient d'airain;",
+        "MAB": "La tête de cette statue était d'un or très-fin, sa poitrine et ses bras [étaient] d'argent; son ventre et ses hanches [étaient] d'airain.",
+        "OST": "La tête de la statue était d'or fin; sa poitrine et ses bras étaient d'argent; son ventre et ses hanches étaient d'airain;",
+        "S21": "La tête de cette statue était en or pur, sa poitrine et ses bras en argent, son ventre et ses cuisses en bronze,"
+      }
+    },
+    {
+      "verse": 33,
+      "texts": {
+        "BDS": "les jambes en fer, les pieds partiellement en fer et partiellement en argile.",
+        "DBY": "ses pieds, en partie de fer et en partie d'argile.",
+        "KJV": "His legs of iron, his feet part of iron and part of clay.",
+        "LSG": "ses jambes, de fer; ses pieds, en partie de fer et en partie d'argile.",
+        "MAB": "Ses jambes étaient de fer, et ses pieds étaient en partie de fer, et en partie de terre.",
+        "OST": "Ses jambes étaient de fer; et ses pieds, en partie de fer et en partie d'argile.",
+        "S21": "ses jambes en fer, ses pieds en partie en fer et en partie en argile."
+      }
+    },
+    {
+      "verse": 34,
+      "texts": {
+        "BDS": "Pendant que tu étais plongé dans ta contemplation, une pierre se détacha sans l’intervention d’aucune main, vint heurter la statue au niveau de ses pieds de fer et d’argile, et les pulvérisa.",
+        "DBY": "Tu vis, jusqu'à ce qu'une pierre se détacha sans mains; et elle frappa la statue dans ses pieds de fer et d'argile, et les broya;",
+        "KJV": "Thou sawest till that a stone was cut out without hands, which smote the image upon his feet [that were] of iron and clay, and brake them to pieces.",
+        "LSG": "Tu regardais, lorsqu'une pierre se détacha sans le secours d'aucune main, frappa les pieds de fer et d'argile de la statue, et les mit en pièces.",
+        "MAB": "Tu contemplais cela jusqu'à ce qu'une pierre fût coupée sans main, laquelle frappa la statue en ses pieds de fer et de terre, et les brisa.",
+        "OST": "Tu regardais, jusqu'à ce qu'une pierre fut détachée sans le secours d'aucune main et frappa la statue dans ses pieds, qui étaient de fer et d'argile, et les brisa.",
+        "S21": "Pendant que tu regardais, une pierre s’est détachée sans aucune intervention extérieure. Elle a frappé les pieds en fer et en argile de la statue et les a pulvérisés."
+      }
+    },
+    {
+      "verse": 35,
+      "texts": {
+        "BDS": "Du même coup furent réduits ensemble en poussière le fer, l’argile, le bronze, l’argent et l’or, et ils devinrent comme la bale de blé qui s’envole de l’aire durant la moisson; le vent les emporta sans en laisser la moindre trace. Quant à la pierre qui avait heurté la statue, elle devint une immense montagne et remplit toute la terre.",
+        "DBY": "alors furent broyés ensemble le fer, l'argile, l'airain, l'argent et l'or, et ils devinrent comme la balle de l'aire d'été; et le vent les emporta, et il ne se trouva aucun lieu pour eux; et la pierre qui avait frappé la statue devint une grande montagne qui remplit toute la terre.",
+        "KJV": "Then was the iron, the clay, the brass, the silver, and the gold, broken to pieces together, and became like the chaff of the summer threshingfloors; and the wind carried them away, that no place was found for them: and the stone that smote the image became a great mountain, and filled the whole earth.",
+        "LSG": "Alors le fer, l'argile, l'airain, l'argent et l'or, furent brisés ensemble, et devinrent comme la balle qui s'échappe d'une aire en été; le vent les emporta, et nulle trace n'en fut retrouvée. Mais la pierre qui avait frappé la statue devint une grande montagne, et remplit toute la terre.",
+        "MAB": "Alors furent brisés ensemble le fer, la terre, l'airain, l'argent et l'or, et ils devinrent comme la paille de l'aire d'Eté, que le vent transporte çà et là; et il ne fut plus trouvé aucun lieu pour eux, mais cette pierre qui avait frappé la statue devint une grande montagne, et remplit toute la terre.",
+        "OST": "Alors le fer, l'argile, l'airain, l'argent et l'or furent brisés ensemble, et devinrent comme la balle de l'aire en été; et le vent les emporta, et il ne s'en trouva plus de vestige; mais la pierre qui avait frappé la statue devint une grande montagne et remplit toute la terre.",
+        "S21": "Le fer, l'argile, le bronze, l'argent et l'or ont alors été pulvérisés ensemble, et ils sont devenus pareils à la bale qui s'échappe d'une aire de battage en été: le vent les a emportés et on n’a plus trouvé aucune trace d’eux. Quant à la pierre qui avait frappé la statue, elle est devenue une grande montagne et a rempli toute la terre."
+      }
+    },
+    {
+      "verse": 36,
+      "texts": {
+        "BDS": "Voilà ton rêve. Quant à ce qu’il signifie, nous allons l’exposer au roi.",
+        "DBY": "C'est là le songe, et nous en dirons l'interprétation devant le roi.",
+        "KJV": "This [is] the dream; and we will tell the interpretation thereof before the king.",
+        "LSG": "Voilà le songe. Nous en donnerons l'explication devant le roi.",
+        "MAB": "C'est là le songe; nous dirons maintenant son interprétation en la présence du Roi.",
+        "OST": "C'est là le songe; et nous en donnerons l'interprétation devant le roi.",
+        "S21": "»Voilà quel était le rêve. Nous en dirons l'explication devant le roi."
+      }
+    },
+    {
+      "verse": 37,
+      "texts": {
+        "BDS": "Toi, ô roi, tu es le roi des rois, à qui le Dieu des cieux a donné la royauté, la puissance, la force et la gloire.",
+        "DBY": "Toi, ô roi, tu es le roi des rois, auquel le Dieu des cieux a donné le royaume, la puissance, et la force, et la gloire;",
+        "KJV": "Thou, O king, [art] a king of kings: for the God of heaven hath given thee a kingdom, power, and strength, and glory.",
+        "LSG": "O roi, tu es le roi des rois, car le Dieu des cieux t'a donné l'empire, la puissance, la force et la gloire;",
+        "MAB": "Toi ô Roi! qui es le Roi des Rois; parce que le Dieu des cieux t'a donné le Royaume, la puissance, la force et la gloire,",
+        "OST": "Toi, ô roi! tu es le roi des rois, auquel le Dieu des cieux a donné le règne, la puissance, la force et la gloire;",
+        "S21": "Roi, tu es le roi des rois parce que le Dieu du ciel t'a donné la royauté, la puissance, la force et la gloire."
+      }
+    },
+    {
+      "verse": 38,
+      "texts": {
+        "BDS": "Dieu a placé sous ton autorité les hommes, les bêtes sauvages et les oiseaux en quelque lieu qu’ils habitent. Il t’a donné la domination sur eux tous. C’est toi qui es la tête d’or.",
+        "DBY": "et partout où habitent les fils des hommes, les bêtes des champs et les oiseaux des cieux, il les a mis entre tes mains et t'a fait dominer sur eux tous. Toi, tu es cette tête d'or.",
+        "KJV": "And wheresoever the children of men dwell, the beasts of the field and the fowls of the heaven hath he given into thine hand, and hath made thee ruler over them all. Thou [art] this head of gold.",
+        "LSG": "il a remis entre tes mains, en quelque lieu qu'ils habitent, les enfants des hommes, les bêtes des champs et les oiseaux du ciel, et il t'a fait dominer sur eux tous: c'est toi qui es la tête d'or.",
+        "MAB": "Et qu'en quelque lieu qu'habitent les enfants des hommes, les bêtes des champs, et les oiseaux des cieux, il les a donnés en ta main, et t'a fait dominer sur eux tous, tu es la tête d'or.",
+        "OST": "Il a remis entre tes mains les enfants des hommes, les bêtes des champs et les oiseaux du ciel, en quelque lieu qu'ils habitent, et il t'a fait dominer sur eux tous; c'est toi qui es la tête d'or.",
+        "S21": "Il a placé sous ta domination, où qu'ils habitent, les hommes, les bêtes sauvages et les oiseaux, et il t'a donné le pouvoir sur eux tous. La tête en or, c’est toi."
+      }
+    },
+    {
+      "verse": 39,
+      "texts": {
+        "BDS": "Après toi surgira un autre empire, moins puissant que le tien, puis un troisième représenté par le bronze, qui dominera toute la terre.",
+        "DBY": "Et après toi s'élèvera un autre royaume, inférieur à toi; puis un troisième et autre royaume, d'airain, qui dominera sur toute la terre.",
+        "KJV": "And after thee shall arise another kingdom inferior to thee, and another third kingdom of brass, which shall bear rule over all the earth.",
+        "LSG": "Après toi, il s'élèvera un autre royaume, moindre que le tien; puis un troisième royaume, qui sera d'airain, et qui dominera sur toute la terre.",
+        "MAB": "Mais après toi il s'élèvera un autre Royaume, moindre que le tien, et ensuite un autre troisième Royaume qui sera d'airain, lequel dominera sur toute la terre.",
+        "OST": "Et après toi il s'élèvera un autre royaume, moindre que toi; puis un troisième royaume, qui sera d'airain et qui dominera sur toute la terre.",
+        "S21": "Après toi surgira un autre royaume, inférieur au tien, puis un troisième royaume, qui sera en bronze et qui dominera sur toute la terre."
+      }
+    },
+    {
+      "verse": 40,
+      "texts": {
+        "BDS": "Un quatrième royaume lui succédera, il sera dur comme le fer; comme le fer pulvérise et écrase tout et le met en pièces, ainsi il pulvérisera et mettra en pièces tous les autres royaumes.",
+        "DBY": "Et le quatrième royaume sera fort comme le fer. De même que le fer broie et écrase tout, et que le fer brise toutes ces choses, il broiera et brisera.",
+        "KJV": "And the fourth kingdom shall be strong as iron: forasmuch as iron breaketh in pieces and subdueth all [things]: and as iron that breaketh all these, shall it break in pieces and bruise.",
+        "LSG": "Il y aura un quatrième royaume, fort comme du fer; de même que le fer brise et rompt tout, il brisera et rompra tout, comme le fer qui met tout en pièces.",
+        "MAB": "Puis il y aura un quatrième Royaume, fort comme du fer, parce que le fer brise, et met en pièces toutes choses; et comme le fer met en pièces toutes ces choses, ainsi il brisera et mettra tout en pièces.",
+        "OST": "Il y aura un quatrième royaume, fort comme du fer; de même que le fer brise et rompt tout, ainsi, pareil au fer qui brise et met tout en pièces, il brisera et mettra tout en pièces.",
+        "S21": "Il y aura un quatrième royaume, solide comme du fer. En effet, le fer pulvérise et écrase tout. Tout comme le fer brise tout, il pulvérisera et écrasera les autres."
+      }
+    },
+    {
+      "verse": 41,
+      "texts": {
+        "BDS": "Et si tu as vu les pieds et les orteils partiellement en argile et partiellement en fer, cela signifie que ce sera un royaume divisé; il y aura en lui quelque chose de la dureté du fer, selon que tu as vu le fer mêlé à la terre cuite.",
+        "DBY": "Et selon que tu as vu les pieds et les orteils en partie d'argile de potier et en partie de fer, le royaume sera divisé; et il y aura en lui de la dureté du fer, selon que tu as vu le fer mêlé avec de l'argile grasse;",
+        "KJV": "And whereas thou sawest the feet and toes, part of potters' clay, and part of iron, the kingdom shall be divided; but there shall be in it of the strength of the iron, forasmuch as thou sawest the iron mixed with miry clay.",
+        "LSG": "Et comme tu as vu les pieds et les orteils en partie d'argile de potier et en partie de fer, ce royaume sera divisé; mais il y aura en lui quelque chose de la force du fer, parce que tu as vu le fer mêlé avec l'argile.",
+        "MAB": "Et quant à ce que tu as vu que les pieds et les orteils étaient en partie de terre de potier, et en partie de fer, c'est que le Royaume sera divisé, et il y aura en lui de la force du fer, selon que tu as vu le fer mêlé avec la terre de potier.",
+        "OST": "Et comme tu as vu les pieds et les doigts en partie d'argile et en partie de fer, ce sera un royaume divisé; mais il y aura en lui de la force du fer, parce que tu as vu le fer mêlé avec l'argile;",
+        "S21": "Tu as vu les pieds et les orteils en partie en argile de potier et en partie en fer. De même, ce royaume sera divisé, mais il y aura en lui quelque chose de la force du fer, parce que tu as vu le fer mélangé à l'argile."
+      }
+    },
+    {
+      "verse": 42,
+      "texts": {
+        "BDS": "Mais comme les orteils des pieds étaient en partie de fer et en partie d’argile, ce royaume sera en partie fort et en partie fragile.",
+        "DBY": "et quant à ce que les orteils des pieds étaient en partie de fer et en partie d'argile, le royaume sera en partie fort et sera en partie fragile.",
+        "KJV": "And [as] the toes of the feet [were] part of iron, and part of clay, [so] the kingdom shall be partly strong, and partly broken.",
+        "LSG": "Et comme les doigts des pieds étaient en partie de fer et en partie d'argile, ce royaume sera en partie fort et en partie fragile.",
+        "MAB": "Et ce que les orteils des pieds étaient en partie de fer, et en partie de terre, c'est que ce Royaume sera en partie fort, et en partie frêle.",
+        "OST": "Et comme les doigts des pieds étaient en partie de fer et en partie d'argile, ce royaume sera en partie fort et en partie fragile.",
+        "S21": "Les doigts des pieds étaient en partie en fer et en partie en argile. De même, ce royaume sera en partie fort et en partie fragile."
+      }
+    },
+    {
+      "verse": 43,
+      "texts": {
+        "BDS": "Que tu aies vu le fer mêlé de terre cuite, cela signifie que les hommes chercheront à s’unir par des alliances, mais ils ne tiendront pas ensemble, pas plus que le fer ne tient à l’argile.",
+        "DBY": "Et selon que tu as vu le fer mêlé avec de l'argile grasse, ils se mêleront à la semence des hommes, mais ils n'adhéreront pas l'un à l'autre, de même que le fer ne se mêle pas avec l'argile.",
+        "KJV": "And whereas thou sawest iron mixed with miry clay, they shall mingle themselves with the seed of men: but they shall not cleave one to another, even as iron is not mixed with clay.",
+        "LSG": "Tu as vu le fer mêlé avec l'argile, parce qu'ils se mêleront par des alliances humaines; mais ils ne seront point unis l'un à l'autre, de même que le fer ne s'allie point avec l'argile.",
+        "MAB": "Mais ce que tu as vu le fer mêlé avec la terre de potier, c'est qu'ils se mêleront par semence humaine, mais ils ne se joindront point l'un avec l'autre, ainsi que le fer ne peut point se mêler avec la terre.",
+        "OST": "Quant à ce que tu as vu le fer mêlé à l'argile, c'est qu'ils se mêleront par des alliances humaines; mais ils ne seront pas unis l'un à l'autre, de même que le fer ne s'allie point avec l'argile.",
+        "S21": "Tu as vu le fer mélangé à l'argile parce qu'ils feront des alliances tout humaines. Cependant, ils ne seront pas vraiment unis l'un à l'autre, de même qu’on ne peut allier le fer à l'argile."
+      }
+    },
+    {
+      "verse": 44,
+      "texts": {
+        "BDS": "A l’époque de ces rois-là, le Dieu des cieux suscitera un royaume qui ne sera jamais détruit et dont la souveraineté ne passera pas à un autre peuple; il pulvérisera tous ces royaumes-là et mettra un terme à leur existence, mais lui-même subsistera éternellement.",
+        "DBY": "Et dans les jours de ces rois, le Dieu des cieux établira un royaume qui ne sera jamais détruit; et ce royaume ne passera point à un autre peuple; il broiera et détruira tous ces royaumes, mais lui, il subsistera à toujours.",
+        "KJV": "And in the days of these kings shall the God of heaven set up a kingdom, which shall never be destroyed: and the kingdom shall not be left to other people, [but] it shall break in pieces and consume all these kingdoms, and it shall stand for ever.",
+        "LSG": "Dans le temps de ces rois, le Dieu des cieux suscitera un royaume qui ne sera jamais détruit, et qui ne passera point sous la domination d'un autre peuple; il brisera et anéantira tous ces royaumes-là, et lui-même subsistera éternellement.",
+        "MAB": "Et au temps de ces Rois le Dieu des cieux suscitera un Royaume qui ne sera jamais dissipé, et ce Royaume ne sera point laissé à un autre peuple, mais il brisera et consumera tous ces Royaumes, et il sera établi éternellement.",
+        "OST": "Et dans le temps de ces rois, le Dieu des cieux suscitera un royaume qui ne sera jamais détruit; et ce royaume ne passera point à un autre peuple; il brisera et anéantira tous ces royaumes-là, et lui-même subsistera éternellement,",
+        "S21": "»A l’époque de ces rois, le Dieu du ciel fera surgir un royaume qui ne sera jamais détruit et qui ne passera pas sous la domination d'un autre peuple; il pulvérisera tous ces royaumes-là et y mettra fin, tandis que lui-même subsistera éternellement."
+      }
+    },
+    {
+      "verse": 45,
+      "texts": {
+        "BDS": "C’est ce que représente la pierre que tu as vue se détacher de la montagne sans l’intervention d’aucune main humaine pour venir pulvériser le fer, le bronze, l’argile, l’argent et l’or. Le grand Dieu a révélé au roi ce qui arrivera dans l’avenir. Ce qu’annonce le rêve est chose certaine, et son interprétation est authentique.",
+        "DBY": "Selon que tu as vu que, de la montagne, la pierre s'est détachée sans mains, et qu'elle a broyé le fer, l'airain, l'argile, l'argent et l'or, le grand Dieu fait connaître au roi ce qui arrivera ci-après. Et le songe est certain, et son interprétation est sûre.",
+        "KJV": "Forasmuch as thou sawest that the stone was cut out of the mountain without hands, and that it brake in pieces the iron, the brass, the clay, the silver, and the gold; the great God hath made known to the king what shall come to pass hereafter: and the dream [is] certain, and the interpretation thereof sure.",
+        "LSG": "C'est ce qu'indique la pierre que tu as vue se détacher de la montagne sans le secours d'aucune main, et qui a brisé le fer, l'airain, l'argile, l'argent et l'or. Le grand Dieu a fait connaître au roi ce qui doit arriver après cela. Le songe est véritable, et son explication est certaine.",
+        "MAB": "Selon que tu as vu que de la montagne une pierre a été coupée sans main, et qu'elle a brisé le fer, l'airain, la terre, l'argent, et l'or. Le grand Dieu a fait connaître au Roi ce qui arrivera ci-après; or le songe est véritable, et son interprétation est certaine.",
+        "OST": "Comme tu as vu que de la montagne une pierre s'est détachée sans le secours d'aucune main, et qu'elle a brisé le fer, l'airain, l'argent et l'or. Le grand Dieu a fait connaître au roi ce qui arrivera ci-après. Le songe est véritable, et l'interprétation en est certaine.",
+        "S21": "C'est ce qu'indique la pierre que tu as vue se détacher de la montagne sans aucune intervention extérieure et qui a pulvérisé le fer, le bronze, l'argile, l'argent et l'or. Le grand Dieu a fait connaître au roi ce qui doit arriver par la suite. Le rêve est vrai et son explication est digne de confiance.»"
+      }
+    },
+    {
+      "verse": 46,
+      "texts": {
+        "BDS": "Alors le roi Nabuchodonosor se jeta la face contre terre et se prosterna devant Daniel, il ordonna de lui offrir des offrandes et des parfums.",
+        "DBY": "Alors le roi Nebucadnetsar tomba sur sa face et se prosterna devant Daniel, et commanda de lui présenter une offrande et des parfums.",
+        "KJV": "Then the king Nebuchadnezzar fell upon his face, and worshipped Daniel, and commanded that they should offer an oblation and sweet odours unto him.",
+        "LSG": "Alors le roi Nebucadnetsar tomba sur sa face et se prosterna devant Daniel, et il ordonna qu'on lui offrît des sacrifices et des parfums.",
+        "MAB": "Alors le Roi Nébucadnetsar tomba sur sa face, et se prosterna devant Daniel, et dit qu'on lui donnât de quoi faire des oblations et des offrandes de bonne odeur.",
+        "OST": "Alors le roi Nébucadnetsar tomba sur sa face et se prosterna devant Daniel, et il ordonna qu'on lui présentât des offrandes et des parfums.",
+        "S21": "Alors le roi Nebucadnetsar tomba le visage contre terre et se prosterna devant Daniel. Il ordonna qu'on offre des sacrifices et des parfums en son honneur."
+      }
+    },
+    {
+      "verse": 47,
+      "texts": {
+        "BDS": "Puis il lui déclara:\r\n—Il est bien vrai que votre Dieu est le Dieu des dieux, le souverain des rois et celui qui révèle les secrets, puisque tu as pu me dévoiler ce secret.",
+        "DBY": "Le roi répondit et dit à Daniel: En vérité, votre Dieu est le Dieu des dieux et le Seigneur des rois, et le révélateur des secrets, puisque tu as pu révéler ce secret.",
+        "KJV": "The king answered unto Daniel, and said, Of a truth [it is], that your God [is] a God of gods, and a Lord of kings, and a revealer of secrets, seeing thou couldest reveal this secret.",
+        "LSG": "Le roi adressa la parole à Daniel et dit: En vérité, votre Dieu est le Dieu des dieux et le Seigneur des rois, et il révèle les secrets, puisque tu as pu découvrir ce secret.",
+        "MAB": "[Aussi] le Roi parla à Daniel, et lui dit : Certainement votre Dieu est le Dieu des dieux, et le Seigneur des Rois, et c'est lui qui révèle les secrets, puisque tu as pu déclarer ce secret.",
+        "OST": "Le roi parla à Daniel et dit: Certainement votre Dieu est le Dieu des dieux et le Seigneur des rois, et il révèle les secrets, puisque tu as pu découvrir ce secret.",
+        "S21": "Le roi adressa la parole à Daniel et dit: «C’est certain, c’est votre Dieu qui est le Dieu des dieux et le Seigneur des rois, et il dévoile les secrets, puisque tu as pu dévoiler celui-ci.»"
+      }
+    },
+    {
+      "verse": 48,
+      "texts": {
+        "BDS": "Le roi éleva Daniel à une haute position et lui donna de nombreux et riches présents; il le nomma gouverneur de toute la province de Babylone et l’institua chef suprême de tous les sages de Babylone.",
+        "DBY": "Alors le roi éleva Daniel en dignité, et lui fit beaucoup de grands dons, et l'établit gouverneur sur toute la province de Babylone, et grand intendant de tous les sages de Babylone.",
+        "KJV": "Then the king made Daniel a great man, and gave him many great gifts, and made him ruler over the whole province of Babylon, and chief of the governors over all the wise [men] of Babylon.",
+        "LSG": "Ensuite le roi éleva Daniel, et lui fit de nombreux et riches présents; il lui donna le commandement de toute la province de Babylone, et l'établit chef suprême de tous les sages de Babylone.",
+        "MAB": "Alors le Roi éleva en honneur Daniel, et lui donna beaucoup de grands présents; il l'établit Gouverneur sur toute la Province de Babylone, et le fit plus grand Seigneur que tous ceux qui avaient la surintendance sur tous les sages de Babylone.",
+        "OST": "Alors le roi éleva Daniel en dignité, et lui fit de riches présents; et il l'établit gouverneur sur toute la province de Babylone et chef suprême de tous les sages de Babylone.",
+        "S21": "Ensuite le roi accorda une position élevée à Daniel et lui fit de nombreux et grands cadeaux. Il lui donna le commandement de toute la province de Babylone et le désigna chef suprême de tous les sages de Babylone."
+      }
+    },
+    {
+      "verse": 49,
+      "texts": {
+        "BDS": "A la demande de Daniel, le roi confia l’administration de la province de Babylone à Chadrak, Méchak et Abed-Nego, et Daniel lui-même demeura à la cour du roi.",
+        "DBY": "Et Daniel fit une demande au roi, qui établit Shadrac, Méshac et Abed-Nego sur les services de la province de Babylone. Et Daniel se tenait à la porte du roi.",
+        "KJV": "Then Daniel requested of the king, and he set Shadrach, Meshach, and Abednego, over the affairs of the province of Babylon: but Daniel [sat] in the gate of the king.",
+        "LSG": "Daniel pria le roi de remettre l'intendance de la province de Babylone à Schadrac, Méschac et Abed-Nego. Et Daniel était à la cour du roi.",
+        "MAB": "Et Daniel fit une requête au Roi; et [le roi] établit sur les affaires de la Province de Babylone, Sadrac, Mésac, et Habed-négo, mais Daniel était à la porte du Roi.",
+        "OST": "Et Daniel pria le roi de préposer Shadrac, Méshac et Abed-Négo à l'administration de la province. Mais Daniel était à la porte du roi.",
+        "S21": "Daniel demanda au roi de confier l'administration de la province de Babylone à Shadrak, Méshak et Abed-Nego. Lui-même resta à la cour du roi."
+      }
+    }
+  ]
+}

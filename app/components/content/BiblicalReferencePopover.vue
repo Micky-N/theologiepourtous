@@ -56,10 +56,10 @@
 </template>
 
 <script setup lang="ts">
-import type { BibleBook, BibleVerse, BibleVersion } from '@prisma/client';
+import type { BibleVerseWithContext } from '~/types';
 import { ref, watch } from 'vue';
 
-type Verse = BibleVerse & { book: BibleBook; version: BibleVersion; };
+type Verse = BibleVerseWithContext;
 
 type VerseData = {
     reference: string;

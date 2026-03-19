@@ -1,0 +1,74 @@
+{
+  "bookCode": "PSA",
+  "chapter": 70,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "Au chef de chœur. Un psaume de David pour se rappeler au souvenir de Dieu.",
+        "DBY": "ô Dieu, de me délivrer! hâte-toi, ô Éternel, de me secourir!",
+        "KJV": "To the chief Musician, [A Psalm] of David, to bring to remembrance. [Make haste], O God, to deliver me; make haste to help me, O LORD.",
+        "LSG": "Au chef des chantres. De David. Pour souvenir. O Dieu, hâte-toi de me délivrer! Eternel, hâte-toi de me secourir!",
+        "MAB": "Psaume de David, pour faire souvenir, [donné] au maître chantre. Ô Dieu! [hâte-toi] de me délivrer; ô Dieu! hâte-toi de venir à mon secours.",
+        "OST": "Au maître-chantre. Psaume de David; pour servir de mémorial.",
+        "S21": "Au chef de chœur. De David, comme mémorial."
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "O Dieu, délivre-moi,\r\nEternel, hâte-toi de venir à mon aide!",
+        "DBY": "Que ceux qui cherchent ma vie soient honteux et confondus; qu'ils se retirent en arrière et soient confus, ceux qui prennent plaisir à mon malheur;",
+        "KJV": "Let them be ashamed and confounded that seek after my soul: let them be turned backward, and put to confusion, that desire my hurt.",
+        "LSG": "Qu'ils soient honteux et confus, ceux qui en veulent à ma vie! Qu'ils reculent et rougissent, ceux qui désirent ma perte!",
+        "MAB": "Que ceux qui cherchent mon âme soient honteux et rougissent; et que ceux qui prennent plaisir à mon mal soient repoussés en arrière, et soient confus.",
+        "OST": "O Dieu, hâte-toi de me délivrer; Éternel, accours à mon aide!",
+        "S21": "O Dieu, délivre-moi sans tarder! Eternel, viens vite à mon aide!"
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "Qu’ils soient couverts de honte, remplis de confusion,\r\nceux qui cherchent ma mort!\r\nQu’ils battent en retraite, qu’ils soient déshonorés,\r\nceux qui se réjouissent de mon malheur!",
+        "DBY": "Qu'ils retournent en arrière à cause de leur honte, ceux qui disent: Ha ha! ha ha!",
+        "KJV": "Let them be turned back for a reward of their shame that say, Aha, aha.",
+        "LSG": "Qu'ils retournent en arrière par l'effet de leur honte, Ceux qui disent: Ah! ah!",
+        "MAB": "Que ceux qui disent : Aha! Aha! retournent en arrière pour la récompense de la honte qu'ils m'ont faite.",
+        "OST": "Qu'ils soient honteux et qu'ils rougissent, ceux qui cherchent ma vie; qu'ils reculent et soient confus, ceux qui désirent ma perte!",
+        "S21": "Qu’ils soient honteux et remplis de confusion, ceux qui en veulent à ma vie! Qu’ils reculent et rougissent, ceux qui désirent ma perte!"
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "Qu’ils tournent les talons sous le poids de la honte,\r\nceux qui ricanent à mon sujet.",
+        "DBY": "Que tous ceux qui te cherchent s'égayent et se réjouissent en toi; et que ceux qui aiment ton salut disent continuellement: Magnifié soit Dieu!",
+        "KJV": "Let all those that seek thee rejoice and be glad in thee: and let such as love thy salvation say continually, Let God be magnified.",
+        "LSG": "Que tous ceux qui te cherchent Soient dans l'allégresse et se réjouissent en toi! Que ceux qui aiment ton salut Disent sans cesse: Exalté soit Dieu!",
+        "MAB": "Que tous ceux qui te cherchent s'égayent et se réjouissent en toi; et que ceux qui aiment ta délivrance, disent toujours : Magnifié soit Dieu!",
+        "OST": "Qu'ils retournent en arrière, à cause de leur honte, ceux qui disent: Ah! ah!",
+        "S21": "Qu’ils fassent demi-tour, saisis de honte, ceux qui disent: «Ha! ha!»"
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "Mais que tous ceux qui te sont attachés\r\nsoient débordants de joie, et qu’ils s’égaient en toi.\r\nEt que tous ceux qui aiment ton salut\r\nredisent constamment: «Que Dieu est grand!»",
+        "DBY": "Et moi, je suis affligé et pauvre; ô Dieu, hâte-toi vers moi! Tu es mon secours et celui qui me délivre; Éternel, ne tarde pas!",
+        "KJV": "But I [am] poor and needy: make haste unto me, O God: thou [art] my help and my deliverer; O LORD, make no tarrying.",
+        "LSG": "Moi, je suis pauvre et indigent: O Dieu, hâte-toi en ma faveur! Tu es mon aide et mon libérateur: Eternel, ne tarde pas!",
+        "MAB": "Or je suis affligé et misérable; ô Dieu! hâte-toi de venir vers moi; tu es mon secours et mon libérateur; ô Eternel! ne tarde point.",
+        "OST": "Que tous ceux qui te cherchent, se réjouissent et s'égaient en toi, et que ceux qui aiment ta délivrance disent toujours: Dieu soit magnifié!",
+        "S21": "Que tous ceux qui te cherchent soient dans l’allégresse et se réjouissent en toi! Que ceux qui aiment ton salut disent sans cesse: «Que Dieu est grand!»"
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "Moi, je suis pauvre et malheureux;\r\nô Dieu, viens vite auprès de moi,\r\ntoi qui es mon secours et mon libérateur.\r\nEternel, hâte-toi!",
+        "OST": "Pour moi, je suis affligé et misérable: ô Dieu, hâte-toi de venir à moi! Tu es mon aide et mon libérateur; Éternel, ne tarde point!",
+        "S21": "Moi, je suis malheureux et pauvre: ô Dieu, viens vite à mon secours! Tu es mon aide et mon libérateur, Eternel, ne tarde pas!"
+      }
+    }
+  ]
+}

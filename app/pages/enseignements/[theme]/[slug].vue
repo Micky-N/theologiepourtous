@@ -1,5 +1,6 @@
 <script setup lang="ts">
-import type { BibleBook, UserProgress } from '@prisma/client';
+import type { UserProgress } from '@prisma/client';
+import type { BibleBookData } from '~/types';
 import { verseParser } from '../../../utils/verseParser';
 
 const { loggedIn } = useUserSession();
@@ -19,7 +20,7 @@ const { data: progress, refresh, status } = useAsyncData(
     }
 );
 
-const { data: booksData } = await useAsyncData('bible-books', () => $fetch<{ success: boolean; data: { all: BibleBook[]; grouped: { old: BibleBook[]; new: BibleBook[]; }; }; count: number; }>('/api/bible/books', {
+const { data: booksData } = await useAsyncData('bible-books', () => $fetch<{ success: boolean; data: { all: BibleBookData[]; grouped: { old: BibleBookData[]; new: BibleBookData[]; }; }; count: number; }>('/api/bible/books', {
     method: 'GET'
 }));
 

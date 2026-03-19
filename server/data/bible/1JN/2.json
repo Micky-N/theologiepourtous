@@ -1,0 +1,354 @@
+{
+  "bookCode": "1JN",
+  "chapter": 2,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "Mes chers enfants, je vous écris ceci afin que vous ne péchiez pas. Si, toutefois, il arrivait à quelqu’un de commettre un péché, nous avons un Défenseur auprès du Père: Jésus-Christ le juste.",
+        "DBY": "Mes enfants, je vous écris ces choses afin que vous ne péchiez pas; et si quelqu'un a péché, nous avons un avocat auprès du Père, Jésus Christ, le juste;",
+        "KJV": "My little children, these things write I unto you, that ye sin not. And if any man sin, we have an advocate with the Father, Jesus Christ the righteous:",
+        "LSG": "Mes petits enfants, je vous écris ces choses, afin que vous ne péchiez point. Et si quelqu'un a péché, nous avons un avocat auprès du Père, Jésus-Christ le juste.",
+        "MAB": "Mes petits enfants, je vous écris ces choses, afin que vous ne péchiez point; que si quelqu'un a péché, nous avons un avocat envers le Père, [savoir] Jésus-Christ, le Juste.",
+        "OST": "Mes petits enfants, je vous écris ces choses, afin que vous ne péchiez point. Et si quelqu'un a péché, nous avons un avocat auprès du Père, Jésus-Christ le Juste.",
+        "S21": "Mes petits enfants, je vous écris cela afin que vous ne péchiez pas. Mais si quelqu'un a péché, nous avons un défenseur auprès du Père, Jésus-Christ le juste."
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "Car il a apaisé la colère de Dieu contre nous en s’offrant pour nos péchés — et pas seulement pour les nôtres, mais aussi pour ceux du monde entier.",
+        "DBY": "et lui est la propitiation pour nos péchés, et non pas seulement pour les nôtres, mais aussi pour le monde entier.",
+        "KJV": "And he is the propitiation for our sins: and not for ours only, but also for [the sins of] the whole world.",
+        "LSG": "Il est lui-même une victime expiatoire pour nos péchés, non seulement pour les nôtres, mais aussi pour ceux du monde entier.",
+        "MAB": "Car c'est lui qui est la victime de propitiation pour nos péchés, et non seulement pour les nôtres, mais aussi pour ceux de tout le monde.",
+        "OST": "C'est lui qui est la propitiation pour nos péchés; et non seulement pour les nôtres, mais aussi pour ceux du monde entier.",
+        "S21": "Il est lui-même la victime expiatoire pour nos péchés, et non seulement pour les nôtres, mais aussi pour ceux du monde entier."
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "Voici comment nous savons que nous connaissons le Christ: c’est parce que nous obéissons à ses commandements.",
+        "DBY": "Et par ceci nous savons que nous le connaissons, savoir si nous gardons ses commandements.",
+        "KJV": "And hereby we do know that we know him, if we keep his commandments.",
+        "LSG": "Si nous gardons ses commandements, par là nous savons que nous l'avons connu.",
+        "MAB": "Et par ceci nous savons que nous l'avons connu, [savoir], si nous gardons ses commandements.",
+        "OST": "Et par ceci nous savons que nous l'avons connu, savoir, si nous gardons ses commandements.",
+        "S21": "Si nous gardons les commandements de Christ, nous savons par là que nous l'avons connu."
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "Si quelqu’un dit: «Je le connais» sans obéir à ses commandements, c’est un menteur et la vérité n’est pas en lui.",
+        "DBY": "Celui qui dit: Je le connais, et qui ne garde pas ses commandements, est menteur, et la",
+        "KJV": "He that saith, I know him, and keepeth not his commandments, is a liar, and the truth is not in him.",
+        "LSG": "Celui qui dit: Je l'ai connu, et qui ne garde pas ses commandements, est un menteur, et la vérité n'est point en lui.",
+        "MAB": "Celui qui dit : Je l'ai connu, et qui ne garde point ses commandements, il est menteur, et il n'y a point de vérité en lui.",
+        "OST": "Celui qui dit: Je l'ai connu, et qui ne garde point ses commandements, est un menteur, et la vérité n'est point en lui.",
+        "S21": "Celui qui prétend l’avoir connu alors qu’il ne garde pas ses commandements est un menteur, et la vérité n'est pas en lui."
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "Celui qui observe sa Parole montre par là qu’il aime vraiment Dieu de façon parfaite. C’est ainsi que nous savons que nous sommes unis à lui.",
+        "DBY": "Mais quiconque garde sa parole, -en lui l'amour de Dieu est véritablement consommé: par cela nous savons que nous sommes en lui.",
+        "KJV": "But whoso keepeth his word, in him verily is the love of God perfected: hereby know we that we are in him.",
+        "LSG": "Mais celui qui garde sa parole, l'amour de Dieu est véritablement parfait en lui: par là nous savons que nous sommes en lui.",
+        "MAB": "Mais pour celui qui garde sa parole, l'amour de Dieu est véritablement accompli en lui, et c'est par cela que nous savons que nous sommes en lui.",
+        "OST": "Mais pour celui qui garde sa parole, l'amour de Dieu est véritablement parfait en lui, et à cela nous connaissons que nous sommes en lui.",
+        "S21": "Mais l'amour de Dieu est vraiment parfait en celui qui garde sa parole: c'est à cela que nous reconnaissons que nous sommes en lui."
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "Celui qui prétend qu’il demeure en Christ doit aussi vivre comme le Christ lui-même a vécu.",
+        "DBY": "Celui qui dit demeurer en lui, doit lui-même aussi marcher comme lui a marché.",
+        "KJV": "He that saith he abideth in him ought himself also so to walk, even as he walked.",
+        "LSG": "Celui qui dit qu'il demeure en lui doit marcher aussi comme il a marché lui-même.",
+        "MAB": "Celui qui dit qu'il demeure en lui, doit vivre comme Jésus-Christ lui-même a vécu.",
+        "OST": "Celui qui dit qu'il demeure en lui, doit aussi marcher comme il a marché lui-même.",
+        "S21": "Celui qui affirme demeurer en Christ doit aussi vivre comme il a lui-même vécu."
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "Mes chers amis, ce n’est pas un nouveau commandement que je vous écris: il s’agit d’un commandement ancien que vous avez reçu dès le commencement, et ce commandement ancien, c’est le message que vous avez entendu.",
+        "DBY": "Bien-aimés, je ne vous écris pas un commandement nouveau, mais un commandement que vous avez eu dès le commencement. Le commandement ancien est la parole que vous avez entendue.",
+        "KJV": "Brethren, I write no new commandment unto you, but an old commandment which ye had from the beginning. The old commandment is the word which ye have heard from the beginning.",
+        "LSG": "Bien-aimés, ce n'est pas un commandement nouveau que je vous écris, mais un commandement ancien que vous avez eu dès le commencement; ce commandement ancien, c'est la parole que vous avez entendue.",
+        "MAB": "Mes frères, je ne vous écris point un commandement nouveau, mais le commandement ancien, que vous avez eu dès le commencement; et ce commandement ancien c'est la parole que vous avez entendue dès le commencement.",
+        "OST": "Frères, je vous écris, non un commandement nouveau, mais un commandement ancien, que vous avez eu dès le commencement; ce commandement ancien, c'est la parole que vous avez entendue dès le commencement.",
+        "S21": "Frères et sœurs, ce n'est pas un commandement nouveau que je vous écris, mais un commandement ancien, celui que vous avez reçu depuis le début. Ce commandement ancien, c’est la parole que vous avez entendue [dès le commencement]."
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "Mais en même temps, c’est un commandement nouveau que je vous écris: sa nouveauté se manifeste vraiment en Christ et en vous, car les ténèbres se dissipent et la lumière véritable brille déjà.",
+        "DBY": "Encore une fois, je vous écris un commandement nouveau, ce qui est vrai en lui et en vous, parce que les ténèbres s'en vont et que la vraie lumière luit déjà.",
+        "KJV": "Again, a new commandment I write unto you, which thing is true in him and in you: because the darkness is past, and the true light now shineth.",
+        "LSG": "Toutefois, c'est un commandement nouveau que je vous écris, ce qui est vrai en lui et en vous, car les ténèbres se dissipent et la lumière véritable paraît déjà.",
+        "MAB": "Cependant [le commandement que] je vous écris est un commandement nouveau, et est une chose véritable en lui et en vous, parce que les ténèbres sont passées, et que la vraie lumière luit maintenant.",
+        "OST": "Toutefois, je vous écris un commandement nouveau, ce qui est vrai en lui et en vous, car les ténèbres passent, et la vraie lumière luit déjà.",
+        "S21": "Toutefois, c'est aussi un commandement nouveau que je vous écris; sa nouveauté se vérifie en lui et en vous, car les ténèbres se dissipent et la vraie lumière brille déjà."
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "Celui qui prétend être dans la lumière tout en détestant son frère, est encore dans les ténèbres.",
+        "DBY": "Celui qui dit être dans la lumière et qui hait son frère, est dans les ténèbres jusqu'à maintenant.",
+        "KJV": "He that saith he is in the light, and hateth his brother, is in darkness even until now.",
+        "LSG": "Celui qui dit qu'il est dans la lumière, et qui hait son frère, est encore dans les ténèbres.",
+        "MAB": "Celui qui dit qu'il est en la lumière, et qui hait son frère, est dans les ténèbres jusqu'à cette heure.",
+        "OST": "Celui qui dit qu'il est dans la lumière, et qui hait son frère, est encore à présent dans les ténèbres.",
+        "S21": "Celui qui prétend être dans la lumière tout en détestant son frère est encore dans les ténèbres."
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "Celui qui aime son frère demeure dans la lumière, et par conséquent il est dans la lumière, aucun obstacle ne risque de le faire tomber.",
+        "DBY": "Celui qui aime son frère demeure dans la lumière, et il n'y a point en lui d'occasion de chute.",
+        "KJV": "He that loveth his brother abideth in the light, and there is none occasion of stumbling in him.",
+        "LSG": "Celui qui aime son frère demeure dans la lumière, et aucune occasion de chute n'est en lui.",
+        "MAB": "Celui qui aime son frère, demeure dans la lumière, et il n'y a rien en lui qui le puisse faire tomber.",
+        "OST": "Celui qui aime son frère, demeure dans la lumière, et rien en lui ne le fait broncher.",
+        "S21": "Celui qui aime son frère reste dans la lumière, et il n'y a en lui rien qui puisse le faire trébucher."
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "Mais celui qui déteste son frère est dans les ténèbres: il marche dans les ténèbres sans savoir où il va, parce que les ténèbres l’ont rendu aveugle.",
+        "DBY": "Mais celui qui hait son frère est dans les ténèbres, et il marche dans les ténèbres, et il ne sait où il va, parce que les ténèbres ont aveuglé ses yeux.",
+        "KJV": "But he that hateth his brother is in darkness, and walketh in darkness, and knoweth not whither he goeth, because that darkness hath blinded his eyes.",
+        "LSG": "Mais celui qui hait son frère est dans les ténèbres, il marche dans les ténèbres, et il ne sait où il va, parce que les ténèbres ont aveuglé ses yeux.",
+        "MAB": "Mais celui qui hait son frère, est dans les ténèbres, et il marche dans les ténèbres, et il ne sait où il va; car les ténèbres lui ont aveuglé les yeux.",
+        "OST": "Mais celui qui hait son frère, est dans les ténèbres, et marche dans les ténèbres, et il ne sait où il va, parce que les ténèbres ont aveuglé ses yeux.",
+        "S21": "En revanche, celui qui déteste son frère est dans les ténèbres; il marche dans les ténèbres, sans savoir où il va, parce que les ténèbres ont aveuglé ses yeux."
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "Je vous écris ceci, enfants: vos péchés vous sont pardonnés à cause de ce que Jésus-Christ a fait.",
+        "DBY": "Je vous écris, enfants, parce que vos péchés vous sont pardonnés par son nom.",
+        "KJV": "I write unto you, little children, because your sins are forgiven you for his name's sake.",
+        "LSG": "Je vous écris, petits enfants, parce que vos péchés vous sont pardonnés à cause de son nom.",
+        "MAB": "Mes petits enfants, je vous écris, parce que vos péchés vous sont pardonnés par son Nom.",
+        "OST": "Petits enfants, je vous écris, parce que vos péchés vous sont pardonnés à cause de son nom.",
+        "S21": "Je vous écris, petits enfants, parce que vos péchés vous sont pardonnés à cause de son nom."
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "Je vous écris ceci, pères: vous connaissez celui qui est dès le commencement. Je vous écris ceci, jeunes gens: vous avez vaincu le diable.",
+        "DBY": "Je vous écris, pères, parce que vous connaissez celui qui est dès le commencement. Je vous écris, jeunes gens, parce que vous avez vaincu le méchant. Je vous écris, petits enfants, parce que vous connaissez le Père.",
+        "KJV": "I write unto you, fathers, because ye have known him [that is] from the beginning. I write unto you, young men, because ye have overcome the wicked one. I write unto you, little children, because ye have known the Father.",
+        "LSG": "Je vous écris, pères, parce que vous avez connu celui qui est dès le commencement. Je vous écris, jeunes gens, parce que vous avez vaincu le malin. Je vous ai écrit, petits enfants, parce que vous avez connu le Père.",
+        "MAB": "Pères, je vous écris, parce que vous avez connu celui qui est dès le commencement. Jeunes gens, je vous écris, parce que vous avez vaincu le malin [esprit].",
+        "OST": "Pères, je vous écris, parce que vous avez connu celui qui est dès le commencement. Jeunes gens, je vous écris, parce que vous avez vaincu le malin.",
+        "S21": "Je vous écris, pères, parce que vous connaissez celui qui est dès le commencement. Je vous écris, jeunes gens, parce que vous avez vaincu le mauvais. Je vous écris, petits enfants, parce que vous connaissez le Père."
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "Je vous le confirme, enfants: vous connaissez le Père. Je vous le confirme, pères: vous connaissez celui qui est dès le commencement. Je vous le confirme, jeunes gens: vous êtes forts, la Parole de Dieu demeure en vous et vous avez vaincu le diable.",
+        "DBY": "Je vous ai écrit, pères, parce que vous connaissez celui qui est dès le commencement. Je vous ai écrit, jeunes gens, parce que vous êtes forts, et que la parole de Dieu demeure en vous, et que vous avez vaincu le méchant.",
+        "KJV": "I have written unto you, fathers, because ye have known him [that is] from the beginning. I have written unto you, young men, because ye are strong, and the word of God abideth in you, and ye have overcome the wicked one.",
+        "LSG": "Je vous ai écrit, pères, parce que vous avez connu celui qui est dès le commencement. Je vous ai écrit, jeunes gens, parce que vous êtes forts, et que la parole de Dieu demeure en vous, et que vous avez vaincu le malin.",
+        "MAB": "Jeunes enfants, je vous écris, parce que vous avez connu le Père. Pères, je vous ai écrit, parce que vous avez connu celui qui est dès le commencement. Jeunes gens, je vous ai écrit, parce que vous êtes forts, et que la parole de Dieu demeure en vous, et que vous avez vaincu le malin esprit.",
+        "OST": "Petits enfants, je vous écris, parce que vous avez connu le Père. Pères, je vous ai écrit, parce que vous avez connu celui qui est dès le commencement. Jeunes gens, je vous ai écrit, parce que vous êtes forts, et que la parole de Dieu demeure en vous, et que vous avez vaincu le malin.",
+        "S21": "Je vous ai écrit, pères, parce que vous connaissez celui qui est dès le commencement. Je vous ai écrit, jeunes gens, parce que vous êtes forts, que la parole de Dieu demeure en vous et que vous avez vaincu le mauvais."
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "N’aimez pas le monde ni rien de ce qui fait partie de ce monde. Si quelqu’un aime le monde, l’amour pour le Père n’est pas en lui.",
+        "DBY": "N'aimez pas le monde, ni les choses qui sont dans le monde: si quelqu'un aime le monde, l'amour du Père n'est pas en lui;",
+        "KJV": "Love not the world, neither the things [that are] in the world. If any man love the world, the love of the Father is not in him.",
+        "LSG": "N'aimez point le monde, ni les choses qui sont dans le monde. Si quelqu'un aime le monde, l'amour du Père n'est point en lui;",
+        "MAB": "N'aimez point le monde, ni les choses qui sont au monde; si quelqu'un aime le monde, l'amour du Père n'est point en lui.",
+        "OST": "N'aimez point le monde, ni les choses qui sont dans le monde. Si quelqu'un aime le monde, l'amour du Père n'est point en lui;",
+        "S21": "N'aimez pas le monde ni ce qui est dans le monde. Si quelqu'un aime le monde, l'amour du Père n'est pas en lui."
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "En effet, tout ce qui fait partie du monde: les mauvais désirs qui animent l’homme livré à lui-même, la soif de posséder ce qui attire les regards, et l’orgueil qu’inspirent les biens matériels, tout cela ne vient pas du Père, mais du monde.",
+        "DBY": "parce que tout ce qui est dans le monde, la convoitise de la chair, et la convoitise des yeux, et l'orgueil de la vie, n'est pas du Père, mais est du monde;",
+        "KJV": "For all that [is] in the world, the lust of the flesh, and the lust of the eyes, and the pride of life, is not of the Father, but is of the world.",
+        "LSG": "car tout ce qui est dans le monde, la convoitise de la chair, la convoitise des yeux, et l'orgueil de la vie, ne vient point du Père, mais vient du monde.",
+        "MAB": "Car tout ce qui est au monde, [c'est-à-dire], la convoitise de la chair, la convoitise des yeux, et l'orgueil de la vie, n'est point du Père, mais est du monde.",
+        "OST": "Car tout ce qui est dans le monde, la convoitise de la chair, la convoitise des yeux, et l'orgueil de la vie, ne vient point du Père, mais du monde.",
+        "S21": "En effet, tout ce qui est dans le monde – la convoitise qui est dans l’homme, la convoitise des yeux et l’orgueil dû aux richesses – vient non du Père, mais du monde."
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "Or le monde passe avec tous ses attraits, mais celui qui accomplit la volonté de Dieu demeure éternellement.",
+        "DBY": "et le monde s'en va et sa convoitise, mais celui qui fait la volonté de Dieu demeure éternellement.",
+        "KJV": "And the world passeth away, and the lust thereof: but he that doeth the will of God abideth for ever.",
+        "LSG": "Et le monde passe, et sa convoitise aussi; mais celui qui fait la volonté de Dieu demeure éternellement.",
+        "MAB": "Et le monde passe, avec sa convoitise; mais celui qui fait la volonté de Dieu, demeure éternellement.",
+        "OST": "Et le monde passe, et sa convoitise; mais celui qui fait la volonté de Dieu, demeure éternellement.",
+        "S21": "Or le monde passe, sa convoitise aussi, mais celui qui fait la volonté de Dieu demeure éternellement."
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "Mes enfants, la dernière heure a commencé. Vous avez appris qu’un «anti-Christ» doit venir. Or, dès à présent, beaucoup d’antichrists sont là. Voilà pourquoi nous savons que nous sommes entrés dans la dernière heure.",
+        "DBY": "Petits enfants, c'est la dernière heure; et comme vous avez entendu que l'antichrist vient, maintenant aussi il y a plusieurs antichrists, par quoi nous savons que c'est la dernière heure:",
+        "KJV": "Little children, it is the last time: and as ye have heard that antichrist shall come, even now are there many antichrists; whereby we know that it is the last time.",
+        "LSG": "Petits enfants, c'est la dernière heure, et comme vous avez appris qu'un antéchrist vient, il y a maintenant plusieurs antéchrists: par là nous connaissons que c'est la dernière heure.",
+        "MAB": "Jeunes enfants, c'est ici le dernier temps; et comme vous avez entendu que l'Antechrist viendra, il y a même dès maintenant plusieurs Antechrists; et nous connaissons à cela que c'est le dernier temps.",
+        "OST": "Petits enfants, c'est ici la dernière heure; et comme vous avez entendu dire que l'antichrist vient, il y a dès maintenant plusieurs antichrists; par où nous connaissons que c'est la dernière heure.",
+        "S21": "Petits enfants, c'est la dernière heure. Vous avez appris que l'Antichrist vient. Or, déjà maintenant, il y a plusieurs antichrists; par là nous reconnaissons que c'est la dernière heure."
+      }
+    },
+    {
+      "verse": 19,
+      "texts": {
+        "BDS": "Ces adversaires du Christ sont sortis de chez nous mais, en réalité, ils n’étaient pas des nôtres. Car, s’ils avaient été des nôtres, ils seraient restés avec nous. Mais ils nous ont quittés pour qu’il soit parfaitement clair que tous ne sont pas des nôtres.",
+        "DBY": "ils sont sortis du milieu de nous, mais ils n'étaient pas des nôtres; car s'ils eussent été des nôtres, ils fussent demeurés avec nous; mais c'est afin qu'ils fussent manifestés comme n'étant aucun d'eux des nôtres.",
+        "KJV": "They went out from us, but they were not of us; for if they had been of us, they would [no doubt] have continued with us: but [they went out], that they might be made manifest that they were not all of us.",
+        "LSG": "Ils sont sortis du milieu de nous, mais ils n'étaient pas des nôtres; car s'ils eussent été des nôtres, ils seraient demeurés avec nous, mais cela est arrivé afin qu'il fût manifeste que tous ne sont pas des nôtres.",
+        "MAB": "Ils sont sortis d'entre nous, mais ils n'étaient point d'entre nous : car s'ils eussent été d'entre nous, ils fussent demeurés avec nous, mais c'est afin qu'il fût manifesté que tous ne sont point d'entre nous.",
+        "OST": "Ils sont sortis d'entre nous, mais ils n'étaient pas des nôtres; car s'ils eussent été des nôtres, ils seraient demeurés avec nous; mais c'est afin qu'il fût manifesté que tous ne sont pas des nôtres.",
+        "S21": "Ils sont sortis du milieu de nous, mais ils n'étaient pas des nôtres, car s'ils avaient été des nôtres, ils seraient restés avec nous. Mais cela est arrivé afin qu'il soit bien clair que tous ne sont pas des nôtres."
+      }
+    },
+    {
+      "verse": 20,
+      "texts": {
+        "BDS": "Vous, au contraire, vous avez reçu le Saint-Esprit dont celui qui est saint vous a oints, et vous connaissez tous la vérité.",
+        "DBY": "Et vous, vous avez l'onction de la part du Saint et vous connaissez toutes choses.",
+        "KJV": "But ye have an unction from the Holy One, and ye know all things.",
+        "LSG": "Pour vous, vous avez reçu l'onction de la part de celui qui est saint, et vous avez tous de la connaissance.",
+        "MAB": "Mais vous avez été oints par le Saint [esprit], et vous connaissez toutes choses.",
+        "OST": "Pour vous, vous avez reçu l'onction de la part du Saint, et vous connaissez toutes choses.",
+        "S21": "Quant à vous, vous avez l'onction donnée par celui qui est saint et vous avez toute connaissance."
+      }
+    },
+    {
+      "verse": 21,
+      "texts": {
+        "BDS": "Si je vous écris, ce n’est pas parce que vous ne connaissez pas la vérité, mais parce que vous la connaissez, et qu’aucun mensonge ne vient de la vérité.",
+        "DBY": "Je ne vous ai pas écrit parce que vous ne connaissez pas la vérité, mais parce que vous la connaissez et qu'aucun mensonge ne vient de la vérité.",
+        "KJV": "I have not written unto you because ye know not the truth, but because ye know it, and that no lie is of the truth.",
+        "LSG": "Je vous ai écrit, non que vous ne connaissiez pas la vérité, mais parce que vous la connaissez, et parce qu'aucun mensonge ne vient de la vérité.",
+        "MAB": "Je ne vous ai pas écrit comme si vous ne connaissiez point la vérité, mais parce que vous la connaissez, et qu'aucun mensonge n'est de la vérité.",
+        "OST": "Je vous ai écrit, non que vous ne connaissiez pas la vérité, mais parce que vous la connaissez, et parce que nul mensonge ne vient de la vérité.",
+        "S21": "Si je vous ai écrit, ce n’est pas parce que vous ignorez la vérité, mais parce que vous la connaissez et qu'aucun mensonge ne provient de la vérité."
+      }
+    },
+    {
+      "verse": 22,
+      "texts": {
+        "BDS": "Alors qui est le menteur? C’est celui qui nie que Jésus est le Christ. Car «l’anti-Christ», c’est celui qui refuse de reconnaître le Père et le Fils.",
+        "DBY": "Qui est le menteur, sinon celui qui nie que Jésus est le Christ? Celui-là est l'antichrist, qui nie le Père et le Fils.",
+        "KJV": "Who is a liar but he that denieth that Jesus is the Christ? He is antichrist, that denieth the Father and the Son.",
+        "LSG": "Qui est menteur, sinon celui qui nie que Jésus est le Christ? Celui-là est l'antéchrist, qui nie le Père et le Fils.",
+        "MAB": "Qui est le menteur, sinon celui qui nie que Jésus est le Christ? celui-là est l'Antechrist qui nie le Père et le Fils.",
+        "OST": "Qui est menteur, si ce n'est celui qui nie que Jésus est le Christ? Celui-là est l'antichrist, qui nie le Père et le Fils.",
+        "S21": "Qui est menteur? N’est-ce pas celui qui nie que Jésus est le Messie? Tel est l'Antichrist, celui qui nie le Père et le Fils."
+      }
+    },
+    {
+      "verse": 23,
+      "texts": {
+        "BDS": "Tout homme qui nie que Jésus est le Fils de Dieu ne connaît pas non plus le Père. Celui qui reconnaît que Jésus est le Fils de Dieu connaît aussi le Père.",
+        "DBY": "Quiconque nie le Fils n'a pas non plus le Père; celui qui confesse le Fils a aussi le Père.",
+        "KJV": "Whosoever denieth the Son, the same hath not the Father: [(but) he that acknowledgeth the Son hath the Father also.]",
+        "LSG": "Quiconque nie le Fils n'a pas non plus le Père; quiconque confesse le Fils a aussi le Père.",
+        "MAB": "Quiconque nie le Fils, n'a point non plus le Père; quiconque confesse le Fils, a aussi le Père.",
+        "OST": "Quiconque nie le Fils, n'a pas non plus le Père; celui qui confesse le Fils, a aussi le Père.",
+        "S21": "Si quelqu’un nie le Fils, il n'a pas non plus le Père; [celui qui se déclare publiquement pour le Fils a aussi le Père.]"
+      }
+    },
+    {
+      "verse": 24,
+      "texts": {
+        "BDS": "C’est pourquoi, tenez-vous soigneusement à l’enseignement que vous avez reçu dès le commencement. Si ce que vous avez entendu dès le commencement demeure en vous, vous demeurerez aussi unis au Fils et au Père.",
+        "DBY": "Pour vous, que ce que vous avez entendu dès le commencement demeure en vous: si ce que vous avez entendu dès le commencement demeure en vous, vous aussi vous demeurerez dans le Fils et dans le Père.",
+        "KJV": "Let that therefore abide in you, which ye have heard from the beginning. If that which ye have heard from the beginning shall remain in you, ye also shall continue in the Son, and in the Father.",
+        "LSG": "Que ce que vous avez entendu dès le commencement demeure en vous. Si ce que vous avez entendu dès le commencement demeure en vous, vous demeurerez aussi dans le Fils et dans le Père.",
+        "MAB": "Que donc ce que vous avez entendu dès le commencement demeure en vous, car si ce que vous avez entendu dès le commencement demeure en vous, vous demeurerez aussi au Fils et au Père.",
+        "OST": "Que ce que vous avez entendu dès le commencement, demeure donc en vous. Si ce que vous avez entendu dès le commencement, demeure en vous, vous demeurerez aussi dans le Fils et dans le Père.",
+        "S21": "Pour votre part, retenez [donc] ce que vous avez entendu dès le commencement. Si ce que vous avez entendu depuis le début demeure en vous, vous demeurerez vous aussi dans le Fils et dans le Père."
+      }
+    },
+    {
+      "verse": 25,
+      "texts": {
+        "BDS": "Et voici ce qu’il vous a promis: la vie éternelle.",
+        "DBY": "Et c'est ici la promesse que lui nous a promise, -la vie éternelle.",
+        "KJV": "And this is the promise that he hath promised us, [even] eternal life.",
+        "LSG": "Et la promesse qu'il nous a faite, c'est la vie éternelle.",
+        "MAB": "Et c'est ici la promesse qu'il vous a annoncée, [savoir] la vie éternelle.",
+        "OST": "Et la promesse qu'il nous a faite, c'est la vie éternelle.",
+        "S21": "Et voici ce qu’il nous a lui-même promis: c’est la vie éternelle."
+      }
+    },
+    {
+      "verse": 26,
+      "texts": {
+        "BDS": "C’est au sujet de ceux qui vous entraînent dans l’erreur que je vous écris ces choses.",
+        "DBY": "Je vous ai écrit ces choses touchant ceux qui vous égarent;",
+        "KJV": "These [things] have I written unto you concerning them that seduce you.",
+        "LSG": "Je vous ai écrit ces choses au sujet de ceux qui vous égarent.",
+        "MAB": "Je vous ai écrit ces choses touchant ceux qui vous séduisent.",
+        "OST": "Je vous ai écrit ces choses au sujet de ceux qui vous séduisent.",
+        "S21": "Je vous ai écrit cela par rapport à ceux qui vous égarent."
+      }
+    },
+    {
+      "verse": 27,
+      "texts": {
+        "BDS": "Quant à vous, l’Esprit dont vous avez été oints par le Christ demeure en vous. Vous n’avez donc pas besoin que l’on vous instruise, car cet Esprit dont vous avez été oints vous enseigne tout. Ce qu’il enseigne est vrai, il ne ment pas. Restez donc attachés à cet enseignement tel que vous l’avez reçu de l’Esprit.",
+        "DBY": "et, pour vous, l'onction que vous avez reçue de lui demeure en vous, et vous n'avez pas besoin que personne vous enseigne; mais comme la même onction vous enseigne à l'égard de toutes choses, et qu'elle est vraie et n'est pas mensonge, -et selon qu'elle vous a enseignés, vous demeurerez en lui.",
+        "KJV": "But the anointing which ye have received of him abideth in you, and ye need not that any man teach you: but as the same anointing teacheth you of all things, and is truth, and is no lie, and even as it hath taught you, ye shall abide in him.",
+        "LSG": "Pour vous, l'onction que vous avez reçue de lui demeure en vous, et vous n'avez pas besoin qu'on vous enseigne; mais comme son onction vous enseigne toutes choses, et qu'elle est véritable et qu'elle n'est point un mensonge, demeurez en lui selon les enseignements qu'elle vous a donnés.",
+        "MAB": "Mais l'Onction que vous avez reçue de lui demeure en vous, et vous n'avez pas besoin qu'on vous enseigne; mais comme la même Onction vous enseigne toutes choses, et qu'elle est véritable, et n'est pas un mensonge, et selon qu'elle vous a enseignés, vous demeurerez en lui.",
+        "OST": "Mais l'onction que vous avez reçue de lui, demeure en vous; et vous n'avez pas besoin que personne vous enseigne; mais comme cette même onction vous enseigne toutes choses, et qu'elle est véritable, et qu'elle n'est point un mensonge, demeurez en lui, selon qu'elle vous a enseignés.",
+        "S21": "Quant à vous, l'onction que vous avez reçue de Christ demeure en vous et vous n'avez pas besoin qu'on vous enseigne. Au contraire, puisque la même onction vous enseigne sur toute chose, qu'elle est véridique et dépourvue de mensonge, vous demeurerez en lui comme elle vous l’a appris."
+      }
+    },
+    {
+      "verse": 28,
+      "texts": {
+        "BDS": "Mes enfants, demeurez attachés au Christ pour qu’au moment où il paraîtra, nous soyons remplis d’assurance et que nous ne nous trouvions pas tout honteux loin de lui au moment de sa venue.",
+        "DBY": "Et maintenant, enfants, demeurez en lui, afin que, quand il sera manifesté, nous ayons de l'assurance et que nous ne soyons pas couverts de honte, de par lui, à sa venue.",
+        "KJV": "And now, little children, abide in him; that, when he shall appear, we may have confidence, and not be ashamed before him at his coming.",
+        "LSG": "Et maintenant, petits enfants, demeurez en lui, afin que, lorsqu'il paraîtra, nous ayons de l'assurance, et qu'à son avènement nous ne soyons pas confus et éloignés de lui.",
+        "MAB": "Maintenant donc, mes petits enfants, demeurez en lui ; afin que quand il apparaîtra, nous ayons assurance, et que nous ne soyons point confus de sa présence, à sa venue.",
+        "OST": "Maintenant donc, petits enfants, demeurez en lui, afin que, quand il paraîtra, nous ayons de la confiance et que nous ne soyons pas confus devant lui à son avènement.",
+        "S21": "Et maintenant, petits enfants, demeurez en lui. Ainsi, nous aurons de l'assurance lorsqu'il apparaîtra, nous n’aurons pas la honte d’être loin de lui lors de son retour."
+      }
+    },
+    {
+      "verse": 29,
+      "texts": {
+        "BDS": "Vous savez que le Christ est juste; reconnaissez, par conséquent, que tout homme qui accomplit ce qui est juste est né de lui.",
+        "DBY": "Si vous savez qu'il est juste, sachez que quiconque pratique la justice est né de lui.",
+        "KJV": "If ye know that he is righteous, ye know that every one that doeth righteousness is born of him.",
+        "LSG": "Si vous savez qu'il est juste, reconnaissez que quiconque pratique la justice est né de lui.",
+        "MAB": "Si vous savez qu'il est juste, sachez que quiconque fait ce qui est juste, est né de lui.",
+        "OST": "Si vous savez qu'il est juste, sachez que quiconque pratique la justice, est né de lui.",
+        "S21": "Si vous savez qu’il est juste, reconnaissez que toute personne qui pratique la justice est [aussi] née de lui."
+      }
+    }
+  ]
+}

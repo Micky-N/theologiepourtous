@@ -1,0 +1,690 @@
+{
+  "bookCode": "GEN",
+  "chapter": 41,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "Deux années entières passèrent. Puis le pharaon fit un rêve: il se tenait au bord du Nil",
+        "DBY": "Et il arriva, au bout de deux années révolues, que le Pharaon songea, et voici, il se tenait près du fleuve:",
+        "KJV": "And it came to pass at the end of two full years, that Pharaoh dreamed: and, behold, he stood by the river.",
+        "LSG": "Au bout de deux ans, Pharaon eut un songe. Voici, il se tenait près du fleuve.",
+        "MAB": "Mais il arriva qu'au bout de deux ans entiers Pharaon songea, et il lui semblait qu'il était près du fleuve.",
+        "OST": "Et il arriva, au bout de deux ans, que Pharaon eut un songe; et voici, il se tenait près du fleuve.",
+        "S21": "Au bout de 2 ans, le pharaon fit un rêve dans lequel il se tenait près du fleuve."
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "et vit sortir du fleuve sept vaches belles et bien grasses, qui se mirent à paître près de la rive.",
+        "DBY": "et voici, du fleuve montaient sept vaches, belles à voir, et grasses de chair, et elles paissaient dans les roseaux.",
+        "KJV": "And, behold, there came up out of the river seven well favoured kine and fatfleshed; and they fed in a meadow.",
+        "LSG": "Et voici, sept vaches belles à voir et grasses de chair montèrent hors du fleuve, et se mirent à paître dans la prairie.",
+        "MAB": "Et voici, sept jeunes vaches belles à voir, grasses et en bon point, montaient [hors] du fleuve, et paissaient dans des marécages.",
+        "OST": "Et voici que du fleuve montaient sept vaches belles et grasses, et elles paissaient dans le marécage.",
+        "S21": "Alors sept vaches belles et grasses sortirent du fleuve et se mirent à brouter dans la prairie."
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "Puis, après elles, sept autres vaches sortirent du fleuve, elles étaient laides et décharnées. Elles vinrent se placer à côté des premières vaches, au bord du fleuve.",
+        "DBY": "Et voici, après elles, sept autres vaches montaient du fleuve, laides à voir, et pauvres de chair; et elles se tinrent à côté des vaches qui étaient sur le bord du fleuve;",
+        "KJV": "And, behold, seven other kine came up after them out of the river, ill favoured and leanfleshed; and stood by the [other] kine upon the brink of the river.",
+        "LSG": "Sept autres vaches laides à voir et maigres de chair montèrent derrière elles hors du fleuve, et se tinrent à leurs côtés sur le bord du fleuve.",
+        "MAB": "Et voici sept autres jeunes vaches, laides à voir, et maigres, montaient [hors] du fleuve après les autres, et se tenaient auprès des autres jeunes vaches sur le bord du fleuve.",
+        "OST": "Et voici, sept autres vaches laides et maigres, montaient du fleuve après elles, et elles se tinrent auprès des autres vaches sur le bord du fleuve.",
+        "S21": "Sept autres vaches laides et maigres sortirent du fleuve après elles et se tinrent à côté d’elles au bord du fleuve."
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "Et voilà que les sept vaches laides et décharnées dévorèrent les sept vaches belles et grasses. Alors le pharaon se réveilla.",
+        "DBY": "et les vaches laides à voir, et pauvres de chair, mangèrent les sept vaches belles à voir, et grasses. Et le Pharaon s'éveilla.",
+        "KJV": "And the ill favoured and leanfleshed kine did eat up the seven well favoured and fat kine. So Pharaoh awoke.",
+        "LSG": "Les vaches laides à voir et maigres de chair mangèrent les sept vaches belles à voir et grasses de chair. Et Pharaon s'éveilla.",
+        "MAB": "Et les jeunes vaches laides à voir, et maigres, mangèrent les sept jeunes vaches belles à voir, et grasses. Alors Pharaon s'éveilla.",
+        "OST": "Et les vaches laides et maigres dévorèrent les sept vaches belles et grasses. Et Pharaon s'éveilla.",
+        "S21": "Les vaches laides et maigres mangèrent les sept vaches belles et grasses. Puis le pharaon se réveilla."
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "Puis il se rendormit et fit un second rêve: Sept épis poussaient sur une seule tige, des épis pleins et beaux.",
+        "DBY": "Et il s'endormit, et songea une seconde fois: et voici, sept épis gras et bons montaient sur une seule tige.",
+        "KJV": "And he slept and dreamed the second time: and, behold, seven ears of corn came up upon one stalk, rank and good.",
+        "LSG": "Il se rendormit, et il eut un second songe. Voici, sept épis gras et beaux montèrent sur une même tige.",
+        "MAB": "Puis il se rendormit, et songea pour la seconde fois, et il lui semblait que sept épis grenus et beaux sortaient d'un même tuyau.",
+        "OST": "Et il s'endormit et songea une seconde fois. Et voici sept épis gras et beaux poussaient sur une même tige.",
+        "S21": "Il se rendormit et fit un second rêve: sept épis gros et beaux montaient sur une même tige."
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "Puis sept épis maigres et desséchés par le vent d’orient poussèrent après eux.",
+        "DBY": "Et voici, sept épis pauvres et brûlés par le vent d'orient germaient après eux;",
+        "KJV": "And, behold, seven thin ears and blasted with the east wind sprung up after them.",
+        "LSG": "Et sept épis maigres et brûlés par le vent d'orient poussèrent après eux.",
+        "MAB": "Ensuite il lui semblait que sept autres épis minces et flétris par le vent d'Orient, germaient après ceux-là.",
+        "OST": "Puis, voici, sept épis maigres et brûlés par le vent d'Orient germaient après ceux-là.",
+        "S21": "Sept épis maigres et brûlés par le vent d'est poussèrent après eux."
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "Les épis maigres engloutirent les sept épis pleins et beaux. Alors le pharaon se réveilla et se rendit compte qu’il avait rêvé.",
+        "DBY": "et les épis pauvres dévorèrent les sept épis gras et pleins. Et le Pharaon s'éveilla; et voilà, c'était un songe.",
+        "KJV": "And the seven thin ears devoured the seven rank and full ears. And Pharaoh awoke, and, behold, [it was] a dream.",
+        "LSG": "Les épis maigres engloutirent les sept épis gras et pleins. Et Pharaon s'éveilla. Voilà le songe.",
+        "MAB": "Et les épis minces engloutirent les sept épis grenus et pleins. Alors Pharaon s'éveilla; et voilà le songe.",
+        "OST": "Et les épis maigres engloutirent les sept épis gras et pleins; et Pharaon s'éveilla, et voici, c'était un songe.",
+        "S21": "Les épis maigres engloutirent les sept épis gros et pleins. Puis le pharaon se réveilla. Voilà quel était le rêve."
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "Au matin, inquiet, il fit convoquer tous les magiciens et les sages d’Egypte et leur raconta ses rêves, mais aucun d’eux ne put les lui interpréter.",
+        "DBY": "Et il arriva, au matin, que son esprit fut troublé; et il envoya, et appela tous les devins de l'Égypte, et tous ses sages. Et le Pharaon leur raconta ses songes; et il n'y eut personne qui les interprétât au Pharaon.",
+        "KJV": "And it came to pass in the morning that his spirit was troubled; and he sent and called for all the magicians of Egypt, and all the wise men thereof: and Pharaoh told them his dream; but [there was] none that could interpret them unto Pharaoh.",
+        "LSG": "Le matin, Pharaon eut l'esprit agité, et il fit appeler tous les magiciens et tous les sages de l'Egypte. Il leur raconta ses songes. Mais personne ne put les expliquer à Pharaon.",
+        "MAB": "Et il arriva au matin que son esprit fut effrayé, et il envoya appeler tous les magiciens et tous les sages d'Egypte, et leur récita ses songes, mais il n'y avait personne qui les lui interprétât.",
+        "OST": "Et sur le matin son esprit était agité; et il envoya appeler tous les magiciens et tous les sages d'Égypte, et Pharaon leur raconta ses songes; mais il n'y eut personne qui les lui interpréta.",
+        "S21": "Le matin, le pharaon eut l'esprit troublé et il fit appeler tous les magiciens et tous les sages de l'Egypte. Il leur raconta ses rêves, mais personne ne put les lui expliquer."
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "Alors le chef des échansons prit la parole et dit au pharaon:\r\n—Je vais évoquer aujourd’hui le souvenir de ma faute.",
+        "DBY": "Et le chef des échansons parla au Pharaon, disant: Je rappelle aujourd'hui mes fautes.",
+        "KJV": "Then spake the chief butler unto Pharaoh, saying, I do remember my faults this day:",
+        "LSG": "Alors le chef des échansons prit la parole, et dit à Pharaon: Je vais rappeler aujourd'hui le souvenir de ma faute.",
+        "MAB": "Alors le grand Echanson parla à Pharaon, en disant : Je rappellerai aujourd'hui le souvenir de mes fautes.",
+        "OST": "Alors le grand échanson parla à Pharaon, en disant: Je vais rappeler aujourd'hui mes fautes.",
+        "S21": "Alors le grand responsable des boissons prit la parole et dit au pharaon: «Je vais rappeler aujourd'hui le souvenir de ma faute."
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "Le pharaon s’était emporté contre ses serviteurs et m’avait fait mettre aux arrêts avec le chef des panetiers dans la maison du commandant des gardes.",
+        "DBY": "Le Pharaon fut irrité contre ses serviteurs, et me mit sous garde, moi et le chef des panetiers, dans la maison du chef des gardes;",
+        "KJV": "Pharaoh was wroth with his servants, and put me in ward in the captain of the guard's house, [both] me and the chief baker:",
+        "LSG": "Pharaon s'était irrité contre ses serviteurs; et il m'avait fait mettre en prison dans la maison du chef des gardes, moi et le chef des panetiers.",
+        "MAB": "Lorsque Pharaon fut irrité contre ses serviteurs, et nous fit mettre, le grand Panetier et moi, en prison, dans la maison du Prévôt de l'hôtel;",
+        "OST": "Pharaon se mit en colère contre ses serviteurs, et me fit mettre en prison, dans la maison du chef des gardes, moi et le grand panetier.",
+        "S21": "Le pharaon s'était irrité contre ses serviteurs, et il m'avait fait mettre en prison dans la maison du chef des gardes, ainsi que le chef des boulangers."
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "Une nuit, nous avons fait tous deux un rêve ayant sa signification propre.",
+        "DBY": "et nous songeâmes un songe dans une même nuit, moi et lui; nous songeâmes chacun selon l'interprétation de son songe.",
+        "KJV": "And we dreamed a dream in one night, I and he; we dreamed each man according to the interpretation of his dream.",
+        "LSG": "Nous eûmes l'un et l'autre un songe dans une même nuit; et chacun de nous reçut une explication en rapport avec le songe qu'il avait eu.",
+        "MAB": "Alors lui et moi songeâmes un songe en une même nuit, chacun songeant [ce qui lui est arrivé] selon l'interprétation de son songe.",
+        "OST": "Alors nous fîmes, lui et moi, un songe dans une même nuit; nous songeâmes, chacun selon la signification de son songe.",
+        "S21": "Nous avons tous les deux fait un rêve au cours d’une même nuit, et chacun de nous a reçu une explication en rapport avec le rêve qu'il avait fait."
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "Or, il y avait là avec nous un jeune homme hébreu, un esclave du commandant des gardes; nous lui avons raconté nos deux rêves et il a donné l’interprétation de chacun d’eux.",
+        "DBY": "Et il y avait là avec nous un jeune hébreu, serviteur du chef des gardes; et nous lui racontâmes, et il nous interpréta nos songes; il donna à chacun l'interprétation selon son songe.",
+        "KJV": "And [there was] there with us a young man, an Hebrew, servant to the captain of the guard; and we told him, and he interpreted to us our dreams; to each man according to his dream he did interpret.",
+        "LSG": "Il y avait là avec nous un jeune Hébreu, esclave du chef des gardes. Nous lui racontâmes nos songes, et il nous les expliqua.",
+        "MAB": "Or il y avait là avec nous un garçon Hébreu, serviteur du Prévôt de l'hôtel, et nous lui contâmes nos songes, et il nous les expliqua, donnant à chacun l'explication selon son songe.",
+        "OST": "Or, il y avait là avec nous un jeune homme hébreu, serviteur du chef des gardes; et nous lui racontâmes nos songes, et il nous les interpréta; il donna à chacun une interprétation d'après son songe.",
+        "S21": "Il y avait là avec nous un jeune Hébreu, un esclave du chef des gardes. Nous lui avons raconté nos rêves et il nous les a expliqués."
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "Par la suite, les choses se sont passées conformément à l’interprétation qu’il nous avait donnée: moi j’ai été rétabli dans mes fonctions, et le panetier a été pendu.",
+        "DBY": "Et il arriva que, comme il nous avait interprété, ainsi il advint: moi, le Pharaon me rétablit dans mon poste, et lui, il le pendit.",
+        "KJV": "And it came to pass, as he interpreted to us, so it was; me he restored unto mine office, and him he hanged.",
+        "LSG": "Les choses sont arrivées selon l'explication qu'il nous avait donnée. Pharaon me rétablit dans ma charge, et il fit pendre le chef des panetiers.",
+        "MAB": "Et la chose arriva comme il nous l'avait interprétée; [car le Roi] me rétablit en mon état, et fit pendre l'autre.",
+        "OST": "Et la chose arriva comme il nous l'avait interprétée: le roi me rétablit dans ma place, et fit pendre l'autre.",
+        "S21": "Tout s’est produit conformément à l'explication qu'il nous avait donnée: le pharaon m'a rétabli dans mes fonctions et a fait pendre le chef des boulangers.»"
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "Alors le pharaon envoya chercher Joseph et, sur le champ, on courut le faire sortir du cachot; on le rasa, on le fit changer d’habits et on l’introduisit auprès du pharaon.",
+        "DBY": "Et le Pharaon envoya, et appela Joseph; et on le fit accourir de la fosse, et il se rasa, et changea de vêtements; et il vint vers le Pharaon.",
+        "KJV": "Then Pharaoh sent and called Joseph, and they brought him hastily out of the dungeon: and he shaved [himself], and changed his raiment, and came in unto Pharaoh.",
+        "LSG": "Pharaon fit appeler Joseph. On le fit sortir en hâte de prison. Il se rasa, changea de vêtements, et se rendit vers Pharaon.",
+        "MAB": "Alors Pharaon envoya appeler Joseph, et on le fit sortir en hâte de la prison; et on le rasa, et on lui fit changer de vêtements; puis il vint vers Pharaon.",
+        "OST": "Alors Pharaon envoya appeler Joseph, et on le fit sortir en hâte de la prison; on le rasa, on le fit changer de vêtements, et il vint vers Pharaon.",
+        "S21": "Le pharaon fit appeler Joseph. On s'empressa de le faire sortir de prison. Il se rasa, changea de vêtements et se rendit vers le pharaon."
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "Celui-ci dit à Joseph:\r\n—J’ai fait un rêve et personne n’est capable de l’interpréter. Or, j’ai entendu dire qu’il te suffit d’entendre raconter un rêve pour pouvoir l’interpréter.",
+        "DBY": "Et le Pharaon dit à Joseph: J'ai songé un songe, et il n'y a personne pour l'interpréter; et j'ai entendu dire de toi que tu comprends un songe pour l'interpréter.",
+        "KJV": "And Pharaoh said unto Joseph, I have dreamed a dream, and [there is] none that can interpret it: and I have heard say of thee, [that] thou canst understand a dream to interpret it.",
+        "LSG": "Pharaon dit à Joseph: J'ai eu un songe. Personne ne peut l'expliquer; et j'ai appris que tu expliques un songe, après l'avoir entendu.",
+        "MAB": "Et Pharaon dit à Joseph : J'ai songé un songe, et il n'[y a] personne qui l'explique; or j'ai appris que tu sais expliquer les songes.",
+        "OST": "Et Pharaon dit à Joseph: J'ai fait un songe, et il n'y a personne qui l'interprète. Or, j'ai entendu dire que tu n'as qu'à entendre un songe pour l'interpréter.",
+        "S21": "Le pharaon dit à Joseph: «J'ai fait un rêve. Personne ne peut l'expliquer, et j'ai appris à ton sujet que tu peux expliquer un rêve après l'avoir entendu.»"
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "Joseph répondit au pharaon:\r\n—Ce n’est pas moi, c’est Dieu qui donnera au pharaon l’explication qui convient.",
+        "DBY": "Et Joseph répondit au Pharaon, disant: Cela n'est pas à moi; Dieu donnera une réponse de paix au Pharaon.",
+        "KJV": "And Joseph answered Pharaoh, saying, [It is] not in me: God shall give Pharaoh an answer of peace.",
+        "LSG": "Joseph répondit à Pharaon, en disant: Ce n'est pas moi! c'est Dieu qui donnera une réponse favorable à Pharaon.",
+        "MAB": "Et Joseph répondit à Pharaon, en disant : Ce sera Dieu, et non pas moi, qui répondra [ce qui concerne] la prospérité de Pharaon.",
+        "OST": "Et Joseph répondit à Pharaon, en disant: Ce n'est pas moi, c'est Dieu qui répondra touchant la prospérité de Pharaon.",
+        "S21": "Joseph répondit au pharaon: «Ce n'est pas moi, c'est Dieu qui donnera une réponse favorable au pharaon.»"
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "Le pharaon dit alors à Joseph:\r\n—Dans mon rêve, je me tenais debout sur le bord du Nil.",
+        "DBY": "Et le Pharaon dit à Joseph: Dans mon songe, voici, je me tenais sur le bord du fleuve; et voici,",
+        "KJV": "And Pharaoh said unto Joseph, In my dream, behold, I stood upon the bank of the river:",
+        "LSG": "Pharaon dit alors à Joseph: Dans mon songe, voici, je me tenais sur le bord du fleuve.",
+        "MAB": "Et Pharaon dit à Joseph : Je songeais que j'étais sur le bord du fleuve.",
+        "OST": "Et Pharaon dit à Joseph: Dans mon songe, voici, je me tenais sur le bord du fleuve.",
+        "S21": "Le pharaon dit alors à Joseph: «Dans mon rêve, je me tenais sur le bord du fleuve."
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "Sept vaches grasses et belles sortirent du fleuve et se mirent à paître sur la rive.",
+        "DBY": "du fleuve montaient sept vaches grasses de chair, et belles à voir, et elles paissaient dans les roseaux.",
+        "KJV": "And, behold, there came up out of the river seven kine, fatfleshed and well favoured; and they fed in a meadow:",
+        "LSG": "Et voici, sept vaches grasses de chair et belles d'apparence montèrent hors du fleuve, et se mirent à paître dans la prairie.",
+        "MAB": "Et voici, sept jeunes vaches grasses, et en bon point, et fort belles, sortaient du fleuve, et paissaient dans des marécages.",
+        "OST": "Et voici que du fleuve montaient sept vaches grasses et belles, et elles paissaient dans le marécage.",
+        "S21": "Alors sept vaches grasses et belles sont sorties du fleuve et se sont mises à brouter dans la prairie."
+      }
+    },
+    {
+      "verse": 19,
+      "texts": {
+        "BDS": "Puis sept autres vaches surgirent derrière elles, maigres, laides et décharnées; elles étaient si misérables que je n’en ai jamais vues de pareilles dans tout le pays d’Egypte.",
+        "DBY": "Et voici, sept autres vaches montaient après elles, chétives, et très-laides à voir, et maigres de chair: je n'en ai pas vu de semblables en laideur dans tout le pays d'Égypte.",
+        "KJV": "And, behold, seven other kine came up after them, poor and very ill favoured and leanfleshed, such as I never saw in all the land of Egypt for badness:",
+        "LSG": "Sept autres vaches montèrent derrière elles, maigres, fort laides d'apparence, et décharnées: je n'en ai point vu d'aussi laides dans tout le pays d'Egypte.",
+        "MAB": "Et voici, sept autres jeunes vaches montaient après celles-là, chétives, si laides, et si maigres, que je n'en ai jamais vu de semblables en laideur dans tout le pays d'Egypte.",
+        "OST": "Et voici, sept autres vaches montaient après elles, chétives, et très laides, et décharnées; je n'en ai jamais vu de semblables en laideur dans tout le pays d'Égypte.",
+        "S21": "Sept autres vaches sont sorties après elles, maigres, très laides et décharnées; je n'en ai pas vu d'aussi laides dans toute l'Egypte."
+      }
+    },
+    {
+      "verse": 20,
+      "texts": {
+        "BDS": "Ces vaches décharnées et laides dévorèrent les sept vaches grasses,",
+        "DBY": "Et les vaches maigres et laides mangèrent les sept premières vaches, les grasses:",
+        "KJV": "And the lean and the ill favoured kine did eat up the first seven fat kine:",
+        "LSG": "Les vaches décharnées et laides mangèrent les sept premières vaches qui étaient grasses.",
+        "MAB": "Mais les jeunes vaches maigres et laides dévorèrent les sept premières jeunes vaches grasses;",
+        "OST": "Et les vaches décharnées et laides dévorèrent les sept premières vaches grasses,",
+        "S21": "Les vaches décharnées et laides ont mangé les sept premières vaches qui étaient grasses."
+      }
+    },
+    {
+      "verse": 21,
+      "texts": {
+        "BDS": "qui furent englouties dans leur ventre sans que l’on remarque qu’elles avaient été avalées: les vaches maigres restaient aussi misérables qu’auparavant. Là-dessus je me suis réveillé.",
+        "DBY": "elles entrèrent dans leur ventre, et il ne paraissait point qu'elles fussent entrées dans leur ventre, et leur aspect était aussi laid qu'au commencement.",
+        "KJV": "And when they had eaten them up, it could not be known that they had eaten them; but they [were] still ill favoured, as at the beginning. So I awoke.",
+        "LSG": "Elles les engloutirent dans leur ventre, sans qu'on s'aperçût qu'elles y fussent entrées; et leur apparence était laide comme auparavant. Et je m'éveillai.",
+        "MAB": "Qui entrèrent dans leur ventre, sans qu'il parut qu'elles y fussent entrées; car elles étaient aussi laides à voir qu'au commencement; alors je me réveillai.",
+        "OST": "Qui entrèrent dans leur ventre sans qu'il parût qu'elles y fussent entrées, et elles étaient aussi laides qu'au commencement.",
+        "S21": "Elles les ont englouties dans leur ventre sans qu'on s'aperçoive qu'elles y étaient entrées: leur apparence était aussi laide qu’avant. Puis je me suis réveillé."
+      }
+    },
+    {
+      "verse": 22,
+      "texts": {
+        "BDS": "Puis j’ai fait un autre rêve: Je voyais sept épis pleins et beaux pousser sur une même tige.",
+        "DBY": "Et je m'éveillai. Et je vis dans mon songe; et voici, sept épis montaient sur une seule tige, pleins et bons;",
+        "KJV": "And I saw in my dream, and, behold, seven ears came up in one stalk, full and good:",
+        "LSG": "Je vis encore en songe sept épis pleins et beaux, qui montèrent sur une même tige.",
+        "MAB": "Je vis aussi en songeant, et il me semblait que sept épis sortaient d'un [même] tuyau, pleins et beaux.",
+        "OST": "Alors je me réveillai. Je vis encore en songeant, et sept épis pleins et beaux poussaient sur une même tige.",
+        "S21": "J'ai vu encore en rêve sept épis pleins et beaux qui montaient sur une même tige."
+      }
+    },
+    {
+      "verse": 23,
+      "texts": {
+        "BDS": "Puis sept épis secs, maigres et desséchés par le vent d’orient poussèrent après eux.",
+        "DBY": "et voici, sept épis desséchés, pauvres, brûlés par le vent d'orient, germaient après eux;",
+        "KJV": "And, behold, seven ears, withered, thin, [and] blasted with the east wind, sprung up after them:",
+        "LSG": "Et sept épis vides, maigres, brûlés par le vent d'orient, poussèrent après eux.",
+        "MAB": "Puis voici sept épis petits, minces, et flétris par le vent d'Orient, qui germaient après.",
+        "OST": "Puis, voici, sept épis stériles, maigres et brûlés par le vent d'Orient, germaient après ceux-là.",
+        "S21": "Sept épis vides, maigres, brûlés par le vent d'est, ont poussé après eux."
+      }
+    },
+    {
+      "verse": 24,
+      "texts": {
+        "BDS": "Les épis maigres engloutirent les sept beaux épis. J’ai raconté tout cela aux magiciens, mais aucun d’eux n’a pu me l’expliquer.",
+        "DBY": "et les épis pauvres dévorèrent les sept bons épis. Et je l'ai dit aux devins; et il n'y a eu personne qui me l'expliquât.",
+        "KJV": "And the thin ears devoured the seven good ears: and I told [this] unto the magicians; but [there was] none that could declare [it] to me.",
+        "LSG": "Les épis maigres engloutirent les sept beaux épis. Je l'ai dit aux magiciens, mais personne ne m'a donné l'explication.",
+        "MAB": "Mais les épis minces engloutirent les sept beaux épis; et j'ai dit [ces songes] aux magiciens; mais aucun ne me les a expliqués.",
+        "OST": "Et les épis maigres engloutirent les sept beaux épis. Et je l'ai dit aux magiciens; mais nul ne me l'explique.",
+        "S21": "Les épis maigres ont englouti les sept beaux épis. Je l'ai dit aux magiciens, mais personne ne m'a donné l'explication.»"
+      }
+    },
+    {
+      "verse": 25,
+      "texts": {
+        "BDS": "Joseph dit au pharaon:\r\n—Ce que le pharaon a rêvé constitue un seul et même rêve. Dieu a révélé au pharaon ce qu’il va faire.",
+        "DBY": "Et Joseph dit au Pharaon: Le songe du Pharaon est un: Dieu a déclaré au Pharaon ce qu'il va faire.",
+        "KJV": "And Joseph said unto Pharaoh, The dream of Pharaoh [is] one: God hath shewed Pharaoh what he [is] about to do.",
+        "LSG": "Joseph dit à Pharaon: Ce qu'a songé Pharaon est une seule chose; Dieu a fait connaître à Pharaon ce qu'il va faire.",
+        "MAB": "Et Joseph répondit à Pharaon : Ce que Pharaon a songé n'est qu'une même chose; Dieu a déclaré à Pharaon ce qu'il s'en va faire.",
+        "OST": "Et Joseph répondit à Pharaon: Ce qu'a songé Pharaon est une seule chose; Dieu a déclaré à Pharaon ce qu'il va faire.",
+        "S21": "Joseph dit au pharaon: «Ce qu'a rêvé le pharaon correspond à un seul événement. Dieu a révélé au pharaon ce qu'il va faire."
+      }
+    },
+    {
+      "verse": 26,
+      "texts": {
+        "BDS": "Les sept belles vaches représentent sept années, tout comme les sept beaux épis; c’est un seul et même songe.",
+        "DBY": "Les sept bonnes vaches, ce sont sept années; et les sept bons épis, ce sont sept années: c'est un seul songe.",
+        "KJV": "The seven good kine [are] seven years; and the seven good ears [are] seven years: the dream [is] one.",
+        "LSG": "Les sept vaches belles sont sept années: et les sept épis beaux sont sept années: c'est un seul songe.",
+        "MAB": "Les sept belles jeunes vaches sont sept ans; et les sept beaux épis sont sept ans; c'est un même songe.",
+        "OST": "Les sept belles vaches sont sept ans; et les sept beaux épis sont sept ans; c'est un même songe.",
+        "S21": "Les sept belles vaches sont sept années, et les sept beaux épis aussi: c'est un seul rêve."
+      }
+    },
+    {
+      "verse": 27,
+      "texts": {
+        "BDS": "Les sept vaches décharnées et laides qui ont surgi derrière les premières représentent aussi sept années, et les sept épis maigres, desséchés par le vent d’orient, seront sept années de famine.",
+        "DBY": "Et les sept vaches maigres et laides, qui montaient après elles, ce sont sept années; et les sept épis vides, brûlés par le vent d'orient, ce sont sept années de famine.",
+        "KJV": "And the seven thin and ill favoured kine that came up after them [are] seven years; and the seven empty ears blasted with the east wind shall be seven years of famine.",
+        "LSG": "Les sept vaches décharnées et laides, qui montaient derrière les premières, sont sept années; et les sept épis vides, brûlés par le vent d'orient, seront sept années de famine.",
+        "MAB": "Et les sept jeunes vaches maigres et laides qui montaient après celles-là, sont sept ans; et les sept épis vides [et] flétris par le vent d'Orient, seront sept ans de famine.",
+        "OST": "Et les sept vaches décharnées et laides, qui montaient après celles-là sont sept ans, et les sept épis vides, brûlés par le vent d'Orient, seront sept ans de famine.",
+        "S21": "Les sept vaches décharnées et laides sorties après les premières sont sept années, tout comme les sept épis vides brûlés par le vent d'est. Ce sont sept années de famine."
+      }
+    },
+    {
+      "verse": 28,
+      "texts": {
+        "BDS": "Comme je l’ai dit au pharaon: Dieu a révélé au pharaon ce qu’il va faire.",
+        "DBY": "C'est la parole que je dis au Pharaon; ce que Dieu va faire, il le montre au Pharaon.",
+        "KJV": "This [is] the thing which I have spoken unto Pharaoh: What God [is] about to do he sheweth unto Pharaoh.",
+        "LSG": "Ainsi, comme je viens de le dire à Pharaon, Dieu a fait connaître à Pharaon ce qu'il va faire.",
+        "MAB": "C'est ce que j'ai dit à Pharaon, [savoir] que Dieu a fait voir à Pharaon ce qu'il s'en va faire.",
+        "OST": "C'est ce que j'ai dit à Pharaon: Dieu a fait voir à Pharaon ce qu'il va faire.",
+        "S21": "C’est comme je viens de le dire au pharaon, Dieu montre au pharaon ce qu'il va faire:"
+      }
+    },
+    {
+      "verse": 29,
+      "texts": {
+        "BDS": "Il y aura d’abord sept années de grande abondance dans toute l’Egypte.",
+        "DBY": "Voici, sept années de grande abondance viennent dans tout le pays d'Égypte;",
+        "KJV": "Behold, there come seven years of great plenty throughout all the land of Egypt:",
+        "LSG": "Voici, il y aura sept années de grande abondance dans tout le pays d'Egypte.",
+        "MAB": "Voici, sept ans viennent [auxquels il y aura] une grande abondance dans tout le pays d'Egypte.",
+        "OST": "Voici, il va venir sept années de grande abondance dans tout le pays d'Égypte.",
+        "S21": "il y aura sept années de grande abondance dans toute l'Egypte;"
+      }
+    },
+    {
+      "verse": 30,
+      "texts": {
+        "BDS": "Elles seront suivies de sept années de famine qui feront oublier toute cette abondance en Egypte, tant la famine épuisera le pays.",
+        "DBY": "et sept années de famine se lèveront après elles; et toute l'abondance sera oubliée dans le pays d'Égypte, et la famine consumera le pays;",
+        "KJV": "And there shall arise after them seven years of famine; and all the plenty shall be forgotten in the land of Egypt; and the famine shall consume the land;",
+        "LSG": "Sept années de famine viendront après elles; et l'on oubliera toute cette abondance au pays d'Egypte, et la famine consumera le pays.",
+        "MAB": "Mais après ces années-là viendront sept ans de famine; alors on oubliera toute cette abondance au pays d'Egypte, et la famine consumera le pays.",
+        "OST": "Mais elles seront suivies de sept ans de famine; et toute cette abondance sera oubliée dans le pays d'Égypte, et la famine consumera le pays.",
+        "S21": "sept années de famine les suivront, et l'on oubliera toute cette abondance en Egypte. La famine détruira le pays."
+      }
+    },
+    {
+      "verse": 31,
+      "texts": {
+        "BDS": "Le souvenir même de l’abondance dont le pays aura joui s’effacera à cause de cette famine, car elle sévira très durement.",
+        "DBY": "et l'abondance ne sera plus connue dans le pays, à cause de cette famine qui viendra après; car elle sera très-intense.",
+        "KJV": "And the plenty shall not be known in the land by reason of that famine following; for it [shall be] very grievous.",
+        "LSG": "Cette famine qui suivra sera si forte qu'on ne s'apercevra plus de l'abondance dans le pays.",
+        "MAB": "Et on ne reconnaîtra plus cette abondance au pays, à cause de la famine qui viendra après; car elle sera très-grande.",
+        "OST": "Et l'abondance ne paraîtra plus dans le pays, à cause de cette famine qui viendra après; car elle sera très grande.",
+        "S21": "Cette famine qui suivra sera si forte qu'on ne s'apercevra plus de l'abondance dans le pays."
+      }
+    },
+    {
+      "verse": 32,
+      "texts": {
+        "BDS": "Si le rêve du pharaon s’est répété par deux fois, c’est que Dieu a irrévocablement décidé la chose et qu’il va l’exécuter sans délai.",
+        "DBY": "Et que le songe ait été répété deux fois au Pharaon, c'est que la chose est arrêtée de la part de Dieu, et que Dieu se hâte de la faire.",
+        "KJV": "And for that the dream was doubled unto Pharaoh twice; [it is] because the thing [is] established by God, and God will shortly bring it to pass.",
+        "LSG": "Si Pharaon a vu le songe se répéter une seconde fois, c'est que la chose est arrêtée de la part de Dieu, et que Dieu se hâtera de l'exécuter.",
+        "MAB": "Et quant à ce que le songe a été réitéré à Pharaon pour la seconde fois, c'est que la chose est arrêtée de Dieu, et que Dieu se hâte de l'exécuter.",
+        "OST": "Et quant à ce que le songe s'est reproduit deux fois pour Pharaon, c'est que la chose est arrêtée de Dieu, et que Dieu se hâte de l'accomplir.",
+        "S21": "Si le pharaon a vu le rêve se répéter, c'est que la décision est ferme de la part de Dieu et qu’il la mettra rapidement en œuvre."
+      }
+    },
+    {
+      "verse": 33,
+      "texts": {
+        "BDS": "Maintenant donc, que le pharaon choisisse sans tarder un homme avisé et sage et qu’il le mette à la tête du pays.",
+        "DBY": "Et maintenant, que le Pharaon se cherche un homme intelligent et sage, et qu'il l'établisse sur le pays d'Égypte.",
+        "KJV": "Now therefore let Pharaoh look out a man discreet and wise, and set him over the land of Egypt.",
+        "LSG": "Maintenant, que Pharaon choisisse un homme intelligent et sage, et qu'il le mette à la tête du pays d'Egypte.",
+        "MAB": "Or maintenant, que Pharaon choisisse un homme entendu et sage, et qu'il l'établisse sur le pays d'Egypte.",
+        "OST": "Or, maintenant, que Pharaon choisisse un homme entendu et sage, et qu'il l'établisse sur le pays d'Égypte.",
+        "S21": "Maintenant, que le pharaon choisisse un homme intelligent et sage et qu'il le mette à la tête de l'Egypte."
+      }
+    },
+    {
+      "verse": 34,
+      "texts": {
+        "BDS": "Que le pharaon agisse ainsi: Qu’il nomme dans tout le pays des commissaires qui prélèveront le cinquième de toutes les récoltes d’Egypte durant les sept années d’abondance.",
+        "DBY": "Que le Pharaon fasse cela, et qu'il prépose des commissaires sur le pays, et qu'il lève le cinquième du pays d'Égypte pendant les sept années d'abondance;",
+        "KJV": "Let Pharaoh do [this], and let him appoint officers over the land, and take up the fifth part of the land of Egypt in the seven plenteous years.",
+        "LSG": "Que Pharaon établisse des commissaires sur le pays, pour lever un cinquième des récoltes de l'Egypte pendant les sept années d'abondance.",
+        "MAB": "Que Pharaon aussi fasse ceci : Qu'il établisse des Commissaires sur le pays, et qu'il prenne la cinquième partie [du revenu] du pays d'Egypte durant les sept années d'abondance.",
+        "OST": "Que Pharaon établisse et institue des commissaires sur le pays, et qu'il prenne le cinquième du revenu du pays d'Égypte, durant les sept années d'abondance.",
+        "S21": "Que le pharaon établisse des commissaires sur le pays pour prélever un cinquième des récoltes de l'Egypte pendant les sept années d'abondance."
+      }
+    },
+    {
+      "verse": 35,
+      "texts": {
+        "BDS": "Ils collecteront les vivres que produiront les bonnes années qui viennent, ils emmagasineront le blé dans les villes sous l’autorité du pharaon, et le garderont comme réserve de vivres.",
+        "DBY": "et qu'ils rassemblent tous les vivres de ces bonnes années qui viennent, et qu'ils amassent le blé sous la main du Pharaon pour nourriture dans les villes, et qu'ils le gardent.",
+        "KJV": "And let them gather all the food of those good years that come, and lay up corn under the hand of Pharaoh, and let them keep food in the cities.",
+        "LSG": "Qu'ils rassemblent tous les produits de ces bonnes années qui vont venir; qu'ils fassent, sous l'autorité de Pharaon, des amas de blé, des approvisionnements dans les villes, et qu'ils en aient la garde.",
+        "MAB": "Et qu'on amasse tous les vivres de ces bonnes années qui viendront, et que le blé qu'on amassera, [demeure] sous la puissance de Pharaon pour nourriture dans les villes, et qu'on le garde.",
+        "OST": "Et qu'ils rassemblent tous les vivres de ces bonnes années qui viennent, et qu'ils amassent du froment sous la main de Pharaon, des vivres dans les villes, et qu'ils les gardent.",
+        "S21": "Qu'ils rassemblent tous les produits de ces bonnes années à venir, qu'ils amassent, sous l'autorité du pharaon, du blé et des vivres dans les villes et qu'ils en aient la garde."
+      }
+    },
+    {
+      "verse": 36,
+      "texts": {
+        "BDS": "Ces provisions serviront de réserve pour le pays, en prévision des sept années de famine qui s’abattront sur l’Egypte. Ainsi les habitants du pays ne mourront pas de faim.",
+        "DBY": "Et les vivres seront une réserve pour le pays, pour les sept années de famine qui seront dans le pays d'Égypte, et le pays ne sera pas détruit par la famine.",
+        "KJV": "And that food shall be for store to the land against the seven years of famine, which shall be in the land of Egypt; that the land perish not through the famine.",
+        "LSG": "Ces provisions seront en réserve pour le pays, pour les sept années de famine qui arriveront dans le pays d'Egypte, afin que le pays ne soit pas consumé par la famine.",
+        "MAB": "Et ces vivres-là seront pour la provision du pays durant les sept années de famine qui seront au pays d'Egypte, afin que le pays ne soit pas consumé par la famine.",
+        "OST": "Et ces vivres seront en réserve pour le pays, pour les sept années de famine qui seront au pays d'Égypte, afin que le pays ne soit pas consumé par la famine.",
+        "S21": "Ces provisions formeront une réserve pour le pays, pour les sept années de famine qui frapperont l’Egypte, afin que le pays ne soit pas détruit par la famine.»"
+      }
+    },
+    {
+      "verse": 37,
+      "texts": {
+        "BDS": "Cette proposition plut au pharaon et à tous ses hauts fonctionnaires.",
+        "DBY": "Et la chose fut bonne aux yeux du Pharaon et aux yeux de tous ses serviteurs",
+        "KJV": "And the thing was good in the eyes of Pharaoh, and in the eyes of all his servants.",
+        "LSG": "Ces paroles plurent à Pharaon et à tous ses serviteurs.",
+        "MAB": "Et la chose plut à Pharaon, et à tous ses serviteurs.",
+        "OST": "Et ce discours plut à Pharaon, et à tous ses serviteurs.",
+        "S21": "Ces paroles plurent au pharaon et à tous ses serviteurs."
+      }
+    },
+    {
+      "verse": 38,
+      "texts": {
+        "BDS": "Alors le pharaon leur dit:\r\n—Trouverions-nous un homme aussi compétent que celui-ci en qui habite l’Esprit de Dieu?",
+        "DBY": "Et le Pharaon dit à ses serviteurs: Trouverons-nous un homme semblable à celui-ci, en qui est l'esprit des dieux?",
+        "KJV": "And Pharaoh said unto his servants, Can we find [such a one] as this [is], a man in whom the Spirit of God [is]?",
+        "LSG": "Et Pharaon dit à ses serviteurs: Trouverions-nous un homme comme celui-ci, ayant en lui l'esprit de Dieu?",
+        "MAB": "Et Pharaon dit à ses serviteurs : Pourrions-nous trouver un homme semblable à celui-ci, qui eût l'Esprit de Dieu?",
+        "OST": "Et Pharaon dit à ses serviteurs: Trouverions-nous un homme comme celui-ci, qui a l'esprit de Dieu?",
+        "S21": "Le pharaon dit à ses serviteurs: «Pourrions-nous trouver un homme tel que celui-ci, qui a en lui l'Esprit de Dieu?»"
+      }
+    },
+    {
+      "verse": 39,
+      "texts": {
+        "BDS": "Le pharaon dit à Joseph:\r\n—Puisque Dieu t’a fait connaître toutes ces choses, il n’y a personne qui soit aussi avisé et aussi sage que toi.",
+        "DBY": "Et le Pharaon dit à Joseph: Puisque Dieu t'a fait connaître tout cela, personne n'est intelligent et sage comme toi.",
+        "KJV": "And Pharaoh said unto Joseph, Forasmuch as God hath shewed thee all this, [there is] none so discreet and wise as thou [art]:",
+        "LSG": "Et Pharaon dit à Joseph: Puisque Dieu t'a fait connaître toutes ces choses, il n'y a personne qui soit aussi intelligent et aussi sage que toi.",
+        "MAB": "Et Pharaon dit à Joseph : Puisque Dieu t'a fait connaître toutes ces choses, il n'y a personne qui soit si entendu ni si sage que toi.",
+        "OST": "Et Pharaon dit à Joseph: Puisque Dieu t'a fait connaître tout ceci, nul n'est entendu, ni sage autant que toi.",
+        "S21": "Et le pharaon dit à Joseph: «Puisque Dieu t'a fait connaître tout cela, il n'y a personne qui soit aussi intelligent et aussi sage que toi."
+      }
+    },
+    {
+      "verse": 40,
+      "texts": {
+        "BDS": "Tu seras donc à la tête de mon royaume, et tout mon peuple obéira à tes ordres. Moi-même je ne serai au-dessus de toi que par le trône.",
+        "DBY": "Toi, tu seras sur ma maison, et tout mon peuple se dirigera d'après ton commandement; seulement quant au trône, je serai plus grand que toi.",
+        "KJV": "Thou shalt be over my house, and according unto thy word shall all my people be ruled: only in the throne will I be greater than thou.",
+        "LSG": "Je t'établis sur ma maison, et tout mon peuple obéira à tes ordres. Le trône seul m'élèvera au-dessus de toi.",
+        "MAB": "Tu seras sur ma maison, et tout mon peuple te baisera la bouche; seulement je serai, plus grand que toi quant au trône.",
+        "OST": "C'est toi qui seras sur ma maison, et tout mon peuple obéira à ta bouche. Je serai seulement plus grand que toi par le trône.",
+        "S21": "Tu seras responsable de ma maison et tout mon peuple obéira à tes ordres. Le trône seul m'élèvera au-dessus de toi.»"
+      }
+    },
+    {
+      "verse": 41,
+      "texts": {
+        "BDS": "Ainsi, lui dit-il, je te mets à la tête de toute l’Egypte.",
+        "DBY": "Et le Pharaon dit à Joseph: Vois, je t'ai établi sur tout le pays d'Égypte.",
+        "KJV": "And Pharaoh said unto Joseph, See, I have set thee over all the land of Egypt.",
+        "LSG": "Pharaon dit à Joseph: Vois, je te donne le commandement de tout le pays d'Egypte.",
+        "MAB": "Pharaon dit encore à Joseph : Regarde, je t'ai établi sur tout le pays d'Egypte.",
+        "OST": "Puis Pharaon dit à Joseph: Regarde, je t'établis sur tout le pays d'Égypte.",
+        "S21": "Le pharaon dit à Joseph: «Vois, je te donne le commandement de toute l'Egypte.»"
+      }
+    },
+    {
+      "verse": 42,
+      "texts": {
+        "BDS": "Et le pharaon retira son anneau de sa main et le passa au doigt de Joseph; il le fit revêtir d’habits de fin lin et lui suspendit un collier d’or au cou.",
+        "DBY": "Etle Pharaon ôta son anneau de sa main, et le mit à la main de Joseph, et il le revêtit de vêtements de byssus, et mit un collier d'or à son cou;",
+        "KJV": "And Pharaoh took off his ring from his hand, and put it upon Joseph's hand, and arrayed him in vestures of fine linen, and put a gold chain about his neck;",
+        "LSG": "Pharaon ôta son anneau de la main, et le mit à la main de Joseph; il le revêtit d'habits de fin lin, et lui mit un collier d'or au cou.",
+        "MAB": "Alors Pharaon ôta son anneau de sa main, et le mit en celle de Joseph, et le fit vêtir d'habits de fin lin, et lui mit un collier d'or au cou.",
+        "OST": "Alors Pharaon ôta son anneau de sa main, et le mit à la main de Joseph; et il le fit revêtir d'habits de fin lin, et lui mit un collier d'or au cou.",
+        "S21": "Le pharaon retira l’anneau de son doigt et le passa au doigt de Joseph. Il lui donna des habits en fin lin et lui mit un collier d'or au cou."
+      }
+    },
+    {
+      "verse": 43,
+      "texts": {
+        "BDS": "Il le fit monter sur son deuxième char et, sur son parcours, on cria:\r\n—A genoux!\r\nC’est ainsi qu’il le mit à la tête de toute l’Egypte.",
+        "DBY": "et il le fit monter sur le second char qui était à lui; et on criait devant lui: Abrec! Et il l'établit sur tout le pays d'Égypte.",
+        "KJV": "And he made him to ride in the second chariot which he had; and they cried before him, Bow the knee: and he made him [ruler] over all the land of Egypt.",
+        "LSG": "Il le fit monter sur le char qui suivait le sien; et l'on criait devant lui: A genoux! C'est ainsi que Pharaon lui donna le commandement de tout le pays d'Egypte.",
+        "MAB": "Et le fit monter sur le chariot qui était le second après le sien, et on criait devant lui; qu'on s'agenouille; et il l'établit sur tout le pays d'Egypte.",
+        "OST": "Et il le fit monter sur son second char; et l'on criait devant lui: A genoux! Et il l'établit sur tout le pays d'Égypte.",
+        "S21": "Il le fit monter sur le char qui suivait le sien et l'on criait devant lui: «A genoux!» C'est ainsi que le pharaon lui donna le commandement de toute l'Egypte."
+      }
+    },
+    {
+      "verse": 44,
+      "texts": {
+        "BDS": "Le pharaon dit encore à Joseph:\r\n—Je suis le pharaon. Mais sans ton ordre, personne dans tout le pays ne lèvera le petit doigt ni ne se déplacera.",
+        "DBY": "Et le Pharaon dit à Joseph: Moi je suis le Pharaon: sans toi nul ne lèvera la main ni le pied dans tout le pays d'Égypte.",
+        "KJV": "And Pharaoh said unto Joseph, I [am] Pharaoh, and without thee shall no man lift up his hand or foot in all the land of Egypt.",
+        "LSG": "Il dit encore à Joseph: Je suis Pharaon! Et sans toi personne ne lèvera la main ni le pied dans tout le pays d'Egypte.",
+        "MAB": "Et Pharaon dit à Joseph : Je suis Pharaon, mais sans toi nul ne lèvera la main ni le pied dans tout le pays d'Egypte.",
+        "OST": "Et Pharaon dit à Joseph: Je suis Pharaon! et sans toi nul ne lèvera la main ni le pied dans tout le pays d'Égypte.",
+        "S21": "Il dit encore à Joseph: «C’est moi qui suis le pharaon, mais sans ton accord personne ne lèvera la main ni le pied dans toute l'Egypte.»"
+      }
+    },
+    {
+      "verse": 45,
+      "texts": {
+        "BDS": "Le pharaon nomma Joseph Tsaphnat-Paenéah et lui donna pour femme Asnath, fille de Poti-Phéra, un prêtre d’On. Joseph partit inspecter l’Egypte.",
+        "DBY": "Et le Pharaon appela le nom de Joseph Tsaphnath-Pahnéakh; et il lui donna pour femme Asnath, fille de Poti-Phéra, sacrificateur d'On. Et Joseph parcourut le pays d'Égypte.",
+        "KJV": "And Pharaoh called Joseph's name Zaphnathpaaneah; and he gave him to wife Asenath the daughter of Potipherah priest of On. And Joseph went out over [all] the land of Egypt.",
+        "LSG": "Pharaon appela Joseph du nom de Tsaphnath-Paenéach; et il lui donna pour femme Asnath, fille de Poti-Phéra, prêtre d'On. Et Joseph partit pour visiter le pays d'Egypte.",
+        "MAB": "Et Pharaon appela le nom de Joseph Tsaphenath-Pahanéah, et lui donna pour femme Asenath, fille de Potiphérah, Gouverneur d'On; et Joseph alla [visiter] le pays d'Egypte.",
+        "OST": "Et Pharaon appela Joseph du nom de Tsophnath-Panéach (soutien de la vie), et il lui donna pour femme Asnath, fille de Potiphéra, prêtre d'On (Héliopolis). Et Joseph alla visiter le pays d'Égypte.",
+        "S21": "Le pharaon appela Joseph Tsaphnath-Paenéach et lui donna pour femme Asnath, fille de Poti-Phéra, le prêtre d'On. Joseph partit pour visiter l'Egypte."
+      }
+    },
+    {
+      "verse": 46,
+      "texts": {
+        "BDS": "Il était âgé de trente ans quand il entra au service du pharaon, roi d’Egypte. Il quitta la cour du pharaon et parcourut tout le pays d’Egypte.",
+        "DBY": "Et Joseph était âgé de trente ans lorsqu'il se tint devant le Pharaon, le roi d'Égypte; et Joseph sortit de devant le Pharaon et passa par tout le pays d'Égypte.",
+        "KJV": "And Joseph [was] thirty years old when he stood before Pharaoh king of Egypt. And Joseph went out from the presence of Pharaoh, and went throughout all the land of Egypt.",
+        "LSG": "Joseph était âgé de trente ans lorsqu'il se présenta devant Pharaon, roi d'Egypte; et il quitta Pharaon, et parcourut tout le pays d'Egypte.",
+        "MAB": "Or Joseph était âgé de trente ans, quand il se présenta devant Pharaon Roi d'Egypte, et étant sorti de devant Pharaon, il passa par tout le pays d'Egypte.",
+        "OST": "Or, Joseph était âgé de trente ans, quand il se présenta devant Pharaon, roi d'Égypte. Joseph sortit donc de devant Pharaon, et parcourut tout le pays d'Égypte.",
+        "S21": "Il était âgé de 30 ans lorsqu'il se présenta devant le pharaon, le roi d'Egypte. Il quitta le pharaon et parcourut toute l'Egypte."
+      }
+    },
+    {
+      "verse": 47,
+      "texts": {
+        "BDS": "Pendant les sept années d’abondance, la terre produisit de riches moissons.",
+        "DBY": "Et la terre rapporta à pleines mains pendant les sept années d'abondance.",
+        "KJV": "And in the seven plenteous years the earth brought forth by handfuls.",
+        "LSG": "Pendant les sept années de fertilité, la terre rapporta abondamment.",
+        "MAB": "Et la terre rapporta très-abondamment durant les sept années de fertilité.",
+        "OST": "Et la terre rapporta à pleines mains durant les sept années d'abondance.",
+        "S21": "Pendant les sept années de fertilité, la terre rapporta abondamment."
+      }
+    },
+    {
+      "verse": 48,
+      "texts": {
+        "BDS": "Joseph rassembla tous les vivres possibles en Egypte pendant ces sept années, et il les entreposa dans les villes. Dans chaque ville, il mit en réserve les denrées alimentaires produites par le territoire environnant.",
+        "DBY": "Et Joseph rassembla tous les vivres des sept années qui furent dans le pays d'Égypte, et mit les vivres dans les villes; il mit dans chaque ville les vivres provenant des champs qui étaient autour d'elle.",
+        "KJV": "And he gathered up all the food of the seven years, which were in the land of Egypt, and laid up the food in the cities: the food of the field, which [was] round about every city, laid he up in the same.",
+        "LSG": "Joseph rassembla tous les produits de ces sept années dans le pays d'Egypte; il fit des approvisionnements dans les villes, mettant dans l'intérieur de chaque ville les productions des champs d'alentour.",
+        "MAB": "Et [Joseph] amassa tous les grains de ces sept années, qui furent [recueillis] au pays d'Egypte, et mit ces grains dans les villes; en chaque ville les grains des champs d'alentour.",
+        "OST": "Et Joseph rassembla tous les vivres des sept années, qu'il y eut au pays d'Égypte; et il mit les vivres dans les villes; il mit dans l'intérieur de chaque ville les vivres du territoire qui l'environnait.",
+        "S21": "Joseph rassembla tous les produits de ces sept années en Egypte. Il entreposa des vivres dans les villes en mettant à l'intérieur de chaque ville les produits des campagnes environnantes."
+      }
+    },
+    {
+      "verse": 49,
+      "texts": {
+        "BDS": "Il entreposa du blé en aussi grande quantité que le sable de la mer; il y en avait tant que l’on cessa d’en faire le compte, car cela dépassait toute mesure.",
+        "DBY": "Et Joseph amassa du blé, comme le sable de la mer, une immense quantité, jusqu'à ce qu'on cessa de compter, parce qu'il était sans nombre.",
+        "KJV": "And Joseph gathered corn as the sand of the sea, very much, until he left numbering; for [it was] without number.",
+        "LSG": "Joseph amassa du blé, comme le sable de la mer, en quantité si considérable que l'on cessa de compter, parce qu'il n'y avait plus de nombre.",
+        "MAB": "Ainsi Joseph amassa une grande quantité de blé, comme le sable de la mer; tellement qu'on cessa de le mesurer, parce qu'il était sans nombre.",
+        "OST": "Et Joseph amassa une grande quantité de froment, comme le sable de la mer; tellement qu'on cessa de le compter, parce qu'il était sans nombre.",
+        "S21": "Joseph amassa du blé comme le sable de la mer: en quantité si considérable que l'on cessa de compter parce qu'il n'y avait plus de nombre."
+      }
+    },
+    {
+      "verse": 50,
+      "texts": {
+        "BDS": "Avant la période de famine, Asnath, fille de Poti-Phéra, prêtre d’On, donna deux fils à Joseph.",
+        "DBY": "Et, avant que vînt l'année de la famine, il naquit à Joseph deux fils, qu'Asnath, fille de Poti-Phéra, sacrificateur d'On, lui enfanta.",
+        "KJV": "And unto Joseph were born two sons before the years of famine came, which Asenath the daughter of Potipherah priest of On bare unto him.",
+        "LSG": "Avant les années de famine, il naquit à Joseph deux fils, que lui enfanta Asnath, fille de Poti-Phéra, prêtre d'On.",
+        "MAB": "Or avant que la [première] année de la famine vînt, il naquit deux enfants à Joseph, qu'Asenath fille de Potiphérah, Gouverneur d'On, lui enfanta.",
+        "OST": "Or, avant qu'arrivât l'année de famine, il naquit à Joseph deux fils, qu'Asnath, fille de Potiphéra, prêtre d'On, lui enfanta.",
+        "S21": "Avant les années de famine, Joseph eut deux fils que lui donna Asnath, fille de Poti-Phéra, le prêtre d'On."
+      }
+    },
+    {
+      "verse": 51,
+      "texts": {
+        "BDS": "Il appela son premier-né Manassé (Celui qui fait oublier), car, dit-il, Dieu m’a fait oublier toutes mes souffrances et ma séparation de la famille de mon père.",
+        "DBY": "Et Joseph appela le nom du premier-né Manassé: car Dieu m'a fait oublier toute ma peine, et toute la maison de mon père.",
+        "KJV": "And Joseph called the name of the firstborn Manasseh: For God, [said he], hath made me forget all my toil, and all my father's house.",
+        "LSG": "Joseph donna au premier-né le nom de Manassé, car, dit-il, Dieu m'a fait oublier toutes mes peines et toute la maison de mon père.",
+        "MAB": "Et Joseph nomma le premier-né, Manassé ; parce que, [dit-il], Dieu m'a fait oublier tous mes travaux, et toute la maison de mon père.",
+        "OST": "Et Joseph nomma le premier-né Manassé (celui qui fait oublier); car Dieu, dit-il, m'a fait oublier toute ma peine, et toute la maison de mon père.",
+        "S21": "Joseph appela l'aîné Manassé, car, dit-il, «Dieu m'a fait oublier toutes mes peines et toute ma famille.»"
+      }
+    },
+    {
+      "verse": 52,
+      "texts": {
+        "BDS": "Il donna au second le nom d’Ephraïm (Fécond), car Dieu, dit-il, m’a rendu fécond dans le pays où j’ai connu l’affliction.",
+        "DBY": "Et il appela le second Éphraïm: car Dieu m'a fait fructifier dans le pays de mon affliction.",
+        "KJV": "And the name of the second called he Ephraim: For God hath caused me to be fruitful in the land of my affliction.",
+        "LSG": "Et il donna au second le nom d'Ephraïm, car, dit-il, Dieu m'a rendu fécond dans le pays de mon affliction.",
+        "MAB": "Et il nomma le second, Ephraïm; parce que, [dit-il], Dieu m'a fait fructifier au pays de mon affliction.",
+        "OST": "Et il nomma le second Éphraïm (double fécondité); car Dieu, dit-il, m'a rendu fécond dans le pays de mon affliction.",
+        "S21": "Et il appela le second Ephraïm, car, dit-il, «Dieu m'a donné des enfants dans le pays de mon malheur.»"
+      }
+    },
+    {
+      "verse": 53,
+      "texts": {
+        "BDS": "Les sept années où l’abondance avait régné en Egypte touchèrent à leur terme",
+        "DBY": "Et les sept années de l'abondance qui avait été dans le pays d'Égypte finirent;",
+        "KJV": "And the seven years of plenteousness, that was in the land of Egypt, were ended.",
+        "LSG": "Les sept années d'abondance qu'il y eut au pays d'Egypte s'écoulèrent.",
+        "MAB": "Alors finirent les sept années de l'abondance qui avait été au pays d'Egypte.",
+        "OST": "Alors finirent les sept années de l'abondance qu'il y eut au pays d'Égypte.",
+        "S21": "Les sept années d'abondance qu'il y eut en Egypte passèrent,"
+      }
+    },
+    {
+      "verse": 54,
+      "texts": {
+        "BDS": "et les sept années de famine commencèrent, comme Joseph l’avait prédit. La famine sévissait dans tous les pays. Mais il y avait du pain dans toute l’Egypte.",
+        "DBY": "et les sept années de la famine commencèrent à venir, comme Joseph avait dit. Et il y eut famine dans tous les pays: mais dans tout le pays d'Égypte il y avait du pain.",
+        "KJV": "And the seven years of dearth began to come, according as Joseph had said: and the dearth was in all lands; but in all the land of Egypt there was bread.",
+        "LSG": "Et les sept années de famine commencèrent à venir, ainsi que Joseph l'avait annoncé. Il y eut famine dans tous les pays; mais dans tout le pays d'Egypte il y avait du pain.",
+        "MAB": "Et les sept années de la famine commencèrent, comme Joseph l'avait prédit. Et la famine fut dans tous les pays; mais il y avait du pain dans tout le pays d'Egypte.",
+        "OST": "Et les sept années de famine commencèrent à venir, comme Joseph l'avait dit. Et la famine fut dans tous les pays; mais dans tout le pays d'Égypte il y avait du pain.",
+        "S21": "et les sept années de famine commencèrent à venir, comme Joseph l'avait annoncé. La famine régna dans tous les pays, mais dans toute l'Egypte il y avait du pain."
+      }
+    },
+    {
+      "verse": 55,
+      "texts": {
+        "BDS": "Quand la population de l’Egypte n’eut plus de pain, elle en réclama à grands cris au pharaon, qui dit à tous les Egyptiens:\r\n—Adressez-vous à Joseph et faites ce qu’il vous dira!",
+        "DBY": "Et tout le pays d'Égypte eut faim, et le peuple cria au Pharaon pour du pain; et le Pharaon dit à tous les Égyptiens: Allez à Joseph; faites ce qu'il vous dira.",
+        "KJV": "And when all the land of Egypt was famished, the people cried to Pharaoh for bread: and Pharaoh said unto all the Egyptians, Go unto Joseph; what he saith to you, do.",
+        "LSG": "Quand tout le pays d'Egypte fut aussi affamé, le peuple cria à Pharaon pour avoir du pain. Pharaon dit à tous les Egyptiens: Allez vers Joseph, et faites ce qu'il vous dira.",
+        "MAB": "Puis tout le pays d'Egypte fut affamé, et le peuple cria à Pharaon pour [avoir du] pain. Et Pharaon répondit à tous les Egyptiens : Allez à Joseph, [et] faites ce qu'il vous dira.",
+        "OST": "Ensuite tout le pays d'Égypte fut affamé; et le peuple cria à Pharaon pour avoir du pain. Et Pharaon répondit à tous les Égyptiens: Allez à Joseph; faites ce qu'il vous dira.",
+        "S21": "Quand toute l'Egypte commença aussi à avoir faim, le peuple cria au pharaon pour avoir du pain. Le pharaon dit à tous les Egyptiens: «Allez vers Joseph et faites ce qu'il vous dira.»"
+      }
+    },
+    {
+      "verse": 56,
+      "texts": {
+        "BDS": "La famine sévissait dans toute la contrée. Joseph ouvrit tous les entrepôts du pays et vendit du blé aux Egyptiens. Mais la disette s’aggrava encore en Egypte.",
+        "DBY": "Et la famine était sur toute la face de la terre; et Joseph ouvrit tous les lieux de dépôt, et vendit du blé aux Égyptiens; et la famine sévissait dans le pays d'Égypte.",
+        "KJV": "And the famine was over all the face of the earth: And Joseph opened all the storehouses, and sold unto the Egyptians; and the famine waxed sore in the land of Egypt.",
+        "LSG": "La famine régnait dans tout le pays. Joseph ouvrit tous les lieux d'approvisionnements, et vendit du blé aux Egyptiens. La famine augmentait dans le pays d'Egypte.",
+        "MAB": "La famine donc étant dans tout le pays, Joseph ouvrit tous [les greniers] qui étaient chez les Egyptiens, et leur distribua du blé; et la famine augmentait au pays d'Egypte.",
+        "OST": "La famine fut donc sur toute la surface du pays, et Joseph ouvrit tous les greniers et vendit du blé aux Égyptiens. Et la famine fut grande au pays d'Égypte.",
+        "S21": "La famine régnait sur tout le pays. Joseph ouvrit tous les centres d'approvisionnement et vendit du blé aux Egyptiens, car la famine était forte en Egypte."
+      }
+    },
+    {
+      "verse": 57,
+      "texts": {
+        "BDS": "De tous les pays environnants, on y venait acheter du blé auprès de Joseph, car la famine était grande sur toute la terre.",
+        "DBY": "Et de toute la terre on venait en Égypte, vers Joseph, pour acheter du blé; car la famine sévissait sur toute la terre.",
+        "KJV": "And all countries came into Egypt to Joseph for to buy [corn]; because that the famine was [so] sore in all lands.",
+        "LSG": "Et de tous les pays on arrivait en Egypte, pour acheter du blé auprès de Joseph; car la famine était forte dans tous les pays.",
+        "MAB": "On venait aussi de tout pays en Egypte vers Joseph, pour acheter du blé; car la famine était fort grande par toute la terre.",
+        "OST": "Et de tous les pays on venait en Égypte, pour acheter du blé à Joseph; car la famine était grande par toute la terre.",
+        "S21": "On arrivait de tous les pays en Egypte pour acheter du blé à Joseph, car la famine était forte partout."
+      }
+    }
+  ]
+}

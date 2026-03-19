@@ -1,0 +1,434 @@
+{
+  "bookCode": "PSA",
+  "chapter": 68,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "Au chef de chœur. Psaume de David. A chanter. Cantique.",
+        "DBY": "Que Dieu se lève, que ses ennemis soient dispersés, et que ceux qui le haïssent s'enfuient devant lui.",
+        "KJV": "To the chief Musician, A Psalm [or] Song of David. Let God arise, let his enemies be scattered: let them also that hate him flee before him.",
+        "LSG": "Au chef des chantres. De David. Psaume. Cantique. Dieu se lève, ses ennemis se dispersent, Et ses adversaires fuient devant sa face.",
+        "MAB": "Psaume de Cantique, de David, [donné] au maître chantre. Que Dieu se lève, et ses ennemis seront dispersés, et ceux qui le haïssent s'enfuiront de devant lui.",
+        "OST": "Psaume, cantique de David. Au maître-chantre.",
+        "S21": "Au chef de chœur. Psaume, chant de David."
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "Que Dieu se lève! Et voici: ses adversaires sont dispersés!\r\nSes ennemis fuient devant lui.",
+        "DBY": "Comme la fumée est dissipée, tu les dissiperas; comme la cire se fond devant le feu, les méchants périront devant Dieu.",
+        "KJV": "As smoke is driven away, [so] drive [them] away: as wax melteth before the fire, [so] let the wicked perish at the presence of God.",
+        "LSG": "Comme la fumée se dissipe, tu les dissipes; Comme la cire se fond au feu, Les méchants disparaissent devant Dieu.",
+        "MAB": "Tu les chasseras comme la fumée est chassée [par le vent]; comme la cire se fond devant le feu, [ainsi] les méchants périront devant Dieu.",
+        "OST": "Que Dieu se lève, et ses ennemis seront dispersés, et ceux qui le haïssent s'enfuiront devant lui.",
+        "S21": "Dieu se lève, ses ennemis se dispersent et ses adversaires prennent la fuite devant lui."
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "Tu les dissipes comme une fumée légère qui se dissipe,\r\ncomme la cire qui fond au feu!\r\nAinsi périssent tous les méchants par devant Dieu.",
+        "DBY": "Mais les justes se réjouiront, ils exulteront en la présence de Dieu et s'égayeront avec joie.",
+        "KJV": "But let the righteous be glad; let them rejoice before God: yea, let them exceedingly rejoice.",
+        "LSG": "Mais les justes se réjouissent, ils triomphent devant Dieu, Ils ont des transports d'allégresse.",
+        "MAB": "Mais les justes se réjouiront et s'égayeront devant Dieu, et tressailliront de joie.",
+        "OST": "Tu les dissiperas comme la fumée se dissipe; comme la cire se fond au feu, ainsi périront les méchants devant Dieu.",
+        "S21": "Comme la fumée se dissipe, tu les dissipes; comme la cire fond au feu, les méchants disparaissent devant Dieu."
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "Alors les justes se réjouiront,\r\net ils seront dans l’allégresse devant leur Dieu.\r\nIls pousseront des cris de joie!",
+        "DBY": "Chantez à Dieu, chantez son nom, dressez un chemin à celui qui passe comme à cheval par les déserts: son nom est Jah; réjouissez-vous devant lui.",
+        "KJV": "Sing unto God, sing praises to his name: extol him that rideth upon the heavens by his name JAH, and rejoice before him.",
+        "LSG": "Chantez à Dieu, célébrez son nom! Frayez le chemin à celui qui s'avance à travers les plaines! L'Eternel est son nom: réjouissez-vous devant lui!",
+        "MAB": "Chantez à Dieu, psalmodiez son Nom, exaltez celui qui est monté sur les cieux; son Nom, est l'Eternel; et égayez-vous en sa présence.",
+        "OST": "Mais les justes se réjouiront, ils triompheront devant Dieu, et tressailleront de joie.",
+        "S21": "Mais les justes se réjouissent, ils triomphent devant Dieu, ils sont transportés de joie."
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "Chantez à Dieu! Célébrez-le par vos chants! Louez son nom!\r\nFrayez la voie de celui qui chevauche les nuées!\r\nIl a pour nom «l’Eternel». Réjouissez-vous devant lui!",
+        "DBY": "Dieu, dans sa demeure sainte, est le père des orphelins et le juge des veuves.",
+        "KJV": "A father of the fatherless, and a judge of the widows, [is] God in his holy habitation.",
+        "LSG": "Le père des orphelins, le défenseur des veuves, C'est Dieu dans sa demeure sainte.",
+        "MAB": "Il est le père des orphelins, et le juge des veuves; Dieu est dans la demeure de sa Sainteté.",
+        "OST": "Chantez à Dieu, célébrez son nom, préparez le chemin à celui qui s'avance dans les plaines! L'Éternel est son nom; réjouissez-vous devant lui!",
+        "S21": "Chantez en l’honneur de Dieu, célébrez son nom, préparez le chemin à celui qui s’avance à travers les déserts! L’Eternel est son nom: réjouissez-vous devant lui!"
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "Il est le père des orphelins et le défenseur des veuves.\r\nOui, tel est Dieu dans sa sainte habitation.",
+        "DBY": "Dieu fait habiter en famille ceux qui étaient seuls; il fait sortir ceux qui étaient enchaînés, pour qu'ils jouissent de l'abondance; mais les rebelles demeurent dans une terre aride.",
+        "KJV": "God setteth the solitary in families: he bringeth out those which are bound with chains: but the rebellious dwell in a dry [land].",
+        "LSG": "Dieu donne une famille à ceux qui étaient abandonnés, Il délivre les captifs et les rend heureux; Les rebelles seuls habitent des lieux arides.",
+        "MAB": "Dieu fait habiter en famille ceux qui étaient seuls; il délivre ceux qui étaient enchaînés, mais les revêches demeurent en une terre déserte.",
+        "OST": "Le père des orphelins et le défenseur des veuves, c'est Dieu, dans sa demeure sainte.",
+        "S21": "Le père des orphelins, le défenseur des veuves, c’est Dieu dans sa sainte demeure."
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "Aux isolés, Dieu accorde une famille.\r\nC’est lui qui donne aux prisonniers la joie de la liberté.\r\nSeuls les rebelles sont confinés dans une région aride.",
+        "DBY": "O Dieu! quand tu sortis devant ton peuple, quand tu marchas dans le désert, (Sélah)",
+        "KJV": "O God, when thou wentest forth before thy people, when thou didst march through the wilderness; Selah:",
+        "LSG": "O Dieu! quand tu sortis à la tête de ton peuple, Quand tu marchais dans le désert, -Pause.",
+        "MAB": "Ô Dieu! Quand tu sortis devant ton peuple, quand tu marchais par le désert; Sélah.",
+        "OST": "Dieu fait habiter en famille ceux qui étaient seuls; il délivre les captifs, et les met au large; mais les rebelles demeurent dans des lieux arides.",
+        "S21": "Dieu donne un foyer à ceux qui sont solitaires, il délivre les prisonniers et les rend heureux; seuls les rebelles habitent des lieux arides."
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "O notre Dieu, quand tu sortis devant ton peuple,\r\nquand tu marchas dans le désert,\r\nPause",
+        "DBY": "La terre trembla; les cieux aussi distillèrent des eaux devant Dieu, ce Sinaï trembla devant Dieu, le Dieu d'Israël.",
+        "KJV": "The earth shook, the heavens also dropped at the presence of God: [even] Sinai itself [was moved] at the presence of God, the God of Israel.",
+        "LSG": "La terre trembla, les cieux se fondirent devant Dieu, Le Sinaï s'ébranla devant Dieu, le Dieu d'Israël.",
+        "MAB": "La terre trembla, et les cieux répandirent leurs eaux à cause de la présence de Dieu, ce mont de Sinaï [trembla] à cause de la présence de Dieu, du Dieu d'Israël.",
+        "OST": "O Dieu, quand tu sortis devant ton peuple, quand tu marchas dans le désert, - Sélah (pause), -",
+        "S21": "O Dieu, tu es sorti à la tête de ton peuple, tu as marché dans le désert. – Pause."
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "alors la terre trembla, le ciel se fondit en eau, par devant Dieu,\r\nle Dieu du mont Sinaï, par devant Dieu, Dieu d’Israël!",
+        "DBY": "O Dieu! tu répandis une pluie abondante sur ton héritage, et, quand il était las, tu l'établis.",
+        "KJV": "Thou, O God, didst send a plentiful rain, whereby thou didst confirm thine inheritance, when it was weary.",
+        "LSG": "Tu fis tomber une pluie bienfaisante, ô Dieu! Tu fortifias ton héritage épuisé.",
+        "MAB": "Ô Dieu! tu as fait tomber une pluie abondante sur ton héritage; et quand il était las, tu l'as rétabli.",
+        "OST": "La terre trembla, les cieux mêmes se fondirent en eau devant Dieu; le Sinaï même trembla devant Dieu, le Dieu d'Israël.",
+        "S21": "Alors la terre a tremblé, le ciel aussi a déversé son eau devant Dieu; le Sinaï lui-même a tremblé devant Dieu, le Dieu d’Israël."
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "Tu as répandu, ô Dieu, la pluie de ta bienveillance\r\npour fortifier le peuple qui t’appartient quand il était épuisé.",
+        "DBY": "Ton troupeau a habité là; dans ta bonté, tu préparas tes biens pour l'affligé, ô Dieu!",
+        "KJV": "Thy congregation hath dwelt therein: thou, O God, hast prepared of thy goodness for the poor.",
+        "LSG": "Ton peuple établit sa demeure dans le pays Que par ta bonté, ô Dieu! tu avais préparé pour les malheureux.",
+        "MAB": "Ton troupeau s'y est tenu. Tu accommodes de tes biens celui qui est affligé, ô Dieu!",
+        "OST": "Tu répandis une pluie bienfaisante, ô Dieu; tu rendis la force à ton héritage épuisé.",
+        "S21": "Tu as fait tomber une pluie bienfaisante, ô Dieu, tu as fortifié ton peuple épuisé."
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "O Dieu, ton peuple s’est installé en ces lieux\r\nque dans ta bonté tu as préparés\r\npour y établir les pauvres.",
+        "DBY": "Le Seigneur donna la parole: grande fut la foule des femmes qui répandirent la bonne nouvelle.",
+        "KJV": "The Lord gave the word: great [was] the company of those that published [it].",
+        "LSG": "Le Seigneur dit une parole, Et les messagères de bonnes nouvelles sont une grande armée: -",
+        "MAB": "Le Seigneur a donné de quoi parler; les messagers de bonnes nouvelles ont été une grande armée.",
+        "OST": "Ton troupeau habita dans cette terre que ta bonté, ô Dieu, avait préparée pour l'affligé.",
+        "S21": "Ton troupeau a habité dans le pays que dans ta bonté, ô Dieu, tu avais préparé pour les malheureux."
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "Le Seigneur a dit un mot,\r\naussitôt les messagères forment une armée nombreuse.",
+        "DBY": "Les rois des armées s'enfuirent; ils s'enfuirent, et celle qui demeurait dans la maison partagea le butin.",
+        "KJV": "Kings of armies did flee apace: and she that tarried at home divided the spoil.",
+        "LSG": "Les rois des armées fuient, fuient, Et celle qui reste à la maison partage le butin.",
+        "MAB": "Les Rois des armées s'en sont fuis, ils s'en sont fuis, et celle qui se tenait à la maison a partagé le butin.",
+        "OST": "Le Seigneur fait entendre sa parole, et les messagères de bonnes nouvelles sont une grande armée.",
+        "S21": "Le Seigneur dit une parole, et les messagères de bonnes nouvelles sont légion."
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "Les rois des armées adverses s’enfuient: c’est la débandade.\r\nEt celles qui sont restées à la maison partageront le butin.",
+        "DBY": "Quoique vous ayez été couchés au milieu des étables, vous serez comme les ailes d'une colombe couverte d'argent, et dont le plumage est comme l'or vert.",
+        "KJV": "Though ye have lien among the pots, [yet shall ye be as] the wings of a dove covered with silver, and her feathers with yellow gold.",
+        "LSG": "Tandis que vous reposez au milieu des étables, Les ailes de la colombe sont couvertes d'argent, Et son plumage est d'un jaune d'or. -",
+        "MAB": "Quand vous auriez couché entre les chenets arrangés, [vous serez comme] les ailes d'un pigeon couvert d'argent, et dont les ailes sont [comme] la couleur jaune du fin or.",
+        "OST": "Les rois des armées s'enfuient; ils s'enfuient, et celle qui reste à la maison partage le butin.",
+        "S21": "Les rois des armées fuient, ils fuient, et celle qui reste à la maison partage le butin."
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "Resterez-vous en repos?\r\nLes ailes de la colombe sont argentées\r\net son plumage est jaune d’or.",
+        "DBY": "Quand le Tout-Puissant y dispersa des rois, le pays devint blanc comme la neige du Tsalmon.",
+        "KJV": "When the Almighty scattered kings in it, it was [white] as snow in Salmon.",
+        "LSG": "Lorsque le Tout-Puissant dispersa les rois dans le pays, La terre devint blanche comme la neige du Tsalmon.",
+        "MAB": "Quand le Tout-puissant dissipa les Rois en cet [héritage], il devint blanc, comme la neige qui est en Tsalmon.",
+        "OST": "Vous qui restez couchés au milieu des parcs, vous recevez les ailes argentées de la colombe, et son plumage d'un jaune d'or.",
+        "S21": "Tandis que vous êtes couchés au milieu des étables, les ailes de la colombe sont couvertes d’argent et son plumage est d’un jaune d’or."
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "Lorsque le Dieu tout-puissant dispersa au loin les rois\r\nil neigeait sur le Tsalmôn.",
+        "DBY": "Une montagne de Basan est la montagne de Dieu, une montagne à plusieurs sommets, une montagne de Basan.",
+        "KJV": "The hill of God [is as] the hill of Bashan; an high hill [as] the hill of Bashan.",
+        "LSG": "Montagnes de Dieu, montagnes de Basan, Montagnes aux cimes nombreuses, montagnes de Basan,",
+        "MAB": "La montagne de Dieu est un mont de Basan; une montagne élevée, un mont de Basan.",
+        "OST": "Quand le Tout-Puissant dispersa les rois, la terre devint blanche comme la neige de Tsalmon.",
+        "S21": "Lorsque le Tout-Puissant a dispersé les rois dans le pays, il neigeait sur le Tsalmon."
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "O vous, montagnes sublimes, monts du Basan,\r\nmonts aux cimes si nombreuses, monts du Basan,",
+        "DBY": "Pourquoi, montagnes à plusieurs sommets, regardez-vous avec jalousie la montagne que Dieu a désirée pour y habiter? Oui, l'Éternel y demeurera pour toujours.",
+        "KJV": "Why leap ye, ye high hills? [this is] the hill [which] God desireth to dwell in; yea, the LORD will dwell [in it] for ever.",
+        "LSG": "Pourquoi, montagnes aux cimes nombreuses, avez-vous de l'envie Contre la montagne que Dieu a voulue pour résidence? L'Eternel n'en fera pas moins sa demeure à perpétuité.",
+        "MAB": "Pourquoi lui insultez-vous, montagnes dont le sommet est élevé? Dieu a désiré cette montagne pour y habiter, et l'Eternel y demeurera à jamais.",
+        "OST": "Montagne de Dieu, mont de Bassan, montagne aux cimes nombreuses, mont de Bassan,",
+        "S21": "Montagne de Dieu, montagne du Basan, montagne aux nombreuses cimes, montagne du Basan,"
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "pourquoi donc jalousez-vous, monts aux cimes si nombreuses,\r\nle mont que Dieu s’est choisi pour résidence?\r\nCar l’Eternel en fera sa résidence éternelle.",
+        "DBY": "Les chars de Dieu sont par vingt mille, par milliers redoublés; le Seigneur est au milieu d'eux: c'est un Sinaï en sainteté.",
+        "KJV": "The chariots of God [are] twenty thousand, [even] thousands of angels: the Lord [is] among them, [as in] Sinai, in the holy [place].",
+        "LSG": "Les chars de l'Eternel se comptent par vingt mille, Par milliers et par milliers; Le Seigneur est au milieu d'eux, le Sinaï est dans le sanctuaire.",
+        "MAB": "La chevalerie de Dieu [se compte par] vingt-mille, par des milliers redoublés; le Seigneur est au milieu d'eux; c'est un Sinaï en Sainteté.",
+        "OST": "Pourquoi vous élevez-vous, monts aux cimes nombreuses, contre la montagne que Dieu a choisie pour sa demeure? L'Éternel y habitera pour jamais.",
+        "S21": "pourquoi, montagnes aux nombreuses cimes, êtes-vous jalouses de la montagne que Dieu a choisie pour résidence? Cependant, l’Eternel en fera sa demeure à perpétuité."
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "Les chars de Dieu sont innombrables,\r\ndes milliers et des milliers,\r\net l’Eternel est parmi eux.\r\nIl est venu du Sinaï jusque dans son sanctuaire.",
+        "DBY": "Tu es monté en haut, tu as emmené captive la captivité; tu as reçu des dons dans l'homme, et même pour les rebelles, afin que Jah, Dieu, ait une demeure.",
+        "KJV": "Thou hast ascended on high, thou hast led captivity captive: thou hast received gifts for men; yea, [for] the rebellious also, that the LORD God might dwell [among them].",
+        "LSG": "Tu es monté dans les hauteurs, tu as emmené des captifs, Tu as pris en don des hommes; Les rebelles habiteront aussi près de l'Eternel Dieu.",
+        "MAB": "Tu es monté en haut, tu as mené captifs les prisonniers, tu as pris des dons [pour les distribuer] entre les hommes, et même entre les rebelles, afin qu'ils habitent [dans le lieu] de l'Eternel Dieu.",
+        "OST": "Les chars de Dieu se comptent par vingt mille, par milliers redoublés; le Seigneur est au milieu d'eux; Sinaï est dans le sanctuaire.",
+        "S21": "Les chars de Dieu se comptent par dizaines de milliers, par milliers de milliers; le Seigneur est au milieu d’eux sur le Sinaï, dans le sanctuaire."
+      }
+    },
+    {
+      "verse": 19,
+      "texts": {
+        "BDS": "Tu es monté sur la hauteur en emmenant des captifs.\r\nTu as prélevé des dons parmi les hommes,\r\nmême parmi les rebelles, pour ta demeure, Eternel Dieu.",
+        "DBY": "Béni soit le Seigneur, qui, de jour en jour, nous comble de ses dons, le Dieu qui nous sauve. Sélah.",
+        "KJV": "Blessed [be] the Lord, [who] daily loadeth us [with benefits, even] the God of our salvation. Selah.",
+        "LSG": "Béni soit le Seigneur chaque jour! Quand on nous accable, Dieu nous délivre. -Pause.",
+        "MAB": "Béni soit le Seigneur, qui tous les jours nous comble de ses biens; le [Dieu] Fort est notre délivrance; Sélah.",
+        "OST": "Tu es monté en haut, tu as emmené des captifs; tu as reçu des dons parmi les hommes, pour avoir ta demeure même chez les rebelles, ô Éternel Dieu!",
+        "S21": "Tu es monté sur les hauteurs, tu as emmené des prisonniers, tu as pris des dons parmi les hommes; les rebelles aussi habiteront près de l’Eternel Dieu."
+      }
+    },
+    {
+      "verse": 20,
+      "texts": {
+        "BDS": "Que le Seigneur soit loué jour après jour,\r\nc’est lui qui nous prend en charge. Ce Dieu est notre Sauveur.\r\nPause",
+        "DBY": "Notre Dieu est un Dieu de salut; et c'est à l'Éternel, le Seigneur, de faire sortir de la mort.",
+        "KJV": "[He that is] our God [is] the God of salvation; and unto GOD the Lord [belong] the issues from death.",
+        "LSG": "Dieu est pour nous le Dieu des délivrances, Et l'Eternel, le Seigneur, peut nous garantir de la mort.",
+        "MAB": "Le [Dieu] Fort nous est un [Dieu] Fort pour nous délivrer, et les issues de la mort sont à l'Eternel le Seigneur.",
+        "OST": "Béni soit le Seigneur chaque jour! Quand on nous accable, Dieu est notre délivrance. (Sélah.)",
+        "S21": "Béni soit le Seigneur chaque jour! Dieu porte nos fardeaux, il nous sauve. – Pause."
+      }
+    },
+    {
+      "verse": 21,
+      "texts": {
+        "BDS": "Dieu est pour nous un Dieu qui sauve!\r\nCar l’Eternel, le Seigneur, peut nous sauver de la mort.",
+        "DBY": "Mais Dieu brisera la tête de ses ennemis, le crâne chevelu de ceux qui marchent dans leurs iniquités.",
+        "KJV": "But God shall wound the head of his enemies, [and] the hairy scalp of such an one as goeth on still in his trespasses.",
+        "LSG": "Oui, Dieu brisera la tête de ses ennemis, Le sommet de la tête de ceux qui vivent dans le péché.",
+        "MAB": "Certainement Dieu écrasera la tête de ses ennemis, le sommet de la tête chevelue de celui qui marche dans ses vices.",
+        "OST": "Dieu est pour nous le Dieu des délivrances; c'est l'Éternel notre Dieu qui retire de la mort.",
+        "S21": "Dieu est pour nous le Dieu des délivrances, c’est l’Eternel, le Seigneur, qui peut nous préserver de la mort."
+      }
+    },
+    {
+      "verse": 22,
+      "texts": {
+        "BDS": "Mais Dieu brisera le crâne de ceux qui sont contre lui,\r\noui, la tête chevelue de tous les hommes dont la conduite est coupable.",
+        "DBY": "Le Seigneur a dit: Je ramènerai les miens de Basan, je les ramènerai des profondeurs de la mer;",
+        "KJV": "The Lord said, I will bring again from Bashan, I will bring [my people] again from the depths of the sea:",
+        "LSG": "Le Seigneur dit: Je les ramènerai de Basan, Je les ramènerai du fond de la mer,",
+        "MAB": "Le Seigneur a dit : je ferai retourner [les miens] de Basan, je les ferai retourner du fond de la mer.",
+        "OST": "Certainement Dieu écrasera la tête de ses ennemis, le crâne chevelu de celui qui marche dans ses forfaits.",
+        "S21": "Oui, Dieu brisera la tête de ses ennemis, le crâne chevelu de ceux qui vivent dans le péché."
+      }
+    },
+    {
+      "verse": 23,
+      "texts": {
+        "BDS": "Le Seigneur a déclaré: Oui, je les ramènerai depuis les monts du Basan,\r\noui, je les ramènerai des profondeurs de la mer",
+        "DBY": "Afin que tu trempes ton pied dans le sang de tes ennemis, et que la langue de tes chiens en ait sa part.",
+        "KJV": "That thy foot may be dipped in the blood of [thine] enemies, [and] the tongue of thy dogs in the same.",
+        "LSG": "Afin que tu plonges ton pied dans le sang, Et que la langue de tes chiens ait sa part des ennemis.",
+        "MAB": "Afin que ton pied et la langue de tes chiens s'enfoncent dans le sang des ennemis, [dans le sang] de chacun d'eux.",
+        "OST": "Le Seigneur a dit: Je les ramènerai de Bassan, je les ramènerai des profondeurs de la mer;",
+        "S21": "Le Seigneur dit: «Je les ramènerai du Basan, je les ramènerai du fond de la mer,"
+      }
+    },
+    {
+      "verse": 24,
+      "texts": {
+        "BDS": "pour que tu baignes ton pied dans le sang des ennemis,\r\net que tes chiens aient leur part de la curée.",
+        "DBY": "Ils ont vu ta marche, ô Dieu! la marche de mon Dieu, de mon roi, dans le lieu saint:",
+        "KJV": "They have seen thy goings, O God; [even] the goings of my God, my King, in the sanctuary.",
+        "LSG": "Ils voient ta marche, ô Dieu! La marche de mon Dieu, de mon roi, dans le sanctuaire.",
+        "MAB": "Ô Dieu! Ils ont vu tes démarches dans le lieu saint, les démarches de mon [Dieu] Fort, mon Roi.",
+        "OST": "Afin que tu plonges ton pied dans le sang, que la langue de tes chiens ait sa part des ennemis.",
+        "S21": "afin que tu plonges ton pied dans le sang et que la langue de tes chiens ait part au carnage des ennemis.»"
+      }
+    },
+    {
+      "verse": 25,
+      "texts": {
+        "BDS": "On voit ton cortège, ô Dieu,\r\noui, le cortège de mon Dieu et de mon Roi, dans le lieu saint.",
+        "DBY": "Les chanteurs allaient devant, ensuite les joueurs d'instruments à cordes, au milieu des jeunes filles jouant du tambourin.",
+        "KJV": "The singers went before, the players on instruments [followed] after; among [them were] the damsels playing with timbrels.",
+        "LSG": "En tête vont les chanteurs, puis ceux qui jouent des instruments, Au milieu de jeunes filles battant du tambourin.",
+        "MAB": "Les chantres allaient devant, ensuite les joueurs d'instruments, [et] au milieu les jeunes filles, jouant du tambour.",
+        "OST": "On a vu ta marche, ô Dieu, la marche de mon Dieu, de mon Roi, dans le sanctuaire.",
+        "S21": "Ils voient ta marche, ô Dieu, la marche de mon Dieu, de mon roi, dans le sanctuaire."
+      }
+    },
+    {
+      "verse": 26,
+      "texts": {
+        "BDS": "Les chanteurs ont pris la tête, et en queue viennent les musiciens,\r\nau milieu, des jeunes filles frappant sur leurs tambourins.",
+        "DBY": "Dans les congrégations bénissez Dieu, le Seigneur, -vous qui êtes de la source d'Israël!",
+        "KJV": "Bless ye God in the congregations, [even] the Lord, from the fountain of Israel.",
+        "LSG": "Bénissez Dieu dans les assemblées, Bénissez le Seigneur, descendants d'Israël!",
+        "MAB": "Bénissez Dieu dans les assemblées, [bénissez] le Seigneur, vous qui êtes de la source d'Israël.",
+        "OST": "Les chantres allaient devant; ensuite les joueurs de harpe, au milieu des jeunes filles qui battaient le tambourin.",
+        "S21": "En tête vont les chanteurs, puis ceux qui jouent des instruments, au milieu des jeunes filles qui battent du tambourin."
+      }
+    },
+    {
+      "verse": 27,
+      "texts": {
+        "BDS": "Exaltez Dieu dans tous vos rassemblements,\r\noui, exaltez le Seigneur vous, les enfants d’Israël.",
+        "DBY": "Là est Benjamin, le petit, qui domine sur eux; les princes de Juda, leur troupe; les princes de Zabulon, les princes de Nephthali.",
+        "KJV": "There [is] little Benjamin [with] their ruler, the princes of Judah [and] their council, the princes of Zebulun, [and] the princes of Naphtali.",
+        "LSG": "Là sont Benjamin, le plus jeune, qui domine sur eux, Les chefs de Juda et leur troupe, Les chefs de Zabulon, les chefs de Nephthali.",
+        "MAB": "Là Benjamin le petit a dominé sur eux; les principaux de Juda ont été leur accablement de pierres : [là ont dominé] les principaux de Zabulon, [et] les principaux de Nephthali.",
+        "OST": "Bénissez Dieu dans les assemblées, bénissez le Seigneur, vous qui sortez de la source d'Israël!",
+        "S21": "Bénissez Dieu dans les assemblées, bénissez le Seigneur, descendants d’Israël!"
+      }
+    },
+    {
+      "verse": 28,
+      "texts": {
+        "BDS": "Le plus petit marche en tête. C’est Benjamin;\r\naprès lui viennent les chefs de la tribu de Juda dans leurs habits tout brodés,\r\npuis les chefs de Zabulon avec ceux de Nephtali.",
+        "DBY": "Ton Dieu a commandé ta force. Établis en force, ô Dieu, ce que tu as fait pour nous!",
+        "KJV": "Thy God hath commanded thy strength: strengthen, O God, that which thou hast wrought for us.",
+        "LSG": "Ton Dieu ordonne que tu sois puissant; Affermis, ô Dieu, ce que tu as fait pour nous!",
+        "MAB": "Ton Dieu a ordonné ta force. Donne force, ô Dieu; c'est toi qui nous as fait ceci.",
+        "OST": "Là sont Benjamin le petit, le dominateur; les chefs de Juda et leur multitude; les chefs de Zabulon; les chefs de Nephthali.",
+        "S21": "Voilà Benjamin, le plus jeune, qui domine sur eux, les chefs de Juda et leur troupe, les chefs de Zabulon, les chefs de Nephthali."
+      }
+    },
+    {
+      "verse": 29,
+      "texts": {
+        "BDS": "Or, ton Dieu a décidé de t’accorder de la force\r\npour affermir ce que tu as fait pour nous.",
+        "DBY": "A cause de ton peuple, à Jérusalem, les rois t'apporteront des présents.",
+        "KJV": "Because of thy temple at Jerusalem shall kings bring presents unto thee.",
+        "LSG": "De ton temple tu règnes sur Jérusalem; Les rois t'apporteront des présents.",
+        "MAB": "Dans ton Temple, à Jérusalem, les Rois t'amèneront des présents.",
+        "OST": "Ton Dieu a ordonné ta force. Affermis, ô Dieu, ce que tu as fait pour nous!",
+        "S21": "Ton Dieu ordonne que tu sois fort: fortifie, ô Dieu, ce que tu as fait pour nous!"
+      }
+    },
+    {
+      "verse": 30,
+      "texts": {
+        "BDS": "Du haut de ton sanctuaire dominant Jérusalem,\r\ntu recevras les présents que t’apporteront les rois.",
+        "DBY": "Tance la bête des roseaux, l'assemblée des forts taureaux, avec les veaux des peuples: chacun se prosterne, offrant des lingots d'argent. Disperse les peuples qui trouvent leurs délices dans la guerre.",
+        "KJV": "Rebuke the company of spearmen, the multitude of the bulls, with the calves of the people, [till every one] submit himself with pieces of silver: scatter thou the people [that] delight in war.",
+        "LSG": "Epouvante l'animal des roseaux, La troupe des taureaux avec les veaux des peuples, Qui se prosternent avec des pièces d'argent! Disperse les peuples qui prennent plaisir à combattre!",
+        "MAB": "Tance rudement les bêtes sauvages des roseaux, l'assemblée des forts taureaux, et les veaux des peuples, [et] ceux qui se montrent parés de lames d'argent. Il a dissipé les peuples qui ne demandent que la guerre.",
+        "OST": "Dans ton temple qui est à Jérusalem, les rois t'apporteront des présents.",
+        "S21": "De ton temple tu règnes sur Jérusalem. Les rois t’apporteront des présents."
+      }
+    },
+    {
+      "verse": 31,
+      "texts": {
+        "BDS": "Menace le crocodile qui se tapit dans les joncs,\r\net le troupeau de taureaux, avec les peuples de veaux.\r\nIls viennent se prosterner avec leurs pièces d’argent.\r\nViens donc disperser ces peuples, tous ceux qui aiment la guerre!",
+        "DBY": "Des grands viendront d'Égypte; Cush s'empressera d'étendre ses mains vers Dieu.",
+        "KJV": "Princes shall come out of Egypt; Ethiopia shall soon stretch out her hands unto God.",
+        "LSG": "Des grands viennent de l'Egypte; L'Ethiopie accourt, les mains tendues vers Dieu.",
+        "MAB": "De grands Seigneurs viendront d'Egypte; Cus se hâtera d'étendre ses mains vers Dieu.",
+        "OST": "Tance la bête des roseaux, la troupe des taureaux avec les veaux des peuples, ceux qui se sont parés de lames d'argent. Il disperse les peuples qui se plaisent aux combats.",
+        "S21": "Menace l’animal des roseaux, la troupe des taureaux avec les veaux des peuples, qui se prosternent avec des pièces d’argent! Disperse les peuples qui aiment la guerre!"
+      }
+    },
+    {
+      "verse": 32,
+      "texts": {
+        "BDS": "Des grands arrivent d’Egypte,\r\nl’Ethiopie accourt vers Dieu, les mains étendues vers lui.",
+        "DBY": "Royaumes de la terre, chantez à Dieu, chantez les louanges du Seigneur, (Sélah),",
+        "KJV": "Sing unto God, ye kingdoms of the earth; O sing praises unto the Lord; Selah:",
+        "LSG": "Royaumes de la terre, chantez à Dieu, Célébrez le Seigneur! -Pause.",
+        "MAB": "Royaumes de la terre, chantez à Dieu, psalmodiez au Seigneur; Sélah.",
+        "OST": "Les grands viendront d'Égypte. Cush se hâtera de tendre les mains vers Dieu.",
+        "S21": "Des grands viennent de l’Egypte; l’Ethiopie accourt, les mains tendues vers Dieu."
+      }
+    },
+    {
+      "verse": 33,
+      "texts": {
+        "BDS": "O vous, royaumes du monde, chantez en l’honneur de Dieu!\r\nCélébrez tous le Seigneur!\r\nPause",
+        "DBY": "A celui qui passe comme à cheval sur les cieux, sur les cieux d'ancienneté! Voici, il fait retentir sa voix, un voix puissante.",
+        "KJV": "To him that rideth upon the heavens of heavens, [which were] of old; lo, he doth send out his voice, [and that] a mighty voice.",
+        "LSG": "Chantez à celui qui s'avance dans les cieux, les cieux éternels! Voici, il fait entendre sa voix, sa voix puissante.",
+        "MAB": "[Psalmodiez] à celui qui est monté dans les cieux des cieux qui sont d'ancienneté; voilà, il fait retentir de sa voix un son véhément.",
+        "OST": "Royaumes de la terre, chantez à Dieu! Psalmodiez au Seigneur (Sélah),",
+        "S21": "Royaumes de la terre, chantez en l’honneur de Dieu, célébrez le Seigneur! – Pause."
+      }
+    },
+    {
+      "verse": 34,
+      "texts": {
+        "BDS": "Chantez celui qui s’avance en chevauchant dans les cieux, les cieux antiques!\r\nVoici qu’il fait retentir sa voix, sa voix éclatante.",
+        "DBY": "Attribuez la force à Dieu: sa majesté est sur Israël, et sa force dans les nuées.",
+        "KJV": "Ascribe ye strength unto God: his excellency [is] over Israel, and his strength [is] in the clouds.",
+        "LSG": "Rendez gloire à Dieu! Sa majesté est sur Israël, et sa force dans les cieux.",
+        "MAB": "Attribuez la force à Dieu; sa magnificence est sur Israël, et sa force est dans les nuées.",
+        "OST": "A celui qui s'avance porté sur les cieux des cieux, les cieux éternels! Voici, il fait retentir sa voix, sa puissante voix.",
+        "S21": "Chantez celui qui s’avance dans le ciel, le ciel ancien! Voici qu’il fait retentir sa voix, sa voix puissante."
+      }
+    },
+    {
+      "verse": 35,
+      "texts": {
+        "BDS": "Proclamez que Dieu est fort,\r\nsa majesté resplendit sur Israël, et sa puissance éclate dans les nuées.",
+        "DBY": "Tu es terrible, ô Dieu! du milieu de tes sanctuaires. Le Dieu d'Israël, c'est lui qui donne la puissance et la force à son peuple. Béni soit Dieu!",
+        "KJV": "O God, [thou art] terrible out of thy holy places: the God of Israel [is] he that giveth strength and power unto [his] people. Blessed [be] God.",
+        "LSG": "De ton sanctuaire, ô Dieu! tu es redoutable. Le Dieu d'Israël donne à son peuple la force et la puissance. Béni soit Dieu!",
+        "MAB": "Ô Dieu! Tu es redouté à cause de tes Sanctuaires. Le [Dieu] Fort d'Israël est celui qui donne la force et la puissance à son peuple; Béni soit Dieu!",
+        "OST": "Rendez la force à Dieu! Sa majesté est sur Israël, sa force est dans les nues.",
+        "S21": "Proclamez la force de Dieu! Sa majesté s’étend sur Israël, et sa force éclate dans le ciel."
+      }
+    },
+    {
+      "verse": 36,
+      "texts": {
+        "BDS": "Tu es redoutable, ô Dieu, du fond de ton sanctuaire:\r\noui, c’est le Dieu d’Israël qui donne au peuple force et puissance.\r\nLoué soit Dieu!",
+        "OST": "De tes sanctuaires, ô Dieu, tu te montres redoutable. C'est lui, le Dieu d'Israël, qui donne force et puissance au peuple. Béni soit Dieu!",
+        "S21": "De ton sanctuaire, ô Dieu, tu es redoutable. Le Dieu d’Israël donne force et puissance à son peuple. Béni soit Dieu!"
+      }
+    }
+  ]
+}

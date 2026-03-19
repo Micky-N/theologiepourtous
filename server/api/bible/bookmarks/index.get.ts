@@ -1,4 +1,12 @@
 import { prisma } from '~~/lib/prisma';
+import {
+    buildBookPayload,
+    buildVersePreview,
+    getBibleBookByCode,
+    getBibleBookByOrderIndex,
+    getBibleVersionByCode,
+    getBibleVersionByOrderIndex
+} from '~~/server/utils/bibleData';
 
 export default defineEventHandler(async (event) => {
     try {
@@ -13,10 +21,7 @@ export default defineEventHandler(async (event) => {
         }
 
         const preferences = await prisma.userPreference.findUnique({
-            where: { userId: userSession.id },
-            include: {
-                defaultVersion: true
-            }
+            where: { userId: userSession.id }
         });
 
         const userId = userSession.id;
@@ -32,30 +37,25 @@ export default defineEventHandler(async (event) => {
 
         // Filtrer par livre si spécifié
         if (bookCode) {
-            const book = await prisma.bibleBook.findUnique({
-                where: { code: bookCode.toUpperCase() }
-            });
+            const book = await getBibleBookByCode(bookCode);
             if (book) {
-                whereClause.bookId = book.id;
+                whereClause.bookOrderIndex = book.orderIndex;
             }
 
             // Filtrer par chapitre si spécifié
             if (query.chapter) {
-                whereClause.verse = {
-                    chapter: parseInt(query.chapter as string)
-                };
+                whereClause.chapter = parseInt(query.chapter as string);
             }
 
             if (preferences?.bookmarksPerVersion) {
-                const versionCode = (query.version as string | undefined)?.toUpperCase() || (preferences?.defaultVersion?.code || 'LSG');
-                const version = await prisma.bibleVersion.findUnique({
-                    where: { code: versionCode }
-                });
+                const versionCode = (query.version as string | undefined)?.toUpperCase();
+                const version = versionCode
+                    ? await getBibleVersionByCode(versionCode)
+                    : preferences?.defaultVersionOrderIndex
+                        ? await getBibleVersionByOrderIndex(preferences.defaultVersionOrderIndex)
+                        : await getBibleVersionByCode('LSG');
                 if (version) {
-                    whereClause.verse = {
-                        ...whereClause.verse,
-                        versionId: version.id
-                    };
+                    whereClause.versionOrderIndex = version.orderIndex;
                 }
             }
         }
@@ -63,14 +63,6 @@ export default defineEventHandler(async (event) => {
         const [bookmarks, total] = await Promise.all([
             prisma.bibleBookmark.findMany({
                 where: whereClause,
-                include: {
-                    book: true,
-                    verse: {
-                        include: {
-                            version: true
-                        }
-                    }
-                },
                 orderBy: {
                     createdAt: 'desc'
                 },
@@ -80,26 +72,40 @@ export default defineEventHandler(async (event) => {
             prisma.bibleBookmark.count({ where: whereClause })
         ]);
 
-        const formattedBookmarks = bookmarks.map(bookmark => ({
-            id: bookmark.id,
-            title: bookmark.title,
-            color: bookmark.color,
-            reference: `${bookmark.book.name} ${bookmark.verse.chapter}:${bookmark.verse.verse}`,
-            book: bookmark.book,
-            verse: {
-                chapter: bookmark.verse.chapter,
-                verse: bookmark.verse.verse,
-                text: bookmark.verse.text,
-                version: bookmark.verse.version
-            },
-            createdAt: bookmark.createdAt,
-            updatedAt: bookmark.updatedAt
+        const formattedBookmarks = await Promise.all(bookmarks.map(async (bookmark) => {
+            const [book, version] = await Promise.all([
+                getBibleBookByOrderIndex(bookmark.bookOrderIndex),
+                getBibleVersionByOrderIndex(bookmark.versionOrderIndex)
+            ]);
+
+            if (!book || !version) {
+                return null;
+            }
+
+            return {
+                id: bookmark.id,
+                title: bookmark.title,
+                color: bookmark.color,
+                reference: `${book.name} ${bookmark.chapter}:${bookmark.verse}`,
+                book: buildBookPayload(book),
+                verse: await buildVersePreview({
+                    bookCode: book.code,
+                    chapter: bookmark.chapter,
+                    verse: bookmark.verse,
+                    versionCode: version.code,
+                    versionName: version.name
+                }),
+                createdAt: bookmark.createdAt,
+                updatedAt: bookmark.updatedAt
+            };
         }));
+
+        const filteredBookmarks = formattedBookmarks.filter(bookmark => bookmark !== null);
 
         return {
             success: true,
             data: {
-                bookmarks: formattedBookmarks,
+                bookmarks: filteredBookmarks,
                 pagination: {
                     total,
                     limit,
@@ -107,7 +113,7 @@ export default defineEventHandler(async (event) => {
                     hasMore: offset + limit < total
                 }
             },
-            count: bookmarks.length
+            count: filteredBookmarks.length
         };
     } catch {
         throw createError({

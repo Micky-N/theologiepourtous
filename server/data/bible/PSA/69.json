@@ -1,0 +1,446 @@
+{
+  "bookCode": "PSA",
+  "chapter": 69,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "Au chef de chœur, un psaume de David, à chanter sur l’air «Les lis».",
+        "DBY": "ô Dieu! car les eaux me sont entrées jusque dans l'âme.",
+        "KJV": "To the chief Musician upon Shoshannim, [A Psalm] of David. Save me, O God; for the waters are come in unto [my] soul.",
+        "LSG": "Au chef des chantres. Sur les lis. De David. Sauve-moi, ô Dieu! Car les eaux menacent ma vie.",
+        "MAB": "Psaume de David, [donné] au maître chantre, [pour le chanter] sur Sosannim. Délivre-moi, ô Dieu, car les eaux me sont entrées jusque dans l'âme.",
+        "OST": "Au maître-chantre. Psaume de David, sur Shoshannim (les lys).",
+        "S21": "Au chef de chœur, sur la mélodie «Les lis». De David."
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "O mon Dieu, sauve-moi,\r\nj’ai de l’eau jusqu’au cou.",
+        "DBY": "Je suis enfoncé dans une boue profonde, et il n'y a pas où prendre pied; je suis entré dans la profondeur des eaux, et le courant me submerge.",
+        "KJV": "I sink in deep mire, where [there is] no standing: I am come into deep waters, where the floods overflow me.",
+        "LSG": "J'enfonce dans la boue, sans pouvoir me tenir; Je suis tombé dans un gouffre, et les eaux m'inondent.",
+        "MAB": "Je suis enfoncé dans un bourbier profond, dans lequel il n'y a point où prendre pied; je suis entré au plus profond des eaux, et le fil des eaux se débordant, m'emporte.",
+        "OST": "Sauve-moi, ô Dieu, car les eaux ont atteint ma vie!",
+        "S21": "Sauve-moi, ô Dieu, car l’eau menace ma vie."
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "Dans la boue, je m’enlise, sans point d’appui.\r\nMe voici descendu au plus profond des eaux; le torrent me submerge.",
+        "DBY": "Je suis las de crier; mon gosier est desséché; mes yeux se consument, pendant que j'attends mon Dieu.",
+        "KJV": "I am weary of my crying: my throat is dried: mine eyes fail while I wait for my God.",
+        "LSG": "Je m'épuise à crier, mon gosier se dessèche, Mes yeux se consument, tandis que je regarde vers mon Dieu.",
+        "MAB": "Je suis las de crier, mon gosier en est asséché; mes yeux sont consumés pendant que j'attends après mon Dieu.",
+        "OST": "Je suis plongé dans un bourbier profond, où je ne puis prendre pied; je suis entré dans l'abîme des eaux, et les flots m'ont submergé.",
+        "S21": "J’enfonce dans la boue, sans trouver de terrain stable; je suis tombé dans l’eau profonde, et le courant m’emporte."
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "Je m’épuise à crier, mon gosier est brûlant,\r\nmes yeux se sont usés à t’attendre, mon Dieu.",
+        "DBY": "Ceux qui me haïssent sans cause sont plus nombreux que les cheveux de ma tête; ceux qui voudraient me perdre, qui sont à tort mes ennemis, sont puissants; ce que je n'avais pas ravi, je l'ai alors rendu.",
+        "KJV": "They that hate me without a cause are more than the hairs of mine head: they that would destroy me, [being] mine enemies wrongfully, are mighty: then I restored [that] which I took not away.",
+        "LSG": "Ils sont plus nombreux que les cheveux de ma tête, Ceux qui me haïssent sans cause; Ils sont puissants, ceux qui veulent me perdre, Qui sont à tort mes ennemis. Ce que je n'ai pas dérobé, il faut que je le restitue.",
+        "MAB": "Ceux qui me haïssent sans cause, passent en nombre les cheveux de ma tête; ceux qui tâchent à me ruiner, et qui me sont ennemis à tort, se sont renforcés : j'ai alors rendu ce que je n'avais point ravi.",
+        "OST": "Je suis las de crier; ma gorge est desséchée; mes yeux se consument à attendre mon Dieu.",
+        "S21": "Je m’épuise à crier, mon gosier se dessèche, mes yeux se fatiguent dans l’attente de mon Dieu."
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "Car ceux qui me haïssent sans la moindre raison\r\nont dépassé le nombre des cheveux de ma tête.\r\nIls sont puissants, ces ennemis menteurs: ils veulent me détruire,\r\nme haïssant sans cause.\r\nJe dois restituer ce que je n’ai pas pris.",
+        "DBY": "O Dieu! tu connais ma folie, et mes fautes ne te sont pas cachées.",
+        "KJV": "O God, thou knowest my foolishness; and my sins are not hid from thee.",
+        "LSG": "O Dieu! tu connais ma folie, Et mes fautes ne te sont point cachées.",
+        "MAB": "Ô Dieu! Tu connais ma folie, et mes fautes ne te sont point cachées.",
+        "OST": "Ceux qui me haïssent sans cause, passent en nombre les cheveux de ma tête; ceux qui m'attaquent et qui sont mes ennemis sans sujet, se renforcent; je dois alors rendre ce que je n'ai pas ravi.",
+        "S21": "Ils sont plus nombreux que les cheveux de ma tête, ceux qui me détestent sans raison; ils sont puissants, ceux qui veulent me réduire au silence, qui sont à tort mes ennemis. Ce que je n’ai pas volé, il faut que je le rende."
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "O Dieu, tu sais combien je me suis égaré,\r\net mes actes coupables ne te sont pas cachés.",
+        "DBY": "Que ceux qui s'attendent à toi ne soient pas rendus honteux à cause de moi, Seigneur, Éternel des armées! Que ceux qui te cherchent ne soient pas rendus confus à cause de moi, ô Dieu d'Israël!",
+        "KJV": "Let not them that wait on thee, O Lord GOD of hosts, be ashamed for my sake: let not those that seek thee be confounded for my sake, O God of Israel.",
+        "LSG": "Que ceux qui espèrent en toi ne soient pas confus à cause de moi, Seigneur, Eternel des armées! Que ceux qui te cherchent ne soient pas dans la honte à cause de moi, Dieu d'Israël!",
+        "MAB": "Ô Seigneur Eternel des armées! que ceux qui se confient en toi, ne soient point rendus honteux à cause de moi; [et] que ceux qui te cherchent ne soient point confus à cause de moi, ô Dieu d'Israël!",
+        "OST": "O Dieu! tu connais ma folie, et mes fautes ne te sont point cachées.",
+        "S21": "O Dieu, tu connais ma folie, et mes fautes ne te sont pas cachées."
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "Qu’ils n’aient pas à rougir, ceux qui ont mis leur espérance en toi,\r\nô Eternel, ô Seigneur des armées célestes!\r\nQu’ils ne soient pas honteux à mon sujet, ceux qui se sont tournés vers toi,\r\nDieu d’Israël!",
+        "DBY": "Car à cause de toi j'ai porté l'opprobre, la confusion a couvert mon visage.",
+        "KJV": "Because for thy sake I have borne reproach; shame hath covered my face.",
+        "LSG": "Car c'est pour toi que je porte l'opprobre, Que la honte couvre mon visage;",
+        "MAB": "Car pour l'amour de toi j'ai souffert l'opprobre, la honte a couvert mon visage.",
+        "OST": "Que ceux qui s'attendent à toi ne soient pas honteux à cause de moi, Seigneur, Éternel des armées! Que ceux qui te cherchent ne soient pas confus à mon sujet, ô Dieu d'Israël!",
+        "S21": "Que ceux qui espèrent en toi ne soient pas honteux à cause de moi, Seigneur, Eternel, maître de l’univers! Que ceux qui te cherchent ne rougissent pas à cause de moi, Dieu d’Israël!"
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "Car c’est pour te servir que je souffre la honte\r\net que la confusion me couvre le visage.",
+        "DBY": "Je suis devenu un étranger à mes frères, et un inconnu aux fils de ma mère;",
+        "KJV": "I am become a stranger unto my brethren, and an alien unto my mother's children.",
+        "LSG": "Je suis devenu un étranger pour mes frères, Un inconnu pour les fils de ma mère.",
+        "MAB": "Je suis devenu étranger à mes frères, et un homme de dehors aux enfants de ma mère.",
+        "OST": "Car c'est pour toi que je porte l'opprobre, et que la honte a couvert mon visage.",
+        "S21": "En effet, c’est pour toi que je supporte l’insulte, que la honte couvre mon visage."
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "Me voilà devenu étranger pour mes frères\r\net comme un inconnu pour les fils de ma mère!",
+        "DBY": "Car le zèle de ta maison m'a dévoré, et les outrages de ceux qui t'outragent sont tombés sur moi.",
+        "KJV": "For the zeal of thine house hath eaten me up; and the reproaches of them that reproached thee are fallen upon me.",
+        "LSG": "Car le zèle de ta maison me dévore, Et les outrages de ceux qui t'insultent tombent sur moi.",
+        "MAB": "Car le zèle de ta maison m'a rongé, et les outrages de ceux qui t'outrageaient sont tombés sur moi.",
+        "OST": "Je suis devenu un étranger pour mes frères, et un inconnu pour les fils de ma mère.",
+        "S21": "Je suis devenu un étranger pour mes frères, un inconnu pour les fils de ma mère,"
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "L’amour que j’ai pour ta maison est en moi comme un feu qui me consume,\r\net les insultes des hommes qui t’insultent sont retombées sur moi.",
+        "DBY": "Et j'ai pleuré, mon âme était dans le jeûne; et cela m'a été en opprobre.",
+        "KJV": "When I wept, [and chastened] my soul with fasting, that was to my reproach.",
+        "LSG": "Je verse des larmes et je jeûne, Et c'est ce qui m'attire l'opprobre;",
+        "MAB": "Et j'ai pleuré en jeûnant : mais cela m'a été tourné en opprobre.",
+        "OST": "Car le zèle de ta maison m'a dévoré, et les outrages de ceux qui t'outragent sont tombés sur moi,",
+        "S21": "car le zèle de ta maison me dévore, et les injures de ceux qui t’insultent tombent sur moi."
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "J’ai pleuré, j’ai jeûné,\r\net c’est pour cela qu’on m’insulte!",
+        "DBY": "J'ai pris aussi un sac pour mon vêtement, et je leur suis devenu un proverbe.",
+        "KJV": "I made sackcloth also my garment; and I became a proverb to them.",
+        "LSG": "Je prends un sac pour vêtement, Et je suis l'objet de leurs sarcasmes.",
+        "MAB": "J'ai aussi pris un sac pour vêtement, mais je leur ai été un sujet de raillerie.",
+        "OST": "Et j'ai pleuré en jeûnant; mais cela même m'a été un opprobre.",
+        "S21": "Je pleure et je jeûne, et c’est ce qui m’attire les insultes."
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "Je me suis revêtu d’une toile de sac,\r\net je deviens pour eux un objet de risée.",
+        "DBY": "Ceux qui sont assis dans la porte parlent contre moi, et je sers de chanson aux buveurs.",
+        "KJV": "They that sit in the gate speak against me; and I [was] the song of the drunkards.",
+        "LSG": "Ceux qui sont assis à la porte parlent de moi, Et les buveurs de liqueurs fortes me mettent en chansons.",
+        "MAB": "Ceux qui sont assis à la porte discourent de moi, et je sers de chanson aux ivrognes.",
+        "OST": "J'ai aussi pris le sac pour vêtement; mais j'ai été l'objet de leurs railleries.",
+        "S21": "Je prends un sac pour habit et je suis l’objet de leurs moqueries."
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "Les gens qui sont assis sur la place publique bavardent contre moi,\r\net les buveurs d’alcool font de moi leur chanson.",
+        "DBY": "Mais, pour moi, ma prière s'adresse à toi, Éternel, en un temps agréé. -O Dieu! selon la grandeur de ta bonté, réponds-moi selon la vérité de ton salut.",
+        "KJV": "But as for me, my prayer [is] unto thee, O LORD, [in] an acceptable time: O God, in the multitude of thy mercy hear me, in the truth of thy salvation.",
+        "LSG": "Mais je t'adresse ma prière, ô Eternel! Que ce soit le temps favorable, ô Dieu, par ta grande bonté! Réponds-moi, en m'assurant ton secours!",
+        "MAB": "Mais, pour moi, ma requête s'adresse à toi, ô Eternel! Il y a un temps de [ton] bon plaisir, ô Dieu! selon la grandeur de ta gratuité. Réponds-moi selon la vérité de ta délivrance.",
+        "OST": "Ceux qui sont assis à la porte s'entretiennent de moi; les buveurs de boissons fortes font de moi le sujet de leurs chansons.",
+        "S21": "Ceux qui sont assis à la porte parlent contre moi, et les buveurs de liqueurs fortes se moquent de moi dans leurs chansons."
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "Mais moi, ô Eternel, je te dis ma prière:\r\nvoici, c’est le moment de montrer ta faveur! O Dieu,\r\nexauce-moi dans ton immense amour\r\net sauve-moi dans ta fidélité!",
+        "DBY": "Délivre-moi du bourbier, et que je n'y enfonce point; que je sois délivré de ceux qui me haïssent et des profondeurs des eaux.",
+        "KJV": "Deliver me out of the mire, and let me not sink: let me be delivered from them that hate me, and out of the deep waters.",
+        "LSG": "Retire-moi de la boue, et que je n'enfonce plus! Que je sois délivré de mes ennemis et du gouffre!",
+        "MAB": "Délivre-moi du bourbier, fais que je n'y enfonce point, et que je sois délivré de ceux qui me haïssent, et des eaux profondes.",
+        "OST": "Pour moi, ma prière s'adresse à toi, ô Éternel, dans le temps de ta faveur. O Dieu, selon ta grande bonté, réponds-moi et me délivre, selon ta fidélité!",
+        "S21": "Mais moi je t’adresse ma prière, Eternel! C’est le moment favorable, ô Dieu, par ta grande bonté: réponds-moi en m’accordant ton fidèle secours!"
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "Tire-moi de la boue! Que je n’enfonce pas!\r\nViens donc me délivrer de ceux qui me haïssent,\r\net des profondes eaux!",
+        "DBY": "Que le courant des eaux ne me submerge pas, et que la profondeur ne m'engloutisse pas, et que le puits ne ferme pas sa gueule sur moi.",
+        "KJV": "Let not the waterflood overflow me, neither let the deep swallow me up, and let not the pit shut her mouth upon me.",
+        "LSG": "Que les flots ne m'inondent plus, Que l'abîme ne m'engloutisse pas, Et que la fosse ne se ferme pas sur moi!",
+        "MAB": "Que le fil des eaux se débordant ne m'emporte point, et que le gouffre ne m'engloutisse point, et que le puits ne ferme point sa gueule sur moi.",
+        "OST": "Tire-moi du bourbier, et que je n'enfonce pas; que je sois délivré de mes ennemis et des eaux profondes!",
+        "S21": "Retire-moi de la boue, et que je n’enfonce plus, que je sois délivré de mes ennemis et de l’eau profonde!"
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "Que l’eau tumultueuse ne me submerge pas\r\net que l’abîme ne m’engloutisse pas!\r\nQue le gouffre béant ne me dévore pas!",
+        "DBY": "Réponds-moi, ô Éternel! car ta gratuité est bonne; selon la grandeur de tes compassions, tourne-toi vers moi;",
+        "KJV": "Hear me, O LORD; for thy lovingkindness [is] good: turn unto me according to the multitude of thy tender mercies.",
+        "LSG": "Exauce-moi, Eternel! car ta bonté est immense. Dans tes grandes compassions, tourne vers moi les regards,",
+        "MAB": "Eternel! Exauce-moi, car ta gratuité est bonne; tourne la face vers moi selon la grandeur de tes compassions;",
+        "OST": "Que le courant des eaux ne me submerge pas, que je ne sois pas englouti par le gouffre, et que la fosse ne referme pas sa bouche sur moi!",
+        "S21": "Que le courant ne m’emporte plus, que le gouffre ne m’engloutisse pas et que la tombe ne se referme pas sur moi!"
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "Réponds-moi, Eternel, ton amour est si bon!\r\nDans ta grande tendresse, occupe-toi de moi!",
+        "DBY": "Et ne cache pas ta face de ton serviteur, car je suis en détresse. Hâte-toi, réponds-moi.",
+        "KJV": "And hide not thy face from thy servant; for I am in trouble: hear me speedily.",
+        "LSG": "Et ne cache pas ta face à ton serviteur! Puisque je suis dans la détresse, hâte-toi de m'exaucer!",
+        "MAB": "Et ne cache point ta face arrière de ton serviteur, car je suis en détresse : hâte-toi, exauce-moi.",
+        "OST": "Éternel, réponds-moi, car ta faveur est bonne; selon la grandeur de tes compassions, tourne-toi vers moi!",
+        "S21": "Réponds-moi, Eternel, car ta bonté est immense! Dans tes grandes compassions, tourne les regards vers moi"
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "Ne te détourne plus de moi, ton serviteur!\r\nJe suis dans la détresse, réponds-moi sans tarder!",
+        "DBY": "Approche-toi de mon âme, sois son rédempteur; rachète-moi à cause de mes ennemis.",
+        "KJV": "Draw nigh unto my soul, [and] redeem it: deliver me because of mine enemies.",
+        "LSG": "Approche-toi de mon âme, délivre-la! Sauve-moi, à cause de mes ennemis!",
+        "MAB": "Approche-toi de mon âme, rachète-la; délivre-moi à cause de mes ennemis.",
+        "OST": "Et ne cache pas ta face à ton serviteur, car je suis en détresse; hâte-toi, réponds-moi!",
+        "S21": "et ne cache pas ton visage à ton serviteur! Je suis dans la détresse: réponds-moi vite!"
+      }
+    },
+    {
+      "verse": 19,
+      "texts": {
+        "BDS": "Approche-toi de moi, viens me sauver la vie.\r\nOui, viens me libérer, car j’ai des ennemis.",
+        "DBY": "Toi, tu connais mon opprobre, et ma honte, et ma confusion: tous mes adversaires sont devant toi.",
+        "KJV": "Thou hast known my reproach, and my shame, and my dishonour: mine adversaries [are] all before thee.",
+        "LSG": "Tu connais mon opprobre, ma honte, mon ignominie; Tous mes adversaires sont devant toi.",
+        "MAB": "Tu connais toi-même mon opprobre, et ma honte, et mon ignominie; tous mes ennemis sont devant toi.",
+        "OST": "Approche-toi de mon âme, rachète-la; à cause de mes ennemis, délivre-moi!",
+        "S21": "Approche-toi de moi, rachète-moi, libère-moi, à cause de mes ennemis!"
+      }
+    },
+    {
+      "verse": 20,
+      "texts": {
+        "BDS": "Toi, tu connais ma honte, tu sais que l’on m’insulte, qu’on se moque de moi.\r\nIls sont là, devant toi, tous mes persécuteurs.",
+        "DBY": "L'opprobre m'a brisé le cœur, et je suis accablé; et j'ai attendu que quelqu'un eût compassion de moi, mais il n'y a eu personne,… et des consolateurs, mais je n'en ai pas trouvé.",
+        "KJV": "Reproach hath broken my heart; and I am full of heaviness: and I looked [for some] to take pity, but [there was] none; and for comforters, but I found none.",
+        "LSG": "L'opprobre me brise le coeur, et je suis malade; J'attends de la pitié, mais en vain, Des consolateurs, et je n'en trouve aucun.",
+        "MAB": "L'opprobre m'a déchiré le cœur, et je suis languissant; j'ai attendu que quelqu'un eût compassion de moi, mais il n'y en a point eu : et j'ai attendu des consolateurs, mais je n'en ai point trouvé.",
+        "OST": "Toi, tu sais mon opprobre, et ma honte, et ma confusion; tous mes adversaires sont devant tes yeux.",
+        "S21": "Tu sais qu’on m’insulte, qu’on me déshonore, qu’on me couvre de honte; tous mes adversaires sont devant toi."
+      }
+    },
+    {
+      "verse": 21,
+      "texts": {
+        "BDS": "Leurs outrages m’atteignent, ils m’ont brisé le cœur, je ne m’en remets pas;\r\nj’espère un geste de sympathie en ma faveur, mais mon attente est vaine,\r\nquelqu’un qui me console, mais je n’en trouve pas.",
+        "DBY": "Ils ont mis du fiel dans ma nourriture, et, dans ma soif, ils m'ont abreuvé de vinaigre.",
+        "KJV": "They gave me also gall for my meat; and in my thirst they gave me vinegar to drink.",
+        "LSG": "Ils mettent du fiel dans ma nourriture, Et, pour apaiser ma soif, ils m'abreuvent de vinaigre.",
+        "MAB": "Ils m'ont au contraire donné du fiel pour mon repas; et dans ma soif ils m'ont abreuvé de vinaigre.",
+        "OST": "L'opprobre m'a brisé le cœur, et je suis languissant; j'ai attendu de la compassion, mais il n'y en a point; des consolateurs, mais je n'en trouve pas.",
+        "S21": "L’insulte me brise le cœur, et je suis anéanti; j’attends de la pitié, mais il n’y en a pas, des consolateurs, et je n’en trouve aucun."
+      }
+    },
+    {
+      "verse": 22,
+      "texts": {
+        "BDS": "Ils ont mis du poison dans le pain que je mange.\r\nPour étancher ma soif, ils m’offrent du vinaigre.",
+        "DBY": "Que leur table soit un piège devant eux, et que ce qui tend à la prospérité leur soit un filet;",
+        "KJV": "Let their table become a snare before them: and [that which should have been] for [their] welfare, [let it become] a trap.",
+        "LSG": "Que leur table soit pour eux un piège, Et un filet au sein de leur sécurité!",
+        "MAB": "Que leur table soit un filet tendu devant eux; et [que ce qui tend] à la prospérité [leur soit] en piège.",
+        "OST": "Ils mettent du fiel dans ma nourriture, et dans ma soif ils m'abreuvent de vinaigre.",
+        "S21": "Ils mettent du poison dans ma nourriture, et pour apaiser ma soif ils me donnent du vinaigre."
+      }
+    },
+    {
+      "verse": 23,
+      "texts": {
+        "BDS": "Que leurs banquets deviennent un piège devant eux,\r\nque leur prospérité soit comme un traquenard!",
+        "DBY": "Que leurs yeux soient obscurcis de sorte qu'ils ne voient pas, et fais continuellement chanceler leurs reins.",
+        "KJV": "Let their eyes be darkened, that they see not; and make their loins continually to shake.",
+        "LSG": "Que leurs yeux s'obscurcissent et ne voient plus, Et fais continuellement chanceler leurs reins!",
+        "MAB": "Que leurs yeux soient tellement obscurcis, qu'ils ne puissent point voir; et fais continuellement chanceler leurs reins.",
+        "OST": "Que leur table devienne un piège devant eux, et un filet dans leur sécurité!",
+        "S21": "Que leur table soit pour eux un piège, et leur prospérité une entrave!"
+      }
+    },
+    {
+      "verse": 24,
+      "texts": {
+        "BDS": "Que leurs yeux s’obscurcissent au point de ne plus voir,\r\nfais-leur courber le dos continuellement!",
+        "DBY": "Répands sur eux ton indignation, et que l'ardeur de ta colère les atteigne.",
+        "KJV": "Pour out thine indignation upon them, and let thy wrathful anger take hold of them.",
+        "LSG": "Répands sur eux ta colère, Et que ton ardente fureur les atteigne!",
+        "MAB": "Répands ton indignation sur eux, et que l'ardeur de ta colère les saisisse.",
+        "OST": "Que leurs yeux s'obscurcissent pour ne plus voir; et fais trembler continuellement leurs reins!",
+        "S21": "Que leurs yeux s’obscurcissent pour ne plus voir! Fais-leur constamment courber le dos!"
+      }
+    },
+    {
+      "verse": 25,
+      "texts": {
+        "BDS": "Que ton indignation se déverse sur eux!\r\nQue ta colère ardente les atteigne!",
+        "DBY": "Que leur demeure soit désolée, qu'il n'y ait personne qui habite dans leurs tentes.",
+        "KJV": "Let their habitation be desolate; [and] let none dwell in their tents.",
+        "LSG": "Que leur demeure soit dévastée, Qu'il n'y ait plus d'habitants dans leurs tentes!",
+        "MAB": "Que leur palais soit désolé, et qu'il n'y ait personne qui habite dans leurs tentes.",
+        "OST": "Répands sur eux ton indignation, et que l'ardeur de ton courroux les atteigne!",
+        "S21": "Déverse ta fureur sur eux et que ton ardente colère les atteigne!"
+      }
+    },
+    {
+      "verse": 26,
+      "texts": {
+        "BDS": "Que les lieux où ils campent soient dévastés,\r\nque leurs demeures soient privées d’habitants!",
+        "DBY": "Car ils persécutent celui que toi tu as frappé, et parlent pour la douleur de ceux que tu as blessés.",
+        "KJV": "For they persecute [him] whom thou hast smitten; and they talk to the grief of those whom thou hast wounded.",
+        "LSG": "Car ils persécutent celui que tu frappes, Ils racontent les souffrances de ceux que tu blesses.",
+        "MAB": "Car ils persécutent celui que tu avais frappé, et font leurs contes de la douleur de ceux que tu avais blessés.",
+        "OST": "Que leur demeure soit déserte, et que personne n'habite dans leurs tentes!",
+        "S21": "Que leur domaine devienne désert, que plus personne n’habite dans leurs tentes!"
+      }
+    },
+    {
+      "verse": 27,
+      "texts": {
+        "BDS": "Ils se sont acharnés sur celui que tu as frappé,\r\nils se sont répandus en commérages sur les malheurs de ceux que tu avais blessés.",
+        "DBY": "Mets iniquité sur leur iniquité, et qu'ils n'entrent pas en ta justice;",
+        "KJV": "Add iniquity unto their iniquity: and let them not come into thy righteousness.",
+        "LSG": "Ajoute des iniquités à leurs iniquités, Et qu'ils n'aient point part à ta miséricorde!",
+        "MAB": "Mets iniquité sur leur iniquité; et qu'ils n'entrent point en ta justice.",
+        "OST": "Car ils persécutent celui que tu as frappé, et ils racontent la douleur de ceux que tu as blessés.",
+        "S21": "En effet, ils poursuivent celui que tu frappes, ils racontent les souffrances de ceux que tu as blessés."
+      }
+    },
+    {
+      "verse": 28,
+      "texts": {
+        "BDS": "Charge-les donc de tous leurs crimes,\r\net ne les traite pas comme des innocents!",
+        "DBY": "Qu'ils soient effacés du livre de vie, et qu'ils ne soient pas inscrits avec les justes.",
+        "KJV": "Let them be blotted out of the book of the living, and not be written with the righteous.",
+        "LSG": "Qu'ils soient effacés du livre de vie, Et qu'ils ne soient point inscrits avec les justes!",
+        "MAB": "Qu'ils soient effacés du Livre de vie, et qu'ils ne soient point écrits avec les justes.",
+        "OST": "Ajoute iniquité à leurs iniquités, et qu'ils n'aient point de part à ta justice.",
+        "S21": "Ajoute cette faute à leurs fautes et qu’ils n’aient aucune part à ta justice!"
+      }
+    },
+    {
+      "verse": 29,
+      "texts": {
+        "BDS": "Que leurs noms soient rayés du livre des vivants!\r\nQu’ils ne soient pas inscrits parmi les justes!",
+        "DBY": "Mais pour moi, je suis affligé et dans la douleur: que ton salut, ô Dieu, m'élève en un lieu de sûreté!",
+        "KJV": "But I [am] poor and sorrowful: let thy salvation, O God, set me up on high.",
+        "LSG": "Moi, je suis malheureux et souffrant: O Dieu, que ton secours me relève!",
+        "MAB": "Mais pour moi, qui suis affligé, et dans la douleur, ta délivrance, ô Dieu! m'élèvera en une haute retraite.",
+        "OST": "Qu'ils soient effacés du livre de vie, et ne soient pas inscrits avec les justes!",
+        "S21": "Qu’ils soient effacés du livre de vie et ne soient pas inscrits avec les justes!"
+      }
+    },
+    {
+      "verse": 30,
+      "texts": {
+        "BDS": "Je suis malheureux et je souffre,\r\nmais ton secours, ô Dieu, me mettra à l’abri.",
+        "DBY": "Je louerai le nom de Dieu dans un cantique, et je le magnifierai par ma louange;",
+        "KJV": "I will praise the name of God with a song, and will magnify him with thanksgiving.",
+        "LSG": "Je célébrerai le nom de Dieu par des cantiques, Je l'exalterai par des louanges.",
+        "MAB": "Je louerai le Nom de Dieu par des Cantiques, et je le magnifierai par une louange solennelle.",
+        "OST": "Pour moi, je suis affligé et dans la douleur; ta délivrance, ô Dieu, me mettra dans une haute retraite!",
+        "S21": "Moi, je suis malheureux et souffrant. O Dieu, que ton secours me mette en sécurité!"
+      }
+    },
+    {
+      "verse": 31,
+      "texts": {
+        "BDS": "Alors je te louerai, ô Dieu, dans mes cantiques,\r\net je proclamerai ta gloire par ma reconnaissance.",
+        "DBY": "Et cela plaira plus à l'Éternel qu'un taureau, un bœuf qui a des cornes et l'ongle divisé.",
+        "KJV": "[This] also shall please the LORD better than an ox [or] bullock that hath horns and hoofs.",
+        "LSG": "Cela est agréable à l'Eternel, plus qu'un taureau Avec des cornes et des sabots.",
+        "MAB": "Et cela plaira plus à l'Eternel qu'un taureau, plus qu'un veau qui a des cornes, et l'ongle divisé.",
+        "OST": "Je célébrerai le nom de Dieu par des chants; je le magnifierai par des louanges.",
+        "S21": "Je célébrerai le nom de Dieu par un chant, je proclamerai ta grandeur par des louanges:"
+      }
+    },
+    {
+      "verse": 32,
+      "texts": {
+        "BDS": "Voilà, ô Eternel, qui te plaît plus qu’un bœuf ou qu’un taureau\r\nayant sabots et cornes.",
+        "DBY": "Les débonnaires le verront, ils se réjouiront; vous qui cherchez Dieu, votre cœur vivra.",
+        "KJV": "The humble shall see [this, and] be glad: and your heart shall live that seek God.",
+        "LSG": "Les malheureux le voient et se réjouissent; Vous qui cherchez Dieu, que votre coeur vive!",
+        "MAB": "Les débonnaires le verront, [et] ils s'en réjouiront, et votre cœur vivra, [le cœur, dis-je, de vous tous] qui cherchez Dieu.",
+        "OST": "Et cela plaira mieux à l'Éternel qu'un taureau, qu'un veau ayant des cornes et l'ongle divisé.",
+        "S21": "voilà ce qui est agréable à l’Eternel, plus qu’un bœuf, un taureau avec cornes et sabots."
+      }
+    },
+    {
+      "verse": 33,
+      "texts": {
+        "BDS": "O vous, les malheureux, voyez, réjouissez-vous!\r\nOui, vous qui vous tournez vers Dieu, que la vie vous soit accordée!",
+        "DBY": "Car l'Éternel écoute les pauvres, et ne méprise pas ses prisonniers.",
+        "KJV": "For the LORD heareth the poor, and despiseth not his prisoners.",
+        "LSG": "Car l'Eternel écoute les pauvres, Et il ne méprise point ses captifs.",
+        "MAB": "Car l'Eternel exauce les misérables, et ne méprise point ses prisonniers.",
+        "OST": "Les humbles le verront et se réjouiront; votre cœur revivra, vous qui cherchez Dieu.",
+        "S21": "Les humbles le voient et se réjouissent. Vous qui cherchez Dieu, que votre cœur vive,"
+      }
+    },
+    {
+      "verse": 34,
+      "texts": {
+        "BDS": "Car l’Eternel entend les cris des malheureux,\r\nil ne méprise pas ceux qui lui appartiennent quand ils sont en prison.",
+        "DBY": "Les cieux et la terre le loueront, les mers et tout ce qui se meut en elles.",
+        "KJV": "Let the heaven and earth praise him, the seas, and every thing that moveth therein.",
+        "LSG": "Que les cieux et la terre le célèbrent, Les mers et tout ce qui s'y meut!",
+        "MAB": "Que les cieux et la terre le louent; que la mer et tout ce qui se meut en elle le louent aussi.",
+        "OST": "Car l'Éternel écoute les misérables, et il ne dédaigne point ses captifs.",
+        "S21": "car l’Eternel écoute les pauvres, et il ne méprise pas les siens quand ils sont prisonniers."
+      }
+    },
+    {
+      "verse": 35,
+      "texts": {
+        "BDS": "Que le ciel et la terre entonnent ses louanges\r\net que les mers l’acclament avec ce qui y vit!",
+        "DBY": "Dieu sauvera Sion, et bâtira les villes de Juda; et on y habitera, et on la possédera;",
+        "KJV": "For God will save Zion, and will build the cities of Judah: that they may dwell there, and have it in possession.",
+        "LSG": "Car Dieu sauvera Sion, et bâtira les villes de Juda; On s'y établira, et l'on en prendra possession;",
+        "MAB": "Car Dieu délivrera Sion, et bâtira les villes de Juda; on y habitera, et on la possèdera.",
+        "OST": "Que les cieux et la terre le louent, les mers et tout ce qui s'y meut!",
+        "S21": "Que le ciel et la terre le célèbrent, ainsi que les mers et tout ce qui y vit,"
+      }
+    },
+    {
+      "verse": 36,
+      "texts": {
+        "BDS": "Car Dieu viendra sauver la ville de Sion et il rebâtira les cités de Juda.\r\nOn y habitera, on les possédera.",
+        "DBY": "Et la semence de ses serviteurs l'héritera, et ceux qui aiment son nom y demeureront.",
+        "KJV": "The seed also of his servants shall inherit it: and they that love his name shall dwell therein.",
+        "LSG": "La postérité de ses serviteurs en fera son héritage, Et ceux qui aiment son nom y auront leur demeure.",
+        "MAB": "Et la postérité de ses serviteurs l'héritera, et ceux qui aiment son Nom demeureront en elle.",
+        "OST": "Car Dieu sauvera Sion et bâtira les villes de Juda; on y habitera, on la possédera.",
+        "S21": "car Dieu sauvera Sion, et il reconstruira les villes de Juda; on s’y établira et on les possédera."
+      }
+    },
+    {
+      "verse": 37,
+      "texts": {
+        "BDS": "Quant à la descendance des serviteurs de l’Eternel, elle en héritera,\r\net ceux qui l’aiment y feront leur demeure.",
+        "OST": "La race de ses serviteurs l'aura pour héritage; ceux qui aiment son nom, y auront leur demeure.",
+        "S21": "La descendance de ses serviteurs en fera son héritage, et ceux qui aiment son nom y habiteront."
+      }
+    }
+  ]
+}

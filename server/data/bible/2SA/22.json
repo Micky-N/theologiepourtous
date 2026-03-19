@@ -1,0 +1,618 @@
+{
+  "bookCode": "2SA",
+  "chapter": 22,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "David adressa à l’Eternel les paroles de ce cantique lorsque l’Eternel l’eut délivré de tous ses ennemis, et en particulier de Saül.",
+        "DBY": "Et David adressa à l'Éternel les paroles de ce cantique, le jour où l'Éternel l'eut délivré de la main de tous ses ennemis et de la main de Saül.",
+        "KJV": "And David spake unto the LORD the words of this song in the day [that] the LORD had delivered him out of the hand of all his enemies, and out of the hand of Saul:",
+        "LSG": "David adressa à l'Eternel les paroles de ce cantique, lorsque l'Eternel l'eut délivré de la main de tous ses ennemis et de la main de Saül.",
+        "MAB": "Après cela David prononça à l'Eternel les paroles de ce cantique, le jour que l'Eternel l'eut délivré de la main de tous ses ennemis, et surtout de la main de Saül.",
+        "OST": "Et David adressa à l'Éternel les paroles de ce cantique, au jour où l'Éternel l'eut délivré de la main de tous ses ennemis, et de la main de Saül.",
+        "S21": "David adressa les paroles de ce chant à l'Eternel après qu’il l'eut délivré de tous ses ennemis et de Saül."
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "Il dit ceci:\r\nL’Eternel est ma forteresse, mon rocher, mon libérateur.",
+        "DBY": "Et il dit: L'Éternel est mon rocher et mon lieu fort, et celui qui me délivre.",
+        "KJV": "And he said, The LORD [is] my rock, and my fortress, and my deliverer;",
+        "LSG": "Il dit: L'Eternel est mon rocher, ma forteresse, mon libérateur.",
+        "MAB": "Il dit donc : L'Eternel est ma roche, et ma forteresse, et mon libérateur.",
+        "OST": "Il dit: Éternel, mon rocher, ma forteresse et mon libérateur!",
+        "S21": "Il dit:\r\n«L'Eternel est mon rocher, ma forteresse, mon libérateur."
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "Il est mon Dieu, le roc solide où je me réfugie.\r\nIl est mon Sauveur tout-puissant, mon rempart et mon bouclier.\r\nMon asile est en lui.\r\nToi, mon Sauveur, tu me délivres des hommes violents.",
+        "DBY": "Dieu est mon rocher, je me confierai en lui, mon bouclier et la corne de mon salut, ma haute retraite et mon refuge. Mon Sauveur, tu me sauveras de la violence!",
+        "KJV": "The God of my rock; in him will I trust: [he is] my shield, and the horn of my salvation, my high tower, and my refuge, my saviour; thou savest me from violence.",
+        "LSG": "Dieu est mon rocher, où je trouve un abri, Mon bouclier et la force qui me sauve, Ma haute retraite et mon refuge. O mon Sauveur! tu me garantis de la violence.",
+        "MAB": "Dieu est mon rocher, je me retirerai vers lui; il est mon bouclier et la corne de mon salut; il est ma haute retraite et mon refuge; mon Sauveur, tu me garantis de la violence.",
+        "OST": "O Dieu, mon rocher, vers qui je me retire; mon bouclier et la force qui me délivre, ma haute retraite et mon asile! mon Sauveur! tu me garantis de la violence.",
+        "S21": "Dieu est mon rocher où je trouve un abri, mon bouclier et la force qui me sauve, mon rempart et mon refuge. Mon Sauveur, tu me garantis de la violence."
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "Loué soit l’Eternel: quand je l’ai appelé,\r\nj’ai été délivré de tous mes ennemis.",
+        "DBY": "Je crierai à l'Éternel, qui est digne d'être loué, et je serai sauvé de mes ennemis.",
+        "KJV": "I will call on the LORD, [who is] worthy to be praised: so shall I be saved from mine enemies.",
+        "LSG": "Je m'écrie: Loué soit l'Eternel! Et je suis délivré de mes ennemis.",
+        "MAB": "Je crierai à l'Eternel, lequel on doit louer, et je serai délivré de mes ennemis.",
+        "OST": "Je m'écrie: Loué soit l'Éternel! Et je suis délivré de mes ennemis.",
+        "S21": "Loué soit l'Eternel! Je crie à lui et je suis délivré de mes ennemis."
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "La mort m’enserrait de ses flots,\r\net, comme un torrent destructeur, me terrifiait.",
+        "DBY": "Car les vagues de la mort m'ont environné, les torrents de Bélial m'ont fait peur;",
+        "KJV": "When the waves of death compassed me, the floods of ungodly men made me afraid;",
+        "LSG": "Car les flots de la mort m'avaient environné, Les torrents de la destruction m'avaient épouvanté;",
+        "MAB": "Car les angoisses de la mort m'avaient environné; les torrents des méchants m'avaient troublé;",
+        "OST": "Car les flots de la mort m'avaient environné, les torrents des méchants m'avaient effrayé;",
+        "S21": "»Oui, les flots de la mort m'avaient enserré, et les torrents dévastateurs m'avaient épouvanté."
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "Oui, le séjour des morts m’entourait de ses liens,\r\nle piège de la mort se refermait sur moi.",
+        "DBY": "Les cordeaux du shéol m'ont entouré, les filets de la mort m'ont surpris:",
+        "KJV": "The sorrows of hell compassed me about; the snares of death prevented me;",
+        "LSG": "Les liens du sépulcre m'avaient entouré, Les filets de la mort m'avaient surpris.",
+        "MAB": "Les cordeaux du sépulcre m'avaient entouré; les filets de la mort m'avaient surpris.",
+        "OST": "Les liens du Sépulcre m'avaient environné; les filets de la mort m'avaient surpris.",
+        "S21": "Les liens du séjour des morts m'avaient entouré, les pièges de la mort m'avaient surpris."
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "Alors, dans ma détresse, j’invoquai l’Eternel.\r\nVers mon Dieu, je lançai mon appel au secours,\r\nmon cri parvint à ses oreilles\r\net, de son Temple, il m’entendit.",
+        "DBY": "Dans ma détresse, j'ai invoqué l'Éternel, et j'ai appelé mon Dieu, et, de son temple, il a entendu ma voix, et mon cri est parvenu à ses oreilles.",
+        "KJV": "In my distress I called upon the LORD, and cried to my God: and he did hear my voice out of his temple, and my cry [did enter] into his ears.",
+        "LSG": "Dans ma détresse, j'ai invoqué l'Eternel, J'ai invoqué mon Dieu; De son palais, il a entendu ma voix, Et mon cri est parvenu à ses oreilles.",
+        "MAB": "Quand j'ai été dans l'adversité j'ai crié à l'Eternel; j'ai, [dis-je], crié à mon Dieu, et il a entendu ma voix de son palais, et mon cri est parvenu à ses oreilles.",
+        "OST": "Dans ma détresse, j'invoquai l'Éternel, je criai à mon Dieu; de son palais il entendit ma voix, et mon cri parvint à ses oreilles.",
+        "S21": "»Dans ma détresse, j'ai fait appel à l'Eternel, j'ai appelé mon Dieu; de son palais, il a entendu ma voix, mon cri est parvenu à ses oreilles."
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "La terre s’ébranle et chancelle,\r\nles fondements du ciel se mettent à frémir,\r\ntout secoués par sa colère.",
+        "DBY": "Alors la terre fut ébranlée et trembla; les fondements des cieux furent secoués et furent ébranlés, parce qu'il était irrité.",
+        "KJV": "Then the earth shook and trembled; the foundations of heaven moved and shook, because he was wroth.",
+        "LSG": "La terre fut ébranlée et trembla, Les fondements des cieux frémirent, Et ils furent ébranlés, parce qu'il était irrité.",
+        "MAB": "Alors la terre fut ébranlée et trembla, les fondements des cieux croulèrent et furent ébranlés, parce qu'il était irrité.",
+        "OST": "Alors la terre fut ébranlée et trembla, les fondements des cieux s'agitèrent et s'ébranlèrent, parce qu'il était courroucé.",
+        "S21": "La terre a été ébranlée, elle a tremblé, les fondements du ciel ont vacillé, ils ont été ébranlés, parce qu'il était irrité."
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "De la fumée s’élève de ses narines,\r\net un feu dévorant sort de sa bouche:\r\ndes charbons embrasés.",
+        "DBY": "Une fumée montait de ses narines, et un feu sortant de sa bouche dévorait; des charbons en jaillissaient embrasés.",
+        "KJV": "There went up a smoke out of his nostrils, and fire out of his mouth devoured: coals were kindled by it.",
+        "LSG": "Il s'élevait de la fumée dans ses narines, Et un feu dévorant sortait de sa bouche: Il en jaillissait des charbons embrasés.",
+        "MAB": "Une fumée montait de ses narines, et de sa bouche sortait un feu dévorant; les charbons de feu en étaient embrasés.",
+        "OST": "Une fumée montait de ses narines, et de sa bouche un feu dévorant; il en jaillissait des charbons embrasés.",
+        "S21": "Une fumée s’élevait de ses narines et un feu dévorant sortait de sa bouche, avec des charbons embrasés."
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "Il courbe le ciel et descend,\r\nun sombre nuage à ses pieds.",
+        "DBY": "Et il abaissa les cieux, et descendit; et il y avait une obscurité profonde sous ses pieds.",
+        "KJV": "He bowed the heavens also, and came down; and darkness [was] under his feet.",
+        "LSG": "Il abaissa les cieux, et il descendit: Il y avait une épaisse nuée sous ses pieds.",
+        "MAB": "Il baissa donc les cieux, et descendit, ayant [une] obscurité sous ses pieds.",
+        "OST": "Il abaissa les cieux, et descendit, ayant l'obscurité sous ses pieds.",
+        "S21": "»Il a incliné le ciel et il est descendu, une épaisse nuée sous ses pieds."
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "Un chérubin est sa monture,\r\nsur les ailes du vent il apparaît,",
+        "DBY": "Et il était monté sur un chérubin, et volait, et il parut sur les ailes du vent.",
+        "KJV": "And he rode upon a cherub, and did fly: and he was seen upon the wings of the wind.",
+        "LSG": "Il était monté sur un chérubin, et il volait, Il paraissait sur les ailes du vent.",
+        "MAB": "Et il était monté sur un Chérubin, et volait; et il parut sur les ailes du vent.",
+        "OST": "Il était monté sur un chérubin et volait; il parut sur les ailes du vent.",
+        "S21": "Il était monté sur un chérubin et il volait, il apparaissait monté sur les ailes du vent."
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "et dans les replis des ténèbres, il trouve son abri,\r\ndans l’obscurité de l’orage et dans des nuages opaques.",
+        "DBY": "Et il mit autour de lui les ténèbres pour tente, des amas d'eaux, d'épaisses nuées de l'air.",
+        "KJV": "And he made darkness pavilions round about him, dark waters, [and] thick clouds of the skies.",
+        "LSG": "Il faisait des ténèbres une tente autour de lui, Il était enveloppé d'amas d'eaux et de sombres nuages.",
+        "MAB": "Et il mit tout autour de soi les ténèbres pour tabernacle; [savoir], les eaux amoncelées qui sont les nuées de l'air.",
+        "OST": "Il mit autour de lui les ténèbres comme une tente, des amas d'eaux, des nuées épaisses.",
+        "S21": "Il faisait des ténèbres une tente autour de lui, c’était un amas d'eau, de sombres nuages."
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "De l’éclat qui est devant lui\r\njaillissent des charbons ardents.",
+        "DBY": "De la splendeur qui était devant lui jaillissaient, embrasés, des charbons de feu.",
+        "KJV": "Through the brightness before him were coals of fire kindled.",
+        "LSG": "De la splendeur qui le précédait S'élançaient des charbons de feu.",
+        "MAB": "Des charbons de feu étaient embrasés de la splendeur qui était au devant de lui.",
+        "OST": "De la splendeur qui était devant lui, s'embrasèrent des charbons de feu.",
+        "S21": "Une lumière éclatante le précédait, d’où provenaient tout brûlants des charbons de feu."
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "L’Eternel tonne dans le ciel,\r\nla voix du Dieu très-haut résonne.",
+        "DBY": "L'Éternel tonna des cieux, et le Très-haut fit retentir sa voix.",
+        "KJV": "The LORD thundered from heaven, and the most High uttered his voice.",
+        "LSG": "L'Eternel tonna des cieux, Le Très-Haut fit retentir sa voix;",
+        "MAB": "L'Eternel tonna des cieux, et le Souverain fit retentir sa voix.",
+        "OST": "L'Éternel tonna des cieux; le Très-Haut fit retentir sa voix.",
+        "S21": "»L'Eternel a tonné du haut du ciel, le Très-Haut a fait retentir sa voix."
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "Et soudain, il envoie des flèches pour disperser mes ennemis,\r\nil lance des éclairs pour les mettre en déroute.",
+        "DBY": "Et il tira des flèches et dispersa mes ennemis; il lança l'éclair, et les mit en déroute.",
+        "KJV": "And he sent out arrows, and scattered them; lightning, and discomfited them.",
+        "LSG": "Il lança des flèches et dispersa mes ennemis, La foudre, et les mit en déroute.",
+        "MAB": "Il tira ses flèches, et écarta [mes ennemis]; il [fit briller] l'éclair; et les mit en déroute.",
+        "OST": "Il lança des flèches, et dispersa mes ennemis; il lança des éclairs, et les mit en déroute.",
+        "S21": "Il a lancé des flèches et dispersé mes ennemis, il a lancé des éclairs et les a mis en déroute."
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "A ta menace, ô Eternel,\r\net au souffle de ta colère,\r\nle fond des océans paraît,\r\nles fondements du monde sont mis à nu.",
+        "DBY": "Alors les lits de la mer parurent, les fondements du monde furent mis à découvert, quand l'Éternel les tançait par le souffle du vent de ses narines.",
+        "KJV": "And the channels of the sea appeared, the foundations of the world were discovered, at the rebuking of the LORD, at the blast of the breath of his nostrils.",
+        "LSG": "Le lit de la mer apparut, Les fondements du monde furent découverts, Par la menace de l'Eternel, Par le bruit du souffle de ses narines.",
+        "MAB": "Alors le fond de la mer parut, [et] les fondements de la terre habitable furent découverts par l'Eternel qui les tançait, [et] par le souffle du vent de ses narines.",
+        "OST": "Alors le fond de la mer apparut, et les fondements du monde se découvrirent, par la menace de l'Éternel, par le souffle du vent de sa colère.",
+        "S21": "»Le fond de la mer est apparu, les fondements du monde ont été découverts à la menace de l'Eternel, au souffle de ses narines."
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "Du haut du ciel, il étend sa main pour me prendre,\r\nme retirer des grandes eaux,",
+        "DBY": "D'en haut, il étendit sa main, il me prit, il me tira des grandes eaux;",
+        "KJV": "He sent from above, he took me; he drew me out of many waters;",
+        "LSG": "Il étendit sa main d'en haut, il me saisit, Il me retira des grandes eaux;",
+        "MAB": "Il étendit [la main] d'en haut, [et] m'enleva, [et] me tira des grosses eaux.",
+        "OST": "Il étendit sa main d'en haut, et me prit; il me tira des grosses eaux.",
+        "S21": "Il est intervenu d'en haut, il m’a pris, il m’a retiré des grandes eaux."
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "m’arracher à mes adversaires,\r\nà mes rivaux plus forts que moi.",
+        "DBY": "Il me délivra de mon puissant ennemi, de ceux qui me haïssaient; car ils étaient plus forts que moi.",
+        "KJV": "He delivered me from my strong enemy, [and] from them that hated me: for they were too strong for me.",
+        "LSG": "Il me délivra de mon adversaire puissant, De mes ennemis qui étaient plus forts que moi.",
+        "MAB": "Il me délivra de mon ennemi puissant, [et] de ceux qui me haïssaient, car ils étaient plus forts que moi.",
+        "OST": "Il me délivra de mon ennemi puissant, et de mes adversaires qui étaient plus forts que moi.",
+        "S21": "Il m’a délivré de mon adversaire puissant, de mes ennemis qui étaient plus forts que moi."
+      }
+    },
+    {
+      "verse": 19,
+      "texts": {
+        "BDS": "Ils m’affrontaient au jour de mon désastre,\r\nmais l’Eternel a été mon appui.",
+        "DBY": "Ils m'avaient surpris au jour de ma calamité, mais l'Éternel fut mon appui.",
+        "KJV": "They prevented me in the day of my calamity: but the LORD was my stay.",
+        "LSG": "Ils m'avaient surpris au jour de ma détresse, Mais l'Eternel fut mon appui.",
+        "MAB": "Ils m'avaient devancé au jour de ma calamité; mais l'Eternel fut mon appui.",
+        "OST": "Ils m'avaient surpris au jour de ma calamité, mais l'Éternel fut mon appui.",
+        "S21": "»Ils m'avaient surpris lorsque j’étais dans la détresse, mais l'Eternel a été mon appui."
+      }
+    },
+    {
+      "verse": 20,
+      "texts": {
+        "BDS": "Il m’a retiré du danger,\r\nil m’a délivré, car il m’aime.",
+        "DBY": "Et il me fit sortir au large, il me délivra, parce qu'il prenait son plaisir en moi.",
+        "KJV": "He brought me forth also into a large place: he delivered me, because he delighted in me.",
+        "LSG": "Il m'a mis au large, Il m'a sauvé, parce qu'il m'aime.",
+        "MAB": "Il m'a mis au large, il m'a délivré, parce qu'il a pris son plaisir en moi.",
+        "OST": "Il m'a mis au large; il m'a délivré, parce qu'il a pris son plaisir en moi.",
+        "S21": "Il m'a mis au large, il m'a sauvé, parce qu'il m'aime."
+      }
+    },
+    {
+      "verse": 21,
+      "texts": {
+        "BDS": "Oui, l’Eternel a bien voulu me traiter selon ma justice,\r\nil a vu que mes mains sont pures; l’Eternel m’a récompensé,",
+        "DBY": "L'Éternel m'a récompensé selon ma justice, il m'a rendu selon la pureté de mes mains;",
+        "KJV": "The LORD rewarded me according to my righteousness: according to the cleanness of my hands hath he recompensed me.",
+        "LSG": "L'Eternel m'a traité selon ma droiture, Il m'a rendu selon la pureté de mes mains;",
+        "MAB": "L'Eternel m'a rendu selon ma justice; il m'a rendu selon la pureté de mes mains.",
+        "OST": "L'Éternel m'a traité selon ma justice; il m'a rendu selon la pureté de mes mains;",
+        "S21": "»L'Eternel m'a récompensé de ma justice, il m'a traité conformément à la pureté de mes mains,"
+      }
+    },
+    {
+      "verse": 22,
+      "texts": {
+        "BDS": "puisque je suis resté fidèle aux voies qu’il a prescrites,\r\nje n’abandonne pas mon Dieu pour m’adonner au mal.",
+        "DBY": "Car j'ai gardé les voies de l'Éternel, et je ne me suis point méchamment détourné de mon Dieu;",
+        "KJV": "For I have kept the ways of the LORD, and have not wickedly departed from my God.",
+        "LSG": "Car j'ai observé les voies de l'Eternel, Et je n'ai point été coupable envers mon Dieu.",
+        "MAB": "Parce que j'ai tenu le chemin de l'Eternel, et que je ne me suis point détourné de mon Dieu.",
+        "OST": "Car j'ai gardé les voies de l'Éternel, et je n'ai point été infidèle à mon Dieu.",
+        "S21": "car j'ai suivi les voies de l'Eternel et je n'ai pas été coupable envers mon Dieu."
+      }
+    },
+    {
+      "verse": 23,
+      "texts": {
+        "BDS": "J’ai toujours ses lois sous mes yeux,\r\nje ne fais fi d’aucun de ses préceptes.",
+        "DBY": "Car toutes ses ordonnances ont été devant moi; et de ses statuts, je ne me suis pas écarté;",
+        "KJV": "For all his judgments [were] before me: and [as for] his statutes, I did not depart from them.",
+        "LSG": "Toutes ses ordonnances ont été devant moi, Et je ne me suis point écarté de ses lois.",
+        "MAB": "Car j'ai eu devant moi tous ses droits, et je ne me suis point détourné de ses ordonnances.",
+        "OST": "Car toutes ses ordonnances sont devant moi, et je ne m'écarte point de ses statuts.",
+        "S21": "Toutes ses règles ont été devant moi et je ne me suis pas écarté de ses prescriptions."
+      }
+    },
+    {
+      "verse": 24,
+      "texts": {
+        "BDS": "Envers lui, je suis sans reproche,\r\nje me suis gardé du péché.",
+        "DBY": "Et j'ai été parfait envers lui, et je me suis gardé de mon iniquité.",
+        "KJV": "I was also upright before him, and have kept myself from mine iniquity.",
+        "LSG": "J'ai été sans reproche envers lui, Et je me suis tenu en garde contre mon iniquité.",
+        "MAB": "Et j'ai été intègre envers lui, et je me suis donné garde de mon iniquité.",
+        "OST": "J'ai été intègre devant lui, et je me suis gardé de mon iniquité.",
+        "S21": "J'ai été intègre envers lui et je me suis tenu en garde contre mon péché."
+      }
+    },
+    {
+      "verse": 25,
+      "texts": {
+        "BDS": "L’Eternel m’a récompensé d’avoir agi avec droiture\r\net d’avoir gardé les mains pures.",
+        "DBY": "Et l'Éternel m'a rendu selon ma justice, selon ma pureté devant ses yeux.",
+        "KJV": "Therefore the LORD hath recompensed me according to my righteousness; according to my cleanness in his eye sight.",
+        "LSG": "Aussi l'Eternel m'a rendu selon ma droiture, Selon ma pureté devant ses yeux.",
+        "MAB": "L'Eternel donc m'a rendu selon ma justice, [et] selon ma pureté, qui a été devant ses yeux.",
+        "OST": "Aussi l'Éternel m'a rendu selon ma justice, selon ma pureté à ses yeux.",
+        "S21": "Alors l'Eternel m'a traité conformément à ma justice, à la pureté qu’il a vue chez moi."
+      }
+    },
+    {
+      "verse": 26,
+      "texts": {
+        "BDS": "Avec celui qui t’est fidèle, tu es fidèle.\r\nAvec qui est irréprochable tu es irréprochable,",
+        "DBY": "Avec celui qui use de grâce, tu uses de grâce; avec l'homme parfait, tu te montres parfait;",
+        "KJV": "With the merciful thou wilt shew thyself merciful, [and] with the upright man thou wilt shew thyself upright.",
+        "LSG": "Avec celui qui est bon tu te montres bon, Avec l'homme droit tu agis selon la droiture,",
+        "MAB": "Envers celui qui use de gratuité, tu uses de gratuité; et envers l'homme intègre tu te montres intègre.",
+        "OST": "Avec celui qui est bon, tu es bon; avec l'homme intègre tu es intègre.",
+        "S21": "»Avec celui qui est fidèle tu te montres fidèle, avec l'homme intègre tu agis avec intégrité,"
+      }
+    },
+    {
+      "verse": 27,
+      "texts": {
+        "BDS": "et avec celui qui est pur, tu es toi-même pur,\r\nmais avec les vauriens, tu montres ton habileté.",
+        "DBY": "Avec celui qui est pur, tu te montres pur; et avec le pervers, tu es roide.",
+        "KJV": "With the pure thou wilt shew thyself pure; and with the froward thou wilt shew thyself unsavoury.",
+        "LSG": "Avec celui qui est pur tu te montres pur, Et avec le pervers tu agis selon sa perversité.",
+        "MAB": "Envers celui qui est pur tu te montres pur; mais envers le pervers tu agis selon sa perversité.",
+        "OST": "Avec celui qui est pur, tu te montres pur; mais avec le pervers, tu agis selon sa perversité.",
+        "S21": "avec celui qui est pur tu te montres pur, et avec l’homme faux tu te montres habile."
+      }
+    },
+    {
+      "verse": 28,
+      "texts": {
+        "BDS": "Ceux qui sont humbles, tu les sauves,\r\ntu regardes les orgueilleux et puis tu les abaisses.",
+        "DBY": "Et tu sauveras le peuple affligé, et tes yeux sont sur les hautains, et tu les abaisses.",
+        "KJV": "And the afflicted people thou wilt save: but thine eyes [are] upon the haughty, [that] thou mayest bring [them] down.",
+        "LSG": "Tu sauves le peuple qui s'humilie, Et de ton regard, tu abaisses les orgueilleux.",
+        "MAB": "Car tu sauves le peuple affligé, et tu [jettes] tes yeux sur les hautains, et les humilies.",
+        "OST": "Tu sauves le peuple affligé; mais de ton regard tu abaisses les orgueilleux.",
+        "S21": "Tu sauves le peuple qui s'humilie, et tu abaisses ton regard sur les orgueilleux."
+      }
+    },
+    {
+      "verse": 29,
+      "texts": {
+        "BDS": "Tu es ma lampe, ô Eternel.\r\nTu illumines mes ténèbres.",
+        "DBY": "Car toi, Éternel! tu es ma lampe; et l'Éternel fait resplendir mes ténèbres.",
+        "KJV": "For thou [art] my lamp, O LORD: and the LORD will lighten my darkness.",
+        "LSG": "Oui, tu es ma lumière, ô Eternel! L'Eternel éclaire mes ténèbres.",
+        "MAB": "Tu es même ma lampe, ô Eternel! et l'Eternel fera reluire mes ténèbres.",
+        "OST": "Car tu es ma lampe, ô Éternel! Et l'Éternel fait resplendir mes ténèbres.",
+        "S21": "Oui, tu es ma lumière, Eternel! L'Eternel éclaire mes ténèbres."
+      }
+    },
+    {
+      "verse": 30,
+      "texts": {
+        "BDS": "Avec toi, je me précipite sur une troupe bien armée,\r\ngrâce à toi, je franchis des murs.",
+        "DBY": "Car, par toi, je courrai au travers d'une troupe; par mon Dieu, je franchirai une muraille.",
+        "KJV": "For by thee I have run through a troop: by my God have I leaped over a wall.",
+        "LSG": "Avec toi je me précipite sur une troupe en armes, Avec mon Dieu je franchis une muraille.",
+        "MAB": "Et par ton moyen je me jetterai sur [toute] une troupe, [et] par le moyen de mon Dieu je franchirai la muraille.",
+        "OST": "Avec toi je fonds sur une troupe; avec mon Dieu je franchis la muraille.",
+        "S21": "»Avec toi je me précipite sur une troupe tout armée, avec mon Dieu je franchis une muraille."
+      }
+    },
+    {
+      "verse": 31,
+      "texts": {
+        "BDS": "Parfaites sont les voies que prescrit l’Eternel,\r\net sa parole est éprouvée.\r\nCeux qui le prennent pour refuge trouvent en lui un bouclier.",
+        "DBY": "Quant à Dieu, sa voie est parfaite; la parole de l'Éternel est affinée; il est un bouclier à tous ceux qui se confient en lui.",
+        "KJV": "[As for] God, his way [is] perfect; the word of the LORD [is] tried: he [is] a buckler to all them that trust in him.",
+        "LSG": "Les voies de Dieu sont parfaites, La parole de l'Eternel est éprouvée; Il est un bouclier pour tous ceux qui se confient en lui.",
+        "MAB": "La voie du [Dieu] Fort est parfaite, la parole de l'Eternel [est] affinée; c'est un bouclier à tous ceux qui se retirent vers lui.",
+        "OST": "La voie de Dieu est parfaite, la parole de l'Éternel est éprouvée; il est le bouclier de tous ceux qui se retirent vers lui.",
+        "S21": "Les voies de Dieu sont droites, la parole de l'Eternel est pure; il est un bouclier pour tous ceux qui se confient en lui."
+      }
+    },
+    {
+      "verse": 32,
+      "texts": {
+        "BDS": "Qui est Dieu, sinon l’Eternel?\r\nQui est un roc? C’est notre Dieu!",
+        "DBY": "Car qui est Dieu, hormis l'Éternel? et qui est un rocher, hormis notre Dieu?",
+        "KJV": "For who [is] God, save the LORD? and who [is] a rock, save our God?",
+        "LSG": "Car qui est Dieu, si ce n'est l'Eternel? Et qui est un rocher, si ce n'est notre Dieu?",
+        "MAB": "Car qui est [Dieu] Fort, sinon l'Eternel? et qui [est] Rocher, sinon notre Dieu?",
+        "OST": "Car qui est Dieu, sinon l'Éternel? Et qui est un rocher, sinon notre Dieu?",
+        "S21": "»Qui est Dieu en dehors de l'Eternel, et qui est un rocher, sinon notre Dieu?"
+      }
+    },
+    {
+      "verse": 33,
+      "texts": {
+        "BDS": "C’est Dieu ma place forte,\r\nil me trace un chemin parfait.",
+        "DBY": "Dieu est ma puissante forteresse, et il aplanit parfaitement ma voie.",
+        "KJV": "God [is] my strength [and] power: and he maketh my way perfect.",
+        "LSG": "C'est Dieu qui est ma puissante forteresse, Et qui me conduit dans la voie droite.",
+        "MAB": "Le [Dieu] Fort, qui est ma force, est la vraie force, et il a aplani ma voie, [qui était une voie] d'intégrité.",
+        "OST": "Le Dieu qui est ma forteresse assurée, et qui enseigne à l'homme intègre sa voie;",
+        "S21": "C'est Dieu qui est ma puissante forteresse et qui me conduit dans une voie droite."
+      }
+    },
+    {
+      "verse": 34,
+      "texts": {
+        "BDS": "Grâce à lui, comme une gazelle je cours\r\net me maintiens sur les hauteurs.",
+        "DBY": "Il rend mes pieds pareils à ceux des biches, et me fait tenir debout sur mes lieux élevés.",
+        "KJV": "He maketh my feet like hinds' [feet]: and setteth me upon my high places.",
+        "LSG": "Il rend mes pieds semblables à ceux des biches, Et il me place sur mes lieux élevés.",
+        "MAB": "Il a rendu mes pieds égaux à ceux des biches, et m'a fait tenir debout sur mes lieux élevés.",
+        "OST": "Qui rend mes pieds semblables à ceux des biches, et m'affermit sur mes hauteurs;",
+        "S21": "Il rend mes pieds aussi agiles que ceux des biches, et il me fait tenir debout sur les hauteurs."
+      }
+    },
+    {
+      "verse": 35,
+      "texts": {
+        "BDS": "C’est lui qui m’entraîne au combat,\r\net me fait tendre l’arc de bronze.",
+        "DBY": "Il enseigne mes mains à combattre; et mes bras bandent un arc d'airain.",
+        "KJV": "He teacheth my hands to war; so that a bow of steel is broken by mine arms.",
+        "LSG": "Il exerce mes mains au combat, Et mes bras tendent l'arc d'airain.",
+        "MAB": "C'est lui qui dresse mes mains au combat, de sorte qu'un arc d'airain a été rompu avec mes bras.",
+        "OST": "Qui forme mes mains au combat, et mes bras bandent un arc d'airain.",
+        "S21": "Il exerce mes mains au combat et mes bras tendent l'arc en bronze."
+      }
+    },
+    {
+      "verse": 36,
+      "texts": {
+        "BDS": "Ta délivrance me sert de bouclier.\r\nPar ta sollicitude, tu me rends fort,",
+        "DBY": "Et tu m'as donné le bouclier de ton salut, et ta débonnaireté m'a agrandi.",
+        "KJV": "Thou hast also given me the shield of thy salvation: and thy gentleness hath made me great.",
+        "LSG": "Tu me donnes le bouclier de ton salut, Et je deviens grand par ta bonté.",
+        "MAB": "Tu m'as aussi donné le bouclier de ton salut, et ta bonté m'a fait devenir plus grand.",
+        "OST": "Tu m'as donné le bouclier de ton salut, et ta bonté m'a fait devenir grand.",
+        "S21": "»Tu me donnes le bouclier de ton salut, et je deviens grand par ta bonté."
+      }
+    },
+    {
+      "verse": 37,
+      "texts": {
+        "BDS": "grâce à toi, j’avance plus vite,\r\nmes jambes ne fléchissent pas.",
+        "DBY": "Tu as mis au large mes pas sous moi, et les chevilles de mes pieds n'ont pas chancelé.",
+        "KJV": "Thou hast enlarged my steps under me; so that my feet did not slip.",
+        "LSG": "Tu élargis le chemin sous mes pas, Et mes pieds ne chancellent point.",
+        "MAB": "Tu as élargi le chemin sous mes pas, et mes talons n'ont point glissé.",
+        "OST": "Tu élargis le chemin sous mes pas, et mes pieds ne chancellent point.",
+        "S21": "Tu élargis le chemin sous mes pas, et mes pieds ne trébuchent pas."
+      }
+    },
+    {
+      "verse": 38,
+      "texts": {
+        "BDS": "Je poursuis tous mes adversaires, je les détruis\r\net je ne reviens pas sans les avoir brisés.",
+        "DBY": "J'ai poursuivi mes ennemis, et je les ai détruits; et je ne m'en suis pas retourné que je ne les aie consumés.",
+        "KJV": "I have pursued mine enemies, and destroyed them; and turned not again until I had consumed them.",
+        "LSG": "Je poursuis mes ennemis, et je les détruis; Je ne reviens pas avant de les avoir anéantis.",
+        "MAB": "J'ai poursuivi mes ennemis, et je les ai exterminés; et je ne m'en suis point retourné jusqu'à ce que je les aie consumés.",
+        "OST": "Je poursuis mes ennemis; je les détruis; et je ne reviens qu'après les avoir exterminés.",
+        "S21": "Je poursuis mes ennemis et je les détruis, je ne reviens pas avant de les avoir exterminés."
+      }
+    },
+    {
+      "verse": 39,
+      "texts": {
+        "BDS": "Je les achève, je les frappe:\r\naucun ne se relève,\r\nils sont étendus sous mes pieds.",
+        "DBY": "Et je les ai consumés, je les ai transpercés, et ils ne se sont pas relevés, mais ils sont tombés sous mes pieds.",
+        "KJV": "And I have consumed them, and wounded them, that they could not arise: yea, they are fallen under my feet.",
+        "LSG": "Je les anéantis, je les brise, et ils ne se relèvent plus; Ils tombent sous mes pieds.",
+        "MAB": "Je les ai consumés, je les ai transpercés, et ils ne se sont point relevés; mais ils sont tombés sous mes pieds.",
+        "OST": "Je les consume, je les écrase, et ils ne se relèvent plus; ils tombent sous mes pieds.",
+        "S21": "Je les frappe, je les brise, et ils ne se relèvent plus, ils tombent sous mes pieds."
+      }
+    },
+    {
+      "verse": 40,
+      "texts": {
+        "BDS": "Tu me rends fort pour le combat,\r\ntu fais plier mes agresseurs: les voilà à mes pieds.",
+        "DBY": "Et tu m'a ceint de force pour le combat; tu as courbé sous moi ceux qui s'élevaient contre moi.",
+        "KJV": "For thou hast girded me with strength to battle: them that rose up against me hast thou subdued under me.",
+        "LSG": "Tu me ceins de force pour le combat, Tu fais plier sous moi mes adversaires.",
+        "MAB": "Car tu m'as revêtu de force pour le combat; tu as fait plier sous moi ceux qui s'élevaient contre moi.",
+        "OST": "Car tu m'as ceint de force pour le combat; tu fais plier sous moi mes adversaires.",
+        "S21": "Tu me donnes de la force pour le combat, tu fais plier sous moi mes adversaires."
+      }
+    },
+    {
+      "verse": 41,
+      "texts": {
+        "BDS": "Tu mets mes ennemis en fuite,\r\nceux qui m’en veulent sont brisés.",
+        "DBY": "Et tu as fait que mes ennemis m'ont tourné le dos; et ceux qui me haïssaient, je les ai détruits.",
+        "KJV": "Thou hast also given me the necks of mine enemies, that I might destroy them that hate me.",
+        "LSG": "Tu fais tourner le dos à mes ennemis devant moi, Et j'extermine ceux qui me haïssent.",
+        "MAB": "Tu as fait aussi que mes ennemis, et ceux qui me haïssaient ont tourné le dos devant moi, et je les ai détruits.",
+        "OST": "Tu fais tourner le dos à mes ennemis devant moi; ceux qui me haïssent, je les détruis.",
+        "S21": "Tu mets mes ennemis en fuite devant moi, et je réduis au silence ceux qui me détestent."
+      }
+    },
+    {
+      "verse": 42,
+      "texts": {
+        "BDS": "Ils ont beau crier au secours, personne ne vient à leur aide,\r\net s’ils appellent l’Eternel, celui-ci ne leur répond pas.",
+        "DBY": "Ils regardaient, et il n'y avait point de sauveur; ils regardaient vers l'Éternel, et il ne leur a pas répondu.",
+        "KJV": "They looked, but [there was] none to save; [even] unto the LORD, but he answered them not.",
+        "LSG": "Ils regardent autour d'eux, et personne pour les sauver! Ils crient à l'Eternel, et il ne leur répond pas!",
+        "MAB": "Ils regardaient çà et là, mais il n'y avait point de libérateur; [ils criaient] à l'Eternel, mais il ne leur a point répondu.",
+        "OST": "Ils regardent, et point de libérateur! Ils crient à l'Éternel, mais il ne leur répond point.",
+        "S21": "Ils regardent autour d'eux, et personne pour les sauver! Ils crient à l'Eternel, et il ne leur répond pas!"
+      }
+    },
+    {
+      "verse": 43,
+      "texts": {
+        "BDS": "Je les réduis en poudre,\r\nje les piétine, je les foule comme la boue des rues.",
+        "DBY": "Et je les ai brisés menu comme la poussière de la terre; comme la boue des rues, je les ai écrasés, je les ai foulés.",
+        "KJV": "Then did I beat them as small as the dust of the earth, I did stamp them as the mire of the street, [and] did spread them abroad.",
+        "LSG": "Je les broie comme la poussière de la terre, Je les écrase, je les foule, comme la boue des rues.",
+        "MAB": "Et je les ai brisés menu comme la poussière de la terre; je les ai écrasés, [et] je les ai foulés comme la boue des rues.",
+        "OST": "Et je les broie comme la poussière de la terre; je les écrase, je les foule comme la boue des rues.",
+        "S21": "Je les réduis en miettes, je les rends pareils à la poussière de la terre, je les écrase, je les piétine comme la boue des rues."
+      }
+    },
+    {
+      "verse": 44,
+      "texts": {
+        "BDS": "En face d’un peuple en révolte, tu me fais triompher.\r\nTu me maintiens chef des nations.\r\nUn peuple qu’autrefois je ne connaissais pas m’est maintenant soumis.",
+        "DBY": "Et tu m'as délivré des débats de mon peuple; tu m'as gardé pour être le chef des nations; un peuple que je ne connaissais pas me servira.",
+        "KJV": "Thou also hast delivered me from the strivings of my people, thou hast kept me [to be] head of the heathen: a people [which] I knew not shall serve me.",
+        "LSG": "Tu me délivres des dissensions de mon peuple; Tu me conserves pour chef des nations; Un peuple que je ne connaissais pas m'est asservi.",
+        "MAB": "Et tu m'as délivré des dissensions des peuples, tu m'as gardé pour être le chef des nations. Le peuple que je ne connaissais point m'a été assujetti.",
+        "OST": "Tu me sauves des dissensions de mon peuple; tu me gardes pour être chef des nations. Le peuple que je ne connaissais pas, m'est assujetti.",
+        "S21": "»Tu me délivres des révoltes de mon peuple; tu me gardes à la tête des nations; un peuple que je ne connaissais pas m'est soumis."
+      }
+    },
+    {
+      "verse": 45,
+      "texts": {
+        "BDS": "Oui, des étrangers me courtisent,\r\nau premier mot, ils m’obéissent.",
+        "DBY": "Les fils de l'étranger se sont soumis à moi en dissimulant; dès qu'ils ont entendu de leur oreille, ils m'ont obéi.",
+        "KJV": "Strangers shall submit themselves unto me: as soon as they hear, they shall be obedient unto me.",
+        "LSG": "Les fils de l'étranger me flattent, Ils m'obéissent au premier ordre.",
+        "MAB": "Les étrangers m'ont menti; ayant ouï parler de moi, ils se sont rendus obéissants.",
+        "OST": "Les fils de l'étranger viennent me flatter; dès que leur oreille a entendu, ils se sont soumis.",
+        "S21": "Les étrangers me flattent, ils m'obéissent au premier ordre."
+      }
+    },
+    {
+      "verse": 46,
+      "texts": {
+        "BDS": "Les étrangers perdent courage,\r\ntremblants, ils quittent leurs bastions.",
+        "DBY": "Les fils de l'étranger ont dépéri, et ils sont sortis en tremblant de leurs lieux cachés.",
+        "KJV": "Strangers shall fade away, and they shall be afraid out of their close places.",
+        "LSG": "Les fils de l'étranger sont en défaillance, Ils tremblent hors de leurs forteresses.",
+        "MAB": "Les étrangers se sont écoulés et ils ont tremblé de peur dans leurs retraites cachées.",
+        "OST": "Les fils de l'étranger défaillent, et sortent tremblants de leurs retraites.",
+        "S21": "Les étrangers perdent courage, ils sortent en tremblant de leurs forteresses."
+      }
+    },
+    {
+      "verse": 47,
+      "texts": {
+        "BDS": "Dieu est vivant! Qu’il soit loué, lui qui est mon rocher!\r\nQue l’on proclame la grandeur de Dieu, le rocher qui me sauve.",
+        "DBY": "L'Éternel est vivant; et que mon Rocher soit béni! Et que Dieu, le rocher de mon salut, soit exalté,",
+        "KJV": "The LORD liveth; and blessed [be] my rock; and exalted be the God of the rock of my salvation.",
+        "LSG": "Vive l'Eternel, et béni soit mon rocher! Que Dieu, le rocher de mon salut, soit exalté,",
+        "MAB": "L'Eternel est vivant, et mon rocher est béni; c'est pourquoi Dieu, le rocher de mon salut, soit exalté.",
+        "OST": "L'Éternel est vivant! Et béni soit mon rocher! Que Dieu, le rocher de mon salut, soit exalté!",
+        "S21": "»L'Eternel est vivant! Béni soit mon rocher! Que l’on dise la grandeur de Dieu, le rocher de mon salut!"
+      }
+    },
+    {
+      "verse": 48,
+      "texts": {
+        "BDS": "Ce Dieu m’accorde ma revanche,\r\nil abaisse sous moi des peuples.",
+        "DBY": "le Dieu qui m'a donné des vengeances, et qui a amené les peuples sous moi.",
+        "KJV": "It [is] God that avengeth me, and that bringeth down the people under me,",
+        "LSG": "Le Dieu qui est mon vengeur, Qui m'assujettit les peuples,",
+        "MAB": "Le [Dieu] Fort est celui qui me donne les moyens de me venger, et qui m'assujettit les peuples.",
+        "OST": "Le Dieu qui me donne vengeance, et qui m'assujettit les peuples; qui me fait échapper à mes ennemis.",
+        "S21": "C’est le Dieu qui m’accorde la vengeance, qui m’asservit les peuples,"
+      }
+    },
+    {
+      "verse": 49,
+      "texts": {
+        "BDS": "Tu me fais échapper aux ennemis,\r\noui, tu me fais triompher d’eux.\r\nEt tu viens m’arracher aux hommes violents.",
+        "DBY": "Et qui m'a fait sortir du milieu de mes ennemis. Tu m'as élevé au-dessus de ceux qui s'élèvent contre moi, tu m'as délivré de l'homme violent.",
+        "KJV": "And that bringeth me forth from mine enemies: thou also hast lifted me up on high above them that rose up against me: thou hast delivered me from the violent man.",
+        "LSG": "Et qui me fait échapper à mes ennemis! Tu m'élèves au-dessus de mes adversaires, Tu me délivres de l'homme violent.",
+        "MAB": "C'est lui aussi qui me retire d'entre mes ennemis. Tu m'enlèves d'entre ceux qui s'élèvent contre moi; tu me délivres de l'homme outrageux.",
+        "OST": "Tu m'élèves au-dessus de mes adversaires, tu me délivres de l'homme violent.",
+        "S21": "qui me fait échapper à mes ennemis!\r\n»Tu m'élèves au-dessus de mes adversaires, tu me sauves de l'homme violent."
+      }
+    },
+    {
+      "verse": 50,
+      "texts": {
+        "BDS": "Aussi, je publie tes louanges, Eternel, parmi les nations,\r\nje te célèbre par mes chants.",
+        "DBY": "C'est pourquoi, Éternel! je te célébrerai parmi les nations, et je chanterai des cantiques à la gloire de ton nom.",
+        "KJV": "Therefore I will give thanks unto thee, O LORD, among the heathen, and I will sing praises unto thy name.",
+        "LSG": "C'est pourquoi je te louerai parmi les nations, ô Eternel! Et je chanterai à la gloire de ton nom.",
+        "MAB": "C'est pourquoi, ô Eternel! je te célébrerai parmi les nations, et je chanterai des psaumes à ton Nom.",
+        "OST": "C'est pourquoi, ô Éternel, je te louerai parmi les nations, et je chanterai ton nom!",
+        "S21": "C'est pourquoi je te louerai parmi les nations, Eternel, et je chanterai à la gloire de ton nom."
+      }
+    },
+    {
+      "verse": 51,
+      "texts": {
+        "BDS": "Pour son roi, l’Eternel opère de grandes délivrances.\r\nIl traite avec bonté celui qui a reçu l’onction,\r\nDavid et sa postérité, pour toute éternité.",
+        "DBY": "C'est lui qui a donné de grandes délivrances à son roi, et qui use de bonté envers son oint, envers David, et envers sa semence, à toujours.",
+        "KJV": "[He is] the tower of salvation for his king: and sheweth mercy to his anointed, unto David, and to his seed for evermore.",
+        "LSG": "Il accorde de grandes délivrances à son roi, Et il fait miséricorde à son oint, A David, et à sa postérité, pour toujours.",
+        "MAB": "C'est lui qui est la tour des délivrances de son Roi, et qui use de gratuité envers David son Oint, et envers sa postérité à jamais.",
+        "OST": "C'est lui qui délivre magnifiquement son roi, et qui fait miséricorde à son oint, à David et à sa postérité, à jamais!",
+        "S21": "»Il accorde de grandes délivrances à son roi, il agit avec bonté envers celui qu’il a désigné par onction, envers David et sa descendance, pour toujours.»"
+      }
+    }
+  ]
+}

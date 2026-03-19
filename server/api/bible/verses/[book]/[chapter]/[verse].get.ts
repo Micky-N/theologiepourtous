@@ -1,5 +1,11 @@
-import type { BibleBook, BibleVerse, BibleVersion } from '@prisma/client';
-import { prisma } from '~~/lib/prisma';
+import {
+    buildBookPayload,
+    buildVersionPayload,
+    getBibleBookByCode,
+    getBibleChapter,
+    getBibleVersionByCode,
+    mapChapterVerses
+} from '~~/server/utils/bibleData';
 
 export default defineEventHandler(async (event) => {
     try {
@@ -39,9 +45,7 @@ export default defineEventHandler(async (event) => {
         const bookCode = String(bookParam).toUpperCase();
 
         // Vérifier que le livre existe
-        const bibleBook = await prisma.bibleBook.findUnique({
-            where: { code: bookCode }
-        });
+        const bibleBook = await getBibleBookByCode(bookCode);
         if (!bibleBook) {
             throw createError({
                 statusCode: 404,
@@ -50,9 +54,7 @@ export default defineEventHandler(async (event) => {
         }
 
         // Vérifier que la version existe
-        const bibleVersion = await prisma.bibleVersion.findUnique({
-            where: { code: versionCode }
-        });
+        const bibleVersion = await getBibleVersionByCode(versionCode);
         if (!bibleVersion) {
             throw createError({
                 statusCode: 404,
@@ -120,19 +122,26 @@ export default defineEventHandler(async (event) => {
         const summary = `${bibleBook.name} ${chapterNum}:${buildSummary(verseNumbers)} - ${bibleVersion.code}`;
 
         // Récupérer les versets correspondants
-        const bibleVerses = await prisma.bibleVerse.findMany({
-            where: {
-                bookId: bibleBook.id,
-                versionId: bibleVersion.id,
-                chapter: chapterNum,
-                verse: { in: verseNumbers }
-            },
-            include: {
-                book: true,
-                version: true
-            },
-            orderBy: { verse: 'asc' }
-        }) as (BibleVerse & { book: BibleBook; version: BibleVersion; })[];
+        const chapterData = await getBibleChapter(bookCode, chapterNum);
+
+        if (!chapterData) {
+            throw createError({
+                statusCode: 404,
+                statusMessage: `Chapitre ${chapterNum} introuvable pour ${bookCode}`
+            });
+        }
+
+        const availableVerses = mapChapterVerses(chapterData, bibleBook, bibleVersion);
+        const bookPayload = buildBookPayload(bibleBook);
+        const versionPayload = buildVersionPayload(bibleVersion);
+
+        const bibleVerses = availableVerses
+            .filter(verse => verseNumbers.includes(verse.verse))
+            .map(verse => ({
+                ...verse,
+                book: bookPayload,
+                version: versionPayload
+            }));
 
         if (!bibleVerses.length) {
             throw createError({
@@ -143,7 +152,7 @@ export default defineEventHandler(async (event) => {
 
         return {
             success: true,
-            data: bibleVerses as (BibleVerse & { book: BibleBook; version: BibleVersion; })[],
+            data: bibleVerses,
             count: bibleVerses.length,
             meta: {
                 requested: verseParam,

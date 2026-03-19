@@ -1,0 +1,588 @@
+{
+  "bookCode": "NUM",
+  "chapter": 4,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "L’Eternel parla à Moïse et à Aaron et dit:",
+        "DBY": "Et l'Éternel parla à Moïse et à Aaron, disant:",
+        "KJV": "And the LORD spake unto Moses and unto Aaron, saying,",
+        "LSG": "L'Eternel parla à Moïse et à Aaron, et dit:",
+        "MAB": "Et l'Eternel parla à Moïse, et à Aaron, en disant :",
+        "OST": "L'Éternel parla encore à Moïse et à Aaron, en disant:",
+        "S21": "L'Eternel dit à Moïse et à Aaron:"
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "—Fais le recensement des descendants de Qehath d’entre les fils de Lévi, selon leurs familles et leurs groupes familiaux,",
+        "DBY": "Relève la somme des fils de Kehath d'entre les fils de Lévi, selon leurs familles, selon leurs maisons de pères,",
+        "KJV": "Take the sum of the sons of Kohath from among the sons of Levi, after their families, by the house of their fathers,",
+        "LSG": "Compte les fils de Kehath parmi les enfants de Lévi, selon leurs familles, selon les maisons de leurs pères,",
+        "MAB": "Faites le dénombrement des enfants de Kéhath d'entre les enfants de Lévi par leurs familles, [et] par les maisons de leurs pères,",
+        "OST": "Faites le compte des fils de Kéhath, d'entre les enfants de Lévi, selon leurs familles, selon les maisons de leurs pères,",
+        "S21": "«Parmi les Lévites, compte les descendants de Kehath en fonction de leur clan, de leur famille."
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "depuis l’âge de trente ans jusqu’à celui de cinquante ans, c’est-à-dire de tous ceux qui seront recrutés pour accomplir quelque tâche dans la tente de la Rencontre.",
+        "DBY": "depuis l'âge de trente ans et au-dessus, jusqu'à l'âge de cinquante ans, tous ceux qui entrent en service pour faire l'œuvre dans la tente d'assignation.",
+        "KJV": "From thirty years old and upward even until fifty years old, all that enter into the host, to do the work in the tabernacle of the congregation.",
+        "LSG": "depuis l'âge de trente ans et au-dessus jusqu'à l'âge de cinquante ans, tous ceux qui sont propres à exercer quelque fonction dans la tente d'assignation.",
+        "MAB": "Depuis l'âge de trente ans et au dessus, jusqu'à l'âge de cinquante ans, tous ceux qui entrent en rang, pour s'employer au Tabernacle d'assignation.",
+        "OST": "Depuis l'âge de trente ans et au-dessus, jusqu'à l'âge de cinquante ans, tous ceux qui entrent en rang pour s'employer au tabernacle d'assignation.",
+        "S21": "Compte les hommes âgés de 30 à 50 ans, tous ceux qui sont aptes à exercer une fonction dans la tente de la rencontre."
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "Voici quelle est la tâche des Qehatites dans la tente de la Rencontre: ils auront la responsabilité des objets très saints.",
+        "DBY": "C'est ici le service des fils de Kehath, dans la tente d'assignation: c'est une chose très-sainte.",
+        "KJV": "This [shall be] the service of the sons of Kohath in the tabernacle of the congregation, [about] the most holy things:",
+        "LSG": "Voici les fonctions des fils de Kehath, dans la tente d'assignation: elles concernent le lieu très saint.",
+        "MAB": "C'est ici le service des enfants de Kéhath au Tabernacle d'assignation, [c'est-à-dire], le lieu très-Saint.",
+        "OST": "Voici le service des fils de Kéhath dans le tabernacle d'assignation, le soin du lieu très-saint.",
+        "S21": "»Voici les fonctions des descendants de Kehath dans la tente de la rencontre: ils seront chargés du lieu très saint."
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "Lorsqu’on lèvera le camp, Aaron et ses fils descendront le voile de séparation, ils en couvriront le coffre de l’acte de l’alliance,",
+        "DBY": "-Et lorsque le camp partira, Aaron et ses fils entreront, et ils démonteront le voile qui sert de rideau, et en couvriront l'arche du témoignage;",
+        "KJV": "And when the camp setteth forward, Aaron shall come, and his sons, and they shall take down the covering vail, and cover the ark of testimony with it:",
+        "LSG": "Au départ du camp, Aaron et ses fils viendront démonter le voile, et ils en couvriront l'arche du témoignage;",
+        "MAB": "Quand le camp partira, Aaron et ses fils viendront, et ils détendront le voile de tapisserie, et en couvriront l'Arche du Témoignage.",
+        "OST": "Quand le camp partira, Aaron et ses fils viendront, et ils descendront le voile de tapisserie, et ils en couvriront l'arche du Témoignage.",
+        "S21": "»Au moment du départ du camp, Aaron et ses fils viendront démonter le voile et en couvriront l'arche du témoignage."
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "puis ils mettront par-dessus une couverture de peaux de dauphins sur laquelle ils étendront une étoffe entièrement teinte de pourpre violette; ensuite, ils fixeront les barres servant à transporter le coffre.",
+        "DBY": "et ils mettront dessus une couverture de peaux de taissons, et étendront par-dessus un drap tout de bleu; et ils y placeront les barres.",
+        "KJV": "And shall put thereon the covering of badgers' skins, and shall spread over [it] a cloth wholly of blue, and shall put in the staves thereof.",
+        "LSG": "ils mettront dessus une couverture de peaux de dauphins, et ils étendront par-dessus un drap entièrement d'étoffe bleue; puis ils placeront les barres de l'arche.",
+        "MAB": "Puis ils mettront au dessus une couverture de peaux de taissons, ils étendront par dessus un drap de pourpre, et ils y mettront ses barres.",
+        "OST": "Puis ils mettront sur elle une couverture de peaux de couleur d'hyacinthe; ils étendront par-dessus un drap entièrement de pourpre, et ils y mettront les barres.",
+        "S21": "Ils mettront dessus une couverture de peaux de dauphins et ils étendront par-dessus un drap entièrement fait d'étoffe bleue, puis ils placeront les barres du coffre."
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "Ils étendront également une étoffe de pourpre violette sur la table des pains qui sont exposés devant moi, ils y mettront les plats, les coupes, les bols et les gobelets pour la libation. Quant au pain de l’oblation perpétuelle, il restera sur la table.",
+        "DBY": "Et ils étendront un drap de bleu sur la table des pains de proposition, et mettront sur elle les plats, et les coupes, et les vases, et les gobelets de libation; et le pain continuel sera sur elle.",
+        "KJV": "And upon the table of shewbread they shall spread a cloth of blue, and put thereon the dishes, and the spoons, and the bowls, and covers to cover withal: and the continual bread shall be thereon:",
+        "LSG": "Ils étendront un drap bleu sur la table des pains de proposition, et ils mettront dessus les plats, les coupes, les tasses et les calices pour les libations; le pain y sera toujours;",
+        "MAB": "Et ils étendront un drap de pourpre sur la Table [des pains] de proposition, et mettront sur elle les plats, les tasses, les bassins, et les gobelets d'aspersion. Le pain continuel sera sur elle.",
+        "OST": "Et ils étendront un drap de pourpre sur la table des pains de proposition, et ils mettront dessus les plats, les tasses, les coupes et les vases pour les libations; et le pain perpétuel sera dessus;",
+        "S21": "Ils étendront un drap bleu sur la table des pains consacrés et ils mettront dessus les plats, les coupes, les tasses et les gobelets pour les offrandes de produits liquides. Quant au pain, il restera sur la table."
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "Ils étendront sur ces objets une étoffe de rouge éclatant, et recouvriront le tout d’une couverture de peau de dauphin, puis ils y fixeront les barres pour le transport.",
+        "DBY": "Et ils étendront sur ces choses un drap d'écarlate, et ils le couvriront d'une couverture de peaux de taissons, et ils y placeront les barres.",
+        "KJV": "And they shall spread upon them a cloth of scarlet, and cover the same with a covering of badgers' skins, and shall put in the staves thereof.",
+        "LSG": "ils étendront sur ces choses un drap de cramoisi, et ils l'envelopperont d'une couverture de peaux de dauphins; puis ils placeront les barres de la table.",
+        "MAB": "Ils étendront au dessus un drap teint de cramoisi, ils le couvriront d'une couverture de peaux de taissons, et ils y mettront ses barres.",
+        "OST": "Et ils étendront sur ces choses un drap cramoisi, et ils le couvriront d'une couverture de peaux de couleur d'hyacinthe; et ils mettront les barres de la table.",
+        "S21": "Ils étendront sur ces éléments un drap cramoisi, qu’ils envelopperont dans une couverture de peaux de dauphins, puis ils placeront les barres de la table."
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "Ils prendront une étoffe de pourpre violette et ils recouvriront le chandelier, ses lampes, ses pincettes, ses mouchettes et tous les récipients d’huile destinés à son service.",
+        "DBY": "Et ils prendront un drap de bleu, et en couvriront le chandelier du luminaire, et ses lampes, et ses mouchettes, et ses vases à cendre, et tous ses vases à huile, dont on fait usage pour son service;",
+        "KJV": "And they shall take a cloth of blue, and cover the candlestick of the light, and his lamps, and his tongs, and his snuffdishes, and all the oil vessels thereof, wherewith they minister unto it:",
+        "LSG": "Ils prendront un drap bleu, et ils couvriront le chandelier, ses lampes, ses mouchettes, ses vases à cendre et tous ses vases à huile, destinés à son service;",
+        "MAB": "Et ils prendront un drap de pourpre, et en couvriront le chandelier du luminaire avec ses lampes, ses mouchettes, ses creuseaux, et tous les vaisseaux d'huile, desquels on se sert pour le chandelier;",
+        "OST": "Et ils prendront un drap de pourpre, et ils en couvriront le chandelier du luminaire, ses lampes, ses mouchettes, ses porte-mouchettes, et tous ses vases à huile, dont on se sert pour le chandelier.",
+        "S21": "Ils prendront un drap bleu et couvriront le chandelier, ses lampes, ses mouchettes, ses vases à cendre et tous les vases à huile destinés à son service."
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "Ils l’envelopperont avec tous ses accessoires dans une housse de peau de dauphin, et déposeront le tout sur un brancard.",
+        "DBY": "et ils le mettront, avec tous ses ustensiles, dans une couverture de peaux de taissons, et le mettront sur une perche.",
+        "KJV": "And they shall put it and all the vessels thereof within a covering of badgers' skins, and shall put [it] upon a bar.",
+        "LSG": "ils le mettront, avec tous ses ustensiles, dans une couverture de peaux de dauphins; puis ils le placeront sur le brancard.",
+        "MAB": "Et ils le mettront avec tous ses vaisseaux dans une couverture de peaux de taissons, et le mettront sur des leviers.",
+        "OST": "Et ils le mettront, avec tous ses ustensiles, dans une couverture de peaux de couleur d'hyacinthe, et le placeront sur le brancard.",
+        "S21": "Ils le mettront avec tous ses ustensiles dans une couverture de peaux de dauphins, puis ils le placeront sur le brancard."
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "Ils déploieront une étoffe de pourpre violette sur l’autel d’or, et ils le recouvriront d’une couverture de peau de dauphin; puis ils y fixeront les barres pour le transport.",
+        "DBY": "Et sur l'autel d'or ils étendront un drap de bleu, et le couvriront d'une couverture de peaux de taissons, et y placeront les barres.",
+        "KJV": "And upon the golden altar they shall spread a cloth of blue, and cover it with a covering of badgers' skins, and shall put to the staves thereof:",
+        "LSG": "Ils étendront un drap bleu sur l'autel d'or, et ils l'envelopperont d'une couverture de peaux de dauphins; puis ils placeront les barres de l'autel.",
+        "MAB": "Ils étendront sur l'autel d'or un drap de pourpre, ils le couvriront d'une couverture de peaux de taissons, et ils y mettront ses barres.",
+        "OST": "Ils étendront sur l'autel d'or un drap de pourpre, et ils le couvriront d'une couverture de peaux de couleur d'hyacinthe, et ils y mettront ses barres.",
+        "S21": "Ils étendront un drap bleu sur l'autel d'or et l'envelopperont dans une couverture de peaux de dauphins, puis ils placeront les barres de l'autel."
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "Ils prendront tous les objets dont on se sert pour officier dans le sanctuaire, ils les mettront dans une étoffe de pourpre violette, et les envelopperont d’une couverture de peau de dauphin, puis ils les déposeront sur un brancard.",
+        "DBY": "Et ils prendront tous les ustensiles du service avec lesquels on sert dans le lieu saint, et ils les mettront dans un drap de bleu, et les couvriront d'une couverture de peaux de taissons, et les mettront sur une perche.",
+        "KJV": "And they shall take all the instruments of ministry, wherewith they minister in the sanctuary, and put [them] in a cloth of blue, and cover them with a covering of badgers' skins, and shall put [them] on a bar:",
+        "LSG": "Ils prendront tous les ustensiles dont on se sert pour le service dans le sanctuaire, et ils les mettront dans un drap bleu, et ils les envelopperont d'une couverture de peaux de dauphins; puis ils les placeront sur le brancard.",
+        "MAB": "Ils prendront aussi tous les ustensiles du service dont on se sert au Sanctuaire, ils [les] mettront dans un drap de pourpre, et ils les couvriront d'une couverture de peaux de taissons, et les mettront sur des leviers.",
+        "OST": "Ils prendront aussi tous les ustensiles du service, dont on se sert dans le sanctuaire, et ils les mettront dans un drap de pourpre, et ils les couvriront d'une couverture de peaux de couleur d'hyacinthe, et les mettront sur le brancard.",
+        "S21": "Ils prendront tous les ustensiles employés pour le service dans le sanctuaire, les mettront dans un drap bleu et les envelopperont dans une couverture de peaux de dauphins, puis ils les placeront sur le brancard."
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "Ils ôteront les cendres grasses de l’autel et étendront par-dessus une étoffe de pourpre écarlate",
+        "DBY": "Et ils ôteront les cendres de l'autel, et ils étendront sur lui un drap de pourpre.",
+        "KJV": "And they shall take away the ashes from the altar, and spread a purple cloth thereon:",
+        "LSG": "Ils ôteront les cendres de l'autel, et ils étendront sur l'autel un drap de pourpre;",
+        "MAB": "Ils ôteront les cendres de l'autel, et étendront dessus un drap d'écarlate.",
+        "OST": "Ils ôteront les cendres de l'autel, et ils étendront sur lui un drap écarlate;",
+        "S21": "Ils retireront les cendres de l'autel et ils étendront sur l'autel un drap pourpre."
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "sur laquelle ils poseront tous les instruments utilisés pour le service de l’autel: les encensoirs, les fourchettes, les pelles à cendres et les bassines; puis ils étendront par-dessus le tout une couverture de peau de dauphin et fixeront les barres pour le transport.",
+        "DBY": "Et ils mettront dessus tous ses ustensiles dont on fait usage pour son service: les brasiers, les fourchettes, et les pelles, et les bassins, tous les ustensiles de l'autel; et ils étendront dessus une couverture de peaux de taissons, et y placeront les barres.",
+        "KJV": "And they shall put upon it all the vessels thereof, wherewith they minister about it, [even] the censers, the fleshhooks, and the shovels, and the basons, all the vessels of the altar; and they shall spread upon it a covering of badgers' skins, and put to the staves of it.",
+        "LSG": "ils mettront dessus tous les ustensiles destinés à son service, les brasiers, les fourchettes, les pelles, les bassins, tous les ustensiles de l'autel, et ils étendront par-dessus une couverture de peaux de dauphins; puis ils placeront les barres de l'autel.",
+        "MAB": "Et ils mettront dessus les ustensiles dont on se sert pour l'autel, les encensoirs, les crochets, les racloirs, les bassins, et tous les vaisseaux de l'autel; ils étendront dessus une couverture de peaux de taissons, et ils y mettront ses barres.",
+        "OST": "Et ils mettront dessus tous les ustensiles employés pour y faire le service, les encensoirs, les fourchettes, les racloirs, les coupes, tous les ustensiles de l'autel; et ils étendront par-dessus une couverture de peaux de couleur d'hyacinthe, et ils y mettront ses barres.",
+        "S21": "Ils mettront dessus tous les ustensiles destinés à son service: les brûle-parfums, les fourchettes, les pelles, les bassins, tous les ustensiles de l'autel, et ils étendront par-dessus une couverture de peaux de dauphins; puis ils placeront les barres de l'autel."
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "Quand Aaron et ses fils auront fini de couvrir le sanctuaire et tous ses ustensiles, au moment du départ du camp, les Qehatites viendront pour les transporter. Ils ne toucheront pas directement au sanctuaire, car ils seraient mis à mort. Telle est la responsabilité des Qehatites concernant la tente de la Rencontre.",
+        "DBY": "-Et lorsque Aaron et ses fils auront achevé de couvrir le lieu saint et tous les ustensiles du lieu saint, lors du départ du camp, après cela les fils de Kehath viendront pour les porter, afin qu'ils ne touchent pas les choses saintes, et ne meurent pas. C'est là ce que les fils de Kehath porteront de la tente d'assignation.",
+        "KJV": "And when Aaron and his sons have made an end of covering the sanctuary, and all the vessels of the sanctuary, as the camp is to set forward; after that, the sons of Kohath shall come to bear [it]: but they shall not touch [any] holy thing, lest they die. These [things are] the burden of the sons of Kohath in the tabernacle of the congregation.",
+        "LSG": "Après qu'Aaron et ses fils auront achevé de couvrir le sanctuaire et tous les ustensiles du sanctuaire, les fils de Kehath viendront, au départ du camp, pour les porter; mais ils ne toucheront point les choses saintes, de peur qu'ils ne meurent. Telles sont les fonctions de porteurs, imposées aux fils de Kehath dans la tente d'assignation.",
+        "MAB": "Le camp partira après qu'Aaron et ses fils auront achevé de couvrir le Sanctuaire et tous ses vaisseaux, et après cela les enfants de Kéhath viendront pour le porter, et ils ne toucheront point les choses saintes, de peur qu'ils ne meurent; c'[est] là ce que les enfants de Kéhath porteront du Tabernacle d'assignation.",
+        "OST": "Après qu'Aaron et ses fils auront achevé de couvrir le sanctuaire et tous les ustensiles sacrés, quand le camp partira, alors les enfants de Kéhath viendront pour les porter; et ils ne toucheront point les choses saintes, de peur qu'ils ne meurent. Voilà ce qu'auront à porter les enfants de Kéhath dans le tabernacle d'assignation.",
+        "S21": "Une fois qu'Aaron et ses fils auront fini de recouvrir le sanctuaire et tous ses ustensiles, les descendants de Kehath viendront pour les porter au moment du départ du camp. Cependant ils ne toucheront pas les choses saintes, sinon ils mourraient. Telle est la charge attribuée aux descendants de Kehath concernant la tente de la rencontre."
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "Quant à Eléazar, fils du prêtre Aaron, il sera responsable de l’huile du chandelier, de l’encens aromatique, de l’offrande perpétuelle et de l’huile d’onction; il assurera la supervision de tout le tabernacle, de tout ce qui s’y trouve, tant du sanctuaire que de ses accessoires.",
+        "DBY": "Et Éléazar, fils d'Aaron, le sacrificateur, aura la surveillance de l'huile du luminaire, et de l'encens des drogues odoriférantes, et de l'offrande de gâteau continuelle, et de l'huile de l'onction, la surveillance de tout le tabernacle et de tout ce qui y est, du lieu saint et de ses ustensiles.",
+        "KJV": "And to the office of Eleazar the son of Aaron the priest [pertaineth] the oil for the light, and the sweet incense, and the daily meat offering, and the anointing oil, [and] the oversight of all the tabernacle, and of all that therein [is], in the sanctuary, and in the vessels thereof.",
+        "LSG": "Eléazar, fils du sacrificateur Aaron, aura sous sa surveillance l'huile du chandelier, le parfum odoriférant, l'offrande perpétuelle et l'huile d'onction; il aura sous sa surveillance tout le tabernacle et tout ce qu'il contient, le sanctuaire et ses ustensiles.",
+        "MAB": "Et Eléazar fils d'Aaron, Sacrificateur, aura la charge de l'huile du luminaire, du parfum de drogues, du gâteau continuel, et de l'huile de l'onction; la charge de tout le pavillon, et de toutes les choses qui sont dans le Sanctuaire, et de ses ustensiles.",
+        "OST": "Éléazar, fils d'Aaron, le sacrificateur, aura la surveillance de l'huile du luminaire, du parfum d'aromates, de l'oblation continuelle et de l'huile d'onction, la surveillance de toute la Demeure, et de tout ce qu'elle contient, le sanctuaire et ses ustensiles.",
+        "S21": "»Eléazar, le fils du prêtre Aaron, sera chargé de la surveillance de l'huile du chandelier, du parfum odoriférant, de l'offrande perpétuelle et de l'huile d'onction; il sera chargé de la surveillance de tout le tabernacle et de tout ce qu'il contient, du sanctuaire et de ses ustensiles.»"
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "L’Eternel parla à Moïse et Aaron et dit:",
+        "DBY": "Et l'Éternel parla à Moïse et à Aaron, disant:",
+        "KJV": "And the LORD spake unto Moses and unto Aaron, saying,",
+        "LSG": "L'Eternel parla à Moïse et à Aaron, et dit:",
+        "MAB": "Et l'Eternel parla à Moïse et à Aaron, en disant :",
+        "OST": "L'Éternel parla encore à Moïse et à Aaron, en disant:",
+        "S21": "L'Eternel dit à Moïse et à Aaron:"
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "—N’exposez pas le groupe des familles des Qehatites à être retranché du milieu des lévites.",
+        "DBY": "Ne faites pas que la tribu des familles des Kehathites soit retranchée d'entre les Lévites;",
+        "KJV": "Cut ye not off the tribe of the families of the Kohathites from among the Levites:",
+        "LSG": "N'exposez point la race des familles des Kehathites à être retranchée du milieu des Lévites.",
+        "MAB": "Ne donnez point occasion que la race des familles de Kéhath soit retranchée d'entre les Lévites.",
+        "OST": "Faites en sorte que la tribu des familles de Kéhath ne soit point retranchée d'entre les Lévites;",
+        "S21": "«N'exposez pas la branche des clans des Kehathites à être exclue du milieu des Lévites."
+      }
+    },
+    {
+      "verse": 19,
+      "texts": {
+        "BDS": "Voici la manière dont vous agirez à leur égard pour qu’ils vivent et ne soient pas frappés de mort lorsqu’ils s’approcheront des objets très saints: Toi, Aaron et tes fils, vous entrerez et vous assignerez à chacun sa tâche en lui indiquant ce qu’il devra transporter.",
+        "DBY": "et faites ceci pour eux, afin qu'ils vivent et ne meurent pas, en s'approchant du lieu très-saint: Aaron et ses fils viendront, et les placeront chacun à son service et à son fardeau.",
+        "KJV": "But thus do unto them, that they may live, and not die, when they approach unto the most holy things: Aaron and his sons shall go in, and appoint them every one to his service and to his burden:",
+        "LSG": "Faites ceci pour eux, afin qu'ils vivent et qu'ils ne meurent point, quand ils s'approcheront du lieu très saint: Aaron et ses fils viendront, et ils placeront chacun d'eux à son service et à sa charge.",
+        "MAB": "Mais faites ceci pour eux, afin qu'ils vivent et ne meurent point; c'est que quand ils approcheront des choses très-Saintes, Aaron et ses fils viendront, qui les rangeront chacun à son service, et à ce qu'il doit porter.",
+        "OST": "Et faites ceci pour eux, afin qu'ils vivent et ne meurent point, quand ils approcheront du lieu très-saint: qu'Aaron et ses fils viennent, et prescrivent à chacun son service et ce qu'il doit porter.",
+        "S21": "Faites ceci pour eux, afin qu'ils vivent et ne meurent pas quand ils s'approcheront du lieu très saint: Aaron et ses fils viendront et placeront chacun d'eux dans son service et dans sa charge."
+      }
+    },
+    {
+      "verse": 20,
+      "texts": {
+        "BDS": "Ils ne doivent jamais entrer seuls pour regarder le sanctuaire, ne fût-ce qu’un instant, car ils mourraient.",
+        "DBY": "Et ils n'entreront pas pour voir, quand on enveloppera les choses saintes, afin qu'ils ne meurent pas.",
+        "KJV": "But they shall not go in to see when the holy things are covered, lest they die.",
+        "LSG": "Ils n'entreront point pour voir envelopper les choses saintes, de peur qu'ils ne meurent.",
+        "MAB": "Et ils n'entreront point pour regarder quand on enveloppera les choses saintes, afin qu'ils ne meurent point.",
+        "OST": "Et ils n'entreront point pour regarder, quand on enveloppera les choses saintes, de peur qu'ils ne meurent.",
+        "S21": "Ils n'entreront pas pour voir, ne serait-ce qu’un instant, envelopper les choses saintes, sinon ils mourraient.»"
+      }
+    },
+    {
+      "verse": 21,
+      "texts": {
+        "BDS": "L’Eternel parla à Moïse et dit:",
+        "DBY": "Et l'Éternel parla à Moïse, disant:",
+        "KJV": "And the LORD spake unto Moses, saying,",
+        "LSG": "L'Eternel parla à Moïse, et dit:",
+        "MAB": "L'Eternel parla aussi à Moïse, en disant :",
+        "OST": "L'Éternel parla aussi à Moïse, en disant:",
+        "S21": "L'Eternel dit à Moïse:"
+      }
+    },
+    {
+      "verse": 22,
+      "texts": {
+        "BDS": "—Fais aussi le recensement des descendants de Guerchôn, selon leurs groupes familiaux et leurs familles.",
+        "DBY": "Relève aussi la somme des fils de Guershon, selon leurs maisons de pères, selon leurs familles;",
+        "KJV": "Take also the sum of the sons of Gershon, throughout the houses of their fathers, by their families;",
+        "LSG": "Compte aussi les fils de Guerschon, selon les maisons de leurs pères, selon leurs familles;",
+        "MAB": "Fais aussi le dénombrement des enfants de Guerson selon les maisons de leurs pères, [et] selon leurs familles;",
+        "OST": "Fais aussi le compte des enfants de Guershon, selon les maisons de leurs pères, selon leurs familles.",
+        "S21": "«Compte aussi les descendants de Guershon en fonction de leur famille, de leur clan."
+      }
+    },
+    {
+      "verse": 23,
+      "texts": {
+        "BDS": "Tu compteras tous les hommes âgés de trente à cinquante ans, tous ceux qui seront recrutés pour effectuer une tâche quelconque dans la tente de la Rencontre.",
+        "DBY": "tu les dénombreras depuis l'âge de trente ans et au-dessus, jusqu'à l'âge de cinquante ans: tous ceux qui entrent en service pour s'employer au service, à la tente d'assignation.",
+        "KJV": "From thirty years old and upward until fifty years old shalt thou number them; all that enter in to perform the service, to do the work in the tabernacle of the congregation.",
+        "LSG": "tu feras le dénombrement, depuis l'âge de trente ans et au-dessus jusqu'à l'âge de cinquante ans, de tous ceux qui sont propres à exercer quelque fonction dans la tente d'assignation.",
+        "MAB": "Depuis l'âge de trente ans, et au dessus, jusqu'à l'âge de cinquante ans, dénombrant tous ceux qui entrent pour tenir leur rang, afin de s'employer à servir au Tabernacle d'assignation.",
+        "OST": "Depuis l'âge de trente ans et au-dessus, jusqu'à l'âge de cinquante ans, tu les dénombreras, tous ceux qui viennent prendre rang pour faire le service dans le tabernacle d'assignation.",
+        "S21": "Tu feras le dénombrement de tous les hommes âgés de 30 à 50 ans qui sont aptes à exercer une fonction dans la tente de la rencontre."
+      }
+    },
+    {
+      "verse": 24,
+      "texts": {
+        "BDS": "Voici quelle sera la tâche des familles des Guerchonites, ce qu’ils auront à faire et à transporter:",
+        "DBY": "C'est ici le service des familles des Guershonites, pour servir et pour porter:",
+        "KJV": "This [is] the service of the families of the Gershonites, to serve, and for burdens:",
+        "LSG": "Voici les fonctions des familles des Guerschonites, le service qu'ils devront faire et ce qu'ils devront porter.",
+        "MAB": "C'est ici le service des familles des Guersonites, en ce à quoi ils doivent servir, et en ce qu'ils doivent porter.",
+        "OST": "Voici le service des familles des Guershonites, ce qu'ils doivent faire, et ce qu'ils doivent porter;",
+        "S21": "»Voici les fonctions des clans des Guershonites, le service qu'ils devront effectuer et ce qu'ils devront porter."
+      }
+    },
+    {
+      "verse": 25,
+      "texts": {
+        "BDS": "ils porteront les tentures du tabernacle ainsi que la tente de la Rencontre avec sa couverture et la bâche de peau de dauphin qui se met par dessus, le rideau de l’entrée de la tente de la Rencontre,",
+        "DBY": "ils porteront les tapis du tabernacle et la tente d'assignation, sa couverture, et la couverture de peaux de taissons qui est sur elle par-dessus, et le rideau de l'entrée de la tente d'assignation,",
+        "KJV": "And they shall bear the curtains of the tabernacle, and the tabernacle of the congregation, his covering, and the covering of the badgers' skins that [is] above upon it, and the hanging for the door of the tabernacle of the congregation,",
+        "LSG": "Ils porteront les tapis du tabernacle et la tente d'assignation, sa couverture et la couverture de peaux de dauphins qui se met par-dessus, le rideau qui est à l'entrée de la tente d'assignation;",
+        "MAB": "Ils porteront donc les rouleaux du pavillon, et le Tabernacle d'assignation, sa couverture, la couverture de taissons qui est sur lui par dessus, et la tapisserie de l'entrée du Tabernacle d'assignation;",
+        "OST": "Ils porteront les tentures de la Demeure, et le tabernacle d'assignation, sa couverture, la couverture de peaux de couleur d'hyacinthe qui est par-dessus, et la tapisserie de l'entrée du tabernacle d'assignation;",
+        "S21": "Ils porteront les tapis du tabernacle ainsi que la tente de la rencontre, sa couverture et la couverture de peaux de dauphins qui se met par-dessus, le rideau qui est à l'entrée de la tente de la rencontre,"
+      }
+    },
+    {
+      "verse": 26,
+      "texts": {
+        "BDS": "les toiles du parvis, avec le rideau de la porte du parvis, qui entourent le tabernacle et l’autel, leurs cordages et tous les ustensiles qui en dépendent. Ils feront tout le travail qui s’y rapporte.",
+        "DBY": "et les tentures du parvis, et le rideau de l'entrée de la porte du parvis qui entoure le tabernacle et l'autel, et leurs cordages, et tous les ustensiles de leur service; tout ce qui doit être fait avec eux constituera leur service.",
+        "KJV": "And the hangings of the court, and the hanging for the door of the gate of the court, which [is] by the tabernacle and by the altar round about, and their cords, and all the instruments of their service, and all that is made for them: so shall they serve.",
+        "LSG": "les toiles du parvis et le rideau de l'entrée de la porte du parvis, tout autour du tabernacle et de l'autel, leurs cordages et tous les ustensiles qui en dépendent. Et ils feront tout le service qui s'y rapporte.",
+        "MAB": "Les courtines du parvis, et la tapisserie de l'entrée de la porte du parvis, qui servent pour le pavillon et pour l'autel tout autour, leur cordage, et tous les ustensiles de leur service, et tout ce qui est fait pour eux; c'est ce en quoi ils serviront.",
+        "OST": "Les tentures du parvis, et la tapisserie de l'entrée de la porte du parvis, qui cachent la Demeure et l'autel tout autour, leurs cordages, et tous les ustensiles de leur service. Ils feront tout le service qui s'y rapporte.",
+        "S21": "les toiles du parvis et le rideau de l'entrée de la porte du parvis qui entoure le tabernacle et l'autel, leurs cordages et tous les ustensiles qui en dépendent. Ils effectueront tout le service qui s'y rapporte."
+      }
+    },
+    {
+      "verse": 27,
+      "texts": {
+        "BDS": "Ils feront tout leur service sous la direction d’Aaron et de ses fils, pour porter ce qu’ils doivent et accomplir leurs tâches; vous leur indiquerez tout ce qu’ils auront à transporter.",
+        "DBY": "Tout le service des fils des Guershonites, dans tout ce qu'ils portent et dans tout leur service, sera selon les ordres d'Aaron et de ses fils; et vous leur donnerez en charge tout ce qu'ils doivent porter.",
+        "KJV": "At the appointment of Aaron and his sons shall be all the service of the sons of the Gershonites, in all their burdens, and in all their service: and ye shall appoint unto them in charge all their burdens.",
+        "LSG": "Dans leurs fonctions, les fils des Guerschonites seront sous les ordres d'Aaron et de ses fils, pour tout ce qu'ils porteront et pour tout le service qu'ils devront faire; vous remettrez à leurs soins tout ce qu'ils ont à porter.",
+        "MAB": "Tout le service des enfants de Guerson en tout ce qu'ils doivent porter, et en tout ce à quoi ils doivent servir, sera [réglé] par les ordres d'Aaron et de ses fils, et vous les chargerez d'observer tout ce qu'ils doivent porter.",
+        "OST": "Tout le service des enfants de Guershon, en tout ce qu'ils doivent porter, et en tout ce qu'ils doivent faire, sera réglé par l'ordre d'Aaron et de ses fils, et vous confierez à leur garde tout ce qu'ils doivent porter.",
+        "S21": "Dans leurs fonctions, les descendants des Guershonites seront sous les ordres d'Aaron et de ses fils pour tout ce qu'ils porteront et pour tout le service qu'ils devront effectuer. Vous leur confierez la responsabilité de tout ce qu'ils ont à porter."
+      }
+    },
+    {
+      "verse": 28,
+      "texts": {
+        "BDS": "Tel est le service des familles des Guerchonites concernant la tente de la Rencontre. Ils l’accompliront sous la direction d’Itamar, fils du prêtre Aaron.",
+        "DBY": "C'est là le service des familles des fils des Guershonites à la tente d'assignation; et leur charge sera sous la main d'Ithamar, fils d'Aaron, le sacrificateur.",
+        "KJV": "This [is] the service of the families of the sons of Gershon in the tabernacle of the congregation: and their charge [shall be] under the hand of Ithamar the son of Aaron the priest.",
+        "LSG": "Telles sont les fonctions des familles des fils des Guerschonites dans la tente d'assignation, et ce qu'ils ont à garder sous la direction d'Ithamar, fils du sacrificateur Aaron.",
+        "MAB": "C'est là le service des familles des enfants des Guersonites au Tabernacle d'assignation; et leur charge sera sous la conduite d'Ithamar, fils d'Aaron Sacrificateur.",
+        "OST": "Tel est le service des familles des enfants des Guershonites dans le tabernacle d'assignation; et leur charge sera exercée sous la conduite d'Ithamar, fils d'Aaron, le sacrificateur.",
+        "S21": "Telles sont les fonctions des clans issus des Guershonites concernant la tente de la rencontre; ils exerceront leur responsabilité sous la direction d'Ithamar, le fils du prêtre Aaron."
+      }
+    },
+    {
+      "verse": 29,
+      "texts": {
+        "BDS": "—Tu feras aussi le recensement des descendants de Merari, par familles et par groupes familiaux.",
+        "DBY": "Quant aux fils de Merari, tu les dénombreras selon leurs familles, selon leurs maisons de pères.",
+        "KJV": "As for the sons of Merari, thou shalt number them after their families, by the house of their fathers;",
+        "LSG": "Tu feras le dénombrement des fils de Merari, selon leurs familles, selon les maisons de leurs pères;",
+        "MAB": "Tu dénombreras aussi les enfants de Mérari selon leurs familles [et] selon les maisons de leurs pères.",
+        "OST": "Tu dénombreras les enfants de Mérari, selon leurs familles, selon les maisons de leurs pères;",
+        "S21": "»Tu feras le dénombrement des descendants de Merari en fonction de leur clan, de leur famille."
+      }
+    },
+    {
+      "verse": 30,
+      "texts": {
+        "BDS": "Tu compteras tous les hommes âgés de trente à cinquante ans, ceux qui seront recrutés pour effectuer une tâche quelconque dans la tente de la Rencontre.",
+        "DBY": "Tu les dénombreras depuis l'âge de trente ans et au-dessus, jusqu'à l'âge de cinquante ans, tous ceux qui entrent en service pour s'employer au service de la tente d'assignation.",
+        "KJV": "From thirty years old and upward even unto fifty years old shalt thou number them, every one that entereth into the service, to do the work of the tabernacle of the congregation.",
+        "LSG": "tu feras le dénombrement, depuis l'âge de trente ans et au-dessus jusqu'à l'âge de cinquante ans, de tous ceux qui sont propres à exercer quelque fonction dans la tente d'assignation.",
+        "MAB": "Tu les dénombreras depuis l'âge de trente ans et au dessus, jusqu'à l'âge de cinquante ans; tous ceux qui entrent en rang pour s'employer au service du Tabernacle d'assignation.",
+        "OST": "Tu les dénombreras depuis l'âge de trente ans et au-dessus, jusqu'à l'âge de cinquante ans, tous ceux qui prennent rang pour s'employer au service du tabernacle d'assignation.",
+        "S21": "Tu feras le dénombrement de tous les hommes âgés de 30 à 50 ans qui sont aptes à exercer une fonction dans la tente de la rencontre."
+      }
+    },
+    {
+      "verse": 31,
+      "texts": {
+        "BDS": "Voici quelles parties de la tente de la Rencontre ils auront pour tâche de transporter: les planches du tabernacle, ses traverses, ses piliers, ses socles,",
+        "DBY": "Et c'est ici la charge de ce qu'ils auront à porter, selon tout leur service à la tente d'assignation: les ais du tabernacle, et ses traverses, et ses piliers, et ses bases,",
+        "KJV": "And this [is] the charge of their burden, according to all their service in the tabernacle of the congregation; the boards of the tabernacle, and the bars thereof, and the pillars thereof, and sockets thereof,",
+        "LSG": "Voici ce qui est remis à leurs soins et ce qu'ils ont à porter, pour toutes leurs fonctions dans la tente d'assignation: les planches du tabernacle, ses barres, ses colonnes, ses bases,",
+        "MAB": "Or c'est ici la charge de ce qu'ils auront à porter, selon tout le service qu'ils auront à faire au Tabernacle d'assignation, [savoir] les ais du pavillon, ses barres, et ses piliers, avec ses soubassements;",
+        "OST": "Et voici ce qu'ils auront à garder et à porter, pour tout leur service dans le tabernacle d'assignation: les planches de la Demeure, ses traverses, ses colonnes, ses soubassements,",
+        "S21": "»Voici ce qu’ils ont la responsabilité de porter, suivant toutes leurs fonctions dans la tente de la rencontre: les planches du tabernacle, ses barres, ses colonnes, ses bases,"
+      }
+    },
+    {
+      "verse": 32,
+      "texts": {
+        "BDS": "les piliers qui entourent le parvis, leurs socles, leurs piquets, leurs cordages, ainsi que tous les outils nécessaires à leur montage. Vous attribuerez à chacun nominativement les objets qu’il aura pour tâche de transporter.",
+        "DBY": "et les piliers du parvis tout autour, et leurs bases, et leurs pieux, et leurs cordages, tous leurs ustensiles, selon tout leur service; et vous leur compterez, en les désignant par nom, les objets qu'ils auront charge de porter.",
+        "KJV": "And the pillars of the court round about, and their sockets, and their pins, and their cords, with all their instruments, and with all their service: and by name ye shall reckon the instruments of the charge of their burden.",
+        "LSG": "les colonnes du parvis formant l'enceinte, leurs bases, leurs pieux, leurs cordages, tous les ustensiles qui en dépendent et tout ce qui est destiné à leur service. Vous désignerez par leurs noms les objets qui sont remis à leurs soins et qu'ils ont à porter.",
+        "MAB": "Et les piliers du parvis tout autour, et leurs soubassements, leurs clous, leurs cordages, tous leurs ustensiles, et tout ce dont on se sert en ces choses-là, et vous leur compterez tous les ustensiles qu'ils auront charge de porter, pièce par pièce.",
+        "OST": "Les colonnes du parvis tout autour, leurs soubassements, leurs pieux, leurs cordages, avec tous les objets et tout ce qui se rattache à leur service; et vous dénombrerez par leurs noms les objets qu'ils auront à garder et à porter.",
+        "S21": "les colonnes du parvis qui forment l'enceinte, leurs bases, leurs pieux, leurs cordages, tous les ustensiles qui en dépendent et tout ce qui est destiné à leur service. Vous désignerez par leur nom les objets qu’ils ont la responsabilité de porter."
+      }
+    },
+    {
+      "verse": 33,
+      "texts": {
+        "BDS": "Tel est le service des familles des Merarites, c’est là leur travail concernant la tente de la Rencontre. Ils l’accompliront sous la direction d’Itamar, fils du prêtre Aaron.",
+        "DBY": "C'est là le service des familles des fils de Merari, pour tout leur service à la tente d'assignation, sous la main d'Ithamar, fils d'Aaron, le sacrificateur.",
+        "KJV": "This [is] the service of the families of the sons of Merari, according to all their service, in the tabernacle of the congregation, under the hand of Ithamar the son of Aaron the priest.",
+        "LSG": "Telles sont les fonctions des familles des fils de Merari, toutes leurs fonctions dans la tente d'assignation, sous la direction d'Ithamar, fils du sacrificateur Aaron.",
+        "MAB": "C'est là le service des familles des enfants de Mérari, pour tout ce à quoi ils doivent servir au Tabernacle d'assignation, sous la conduite d'Ithamar, fils d'Aaron, Sacrificateur.",
+        "OST": "Tel est le service des familles des enfants de Mérari, pour tout leur service dans le tabernacle d'assignation, sous la conduite d'Ithamar, fils d'Aaron, le sacrificateur.",
+        "S21": "Telles sont les fonctions des clans issus de Merari, toutes leurs fonctions concernant la tente de la rencontre; ils les exerceront sous la direction d'Ithamar, le fils du prêtre Aaron.»"
+      }
+    },
+    {
+      "verse": 34,
+      "texts": {
+        "BDS": "Moïse, Aaron et les chefs de la communauté firent le recensement des Qehatites, par familles et par groupes familiaux;",
+        "DBY": "Et Moïse et Aaron, et les princes de l'assemblée, dénombrèrent les fils des Kehathites, selon leurs familles et selon leurs maisons de pères,",
+        "KJV": "And Moses and Aaron and the chief of the congregation numbered the sons of the Kohathites after their families, and after the house of their fathers,",
+        "LSG": "Moïse, Aaron et les princes de l'assemblée firent le dénombrement des fils des Kehathites, selon leurs familles et selon les maisons de leurs pères,",
+        "MAB": "Moïse donc et Aaron, et les principaux de l'assemblée dénombrèrent les enfants des Kéhathites, selon leurs familles, et selon les maisons de leurs pères.",
+        "OST": "Moïse, Aaron et les principaux de l'assemblée, dénombrèrent donc les enfants des Kéhathites, selon leurs familles et selon les maisons de leurs pères,",
+        "S21": "Moïse, Aaron et les princes de l'assemblée firent le dénombrement des Kehathites en fonction de leur clan, de leur famille."
+      }
+    },
+    {
+      "verse": 35,
+      "texts": {
+        "BDS": "ils dénombrèrent tous les hommes âgés de trente à cinquante ans, ceux qui devaient être recrutés pour accomplir une tâche quelconque dans la tente de la Rencontre.",
+        "DBY": "depuis l'âge de trente ans et au-dessus, jusqu'à l'âge de cinquante ans, tous ceux qui entraient en service pour servir dans la tente d'assignation:",
+        "KJV": "From thirty years old and upward even unto fifty years old, every one that entereth into the service, for the work in the tabernacle of the congregation:",
+        "LSG": "de tous ceux qui, depuis l'âge de trente ans et au-dessus jusqu'à l'âge de cinquante ans, étaient propres à exercer quelque fonction dans la tente d'assignation.",
+        "MAB": "Depuis l'âge de trente ans, et au dessus, jusqu'à l'âge de cinquante ans, tous ceux qui entraient en rang pour servir au Tabernacle d'assignation.",
+        "OST": "Depuis l'âge de trente ans et au-dessus, jusqu'à l'âge de cinquante ans, tous ceux qui prenaient rang pour servir au tabernacle d'assignation;",
+        "S21": "Ils dénombrèrent tous les hommes âgés de 30 à 50 ans qui étaient aptes à exercer une fonction dans la tente de la rencontre."
+      }
+    },
+    {
+      "verse": 36,
+      "texts": {
+        "BDS": "L’effectif total de leurs familles était de 2 750.",
+        "DBY": "leurs dénombrés, selon leurs familles, furent deux mille sept cent cinquante.",
+        "KJV": "And those that were numbered of them by their families were two thousand seven hundred and fifty.",
+        "LSG": "Ceux dont ils firent le dénombrement, selon leurs familles, furent deux mille sept cent cinquante.",
+        "MAB": "Et ceux dont on fit le dénombrement selon leurs familles, étaient deux mille sept cent cinquante.",
+        "OST": "Et ceux qui furent dénombrés selon leurs familles, étaient deux mille sept cent cinquante.",
+        "S21": "On dénombra ainsi, en fonction de leur clan, 2750 hommes."
+      }
+    },
+    {
+      "verse": 37,
+      "texts": {
+        "BDS": "Tel fut le contingent des familles des Qehatites qui avaient tous un service à effectuer dans la tente de la Rencontre. Moïse et Aaron en firent le recensement comme l’Eternel l’avait ordonné à Moïse.",
+        "DBY": "Ce sont là les dénombrés des familles des Kehathites, tous ceux qui servaient dans la tente d'assignation, que Moïse et Aaron dénombrèrent selon le commandement de l'Éternel par Moïse.",
+        "KJV": "These [were] they that were numbered of the families of the Kohathites, all that might do service in the tabernacle of the congregation, which Moses and Aaron did number according to the commandment of the LORD by the hand of Moses.",
+        "LSG": "Tels sont ceux des familles des Kehathites dont on fit le dénombrement, tous ceux qui exerçaient des fonctions dans la tente d'assignation; Moïse et Aaron en firent le dénombrement sur l'ordre de l'Eternel par Moïse.",
+        "MAB": "Ce sont là les dénombrés des familles des Kéhathites, tous servant au Tabernacle d'assignation, lesquels Moïse et Aaron dénombrèrent semon le commandement que l'Eternel en avait fait par le moyen de Moïse.",
+        "OST": "Tels sont ceux des familles des Kéhathites dont on fit le dénombrement, tous ceux qui servaient dans le tabernacle d'assignation, que Moïse et Aaron passèrent en revue sur l'ordre que l'Éternel en avait donné par l'organe de Moïse.",
+        "S21": "Voilà l’effectif des clans des Kehathites, tous ceux qui exerçaient des fonctions dans la tente de la rencontre. Moïse et Aaron firent leur dénombrement conformément à l’ordre que l'Eternel avait donné par l’intermédiaire de Moïse."
+      }
+    },
+    {
+      "verse": 38,
+      "texts": {
+        "BDS": "Les descendants de Guerchôn recensés de la même manière étaient au nombre de 2 630;",
+        "DBY": "Et ceux qui furent dénombrés d'entre les fils de Guershon, selon leurs familles, et selon leurs maisons de pères,",
+        "KJV": "And those that were numbered of the sons of Gershon, throughout their families, and by the house of their fathers,",
+        "LSG": "Les fils de Guerschon dont on fit le dénombrement, selon leurs familles et selon les maisons de leurs pères,",
+        "MAB": "Or quant aux dénombrés des enfants de Guerson selon leurs familles, et selon les maisons de leurs pères,",
+        "OST": "Quant aux enfants de Guershon qui furent dénombrés, selon leurs familles et selon les maisons de leurs pères,",
+        "S21": "On dénombra les descendants de Guershon en fonction de leur clan, de leur famille,"
+      }
+    },
+    {
+      "verse": 39,
+      "texts": {
+        "BDS": "ceux des descendants de Merari: 3 200.",
+        "DBY": "depuis l'âge de trente ans et au-dessus, jusqu'à l'âge de cinquante ans, tous ceux qui entraient en service pour servir à la tente d'assignation:",
+        "KJV": "From thirty years old and upward even unto fifty years old, every one that entereth into the service, for the work in the tabernacle of the congregation,",
+        "LSG": "depuis l'âge de trente ans et au-dessus jusqu'à l'âge de cinquante ans, tous ceux qui étaient propres à exercer quelque fonction dans la tente d'assignation,",
+        "MAB": "Depuis l'âge de trente ans, et au dessus, jusqu'à l'âge de cinquante ans, tous ceux qui entraient en rang pour servir au Tabernacle d'assignation,",
+        "OST": "Depuis l'âge de trente ans et au-dessus, jusqu'à l'âge de cinquante ans, tous ceux qui vinrent prendre rang pour servir au tabernacle d'assignation,",
+        "S21": "les hommes âgés de 30 à 50 ans, tous ceux qui étaient aptes à exercer une fonction dans la tente de la rencontre."
+      }
+    },
+    {
+      "verse": 40,
+      "texts": {
+        "BDS": "Le nombre total des lévites recensés par Moïse, Aaron et les chefs d’Israël, par familles et par groupes familiaux,",
+        "DBY": "leurs dénombrés, selon leurs familles, selon leurs maisons de pères, furent deux mille six cent trente.",
+        "KJV": "Even those that were numbered of them, throughout their families, by the house of their fathers, were two thousand and six hundred and thirty.",
+        "LSG": "ceux dont on fit le dénombrement, selon leurs familles, selon les maisons de leurs pères, furent deux mille six cent trente.",
+        "MAB": "Ceux, [dis-je], qui en furent dénombrés selon leurs familles, et selon les maisons de leurs pères, étaient deux mille six cent trente.",
+        "OST": "Ceux qui furent dénombrés, selon leurs familles, selon les maisons de leurs pères, étaient deux mille six cent trente.",
+        "S21": "On dénombra ainsi en fonction de leur clan, de leur famille, 2630 hommes."
+      }
+    },
+    {
+      "verse": 41,
+      "texts": {
+        "BDS": "âgés de trente à cinquante ans, et qui devaient être recrutés pour accomplir leur tâche dans la tente de la Rencontre,",
+        "DBY": "Ce sont là les dénombrés des familles des fils de Guershon, tous ceux qui servaient à la tente d'assignation, que Moïse et Aaron dénombrèrent selon le commandement de l'Éternel.",
+        "KJV": "These [are] they that were numbered of the families of the sons of Gershon, of all that might do service in the tabernacle of the congregation, whom Moses and Aaron did number according to the commandment of the LORD.",
+        "LSG": "Tels sont ceux des familles des fils de Guerschon dont on fit le dénombrement, tous ceux qui exerçaient des fonctions dans la tente d'assignation; Moïse et Aaron en firent le dénombrement sur l'ordre de l'Eternel.",
+        "MAB": "Ce sont là les dénombrés des familles des enfants de Guerson, tous servant au Tabernacle d'assignation, lesquels Moïse et Aaron dénombrèrent selon le commandement de l'Eternel.",
+        "OST": "Tels sont ceux des familles des enfants de Guershon qui furent dénombrés, tous ceux qui servaient dans le tabernacle d'assignation, que Moïse et Aaron dénombrèrent, sur l'ordre de l'Éternel.",
+        "S21": "Voilà l’effectif des clans issus de Guershon, tous ceux qui exerçaient des fonctions dans la tente de la rencontre. Moïse et Aaron firent leur dénombrement conformément à l'ordre de l'Eternel."
+      }
+    },
+    {
+      "verse": 42,
+      "texts": {
+        "BDS": "était de 8 580.",
+        "DBY": "Et ceux qui furent dénombrés d'entre les familles des fils de Merari, selon leurs familles, selon leurs maisons de pères,",
+        "KJV": "And those that were numbered of the families of the sons of Merari, throughout their families, by the house of their fathers,",
+        "LSG": "Ceux des familles des fils de Merari dont on fit le dénombrement, selon leurs familles, selon les maisons de leurs pères,",
+        "MAB": "Et quant aux dénombrés des familles des enfants de Mérari, selon leurs familles, [et] selon les maisons de leurs pères,",
+        "OST": "Quant à ceux des familles des enfants de Mérari, qui furent dénombrés, selon leurs familles, selon les maisons de leurs pères,",
+        "S21": "On dénombra les descendants de Merari en fonction de leur clan, de leur famille,"
+      }
+    },
+    {
+      "verse": 43,
+      "texts": {
+        "BDS": "Sur l’ordre de l’Eternel, Moïse assigna à chacun le service qu’il devait accomplir et ce qu’il devait transporter, comme l’Eternel le lui avait ordonné.",
+        "DBY": "depuis l'âge de trente ans et au-dessus, jusqu'à l'âge de cinquante ans, tous ceux qui entraient en service pour servir à la tente d'assignation:",
+        "KJV": "From thirty years old and upward even unto fifty years old, every one that entereth into the service, for the work in the tabernacle of the congregation,",
+        "LSG": "depuis l'âge de trente ans et au-dessus jusqu'à l'âge de cinquante ans, tous ceux qui étaient propres à exercer quelque fonction dans la tente d'assignation,",
+        "MAB": "Depuis l'âge de trente ans, et au dessus, jusqu'à l'âge de cinquante ans, tous ceux qui entraient en rang, pour servir au Tabernacle d'assignation;",
+        "OST": "Depuis l'âge de trente ans et au-dessus, jusqu'à l'âge de cinquante ans, tous ceux qui venaient prendre rang pour faire le service dans le tabernacle d'assignation,",
+        "S21": "les hommes âgés de 30 à 50 ans, tous ceux qui étaient aptes à exercer une fonction dans la tente de la rencontre."
+      }
+    },
+    {
+      "verse": 44,
+      "texts": {
+        "DBY": "leurs dénombrés, selon leurs familles, furent trois mille deux cents.",
+        "KJV": "Even those that were numbered of them after their families, were three thousand and two hundred.",
+        "LSG": "ceux dont on fit le dénombrement, selon leurs familles, furent trois mille deux cents.",
+        "MAB": "Ceux, [dis-je], qui en furent dénombrés selon leurs familles, étaient trois mille deux cents.",
+        "OST": "Ceux qui furent dénombrés, selon leurs familles, étaient trois mille deux cents.",
+        "S21": "On dénombra ainsi en fonction de leur clan 3200 hommes."
+      }
+    },
+    {
+      "verse": 45,
+      "texts": {
+        "DBY": "Ce sont là les dénombrés des familles des fils de Merari, que Moïse et Aaron dénombrèrent selon le commandement de l'Éternel par Moïse.",
+        "KJV": "These [be] those that were numbered of the families of the sons of Merari, whom Moses and Aaron numbered according to the word of the LORD by the hand of Moses.",
+        "LSG": "Tels sont ceux des familles des fils de Merari dont on fit le dénombrement; Moïse et Aaron en firent le dénombrement sur l'ordre de l'Eternel par Moïse.",
+        "MAB": "Ce sont là les dénombrés des familles des enfants de Mérari, que Moïse et Aaron dénombrèrent selon le commandement que l'Eternel en avait fait par le moyen de Moïse.",
+        "OST": "Tels sont ceux des familles des enfants de Mérari, que Moïse et Aaron dénombrèrent sur l'ordre que l'Éternel en avait donné par l'organe de Moïse.",
+        "S21": "Voilà l’effectif des clans issus de Merari. Moïse et Aaron firent leur dénombrement conformément à l’ordre que l'Eternel avait donné par l’intermédiaire de Moïse."
+      }
+    },
+    {
+      "verse": 46,
+      "texts": {
+        "DBY": "Tous ceux qui furent dénombrés, que Moïse et Aaron et les princes d'Israël dénombrèrent, savoir les Lévites, selon leurs familles et selon leurs maisons de pères,",
+        "KJV": "All those that were numbered of the Levites, whom Moses and Aaron and the chief of Israel numbered, after their families, and after the house of their fathers,",
+        "LSG": "Tous ceux des Lévites dont Moïse, Aaron et les princes d'Israël firent le dénombrement, selon leurs familles et selon les maisons de leurs pères,",
+        "MAB": "Ainsi tous ces dénombrés, que Moïse et Aaron et les principaux d'Israël dénombrèrent d'entre les Lévites, selon leurs familles, et selon les maisons de leurs pères;",
+        "OST": "Tous ceux que Moïse et Aaron et les principaux d'Israël dénombrèrent d'entre les Lévites, selon leurs familles, et selon les maisons de leurs pères,",
+        "S21": "Moïse, Aaron et les princes d'Israël dénombrèrent les Lévites en fonction de leur clan, de leur famille,"
+      }
+    },
+    {
+      "verse": 47,
+      "texts": {
+        "DBY": "depuis l'âge de trente ans et au-dessus, jusqu'à l'âge de cinquante ans, tous ceux qui entraient pour s'employer à l'œuvre du service et à l'œuvre du portage, à la tente d'assignation,",
+        "KJV": "From thirty years old and upward even unto fifty years old, every one that came to do the service of the ministry, and the service of the burden in the tabernacle of the congregation,",
+        "LSG": "depuis l'âge de trente ans et au-dessus jusqu'à l'âge de cinquante ans, tous ceux qui étaient propres à exercer quelque fonction et à servir de porteurs dans la tente d'assignation,",
+        "MAB": "Depuis l'âge de trente ans, et au dessus, jusqu'à l'âge de cinquante ans, tous ceux qui entraient en service pour s'employer en ce à quoi il fallait servir, et à ce qu'il fallait porter du Tabernacle d'assignation.",
+        "OST": "Depuis l'âge de trente ans et au-dessus, jusqu'à l'âge de cinquante ans; tous ceux qui entraient pour remplir l'office de serviteurs et l'office de porteurs dans le tabernacle d'assignation,",
+        "S21": "tous les hommes âgés de 30 à 50 ans qui étaient aptes à exercer une fonction et à servir de porteurs dans la tente de la rencontre."
+      }
+    },
+    {
+      "verse": 48,
+      "texts": {
+        "DBY": "-les dénombrés, furent huit mille cinq cent quatre-vingt.",
+        "KJV": "Even those that were numbered of them, were eight thousand and five hundred and fourscore.",
+        "LSG": "tous ceux dont on fit le dénombrement furent huit mille cinq cent quatre-vingts.",
+        "MAB": "Tous ceux, [dis-je], qui en furent dénombrés, étaient huit mille cinq cent quatre-vingts.",
+        "OST": "Tous ceux qui furent dénombrés étaient huit mille cinq cent quatre-vingts.",
+        "S21": "On dénombra au total 8580 hommes."
+      }
+    },
+    {
+      "verse": 49,
+      "texts": {
+        "DBY": "On les dénombra selon le commandement de l'Éternel par Moïse, chacun selon son service et selon son fardeau; et ils furent dénombrés par lui, comme l'Éternel l'avait commandé à Moïse.",
+        "KJV": "According to the commandment of the LORD they were numbered by the hand of Moses, every one according to his service, and according to his burden: thus were they numbered of him, as the LORD commanded Moses.",
+        "LSG": "On en fit le dénombrement sur l'ordre de l'Eternel par Moïse, en indiquant à chacun le service qu'il devait faire et ce qu'il devait porter; on en fit le dénombrement selon l'ordre que l'Eternel avait donné à Moïse.",
+        "MAB": "On les dénombra selon le commandement que l'Eternel en avait fait par le moyen de Moïse, chacun selon ce en quoi il avait à servir, et ce qu'il avait à porter, et la charge de chacun fut telle que l'Eternel l'avait commandé à Moïse.",
+        "OST": "On en fit le dénombrement selon l'ordre que l'Éternel en avait donné par l'organe de Moïse, chacun pour son service et pour ce qu'il avait à porter; on en fit le dénombrement selon ce que l'Éternel avait commandé à Moïse.",
+        "S21": "On fit leur dénombrement conformément à l’ordre que l'Eternel avait donné par l’intermédiaire de Moïse, en indiquant à chacun le service qu'il devait effectuer et ce qu'il devait porter. On fit leur dénombrement conformément à l'ordre que l'Eternel avait donné à Moïse."
+      }
+    }
+  ]
+}

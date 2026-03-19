@@ -1,4 +1,12 @@
 import { prisma } from '~~/lib/prisma';
+import {
+    buildBookPayload,
+    buildVersePreview,
+    getBibleBookByCode,
+    getBibleBookByOrderIndex,
+    getBibleVersionByCode,
+    getBibleVersionByOrderIndex
+} from '~~/server/utils/bibleData';
 
 export default defineEventHandler(async (event) => {
     try {
@@ -13,10 +21,7 @@ export default defineEventHandler(async (event) => {
         }
 
         const preferences = await prisma.userPreference.findUnique({
-            where: { userId: userSession.id },
-            include: {
-                defaultVersion: true
-            }
+            where: { userId: userSession.id }
         });
 
         const userId = userSession.id;
@@ -33,30 +38,25 @@ export default defineEventHandler(async (event) => {
 
         // Filtrer par livre si spécifié
         if (bookCode) {
-            const book = await prisma.bibleBook.findUnique({
-                where: { code: bookCode.toUpperCase() }
-            });
+            const book = await getBibleBookByCode(bookCode);
             if (book) {
-                whereClause.bookId = book.id;
+                whereClause.bookOrderIndex = book.orderIndex;
             }
 
             // Filtrer par chapitre si spécifié
             if (query.chapter) {
-                whereClause.verse = {
-                    chapter: parseInt(query.chapter as string)
-                };
+                whereClause.chapter = parseInt(query.chapter as string);
             }
 
             if (preferences?.notesPerVersion) {
-                const versionCode = (query.version as string | undefined)?.toUpperCase() || (preferences?.defaultVersion?.code || 'LSG');
-                const version = await prisma.bibleVersion.findUnique({
-                    where: { code: versionCode }
-                });
+                const versionCode = (query.version as string | undefined)?.toUpperCase();
+                const version = versionCode
+                    ? await getBibleVersionByCode(versionCode)
+                    : preferences?.defaultVersionOrderIndex
+                        ? await getBibleVersionByOrderIndex(preferences.defaultVersionOrderIndex)
+                        : await getBibleVersionByCode('LSG');
                 if (version) {
-                    whereClause.verse = {
-                        ...whereClause.verse,
-                        versionId: version.id
-                    };
+                    whereClause.versionOrderIndex = version.orderIndex;
                 }
             }
         }
@@ -69,14 +69,6 @@ export default defineEventHandler(async (event) => {
         const [notes, total] = await Promise.all([
             prisma.bibleNote.findMany({
                 where: whereClause,
-                include: {
-                    book: true,
-                    verse: {
-                        include: {
-                            version: true
-                        }
-                    }
-                },
                 orderBy: {
                     updatedAt: 'desc'
                 },
@@ -86,10 +78,40 @@ export default defineEventHandler(async (event) => {
             prisma.bibleNote.count({ where: whereClause })
         ]);
 
+        const formattedNotes = await Promise.all(notes.map(async (note) => {
+            const [book, version] = await Promise.all([
+                getBibleBookByOrderIndex(note.bookOrderIndex),
+                getBibleVersionByOrderIndex(note.versionOrderIndex)
+            ]);
+
+            if (!book || !version) {
+                return null;
+            }
+
+            return {
+                id: note.id,
+                title: note.title,
+                content: note.content,
+                isPrivate: note.isPrivate,
+                createdAt: note.createdAt,
+                updatedAt: note.updatedAt,
+                book: buildBookPayload(book),
+                verse: await buildVersePreview({
+                    bookCode: book.code,
+                    chapter: note.chapter,
+                    verse: note.verse,
+                    versionCode: version.code,
+                    versionName: version.name
+                })
+            };
+        }));
+
+        const filteredNotes = formattedNotes.filter(note => note !== null);
+
         return {
             success: true,
             data: {
-                notes,
+                notes: filteredNotes,
                 pagination: {
                     total,
                     limit,
@@ -97,7 +119,7 @@ export default defineEventHandler(async (event) => {
                     hasMore: offset + limit < total
                 }
             },
-            count: notes.length
+            count: filteredNotes.length
         };
     } catch {
         throw createError({

@@ -1,0 +1,402 @@
+{
+  "bookCode": "LEV",
+  "chapter": 15,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "L’Eternel s’adressa à Moïse et à Aaron en ces termes:",
+        "DBY": "Et l'Éternel parla à Moïse et à Aaron, disant:",
+        "KJV": "And the LORD spake unto Moses and to Aaron, saying,",
+        "LSG": "L'Eternel parla à Moïse et à Aaron, et dit:",
+        "MAB": "L'Eternel parla aussi à Moïse et à Aaron, en disant :",
+        "OST": "L'Éternel parla aussi à Moïse et à Aaron, en disant:",
+        "S21": "L'Eternel dit à Moïse et à Aaron:"
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "—Parlez aux Israélites et dites-leur: Si un homme est atteint d’une gonorrhée, l’écoulement qu’elle provoque le rend impur —",
+        "DBY": "Parlez aux fils d'Israël, et dites-leur: Tout homme qui a un flux découlant de sa chair, -son flux le rend impur.",
+        "KJV": "Speak unto the children of Israel, and say unto them, When any man hath a running issue out of his flesh, [because of] his issue he [is] unclean.",
+        "LSG": "Parlez aux enfants d'Israël, et dites-leur: Tout homme qui a une gonorrhée est par là même impur.",
+        "MAB": "Parlez aux enfants d'Israël, et leur dîtes : Tout homme à qui la chair découle, sera souillé à cause de son flux.",
+        "OST": "Parlez aux enfants d'Israël, et dites-leur: Tout homme qui a un flux en sa chair, son flux le rend souillé.",
+        "S21": "«Transmettez ces instructions aux Israélites: Tout homme qui a une blennorragie est par là même impur."
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "qu’il y ait écoulement ou obstruction des organes — il y a impureté.",
+        "DBY": "Et ceci sera son impureté, dans son flux: soit que sa chair laisse couler son flux, ou que sa chair retienne son flux, c'est son impureté.",
+        "KJV": "And this shall be his uncleanness in his issue: whether his flesh run with his issue, or his flesh be stopped from his issue, it [is] his uncleanness.",
+        "LSG": "C'est à cause de sa gonorrhée qu'il est impur: que sa chair laisse couler son flux, ou qu'elle le retienne, il est impur.",
+        "MAB": "Et telle sera la souillure de son flux; quand sa chair laissera aller son flux, ou que sa chair retiendra son flux, c'est sa souillure.",
+        "OST": "C'est dans son flux que consiste sa souillure: que sa chair laisse couler son flux ou qu'elle le retienne, il est souillé.",
+        "S21": "Il est impur à cause de sa blennorragie. Que son corps laisse couler l’écoulement ou le retienne, il est impur."
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "Tout lit sur lequel cet homme couchera et tout meuble sur lequel il s’assiéra seront impurs.",
+        "DBY": "Tout lit sur lequel aura couché celui qui est atteint d'un flux sera impur; et tout objet sur lequel il se sera assis sera impur.",
+        "KJV": "Every bed, whereon he lieth that hath the issue, is unclean: and every thing, whereon he sitteth, shall be unclean.",
+        "LSG": "Tout lit sur lequel il couchera sera impur, et tout objet sur lequel il s'assiéra sera impur.",
+        "MAB": "Tout lit sur lequel aura couché celui qui découle, sera souillé; et toute chose sur laquelle il se sera assis, sera souillée.",
+        "OST": "Tout lit sur lequel couchera celui qui est atteint d'un flux sera souillé, et tout objet sur lequel il s'assiéra sera souillé.",
+        "S21": "Tout lit sur lequel il couchera sera impur et tout objet sur lequel il s'assiéra sera impur."
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "Celui qui touchera son lit lavera ses vêtements, se baignera dans l’eau et sera impur jusqu’au soir.",
+        "DBY": "Et l'homme qui aura touché son lit lavera ses vêtements, et se lavera dans l'eau; et il sera impur jusqu'au soir.",
+        "KJV": "And whosoever toucheth his bed shall wash his clothes, and bathe [himself] in water, and be unclean until the even.",
+        "LSG": "Celui qui touchera son lit lavera ses vêtements, se lavera dans l'eau, et sera impur jusqu'au soir.",
+        "MAB": "Quiconque aussi touchera son lit lavera ses vêtements, et se lavera avec de l'eau; et il sera souillé jusqu'au soir.",
+        "OST": "Celui qui touchera son lit, lavera ses vêtements, se lavera dans l'eau, et sera souillé jusqu'au soir.",
+        "S21": "Si quelqu’un touche son lit, il lavera ses vêtements, se lavera dans l'eau et sera impur jusqu'au soir."
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "Celui qui s’assiéra sur le siège utilisé par cet homme lavera ses vêtements, se baignera dans l’eau et sera impur jusqu’au soir.",
+        "DBY": "Et celui qui s'assiéra sur un objet sur lequel celui qui a le flux se sera assis, lavera ses vêtements, et se lavera dans l'eau; et il sera impur jusqu'au soir.",
+        "KJV": "And he that sitteth on [any] thing whereon he sat that hath the issue shall wash his clothes, and bathe [himself] in water, and be unclean until the even.",
+        "LSG": "Celui qui s'assiéra sur l'objet sur lequel il s'est assis lavera ses vêtements, se lavera dans l'eau, et sera impur jusqu'au soir.",
+        "MAB": "Et qui s'assiéra sur quelque chose sur laquelle celui qui découle se soit assis, lavera ses vêtements, et se lavera dans l'eau; et il sera souillé jusqu'au soir.",
+        "OST": "Celui qui s'assiéra sur l'objet sur lequel celui qui est atteint d'un flux se sera assis, lavera ses vêtements, se lavera dans l'eau, et sera souillé jusqu'au soir.",
+        "S21": "Si quelqu’un s’assied sur l'objet sur lequel lui-même s'est assis, il lavera ses vêtements, se lavera dans l'eau et sera impur jusqu'au soir."
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "Celui qui touchera le malade lavera ses vêtements, se baignera et sera impur jusqu’au soir.",
+        "DBY": "Et celui qui touchera la chair de celui qui a le flux, lavera ses vêtements, et se lavera dans l'eau; et il sera impur jusqu'au soir.",
+        "KJV": "And he that toucheth the flesh of him that hath the issue shall wash his clothes, and bathe [himself] in water, and be unclean until the even.",
+        "LSG": "Celui qui touchera sa chair lavera ses vêtements, se lavera dans l'eau, et sera impur jusqu'au soir.",
+        "MAB": "Et celui qui touchera la chair de celui qui découle, lavera ses vêtements, et se lavera dans l'eau; et il sera souillé jusqu'au soir.",
+        "OST": "Celui qui touchera la chair d'un homme atteint d'un flux, lavera ses vêtements, se lavera dans l'eau, et sera souillé jusqu'au soir.",
+        "S21": "Si quelqu’un touche son corps, il lavera ses vêtements, se lavera dans l'eau et sera impur jusqu'au soir."
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "Si le malade crache sur quelqu’un qui est pur, ce dernier lavera ses vêtements, se baignera et sera impur jusqu’au soir.",
+        "DBY": "Et si celui qui a le flux crache sur un homme qui est pur, celui-ci lavera ses vêtements, et se lavera dans l'eau; et il sera impur jusqu'au soir.",
+        "KJV": "And if he that hath the issue spit upon him that is clean; then he shall wash his clothes, and bathe [himself] in water, and be unclean until the even.",
+        "LSG": "S'il crache sur un homme pur, cet homme lavera ses vêtements, se lavera dans l'eau, et sera impur jusqu'au soir.",
+        "MAB": "Et si celui qui découle crache sur celui qui est net, celui qui était net lavera ses vêtements, et se lavera dans l'eau; et il sera souillé jusqu'au soir.",
+        "OST": "Et si l'homme atteint d'un flux crache sur celui qui est pur, celui-ci lavera ses vêtements, se lavera dans l'eau, et sera souillé jusqu'au soir.",
+        "S21": "S'il crache sur un homme pur, cet homme lavera ses vêtements, se lavera dans l'eau et sera impur jusqu'au soir."
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "Toute selle sur laquelle aura voyagé le malade sera impure.",
+        "DBY": "Tout char sur lequel sera monté celui qui a le flux sera impur.",
+        "KJV": "And what saddle soever he rideth upon that hath the issue shall be unclean.",
+        "LSG": "Toute monture sur laquelle il s'assiéra sera impure.",
+        "MAB": "Toute monture aussi que celui qui découle aura montée, sera souillée.",
+        "OST": "Et tout char sur lequel celui qui est atteint d'un flux aura monté sera souillé.",
+        "S21": "Toute selle sur laquelle il voyagera sera impure."
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "Quiconque touchera à un objet quelconque placé sous lui sera impur jusqu’au soir; et quiconque prendra un tel objet lavera ses vêtements, se baignera et sera impur jusqu’au soir.",
+        "DBY": "Et quiconque touchera quelque chose qui aura été sous lui, sera impur jusqu'au soir; et celui qui portera une de ces choses lavera ses vêtements, et se lavera dans l'eau; et il sera impur jusqu'au soir.",
+        "KJV": "And whosoever toucheth any thing that was under him shall be unclean until the even: and he that beareth [any of] those things shall wash his clothes, and bathe [himself] in water, and be unclean until the even.",
+        "LSG": "Celui qui touchera une chose quelconque qui a été sous lui sera impur jusqu'au soir; et celui qui la portera lavera ses vêtements, se lavera dans l'eau, et sera impur jusqu'au soir.",
+        "MAB": "Quiconque touchera quelque chose qui aura été sous lui, sera souillé jusqu'au soir; et quiconque portera de telle chose lavera ses vêtements, et se lavera dans l'eau; et il sera souillé jusqu'au soir.",
+        "OST": "Quiconque touchera quoi que ce soit qui aura été sous lui, sera souillé jusqu'au soir. Et qui portera ces choses lavera ses vêtements, se lavera dans l'eau, et sera souillé jusqu'au soir.",
+        "S21": "Si quelqu’un touche un objet qui a été sous lui, il sera impur jusqu'au soir et, si quelqu’un porte un tel objet, il lavera ses vêtements, se lavera dans l'eau et sera impur jusqu'au soir."
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "Celui que le malade aura touché, sans s’être rincé les mains à l’eau, lavera ses vêtements, se baignera et restera impur jusqu’au soir.",
+        "DBY": "Et quiconque aura été touché par celui qui a le flux et qui n'aura pas lavé ses mains dans l'eau, lavera ses vêtements, et se lavera dans l'eau; et il sera impur jusqu'au soir.",
+        "KJV": "And whomsoever he toucheth that hath the issue, and hath not rinsed his hands in water, he shall wash his clothes, and bathe [himself] in water, and be unclean until the even.",
+        "LSG": "Celui qui sera touché par lui, et qui ne se sera pas lavé les mains dans l'eau, lavera ses vêtements, se lavera dans l'eau, et sera impur jusqu'au soir.",
+        "MAB": "Quiconque aura été touché par celui qui découle, sans qu'il ait lavé ses mains dans l'eau, lavera ses vêtements; et il se lavera dans l'eau; et il sera souillé jusqu'au soir.",
+        "OST": "Quiconque sera touché par celui qui est atteint d'un flux, et qui ne se sera pas lavé les mains dans l'eau, lavera ses vêtements, se lavera dans l'eau, et sera souillé jusqu'au soir.",
+        "S21": "S’il touche quelqu’un sans s’être lavé les mains dans l'eau, cette personne lavera ses vêtements, se lavera dans l'eau et sera impure jusqu'au soir."
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "Tout récipient de terre cuite que le malade aura touché sera brisé et tout objet en bois sera lavé à l’eau.",
+        "DBY": "Et les vases de terre que celui qui a le flux aura touchés seront cassés; et tout vase de bois sera lavé dans l'eau.",
+        "KJV": "And the vessel of earth, that he toucheth which hath the issue, shall be broken: and every vessel of wood shall be rinsed in water.",
+        "LSG": "Tout vase de terre qui sera touché par lui sera brisé, et tout vase de bois sera lavé dans l'eau.",
+        "MAB": "Et le vaisseau de terre que celui qui découle aura touché, sera cassé; mais tout vaisseau de bois sera lavé dans l'eau.",
+        "OST": "Le vase de terre que celui qui est atteint d'un flux touchera sera brisé, et tout vase de bois sera lavé dans l'eau.",
+        "S21": "Tout vase de terre qu’il touchera sera brisé et tout vase de bois sera lavé dans l'eau."
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "Quand le malade sera guéri de sa gonorrhée, il comptera sept jours comme temps de purification, puis il lavera ses vêtements, se baignera dans de l’eau de source, et il sera pur.",
+        "DBY": "Et lorsque celui qui a le flux sera purifié de son flux, il comptera sept jours pour sa purification; puis il lavera ses vêtements, et il lavera sa chair dans l'eau vive; et il sera pur.",
+        "KJV": "And when he that hath an issue is cleansed of his issue; then he shall number to himself seven days for his cleansing, and wash his clothes, and bathe his flesh in running water, and shall be clean.",
+        "LSG": "Lorsqu'il sera purifié de son flux, il comptera sept jours pour sa purification; il lavera ses vêtements, il lavera sa chair avec de l'eau vive, et il sera pur.",
+        "MAB": "Or quand celui qui découle sera purifié de son flux, il comptera sept jours pour sa purification, il lavera ses vêtements, et sa chair avec de l'eau vive, et ainsi il sera net.",
+        "OST": "Or, quand celui qui est atteint d'un flux en sera purifié, il comptera sept jours pour sa purification; il lavera ses vêtements, lavera sa chair avec de l'eau vive, et il sera pur.",
+        "S21": "Lorsqu'il sera purifié de son écoulement, il comptera encore 7 jours pour sa purification, puis il lavera ses vêtements, lavera son corps avec de l'eau vive et il sera pur."
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "Le huitième jour, il prendra deux tourterelles ou deux pigeonneaux, il se présentera devant l’Eternel, à l’entrée de la tente de la Rencontre, et donnera les oiseaux au prêtre.",
+        "DBY": "Et le huitième jour, il prendra deux tourterelles, ou deux jeunes pigeons, et il viendra devant l'Éternel, à l'entrée de la tente d'assignation, et les donnera au sacrificateur;",
+        "KJV": "And on the eighth day he shall take to him two turtledoves, or two young pigeons, and come before the LORD unto the door of the tabernacle of the congregation, and give them unto the priest:",
+        "LSG": "Le huitième jour, il prendra deux tourterelles ou deux jeunes pigeons, il ira devant l'Eternel, à l'entrée de la tente d'assignation, et il les donnera au sacrificateur.",
+        "MAB": "Et au huitième jour il prendra pour soi deux tourterelles, ou deux pigeonneaux, et il viendra devant l'Eternel à l'entrée du Tabernacle d'assignation, et les donnera au Sacrificateur.",
+        "OST": "Et au huitième jour il prendra pour lui deux tourterelles ou deux pigeonneaux, et il viendra devant l'Éternel à l'entrée du tabernacle d'assignation, et il les donnera au sacrificateur.",
+        "S21": "Le huitième jour, il prendra deux tourterelles ou deux jeunes pigeons, ira devant l'Eternel à l'entrée de la tente de la rencontre et les donnera au prêtre."
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "Celui-ci les offrira, l’un comme sacrifice pour le péché, l’autre comme holocauste. Il accomplira ainsi pour lui le rite d’expiation de son écoulement devant l’Eternel.",
+        "DBY": "et le sacrificateur les offrira, l'un en sacrifice pour le péché, et l'autre en holocauste; et le sacrificateur fera propitiation pour lui devant l'Éternel, à cause de son flux.",
+        "KJV": "And the priest shall offer them, the one [for] a sin offering, and the other [for] a burnt offering; and the priest shall make an atonement for him before the LORD for his issue.",
+        "LSG": "Le sacrificateur les offrira, l'un en sacrifice d'expiation, et l'autre en holocauste; et le sacrificateur fera pour lui l'expiation devant l'Eternel, à cause de son flux.",
+        "MAB": "Et le Sacrificateur les sacrifiera, l'un [en offrande pour] le péché, et l'autre en holocauste; ainsi le Sacrificateur fera propitiation pour lui devant l'Eternel à cause de son flux.",
+        "OST": "Et le sacrificateur les offrira, l'un en sacrifice pour le péché, et l'autre en holocauste; et le sacrificateur fera l'expiation pour lui devant l'Éternel, à cause de son flux.",
+        "S21": "Le prêtre les offrira, l'un en sacrifice d'expiation et l'autre en holocauste. Il fera l'expiation pour lui devant l'Eternel à cause de son écoulement."
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "Lorsqu’il arrivera à un homme d’avoir un épanchement séminal, il baignera tout son corps dans l’eau et sera impur jusqu’au soir.",
+        "DBY": "Et lorsque la semence sort d'un homme, il lavera dans l'eau toute sa chair; et il sera impur jusqu'au soir.",
+        "KJV": "And if any man's seed of copulation go out from him, then he shall wash all his flesh in water, and be unclean until the even.",
+        "LSG": "L'homme qui aura une pollution lavera tout son corps dans l'eau, et sera impur jusqu'au soir.",
+        "MAB": "L'homme aussi duquel sera sortie de la semence, lavera dans l'eau toute sa chair, et il sera souillé jusqu'au soir.",
+        "OST": "L'homme qui aura une pollution lavera dans l'eau toute sa chair, et sera souillé jusqu'au soir.",
+        "S21": "»L'homme qui aura une éjaculation lavera tout son corps dans l'eau et sera impur jusqu'au soir."
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "Tout vêtement ou cuir qui en aura été atteint sera lavé dans l’eau et restera impur jusqu’au soir.",
+        "DBY": "Et tout vêtement ou toute peau sur lesquels il y aura de la semence, sera lavé dans l'eau, et sera impur jusqu'au soir.",
+        "KJV": "And every garment, and every skin, whereon is the seed of copulation, shall be washed with water, and be unclean until the even.",
+        "LSG": "Tout vêtement et toute peau qui en seront atteints seront lavés dans l'eau, et seront impurs jusqu'au soir.",
+        "MAB": "Et tout habit, ou toute peau sur laquelle il y aura de la semence, sera lavée dans l'eau, et sera souillée jusqu'au soir.",
+        "OST": "Et tout vêtement, et toute peau, qui en seront atteints, seront lavés dans l'eau, et seront souillés jusqu'au soir.",
+        "S21": "On lavera dans l’eau tout vêtement et tout cuir touchés par le sperme, et ils seront impurs jusqu'au soir."
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "Quand un homme et une femme ont eu des relations sexuelles, ils se baigneront tous deux dans l’eau et seront impurs jusqu’au soir.",
+        "DBY": "Et une femme avec laquelle un homme aura couché ayant commerce avec elle;.. ils se laveront dans l'eau, et seront impurs jusqu'au soir.",
+        "KJV": "The woman also with whom man shall lie [with] seed of copulation, they shall [both] bathe [themselves] in water, and be unclean until the even.",
+        "LSG": "Si une femme a couché avec un tel homme, ils se laveront l'un et l'autre, et seront impurs jusqu'au soir.",
+        "MAB": "Même la femme dont un tel homme aura la compagnie, se lavera dans l'eau [avec son mari], et ils seront souillés jusqu'au soir.",
+        "OST": "Et quand une femme et un homme coucheront et auront commerce ensemble, ils se laveront dans l'eau, et seront souillés jusqu'au soir.",
+        "S21": "Si une femme a couché avec un tel homme, ils se laveront tous les deux et seront impurs jusqu'au soir."
+      }
+    },
+    {
+      "verse": 19,
+      "texts": {
+        "BDS": "—Quand une femme perd du sang parce qu’elle a ses règles, elle sera considérée pendant sept jours comme étant indisposée, quiconque la touchera sera impur jusqu’au soir.",
+        "DBY": "Et si une femme a un flux, et que son flux en sa chair soit du sang, elle sera dans sa séparation sept jours, et quiconque la touchera sera impur jusqu'au soir.",
+        "KJV": "And if a woman have an issue, [and] her issue in her flesh be blood, she shall be put apart seven days: and whosoever toucheth her shall be unclean until the even.",
+        "LSG": "La femme qui aura un flux, un flux de sang en sa chair, restera sept jours dans son impureté. Quiconque la touchera sera impur jusqu'au soir.",
+        "MAB": "Et quand la femme sera découlante, ayant son flux de sang en sa chair, elle sera séparée sept jours; [et] quiconque la touchera sera souillé jusqu'au soir.",
+        "OST": "Et quand une femme aura un flux, un flux de sang en sa chair, elle sera dans son impureté pendant sept jours; quiconque la touchera sera souillé jusqu'au soir.",
+        "S21": "»La femme qui aura un écoulement de sang restera 7 jours dans la souillure de ses règles. Si quelqu’un la touche, il sera impur jusqu'au soir."
+      }
+    },
+    {
+      "verse": 20,
+      "texts": {
+        "BDS": "Tout lit sur lequel elle s’étendra pendant ce temps sera impur, ainsi que tout objet sur lequel elle s’assiéra.",
+        "DBY": "Et toute chose sur laquelle elle aura couché durant sa séparation sera impure; et toute chose sur laquelle elle aura été assise sera impure;",
+        "KJV": "And every thing that she lieth upon in her separation shall be unclean: every thing also that she sitteth upon shall be unclean.",
+        "LSG": "Tout lit sur lequel elle couchera pendant son impureté sera impur, et tout objet sur lequel elle s'assiéra sera impur.",
+        "MAB": "Toute chose sur laquelle elle aura couché, durant sa séparation, sera souillée; toute chose aussi sur laquelle elle aura été assise, sera souillée.",
+        "OST": "Tout objet sur lequel elle aura couché pendant son impureté sera souillé; et toute chose sur laquelle elle se sera assise sera souillée.",
+        "S21": "Tout lit sur lequel elle couchera pendant ses règles sera impur et tout objet sur lequel elle s'assiéra sera impur."
+      }
+    },
+    {
+      "verse": 21,
+      "texts": {
+        "BDS": "Quiconque touchera son lit lavera ses vêtements, se lavera à l’eau et sera impur jusqu’au soir.",
+        "DBY": "et quiconque touchera son lit lavera ses vêtements, et se lavera dans l'eau; et il sera impur jusqu'au soir.",
+        "KJV": "And whosoever toucheth her bed shall wash his clothes, and bathe [himself] in water, and be unclean until the even.",
+        "LSG": "Quiconque touchera son lit lavera ses vêtements, se lavera dans l'eau, et sera impur jusqu'au soir.",
+        "MAB": "Quiconque aussi touchera le lit de cette femme, lavera ses vêtements, et se lavera dans l'eau; et il sera souillé jusqu'au soir.",
+        "OST": "Quiconque touchera son lit lavera ses vêtements, se lavera dans l'eau, et sera souillé jusqu'au soir.",
+        "S21": "Si quelqu’un touche son lit, il lavera ses vêtements, se lavera dans l'eau et sera impur jusqu'au soir."
+      }
+    },
+    {
+      "verse": 22,
+      "texts": {
+        "BDS": "Celui qui touchera un meuble quelconque sur lequel elle se sera assise lavera ses vêtements, se lavera à l’eau et sera impur jusqu’au soir.",
+        "DBY": "Et quiconque touchera un objet, quel qu'il soit, sur lequel elle se sera assise, lavera ses vêtements, et se lavera dans l'eau; et il sera impur jusqu'au soir.",
+        "KJV": "And whosoever toucheth any thing that she sat upon shall wash his clothes, and bathe [himself] in water, and be unclean until the even.",
+        "LSG": "Quiconque touchera un objet sur lequel elle s'est assise lavera ses vêtements, se lavera dans l'eau, et sera impur jusqu'au soir.",
+        "MAB": "Et quiconque touchera quelque chose sur laquelle elle se sera assise, lavera ses vêtements, et se lavera dans l'eau; et il sera souillé jusqu'au soir.",
+        "OST": "Et quiconque touchera un objet quelconque sur lequel elle se sera assise lavera ses vêtements, se lavera dans l'eau, et sera souillé jusqu'au soir.",
+        "S21": "Si quelqu’un touche un objet sur lequel elle s'est assise, il lavera ses vêtements, se lavera dans l'eau et sera impur jusqu'au soir."
+      }
+    },
+    {
+      "verse": 23,
+      "texts": {
+        "BDS": "S’il y a un objet sur le lit ou sur le meuble qu’elle occupe, celui qui y touche sera impur jusqu’au soir.",
+        "DBY": "Et s'il y a quelque chose sur le lit, ou sur l'objet, quel qu'il soit, sur lequel elle se sera assise, quiconque l'aura touché sera impur jusqu'au soir.",
+        "KJV": "And if it [be] on [her] bed, or on any thing whereon she sitteth, when he toucheth it, he shall be unclean until the even.",
+        "LSG": "S'il y a quelque chose sur le lit ou sur l'objet sur lequel elle s'est assise, celui qui la touchera sera impur jusqu'au soir.",
+        "MAB": "Même si la chose [que quelqu'un aura touchée était] sur le lit, ou sur quelque chose sur laquelle elle était assise, quand quelqu'un aura touché cette chose-là; il sera souillé jusqu'au soir.",
+        "OST": "Et s'il y a quelque chose sur le lit ou sur l'objet sur lequel elle s'est assise, celui qui y touchera sera souillé jusqu'au soir.",
+        "S21": "S'il y a quelque chose sur le lit ou l'objet sur lequel elle s'est assise, celui qui y touchera sera impur jusqu'au soir."
+      }
+    },
+    {
+      "verse": 24,
+      "texts": {
+        "BDS": "Si un homme a des relations sexuelles avec elle, elle lui communique son état menstruel: il sera impur pendant sept jours, et tout lit sur lequel il couchera sera souillé.",
+        "DBY": "Et si un homme a couché avec elle, et que son impureté soit sur lui, il sera impur sept jours; et tout lit sur lequel il se couchera sera impur.",
+        "KJV": "And if any man lie with her at all, and her flowers be upon him, he shall be unclean seven days; and all the bed whereon he lieth shall be unclean.",
+        "LSG": "Si un homme couche avec elle et que l'impureté de cette femme vienne sur lui, il sera impur pendant sept jours, et tout lit sur lequel il couchera sera impur.",
+        "MAB": "Et si quelqu'un a habité avec elle tellement que ses fleurs soient sur lui, il sera souillé sept jours; et toute couche sur laquelle il dormira, sera souillée.",
+        "OST": "Si un homme couche avec elle, et que son impureté le touche, il sera souillé sept jours, et tout lit sur lequel il couchera sera souillé.",
+        "S21": "Si un homme couche avec elle, si la souillure des règles de cette femme vient sur lui, il sera impur pendant 7 jours et tout lit sur lequel il couchera sera impur."
+      }
+    },
+    {
+      "verse": 25,
+      "texts": {
+        "BDS": "Si une femme a des pertes de sang pendant plusieurs jours en dehors de la période de ses règles ou au-delà du temps normal de son indisposition, elle sera impure tout le temps que durent ses pertes, comme au temps de ses règles.",
+        "DBY": "Et lorsqu'une femme a un flux de sang qui coule plusieurs jours hors le temps de sa séparation, ou lorsqu'elle a le flux au delà du temps de sa séparation, tous les jours du flux de son impureté elle est impure, comme aux jours de sa séparation.",
+        "KJV": "And if a woman have an issue of her blood many days out of the time of her separation, or if it run beyond the time of her separation; all the days of the issue of her uncleanness shall be as the days of her separation: she [shall be] unclean.",
+        "LSG": "La femme qui aura un flux de sang pendant plusieurs jours hors de ses époques régulières, ou dont le flux durera plus qu'à l'ordinaire, sera impure tout le temps de son flux, comme au temps de son indisposition menstruelle.",
+        "MAB": "Quand aussi la femme découle par flux de son sang plusieurs jours, sans que ce soit le temps de ses mois; ou quand elle découlera plus longtemps que le temps de ses mois, tout le temps du flux de sa souillure, elle sera souillée comme au temps de sa séparation.",
+        "OST": "Et quand une femme aura un flux de sang pendant plusieurs jours, hors du temps de son impureté, ou quand elle perdra au-delà du temps de son impureté, elle sera souillée tout le temps de son flux, comme au temps de son impureté.",
+        "S21": "La femme qui aura un écoulement de sang pendant plusieurs jours en dehors de ses règles, ou dont les règles dureront plus que d’habitude, sera impure pendant toute la période de son écoulement, comme pendant ses règles."
+      }
+    },
+    {
+      "verse": 26,
+      "texts": {
+        "BDS": "Tout lit sur lequel elle se couchera pendant le temps que durent ses pertes, et tout meuble sur lequel elle s’assiéra seront impurs comme dans le cas de son indisposition.",
+        "DBY": "Tout lit sur lequel elle couchera tous les jours de son flux sera pour elle comme le lit de sa séparation; et tout objet sur lequel elle se sera assise sera impur, selon l'impureté de sa séparation.",
+        "KJV": "Every bed whereon she lieth all the days of her issue shall be unto her as the bed of her separation: and whatsoever she sitteth upon shall be unclean, as the uncleanness of her separation.",
+        "LSG": "Tout lit sur lequel elle couchera pendant la durée de ce flux sera comme le lit de son flux menstruel, et tout objet sur lequel elle s'assiéra sera impur comme lors de son flux menstruel.",
+        "MAB": "Toute couche sur laquelle elle couchera tous les jours de son flux, lui sera comme la couche de sa séparation; et toute chose sur laquelle elle s'assied sera souillée, comme [pour] la souillure de sa séparation.",
+        "OST": "Tout lit sur lequel elle couchera, pendant tout le temps de son flux, sera pour elle comme le lit de son impureté; et tout objet sur lequel elle s'assiéra sera souillé, comme pour la souillure de son impureté.",
+        "S21": "Tout lit sur lequel elle couchera pendant la durée de cet écoulement sera comme le lit de ses règles et tout objet sur lequel elle s'assiéra sera impur comme lors de ses règles."
+      }
+    },
+    {
+      "verse": 27,
+      "texts": {
+        "BDS": "Quiconque les touchera sera impur; il lavera ses vêtements, se lavera à l’eau et sera impur jusqu’au soir.",
+        "DBY": "Et quiconque aura touché ces choses sera impur, et il lavera ses vêtements, et se lavera dans l'eau; et il sera impur jusqu'au soir.",
+        "KJV": "And whosoever toucheth those things shall be unclean, and shall wash his clothes, and bathe [himself] in water, and be unclean until the even.",
+        "LSG": "Quiconque les touchera sera souillé; il lavera ses vêtements, se lavera dans l'eau, et sera impur jusqu'au soir.",
+        "MAB": "Et quiconque aura touché ces choses-là, lavera ses vêtements, et se lavera dans l'eau; et il sera souillé jusqu'au soir.",
+        "OST": "Et quiconque les touchera sera souillé; il lavera ses vêtements, se lavera dans l'eau, et sera souillé jusqu'au soir.",
+        "S21": "Si quelqu’un les touche, il sera impur. Il lavera ses vêtements, se lavera dans l'eau et sera impur jusqu'au soir."
+      }
+    },
+    {
+      "verse": 28,
+      "texts": {
+        "BDS": "Lorsque ses pertes cesseront, elle comptera sept jours, après quoi elle sera pure.",
+        "DBY": "Et si elle est purifiée de son flux, elle comptera sept jours, et après, elle sera pure;",
+        "KJV": "But if she be cleansed of her issue, then she shall number to herself seven days, and after that she shall be clean.",
+        "LSG": "Lorsqu'elle sera purifiée de son flux, elle comptera sept jours, après lesquels elle sera pure.",
+        "MAB": "Mais si elle est purifiée de son flux, elle comptera sept jours, et après elle sera nette.",
+        "OST": "Lorsqu'elle sera purifiée de son flux, elle comptera sept jours, et après elle sera pure.",
+        "S21": "Lorsqu'elle sera purifiée de son écoulement, elle comptera encore 7 jours après lesquels elle sera pure."
+      }
+    },
+    {
+      "verse": 29,
+      "texts": {
+        "BDS": "Le huitième jour, elle prendra deux tourterelles ou deux pigeonneaux et les apportera au prêtre, à l’entrée de la tente de la Rencontre.",
+        "DBY": "et le huitième jour, elle prendra deux tourterelles ou deux jeunes pigeons, et les apportera au sacrificateur, à l'entrée de la tente d'assignation.",
+        "KJV": "And on the eighth day she shall take unto her two turtles, or two young pigeons, and bring them unto the priest, to the door of the tabernacle of the congregation.",
+        "LSG": "Le huitième jour, elle prendra deux tourterelles ou deux jeunes pigeons, et elle les apportera au sacrificateur, à l'entrée de la tente d'assignation.",
+        "MAB": "Et au huitième jour elle prendra deux tourterelles ou deux pigeonneaux, et les apportera au Sacrificateur à l'entrée du Tabernacle d'assignation.",
+        "OST": "Et au huitième jour, elle prendra deux tourterelles ou deux pigeonneaux, et les apportera au sacrificateur, à l'entrée du tabernacle d'assignation;",
+        "S21": "Le huitième jour, elle prendra deux tourterelles ou deux jeunes pigeons et elle les apportera au prêtre à l'entrée de la tente de la rencontre."
+      }
+    },
+    {
+      "verse": 30,
+      "texts": {
+        "BDS": "Le prêtre offrira l’un d’eux comme sacrifice pour le péché et l’autre comme holocauste, il fera ainsi pour elle devant l’Eternel l’expiation des pertes qui la rendaient impure.",
+        "DBY": "Et le sacrificateur offrira l'un en sacrifice pour le péché, et l'autre en holocauste; et le sacrificateur fera propitiation pour elle devant l'Éternel, à cause du flux de son impureté.",
+        "KJV": "And the priest shall offer the one [for] a sin offering, and the other [for] a burnt offering; and the priest shall make an atonement for her before the LORD for the issue of her uncleanness.",
+        "LSG": "Le sacrificateur offrira l'un en sacrifice d'expiation, et l'autre en holocauste; et le sacrificateur fera pour elle l'expiation devant l'Eternel, à cause du flux qui la rendait impure.",
+        "MAB": "Et le Sacrificateur en sacrifiera l'un [en offrande] pour le péché, et l'autre en holocauste; ainsi le Sacrificateur fera propitiation pour elle devant l'Eternel, à cause du flux de sa souillure.",
+        "OST": "Le sacrificateur offrira l'un en sacrifice pour le péché, et l'autre en holocauste; et le sacrificateur fera pour elle l'expiation devant l'Éternel, à cause du flux qui la souillait.",
+        "S21": "Le prêtre offrira l'un en sacrifice d'expiation et l'autre en holocauste, et il fera l'expiation pour elle devant l'Eternel à cause de l’écoulement qui la rendait impure."
+      }
+    },
+    {
+      "verse": 31,
+      "texts": {
+        "BDS": "C’est ainsi que vous tiendrez les Israélites à l’écart de ce qui pourrait les rendre rituellement impurs et les exposerait à être frappés de mort s’ils venaient à rendre impur mon tabernacle qui est au milieu d’eux.",
+        "DBY": "Et vous séparerez les fils d'Israël de leurs impuretés, et ils ne mourront pas dans leurs impuretés, en souillant mon tabernacle qui est au milieu d'eux.",
+        "KJV": "Thus shall ye separate the children of Israel from their uncleanness; that they die not in their uncleanness, when they defile my tabernacle that [is] among them.",
+        "LSG": "Vous éloignerez les enfants d'Israël de leurs impuretés, de peur qu'ils ne meurent à cause de leurs impuretés, s'ils souillent mon tabernacle qui est au milieu d'eux.",
+        "MAB": "Ainsi vous séparerez les enfants d'Israël de leurs souillures, et ils ne mourront point à cause de leurs souillures, en souillant mon pavillon qui est au milieu d'eux.",
+        "OST": "Ainsi vous séparerez les enfants d'Israël de leur souillure, afin qu'ils ne meurent point à cause de leur souillure, en souillant ma Demeure qui est au milieu d'eux.",
+        "S21": "»Vous éloignerez les Israélites de ce qui les met en état d’impureté, ainsi ils ne mourront pas pour avoir rendu impure mon habitation au milieu d'eux.»"
+      }
+    },
+    {
+      "verse": 32,
+      "texts": {
+        "BDS": "Telle est la loi concernant celui qui a une gonorrhée ou des pertes séminales et qui est ainsi rendu impur,",
+        "DBY": "Telle est la loi pour celui qui a un flux ou pour celui duquel sort de la semence qui le rend impur,",
+        "KJV": "This [is] the law of him that hath an issue, and [of him] whose seed goeth from him, and is defiled therewith;",
+        "LSG": "Telle est la loi pour celui qui a une gonorrhée ou qui est souillé par une pollution,",
+        "MAB": "Telle est la loi de celui qui découle, et de celui duquel sort la semence, qui le souille.",
+        "OST": "Telle est la loi concernant celui qui est atteint d'un flux ou qui est souillé par une pollution,",
+        "S21": "Telle est la loi pour l’homme qui a une blennorragie ou qui est impur en raison d’une éjaculation,"
+      }
+    },
+    {
+      "verse": 33,
+      "texts": {
+        "BDS": "concernant la femme durant ses règles, toute personne, homme ou femme, atteinte d’un écoulement, et l’homme qui partage la couche d’une femme en état d’impureté.",
+        "DBY": "et pour la femme qui souffre à cause de ses mois, pendant sa séparation, et pour toute personne qui a un flux, soit homme, soit femme, et pour celui qui couche avec une femme impure.",
+        "KJV": "And of her that is sick of her flowers, and of him that hath an issue, of the man, and of the woman, and of him that lieth with her that is unclean.",
+        "LSG": "pour celle qui a son flux menstruel, pour l'homme ou la femme qui a un flux, et pour l'homme qui couche avec une femme impure.",
+        "MAB": "Telle est aussi la loi de celle qui est malade de ses mois, et de toute personne qui découle, et qui a son flux, soit mâle, soit femelle, et de celui qui couche avec celle qui est souillée.",
+        "OST": "Et concernant celle qui est indisposée pour son impureté, et toute personne atteinte d'un flux, soit homme, soit femme, et l'homme qui couche avec une femme souillée.",
+        "S21": "pour la femme qui a ses règles, pour l'homme ou la femme qui a un écoulement et pour l'homme qui couche avec une femme impure."
+      }
+    }
+  ]
+}

@@ -1,0 +1,366 @@
+{
+  "bookCode": "MAT",
+  "chapter": 19,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "Après avoir donné ces enseignements, Jésus quitta la Galilée et se rendit dans la partie de la Judée située de l’autre côté du Jourdain.",
+        "DBY": "Et il arriva, quand Jésus eut achevé ces discours, qu'il partit de la Galilée et vint vers les confins de la Judée, au delà du Jourdain;",
+        "KJV": "And it came to pass, [that] when Jesus had finished these sayings, he departed from Galilee, and came into the coasts of Judaea beyond Jordan;",
+        "LSG": "Lorsque Jésus eut achevé ces discours, il quitta la Galilée, et alla dans le territoire de la Judée, au delà du Jourdain.",
+        "MAB": "Et il arriva que quand Jésus eut achevé ces discours, il partit de Galilée, et vint vers les confins de la Judée, au delà du Jourdain.",
+        "OST": "Quand Jésus eut achevé ces discours, il partit de Galilée, et s'en alla dans les quartiers de la Judée, au-delà du Jourdain.",
+        "S21": "Lorsque Jésus eut fini de prononcer ces paroles, il quitta la Galilée et alla dans le territoire de la Judée, de l'autre côté du Jourdain."
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "De grandes foules le suivaient et il guérit là les malades.",
+        "DBY": "et de grandes foules le suivirent, et il les guérit là.",
+        "KJV": "And great multitudes followed him; and he healed them there.",
+        "LSG": "Une grande foule le suivit, et là il guérit les malades.",
+        "MAB": "Et de grandes troupes le suivirent, et il guérit là [leurs malades].",
+        "OST": "Et beaucoup de peuple l'y suivit, et il guérit là leurs malades.",
+        "S21": "De grandes foules le suivirent, et là il guérit les malades."
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "Des pharisiens s’approchèrent de lui avec l’intention de lui tendre un piège. Ils lui demandèrent:\r\n—Un homme a-t-il le droit de divorcer d’avec sa femme pour une raison quelconque?",
+        "DBY": "Et les pharisiens vinrent à lui, l'éprouvant et lui disant: Est-il permis à un homme de répudier sa femme pour quelque cause que ce soit?",
+        "KJV": "The Pharisees also came unto him, tempting him, and saying unto him, Is it lawful for a man to put away his wife for every cause?",
+        "LSG": "Les pharisiens l'abordèrent, et dirent, pour l'éprouver: Est-il permis à un homme de répudier sa femme pour un motif quelconque?",
+        "MAB": "Alors des Pharisiens vinrent à lui pour l'éprouver, et ils lui dirent : est-il permis à un homme de répudier sa femme pour quelque cause que ce soit?",
+        "OST": "Des pharisiens y vinrent aussi pour le tenter, et ils lui dirent: Est-il permis à un homme de répudier sa femme pour quelque sujet que ce soit?",
+        "S21": "Les pharisiens l'abordèrent et, pour lui tendre un piège, ils lui dirent: «Est-il permis à un homme de divorcer de sa femme pour n'importe quel motif?»"
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "Il leur répondit:\r\n—N’avez-vous pas lu dans les Ecritures qu’au commencement le Créateur a créé l’être humain homme et femme",
+        "DBY": "Et lui, répondant, leur dit: N'avez-vous pas lu que celui qui les a faits, dès le commencement les a faits mâle et femelle,",
+        "KJV": "And he answered and said unto them, ‹Have ye not read, that he which made› [them] ‹at the beginning made them male and female,›",
+        "LSG": "Il répondit: N'avez-vous pas lu que le créateur, au commencement, fit l'homme et la femme",
+        "MAB": "Et il répondit, et leur dit : n'avez-vous point lu que celui qui les a faits dès le commencement, fit un homme et une femme?",
+        "OST": "Et il leur répondit: N'avez-vous pas lu que Celui qui créa, au commencement, fit un homme et une femme;",
+        "S21": "Il répondit: «N'avez-vous pas lu que le Créateur, au commencement, a fait l'homme et la femme"
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "et qu’il a déclaré: C’est pourquoi l’homme quittera son père et sa mère pour s’attacher à sa femme, et les deux ne feront plus qu’un?",
+        "DBY": "et qu'il dit: \"C'est pourquoi, l'homme laissera son père et sa mère et sera uni à sa femme; et les deux seront une seule chair?",
+        "KJV": "‹And said, For this cause shall a man leave father and mother, and shall cleave to his wife: and they twain shall be one flesh?›",
+        "LSG": "et qu'il dit: C'est pourquoi l'homme quittera son père et sa mère, et s'attachera à sa femme, et les deux deviendront une seule chair?",
+        "MAB": "Et qu'il dit : A cause de cela l'homme laissera son père et sa mère, et se joindra à sa femme, et les deux ne seront qu'une seule chair.",
+        "OST": "Et qu'il dit: A cause de cela l'homme quittera son père et sa mère, et s'attachera à sa femme, et les deux seront une seule chair?",
+        "S21": "et qu'il a dit: C'est pourquoi l'homme quittera son père et sa mère et s'attachera à sa femme, et les deux ne feront qu’un?"
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "Ainsi, ils ne sont plus deux; ils font un. Que l’homme ne sépare donc pas ce que Dieu a uni.",
+        "DBY": "Ainsi, ils ne sont plus deux, mais une seule chair. Ce donc que Dieu a uni, que l'homme ne le sépare pas.",
+        "KJV": "‹Wherefore they are no more twain, but one flesh. What therefore God hath joined together, let not man put asunder.›",
+        "LSG": "Ainsi ils ne sont plus deux, mais ils sont une seule chair. Que l'homme donc ne sépare pas ce que Dieu a joint.",
+        "MAB": "C'est pourquoi ils ne sont plus deux, mais une seule chair. Ce donc que Dieu a joint, que l'homme ne le sépare point.",
+        "OST": "Ainsi ils ne sont plus deux, mais une seule chair. Ce que Dieu a joint, que l'homme ne le sépare donc pas.",
+        "S21": "Ainsi, ils ne sont plus deux mais ne font qu’un. Que l'homme ne sépare donc pas ce que Dieu a uni.»"
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "Mais les pharisiens objectèrent:\r\n—Pourquoi alors Moïse a-t-il commandé à l’homme de remettre à sa femme un certificat de divorce quand il divorce d’avec elle?",
+        "DBY": "Ils lui disent: Pourquoi donc Moïse a-t-il commandé de donner une lettre de divorce, et de la répudier?",
+        "KJV": "They say unto him, Why did Moses then command to give a writing of divorcement, and to put her away?",
+        "LSG": "Pourquoi donc, lui dirent-ils, Moïse a-t-il prescrit de donner à la femme une lettre de divorce et de la répudier?",
+        "MAB": "Ils lui dirent : pourquoi donc Moïse a-t-il commandé de donner la Lettre de divorce, et de répudier sa femme?",
+        "OST": "Ils lui dirent: Pourquoi donc Moïse a-t-il commandé de donner une lettre de divorce à la femme et de la répudier?",
+        "S21": "«Pourquoi donc, lui dirent-ils, Moïse a-t-il prescrit de donner une lettre de divorce à la femme lorsqu'on la renvoie?»"
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "Il leur répondit:\r\n—C’est à cause de la dureté de votre cœur que Moïse vous a permis de divorcer d’avec vos épouses. Mais, au commencement, il n’en était pas ainsi.",
+        "DBY": "Il leur dit: Moïse, à cause de votre dureté de cœur, vous a permis de répudier vos femmes; mais au commencement il n'en était pas ainsi.",
+        "KJV": "He saith unto them, ‹Moses because of the hardness of your hearts suffered you to put away your wives: but from the beginning it was not so.›",
+        "LSG": "Il leur répondit: C'est à cause de la dureté de votre coeur que Moïse vous a permis de répudier vos femmes; au commencement, il n'en était pas ainsi.",
+        "MAB": "Il leur dit : c'est à cause de la dureté de votre cœur, que Moïse vous a permis de répudier vos femmes; mais au commencement il n'en était pas ainsi.",
+        "OST": "Il leur dit: C'est à cause de la dureté de votre cour que Moïse vous a permis de répudier vos femmes; mais il n'en était pas ainsi au commencement.",
+        "S21": "Il leur répondit: «C'est à cause de la dureté de votre cœur que Moïse vous a permis de divorcer de vos femmes; au commencement, ce n’était pas le cas."
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "Aussi, je vous déclare que celui qui divorce et se remarie, commet un adultère — sauf en cas d’immoralité sexuelle.",
+        "DBY": "Et je vous dis que quiconque répudiera sa femme, non pour cause de fornication, et en épousera une autre, commet adultère; et celui qui épouse une femme répudiée, commet adultère.",
+        "KJV": "‹And I say unto you, Whosoever shall put away his wife, except› [it be] ‹for fornication, and shall marry another, committeth adultery: and whoso marrieth her which is put away doth commit adultery.›",
+        "LSG": "Mais je vous dis que celui qui répudie sa femme, sauf pour infidélité, et qui en épouse une autre, commet un adultère.",
+        "MAB": "Et moi je vous dis, que quiconque répudiera sa femme, si ce n'est pour cause d'adultère, et se mariera à une autre, commet un adultère; et que celui qui se sera marié à celle qui est répudiée, commet un adultère.",
+        "OST": "Mais je vous dis que quiconque répudiera sa femme, si ce n'est pour cause d'adultère, et en épousera une autre, commet un adultère; et celui qui épousera celle qui a été répudiée, commet aussi un adultère.",
+        "S21": "Mais je vous le dis, celui qui renvoie sa femme, sauf pour cause d’infidélité, et qui en épouse une autre commet un adultère, [et celui qui épouse une femme divorcée commet un adultère].»"
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "Les disciples lui dirent:\r\n—Si telle est la situation de l’homme par rapport à la femme, il n’est pas intéressant pour lui de se marier.",
+        "DBY": "Ses disciples lui disent: Si telle est la condition de l'homme à l'égard de la femme, il ne convient pas de se marier.",
+        "KJV": "His disciples say unto him, If the case of the man be so with [his] wife, it is not good to marry.",
+        "LSG": "Ses disciples lui dirent: Si telle est la condition de l'homme à l'égard de la femme, il n'est pas avantageux de se marier.",
+        "MAB": "Ses Disciples lui dirent : Si telle est la condition de l'homme à l'égard de sa femme, il ne convient pas de se marier.",
+        "OST": "Ses disciples lui dirent: Si telle est la condition de l'homme uni à la femme, il ne convient pas de se marier.",
+        "S21": "Ses disciples lui dirent: «Si telle est la condition de l'homme vis-à-vis de la femme, il vaut mieux ne pas se marier.»"
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "Il leur répondit:\r\n—Tous les hommes ne sont pas capables d’accepter cet enseignement. Cela n’est possible qu’à ceux qui en ont reçu le don.",
+        "DBY": "Mais il leur dit: Tous ne reçoivent pas cette parole, mais ceux à qui il est donné;",
+        "KJV": "But he said unto them, ‹All› [men] ‹cannot receive this saying, save› [they] ‹to whom it is given.›",
+        "LSG": "Il leur répondit: Tous ne comprennent pas cette parole, mais seulement ceux à qui cela est donné.",
+        "MAB": "Mais il leur dit : tous ne sont pas capables de cela, mais [seulement] ceux à qui il est donné.",
+        "OST": "Mais il leur dit: Tous ne sont pas capables de cela, mais ceux-là seulement à qui il a été donné.",
+        "S21": "Il leur répondit: «Tous ne comprennent pas cette parole, mais seulement ceux à qui cela est donné."
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "En effet, il y a ceux qui ne peuvent pas se marier parce que, de naissance, ils en sont incapables; d’autres le sont devenus par une intervention humaine. D’autres, enfin, renoncent à se marier à cause du royaume des cieux. Que celui qui est capable d’accepter cet enseignement, l’accepte!",
+        "DBY": "car il y a de eunuques qui sont nés tels dès le ventre de leur mère; et il y a des eunuques qui ont été faits eunuques par les hommes; et il y a des eunuques qui se sont faits eux-mêmes eunuques pour le royaume des cieux. Que celui qui peut le recevoir, le reçoive.",
+        "KJV": "‹For there are some eunuchs, which were so born from› [their] ‹mother's womb: and there are some eunuchs, which were made eunuchs of men: and there be eunuchs, which have made themselves eunuchs for the kingdom of heaven's sake. He that is able to receive› [it], ‹let him receive› [it].",
+        "LSG": "Car il y a des eunuques qui le sont dès le ventre de leur mère; il y en a qui le sont devenus par les hommes; et il y en a qui se sont rendus tels eux-mêmes, à cause du royaume des cieux. Que celui qui peut comprendre comprenne.",
+        "MAB": "Car il y a des eunuques, qui sont ainsi nés du ventre de leur mère; et il y a des eunuques, qui ont été faits eunuques par les hommes; et il y a des eunuques qui se sont faits eux-mêmes eunuques pour le Royaume des cieux. Que celui qui peut comprendre ceci, le comprenne.",
+        "OST": "Car il y a des eunuques qui sont nés tels, du ventre de leur mère; il y en a qui ont été faits eunuques par les hommes; et il y en a qui se sont faits eunuques eux-mêmes pour le royaume des cieux. Que celui qui peut comprendre ceci, le comprenne.",
+        "S21": "En effet, il y a des eunuques qui le sont dès le ventre de leur mère, d'autres le sont devenus par les hommes, et il y en a qui se sont faits eux-mêmes eunuques à cause du royaume des cieux. Que celui qui peut comprendre comprenne.»"
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "Peu après, des gens lui amenèrent des petits enfants pour qu’il leur impose les mains et prie pour eux. Les disciples leur firent des reproches.",
+        "DBY": "Alors on lui apporta de petits enfants, afin qu'il leur imposât les mains et qu'il priât; mais les disciples reprenaient ceux qui les apportaient.",
+        "KJV": "Then were there brought unto him little children, that he should put [his] hands on them, and pray: and the disciples rebuked them.",
+        "LSG": "Alors on lui amena des petits enfants, afin qu'il leur imposât les mains et priât pour eux. Mais les disciples les repoussèrent.",
+        "MAB": "Alors on lui présenta des petits enfants, afin qu'il leur imposât les mains, et qu'il priât [pour eux]; mais les Disciples les en reprenaient.",
+        "OST": "Alors on lui présenta de petits enfants, afin qu'il leur imposât les mains, et qu'il priât; mais les disciples les reprenaient.",
+        "S21": "Alors des gens lui amenèrent des petits enfants afin qu'il pose les mains sur eux et prie pour eux. Mais les disciples leur firent des reproches."
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "Mais Jésus leur dit:\r\n—Laissez donc ces petits enfants, ne les empêchez pas de venir à moi, car le royaume des cieux appartient à ceux qui leur ressemblent.",
+        "DBY": "Et Jésus dit: Laissez venir à moi les petits enfants, et ne les en empêchez pas; car à de tels est le royaume des cieux.",
+        "KJV": "But Jesus said, ‹Suffer little children, and forbid them not, to come unto me: for of such is the kingdom of heaven.›",
+        "LSG": "Et Jésus dit: Laissez les petits enfants, et ne les empêchez pas de venir à moi; car le royaume des cieux est pour ceux qui leur ressemblent.",
+        "MAB": "Et Jésus leur dit : laissez venir à moi les petits enfants, et ne les empêchez point; car le Royaume des cieux est pour ceux qui leur ressemblent.",
+        "OST": "Mais Jésus dit: Laissez les petits enfants, et ne les empêchez point de venir à moi; car le royaume des cieux est pour ceux qui leur ressemblent.",
+        "S21": "Jésus dit: «Laissez les petits enfants, ne les empêchez pas de venir à moi, car le royaume des cieux est pour ceux qui leur ressemblent.»"
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "Puis il leur imposa les mains et poursuivit son chemin.",
+        "DBY": "Et leur ayant imposé les mains, il partit de là.",
+        "KJV": "And he laid [his] hands on them, and departed thence.",
+        "LSG": "Il leur imposa les mains, et il partit de là.",
+        "MAB": "Puis leur ayant imposé les mains, il partit de là.",
+        "OST": "Et leur ayant imposé les mains, il partit de là.",
+        "S21": "Il posa les mains sur eux et partit de là."
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "Alors un jeune homme s’approcha de lui et lui dit:\r\n—Maître, que dois-je faire de bon pour avoir la vie éternelle?",
+        "DBY": "Et voici, quelqu'un s'approchant, lui dit: Maître, quel bien ferai-je pour avoir la vie éternelle?",
+        "KJV": "And, behold, one came and said unto him, Good Master, what good thing shall I do, that I may have eternal life?",
+        "LSG": "Et voici, un homme s'approcha, et dit à Jésus: Maître, que dois-je faire de bon pour avoir la vie éternelle?",
+        "MAB": "Et voici, quelqu'un s'approchant lui dit : Maître qui est bon, quel bien ferai-je pour avoir la vie éternelle?",
+        "OST": "Et voici, quelqu'un s'approchant lui dit: Bon maître, que dois-je faire de bien pour avoir la vie éternelle?",
+        "S21": "Un homme s'approcha et dit à Jésus: «[Bon] Maître, que dois-je faire de bon pour avoir la vie éternelle?»"
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "—Pourquoi m’interroges-tu sur ce qui est bon? lui répondit Jésus. Un seul est bon. Si tu veux entrer dans la vie, applique les commandements.",
+        "DBY": "Et il lui dit: Pourquoi m'interroges-tu touchant ce qui est bon? Un seul est bon. Mais si tu veux entrer dans la vie, garde les commandements.",
+        "KJV": "And he said unto him, ‹Why callest thou me good?› [there is] ‹none good but one,› [that is], ‹God: but if thou wilt enter into life, keep the commandments.›",
+        "LSG": "Il lui répondit: Pourquoi m'interroges-tu sur ce qui est bon? Un seul est le bon. Si tu veux entrer dans la vie, observe les commandements.",
+        "MAB": "Il lui répondit : pourquoi m'appelles-tu bon? Dieu est le seul être qui soit bon. Que si tu veux entrer dans la vie, garde les commandements.",
+        "OST": "Il lui répondit: Pourquoi m'appelles-tu bon? Personne n'est bon, sauf Dieu seul. Que si tu veux entrer dans la vie, garde les commandements.",
+        "S21": "Il lui répondit: «Pourquoi m'appelles-tu bon? Personne n'est bon, si ce n'est Dieu seul. Si tu veux entrer dans la vie, respecte les commandements.» «Lesquels?» lui dit-il."
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "—Lesquels? demanda l’autre.\r\n—Eh bien, répondit Jésus, tu ne commettras pas de meurtre; tu ne commettras pas d’adultère; tu ne voleras pas; tu ne porteras pas de faux témoignage;",
+        "DBY": "Il lui dit: Lesquels? et Jésus dit: Tu ne tueras point; tu ne commettras point adultère; tu ne déroberas point; tu ne diras point de faux témoignage;",
+        "KJV": "He saith unto him, Which? Jesus said, ‹Thou shalt do no murder, Thou shalt not commit adultery, Thou shalt not steal, Thou shalt not bear false witness,›",
+        "LSG": "Lesquels? lui dit-il. Et Jésus répondit: Tu ne tueras point; tu ne commettras point d'adultère; tu ne déroberas point; tu ne diras point de faux témoignage;",
+        "MAB": "Il lui dit : quels? Et Jésus lui répondit : tu ne tueras point. Tu ne commettras point adultère. Tu ne déroberas point. Tu ne diras point de faux témoignage.",
+        "OST": "Il lui dit: Lesquels? Et Jésus lui répondit: Tu ne tueras point; tu ne commettras point d'adultère; tu ne déroberas point; tu ne diras point de faux témoignage;",
+        "S21": "Et Jésus répondit: «Tu ne commettras pas de meurtre; tu ne commettras pas d'adultère; tu ne commettras pas de vol; tu ne porteras pas de faux témoignage;"
+      }
+    },
+    {
+      "verse": 19,
+      "texts": {
+        "BDS": "honore ton père et ta mère, et tu aimeras ton prochain comme toi-même.",
+        "DBY": "honore ton père et ta mère; et, tu aimeras ton prochain comme toi-même.",
+        "KJV": "‹Honour thy father and› [thy] ‹mother: and, Thou shalt love thy neighbour as thyself.›",
+        "LSG": "honore ton père et ta mère; et: tu aimeras ton prochain comme toi-même.",
+        "MAB": "Honore ton père et ta mère; et tu aimeras ton prochain comme toi-même.",
+        "OST": "Honore ton père et ta mère; et tu aimeras ton prochain comme toi-même.",
+        "S21": "honore ton père et ta mère et tu aimeras ton prochain comme toi-même.»"
+      }
+    },
+    {
+      "verse": 20,
+      "texts": {
+        "BDS": "—Tout cela, lui dit le jeune homme, je l’ai appliqué. Que me manque-t-il encore?",
+        "DBY": "Le jeune homme lui dit: J'ai gardé toutes ces choses; que me manque-t-il encore?",
+        "KJV": "The young man saith unto him, All these things have I kept from my youth up: what lack I yet?",
+        "LSG": "Le jeune homme lui dit: J'ai observé toutes ces choses; que me manque-t-il encore?",
+        "MAB": "Le jeune homme lui dit : j'ai gardé toutes ces choses dès ma jeunesse; que me manque-t-il encore?",
+        "OST": "Le jeune homme lui dit: J'ai observé toutes ces choses-là dès ma jeunesse; que me manque-t-il encore?",
+        "S21": "Le jeune homme lui dit: «J'ai respecté tous ces commandements [dès ma jeunesse]. Que me manque-t-il encore?»"
+      }
+    },
+    {
+      "verse": 21,
+      "texts": {
+        "BDS": "Jésus lui répondit:\r\n—Si tu veux être parfait, va vendre tes biens, distribue le produit de la vente aux pauvres, et tu auras un capital dans le ciel. Puis viens et suis-moi.",
+        "DBY": "Jésus lui dit: Si tu veux être parfait, va, vends ce que tu as, et donne aux pauvres; et tu auras un trésor dans le ciel; et viens, suis-moi.",
+        "KJV": "Jesus said unto him, ‹If thou wilt be perfect, go› [and] ‹sell that thou hast, and give to the poor, and thou shalt have treasure in heaven: and come› [and] ‹follow me.›",
+        "LSG": "Jésus lui dit: Si tu veux être parfait, va, vends ce que tu possèdes, donne-le aux pauvres, et tu auras un trésor dans le ciel. Puis viens, et suis-moi.",
+        "MAB": "Jésus lui dit : si tu veux être parfait, va, vends ce que tu as, et le donne aux pauvres, et tu auras un trésor dans le ciel; puis viens, et me suis.",
+        "OST": "Jésus lui dit: Si tu veux être parfait, va, vends ce que tu as, et le donne aux pauvres; et tu auras un trésor dans le ciel; après cela, viens et suis-moi.",
+        "S21": "Jésus lui dit: «Si tu veux être parfait, va vendre ce que tu possèdes, donne-le aux pauvres et tu auras un trésor dans le ciel. Puis viens et suis-moi.»"
+      }
+    },
+    {
+      "verse": 22,
+      "texts": {
+        "BDS": "Quand il entendit cela, le jeune homme s’en alla tout triste: car il était très riche.",
+        "DBY": "Et le jeune homme, ayant entendu cette parole, s'en alla tout triste, car il avait de grands biens.",
+        "KJV": "But when the young man heard that saying, he went away sorrowful: for he had great possessions.",
+        "LSG": "Après avoir entendu ces paroles, le jeune homme s'en alla tout triste; car il avait de grands biens.",
+        "MAB": "Mais quand ce jeune homme eut entendu cette parole, il s'en alla tout triste, parce qu'il avait de grands biens.",
+        "OST": "Mais quand le jeune homme eut entendu cette parole, il s'en alla tout triste; car il possédait de grands biens.",
+        "S21": "Lorsqu'il entendit cette parole, le jeune homme s'en alla tout triste, car il avait de grands biens."
+      }
+    },
+    {
+      "verse": 23,
+      "texts": {
+        "BDS": "Alors Jésus dit à ses disciples:\r\n—Vraiment, je vous l’assure: il est difficile à un riche d’entrer dans le royaume des cieux.",
+        "DBY": "Et Jésus dit à ses disciples: En vérité, je vous dis qu'un riche entrera difficilement dans le royaume des cieux; et je vous le dis encore:",
+        "KJV": "Then said Jesus unto his disciples, ‹Verily I say unto you, That a rich man shall hardly enter into the kingdom of heaven.›",
+        "LSG": "Jésus dit à ses disciples: Je vous le dis en vérité, un riche entrera difficilement dans le royaume des cieux.",
+        "MAB": "Alors Jésus dit à ses Disciples : en vérité je vous dis, qu'un riche entrera difficilement dans le Royaume des cieux.",
+        "OST": "Alors Jésus dit à ses disciples: Je vous dis en vérité qu'un riche entrera difficilement dans le royaume des cieux.",
+        "S21": "Jésus dit à ses disciples: «Je vous le dis en vérité, il est difficile à un riche d'entrer dans le royaume des cieux."
+      }
+    },
+    {
+      "verse": 24,
+      "texts": {
+        "BDS": "Oui, j’insiste: il est plus facile à un chameau de passer par le trou d’une aiguille qu’à un riche d’entrer dans le royaume de Dieu.",
+        "DBY": "Il est plus facile qu'un chameau entre par un trou d'aiguille, qu'un riche n'entre dans le royaume de Dieu.",
+        "KJV": "‹And again I say unto you, It is easier for a camel to go through the eye of a needle, than for a rich man to enter into the kingdom of God.›",
+        "LSG": "Je vous le dis encore, il est plus facile à un chameau de passer par le trou d'une aiguille qu'à un riche d'entrer dans le royaume de Dieu.",
+        "MAB": "Je vous le dis encore : Il est plus aisé qu'un chameau passe par le trou d'une aiguille, qu'il ne l'est qu'un riche entre dans le Royaume de Dieu.",
+        "OST": "Et je vous dis encore: Il est plus aisé qu'un chameau passe par le trou d'une aiguille, qu'il ne l'est qu'un riche entre dans le royaume de Dieu.",
+        "S21": "Je vous le dis encore, il est plus facile à un chameau de passer par un trou d'aiguille qu'à un riche d'entrer dans le royaume de Dieu.»"
+      }
+    },
+    {
+      "verse": 25,
+      "texts": {
+        "BDS": "En entendant cela, les disciples furent très étonnés et demandèrent:\r\n—Mais alors, qui donc peut être sauvé?",
+        "DBY": "Et les disciples, l'ayant entendu, s'étonnèrent fort, disant: Qui donc peut être sauvé?",
+        "KJV": "When his disciples heard [it], they were exceedingly amazed, saying, Who then can be saved?",
+        "LSG": "Les disciples, ayant entendu cela, furent très étonnés, et dirent: Qui peut donc être sauvé?",
+        "MAB": "Ses Disciples ayant entendu ces choses s'étonnèrent fort, et ils dirent : qui peut donc être sauvé?",
+        "OST": "Ses disciples, ayant entendu cela, furent fort étonnés, et ils disaient: Qui peut donc être sauvé?",
+        "S21": "Quand les disciples entendirent cela, ils furent très étonnés et dirent: «Qui peut donc être sauvé?»"
+      }
+    },
+    {
+      "verse": 26,
+      "texts": {
+        "BDS": "Jésus les regarda et leur dit:\r\n—Cela est impossible aux hommes; mais à Dieu, tout est possible.",
+        "DBY": "Et Jésus, les regardant, leur dit: Pour les hommes, cela est impossible; mais pour Dieu, toutes choses sont possibles.",
+        "KJV": "But Jesus beheld [them], and said unto them, ‹With men this is impossible; but with God all things are possible.›",
+        "LSG": "Jésus les regarda, et leur dit: Aux hommes cela est impossible, mais à Dieu tout est possible.",
+        "MAB": "Et Jésus les regardant, leur dit : quant aux hommes, cela est impossible; mais quant à Dieu, toutes choses sont possibles.",
+        "OST": "Et Jésus, les regardant, leur dit: Quant aux hommes, cela est impossible; mais quant à Dieu, toutes choses sont possibles.",
+        "S21": "Jésus les regarda et leur dit: «Aux hommes cela est impossible, mais à Dieu tout est possible.»"
+      }
+    },
+    {
+      "verse": 27,
+      "texts": {
+        "BDS": "Alors Pierre prit la parole et lui dit:\r\n—Et nous? Nous avons tout quitté pour te suivre: qu’en sera-t-il de nous?",
+        "DBY": "Alors Pierre, répondant, lui dit: Voici, nous avons tout quitté et nous t'avons suivi; que nous adviendra-t-il donc?",
+        "KJV": "Then answered Peter and said unto him, Behold, we have forsaken all, and followed thee; what shall we have therefore?",
+        "LSG": "Pierre, prenant alors la parole, lui dit: Voici, nous avons tout quitté, et nous t'avons suivi; qu'en sera-t-il pour nous?",
+        "MAB": "Alors Pierre prenant la parole, lui dit : voici, nous avons tout quitté, et t'avons suivi; que nous en arrivera-t-il donc?",
+        "OST": "Alors Pierre, prenant la parole, lui dit: Voici, nous avons tout quitté, et nous t'avons suivi; que nous arrivera-t-il donc?",
+        "S21": "Pierre prit alors la parole et dit: «Voici, nous avons tout quitté et nous t'avons suivi. Que se passera-t-il pour nous?»"
+      }
+    },
+    {
+      "verse": 28,
+      "texts": {
+        "BDS": "Jésus leur dit:\r\n—Vraiment, je vous l’assure: quand naîtra le monde nouveau et que le Fils de l’homme aura pris place sur son trône glorieux, vous qui m’avez suivi, vous siégerez, vous aussi, sur douze trônes pour gouverner les douze tribus d’Israël.",
+        "DBY": "Et Jésus leur dit: En vérité, je vous dis que vous qui m'avez suivi, -dans la régénération, quand le fils de l'homme se sera assis sur le trône de sa gloire, vous aussi, vous serez assis sur douze trônes, jugeant les douze tribus d'Israël;",
+        "KJV": "And Jesus said unto them, ‹Verily I say unto you, That ye which have followed me, in the regeneration when the Son of man shall sit in the throne of his glory, ye also shall sit upon twelve thrones, judging the twelve tribes of Israel.›",
+        "LSG": "Jésus leur répondit: Je vous le dis en vérité, quand le Fils de l'homme, au renouvellement de toutes choses, sera assis sur le trône de sa gloire, vous qui m'avez suivi, vous serez de même assis sur douze trônes, et vous jugerez les douze tribus d'Israël.",
+        "MAB": "Et Jésus leur dit : en vérité je vous dis, que vous qui m'avez suivi, dans la régénération, quand le Fils de l'homme sera assis sur le trône de sa gloire, vous aussi serez assis sur douze trônes, jugeant les douze Tribus d'Israël.",
+        "OST": "Et Jésus leur dit: Je vous dis en vérité, à vous qui m'avez suivi, que lorsque le Fils de l'homme sera assis sur le trône de sa gloire, dans le renouvellement qui doit arriver, vous aussi serez assis sur douze trônes, jugeant les douze tribus d'Israël.",
+        "S21": "Jésus leur répondit: «Je vous le dis en vérité, quand le Fils de l'homme, au renouvellement de toutes choses, sera assis sur son trône de gloire, vous qui m'avez suivi, vous serez de même assis sur douze trônes et vous jugerez les douze tribus d'Israël."
+      }
+    },
+    {
+      "verse": 29,
+      "texts": {
+        "BDS": "Tous ceux qui auront quitté, à cause de moi, leurs maisons, leurs frères ou leurs sœurs, leur père ou leur mère, leurs enfants ou leur terre, recevront cent fois plus et auront part à la vie éternelle.",
+        "DBY": "et quiconque aura quitté maisons, ou frères, ou sœurs, ou père, ou mère, ou femme, ou enfants, ou champs, pour l'amour de mon nom, en recevra cent fois autant, et héritera de la vie éternelle.",
+        "KJV": "‹And every one that hath forsaken houses, or brethren, or sisters, or father, or mother, or wife, or children, or lands, for my name's sake, shall receive an hundredfold, and shall inherit everlasting life.›",
+        "LSG": "Et quiconque aura quitté, à cause de mon nom, ses frères, ou ses soeurs, ou son père, ou sa mère, ou sa femme, ou ses enfants, ou ses terres, ou ses maisons, recevra le centuple, et héritera la vie éternelle.",
+        "MAB": "Et quiconque aura quitté ou maisons, ou frères, ou sœurs, ou père, ou mère, ou femme, ou enfants, ou champs, à cause de mon Nom, il en recevra cent fois autant, et héritera la vie éternelle.",
+        "OST": "Et quiconque aura quitté des maisons, ou des frères, ou des sœurs, ou père, ou mère, ou femme, ou enfants, ou des champs, à cause de mon nom, en recevra cent fois autant, et héritera la vie éternelle.",
+        "S21": "Et toute personne qui aura quitté à cause de moi ses maisons ou ses frères, ses sœurs, son père, sa mère, sa femme, ses enfants ou ses terres, recevra le centuple et héritera de la vie éternelle."
+      }
+    },
+    {
+      "verse": 30,
+      "texts": {
+        "BDS": "Mais beaucoup de ceux qui sont maintenant les premiers seront parmi les derniers, et beaucoup de ceux qui sont maintenant les derniers seront parmi les premiers.",
+        "DBY": "Mais plusieurs qui sont les premiers seront les derniers, et des derniers seront les premiers.",
+        "KJV": "‹But many› [that are] ‹first shall be last; and the last› [shall be] ‹first.›",
+        "LSG": "Plusieurs des premiers seront les derniers, et plusieurs des derniers seront les premiers.",
+        "MAB": "Mais plusieurs qui sont les premiers, seront les derniers; et les derniers seront les premiers.",
+        "OST": "Mais plusieurs des premiers seront les derniers; et plusieurs des derniers seront les premiers.",
+        "S21": "Bien des premiers seront les derniers et bien des derniers seront les premiers."
+      }
+    }
+  ]
+}

@@ -1,4 +1,5 @@
 import { prisma } from '~~/lib/prisma';
+import { buildBookPayload, buildVersePreview, getBibleBookByOrderIndex, getBibleVersionByOrderIndex } from '~~/server/utils/bibleData';
 
 export default defineEventHandler(async (event) => {
     try {
@@ -43,17 +44,42 @@ export default defineEventHandler(async (event) => {
                 title: title ?? note.title,
                 content: content ?? note.content,
                 isPrivate: typeof isPrivate === 'boolean' ? isPrivate : note.isPrivate
-            },
-            include: {
-                book: { select: { id: true, name: true } },
-                verse: { select: { id: true, chapter: true, verse: true, text: true } }
             }
+        });
+
+        const [book, version] = await Promise.all([
+            getBibleBookByOrderIndex(updatedNote.bookOrderIndex),
+            getBibleVersionByOrderIndex(updatedNote.versionOrderIndex)
+        ]);
+
+        if (!book || !version) {
+            throw createError({
+                statusCode: 404,
+                statusMessage: 'Référence biblique introuvable'
+            });
+        }
+
+        const verse = await buildVersePreview({
+            bookCode: book.code,
+            chapter: updatedNote.chapter,
+            verse: updatedNote.verse,
+            versionCode: version.code,
+            versionName: version.name
         });
 
         return {
             success: true,
             message: 'Note modifiée avec succès',
-            note: updatedNote
+            note: {
+                id: updatedNote.id,
+                title: updatedNote.title,
+                content: updatedNote.content,
+                isPrivate: updatedNote.isPrivate,
+                createdAt: updatedNote.createdAt,
+                updatedAt: updatedNote.updatedAt,
+                book: buildBookPayload(book),
+                verse
+            }
         };
     } catch (error: any) {
         console.error('Erreur lors de la modification de la note:', error);

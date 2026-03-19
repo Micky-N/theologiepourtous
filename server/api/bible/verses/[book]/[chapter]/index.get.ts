@@ -1,4 +1,4 @@
-import { prisma } from '~~/lib/prisma';
+import { getBibleBookByCode, getBibleChapter, getBibleVersionByCode, mapChapterVerses } from '~~/server/utils/bibleData';
 
 export default defineEventHandler(async (event) => {
     try {
@@ -15,9 +15,7 @@ export default defineEventHandler(async (event) => {
         }
 
         // Vérifier que le livre existe
-        const book = await prisma.bibleBook.findUnique({
-            where: { code: bookCode.toUpperCase() }
-        });
+        const book = await getBibleBookByCode(bookCode);
 
         if (!book) {
             throw createError({
@@ -35,9 +33,7 @@ export default defineEventHandler(async (event) => {
         }
 
         // Récupérer la version
-        const version = await prisma.bibleVersion.findUnique({
-            where: { code: versionCode.toUpperCase() }
-        });
+        const version = await getBibleVersionByCode(versionCode);
 
         if (!version) {
             throw createError({
@@ -47,16 +43,16 @@ export default defineEventHandler(async (event) => {
         }
 
         // Récupérer les versets du chapitre
-        const verses = await prisma.bibleVerse.findMany({
-            where: {
-                bookId: book.id,
-                versionId: version.id,
-                chapter: chapterNum
-            },
-            orderBy: {
-                verse: 'asc'
-            }
-        });
+        const chapter = await getBibleChapter(book.code, chapterNum);
+
+        if (!chapter) {
+            throw createError({
+                statusCode: 404,
+                statusMessage: 'Chapitre non trouvé'
+            });
+        }
+
+        const verses = mapChapterVerses(chapter, book, version);
 
         return {
             success: true,

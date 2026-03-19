@@ -1,0 +1,246 @@
+{
+  "bookCode": "JOE",
+  "chapter": 1,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "Parole que l’Eternel a adressée à Joël, fils de Petouël.",
+        "DBY": "La parole de l'Éternel, qui vint à Joël, fils de Pethuel.",
+        "KJV": "The word of the LORD that came to Joel the son of Pethuel.",
+        "LSG": "La parole de l'Eternel qui fut adressée à Joël, fils de Pethuel.",
+        "MAB": "La parole de l'Eternel qui fut [adressée] à Joël, fils de Péthuel.",
+        "OST": "La parole de l'Éternel qui fut adressée à Joël, fils de Péthuël.",
+        "S21": "Parole de l'Eternel adressée à Joël, fils de Pethuel."
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "Ecoutez ceci, vous, responsables du peuple,\r\nvous tous, habitants du pays, prêtez l’oreille.\r\nEst-il, de votre temps,\r\nou bien du temps de vos ancêtres, survenu rien de tel?",
+        "DBY": "Écoutez ceci, vieillards, et prêtez l'oreille, vous, tous les habitants du pays! Ceci est-il arrivé de vos jours, ou même dans les jours de vos pères?",
+        "KJV": "Hear this, ye old men, and give ear, all ye inhabitants of the land. Hath this been in your days, or even in the days of your fathers?",
+        "LSG": "Ecoutez ceci, vieillards! Prêtez l'oreille, vous tous, habitants du pays! Rien de pareil est-il arrivé de votre temps, Ou du temps de vos pères?",
+        "MAB": "Anciens, écoutez ceci, et vous, tous les habitants du pays, prêtez l'oreille. Est-il arrivé de votre temps, ou même du temps de vos pères, une chose comme celle-ci?",
+        "OST": "Écoutez ceci, vieillards! Et prêtez l'oreille, vous tous les habitants du pays! Est-il rien arrivé de pareil de votre temps, ou du temps de vos pères?",
+        "S21": "Ecoutez ceci, anciens, prêtez l'oreille, vous tous, habitants du pays! Est-il déjà arrivé quelque chose de pareil durant votre vie ou celle de vos ancêtres?"
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "Racontez-le à vos enfants,\r\nqu’eux-mêmes le racontent à leurs propres enfants,\r\nqui, eux, le transmettront à leurs propres enfants.",
+        "DBY": "Racontez-le à vos fils, et vos fils à leurs fils, et leurs fils à une autre génération:",
+        "KJV": "Tell ye your children of it, and [let] your children [tell] their children, and their children another generation.",
+        "LSG": "Racontez-le à vos enfants, Et que vos enfants le racontent à leurs enfants, Et leurs enfants à la génération qui suivra!",
+        "MAB": "Faites-en le récit à vos enfants, et que vos enfants le fassent à leurs enfants, et leurs enfants à une autre génération.",
+        "OST": "Faites-en le récit à vos enfants, et vos enfants à leurs enfants, et leurs enfants à la génération suivante.",
+        "S21": "Racontez-le à vos enfants, que vos enfants le racontent à leurs enfants et leurs enfants à la génération qui suivra!"
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "Ce qu’a laissé le vol de sauterelles,\r\nd’autres sauterelles l’ont dévoré;\r\nce que les sauterelles ont laissé,\r\nles criquets l’ont mangé;\r\nce que les criquets ont laissé,\r\nles grillons l’ont mangé.",
+        "DBY": "ce qu'à laissé la chenille, la sauterelle l'a mangé; et ce qu'à laissé la sauterelle, l'yélek l'a mangé, et ce qu'à laissé l'yélek, la locuste l'a mangé.",
+        "KJV": "That which the palmerworm hath left hath the locust eaten; and that which the locust hath left hath the cankerworm eaten; and that which the cankerworm hath left hath the caterpiller eaten.",
+        "LSG": "Ce qu'a laissé le gazam, la sauterelle l'a dévoré; Ce qu'a laissé la sauterelle, le jélek l'a dévoré; Ce qu'a laissé le jélek, le hasil l'a dévoré.",
+        "MAB": "La sauterelle a brouté les restes du hanneton, et le hurebec a brouté les restes de la sauterelle, et le vermisseau a brouté les restes du hurebec.",
+        "OST": "La sauterelle a dévoré les restes du gazam, le jélek a dévoré les restes de la sauterelle, et le hasil a dévoré les restes du jélek.",
+        "S21": "Ce qu'a laissé la chenille, la sauterelle l'a dévoré; ce qu'a laissé la sauterelle, le grillon l'a dévoré; ce qu'a laissé le grillon, le criquet l'a dévoré."
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "Réveillez-vous, ivrognes, pleurez!\r\nHurlez, tous les buveurs de vin,\r\noui, car le vin nouveau est ôté de vos bouches.",
+        "DBY": "Réveillez-vous, ivrognes, et pleurez; et hurlez, vous tous, buveurs de vin, à cause du moût, car il est retranché à vos bouches.",
+        "KJV": "Awake, ye drunkards, and weep; and howl, all ye drinkers of wine, because of the new wine; for it is cut off from your mouth.",
+        "LSG": "Réveillez-vous, ivrognes, et pleurez! Vous tous, buveurs de vin, gémissez, Parce que le moût vous est enlevé de la bouche!",
+        "MAB": "Ivrognes, réveillez-vous, et pleurez; et vous tous buveurs de vin hurlez à cause du vin nouveau, parce qu'il est retranché à votre bouche.",
+        "OST": "Réveillez-vous, ivrognes, et pleurez! Et vous tous, buveurs de vin, lamentez-vous au sujet du jus de la vigne, car il est retranché de votre bouche!",
+        "S21": "Réveillez-vous, ivrognes, et pleurez! Vous tous, buveurs de vin, lamentez-vous parce que le vin nouveau vous est enlevé de la bouche!"
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "Un peuple attaque mon pays,\r\nil est puissant, on ne peut le compter.\r\nIl a des crocs de lion,\r\nil a des dents de lion.",
+        "DBY": "Car une nation est montée sur mon pays, forte et innombrable. Ses dents sont les dents d'un lion, et elle a les grosses dents d'une lionne.",
+        "KJV": "For a nation is come up upon my land, strong, and without number, whose teeth [are] the teeth of a lion, and he hath the cheek teeth of a great lion.",
+        "LSG": "Car un peuple est venu fondre sur mon pays, Puissant et innombrable. Il a les dents d'un lion, Les mâchoires d'une lionne.",
+        "MAB": "Car une nation puissante et innombrable est montée contre mon pays; ses dents sont des dents de lion, et elle a les dents mâchelières d'un vieux lion.",
+        "OST": "Car une nation puissante et innombrable est montée contre mon pays; ses dents sont des dents de lion, elle a les mâchoires d'un vieux lion.",
+        "S21": "En effet, un peuple est venu fondre sur mon pays. Il est puissant et innombrable. Il a les dents d'un lion, les mâchoires d'une lionne."
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "Il a fait de mes vignes une dévastation,\r\net mes figuiers, il les a mis en pièces,\r\nil a complètement pelé leurs troncs et jonché le sol de débris,\r\nleurs rameaux sont tout blancs.",
+        "DBY": "Elle a réduit ma vigne en une désolation, mon figuier en un tas de bois; elle l'a écorcé entièrement, et l'a jeté par terre; ses rameaux ont blanchi.",
+        "KJV": "He hath laid my vine waste, and barked my fig tree: he hath made it clean bare, and cast [it] away; the branches thereof are made white.",
+        "LSG": "Il a dévasté ma vigne; Il a mis en morceaux mon figuier, Il l'a dépouillé, abattu; Les rameaux de la vigne ont blanchi.",
+        "MAB": "Elle a réduit ma vigne en désert, et a ôté l'écorce de mes figuiers; elle les a entièrement dépouillés, et les a abattus, leurs branches en sont devenues blanches.",
+        "OST": "Elle a mis ma vigne en désolation, et mes figuiers en pièces. Elle les a entièrement dépouillés, abattus; les sarments sont devenus tout blancs.",
+        "S21": "Il a dévasté ma vigne, il a ravagé mon figuier, il l'a dépouillé, abattu. Les rameaux de la vigne ont blanchi."
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "Lamente-toi, mon peuple, comme une jeune femme qui aurait revêtu le vêtement de deuil\r\npour pleurer le mari de sa jeunesse.",
+        "DBY": "Gémis comme une vierge ceinte du sac, sur le mari de sa jeunesse!",
+        "KJV": "Lament like a virgin girded with sackcloth for the husband of her youth.",
+        "LSG": "Lamente-toi, comme la vierge qui se revêt d'un sac Pour pleurer l'ami de sa jeunesse!",
+        "MAB": "Lamente-toi comme une jeune femme qui se serait ceinte d'un sac, à cause [de la mort] du mari de sa jeunesse.",
+        "OST": "Lamente-toi comme une vierge qui serait ceinte d'un sac, à cause de l'époux de sa jeunesse!",
+        "S21": "Lamente-toi, comme la jeune femme qui s’habille d'un sac pour pleurer le fiancé de sa jeunesse!"
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "Quant au Temple de l’Eternel, libations et offrandes lui font défaut;\r\nles prêtres qui font le service de l’Eternel, sont dans le deuil.",
+        "DBY": "L'offrande et la libation sont retranchées de la maison de l'Éternel; les sacrificateurs, les serviteurs de l'Éternel, mènent deuil;",
+        "KJV": "The meat offering and the drink offering is cut off from the house of the LORD; the priests, the LORD'S ministers, mourn.",
+        "LSG": "Offrandes et libations disparaissent de la maison de l'Eternel; Les sacrificateurs, serviteurs de l'Eternel, sont dans le deuil.",
+        "MAB": "Le gâteau et l'aspersion sont retranchés de la maison de l'Eternel, et les Sacrificateurs qui font le service de l'Eternel mènent deuil.",
+        "OST": "L'offrande et la libation sont retranchées de la maison de l'Éternel; les sacrificateurs qui font le service de l'Éternel sont dans le deuil.",
+        "S21": "Les offrandes végétales et liquides ont disparu de la maison de l'Eternel; les prêtres, les serviteurs de l'Eternel, sont dans le deuil."
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "Les champs sont ravagés,\r\nla terre est dans le deuil,\r\ncar le blé est détruit,\r\nle vin nouveau est dans la honte,\r\nl’huile fraîche a tari.",
+        "DBY": "les champs sont ravagés, la terre mène deuil; car le blé est ravagé, le vin nouveau est honteux, l'huile languit.",
+        "KJV": "The field is wasted, the land mourneth; for the corn is wasted: the new wine is dried up, the oil languisheth.",
+        "LSG": "Les champs sont ravagés, La terre est attristée; Car les blés sont détruits, Le moût est tari, l'huile est desséchée.",
+        "MAB": "Les champs sont ravagés, la terre mène deuil parce que le froment est ravagé, que le vin doux est tari, et que l'huile manque.",
+        "OST": "Les champs sont ravagés, la terre est dans le deuil; car le froment est détruit, le moût est tari, et l'huile est desséchée.",
+        "S21": "Les champs sont dévastés, la terre est attristée, car les blés sont détruits, le vin nouveau est perdu, l'huile est desséchée."
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "Les laboureurs sont dans la honte,\r\nles cultivateurs des vergers et les vignerons hurlent,\r\nà cause du blé et de l’orge,\r\ncar il ne reste rien de la moisson des champs.",
+        "DBY": "Soyez honteux, laboureurs; hurlez, vignerons, -à cause du froment et de l'orge, car la moisson des champs a péri!",
+        "KJV": "Be ye ashamed, O ye husbandmen; howl, O ye vinedressers, for the wheat and for the barley; because the harvest of the field is perished.",
+        "LSG": "Les laboureurs sont consternés, les vignerons gémissent, A cause du froment et de l'orge, Parce que la moisson des champs est perdue.",
+        "MAB": "Laboureurs soyez confus; vignerons hurlez à cause du froment et de l'orge; car la moisson des champs est périe.",
+        "OST": "Laboureurs, soyez confus; vignerons, gémissez, à cause du froment et de l'orge, car la moisson des champs est perdue.",
+        "S21": "Les laboureurs sont consternés, les vignerons se lamentent à cause du blé et de l'orge, parce que la moisson des champs est perdue."
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "Les vignes sont honteuses\r\net les figuiers s’étiolent,\r\nle grenadier et le palmier, l’abricotier,\r\ntous les arbres des champs sont desséchés.\r\nLa joie est dans la honte parmi les hommes.",
+        "DBY": "La vigne est honteuse, et le figuier languit, -le grenadier, le palmier aussi, et le pommier; tous les arbres des champs sont desséchés; car la joie est tarie du milieu des fils des hommes.",
+        "KJV": "The vine is dried up, and the fig tree languisheth; the pomegranate tree, the palm tree also, and the apple tree, [even] all the trees of the field, are withered: because joy is withered away from the sons of men.",
+        "LSG": "La vigne est confuse, Le figuier languissant; Le grenadier, le palmier, le pommier, Tous les arbres des champs sont flétris... La joie a cessé parmi les fils de l'homme!",
+        "MAB": "Les vignes sont sans fruit, et les figuiers ont manqué; les grenadiers, et les palmiers, les pommiers et tous les arbres des champs ont séché, c'est pourquoi la joie a cessé entre les hommes.",
+        "OST": "La vigne est desséchée, le figuier est languissant; le grenadier, même le palmier et le pommier, tous les arbres des champs ont séché, et la joie a cessé parmi les fils des hommes!",
+        "S21": "La vigne est desséchée, le figuier flétri; le grenadier, le palmier, le pommier, tous les arbres des champs sont desséchés. La joie a cessé parmi les hommes!"
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "Revêtez-vous d’un habit de toile de sac, vous, prêtres,\r\nlamentez-vous! Hurlez, vous tous qui officiez devant l’autel!\r\nVenez passer la nuit vêtus d’un habit de toile de sac,\r\nvous qui servez mon Dieu,\r\nparce qu’il n’y a plus d’offrandes, ni de libations qui arrivent dans le Temple de votre Dieu.",
+        "DBY": "Ceignez-vous et lamentez-vous, sacrificateurs; hurlez, vous qui servez l'autel; venez, passez la nuit sous le sac, vous qui servez mon Dieu! car l'offrande et la libation sont ôtées à la maison de votre Dieu.",
+        "KJV": "Gird yourselves, and lament, ye priests: howl, ye ministers of the altar: come, lie all night in sackcloth, ye ministers of my God: for the meat offering and the drink offering is withholden from the house of your God.",
+        "LSG": "Sacrificateurs, ceignez-vous et pleurez! Lamentez-vous, serviteurs de l'autel! Venez, passez la nuit revêtus de sacs, Serviteurs de mon Dieu! Car offrandes et libations ont disparu de la maison de votre Dieu.",
+        "MAB": "Sacrificateurs ceignez-vous, et lamentez; vous qui faites le service de l'autel, hurlez, vous qui faites le service de mon Dieu entrez, passez la nuit vêtus de sacs, car il est défendu au gâteau et à l'aspersion d'entrer en la maison de votre Dieu.",
+        "OST": "Sacrificateurs, ceignez-vous, et menez deuil; vous qui faites le service de l'autel, lamentez-vous; vous qui faites le service de mon Dieu, entrez, passez la nuit revêtus de sacs. Car l'offrande et la libation sont supprimées de la maison de votre Dieu.",
+        "S21": "Prêtres, couvrez-vous de sacs et pleurez! Lamentez-vous, serviteurs de l'autel! Venez, passez la nuit habillés de sacs, serviteurs de mon Dieu, car les offrandes végétales et liquides ont été retenues loin de la maison de votre Dieu."
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "Publiez donc un jeûne, et convoquez une réunion cultuelle,\r\nrassemblez les responsables du peuple avec tous les habitants du pays\r\nau Temple de l’Eternel, de votre Dieu.\r\nSuppliez l’Eternel:",
+        "DBY": "Sanctifiez un jeûne, convoquez une assemblée solennelle; assemblez les anciens, tous les habitants du pays, à la maison de l'Éternel, votre Dieu, et criez à l'Éternel!",
+        "KJV": "Sanctify ye a fast, call a solemn assembly, gather the elders [and] all the inhabitants of the land [into] the house of the LORD your God, and cry unto the LORD,",
+        "LSG": "Publiez un jeûne, une convocation solennelle! Assemblez les vieillards, tous les habitants du pays, Dans la maison de l'Eternel, votre Dieu, Et criez à l'Eternel!",
+        "MAB": "Sanctifiez le jeûne, publiez l'assemblée solennelle, assemblez les anciens, et tous les habitants du pays en la maison de l'Eternel votre Dieu, et criez à l'Eternel; [en disant] :",
+        "OST": "Sanctifiez un jeûne, convoquez une assemblée solennelle, réunissez les anciens et tous les habitants du pays dans la maison de l'Éternel, votre Dieu, et criez à l'Éternel!",
+        "S21": "Proclamez un jeûne, une assemblée solennelle! Rassemblez les anciens, tous les habitants du pays, dans la maison de l'Eternel, votre Dieu, et criez à l'Eternel!"
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "Hélas, quel jour!\r\nLe jour de l’Eternel approche!\r\nComme un fléau dévastateur déchaîné par le Tout-Puissant, il va venir.",
+        "DBY": "Hélas, quel jour! car le jour de l'Éternel est proche, et il viendra comme une destruction du Tout-puissant.",
+        "KJV": "Alas for the day! for the day of the LORD [is] at hand, and as a destruction from the Almighty shall it come.",
+        "LSG": "Ah! quel jour! Car le jour de l'Eternel est proche: Il vient comme un ravage du Tout-Puissant.",
+        "MAB": "Hélas, quelle journée! car la journée de l'Eternel est proche, et elle viendra comme un dégât fait par le Tout-puissant.",
+        "OST": "Ah! quel jour! Car le jour de l'Éternel est proche; il vient comme un ravage du Tout-Puissant.",
+        "S21": "Quel jour terrible! Oui, le jour de l'Eternel est proche, il vient comme une dévastation décidée par le Tout-Puissant."
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "Car ne nous a-t-on pas ôté la nourriture sous nos yeux?\r\nEt du Temple de notre Dieu\r\nn’a-t-on pas retiré la joie et l’allégresse?",
+        "DBY": "La nourriture n'est-elle pas retranchée de devant nos yeux, et, de la maison de notre Dieu, la joie et l'allégresse?",
+        "KJV": "Is not the meat cut off before our eyes, [yea], joy and gladness from the house of our God?",
+        "LSG": "La nourriture n'est-elle pas enlevée sous nos yeux? La joie et l'allégresse n'ont-elles pas disparu de la maison de notre Dieu?",
+        "MAB": "Les vivres ne sont-ils pas retranchés de devant nos yeux; et la joie et l'allégresse, de la maison de notre Dieu?",
+        "OST": "La nourriture n'est-elle pas enlevée sous nos yeux; et de la maison de notre Dieu, la joie et l'allégresse?",
+        "S21": "La nourriture n'est-elle pas enlevée sous nos yeux? La joie et l'allégresse n'ont-elles pas disparu de la maison de notre Dieu?"
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "Les graines répandues pourrissent sous les mottes,\r\nles greniers sont en ruine,\r\nles silos démolis,\r\ncar le blé fait défaut.",
+        "DBY": "Les semences pourrissent sous leurs mottes; les greniers sont désolés; les granges sont renversées, car le blé est desséché.",
+        "KJV": "The seed is rotten under their clods, the garners are laid desolate, the barns are broken down; for the corn is withered.",
+        "LSG": "Les semences ont séché sous les mottes; Les greniers sont vides, Les magasins sont en ruines, Car il n'y a point de blé.",
+        "MAB": "Les grains sont pourris sous leurs mottes, les greniers sont désolés, c'en est fait des granges, parce que le froment a manqué.",
+        "OST": "Les semences ont pourri sous leurs mottes; les greniers sont désolés, les granges sont en ruine, car le blé a péri.",
+        "S21": "Les semences ont séché sous les mottes, les greniers sont vides, les entrepôts sont en ruine, car il n'y a pas de blé."
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "Ecoutez le bétail, comme il gémit!\r\nLes troupeaux de bovins ne savent où aller:\r\ncar ils ne trouvent plus de pâturages\r\net les troupeaux de moutons et de chèvres sont atteints eux aussi.",
+        "DBY": "Comme le bétail gémit! Les troupeaux de gros bétail sont déconcertés, car il n'y a pas de pâturage pour eux; les troupeaux de menu bétail aussi sont en peine.",
+        "KJV": "How do the beasts groan! the herds of cattle are perplexed, because they have no pasture; yea, the flocks of sheep are made desolate.",
+        "LSG": "Comme les bêtes gémissent! Les troupeaux de boeufs sont consternés, Parce qu'ils sont sans pâturage; Et même les troupeaux de brebis sont en souffrance.",
+        "MAB": "Ô combien ont gémi les bêtes, et dans quelle peine ont été les troupeaux de bœufs, parce qu'ils n'ont point de pâturage! Aussi les troupeaux de brebis sont désolés.",
+        "OST": "Comme le bétail gémit! Les troupeaux de bœufs sont consternés, parce qu'ils n'ont point de pâture; même les troupeaux de brebis en souffrent.",
+        "S21": "Comme les bêtes gémissent! Les troupeaux de bœufs sont effrayés parce qu'ils n'ont plus de pâturage, et même les troupeaux de brebis dépérissent."
+      }
+    },
+    {
+      "verse": 19,
+      "texts": {
+        "BDS": "C’est vers toi, Eternel, que je pousse des cris.\r\nOui, car le feu dévore les pâturages de la steppe,\r\net la flamme consume tous les arbres des champs.",
+        "DBY": "A toi, Éternel, je crierai; car le feu a dévoré les pâturages du désert, et la flamme à brûlé tous les arbres des champs.",
+        "KJV": "O LORD, to thee will I cry: for the fire hath devoured the pastures of the wilderness, and the flame hath burned all the trees of the field.",
+        "LSG": "C'est vers toi que je crie, ô Eternel! Car le feu a dévoré les plaines du désert, Et la flamme a brûlé tous les arbres des champs.",
+        "MAB": "Eternel, je crierai à toi, car le feu a consumé les cabanes du désert, et la flamme a brûlé tous les arbres des champs.",
+        "OST": "Éternel, je crie à toi! Car le feu a dévoré les pâturages du désert, et la flamme a consumé tous les arbres des champs.",
+        "S21": "C'est vers toi que je crie, Eternel, car le feu a dévoré les plaines du désert et la flamme a brûlé tous les arbres des champs."
+      }
+    },
+    {
+      "verse": 20,
+      "texts": {
+        "BDS": "Et même les bêtes sauvages vers toi se tournent,\r\ncar les cours d’eau se sont taris,\r\nle feu dévore les pâturages de la steppe.",
+        "DBY": "Les bêtes des champs aussi crient à toi, car les cours d'eau sont desséchés, et le feu a dévoré les pâturages du désert.",
+        "KJV": "The beasts of the field cry also unto thee: for the rivers of waters are dried up, and the fire hath devoured the pastures of the wilderness.",
+        "LSG": "Les bêtes des champs crient aussi vers toi; Car les torrents sont à sec, Et le feu a dévoré les plaines du désert.",
+        "MAB": "Même toutes les bêtes des champs crient à toi, parce que les cours des eaux sont taris, et que le feu a consumé les cabanes du désert.",
+        "OST": "Même les bêtes sauvages soupirent après toi, car les courants d'eaux sont desséchés, et le feu dévore les pâturages du désert.",
+        "S21": "Les bêtes sauvages crient aussi vers toi, car les torrents sont à sec et le feu a dévoré les plaines du désert."
+      }
+    }
+  ]
+}

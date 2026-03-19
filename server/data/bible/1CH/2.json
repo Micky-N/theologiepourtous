@@ -1,0 +1,666 @@
+{
+  "bookCode": "1CH",
+  "chapter": 2,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "Voici la liste des fils d’Israël. Ruben, Siméon, Lévi, Juda, Issacar, Zabulon,",
+        "DBY": "Ce sont ici les fils d'Israël: Ruben, Siméon, Lévi et Juda; Issacar et Zabulon;",
+        "KJV": "These [are] the sons of Israel; Reuben, Simeon, Levi, and Judah, Issachar, and Zebulun,",
+        "LSG": "Voici les fils d'Israël. Ruben, Siméon, Lévi, Juda, Issacar, Zabulon,",
+        "MAB": "Ce sont ici les enfants d'Israël, Ruben, Siméon, Lévi, Juda, Issacar, Zabulon,",
+        "OST": "Voici les fils d'Israël: Ruben, Siméon, Lévi, Juda, Issacar, Zabulon,",
+        "S21": "Voici les fils d'Israël. Ruben, Siméon, Lévi, Juda, Issacar, Zabulon,"
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "Dan, Joseph, Benjamin, Nephtali, Gad et Aser.",
+        "DBY": "Dan, Joseph et Benjamin; Nephthali, Gad et Aser.",
+        "KJV": "Dan, Joseph, and Benjamin, Naphtali, Gad, and Asher.",
+        "LSG": "Dan, Joseph, Benjamin, Nephthali, Gad et Aser.",
+        "MAB": "Dan, Joseph, Benjamin, Nephthali, Gad, et Aser.",
+        "OST": "Dan, Joseph, Benjamin, Nephthali, Gad et Asser.",
+        "S21": "Dan, Joseph, Benjamin, Nephthali, Gad et Aser."
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "Juda eut trois fils, de sa femme cananéenne, la fille de Choua: Er, Onân, Chéla. Er, le fils aîné de Juda, était jugé mauvais par l’Eternel qui le fit mourir.",
+        "DBY": "Les fils de Juda: Er, et Onan, et Shéla; ces trois lui naquirent de la fille de Shua, la Cananéenne. Et Er, premier-né de Juda, fut méchant aux yeux de l'Éternel; et il le fit mourir.",
+        "KJV": "The sons of Judah; Er, and Onan, and Shelah: [which] three were born unto him of the daughter of Shua the Canaanitess. And Er, the firstborn of Judah, was evil in the sight of the LORD; and he slew him.",
+        "LSG": "Fils de Juda: Er, Onan, Schéla; ces trois lui naquirent de la fille de Schua, la Cananéenne. Er, premier-né de Juda, était méchant aux yeux de l'Eternel, qui le fit mourir.",
+        "MAB": "Les enfants de Juda furent, Her, Onan, et Séla. Ces trois lui naquirent de la fille de Suah, Cananéenne; mais Her premier-né de Juda fut méchant devant l'Eternel, et il le fit mourir.",
+        "OST": "Fils de Juda: Er, Onan et Shéla. Ces trois lui naquirent de la fille de Shua, la Cananéenne. Er, premier-né de Juda, était méchant devant l'Éternel, et il le fit mourir.",
+        "S21": "Fils de Juda: Er, Onan, Shéla. Il eut ces trois enfants de la fille de Shua, la Cananéenne. Er, le fils aîné de Juda, était méchant aux yeux de l'Eternel et celui-ci le fit mourir."
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "Tamar, la belle-fille de Juda, lui donna Pérets et Zérah. Juda eut donc en tout cinq fils.",
+        "DBY": "Et Tamar, sa belle-fille, lui enfanta Pérets et Zérakh. Tous les fils de Juda: cinq.",
+        "KJV": "And Tamar his daughter in law bare him Pharez and Zerah. All the sons of Judah [were] five.",
+        "LSG": "Tamar, belle-fille de Juda, lui enfanta Pérets et Zérach. Total des fils de Juda: cinq.",
+        "MAB": "Et Tamar, sa belle-fille, lui enfanta Pharez et Zara. Tous les enfants de Juda furent cinq.",
+        "OST": "Tamar, sa belle-fille, lui enfanta Pharets et Zérach. Total des fils de Juda: cinq.",
+        "S21": "Tamar, la belle-fille de Juda, lui donna Pérets et Zérach. Total des fils de Juda: 5."
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "Fils de Pérets: Hetsrôn et Hamoul.",
+        "DBY": "-Les fils de Pérets: Hetsron et Hamul.",
+        "KJV": "The sons of Pharez; Hezron, and Hamul.",
+        "LSG": "Fils de Pérets: Hetsron et Hamul.",
+        "MAB": "Les enfants de Pharez, Hetsron, et Hamul.",
+        "OST": "Fils de Pharets: Hetsron et Hamul.",
+        "S21": "Fils de Pérets: Hetsron et Hamul."
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "Fils de Zérah: Zimri, Etân, Hémân, Kalkol et Darda, cinq en tout.",
+        "DBY": "-Et les fils Zérakh: Zimri, et Éthan, et Héman, et Calcol, et Dara: cinq en tout.",
+        "KJV": "And the sons of Zerah; Zimri, and Ethan, and Heman, and Calcol, and Dara: five of them in all.",
+        "LSG": "Fils de Zérach: Zimri, Ethan, Héman, Calcol et Dara. En tout: cinq. -",
+        "MAB": "Et les enfants de Zara furent, Zimri, Ethan, Héman, Calcol et Darah, cinq en tout.",
+        "OST": "Fils de Zérach: Zimri, Éthan, Héman, Calcol et Dara; cinq en tout.",
+        "S21": "Fils de Zérach: Zimri, Ethan, Héman, Calcol et Dara. En tout: 5."
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "Fils de Karmi: Akar (Trouble), qui fut cause de désordre en Israël lorsqu’il commit une infidélité à l’égard de ce qui était voué à l’Eternel.",
+        "DBY": "-Et les fils de Carmi: Acar, qui troubla Israël et qui pécha au sujet de l'exécration.",
+        "KJV": "And the sons of Carmi; Achar, the troubler of Israel, who transgressed in the thing accursed.",
+        "LSG": "Fils de Carmi: Acar, qui troubla Israël lorsqu'il commit une infidélité au sujet des choses dévouées par interdit. -",
+        "MAB": "Carmi [n'eut point de fils qu']Hachar qui troubla Israël, et qui pécha en prenant de l'interdit.",
+        "OST": "Fils de Carmi: Acar, qui troubla Israël, lorsqu'il commit une prévarication au sujet de l'interdit.",
+        "S21": "Fils de Carmi: Acar, qui sema le trouble en Israël lorsqu'il commit un acte d’infidélité au sujet des biens voués à la destruction."
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "Fils d’Etân: Azaria.",
+        "DBY": "-Et les fils d'Éthan: Azaria.",
+        "KJV": "And the sons of Ethan; Azariah.",
+        "LSG": "Fils d'Ethan: Azaria.",
+        "MAB": "Et Ethan [n'eut point de] fils qu'Hazaria.",
+        "OST": "Fils d'Éthan: Azaria.",
+        "S21": "Fils d'Ethan: Azaria."
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "Fils de Hetsrôn: Yerahmeél, Ram et Keloubaï.",
+        "DBY": "Et les fils qui naquirent à Hetsron: Jerakhmeël, et Ram, et Kelubaï.",
+        "KJV": "The sons also of Hezron, that were born unto him; Jerahmeel, and Ram, and Chelubai.",
+        "LSG": "Fils qui naquirent à Hetsron: Jerachmeel, Ram et Kelubaï.",
+        "MAB": "Et les enfants qui naquirent à Hetsron furent Jérahméël, Ram, et Célubaï.",
+        "OST": "Fils qui naquirent à Hetsron: Jérachméel, Ram et Kélubaï (Caleb).",
+        "S21": "Fils qu’eut Hetsron: Jerachmeel, Ram et Kelubaï."
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "Ram eut pour fils Amminadab, qui eut pour fils Nahchôn, chef des descendants de Juda.",
+        "DBY": "Et Ram engendra Amminadab; et Amminadab engendra Nakhshon, prince des fils de Juda;",
+        "KJV": "And Ram begat Amminadab; and Amminadab begat Nahshon, prince of the children of Judah;",
+        "LSG": "Ram engendra Amminadab. Amminadab engendra Nachschon, prince des fils de Juda.",
+        "MAB": "Et Ram engendra Hamminadab, et Hamminadab engendra Nahasson, chef des enfants de Juda.",
+        "OST": "Ram engendra Amminadab; Amminadab engendra Nahasshon, prince des enfants de Juda.",
+        "S21": "Ram eut pour fils Amminadab, Amminadab eut Nachshon, qui fut le prince des Judéens."
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "Nahchôn eut pour fils Salma, qui eut pour fils Booz,",
+        "DBY": "et Nakhshon, engendra Salma; et Salma engendra Boaz;",
+        "KJV": "And Nahshon begat Salma, and Salma begat Boaz,",
+        "LSG": "Nachschon engendra Salma. Salma engendra Boaz.",
+        "MAB": "Et Nahasson engendra Salma, et Salma engendra Booz.",
+        "OST": "Nahasshon engendra Salma. Salma engendra Booz.",
+        "S21": "Nachshon eut pour fils Salma. Salma eut Boaz."
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "qui eut pour fils Obed, qui eut pour fils Isaï.",
+        "DBY": "et Boaz engendra Obed; et Obed engendra Isaï.",
+        "KJV": "And Boaz begat Obed, and Obed begat Jesse,",
+        "LSG": "Boaz engendra Obed. Obed engendra Isaï.",
+        "MAB": "Et Booz engendra Obed, et Obed engendra Isaï.",
+        "OST": "Booz engendra Obed. Obed engendra Isaï.",
+        "S21": "Boaz eut pour fils Obed. Obed eut Isaï."
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "Isaï eut pour fils: Eliab, son aîné, Abinadab, son deuxième, Chimea, son troisième.",
+        "DBY": "Et Isaï engendra son premier-né, Éliab, et Abinadab, le second, et Shimha, le troisième;",
+        "KJV": "And Jesse begat his firstborn Eliab, and Abinadab the second, and Shimma the third,",
+        "LSG": "Isaï engendra Eliab, son premier-né, Abinadab le second, Schimea le troisième,",
+        "MAB": "Et Isaï engendra son premier-né Eliab, le second Abinadab, le troisième Simha.",
+        "OST": "Isaï engendra Éliab son premier-né, Abinadab le second, Shimea le troisième,",
+        "S21": "Isaï eut pour fils Eliab, son aîné, Abinadab le deuxième, Shimea le troisième,"
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "Netaneél, son quatrième, Raddaï, son cinquième,",
+        "DBY": "Nethaneël, le quatrième; Raddaï, le cinquième;",
+        "KJV": "Nethaneel the fourth, Raddai the fifth,",
+        "LSG": "Nethaneel le quatrième, Raddaï le cinquième,",
+        "MAB": "Le quatrième Nathanaël, le cinquième Raddaï,",
+        "OST": "Nathanaël le quatrième, Raddaï le cinquième,",
+        "S21": "Nathanaël le quatrième, Raddaï le cinquième,"
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "Otsem son sixième, et David son septième.",
+        "DBY": "Otsem, le sixième;",
+        "KJV": "Ozem the sixth, David the seventh:",
+        "LSG": "Otsem le sixième, David le septième.",
+        "MAB": "Le sixième Otsen, et le septième, David.",
+        "OST": "Otsem le sixième, David le septième.",
+        "S21": "Otsem le sixième et David le septième."
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "Leurs sœurs étaient Tserouya et Abigaïl. Tserouya eut trois fils: Abchaï, Joab et Asaël.",
+        "DBY": "David, le septième; et leurs sœurs: Tseruïa et Abigaïl. -Et les fils de Tseruïa: Abishaï, et Joab, et Asçaël, trois.",
+        "KJV": "Whose sisters [were] Zeruiah, and Abigail. And the sons of Zeruiah; Abishai, and Joab, and Asahel, three.",
+        "LSG": "Leurs soeurs étaient: Tseruja et Abigaïl. Fils de Tseruja: Abischaï, Joab et Asaël, trois.",
+        "MAB": "Et Tséruïa et Abigaïl furent leurs sœurs. Tséruïa eut trois fils, Abisaï, Joab, et Hazaël.",
+        "OST": "Tséruja et Abigaïl étaient leurs sœurs. Fils de Tséruja: Abishaï, Joab et Azaël, trois.",
+        "S21": "Leurs sœurs étaient Tseruja et Abigaïl. Fils de Tseruja: Abishaï, Joab et Asaël, ce qui fait 3."
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "Abigaïl eut un fils, Amasa, de Yétér, l’Ismaélite.",
+        "DBY": "-Et Abigaïl enfanta Amasa; et le père d'Amasa fut Jéther, Ismaélite.",
+        "KJV": "And Abigail bare Amasa: and the father of Amasa [was] Jether the Ishmeelite.",
+        "LSG": "Abigaïl enfanta Amasa; le père d'Amasa fut Jéther, l'Ismaélite.",
+        "MAB": "Et Abigaïl enfanta Hamasa, dont le père [fut] Jéther Ismaëlite.",
+        "OST": "Abigaïl enfanta Amasa, dont le père fut Jéther, l'Ismaélite.",
+        "S21": "Abigaïl mit au monde Amasa; le père d'Amasa était Jéther l'Ismaélite."
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "Caleb, fils de Hetsrôn, eut de sa femme Azouba une fille, Yerioth, et trois fils, Yécher, Chobab et Ardôn.",
+        "DBY": "Et Caleb, fils de Hetsron, eut des enfants d'Azuba, sa femme, et de Jerioth dont voici les fils: Jésher, et Shobab, et Ardon.",
+        "KJV": "And Caleb the son of Hezron begat [children] of Azubah [his] wife, and of Jerioth: her sons [are] these; Jesher, and Shobab, and Ardon.",
+        "LSG": "Caleb, fils de Hetsron, eut des enfants d'Azuba, sa femme, et de Jerioth. Voici les fils qu'il eut d'Azuba: Jéscher, Schobab et Ardon.",
+        "MAB": "Or Caleb fils de Hetsron eut des enfants de Hazuba sa femme, et aussi de Jérihoth; et ses enfants furent, Jéser, Sobob, et Ardon.",
+        "OST": "Caleb, fils de Hetsron, eut des enfants d'Azuba, sa femme, et de Jérioth; ses fils furent Jésher, Shobab et Ardon.",
+        "S21": "Caleb, fils de Hetsron, eut des enfants de sa femme Azuba et de Jerioth. Voici les fils qu'il eut d'Azuba: Jésher, Shobab et Ardon."
+      }
+    },
+    {
+      "verse": 19,
+      "texts": {
+        "BDS": "Azouba mourut, et Caleb prit pour femme Ephrath, qui lui donna Hour.",
+        "DBY": "-Et Azuba mourut, et Caleb prit pour femme Éphrath, et elle lui enfanta Hur;",
+        "KJV": "And when Azubah was dead, Caleb took unto him Ephrath, which bare him Hur.",
+        "LSG": "Azuba mourut; et Caleb prit Ephrath, qui lui enfanta Hur.",
+        "MAB": "Et Hazuba mourut, et Caleb prit à femme Ephrat, qui lui enfanta Hur.",
+        "OST": "Azuba mourut; et Caleb prit pour femme Éphrath, qui lui enfanta Hur.",
+        "S21": "Lorsque Azuba mourut, Caleb épousa Ephrath, qui lui donna Hur."
+      }
+    },
+    {
+      "verse": 20,
+      "texts": {
+        "BDS": "Hour eut pour fils Ouri, et Ouri Betsaleél.",
+        "DBY": "et Hur engendra Uri, et Uri engendra Betsaleël.",
+        "KJV": "And Hur begat Uri, and Uri begat Bezaleel.",
+        "LSG": "Hur engendra Uri, et Uri engendra Betsaleel. -",
+        "MAB": "Et Hur engendra Uri, et Uri engendra Betsaléël.",
+        "OST": "Hur engendra Uri, et Uri engendra Betsaléel.",
+        "S21": "Hur eut pour fils Uri, et Uri eut Betsaleel."
+      }
+    },
+    {
+      "verse": 21,
+      "texts": {
+        "BDS": "Ensuite, alors qu’il avait soixante ans, Hetsrôn s’unit à la fille de Makir, le père de Galaad, et l’épousa. Elle lui donna Ségoub.",
+        "DBY": "-Et après cela, Hetsron vint vers la fille de Makir, père de Galaad, et la prit, lui étant âgé de soixante ans; et elle lui enfanta Segub;",
+        "KJV": "And afterward Hezron went in to the daughter of Machir the father of Gilead, whom he married when he [was] threescore years old; and she bare him Segub.",
+        "LSG": "Ensuite, Hetsron alla vers la fille de Makir, père de Galaad, et il avait soixante ans lorsqu'il la prit; elle lui enfanta Segub.",
+        "MAB": "Après cela Hetsron vint vers la fille de Makir père de Galaad, et la prit [pour sa femme], étant âgé de soixante ans; et elle lui enfanta Ségub.",
+        "OST": "Après cela, Hetsron alla vers la fille de Makir, père de Galaad, et la prit, étant âgé de soixante ans; elle lui enfanta Ségub.",
+        "S21": "Ensuite, Hetsron s’unit à la fille de Makir, le père de Galaad. Il avait 60 ans lorsqu'il l’épousa. Elle lui donna Segub."
+      }
+    },
+    {
+      "verse": 22,
+      "texts": {
+        "BDS": "Ségoub eut pour fils Yaïr, qui posséda vingt-trois villes dans le pays de Galaad.",
+        "DBY": "et Segub engendra Jaïr, et il eut vingt-trois villes dans le pays de Galaad.",
+        "KJV": "And Segub begat Jair, who had three and twenty cities in the land of Gilead.",
+        "LSG": "Segub engendra Jaïr, qui eut vingt-trois villes dans le pays de Galaad.",
+        "MAB": "Et Ségub engendra Jaïr, qui eut vingt et trois villes au pays de Galaad;",
+        "OST": "Ségub engendra Jaïr, qui eut vingt-trois villes au pays de Galaad.",
+        "S21": "Segub eut pour descendant Jaïr, qui posséda 23 villes dans le pays de Galaad."
+      }
+    },
+    {
+      "verse": 23,
+      "texts": {
+        "BDS": "Mais les Guéchouriens et les Syriens prirent de ses descendants les bourgs de Yaïr ainsi que la ville de Qenath et les villes qui en dépendaient, ce qui faisait en tout soixante villes. Tous ceux qui y habitaient étaient des descendants de Makir, le père de Galaad.",
+        "DBY": "Et Gueshur et Aram leur prirent les bourgs de Jaïr, et Kenath, et les villes de son ressort, soixante villes. -Tous ceux-là furent fils de Makir, père de Galaad.",
+        "KJV": "And he took Geshur, and Aram, with the towns of Jair, from them, with Kenath, and the towns thereof, [even] threescore cities. All these [belonged to] the sons of Machir the father of Gilead.",
+        "LSG": "Les Gueschuriens et les Syriens leur prirent les bourgs de Jaïr avec Kenath et les villes de son ressort, soixante villes. Tous ceux-là étaient fils de Makir, père de Galaad.",
+        "MAB": "Et il prit sur Guésur et sur Aram les bourgades de Jaïr, [et] Kénath avec les villes de son ressort, qui sont soixante villes : tous ceux-là furent enfants de Makir père de Galaad.",
+        "OST": "Les Gueshuriens et les Syriens leur prirent les bourgs de Jaïr, Kénath et les villes de son ressort, soixante villes. Tous ceux-là étaient enfants de Makir, père de Galaad.",
+        "S21": "Les Gueshuriens et les Syriens leur prirent les bourgs de Jaïr avec Kenath et les villes qui en dépendaient, ce qui faisait 60 villes. Tous ceux-là étaient les fils de Makir, père de Galaad."
+      }
+    },
+    {
+      "verse": 24,
+      "texts": {
+        "BDS": "Après la mort de Hetsrôn à Caleb-Ephrata, Abiya, sa femme, donna encore naissance à un fils de lui: Achhour, le père de Teqoa.",
+        "DBY": "Et après la mort de Hetsron, à Caleb-Éphratha, Abija, la femme de Hetsron, lui enfanta encore Ashkhur, père de Thekoa.",
+        "KJV": "And after that Hezron was dead in Calebephratah, then Abiah Hezron's wife bare him Ashur the father of Tekoa.",
+        "LSG": "Après la mort de Hetsron à Caleb-Ephratha, Abija, femme de Hetsron, lui enfanta Aschchur, père de Tekoa.",
+        "MAB": "Et après la mort de Hetsron, lorsque Caleb vint vers Ephrat, la femme de Hetsron Abija lui enfanta Ashur père de Tékoah.",
+        "OST": "Après la mort de Hetsron, à Caleb-Éphratha, Abija, femme de Hetsron, lui enfanta Ashur, père de Thékoa.",
+        "S21": "Après la mort de Hetsron à Caleb-Ephrata, sa femme Abija lui donna Ashchur, qui fut le père de Tekoa."
+      }
+    },
+    {
+      "verse": 25,
+      "texts": {
+        "BDS": "Les fils de Yerahmeél, premier-né de Hetsrôn, furent: Ram, l’aîné, Bouna, Orên, Otsem, et Ahiya.",
+        "DBY": "Et les fils de Jerakhmeël, premier-né de Hetsron, furent Ram, le premier-né, et Buna, et Oren, et Otsem, d'Akhija.",
+        "KJV": "And the sons of Jerahmeel the firstborn of Hezron were, Ram the firstborn, and Bunah, and Oren, and Ozem, [and] Ahijah.",
+        "LSG": "Les fils de Jerachmeel, premier-né de Hetsron, furent: Ram, le premier-né, Buna, Oren et Otsem, nés d'Achija.",
+        "MAB": "Et les enfants de Jérahméël premier-né de Hetsron furent, Ram son fils aîné, puis Buna, et Oren, et Otsem, nés d'Achija.",
+        "OST": "Les fils de Jérachméel, premier-né de Hetsron, furent: Ram, le premier-né, Buna, Oren et Otsem, nés d'Achija.",
+        "S21": "Les fils de Jerachmeel, le fils aîné de Hetsron, furent Ram, l’aîné, Buna, Oren, Otsem et Achija."
+      }
+    },
+    {
+      "verse": 26,
+      "texts": {
+        "BDS": "Yerahmeél eut une autre femme, Atara, qui lui donna Onam.",
+        "DBY": "Et Jerakhmeël eut une autre femme, nommée Atara: elle fut mère d'Onam.",
+        "KJV": "Jerahmeel had also another wife, whose name [was] Atarah; she [was] the mother of Onam.",
+        "LSG": "Jerachmeel eut une autre femme, nommée Athara, qui fut mère d'Onam. -",
+        "MAB": "Jérahméël eut aussi une autre femme, nommée Hatara, qui fut mère d'Onam.",
+        "OST": "Jérachméel eut une autre femme, nomée Atara, qui fut mère d'Onam.",
+        "S21": "Jerachmeel eut une autre femme, du nom d’Athara, qui fut la mère d'Onam."
+      }
+    },
+    {
+      "verse": 27,
+      "texts": {
+        "BDS": "Les fils de Ram, le premier-né de Yerahmeél, furent: Maats, Yamîn et Eqer.",
+        "DBY": "-Et les fils de Ram, premier-né de Jerakhmeël furent Maats, et Jamin, et Éker.",
+        "KJV": "And the sons of Ram the firstborn of Jerahmeel were, Maaz, and Jamin, and Eker.",
+        "LSG": "Les fils de Ram, premier-né de Jerachmeel, furent: Maats, Jamin et Eker. -",
+        "MAB": "Et les enfants de Ram premier-né de Jérahméël furent, Mahats, Jamin, et Heker.",
+        "OST": "Les fils de Ram, premier-né de Jérachméel, furent Maats, Jamin et Éker.",
+        "S21": "Les fils de Ram, le fils aîné de Jerachmeel, furent Maats, Jamin et Eker."
+      }
+    },
+    {
+      "verse": 28,
+      "texts": {
+        "BDS": "Les fils d’Onam furent: Chammaï et Yada. Fils de Chammaï: Nadab et Abichour.",
+        "DBY": "Et les fils d'Onam furent Shammaï et Jada; et les fils de Shammaï: Nadab et Abishur.",
+        "KJV": "And the sons of Onam were, Shammai, and Jada. And the sons of Shammai; Nadab, and Abishur.",
+        "LSG": "Les fils d'Onam furent: Schammaï et Jada. Fils de Schammaï: Nadab et Abischur.",
+        "MAB": "Et les enfants d'Onam furent, Sammaï, et Jadah; et les enfants de Sammaï furent, Nadab, et Abisur.",
+        "OST": "Les fils d'Onam furent: Shammaï et Jada. Fils de Shammaï: Nadab et Abishur.",
+        "S21": "Les fils d'Onam furent Shammaï et Jada. Fils de Shammaï: Nadab et Abishur."
+      }
+    },
+    {
+      "verse": 29,
+      "texts": {
+        "BDS": "La femme d’Abichour s’appelait Abihaïl, elle lui donna Ahbân et Molid.",
+        "DBY": "Et le nom de la femme d'Abishur était Abikhaïl; et elle lui enfanta Akhban et Molid.",
+        "KJV": "And the name of the wife of Abishur [was] Abihail, and she bare him Ahban, and Molid.",
+        "LSG": "Le nom de la femme d'Abischur était Abichaïl, et elle lui enfanta Achban et Molid.",
+        "MAB": "Le nom de la femme d'Abisur fut Abihaïl, qui lui enfanta Acham, et Molid.",
+        "OST": "Le nom de la femme d'Abishur était Abichaïl, qui lui enfanta Achban et Molid.",
+        "S21": "La femme d'Abishur s’appelait Abichaïl et elle lui donna Achban et Molid."
+      }
+    },
+    {
+      "verse": 30,
+      "texts": {
+        "BDS": "Fils de Nadab: Séled et Appaïm. Séled mourut sans enfant.",
+        "DBY": "-Et les fils de Nadab: Séled et Appaïm; et Séled mourut sans fils.",
+        "KJV": "And the sons of Nadab; Seled, and Appaim: but Seled died without children.",
+        "LSG": "Fils de Nadab: Séled et Appaïm. Séled mourut sans fils.",
+        "MAB": "Et les enfants de Nadab furent, Séled, et Appajim; mais Séled mourut sans enfants.",
+        "OST": "Fils de Nadab: Séled et Appaïm. Séled mourut sans enfants.",
+        "S21": "Fils de Nadab: Séled et Appaïm. Séled mourut sans fils."
+      }
+    },
+    {
+      "verse": 31,
+      "texts": {
+        "BDS": "Fils d’Appaïm: Yischeï qui fut le père de Chéchân. Chéchân fut le père de Ahlaï.",
+        "DBY": "Et les fils d'Appaïm: Jishi; et les fils de Jishi: Shéshan; et les fils de Shéshan: Akhlaï.",
+        "KJV": "And the sons of Appaim; Ishi. And the sons of Ishi; Sheshan. And the children of Sheshan; Ahlai.",
+        "LSG": "Fils d'Appaïm: Jischeï. Fils de Jischeï: Schéschan. Fils de Schéschan: Achlaï. -",
+        "MAB": "Et Appajim [n'eut point] de fils [que] Jiséhi ; et Jiséhi [n'eut point] de fils [que] Sésan; et Sésan [n'eut qu']Ahlaï.",
+        "OST": "Fils d'Appaïm: Jishéï. Fils de Jishéï: Shéshan. Fils de Shéshan: Achlaï.",
+        "S21": "Fils d'Appaïm: Jisheï. Fils de Jisheï: Shéshan. Fils de Shéshan: Achlaï."
+      }
+    },
+    {
+      "verse": 32,
+      "texts": {
+        "BDS": "Fils de Yada, frère de Chammaï: Yéter et Jonathan. Yéter mourut sans enfant.",
+        "DBY": "-Et les fils de Jada, frère de Shammaï: Jéther et Jonathan; et Jéther mourut sans fils.",
+        "KJV": "And the sons of Jada the brother of Shammai; Jether, and Jonathan: and Jether died without children.",
+        "LSG": "Fils de Jada, frère de Schammaï: Jéther et Jonathan. Jéther mourut sans fils.",
+        "MAB": "Et les enfants de Jadah, frère de Sammaï, furent Jéther, et Jonathan; mais Jéther mourut sans enfants.",
+        "OST": "Fils de Jada, frère de Shammaï: Jéther et Jonathan. Jéther mourut sans enfants.",
+        "S21": "Fils de Jada, le frère de Shammaï: Jéther et Jonathan. Jéther mourut sans fils."
+      }
+    },
+    {
+      "verse": 33,
+      "texts": {
+        "BDS": "Fils de Jonathan: Péleth et Zaza. Ce sont là les descendants de Yérahmeél.",
+        "DBY": "Et les fils de Jonathan: Péleth et Zaza: ce furent là les fils de Jerakhmeël.",
+        "KJV": "And the sons of Jonathan; Peleth, and Zaza. These were the sons of Jerahmeel.",
+        "LSG": "Fils de Jonathan: Péleth et Zara. -Ce sont là les fils de Jerachmeel. -",
+        "MAB": "Et les enfants de Jonathan furent, Péleth, et Zara; ce furent là les enfants de Jérahméël.",
+        "OST": "Fils de Jonathan: Péleth et Zaza. Ce furent là les enfants de Jérachméel.",
+        "S21": "Fils de Jonathan: Péleth et Zara. Ce sont là les descendants de Jerachmeel."
+      }
+    },
+    {
+      "verse": 34,
+      "texts": {
+        "BDS": "Chéchân n’avait pas de fils, il n’avait que des filles. Il avait un esclave égyptien nommé Yarha",
+        "DBY": "Et Shéshan n'eut point de fils, mais des filles; et Shéshan avait un serviteur égyptien nommé Jarkha;",
+        "KJV": "Now Sheshan had no sons, but daughters. And Sheshan had a servant, an Egyptian, whose name [was] Jarha.",
+        "LSG": "Schéschan n'eut point de fils, mais il eut des filles. Schéschan avait un esclave égyptien nommé Jarcha.",
+        "MAB": "Et Sésan n'eut point de fils, mais des filles; or il avait un serviteur Egyptien, nommé Jarhah;",
+        "OST": "Shéshan n'eut point de fils, mais il eut des filles. Il avait un esclave égyptien, nommé Jarcha.",
+        "S21": "Shéshan n'eut pas de fils, mais il eut des filles. Il avait un esclave égyptien du nom de Jarcha,"
+      }
+    },
+    {
+      "verse": 35,
+      "texts": {
+        "BDS": "à qui il donna l’une de ses filles pour femme; celle-ci lui donna Attaï.",
+        "DBY": "et Shéshan donna sa fille pour femme à Jarkha, son serviteur, et elle lui enfanta Atthaï;",
+        "KJV": "And Sheshan gave his daughter to Jarha his servant to wife; and she bare him Attai.",
+        "LSG": "Et Schéschan donna sa fille pour femme à Jarcha, son esclave, à qui elle enfanta Attaï.",
+        "MAB": "Et Sésan donna sa fille pour femme à Jarhah son serviteur, et elle lui enfanta Hattaï.",
+        "OST": "Et Shéshan donna sa fille pour femme à Jarcha, son esclave, et elle lui enfanta Attaï.",
+        "S21": "et il donna sa fille pour femme à son esclave Jarcha, qui eut d’elle Attaï."
+      }
+    },
+    {
+      "verse": 36,
+      "texts": {
+        "BDS": "Attaï fut le père de Nathan, Nathan celui de Zabad,",
+        "DBY": "et Atthaï engendra Nathan, et Nathan engendra Zabad,",
+        "KJV": "And Attai begat Nathan, and Nathan begat Zabad,",
+        "LSG": "Attaï engendra Nathan; Nathan engendra Zabad;",
+        "MAB": "Et Hattaï engendra Nathan, et Nathan engendra Zabad;",
+        "OST": "Attaï engendra Nathan; Nathan engendra Zabad;",
+        "S21": "Attaï eut pour fils Nathan; Nathan eut Zabad;"
+      }
+    },
+    {
+      "verse": 37,
+      "texts": {
+        "BDS": "Zabad d’Ephlal, Ephlal d’Obed,",
+        "DBY": "et Zabad engendra Éphlal, et Éphlal engendra Obed,",
+        "KJV": "And Zabad begat Ephlal, and Ephlal begat Obed,",
+        "LSG": "Zabad engendra Ephlal; Ephlal engendra Obed;",
+        "MAB": "Et Zabad engendra Ephlal; et Ephlal engendra Obed;",
+        "OST": "Zabad engendra Ephlal; Ephlal engendra Obed;",
+        "S21": "Zabad eut pour fils Ephlal; Ephlal eut Obed;"
+      }
+    },
+    {
+      "verse": 38,
+      "texts": {
+        "BDS": "Obed de Jéhu, Jéhu d’Azaria,",
+        "DBY": "et Obed engendra Jéhu, et Jéhu engendra Azaria,",
+        "KJV": "And Obed begat Jehu, and Jehu begat Azariah,",
+        "LSG": "Obed engendra Jéhu; Jéhu engendra Azaria;",
+        "MAB": "Et Obed engendra Jéhu; et Jéhu engendra Hazaria;",
+        "OST": "Obed engendra Jéhu; Jéhu engendra Azaria;",
+        "S21": "Obed eut pour fils Jéhu; Jéhu eut Azaria;"
+      }
+    },
+    {
+      "verse": 39,
+      "texts": {
+        "BDS": "Azaria de Hélets, Hélets d’Elasa,",
+        "DBY": "et Azaria engendra Hélets, et Hélets engendra Elhasça,",
+        "KJV": "And Azariah begat Helez, and Helez begat Eleasah,",
+        "LSG": "Azaria engendra Halets; Halets engendra Elasa;",
+        "MAB": "Et Hazaria engendra Hélets; et Hélets engendra Elhasa;",
+        "OST": "Azaria engendra Hélets; Hélets engendra Élasa;",
+        "S21": "Azaria eut pour fils Halets; Halets eut Elasa;"
+      }
+    },
+    {
+      "verse": 40,
+      "texts": {
+        "BDS": "Elasa de Sismaï, Sismaï de Challoum,",
+        "DBY": "et Elhasça engendra Sismaï, et Sismaï engendra Shallum,",
+        "KJV": "And Eleasah begat Sisamai, and Sisamai begat Shallum,",
+        "LSG": "Elasa engendra Sismaï; Sismaï engendra Schallum;",
+        "MAB": "Et Elhasa engendra Sismaï; et Sismaï engendra Sallum;",
+        "OST": "Élasa engendra Sismaï; Sismaï engendra Shallum;",
+        "S21": "Elasa eut pour fils Sismaï; Sismaï eut Shallum;"
+      }
+    },
+    {
+      "verse": 41,
+      "texts": {
+        "BDS": "Challoum de Yeqamya, Yeqamya d’Elichama.",
+        "DBY": "et Shallum engendra Jekamia, et Jekamia engendra Elishama.",
+        "KJV": "And Shallum begat Jekamiah, and Jekamiah begat Elishama.",
+        "LSG": "Schallum engendra Jekamja; Jekamja engendra Elischama.",
+        "MAB": "Et Sallum engendra Jékamia; et Jékamia engendra Elisamah.",
+        "OST": "Shallum engendra Jékamia; Jékamia engendra Élishama.",
+        "S21": "Shallum eut pour fils Jekamja; Jekamja eut Elishama."
+      }
+    },
+    {
+      "verse": 42,
+      "texts": {
+        "BDS": "Fils de Caleb, le frère de Yerahmeél: Mécha, son premier-né, qui fut le père de Ziph, et Marécha, le père d’Hébron.",
+        "DBY": "Et les fils de Caleb, frère de Jerakhmeël: Mésha, son premier-né (lui est le père de Ziph), et les fils de Marésha, père de Hébron.",
+        "KJV": "Now the sons of Caleb the brother of Jerahmeel [were], Mesha his firstborn, which was the father of Ziph; and the sons of Mareshah the father of Hebron.",
+        "LSG": "Fils de Caleb, frère de Jerachmeel: Méscha, son premier-né, qui fut père de Ziph, et les fils de Maréscha, père d'Hébron.",
+        "MAB": "Les enfants de Caleb, frère de Jérahméël, furent, Mésah son premier-né; celui-ci est le père de Ziph, et les enfants de Marésa père d'Hébron.",
+        "OST": "Fils de Caleb, frère de Jérachméel: Mésha, son premier-né, qui fut père de Ziph, et les fils de Marésha, père d'Hébron.",
+        "S21": "Descendants de Caleb, le frère de Jerachmeel: Mésha, son aîné, qui fut le père de Ziph, et les fils de Marésha, le père d'Hébron."
+      }
+    },
+    {
+      "verse": 43,
+      "texts": {
+        "BDS": "Fils d’Hébron: Qorah, Tappouah, Réqem et Chema.",
+        "DBY": "Et les fils de Hébron: Coré, et Thappuakh, et Rékem, et Shéma.",
+        "KJV": "And the sons of Hebron; Korah, and Tappuah, and Rekem, and Shema.",
+        "LSG": "Fils d'Hébron: Koré, Thappuach, Rékem et Schéma.",
+        "MAB": "Et les enfants d'Hébron furent Korah, Tappuah, Rekem et Sémah.",
+        "OST": "Fils d'Hébron: Kora, Thappuach, Rékem et Shéma.",
+        "S21": "Fils d'Hébron: Koré, Thappuach, Rékem et Shéma."
+      }
+    },
+    {
+      "verse": 44,
+      "texts": {
+        "BDS": "Chema fut le père de Raham, et Raham le père de Yorqeam. Réqem fut le père de Chammaï.",
+        "DBY": "Et Shéma engendra Rakham, père de Jorkeam. Et Rékem engendra Shammaï;",
+        "KJV": "And Shema begat Raham, the father of Jorkoam: and Rekem begat Shammai.",
+        "LSG": "Schéma engendra Racham, père de Jorkeam. Rékem engendra Schammaï.",
+        "MAB": "Et Sémah engendra Raham, père de Jokeham, et Rekem engendra Sammaï.",
+        "OST": "Shéma engendra Racham, père de Jorkéam; et Rékem engendra Shammaï.",
+        "S21": "Shéma eut pour fils Racham, père de Jorkeam. Rékem eut Shammaï."
+      }
+    },
+    {
+      "verse": 45,
+      "texts": {
+        "BDS": "Chammaï eut pour fils Maôn, le père de Beth-Tsour.",
+        "DBY": "et le fils de Shammaï fut Maon; et Maon fut père de Beth-Tsur.",
+        "KJV": "And the son of Shammai [was] Maon: and Maon [was] the father of Bethzur.",
+        "LSG": "Fils de Schammaï: Maon; et Maon, père de Beth-Tsur.",
+        "MAB": "Le fils de Sammaï fut Mahon; et Mahon [fut] père de Beth-tsur.",
+        "OST": "Fils de Shammaï: Maon; et Maon fut père de Bethsur.",
+        "S21": "Fils de Shammaï: Maon, qui fut le père de Beth-Tsur."
+      }
+    },
+    {
+      "verse": 46,
+      "texts": {
+        "BDS": "Epha, épouse de second rang de Caleb, lui donna Harân, Motsa et Gazez. Harân fut le père de Gazez.",
+        "DBY": "Et Épha, concubine de Caleb, enfanta Haran, et Motsa, et Gazez; et Haran engendra Gazez.",
+        "KJV": "And Ephah, Caleb's concubine, bare Haran, and Moza, and Gazez: and Haran begat Gazez.",
+        "LSG": "Epha, concubine de Caleb, enfanta Haran, Motsa et Gazez. Haran engendra Gazez.",
+        "MAB": "Et Hépha concubine de Caleb, enfanta Haran, Motsa et Gazez; Haran aussi engendra Gazez.",
+        "OST": "Épha, concubine de Caleb, enfanta Haran, Motsa et Gazez. Haran engendra Gazez.",
+        "S21": "Epha, la concubine de Caleb, mit au monde Haran, Motsa et Gazez. Haran eut Gazez."
+      }
+    },
+    {
+      "verse": 47,
+      "texts": {
+        "BDS": "Fils de Yahdaï: Réguém, Yotam, Guéchân, Péleth, Epha, et Chaaph.",
+        "DBY": "-Et les fils de Jehdaï: Réguem, et Jotham, et Guéshan, et Péleth, et Épha, et Shaaph.",
+        "KJV": "And the sons of Jahdai; Regem, and Jotham, and Geshan, and Pelet, and Ephah, and Shaaph.",
+        "LSG": "Fils de Jahdaï: Réguem, Jotham, Guéschan, Péleth, Epha et Schaaph.",
+        "MAB": "Et les enfants de Jadaï furent Reguem, Jotham, Guésan, Pelet, Hépha, et Sahaph.",
+        "OST": "Fils de Jahdaï: Réguem, Jotham, Guéshan, Pélet, Épha et Shaaph.",
+        "S21": "Fils de Jahdaï: Réguem, Jotham, Guéshan, Péleth, Epha et Shaaph."
+      }
+    },
+    {
+      "verse": 48,
+      "texts": {
+        "BDS": "Maaka, une autre épouse de second rang de Caleb, lui donna Chébér et Tirhana.",
+        "DBY": "-La concubine de Caleb, Maaca, enfanta Shéber et Tirkhana;",
+        "KJV": "Maachah, Caleb's concubine, bare Sheber, and Tirhanah.",
+        "LSG": "Maaca, concubine de Caleb, enfanta Schéber et Tirchana.",
+        "MAB": "Et Mahaca, la concubine de Caleb, enfanta Séber, et Tirhana.",
+        "OST": "Maaca, concubine de Caleb, enfanta Shéber et Thirchana.",
+        "S21": "Maaca, la concubine de Caleb, mit au monde Shéber et Tirchana."
+      }
+    },
+    {
+      "verse": 49,
+      "texts": {
+        "BDS": "Plus tard, elle donna encore naissance à Chaaph, le père de Madmanna, et à Cheva, le père de Makbéna et de Guibéa. De plus, Caleb avait une fille nommée Aksa.",
+        "DBY": "et elle enfanta Shaaph, père de Madmanna, Sheva, père de Macbéna et père de Guibha; et la fille de Caleb fut Acsa.",
+        "KJV": "She bare also Shaaph the father of Madmannah, Sheva the father of Machbenah, and the father of Gibea: and the daughter of Caleb [was] Achsah.",
+        "LSG": "Elle enfanta encore Schaaph, père de Madmanna, et Scheva, père de Macbéna et père de Guibea. La fille de Caleb était Acsa.",
+        "MAB": "Et [la femme] de Sahaph, père de Madmanna, enfanta Séva, père de Macbéna, et le père de Guibha, et la fille de Caleb fut Hacsa.",
+        "OST": "Elle enfanta aussi Shaaph, père de Madmanna, Shéva, père de Macbéna et père de Guibea. La fille de Caleb était Acsa.",
+        "S21": "Elle donna encore naissance à Shaaph, le père de Madmanna, et à Sheva, le père de Macbéna et de Guibea. La fille de Caleb était Acsa."
+      }
+    },
+    {
+      "verse": 50,
+      "texts": {
+        "BDS": "Tels furent les descendants de Caleb.\r\nFils de Hour: le premier-né de son épouse Ephrata, Chobal, père de Qiryath-Yearim,",
+        "DBY": "Ce sont ici les fils de Caleb: les fils de Hur, premier-né d'Éphratha: Shobal, père de Kiriath-Jéarim;",
+        "KJV": "These were the sons of Caleb the son of Hur, the firstborn of Ephratah; Shobal the father of Kirjathjearim,",
+        "LSG": "Ceux-ci furent fils de Caleb: Schobal, fils de Hur, premier-né d'Ephrata, et père de Kirjath-Jearim;",
+        "MAB": "Ceux-ci furent les enfants de Caleb, fils de Hur, premier-né d'Ephrat, Sobal, père de Kirjath-jéharim.",
+        "OST": "Ceux-ci furent fils de Caleb: Shobal, fils de Hur, premier-né d'Éphrata, et père de Kirjath-Jearim;",
+        "S21": "Voici encore des descendants de Caleb: Shobal, fils de Hur, fils aîné d'Ephrata et père de Kirjath-Jearim;"
+      }
+    },
+    {
+      "verse": 51,
+      "texts": {
+        "BDS": "Salma, père de Bethléhem et Hareph, celui de Beth-Gadér.",
+        "DBY": "Salma, père de Bethléhem; Hareph, père de Beth-Gader.",
+        "KJV": "Salma the father of Bethlehem, Hareph the father of Bethgader.",
+        "LSG": "Salma, père de Bethléhem; Hareph, père de Beth-Gader.",
+        "MAB": "Salma père de Bethléhem, Hareph père de Beth-gader.",
+        "OST": "Salma, père de Bethléhem; Hareph, père de Beth-Gader.",
+        "S21": "Salma, père de Bethléhem; Hareph, père de Beth-Gader."
+      }
+    },
+    {
+      "verse": 52,
+      "texts": {
+        "BDS": "Chobal, le père de Qiryath-Yearim eut des fils: Haroé et Hatsi-Hammenouhoth.",
+        "DBY": "-Et Shobal, père de Kiriath-Jéarim, eut des fils: Haroé, Hatsi-Hammenukhoth.",
+        "KJV": "And Shobal the father of Kirjathjearim had sons; Haroeh, [and] half of the Manahethites.",
+        "LSG": "Les fils de Schobal, père de Kirjath-Jearim, furent: Haroé, Hatsi-Hammenuhoth.",
+        "MAB": "Et Sobal père de Kirjath-jéharim eut des enfants, Haroë, [et] Hatsi-menuhoth.",
+        "OST": "Shobal, père de Kirjath-Jearim, eut des enfants: Haroë, Hatsi-Hamménuhoth.",
+        "S21": "Les fils de Shobal, père de Kirjath-Jearim, furent Haroé et Hatsi-Hammenuhoth."
+      }
+    },
+    {
+      "verse": 53,
+      "texts": {
+        "BDS": "Les familles de Qiryath-Yearim furent: les Yétériens, les Pouriens, les Choumatiens et les Michraïens; de celles-là sont sortis les Tsoreatiens et les Echtaoliens.",
+        "DBY": "Et les familles de Kiriath-Jéarim furent: les Jéthriens, et les Puthiens, et les Shumathiens, et les Mishraïens; de ceux-ci sont sortis les Tsorhathiens et les Eshtaoliens.",
+        "KJV": "And the families of Kirjathjearim; the Ithrites, and the Puhites, and the Shumathites, and the Mishraites; of them came the Zareathites, and the Eshtaulites.",
+        "LSG": "Les familles de Kirjath-Jearim furent: les Jéthriens, les Puthiens, les Schumathiens et les Mischraïens; de ces familles sont sortis les Tsoreathiens et les Eschthaoliens.",
+        "MAB": "Et les familles de Kirjath-jéharim furent les Jithriens, les Puthiens, les Sumathiens, et les Misrahiens; dont sont sortis les Tsarhathiens, et les Estaoliens.",
+        "OST": "Les familles de Kirjath-Jearim furent: les Jithriens, les Puthiens, les Shumathiens et les Mishraïens; de ceux-là sont sortis les Tsoreathiens et les Eshthaoliens.",
+        "S21": "Les clans de Kirjath-Jearim furent les Jéthriens, les Puthiens, les Shumathiens et les Mishraïens; de ces clans sont issus les Tsoreathiens et les Eshthaoliens."
+      }
+    },
+    {
+      "verse": 54,
+      "texts": {
+        "BDS": "Descendants de Salma: les habitants de Bethléhem, de Netopha, d’Arroth-Beth-Joab, d’Hatsi-Hammanahti et de Tsoreïa",
+        "DBY": "-Les fils de Salma: Bethléhem, et les Netophathites, Atroth-Beth-Joab, et les Hatsi-Manakhthiens, les Tsorhiens;",
+        "KJV": "The sons of Salma; Bethlehem, and the Netophathites, Ataroth, the house of Joab, and half of the Manahethites, the Zorites.",
+        "LSG": "Fils de Salma: Bethléhem et les Nethophatiens, Athroth-Beth-Joab, Hatsi-Hammanachthi, les Tsoreïens;",
+        "MAB": "Les enfants de Salma, Bethléhem, et les Nétophatiens, Hatroth, Bethjoab, Hatsimenuhoth, et les Tsorhiens.",
+        "OST": "Enfants de Salma: Bethléhem et les Nétophathiens, Atroth-Beth-Joab, Hatsi-Hammanachthi, les Tsoreïens,",
+        "S21": "Fils de Salma: Bethléhem et les Nethophathiens, Athroth-Beth-Joab, Hatsi-Hammanachthi, les Tsoreïens,"
+      }
+    },
+    {
+      "verse": 55,
+      "texts": {
+        "BDS": "ainsi que les familles des gens instruits habitant à Yaebets, les Tireatiens, les Chimeatiens et les Soukkatiens. Ce sont les Qéniens, issus de Hamath, ancêtre du groupe familial de Rékab.",
+        "DBY": "et les familles des scribes, habitant Jahbets: les Tirhathiens, les Shimhathiens, les Sucathiens. Ceux-là sont les Kéniens, qui sont sortis de Hammath, père de la maison de Récab.",
+        "KJV": "And the families of the scribes which dwelt at Jabez; the Tirathites, the Shimeathites, [and] Suchathites. These [are] the Kenites that came of Hemath, the father of the house of Rechab.",
+        "LSG": "et les familles des scribes demeurant à Jaebets, les Thireathiens, les Schimeathiens et les Sucathiens. Ce sont les Kéniens, issus de Hamath, père de la maison de Récab.",
+        "MAB": "Et les familles des Scribes, qui habitaient à Jahbets, Tirhathiens, Simhathiens, Suchathiens; ce sont les Kéniens, qui sont sortis de Hamath père de Réchab.",
+        "OST": "Et les familles des scribes qui habitaient à Jaebets, les Thireathiens, les Shimathiens, les Suchatiens. Ce sont les Kéniens, issus de Hamath, père de la maison de Récab.",
+        "S21": "ainsi que les clans des scribes installés à Jaebets, les Thireathiens, les Shimeathiens et les Sucathiens. Ce sont les Kéniens, issus de Hamath, l’ancêtre de la famille de Récab."
+      }
+    }
+  ]
+}

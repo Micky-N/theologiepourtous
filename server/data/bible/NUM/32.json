@@ -1,0 +1,510 @@
+{
+  "bookCode": "NUM",
+  "chapter": 32,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "Les descendants de Ruben et de Gad avaient de très grands troupeaux. Ils constatèrent que les pays de Yaezer et de Galaad convenaient bien à l’élevage.",
+        "DBY": "Et les troupeaux des fils de Ruben et des fils de Gad étaient en grand nombre, en très-grande quantité. Et ils virent le pays de Jahzer et le pays de Galaad, et voici, le lieu était un lieu propre pour des troupeaux.",
+        "KJV": "Now the children of Reuben and the children of Gad had a very great multitude of cattle: and when they saw the land of Jazer, and the land of Gilead, that, behold, the place [was] a place for cattle;",
+        "LSG": "Les fils de Ruben et les fils de Gad avaient une quantité considérable de troupeaux, et ils virent que le pays de Jaezer et le pays de Galaad étaient un lieu propre pour des troupeaux.",
+        "MAB": "Or les enfants de Ruben et les enfants de Gad avaient beaucoup de bétail, et en fort grande quantité; et ayant vu le pays de Jahzer, et le pays de Galaad, voici, [ils remarquèrent que] ce lieu-là était propre à tenir du bétail.",
+        "OST": "Or les enfants de Ruben et les enfants de Gad avaient des troupeaux nombreux, considérables; et ils virent le pays de Jazer et le pays de Galaad, et voici, ce lieu était un lieu propre pour le bétail.",
+        "S21": "Les Rubénites et les Gadites avaient une quantité considérable de troupeaux, et ils virent que le pays de Jaezer et le pays de Galaad étaient un endroit approprié pour des troupeaux."
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "Alors ils vinrent trouver Moïse, le prêtre Eléazar et les chefs de la communauté et leur dirent:",
+        "DBY": "Et les fils de Gad et les fils de Ruben vinrent, et parlèrent à Moïse et à Éléazar, le sacrificateur, et aux princes de l'assemblée, disant:",
+        "KJV": "The children of Gad and the children of Reuben came and spake unto Moses, and to Eleazar the priest, and unto the princes of the congregation, saying,",
+        "LSG": "Alors les fils de Gad et les fils de Ruben vinrent auprès de Moïse, du sacrificateur Eléazar et des princes de l'assemblée, et ils leur dirent:",
+        "MAB": "Ainsi les enfants de Gad et les enfants de Ruben vinrent, et parlèrent à Moïse et à Eléazar le Sacrificateur, et aux principaux de l'assemblée, en disant :",
+        "OST": "Et les enfants de Gad et les enfants de Ruben vinrent, et parlèrent à Moïse, à Éléazar, le sacrificateur, et aux principaux de l'assemblée, en disant:",
+        "S21": "Alors les Gadites et les Rubénites vinrent trouver Moïse, le prêtre Eléazar et les princes de l'assemblée, et ils leur dirent:"
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "—Les villes d’Ataroth, de Dibôn, Yaezer, Nimra, Hechbôn, Elealé, Sebam, Nébo et Beôn,",
+        "DBY": "Ataroth, et Dibon, et Jahzer, et Nimra, et Hesbon, et Elhalé, et Sebam, et Nebo, et Béon,",
+        "KJV": "Ataroth, and Dibon, and Jazer, and Nimrah, and Heshbon, and Elealeh, and Shebam, and Nebo, and Beon,",
+        "LSG": "Atharoth, Dibon, Jaezer, Nimra, Hesbon, Elealé, Sebam, Nebo et Beon,",
+        "MAB": "Hataroth, et Dibon, et Jahzer, et Nimrah, et Hesbon, et Elhaleh, et Sébam, et Nébo, et Béhon;",
+        "OST": "Ataroth, Dibon, Jazer, Nimra, Hesbon, Élealé, Sebam, Nébo et Beon,",
+        "S21": "«Atharoth, Dibon, Jaezer, Nimra, Hesbon, Elealé, Sebam, Nebo et Beon,"
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "c’est-à-dire ce territoire que l’Eternel a soumis aux Israélites, est un pays favorable à l’élevage. Or, tes serviteurs possèdent de nombreux troupeaux.",
+        "DBY": "le pays que l'Éternel a frappé devant l'assemblée d'Israël, est un pays propre pour des troupeaux, et tes serviteurs ont des troupeaux.",
+        "KJV": "[Even] the country which the LORD smote before the congregation of Israel, [is] a land for cattle, and thy servants have cattle:",
+        "LSG": "ce pays que l'Eternel a frappé devant l'assemblée d'Israël, est un lieu propre pour des troupeaux, et tes serviteurs ont des troupeaux.",
+        "MAB": "Ce pays-là, que l'Eternel a frappé devant l'assemblée d'Israël, est un pays propre à tenir du bétail, et tes serviteurs ont du bétail.",
+        "OST": "Ce pays, que l'Éternel a frappé devant l'assemblée d'Israël, est un pays propre pour les troupeaux, et tes serviteurs ont des troupeaux.",
+        "S21": "ce pays que l'Eternel a frappé devant l'assemblée d'Israël, est un endroit approprié pour des troupeaux. Or, tes serviteurs ont des troupeaux.»"
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "Puis ils ajoutèrent: Si tu veux bien nous accorder une faveur, attribue à tes serviteurs la possession de ce pays et ne nous fais pas traverser le Jourdain.",
+        "DBY": "Et ils dirent: Si nous avons trouvé faveur à tes yeux, que ce pays soit donné en possession à tes serviteurs; ne nous fais pas passer le Jourdain.",
+        "KJV": "Wherefore, said they, if we have found grace in thy sight, let this land be given unto thy servants for a possession, [and] bring us not over Jordan.",
+        "LSG": "Ils ajoutèrent: Si nous avons trouvé grâce à tes yeux, que la possession de ce pays soit accordée à tes serviteurs, et ne nous fais point passer le Jourdain.",
+        "MAB": "Ils dirent donc : Si nous avons trouvé grâce devant toi, que ce pays soit donné à tes serviteurs en possession; [et] ne nous fais point passer le Jourdain.",
+        "OST": "Ils dirent donc: Si nous avons trouvé grâce à tes yeux, que ce pays soit donné en possession à tes serviteurs; ne nous fais point passer le Jourdain.",
+        "S21": "Ils ajoutèrent: «Si nous avons trouvé grâce à tes yeux, que la possession de ce pays soit accordée à tes serviteurs. Ne nous fais pas passer le Jourdain.»"
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "Moïse répondit aux membres des deux tribus:\r\n—Vous voulez rester ici pendant que vos compatriotes vont à la guerre?",
+        "DBY": "Et Moïse dit aux fils de Gad et aux fils de Ruben: Vos frères iront-ils à la guerre, et vous, vous habiterez ici?",
+        "KJV": "And Moses said unto the children of Gad and to the children of Reuben, Shall your brethren go to war, and shall ye sit here?",
+        "LSG": "Moïse répondit aux fils de Gad et aux fils de Ruben: Vos frères iront-ils à la guerre, et vous, resterez-vous ici?",
+        "MAB": "Mais Moïse répondit aux enfants de Gad, et aux enfants de Ruben : Vos frères iront-ils à la guerre, et vous demeurerez-vous ici?",
+        "OST": "Mais Moïse répondit aux enfants de Gad et aux enfants de Ruben: Vos frères iront-ils à la guerre, tandis que vous, vous demeurerez ici?",
+        "S21": "Moïse répondit aux Gadites et aux Rubénites: «Vos frères iraient à la guerre pendant que vous, vous resteriez ici?"
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "Pourquoi découragez-vous les Israélites de se rendre dans le pays que l’Eternel leur donne?",
+        "DBY": "Et pourquoi découragez-vous les fils d'Israël de passer dans le pays que l'Éternel leur a donné?",
+        "KJV": "And wherefore discourage ye the heart of the children of Israel from going over into the land which the LORD hath given them?",
+        "LSG": "Pourquoi voulez-vous décourager les enfants d'Israël de passer dans le pays que l'Eternel leur donne?",
+        "MAB": "Pourquoi faites-vous perdre courage aux enfants d'Israël, pour ne point passer au pays que l'Eternel leur a donné?",
+        "OST": "Pourquoi détourneriez-vous le cœur des enfants d'Israël de passer au pays que l'Éternel leur a donné?",
+        "S21": "Pourquoi voulez-vous décourager les Israélites de passer dans le pays que l'Eternel leur donne?"
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "C’est exactement ce qu’ont fait vos ancêtres quand je les ai envoyés de Qadech-Barnéa pour explorer le pays.",
+        "DBY": "Ainsi firent vos pères lorsque je les envoyai de Kadès-Barnéa pour voir le pays:",
+        "KJV": "Thus did your fathers, when I sent them from Kadeshbarnea to see the land.",
+        "LSG": "Ainsi firent vos pères, quand je les envoyai de Kadès-Barnéa pour examiner le pays.",
+        "MAB": "C'est ainsi que firent vos pères quand je les envoyai de Kadès-barné pour reconnaître le pays.",
+        "OST": "C'est ainsi que firent vos pères, quand je les envoyai de Kadès-Barnéa pour examiner le pays.",
+        "S21": "C’est ce que vos pères ont fait quand je les ai envoyés de Kadès-Barnéa examiner le pays."
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "Ils sont montés jusqu’à la vallée d’Echkol, ils ont observé le pays et, à leur retour, ils ont découragé les Israélites d’aller dans le pays que l’Eternel leur destinait.",
+        "DBY": "ils montèrent à la vallée d'Eshcol, et virent le pays; et ils découragèrent les fils d'Israël, afin qu'ils n'entrassent pas dans le pays que l'Éternel leur avait donné.",
+        "KJV": "For when they went up unto the valley of Eshcol, and saw the land, they discouraged the heart of the children of Israel, that they should not go into the land which the LORD had given them.",
+        "LSG": "Ils montèrent jusqu'à la vallée d'Eschcol, et, après avoir examiné le pays, ils découragèrent les enfants d'Israël d'aller dans le pays que l'Eternel leur donnait.",
+        "MAB": "Car ils montèrent jusqu'à la vallée d'Escol, et virent le pays, puis ils firent perdre courage aux enfants d'Israël, afin qu'ils n'entrassent point au pays que l'Eternel leur avait donné.",
+        "OST": "Car ils montèrent jusqu'au torrent d'Eshcol, et virent le pays; et ils détournèrent le cœur des enfants d'Israël, pour ne point entrer au pays que l'Éternel leur avait donné.",
+        "S21": "Ils sont montés jusqu'à la vallée d'Eshcol et, après avoir examiné le pays, ils ont découragé les Israélites d'aller dans le pays que l'Eternel leur donnait."
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "L’Eternel s’est mis en colère ce jour-là au point qu’il fit ce serment:",
+        "DBY": "Et la colère de l'Éternel s'embrasa en ce jour-là, et il jura, disant:",
+        "KJV": "And the LORD'S anger was kindled the same time, and he sware, saying,",
+        "LSG": "La colère de l'Eternel s'enflamma ce jour-là, et il jura en disant:",
+        "MAB": "C'est pourquoi la colère de l'Eternel s'enflamma en ce jour-là, et il jura, en disant :",
+        "OST": "Et la colère de l'Éternel s'enflamma en ce jour-là, et il fit ce serment et dit:",
+        "S21": "La colère de l'Eternel s’est enflammée ce jour-là et il a juré:"
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "«Jamais ces hommes qui sont sortis d’Egypte et qui ont aujourd’hui vingt ans et plus ne verront la terre que j’ai promise par serment à Abraham, à Isaac et à Jacob, car ils ne m’ont pas obéi fidèlement,",
+        "DBY": "Si les hommes qui sont montés d'Égypte, depuis l'âge de vingt ans et au-dessus, voient la terre que j'ai promise par serment à Abraham, à Isaac, et à Jacob! car ils ne m'ont pas pleinement suivi,",
+        "KJV": "Surely none of the men that came up out of Egypt, from twenty years old and upward, shall see the land which I sware unto Abraham, unto Isaac, and unto Jacob; because they have not wholly followed me:",
+        "LSG": "Ces hommes qui sont montés d'Egypte, depuis l'âge de vingt ans et au-dessus, ne verront point le pays que j'ai juré de donner à Abraham, à Isaac et à Jacob, car ils n'ont pas suivi pleinement ma voie,",
+        "MAB": "Si les hommes qui sont montés [hors] d'Egypte, depuis l'âge de vingt ans, et au dessus, voient le pays pour lequel j'ai juré à Abraham, à Isaac, et à Jacob; car ils n'ont point persévéré à me suivre.",
+        "OST": "Les hommes qui sont montés d'Égypte, depuis l'âge de vingt ans et au-dessus, ne verront jamais le pays que j'ai juré de donner à Abraham, à Isaac et à Jacob, car ils n'ont pas pleinement marché après moi;",
+        "S21": "‘Ces hommes âgés de 20 ans et plus qui sont montés d'Egypte ne verront pas le pays que j'ai juré de donner à Abraham, à Isaac et à Jacob, car ils n'ont pas suivi pleinement ma voie,"
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "excepté Caleb, fils de Yephounné le Qenizien, et Josué, fils de Noun, qui ont fidèlement obéi à l’Eternel.»",
+        "DBY": "-excepté Caleb, fils de Jéphunné, le Kenizien, et Josué, fils de Nun, car ils ont pleinement suivi l'Éternel.",
+        "KJV": "Save Caleb the son of Jephunneh the Kenezite, and Joshua the son of Nun: for they have wholly followed the LORD.",
+        "LSG": "excepté Caleb, fils de Jephunné, le Kenizien, et Josué, fils de Nun, qui ont pleinement suivi la voie de l'Eternel.",
+        "MAB": "Excepté Caleb, fils de Jéphunné Kénisien, et Josué fils de Nun; car ils ont persévéré à suivre l'Eternel.",
+        "OST": "Excepté Caleb, fils de Jéphunné, le Kenizien, et Josué, fils de Nun, car ils ont suivi pleinement l'Éternel.",
+        "S21": "excepté Caleb, fils de Jephunné, le Kénizien, et Josué, fils de Nun, qui ont pleinement suivi la voie de l'Eternel.’"
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "L’Eternel se mit donc en colère contre Israël, et il les fit errer dans le désert durant quarante années jusqu’à l’extinction de toute la génération qui avait mal agi envers l’Eternel.",
+        "DBY": "Et la colère de l'Éternel s'embrasa contre Israël, et il les a fait errer dans le désert quarante ans, jusqu'à ce qu'ait péri toute la génération qui avait fait ce qui est mauvais aux yeux de l'Éternel.",
+        "KJV": "And the LORD'S anger was kindled against Israel, and he made them wander in the wilderness forty years, until all the generation, that had done evil in the sight of the LORD, was consumed.",
+        "LSG": "La colère de l'Eternel s'enflamma contre Israël, et il les fit errer dans le désert pendant quarante années, jusqu'à l'anéantissement de toute la génération qui avait fait le mal aux yeux de l'Eternel.",
+        "MAB": "Ainsi la colère de l'Eternel s'enflamma contre Israël, et il les a fait errer par le désert, quarante ans, jusqu'à ce que toute la génération qui avait fait ce qui déplaisait à l'Eternel, ait été consumée.",
+        "OST": "Ainsi la colère de l'Éternel s'enflamma contre Israël; et il les fit errer dans le désert, quarante ans, jusqu'à ce que toute la génération qui avait fait ce qui est mauvais aux yeux de l'Éternel, eût été consumée.",
+        "S21": "La colère de l'Eternel s’est enflammée contre Israël et il les a fait errer dans le désert pendant 40 ans, jusqu'à la disparition de toute la génération qui avait fait le mal à ses yeux."
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "Et maintenant, voilà que vous prenez le relais de vos pères comme une race de pécheurs, pour attiser encore davantage l’ardente colère de l’Eternel contre Israël.",
+        "DBY": "Et voici, vous vous êtes levés à la place de vos pères, une progéniture d'hommes pécheurs, pour ajouter encore à l'ardeur de la colère de l'Éternel contre Israël.",
+        "KJV": "And, behold, ye are risen up in your fathers' stead, an increase of sinful men, to augment yet the fierce anger of the LORD toward Israel.",
+        "LSG": "Et voici, vous prenez la place de vos pères comme des rejetons d'hommes pécheurs, pour rendre la colère de l'Eternel encore plus ardente contre Israël.",
+        "MAB": "Et voici, vous vous êtes mis en la place de vos pères, comme une race d'hommes pécheurs, pour augmenter encore l'ardeur de la colère de l'Eternel contre Israël.",
+        "OST": "Et voici, vous vous êtes levés à la place de vos pères, comme une race d'hommes pécheurs, pour augmenter encore l'ardeur de la colère de l'Éternel contre Israël.",
+        "S21": "Et voici que vous prenez la place de vos pères, en dignes rejetons d'hommes pécheurs, pour augmenter encore la colère de l'Eternel contre Israël."
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "Car si vous refusez de lui obéir, il vous laissera encore traîner dans ce désert et vous causerez la perte de tout ce peuple.",
+        "DBY": "Si vous vous détournez de lui, il le laissera encore dans le désert, et vous détruirez tout ce peuple.",
+        "KJV": "For if ye turn away from after him, he will yet again leave them in the wilderness; and ye shall destroy all this people.",
+        "LSG": "Car, si vous vous détournez de lui, il continuera de laisser Israël au désert, et vous causerez la perte de tout ce peuple.",
+        "MAB": "Que si vous vous détournez de lui, il continuera encore à le laisser au désert, et vous ferez détruire tout ce peuple.",
+        "OST": "Car si vous vous détournez de lui, il continuera encore à laisser ce peuple dans le désert, et vous le ferez périr tout entier.",
+        "S21": "En effet, si vous vous détournez de lui, il continuera de laisser Israël dans le désert et vous provoquerez ainsi la perte de tout ce peuple.»"
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "—Non, répondirent-ils à Moïse, nous construirons seulement des enclos ici pour nos troupeaux de moutons et de chèvres et des villes pour nos familles.",
+        "DBY": "Et ils s'approchèrent de lui, et dirent: Nous bâtirons ici des enclos pour nos troupeaux, et des villes pour nos petits enfants;",
+        "KJV": "And they came near unto him, and said, We will build sheepfolds here for our cattle, and cities for our little ones:",
+        "LSG": "Ils s'approchèrent de Moïse, et ils dirent: Nous construirons ici des parcs pour nos troupeaux et des villes pour nos petits enfants;",
+        "MAB": "Mais ils s'approchèrent de lui, et lui dirent : Nous bâtirons ici des cloisons pour nos troupeaux, et les villes seront pour nos familles.",
+        "OST": "Mais ils s'approchèrent de Moïse, et dirent: Nous bâtirons ici des parcs pour nos troupeaux, et des villes pour nos petits enfants;",
+        "S21": "Ils s'approchèrent de Moïse et dirent: «Nous construirons ici des enclos pour nos troupeaux et des villes pour nos petits enfants."
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "Quant à nous, nous nous armerons sans tarder pour marcher à la tête des Israélites, jusqu’à ce que nous les ayons fait entrer dans le territoire qui leur revient. Nos familles seules resteront dans les villes fortifiées où elles seront à l’abri des habitants du pays.",
+        "DBY": "et nous nous équiperons promptement pour marcher devant les fils d'Israël, jusqu'à ce que nous les ayons introduits en leur lieu; et nos petits enfants habiteront dans les villes fortes, à cause des habitants du pays.",
+        "KJV": "But we ourselves will go ready armed before the children of Israel, until we have brought them unto their place: and our little ones shall dwell in the fenced cities because of the inhabitants of the land.",
+        "LSG": "puis nous nous équiperons en hâte pour marcher devant les enfants d'Israël, jusqu'à ce que nous les ayons introduits dans le lieu qui leur est destiné; et nos petits enfants demeureront dans les villes fortes, à cause des habitants du pays.",
+        "MAB": "Et nous nous équiperons pour marcher promptement devant les enfants d'Israël, jusqu'à ce que nous les ayons introduits en leur lieu; mais nos familles demeureront dans les villes murées, à cause des habitants du pays.",
+        "OST": "Puis nous nous équiperons promptement pour marcher devant les enfants d'Israël, jusqu'à ce que nous les ayons fait entrer dans leur lieu; mais nos petits enfants demeureront dans les villes fortes, à cause des habitants du pays.",
+        "S21": "Puis nous-mêmes, nous nous empresserons de prendre les armes pour marcher en tête des Israélites jusqu'à ce que nous les ayons fait entrer chez eux. Quant à nos petits enfants, ils resteront dans les villes fortifiées à cause des habitants du pays."
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "Nous ne rentrerons pas dans nos foyers avant que chacun des Israélites ait pris possession de l’héritage qui lui revient.",
+        "DBY": "Nous ne reviendrons pas dans nos maisons, jusqu'à ce que les fils d'Israël aient pris possession chacun de son héritage;",
+        "KJV": "We will not return unto our houses, until the children of Israel have inherited every man his inheritance.",
+        "LSG": "Nous ne retournerons point dans nos maisons avant que les enfants d'Israël aient pris possession chacun de son héritage;",
+        "MAB": "Nous ne retournerons point en nos maisons que chacun des enfants d'Israël n'ait pris possession de son héritage;",
+        "OST": "Nous ne retournerons point dans nos maisons, que chacun des enfants d'Israël n'ait pris possession de son héritage;",
+        "S21": "Nous ne retournerons pas chez nous avant que chacun des Israélites ait pris possession de son héritage,"
+      }
+    },
+    {
+      "verse": 19,
+      "texts": {
+        "BDS": "Mais nous ne posséderons pas de territoire de l’autre côté du Jourdain et au-delà, puisque nous aurons déjà reçu notre patrimoine foncier de ce côté-ci, à l’est du Jourdain.",
+        "DBY": "car nous n'hériterons pas avec eux au delà du Jourdain, ni plus loin, parce que notre héritage nous est échu, à nous, de ce côté du Jourdain, vers le levant.",
+        "KJV": "For we will not inherit with them on yonder side Jordan, or forward; because our inheritance is fallen to us on this side Jordan eastward.",
+        "LSG": "et nous ne posséderons rien avec eux de l'autre côté du Jourdain, ni plus loin, puisque nous aurons notre héritage de ce côté-ci du Jourdain, à l'orient.",
+        "MAB": "Et nous ne posséderons rien en héritage avec eux au delà du Jourdain, ni plus avant; parce que notre héritage nous sera échu au deçà du Jourdain vers l'Orient.",
+        "OST": "Et nous ne posséderons rien avec eux au delà du Jourdain ni plus loin, parce que notre héritage nous sera échu de ce côté-ci du Jourdain, à l'Orient.",
+        "S21": "et nous ne posséderons rien avec eux de l'autre côté du Jourdain ni plus loin, puisque nous aurons notre héritage de ce côté-ci du Jourdain, à l'est.»"
+      }
+    },
+    {
+      "verse": 20,
+      "texts": {
+        "BDS": "Moïse leur répondit:\r\n—Si vous tenez parole, si vous êtes prêts à combattre en présence de l’Eternel,",
+        "DBY": "Et Moïse leur dit: Si vous faites cela, si vous vous équipez devant l'Éternel pour la guerre,",
+        "KJV": "And Moses said unto them, If ye will do this thing, if ye will go armed before the LORD to war,",
+        "LSG": "Moïse leur dit: Si vous faites cela, si vous vous armez pour combattre devant l'Eternel,",
+        "MAB": "Et Moïse leur dit : Si vous faites cela, et que vous vous équipiez devant l'Eternel pour aller à la guerre;",
+        "OST": "Et Moïse leur dit: Si vous faites cela, si vous vous équipez pour aller au combat devant l'Éternel,",
+        "S21": "Moïse leur dit: «Si vous faites ce que vous avez dit, si vous prenez les armes pour combattre devant l'Eternel,"
+      }
+    },
+    {
+      "verse": 21,
+      "texts": {
+        "BDS": "si tous vos guerriers passent le Jourdain devant l’Eternel jusqu’à ce qu’il ait dépossédé ses ennemis devant lui,",
+        "DBY": "et que tous ceux d'entre vous qui sont équipés, passent le Jourdain devant l'Éternel, jusqu'à ce qu'il ait dépossédé ses ennemis devant lui,",
+        "KJV": "And will go all of you armed over Jordan before the LORD, until he hath driven out his enemies from before him,",
+        "LSG": "si tous ceux de vous qui s'armeront passent le Jourdain devant l'Eternel jusqu'à ce qu'il ait chassé ses ennemis loin de sa face,",
+        "MAB": "Et que chacun de vous étant équipé passe le Jourdain devant l'Eternel, jusqu'à ce qu'il ait chassé ses ennemis de devant soi;",
+        "OST": "Et que chacun de vous passe, équipé, le Jourdain devant l'Éternel, jusqu'à ce qu'il ait chassé ses ennemis de devant lui,",
+        "S21": "si tous vos hommes équipés passent le Jourdain devant l'Eternel jusqu'à ce qu'il ait chassé ses ennemis loin de lui"
+      }
+    },
+    {
+      "verse": 22,
+      "texts": {
+        "BDS": "et si vous revenez seulement lorsque le pays sera soumis devant l’Eternel, alors vous aurez satisfait à vos obligations envers lui et envers Israël, et cette région-ci vous appartiendra en pleine propriété avec l’accord de l’Eternel.",
+        "DBY": "et que le pays soit subjugué devant l'Éternel, et qu'ensuite vous vous en retourniez, alors vous serez innocents, envers l'Éternel et envers Israël; et ce pays-ci sera votre possession devant l'Éternel.",
+        "KJV": "And the land be subdued before the LORD: then afterward ye shall return, and be guiltless before the LORD, and before Israel; and this land shall be your possession before the LORD.",
+        "LSG": "et si vous revenez seulement après que le pays aura été soumis devant l'Eternel, -vous serez alors sans reproche vis-à-vis de l'Eternel et vis-à-vis d'Israël, et cette contrée-ci sera votre propriété devant l'Eternel.",
+        "MAB": "Et que le pays soit subjugué devant l'Eternel, et qu'ensuite vous vous en retourniez, alors vous serez innocents envers l'Eternel, et envers Israël; et ce pays-ci vous appartiendra pour le posséder devant l'Eternel.",
+        "OST": "Et que le pays soit soumis devant l'Éternel; et qu'ensuite vous vous en retourniez; alors vous serez innocents envers l'Éternel et envers Israël, et ce pays vous appartiendra pour le posséder devant l'Éternel.",
+        "S21": "et si vous ne revenez qu’une fois le pays soumis à l'Eternel, vous serez alors sans reproche vis-à-vis de l'Eternel et vis-à-vis d'Israël, et cette région-ci sera votre propriété devant l'Eternel."
+      }
+    },
+    {
+      "verse": 23,
+      "texts": {
+        "BDS": "Mais si vous n’agissez pas ainsi, vous péchez contre l’Eternel. Sachez alors que les conséquences de votre péché retomberont sur vous!",
+        "DBY": "Mais si vous ne faites pas ainsi, voici, vous pécherez contre l'Éternel; et sachez que votre péché vous trouvera.",
+        "KJV": "But if ye will not do so, behold, ye have sinned against the LORD: and be sure your sin will find you out.",
+        "LSG": "Mais si vous ne faites pas ainsi, vous péchez contre l'Eternel; sachez que votre péché vous atteindra.",
+        "MAB": "Mais si vous ne faites point cela, voici, vous aurez péché contre l'Eternel; et sachez que votre péché vous trouvera.",
+        "OST": "Mais si vous n'agissez pas ainsi, voici, vous aurez péché contre l'Éternel, et sachez que votre péché vous trouvera.",
+        "S21": "Mais si vous n’agissez pas ainsi, vous péchez contre l'Eternel et, sachez-le, votre péché vous atteindra."
+      }
+    },
+    {
+      "verse": 24,
+      "texts": {
+        "BDS": "Construisez-vous donc des villes pour vos familles et des enclos pour vos troupeaux; puis tenez parole!",
+        "DBY": "Bâtissez-vous des villes pour vos petits enfants, et des enclos pour vos troupeaux; et ce qui est sorti de votre bouche, faites-le.",
+        "KJV": "Build you cities for your little ones, and folds for your sheep; and do that which hath proceeded out of your mouth.",
+        "LSG": "Construisez des villes pour vos petits enfants et des parcs pour vos troupeaux, et faites ce que votre bouche a déclaré.",
+        "MAB": "Bâtissez donc des villes pour vos familles; et des cloisons pour vos troupeaux, et faites ce que vous avez dit.",
+        "OST": "Bâtissez donc des villes pour vos petits enfants, et des parcs pour vos troupeaux, et faites ce que vous avez dit.",
+        "S21": "Construisez des villes pour vos petits enfants et des enclos pour vos troupeaux, et faites ce que vous avez déclaré.»"
+      }
+    },
+    {
+      "verse": 25,
+      "texts": {
+        "BDS": "Les descendants de Gad et de Ruben dirent à Moïse:\r\n—Tes serviteurs obéiront aux ordres de mon seigneur.",
+        "DBY": "Et les fils de Gad et les fils de Ruben parlèrent à Moïse, disant: Tes serviteurs feront comme mon seigneur l'a commandé.",
+        "KJV": "And the children of Gad and the children of Reuben spake unto Moses, saying, Thy servants will do as my lord commandeth.",
+        "LSG": "Les fils de Gad et les fils de Ruben dirent à Moïse: Tes serviteurs feront ce que mon seigneur ordonne.",
+        "MAB": "Alors les enfants de Gad, et les enfants de Ruben parlèrent à Moïse, en disant : Tes serviteurs feront comme mon Seigneur l'a commandé.",
+        "OST": "Alors les enfants de Gad et les enfants de Ruben parlèrent à Moïse, en disant: Tes serviteurs feront ce que mon seigneur commande.",
+        "S21": "Les Gadites et les Rubénites répondirent à Moïse: «Tes serviteurs feront ce que mon seigneur ordonne."
+      }
+    },
+    {
+      "verse": 26,
+      "texts": {
+        "BDS": "Nos enfants, nos femmes, nos troupeaux et tout notre bétail resteront ici dans les villes de Galaad,",
+        "DBY": "Nos petits enfants, nos femmes, nos troupeaux et toutes nos bêtes seront là, dans les villes de Galaad;",
+        "KJV": "Our little ones, our wives, our flocks, and all our cattle, shall be there in the cities of Gilead:",
+        "LSG": "Nos petits enfants, nos femmes, nos troupeaux et tout notre bétail, resteront dans les villes de Galaad;",
+        "MAB": "Nos petits enfants, nos femmes, nos troupeaux, et toutes nos bêtes demeureront ici dans les villes de Galaad.",
+        "OST": "Nos petits enfants, nos femmes, nos troupeaux et tout notre bétail demeureront ici dans les villes de Galaad;",
+        "S21": "Nos petits enfants, nos femmes, nos troupeaux et tout notre bétail resteront dans les villes de Galaad,"
+      }
+    },
+    {
+      "verse": 27,
+      "texts": {
+        "BDS": "tandis que nous, tes serviteurs, tous ceux qui sont aptes à la guerre, nous passerons le Jourdain devant l’Eternel pour aller en guerre, comme mon seigneur l’a ordonné.",
+        "DBY": "et tes serviteurs, tous équipés pour l'armée, passeront devant l'Éternel pour aller à la guerre, comme mon seigneur l'a dit.",
+        "KJV": "But thy servants will pass over, every man armed for war, before the LORD to battle, as my lord saith.",
+        "LSG": "et tes serviteurs, tous armés pour la guerre, iront combattre devant l'Eternel, comme dit mon seigneur.",
+        "MAB": "Et tes serviteurs passeront chacun armé pour aller à la guerre devant l'Eternel, prêts à combattre, comme mon Seigneur a parlé.",
+        "OST": "Et tes serviteurs passeront, tous équipés pour la guerre, devant l'Éternel, prêts à combattre, comme mon seigneur l'a dit.",
+        "S21": "tandis que tes serviteurs, tous équipés pour la guerre, iront combattre devant l'Eternel conformément à la parole de mon seigneur.»"
+      }
+    },
+    {
+      "verse": 28,
+      "texts": {
+        "BDS": "Moïse donna des ordres à leur sujet au prêtre Eléazar, à Josué fils de Noun et aux chefs de tribus des Israélites.",
+        "DBY": "Et Moïse commanda à leur sujet à Éléazar, le sacrificateur, et à Josué, fils de Nun, et aux chefs des pères des tribus des fils d'Israël;",
+        "KJV": "So concerning them Moses commanded Eleazar the priest, and Joshua the son of Nun, and the chief fathers of the tribes of the children of Israel:",
+        "LSG": "Moïse donna des ordres à leur sujet au sacrificateur Eléazar, à Josué, fils de Nun, et aux chefs de famille dans les tribus des enfants d'Israël.",
+        "MAB": "Alors Moïse commanda touchant eux à Eléazar le Sacrificateur, à Josué, fils de Nun, et aux chefs des pères des Tribus des enfants d'Israël;",
+        "OST": "Alors Moïse donna des ordres à leur égard à Éléazar, le sacrificateur, à Josué, fils de Nun, et aux chefs de famille des tribus des enfants d'Israël.",
+        "S21": "Moïse donna des ordres à leur sujet au prêtre Eléazar, à Josué, fils de Nun, et aux chefs de famille dans les tribus des Israélites."
+      }
+    },
+    {
+      "verse": 29,
+      "texts": {
+        "BDS": "Il leur dit:\r\n—Si parmi les descendants de Gad et ceux de Ruben, tous les hommes aptes à la guerre traversent avec vous le Jourdain pour aller au combat devant l’Eternel, une fois que le pays vous sera soumis, vous leur donnerez la région de Galaad en propriété.",
+        "DBY": "et Moïse leur dit: Si les fils de Gad et les fils de Ruben passent avec vous le Jourdain devant l'Éternel, tous équipés pour la guerre, et que le pays soit subjugué devant vous, vous leur donnerez le pays de Galaad en possession.",
+        "KJV": "And Moses said unto them, If the children of Gad and the children of Reuben will pass with you over Jordan, every man armed to battle, before the LORD, and the land shall be subdued before you; then ye shall give them the land of Gilead for a possession:",
+        "LSG": "Il leur dit: Si les fils de Gad et les fils de Ruben passent avec vous le Jourdain, tous armés pour combattre devant l'Eternel, et que le pays soit soumis devant vous, vous leur donnerez en propriété la contrée de Galaad.",
+        "MAB": "Et leur dit : Si les enfants de Gad et les enfants de Ruben passent avec vous le Jourdain tous armés, prêts à combattre devant l'Eternel, et que le pays vous soit assujetti, vous leur donnerez le pays de Galaad en possession.",
+        "OST": "Et Moïse leur dit: Si les enfants de Gad et les enfants de Ruben passent avec vous le Jourdain, tous équipés pour le combat devant l'Éternel, et que le pays soit soumis devant vous, vous leur donnerez en possession le pays de Galaad;",
+        "S21": "Il leur dit: «Si les Gadites et les Rubénites passent le Jourdain avec vous, tous équipés pour combattre devant l'Eternel, et que le pays vous soit soumis, vous leur donnerez en propriété la région de Galaad."
+      }
+    },
+    {
+      "verse": 30,
+      "texts": {
+        "BDS": "Mais s’ils ne passent pas, prêts à combattre avec vous, ils s’installeront au milieu de vous dans le pays de Canaan.",
+        "DBY": "Mais s'ils ne passent pas équipés avec vous, alors ils auront des possessions au milieu de vous dans le pays de Canaan.",
+        "KJV": "But if they will not pass over with you armed, they shall have possessions among you in the land of Canaan.",
+        "LSG": "Mais s'ils ne marchent point en armes avec vous, qu'ils s'établissent au milieu de vous dans le pays de Canaan.",
+        "MAB": "Mais s'ils ne passent point en armes avec vous, ils auront une possession parmi vous au pays de Canaan.",
+        "OST": "Mais s'ils ne passent point en armes avec vous, ils auront leur possession parmi vous au pays de Canaan.",
+        "S21": "Mais s'ils ne marchent pas tout équipés avec vous, ils s'établiront parmi vous dans le pays de Canaan.»"
+      }
+    },
+    {
+      "verse": 31,
+      "texts": {
+        "BDS": "Les Rubénites et les Gadites déclarèrent:\r\n—Nous ferons ce que l’Eternel a ordonné à tes serviteurs.",
+        "DBY": "Et les fils de Gad et les fils de Ruben répondirent, disant: Nous ferons ainsi que l'Éternel a dit à tes serviteurs;",
+        "KJV": "And the children of Gad and the children of Reuben answered, saying, As the LORD hath said unto thy servants, so will we do.",
+        "LSG": "Les fils de Gad et les fils de Ruben répondirent: Nous ferons ce que l'Eternel a dit à tes serviteurs.",
+        "MAB": "Et les enfants de Gad, et les enfants de Ruben répondirent, en disant : Nous ferons ainsi que l'Eternel a parlé à tes serviteurs.",
+        "OST": "Et les enfants de Gad et les enfants de Ruben répondirent, en disant: Nous ferons ce que l'Éternel a dit à tes serviteurs;",
+        "S21": "Les Gadites et les Rubénites répondirent: «Nous ferons ce que l'Eternel a dit à tes serviteurs."
+      }
+    },
+    {
+      "verse": 32,
+      "texts": {
+        "BDS": "Nous passerons équipés pour la bataille devant l’Eternel au pays de Canaan; mais le territoire que nous posséderons comme patrimoine foncier se trouvera de ce côté-ci du Jourdain.",
+        "DBY": "nous passerons équipés devant l'Éternel dans le pays de Canaan, et la possession de notre héritage en deçà du Jourdain sera à nous.",
+        "KJV": "We will pass over armed before the LORD into the land of Canaan, that the possession of our inheritance on this side Jordan [may be] ours.",
+        "LSG": "Nous passerons en armes devant l'Eternel au pays de Canaan; mais que nous possédions notre héritage de ce côté-ci du Jourdain.",
+        "MAB": "Nous passerons en armes devant l'Eternel au pays de Canaan, afin que nous possédions pour notre héritage ce qui est deçà le Jourdain.",
+        "OST": "Nous passerons en armes devant l'Éternel au pays de Canaan; mais nous posséderons pour notre héritage ce qui est de ce côté-ci du Jourdain.",
+        "S21": "Nous passerons tout équipés devant l'Eternel au pays de Canaan, mais nous posséderons notre héritage de ce côté-ci du Jourdain.»"
+      }
+    },
+    {
+      "verse": 33,
+      "texts": {
+        "BDS": "Alors Moïse octroya aux descendants de Gad et de Ruben, ainsi qu’à la moitié de la tribu de Manassé, fils de Joseph, le royaume de Sihôn, roi des Amoréens, et celui d’Og, roi du Basan, c’est-à-dire leur pays avec leurs villes et les terres qui en dépendaient.",
+        "DBY": "Et Moïse leur donna, -aux fils de Gad, et aux fils de Ruben, et à la demi-tribu de Manassé, fils de Joseph, -le royaume de Sihon, roi des Amoréens, et le royaume d'Og, roi de Basan, le pays, selon ses villes, dans leurs confins, les villes du pays à l'entour.",
+        "KJV": "And Moses gave unto them, [even] to the children of Gad, and to the children of Reuben, and unto half the tribe of Manasseh the son of Joseph, the kingdom of Sihon king of the Amorites, and the kingdom of Og king of Bashan, the land, with the cities thereof in the coasts, [even] the cities of the country round about.",
+        "LSG": "Moïse donna aux fils de Gad et aux fils de Ruben, et à la moitié de la tribu de Manassé, fils de Joseph, le royaume de Sihon, roi des Amoréens, et le royaume d'Og, roi de Basan, le pays avec ses villes, avec les territoires des villes du pays tout alentour.",
+        "MAB": "Ainsi Moïse donna aux enfants de Gad, et aux enfants de Ruben, et à la demi-Tribu de Manassé, fils de Joseph, le Royaume de Sihon, Roi des Amorrhéens; et le Royaume de Hog, Roi de Basan, le pays avec ses villes, selon les bornes des villes du pays à l'environ.",
+        "OST": "Ainsi Moïse donna aux enfants de Gad et aux enfants de Ruben, et à la moitié de la tribu de Manassé, fils de Joseph, le royaume de Sihon, roi des Amoréens, et le royaume d'Og, roi de Bassan, le pays avec ses villes, avec les territoires des villes du pays tout autour.",
+        "S21": "Moïse donna aux Gadites et aux Rubénites, ainsi qu’à la moitié de la tribu de Manassé, fils de Joseph, le royaume de Sihon, le roi des Amoréens, et le royaume d'Og, le roi du Basan. Il leur donna ce pays avec ses villes et les territoires environnants."
+      }
+    },
+    {
+      "verse": 34,
+      "texts": {
+        "BDS": "Les hommes de Gad rebâtirent Dibôn, Ataroth, Aroër,",
+        "DBY": "-Et les fils de Gad bâtirent Dibon, et Ataroth, et Aroër,",
+        "KJV": "And the children of Gad built Dibon, and Ataroth, and Aroer,",
+        "LSG": "Les fils de Gad bâtirent Dibon, Atharoth, Aroër,",
+        "MAB": "Alors les enfants de Gad rebâtirent Dibon, Hataroth, Haroher,",
+        "OST": "Alors les enfants de Gad bâtirent Dibon, Ataroth, Aroër,",
+        "S21": "Les Gadites reconstruisirent Dibon, Atharoth, Aroër,"
+      }
+    },
+    {
+      "verse": 35,
+      "texts": {
+        "BDS": "Atroth-Chophân, Yaezer, Yogbeha,",
+        "DBY": "et Atroth-Shophan, et Jahzer, et Jogbeha,",
+        "KJV": "And Atroth, Shophan, and Jaazer, and Jogbehah,",
+        "LSG": "Athroth-Schophan, Jaezer, Jogbeha,",
+        "MAB": "Hatroth-Sophan, Jahzer, Jogbéha,",
+        "OST": "Atroth-Shophan, Jaezer, Jogbeha,",
+        "S21": "Athroth-Shophan, Jaezer, Jogbeha,"
+      }
+    },
+    {
+      "verse": 36,
+      "texts": {
+        "BDS": "Beth-Nimra et Beth-Harân: autant de villes fortifiées avec des enclos pour les moutons et les chèvres.",
+        "DBY": "et Beth-Nimra, et Beth-Haran villes fortes, et des enclos pour le petit bétail.",
+        "KJV": "And Bethnimrah, and Bethharan, fenced cities: and folds for sheep.",
+        "LSG": "Beth-Nimra et Beth-Haran, villes fortes, et ils firent des parcs pour les troupeaux.",
+        "MAB": "Beth-nimrah, et Beth-haran, villes murées. Ils firent aussi des cloisons pour les troupeaux.",
+        "OST": "Beth-Nimra, et Beth-Haran, villes fortes. Ils firent aussi des parcs pour leurs troupeaux.",
+        "S21": "Beth-Nimra et Beth-Haran, des villes fortifiées, et ils firent des enclos pour les troupeaux."
+      }
+    },
+    {
+      "verse": 37,
+      "texts": {
+        "BDS": "Les Rubénites rebâtirent Hechbôn, Elealé et Qiryataïm,",
+        "DBY": "-Et les fils de Ruben bâtirent Hesbon, et Elhalé,",
+        "KJV": "And the children of Reuben built Heshbon, and Elealeh, and Kirjathaim,",
+        "LSG": "Les fils de Ruben bâtirent Hesbon, Elealé et Kirjathaïm,",
+        "MAB": "Et les enfants de Ruben rebâtirent Hesbon, Elhalé, Kirjathajim,",
+        "OST": "Et les enfants de Ruben bâtirent Hesbon, Elealé, Kirjathaïm,",
+        "S21": "Les Rubénites reconstruisirent Hesbon, Elealé et Kirjathaïm,"
+      }
+    },
+    {
+      "verse": 38,
+      "texts": {
+        "BDS": "Nébo et Baal-Meôn, dont les noms furent changés, et Sibma; ils donnèrent de nouveaux noms aux villes qu’ils rebâtirent.",
+        "DBY": "et Kiriathaïm, et Nebo, et Baal-Méon, dont les noms furent changés, et Sibma; et ils donnèrent d'autres noms aux villes qu'ils bâtirent.",
+        "KJV": "And Nebo, and Baalmeon, (their names being changed,) and Shibmah: and gave other names unto the cities which they builded.",
+        "LSG": "Nebo et Baal-Meon, dont les noms furent changés, et Sibma, et ils donnèrent des noms aux villes qu'ils bâtirent.",
+        "MAB": "Nébo, et Bahal-méhon, et Sibma; dont ils changèrent les noms, et ils donnèrent des noms aux villes qu'ils rebâtirent.",
+        "OST": "Nébo, et Baal-Meon, dont les noms furent changés, et Sibma; et ils donnèrent des noms aux villes qu'ils bâtirent.",
+        "S21": "Nebo et Baal-Meon, dont les noms furent changés, ainsi que Sibma, et ils donnèrent des noms aux villes qu'ils construisirent."
+      }
+    },
+    {
+      "verse": 39,
+      "texts": {
+        "BDS": "Les descendants de Makir, fils de Manassé, envahirent le pays de Galaad, le conquirent et dépossédèrent les Amoréens qui s’y trouvaient.",
+        "DBY": "-Et les fils de Makir, fils de Manassé, allèrent dans le pays de Galaad, et les prirent, et dépossédèrent les Amoréens qui y étaient.",
+        "KJV": "And the children of Machir the son of Manasseh went to Gilead, and took it, and dispossessed the Amorite which [was] in it.",
+        "LSG": "Les fils de Makir, fils de Manassé, marchèrent contre Galaad, et s'en emparèrent; ils chassèrent les Amoréens qui y étaient.",
+        "MAB": "Or les enfants de Makir, fils de Manassé, allèrent en Galaad, et le prirent, et dépossédèrent les Amorrhéens qui y étaient.",
+        "OST": "Or, les enfants de Makir, fils de Manassé, allèrent en Galaad, et s'en emparèrent, et dépossédèrent les Amoréens qui y étaient.",
+        "S21": "Les descendants de Makir, fils de Manassé, attaquèrent Galaad et s'en emparèrent. Ils chassèrent les Amoréens qui s’y trouvaient."
+      }
+    },
+    {
+      "verse": 40,
+      "texts": {
+        "BDS": "Moïse leur donna le pays de Galaad et ils s’y établirent.",
+        "DBY": "Et Moïse donna Galaad à Makir, fils de Manassé, et il y habita.",
+        "KJV": "And Moses gave Gilead unto Machir the son of Manasseh; and he dwelt therein.",
+        "LSG": "Moïse donna Galaad à Makir, fils de Manassé, qui s'y établit.",
+        "MAB": "Moïse donc donna Galaad à Makir, fils de Manassé, qui y habita.",
+        "OST": "Moïse donna donc Galaad à Makir, fils de Manassé, qui y habita.",
+        "S21": "Moïse donna Galaad à Makir, fils de Manassé, qui s'y établit."
+      }
+    },
+    {
+      "verse": 41,
+      "texts": {
+        "BDS": "Yaïr, un autre descendant de Manassé, attaqua plusieurs villages et s’en empara; il les appela villages de Yaïr.",
+        "DBY": "Et Jaïr, fils de Manassé, alla, et prit leurs bourgs, et les appela bourgs de Jaïr.",
+        "KJV": "And Jair the son of Manasseh went and took the small towns thereof, and called them Havothjair.",
+        "LSG": "Jaïr, fils de Manassé, se mit en marche, prit les bourgs, et les appela bourgs de Jaïr.",
+        "MAB": "Jaïr aussi fils de Manassé, s'en alla, et prit leurs bourgs, et les appela bourgs de Jaïr.",
+        "OST": "Et Jaïr, fils de Manassé, alla et prit leurs bourgs, et les appela bourgs de Jaïr.",
+        "S21": "Jaïr, fils de Manassé, se mit en marche, prit les villages et les appela «bourgs de Jaïr»."
+      }
+    },
+    {
+      "verse": 42,
+      "texts": {
+        "BDS": "Nobah attaqua Qenath et s’empara des villes qui en dépendaient; il leur donna son propre nom.",
+        "DBY": "Et Nobakh alla, et prit Kenath et les villages de son ressort, et il l'appela Nobakh, d'après son nom.",
+        "KJV": "And Nobah went and took Kenath, and the villages thereof, and called it Nobah, after his own name.",
+        "LSG": "Nobach se mit en marche, prit Kenath avec les villes de son ressort, et l'appela Nobach, d'après son nom.",
+        "MAB": "Et Nobah s'en alla, et prit Kénath avec les villes de son ressort, et l'appela Nobah de son nom.",
+        "OST": "Et Nobach alla et prit Kenath avec les villes de son ressort, et l'appela Nobach d'après son nom.",
+        "S21": "Nobach se mit en marche, prit Kenath avec les villes qui en dépendaient et l'appela Nobach, d'après son nom."
+      }
+    }
+  ]
+}

@@ -1,0 +1,390 @@
+{
+  "bookCode": "GEN",
+  "chapter": 5,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "Voici le livret de l’histoire de la famille d’Adam. Quand Dieu créa les êtres humains, il les fit pour qu’ils soient ceux qui lui ressemblent.",
+        "DBY": "C'est ici le livre des générations d'Adam. Au jour où Dieu créa Adam, il le fit à la ressemblance de Dieu.",
+        "KJV": "This [is] the book of the generations of Adam. In the day that God created man, in the likeness of God made he him;",
+        "LSG": "Voici le livre de la postérité d'Adam. Lorsque Dieu créa l'homme, il le fit à la ressemblance de Dieu.",
+        "MAB": "C'est ici le dénombrement de la postérité d'Adam, depuis le jour que Dieu créa l'homme, [lequel] il fit à sa ressemblance.",
+        "OST": "Voici le livre de la postérité d'Adam. Au jour où Dieu créa l'homme, il le fit à la ressemblance de Dieu.",
+        "S21": "Voici le livre de l’histoire d'Adam. Lorsque Dieu créa l'homme, il le fit à la ressemblance de Dieu."
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "Il les créa homme et femme, il les bénit et leur donna le nom d’hommes le jour où ils furent créés.",
+        "DBY": "Il les créa mâle et femelle, et les bénit; et il appela leur nom Adam, au jour qu'ils furent créés.",
+        "KJV": "Male and female created he them; and blessed them, and called their name Adam, in the day when they were created.",
+        "LSG": "Il créa l'homme et la femme, il les bénit, et il les appela du nom d'homme, lorsqu'ils furent créés.",
+        "MAB": "Il les créa mâle et femelle, et les bénit, et il leur donna le nom d'homme, le jour qu'ils furent créés.",
+        "OST": "Il les créa mâle et femelle, et il les bénit, et leur donna le nom d'Homme, au jour qu'ils furent créés.",
+        "S21": "Il créa l'homme et la femme et les bénit. Il les appela êtres humains lorsqu'ils furent créés."
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "Adam était âgé de 130 ans quand il eut un fils pour être celui qui lui ressemble, son image. Il lui donna le nom de Seth.",
+        "DBY": "Et Adam vécut cent trente ans, et engendra un fils à sa ressemblance, selon son image, et appela son nom Seth.",
+        "KJV": "And Adam lived an hundred and thirty years, and begat [a son] in his own likeness, after his image; and called his name Seth:",
+        "LSG": "Adam, âgé de cent trente ans, engendra un fils à sa ressemblance, selon son image, et il lui donna le nom de Seth.",
+        "MAB": "Et Adam vécut cent trente ans, et engendra [un fils] à sa ressemblance, selon son image, et le nomma Seth.",
+        "OST": "Or, Adam vécut cent trente ans, et engendra un fils à sa ressemblance, selon son image, et il lui donna le nom de Seth.",
+        "S21": "A l'âge de 130 ans, Adam eut un fils à sa ressemblance, à son image, et il l’appela Seth."
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "Après cela, Adam vécut encore 800 ans et il eut d’autres enfants.",
+        "DBY": "Et les jours d'Adam, après qu'il eut engendré Seth, furent huit cents ans; et il engendra des fils et des filles.",
+        "KJV": "And the days of Adam after he had begotten Seth were eight hundred years: and he begat sons and daughters:",
+        "LSG": "Les jours d'Adam, après la naissance de Seth, furent de huit cents ans; et il engendra des fils et des filles.",
+        "MAB": "Et les jours d'Adam, après qu'il eut engendré Seth, furent huit cents ans, et il engendra des fils et des filles.",
+        "OST": "Et les jours d'Adam, après qu'il eut engendré Seth, furent de huit cents ans; et il engendra des fils et des filles.",
+        "S21": "Adam vécut 800 ans après la naissance de Seth et il eut des fils et des filles."
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "Il mourut à l’âge de 930 ans.",
+        "DBY": "Et tous les jours qu'Adam vécut furent neuf cent trente ans; et il mourut.",
+        "KJV": "And all the days that Adam lived were nine hundred and thirty years: and he died.",
+        "LSG": "Tous les jours qu'Adam vécut furent de neuf cent trente ans; puis il mourut.",
+        "MAB": "Tout le temps donc qu'Adam vécut, fut neuf cent trente ans; puis il mourut.",
+        "OST": "Tout le temps qu'Adam vécut, fut donc de neuf cent trente ans; puis il mourut.",
+        "S21": "Adam vécut en tout 930 ans, puis il mourut."
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "Quand Seth fut âgé de 105 ans, il eut pour fils Enoch.",
+        "DBY": "Et Seth vécut cent cinq ans, et engendra Énosh.",
+        "KJV": "And Seth lived an hundred and five years, and begat Enos:",
+        "LSG": "Seth, âgé de cent cinq ans, engendra Enosch.",
+        "MAB": "Seth aussi vécut cent cinq ans, et engendra Enos.",
+        "OST": "Seth vécut cent cinq ans, et engendra Énosh.",
+        "S21": "A l'âge de 105 ans, Seth eut pour fils Enosh."
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "Après cela, il vécut encore 807 ans et il eut d’autres enfants.",
+        "DBY": "Et Seth, après qu'il eut engendré Énosh, vécut huit cent sept ans; et il engendra des fils et des filles.",
+        "KJV": "And Seth lived after he begat Enos eight hundred and seven years, and begat sons and daughters:",
+        "LSG": "Seth vécut, après la naissance d'Enosch, huit cent sept ans; et il engendra des fils et des filles.",
+        "MAB": "Et Seth, après qu'il eut engendré Enos, vécut huit cent sept ans; et il engendra des fils et des filles.",
+        "OST": "Et Seth vécut, après qu'il eut engendré Énosh, huit cent sept ans; et il engendra des fils et des filles.",
+        "S21": "Seth vécut 807 ans après la naissance d'Enosh et il eut des fils et des filles."
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "Il mourut à l’âge de 912 ans.",
+        "DBY": "Et tous les jours de Seth furent neuf cent douze ans; et il mourut.",
+        "KJV": "And all the days of Seth were nine hundred and twelve years: and he died.",
+        "LSG": "Tous les jours de Seth furent de neuf cent douze ans; puis il mourut.",
+        "MAB": "Tout le temps donc que Seth vécut, fut neuf cent douze ans; puis il mourut.",
+        "OST": "Tout le temps que Seth vécut, fut donc de neuf cent douze ans; puis il mourut.",
+        "S21": "Seth vécut en tout 912 ans, puis il mourut."
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "Quand Enoch fut âgé de 90 ans, il eut pour fils Qénân.",
+        "DBY": "Et Énosh vécut quatre-vingt-dix ans, et engendra Kénan.",
+        "KJV": "And Enos lived ninety years, and begat Cainan:",
+        "LSG": "Enosch, âgé de quatre-vingt-dix ans, engendra Kénan.",
+        "MAB": "Et Enos, ayant vécu quatre-vingt-dix ans, engendra Kénan.",
+        "OST": "Et Énosh vécut quatre-vingt-dix ans, et engendra Kénan.",
+        "S21": "A l'âge de 90 ans, Enosh eut pour fils Kénan."
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "Après cela, il vécut encore 815 ans et il eut d’autres enfants.",
+        "DBY": "Et Énosh, après qu'il eut engendré Kénan, vécut huit cent quinze ans; et il engendra des fils et des filles.",
+        "KJV": "And Enos lived after he begat Cainan eight hundred and fifteen years, and begat sons and daughters:",
+        "LSG": "Enosch vécut, après la naissance de Kénan, huit cent quinze ans; et il engendra des fils et des filles.",
+        "MAB": "Et Enos, après qu'il eut engendré Kénan, vécut huit cent quinze ans, et il engendra des fils et des filles.",
+        "OST": "Et Énosh, après qu'il eut engendré Kénan, vécut huit cent quinze ans; et il engendra des fils et des filles.",
+        "S21": "Enosh vécut 815 ans après la naissance de Kénan et il eut des fils et des filles."
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "Il mourut à l’âge de 905 ans.",
+        "DBY": "Et tous les jours d'Énosh furent neuf cent cinq ans; et il mourut.",
+        "KJV": "And all the days of Enos were nine hundred and five years: and he died.",
+        "LSG": "Tous les jours d'Enosch furent de neuf cent cinq ans; puis il mourut.",
+        "MAB": "Tout le temps donc qu'Enos vécut, fut neuf cent cinq ans; puis il mourut.",
+        "OST": "Tout le temps qu'Énosh vécut, fut donc de neuf cent cinq ans; puis il mourut.",
+        "S21": "Enosh vécut en tout 905 ans, puis il mourut."
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "Quand Qénân fut âgé de 70 ans, il eut pour fils Mahalaleél.",
+        "DBY": "Et Kénan, vécut soixante-dix ans, et engendra Mahalaleël.",
+        "KJV": "And Cainan lived seventy years, and begat Mahalaleel:",
+        "LSG": "Kénan, âgé de soixante-dix ans, engendra Mahalaleel.",
+        "MAB": "Et Kénan ayant vécu soixante-dix ans, engendra Mahalaléel.",
+        "OST": "Et Kénan vécut soixante et dix ans, et engendra Mahalaleel.",
+        "S21": "A l'âge de 70 ans, Kénan eut pour fils Mahalaleel."
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "Après cela, il vécut encore 840 ans et il eut d’autres enfants.",
+        "DBY": "Et Kénan, après qu'il eut engendré Mahalaleël, vécut huit cent quarante ans; et il engendra des fils et des filles.",
+        "KJV": "And Cainan lived after he begat Mahalaleel eight hundred and forty years, and begat sons and daughters:",
+        "LSG": "Kénan vécut, après la naissance de Mahalaleel, huit cent quarante ans; et il engendra des fils et des filles.",
+        "MAB": "Et Kénan, après qu'il eut engendré Mahalaléel, vécut huit cent quarante ans ; et il engendra des fils et des filles.",
+        "OST": "Et Kénan, après qu'il eut engendré Mahalaleel, vécut huit cent quarante ans; et il engendra des fils et des filles.",
+        "S21": "Kénan vécut 840 ans après la naissance de Mahalaleel et il eut des fils et des filles."
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "Il mourut à l’âge de 910 ans.",
+        "DBY": "Et tous les jours de Kénan furent neuf cent dix ans; et il mourut.",
+        "KJV": "And all the days of Cainan were nine hundred and ten years: and he died.",
+        "LSG": "Tous les jours de Kénan furent de neuf cent dix ans; puis il mourut.",
+        "MAB": "Tout le temps donc que Kénan vécut, fut neuf cent dix ans; puis il mourut.",
+        "OST": "Tout le temps que Kénan vécut, fut donc de neuf cent dix ans; puis il mourut.",
+        "S21": "Kénan vécut en tout 910 ans, puis il mourut."
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "Quand Mahalaleél fut âgé de 65 ans, il eut pour fils Yéréd.",
+        "DBY": "Et Mahalaleël vécut soixante cinq ans, et engendra Jéred.",
+        "KJV": "And Mahalaleel lived sixty and five years, and begat Jared:",
+        "LSG": "Mahalaleel, âgé de soixante-cinq ans, engendra Jéred.",
+        "MAB": "Et Mahalaléel vécut soixante-cinq ans; et il engendra Jéred.",
+        "OST": "Et Mahalaleel vécut soixante-cinq ans, et engendra Jéred.",
+        "S21": "A l'âge de 65 ans, Mahalaleel eut pour fils Jéred."
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "Après cela, Mahalaleél vécut encore 830 ans et il eut d’autres enfants.",
+        "DBY": "Et Mahalaleël, après qu'il eut engendré Jéred, vécut huit cent trente ans; et il engendra des fils et des filles.",
+        "KJV": "And Mahalaleel lived after he begat Jared eight hundred and thirty years, and begat sons and daughters:",
+        "LSG": "Mahalaleel vécut, après la naissance de Jéred, huit cent trente ans; et il engendra des fils et des filles.",
+        "MAB": "Et Mahalaléel, après qu'il eut engendré Jéred, vécut huit cent trente ans, et il engendra des fils et des filles.",
+        "OST": "Et Mahalaleel, après qu'il eut engendré Jéred, vécut huit cent trente ans; et il engendra des fils et des filles.",
+        "S21": "Mahalaleel vécut 830 ans après la naissance de Jéred et il eut des fils et des filles."
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "Il mourut à l’âge de 895 ans.",
+        "DBY": "Et tous les jours de Mahalaleël furent huit cent quatre-vingt-quinze ans; et il mourut.",
+        "KJV": "And all the days of Mahalaleel were eight hundred ninety and five years: and he died.",
+        "LSG": "Tous les jours de Mahalaleel furent de huit cent quatre-vingt-quinze ans; puis il mourut.",
+        "MAB": "Tout le temps donc que Mahalaléel vécut, fut huit cent quatre-vingt quinze ans; puis il mourut.",
+        "OST": "Tout le temps que Mahalaleel vécut, fut donc de huit cent quatre-vingt-quinze ans; puis il mourut.",
+        "S21": "Mahalaleel vécut en tout 895 ans, puis il mourut."
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "Quand Yéréd fut âgé de 162 ans, il eut pour fils Hénoc.",
+        "DBY": "Et Jéred vécut cent soixante-deux ans, et engendra Hénoc.",
+        "KJV": "And Jared lived an hundred sixty and two years, and he begat Enoch:",
+        "LSG": "Jéred, âgé de cent soixante-deux ans, engendra Hénoc.",
+        "MAB": "Et Jéred ayant vécu cent soixante-deux ans, engendra Hénoc.",
+        "OST": "Et Jéred vécut cent soixante-deux ans, et engendra Hénoc.",
+        "S21": "A l'âge de 162 ans, Jéred eut pour fils Hénoc."
+      }
+    },
+    {
+      "verse": 19,
+      "texts": {
+        "BDS": "Après cela, il vécut encore 800 ans, et il eut d’autres enfants.",
+        "DBY": "Et Jéred, après qu'il eut engendré Hénoc, vécut huit cents ans; et il engendra des fils et des filles.",
+        "KJV": "And Jared lived after he begat Enoch eight hundred years, and begat sons and daughters:",
+        "LSG": "Jéred vécut, après la naissance d'Hénoc, huit cents ans; et il engendra des fils et des filles.",
+        "MAB": "Et Jéred, après avoir engendré Hénoc, vécut huit cents ans, et il engendra des fils et des filles.",
+        "OST": "Et Jéred, après qu'il eut engendré Hénoc, vécut huit cent ans; et il engendra des fils et des filles.",
+        "S21": "Jéred vécut 800 ans après la naissance d'Hénoc et il eut des fils et des filles."
+      }
+    },
+    {
+      "verse": 20,
+      "texts": {
+        "BDS": "Il mourut à l’âge de 962 ans.",
+        "DBY": "Et tous les jours de Jéred furent neuf cent soixante deux ans; et il mourut.",
+        "KJV": "And all the days of Jared were nine hundred sixty and two years: and he died.",
+        "LSG": "Tous les jours de Jéred furent de neuf cent soixante-deux ans; puis il mourut.",
+        "MAB": "Tout le temps donc que Jéred vécut, fut neuf cent soixante-deux ans; puis il mourut.",
+        "OST": "Tout le temps que Jéred vécut, fut donc de neuf cent soixante-deux ans; puis il mourut.",
+        "S21": "Jéred vécut en tout 962 ans, puis il mourut."
+      }
+    },
+    {
+      "verse": 21,
+      "texts": {
+        "BDS": "Quand Hénoc fut âgé de 65 ans, il eut pour fils Mathusalem.",
+        "DBY": "Et Hénoc vécut soixante-cinq ans, et il engendra Methushélah.",
+        "KJV": "And Enoch lived sixty and five years, and begat Methuselah:",
+        "LSG": "Hénoc, âgé de soixante-cinq ans, engendra Metuschélah.",
+        "MAB": "Et Hénoc vécut soixante-cinq ans, et engendra Méthuséla.",
+        "OST": "Hénoc vécut soixante-cinq ans, et engendra Méthushélah.",
+        "S21": "A l'âge de 65 ans, Hénoc eut pour fils Metushélah."
+      }
+    },
+    {
+      "verse": 22,
+      "texts": {
+        "BDS": "Après cela, Hénoc conduisit sa vie sous le regard de Dieu durant 300 ans et il eut d’autres enfants.",
+        "DBY": "Et Hénoc, après qu'il eut engendré Methushélah, marcha avec Dieu trois cents ans; et il engendra des fils et des filles.",
+        "KJV": "And Enoch walked with God after he begat Methuselah three hundred years, and begat sons and daughters:",
+        "LSG": "Hénoc, après la naissance de Metuschélah, marcha avec Dieu trois cents ans; et il engendra des fils et des filles.",
+        "MAB": "Et Hénoc, après qu'il eut engendré Méthuséla, marcha avec Dieu trois cents ans; et il engendra des fils et des filles.",
+        "OST": "Et Hénoc marcha avec Dieu, après qu'il eut engendré Méthushélah, trois cents ans; et il engendra des fils et des filles.",
+        "S21": "Hénoc marcha avec Dieu 300 ans après la naissance de Metushélah et il eut des fils et des filles."
+      }
+    },
+    {
+      "verse": 23,
+      "texts": {
+        "BDS": "La durée totale de sa vie fut de 365 ans.",
+        "DBY": "Et tous les jours de Hénoc furent trois cent soixante-cinq ans.",
+        "KJV": "And all the days of Enoch were three hundred sixty and five years:",
+        "LSG": "Tous les jours d'Hénoc furent de trois cent soixante-cinq ans.",
+        "MAB": "Tout le temps donc qu'Hénoc vécut, fut trois cent soixante-cinq ans.",
+        "OST": "Tout le temps qu'Hénoc vécut, fut donc de trois cent soixante-cinq ans.",
+        "S21": "Hénoc vécut en tout 365 ans."
+      }
+    },
+    {
+      "verse": 24,
+      "texts": {
+        "BDS": "Hénoc vécut en communion avec Dieu puis il disparut, car Dieu le prit auprès de lui.",
+        "DBY": "Et Hénoc marcha avec Dieu; et il ne fut plus, car Dieu le prit.",
+        "KJV": "And Enoch walked with God: and he [was] not; for God took him.",
+        "LSG": "Hénoc marcha avec Dieu; puis il ne fut plus, parce que Dieu le prit.",
+        "MAB": "Hénoc marcha avec Dieu; mais il ne [parut] plus, parce que Dieu le prit.",
+        "OST": "Hénoc marcha donc avec Dieu, puis il disparut, car Dieu le prit.",
+        "S21": "Hénoc marcha avec Dieu, puis il ne fut plus là, parce que Dieu l’avait pris."
+      }
+    },
+    {
+      "verse": 25,
+      "texts": {
+        "BDS": "Quand Mathusalem fut âgé de 187 ans, il eut pour fils Lémek.",
+        "DBY": "Et Methushélah vécut cent quatre-vingt-sept ans, et engendra Lémec.",
+        "KJV": "And Methuselah lived an hundred eighty and seven years, and begat Lamech:",
+        "LSG": "Metuschélah, âgé de cent quatre-vingt-sept ans, engendra Lémec.",
+        "MAB": "Et Méthuséla ayant vécu cent quatre-vingt sept ans, engendra Lémec.",
+        "OST": "Et Méthushélah vécut cent quatre-vingt-sept ans, et engendra Lémec.",
+        "S21": "A l'âge de 187 ans, Metushélah eut pour fils Lémec."
+      }
+    },
+    {
+      "verse": 26,
+      "texts": {
+        "BDS": "Après cela, il vécut encore 782 ans et il eut d’autres enfants.",
+        "DBY": "Et Methushélah, après qu'il eut engendré Lémec, vécut sept cent quatre-vingt-deux ans; et il engendra des fils et des filles.",
+        "KJV": "And Methuselah lived after he begat Lamech seven hundred eighty and two years, and begat sons and daughters:",
+        "LSG": "Metuschélah vécut, après la naissance de Lémec, sept cent quatre-vingt deux ans; et il engendra des fils et des filles.",
+        "MAB": "Et Méthuséla, après qu'il eut engendré Lémec, vécut sept cent quatre-vingt-deux ans; et il engendra des fils et des filles.",
+        "OST": "Et Méthushélah, après qu'il eut engendré Lémec, vécut sept cent quatre-vingt-deux ans; et il engendra des fils et des filles.",
+        "S21": "Metushélah vécut 782 ans après la naissance de Lémec et il eut des fils et des filles."
+      }
+    },
+    {
+      "verse": 27,
+      "texts": {
+        "BDS": "Il mourut à l’âge de 969 ans.",
+        "DBY": "Et tous les jours de Methushélah furent neuf cent soixante-neuf ans; et il mourut.",
+        "KJV": "And all the days of Methuselah were nine hundred sixty and nine years: and he died.",
+        "LSG": "Tous les jours de Metuschélah furent de neuf cent soixante-neuf ans; puis il mourut.",
+        "MAB": "Tout le temps donc que Méthuséla vécut, fut neuf cent soixante-neuf ans; puis il mourut.",
+        "OST": "Tout le temps que Méthushélah vécut, fut donc de neuf cent soixante-neuf ans; puis il mourut.",
+        "S21": "Metushélah vécut en tout 969 ans, puis il mourut."
+      }
+    },
+    {
+      "verse": 28,
+      "texts": {
+        "BDS": "Quand Lémek fut âgé de 182 ans, il eut un fils.",
+        "DBY": "Et Lémec vécut cent quatre-vingt-deux ans, et engendra un fils;",
+        "KJV": "And Lamech lived an hundred eighty and two years, and begat a son:",
+        "LSG": "Lémec, âgé de cent quatre-vingt-deux ans, engendra un fils.",
+        "MAB": "Lémec aussi vécut cent quatre-vingt deux ans, et il engendra un fils.",
+        "OST": "Et Lémec vécut cent quatre-vingt-deux ans, et engendra un fils.",
+        "S21": "A l'âge de 182 ans, Lémec eut un fils."
+      }
+    },
+    {
+      "verse": 29,
+      "texts": {
+        "BDS": "Il l’appela Noé (Consolation) en disant: Celui-ci nous consolera de notre travail et de la tâche pénible que nous impose ce sol que l’Eternel a maudit.",
+        "DBY": "et il appela son nom Noé, disant: Celui-ci nous consolera à l'égard de notre ouvrage et du travail de nos mains, à cause du sol que l'Éternel a maudit.",
+        "KJV": "And he called his name Noah, saying, This [same] shall comfort us concerning our work and toil of our hands, because of the ground which the LORD hath cursed.",
+        "LSG": "Il lui donna le nom de Noé, en disant: Celui-ci nous consolera de nos fatigues et du travail pénible de nos mains, provenant de cette terre que l'Eternel a maudite.",
+        "MAB": "Et il le nomma Noé, en disant : Celui-ci nous soulagera de notre œuvre, et du travail de nos mains, sur la terre que l'Eternel a maudite.",
+        "OST": "Et il l'appela Noé (repos), en disant: Celui-ci nous consolera de notre œuvre, et de la peine qu'impose à nos mains la terre que l'Éternel a maudite.",
+        "S21": "Il l’appela Noé en disant: «Celui-ci nous consolera de notre travail et de la peine que ce sol procure à nos mains parce que l'Eternel l'a maudit.»"
+      }
+    },
+    {
+      "verse": 30,
+      "texts": {
+        "BDS": "Après cela, Lémek vécut encore 595 ans, et il eut d’autres enfants.",
+        "DBY": "Lémec, après qu'il eut engendré Noé, vécut cinq cent quatre-vingt-quinze ans; et il engendra des fils et des filles.",
+        "KJV": "And Lamech lived after he begat Noah five hundred ninety and five years, and begat sons and daughters:",
+        "LSG": "Lémec vécut, après la naissance de Noé, cinq cent quatre-vingt-quinze ans; et il engendra des fils et des filles.",
+        "MAB": "Et Lémec, après qu'il eut engendré Noé, vécut cinq cent quatre-vingt quinze ans; et il engendra des fils et des filles.",
+        "OST": "Et Lémec, après qu'il eut engendré Noé, vécut cinq cent quatre-vingt-quinze ans; et il engendra des fils et des filles.",
+        "S21": "Lémec vécut 595 ans après la naissance de Noé et il eut des fils et des filles."
+      }
+    },
+    {
+      "verse": 31,
+      "texts": {
+        "BDS": "Il mourut à l’âge de 777 ans.",
+        "DBY": "Et tous les jours de Lémec furent sept cent soixante-dix-sept ans; et il mourut.",
+        "KJV": "And all the days of Lamech were seven hundred seventy and seven years: and he died.",
+        "LSG": "Tous les jours de Lémec furent de sept cent soixante-dix sept ans; puis il mourut.",
+        "MAB": "Tout le temps donc que Lémec vécut, fut sept cent soixante dix-sept ans; puis il mourut.",
+        "OST": "Tout le temps que Lémec vécut, fut donc de sept cent soixante-dix-sept ans; puis il mourut.",
+        "S21": "Lémec vécut en tout 777 ans, puis il mourut."
+      }
+    },
+    {
+      "verse": 32,
+      "texts": {
+        "BDS": "Quand Noé fut âgé de 500 ans, il eut pour fils Sem, Cham et Japhet.",
+        "DBY": "Et Noé était âgé de cinq cents ans, et Noé engendra Sem, Cham, et Japheth.",
+        "KJV": "And Noah was five hundred years old: and Noah begat Shem, Ham, and Japheth.",
+        "LSG": "Noé, âgé de cinq cents ans, engendra Sem, Cham et Japhet.",
+        "MAB": "Et Noé, âgé de cinq cents ans, engendra Sem, Cam, et Japheth.",
+        "OST": "Et Noé, âgé de cinq cents ans, engendra Sem, Cham et Japhet.",
+        "S21": "Noé était âgé de 500 ans quand il eut Sem, Cham et Japhet."
+      }
+    }
+  ]
+}

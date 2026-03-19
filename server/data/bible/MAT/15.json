@@ -1,0 +1,474 @@
+{
+  "bookCode": "MAT",
+  "chapter": 15,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "A cette époque, des pharisiens et des spécialistes de la Loi vinrent de Jérusalem; ils abordèrent Jésus pour lui demander:",
+        "DBY": "Alors les scribes et les pharisiens de Jérusalem viennent à Jésus, disant:",
+        "KJV": "Then came to Jesus scribes and Pharisees, which were of Jerusalem, saying,",
+        "LSG": "Alors des pharisiens et des scribes vinrent de Jérusalem auprès de Jésus, et dirent:",
+        "MAB": "Alors des Scribes et des Pharisiens vinrent de Jérusalem à Jésus, et lui dirent :",
+        "OST": "Alors des scribes et des pharisiens vinrent de Jérusalem à Jésus, et lui dirent:",
+        "S21": "Alors des pharisiens et des spécialistes de la loi vinrent de Jérusalem trouver Jésus et dirent:"
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "—Pourquoi tes disciples ne respectent-ils pas la tradition des ancêtres? Car ils ne se lavent pas les mains selon le rite usuel avant chaque repas.",
+        "DBY": "tes disciples transgressent-ils la tradition des anciens, car ils ne lavent pas leurs mains quand ils mangent du pain?",
+        "KJV": "Why do thy disciples transgress the tradition of the elders? for they wash not their hands when they eat bread.",
+        "LSG": "Pourquoi tes disciples transgressent-ils la tradition des anciens? Car ils ne se lavent pas les mains, quand ils prennent leurs repas.",
+        "MAB": "Pourquoi tes Disciples transgressent-ils la tradition des Anciens? car ils ne lavent point leurs mains quand ils prennent leur repas.",
+        "OST": "Pourquoi tes disciples transgressent-ils la tradition des anciens? car ils ne se lavent point les mains lorsqu'ils prennent leurs repas.",
+        "S21": "«Pourquoi tes disciples transgressent-ils la tradition des anciens? En effet, ils ne se lavent pas les mains quand ils prennent leur repas.»"
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "—Et vous, répliqua-t-il, pourquoi désobéissez-vous à l’ordre de Dieu lui-même pour suivre votre tradition?",
+        "DBY": "Mais lui, répondant, leur dit: Et vous, pourquoi transgressez-vous le commandement de Dieu à cause de votre tradition?",
+        "KJV": "But he answered and said unto them, ‹Why do ye also transgress the commandment of God by your tradition?›",
+        "LSG": "Il leur répondit: Et vous, pourquoi transgressez-vous le commandement de Dieu au profit de votre tradition?",
+        "MAB": "Mais il répondit, et leur dit : et vous, pourquoi transgressez-vous le commandement de Dieu par votre tradition?",
+        "OST": "Mais il leur répondit: Et vous, pourquoi transgressez-vous le commandement de Dieu par votre tradition?",
+        "S21": "Il leur répondit: «Et vous, pourquoi transgressez-vous le commandement de Dieu au profit de votre tradition?"
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "En effet, Dieu a dit: Honore ton père et ta mère et Que celui qui maudit son père ou sa mère soit puni de mort.",
+        "DBY": "car Dieu a commandé, disant: \"Honore ton père et ta mère\"; et: \"que celui qui médira de père ou de mère, meure de mort\";",
+        "KJV": "‹For God commanded, saying, Honour thy father and mother: and, He that curseth father or mother, let him die the death.›",
+        "LSG": "Car Dieu a dit: Honore ton père et ta mère; et: Celui qui maudira son père ou sa mère sera puni de mort.",
+        "MAB": "Car Dieu a commandé, disant : honore ton père et ta mère. Et [il a dit aussi] : que celui qui maudira son père ou sa mère, meure de mort.",
+        "OST": "Car Dieu a donné ce commandement: Honore ton père et ta mère; et: Que celui qui maudira son père ou sa mère soit puni de mort.",
+        "S21": "En effet, Dieu a dit: Honore ton père et ta mère et: Celui qui maudira son père ou sa mère sera puni de mort."
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "Mais vous, qu’enseignez-vous? Qu’il suffit de dire à son père ou à sa mère: «Je fais offrande à Dieu d’une part de mes biens avec laquelle j’aurais pu t’assister»,",
+        "DBY": "mais vous, vous dites: Quiconque dira à son père ou à sa mère: Tout ce dont tu pourrais tirer profit de ma part est un don,",
+        "KJV": "‹But ye say, Whosoever shall say to› [his] ‹father or› [his] ‹mother,› [It is] ‹a gift, by whatsoever thou mightest be profited by me;›",
+        "LSG": "Mais vous, vous dites: Celui qui dira à son père ou à sa mère: Ce dont j'aurais pu t'assister est une offrande à Dieu,",
+        "MAB": "Mais vous dites : quiconque aura dit à son père ou à sa mère : [Tout] don qui [sera offert] de par moi, sera à ton profit;",
+        "OST": "Mais vous, vous dites: Celui qui aura dit à son père ou à sa mère: Ce dont je pourrais t'assister est un don consacré à Dieu, n'est pas tenu d'honorer son père ou sa mère.",
+        "S21": "Mais d’après vous, celui qui dira à son père ou à sa mère: ‘Ce dont j'aurais pu t'assister est une offrande à Dieu’"
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "pour ne plus rien devoir à son père ou à sa mère. Ainsi vous annulez la Parole de Dieu et vous la remplacez par votre tradition.",
+        "DBY": "-et il n'honorera point son père ou sa mère. Et vous avez annulé le commandement de Dieu à cause de votre tradition.",
+        "KJV": "‹And honour not his father or his mother,› [he shall be free]. ‹Thus have ye made the commandment of God of none effect by your tradition.›",
+        "LSG": "n'est pas tenu d'honorer son père ou sa mère. Vous annulez ainsi la parole de Dieu au profit de votre tradition.",
+        "MAB": "Encore qu'il n'honore pas son père, ou sa mère, [il ne sera point coupable]; et ainsi vous avez anéanti le commandement de Dieu par votre tradition.",
+        "OST": "Et ainsi vous avez anéanti le commandement de Dieu par votre tradition.",
+        "S21": "n'est pas tenu d'honorer son père [ou sa mère]. Vous annulez ainsi la parole de Dieu au profit de votre tradition."
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "Hypocrites! Esaïe vous a fort bien dépeints dans sa prophétie:",
+        "DBY": "Hypocrites! Ésaïe a bien prophétisé de vous, disant:",
+        "KJV": "[Ye] ‹hypocrites, well did Esaias prophesy of you, saying,›",
+        "LSG": "Hypocrites, Esaïe a bien prophétisé sur vous, quand il a dit:",
+        "MAB": "Hypocrites, Esaïe a bien prophétisé de vous, en disant :",
+        "OST": "Hypocrites! Ésaïe a bien prophétisé à votre sujet, lorsqu'il a dit:",
+        "S21": "Hypocrites, Esaïe a bien prophétisé sur vous, quand il a dit:"
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "Ce peuple m’honore du bout des lèvres,\r\nmais, au fond de son cœur, il est bien loin de moi!",
+        "DBY": "\"Ce peuple m'honore des lèvres, mais leur cœur est fort éloigné de moi;",
+        "KJV": "‹This people draweth nigh unto me with their mouth, and honoureth me with› [their] ‹lips; but their heart is far from me.›",
+        "LSG": "Ce peuple m'honore des lèvres, Mais son coeur est éloigné de moi.",
+        "MAB": "Ce peuple s'approche de moi de sa bouche, et m'honore de ses lèvres; mais leur cœur est fort éloigné de moi.",
+        "OST": "Ce peuple s'approche de moi de la bouche et m'honore des lèvres; mais leur cœur est bien éloigné de moi.",
+        "S21": "Ce peuple [prétend s'approcher de moi et] m'honore des lèvres, mais son cœur est éloigné de moi."
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "Le culte qu’il me rend n’a aucune valeur,\r\ncar les enseignements qu’il donne\r\nne sont que des règles inventées par les hommes.",
+        "DBY": "mais ils m'honorent en vain, enseignant comme doctrines des commandements d'hommes\".",
+        "KJV": "‹But in vain they do worship me, teaching› [for] ‹doctrines the commandments of men.›",
+        "LSG": "C'est en vain qu'ils m'honorent, en enseignant des préceptes qui sont des commandements d'hommes.",
+        "MAB": "Mais ils m'honorent en vain, enseignant des doctrines [qui ne sont que] des commandements d'hommes.",
+        "OST": "Mais ils m'honorent en vain, en enseignant des doctrines qui sont des commandements d'hommes.",
+        "S21": "C'est faussement qu'ils m'honorent en donnant des enseignements qui sont des commandements humains.»"
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "Alors Jésus appela la foule et lui dit:\r\n—Ecoutez-moi et comprenez-moi bien:",
+        "DBY": "Et ayant appelé la foule, il leur dit:",
+        "KJV": "And he called the multitude, and said unto them, ‹Hear, and understand:›",
+        "LSG": "Ayant appelé à lui la foule, il lui dit: Ecoutez, et comprenez.",
+        "MAB": "Puis ayant appelé les troupes, il leur dit : écoutez, et comprenez [ceci].",
+        "OST": "Et ayant appelé le peuple, il leur dit:",
+        "S21": "Jésus appela la foule à lui et dit: «Ecoutez-moi et comprenez bien:"
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "Ce qui rend un homme impur, ce n’est pas ce qui entre dans sa bouche, mais ce qui en sort.",
+        "DBY": "Écoutez et comprenez: ce n'est pas ce qui entre dans la bouche qui souille l'homme; mais ce qui sort de la bouche, c'est là ce qui souille l'homme.",
+        "KJV": "‹Not that which goeth into the mouth defileth a man; but that which cometh out of the mouth, this defileth a man.›",
+        "LSG": "Ce n'est pas ce qui entre dans la bouche qui souille l'homme; mais ce qui sort de la bouche, c'est ce qui souille l'homme.",
+        "MAB": "Ce n'est pas ce qui entre dans la bouche qui souille l'homme; mais ce qui sort de la bouche c'est ce qui souille l'homme.",
+        "OST": "Écoutez, et comprenez ceci: Ce n'est pas ce qui entre dans la bouche qui souille l'homme; mais ce qui sort de la bouche, c'est ce qui souille l'homme.",
+        "S21": "ce n'est pas ce qui entre dans la bouche qui rend l'homme impur, mais ce qui sort de la bouche. Voilà ce qui rend l'homme impur.»"
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "Alors les disciples s’approchèrent de lui pour lui faire remarquer:\r\n—Sais-tu que les pharisiens ont été très choqués par tes paroles?",
+        "DBY": "Alors ses disciples, s'approchant, lui dirent: Sais-tu que les pharisiens ont été scandalisés en entendant cette parole?",
+        "KJV": "Then came his disciples, and said unto him, Knowest thou that the Pharisees were offended, after they heard this saying?",
+        "LSG": "Alors ses disciples s'approchèrent, et lui dirent: Sais-tu que les pharisiens ont été scandalisés des paroles qu'ils ont entendues?",
+        "MAB": "Sur cela les Disciples s'approchant, lui dirent : n'as-tu pas connu que les Pharisiens ont été scandalisés quand ils ont ouï ce discours?",
+        "OST": "Alors ses disciples, s'approchant, lui dirent: N'as-tu pas remarqué que les pharisiens ont été scandalisés quand ils ont entendu ce discours?",
+        "S21": "Alors ses disciples s'approchèrent et lui dirent: «Sais-tu que les pharisiens ont été scandalisés d'entendre ces paroles?»"
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "Il leur répondit:\r\n—Toute plante que mon Père céleste n’a pas lui-même plantée sera arrachée.",
+        "DBY": "Mais lui, répondant, dit: Toute plante que mon Père céleste n'a pas plantée sera déracinée.",
+        "KJV": "But he answered and said, ‹Every plant, which my heavenly Father hath not planted, shall be rooted up.›",
+        "LSG": "Il répondit: Toute plante que n'a pas plantée mon Père céleste sera déracinée.",
+        "MAB": "Et il répondit, et dit : toute plante que mon Père céleste n'a pas plantée, sera déracinée.",
+        "OST": "Mais il répondit: Toute plante que mon Père céleste n'a point plantée, sera déracinée.",
+        "S21": "Il répondit: «Toute plante que n'a pas plantée mon Père céleste sera déracinée."
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "Laissez-les: ce sont des aveugles qui conduisent d’autres aveugles! Or, si un aveugle en conduit un autre, ils tomberont tous deux dans le fossé.",
+        "DBY": "Laissez-les; ce sont des aveugles, conducteurs d'aveugles: et si un aveugle conduit un aveugle, ils tomberont tous deux dans une fosse.",
+        "KJV": "‹Let them alone: they be blind leaders of the blind. And if the blind lead the blind, both shall fall into the ditch.›",
+        "LSG": "Laissez-les: ce sont des aveugles qui conduisent des aveugles; si un aveugle conduit un aveugle, ils tomberont tous deux dans une fosse.",
+        "MAB": "Laissez-les, ce sont des aveugles, conducteurs d'aveugles; si un aveugle conduit un [autre] aveugle, ils tomberont tous deux dans la fosse.",
+        "OST": "Laissez-les; ce sont des aveugles qui conduisent des aveugles; que si un aveugle conduit un autre aveugle, ils tomberont tous deux dans la fosse.",
+        "S21": "Laissez-les: ce sont des aveugles qui conduisent des aveugles; si un aveugle conduit un aveugle, ils tomberont tous les deux dans un fossé.»"
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "Pierre intervint en disant:\r\n—Explique-nous la comparaison de tout à l’heure.",
+        "DBY": "Et Pierre, répondant, lui dit: Expose-nous cette parabole.",
+        "KJV": "Then answered Peter and said unto him, Declare unto us this parable.",
+        "LSG": "Pierre, prenant la parole, lui dit: Explique-nous cette parabole.",
+        "MAB": "Alors Pierre prenant la parole, lui dit : explique-nous cette similitude.",
+        "OST": "Alors Pierre, prenant la parole, lui dit: Explique-nous cette parabole.",
+        "S21": "Pierre prit la parole et lui dit: «Explique-nous cette parabole.»"
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "—Eh quoi! répondit Jésus, vous aussi, vous ne comprenez pas?",
+        "DBY": "Et il dit: Et vous aussi, êtes-vous encore sans intelligence?",
+        "KJV": "And Jesus said, ‹Are ye also yet without understanding?›",
+        "LSG": "Et Jésus dit: Vous aussi, êtes-vous encore sans intelligence?",
+        "MAB": "Et Jésus dit : êtes-vous encore, vous aussi, sans intelligence?",
+        "OST": "Et Jésus dit: Vous aussi, êtes-vous encore sans intelligence?",
+        "S21": "Jésus dit: «Vous aussi, vous êtes encore sans intelligence?"
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "Ne saisissez-vous pas que tout ce qui entre par la bouche va dans le ventre, puis est évacué par voie naturelle?",
+        "DBY": "N'entendez-vous pas encore que tout ce qui entre dans la bouche va dans le ventre, et passe ensuite dans le lieu secret?",
+        "KJV": "‹Do not ye yet understand, that whatsoever entereth in at the mouth goeth into the belly, and is cast out into the draught?›",
+        "LSG": "Ne comprenez-vous pas que tout ce qui entre dans la bouche va dans le ventre, puis est jeté dans les lieux secrets?",
+        "MAB": "N'entendez-vous pas encore que tout ce qui entre dans la bouche descend dans l'estomac et ensuite est jeté au secret?",
+        "OST": "Ne comprenez-vous pas que tout ce qui entre dans la bouche, s'en va dans le ventre et est jeté aux lieux secrets?",
+        "S21": "Ne comprenez-vous pas encore que tout ce qui entre dans la bouche va dans le ventre, puis est évacué dans les toilettes?"
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "Mais ce qui sort de la bouche vient du cœur, et c’est cela qui rend l’homme impur.",
+        "DBY": "Mais les choses qui sortent de la bouche viennent du cœur, et ces choses-là souillent l'homme.",
+        "KJV": "‹But those things which proceed out of the mouth come forth from the heart; and they defile the man.›",
+        "LSG": "Mais ce qui sort de la bouche vient du coeur, et c'est ce qui souille l'homme.",
+        "MAB": "Mais les choses qui sortent de la bouche partent du cœur, et ces choses-là souillent l'homme.",
+        "OST": "Mais ce qui sort de la bouche vient du cœur; c'est là ce qui souille l'homme.",
+        "S21": "Mais ce qui sort de la bouche vient du cœur, et c'est ce qui rend l'homme impur."
+      }
+    },
+    {
+      "verse": 19,
+      "texts": {
+        "BDS": "Car, c’est du cœur que proviennent les mauvaises pensées qui mènent au meurtre, à l’adultère, à l’immoralité, au vol, aux faux témoignages, aux blasphèmes.",
+        "DBY": "Car du cœur viennent les mauvaises pensées, les meurtres, les adultères, les fornications, les vols, les faux témoignages, les injures:",
+        "KJV": "‹For out of the heart proceed evil thoughts, murders, adulteries, fornications, thefts, false witness, blasphemies:›",
+        "LSG": "Car c'est du coeur que viennent les mauvaises pensées, les meurtres, les adultères, les impudicités, les vols, les faux témoignages, les calomnies.",
+        "MAB": "Car du cœur sortent les mauvaises pensées, les meurtres, les adultères, les fornications, les larcins, les faux témoignages, les médisances.",
+        "OST": "Car c'est du cœur que viennent les mauvaises pensées, les meurtres, les adultères, les fornications, les larcins, les faux témoignages, les blasphèmes.",
+        "S21": "En effet, c'est du cœur que viennent les mauvaises pensées, les meurtres, les adultères, l'immoralité sexuelle, les vols, les faux témoignages, les calomnies."
+      }
+    },
+    {
+      "verse": 20,
+      "texts": {
+        "BDS": "Voilà ce qui rend l’homme impur. Mais manger sans s’être lavé les mains ne rend pas l’homme impur.",
+        "DBY": "ce sont ces choses qui souillent l'homme; mais de manger avec des mains non lavées ne souille pas l'homme.",
+        "KJV": "‹These are› [the things] ‹which defile a man: but to eat with unwashen hands defileth not a man.›",
+        "LSG": "Voilà les choses qui souillent l'homme; mais manger sans s'être lavé les mains, cela ne souille point l'homme.",
+        "MAB": "Ce sont là les choses qui souillent l'homme; mais de manger sans avoir les mains lavées, cela ne souille point l'homme.",
+        "OST": "Ce sont ces choses-là qui souillent l'homme; mais de manger sans s'être lavé les mains, cela ne souille point l'homme.",
+        "S21": "Voilà ce qui rend l'homme impur; mais manger sans s'être lavé les mains, cela ne rend pas l'homme impur.»"
+      }
+    },
+    {
+      "verse": 21,
+      "texts": {
+        "BDS": "En quittant cet endroit, Jésus se rendit dans la région de Tyr et de Sidon.",
+        "DBY": "Et Jésus, partant de là, se retira dans les quartiers de Tyr et de Sidon.",
+        "KJV": "Then Jesus went thence, and departed into the coasts of Tyre and Sidon.",
+        "LSG": "Jésus, étant parti de là, se retira dans le territoire de Tyr et de Sidon.",
+        "MAB": "Alors Jésus partant de là se retira vers les quartiers de Tyr et de Sidon.",
+        "OST": "Et Jésus, partant de là, se retira dans les quartiers de Tyr et de Sidon.",
+        "S21": "Jésus partit de là et se retira dans le territoire de Tyr et de Sidon."
+      }
+    },
+    {
+      "verse": 22,
+      "texts": {
+        "BDS": "Et voilà qu’une femme cananéenne, qui habitait là, vint vers lui et se mit à crier:\r\n—Seigneur, Fils de David, aie pitié de moi! Ma fille est sous l’emprise d’un démon qui la tourmente cruellement.",
+        "DBY": "Et voici, une femme cananéenne de ces contrées-là, sortant, s'écria, lui disant: Seigneur, Fils de David, aie pitié de moi; ma fille est cruellement tourmentée d'un démon.",
+        "KJV": "And, behold, a woman of Canaan came out of the same coasts, and cried unto him, saying, Have mercy on me, O Lord, [thou] Son of David; my daughter is grievously vexed with a devil.",
+        "LSG": "Et voici, une femme cananéenne, qui venait de ces contrées, lui cria: Aie pitié de moi, Seigneur, Fils de David! Ma fille est cruellement tourmentée par le démon.",
+        "MAB": "Et voici, une femme Cananéenne, qui était partie de ces quartiers-là, s'écria, en lui disant : Seigneur! Fils de David, aie pitié de moi! ma fille est misérablement tourmentée d'un démon.",
+        "OST": "Et une femme cananéenne, qui venait de ces quartiers, s'écria, et lui dit: Seigneur, fils de David! aie pitié de moi! ma fille est misérablement tourmentée par le démon.",
+        "S21": "Alors une femme cananéenne qui venait de cette région lui cria: «Aie pitié de moi, Seigneur, Fils de David! Ma fille est cruellement tourmentée par un démon.»"
+      }
+    },
+    {
+      "verse": 23,
+      "texts": {
+        "BDS": "Mais Jésus ne lui répondit pas un mot.\r\nSes disciples s’approchèrent de lui et lui dirent:\r\n—Renvoie-la, car elle ne cesse de nous suivre en criant.",
+        "DBY": "Et il ne lui répondit mot. Et ses disciples, s'approchant, le prièrent, disant: Renvoie-la, car elle crie après nous.",
+        "KJV": "But he answered her not a word. And his disciples came and besought him, saying, Send her away; for she crieth after us.",
+        "LSG": "Il ne lui répondit pas un mot, et ses disciples s'approchèrent, et lui dirent avec instance: Renvoie-la, car elle crie derrière nous.",
+        "MAB": "Mais il ne lui répondit mot; et ses Disciples s'approchant le prièrent, disant : renvoie-la; car elle crie après nous.",
+        "OST": "Mais il ne lui répondit rien. Et ses disciples, s'étant approchés, le prièrent, en disant: Renvoie-la, car elle crie après nous.",
+        "S21": "Il ne lui répondit pas un mot; ses disciples s'approchèrent et lui demandèrent: «Renvoie-la, car elle crie derrière nous.»"
+      }
+    },
+    {
+      "verse": 24,
+      "texts": {
+        "BDS": "Ce à quoi il répondit:\r\n—Ma mission se limite aux brebis perdues du peuple d’Israël.",
+        "DBY": "Mais lui, répondant, dit: Je ne suis envoyé qu'aux brebis perdues de la maison d'Israël.",
+        "KJV": "But he answered and said, ‹I am not sent but unto the lost sheep of the house of Israel.›",
+        "LSG": "Il répondit: Je n'ai été envoyé qu'aux brebis perdues de la maison d'Israël.",
+        "MAB": "Et il répondit, et dit : je ne suis envoyé qu'aux brebis perdues de la maison d'Israël.",
+        "OST": "Et il répondit: Je ne suis envoyé qu'aux brebis perdues de la maison d'Israël.",
+        "S21": "Il répondit: «Je n'ai été envoyé qu'aux brebis perdues de la communauté d'Israël.»"
+      }
+    },
+    {
+      "verse": 25,
+      "texts": {
+        "BDS": "Mais la femme vint se prosterner devant lui en disant:\r\n—Seigneur, viens à mon secours!",
+        "DBY": "Et elle vint et lui rendit hommage, disant: Seigneur, assiste-moi.",
+        "KJV": "Then came she and worshipped him, saying, Lord, help me.",
+        "LSG": "Mais elle vint se prosterner devant lui, disant: Seigneur, secours-moi!",
+        "MAB": "Mais elle vint, et l'adora, disant : Seigneur, assiste-moi!",
+        "OST": "Mais elle vint, et se prosterna, en disant: Seigneur! aide-moi.",
+        "S21": "Mais elle vint se prosterner devant lui et dit: «Seigneur, secours-moi!»"
+      }
+    },
+    {
+      "verse": 26,
+      "texts": {
+        "BDS": "Il lui répondit:\r\n—Il ne serait pas juste de prendre le pain des enfants de la maison pour le jeter aux petits chiens.",
+        "DBY": "Et lui, répondant, dit: il ne convient pas de prendre le pain des enfants et de le jeter aux chiens.",
+        "KJV": "But he answered and said, ‹It is not meet to take the children's bread, and to cast› [it] ‹to dogs.›",
+        "LSG": "Il répondit: Il n'est pas bien de prendre le pain des enfants, et de le jeter aux petits chiens.",
+        "MAB": "Et il lui répondit, et dit : il ne convient pas de prendre le pain des enfants, et de le jeter aux petits chiens.",
+        "OST": "Il lui répondit: Il n'est pas juste de prendre le pain des enfants pour le jeter aux petits chiens.",
+        "S21": "Il répondit: «Il n'est pas bien de prendre le pain des enfants et de le jeter aux petits chiens.»"
+      }
+    },
+    {
+      "verse": 27,
+      "texts": {
+        "BDS": "—C’est vrai, Seigneur, reprit-elle, et pourtant les petits chiens mangent les miettes qui tombent de la table de leurs maîtres.",
+        "DBY": "Et elle dit: Oui, Seigneur; car même les chiens mangent des miettes qui tombent de la table de leurs maîtres.",
+        "KJV": "And she said, Truth, Lord: yet the dogs eat of the crumbs which fall from their masters' table.",
+        "LSG": "Oui, Seigneur, dit-elle, mais les petits chiens mangent les miettes qui tombent de la table de leurs maîtres.",
+        "MAB": "Mais elle dit : cela est vrai, Seigneur! cependant les petits chiens mangent des miettes qui tombent de la table de leurs maîtres.",
+        "OST": "Mais elle dit: Il est vrai, Seigneur! cependant les petits chiens mangent des miettes qui tombent de la table de leurs maîtres.",
+        "S21": "«Oui, Seigneur, dit-elle, mais les petits chiens mangent les miettes qui tombent de la table de leurs maîtres.»"
+      }
+    },
+    {
+      "verse": 28,
+      "texts": {
+        "BDS": "Alors Jésus dit:\r\n—O femme, ta foi est grande! Qu’il en soit donc comme tu le veux!\r\nEt, sur l’heure, sa fille fut guérie.",
+        "DBY": "Alors Jésus, répondant, lui dit: O femme, ta foi est grande; qu'il te soit fait comme tu veux. Et dès cette heure-là sa fille fut guérie.",
+        "KJV": "Then Jesus answered and said unto her, ‹O woman, great› [is] ‹thy faith: be it unto thee even as thou wilt.› And her daughter was made whole from that very hour.",
+        "LSG": "Alors Jésus lui dit: Femme, ta foi est grande; qu'il te soit fait comme tu veux. Et, à l'heure même, sa fille fut guérie.",
+        "MAB": "Alors Jésus répondant, lui dit : Ô femme! ta foi est grande; qu'il te soit fait comme tu le souhaites : et dès ce moment-là sa fille fut guérie.",
+        "OST": "Alors Jésus, répondant, lui dit: O femme! ta foi est grande; qu'il te soit fait comme tu le désires. Et à cette heure même sa fille fut guérie.",
+        "S21": "Alors Jésus lui dit: «Femme, ta foi est grande. Sois traitée conformément à ton désir.» A partir de ce moment, sa fille fut guérie."
+      }
+    },
+    {
+      "verse": 29,
+      "texts": {
+        "BDS": "Jésus partit de cette région et retourna au bord du lac de Galilée. Il monta sur une colline où il s’assit.",
+        "DBY": "Et Jésus, étant parti de là, vint près de la mer de Galilée; et montant sur une montagne, il s'assit là.",
+        "KJV": "And Jesus departed from thence, and came nigh unto the sea of Galilee; and went up into a mountain, and sat down there.",
+        "LSG": "Jésus quitta ces lieux, et vint près de la mer de Galilée. Etant monté sur la montagne, il s'y assit.",
+        "MAB": "Et Jésus partant de là vint près de la mer de Galilée; puis il monta sur une montagne, et s'assit là.",
+        "OST": "Jésus, partant de là, vint près de la mer de Galilée; et, étant monté sur une montagne, il s'y assit.",
+        "S21": "Jésus quitta cet endroit et vint sur les bords du lac de Galilée. Il monta sur la montagne et s'y assit."
+      }
+    },
+    {
+      "verse": 30,
+      "texts": {
+        "BDS": "Des foules nombreuses vinrent auprès de lui et, avec elles, des paralysés, des aveugles, des sourds-muets, des estropiés et beaucoup d’autres malades. On les amena aux pieds de Jésus, et il les guérit.",
+        "DBY": "Et de grandes foules vinrent à lui, ayant avec elles des boiteux, des aveugles, des muets, des estropiés, et beaucoup d'autres; et elles les jetèrent à ses pieds, et il les guérit;",
+        "KJV": "And great multitudes came unto him, having with them [those that were] lame, blind, dumb, maimed, and many others, and cast them down at Jesus' feet; and he healed them:",
+        "LSG": "Alors s'approcha de lui une grande foule, ayant avec elle des boiteux, des aveugles, des muets, des estropiés, et beaucoup d'autres malades. On les mit à ses pieds, et il les guérit;",
+        "MAB": "Et plusieurs troupes de gens vinrent à lui, ayant avec eux des boiteux, des aveugles, des muets, des manchots, et plusieurs autres; lesquels on mit aux pieds de Jésus, et il les guérit.",
+        "OST": "Alors une grande multitude de peuple vint à lui, ayant avec eux des boiteux, des aveugles, des muets, des estropiés, et plusieurs autres malades. Ils les mirent aux pieds de Jésus, et il les guérit.",
+        "S21": "Une grande foule s'approcha de lui; il y avait parmi eux des boiteux, des aveugles, des muets, des estropiés et beaucoup d'autres malades. On les amena aux pieds de Jésus et il les guérit,"
+      }
+    },
+    {
+      "verse": 31,
+      "texts": {
+        "BDS": "La foule s’émerveillait de voir les sourds-muets parler, les estropiés reprendre l’usage de leurs membres, les paralysés marcher, les aveugles retrouver la vue, et tous se mirent à chanter la gloire du Dieu d’Israël.",
+        "DBY": "de sorte que les foules s'étonnèrent en voyant les muets parler, les estropiés guérir, les boiteux marcher, et les aveugles voir; et elles glorifièrent le Dieu d'Israël.",
+        "KJV": "Insomuch that the multitude wondered, when they saw the dumb to speak, the maimed to be whole, the lame to walk, and the blind to see: and they glorified the God of Israel.",
+        "LSG": "en sorte que la foule était dans l'admiration de voir que les muets parlaient, que les estropiés étaient guéris, que les boiteux marchaient, que les aveugles voyaient; et elle glorifiait le Dieu d'Israël.",
+        "MAB": "De sorte que ces troupes s'étonnèrent de voir les muets parler, les manchots être sains, les boiteux marcher, et les aveugles voir; et elles glorifièrent le Dieu d'Israël.",
+        "OST": "De sorte que le peuple était dans l'admiration, voyant que les muets parlaient, que les estropiés étaient guéris, que les boiteux marchaient, que les aveugles voyaient; et ils glorifiaient le Dieu d'Israël.",
+        "S21": "de sorte que la foule était émerveillée de voir les muets parler, les estropiés être guéris, les boiteux marcher, les aveugles voir, et elle célébrait la gloire du Dieu d'Israël."
+      }
+    },
+    {
+      "verse": 32,
+      "texts": {
+        "BDS": "Jésus appela ses disciples et leur dit:\r\n—J’ai pitié de cette foule. Voilà déjà trois jours qu’ils sont restés là, avec moi, et ils n’ont rien à manger. Je ne veux pas les renvoyer à jeun, de peur que les forces ne leur manquent sur le chemin du retour.",
+        "DBY": "Et Jésus, ayant appelé à lui ses disciples, dit: Je suis ému de compassion envers la foule, car voici trois jours déjà qu'ils demeurent auprès de moi, et ils n'ont rien à manger; et je ne veux pas les renvoyer à jeun, de peur qu'ils ne défaillent en chemin.",
+        "KJV": "Then Jesus called his disciples [unto him], and said, ‹I have compassion on the multitude, because they continue with me now three days, and have nothing to eat: and I will not send them away fasting, lest they faint in the way.›",
+        "LSG": "Jésus, ayant appelé ses disciples, dit: Je suis ému de compassion pour cette foule; car voilà trois jours qu'ils sont près de moi, et ils n'ont rien à manger. Je ne veux pas les renvoyer à jeun, de peur que les forces ne leur manquent en chemin.",
+        "MAB": "Alors Jésus ayant appelé ses Disciples, dit : je suis ému de compassion envers cette multitude de gens, car il y a déjà trois jours qu'ils ne bougent d'avec moi, et ils n'ont rien à manger; et je ne veux pas les renvoyer à jeun, de peur que les forces ne leur manquent en chemin.",
+        "OST": "Alors Jésus, ayant appelé ses disciples, leur dit: J'ai pitié de cette multitude; car il y a déjà trois jours qu'ils ne me quittent point, et ils n'ont rien à manger; et je ne veux pas les renvoyer à jeun, de peur que les forces ne leur manquent en chemin.",
+        "S21": "Jésus appela ses disciples et leur dit: «Je suis rempli de compassion pour cette foule, car voilà trois jours qu'ils sont près de moi et ils n'ont rien à manger. Je ne veux pas les renvoyer à jeun, de peur que les forces ne leur manquent en chemin.»"
+      }
+    },
+    {
+      "verse": 33,
+      "texts": {
+        "BDS": "Ses disciples lui dirent:\r\n—Où pourrions-nous trouver, dans ce lieu désert, assez de pains pour nourrir une telle foule?",
+        "DBY": "Et ses disciples lui disent: D'où aurions-nous dans le désert assez de pains pour rassasier une si grande foule?",
+        "KJV": "And his disciples say unto him, Whence should we have so much bread in the wilderness, as to fill so great a multitude?",
+        "LSG": "Les disciples lui dirent: Comment nous procurer dans ce lieu désert assez de pains pour rassasier une si grande foule?",
+        "MAB": "Et ses Disciples lui dirent : d'où pourrions-nous tirer dans ce désert assez de pains pour rassasier une si grande multitude?",
+        "OST": "Et ses disciples lui dirent: D'où pourrions-nous avoir, dans ce lieu désert, assez de pain pour rassasier une telle multitude?",
+        "S21": "Les disciples lui dirent: «Comment nous procurer dans cet endroit désert assez de pains pour rassasier une si grande foule?»"
+      }
+    },
+    {
+      "verse": 34,
+      "texts": {
+        "BDS": "—Combien de pains avez-vous?\r\n—Sept, répondirent-ils, et quelques petits poissons.",
+        "DBY": "Et Jésus leur dit: Combien avez-vous de pains? Et ils dirent: sept, et quelques petits poissons.",
+        "KJV": "And Jesus saith unto them, ‹How many loaves have ye?› And they said, Seven, and a few little fishes.",
+        "LSG": "Jésus leur demanda: Combien avez-vous de pains? Sept, répondirent-ils, et quelques petits poissons.",
+        "MAB": "Et Jésus leur dit : combien avez-vous de pains? ils lui dirent : Sept, et quelque peu de petits poissons.",
+        "OST": "Et Jésus leur dit: Combien avez-vous de pains? Ils dirent: Sept et quelques petits poissons.",
+        "S21": "Jésus leur demanda: «Combien avez-vous de pains?» «Sept, répondirent-ils, et quelques petits poissons.»"
+      }
+    },
+    {
+      "verse": 35,
+      "texts": {
+        "BDS": "Alors il invita tout le monde à s’asseoir par terre.",
+        "DBY": "Et il commanda aux foules de s'asseoir sur la terre.",
+        "KJV": "And he commanded the multitude to sit down on the ground.",
+        "LSG": "Alors il fit asseoir la foule par terre,",
+        "MAB": "Alors il commanda aux troupes de s'asseoir par terre.",
+        "OST": "Alors il commanda aux foules de s'asseoir à terre.",
+        "S21": "Alors il fit asseoir la foule par terre,"
+      }
+    },
+    {
+      "verse": 36,
+      "texts": {
+        "BDS": "Il prit ensuite les sept pains et les poissons et, après avoir remercié Dieu, il les partagea et les donna aux disciples, qui les distribuèrent à la foule.",
+        "DBY": "Et ayant pris les sept pains et les poissons, il rendit grâces et les rompit et les donna à ses disciples, et les disciples à la foule.",
+        "KJV": "And he took the seven loaves and the fishes, and gave thanks, and brake [them], and gave to his disciples, and the disciples to the multitude.",
+        "LSG": "prit les sept pains et les poissons, et, après avoir rendu grâces, il les rompit et les donna à ses disciples, qui les distribuèrent à la foule.",
+        "MAB": "Et ayant pris les sept pains et les poissons, il les rompit après avoir béni Dieu, et les donna à ses Disciples, et les Disciples au peuple.",
+        "OST": "Et ayant pris les sept pains et les poissons, et ayant rendu grâces, il les rompit et les donna à ses disciples, et les disciples les donnèrent au peuple.",
+        "S21": "prit les sept pains et les poissons et, après avoir remercié Dieu, il les rompit et les donna à ses disciples, qui les distribuèrent à la foule."
+      }
+    },
+    {
+      "verse": 37,
+      "texts": {
+        "BDS": "Tous mangèrent à satiété. On ramassa sept corbeilles pleines des morceaux qui restaient.",
+        "DBY": "Et ils mangèrent tous et furent rassasiés; et ils ramassèrent, des morceaux qui étaient de reste, sept corbeilles pleines.",
+        "KJV": "And they did all eat, and were filled: and they took up of the broken [meat] that was left seven baskets full.",
+        "LSG": "Tous mangèrent et furent rassasiés, et l'on emporta sept corbeilles pleines des morceaux qui restaient.",
+        "MAB": "Et ils mangèrent tous, et furent rassasiés; et on remporta du reste des pièces de pain sept corbeilles pleines.",
+        "OST": "Et tous en mangèrent et furent rassasiés; et on emporta sept corbeilles pleines des morceaux qui restèrent.",
+        "S21": "Tous mangèrent et furent rassasiés, et l'on emporta sept corbeilles pleines des morceaux qui restaient."
+      }
+    },
+    {
+      "verse": 38,
+      "texts": {
+        "BDS": "Ceux qui furent ainsi nourris étaient au nombre de quatre mille hommes, sans compter les femmes et les enfants.",
+        "DBY": "Or ceux qui avaient mangé étaient quatre mille hommes, outre les femmes et les enfants.",
+        "KJV": "And they that did eat were four thousand men, beside women and children.",
+        "LSG": "Ceux qui avaient mangé étaient quatre mille hommes, sans les femmes et les enfants.",
+        "MAB": "Or ceux qui avaient mangé étaient quatre mille hommes, sans compter les femmes et les petits enfants.",
+        "OST": "Or, ceux qui en avaient mangé étaient quatre mille hommes, sans compter les femmes et les petits enfants.",
+        "S21": "Ceux qui avaient mangé étaient 4000 hommes, sans compter les femmes et les enfants."
+      }
+    },
+    {
+      "verse": 39,
+      "texts": {
+        "BDS": "Après avoir congédié la foule, Jésus monta dans une barque et se rendit dans la région de Magadan.",
+        "DBY": "ayant renvoyé les foules, il monta dans une nacelle et vint dans la contrée de Magadan.",
+        "KJV": "And he sent away the multitude, and took ship, and came into the coasts of Magdala.",
+        "LSG": "Ensuite, il renvoya la foule, monta dans la barque, et se rendit dans la contrée de Magadan.",
+        "MAB": "Et Jésus ayant donné congé aux troupes, monta sur une nacelle, et vint au territoire de Magdala.",
+        "OST": "Alors Jésus, ayant renvoyé le peuple, entra dans une barque, et il vint au territoire de Magdala.",
+        "S21": "Ensuite, il renvoya la foule, monta dans la barque et se rendit dans la région de Magdala."
+      }
+    }
+  ]
+}

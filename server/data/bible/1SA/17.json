@@ -1,0 +1,702 @@
+{
+  "bookCode": "1SA",
+  "chapter": 17,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "Les Philistins mobilisèrent leurs troupes pour une expédition guerrière, ils se rassemblèrent à Soko en Juda et dressèrent leur camp entre Soko et Azéqa, à Ephès-Dammim.",
+        "DBY": "Et les Philistins rassemblèrent leurs armées pour faire la guerre, et ils s'assemblèrent à Soco, qui appartient à Juda, et campèrent entre Soco et Azéka, à Éphès-Dammim.",
+        "KJV": "Now the Philistines gathered together their armies to battle, and were gathered together at Shochoh, which [belongeth] to Judah, and pitched between Shochoh and Azekah, in Ephesdammim.",
+        "LSG": "Les Philistins réunirent leurs armées pour faire la guerre, et ils se rassemblèrent à Soco, qui appartient à Juda; ils campèrent entre Soco et Azéka, à Ephès-Dammim.",
+        "MAB": "Or les Philistins assemblèrent leurs armées pour faire la guerre, et ils s'assemblèrent à Soco, qui est de Juda, et se campèrent entre Soco et Hazéka, sur la frontière de Dammim.",
+        "OST": "Or, les Philistins assemblèrent leurs armées pour combattre; et ils s'assemblèrent à Soco, qui est de Juda, et campèrent entre Soco et Azéka, à Éphès-Dammim.",
+        "S21": "Les Philistins réunirent leurs troupes pour faire la guerre et ils se rassemblèrent à Soco, ville qui appartient à Juda. Ils installèrent leur camp entre Soco et Azéka, à Ephès-Dammim."
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "Saül, de son côté, rassembla les hommes d’Israël et ils campèrent dans la vallée du Chêne. C’est là qu’ils prirent position en ordre de bataille face aux Philistins.",
+        "DBY": "Et Saül et les hommes d'Israël se rassemblèrent, et campèrent dans la vallée d'Éla, et se rangèrent en bataille contre les Philistins.",
+        "KJV": "And Saul and the men of Israel were gathered together, and pitched by the valley of Elah, and set the battle in array against the Philistines.",
+        "LSG": "Saül et les hommes d'Israël se rassemblèrent aussi; ils campèrent dans la vallée des térébinthes, et ils se mirent en ordre de bataille contre les Philistins.",
+        "MAB": "Saül aussi et ceux d'Israël s'assemblèrent, et se campèrent en la vallée du chêne, et rangèrent leur bataille pour aller à la rencontre des Philistins.",
+        "OST": "Saül aussi et les hommes d'Israël s'assemblèrent, et campèrent dans la vallée du chêne; et ils se rangèrent en bataille contre les Philistins.",
+        "S21": "Saül et les hommes d'Israël se rassemblèrent aussi. Ils installèrent leur camp dans la vallée d’Ela et ils se rangèrent en ordre de bataille contre les Philistins."
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "Ceux-ci occupaient un versant de la montagne et les Israélites le versant opposé; la vallée séparait les deux armées.",
+        "DBY": "Et les Philistins se tenaient sur la montagne, d'un côté, et Israël se tenait sur la montagne, de l'autre côté, et le ravin était entre eux.",
+        "KJV": "And the Philistines stood on a mountain on the one side, and Israel stood on a mountain on the other side: and [there was] a valley between them.",
+        "LSG": "Les Philistins étaient vers la montagne d'un côté, et Israël était vers la montagne de l'autre côté: la vallée les séparait.",
+        "MAB": "Or les Philistins étaient sur une montagne du côté de deçà, et les Israëlites étaient sur une [autre] montagne du côté de delà; de sorte que la vallée était entre deux.",
+        "OST": "Or, les Philistins étaient sur la montagne d'un côté, et les Israélites sur la montagne de l'autre côté, et la vallée était entre eux.",
+        "S21": "Les Philistins se tenaient sur une montagne, et Israël sur celle d’en face: la vallée les séparait."
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "Alors un champion sortit du camp des Philistins et s’avança vers Israël. C’était un géant mesurant près de trois mètres, nommé Goliath, originaire de Gath.",
+        "DBY": "Et il sortit du camp des Philistins un champion de l'armée; son nom était Goliath, il était de Gath; sa hauteur était de six coudées et un empan.",
+        "KJV": "And there went out a champion out of the camp of the Philistines, named Goliath, of Gath, whose height [was] six cubits and a span.",
+        "LSG": "Un homme sortit alors du camp des Philistins et s'avança entre les deux armées. Il se nommait Goliath, il était de Gath, et il avait une taille de six coudées et un empan.",
+        "MAB": "Et il sortit du camp des Philistins un homme qui se présentait entre les deux armées, et qui avait nom Goliath, [de la ville] de Gath, haut de six coudées et d'une paume.",
+        "OST": "Alors sortit du camp des Philistins un homme qui se présenta entre les deux armées, et qui s'appelait Goliath; il était de Gath; il avait six coudées et une palme de haut.",
+        "S21": "Un homme sortit alors du camp des Philistins et s'avança entre les deux armées. Il s’appelait Goliath, venait de Gath et mesurait environ 3 mètres."
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "Il était revêtu d’un casque de bronze et d’une cuirasse à écailles en bronze pesant une soixantaine de kilos.",
+        "DBY": "Et il avait un casque d'airain sur sa tête, et était revêtu d'une cotte de mailles à écailles; et le poids de la cotte de mailles était de cinq mille sicles d'airain;",
+        "KJV": "And [he had] an helmet of brass upon his head, and he [was] armed with a coat of mail; and the weight of the coat [was] five thousand shekels of brass.",
+        "LSG": "Sur sa tête était un casque d'airain, et il portait une cuirasse à écailles du poids de cinq mille sicles d'airain.",
+        "MAB": "Et il avait un casque d'airain sur sa tête, et était armé d'une cuirasse à écailles; et sa cuirasse pesait cinq mille sicles d'airain.",
+        "OST": "Il avait un casque d'airain sur la tête, et il était revêtu d'une cuirasse à écailles, et cette cuirasse pesait cinq mille sicles d'airain.",
+        "S21": "Il avait sur la tête un casque en bronze et il portait une cuirasse à écailles en bronze qui pesait près de 60 kilos."
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "Ses jambes étaient protégées par des plaques de bronze et il portait en bandoulière sur ses épaules un javelot de bronze.",
+        "DBY": "et il avait des jambières d'airain aux jambes, et un javelot d'airain entre ses épaules;",
+        "KJV": "And [he had] greaves of brass upon his legs, and a target of brass between his shoulders.",
+        "LSG": "Il avait aux jambes une armure d'airain, et un javelot d'airain entre les épaules.",
+        "MAB": "Il avait aussi des jambières d'airain sur ses jambes, et un écu d'airain entre ses épaules.",
+        "OST": "Il avait aussi des jambières d'airain sur les jambes, et un javelot d'airain entre les épaules.",
+        "S21": "Il avait des jambières en bronze et tenait un javelot en bronze en bandoulière."
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "Le bois de sa lance avait la grosseur d’un cylindre de métier à tisser, le fer de lance à lui seul pesait près de sept kilos. Il était précédé d’un homme qui portait son bouclier.",
+        "DBY": "et le bois de sa lance était comme l'ensouple des tisserands, et le fer de sa lance pesait six cents sicles de fer; et celui qui portait son bouclier marchait devant lui.",
+        "KJV": "And the staff of his spear [was] like a weaver's beam; and his spear's head [weighed] six hundred shekels of iron: and one bearing a shield went before him.",
+        "LSG": "Le bois de sa lance était comme une ensouple de tisserand, et la lance pesait six cents sicles de fer. Celui qui portait son bouclier marchait devant lui.",
+        "MAB": "La hampe de sa hallebarde était comme l'ensuble d'un tisserand, et le fer de cette [hallebarde] pesait six cents sicles de fer; et celui qui portait son bouclier marchait devant lui.",
+        "OST": "Le bois de sa lance était comme l'ensouple d'un tisserand, et la pointe de sa lance pesait six cents sicles de fer; et celui qui portait son bouclier marchait devant lui.",
+        "S21": "Le bois de sa lance avait la grosseur d’un cylindre de métier à tisser, et la lance, en fer, pesait 7 kilos. Celui qui portait son bouclier marchait devant lui."
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "Il se campa face aux troupes israélites, et leur cria:\r\n—Pourquoi vous êtes-vous rangés en ordre de combat? Moi, je suis le Philistin, et vous, les esclaves de Saül. Choisissez parmi vous un homme, et qu’il m’affronte en combat singulier!",
+        "DBY": "Et il se tenait là et criait aux troupes rangées d'Israël, et leur disait: Pourquoi sortez-vous pour vous ranger en bataille? Ne suis-je pas le Philistin, et vous, des serviteurs de Saül? Choisissez-vous un homme, et qu'il descende contre moi.",
+        "KJV": "And he stood and cried unto the armies of Israel, and said unto them, Why are ye come out to set [your] battle in array? [am] not I a Philistine, and ye servants to Saul? choose you a man for you, and let him come down to me.",
+        "LSG": "Le Philistin s'arrêta; et, s'adressant aux troupes d'Israël rangées en bataille, il leur cria: Pourquoi sortez-vous pour vous ranger en bataille? Ne suis-je pas le Philistin, et n'êtes-vous pas des esclaves de Saül? Choisissez un homme qui descende contre moi!",
+        "MAB": "Il se présentait donc, et criait aux troupes rangées d'Israël, et leur disait : Pourquoi sortiriez-vous pour vous ranger en bataille? Ne suis-je pas Philistin, et vous n'êtes-vous pas serviteurs de Saül? Choisissez l'un d'entre vous, et qu'il descende vers moi.",
+        "OST": "Il se présenta donc, et il cria aux troupes rangées d'Israël, et leur dit: Pourquoi sortez-vous pour vous ranger en bataille? Ne suis-je pas le Philistin, et vous, n'êtes-vous pas serviteurs de Saül? Choisissez-vous un homme, et qu'il descende contre moi;",
+        "S21": "Le Philistin s'arrêta et s'adressa aux troupes d'Israël rangées en ordre de bataille. Il leur cria: «Pourquoi sortez-vous pour vous ranger en ordre de bataille? Ne suis-je pas le Philistin et n'êtes-vous pas des esclaves de Saül? Choisissez un homme qui descende contre moi!"
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "S’il peut me battre et qu’il me tue, alors nous vous serons assujettis. Mais si c’est moi le vainqueur et si je le tue, c’est vous qui nous serez assujettis et vous serez nos esclaves.",
+        "DBY": "S'il est capable de combattre avec moi et qu'il me tue, nous serons vos serviteurs; et si moi j'ai l'avantage sur lui et que je le tue, c'est vous qui serez nos serviteurs et qui nous servirez.",
+        "KJV": "If he be able to fight with me, and to kill me, then will we be your servants: but if I prevail against him, and kill him, then shall ye be our servants, and serve us.",
+        "LSG": "S'il peut me battre et qu'il me tue, nous vous serons assujettis; mais si je l'emporte sur lui et que je le tue, vous nous serez assujettis et vous nous servirez.",
+        "MAB": "Que s'il est le plus fort en combattant avec moi, et qu'il me tue, nous serons vos serviteurs; mais si j'ai l'avantage sur lui, et que je le tue, vous serez nos serviteurs, et vous nous serez asservis.",
+        "OST": "S'il a l'avantage, en combattant avec moi, et qu'il me tue, nous vous serons assujettis; mais si j'ai l'avantage sur lui et que je le tue, vous nous serez assujettis, et vous nous servirez.",
+        "S21": "S'il peut me battre et qu'il me tue, nous serons vos esclaves. Mais si je l'emporte sur lui et que je le tue, vous serez nos esclaves et vous nous servirez.»"
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "Puis il ajouta: Je lance aujourd’hui ce défi à l’armée d’Israël. Envoyez-moi un homme et nous nous affronterons en combat singulier.",
+        "DBY": "Et le Philistin dit: Moi, j'ai outragé aujourd'hui les troupes rangées d'Israël! Donnez-moi un homme, et nous combattrons ensemble.",
+        "KJV": "And the Philistine said, I defy the armies of Israel this day; give me a man, that we may fight together.",
+        "LSG": "Le Philistin dit encore: Je jette en ce jour un défi à l'armée d'Israël! Donnez-moi un homme, et nous nous battrons ensemble.",
+        "MAB": "Et le Philistin disait : J'ai déshonoré aujourd'hui les troupes rangées d'Israël, [en leur disant] : Donnez-moi un homme, et nous combattrons ensemble.",
+        "OST": "Et le Philistin dit: J'ai insulté aujourd'hui les troupes rangées d'Israël. Donnez-moi un homme, et nous combattrons ensemble.",
+        "S21": "Le Philistin dit encore: «Je jette aujourd’hui un défi à l'armée d'Israël: donnez-moi un homme, pour que nous nous battions ensemble!»"
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "Quand Saül et toute son armée entendirent ces paroles du Philistin, ils furent démoralisés et une grande peur s’empara d’eux.",
+        "DBY": "Et Saül et tout Israël entendirent ces paroles du Philistin, et ils furent effrayés et eurent une grande peur.",
+        "KJV": "When Saul and all Israel heard those words of the Philistine, they were dismayed, and greatly afraid.",
+        "LSG": "Saül et tout Israël entendirent ces paroles du Philistin, et ils furent effrayés et saisis d'une grande crainte.",
+        "MAB": "[Mais] Saül et tous les Israëlites ayant entendu les paroles du Philistin, furent étonnés, et eurent une grande peur.",
+        "OST": "Et Saül et tous les Israélites, ayant entendu ces paroles du Philistin, furent effrayés, et eurent une fort grande peur.",
+        "S21": "En entendant ces paroles du Philistin, Saül et tout Israël furent effrayés et remplis de peur."
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "Or, David était fils d’un Ephratien de Bethléhem en Juda nommé Isaï et qui avait huit fils. Au temps de Saül, Isaï était très âgé.",
+        "DBY": "Et David était fils de cet homme éphratien de Bethléhem de Juda, dont le nom était Isaï; et il avait huit fils; et cet homme, aux jours de Saül, était vieux, avancé en âge parmi les hommes.",
+        "KJV": "Now David [was] the son of that Ephrathite of Bethlehemjudah, whose name [was] Jesse; and he had eight sons: and the man went among men [for] an old man in the days of Saul.",
+        "LSG": "Or David était fils de cet Ephratien de Bethléhem de Juda, nommé Isaï, qui avait huit fils, et qui, du temps de Saül, était vieux, avancé en âge.",
+        "MAB": "Or il y avait David, fils d'un homme Ephratien de Bethléhem de Juda, nommé Isaï, qui avait huit fils; il était vieux, et il était mis au rang des personnes de qualité du temps de Saül.",
+        "OST": "Or, David était fils de cet homme éphratien, de Bethléhem de Juda, nommé Isaï, qui avait huit fils, et cet homme, au temps de Saül, était avancé en âge.",
+        "S21": "Or David était le fils de l’Ephratien de Bethléhem en Juda nommé Isaï qui avait huit fils. A l’époque de Saül, cet homme était vieux, d’un âge avancé."
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "Ses trois fils aînés avaient suivi Saül à la guerre: l’aîné s’appelait Eliab, le second Abinadab et le troisième Chamma.",
+        "DBY": "Et les trois fils aînés d'Isaï étaient partis, ils avaient suivi Saül à la guerre. Et les noms de ses trois fils qui étaient partis pour la guerre, étaient: Éliab, le premier-né, et Abinadab, le second, et Shamma, le troisième.",
+        "KJV": "And the three eldest sons of Jesse went [and] followed Saul to the battle: and the names of his three sons that went to the battle [were] Eliab the firstborn, and next unto him Abinadab, and the third Shammah.",
+        "LSG": "Les trois fils aînés d'Isaï avaient suivi Saül à la guerre; le premier-né de ses trois fils qui étaient partis pour la guerre s'appelait Eliab, le second Abinadab, et le troisième Schamma.",
+        "MAB": "Et les trois plus grands fils d'Isaï s'en étaient allés, et avaient suivi Saül en cette guerre. Les noms de ses trois fils qui s'en étaient allés à la guerre, étaient Eliab, le premier-né; Abinadab, le second; et Samma, le troisième.",
+        "OST": "Les trois plus grands fils d'Isaï s'en étaient allés, et avaient suivi Saül à la guerre. Et ses trois fils qui étaient allés à la guerre, s'appelaient, l'aîné Éliab, le second Abinadab, et le troisième Shamma.",
+        "S21": "Les trois fils aînés d'Isaï avaient suivi Saül à la guerre. Voici le nom de ses trois fils partis pour la guerre: Eliab, l’aîné, Abinadab le deuxième et Shamma, le troisième."
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "Quant à David, c’était le plus jeune. Lorsque les trois aînés eurent suivi Saül,",
+        "DBY": "Et David était le plus jeune; et les trois aînés avaient suivis Saül.",
+        "KJV": "And David [was] the youngest: and the three eldest followed Saul.",
+        "LSG": "David était le plus jeune. Et lorsque les trois aînés eurent suivi Saül,",
+        "MAB": "Et David était le plus jeune, et les trois plus grands suivaient Saül.",
+        "OST": "Et David était le plus jeune; et les trois plus grands suivaient Saül.",
+        "S21": "David était le plus jeune, et les trois aînés avaient suivi Saül."
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "David faisait le va-et-vient entre le camp de Saül et Bethléhem pour y garder les moutons de son père.",
+        "DBY": "Et David allait et revenait d'auprès de Saül pour paître le menu bétail de son père à Bethléhem.",
+        "KJV": "But David went and returned from Saul to feed his father's sheep at Bethlehem.",
+        "LSG": "David s'en alla de chez Saül et revint à Bethléhem pour faire paître les brebis de son père.",
+        "MAB": "Et David allait et revenait d'auprès de Saül, pour paître les brebis de son père en Bethléhem.",
+        "OST": "Et David allait et revenait d'auprès de Saül pour paître les brebis de son père, à Bethléhem.",
+        "S21": "Quant à David, il faisait le va-et-vient, quittant Saül pour garder les brebis de son père à Bethléhem."
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "Chaque matin et chaque soir, le Philistin venait se présenter en face de l’armée d’Israël et cela depuis quarante jours.",
+        "DBY": "Et le Philistin s'approchait le matin et le soir, et il se présenta pendant quarante jours.",
+        "KJV": "And the Philistine drew near morning and evening, and presented himself forty days.",
+        "LSG": "Le Philistin s'avançait matin et soir, et il se présenta pendant quarante jours.",
+        "MAB": "Et le Philistin s'approchant le matin et le soir, se présenta quarante jours durant.",
+        "OST": "Et le Philistin s'approchait matin et soir, et il se présenta ainsi pendant quarante jours.",
+        "S21": "Le Philistin s'avançait matin et soir, et il se présenta ainsi pendant 40 jours."
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "C’est à cette époque qu’Isaï dit à son fils David:\r\n—Prends cette mesure de grains rôtis et ces dix pains et porte-les vite au camp pour tes frères.",
+        "DBY": "Et Isaï dit à David, son fils: Prends, je te prie, pour tes frères cet épha de froment rôti et ces dix pains, et porte-les vite au camp vers tes frères.",
+        "KJV": "And Jesse said unto David his son, Take now for thy brethren an ephah of this parched [corn], and these ten loaves, and run to the camp to thy brethren;",
+        "LSG": "Isaï dit à David, son fils: Prends pour tes frères cet épha de grain rôti et ces dix pains, et cours au camp vers tes frères;",
+        "MAB": "Et Isaï dit à David son fils : Prends maintenant pour tes frères un Epha de ce froment rôti, et ces dix pains, et porte les en diligence au camp à tes frères.",
+        "OST": "Et Isaï dit à David, son fils: Prends-donc pour tes frères cet épha de froment rôti et ces dix pains, et porte-les promptement au camp, à tes frères;",
+        "S21": "Isaï dit à son fils David: «Prends pour tes frères cette mesure de grain rôti et ces 10 pains, et cours au camp vers tes frères."
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "Emporte aussi ces dix fromages, tu les donneras au chef de leur «millier». Tu verras si tes frères se portent bien et tu m’en rapporteras de leur part un gage.",
+        "DBY": "Et ces dix fromages de lait, tu les porteras au chef du millier; et tu t'informeras touchant le bien-être de tes frères, et tu prendras d'eux un gage.",
+        "KJV": "And carry these ten cheeses unto the captain of [their] thousand, and look how thy brethren fare, and take their pledge.",
+        "LSG": "porte aussi ces dix fromages au chef de leur millier. Tu verras si tes frères se portent bien, et tu m'en donneras des nouvelles sûres.",
+        "MAB": "Tu porteras aussi ces dix fromages de lait au capitaine de leur millier, et tu visiteras tes frères [pour savoir] s'ils se portent bien, et tu m'en apporteras des marques.",
+        "OST": "Tu porteras aussi ces dix fromages de lait au capitaine de leur millier; et tu visiteras tes frères pour savoir s'ils se portent bien; et tu m'en apporteras des nouvelles certaines.",
+        "S21": "Porte aussi ces 10 fromages au chef de leur millier. Tu verras si tes frères se portent bien et tu m’en apporteras une preuve de leur part."
+      }
+    },
+    {
+      "verse": 19,
+      "texts": {
+        "BDS": "Tu les trouveras avec Saül et toute l’armée d’Israël dans la vallée du Chêne, face aux Philistins.",
+        "DBY": "Saül, et eux, et tous les hommes d'Israël, étaient dans la vallée d'Éla, faisant la guerre contre les Philistins.",
+        "KJV": "Now Saul, and they, and all the men of Israel, [were] in the valley of Elah, fighting with the Philistines.",
+        "LSG": "Ils sont avec Saül et tous les hommes d'Israël dans la vallée des térébinthes, faisant la guerre aux Philistins.",
+        "MAB": "Or Saül, et eux, et tous ceux d'Israël étaient en la vallée du chêne, combattant contre les Philistins.",
+        "OST": "Or, Saül, et eux, et tous les hommes d'Israël étaient dans la vallée du chêne, combattant contre les Philistins.",
+        "S21": "Ils sont avec Saül et tous les hommes d'Israël dans la vallée d’Ela, et ils font la guerre aux Philistins.»"
+      }
+    },
+    {
+      "verse": 20,
+      "texts": {
+        "BDS": "Le lendemain de bon matin, David confia ses moutons à quelqu’un pour les garder, il prit ses provisions et partit comme Isaï le lui avait ordonné. Quand il arriva au campement, l’armée était en train de prendre position pour la bataille en lançant le cri de guerre.",
+        "DBY": "Et David se leva de bonne heure le matin et laissa le menu bétail à un gardien, et prit sa charge et s'en alla, comme Isaï le lui avait commandé; et il vint à l'enceinte formée par les chars. Or l'armée sortait pour se ranger en bataille, et on poussait le cri de guerre;",
+        "KJV": "And David rose up early in the morning, and left the sheep with a keeper, and took, and went, as Jesse had commanded him; and he came to the trench, as the host was going forth to the fight, and shouted for the battle.",
+        "LSG": "David se leva de bon matin. Il laissa les brebis à un gardien, prit sa charge, et partit, comme Isaï le lui avait ordonné. Lorsqu'il arriva au camp, l'armée était en marche pour se ranger en bataille et poussait des cris de guerre.",
+        "MAB": "David donc se leva de bon matin, et laissa les brebis en garde au berger, puis ayant pris sa charge, s'en alla, comme son père Isaï le lui avait commandé, et il arriva au lieu où était le camp; et l'armée était sortie là où elle se rangeait en bataille, et on jetait de grands cris à cause de la bataille.",
+        "OST": "David se leva donc de bon matin, laissa les brebis à un gardien, prit sa charge, et s'en alla, comme Isaï lui avait commandé, et arriva au retranchement. Or, l'armée sortait pour se ranger en bataille, et poussait des cris de guerre;",
+        "S21": "David se leva de bon matin. Il laissa les brebis à un gardien, prit ses affaires et partit, comme Isaï le lui avait ordonné. Lorsqu'il arriva au camp, l'armée était en marche pour se ranger en ordre de bataille et poussait des cris de guerre."
+      }
+    },
+    {
+      "verse": 21,
+      "texts": {
+        "BDS": "Israélites et Philistins se rangèrent en ordre de bataille face à face.",
+        "DBY": "et Israël et les Philistins se rangèrent en bataille, ligne contre ligne.",
+        "KJV": "For Israel and the Philistines had put the battle in array, army against army.",
+        "LSG": "Israël et les Philistins se formèrent en bataille, armée contre armée.",
+        "MAB": "Car les Israëlites et les Philistins avaient rangé armée contre armée.",
+        "OST": "Et les Israélites et les Philistins avaient rangé armée contre armée.",
+        "S21": "Les Israélites et les Philistins se mirent en ordre de bataille, armée contre armée."
+      }
+    },
+    {
+      "verse": 22,
+      "texts": {
+        "BDS": "David déposa son chargement et le confia au gardien des bagages, puis il courut au front. Aussitôt arrivé, il vint demander de leurs nouvelles à ses frères.",
+        "DBY": "Et David laissa aux mains de celui qui gardait le bagage les objets qu'il portait, et courut vers la ligne de bataille; et il vint et interrogea ses frères touchant leur bien-être.",
+        "KJV": "And David left his carriage in the hand of the keeper of the carriage, and ran into the army, and came and saluted his brethren.",
+        "LSG": "David remit les objets qu'il portait entre les mains du gardien des bagages, et courut vers les rangs de l'armée. Aussitôt arrivé, il demanda à ses frères comment ils se portaient.",
+        "MAB": "Alors David se déchargea de son bagage, le laissant entre les mains de celui qui gardait le bagage, et courut au lieu où était la bataille rangée, et y étant arrivé, il demanda à ses frères s'ils se portaient bien.",
+        "OST": "Alors David se déchargea de son fardeau, le laissa entre les mains de celui qui gardait le bagage, et courut vers les rangs de l'armée. Il vint donc, et demanda à ses frères s'ils se portaient bien;",
+        "S21": "David confia les affaires qu'il transportait au gardien du matériel et courut vers les rangs de l'armée. Aussitôt arrivé, il demanda à ses frères comment ils allaient."
+      }
+    },
+    {
+      "verse": 23,
+      "texts": {
+        "BDS": "Pendant qu’il parlait avec eux, Goliath, le champion des Philistins, originaire de Gath, sortit de leurs rangs et lança son défi habituel. David l’entendit.",
+        "DBY": "Et comme il parlait avec eux, voici le champion, nommé Goliath, le Philistin de Gath, qui s'avançait hors des rangs des Philistins, et il proféra les mêmes paroles; et David l'entendit.",
+        "KJV": "And as he talked with them, behold, there came up the champion, the Philistine of Gath, Goliath by name, out of the armies of the Philistines, and spake according to the same words: and David heard [them].",
+        "LSG": "Tandis qu'il parlait avec eux, voici, le Philistin de Gath, nommé Goliath, s'avança entre les deux armées, hors des rangs des Philistins. Il tint les mêmes discours que précédemment, et David les entendit.",
+        "MAB": "Et comme il parlait avec eux, voici monter cet homme qui se présentait entre les deux armées, lequel avait nom Goliath, Philistin de la ville de Gath, [qui s'avançant hors] de l'armée des Philistins proféra les mêmes paroles qu'il avait proférées auparavant, et David les entendit.",
+        "OST": "Et comme il parlait avec eux, voici, l'homme qui se présentait entre les deux armées, le Philistin, de Gath, nommé Goliath, monta hors des rangs des Philistins et prononça les mêmes discours; et David les entendit.",
+        "S21": "Il était en train de parler avec eux lorsque le Philistin de Gath appelé Goliath s'avança entre les deux armées, hors des rangs des Philistins. Il tint les mêmes discours que les autres fois et David les entendit."
+      }
+    },
+    {
+      "verse": 24,
+      "texts": {
+        "BDS": "A la vue de cet homme, tous les soldats d’Israël s’enfuirent terrorisés.",
+        "DBY": "Et tous les hommes d'Israël, voyant l'homme, s'enfuirent de devant lui et eurent très-peur.",
+        "KJV": "And all the men of Israel, when they saw the man, fled from him, and were sore afraid.",
+        "LSG": "A la vue de cet homme, tous ceux d'Israël s'enfuirent devant lui et furent saisis d'une grande crainte.",
+        "MAB": "Et tous ceux d'Israël voyant cet homme-là, s'enfuyaient de devant lui, et avaient une grande peur.",
+        "OST": "Et tous ceux d'Israël, à la vue de cet homme, s'enfuyaient de devant lui, et tremblaient de peur.",
+        "S21": "A la vue de cet homme, tous les Israélites prirent la fuite et furent remplis de peur."
+      }
+    },
+    {
+      "verse": 25,
+      "texts": {
+        "BDS": "—L’avez-vous vu s’avancer contre nous? dit l’un d’eux. Il vient encore insulter Israël. Celui qui le tuera, recevra de grandes richesses de la part du roi qui lui donnera en plus sa propre fille en mariage et exonérera toute sa famille d’impôts.",
+        "DBY": "Et les hommes d'Israël dirent: Avez-vous vu cet homme-là qui monte? car c'est pour outrager Israël qu'il est monté. Et il arrivera que l'homme qui le frappera, le roi l'enrichira de grandes richesses, et il lui donnera sa fille, et affranchira la maison de son père en Israël.",
+        "KJV": "And the men of Israel said, Have ye seen this man that is come up? surely to defy Israel is he come up: and it shall be, [that] the man who killeth him, the king will enrich him with great riches, and will give him his daughter, and make his father's house free in Israel.",
+        "LSG": "Chacun disait: Avez-vous vu s'avancer cet homme? C'est pour jeter à Israël un défi qu'il s'est avancé! Si quelqu'un le tue, le roi le comblera de richesses, il lui donnera sa fille, et il affranchira la maison de son père en Israël.",
+        "MAB": "Et chacun d'Israël disait : N'avez-vous point vu cet homme-là qui est monté? Il est monté pour déshonorer Israël; et s'il se trouve quelqu'un qui le frappe, le Roi le comblera de richesses, et lui donnera sa fille, et affranchira la maison de son père [de toutes charges] en Israël.",
+        "OST": "Et les Israélites disaient: Avez-vous vu cet homme qui monte? C'est pour insulter Israël qu'il est monté. Mais si quelqu'un le tue, le roi le comblera de richesses; il lui donnera sa fille, et il affranchira la maison de son père en Israël.",
+        "S21": "Chacun disait: «Avez-vous vu s'avancer cet homme? C'est pour jeter un défi à Israël qu'il s'est avancé! Si quelqu'un le tue, le roi le comblera de richesses, il lui donnera sa fille et libérera sa famille de tout impôt en Israël.»"
+      }
+    },
+    {
+      "verse": 26,
+      "texts": {
+        "BDS": "David demanda aux hommes qui se tenaient autour de lui:\r\n—Qu’est-ce que l’on donnera à celui qui abattra ce Philistin et qui lavera le peuple d’Israël de la honte qui lui est infligée? Qu’est donc cet incirconcis de Philistin, pour oser insulter les bataillons du Dieu vivant?",
+        "DBY": "Et David parla aux hommes qui se tenaient là avec lui, disant: Que sera-t-il fait à l'homme qui aura frappé ce Philistin-là, et qui aura ôté l'opprobre de dessus Israël? Car qui est ce Philistin, cet incirconcis, pour outrager les troupes rangées du Dieu vivant?",
+        "KJV": "And David spake to the men that stood by him, saying, What shall be done to the man that killeth this Philistine, and taketh away the reproach from Israel? for who [is] this uncircumcised Philistine, that he should defy the armies of the living God?",
+        "LSG": "David dit aux hommes qui se trouvaient près de lui: Que fera-t-on à celui qui tuera ce Philistin, et qui ôtera l'opprobre de dessus Israël? Qui est donc ce Philistin, cet incirconcis, pour insulter l'armée du Dieu vivant?",
+        "MAB": "Alors David parla aux gens qui étaient là avec lui, en disant : Quel bien fera-t-on à l'homme qui aura frappé ce Philistin, et qui aura ôté l'opprobre de dessus Israël? Car qui est ce Philistin, cet incirconcis, pour déshonorer ainsi les batailles rangées du Dieu vivant?",
+        "OST": "Alors David parla aux gens qui étaient avec lui, et leur dit: Que fera-t-on à l'homme qui aura tué ce Philistin, et qui aura ôté l'opprobre de dessus Israël? Car qui est ce Philistin, cet incirconcis, pour insulter les armées du Dieu vivant?",
+        "S21": "David demanda aux hommes qui se trouvaient près de lui: «Que fera-t-on pour celui qui tuera ce Philistin et qui écartera la honte d’Israël? Qui est donc ce Philistin, cet incirconcis, pour insulter l'armée du Dieu vivant?»"
+      }
+    },
+    {
+      "verse": 27,
+      "texts": {
+        "BDS": "On répéta à David ce qui était promis comme récompense à celui qui tuerait le géant.",
+        "DBY": "Et le peuple lui parla selon cette parole, et dit: C'est ainsi qu'on fera à l'homme qui l'aura frappé.",
+        "KJV": "And the people answered him after this manner, saying, So shall it be done to the man that killeth him.",
+        "LSG": "Le peuple, répétant les mêmes choses, lui dit: C'est ainsi que l'on fera à celui qui le tuera.",
+        "MAB": "Et le peuple lui répéta ces mêmes paroles-là; et lui dit : C'est là le bien qu'on fera à l'homme qui l'aura frappé.",
+        "OST": "Et le peuple lui répéta ces mêmes paroles, et lui dit: C'est là ce qu'on fera à l'homme qui l'aura tué.",
+        "S21": "Le peuple répéta les mêmes choses en précisant: «Voilà comment l'on agira pour celui qui le tuera.»"
+      }
+    },
+    {
+      "verse": 28,
+      "texts": {
+        "BDS": "Lorsque son frère aîné Eliab l’entendit discuter avec les soldats, il se mit en colère contre lui et lui dit:\r\n—Que viens-tu faire ici? A qui as-tu laissé nos quelques moutons dans la steppe? Je te connais bien, moi, petit prétentieux! Je sais quelles mauvaises intentions tu as dans ton cœur! Tu n’es venu que pour voir la bataille!",
+        "DBY": "Et Éliab, son frère aîné, entendit pendant qu'il parlait à ces hommes; et la colère d'Éliab s'embrasa contre David, et il lui dit: Pourquoi donc es-tu descendu? et à qui as-tu laissé ce peu de brebis dans le désert? Je connais, moi, ton orgueil et la méchanceté de ton cœur; car c'est pour voir la bataille que tu es descendu.",
+        "KJV": "And Eliab his eldest brother heard when he spake unto the men; and Eliab's anger was kindled against David, and he said, Why camest thou down hither? and with whom hast thou left those few sheep in the wilderness? I know thy pride, and the naughtiness of thine heart; for thou art come down that thou mightest see the battle.",
+        "LSG": "Eliab, son frère aîné, qui l'avait entendu parler à ces hommes, fut enflammé de colère contre David. Et il dit: Pourquoi es-tu descendu, et à qui as-tu laissé ce peu de brebis dans le désert? Je connais ton orgueil et la malice de ton coeur. C'est pour voir la bataille que tu es descendu.",
+        "MAB": "Et quand Eliab son frère aîné eut entendu qu'il parlait à ces gens-là, sa colère s'enflamma contre David, et il lui dit : Pourquoi es-tu descendu? et à qui as-tu laissé ce peu de brebis au désert? Je connais ton orgueil, et la malignité de ton cœur, car tu es descendu pour voir la bataille.",
+        "OST": "Et quand Éliab, son frère aîné, entendit qu'il parlait à ces hommes, sa colère s'embrasa contre David, et il lui dit: Pourquoi es-tu descendu? et à qui as-tu laissé ce peu de brebis au désert? Je connais ton orgueil et la malice de ton cœur. Tu es descendu pour voir la bataille.",
+        "S21": "Eliab, le frère aîné de David, l'avait entendu parler à ces hommes, et il fut enflammé de colère contre lui. Il dit: «Pourquoi es-tu descendu ici et à qui as-tu laissé ton petit troupeau dans le désert? Je connais ton orgueil et la méchanceté de ton cœur. C'est pour voir la bataille que tu es descendu.»"
+      }
+    },
+    {
+      "verse": 29,
+      "texts": {
+        "BDS": "David lui répondit:\r\n—Eh! Qu’est-ce que j’ai fait de mal? Est-ce que je n’ai plus le droit de parler maintenant?",
+        "DBY": "Et David dit: Qu'ai-je fait maintenant?",
+        "KJV": "And David said, What have I now done? [Is there] not a cause?",
+        "LSG": "David répondit: Qu'ai-je donc fait? ne puis-je pas parler ainsi?",
+        "MAB": "Et David répondit : Qu'ai-je fait maintenant? N'y a-t-il pas de quoi?",
+        "OST": "Et David répondit: Qu'ai-je fait maintenant? N'est-ce pas une simple parole?",
+        "S21": "David répondit: «Qu'ai-je donc fait? N’ai-je pas le droit de m’exprimer?»"
+      }
+    },
+    {
+      "verse": 30,
+      "texts": {
+        "BDS": "Puis, il tourna le dos à son frère et alla se renseigner auprès d’un autre soldat, et on lui fit la même réponse que la première fois.",
+        "DBY": "N'y a-t-il pas de quoi? Et il se détourna d'auprès de lui vers un autre, et dit les mêmes paroles; et le peuple lui répondit comme la première fois.",
+        "KJV": "And he turned from him toward another, and spake after the same manner: and the people answered him again after the former manner.",
+        "LSG": "Et il se détourna de lui pour s'adresser à un autre, et fit les mêmes questions. Le peuple lui répondit comme la première fois.",
+        "MAB": "Puis il se détourna de celui-là vers un autre, et lui dit les mêmes paroles; et le peuple lui répondit de la même manière comme la première fois.",
+        "OST": "Et il se détourna de lui, alla vers un autre, et dit les mêmes paroles; et le peuple lui répondit comme la première fois.",
+        "S21": "Il se détourna de lui pour s'adresser à un autre et posa les mêmes questions. Le peuple lui répondit comme la première fois."
+      }
+    },
+    {
+      "verse": 31,
+      "texts": {
+        "BDS": "Ce que David avait dit se propagea rapidement et parvint jusqu’aux oreilles de Saül qui, aussitôt, le fit venir.",
+        "DBY": "Et les paroles que David avait dites furent entendues, et on les rapporta en la présence de Saül; et il le fit venir.",
+        "KJV": "And when the words were heard which David spake, they rehearsed [them] before Saul: and he sent for him.",
+        "LSG": "Lorsqu'on eut entendu les paroles prononcées par David, on les répéta devant Saül, qui le fit chercher.",
+        "MAB": "Et les paroles que David avait dites ayant été entendues, furent rapportées devant Saül ; et il le fit venir.",
+        "OST": "Or les paroles que David avait dites furent entendues; on les rapporta à Saül, et il le fit venir.",
+        "S21": "Après avoir entendu les paroles prononcées par David, on les répéta à Saül, qui le fit venir."
+      }
+    },
+    {
+      "verse": 32,
+      "texts": {
+        "BDS": "David lui dit:\r\n—Que personne ne perde courage à cause de ce Philistin! Moi, ton serviteur, j’irai et je le combattrai.",
+        "DBY": "Et David dit à Saül: Que le cœur ne défaille à personne à cause de lui! Ton serviteur ira et combattra avec ce Philistin.",
+        "KJV": "And David said to Saul, Let no man's heart fail because of him; thy servant will go and fight with this Philistine.",
+        "LSG": "David dit à Saül: Que personne ne se décourage à cause de ce Philistin! Ton serviteur ira se battre avec lui.",
+        "MAB": "Et David dit à Saül : Que le cœur ne défaille à personne à cause de celui-là ; ton serviteur ira, et combattra contre ce Philistin.",
+        "OST": "Et David dit à Saül: Que personne ne perde courage à cause de cet homme; ton serviteur ira, et combattra contre ce Philistin.",
+        "S21": "David dit à Saül: «Que personne ne se décourage à cause de ce Philistin! Moi, ton serviteur, j’irai me battre contre lui.»"
+      }
+    },
+    {
+      "verse": 33,
+      "texts": {
+        "BDS": "Mais Saül lui répondit:\r\n—Tu ne peux pas aller lutter contre ce Philistin. Tu n’es qu’un gamin, alors que lui, c’est un homme de guerre depuis sa jeunesse.",
+        "DBY": "Et Saül dit à David: Tu n'es pas capable d'aller contre ce Philistin pour combattre avec lui; car tu es un jeune homme, et lui, il est homme de guerre dès sa jeunesse.",
+        "KJV": "And Saul said to David, Thou art not able to go against this Philistine to fight with him: for thou [art but] a youth, and he a man of war from his youth.",
+        "LSG": "Saül dit à David: Tu ne peux pas aller te battre avec ce Philistin, car tu es un enfant, et il est un homme de guerre dès sa jeunesse.",
+        "MAB": "Mais Saül dit à David : Tu ne saurais aller contre ce Philistin pour combattre contre lui; car tu n'es qu'un jeune garçon, et lui, il est homme de guerre dès sa jeunesse.",
+        "OST": "Mais Saül dit à David: Tu ne peux aller contre ce Philistin, pour combattre contre lui, car tu n'es qu'un jeune homme, et lui est un homme de guerre, dès sa jeunesse.",
+        "S21": "Saül dit à David: «Tu ne peux pas aller te battre contre ce Philistin. Tu n’es qu’un enfant, alors que lui, il est un homme de guerre depuis sa jeunesse.»"
+      }
+    },
+    {
+      "verse": 34,
+      "texts": {
+        "BDS": "David répondit à Saül:\r\n—Quand ton serviteur gardait les moutons de son père et qu’un lion ou même un ours survenait pour emporter une bête du troupeau,",
+        "DBY": "Et David dit à Saül: Ton serviteur paissait le menu bétail de son père, et un lion vint, et un ours: et il enleva un mouton du troupeau.",
+        "KJV": "And David said unto Saul, Thy servant kept his father's sheep, and there came a lion, and a bear, and took a lamb out of the flock:",
+        "LSG": "David dit à Saül: Ton serviteur faisait paître les brebis de son père. Et quand un lion ou un ours venait en enlever une du troupeau,",
+        "MAB": "Et David répondit à Saül : Ton serviteur paissait les brebis de son père; et un lion vint, et un ours, et ils emportaient une brebis du troupeau :",
+        "OST": "Et David répondit à Saül: Lorsque ton serviteur paissait les brebis de son père, il venait un lion ou un ours, qui emportait une brebis du troupeau;",
+        "S21": "David dit à Saül: «Ton serviteur gardait les brebis de son père. Quand un lion ou un ours venait pour en enlever une du troupeau,"
+      }
+    },
+    {
+      "verse": 35,
+      "texts": {
+        "BDS": "je courais après lui, je l’attaquais et j’arrachais la bête de sa gueule; et si le fauve se dressait contre moi, je le prenais par son poil et je le frappais jusqu’à ce qu’il soit mort.",
+        "DBY": "Et je sortis après lui et le frappai, et je délivrai le mouton de sa gueule; et il se leva contre moi, et je le saisis par sa barbe, et le frappai, et le tuai.",
+        "KJV": "And I went out after him, and smote him, and delivered [it] out of his mouth: and when he arose against me, I caught [him] by his beard, and smote him, and slew him.",
+        "LSG": "je courais après lui, je le frappais, et j'arrachais la brebis de sa gueule. S'il se dressait contre moi, je le saisissais par la gorge, je le frappais, et je le tuais.",
+        "MAB": "Mais je sortis après eux, je les frappai, et j'arrachai [la brebis] de leur gueule; et comme ils se levaient contre moi, je les pris par la mâchoire, je les frappai, et je les tuai.",
+        "OST": "Mais je sortais après lui, je le frappais, et j'arrachais la brebis de sa gueule; et quand il se levait contre moi, je le saisissais par la mâchoire, je le frappais, et je le tuais.",
+        "S21": "je courais après lui, je le frappais et j'arrachais la brebis de sa gueule. S'il m’attaquait, je l’attrapais par la gorge, je le frappais et je le tuais."
+      }
+    },
+    {
+      "verse": 36,
+      "texts": {
+        "BDS": "Puisque ton serviteur a tué des lions et même des ours, il abattra bien cet incirconcis de Philistin comme l’un d’eux, car il a insulté les bataillons du Dieu vivant.",
+        "DBY": "Ton serviteur a frappé et le lion et l'ours; et ce Philistin, cet incirconcis, sera comme l'un d'eux, car il a outragé les troupes rangées du Dieu vivant.",
+        "KJV": "Thy servant slew both the lion and the bear: and this uncircumcised Philistine shall be as one of them, seeing he hath defied the armies of the living God.",
+        "LSG": "C'est ainsi que ton serviteur a terrassé le lion et l'ours, et il en sera du Philistin, de cet incirconcis, comme de l'un d'eux, car il a insulté l'armée du Dieu vivant.",
+        "MAB": "Ton serviteur donc a tué et un lion, et un ours; et ce Philistin, cet incirconcis, sera comme l'un d'eux; car il a déshonoré les troupes rangées du Dieu vivant.",
+        "OST": "Ton serviteur a tué et le lion et l'ours; et ce Philistin, cet incirconcis, sera comme l'un d'eux; car il a insulté les armées du Dieu vivant.",
+        "S21": "C'est ainsi que ton serviteur a frappé le lion et l'ours, et ce sera aussi le sort du Philistin, de cet incirconcis, car il a insulté l'armée du Dieu vivant.»"
+      }
+    },
+    {
+      "verse": 37,
+      "texts": {
+        "BDS": "Puis David ajouta:\r\n—L’Eternel qui m’a délivré de la griffe du lion et de l’ours me délivrera aussi de ce Philistin.\r\nFinalement, Saül dit à David:\r\n—Vas-y donc et que l’Eternel soit avec toi!",
+        "DBY": "Et David dit: L'Éternel qui m'a délivré de la patte du lion et de la patte de l'ours, lui me délivrera de la main de ce Philistin. Et Saül dit à David: Va, et que l'Éternel soit avec toi.",
+        "KJV": "David said moreover, The LORD that delivered me out of the paw of the lion, and out of the paw of the bear, he will deliver me out of the hand of this Philistine. And Saul said unto David, Go, and the LORD be with thee.",
+        "LSG": "David dit encore: L'Eternel, qui m'a délivré de la griffe du lion et de la patte de l'ours, me délivrera aussi de la main de ce Philistin. Et Saül dit à David: Va, et que l'Eternel soit avec toi!",
+        "MAB": "David dit encore : L'Eternel qui m'a délivré de la griffe du lion, et de la patte de l'ours, lui-même me délivrera de la main de ce Philistin. Alors Saül dit à David : Va, et l'Eternel soit avec toi.",
+        "OST": "David dit encore: L'Éternel, qui m'a délivré de la griffe du lion et de la patte de l'ours, me délivrera de la main de ce Philistin. Alors Saül dit à David: Va, et que l'Éternel soit avec toi!",
+        "S21": "David ajouta: «L'Eternel m'a délivré de la griffe du lion et de la patte de l'ours, et il me délivrera aussi de ce Philistin.» Saül dit à David: «Vas-y donc et que l'Eternel soit avec toi!»"
+      }
+    },
+    {
+      "verse": 38,
+      "texts": {
+        "BDS": "Puis il lui fit revêtir sa propre armure, il lui fit mettre un casque de bronze et endosser sa cuirasse.",
+        "DBY": "Et Saül revêtit David de ses vêtements, et lui mit un casque d'airain sur la tête, et le revêtit d'une cotte de mailles.",
+        "KJV": "And Saul armed David with his armour, and he put an helmet of brass upon his head; also he armed him with a coat of mail.",
+        "LSG": "Saül fit mettre ses vêtements à David, il plaça sur sa tête un casque d'airain, et le revêtit d'une cuirasse.",
+        "MAB": "Et Saül fit armer David de ses armes, et lui mit son casque d'airain sur sa tête, et le fit armer d'une cuirasse.",
+        "OST": "Et Saül fit revêtir David de ses vêtements, lui mit un casque d'airain sur la tête, et le revêtit d'une cuirasse;",
+        "S21": "Saül fit enfiler sa tenue à David. Il plaça sur sa tête un casque en bronze et le revêtit d’une cuirasse."
+      }
+    },
+    {
+      "verse": 39,
+      "texts": {
+        "BDS": "Par-dessus son équipement, David ceignit aussi l’épée de Saül, puis il essaya de marcher, mais il n’y parvint pas, car il n’en avait pas l’habitude. Alors il dit à Saül:\r\n—Je ne peux pas marcher avec tout cet équipement, car je n’y suis pas entraîné.\r\nPuis il se débarrassa de tout.",
+        "DBY": "Et David ceignit son épée par-dessus ses vêtements, et voulut marcher, car il ne l'avait pas essayé. Et David dit à Saül: Je ne puis marcher avec ces choses, car je ne l'ai jamais essayé.",
+        "KJV": "And David girded his sword upon his armour, and he assayed to go; for he had not proved [it]. And David said unto Saul, I cannot go with these; for I have not proved [them]. And David put them off him.",
+        "LSG": "David ceignit l'épée de Saül par-dessus ses habits, et voulut marcher, car il n'avait pas encore essayé. Mais il dit à Saül: Je ne puis pas marcher avec cette armure, je n'y suis pas accoutumé. Et il s'en débarrassa.",
+        "MAB": "Puis David ceignit l'épée [de Saül] sur ses armes, et se mit à marcher; car [jamais] il ne l'avait essayé. Et David dit à Saül : Je ne saurais marcher avec ces armes; car je ne l'ai jamais essayé. Et David les ôta de dessus soi.",
+        "OST": "Puis David ceignit l'épée de Saül sur ses vêtements, et se mit à marcher; car jamais il ne s'y était essayé. Et David dit à Saül: Je ne saurais marcher avec ces armes; car je n'y suis pas accoutumé. Et David les ôta de dessus lui.",
+        "S21": "David mit l'épée de Saül par-dessus ses habits et voulut marcher, car il n'avait encore jamais essayé, mais il dit à Saül: «Je ne peux pas marcher avec cette armure, je n'y suis pas habitué.» Et il s'en débarrassa."
+      }
+    },
+    {
+      "verse": 40,
+      "texts": {
+        "BDS": "Il prit son bâton en main et choisit, dans le torrent, cinq cailloux bien lisses qu’il mit dans le sac de berger qui lui servait de besace et, sa fronde à la main, il s’avança vers le Philistin.",
+        "DBY": "Et David les ôta de dessus lui; et il prit son bâton en sa main, et se choisit du torrent cinq pierres lisses, et les mit dans le sac de berger qu'il avait, dans la poche; et il avait sa fronde à la main. Et il s'approcha du Philistin.",
+        "KJV": "And he took his staff in his hand, and chose him five smooth stones out of the brook, and put them in a shepherd's bag which he had, even in a scrip; and his sling [was] in his hand: and he drew near to the Philistine.",
+        "LSG": "Il prit en main son bâton, choisit dans le torrent cinq pierres polies, et les mit dans sa gibecière de berger et dans sa poche. Puis, sa fronde à la main, il s'avança contre le Philistin.",
+        "MAB": "Mais il prit son bâton en sa main, et se choisit du torrent cinq cailloux bien unis, et les mit dans sa mallette de berger qu'il avait, et dans sa poche, et il avait sa fronde en sa main; et il s'approcha du Philistin.",
+        "OST": "Mais il prit en sa main son bâton, et choisit dans le torrent cinq cailloux bien polis, et les mit dans la panetière de berger qu'il avait sur lui, et dans sa poche; et, sa fronde à la main, il s'approcha du Philistin.",
+        "S21": "Il prit en main son bâton, puis il choisit dans le torrent cinq pierres lisses et les mit dans sa gibecière de berger et dans sa poche. Enfin, sa fronde à la main, il s'avança contre le Philistin."
+      }
+    },
+    {
+      "verse": 41,
+      "texts": {
+        "BDS": "Celui-ci, précédé de son porte-bouclier, s’avança vers David.",
+        "DBY": "Et le Philistin s'avança, allant et s'approchant de David, et, devant lui, l'homme qui portait son bouclier.",
+        "KJV": "And the Philistine came on and drew near unto David; and the man that bare the shield [went] before him.",
+        "LSG": "Le Philistin s'approcha peu à peu de David, et l'homme qui portait son bouclier marchait devant lui.",
+        "MAB": "Le Philistin aussi s'en vint, et s'avança, et s'approcha de David, et l'homme qui portait son bouclier [marchait] devant lui.",
+        "OST": "Le Philistin vint aussi, et s'approcha de David; et l'homme qui portait son bouclier marchait devant lui.",
+        "S21": "Le Philistin s'approcha peu à peu de David, et l'homme qui portait son bouclier marchait devant lui."
+      }
+    },
+    {
+      "verse": 42,
+      "texts": {
+        "BDS": "Il l’examina et, lorsqu’il vit devant lui un jeune homme roux et de belle figure, il le regarda avec mépris",
+        "DBY": "Et le Philistin regarda et vit David, et le méprisa; car c'était un jeune homme au teint rosé, et beau de visage.",
+        "KJV": "And when the Philistine looked about, and saw David, he disdained him: for he was [but] a youth, and ruddy, and of a fair countenance.",
+        "LSG": "Le Philistin regarda, et lorsqu'il aperçut David, il le méprisa, ne voyant en lui qu'un enfant, blond et d'une belle figure.",
+        "MAB": "Et le Philistin regarda, et vit David, et le méprisa; car ce n'était qu'un jeune garçon, blond, et beau de visage.",
+        "OST": "Alors le Philistin regarda, et vit David, et le méprisa; car c'était un jeune homme, blond et beau de visage.",
+        "S21": "Le Philistin regarda David et, lorsqu'il l’aperçut, il le méprisa, car il ne vit en lui qu'un enfant roux à la belle apparence."
+      }
+    },
+    {
+      "verse": 43,
+      "texts": {
+        "BDS": "et lui lança:\r\n—Est-ce que tu me prends pour un chien pour venir contre moi avec un bâton?\r\nPuis il le maudit par ses dieux.",
+        "DBY": "Et le Philistin dit à David: Suis-je un chien, moi, que tu viennes à moi avec des bâtons? Et le Philistin maudit David par ses dieux.",
+        "KJV": "And the Philistine said unto David, [Am] I a dog, that thou comest to me with staves? And the Philistine cursed David by his gods.",
+        "LSG": "Le Philistin dit à David: Suis-je un chien, pour que tu viennes à moi avec des bâtons? Et, après l'avoir maudit par ses dieux,",
+        "MAB": "Et le Philistin dit à David : [Suis-]je un chien, que tu viennes contre moi avec des bâtons? et le Philistin maudit David par ses dieux.",
+        "OST": "Et le Philistin dit à David: Suis-je un chien que tu viennes contre moi avec des bâtons? Et le Philistin maudit David par ses dieux.",
+        "S21": "Le Philistin dit à David: «Suis-je un chien, pour que tu viennes à moi avec des bâtons?» Après l'avoir maudit par ses dieux,"
+      }
+    },
+    {
+      "verse": 44,
+      "texts": {
+        "BDS": "—Approche un peu, ajouta-t-il, pour que je donne ta chair à manger aux oiseaux du ciel et aux bêtes des champs!",
+        "DBY": "Et le Philistin dit à David: Viens vers moi, et je donnerai ta chair aux oiseaux des cieux et aux bêtes des champs.",
+        "KJV": "And the Philistine said to David, Come to me, and I will give thy flesh unto the fowls of the air, and to the beasts of the field.",
+        "LSG": "il ajouta: Viens vers moi, et je donnerai ta chair aux oiseaux du ciel et aux bêtes des champs.",
+        "MAB": "Le Philistin dit encore à David : Viens vers moi, et je donnerai ta chair aux oiseaux du ciel, et aux bêtes des champs.",
+        "OST": "Le Philistin dit encore à David: Viens vers moi, et je donnerai ta chair aux oiseaux du ciel et aux bêtes des champs.",
+        "S21": "il ajouta: «Viens vers moi, que je donne ta chair à manger aux oiseaux du ciel et aux bêtes des champs!»"
+      }
+    },
+    {
+      "verse": 45,
+      "texts": {
+        "BDS": "A quoi David répondit:\r\n—Tu marches contre moi avec l’épée, la lance et le javelot, et moi je marche contre toi au nom de l’Eternel, le Seigneur des armées célestes, le Dieu des bataillons d’Israël, que tu as insulté.",
+        "DBY": "Et David dit au Philistin: Toi, tu viens à moi avec une épée, et avec une lance, et avec un javelot; et moi je viens à toi au nom de l'Éternel des armées, du Dieu des troupes rangées d'Israël, que tu as outragé.",
+        "KJV": "Then said David to the Philistine, Thou comest to me with a sword, and with a spear, and with a shield: but I come to thee in the name of the LORD of hosts, the God of the armies of Israel, whom thou hast defied.",
+        "LSG": "David dit au Philistin: Tu marches contre moi avec l'épée, la lance et le javelot; et moi, je marche contre toi au nom de l'Eternel des armées, du Dieu de l'armée d'Israël, que tu as insultée.",
+        "MAB": "Et David dit au Philistin : Tu viens contre moi avec l'épée, la hallebarde, et l'écu; mais moi, je viens contre toi au nom de l'Eternel des armées, du Dieu des batailles rangées d'Israël, lequel tu as déshonoré.",
+        "OST": "Et David répondit au Philistin: Tu viens contre moi avec l'épée, la lance et le javelot; mais moi, je viens contre toi au nom de l'Éternel des armées, du Dieu des armées d'Israël, que tu as insultées.",
+        "S21": "David dit au Philistin: «Tu marches contre moi avec l'épée, la lance et le javelot; moi, je marche contre toi au nom de l'Eternel, le maître de l’univers, au nom du Dieu de l'armée d'Israël que tu as insultée."
+      }
+    },
+    {
+      "verse": 46,
+      "texts": {
+        "BDS": "Aujourd’hui même, l’Eternel me donnera la victoire sur toi, je t’abattrai, je te couperai la tête et, avant ce soir, je donnerai les cadavres des soldats philistins à manger aux oiseaux du ciel et aux bêtes sauvages de la terre. Alors toute la terre saura qu’Israël a un Dieu.",
+        "DBY": "En ce jour, l'Éternel te livrera en ma main; et je te frapperai, et j'ôterai ta tête de dessus toi, et je donnerai en ce jour les cadavres du camp des Philistins aux oiseaux des cieux et aux animaux de la terre; et toute la terre saura qu'il y a un Dieu pour Israël:",
+        "KJV": "This day will the LORD deliver thee into mine hand; and I will smite thee, and take thine head from thee; and I will give the carcases of the host of the Philistines this day unto the fowls of the air, and to the wild beasts of the earth; that all the earth may know that there is a God in Israel.",
+        "LSG": "Aujourd'hui l'Eternel te livrera entre mes mains, je t'abattrai et je te couperai la tête; aujourd'hui je donnerai les cadavres du camp des Philistins aux oiseaux du ciel et aux animaux de la terre. Et toute la terre saura qu'Israël a un Dieu.",
+        "MAB": "Aujourd'hui l'Eternel te livrera entre mes mains, je te frapperai, je t'ôterai la tête de dessus toi, et je donnerai aujourd'hui les charognes du camp des Philistins aux oiseaux des cieux, et aux animaux de la terre; et toute la terre saura qu'Israël a un Dieu.",
+        "OST": "Aujourd'hui l'Éternel te livrera entre mes mains; je te tuerai, je t'ôterai la tête, et je donnerai aujourd'hui les cadavres du camp des Philistins aux oiseaux des cieux et aux animaux de la terre; et toute la terre saura qu'Israël a un Dieu;",
+        "S21": "Aujourd'hui l'Eternel va te livrer entre mes mains. Je t'abattrai et je te couperai la tête. Aujourd'hui je vais donner les cadavres du camp des Philistins aux oiseaux du ciel et aux bêtes sauvages. Toute la terre saura alors qu'Israël a un Dieu,"
+      }
+    },
+    {
+      "verse": 47,
+      "texts": {
+        "BDS": "Et toute cette multitude assemblée saura que ce n’est ni par l’épée ni par la lance que l’Eternel délivre. Car l’issue de cette bataille dépend de lui, et il vous livre en notre pouvoir.",
+        "DBY": "et toute cette congrégation saura que ce n'est ni par l'épée, ni par la lance, que l'Éternel sauve; car la bataille est à l'Éternel, et il vous livrera entre nos mains.",
+        "KJV": "And all this assembly shall know that the LORD saveth not with sword and spear: for the battle [is] the LORD'S, and he will give you into our hands.",
+        "LSG": "Et toute cette multitude saura que ce n'est ni par l'épée ni par la lance que l'Eternel sauve. Car la victoire appartient à l'Eternel. Et il vous livre entre nos mains.",
+        "MAB": "Et toute cette assemblée saura que l'Eternel ne délivre point par l'épée ni par la hallebarde; car cette bataille est à l'Eternel, qui vous livrera entre nos mains.",
+        "OST": "Et toute cette assemblée saura que l'Éternel ne délivre point par l'épée, ni par la lance; car la bataille est à l'Éternel, qui vous livrera entre nos mains.",
+        "S21": "et toute cette assemblée saura que ce n'est ni par l'épée ni par la lance que l'Eternel sauve. En effet, la victoire appartient à l'Eternel et il vous livre entre nos mains.»"
+      }
+    },
+    {
+      "verse": 48,
+      "texts": {
+        "BDS": "Aussitôt, le Philistin se remit à avancer en direction de David qui, de son côté, se hâta de courir vers la ligne ennemie au-devant du Philistin.",
+        "DBY": "Et il arriva que, comme le Philistin se levait et s'avançait, et s'approchait à la rencontre de David, David se hâta et courut vers la ligne de bataille, à la rencontre du Philistin.",
+        "KJV": "And it came to pass, when the Philistine arose, and came and drew nigh to meet David, that David hasted, and ran toward the army to meet the Philistine.",
+        "LSG": "Aussitôt que le Philistin se mit en mouvement pour marcher au-devant de David, David courut sur le champ de bataille à la rencontre du Philistin.",
+        "MAB": "Et il arriva que comme le Philistin se fut levé, et qu'il s'approchait pour rencontrer David, David se hâta, et courut au lieu du combat pour rencontrer le Philistin.",
+        "OST": "Et comme le Philistin, s'étant levé, venait et s'avançait à la rencontre de David, David se hâta, et courut vers la ligne de bataille à la rencontre du Philistin.",
+        "S21": "Dès que le Philistin se mit à marcher vers lui, David courut sur le champ de bataille à sa rencontre."
+      }
+    },
+    {
+      "verse": 49,
+      "texts": {
+        "BDS": "David plongea la main dans son sac, en tira un caillou, et le lança avec sa fronde: il atteignit le Philistin en plein front. La pierre pénétra dans son crâne et il s’écroula, la face contre terre.",
+        "DBY": "Et David mit sa main à son sac, et y prit une pierre, et la lança avec sa fronde; et il frappa le Philistin au front, et la pierre s'enfonça dans son front; et il tomba sur sa face contre terre.",
+        "KJV": "And David put his hand in his bag, and took thence a stone, and slang [it], and smote the Philistine in his forehead, that the stone sunk into his forehead; and he fell upon his face to the earth.",
+        "LSG": "Il mit la main dans sa gibecière, y prit une pierre, et la lança avec sa fronde; il frappa le Philistin au front, et la pierre s'enfonça dans le front du Philistin, qui tomba le visage contre terre.",
+        "MAB": "Alors David mit la main à sa mallette, et en prit une pierre, la jeta avec sa fronde, et il en frappa le Philistin au front, tellement que la pierre s'enfonça dans son front; et il tomba le visage contre terre.",
+        "OST": "Alors David mit la main à sa panetière, en prit une pierre, la lança avec sa fronde, et frappa le Philistin au front; et la pierre s'enfonça dans son front; et il tomba le visage contre terre.",
+        "S21": "Il porta la main à sa gibecière, y prit une pierre et la lança avec sa fronde. Il frappa le Philistin au front et la pierre s'y enfonça. Le Philistin tomba le visage contre terre."
+      }
+    },
+    {
+      "verse": 50,
+      "texts": {
+        "BDS": "Ainsi, sans épée, avec sa fronde et une pierre, David triompha du Philistin, il le frappa et le tua.",
+        "DBY": "Et David, avec une fronde et une pierre, fut plus fort que le Philistin, et frappa le Philistin et le tua; et David n'avait pas d'épée en sa main.",
+        "KJV": "So David prevailed over the Philistine with a sling and with a stone, and smote the Philistine, and slew him; but [there was] no sword in the hand of David.",
+        "LSG": "Ainsi, avec une fronde et une pierre, David fut plus fort que le Philistin; il le terrassa et lui ôta la vie, sans avoir d'épée à la main.",
+        "MAB": "Ainsi David avec une fronde et une pierre fut plus fort que le Philistin, et frappa le Philistin, et le tua; or David n'avait point d'épée en sa main,",
+        "OST": "Ainsi David, avec une fronde et une pierre, fut plus fort que le Philistin, et il frappa le Philistin et le fit mourir. Or David n'avait point d'épée en sa main;",
+        "S21": "Ainsi, avec une fronde et une pierre, David fut plus fort que le Philistin; il le frappa et le mit à mort sans avoir d'épée à la main."
+      }
+    },
+    {
+      "verse": 51,
+      "texts": {
+        "BDS": "Alors il se précipita sur l’adversaire, saisit son épée, la tira de son fourreau et l’acheva, puis il lui trancha la tête.\r\nQuand les Philistins virent que leur héros était mort, ils prirent la fuite.",
+        "DBY": "Et David courut, et se tint sur le Philistin, et prit son épée, et la tira de son fourreau, et le tua, et lui coupa la tête. Et les Philistins, voyant que leur homme fort était mort, s'enfuirent.",
+        "KJV": "Therefore David ran, and stood upon the Philistine, and took his sword, and drew it out of the sheath thereof, and slew him, and cut off his head therewith. And when the Philistines saw their champion was dead, they fled.",
+        "LSG": "Il courut, s'arrêta près du Philistin, se saisit de son épée qu'il tira du fourreau, le tua et lui coupa la tête. Les Philistins, voyant que leur héros était mort, prirent la fuite.",
+        "MAB": "Mais David courut, se jeta sur le Philistin, prit son épée, la tira de son fourreau, le tua, et lui coupa la tête. Et les Philistins ayant vu que leur homme fort était mort, s'enfuirent.",
+        "OST": "Et David courut, se jeta sur le Philistin, prit son épée, la tira du fourreau, le tua, et lui coupa la tête. Et les Philistins, voyant que leur homme vaillant était mort, s'enfuirent.",
+        "S21": "Il courut, s'arrêta près du Philistin et prit son épée en la tirant du fourreau. Il l’acheva et lui coupa la tête. Voyant que leur héros était mort, les Philistins prirent la fuite."
+      }
+    },
+    {
+      "verse": 52,
+      "texts": {
+        "BDS": "Les soldats d’Israël et de Juda s’élancèrent en poussant des cris de guerre et poursuivirent les Philistins jusqu’aux abords de la vallée et jusqu’aux portes d’Ekron. Les cadavres des ennemis jonchèrent la route de Chaaraïm jusqu’à Gath et Ekron.",
+        "DBY": "Et les hommes d'Israël et de Juda se levèrent et poussèrent des cris, et poursuivirent les Philistins jusqu'à l'entrée du ravin et jusqu'aux portes d'Ékron; et les Philistins tombèrent tués, sur le chemin de Shaaraïm, et jusqu'à Gath, et jusqu'à Ékron.",
+        "KJV": "And the men of Israel and of Judah arose, and shouted, and pursued the Philistines, until thou come to the valley, and to the gates of Ekron. And the wounded of the Philistines fell down by the way to Shaaraim, even unto Gath, and unto Ekron.",
+        "LSG": "Et les hommes d'Israël et de Juda poussèrent des cris, et allèrent à la poursuite des Philistins jusque dans la vallée et jusqu'aux portes d'Ekron. Les Philistins blessés à mort tombèrent dans le chemin de Schaaraïm jusqu'à Gath et jusqu'à Ekron.",
+        "MAB": "Alors ceux d'Israël et de Juda se levèrent, et jetèrent des cris de joie, et poursuivirent les Philistins, jusqu'à la vallée, et jusqu'aux portes de Hékron; et les Philistins blessés à mort tombèrent par le chemin de Saharajim, jusqu'à Gath, et jusqu'à Hékron.",
+        "OST": "Alors les hommes d'Israël et de Juda se levèrent, jetèrent des cris de joie, et poursuivirent les Philistins jusqu'à l'entrée de la vallée, et jusqu'aux portes d'Ékron; et les Philistins blessés à mort tombèrent par le chemin de Shaarajim, jusqu'à Gath, et jusqu'à Ékron.",
+        "S21": "Les hommes d'Israël et de Juda se levèrent, poussèrent des cris et les poursuivirent jusque dans la vallée et jusqu'aux portes d'Ekron. Les Philistins blessés à mort tombèrent sur le chemin de Shaaraïm jusqu'à Gath et Ekron."
+      }
+    },
+    {
+      "verse": 53,
+      "texts": {
+        "BDS": "Au retour de cette poursuite acharnée, les Israélites pillèrent le camp des Philistins.",
+        "DBY": "Et les fils d'Israël s'en revinrent de la poursuite des Philistins et pillèrent leur camp.",
+        "KJV": "And the children of Israel returned from chasing after the Philistines, and they spoiled their tents.",
+        "LSG": "Et les enfants d'Israël revinrent de la poursuite des Philistins, et pillèrent leur camp.",
+        "MAB": "Et les enfants d'Israël s'en retournèrent de la poursuite des Philistins, et pillèrent leurs camps.",
+        "OST": "Puis les enfants d'Israël revinrent de la poursuite des Philistins, et pillèrent leur camp.",
+        "S21": "Les Israélites mirent fin à leur poursuite et revinrent piller le camp."
+      }
+    },
+    {
+      "verse": 54,
+      "texts": {
+        "BDS": "David prit la tête du Philistin et la fit porter à Jérusalem. Il déposa ses armes dans sa propre tente.",
+        "DBY": "Et David prit la tête du Philistin et l'apporta à Jérusalem; et ses armes, il les mit dans sa tente.",
+        "KJV": "And David took the head of the Philistine, and brought it to Jerusalem; but he put his armour in his tent.",
+        "LSG": "David prit la tête du Philistin et la porta à Jérusalem, et il mit dans sa tente les armes du Philistin.",
+        "MAB": "Et David prit la tête du Philistin, laquelle il porta depuis à Jérusalem; il mit aussi dans sa tente les armes du [Philistin].",
+        "OST": "Et David prit la tête du Philistin, et la porta à Jérusalem; et il mit les armes dans sa tente.",
+        "S21": "David prit la tête du Philistin et l’amena à Jérusalem, et il déposa dans sa tente les armes du Philistin."
+      }
+    },
+    {
+      "verse": 55,
+      "texts": {
+        "BDS": "Lorsque Saül avait vu David s’avancer à la rencontre du Philistin, il avait demandé à son général Abner:\r\n—De qui ce jeune homme est-il fils, Abner?\r\nAbner répondit:\r\n—Aussi vrai que tu es vivant, ô Roi, je n’en sais rien.",
+        "DBY": "Et quand Saül avait vu David sortant à la rencontre du Philistin, il avait dit à Abner, chef de l'armée: Abner, de qui ce jeune homme est-il fils? Et Abner avait dit: Ton âme est vivante, ô roi! je n'en sais rien.",
+        "KJV": "And when Saul saw David go forth against the Philistine, he said unto Abner, the captain of the host, Abner, whose son [is] this youth? And Abner said, [As] thy soul liveth, O king, I cannot tell.",
+        "LSG": "Lorsque Saül avait vu David marcher à la rencontre du Philistin, il avait dit à Abner, chef de l'armée: De qui ce jeune homme est-il fils, Abner? Abner répondit: Aussi vrai que ton âme est vivante, ô roi! je l'ignore.",
+        "MAB": "Or comme Saül vit David sortant pour rencontrer le Philistin, il dit à Abner Chef de l'armée : Abner, de qui est fils ce jeune garçon? Et Abner répondit : Comme ton âme vit, ô Roi! je n'en sais rien.",
+        "OST": "Or, quand Saül vit David, sortant à la rencontre du Philistin, il dit à Abner, chef de l'armée: Abner, de qui ce jeune homme est-il fils? Et Abner répondit: Aussi vrai que ton âme vit, ô roi, je n'en sais rien.",
+        "S21": "Lorsque Saül avait vu David marcher à la rencontre du Philistin, il avait dit à Abner, le chef de l'armée: «De qui ce jeune homme est-il le fils, Abner?» Abner avait répondu: «Aussi vrai que ton âme est vivante, roi, je l'ignore.»"
+      }
+    },
+    {
+      "verse": 56,
+      "texts": {
+        "BDS": "—Alors, ordonna Saül, informe-toi donc pour savoir qui est le père de ce jeune homme.",
+        "DBY": "Et le roi dit: Enquiers-toi de qui ce jeune homme est fils.",
+        "KJV": "And the king said, Enquire thou whose son the stripling [is].",
+        "LSG": "Informe-toi donc de qui ce jeune homme est fils, dit le roi.",
+        "MAB": "Le Roi lui dit : Enquiers-toi de qui est fils ce jeune garçon.",
+        "OST": "Et le roi dit: Informe-toi de qui ce jeune homme est fils.",
+        "S21": "«Informe-toi donc pour savoir de qui ce jeune homme est le fils», avait dit le roi."
+      }
+    },
+    {
+      "verse": 57,
+      "texts": {
+        "BDS": "Quand David fut de retour au camp après avoir tué le Philistin, Abner le prit et le conduisit devant Saül. David tenait encore en main la tête du Philistin.",
+        "DBY": "Et comme David revenait d'avoir frappé le Philistin, Abner le prit et l'amena devant Saül, ayant la tête du Philistin à la main.",
+        "KJV": "And as David returned from the slaughter of the Philistine, Abner took him, and brought him before Saul with the head of the Philistine in his hand.",
+        "LSG": "Et quand David fut de retour après avoir tué le Philistin, Abner le prit et le mena devant Saül. David avait à la main la tête du Philistin.",
+        "MAB": "Sitôt donc que David fut revenu de tuer le Philistin, Abner le prit, et le mena devant Saül, ayant la tête du Philistin en sa main.",
+        "OST": "Et quand David revint de tuer le Philistin, Abner le prit et le mena devant Saül, avec la tête du Philistin à la main.",
+        "S21": "Quand David fut de retour après avoir tué le Philistin, Abner le prit et le conduisit devant Saül. David tenait à la main la tête du Philistin."
+      }
+    },
+    {
+      "verse": 58,
+      "texts": {
+        "BDS": "Quand Saül lui demanda:\r\n—De qui es-tu le fils, mon garçon?\r\nDavid lui répondit:\r\n—Je suis fils de ton serviteur Isaï de Bethléhem.",
+        "DBY": "Et Saül lui dit: Jeune homme, de qui es-tu fils? Et David dit: Je suis fils de ton serviteur Isaï, le Bethléhémite.",
+        "KJV": "And Saul said to him, Whose son [art] thou, [thou] young man? And David answered, I [am] the son of thy servant Jesse the Bethlehemite.",
+        "LSG": "Saül lui dit: De qui es-tu fils, jeune homme? Et David répondit: Je suis fils de ton serviteur Isaï, Bethléhémite.",
+        "MAB": "Et Saül lui dit : Jeune garçon, de qui es-tu fils? David répondit : Je suis fils d'Isaï Bethléhémite, ton serviteur.",
+        "OST": "Et Saül lui dit: Jeune homme, de qui es-tu fils? David répondit: Je suis fils de ton serviteur, Isaï, Bethléhémite.",
+        "S21": "Saül lui dit: «De qui es-tu le fils, jeune homme?» Et David répondit: «Je suis le fils de ton serviteur Isaï, le Bethléhémite.»"
+      }
+    }
+  ]
+}

@@ -76,10 +76,10 @@
 </template>
 
 <script setup lang="ts">
-import type { BibleVersion } from '@prisma/client';
+import type { BibleVersionData } from '~/types';
 
 const props = defineProps<{
-    availableVersions: BibleVersion[];
+    availableVersions: BibleVersionData[];
     book: { code: string; name: string; };
     chapter: number;
     version: number;

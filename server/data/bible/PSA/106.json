@@ -1,0 +1,582 @@
+{
+  "bookCode": "PSA",
+  "chapter": 106,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "Louez tous l’Eternel!\r\nCélébrez l’Eternel car il est bon,\r\ncar son amour dure à toujours.",
+        "DBY": "Célébrez l'Éternel! Car il est bon; car sa bonté demeure à toujours.",
+        "KJV": "Praise ye the LORD. O give thanks unto the LORD; for [he is] good: for his mercy [endureth] for ever.",
+        "LSG": "Louez l'Eternel! Louez l'Eternel, car il est bon, Car sa miséricorde dure à toujours!",
+        "MAB": "Louez l'Eternel. Célébrez l'Eternel; car il [est] bon, parce que sa bonté demeure à toujours.",
+        "OST": "Louez l'Éternel! Célébrez l'Éternel, car il est bon, car sa miséricorde demeure à toujours!",
+        "S21": "Louez l’Eternel! Célébrez l’Eternel, car il est bon! Oui, sa bonté dure éternellement."
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "Qui saura dire tous les exploits de l’Eternel?\r\nQui saura publier toute sa gloire?",
+        "DBY": "Qui dira les actes puissants de l'Éternel? Qui fera entendre toute sa louange?",
+        "KJV": "Who can utter the mighty acts of the LORD? [who] can shew forth all his praise?",
+        "LSG": "Qui dira les hauts faits de l'Eternel? Qui publiera toute sa louange?",
+        "MAB": "Qui pourrait réciter les exploits de l'Eternel? Qui pourrait faire retentir toute sa louange?",
+        "OST": "Qui pourrait raconter les hauts faits de l'Éternel et faire entendre toutes ses louanges?",
+        "S21": "Qui pourra dire l’extraordinaire façon d’agir de l’Eternel et proclamer toute sa louange?"
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "Heureux tous ceux qui respectent le droit\r\net qui font en tout temps ce qui est juste.",
+        "DBY": "Bienheureux ceux qui gardent le juste jugement, qui pratiquent la justice en tout temps!",
+        "KJV": "Blessed [are] they that keep judgment, [and] he that doeth righteousness at all times.",
+        "LSG": "Heureux ceux qui observent la loi, Qui pratiquent la justice en tout temps!",
+        "MAB": "Ô que bienheureux sont ceux qui observent la justice, [et] qui font en tout temps ce qui est juste!",
+        "OST": "Heureux ceux qui observent ce qui est droit, qui font en tout temps ce qui est juste!",
+        "S21": "Heureux ceux qui respectent le droit, qui pratiquent la justice en tout temps!"
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "Ne m’oublie pas, Eternel, toi qui es bienveillant envers ton peuple!\r\nViens à mon aide pour me sauver!",
+        "DBY": "Souviens-toi de moi, Éternel! selon ta faveur envers ton peuple; visite-moi par ton salut.",
+        "KJV": "Remember me, O LORD, with the favour [that thou bearest unto] thy people: O visit me with thy salvation;",
+        "LSG": "Eternel, souviens-toi de moi dans ta bienveillance pour ton peuple! Souviens-toi de moi en lui accordant ton secours,",
+        "MAB": "Eternel, souviens-toi de moi selon la bienveillance que tu portes à ton peuple, et aie soin de moi selon ta délivrance.",
+        "OST": "Éternel, souviens-toi de moi, dans ta bienveillance envers ton peuple; fais venir à moi ton salut;",
+        "S21": "Eternel, souviens-toi de moi dans ta bienveillance pour ton peuple, interviens pour moi en accordant ton secours!"
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "Fais-moi voir le bonheur de tes élus!\r\nViens me réjouir de la joie de ton peuple\r\npour que je puisse éclater en louanges, de concert avec ceux qui t’appartiennent!",
+        "DBY": "Afin que je voie le bien de tes élus, que je me réjouisse de la joie de ta nation, et que je me glorifie avec ton héritage.",
+        "KJV": "That I may see the good of thy chosen, that I may rejoice in the gladness of thy nation, that I may glory with thine inheritance.",
+        "LSG": "Afin que je voie le bonheur de tes élus, Que je me réjouisse de la joie de ton peuple, Et que je me glorifie avec ton héritage!",
+        "MAB": "Afin que je voie le bien de tes élus, que je me réjouisse dans la joie de ta nation, [et] que je me glorifie avec ton héritage.",
+        "OST": "Afin que je voie le bonheur de tes élus, que je me réjouisse de la joie de ton peuple, et que je me glorifie avec ton héritage.",
+        "S21": "Ainsi je pourrai voir le bonheur de ceux que tu as choisis, me réjouir de la joie de ton peuple et partager les louanges de ton héritage!"
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "Comme nos pères, nous avons péché,\r\nnous avons commis le mal, nous avons été coupables.",
+        "DBY": "Nous avons péché avec nos pères; nous avons commis l'iniquité, nous avons agi méchamment.",
+        "KJV": "We have sinned with our fathers, we have committed iniquity, we have done wickedly.",
+        "LSG": "Nous avons péché comme nos pères, Nous avons commis l'iniquité, nous avons fait le mal.",
+        "MAB": "Nous avons péché avec nos pères, nous avons agi iniquement, nous avons mal fait.",
+        "OST": "Nous et nos pères, nous avons péché; nous avons agi avec perversité; nous avons mal fait.",
+        "S21": "Nous avons péché comme nos ancêtres, nous avons fait le mal, nous sommes coupables."
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "Car en Egypte, nos pères n’ont pas compris tes miracles,\r\nils ont oublié tes grandes bontés;\r\nils se sont révoltés près de la mer, près de la mer des Roseaux.",
+        "DBY": "Nos pères, en Égypte, n'ont pas été attentifs à tes merveilles; ils ne se sont pas souvenus de la multitude de tes bontés; mais ils ont été rebelles, près de la mer, à la mer Rouge.",
+        "KJV": "Our fathers understood not thy wonders in Egypt; they remembered not the multitude of thy mercies; but provoked [him] at the sea, [even] at the Red sea.",
+        "LSG": "Nos pères en Egypte ne furent pas attentifs à tes miracles, Ils ne se rappelèrent pas la multitude de tes grâces, Ils furent rebelles près de la mer, près de la mer Rouge.",
+        "MAB": "Nos pères n'ont point été attentifs à tes merveilles en Egypte; ils ne se sont point souvenus de la multitude de tes faveurs; mais ils ont été rebelles auprès de la mer, vers la mer Rouge.",
+        "OST": "Nos pères en Égypte ne furent pas attentifs à tes merveilles; ils ne se souvinrent point de la multitude de tes bontés; mais ils furent rebelles auprès de la mer, vers la mer Rouge.",
+        "S21": "Nos ancêtres en Egypte n’ont pas compris tes miracles, ils ne se sont pas rappelé le grand nombre de tes bontés, ils se sont révoltés près de la mer, près de la mer des Roseaux."
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "Dieu les sauva pour l’honneur de son nom\r\nafin de manifester sa puissance.",
+        "DBY": "Cependant il les sauva à cause de son nom, afin de donner à connaître sa puissance.",
+        "KJV": "Nevertheless he saved them for his name's sake, that he might make his mighty power to be known.",
+        "LSG": "Mais il les sauva à cause de son nom, Pour manifester sa puissance.",
+        "MAB": "Toutefois il les délivra pour l'amour de son Nom, afin de donner à connaître sa puissance.",
+        "OST": "Et il les sauva pour l'amour de son nom, afin de faire connaître sa puissance.",
+        "S21": "Mais il les a sauvés à cause de son nom, pour faire connaître sa puissance."
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "Il apostropha la mer des Roseaux qui s’assécha;\r\nil les conduisit à travers les flots, comme à travers un désert.",
+        "DBY": "Et il tança la mer Rouge, et elle sécha; et il les fit marcher par les abîmes comme par un désert.",
+        "KJV": "He rebuked the Red sea also, and it was dried up: so he led them through the depths, as through the wilderness.",
+        "LSG": "Il menaça la mer Rouge, et elle se dessécha; Et il les fit marcher à travers les abîmes comme dans un désert.",
+        "MAB": "Car il tança la mer Rouge, et elle se sécha, et il les conduisit par les gouffres comme par le désert;",
+        "OST": "Il tança la mer Rouge, et elle fut à sec; et il les conduisit par les abîmes comme par le désert.",
+        "S21": "Il a menacé la mer des Roseaux, et elle s’est desséchée, et il les a fait marcher à travers les abîmes comme dans un désert."
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "Il les délivra de leurs adversaires,\r\net les sauva du pouvoir ennemi.",
+        "DBY": "Et il les sauva de la main de celui qui les haïssait, et les racheta de la main de l'ennemi.",
+        "KJV": "And he saved them from the hand of him that hated [them], and redeemed them from the hand of the enemy.",
+        "LSG": "Il les sauva de la main de celui qui les haïssait, Il les délivra de la main de l'ennemi.",
+        "MAB": "Et les délivra de la main de ceux qui [les] haïssaient, et les garantit de la main de l'ennemi.",
+        "OST": "Il les sauva des mains de l'adversaire, et les racheta des mains de l'ennemi.",
+        "S21": "Il les a sauvés de celui qui les détestait, il les a rachetés du pouvoir de l’ennemi."
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "Les flots engloutirent leurs oppresseurs\r\net pas un seul d’entre eux n’en réchappa.",
+        "DBY": "Et les eaux couvrirent leurs oppresseurs: il n'en resta pas un seul.",
+        "KJV": "And the waters covered their enemies: there was not one of them left.",
+        "LSG": "Les eaux couvrirent leurs adversaires: Il n'en resta pas un seul.",
+        "MAB": "Et les eaux couvrirent leurs oppresseurs, il n'en resta pas un seul.",
+        "OST": "Les eaux couvrirent leurs oppresseurs; il n'en resta pas un seul.",
+        "S21": "L’eau a recouvert leurs adversaires: pas un seul n’a survécu."
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "Alors son peuple a cru en ses paroles\r\net il s’est mis à chanter ses louanges.",
+        "DBY": "Alors ils crurent à ses paroles, ils chantèrent sa louange.",
+        "KJV": "Then believed they his words; they sang his praise.",
+        "LSG": "Et ils crurent à ses paroles, Ils chantèrent ses louanges.",
+        "MAB": "Alors ils crurent à ses paroles, [et] ils chantèrent sa louange.",
+        "OST": "Alors ils crurent à ses paroles, et ils chantèrent sa louange.",
+        "S21": "Alors ils ont cru à ses paroles, ils ont chanté ses louanges,"
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "Mais, bien vite ils ont oublié ses actes,\r\nils n’ont pas eu confiance en ses projets.",
+        "DBY": "Ils oublièrent vite ses œuvres, ils ne s'attendirent point à son conseil.",
+        "KJV": "They soon forgat his works; they waited not for his counsel:",
+        "LSG": "Mais ils oublièrent bientôt ses oeuvres, Ils n'attendirent pas l'exécution de ses desseins.",
+        "MAB": "[Mais] ils mirent incontinent en oubli ses œuvres, et ne s'attendirent point à son conseil.",
+        "OST": "Bientôt ils oublièrent ses œuvres; ils ne s'attendirent point à ses desseins.",
+        "S21": "mais bien vite ils ont oublié ce qu’il avait fait, ils n’ont pas attendu la réalisation de ses plans."
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "Dans le désert, ils se sont livrés à la convoitise,\r\nils ont voulu forcer la main à Dieu au milieu des solitudes.",
+        "DBY": "Et ils furent remplis de convoitise dans le désert, et il tentèrent Dieu dans le lieu désolé;",
+        "KJV": "But lusted exceedingly in the wilderness, and tempted God in the desert.",
+        "LSG": "Ils furent saisis de convoitise dans le désert, Et ils tentèrent Dieu dans la solitude.",
+        "MAB": "Mais ils furent épris de convoitise au désert, et ils tentèrent le [Dieu] Fort au lieu inhabitable.",
+        "OST": "Ils s'éprirent de convoitise dans le désert, et tentèrent Dieu dans la solitude.",
+        "S21": "Ils ont été saisis de convoitise dans le désert, ils ont provoqué Dieu dans les lieux arides."
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "Il leur a donné ce qu’ils demandaient\r\njusqu’à ce que le dégoût les saisisse.\r\nMais il les a aussi frappés de fièvres.",
+        "DBY": "Et il leur donna ce qu'ils avaient demandé, mais il envoya la consomption dans leurs âmes.",
+        "KJV": "And he gave them their request; but sent leanness into their soul.",
+        "LSG": "Il leur accorda ce qu'ils demandaient; Puis il envoya le dépérissement dans leur corps.",
+        "MAB": "Alors il leur donna ce qu'ils avaient demandé, toutefois il leur envoya une phtisie en leur corps.",
+        "OST": "Alors il leur accorda leur demande; mais il envoya sur eux la consomption.",
+        "S21": "Il leur a accordé ce qu’ils demandaient, puis il a envoyé le dépérissement dans leur corps."
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "Dans le camp, ils ont jalousé Moïse\r\net Aaron,\r\nqui était consacré à l’Eternel.",
+        "DBY": "Ils furent jaloux de Moïse dans le camp, et d'Aaron, le saint de l'Éternel:",
+        "KJV": "They envied Moses also in the camp, [and] Aaron the saint of the LORD.",
+        "LSG": "Ils se montrèrent, dans le camp, jaloux contre Moïse, Contre Aaron, le saint de l'Eternel.",
+        "MAB": "Ils portèrent envie à Moïse dans le camp, [et] à Aaron le saint de l'Eternel.",
+        "OST": "Ils furent jaloux de Moïse dans le camp, et d'Aaron, le saint de l'Éternel.",
+        "S21": "Dans le camp, ils se sont montrés jaloux de Moïse et d’Aaron, le saint de l’Eternel:"
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "Alors la terre s’ouvrit et elle engloutit Datan,\r\nelle recouvrit les gens d’Abiram.",
+        "DBY": "La terre s'ouvrit, et engloutit Dathan, et couvrit l'assemblée d'Abiram;",
+        "KJV": "The earth opened and swallowed up Dathan, and covered the company of Abiram.",
+        "LSG": "La terre s'ouvrit et engloutit Dathan, Et elle se referma sur la troupe d'Abiram;",
+        "MAB": "La terre s'ouvrit, et engloutit Dathan, et couvrit la bande d'Abiram.",
+        "OST": "La terre s'ouvrit, et engloutit Dathan, et couvrit la troupe d'Abiram.",
+        "S21": "la terre s’est ouverte, elle a englouti Dathan et s’est refermée sur la troupe d’Abiram;"
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "Le feu consuma leur bande,\r\nla flamme dévora tous ces méchants.",
+        "DBY": "Et un feu s'alluma dans leur assemblée, une flamme consuma les méchants.",
+        "KJV": "And a fire was kindled in their company; the flame burned up the wicked.",
+        "LSG": "Le feu embrasa leur troupe, La flamme consuma les méchants.",
+        "MAB": "Aussi le feu s'alluma en leur assemblée, [et] la flamme brûla les méchants.",
+        "OST": "Le feu s'alluma dans leur assemblée; la flamme consuma les méchants.",
+        "S21": "le feu a embrasé leur troupe, la flamme a dévoré les méchants."
+      }
+    },
+    {
+      "verse": 19,
+      "texts": {
+        "BDS": "A Horeb, ils ont façonné un veau\r\npour se prosterner devant du métal.",
+        "DBY": "Ils firent un veau en Horeb, et se prosternèrent devant une image de fonte;",
+        "KJV": "They made a calf in Horeb, and worshipped the molten image.",
+        "LSG": "Ils firent un veau en Horeb, Ils se prosternèrent devant une image de fonte,",
+        "MAB": "Ils firent un veau en Horeb, et se prosternèrent devant l'image de fonte.",
+        "OST": "Ils firent un veau en Horeb, et se prosternèrent devant une image de fonte.",
+        "S21": "Ils ont fabriqué un veau à Horeb, ils se sont prosternés devant une image en métal fondu."
+      }
+    },
+    {
+      "verse": 20,
+      "texts": {
+        "BDS": "Ils ont troqué Dieu, leur sujet de gloire,\r\ncontre un ruminant qui broute de l’herbe!",
+        "DBY": "Et ils changèrent leur gloire en la figure d'un bœuf qui mange l'herbe.",
+        "KJV": "Thus they changed their glory into the similitude of an ox that eateth grass.",
+        "LSG": "Ils échangèrent leur gloire Contre la figure d'un boeuf qui mange l'herbe.",
+        "MAB": "Ils changèrent leur gloire en la figure d'un bœuf qui mange l'herbe.",
+        "OST": "Ils échangèrent leur gloire contre la figure du bœuf qui mange l'herbe.",
+        "S21": "Ils ont échangé leur gloire contre la représentation d’un bœuf qui mange l’herbe!"
+      }
+    },
+    {
+      "verse": 21,
+      "texts": {
+        "BDS": "Et ils ont oublié Dieu, leur Sauveur,\r\net ses exploits accomplis en Egypte,",
+        "DBY": "Ils oublièrent Dieu, leur sauveur, qui avait fait de grandes choses en Égypte,",
+        "KJV": "They forgat God their saviour, which had done great things in Egypt;",
+        "LSG": "Ils oublièrent Dieu, leur sauveur, Qui avait fait de grandes choses en Egypte,",
+        "MAB": "Ils oublièrent le [Dieu] Fort, leur Libérateur, qui avait fait de grandes choses en Egypte;",
+        "OST": "Ils oublièrent Dieu, leur libérateur, qui avait fait de grandes choses en Égypte,",
+        "S21": "Ils ont oublié Dieu, leur sauveur, qui avait fait de grandes choses en Egypte,"
+      }
+    },
+    {
+      "verse": 22,
+      "texts": {
+        "BDS": "ses grands miracles au pays de Cham,\r\nses prodiges sur la mer des Roseaux.",
+        "DBY": "choses merveilleuses dans le pays de Cham, des choses terribles près de la mer Rouge.",
+        "KJV": "Wondrous works in the land of Ham, [and] terrible things by the Red sea.",
+        "LSG": "Des miracles dans le pays de Cham, Des prodiges sur la mer Rouge.",
+        "MAB": "Des choses merveilleuses au pays de Cam, et des choses terribles sur la mer Rouge.",
+        "OST": "Des choses merveilleuses au pays de Cham, et des choses terribles sur la mer Rouge.",
+        "S21": "des miracles dans le pays de Cham, des prodiges à la mer des Roseaux."
+      }
+    },
+    {
+      "verse": 23,
+      "texts": {
+        "BDS": "Aussi Dieu décida de les détruire.\r\nMais celui qu’il avait choisi, Moïse,\r\nse tint devant lui pour intercéder\r\net détourner son courroux destructeur.",
+        "DBY": "Et il dit qu'il les eût détruits, -si Moïse, son élu, ne s'était pas tenu à la brèche devant lui, pour détourner sa fureur de sorte qu'il ne les détruisît pas.",
+        "KJV": "Therefore he said that he would destroy them, had not Moses his chosen stood before him in the breach, to turn away his wrath, lest he should destroy [them].",
+        "LSG": "Et il parla de les exterminer; Mais Moïse, son élu, se tint à la brèche devant lui, Pour détourner sa fureur et l'empêcher de les détruire.",
+        "MAB": "C'est pourquoi il dit qu'il les détruirait; mais Moïse son élu se tint à la brèche devant lui, pour détourner sa fureur, afin qu'il ne [les] défît point.",
+        "OST": "Et il parlait de les détruire, si Moïse, son élu, ne se fût mis à la brèche devant lui, pour détourner sa colère, afin qu'il ne les détruisît pas.",
+        "S21": "Il parlait de les exterminer, mais Moïse, celui qu’il avait choisi, s’est tenu à la brèche devant lui pour détourner sa fureur et l’empêcher de les détruire."
+      }
+    },
+    {
+      "verse": 24,
+      "texts": {
+        "BDS": "Ils ont méprisé un pays de rêve\r\nparce qu’ils n’ont pas cru à sa parole.",
+        "DBY": "Et ils méprisèrent le pays désirable; ils ne crurent point à sa parole;",
+        "KJV": "Yea, they despised the pleasant land, they believed not his word:",
+        "LSG": "Ils méprisèrent le pays des délices; Ils ne crurent pas à la parole de l'Eternel,",
+        "MAB": "Ils méprisèrent le pays désirable, [et] ne crurent point à sa parole.",
+        "OST": "Ils méprisèrent la terre désirable; ils ne crurent point à sa parole.",
+        "S21": "Ils ont méprisé le pays des délices, ils n’ont pas cru à la parole de l’Eternel,"
+      }
+    },
+    {
+      "verse": 25,
+      "texts": {
+        "BDS": "Ils ont protesté au fond de leurs tentes,\r\net ils ont désobéi à la voix de l’Eternel.",
+        "DBY": "Et ils murmurèrent dans leurs tentes, ils n'écoutèrent pas la voix de l'Éternel.",
+        "KJV": "But murmured in their tents, [and] hearkened not unto the voice of the LORD.",
+        "LSG": "Ils murmurèrent dans leurs tentes, Ils n'obéirent point à sa voix.",
+        "MAB": "Et ils se mutinèrent dans leurs tentes, et n'obéirent point à la voix de l'Eternel.",
+        "OST": "Ils murmurèrent dans leurs tentes; ils n'écoutèrent point la voix de l'Éternel.",
+        "S21": "ils ont murmuré dans leurs tentes, ils n’ont pas écouté l’Eternel."
+      }
+    },
+    {
+      "verse": 26,
+      "texts": {
+        "BDS": "Alors il jura en levant la main\r\nqu’il les ferait périr dans le désert,",
+        "DBY": "Et il jura à leur sujet qu'il les ferait tomber dans le désert,",
+        "KJV": "Therefore he lifted up his hand against them, to overthrow them in the wilderness:",
+        "LSG": "Et il leva la main pour jurer De les faire tomber dans le désert,",
+        "MAB": "C'est pourquoi il leur jura la main levée, qu'il les renverserait dans le désert,",
+        "OST": "Alors il leur fit serment de les faire tomber dans le désert,",
+        "S21": "Alors il a levé la main pour jurer de les faire tomber dans le désert,"
+      }
+    },
+    {
+      "verse": 27,
+      "texts": {
+        "BDS": "et qu’il disperserait leur descendance\r\nparmi les nations où ils périront\r\ndans tous les pays du monde.",
+        "DBY": "Et qu'il ferait tomber leur semence parmi les nations, et les disperserait par les pays.",
+        "KJV": "To overthrow their seed also among the nations, and to scatter them in the lands.",
+        "LSG": "De faire tomber leur postérité parmi les nations, Et de les disperser au milieu des pays.",
+        "MAB": "Et qu'il accablerait leur postérité parmi les nations, et qu'il les disperserait par les pays.",
+        "OST": "De faire tomber leur postérité entre les nations, de les disperser dans tous les pays.",
+        "S21": "de faire tomber leur descendance parmi les nations et de les disperser dans tous les pays."
+      }
+    },
+    {
+      "verse": 28,
+      "texts": {
+        "BDS": "Ils se sont attachés à Baal-Peor,\r\nils ont mangé des victimes qu’on avait sacrifiées à des dieux morts.",
+        "DBY": "Et ils s'attachèrent à Baal-Péor, et mangèrent des sacrifices des morts;",
+        "KJV": "They joined themselves also unto Baalpeor, and ate the sacrifices of the dead.",
+        "LSG": "Ils s'attachèrent à Baal-Peor, Et mangèrent des victimes sacrifiées aux morts.",
+        "MAB": "Ils se joignirent aux adorateurs de Bahal-Péhor, et mangèrent des sacrifices des morts.",
+        "OST": "Ils s'attachèrent à Baal-Péor, et mangèrent les sacrifices des morts.",
+        "S21": "Ils se sont attachés au dieu Baal-Peor et ont mangé des sacrifices offerts à des morts."
+      }
+    },
+    {
+      "verse": 29,
+      "texts": {
+        "BDS": "L’Eternel fut irrité par leurs crimes\r\net un fléau éclata parmi eux.",
+        "DBY": "Et ils provoquèrent Dieu par leurs œuvres, et une peste éclata parmi eux.",
+        "KJV": "Thus they provoked [him] to anger with their inventions: and the plague brake in upon them.",
+        "LSG": "Ils irritèrent l'Eternel par leurs actions, Et une plaie fit irruption parmi eux.",
+        "MAB": "Et ils dépitèrent [Dieu] par les choses à quoi ils s'adonnèrent, tellement qu'une plaie fit brèche sur eux.",
+        "OST": "Ils irritèrent Dieu par leurs actions, tellement qu'une plaie fit irruption parmi eux.",
+        "S21": "Ils ont offensé l’Eternel par leurs agissements, et un fléau a éclaté parmi eux."
+      }
+    },
+    {
+      "verse": 30,
+      "texts": {
+        "BDS": "Phinéas intervint en justicier,\r\net le fléau s’arrêta aussitôt.",
+        "DBY": "Phinées se leva, et exécuta le jugement, et la peste fut arrêtée;",
+        "KJV": "Then stood up Phinehas, and executed judgment: and [so] the plague was stayed.",
+        "LSG": "Phinées se leva pour intervenir, Et la plaie s'arrêta;",
+        "MAB": "Mais Phinées se présenta, et fit justice; et la plaie fut arrêtée.",
+        "OST": "Mais Phinées se présenta et fit justice, et la plaie fut arrêtée.",
+        "S21": "Phinées s’est levé pour intervenir, et le fléau s’est arrêté;"
+      }
+    },
+    {
+      "verse": 31,
+      "texts": {
+        "BDS": "Cela lui fut compté comme acte juste\r\npour tous les âges, pour l’éternité.",
+        "DBY": "Et cela lui a été compté à justice, de génération en génération, pour toujours.",
+        "KJV": "And that was counted unto him for righteousness unto all generations for evermore.",
+        "LSG": "Cela lui fut imputé à justice, De génération en génération pour toujours.",
+        "MAB": "Et cela lui a été alloué pour justice dans tous les âges à jamais.",
+        "OST": "Et cela lui fut imputé à justice, dans tous les âges, à perpétuité.",
+        "S21": "cela lui a été compté comme justice de génération en génération, pour toujours."
+      }
+    },
+    {
+      "verse": 32,
+      "texts": {
+        "BDS": "Ils ont irrité Dieu à Mériba\r\net ils ont fait le malheur de Moïse.",
+        "DBY": "Et ils l'irritèrent aux eaux de Meriba, et il en arriva du mal à Moïse à cause d'eux;",
+        "KJV": "They angered [him] also at the waters of strife, so that it went ill with Moses for their sakes:",
+        "LSG": "Ils irritèrent l'Eternel près des eaux de Meriba; Et Moïse fut puni à cause d'eux,",
+        "MAB": "Ils excitèrent aussi sa colère près des eaux de Mériba, et il en avint du mal à Moïse à cause d'eux.",
+        "OST": "Ils l'irritèrent aussi près des eaux de Mériba; et il en arriva du mal à Moïse à cause d'eux.",
+        "S21": "Ils ont irrité l’Eternel près des eaux de Meriba, et Moïse a été puni à cause d’eux,"
+      }
+    },
+    {
+      "verse": 33,
+      "texts": {
+        "BDS": "Ils l’ont si vivement exaspéré\r\nqu’il s’est mis à parler sans réfléchir.",
+        "DBY": "Car ils chagrinèrent son esprit, de sorte qu'il parla légèrement de ses lèvres.",
+        "KJV": "Because they provoked his spirit, so that he spake unadvisedly with his lips.",
+        "LSG": "Car ils aigrirent son esprit, Et il s'exprima légèrement des lèvres.",
+        "MAB": "Car ils chagrinèrent son esprit, et il parla légèrement de ses lèvres.",
+        "OST": "Car ils résistèrent à son esprit, et il parla légèrement de ses lèvres.",
+        "S21": "car ils l’ont exaspéré et il a parlé sans réfléchir."
+      }
+    },
+    {
+      "verse": 34,
+      "texts": {
+        "BDS": "Ils n’ont pas détruit les peuples\r\nque l’Eternel leur avait désignés.",
+        "DBY": "Ils ne détruisirent point les peuples, comme l'Éternel leur avait dit;",
+        "KJV": "They did not destroy the nations, concerning whom the LORD commanded them:",
+        "LSG": "Ils ne détruisirent point les peuples Que l'Eternel leur avait ordonné de détruire.",
+        "MAB": "Ils n'ont point détruit les peuples que l'Eternel leur avait dit;",
+        "OST": "Ils ne détruisirent pas les peuples, que l'Éternel leur avait dit de détruire.",
+        "S21": "Ils n’ont pas exterminé les peuples que l’Eternel leur avait ordonné de détruire;"
+      }
+    },
+    {
+      "verse": 35,
+      "texts": {
+        "BDS": "Ils se sont mêlés aux nations païennes\r\net ont imité leurs façons de faire.",
+        "DBY": "Mais ils se mêlèrent parmi les nations, et ils apprirent leurs œuvres;",
+        "KJV": "But were mingled among the heathen, and learned their works.",
+        "LSG": "Ils se mêlèrent avec les nations, Et ils apprirent leurs oeuvres.",
+        "MAB": "Mais ils se sont mêlés parmi ces nations, et ils ont appris leurs manières de faire;",
+        "OST": "Mais ils se mêlèrent avec les nations, et ils apprirent leurs œuvres.",
+        "S21": "ils se sont mêlés aux autres nations et ont imité leur manière de faire."
+      }
+    },
+    {
+      "verse": 36,
+      "texts": {
+        "BDS": "Ils ont adoré leurs divinités,\r\nqui sont devenues un piège pour eux.",
+        "DBY": "Et ils servirent leurs idoles, et elles leur furent en piège;",
+        "KJV": "And they served their idols: which were a snare unto them.",
+        "LSG": "Ils servirent leurs idoles, Qui furent pour eux un piège;",
+        "MAB": "Et ont servi à leurs faux dieux, lesquels leur ont été en pièges.",
+        "OST": "Ils servirent leurs idoles, qui furent pour eux un piège;",
+        "S21": "Ils ont servi leurs idoles, qui ont été un piège pour eux;"
+      }
+    },
+    {
+      "verse": 37,
+      "texts": {
+        "BDS": "Ils ont même offert leurs fils\r\net leurs filles en sacrifice aux démons,",
+        "DBY": "Et ils sacrifièrent leurs fils et leurs filles aux démons,",
+        "KJV": "Yea, they sacrificed their sons and their daughters unto devils,",
+        "LSG": "Ils sacrifièrent leurs fils Et leurs filles aux idoles,",
+        "MAB": "Car ils ont sacrifié leurs fils et leurs filles aux démons.",
+        "OST": "Et ils sacrifièrent aux démons leurs fils et leurs filles.",
+        "S21": "ils ont sacrifié leurs fils et leurs filles aux démons,"
+      }
+    },
+    {
+      "verse": 38,
+      "texts": {
+        "BDS": "ils ont répandu le sang innocent,\r\nle sang de leurs fils, le sang de leurs filles\r\nimmolés aux faux dieux de Canaan.\r\nEt le pays fut souillé par ces meurtres.",
+        "DBY": "Et versèrent le sang innocent, le sang de leurs fils et de leurs filles, qu'ils sacrifièrent aux idoles de Canaan; et le pays fut profané par le sang.",
+        "KJV": "And shed innocent blood, [even] the blood of their sons and of their daughters, whom they sacrificed unto the idols of Canaan: and the land was polluted with blood.",
+        "LSG": "Ils répandirent le sang innocent, Le sang de leurs fils et de leurs filles, Qu'ils sacrifièrent aux idoles de Canaan, Et le pays fut profané par des meurtres.",
+        "MAB": "Et ils ont répandu le sang innocent, le sang de leurs fils et de leurs filles, lesquels ils ont sacrifiés aux faux dieux de Canaan; et le pays a été souillé de sang.",
+        "OST": "Ils répandirent le sang innocent, le sang de leurs fils et de leurs filles, qu'ils sacrifièrent aux idoles de Canaan; et le pays fut profané par ces meurtres.",
+        "S21": "ils ont versé le sang innocent, le sang de leurs fils et de leurs filles qu’ils ont offerts en sacrifice aux idoles de Canaan, et le pays a été souillé par ces meurtres."
+      }
+    },
+    {
+      "verse": 39,
+      "texts": {
+        "BDS": "Ils se sont profanés par leurs pratiques,\r\nse sont prostitués par leur conduite.",
+        "DBY": "Et ils se rendirent impurs par leurs œuvres, et se prostituèrent par leurs pratiques.",
+        "KJV": "Thus were they defiled with their own works, and went a whoring with their own inventions.",
+        "LSG": "Ils se souillèrent par leurs oeuvres, Ils se prostituèrent par leurs actions.",
+        "MAB": "Et ils ont été souillés par leurs œuvres, et ont paillardé par les choses à quoi ils se sont adonnés.",
+        "OST": "Ils se souillèrent par leurs œuvres, et se prostituèrent par leurs actions.",
+        "S21": "Ils se sont rendus impurs par leurs actes, ils se sont prostitués par leurs agissements."
+      }
+    },
+    {
+      "verse": 40,
+      "texts": {
+        "BDS": "L’Eternel s’irrita contre son peuple\r\net il prit en aversion tous les siens.",
+        "DBY": "Et la colère de l'Éternel s'embrasa contre son peuple, et il abhorra son héritage;",
+        "KJV": "Therefore was the wrath of the LORD kindled against his people, insomuch that he abhorred his own inheritance.",
+        "LSG": "La colère de l'Eternel s'enflamma contre son peuple, Et il prit en horreur son héritage.",
+        "MAB": "C'est pourquoi la colère de l'Eternel s'est embrasée contre son peuple, et il a eu en abomination son héritage.",
+        "OST": "Et la colère de l'Éternel s'alluma contre son peuple; il eut en abomination son héritage.",
+        "S21": "La colère de l’Eternel s’est enflammée contre son peuple, il a pris son héritage en horreur."
+      }
+    },
+    {
+      "verse": 41,
+      "texts": {
+        "BDS": "Il les livra au pouvoir des nations,\r\nceux qui les haïssaient les opprimèrent.",
+        "DBY": "Et il livra en la main des nations; et ceux qui les haïssaient, dominèrent sur eux;",
+        "KJV": "And he gave them into the hand of the heathen; and they that hated them ruled over them.",
+        "LSG": "Il les livra entre les mains des nations; Ceux qui les haïssaient dominèrent sur eux;",
+        "MAB": "Et il les a livrés entre les mains des nations, et ceux qui les haïssaient, ont dominé sur eux.",
+        "OST": "Il les livra entre les mains des nations; ceux qui les haïssaient, dominèrent sur eux.",
+        "S21": "Il les a livrés au pouvoir des nations: ceux qui les détestaient ont dominé sur eux,"
+      }
+    },
+    {
+      "verse": 42,
+      "texts": {
+        "BDS": "Ils furent frappés par leurs ennemis\r\net livrés à leur pouvoir.",
+        "DBY": "Et leurs ennemis les opprimèrent, et ils furent humiliés sous leur main.",
+        "KJV": "Their enemies also oppressed them, and they were brought into subjection under their hand.",
+        "LSG": "Leurs ennemis les opprimèrent, Et ils furent humiliés sous leur puissance.",
+        "MAB": "Et leurs ennemis les ont opprimés, et ils ont été humiliés sous leur main.",
+        "OST": "Leurs ennemis les opprimèrent, et ils furent humiliés sous leur main.",
+        "S21": "leurs ennemis les ont opprimés, et ils ont été humiliés sous leur main."
+      }
+    },
+    {
+      "verse": 43,
+      "texts": {
+        "BDS": "Bien souvent, l’Eternel les délivra,\r\nmais ils ne pensaient qu’à se révolter,\r\net s’obstinaient dans leur faute.",
+        "DBY": "Maintes fois il les délivra; mais ils le chagrinèrent par leur conseil, et ils déchurent par leur iniquité.",
+        "KJV": "Many times did he deliver them; but they provoked [him] with their counsel, and were brought low for their iniquity.",
+        "LSG": "Plusieurs fois il les délivra; Mais ils se montrèrent rebelles dans leurs desseins, Et ils devinrent malheureux par leur iniquité.",
+        "MAB": "Il les a souvent délivrés, mais ils l'ont irrité par leur conseil, et ils ont été mis en langueur par leur iniquité.",
+        "OST": "Maintes fois il les délivra; mais ils se montraient rebelles dans leurs desseins, et se perdaient par leur iniquité.",
+        "S21": "Plusieurs fois, il les a délivrés, mais eux, ils s’obstinaient dans leur révolte, et ils se sont enfoncés dans leur faute."
+      }
+    },
+    {
+      "verse": 44,
+      "texts": {
+        "BDS": "Pourtant, il considéra leur détresse\r\nquand il entendit leurs cris suppliants.",
+        "DBY": "Il les regarda dans leur détresse, quand il entendit leur cri,",
+        "KJV": "Nevertheless he regarded their affliction, when he heard their cry:",
+        "LSG": "Il vit leur détresse, Lorsqu'il entendit leurs supplications.",
+        "MAB": "Toutefois il les a regardés dans leur détresse, quand il entendait leur clameur.",
+        "OST": "Toutefois, il les a regardés dans leur détresse, quand il entendait leur cri.",
+        "S21": "Il a vu leur détresse lorsqu’il a écouté leurs plaintes."
+      }
+    },
+    {
+      "verse": 45,
+      "texts": {
+        "BDS": "Il se souvint pour leur bien de son alliance avec eux,\r\net il renonça à les affliger car son amour pour eux était très grand.",
+        "DBY": "Et il se souvint en leur faveur de son alliance, et se repentit selon la multitude de ses bontés;",
+        "KJV": "And he remembered for them his covenant, and repented according to the multitude of his mercies.",
+        "LSG": "Il se souvint en leur faveur de son alliance;",
+        "MAB": "Et il s'est souvenu en leur faveur de son alliance, et s'est repenti selon la grandeur de ses compassions.",
+        "OST": "Il s'est souvenu en leur faveur de son alliance, et s'est repenti selon la grandeur de sa miséricorde.",
+        "S21": "Il s’est souvenu en leur faveur de son alliance, il a eu pitié d’eux, conformément à sa grande bonté,"
+      }
+    },
+    {
+      "verse": 46,
+      "texts": {
+        "BDS": "Il éveilla pour eux la compassion\r\nde tous ceux qui les retenaient captifs.",
+        "DBY": "Et il leur fit trouver compassion auprès de tous ceux qui les avaient emmenés captifs.",
+        "KJV": "He made them also to be pitied of all those that carried them captives.",
+        "LSG": "Il eut pitié selon sa grande bonté, Et il excita pour eux la compassion De tous ceux qui les retenaient captifs.",
+        "MAB": "Et il a fait que ceux qui les avaient emmenés captifs, ont eu pitié d'eux.",
+        "OST": "Il leur a fait trouver compassion auprès de tous ceux qui les tenaient captifs.",
+        "S21": "et il a éveillé pour eux la compassion de tous ceux qui les retenaient prisonniers."
+      }
+    },
+    {
+      "verse": 47,
+      "texts": {
+        "BDS": "Délivre-nous, Eternel, notre Dieu!\r\nRassemble-nous du milieu des nations!\r\nNous te célébrerons, toi qui es saint,\r\net mettrons notre gloire à te louer.",
+        "DBY": "Sauve-nous, Éternel, notre Dieu! et rassemble-nous d'entre les nations, afin que nous célébrions ton saint nom, et que nous nous glorifiions de ta louange.",
+        "KJV": "Save us, O LORD our God, and gather us from among the heathen, to give thanks unto thy holy name, [and] to triumph in thy praise.",
+        "LSG": "Sauve-nous, Eternel, notre Dieu! Et rassemble-nous du milieu des nations, Afin que nous célébrions ton saint nom, Et que nous mettions notre gloire à te louer!",
+        "MAB": "Eternel notre Dieu, délivre-nous et nous recueille d'entre les nations, afin que nous célébrions le Nom de ta sainteté, et que nous nous glorifiions en ta louange.",
+        "OST": "Sauve-nous, Éternel, notre Dieu, et rassemble-nous d'entre les nations, afin que nous célébrions ton saint nom, et que nous nous glorifiions dans tes louanges.",
+        "S21": "Sauve-nous, Eternel, notre Dieu, et rassemble-nous du milieu des nations! Ainsi nous célébrerons ton saint nom et nous mettrons notre gloire à te louer:"
+      }
+    },
+    {
+      "verse": 48,
+      "texts": {
+        "BDS": "Loué soit l’Eternel, Dieu d’Israël,\r\nd’éternité jusqu’en éternité\r\net que le peuple entier réponde: «Amen.»\r\nLouez l’Eternel!",
+        "DBY": "Béni soit l'Éternel, le Dieu d'Israël, de l'éternité jusqu'en éternité! et que tout le peuple dise: Amen! Louez Jah!",
+        "KJV": "Blessed [be] the LORD God of Israel from everlasting to everlasting: and let all the people say, Amen. Praise ye the LORD.",
+        "LSG": "Béni soit l'Eternel, le Dieu d'Israël, d'éternité en éternité! Et que tout le peuple dise: Amen! Louez l'Eternel!",
+        "MAB": "Béni soit l'Eternel, le Dieu d'Israël, depuis un siècle jusqu'à l'autre siècle! et que tout le peuple dise, Amen! Louez l'Eternel.",
+        "OST": "Béni soit l'Éternel, le Dieu d'Israël, de siècle en siècle, et que tout le peuple dise: Amen! Louez l'Éternel!",
+        "S21": "«Béni soit l’Eternel, le Dieu d’Israël, d’éternité en éternité!» Et tout le peuple dira: «Amen! Louez l’Eternel!»"
+      }
+    }
+  ]
+}

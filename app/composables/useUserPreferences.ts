@@ -1,28 +1,29 @@
-import type { BibleVersion, UserPreference } from '@prisma/client';
+import type { UserPreferencesData } from '~/types';
 
 export const useUserPreferences = () => {
-    const preferences = ref<Pick<UserPreference, 'defaultVersionId' | 'notesPerVersion' | 'bookmarksPerVersion'> & { defaultVersion: BibleVersion | null; }>({
-        defaultVersionId: null,
+    const preferences = ref<UserPreferencesData>({
+        defaultVersionOrderIndex: null,
         notesPerVersion: false,
         bookmarksPerVersion: false,
         defaultVersion: null
     });
 
     const updatePreferences = async (
-        payload: Pick<UserPreference, 'defaultVersionId' | 'notesPerVersion' | 'bookmarksPerVersion'>
+        payload: Pick<UserPreferencesData, 'defaultVersionOrderIndex' | 'notesPerVersion' | 'bookmarksPerVersion'>
     ) => {
-        const { data } = await $fetch<{ data: UserPreference; }>('/api/preferences', { method: 'PUT', body: payload });
-        preferences.value.defaultVersionId = data.defaultVersionId;
+        const { data } = await $fetch<{ data: UserPreferencesData; }>('/api/preferences', { method: 'PUT', body: payload });
+        preferences.value.defaultVersionOrderIndex = data.defaultVersionOrderIndex;
         preferences.value.notesPerVersion = data.notesPerVersion;
         preferences.value.bookmarksPerVersion = data.bookmarksPerVersion;
+        preferences.value.defaultVersion = data.defaultVersion;
     };
 
     const fetchPreferences = async () => {
         const { data } = await $fetch('/api/preferences', { method: 'GET' });
-        preferences.value.defaultVersionId = data.defaultVersionId;
+        preferences.value.defaultVersionOrderIndex = data.defaultVersionOrderIndex;
         preferences.value.notesPerVersion = data.notesPerVersion;
         preferences.value.bookmarksPerVersion = data.bookmarksPerVersion;
-        preferences.value.defaultVersion = data.defaultVersion as BibleVersion | null;
+        preferences.value.defaultVersion = data.defaultVersion;
         return preferences.value;
     };
 

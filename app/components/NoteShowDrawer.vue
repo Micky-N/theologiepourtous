@@ -123,23 +123,23 @@
 </template>
 
 <script lang="ts" setup>
-import type { BibleNote } from '@prisma/client';
+import type { BibleNoteData } from '~/types';
 
 const { notes, book, verse, footer = true } = defineProps<{
-    notes: BibleNote[];
+    notes: BibleNoteData[];
     verse: { chapter: number; verse: number; };
     book: { name: string; };
     footer?: boolean;
 }>();
 
 const emit = defineEmits<{
-    (e: 'edit:note', value: BibleNote): void;
+    (e: 'edit:note', value: BibleNoteData): void;
     (e: 'refreshNote'): void;
 }>();
 
 const toast = useToast();
 const open = defineModel<boolean>('open', { default: false });
-const selectedNoteId = ref<BibleNote['id'] | null>(null);
+const selectedNoteId = ref<BibleNoteData['id'] | null>(null);
 const selectedNote = computed(() => notes.find(note => note.id === selectedNoteId.value) || null);
 
 watch(open, (value) => {
@@ -156,7 +156,7 @@ const reference = computed(() => {
     return `${book.name} ${verse.chapter}:${verse.verse}`;
 });
 
-const removeNote = async (note: BibleNote) => {
+const removeNote = async (note: BibleNoteData) => {
     try {
         await $fetch(`/api/bible/notes/${note.id}`, {
             method: 'DELETE'

@@ -1,0 +1,450 @@
+{
+  "bookCode": "2KI",
+  "chapter": 18,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "La troisième année du règne d’Osée, fils d’Ela, roi d’Israël, Ezéchias, fils d’Ahaz, roi de Juda, devint roi.",
+        "DBY": "Et il arriva, la troisième année d'Osée, fils d'Éla, roi d'Israël, qu'Ézéchias, fils d'Achaz, roi de Juda, commença de régner.",
+        "KJV": "Now it came to pass in the third year of Hoshea son of Elah king of Israel, [that] Hezekiah the son of Ahaz king of Judah began to reign.",
+        "LSG": "La troisième année d'Osée, fils d'Ela, roi d'Israël, Ezéchias, fils d'Achaz, roi de Juda, régna.",
+        "MAB": "Or la troisième année d'Hosée fils d'Ela Roi d'Israël, Ezéchias fils d'Achaz Roi de Juda commença à régner.",
+        "OST": "La troisième année d'Osée, fils d'Ela, roi d'Israël, Ézéchias, fils d'Achaz, roi de Juda, commença à régner.",
+        "S21": "La troisième année du règne d'Osée, fils d'Ela, sur Israël, Ezéchias, fils d'Achaz, le roi de Juda, devint roi."
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "Il était âgé de vingt-cinq ans à son avènement et il régna vingt-neuf ans à Jérusalem. Sa mère s’appelait Abi, elle était fille de Zacharie.",
+        "DBY": "Il était âgé de vingt-cinq ans lorsqu'il commença de régner; et il régna vingt-neuf ans à Jérusalem; et le nom de sa mère était Abi, fille de Zacharie.",
+        "KJV": "Twenty and five years old was he when he began to reign; and he reigned twenty and nine years in Jerusalem. His mother's name also [was] Abi, the daughter of Zachariah.",
+        "LSG": "Il avait vingt-cinq ans lorsqu'il devint roi, et il régna vingt-neuf ans à Jérusalem. Sa mère s'appelait Abi, fille de Zacharie.",
+        "MAB": "Il était âgé de vingt-cinq ans quand il commença à régner, et il régna vingt et neuf ans à Jérusalem; sa mère avait nom Abi, [et] était fille de Zacharie.",
+        "OST": "Il était âgé de vingt-cinq ans quand il commença à régner, et il régna vingt-neuf ans à Jérusalem. Sa mère s'appelait Abi; elle était fille de Zacharie.",
+        "S21": "Il avait 25 ans lorsqu'il devint roi et il régna 29 ans à Jérusalem. Sa mère s'appelait Abi et c’était la fille de Zacharie."
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "Il fit ce que l’Eternel considère comme juste, en tout point comme l’avait fait son ancêtre David.",
+        "DBY": "Et il fit ce qui est droit aux yeux de l'Éternel, selon tout ce qu'avait fait David, son père.",
+        "KJV": "And he did [that which was] right in the sight of the LORD, according to all that David his father did.",
+        "LSG": "Il fit ce qui est droit aux yeux de l'Eternel, entièrement comme avait fait David, son père.",
+        "MAB": "Il fit ce gui est droit devant l'Eternel comme avait fait David son père.",
+        "OST": "Il fit ce qui est droit aux yeux de l'Éternel, selon tout ce qu'avait fait David, son père.",
+        "S21": "Il fit ce qui est droit aux yeux de l'Eternel, entièrement comme l’avait fait son ancêtre David."
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "Il fit disparaître les hauts-lieux, briser les stèles des idoles, couper le pieu sacré de la déesse Achéra. Il fit aussi mettre en pièces le serpent de bronze que Moïse avait fabriqué, car jusqu’à cette époque-là, les Israélites faisaient brûler des parfums pour lui et l’appelaient Nehouchtân.",
+        "DBY": "Il ôta les hauts lieux, et brisa les statues, et coupa les ashères, et mit en pièces le serpent d'airain que Moïse avait fait, car jusqu'à ces jours-là les fils d'Israël lui brûlaient de l'encens; et il l'appela: Nehushtan.",
+        "KJV": "He removed the high places, and brake the images, and cut down the groves, and brake in pieces the brasen serpent that Moses had made: for unto those days the children of Israel did burn incense to it: and he called it Nehushtan.",
+        "LSG": "Il fit disparaître les hauts lieux, brisa les statues, abattit les idoles, et mit en pièces le serpent d'airain que Moïse avait fait, car les enfants d'Israël avaient jusqu'alors brûlé des parfums devant lui: on l'appelait Nehuschtan.",
+        "MAB": "Il ôta les hauts lieux, mit en pièces les statues, coupa les bocages, et il brisa le serpent d'airain que Moïse avait fait, parce que jusqu'à ce jour-là les enfants d'Israël lui faisaient des encensements; et il le nomma Néhustan.",
+        "OST": "Il ôta les hauts lieux; il mit en pièces les statues; il abattit les images d'Ashéra, et brisa le serpent d'airain que Moïse avait fait, parce que jusqu'à ce jour-là les enfants d'Israël lui faisaient des encensements; et on le nommait Néhushtan.",
+        "S21": "Il fit disparaître les hauts lieux, brisa les statues, abattit les idoles et mit en pièces le serpent de bronze que Moïse avait fabriqué, car les Israélites avaient jusqu'alors brûlé des parfums devant lui; on l'appelait Nehushtan."
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "Ezéchias mit sa confiance en l’Eternel, le Dieu d’Israël. Parmi tous les rois de Juda qui lui succédèrent ou qui l’avaient précédé, aucun ne l’égala.",
+        "DBY": "Il mit sa confiance en l'Éternel, le Dieu d'Israël; et après lui, il n'y en eut point de semblable à lui parmi tous les rois de Juda, non plus que parmi ceux qui avaient été avant lui.",
+        "KJV": "He trusted in the LORD God of Israel; so that after him was none like him among all the kings of Judah, nor [any] that were before him.",
+        "LSG": "Il mit sa confiance en l'Eternel, le Dieu d'Israël; et parmi tous les rois de Juda qui vinrent après lui ou qui le précédèrent, il n'y en eut point de semblable à lui.",
+        "MAB": "Il mit son espérance en l'Eternel le Dieu d'Israël, et après lui il n'y eut point de [Roi] semblable à lui entre tous les Rois de Juda, comme il n'y en avait point eu entre ceux qui avaient été avant lui.",
+        "OST": "Il mit son espérance en l'Éternel, le Dieu d'Israël; et il n'y eut point son pareil entre tous les rois de Juda qui suivirent, non plus que parmi ses prédécesseurs.",
+        "S21": "Il mit sa confiance dans l'Eternel, le Dieu d'Israël. De tous les rois de Juda qui lui succédèrent ou qui le précédèrent, aucun ne fut pareil à lui."
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "Il demeura attaché à l’Eternel, sans se détourner de lui; il obéit à tous les commandements que l’Eternel avait donnés à Moïse.",
+        "DBY": "Et il s'attacha à l'Éternel; il ne se détourna point de lui, et il garda ses commandements, que l'Éternel avait commandés à Moïse.",
+        "KJV": "For he clave to the LORD, [and] departed not from following him, but kept his commandments, which the LORD commanded Moses.",
+        "LSG": "Il fut attaché à l'Eternel, il ne se détourna point de lui, et il observa les commandements que l'Eternel avait prescrits à Moïse.",
+        "MAB": "Il s'attacha à l'Eternel, il ne s'en détourna point; et il garda les commandements que l'Eternel avait donnés à Moïse.",
+        "OST": "Il s'attacha à l'Éternel; il ne se détourna point de lui; et il garda les commandements que l'Éternel avait donnés à Moïse.",
+        "S21": "Il s’attacha à l'Eternel sans se détourner de lui et il se conforma aux commandements qu’il avait prescrits à Moïse."
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "Aussi l’Eternel fut-il avec lui. Il réussit dans toutes ses entreprises. Il se révolta contre le roi d’Assyrie et cessa de lui être assujetti.",
+        "DBY": "Et l'Éternel fut avec lui: partout où il allait, il prospéra. Et il se révolta contre le roi d'Assyrie, et ne le servit pas.",
+        "KJV": "And the LORD was with him; [and] he prospered whithersoever he went forth: and he rebelled against the king of Assyria, and served him not.",
+        "LSG": "Et l'Eternel fut avec Ezéchias, qui réussit dans toutes ses entreprises. Il se révolta contre le roi d'Assyrie, et ne lui fut plus assujetti.",
+        "MAB": "Et l'Eternel fut avec lui partout où il allait, [et] il prospérait; mais il se rebella contre le Roi des Assyriens, pour ne lui être point assujetti.",
+        "OST": "Et l'Éternel fut avec lui; dans tout ce qu'il entreprenait il prospérait. Il se révolta contre le roi des Assyriens, et ne lui fut point assujetti.",
+        "S21": "L'Eternel fut avec Ezéchias qui réussit dans toutes ses entreprises. Il se révolta contre le roi d'Assyrie et ne lui fut plus asservi."
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "Il battit les Philistins et les poursuivit jusqu’à Gaza, ravageant la ville et son territoire, et s’emparant des villes fortifiées aussi bien que des postes d’observation.",
+        "DBY": "Il frappa les Philistins jusqu'à Gaza, et ses confins, depuis la tour des gardes jusqu'à la ville forte.",
+        "KJV": "He smote the Philistines, [even] unto Gaza, and the borders thereof, from the tower of the watchmen to the fenced city.",
+        "LSG": "Il battit les Philistins jusqu'à Gaza, et ravagea leur territoire depuis les tours des gardes jusqu'aux villes fortes.",
+        "MAB": "Il frappa les Philistins jusqu'à Gaza, et ses confins, depuis les tours des gardes jusqu'aux villes fortes.",
+        "OST": "Il battit les Philistins jusqu'à Gaza et ses frontières, depuis les tours des gardes jusqu'aux villes fortes.",
+        "S21": "Il porta des coups aux Philistins jusqu'à Gaza et dévasta leur territoire, aussi bien les simples tours de garde que les villes fortifiées."
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "Ce fut pendant la quatrième année du règne d’Ezéchias, qui correspond à la septième année de celui d’Osée, fils d’Ela, roi d’Israël, que Salmanasar, roi d’Assyrie, vint attaquer Samarie et l’assiégea.",
+        "DBY": "Et il arriva, la quatrième année du roi Ézéchias, qui était la septième année d'Osée, fils d'Éla, roi d'Israël, que Shalmanéser, roi d'Assyrie, monta contre Samarie et l'assiégea.",
+        "KJV": "And it came to pass in the fourth year of king Hezekiah, which [was] the seventh year of Hoshea son of Elah king of Israel, [that] Shalmaneser king of Assyria came up against Samaria, and besieged it.",
+        "LSG": "La quatrième année du roi Ezéchias, qui était la septième année d'Osée, fils d'Ela, roi d'Israël, Salmanasar, roi d'Assyrie, monta contre Samarie et l'assiégea.",
+        "MAB": "Or il arriva en la quatrième année du Roi Ezéchias, qui était la septième du règne d'Hosée fils d'Ela Roi d'Israël, que Salmanéser Roi des Assyriens monta contre Samarie, et l'assiégea.",
+        "OST": "Or il arriva, la quatrième année du roi Ézéchias, qui était la septième d'Osée, fils d'Éla, roi d'Israël, que Salmanéser, roi des Assyriens, monta contre Samarie et l'assiégea.",
+        "S21": "La quatrième année du règne d’Ezéchias, qui était la septième année du règne d'Osée, fils d'Ela, sur Israël, Salmanasar, le roi d'Assyrie, monta contre Samarie et l'assiégea."
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "Il s’en empara au bout de trois ans, la sixième année du règne d’Ezéchias, c’est-à-dire la neuvième année du règne d’Osée, roi d’Israël; ainsi Samarie fut prise.",
+        "DBY": "Et ils la prirent au bout de trois ans: la sixième année d'Ézéchias, ce fut la neuvième année d'Osée, roi d'Israël, Samarie fut prise.",
+        "KJV": "And at the end of three years they took it: [even] in the sixth year of Hezekiah, that [is] the ninth year of Hoshea king of Israel, Samaria was taken.",
+        "LSG": "Il la prit au bout de trois ans, la sixième année d'Ezéchias, qui était la neuvième année d'Osée, roi d'Israël: alors Samarie fut prise.",
+        "MAB": "Au bout de trois ans ils la prirent; [et ainsi] la sixième année du règne d'Ezéchias, qui était la neuvième d'Hosée Roi d'Israël, Samarie fut prise.",
+        "OST": "Au bout de trois ans ils la prirent; la sixième année du règne d'Ézéchias, qui était la neuvième d'Osée, roi d'Israël, Samarie fut prise.",
+        "S21": "Il la prit au bout de 3 ans, la sixième année du règne d'Ezéchias, qui était la neuvième année du règne d'Osée sur Israël. C'est à ce moment-là que Samarie fut prise."
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "Le roi d’Assyrie déporta les Israélites en Assyrie et les établit à Halah et sur les rives du Habor, dans la région de Gozân ainsi que dans les villes de la Médie.",
+        "DBY": "Et le roi d'Assyrie transporta Israël en Assyrie, et les établit à Khalakh, et sur le Khabor, fleuve de Gozan, et dans les villes des Mèdes,",
+        "KJV": "And the king of Assyria did carry away Israel unto Assyria, and put them in Halah and in Habor [by] the river of Gozan, and in the cities of the Medes:",
+        "LSG": "Le roi d'Assyrie emmena Israël captif en Assyrie, et il les établit à Chalach, et sur le Chabor, fleuve de Gozan, et dans les villes des Mèdes,",
+        "MAB": "Et le Roi des Assyriens transporta les Israëlites en Assyrie, et les fit mener à Chalach, et sur le Chabor, fleuve de Gozan, et dans les villes des Mèdes;",
+        "OST": "Et le roi des Assyriens transporta les Israélites en Assyrie, et il les établit à Chalach et sur le Chabor, fleuve de Gozan, et dans les villes des Mèdes,",
+        "S21": "Le roi d'Assyrie exila les Israélites en Assyrie et il les conduisit à Chalach ainsi que sur les rives du Chabor, le fleuve de Gozan, et dans les villes des Mèdes."
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "Ces malheurs leur arrivèrent parce qu’ils n’avaient pas obéi aux ordres de l’Eternel, leur Dieu, parce qu’ils avaient été infidèles à son alliance en désobéissant à tout ce que Moïse, le serviteur de l’Eternel, leur avait ordonné, au lieu de l’écouter et de l’appliquer.",
+        "DBY": "parce qu'ils n'écoutèrent point la voix de l'Éternel, leur Dieu, et transgressèrent son alliance, tout ce que Moïse, serviteur de l'Éternel, avait commandé; et ils n'écoutèrent pas, et ne le firent pas.",
+        "KJV": "Because they obeyed not the voice of the LORD their God, but transgressed his covenant, [and] all that Moses the servant of the LORD commanded, and would not hear [them], nor do [them].",
+        "LSG": "parce qu'ils n'avaient point écouté la voix de l'Eternel, leur Dieu, et qu'ils avaient transgressé son alliance, parce qu'ils n'avaient ni écouté ni mis en pratique tout ce qu'avait ordonné Moïse, serviteur de l'Eternel.",
+        "MAB": "Parce qu'ils n'avaient point obéi à la voix de l'Eternel leur Dieu, mais avaient transgressé son alliance, [et] tout ce que Moïse serviteur de l'Eternel avait commandé; ils n'y avaient point obéi, et ne l'avaient point fait.",
+        "OST": "Parce qu'ils n'avaient point écouté la voix de l'Éternel leur Dieu, mais qu'ils avaient transgressé son alliance, et qu'ils n'avaient ni écouté ni fait rien de ce qu'avait ordonné Moïse, serviteur de l'Éternel.",
+        "S21": "Cela arriva parce qu'ils n'avaient pas écouté l'Eternel, leur Dieu, et qu'ils avaient violé son alliance, parce qu'ils n'avaient pas écouté ni mis en pratique tout ce qu'avait ordonné Moïse, le serviteur de l'Eternel."
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "La quatorzième année du règne d’Ezéchias, Sennachérib, roi d’Assyrie, vint attaquer toutes les villes fortifiées de Juda et s’en empara.",
+        "DBY": "Et la quatorzième année du roi Ézéchias, Sankhérib, roi d'Assyrie, monta contre toutes les villes fortes de Juda et les prit.",
+        "KJV": "Now in the fourteenth year of king Hezekiah did Sennacherib king of Assyria come up against all the fenced cities of Judah, and took them.",
+        "LSG": "La quatorzième année du roi Ezéchias, Sanchérib, roi d'Assyrie, monta contre toutes les villes fortes de Juda, et s'en empara.",
+        "MAB": "r en la quatorzième année du Roi Ezéchias, Sanchérib Roi des Assyriens monta contre toutes les villes fortes de Juda, et les prit.",
+        "OST": "Or, la quatorzième année du roi Ézéchias, Sanchérib, roi d'Assyrie, monta contre toutes les villes fortes de Juda, et les prit.",
+        "S21": "La quatorzième année du règne d’Ezéchias, Sanchérib, le roi d'Assyrie, monta contre toutes les villes fortifiées de Juda et s'empara d’elles."
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "Alors Ezéchias, roi de Juda, fit transmettre au roi d’Assyrie à Lakich le message suivant:\r\n—J’ai commis une faute, cesse de m’attaquer. J’accepte de payer le tribut que tu m’imposeras.\r\nLe roi d’Assyrie exigea d’Ezéchias dix tonnes d’argent et une tonne d’or.",
+        "DBY": "Et Ézéchias, roi de Juda, envoya au roi d'Assyrie à Lakis, disant: J'ai péché, retire-toi de moi; ce que tu m'imposeras, je le supporterai. Et le roi d'Assyrie imposa à Ézéchias, roi de Juda, trois cents talents d'argent, et trente talents d'or.",
+        "KJV": "And Hezekiah king of Judah sent to the king of Assyria to Lachish, saying, I have offended; return from me: that which thou puttest on me will I bear. And the king of Assyria appointed unto Hezekiah king of Judah three hundred talents of silver and thirty talents of gold.",
+        "LSG": "Ezéchias, roi de Juda, envoya dire au roi d'Assyrie à Lakis: J'ai commis une faute! Eloigne-toi de moi. Ce que tu m'imposeras, je le supporterai. Et le roi d'Assyrie imposa à Ezéchias, roi de Juda, trois cents talents d'argent et trente talents d'or.",
+        "MAB": "Et Ezéchias Roi de Juda envoya dire au Roi des Assyriens à Lakis : J'ai fait une faute, retire-toi de moi, je payerai tout ce que tu m'imposeras; et le Roi des Assyriens imposa trois cents talents d'argent, et trente talents d'or à Ezéchias Roi de Juda.",
+        "OST": "Alors Ézéchias, roi de Juda, envoya dire au roi des Assyriens, à Lakis: Je suis en faute. Retire-toi de moi; je supporterai ce que tu m'imposeras. Et le roi des Assyriens imposa trois cents talents d'argent et trente talents d'or à Ézéchias, roi de Juda.",
+        "S21": "Ezéchias, le roi de Juda, envoya dire au roi d'Assyrie à Lakis: «J'ai commis une faute! Eloigne-toi de moi. Ce que tu m'imposeras, je le supporterai.» Le roi d'Assyrie imposa à Ezéchias, le roi de Juda, un tribut de 9 tonnes d'argent et 900 kilos d'or."
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "Ezéchias lui fit donc porter tout l’argent qui se trouvait dans le Temple de l’Eternel et dans le trésor du palais royal.",
+        "DBY": "Et Ézéchias donna tout l'argent qui se trouva dans la maison de l'Éternel et dans les trésors de la maison du roi.",
+        "KJV": "And Hezekiah gave [him] all the silver that was found in the house of the LORD, and in the treasures of the king's house.",
+        "LSG": "Ezéchias donna tout l'argent qui se trouvait dans la maison de l'Eternel et dans les trésors de la maison du roi.",
+        "MAB": "Et Ezéchias donna tout l'argent qui se trouva dans la maison de l'Eternel, et dans les trésors de la maison Royale.",
+        "OST": "Et Ézéchias donna tout l'argent qui se trouva dans la maison de l'Éternel et dans les trésors de la maison royale.",
+        "S21": "Ezéchias donna tout l'argent qui se trouvait dans la maison de l'Eternel et dans les trésors du palais royal."
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "Il dut même arracher les plaques d’or dont il avait fait revêtir les portes et les linteaux du Temple de l’Eternel pour les donner au roi d’Assyrie.",
+        "DBY": "En ce temps-là, Ézéchias dépouilla les portes du temple de l'Éternel, et les piliers qu'Ézéchias, roi de Juda, avait recouverts d'or, et il les donna au roi d'Assyrie.",
+        "KJV": "At that time did Hezekiah cut off [the gold from] the doors of the temple of the LORD, and [from] the pillars which Hezekiah king of Judah had overlaid, and gave it to the king of Assyria.",
+        "LSG": "Ce fut alors qu'Ezéchias, roi de Juda, enleva, pour les livrer au roi d'Assyrie, les lames d'or dont il avait couvert les portes et les linteaux du temple de l'Eternel.",
+        "MAB": "En ce temps-là Ezéchias mit en pièces les portes du Temple de l'Eternel, et les linteaux que lui-même avait couverts [de lames d'or], et il les donna au Roi des Assyriens.",
+        "OST": "En ce temps-là, Ézéchias enleva l'or dont lui-même avait couvert les portes du temple de l'Éternel et ses linteaux, et le donna au roi d'Assyrie.",
+        "S21": "Ce fut alors qu'Ezéchias, le roi de Juda, enleva les lames d'or dont il avait couvert les portes et les linteaux du temple de l'Eternel pour les donner au roi d'Assyrie."
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "Le roi d’Assyrie envoya de Lakich à Jérusalem vers le roi Ezéchias son général en chef, son chef d’état-major et son aide de camp, accompagnés d’une puissante armée. Lorsque les trois officiers supérieurs furent arrivés en haut de la côte près de Jérusalem, ils prirent position près de l’aqueduc du réservoir supérieur qui est sur la route du champ du Teinturier.",
+        "DBY": "Et le roi d'Assyrie envoya de Lakis, le Tharthan, et le Rab-Saris, et le Rab-Shaké, avec de grandes forces, vers le roi Ézéchias à Jérusalem; et ils montèrent et vinrent à Jérusalem. Et ils montèrent et vinrent, et se tinrent près de l'aqueduc de l'étang supérieur, qui est sur la route du champ du foulon.",
+        "KJV": "And the king of Assyria sent Tartan and Rabsaris and Rabshakeh from Lachish to king Hezekiah with a great host against Jerusalem. And they went up and came to Jerusalem. And when they were come up, they came and stood by the conduit of the upper pool, which [is] in the highway of the fuller's field.",
+        "LSG": "Le roi d'Assyrie envoya de Lakis à Jérusalem, vers le roi Ezéchias, Tharthan, Rab-Saris et Rabschaké avec une puissante armée. Ils montèrent, et ils arrivèrent à Jérusalem. Lorsqu'ils furent montés et arrivés, ils s'arrêtèrent à l'aqueduc de l'étang supérieur, sur le chemin du champ du foulon.",
+        "MAB": "Puis le Roi des Assyriens envoya de Lakis, Tarta, Rab-saris, et Rab-saké, avec de grandes forces vers le Roi Ezéchias à Jérusalem; et ils montèrent et vinrent à Jérusalem. Or étant montés et venus ils se présentèrent auprès du conduit du haut étang, qui est au grand chemin du champ du foulon.",
+        "OST": "Mais le roi des Assyriens envoya, de Lakis, Tharthan, Rabsaris et Rabshaké, avec de grandes forces contre le roi Ézéchias, à Jérusalem. Ils montèrent et vinrent à Jérusalem; et, y étant arrivés, ils se présentèrent auprès de l'aqueduc du haut étang, qui est sur la route du champ du foulon.",
+        "S21": "Toutefois, le roi d'Assyrie envoya de Lakis à Jérusalem, vers le roi Ezéchias, Tharthan, Rab-Saris et Rabshaké avec une puissante armée. Ils montèrent et arrivèrent à Jérusalem. Une fois montés et arrivés, ils s'arrêtèrent à l'aqueduc du réservoir supérieur, sur le chemin du champ du teinturier."
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "Ils crièrent qu’ils voulaient parler au roi. Eliaqim, fils de Hilqiyahou, qui avait la charge du palais royal, Chebna, le secrétaire du roi et Yoah, fils d’Asaph, l’archiviste, sortirent de la ville à leur rencontre.",
+        "DBY": "Et ils appelèrent le roi. Et Éliakim, fils de Hilkija, qui était préposé sur la maison du roi, et Shebna, le scribe, et Joakh, fils d'Asaph, rédacteur des chroniques, sortirent vers eux.",
+        "KJV": "And when they had called to the king, there came out to them Eliakim the son of Hilkiah, which [was] over the household, and Shebna the scribe, and Joah the son of Asaph the recorder.",
+        "LSG": "Ils appelèrent le roi; et Eliakim, fils de Hilkija, chef de la maison du roi, se rendit auprès d'eux, avec Schebna, le secrétaire, et Joach, fils d'Asaph, l'archiviste.",
+        "MAB": "Et ils appelèrent le Roi tout haut. Alors Eliakim fils de Hilkija maître d'hôtel, et Sebna le Secrétaire, et Joach fils d'Asaph, commis sur les Registres, sortirent vers eux.",
+        "OST": "Et ils appelèrent le roi. Alors Eliakim, fils de Hilkija, préfet du palais, se rendit vers eux, avec Shebna, le secrétaire, et Joach, le chancelier, fils d'Asaph.",
+        "S21": "Ils appelèrent le roi. Le chef du palais royal, Eliakim, le fils de Hilkija, se rendit vers eux avec Shebna, le secrétaire, et l'archiviste Joach, fils d'Asaph."
+      }
+    },
+    {
+      "verse": 19,
+      "texts": {
+        "BDS": "L’aide de camp du roi d’Assyrie leur dit:\r\n—Transmettez ce message à Ezéchias: «Voici ce que déclare le grand roi, le roi d’Assyrie: En quoi mets-tu ta confiance?",
+        "DBY": "Et le Rab-Shaké leur dit: Dites à Ézéchias: Ainsi dit le grand roi, le roi d'Assyrie: Quelle est cette confiance que tu as?",
+        "KJV": "And Rabshakeh said unto them, Speak ye now to Hezekiah, Thus saith the great king, the king of Assyria, What confidence [is] this wherein thou trustest?",
+        "LSG": "Rabschaké leur dit: Dites à Ezéchias: Ainsi parle le grand roi, le roi d'Assyrie: Quelle est cette confiance, sur laquelle tu t'appuies?",
+        "MAB": "Et Rab-saké leur dit : Dites maintenant à Ezéchias : Ainsi a dit le grand Roi, le Roi des Assyriens : Quelle est cette confiance sur laquelle tu t'appuies?",
+        "OST": "Et Rabshaké leur dit: Dites, je vous prie, à Ézéchias: Ainsi dit le grand roi, le roi des Assyriens: Qu'est-ce que cette confiance sur laquelle tu t'appuies?",
+        "S21": "Rabshaké leur annonça: «Transmettez à Ezéchias: ‘Voici ce que dit le grand roi, le roi d'Assyrie: Sur quoi repose donc ta confiance?"
+      }
+    },
+    {
+      "verse": 20,
+      "texts": {
+        "BDS": "T’imaginerais-tu que de simples paroles peuvent tenir lieu de stratégie et de puissance militaire? Sur qui comptes-tu donc pour t’être révolté contre moi?",
+        "DBY": "Tu dis (ce ne sont que paroles des lèvres): Le conseil et la force sont là pour la guerre. Maintenant, en qui te confies-tu que tu te révoltes contre moi?",
+        "KJV": "Thou sayest, (but [they are but] vain words,) [I have] counsel and strength for the war. Now on whom dost thou trust, that thou rebellest against me?",
+        "LSG": "Tu as dit: Il faut pour la guerre de la prudence et de la force. Mais ce ne sont que des paroles en l'air. En qui donc as-tu placé ta confiance, pour t'être révolté contre moi?",
+        "MAB": "Tu parles, mais ce ne sont que des paroles; le conseil et la force sont requis à la guerre. Mais en qui t'es-tu confié, pour te rebeller contre moi?",
+        "OST": "Tu parles, mais ce ne sont que des paroles! Le conseil et la force sont requis à la guerre. Et maintenant, en qui t'es-tu confié, pour te révolter contre moi?",
+        "S21": "Tu as dit qu'il fallait pour la guerre de la prudence et de la force, mais ce ne sont que des paroles en l'air. En qui donc as-tu placé ta confiance pour oser te révolter contre moi?"
+      }
+    },
+    {
+      "verse": 21,
+      "texts": {
+        "BDS": "Je le vois: tu t’appuies sur l’Egypte, ce roseau cassé qui blesse et qui transperce la main de celui qui s’appuie dessus. Oui, c’est bien là ce qu’est le pharaon, le roi d’Egypte, pour tous ceux qui se confient en lui!",
+        "DBY": "Or voici, tu te confies en ce bâton de roseau cassé, en l'Égypte, lequel, si quelqu'un s'appuie dessus, lui entre dans la main et la perce. Tel est le Pharaon, roi d'Égypte, pour tous ceux qui se confient en lui.",
+        "KJV": "Now, behold, thou trustest upon the staff of this bruised reed, [even] upon Egypt, on which if a man lean, it will go into his hand, and pierce it: so [is] Pharaoh king of Egypt unto all that trust on him.",
+        "LSG": "Voici, tu l'as placée dans l'Egypte, tu as pris pour soutien ce roseau cassé, qui pénètre et perce la main de quiconque s'appuie dessus: tel est Pharaon, roi d'Egypte, pour tous ceux qui se confient en lui.",
+        "MAB": "Voici maintenant, tu t'es confié en l'Egypte, en ce roseau cassé, sur lequel si quelqu'un s'appuie, il lui entrera dans la main, et la percera; tel est Pharaon Roi d'Egypte à tous ceux qui se confient en lui.",
+        "OST": "Voici, tu te confies en l'Égypte, en ce bâton, ce roseau cassé, qui perce et traverse la main de celui qui s'y appuie. Tel est Pharaon, le roi d'Égypte, pour tous ceux qui se confient en lui.",
+        "S21": "Tu l'as placée dans l'Egypte, tu as pris pour soutien ce roseau cassé qui pénètre et transperce la main de celui qui s'appuie dessus! Voilà ce qu’est le pharaon, le roi d'Egypte, pour tous ceux qui se confient en lui.’"
+      }
+    },
+    {
+      "verse": 22,
+      "texts": {
+        "BDS": "Peut-être me direz-vous: C’est en l’Eternel, notre Dieu, que nous nous confions. Mais n’est-ce pas précisément ce Dieu dont Ezéchias a fait disparaître les hauts-lieux et les autels, en disant aux habitants de Juda et de Jérusalem de rendre leur culte uniquement devant l’autel qui se trouve à Jérusalem?",
+        "DBY": "Que si vous me dites: Nous nous confions en l'Éternel, notre Dieu,… n'est-ce pas lui dont Ézéchias a ôté les hauts lieux et les autels, en disant à Juda et à Jérusalem: Vous vous prosternerez devant cet autel-ci à Jérusalem?",
+        "KJV": "But if ye say unto me, We trust in the LORD our God: [is] not that he, whose high places and whose altars Hezekiah hath taken away, and hath said to Judah and Jerusalem, Ye shall worship before this altar in Jerusalem?",
+        "LSG": "Peut-être me direz-vous: C'est en l'Eternel, notre Dieu, que nous nous confions. Mais n'est-ce pas lui dont Ezéchias a fait disparaître les hauts lieux et les autels, en disant à Juda et à Jérusalem: Vous vous prosternerez devant cet autel à Jérusalem?",
+        "MAB": "Que si vous me dites : Nous nous confions en l'Eternel notre Dieu; n'[est]-ce pas celui dont Ezéchias a détruit les hauts lieux, et les autels, et a dit à Juda, et à Jérusalem : Vous vous prosternerez devant cet autel à Jérusalem?",
+        "OST": "Que si vous me dites: Nous nous confions en l'Éternel, notre Dieu; n'est-ce pas lui dont Ézéchias a ôté les hauts lieux et les autels, disant à Juda et à Jérusalem: Vous vous prosternerez à Jérusalem devant cet autel-ci?",
+        "S21": "Peut-être me direz-vous: ‘C'est en l'Eternel, notre Dieu, que nous plaçons notre confiance.’ Mais n'est-ce pas lui dont Ezéchias a fait disparaître les hauts lieux et les autels en disant à Juda et à Jérusalem: ‘Vous vous prosternerez devant cet autel à Jérusalem’?"
+      }
+    },
+    {
+      "verse": 23,
+      "texts": {
+        "BDS": "Je te lance aujourd’hui un défi au nom de mon souverain, le roi d’Assyrie: Je te donnerai deux mille chevaux, si toi tu es capable de fournir autant d’hommes pour les monter.",
+        "DBY": "Et maintenant, fais un accord, je te prie, avec le roi d'Assyrie, mon seigneur, et je te donnerai deux mille chevaux si tu peux donner des cavaliers pour les monter.",
+        "KJV": "Now therefore, I pray thee, give pledges to my lord the king of Assyria, and I will deliver thee two thousand horses, if thou be able on thy part to set riders upon them.",
+        "LSG": "Maintenant, fais une convention avec mon maître, le roi d'Assyrie, et je te donnerai deux mille chevaux, si tu peux fournir des cavaliers pour les monter.",
+        "MAB": "Or maintenant donne des otages au Roi des Assyriens mon Maître, et je te donnerai deux mille chevaux, si tu peux donner autant d'hommes pour monter dessus.",
+        "OST": "Et maintenant, fais un accord avec mon maître, le roi d'Assyrie; et je te donnerai deux mille chevaux, si tu peux fournir autant d'hommes pour les monter.",
+        "S21": "Maintenant, passe un accord avec mon seigneur, le roi d'Assyrie, et je te donnerai 2000 chevaux, si tu peux fournir des cavaliers pour les monter."
+      }
+    },
+    {
+      "verse": 24,
+      "texts": {
+        "BDS": "Comment t’y prendrais-tu pour repousser un seul de nos capitaines, même si c’était le moindre des serviteurs de mon maître? Comptes-tu sur l’Egypte pour te fournir des chars et des équipages de chars?",
+        "DBY": "Et comment ferais-tu tourner visage à un seul capitaine d'entre les moindres serviteurs de mon seigneur? Et tu mets ta confiance en l'Égypte, pour des chars et des cavaliers…",
+        "KJV": "How then wilt thou turn away the face of one captain of the least of my master's servants, and put thy trust on Egypt for chariots and for horsemen?",
+        "LSG": "Comment repousserais-tu un seul chef d'entre les moindres serviteurs de mon maître? Tu mets ta confiance dans l'Egypte pour les chars et pour les cavaliers.",
+        "MAB": "Comment donc ferais-tu tourner visage au moindre Gouverneur d'entre les serviteurs de mon Maître? mais tu te confies en l'Egypte, à cause des chariots et des gens de cheval.",
+        "OST": "Et comment ferais-tu tourner visage au moindre gouverneur d'entre les serviteurs de mon maître? Mais tu te confies en l'Égypte, pour trouver des chars et des cavaliers!",
+        "S21": "Comment pourrais-tu repousser un seul chef, même parmi les serviteurs les moins importants, de mon seigneur? Comment peux-tu mettre ta confiance dans l'Egypte pour les chars et pour les cavaliers?"
+      }
+    },
+    {
+      "verse": 25,
+      "texts": {
+        "BDS": "Crois-tu donc que c’est sans l’assentiment de l’Eternel que je suis venu en ce lieu pour le détruire? C’est l’Eternel qui m’a dit: Va attaquer ce pays et détruis-le!»",
+        "DBY": "Suis-je maintenant monté sans l'Éternel contre ce lieu pour le détruire? L'Éternel m'a dit: Monte contre ce pays, et détruis-le.",
+        "KJV": "Am I now come up without the LORD against this place to destroy it? The LORD said to me, Go up against this land, and destroy it.",
+        "LSG": "D'ailleurs, est-ce sans la volonté de l'Eternel que je suis monté contre ce lieu, pour le détruire? L'Eternel m'a dit: Monte contre ce pays, et détruis-le.",
+        "MAB": "Mais maintenant suis-je monté sans l'Eternel contre ce lieu-ci pour le détruire? l'Eternel m'a dit : Monte contre ce pays-là, et le détruis.",
+        "OST": "Maintenant, est-ce sans l'ordre de l'Éternel que je suis monté contre ce lieu-ci pour le ravager? C'est l'Éternel qui m'a dit: Monte contre ce pays, et ravage-le.",
+        "S21": "D'ailleurs, est-ce sans l’accord de l'Eternel que je suis monté contre cet endroit pour le détruire? L'Eternel m'a dit: ‘Monte contre ce pays et détruis-le!’»"
+      }
+    },
+    {
+      "verse": 26,
+      "texts": {
+        "BDS": "Alors Eliaqim, fils de Hilqiyahou, Chebna et Yoah dirent à l’aide de camp assyrien:\r\n—Voudrais-tu, s’il te plaît, parler à tes serviteurs en langue araméenne, car nous la comprenons. Ne nous parle pas en hébreu alors que les gens sont là, sur les remparts, à écouter!",
+        "DBY": "Et Éliakim, fils de Hilkija, et Shebna, et Joakh, dirent à Rab-Shaké: Parle, nous te prions, à tes serviteurs en syriaque, car nous le comprenons, et ne nous parle pas en langue judaïque, aux oreilles du peuple qui est sur la muraille.",
+        "KJV": "Then said Eliakim the son of Hilkiah, and Shebna, and Joah, unto Rabshakeh, Speak, I pray thee, to thy servants in the Syrian language; for we understand [it]: and talk not with us in the Jews' language in the ears of the people that [are] on the wall.",
+        "LSG": "Eliakim, fils de Hilkija, Schebna et Joach, dirent à Rabschaké: Parle à tes serviteurs en araméen, car nous le comprenons; et ne nous parle pas en langue judaïque, aux oreilles du peuple qui est sur la muraille.",
+        "MAB": "Alors Eliakim fils de Hilkija, et Sebna, et Joach dirent à Rab-saké : Nous te prions de parler en Langue Syriaque à tes serviteurs, car nous l'entendons; et ne nous parle point en Langue Judaïque, le peuple qui est sur la muraille l'écoutant.",
+        "OST": "Alors Eliakim, fils de Hilkija, avec Shebna et Joach, dirent à Rabshaké: Parle à tes serviteurs en langue araméenne, car nous l'entendons; et ne nous parle point en lanque judaïque, aux oreilles de ce peuple qui est sur la muraille.",
+        "S21": "Eliakim, fils de Hilkija, Shebna et Joach dirent à Rabshaké: «Parle à tes serviteurs en araméen, car nous comprenons cette langue, et ne nous parle pas en hébreu. En effet, le peuple qui se trouve sur la muraille entend tout.»"
+      }
+    },
+    {
+      "verse": 27,
+      "texts": {
+        "BDS": "Mais l’aide de camp leur répliqua:\r\n—Crois-tu que c’est à ton souverain et à toi seulement que mon souverain m’a chargé d’adresser ce message? Crois-tu que ce n’est pas aussi à ces gens assis sur les remparts, qui seront bientôt réduits avec vous à manger leurs excréments et à boire leur urine?",
+        "DBY": "Et le Rab-Shaké leur dit: Est-ce vers ton seigneur et vers toi que mon seigneur m'a envoyé pour dire ces paroles? N'est-ce pas vers les hommes qui se tiennent sur la muraille, pour manger leurs excréments et pour boire leur urine avec vous?",
+        "KJV": "But Rabshakeh said unto them, Hath my master sent me to thy master, and to thee, to speak these words? [hath he] not [sent me] to the men which sit on the wall, that they may eat their own dung, and drink their own piss with you?",
+        "LSG": "Rabschaké leur répondit: Est-ce à ton maître et à toi que mon maître m'a envoyé dire ces paroles? N'est-ce pas à ces hommes assis sur la muraille pour manger leurs excréments et pour boire leur urine avec vous?",
+        "MAB": "Et Rab-saké leur répondit : Mon Maître m'a-t-il envoyé vers ton Maître, ou vers toi, pour parler ce langage? [ne m'a-t-il pas envoyé] vers les hommes qui se tiennent sur la muraille; [pour leur dire] qu'ils mangeront leur propre fiente, et qu'ils boiront leur urine avec vous?",
+        "OST": "Mais Rabshaké leur dit: Est-ce vers ton maître, ou vers toi, que mon maître m'a envoyé pour dire ces paroles? N'est-ce pas vers les hommes qui se tiennent sur la muraille, pour dire qu'ils mangeront leurs excréments et boiront leur urine avec vous?",
+        "S21": "Rabshaké leur répondit: «Est-ce à ton seigneur et à toi que mon seigneur m'a envoyé dire ces paroles? N'est-ce pas à ces hommes assis sur la muraille pour manger leurs excréments et boire leur urine avec vous?»"
+      }
+    },
+    {
+      "verse": 28,
+      "texts": {
+        "BDS": "Puis l’aide de camp se campa là et se mit à crier d’une voix forte, en hébreu:\r\n—Ecoutez ce que dit le grand roi, le roi d’Assyrie!",
+        "DBY": "Et le Rab-Shaké se tint là, et cria à haute voix en langue judaïque, et parla, et dit: Écoutez la parole du grand roi, le roi d'Assyrie.",
+        "KJV": "Then Rabshakeh stood and cried with a loud voice in the Jews' language, and spake, saying, Hear the word of the great king, the king of Assyria:",
+        "LSG": "Alors Rabschaké, s'étant avancé, cria à haute voix en langue judaïque, et dit: Ecoutez la parole du grand roi, du roi d'Assyrie!",
+        "MAB": "Rab-saké donc se tint debout, et s'écria à haute voix en Langue Judaïque, et parla, et dit : Ecoutez la parole du grand Roi, le Roi des Assyriens.",
+        "OST": "Puis Rabshaké, se tenant debout, s'écria à haute voix en langue judaïque, et parla ainsi: Écoutez la parole du grand roi, du roi d'Assyrie!",
+        "S21": "Alors Rabshaké prit position et cria à pleine voix en hébreu: «Ecoutez la parole du grand roi, du roi d'Assyrie!"
+      }
+    },
+    {
+      "verse": 29,
+      "texts": {
+        "BDS": "Ainsi parle le roi: «Ne vous laissez pas tromper par Ezéchias! Car il ne peut pas vous délivrer!",
+        "DBY": "Ainsi dit le roi: Qu'Ézéchias ne vous trompe point; car il ne pourra pas vous délivrer de la main du roi.",
+        "KJV": "Thus saith the king, Let not Hezekiah deceive you: for he shall not be able to deliver you out of his hand:",
+        "LSG": "Ainsi parle le roi: Qu'Ezéchias ne vous abuse point, car il ne pourra vous délivrer de ma main.",
+        "MAB": "Ainsi a dit le Roi : Qu'Ezéchias ne vous abuse point; car il ne vous pourra point délivrer de ma main.",
+        "OST": "Ainsi dit le roi: Qu'Ézéchias ne vous abuse point; car il ne pourra vous délivrer de ma main.",
+        "S21": "Voici ce que dit le roi: ‘Qu'Ezéchias ne vous trompe pas! En effet, il ne pourra pas vous délivrer de ma domination.’"
+      }
+    },
+    {
+      "verse": 30,
+      "texts": {
+        "BDS": "Ne vous laissez pas persuader par Ezéchias de vous confier en l’Eternel, s’il vous dit: Sûrement l’Eternel nous délivrera, cette ville ne tombera pas aux mains du roi d’Assyrie.",
+        "DBY": "Et qu'Ézéchias ne vous fasse pas mettre votre confiance en l'Éternel, disant: L'Éternel vous délivrera certainement, et cette ville ne sera point livrée en la main du roi d'Assyrie.",
+        "KJV": "Neither let Hezekiah make you trust in the LORD, saying, The LORD will surely deliver us, and this city shall not be delivered into the hand of the king of Assyria.",
+        "LSG": "Qu'Ezéchias ne vous amène point à vous confier en l'Eternel, en disant: L'Eternel nous délivrera, et cette ville ne sera pas livrée entre les mains du roi d'Assyrie.",
+        "MAB": "Qu'Ezéchias ne vous fasse point confier en l'Eternel, en disant : L'Eternel indubitablement nous délivrera, et cette ville ne sera point livrée entre les mains du Roi des Assyriens.",
+        "OST": "Qu'Ézéchias ne vous fasse pas mettre votre confiance en l'Éternel, en disant: L'Éternel ne manquera pas de nous délivrer, et cette ville ne sera pas livrée aux mains du roi d'Assyrie.",
+        "S21": "Qu'Ezéchias ne vous amène pas à vous confier en l'Eternel en disant: ‘L'Eternel nous délivrera et cette ville ne sera pas livrée entre les mains du roi d'Assyrie.’"
+      }
+    },
+    {
+      "verse": 31,
+      "texts": {
+        "BDS": "N’écoutez pas Ezéchias; car voici ce que vous propose le roi d’Assyrie: Faites la paix avec moi, rendez-vous à moi! Alors chacun de vous mangera les fruits de sa vigne et de son figuier, et chacun boira de l’eau de son puits,",
+        "DBY": "N'écoutez pas Ézéchias; car ainsi dit le roi d'Assyrie: Faites la paix avec moi, et sortez vers moi; et vous mangerez chacun de sa vigne et chacun de son figuier, et vous boirez chacun des eaux de son puits,",
+        "KJV": "Hearken not to Hezekiah: for thus saith the king of Assyria, Make [an agreement] with me by a present, and come out to me, and [then] eat ye every man of his own vine, and every one of his fig tree, and drink ye every one the waters of his cistern:",
+        "LSG": "N'écoutez point Ezéchias; car ainsi parle le roi d'Assyrie: Faites la paix avec moi, rendez-vous à moi, et chacun de vous mangera de sa vigne et de son figuier, et chacun boira de l'eau de sa citerne,",
+        "MAB": "N'écoutez point Ezéchias; car ainsi a dit le Roi des Assyriens : Faites composition avec moi, et sortez vers moi; et vous mangerez chacun de sa vigne, et chacun de son figuier, et vous boirez chacun de l'eau de sa citerne;",
+        "OST": "N'écoutez point Ézéchias; car ainsi a dit le roi d'Assyrie: Faites la paix avec moi, et sortez vers moi; et vous mangerez chacun de sa vigne et chacun de son figuier, et vous boirez chacun de l'eau de sa citerne;",
+        "S21": "N'écoutez pas Ezéchias, car voici ce que dit le roi d'Assyrie: ‘Faites la paix avec moi, sortez de la ville vers moi, et chacun de vous mangera des fruits de sa vigne et de son figuier, chacun boira de l'eau de sa citerne."
+      }
+    },
+    {
+      "verse": 32,
+      "texts": {
+        "BDS": "en attendant que je vienne vous emmener dans un pays pareil au vôtre, un pays où il y a du blé et du vin, du pain et des vignes, des oliviers, de l’huile et du miel. Ainsi vous vivrez et vous ne mourrez pas. N’écoutez donc pas Ezéchias; il vous trompe en vous disant: L’Eternel nous délivrera.",
+        "DBY": "jusqu'à ce que je vienne et que je vous emmène dans un pays comme votre pays, un pays de blé et de moût, un pays de pain et de vignes, un pays d'oliviers à huile et de miel: et vous vivrez, et vous ne mourrez point. Et n'écoutez pas Ézéchias, car il vous séduit, disant: L'Éternel nous délivrera.",
+        "KJV": "Until I come and take you away to a land like your own land, a land of corn and wine, a land of bread and vineyards, a land of oil olive and of honey, that ye may live, and not die: and hearken not unto Hezekiah, when he persuadeth you, saying, The LORD will deliver us.",
+        "LSG": "jusqu'à ce que je vienne, et que je vous emmène dans un pays comme le vôtre, dans un pays de blé et de vin, un pays de pain et de vignes, un pays d'oliviers à huile et de miel, et vous vivrez et vous ne mourrez point. N'écoutez donc point Ezéchias; car il pourrait vous séduire en disant: L'Eternel nous délivrera.",
+        "MAB": "Avant que je vienne, et que je vous emmène en un pays qui est comme votre pays, un pays de froment et de bon vin, un pays de pain et de vignes, un pays d'oliviers qui portent de l'huile, et [un pays] de miel; vous vivrez, et vous ne mourrez point; mais n'écoutez point Ezéchias, quand il vous voudra persuader, en disant : L'Eternel nous délivrera.",
+        "OST": "Jusqu'à ce que je vienne, et que je vous emmène en un pays pareil au vôtre, un pays de froment et de vin, un pays de pain et de vignes, un pays d'oliviers à huile et de miel; et vous vivrez et ne mourrez point. N'écoutez pas Ézéchias, car il vous leurre, en disant: L'Éternel nous délivrera.",
+        "S21": "Ensuite, je viendrai vous emmener dans un pays pareil au vôtre, dans un pays de blé et de vin, un pays de pain et de vignes, un pays d'oliviers à huile et de miel, et vous vivrez, vous ne mourrez pas. N'écoutez donc pas Ezéchias, car il pourrait vous pousser dans une mauvaise direction en affirmant: L'Eternel nous délivrera."
+      }
+    },
+    {
+      "verse": 33,
+      "texts": {
+        "BDS": "Les dieux des autres nations ont-ils délivré leur pays du roi d’Assyrie?",
+        "DBY": "Les dieux des nations ont-ils bien délivré chacun son pays de la main du roi d'Assyrie?",
+        "KJV": "Hath any of the gods of the nations delivered at all his land out of the hand of the king of Assyria?",
+        "LSG": "Les dieux des nations ont-ils délivré chacun son pays de la main du roi d'Assyrie?",
+        "MAB": "Les dieux des nations ont-ils délivré chacun leur pays de la main du Roi des Assyriens?",
+        "OST": "Les dieux des nations ont-ils délivré chacun son pays de la main du roi d'Assyrie?",
+        "S21": "Les dieux des autres nations ont-ils délivré chacun son pays de la domination du roi d'Assyrie?"
+      }
+    },
+    {
+      "verse": 34,
+      "texts": {
+        "BDS": "Où sont les dieux de Hamath et d’Arpad? Où sont les dieux de Sepharvaïm, de Héna et d’Ivva? Ont-ils délivré Samarie?",
+        "DBY": "Où sont les dieux de Hamath et d'Arpad? Où sont les dieux de Sepharvaïm, d'Héna, et d'Ivva? Et ont-ils délivré Samarie de ma main?",
+        "KJV": "Where [are] the gods of Hamath, and of Arpad? where [are] the gods of Sepharvaim, Hena, and Ivah? have they delivered Samaria out of mine hand?",
+        "LSG": "Où sont les dieux de Hamath et d'Arpad? Où sont les dieux de Sepharvaïm, d'Héna et d'Ivva? Ont-ils délivré Samarie de ma main?",
+        "MAB": "Où sont les dieux de Hamath, et d'Arpad; où sont les dieux de Sépharvajim, d'Henah, et de Hiwah? [et] même a-t-on délivré Samarie de ma main?",
+        "OST": "Où sont les dieux de Hamath et d'Arpad? Où sont les dieux de Sépharvaïm, de Héna et d'Ivva? A-t-on même délivré Samarie de ma main?",
+        "S21": "Où sont les dieux de Hamath et d'Arpad? Où sont les dieux de Sepharvaïm, d'Héna et d'Ivva? Ont-ils délivré Samarie de ma domination?"
+      }
+    },
+    {
+      "verse": 35,
+      "texts": {
+        "BDS": "De tous les dieux de ces pays, quels sont ceux qui ont délivré leur pays pour que l’Eternel délivre Jérusalem?»",
+        "DBY": "Quels sont d'entre tous les dieux des pays ceux qui ont délivré leur pays de ma main, pour que l'Éternel délivre Jérusalem de ma main?",
+        "KJV": "Who [are] they among all the gods of the countries, that have delivered their country out of mine hand, that the LORD should deliver Jerusalem out of mine hand?",
+        "LSG": "Parmi tous les dieux de ces pays, quels sont ceux qui ont délivré leur pays de ma main, pour que l'Eternel délivre Jérusalem de ma main?",
+        "MAB": "Qui sont ceux d'entre tous les dieux de ces pays-là qui aient délivré leur pays de ma main, pour dire que l'Eternel délivrera Jérusalem de ma main?",
+        "OST": "De tous les dieux de ces pays-là, lesquels ont délivré leur pays de ma main, pour que l'Éternel délivre Jérusalem de ma main?",
+        "S21": "Parmi tous les dieux de ces pays, quels sont ceux qui ont délivré leur pays de ma domination, pour que l'Eternel puisse en délivrer Jérusalem?’»"
+      }
+    },
+    {
+      "verse": 36,
+      "texts": {
+        "BDS": "Le peuple garda le silence et ne lui répondit pas un mot, car le roi avait donné cet ordre: Vous ne lui répondrez pas.",
+        "DBY": "Et le peuple se tut, et ne lui répondit pas un mot; car c'était là le commandement du roi, disant: Vous ne lui répondrez pas.",
+        "KJV": "But the people held their peace, and answered him not a word: for the king's commandment was, saying, Answer him not.",
+        "LSG": "Le peuple se tut, et ne lui répondit pas un mot; car le roi avait donné cet ordre: Vous ne lui répondrez pas.",
+        "MAB": "Et le peuple se tut, et on ne lui répondit pas un mot; car le Roi avait commandé disant : Vous ne lui répondrez point.",
+        "OST": "Mais le peuple se tut et ne lui répondit pas un mot. Car le roi l'avait ainsi ordonné, en disant: Vous ne lui répondrez pas.",
+        "S21": "Le peuple garda le silence, il ne lui répondit pas un mot, car le roi avait donné cet ordre: «Vous ne lui répondrez pas.»"
+      }
+    },
+    {
+      "verse": 37,
+      "texts": {
+        "BDS": "Alors Eliaqim, fils de Hilqiyahou, qui avait la charge du palais, Chebna, le secrétaire et Yoah, fils d’Asaph, l’archiviste, retournèrent auprès d’Ezéchias, les vêtements déchirés, et lui rapportèrent les paroles de l’aide de camp.",
+        "DBY": "Et Éliakim, fils de Hilkija, qui était préposé sur la maison, et Shebna, le scribe, et Joakh, fils d'Asaph, rédacteur des chroniques, vinrent vers Ézéchias, leurs vêtements déchirés, et ils lui rapportèrent les paroles du Rab-Shaké.",
+        "KJV": "Then came Eliakim the son of Hilkiah, which [was] over the household, and Shebna the scribe, and Joah the son of Asaph the recorder, to Hezekiah with [their] clothes rent, and told him the words of Rabshakeh.",
+        "LSG": "Et Eliakim, fils de Hilkija, chef de la maison du roi, Schebna, le secrétaire, et Joach, fils d'Asaph, l'archiviste, vinrent auprès d'Ezéchias, les vêtements déchirés, et lui rapportèrent les paroles de Rabschaké.",
+        "MAB": "Après cela, Eliakim fils de Hilkija Maître d'hôtel, et Sebna le Secrétaire, et Joach fils d'Asaph, commis sur les Registres, s'en revinrent, les vêtements déchirés, vers Ezéchias, et ils lui rapportèrent les paroles de Rab-saké.",
+        "OST": "Et Éliakim, fils de Hilkija, préfet du palais, Shebna, le secrétaire, et Joach, fils d'Asaph, le chancelier, revinrent vers Ézéchias, leurs vêtements déchirés, et lui rapportèrent les paroles de Rabshaké.",
+        "S21": "Le chef du palais royal, Eliakim, fils de Hilkija, Shebna, le secrétaire, et l'archiviste Joach, fils d'Asaph, vinrent trouver Ezéchias, les habits déchirés, et lui rapportèrent les paroles de Rabshaké."
+      }
+    }
+  ]
+}

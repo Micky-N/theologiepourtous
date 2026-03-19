@@ -1,22 +1,27 @@
-import { prisma } from '~~/lib/prisma';
+import { readFile } from 'node:fs/promises';
+
+type BibleVersionRecord = {
+    code: string;
+    name: string;
+    language: string;
+    year: number | null;
+    isActive: boolean;
+    orderIndex: number;
+};
 
 export default defineEventHandler(async () => {
     try {
-        const versions = await prisma.bibleVersion.findMany({
-            where: {
-                isActive: true
-            },
-            orderBy: {
-                orderIndex: 'asc'
-            },
-            select: {
-                id: true,
-                code: true,
-                name: true,
-                language: true,
-                year: true
-            }
-        });
+        const fileContent = await readFile(new URL('../../data/versions.json', import.meta.url), 'utf-8');
+        const versions = (JSON.parse(fileContent) as BibleVersionRecord[])
+            .filter(version => version.isActive)
+            .sort((left, right) => left.orderIndex - right.orderIndex)
+            .map(version => ({
+                id: version.orderIndex,
+                code: version.code,
+                name: version.name,
+                language: version.language,
+                year: version.year
+            }));
 
         return {
             success: true,

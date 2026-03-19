@@ -1,0 +1,474 @@
+{
+  "bookCode": "2SA",
+  "chapter": 13,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "Absalom, un fils de David, avait une sœur qui était très belle et qui se nommait Tamar. Amnôn, un autre fils du roi David, en tomba passionnément amoureux.",
+        "DBY": "Et après cela, Absalom, fils de David, ayant une sœur, nommée Tamar, qui était belle, il arriva qu'Amnon, fils de David, l'aima.",
+        "KJV": "And it came to pass after this, that Absalom the son of David had a fair sister, whose name [was] Tamar; and Amnon the son of David loved her.",
+        "LSG": "Après cela, voici ce qui arriva. Absalom, fils de David, avait une soeur qui était belle et qui s'appelait Tamar; et Amnon, fils de David, l'aima.",
+        "MAB": "Or il arriva après cela qu'Absalom, fils de David, ayant une sœur qui était belle, et qui se nommait Tamar, Amnon fils de David, l'aima.",
+        "OST": "Après cela il arriva qu'Absalom, fils de David, ayant une sœur qui était belle et qui se nommait Tamar, Amnon, fils de David, l'aima.",
+        "S21": "Après cela, voici ce qui arriva. Absalom, le fils de David, avait une sœur qui était belle et qui s'appelait Tamar. Or Amnon, le fils de David, tomba amoureux d’elle."
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "Il se rongeait tant à propos de sa demi-sœur qu’il s’en rendait malade, car elle était vierge et il lui semblait impossible de l’approcher.",
+        "DBY": "Et Amnon fut tourmenté jusqu'à en tomber malade, à cause de Tamar, sa sœur; car elle était vierge, et il était trop difficile aux yeux d'Ammon de lui faire quoi que ce fût.",
+        "KJV": "And Amnon was so vexed, that he fell sick for his sister Tamar; for she [was] a virgin; and Amnon thought it hard for him to do any thing to her.",
+        "LSG": "Amnon était tourmenté jusqu'à se rendre malade à cause de Tamar, sa soeur; car elle était vierge, et il paraissait difficile à Amnon de faire sur elle la moindre tentative.",
+        "MAB": "Et il fut si tourmenté de [cette passion], qu'il tomba malade pour l'amour de Tamar sa sœur, car elle était vierge; et parce qu'il semblait trop difficile à Amnon de rien obtenir d'elle.",
+        "OST": "Et Amnon était tourmenté jusqu'à se rendre malade, à cause de Tamar, sa sœur; car elle était vierge, et il semblait trop difficile à Amnon de rien obtenir d'elle.",
+        "S21": "Amnon était anxieux jusqu'à se rendre malade à cause de sa sœur Tamar. En effet, elle était vierge et il lui paraissait difficile de faire la moindre tentative auprès d’elle."
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "Amnôn avait un ami nommé Yehonadab, un fils de Chimea, le frère de David. C’était un homme très astucieux.",
+        "DBY": "Et Amnon avait un ami, nommé Jonadab, fils de Shimha, frère de David; et Jonadab était un homme très-habile.",
+        "KJV": "But Amnon had a friend, whose name [was] Jonadab, the son of Shimeah David's brother: and Jonadab [was] a very subtil man.",
+        "LSG": "Amnon avait un ami, nommé Jonadab, fils de Schimea, frère de David, et Jonadab était un homme très habile.",
+        "MAB": "Or Amnon avait un intime ami nommé Jonadab, fils de Simha frère de David; et Jonadab était un homme fort rusé.",
+        "OST": "Or Amnon avait un ami nommé Jonadab, fils de Shimea, frère de David; et Jonadab était un homme fort adroit.",
+        "S21": "Amnon avait un ami du nom de Jonadab. C’était un fils de Shimea, le frère de David, et un homme très rusé."
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "Il demanda à Amnôn:\r\n—Fils du roi, pourquoi es-tu si déprimé? Chaque matin tu parais l’être davantage. Ne veux-tu pas m’en dire la cause?\r\nAmnôn lui répondit:\r\n—Je suis amoureux de Tamar, la sœur de mon frère Absalom.",
+        "DBY": "Et il lui dit: Pourquoi maigris-tu ainsi d'un matin à l'autre, toi, fils du roi? Ne me le déclareras-tu pas? Et Amnon lui dit: J'aime Tamar, sœur d'Absalom mon frère.",
+        "KJV": "And he said unto him, Why [art] thou, [being] the king's son, lean from day to day? wilt thou not tell me? And Amnon said unto him, I love Tamar, my brother Absalom's sister.",
+        "LSG": "Il lui dit: Pourquoi deviens-tu, ainsi chaque matin plus maigre, toi, fils de roi? Ne veux-tu pas me le dire? Amnon lui répondit: J'aime Tamar, soeur d'Absalom, mon frère.",
+        "MAB": "Et il dit à [Amnon] : Fils du Roi, pourquoi [deviens-tu] ainsi exténué de jour en jour? ne me le déclareras-tu pas? Amnon lui dit : J'aime Tamar sœur de mon frère Absalom.",
+        "OST": "Et il lui dit: Fils du roi, pourquoi dépéris-tu ainsi de jour en jour? Ne me le déclareras-tu pas? Amnon lui dit: J'aime Tamar, la sœur de mon frère Absalom.",
+        "S21": "Il lui demanda: «Pourquoi deviens-tu donc chaque matin plus abattu, toi qui es un fils de roi? Ne veux-tu pas me le dire?» Amnon lui répondit: «J'aime Tamar, la sœur de mon frère Absalom.»"
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "Yehonadab lui dit alors:\r\n—Mets-toi au lit et fais comme si tu étais malade. Quand ton père viendra te voir, dis-lui: «Permets à ma sœur Tamar de venir me faire à manger, qu’elle prépare le repas sous mes yeux afin que je la voie faire, puis je mangerai de sa main.»",
+        "DBY": "Et Jonadab lui dit: Couche-toi sur ton lit et fais le malade; et ton père viendra te voir, et tu lui diras: Je te prie, que Tamar, ma sœur, vienne et qu'elle me donne à manger du pain, et qu'elle apprête devant mes yeux un mets, afin que je la voie, et que je le mange de sa main.",
+        "KJV": "And Jonadab said unto him, Lay thee down on thy bed, and make thyself sick: and when thy father cometh to see thee, say unto him, I pray thee, let my sister Tamar come, and give me meat, and dress the meat in my sight, that I may see [it], and eat [it] at her hand.",
+        "LSG": "Jonadab lui dit: Mets-toi au lit, et fais le malade. Quand ton père viendra te voir, tu lui diras: Permets à Tamar, ma soeur, de venir pour me donner à manger; qu'elle prépare un mets sous mes yeux, afin que je le voie et que je le prenne de sa main.",
+        "MAB": "Alors Jonadab lui dit : Couche-toi dans ton lit, et fais le malade; et quand ton père te viendra voir, tu lui diras : Je te prie que ma sœur Tamar vienne, afin qu'elle me fasse manger, en apprêtant devant moi quelque chose d'appétit, [et] que voyant ce qu'elle aura apprêté, je le mange de sa main.",
+        "OST": "Et Jonadab lui dit: Couche-toi sur ton lit, et fais le malade; et quand ton père viendra te voir, tu lui diras: Je te prie, que ma sœur Tamar vienne, et qu'elle me donne à manger; qu'elle apprête devant moi quelque mets, afin que je le voie, et que je le mange de sa main.",
+        "S21": "Jonadab lui dit: «Mets-toi au lit et fais le malade. Quand ton père viendra te voir, tu lui diras: ‘Permets à ma sœur Tamar de venir me donner à manger. Qu'elle prépare un plat sous mes yeux, afin que je le voie, et qu’elle me serve elle-même à manger.’»"
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "Amnôn se mit donc au lit et fit semblant d’être malade. Le roi vint le voir et Amnôn lui dit:\r\n—Fais venir ma sœur Tamar pour qu’elle me prépare deux galettes sous mes yeux, et je les mangerai de sa main.",
+        "DBY": "Et Amnon se coucha et fit le malade; et le roi vint le voir, et Amnon dit au roi: Je te prie, que Tamar, ma sœur, vienne et prépare sous mes yeux deux beignets, et que je les mange de sa main.",
+        "KJV": "So Amnon lay down, and made himself sick: and when the king was come to see him, Amnon said unto the king, I pray thee, let Tamar my sister come, and make me a couple of cakes in my sight, that I may eat at her hand.",
+        "LSG": "Amnon se coucha, et fit le malade. Le roi vint le voir, et Amnon dit au roi: Je te prie, que Tamar, ma soeur, vienne faire deux gâteaux sous mes yeux, et que je les mange de sa main.",
+        "MAB": "Amnon donc se coucha, et fit le malade; et quand le Roi le vint voir, il lui dit : Je te prie que ma sœur Tamar vienne et fasse deux beignets devant moi, et que je les mange de sa main.",
+        "OST": "Amnon se coucha donc et fit le malade; et le roi vint le voir, et Amnon dit au roi: Je te prie, que ma sœur Tamar vienne et fasse deux gâteaux devant moi, et que je les mange de sa main.",
+        "S21": "Amnon se coucha et fit le malade. Le roi vint le voir et Amnon lui dit: «Que ma sœur Tamar vienne donc faire deux gâteaux sous mes yeux et qu’elle me les serve elle-même.»"
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "David envoya dire à Tamar dans son appartement:\r\n—Va chez ton frère Amnôn et prépare-lui son repas.",
+        "DBY": "Et David envoya vers Tamar dans la maison, disant: Va, je te prie, dans la maison d'Ammon, ton frère, et apprête-lui un mets.",
+        "KJV": "Then David sent home to Tamar, saying, Go now to thy brother Amnon's house, and dress him meat.",
+        "LSG": "David envoya dire à Tamar dans l'intérieur des appartements: Va dans la maison d'Amnon, ton frère, et prépare-lui un mets.",
+        "MAB": "David donc envoya vers Tamar en la maison [et lui fit dire] : Va-t'en maintenant en la maison de ton frère Amnon, et apprête-lui quelque chose d'appétit.",
+        "OST": "Et David envoya dire à Tamar dans la maison: Va dans la maison de ton frère Amnon, et apprête-lui quelque chose à manger.",
+        "S21": "David fit dire à Tamar dans ses appartements: «Va donc chez ton frère Amnon et prépare-lui un plat.»"
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "Tamar se rendit donc chez son frère Amnôn et le trouva couché. Elle prépara de la pâte et la pétrit, puis confectionna des galettes devant lui et les fit cuire.",
+        "DBY": "Et Tamar alla dans la maison d'Ammon, son frère, et il était couché; et elle prit de la pâte et la pétrit, et prépara sous ses yeux des beignets, et elle cuisit les beignets.",
+        "KJV": "So Tamar went to her brother Amnon's house; and he was laid down. And she took flour, and kneaded [it], and made cakes in his sight, and did bake the cakes.",
+        "LSG": "Tamar alla dans la maison d'Amnon, son frère, qui était couché. Elle prit de la pâte, la pétrit, prépara devant lui des gâteaux, et les fit cuire;",
+        "MAB": "Et Tamar s'en alla en la maison de son frère Amnon, qui était couché; et elle prit de la pâte, et la pétrit, et en fit devant lui des beignets, et les cuisit.",
+        "OST": "Et Tamar s'en alla dans la maison d'Amnon, son frère, qui était couché. Et elle prit de la pâte, et la pétrit, et elle en fit devant lui des gâteaux, et les fit cuire.",
+        "S21": "Tamar alla chez son frère Amnon, qui était couché. Elle prit de la pâte, la pétrit, prépara des gâteaux devant lui et les fit cuire."
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "Ensuite elle prit la poêle et lui en servit le contenu devant lui, mais il refusa d’en manger et dit:\r\n—Faites sortir tout le monde d’ici.\r\nTous se retirèrent.",
+        "DBY": "Et elle prit la poêle et les versa devant lui; et il refusa de manger. Et Amnon dit: Faites sortir tout homme d'auprès de moi. Et tout homme sortit d'auprès de lui.",
+        "KJV": "And she took a pan, and poured [them] out before him; but he refused to eat. And Amnon said, Have out all men from me. And they went out every man from him.",
+        "LSG": "prenant ensuite la poêle, elle les versa devant lui. Mais Amnon refusa de manger. Il dit: Faites sortir tout le monde. Et tout le monde sortit de chez lui.",
+        "MAB": "Puis elle prit la poêle, et les versa devant lui, mais Amnon refusa d'en manger; et dit : Faites retirer tous ceux qui sont auprès de moi : et chacun se retira.",
+        "OST": "Puis elle prit la poêle et les versa devant lui; mais Amnon refusa d'en manger, et il dit: Faites retirer tous ceux qui sont auprès de moi. Et chacun se retira.",
+        "S21": "Elle prit ensuite la poêle et les déposa devant lui, mais Amnon refusa de manger. Il ordonna de faire sortir tout le monde, et tout le monde sortit de chez lui."
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "Alors il demanda à Tamar:\r\n—Apporte-moi ces galettes dans ma chambre pour que je les mange de ta main.\r\nTamar prit les galettes qu’elle avait faites et les apporta à son frère Amnôn dans sa chambre.",
+        "DBY": "Et Amnon dit à Tamar: Apporte le mets dans la chambre intérieure, et je mangerai de ta main. Et Tamar prit les beignets qu'elle avait préparés, et les apporta à Ammon, son frère, dans la chambre.",
+        "KJV": "And Amnon said unto Tamar, Bring the meat into the chamber, that I may eat of thine hand. And Tamar took the cakes which she had made, and brought [them] into the chamber to Amnon her brother.",
+        "LSG": "Alors Amnon dit à Tamar: Apporte le mets dans la chambre, et que je le mange de ta main. Tamar prit les gâteaux qu'elle avait faits, et les porta à Amnon, son frère, dans la chambre.",
+        "MAB": "Alors Amnon dit à Tamar : Apporte-moi cette viande dans le cabinet, et que j'en mange de ta main. Et Tamar prit les beignets qu'elle avait faits, et les apporta à Amnon son frère dans le cabinet.",
+        "OST": "Alors Amnon dit à Tamar: Apporte-moi dans la chambre ce que tu m'as apprêté, et que j'en mange de ta main. Et Tamar prit les gâteaux qu'elle avait faits, et les apporta à Amnon, son frère, dans la chambre.",
+        "S21": "Alors Amnon dit à Tamar: «Apporte le plat dans la chambre et sers-moi.» Tamar prit les gâteaux qu'elle avait faits et les porta à son frère Amnon dans la chambre."
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "Au moment où elle les lui présentait, il l’empoigna et lui dit:\r\n—Viens, couche avec moi, ma sœur!",
+        "DBY": "Et elle les lui présenta à manger; et il la saisit, et lui dit: Viens, couche avec moi, ma sœur.",
+        "KJV": "And when she had brought [them] unto him to eat, he took hold of her, and said unto her, Come lie with me, my sister.",
+        "LSG": "Comme elle les lui présentait à manger, il la saisit et lui dit: Viens, couche avec moi, ma soeur.",
+        "MAB": "Et elle les lui présenta, afin qu'il en mangeât; mais il se saisit d'elle et lui dit : Viens, couche avec moi, ma sœur.",
+        "OST": "Et elle les lui présenta afin qu'il en mangeât; mais il se saisit d'elle et lui dit: Viens, couche avec moi, ma sœur.",
+        "S21": "Comme elle les lui présentait à manger, il l’attrapa et lui dit: «Viens, couche avec moi, ma sœur.»"
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "Mais elle s’écria:\r\n—Non, mon frère, ne me fais pas violence! Cela ne se fait pas en Israël. Ne commets pas une telle infamie!",
+        "DBY": "Et elle lui dit: Non, mon frère, ne m'humilie pas; car on ne fait point ainsi en Israël: ne fais pas cette infamie.",
+        "KJV": "And she answered him, Nay, my brother, do not force me; for no such thing ought to be done in Israel: do not thou this folly.",
+        "LSG": "Elle lui répondit: Non, mon frère, ne me déshonore pas, car on n'agit point ainsi en Israël; ne commets pas cette infamie.",
+        "MAB": "Et elle lui répondit : Non, mon frère, ne me viole point; car cela ne se fait point en Israël; ne fais point cette infamie.",
+        "OST": "Et elle lui répondit: Non, mon frère, ne me fais pas violence, car cela ne se fait point en Israël; ne commets pas cette infamie.",
+        "S21": "Elle lui répondit: «Non, mon frère, ne me déshonore pas, car on n'agit pas de cette manière en Israël. Ne commets pas cet acte odieux!"
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "Après cela, où irais-je porter ma honte? Et toi, tu serais considéré comme un individu méprisable dans notre peuple. Pourquoi ne parles-tu pas au roi? Il ne refusera pas de me donner à toi.",
+        "DBY": "Et moi, où porterais-je ma honte? Et toi, tu serais comme l'un des infâmes en Israël. Et maintenant, parle au roi, je te prie, car il ne me refusera point à toi.",
+        "KJV": "And I, whither shall I cause my shame to go? and as for thee, thou shalt be as one of the fools in Israel. Now therefore, I pray thee, speak unto the king; for he will not withhold me from thee.",
+        "LSG": "Où irais-je, moi, avec ma honte? Et toi, tu serais comme l'un des infâmes en Israël. Maintenant, je te prie, parle au roi, et il ne s'opposera pas à ce que je sois à toi.",
+        "MAB": "Et moi, que deviendrais-je avec mon opprobre? et toi, tu passerais pour un insensé en Israël. Maintenant donc parles-en, je te prie, au Roi, et il n'empêchera point que tu ne m'aies pour femme.",
+        "OST": "Et moi, où irais-je porter mon opprobre? Et toi, tu serais comme l'un des infâmes, en Israël. Maintenant donc, parles-en, je te prie, au roi, et il n'empêchera point que tu ne m'aies pour femme.",
+        "S21": "Où irais-je, moi, traîner ma honte? Et toi, tu serais comme l'un des plus ignobles en Israël. Maintenant, parle donc au roi et il ne m’empêchera pas d’être à toi.»"
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "Mais il ne voulut rien entendre, et comme il était plus fort qu’elle, il lui fit violence et coucha avec elle.",
+        "DBY": "Et il ne voulut pas écouter sa voix, et il fut plus fort qu'elle et l'humilia et coucha avec elle.",
+        "KJV": "Howbeit he would not hearken unto her voice: but, being stronger than she, forced her, and lay with her.",
+        "LSG": "Mais il ne voulut pas l'écouter; il lui fit violence, la déshonora et coucha avec elle.",
+        "MAB": "Mais il ne voulut point l'écouter; et il fut plus fort qu'elle, et la viola, et coucha avec elle.",
+        "OST": "Mais il ne voulut point l'écouter, et il fut plus fort qu'elle; il lui fit violence et coucha avec elle.",
+        "S21": "Mais il ne voulut pas l'écouter. Il se montra plus fort qu’elle et il la viola, il coucha avec elle."
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "Après cela, il conçut pour elle une forte aversion, plus violente que la passion qu’il avait éprouvée pour elle. Tout à coup, il lui ordonna:\r\n—Lève-toi, va-t’en!",
+        "DBY": "Et Amnon la haït d'une très-grande haine, car la haine dont il la haït était plus grande que l'amour dont il l'avait aimée. Et Amnon lui dit: Lève-toi, va-t'en.",
+        "KJV": "Then Amnon hated her exceedingly; so that the hatred wherewith he hated her [was] greater than the love wherewith he had loved her. And Amnon said unto her, Arise, be gone.",
+        "LSG": "Puis Amnon eut pour elle une forte aversion, plus forte que n'avait été son amour. Et il lui dit: Lève-toi, va-t'en!",
+        "MAB": "Après cela, Amnon la haït d'une grande haine, en sorte que la haine qu'il lui portait, était plus grande que l'amour qu'il avait eu pour elle; ainsi Amnon lui dit : Lève-toi, va-t'en.",
+        "OST": "Puis Amnon eut pour elle une très grande haine; et la haine qu'il lui porta fut plus grande que l'amour qu'il avait eu pour elle. Ainsi Amnon lui dit: Lève-toi, va-t'en!",
+        "S21": "Puis Amnon éprouva de la haine envers elle, une haine plus forte encore que ne l'avait été son amour, et il lui dit: «Lève-toi, va-t'en!»"
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "—Non, lui dit-elle, en me chassant, tu commettrais un crime encore pire que le mal que tu m’as déjà fait.\r\nMais il ne voulut pas l’écouter.",
+        "DBY": "Et elle lui dit: Il n'y a pas de raison pour cela; ce tort de me chasser est plus grand que l'autre que tu m'as fait. Mais il ne voulut pas l'écouter.",
+        "KJV": "And she said unto him, [There is] no cause: this evil in sending me away [is] greater than the other that thou didst unto me. But he would not hearken unto her.",
+        "LSG": "Elle lui répondit: N'augmente pas, en me chassant, le mal que tu m'as déjà fait. Il ne voulut pas l'écouter,",
+        "MAB": "Et elle lui répondit : Tu n'as aucun sujet de me faire ce mal, que de me chasser; [ce mal] est plus grand que l'autre que tu m'as fait; mais il ne voulut point l'écouter.",
+        "OST": "Et elle lui dit: Ne me fais pas ce mal-là, plus grand que l'autre que tu m'as fait, de me chasser! Mais il ne voulut pas l'écouter;",
+        "S21": "Elle lui répondit: «Non! N'augmente pas, en me chassant, le mal que tu m'as déjà fait.»"
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "Il appela le domestique qui était à son service et lui ordonna:\r\n—Débarrassez-moi de cette fille! Jetez-la dehors et verrouillez la porte derrière elle!",
+        "DBY": "Et il appela son jeune homme qui le servait, et dit: Chassez donc cette femme dehors, de devant moi; et ferme la porte au verrou après elle.",
+        "KJV": "Then he called his servant that ministered unto him, and said, Put now this [woman] out from me, and bolt the door after her.",
+        "LSG": "et appelant le garçon qui le servait, il dit: Qu'on éloigne de moi cette femme et qu'on la mette dehors. Et ferme la porte après elle!",
+        "MAB": "Il appela donc le garçon qui le servait, et lui dit : Qu'on chasse maintenant celle-ci d'auprès de moi, [qu'on la mette] dehors, et qu'on ferme la porte après elle.",
+        "OST": "Et, appelant le valet qui le servait, il dit: Qu'on chasse cette femme loin de moi, qu'on la mette dehors, et ferme la porte après elle!",
+        "S21": "Il refusa de l'écouter. Appelant le garçon qui était à son service, il dit: «Qu’on fasse partir cette femme de chez moi, qu'on la mette dehors! Et ferme la porte derrière elle!»"
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "Elle portait jusque là une longue robe multicolore, car c’était autrefois la tenue des princesses aussi longtemps qu’elles étaient vierges. Le domestique la mit dehors et verrouilla la porte derrière elle.",
+        "DBY": "Et elle avait sur elle une tunique bigarrée; car les filles du roi qui étaient vierges étaient ainsi habillées de robes. Et celui qui le servait la mit dehors, et ferma la porte après elle.",
+        "KJV": "And [she had] a garment of divers colours upon her: for with such robes were the king's daughters [that were] virgins apparelled. Then his servant brought her out, and bolted the door after her.",
+        "LSG": "Elle avait une tunique de plusieurs couleurs; car c'était le vêtement que portaient les filles du roi, aussi longtemps qu'elles étaient vierges. Le serviteur d'Amnon la mit dehors, et ferma la porte après elle.",
+        "MAB": "Or elle était habillée d'une robe bigarrée; car les filles du Roi, qui étaient [encore] vierges, étaient ainsi habillées. Celui donc qui le servait la mit dehors, et ferma la porte après elle.",
+        "OST": "Or elle était vêtue d'une robe bigarrée, car les filles vierges du roi étaient ainsi habillées. Celui qui servait Amnon la fit donc sortir, et ferma la porte après elle.",
+        "S21": "Elle portait une robe de plusieurs couleurs. C'était en effet la tenue que portaient les filles du roi aussi longtemps qu'elles étaient vierges. Le serviteur d'Amnon la fit sortir et ferma la porte derrière elle."
+      }
+    },
+    {
+      "verse": 19,
+      "texts": {
+        "BDS": "Alors Tamar répandit de la cendre sur sa tête, elle déchira sa longue robe, se prit à deux mains la tête, puis elle partit en poussant des cris.",
+        "DBY": "Et Tamar prit de la poussière et la mit sur sa tête, et déchira la tunique bigarrée qu'elle avait sur elle, et elle mit sa main sur sa tête, et s'en alla, marchant et criant.",
+        "KJV": "And Tamar put ashes on her head, and rent her garment of divers colours that [was] on her, and laid her hand on her head, and went on crying.",
+        "LSG": "Tamar répandit de la cendre sur sa tête, et déchira sa tunique bigarrée; elle mit la main sur sa tête, et s'en alla en poussant des cris.",
+        "MAB": "Alors Tamar prit de la cendre sur sa tête, et déchira la robe bigarrée qu'elle avait sur elle, et mit la main sur sa tête, et s'en allait en criant.",
+        "OST": "Alors Tamar prit de la cendre sur sa tête, et déchira la robe bigarrée qu'elle avait sur elle; elle mit la main sur sa tête, et elle s'en allait en criant.",
+        "S21": "Tamar déversa de la cendre sur sa tête et déchira sa robe multicolore. Elle mit la main sur sa tête et s'en alla en poussant des cris."
+      }
+    },
+    {
+      "verse": 20,
+      "texts": {
+        "BDS": "Son frère Absalom lui demanda:\r\n—Ton frère Amnôn t’a-t-il fait violence? Maintenant, ma sœur, n’en parle pas, c’est ton frère, et ne prends pas la chose trop à cœur!\r\nDès lors Tamar alla demeurer dans la maison d’Absalom, comme une femme abandonnée.",
+        "DBY": "Et Absalom, son frère, lui dit: Est-ce que ton frère Amnon a été avec toi? Et maintenant, ma sœur, garde le silence: il est ton frère; ne prends pas cette chose à cœur. Et Tamar demeura désolée dans la maison d'Absalom, son frère.",
+        "KJV": "And Absalom her brother said unto her, Hath Amnon thy brother been with thee? but hold now thy peace, my sister: he [is] thy brother; regard not this thing. So Tamar remained desolate in her brother Absalom's house.",
+        "LSG": "Absalom, son frère, lui dit: Amnon, ton frère, a-t-il été avec toi? Maintenant, ma soeur, tais-toi, c'est ton frère; ne prends pas cette affaire trop à coeur. Et Tamar, désolée, demeura dans la maison d'Absalom, son frère.",
+        "MAB": "Et son frère Absalom lui dit : Ton frère Amnon n'a-t-il pas été avec toi? Mais maintenant, ma sœur, tais-toi, il est ton frère; ne prends point ceci à cœur. Ainsi Tamar demeura toute désolée dans la maison d'Absalom son frère.",
+        "OST": "Et son frère Absalom lui dit: Amnon, ton frère, a été avec toi? Maintenant, ma sœur, tais-toi, c'est ton frère; ne prends point ceci à cœur. Ainsi Tamar demeura désolée dans la maison d'Absalom, son frère.",
+        "S21": "Son frère Absalom lui dit: «Est-ce que ton frère Amnon a couché avec toi? Maintenant, ma sœur, garde le silence, car c'est ton frère. Ne prends pas cette affaire trop à cœur.» Et Tamar s’installa, accablée, chez son frère Absalom."
+      }
+    },
+    {
+      "verse": 21,
+      "texts": {
+        "BDS": "Le roi David apprit tout ce qui s’était passé et il en fut très irrité.",
+        "DBY": "Et le roi David entendit parler de toutes ces choses, et il en fut très-irrité.",
+        "KJV": "But when king David heard of all these things, he was very wroth.",
+        "LSG": "Le roi David apprit toutes ces choses, et il fut très irrité.",
+        "MAB": "Quand le Roi David eut appris toutes ces choses, il fut fort irrité.",
+        "OST": "Le roi David apprit toutes ces choses, et il en fut fort irrité.",
+        "S21": "Le roi David apprit tout ce qui s’était passé et il en fut très irrité."
+      }
+    },
+    {
+      "verse": 22,
+      "texts": {
+        "BDS": "Quant à Absalom, il n’adressait plus la parole à Amnôn, ni en bien, ni en mal, car il l’avait pris en haine à cause du viol de sa sœur Tamar.",
+        "DBY": "Et Absalom ne parla à Ammon, ni en mal, ni en bien, car Absalom haïssait Ammon, parce qu'il avait humilié Tamar, sa sœur.",
+        "KJV": "And Absalom spake unto his brother Amnon neither good nor bad: for Absalom hated Amnon, because he had forced his sister Tamar.",
+        "LSG": "Absalom ne parla ni en bien ni en mal avec Amnon; mais il le prit en haine, parce qu'il avait déshonoré Tamar, sa soeur.",
+        "MAB": "Or Absalom ne parlait ni en bien ni en mal à Amnon, parce qu'Absalom haïssait Amnon, à cause qu'il avait violé Tamar sa sœur.",
+        "OST": "Or Absalom ne parlait ni en bien ni en mal à Amnon; car Absalom haïssait Amnon, parce qu'il avait outragé Tamar, sa sœur.",
+        "S21": "Quant à Absalom, il ne parla ni en bien ni en mal à Amnon, mais il éprouva de la haine pour lui parce qu'il avait déshonoré sa sœur Tamar."
+      }
+    },
+    {
+      "verse": 23,
+      "texts": {
+        "BDS": "Deux ans plus tard, Absalom avait les tondeurs à Baal-Hatsor, près d’Ephraïm. Il invita tous les fils du roi.",
+        "DBY": "Et il arriva, après deux années entières, qu'Absalom avait les tondeurs à Baal-Hatsor, qui est près d'Éphraïm; et Absalom invita tous les fils du roi.",
+        "KJV": "And it came to pass after two full years, that Absalom had sheepshearers in Baalhazor, which [is] beside Ephraim: and Absalom invited all the king's sons.",
+        "LSG": "Deux ans après, comme Absalom avait les tondeurs à Baal-Hatsor, près d'Ephraïm, il invita tous les fils du roi.",
+        "MAB": "Et il arriva au bout de deux ans entiers, qu'Absalom ayant les tondeurs à Bahal-hatsor, qui était près d'Ephraïm, il invita tous les fils du Roi.",
+        "OST": "Et il arriva, deux ans après, qu'Absalom ayant les tondeurs à Baal-Hatsor, qui est près d'Éphraïm, il invita tous les fils du roi.",
+        "S21": "Deux ans après, comme il avait les tondeurs de moutons chez lui à Baal-Hatsor, près d'Ephraïm, Absalom invita tous les fils du roi."
+      }
+    },
+    {
+      "verse": 24,
+      "texts": {
+        "BDS": "Il se rendit chez le roi et lui dit:\r\n—Tu sais que ton serviteur fait tondre ses moutons; que le roi et ses hauts fonctionnaires veuillent bien venir chez ton serviteur!",
+        "DBY": "Et Absalom vint vers le roi, et dit: Tu vois que ton serviteur a les tondeurs: je te prie, que le roi et ses serviteurs aillent avec ton serviteur.",
+        "KJV": "And Absalom came to the king, and said, Behold now, thy servant hath sheepshearers; let the king, I beseech thee, and his servants go with thy servant.",
+        "LSG": "Absalom alla vers le roi, et dit: Voici, ton serviteur a les tondeurs; que le roi et ses serviteurs viennent chez ton serviteur.",
+        "MAB": "Et Absalom vint vers le Roi, et lui dit : Voici, ton serviteur a maintenant les tondeurs; je te prie donc que le Roi et ses serviteurs viennent avec ton serviteur.",
+        "OST": "Et Absalom vint vers le roi, et dit: Voici, ton serviteur a les tondeurs; je te prie donc, que le roi et ses serviteurs viennent chez ton serviteur.",
+        "S21": "Il alla trouver le roi et dit: «Ton serviteur a les tondeurs de moutons chez lui. Que le roi et ses serviteurs viennent chez ton serviteur.»"
+      }
+    },
+    {
+      "verse": 25,
+      "texts": {
+        "BDS": "Mais le roi lui répondit:\r\n—Non, mon fils, nous n’allons pas tous venir, ce serait une trop lourde charge pour toi!\r\nAbsalom insista, mais le roi refusa l’invitation et lui donna simplement sa bénédiction.",
+        "DBY": "Et le roi dit à Absalom: Non, mon fils, nous n'irons pas tous, et nous ne te serons pas à charge. Et il le pressa, mais il ne voulut pas aller; et il le bénit.",
+        "KJV": "And the king said to Absalom, Nay, my son, let us not all now go, lest we be chargeable unto thee. And he pressed him: howbeit he would not go, but blessed him.",
+        "LSG": "Et le roi dit à Absalom: Non, mon fils, nous n'irons pas tous, de peur que nous ne te soyons à charge. Absalom le pressa; mais le roi ne voulut point aller, et il le bénit.",
+        "MAB": "Mais le Roi dit à Absalom : Non, mon fils, je te prie que nous n'y allions point tous, afin que nous ne te soyons point à charge; et quoiqu'il le pressât fort, cependant il n'y voulut point aller; mais il le bénit.",
+        "OST": "Mais le roi dit à Absalom: Non, mon fils, non; nous n'irons pas tous, de peur que nous ne te soyons à charge; et bien qu'Absalom le pressât fort, il n'y voulut point aller; et il le bénit.",
+        "S21": "Le roi dit à Absalom: «Non, mon fils! Nous n'irons pas tous chez toi, nous risquerions d’être une charge pour toi.» Absalom insista auprès de lui, mais le roi ne voulut pas y aller. Toutefois, il le bénit."
+      }
+    },
+    {
+      "verse": 26,
+      "texts": {
+        "BDS": "Absalom reprit:\r\n—Si tu ne veux pas venir, permets au moins à mon frère Amnôn de nous accompagner.\r\nLe roi lui dit:\r\n—Pourquoi t’accompagnerait-il?",
+        "DBY": "Et Absalom dit: Si tu ne viens pas, que mon frère Ammon, je te prie, vienne avec nous. Et le roi lui dit: Pourquoi irait-il avec toi?",
+        "KJV": "Then said Absalom, If not, I pray thee, let my brother Amnon go with us. And the king said unto him, Why should he go with thee?",
+        "LSG": "Absalom dit: Permets du moins à Amnon, mon frère, de venir avec nous. Le roi lui répondit: Pourquoi irait-il chez toi?",
+        "MAB": "Et Absalom dit : Si tu ne viens point, je te prie que mon frère Amnon vienne avec nous. Et le Roi lui répondit : Pourquoi irait-il avec toi?",
+        "OST": "Alors Absalom dit: Si tu ne viens pas, je te prie, que mon frère Amnon vienne avec nous. Et le roi lui répondit: Pourquoi irait-il avec toi?",
+        "S21": "Absalom dit: «Permets du moins à mon frère Amnon de venir avec nous.» Le roi lui répondit: «Pourquoi irait-il chez toi?»"
+      }
+    },
+    {
+      "verse": 27,
+      "texts": {
+        "BDS": "Mais Absalom insista tellement que David laissa partir avec lui Amnôn et tous les autres fils du roi.",
+        "DBY": "Et Absalom le pressa, et il envoya avec lui Amnon et tous les fils du roi.",
+        "KJV": "But Absalom pressed him, that he let Amnon and all the king's sons go with him.",
+        "LSG": "Sur les instances d'Absalom, le roi laissa aller avec lui Amnon et tous ses fils.",
+        "MAB": "Et Absalom le pressa tant, qu'il laissa aller Amnon, et tous les fils du Roi avec lui.",
+        "OST": "Mais Absalom le pressa tant qu'il laissa aller Amnon, et tous les fils du roi avec lui.",
+        "S21": "Sur l’insistance d'Absalom, le roi laissa Amnon et tous ses fils partir avec lui."
+      }
+    },
+    {
+      "verse": 28,
+      "texts": {
+        "BDS": "Absalom donna des ordres à ses serviteurs en disant:\r\n—Quand vous verrez qu’Amnôn sera égayé par le vin, et que je vous dirai: «Frappez Amnôn!» vous le tuerez. Ne craignez rien, car c’est moi qui en prends la responsabilité. Ayez du courage et soyez forts!",
+        "DBY": "Et Absalom commanda à ses serviteurs, disant: Faites attention, je vous prie, quand le cœur d'Ammon sera gai par le vin, et que je vous dirai: Frappez Ammon, alors tuez-le, ne craignez point; n'est-ce pas moi qui vous l'ai commandé? Fortifiez-vous, et soyez vaillants!",
+        "KJV": "Now Absalom had commanded his servants, saying, Mark ye now when Amnon's heart is merry with wine, and when I say unto you, Smite Amnon; then kill him, fear not: have not I commanded you? be courageous, and be valiant.",
+        "LSG": "Absalom donna cet ordre à ses serviteurs: Faites attention quand le coeur d'Amnon sera égayé par le vin et que je vous dirai: Frappez Amnon! Alors tuez-le; ne craignez point, n'est-ce pas moi qui vous l'ordonne? Soyez fermes, et montrez du courage!",
+        "MAB": "Or Absalom avait commandé à ses serviteurs, en disant : Prenez bien garde, je vous prie, quand le cœur d'Amnon sera gai de vin, et que je vous dirai : Frappez Amnon, tuez-le; ne craignez point; n'est-ce pas moi qui vous l'aurai commandé? Fortifiez-vous, et portez-vous en vaillants hommes.",
+        "OST": "Or, Absalom donna ordre à ses serviteurs, et leur dit: Prenez garde, quand le cœur d'Amnon sera égayé par le vin, et que je vous dirai: Frappez Amnon! alors tuez-le, ne craignez point; n'est-ce pas moi qui vous le commande? Fortifiez-vous et soyez vaillants.",
+        "S21": "Absalom donna cet ordre à ses serviteurs: «Faites bien attention au moment où le cœur d'Amnon sera réjoui par le vin et où je vous dirai de le frapper! Alors faites-le mourir sans crainte! N'est-ce pas moi qui vous l'ordonne? Montrez-vous forts et pleins de courage!»"
+      }
+    },
+    {
+      "verse": 29,
+      "texts": {
+        "BDS": "Les serviteurs d’Absalom exécutèrent les ordres de leur maître et tuèrent Amnôn. Aussitôt, tous les autres fils du roi se levèrent de table, enfourchèrent chacun son mulet et prirent la fuite.",
+        "DBY": "Et les serviteurs d'Absalom firent à Amnon comme Absalom l'avait commandé; et tous les fils du roi se levèrent, et montèrent chacun sur son mulet et s'enfuirent.",
+        "KJV": "And the servants of Absalom did unto Amnon as Absalom had commanded. Then all the king's sons arose, and every man gat him up upon his mule, and fled.",
+        "LSG": "Les serviteurs d'Absalom traitèrent Amnon comme Absalom l'avait ordonné. Et tous les fils du roi se levèrent, montèrent chacun sur son mulet, et s'enfuirent.",
+        "MAB": "Et les serviteurs d'Absalom firent à Amnon comme Absalom avait commandé, puis tous les fils du Roi se levèrent, et montèrent chacun sur sa mule, et s'enfuirent.",
+        "OST": "Et les serviteurs d'Absalom firent à Amnon comme Absalom l'avait commandé; alors tous les fils du roi se levèrent, et montèrent chacun sur sa mule, et s'enfuirent.",
+        "S21": "Les serviteurs d'Absalom traitèrent Amnon comme Absalom l'avait ordonné. Tous les fils du roi se levèrent alors, montèrent chacun sur son mulet et s'enfuirent."
+      }
+    },
+    {
+      "verse": 30,
+      "texts": {
+        "BDS": "Ils étaient encore en route quand la nouvelle parvint à David qu’Absalom avait tué tous les fils du roi sans qu’aucun d’eux en réchappe.",
+        "DBY": "Et il arriva, comme ils étaient en chemin, que le bruit en vint à David; on disait: Absalom a frappé tous les fils du roi, et il n'en reste pas un seul.",
+        "KJV": "And it came to pass, while they were in the way, that tidings came to David, saying, Absalom hath slain all the king's sons, and there is not one of them left.",
+        "LSG": "Comme ils étaient en chemin, le bruit parvint à David qu'Absalom avait tué tous les fils du roi, et qu'il n'en était pas resté un seul.",
+        "MAB": "Et il arriva qu'étant encore en chemin, le bruit vint à David qu'Absalom avait tué tous les fils du Roi, et qu'il n'en était pas resté un seul d'entr'eux.",
+        "OST": "Or, comme ils étaient en chemin, le bruit parvint jusqu'à David qu'Absalom avait tué tous les fils du roi, et qu'il n'en était pas resté un seul.",
+        "S21": "Ils étaient encore en chemin quand le bruit parvint à David qu'Absalom avait tué tous les fils du roi et qu'il n’y avait pas un seul survivant."
+      }
+    },
+    {
+      "verse": 31,
+      "texts": {
+        "BDS": "Le roi se leva, déchira ses vêtements en signe de deuil et s’étendit à même le sol. Tous ses ministres se tenaient autour de lui avec leurs habits déchirés.",
+        "DBY": "Et le roi se leva, et déchira ses vêtements, et se coucha par terre; et tous ses serviteurs étaient là, les vêtements déchirés.",
+        "KJV": "Then the king arose, and tare his garments, and lay on the earth; and all his servants stood by with their clothes rent.",
+        "LSG": "Le roi se leva, déchira ses vêtements, et se coucha par terre; et tous ses serviteurs étaient là, les vêtements déchirés.",
+        "MAB": "Alors le Roi se leva, et déchira ses vêtements, et se coucha par terre; tous ses serviteurs aussi étaient là avec leurs vêtements déchirés.",
+        "OST": "Alors le roi se leva et déchira ses vêtements, et se coucha par terre; tous ses serviteurs aussi se tenaient là avec leurs vêtements déchirés.",
+        "S21": "Le roi se leva, déchira ses habits et se coucha par terre. Tous ses serviteurs se tenaient là, les habits déchirés."
+      }
+    },
+    {
+      "verse": 32,
+      "texts": {
+        "BDS": "A ce moment-là, Yonadab, fils de Chimea, le frère de David, prit la parole et déclara:\r\n—Que mon seigneur ne pense pas que tous les fils du roi ont été tués; Amnôn seul est mort. Depuis le jour où il a violé sa sœur Tamar, Absalom parlait de le tuer.",
+        "DBY": "Et Jonadab, fils de Shimha, frère de David, prit le parole et dit: Que mon seigneur ne pense pas qu'on ait tué tous les jeunes hommes, fils du roi, car Amnon seul est mort; car cela a eu lieu par l'ordre d'Absalom qu'il avait arrêté dès le jour qu'Amnon humilia Tamar, sa sœur.",
+        "KJV": "And Jonadab, the son of Shimeah David's brother, answered and said, Let not my lord suppose [that] they have slain all the young men the king's sons; for Amnon only is dead: for by the appointment of Absalom this hath been determined from the day that he forced his sister Tamar.",
+        "LSG": "Jonadab, fils de Schimea, frère de David, prit la parole et dit: Que mon seigneur ne pense point que tous les jeunes gens, fils du roi, ont été tués, car Amnon seul est mort; et c'est l'effet d'une résolution d'Absalom, depuis le jour où Amnon a déshonoré Tamar, sa soeur.",
+        "MAB": "Et Jonadab fils de Simha, frère de David, prit la parole, et dit : Que mon Seigneur ne dise point qu'on a tué tous les jeunes hommes fils du Roi, car Amnon seul est mort; parce que ce qu'Absalom s'était proposé dès le jour qu'Amnon viola Tamar sa sœur, a été exécuté selon son commandement.",
+        "OST": "Et Jonadab, fils de Shimea, frère de David, prit la parole et dit: Que mon seigneur ne dise point qu'on a tué tous les jeunes gens, fils du roi; car Amnon seul est mort; et c'était là le dessein d'Absalom depuis le jour où Amnon outragea Tamar sa sœur.",
+        "S21": "Jonadab, fils de Shimea, le frère de David, prit la parole. Il dit: «Que mon seigneur ne pense pas que ce sont tous les jeunes gens, tous les fils du roi, qu’on a fait mourir. En effet, seul Amnon est mort. Absalom avait pris cette décision le jour où Amnon avait violé sa sœur Tamar."
+      }
+    },
+    {
+      "verse": 33,
+      "texts": {
+        "BDS": "Que le roi mon seigneur ne s’imagine donc pas que tous les princes ont péri! Non, Amnôn seul est mort.",
+        "DBY": "Et maintenant, que le roi, mon seigneur ne prenne pas ceci à cœur, disant: Tous les fils du roi sont morts; car Amnon seul est mort.",
+        "KJV": "Now therefore let not my lord the king take the thing to his heart, to think that all the king's sons are dead: for Amnon only is dead.",
+        "LSG": "Que le roi mon seigneur ne se tourmente donc point dans l'idée que tous les fils du roi sont morts, car Amnon seul est mort.",
+        "MAB": "Maintenant donc que le Roi mon Seigneur ne mette point ceci dans son cœur, en disant que tous les fils du Roi sont morts; car Amnon seul est mort.",
+        "OST": "Maintenant donc, que le roi mon seigneur ne prenne point la chose à cœur, en disant: Tous les fils du roi sont morts; car Amnon seul est mort.",
+        "S21": "Que le roi mon seigneur ne se tourmente donc pas à l'idée que tous ses fils seraient morts. En effet, seul Amnon est mort.»"
+      }
+    },
+    {
+      "verse": 34,
+      "texts": {
+        "BDS": "Absalom, quant à lui, avait pris la fuite. Lorsque le guetteur regarda au loin, il aperçut soudain une troupe nombreuse arrivant par la route occidentale, au flanc de la colline.",
+        "DBY": "Et Absalom s'enfuit. Et le jeune homme qui était en sentinelle leva ses yeux et regarda; et voici, un grand peuple venait par le chemin qui était derrière lui, du côté de la montagne.",
+        "KJV": "But Absalom fled. And the young man that kept the watch lifted up his eyes, and looked, and, behold, there came much people by the way of the hill side behind him.",
+        "LSG": "Absalom prit la fuite. Or le jeune homme placé en sentinelle leva les yeux et regarda. Et voici, une grande troupe venait par le chemin qui était derrière lui, du côté de la montagne.",
+        "MAB": "Or Absalom s'enfuit, mais celui qui était en sentinelle levant les yeux, regarda; et voici, un grand peuple venait par le chemin de derrière lui, à côté de la montagne.",
+        "OST": "Or Absalom s'était enfui. Et le jeune homme qui était en sentinelle, leva les yeux et regarda; et voici que par la route opposée une grande troupe s'avançait sur le flanc de la montagne.",
+        "S21": "Absalom prit la fuite. Or le jeune homme placé en sentinelle leva les yeux et regarda. Il vit une grande troupe venir par le chemin qui était derrière lui, du côté de la montagne."
+      }
+    },
+    {
+      "verse": 35,
+      "texts": {
+        "BDS": "Alors Yehonadab dit au roi:\r\n—Ce sont les fils du roi qui viennent. Tout s’est passé comme ton serviteur l’a dit.",
+        "DBY": "Et Jonadab dit au roi: Voici les fils du roi qui viennent; selon la parole de ton serviteur, ainsi il en est arrivé.",
+        "KJV": "And Jonadab said unto the king, Behold, the king's sons come: as thy servant said, so it is.",
+        "LSG": "Jonadab dit au roi: Voici les fils du roi qui arrivent! Ainsi se confirme ce que disait ton serviteur.",
+        "MAB": "Et Jonadab dit au Roi : Voici les fils du Roi qui viennent; la chose est arrivée comme ton serviteur a dit.",
+        "OST": "Et Jonadab dit au roi: Voici les fils du roi qui viennent; la chose est arrivée comme ton serviteur a dit.",
+        "S21": "Jonadab dit au roi: «Voici les fils du roi qui arrivent! Cela confirme ce que disait ton serviteur.»"
+      }
+    },
+    {
+      "verse": 36,
+      "texts": {
+        "BDS": "A peine achevait-il de parler, que les fils du roi entrèrent et se mirent à parler fort et à pleurer. Alors le roi et toute sa cour se répandirent aussi en pleurs et en lamentations.",
+        "DBY": "Et comme il achevait de parler, voici, les fils du roi arrivèrent, et ils élevèrent leur voix et pleurèrent; et le roi aussi, et tous ses serviteurs pleurèrent très-amèrement.",
+        "KJV": "And it came to pass, as soon as he had made an end of speaking, that, behold, the king's sons came, and lifted up their voice and wept: and the king also and all his servants wept very sore.",
+        "LSG": "Comme il achevait de parler, voici, les fils du roi arrivèrent. Ils élevèrent la voix, et pleurèrent; le roi aussi et tous ses serviteurs versèrent d'abondantes larmes.",
+        "MAB": "Or aussitôt qu'il eut achevé de parler, voici on vit arriver les fils du Roi, qui élevèrent leur voix, et pleurèrent; le Roi aussi et tous ses serviteurs pleurèrent beaucoup.",
+        "OST": "Et comme il achevait de parler, on vit arriver les fils du roi, et ils élevèrent la voix et pleurèrent. Le roi aussi et tous ses serviteurs pleurèrent abondamment.",
+        "S21": "Il finissait de parler quand les fils du roi arrivèrent. Ils se mirent à pleurer tout haut; le roi et tous ses serviteurs pleurèrent eux aussi abondamment."
+      }
+    },
+    {
+      "verse": 37,
+      "texts": {
+        "BDS": "Entre-temps, Absalom avait fui jusque chez Talmaï, fils d’Ammihoud, roi de Guechour. Pendant tout ce temps, David porta le deuil de son fils.",
+        "DBY": "Et Absalom s'enfuit, et s'en alla vers Talmaï, fils d'Ammihud, roi de Gueshur; et David menait deuil tous les jours sur son fils.",
+        "KJV": "But Absalom fled, and went to Talmai, the son of Ammihud, king of Geshur. And [David] mourned for his son every day.",
+        "LSG": "Absalom s'était enfui, et il alla chez Talmaï, fils d'Ammihur, roi de Gueschur. Et David pleurait tous les jours son fils.",
+        "MAB": "Mais Absalom s'enfuit, et se retira vers Talmaï, fils de Hammihud Roi de Guesur : et [David] pleurait tous les jours sur son fils.",
+        "OST": "Mais Absalom s'enfuit, et se retira chez Thalmaï, fils d'Ammihud, roi de Gueshur. Et David pleurait tous les jours sur son fils.",
+        "S21": "Absalom avait pris la fuite et il se rendit chez Talmaï, fils d'Ammihur et roi de Gueshur. Quant à David, il menait tous les jours deuil sur son fils."
+      }
+    },
+    {
+      "verse": 38,
+      "texts": {
+        "BDS": "Absalom resta pendant trois ans réfugié à Guechour.",
+        "DBY": "Ainsi Absalom s'enfuit, et il vint à Gueshur et fut là trois ans;",
+        "KJV": "So Absalom fled, and went to Geshur, and was there three years.",
+        "LSG": "Absalom resta trois ans à Gueschur, où il était allé, après avoir pris la fuite.",
+        "MAB": "Quand Absalom se fut enfui, et qu'il fut venu à Guesur, il demeura là trois ans.",
+        "OST": "Or Absalom, s'étant enfui, alla à Gueshur, et y resta trois ans;",
+        "S21": "Absalom resta 3 ans à Gueshur, où il s’était rendu après avoir pris la fuite."
+      }
+    },
+    {
+      "verse": 39,
+      "texts": {
+        "BDS": "Le roi David finit par renoncer à poursuivre Absalom, car il se consolait peu à peu de la mort d’Amnôn.",
+        "DBY": "et le roi David languissait d'aller vers Absalom, car il était consolé à l'égard d'Ammon, parce qu'il était mort.",
+        "KJV": "And [the soul of] king David longed to go forth unto Absalom: for he was comforted concerning Amnon, seeing he was dead.",
+        "LSG": "Le roi David cessa de poursuivre Absalom, car il était consolé de la mort d'Amnon.",
+        "MAB": "Puis il prit envie au Roi David d'aller vers Absalom, parce qu'il était consolé de la mort d'Amnon.",
+        "OST": "Et le roi David cessa de poursuivre Absalom, parce qu'il était consolé de la mort d'Amnon.",
+        "S21": "Le roi David cessa de poursuivre Absalom lorsqu’il fut consolé de la mort d'Amnon."
+      }
+    }
+  ]
+}

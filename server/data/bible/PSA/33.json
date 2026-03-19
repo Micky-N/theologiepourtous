@@ -1,0 +1,270 @@
+{
+  "bookCode": "PSA",
+  "chapter": 33,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "Vous tous qui êtes justes, acclamez l’Eternel!\r\nCar il convient aux hommes droits de le louer.",
+        "DBY": "Exultez en l'Éternel, vous justes! aux hommes droits sied la louange.",
+        "KJV": "Rejoice in the LORD, O ye righteous: [for] praise is comely for the upright.",
+        "LSG": "Justes, réjouissez-vous en l'Eternel! La louange sied aux hommes droits.",
+        "MAB": "Vous justes, chantez de joie à cause de l'Eternel; sa louange est bienséante aux hommes droits.",
+        "OST": "Justes, réjouissez-vous en l'Éternel! La louange convient aux hommes droits.",
+        "S21": "Justes, réjouissez-vous en l’Eternel! La louange convient aux hommes droits."
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "Célébrez l’Eternel, avec la lyre\r\net louez-le sur le luth à dix cordes!",
+        "DBY": "Célébrez l'Éternel avec la harpe; chantez ses louanges sur le luth à dix cordes;",
+        "KJV": "Praise the LORD with harp: sing unto him with the psaltery [and] an instrument of ten strings.",
+        "LSG": "Célébrez l'Eternel avec la harpe, Célébrez-le sur le luth à dix cordes.",
+        "MAB": "Célébrez l'Eternel avec le violon, chantez-lui des Psaumes avec la musette, et l'instrument à dix cordes.",
+        "OST": "Célébrez l'Éternel avec la harpe; chantez-lui des cantiques sur la lyre à dix cordes!",
+        "S21": "Célébrez l’Eternel avec la harpe, louez-le sur le luth à dix cordes!"
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "Chantez en son honneur un cantique nouveau!\r\nJouez de tout votre art afin de l’acclamer!",
+        "DBY": "Chantez-lui un cantique nouveau; pincez habilement de vos instruments avec un cri de joie.",
+        "KJV": "Sing unto him a new song; play skilfully with a loud noise.",
+        "LSG": "Chantez-lui un cantique nouveau! Faites retentir vos instruments et vos voix!",
+        "MAB": "Chantez-lui un nouveau Cantique, touchez adroitement [vos instruments de musique] avec un cri de réjouissance.",
+        "OST": "Chantez-lui un cantique nouveau; faites retentir vos instruments et vos voix!",
+        "S21": "Chantez-lui un cantique nouveau, faites retentir vos instruments et vos voix,"
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "Car la parole de l’Eternel est droite,\r\ntoute son œuvre est sûre.",
+        "DBY": "Car la parole de l'Éternel est droite, et toute son œuvre est avec vérité.",
+        "KJV": "For the word of the LORD [is] right; and all his works [are done] in truth.",
+        "LSG": "Car la parole de l'Eternel est droite, Et toutes ses oeuvres s'accomplissent avec fidélité;",
+        "MAB": "Car la parole de l'Eternel est pure, et toutes ses œuvres sont avec fermeté.",
+        "OST": "Car la parole de l'Éternel est droite, et toute son œuvre est faite avec fidélité.",
+        "S21": "car la parole de l’Eternel est droite et toute son œuvre s’accomplit avec fidélité!"
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "Dieu aime la justice et la droiture.\r\nL’amour de l’Eternel remplit la terre.",
+        "DBY": "Il aime la justice et le jugement; la terre est pleine de la bonté de l'Éternel.",
+        "KJV": "He loveth righteousness and judgment: the earth is full of the goodness of the LORD.",
+        "LSG": "Il aime la justice et la droiture; La bonté de l'Eternel remplit la terre.",
+        "MAB": "Il aime la justice et la droiture; la terre est remplie de la gratuité de l'Eternel.",
+        "OST": "Il aime la justice et l'équité; la terre est pleine de la bonté de l'Éternel.",
+        "S21": "Il aime la justice et le droit; la bonté de l’Eternel remplit la terre."
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "L’Eternel a parlé: les cieux ont été faits par la parole de l’Eternel,\r\net toute l’armée des étoiles est née du souffle de sa bouche.",
+        "DBY": "Les cieux ont été faits par la parole de l'Éternel, et toute leur armée par l'esprit de sa bouche.",
+        "KJV": "By the word of the LORD were the heavens made; and all the host of them by the breath of his mouth.",
+        "LSG": "Les cieux ont été faits par la parole de l'Eternel, Et toute leur armée par le souffle de sa bouche.",
+        "MAB": "Les cieux ont été faits par la parole de l'Eternel, et toute leur armée par le souffle de sa bouche.",
+        "OST": "Les cieux ont été faits par la parole de l'Éternel, et toute leur armée par le souffle de sa bouche.",
+        "S21": "Le ciel a été fait par la parole de l’Eternel, et toute son armée par le souffle de sa bouche."
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "Les eaux des mers, il les amasse et les endigue,\r\net il tient l’océan comme en un réservoir.",
+        "DBY": "Il amasse comme un monceau les eaux de la mer, il met dans des réservoirs les abîmes.",
+        "KJV": "He gathereth the waters of the sea together as an heap: he layeth up the depth in storehouses.",
+        "LSG": "Il amoncelle en un tas les eaux de la mer, Il met dans des réservoirs les abîmes.",
+        "MAB": "Il assemble les eaux de la mer comme en un monceau, il met les abîmes [comme] dans des céliers.",
+        "OST": "Il amasse les eaux de la mer comme en un monceau; il met les flots dans des réservoirs.",
+        "S21": "Il amoncelle les eaux de la mer, il garde les océans dans des réservoirs."
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "Que l’univers entier révère l’Eternel!\r\nQu’ils tremblent devant lui, les habitants du monde!",
+        "DBY": "Que toute la terre craigne l'Éternel; que tous les habitants du monde le redoutent!",
+        "KJV": "Let all the earth fear the LORD: let all the inhabitants of the world stand in awe of him.",
+        "LSG": "Que toute la terre craigne l'Eternel! Que tous les habitants du monde tremblent devant lui!",
+        "MAB": "Que toute la terre craigne l'Eternel, que tous les habitants de la terre habitable le redoutent.",
+        "OST": "Que toute la terre craigne l'Éternel; que tous les habitants du monde le redoutent!",
+        "S21": "Que toute la terre craigne l’Eternel, que tous les habitants du monde tremblent devant lui,"
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "Car lorsqu’il a parlé cela s’est fait,\r\nlorsqu’il a commandé, cela est apparu.",
+        "DBY": "Car, lui, il a parlé, et la chose a été; il a commandé, et elle s'est tenue là.",
+        "KJV": "For he spake, and it was [done]; he commanded, and it stood fast.",
+        "LSG": "Car il dit, et la chose arrive; Il ordonne, et elle existe.",
+        "MAB": "Car il a dit, et [ce qu'il a dit] a eu son être, il a commandé, et la chose a comparu.",
+        "OST": "Car il parle, et la chose existe; il commande, et elle paraît.",
+        "S21": "car il parle, et la chose arrive, il ordonne, et elle existe."
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "L’Eternel fait échec aux desseins des nations.\r\nIl réduit à néant ce que les peuples projetaient.",
+        "DBY": "L'Éternel dissipe le conseil des nations, il met à néant les desseins des peuples.",
+        "KJV": "The LORD bringeth the counsel of the heathen to nought: he maketh the devices of the people of none effect.",
+        "LSG": "L'Eternel renverse les desseins des nations, Il anéantit les projets des peuples;",
+        "MAB": "L'Eternel dissipe le conseil des nations, il anéantit les desseins des peuples;",
+        "OST": "L'Éternel dissipe le conseil des nations, il met à néant le dessein des peuples.",
+        "S21": "L’Eternel renverse les plans des nations, il anéantit les projets des peuples,"
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "Les plans de l’Eternel demeurent pour toujours\r\net ses projets subsistent d’âge en âge.",
+        "DBY": "Le conseil de l'Éternel subsiste à toujours, les desseins de son cœur, de génération en génération.",
+        "KJV": "The counsel of the LORD standeth for ever, the thoughts of his heart to all generations.",
+        "LSG": "Les desseins de l'Eternel subsistent à toujours, Et les projets de son coeur, de génération en génération.",
+        "MAB": "[Mais] le conseil de l'Eternel se soutient à toujours; les desseins de son cœur subsistent d'âge en âge.",
+        "OST": "Mais le conseil de l'Éternel subsiste à toujours; les desseins de son cœur durent d'âge en âge.",
+        "S21": "mais les plans de l’Eternel subsistent éternellement, et les projets de son cœur de génération en génération."
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "Heureuse la nation dont l’Eternel est Dieu,\r\net le peuple qu’il a choisi pour qu’il lui appartienne!",
+        "DBY": "Bienheureuse la nation qui a l'Éternel pour son Dieu, le peuple qu'il a choisi pour son héritage!",
+        "KJV": "Blessed [is] the nation whose God [is] the LORD; [and] the people [whom] he hath chosen for his own inheritance.",
+        "LSG": "Heureuse la nation dont l'Eternel est le Dieu! Heureux le peuple qu'il choisit pour son héritage!",
+        "MAB": "Ô! que bienheureuse est la nation dont l'Eternel est le Dieu, [et] le peuple qu'il s'est choisi pour héritage!",
+        "OST": "Heureuse la nation dont l'Éternel est le Dieu, le peuple qu'il s'est choisi pour héritage!",
+        "S21": "Heureuse la nation dont l’Eternel est le Dieu, heureux le peuple qu’il choisit comme son héritage!"
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "Du haut du ciel, l’Eternel regarde la terre.\r\nIl voit tous les humains.",
+        "DBY": "L'Éternel regarde des cieux; il voit tous les fils des hommes.",
+        "KJV": "The LORD looketh from heaven; he beholdeth all the sons of men.",
+        "LSG": "L'Eternel regarde du haut des cieux, Il voit tous les fils de l'homme;",
+        "MAB": "L'Eternel regarde des Cieux, il voit tous les enfants des hommes.",
+        "OST": "L'Éternel regarde des cieux; il voit tous les enfants des hommes.",
+        "S21": "L’Eternel regarde du haut du ciel, il voit tous les hommes."
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "De son trône, il observe\r\ntous les habitants de la terre.",
+        "DBY": "Du lieu de sa demeure il considère tous les habitants de la terre.",
+        "KJV": "From the place of his habitation he looketh upon all the inhabitants of the earth.",
+        "LSG": "Du lieu de sa demeure il observe Tous les habitants de la terre,",
+        "MAB": "Il prend garde du lieu de sa résidence à tous les habitants de la terre.",
+        "OST": "Du lieu de sa demeure, il observe tous les habitants de la terre.",
+        "S21": "Du lieu où il habite, il observe tous les habitants de la terre."
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "Il a formé leur cœur à tous,\r\net il reste attentif à chacun de leurs actes.",
+        "DBY": "C'est lui qui forme leur cœur à tous, qui prend connaissance de toutes leurs œuvres.",
+        "KJV": "He fashioneth their hearts alike; he considereth all their works.",
+        "LSG": "Lui qui forme leur coeur à tous, Qui est attentif à toutes leurs actions.",
+        "MAB": "C'est lui qui forme également leur cœur, et qui prend garde à toutes leurs actions.",
+        "OST": "Il a formé leur cœur à tous, il prend garde à toutes leurs actions.",
+        "S21": "Lui qui a façonné leur cœur à tous, il est attentif à toutes leurs actions."
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "Le roi n’est pas sauvé par une armée nombreuse,\r\nla force ne saurait délivrer le guerrier.",
+        "DBY": "Un roi n'est pas sauvé par la multitude de son armée, et l'homme puissant n'est pas délivré par sa grande force;",
+        "KJV": "There is no king saved by the multitude of an host: a mighty man is not delivered by much strength.",
+        "LSG": "Ce n'est pas une grande armée qui sauve le roi, Ce n'est pas une grande force qui délivre le héros;",
+        "MAB": "Le Roi n'est point sauvé par une grosse armée, et l'homme puissant n'échappe point par [sa] grande force.",
+        "OST": "Le roi n'est pas sauvé par sa grande puissance, et l'homme vaillant n'est pas délivré par sa grande force.",
+        "S21": "Ce n’est pas une grande armée qui sauve le roi, ce n’est pas sa grande force qui délivre le guerrier."
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "Pour avoir la victoire, le secours du cheval est illusoire,\r\net toute sa vigueur ne suffit pas pour échapper.",
+        "DBY": "Le cheval est une chose vaine pour sauver, et il ne délivre point par la grandeur de sa force:",
+        "KJV": "An horse [is] a vain thing for safety: neither shall he deliver [any] by his great strength.",
+        "LSG": "Le cheval est impuissant pour assurer le salut, Et toute sa vigueur ne donne pas la délivrance.",
+        "MAB": "Le cheval manque à sauver, et ne délivre point par la grandeur de sa force.",
+        "OST": "Le cheval manque à sauver, et il ne délivre point par la grandeur de sa force.",
+        "S21": "Le cheval est impuissant pour assurer le salut, et toute sa vigueur est incapable de procurer la délivrance,"
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "Mais l’Eternel prend soin de ceux qui le révèrent,\r\ncomptant sur son amour",
+        "DBY": "Voici, l'œil de l'Éternel est sur ceux qui le craignent, sur ceux qui s'attendent à sa bonté,",
+        "KJV": "Behold, the eye of the LORD [is] upon them that fear him, upon them that hope in his mercy;",
+        "LSG": "Voici, l'oeil de l'Eternel est sur ceux qui le craignent, Sur ceux qui espèrent en sa bonté,",
+        "MAB": "Voici, l'œil de l'Eternel est sur ceux qui le craignent, sur ceux qui s'attendent à sa gratuité.",
+        "OST": "Voici, l'œil de l'Éternel est sur ceux qui le craignent, sur ceux qui s'attendent à sa bonté,",
+        "S21": "mais le regard de l’Eternel est sur ceux qui le craignent, sur ceux qui espèrent en sa bonté,"
+      }
+    },
+    {
+      "verse": 19,
+      "texts": {
+        "BDS": "pour les délivrer de la mort\r\net préserver leur vie aux jours de la famine.",
+        "DBY": "Pour délivrer leur âme de la mort, et pour les conserver en vie durant la famine.",
+        "KJV": "To deliver their soul from death, and to keep them alive in famine.",
+        "LSG": "Afin d'arracher leur âme à la mort Et de les faire vivre au milieu de la famine.",
+        "MAB": "Afin qu'il les délivre de la mort, et les entretienne en vie durant la famine.",
+        "OST": "Pour délivrer leur âme de la mort, et pour les faire vivre durant la famine.",
+        "S21": "afin de les délivrer de la mort et de les faire vivre, même en temps de famine."
+      }
+    },
+    {
+      "verse": 20,
+      "texts": {
+        "BDS": "Oui, nous comptons sur l’Eternel,\r\nil est notre secours et notre bouclier.",
+        "DBY": "âme s'attend à l'Éternel; il est notre aide et notre bouclier.",
+        "KJV": "Our soul waiteth for the LORD: he [is] our help and our shield.",
+        "LSG": "Notre âme espère en l'Eternel; Il est notre secours et notre bouclier.",
+        "MAB": "Notre âme s'est confiée en l'Eternel; il est notre aide et notre bouclier.",
+        "OST": "Notre âme s'attend à l'Éternel; il est notre aide et notre bouclier.",
+        "S21": "Nous espérons en l’Eternel: notre secours et notre bouclier, c’est lui."
+      }
+    },
+    {
+      "verse": 21,
+      "texts": {
+        "BDS": "En lui nos cœurs trouvent leur joie,\r\net notre confiance, nous la plaçons dans le Dieu saint.",
+        "DBY": "Car notre cœur se réjouira en lui, puisqu'en son saint nom nous avons mis notre confiance.",
+        "KJV": "For our heart shall rejoice in him, because we have trusted in his holy name.",
+        "LSG": "Car notre coeur met en lui sa joie, Car nous avons confiance en son saint nom.",
+        "MAB": "Certainement notre cœur se réjouira en lui, parce que nous avons mis notre assurance en son saint Nom.",
+        "OST": "Car notre cœur se réjouit en lui; car nous nous confions en son saint nom.",
+        "S21": "Oui, c’est en lui que notre cœur se réjouit, c’est en son saint nom que nous avons confiance."
+      }
+    },
+    {
+      "verse": 22,
+      "texts": {
+        "BDS": "Accorde-nous ta grâce, ô Eternel,\r\ncar nous comptons sur toi.",
+        "DBY": "Que ta bonté, ô Éternel! soit sur nous, selon que nous nous sommes attendus à toi.",
+        "KJV": "Let thy mercy, O LORD, be upon us, according as we hope in thee.",
+        "LSG": "Eternel! que ta grâce soit sur nous, Comme nous espérons en toi!",
+        "MAB": "Que ta gratuité soit sur nous, ô Eternel! selon que nous nous sommes confiés en toi",
+        "OST": "Que ta bonté soit sur nous, ô Éternel! comme nous nous attendons à toi.",
+        "S21": "Eternel, que ta grâce soit sur nous lorsque nous espérons en toi!"
+      }
+    }
+  ]
+}

@@ -1,0 +1,426 @@
+{
+  "bookCode": "LEV",
+  "chapter": 4,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "L’Eternel s’adressa à Moïse en ces termes:",
+        "DBY": "Et l'Éternel parla à Moïse, disant:",
+        "KJV": "And the LORD spake unto Moses, saying,",
+        "LSG": "L'Eternel parla à Moïse, et dit:",
+        "MAB": "L'Eternel parla encore à Moïse, en disant :",
+        "OST": "L'Éternel parla encore à Moïse, en disant:",
+        "S21": "L'Eternel dit à Moïse:"
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "—Parle aux Israélites et dis-leur: Lorsque quelqu’un aura péché involontairement en commettant l’une quelconque des choses qui sont interdites par les commandements de l’Eternel, voici comment on procédera:",
+        "DBY": "Parle aux fils d'Israël, en disant: Si quelqu'un a péché par erreur contre quelqu'un des commandements de l'Éternel dans les choses qui ne doivent pas se faire, et a commis quelqu'une de ces choses:",
+        "KJV": "Speak unto the children of Israel, saying, If a soul shall sin through ignorance against any of the commandments of the LORD [concerning things] which ought not to be done, and shall do against any of them:",
+        "LSG": "Parle aux enfants d'Israël, et dis: Lorsque quelqu'un péchera involontairement contre l'un des commandements de l'Eternel, en faisant des choses qui ne doivent point se faire;",
+        "MAB": "Parle aux enfants d'Israël, et leur dis : Quand une personne aura péché par erreur contre quelqu'un des commandements de l'Eternel, en commettant des choses qui ne se doivent point faire, et qu'il aura fait quelqu'une de ces choses;",
+        "OST": "Parle aux enfants d'Israël, en disant: Lorsque quelqu'un aura péché par erreur contre l'un des commandements de l'Éternel, sur ce qui ne doit pas être fait, et qu'il aura fait quelqu'une de ces choses;",
+        "S21": "«Transmets ces instructions aux Israélites: Lorsque quelqu'un péchera involontairement contre l'un des commandements de l'Eternel en faisant des choses qui ne doivent pas se faire,"
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "—Si c’est le prêtre qui a reçu l’onction qui a péché et qui par là-même a chargé le peuple de culpabilité, il offrira à l’Eternel pour le péché qu’il aura commis, un jeune taureau sans défaut, en sacrifice pour le péché.",
+        "DBY": "si c'est le sacrificateur oint qui a péché selon quelque faute du peuple, alors il présentera à l'Éternel, pour son péché qu'il aura commis, un jeune taureau sans défaut, en sacrifice pour le péché.",
+        "KJV": "If the priest that is anointed do sin according to the sin of the people; then let him bring for his sin, which he hath sinned, a young bullock without blemish unto the LORD for a sin offering.",
+        "LSG": "Si c'est le sacrificateur ayant reçu l'onction qui a péché et a rendu par là le peuple coupable, il offrira à l'Eternel, pour le péché qu'il a commis, un jeune taureau sans défaut, en sacrifice d'expiation.",
+        "MAB": "Si c'est le Sacrificateur oint qui ait commis un péché semblable à quelque faute du peuple, il offrira à l'Eternel pour son péché qu'il aura fait, un veau sans tare, pris du troupeau, en offrande pour le péché.",
+        "OST": "Si c'est le sacrificateur ayant reçu l'onction qui a péché, rendant par là le peuple coupable, il offrira à l'Éternel, pour le péché qu'il aura commis, un jeune taureau sans défaut, en sacrifice pour le péché;",
+        "S21": "si c'est le prêtre consacré par onction qui a péché et a rendu par là le peuple coupable, il offrira à l'Eternel, en sacrifice d'expiation pour le péché qu'il a commis, un jeune taureau sans défaut."
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "Il amènera le taureau à l’entrée de la tente de la Rencontre devant l’Eternel, il posera sa main sur la tête du taureau et l’égorgera devant l’Eternel.",
+        "DBY": "Et il amènera le taureau à l'entrée de la tente d'assignation, devant l'Éternel; et il posera sa main sur la tête du taureau, et égorgera le taureau devant l'Éternel;",
+        "KJV": "And he shall bring the bullock unto the door of the tabernacle of the congregation before the LORD; and shall lay his hand upon the bullock's head, and kill the bullock before the LORD.",
+        "LSG": "Il amènera le taureau à l'entrée de la tente d'assignation, devant l'Eternel; et il posera sa main sur la tête du taureau, qu'il égorgera devant l'Eternel.",
+        "MAB": "Il amènera le veau à l'entrée du Tabernacle d'assignation devant l'Eternel, il posera sa main sur la tête du veau, et l'égorgera devant l'Eternel.",
+        "OST": "Il amènera le taureau à l'entrée du tabernacle d'assignation devant l'Éternel; il appuiera sa main sur la tête du taureau, et il égorgera le taureau devant l'Éternel.",
+        "S21": "Il amènera le taureau à l'entrée de la tente de la rencontre, devant l'Eternel. Il posera sa main sur la tête du taureau et l’égorgera devant l'Eternel."
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "Le prêtre qui a reçu l’onction prendra du sang de la victime et l’apportera dans la tente de la Rencontre.",
+        "DBY": "et le sacrificateur oint prendra du sang du taureau, et il l'apportera dans la tente d'assignation;",
+        "KJV": "And the priest that is anointed shall take of the bullock's blood, and bring it to the tabernacle of the congregation:",
+        "LSG": "Le sacrificateur ayant reçu l'onction prendra du sang du taureau, et l'apportera dans la tente d'assignation;",
+        "MAB": "Et le Sacrificateur oint prendra du sang du veau, et l'apportera dans le Tabernacle d'assignation.",
+        "OST": "Le sacrificateur ayant reçu l'onction prendra du sang du taureau et l'apportera dans le tabernacle d'assignation;",
+        "S21": "Le prêtre consacré par onction prendra du sang du taureau et l'apportera dans la tente de la rencontre."
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "Il trempera son doigt dans le sang et en aspergera sept fois le voile du sanctuaire devant l’Eternel.",
+        "DBY": "et le sacrificateur trempera son doigt dans le sang, et fera aspersion du sang sept fois, devant l'Éternel, par devant le voile du lieu saint;",
+        "KJV": "And the priest shall dip his finger in the blood, and sprinkle of the blood seven times before the LORD, before the vail of the sanctuary.",
+        "LSG": "il trempera son doigt dans le sang, et il en fera sept fois l'aspersion devant l'Eternel, en face du voile du sanctuaire.",
+        "MAB": "Et le Sacrificateur trempera son doigt dans le sang, et fera aspersion du sang par sept fois devant l'Eternel, au devant du voile du Sanctuaire.",
+        "OST": "Et le sacrificateur trempera son doigt dans le sang, et fera sept fois aspersion du sang devant l'Éternel, en face du voile du sanctuaire.",
+        "S21": "Il trempera son doigt dans le sang et il en fera 7 fois l'aspersion devant l'Eternel, en face du voile du sanctuaire."
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "Puis il appliquera de ce sang sur les cornes de l’autel des parfums aromatiques, devant l’Eternel, dans la tente de la Rencontre. Il répandra tout le reste du sang du taureau sur le socle de l’autel des holocaustes situé à l’entrée de la tente de la Rencontre.",
+        "DBY": "et le sacrificateur mettra du sang sur les cornes de l'autel de l'encens des drogues odoriférantes qui est dans la tente d'assignation, devant l'Éternel; et il versera tout le sang du taureau au pied de l'autel de l'holocauste qui est à l'entrée de la tente d'assignation.",
+        "KJV": "And the priest shall put [some] of the blood upon the horns of the altar of sweet incense before the LORD, which [is] in the tabernacle of the congregation; and shall pour all the blood of the bullock at the bottom of the altar of the burnt offering, which [is at] the door of the tabernacle of the congregation.",
+        "LSG": "Le sacrificateur mettra du sang sur les cornes de l'autel des parfums odoriférants, qui est devant l'Eternel dans la tente d'assignation; et il répandra tout le sang du taureau au pied de l'autel des holocaustes, qui est à l'entrée de la tente d'assignation.",
+        "MAB": "Le Sacrificateur mettra aussi devant l'Eternel du sang sur les cornes de l'autel du parfum des drogues, qui est dans le Tabernacle d'assignation; mais il répandra tout le reste du sang du veau au pied de l'autel de l'holocauste, qui est à l'entrée du Tabernacle d'assignation.",
+        "OST": "Puis le sacrificateur mettra du sang sur les cornes de l'autel des parfums d'aromates, qui est devant l'Éternel, dans le tabernacle d'assignation; et il répandra tout le sang du taureau au pied de l'autel de l'holocauste, qui est à l'entrée du tabernacle d'assignation.",
+        "S21": "Le prêtre mettra du sang sur les cornes de l'autel des parfums odoriférants, qui est devant l'Eternel dans la tente de la rencontre. Il versera tout le sang du taureau au pied de l'autel des holocaustes, qui est à l'entrée de la tente de la rencontre."
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "Ensuite, il enlèvera toute la graisse du taureau du sacrifice pour le péché, celle qui recouvre les entrailles et toute celle qui y est attachée,",
+        "DBY": "Et toute la graisse du taureau du sacrifice pour le péché, il la lèvera: la graisse qui couvre l'intérieur, et toute la graisse qui est sur l'intérieur,",
+        "KJV": "And he shall take off from it all the fat of the bullock for the sin offering; the fat that covereth the inwards, and all the fat that [is] upon the inwards,",
+        "LSG": "Il enlèvera toute la graisse du taureau expiatoire, la graisse qui couvre les entrailles et toute celle qui y est attachée,",
+        "MAB": "Et il lèvera toute la graisse du veau de l'offrande pour le péché, [savoir], la graisse qui couvre les entrailles, et toute la graisse qui est sur les entrailles.",
+        "OST": "Et il enlèvera toute la graisse du taureau du sacrifice pour le péché, la graisse qui couvre les entrailles, et toute la graisse qui tient aux entrailles,",
+        "S21": "Il enlèvera toute la graisse du taureau expiatoire, la graisse qui couvre les entrailles et toute celle qui y est attachée,"
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "les deux rognons et la graisse qui les enveloppe et qui couvre les flancs, ainsi que le lobe du foie qu’il ôtera avec les rognons,",
+        "DBY": "et les deux rognons, et la graisse qui est dessus, qui est sur les reins, et le réseau qui est sur le foie, qu'on ôtera jusque sur les rognons,",
+        "KJV": "And the two kidneys, and the fat that [is] upon them, which [is] by the flanks, and the caul above the liver, with the kidneys, it shall he take away,",
+        "LSG": "les deux rognons, et la graisse qui les entoure, qui couvre les flancs, et le grand lobe du foie, qu'il détachera près des rognons.",
+        "MAB": "Et les deux rognons avec la graisse qui est sur eux, jusque sur les flancs, et il ôtera la taie qui est sur le foie [pour la mettre] sur les rognons;",
+        "OST": "Et les deux rognons, la graisse qui est dessus, ce qui est sur les lombes, et la membrane qui recouvre le foie, et qu'il détachera près des rognons,",
+        "S21": "les deux rognons et la graisse qui les entoure, qui couvre les flancs, et le grand lobe du foie, qu'il détachera près des rognons."
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "comme on le fait pour le sacrifice de communion. Le prêtre les brûlera sur l’autel des holocaustes.",
+        "DBY": "comme on les lève du bœuf du sacrifice de prospérités: et le sacrificateur les fera fumer sur l'autel de l'holocauste.",
+        "KJV": "As it was taken off from the bullock of the sacrifice of peace offerings: and the priest shall burn them upon the altar of the burnt offering.",
+        "LSG": "Le sacrificateur enlèvera ces parties comme on les enlève du taureau dans le sacrifice d'actions de grâces, et il les brûlera sur l'autel des holocaustes.",
+        "MAB": "Comme on les ôte du bœuf du sacrifice de prospérités, et le Sacrificateur fera fumer [toutes] ces choses-là sur l'autel de l'holocauste.",
+        "OST": "Comme on enlève ces parties du taureau du sacrifice de prospérités; et le sacrificateur les fera fumer sur l'autel de l'holocauste.",
+        "S21": "Le prêtre enlèvera ces parties comme on les enlève du taureau dans le sacrifice de communion et il les brûlera sur l'autel des holocaustes."
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "Quant à la peau du taureau, toute sa viande, sa tête, ses pattes, ses entrailles avec leur contenu,",
+        "DBY": "Et la peau du taureau et toute sa chair, avec sa tête, et ses jambes, et son intérieur, et sa fiente,",
+        "KJV": "And the skin of the bullock, and all his flesh, with his head, and with his legs, and his inwards, and his dung,",
+        "LSG": "Mais la peau du taureau, toute sa chair, avec sa tête, ses jambes, ses entrailles et ses excréments,",
+        "MAB": "Mais quant à la peau du veau et toute sa chair, avec sa tête, ses jambes, ses entrailles, et sa fiente,",
+        "OST": "Mais la peau du taureau, toute sa chair, avec sa tête, ses jambes, ses entrailles et ses excréments,",
+        "S21": "Mais la peau du taureau, toute sa viande avec sa tête, ses pattes, ses entrailles et ses excréments,"
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "soit tout le reste du taureau, il l’emportera hors du camp en un lieu rituellement pur, où sont déversées les cendres grasses, et il le brûlera sur un feu de bûches, à l’endroit où l’on déverse les cendres.",
+        "DBY": "tout le taureau, il l'emportera hors du camp, dans un lieu net, là où l'on verse les cendres, et il le brûlera sur du bois, au feu; il sera brûlé au lieu où l'on verse les cendres.",
+        "KJV": "Even the whole bullock shall he carry forth without the camp unto a clean place, where the ashes are poured out, and burn him on the wood with fire: where the ashes are poured out shall he be burnt.",
+        "LSG": "le taureau entier, il l'emportera hors du camp, dans un lieu pur, où l'on jette les cendres, et il le brûlera au feu sur du bois: c'est sur le tas de cendres qu'il sera brûlé.",
+        "MAB": "Et [même] tout le veau, il le tirera hors du camp dans un lieu net, où l'on répand les cendres, et il le brûlera sur du bois au feu, il sera brûlé au lieu où l'on répand les cendres.",
+        "OST": "Le taureau entier, il l'emportera hors du camp, dans un lieu pur, où l'on jette la cendre, et il le brûlera sur du bois, au feu; il sera brûlé sur le tas de cendres.",
+        "S21": "le taureau entier, il l'emportera à l’extérieur du camp, dans un endroit pur où l'on jette les cendres, et il le brûlera au feu sur du bois; c'est sur le tas de cendres qu’on le brûlera."
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "—Si c’est l’ensemble de la communauté d’Israël qui s’est rendue coupable d’un péché involontaire — si, sans le savoir, l’assemblée a fait l’une des choses que l’Eternel a défendues dans ses commandements et s’est ainsi rendue coupable —",
+        "DBY": "Et si toute l'assemblée d'Israël a péché par erreur et que la chose soit restée cachée aux yeux de la congrégation, et qu'ils aient fait, à l'égard de l'un de tous les commandements de l'Éternel, ce qui ne doit pas se faire, et se soient rendus coupables,",
+        "KJV": "And if the whole congregation of Israel sin through ignorance, and the thing be hid from the eyes of the assembly, and they have done [somewhat against] any of the commandments of the LORD [concerning things] which should not be done, and are guilty;",
+        "LSG": "Si c'est toute l'assemblée d'Israël qui a péché involontairement et sans s'en apercevoir, en faisant contre l'un des commandements de l'Eternel des choses qui ne doivent point se faire et en se rendant ainsi coupable,",
+        "MAB": "Et si toute l'assemblée d'Israël a péché par erreur, et que la chose n'ait pas été aperçue par l'assemblée, et qu'ils aient violé quelque commandement de l'Eternel, en commettant des choses qui ne se doivent point faire, et se soient rendus coupables;",
+        "OST": "Et si c'est toute l'assemblée d'Israël qui a péché par erreur, et que la chose soit ignorée de l'assemblée; s'ils ont fait contre l'un des commandements de l'Éternel des choses qui ne doivent point se faire, et qu'ils se soient rendus coupables,",
+        "S21": "»Si c'est toute l'assemblée d'Israël qui a péché involontairement, si sans y prêter attention elle a fait contre l'un des commandements de l'Eternel des choses qui ne doivent pas se faire et s’est ainsi rendue coupable,"
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "l’assemblée offrira, quand on découvrira la faute, un jeune taureau en sacrifice pour le péché. On l’amènera devant la tente de la Rencontre,",
+        "DBY": "et que le péché qu'ils ont commis contre le commandement vienne à être connu, alors la congrégation présentera un jeune taureau en sacrifice pour le péché, et on l'amènera devant le tente d'assignation;",
+        "KJV": "When the sin, which they have sinned against it, is known, then the congregation shall offer a young bullock for the sin, and bring him before the tabernacle of the congregation.",
+        "LSG": "et que le péché qu'on a commis vienne à être découvert, l'assemblée offrira un jeune taureau en sacrifice d'expiation, et on l'amènera devant la tente d'assignation.",
+        "MAB": "Et que le péché qu'ils ont fait vienne en évidence, l'assemblée offrira en offrande pour le péché un veau pris du troupeau, et on l'amènera devant le Tabernacle d'assignation.",
+        "OST": "Et que le péché qu'ils ont commis soit connu, l'assemblée offrira un jeune taureau en sacrifice pour le péché, et on l'amènera devant le tabernacle d'assignation.",
+        "S21": "et si le péché commis vient à être découvert, l'assemblée offrira un jeune taureau en sacrifice d'expiation et on l'amènera devant la tente de la rencontre."
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "les responsables de la communauté poseront leurs mains sur la tête du taureau devant l’Eternel, et on l’égorgera devant lui.",
+        "DBY": "et les anciens de l'assemblée poseront leurs mains sur la tête du taureau, devant l'Éternel; et on égorgera le taureau devant l'Éternel.",
+        "KJV": "And the elders of the congregation shall lay their hands upon the head of the bullock before the LORD: and the bullock shall be killed before the LORD.",
+        "LSG": "Les anciens d'Israël poseront leurs mains sur la tête du taureau devant l'Eternel, et on égorgera le taureau devant l'Eternel.",
+        "MAB": "Et les Anciens de l'assemblée poseront leurs mains sur la tête du veau devant l'Eternel.",
+        "OST": "Les anciens de l'assemblée appuieront leurs mains sur la tête du taureau devant l'Éternel, et on égorgera le taureau devant l'Éternel;",
+        "S21": "Les anciens d'Israël poseront leurs mains sur la tête du taureau devant l'Eternel et l’on égorgera le taureau devant l'Eternel."
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "Le prêtre ayant reçu l’onction emportera du sang de la victime dans la tente de la Rencontre.",
+        "DBY": "Et le sacrificateur oint apportera du sang du taureau dans la tente d'assignation;",
+        "KJV": "And the priest that is anointed shall bring of the bullock's blood to the tabernacle of the congregation:",
+        "LSG": "Le sacrificateur ayant reçu l'onction apportera du sang du taureau dans la tente d'assignation;",
+        "MAB": "Et le Sacrificateur oint portera du sang du veau dans le Tabernacle d'assignation.",
+        "OST": "Le sacrificateur ayant reçu l'onction portera du sang du taureau dans le tabernacle d'assignation.",
+        "S21": "Le prêtre consacré par onction apportera du sang du taureau dans la tente de la rencontre."
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "Il y trempera son doigt et en aspergera sept fois le voile devant l’Eternel.",
+        "DBY": "et le sacrificateur trempera son doigt dans ce sang, et en fera aspersion, sept fois, devant l'Éternel, par devant le voile;",
+        "KJV": "And the priest shall dip his finger [in some] of the blood, and sprinkle [it] seven times before the LORD, [even] before the vail.",
+        "LSG": "il trempera son doigt dans le sang, et il en fera sept fois l'aspersion devant l'Eternel, en face du voile.",
+        "MAB": "Ensuite le Sacrificateur trempera son doigt dans le sang, et en fera aspersion devant l'Eternel au devant du voile, par sept fois.",
+        "OST": "Puis le sacrificateur trempera son doigt dans le sang, et en fera sept fois aspersion devant l'Éternel, en face du voile.",
+        "S21": "Il trempera son doigt dans le sang et il en fera 7 fois l'aspersion devant l'Eternel, en face du voile."
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "Il appliquera du sang sur les cornes de l’autel, devant l’Eternel dans la tente de la Rencontre. Il répandra tout le reste du sang sur le socle de l’autel des holocaustes situé à l’entrée de la Tente.",
+        "DBY": "et il mettra du sang sur les cornes de l'autel qui est devant l'Éternel, dans la tente d'assignation; et il versera tout le sang au pied de l'autel de l'holocauste qui est à l'entrée de la tente d'assignation.",
+        "KJV": "And he shall put [some] of the blood upon the horns of the altar which [is] before the LORD, that [is] in the tabernacle of the congregation, and shall pour out all the blood at the bottom of the altar of the burnt offering, which [is at] the door of the tabernacle of the congregation.",
+        "LSG": "Il mettra du sang sur les cornes de l'autel qui est devant l'Eternel dans la tente d'assignation; et il répandra tout le sang au pied de l'autel des holocaustes, qui est à l'entrée de la tente d'assignation.",
+        "MAB": "Et il mettra du sang sur les cornes de l'autel qui est devant l'Eternel dans le Tabernacle d'assignation, et il répandra tout le reste du sang au pied de l'autel de l'holocauste, qui est à l'entrée du Tabernacle d'assignation.",
+        "OST": "Il mettra du sang sur les cornes de l'autel, qui est devant l'Éternel, dans le tabernacle d'assignation; et il répandra tout le sang au pied de l'autel de l'holocauste, qui est à l'entrée du tabernacle d'assignation.",
+        "S21": "Il mettra du sang sur les cornes de l'autel qui est devant l'Eternel dans la tente de la rencontre. Puis il versera tout le sang au pied de l'autel des holocaustes, qui est à l'entrée de la tente de la rencontre."
+      }
+    },
+    {
+      "verse": 19,
+      "texts": {
+        "BDS": "Ensuite, il enlèvera toute la graisse et la brûlera sur l’autel.",
+        "DBY": "Et il lèvera toute la graisse, et la fera fumer sur l'autel:",
+        "KJV": "And he shall take all his fat from him, and burn [it] upon the altar.",
+        "LSG": "Il enlèvera toute la graisse du taureau, et il la brûlera sur l'autel.",
+        "MAB": "Et il lèvera toute sa graisse, et la fera fumer sur l'autel;",
+        "OST": "Il enlèvera aussi toute la graisse, et la fera fumer sur l'autel;",
+        "S21": "Il enlèvera toute la graisse du taureau et la brûlera sur l'autel."
+      }
+    },
+    {
+      "verse": 20,
+      "texts": {
+        "BDS": "Il suivra, pour le reste du taureau, la même procédure que pour le taureau sacrifié pour son péché. Le prêtre accomplira ainsi le rite d’expiation pour eux, et il leur sera pardonné.",
+        "DBY": "il fera du taureau comme il a fait du taureau pour le péché; il fera ainsi de lui. Et le sacrificateur fera propitiation pour eux, et il leur sera pardonné.",
+        "KJV": "And he shall do with the bullock as he did with the bullock for a sin offering, so shall he do with this: and the priest shall make an atonement for them, and it shall be forgiven them.",
+        "LSG": "Il fera de ce taureau comme du taureau expiatoire; il fera de même. C'est ainsi que le sacrificateur fera pour eux l'expiation, et il leur sera pardonné.",
+        "MAB": "Et il fera de ce veau, comme il a fait du veau de l'offrande pour son péché. Le Sacrificateur fera ainsi; il fera propitiation pour eux; et il leur sera pardonné.",
+        "OST": "Et il fera de ce taureau comme il a fait du taureau expiatoire; il en fera de même. Ainsi le sacrificateur fera expiation pour eux, et il leur sera pardonné.",
+        "S21": "Il procédera avec ce taureau exactement comme pour le taureau expiatoire. C'est ainsi que le prêtre fera l’expiation pour eux, et le pardon leur sera accordé."
+      }
+    },
+    {
+      "verse": 21,
+      "texts": {
+        "BDS": "Il fera transporter le taureau hors du camp et le brûlera comme il a été ordonné pour le taureau précédent. Tel est le sacrifice pour le péché de la communauté.",
+        "DBY": "Et on emportera le taureau hors du camp, et on le brûlera comme on a brûlé le premier taureau: c'est un sacrifice pour le péché pour la congrégation.",
+        "KJV": "And he shall carry forth the bullock without the camp, and burn him as he burned the first bullock: it [is] a sin offering for the congregation.",
+        "LSG": "Il emportera le taureau hors du camp, et il le brûlera comme le premier taureau. C'est un sacrifice d'expiation pour l'assemblée.",
+        "MAB": "Puis il tirera hors du camp le veau, et le brûlera comme il a brûlé le premier veau; car c'est l'offrande pour le péché de l'assemblée.",
+        "OST": "Puis il emportera le taureau hors du camp, et le brûlera, comme il a brûlé le premier taureau; c'est le sacrifice pour le péché de l'assemblée.",
+        "S21": "Il emportera le taureau à l’extérieur du camp et il le brûlera comme le premier taureau. C'est un sacrifice d'expiation pour l'assemblée."
+      }
+    },
+    {
+      "verse": 22,
+      "texts": {
+        "BDS": "—Si c’est un chef qui a péché en faisant involontairement l’une des choses que l’Eternel son Dieu a défendues dans ses commandements, et qu’il se soit ainsi rendu coupable,",
+        "DBY": "Si un chef a péché, et a fait par erreur, à l'égard de l'un de tous les commandements de l'Éternel, son Dieu, ce qui ne doit pas se faire, et s'est rendu coupable,",
+        "KJV": "When a ruler hath sinned, and done [somewhat] through ignorance [against] any of the commandments of the LORD his God [concerning things] which should not be done, and is guilty;",
+        "LSG": "Si c'est un chef qui a péché, en faisant involontairement contre l'un des commandements de l'Eternel, son Dieu, des choses qui ne doivent point se faire et en se rendant ainsi coupable,",
+        "MAB": "Que si quelqu'un des principaux a péché, ayant violé par erreur quelqu'un des commandements de l'Eternel son Dieu, en commettant des choses qui ne se doivent point faire, et s'est rendu coupable;",
+        "OST": "Si c'est un des principaux du peuple qui a péché, en faisant par erreur contre l'un des commandements de l'Éternel, son Dieu, ce qui ne doit pas être fait, et s'est rendu coupable;",
+        "S21": "»Si c'est un chef qui a péché, s’il a fait involontairement contre l'un des commandements de l'Eternel, son Dieu, des choses qui ne doivent pas se faire et s’est ainsi rendu coupable,"
+      }
+    },
+    {
+      "verse": 23,
+      "texts": {
+        "BDS": "dès qu’il se rendra compte de son péché, il ira apporter comme sacrifice un bouc mâle sans défaut.",
+        "DBY": "si on lui a fait connaître son péché qu'il a commis, alors il amènera pour son offrande un bouc, un mâle sans défaut;",
+        "KJV": "Or if his sin, wherein he hath sinned, come to his knowledge; he shall bring his offering, a kid of the goats, a male without blemish:",
+        "LSG": "et qu'il vienne à découvrir le péché qu'il a commis, il offrira en sacrifice un bouc mâle sans défaut.",
+        "MAB": "Et qu'on l'avertisse de son péché, qu'il a commis, il amènera pour sacrifice un jeune bouc mâle sans tare;",
+        "OST": "Quand on lui aura fait connaître le péché qu'il a commis, il amènera pour son offrande un bouc mâle, sans défaut;",
+        "S21": "et s’il vient à découvrir le péché qu'il a commis, il offrira en sacrifice un bouc mâle sans défaut."
+      }
+    },
+    {
+      "verse": 24,
+      "texts": {
+        "BDS": "Il posera sa main sur la tête de la victime avant de l’égorger à l’endroit où l’on égorge l’holocauste devant l’Eternel. C’est un sacrifice pour le péché.",
+        "DBY": "et il posera sa main sur la tête du bouc, et il l'égorgera au lieu où l'on égorge l'holocauste devant l'Éternel: c'est un sacrifice pour le péché.",
+        "KJV": "And he shall lay his hand upon the head of the goat, and kill it in the place where they kill the burnt offering before the LORD: it [is] a sin offering.",
+        "LSG": "Il posera sa main sur la tête du bouc, qu'il égorgera dans le lieu où l'on égorge les holocaustes devant l'Eternel. C'est un sacrifice d'expiation.",
+        "MAB": "Et il posera sa main sur la tête du bouc, et on l'égorgera au lieu où l'on égorge l'holocauste devant l'Eternel; [car] c'est une offrande pour le péché.",
+        "OST": "Il appuiera sa main sur la tête du bouc, et l'égorgera au lieu où l'on égorge l'holocauste devant l'Éternel; c'est un sacrifice pour le péché.",
+        "S21": "Il posera sa main sur la tête du bouc et l’égorgera à l’endroit où l'on égorge les holocaustes devant l'Eternel. C'est un sacrifice d'expiation."
+      }
+    },
+    {
+      "verse": 25,
+      "texts": {
+        "BDS": "Le prêtre prendra avec son doigt du sang du sacrifice offert pour le péché et en appliquera sur les cornes de l’autel des holocaustes; puis il répandra le reste du sang sur le socle de l’autel des holocaustes.",
+        "DBY": "Et le sacrificateur prendra avec son doigt du sang du sacrifice pour le péché, et le mettra sur les cornes de l'autel de l'holocauste, et il versera le sang au pied de l'autel de l'holocauste;",
+        "KJV": "And the priest shall take of the blood of the sin offering with his finger, and put [it] upon the horns of the altar of burnt offering, and shall pour out his blood at the bottom of the altar of burnt offering.",
+        "LSG": "Le sacrificateur prendra avec son doigt du sang de la victime expiatoire, il en mettra sur les cornes de l'autel des holocaustes, et il répandra le sang au pied de l'autel des holocaustes.",
+        "MAB": "Puis le Sacrificateur prendra avec son doigt du sang de l'offrande pour le péché, et le mettra sur les cornes de l'autel de l'holocauste, et il répandra le reste de son sang au pied de l'autel de l'holocauste.",
+        "OST": "Le sacrificateur prendra avec son doigt du sang du sacrifice pour le péché, et le mettra sur les cornes de l'autel de l'holocauste; et il répandra le sang au pied de l'autel de l'holocauste;",
+        "S21": "Le prêtre prendra avec son doigt du sang de la victime expiatoire, il en mettra sur les cornes de l'autel des holocaustes et il versera le sang au pied de l'autel des holocaustes."
+      }
+    },
+    {
+      "verse": 26,
+      "texts": {
+        "BDS": "Il brûlera toute la graisse sur l’autel, comme dans le cas du sacrifice de communion. Ainsi le prêtre accomplira pour ce chef le rite d’expiation pour son péché, et il lui sera pardonné.",
+        "DBY": "et il fera fumer toute la graisse sur l'autel, comme la graisse du sacrifice de prospérités; et le sacrificateur fera propitiation pour lui pour le purifier de son péché, et il lui sera pardonné.",
+        "KJV": "And he shall burn all his fat upon the altar, as the fat of the sacrifice of peace offerings: and the priest shall make an atonement for him as concerning his sin, and it shall be forgiven him.",
+        "LSG": "Il brûlera toute la graisse sur l'autel, comme la graisse du sacrifice d'actions de grâces. C'est ainsi que le sacrificateur fera pour ce chef l'expiation de son péché, et il lui sera pardonné.",
+        "MAB": "Et il fera fumer toute sa graisse sur l'autel comme la graisse du sacrifice de prospérités; ainsi le Sacrificateur fera propitiation pour lui de son péché, et il lui sera pardonné.",
+        "OST": "Et il fera fumer toute la graisse sur l'autel, comme la graisse du sacrifice de prospérités. Ainsi le sacrificateur fera pour lui l'expiation de son péché, et il lui sera pardonné.",
+        "S21": "Il brûlera toute la graisse sur l'autel, comme la graisse du sacrifice de communion. C'est ainsi que le prêtre fera pour ce chef l'expiation de son péché, et le pardon lui sera accordé."
+      }
+    },
+    {
+      "verse": 27,
+      "texts": {
+        "BDS": "—Si c’est un simple membre du peuple qui a péché en faisant involontairement quelque chose que l’Eternel a défendu dans ses commandements, et qu’il se soit ainsi rendu coupable,",
+        "DBY": "Et si quelqu'un du peuple du pays a péché par erreur, en faisant, à l'égard de l'un des commandements de l'Éternel, ce qui ne doit pas se faire, et s'est rendu coupable,",
+        "KJV": "And if any one of the common people sin through ignorance, while he doeth [somewhat against] any of the commandments of the LORD [concerning things] which ought not to be done, and be guilty;",
+        "LSG": "Si c'est quelqu'un du peuple qui a péché involontairement, en faisant contre l'un des commandements de l'Eternel des choses qui ne doivent point se faire et en se rendant ainsi coupable,",
+        "MAB": "Que si quelque personne du commun peuple a péché par erreur, en violant quelqu'un des commandements de l'Eternel, [et] en commettant des choses qui ne se doivent point faire, et s'est rendu coupable;",
+        "OST": "Si c'est quelqu'un du peuple qui a péché par erreur, en faisant contre l'un des commandements de l'Éternel, ce qui ne doit pas se faire, et qu'il se rende coupable;",
+        "S21": "»Si c'est quelqu'un du peuple qui a péché involontairement en faisant contre l'un des commandements de l'Eternel des choses qui ne doivent pas se faire et en se rendant ainsi coupable,"
+      }
+    },
+    {
+      "verse": 28,
+      "texts": {
+        "BDS": "quand il se rendra compte de son péché, il apportera comme sacrifice une chèvre sans défaut pour le péché qu’il a commis.",
+        "DBY": "si on lui a fait connaître son péché qu'il a commis, alors il amènera son offrande, une chèvre, une femelle sans défaut, pour son péché qu'il a commis;",
+        "KJV": "Or if his sin, which he hath sinned, come to his knowledge: then he shall bring his offering, a kid of the goats, a female without blemish, for his sin which he hath sinned.",
+        "LSG": "et qu'il vienne à découvrir le péché qu'il a commis, il offrira en sacrifice une chèvre, une femelle sans défaut, pour le péché qu'il a commis.",
+        "MAB": "Et qu'on l'avertisse de son péché qu'il a commis, il amènera son offrande d'une jeune chèvre, sans tare, femelle, pour son péché qu'il a commis.",
+        "OST": "Lorsqu'on lui aura fait connaître le péché qu'il a commis, il amènera pour son offrande une chèvre, une femelle sans défaut, pour le péché qu'il a commis;",
+        "S21": "et s’il vient à découvrir le péché qu'il a commis, il offrira en sacrifice une chèvre, une femelle sans défaut, pour le péché qu'il a commis."
+      }
+    },
+    {
+      "verse": 29,
+      "texts": {
+        "BDS": "Il posera sa main sur la tête de la victime sacrifiée pour le péché et l’égorgera dans le lieu où l’on offre l’holocauste.",
+        "DBY": "et il posera sa main sur la tête du sacrifice pour le péché, et égorgera le sacrifice pour le péché au lieu où l'on égorge l'holocauste.",
+        "KJV": "And he shall lay his hand upon the head of the sin offering, and slay the sin offering in the place of the burnt offering.",
+        "LSG": "Il posera sa main sur la tête de la victime expiatoire, qu'il égorgera dans le lieu où l'on égorge les holocaustes.",
+        "MAB": "Et il posera sa main sur la tête de l'offrande pour le péché, et on égorgera l'offrande pour le péché au lieu où l'on égorge l'holocauste.",
+        "OST": "Il appuiera sa main sur la tête du sacrifice pour le péché, et il égorgera le sacrifice pour le péché au même lieu que l'holocauste.",
+        "S21": "Il posera sa main sur la tête de la victime expiatoire et l’égorgera à l’endroit où l'on égorge les holocaustes."
+      }
+    },
+    {
+      "verse": 30,
+      "texts": {
+        "BDS": "Puis le prêtre prendra avec son doigt du sang de la victime pour l’appliquer sur les cornes de l’autel des holocaustes, et il répandra tout le reste du sang sur le socle de l’autel.",
+        "DBY": "Et le sacrificateur prendra du sang de la chèvre avec son doigt, et le mettra sur les cornes de l'autel de l'holocauste, et il versera tout le sang au pied de l'autel.",
+        "KJV": "And the priest shall take of the blood thereof with his finger, and put [it] upon the horns of the altar of burnt offering, and shall pour out all the blood thereof at the bottom of the altar.",
+        "LSG": "Le sacrificateur prendra avec son doigt du sang de la victime, il en mettra sur les cornes de l'autel des holocaustes, et il répandra tout le sang au pied de l'autel.",
+        "MAB": "Puis le Sacrificateur prendra du sang de la chèvre avec son doigt, et le mettra sur les cornes de l'autel de l'holocauste, et il répandra tout le reste de son sang au pied de l'autel.",
+        "OST": "Puis le sacrificateur prendra avec son doigt du sang de la victime, et le mettra sur les cornes de l'autel de l'holocauste; et il répandra tout le sang au pied de l'autel;",
+        "S21": "Le prêtre prendra avec son doigt du sang de la victime, il en mettra sur les cornes de l'autel des holocaustes et il versera tout le sang au pied de l'autel."
+      }
+    },
+    {
+      "verse": 31,
+      "texts": {
+        "BDS": "Il ôtera toute la graisse, comme on le fait pour le sacrifice de communion, et il la brûlera sur l’autel pour que l’odeur du sacrifice apaise l’Eternel. Le prêtre accomplira ainsi le rite d’expiation pour cet homme, et il lui sera pardonné.",
+        "DBY": "Et il ôtera toute la graisse, comme la graisse a été ôtée de dessus le sacrifice de prospérités; et le sacrificateur la fera fumer sur l'autel, en odeur agréable à l'Éternel; et le sacrificateur fera propitiation pour lui, et il lui sera pardonné.",
+        "KJV": "And he shall take away all the fat thereof, as the fat is taken away from off the sacrifice of peace offerings; and the priest shall burn [it] upon the altar for a sweet savour unto the LORD; and the priest shall make an atonement for him, and it shall be forgiven him.",
+        "LSG": "Le sacrificateur ôtera toute la graisse, comme on ôte la graisse du sacrifice d'actions de grâces, et il la brûlera sur l'autel, et elle sera d'une agréable odeur à l'Eternel. C'est ainsi que le sacrificateur fera pour cet homme l'expiation, et il lui sera pardonné.",
+        "MAB": "Et il ôtera toute sa graisse comme on ôte la graisse de dessus le sacrifice de prospérités, et le Sacrificateur la fera fumer sur l'autel, en bonne odeur à l'Eternel, il fera propitiation pour lui, et il lui sera pardonné.",
+        "OST": "Le sacrificateur ôtera toute la graisse, comme on ôte la graisse du sacrifice de prospérités; et il la fera fumer sur l'autel, en agréable odeur à l'Éternel. Ainsi le sacrificateur fera expiation pour cet homme, et il lui sera pardonné.",
+        "S21": "Le prêtre enlèvera toute la graisse, comme on enlève la graisse du sacrifice de communion, et il la brûlera sur l'autel; son odeur sera agréable à l'Eternel. C'est ainsi que le prêtre fera l’expiation pour cet homme, et le pardon lui sera accordé."
+      }
+    },
+    {
+      "verse": 32,
+      "texts": {
+        "BDS": "Si l’homme offre un agneau en sacrifice pour le péché, il amènera une femelle sans défaut.",
+        "DBY": "Et s'il amène un agneau pour son offrande de sacrifice pour le péché, ce sera une femelle sans défaut qu'il amènera;",
+        "KJV": "And if he bring a lamb for a sin offering, he shall bring it a female without blemish.",
+        "LSG": "S'il offre un agneau en sacrifice d'expiation, il offrira une femelle sans défaut.",
+        "MAB": "Que s'il amène un agneau pour l'oblation de son péché, ce sera une femelle sans tare qu'il amènera.",
+        "OST": "S'il amène un agneau comme son offrande pour le péché, il amènera une femelle sans défaut.",
+        "S21": "»Si c’est un agneau qu’il offre en sacrifice d'expiation, il offrira une femelle sans défaut."
+      }
+    },
+    {
+      "verse": 33,
+      "texts": {
+        "BDS": "Il posera sa main sur la tête de la victime du sacrifice pour le péché et l’égorgera comme telle à l’endroit où l’on immole l’holocauste.",
+        "DBY": "et il posera sa main sur la tête du sacrifice pour le péché, et l'égorgera en sacrifice pour le péché au lieu où l'on égorge l'holocauste.",
+        "KJV": "And he shall lay his hand upon the head of the sin offering, and slay it for a sin offering in the place where they kill the burnt offering.",
+        "LSG": "Il posera sa main sur la tête de la victime, qu'il égorgera en sacrifice d'expiation dans le lieu où l'on égorge les holocaustes.",
+        "MAB": "Et il posera sa main sur la tête de l'offrande pour le péché, et on l'égorgera pour le péché au lieu où l'on égorge l'holocauste.",
+        "OST": "Il appuiera sa main sur la tête du sacrifice pour le péché, et l'égorgera pour le péché, au lieu où l'on égorge l'holocauste.",
+        "S21": "Il posera sa main sur la tête de la victime et l’égorgera en sacrifice d'expiation à l’endroit où l'on égorge les holocaustes."
+      }
+    },
+    {
+      "verse": 34,
+      "texts": {
+        "BDS": "Puis le prêtre prendra avec son doigt du sang de l’animal sacrifié pour le péché et le mettra sur les cornes de l’autel des holocaustes; puis il répandra le reste du sang sur le socle de l’autel.",
+        "DBY": "Et le sacrificateur prendra, avec son doigt, du sang du sacrifice pour le péché et le mettra sur les cornes de l'autel de l'holocauste, et il versera tout le sang au pied de l'autel.",
+        "KJV": "And the priest shall take of the blood of the sin offering with his finger, and put [it] upon the horns of the altar of burnt offering, and shall pour out all the blood thereof at the bottom of the altar:",
+        "LSG": "Le sacrificateur prendra avec son doigt du sang de la victime, il en mettra sur les cornes de l'autel des holocaustes, et il répandra tout le sang au pied de l'autel.",
+        "MAB": "Puis le Sacrificateur prendra avec son doigt du sang de l'offrande pour le péché, et le mettra sur les cornes de l'autel de l'holocauste, et il répandra tout le reste de son sang au pied de l'autel.",
+        "OST": "Puis le sacrificateur prendra avec son doigt du sang de la victime pour le péché, et le mettra sur les cornes de l'autel de l'holocauste, et il répandra tout le sang au pied de l'autel.",
+        "S21": "Le prêtre prendra avec son doigt du sang de la victime, il en mettra sur les cornes de l'autel des holocaustes et il versera tout le sang au pied de l'autel."
+      }
+    },
+    {
+      "verse": 35,
+      "texts": {
+        "BDS": "Il enlèvera toute la graisse, comme on le fait pour l’agneau offert en sacrifice de communion; ensuite le prêtre la brûlera sur l’autel, sur les sacrifices et offrandes consumés par le feu qui appartiennent à l’Eternel. Le prêtre accomplira ainsi le rite d’expiation pour le péché commis par cet homme, et il lui sera pardonné.",
+        "DBY": "Et il ôtera toute la graisse, comme la graisse de l'agneau a été ôtée du sacrifice de prospérités; et le sacrificateur la fera fumer sur l'autel, sur les sacrifices de l'Éternel faits par feu; et le sacrificateur fera propitiation pour lui pour son péché qu'il a commis; et il lui sera pardonné.",
+        "KJV": "And he shall take away all the fat thereof, as the fat of the lamb is taken away from the sacrifice of the peace offerings; and the priest shall burn them upon the altar, according to the offerings made by fire unto the LORD: and the priest shall make an atonement for his sin that he hath committed, and it shall be forgiven him.",
+        "LSG": "Le sacrificateur ôtera toute la graisse, comme on ôte la graisse de l'agneau dans le sacrifice d'actions de grâces, et il la brûlera sur l'autel, comme un sacrifice consumé par le feu devant l'Eternel. C'est ainsi que le sacrificateur fera pour cet homme l'expiation du péché qu'il a commis, et il lui sera pardonné.",
+        "MAB": "Et il ôtera toute sa graisse, comme on ôte la graisse de l'agneau du sacrifice de prospérités, et le Sacrificateur les fera fumer sur l'autel par dessus les sacrifices de l'Eternel faits par feu, et il fera propitiation pour lui, touchant son péché qu'il aura commis, et il lui sera pardonné.",
+        "OST": "Le sacrificateur ôtera toute la graisse, comme on ôte la graisse de l'agneau du sacrifice de prospérités, et il les fera fumer sur l'autel, à la manière des sacrifices de l'Éternel faits par le feu. Ainsi le sacrificateur fera l'expiation pour cet homme, pour le péché qu'il a commis, et il lui sera pardonné.",
+        "S21": "Le prêtre enlèvera toute la graisse comme on enlève la graisse de l'agneau dans le sacrifice de communion, et il la brûlera sur l'autel comme un sacrifice passé par le feu pour l'Eternel. C'est ainsi que le prêtre fera pour cet homme l'expiation du péché qu'il a commis, et le pardon lui sera accordé."
+      }
+    }
+  ]
+}

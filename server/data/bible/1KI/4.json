@@ -1,0 +1,386 @@
+{
+  "bookCode": "1KI",
+  "chapter": 4,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "Le roi Salomon régnait sur tout Israël.",
+        "DBY": "Et le roi Salomon était roi sur tout Israël.",
+        "KJV": "So king Solomon was king over all Israel.",
+        "LSG": "Le roi Salomon était roi sur tout Israël.",
+        "MAB": "Le Roi Salomon donc fut Roi sur tout Israël.",
+        "OST": "Le roi Salomon fut donc roi sur tout Israël.",
+        "S21": "Salomon était roi sur tout Israël."
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "Voici les ministres qui l’assistaient: Azariahou, petit-fils du prêtre Tsadoq,",
+        "DBY": "Et ce sont ici les princes qu'il avait: Azaria, fils de Tsadok, le sacrificateur;",
+        "KJV": "And these [were] the princes which he had; Azariah the son of Zadok the priest,",
+        "LSG": "Voici les chefs qu'il avait à son service. Azaria, fils du sacrificateur Tsadok,",
+        "MAB": "Et ceux-ci étaient les principaux Seigneurs de sa [cour]; Hazaria fils de Tsadok Sacrificateur;",
+        "OST": "Et voici quels étaient ses dignitaires: Azaria, fils du sacrificateur Tsadok,",
+        "S21": "Voici les hauts fonctionnaires qu'il avait à son service. Azaria, le petit-fils du prêtre Tsadok,"
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "Elihoreph et Ahiya, fils de Chicha, étaient ses secrétaires; Josaphat, fils d’Ahiloud, était archiviste.",
+        "DBY": "Élihoreph et Akhija, fils de Shisha, scribes; Josaphat, fils d'Akhilud, rédacteur des chroniques;",
+        "KJV": "Elihoreph and Ahiah, the sons of Shisha, scribes; Jehoshaphat the son of Ahilud, the recorder.",
+        "LSG": "Elihoreph et Achija, fils de Schischa, étaient secrétaires; Josaphat, fils d'Achilud, était archiviste;",
+        "MAB": "Elihoreph et Ahija enfants de Sisa, Secrétaires; Jéhosaphat fils d'Ahilud, commis sur les Registres;",
+        "OST": "Élihoreph et Achija, fils de Shisha, étaient secrétaires; Jéhoshaphat, fils d'Achilud, était archiviste;",
+        "S21": "Elihoreph et Achija, le fils de Shisha, étaient secrétaires. Josaphat, le fils d'Achilud, était archiviste."
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "Benayahou, fils de Yehoyada, était le général en chef de l’armée, Tsadoq et Abiatar étaient prêtres;",
+        "DBY": "et Benaïa, fils de Jehoïada, préposé sur l'armée; et Tsadok, et Abiathar, sacrificateurs;",
+        "KJV": "And Benaiah the son of Jehoiada [was] over the host: and Zadok and Abiathar [were] the priests:",
+        "LSG": "Benaja, fils de Jehojada, commandait l'armée; Tsadok et Abiathar étaient sacrificateurs;",
+        "MAB": "Bénaja fils de Jéhojadah avait la charge de l'armée; et Tsadok et Abiathar étaient les Sacrificateurs;",
+        "OST": "Bénaja, fils de Jéhojada, chef de l'armée; Tsadok et Abiathar étaient sacrificateurs;",
+        "S21": "Benaja, le fils de Jehojada, était à la tête de l'armée. Tsadok et Abiathar étaient prêtres."
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "Azariahou, fils de Nathan, était chef des gouverneurs; Zaboud, fils de Nathan, était prêtre et conseiller personnel du roi;",
+        "DBY": "et Azaria, fils de Nathan, préposé sur les intendants; et Zabud, fils de Nathan, principal officier, ami du roi;",
+        "KJV": "And Azariah the son of Nathan [was] over the officers: and Zabud the son of Nathan [was] principal officer, [and] the king's friend:",
+        "LSG": "Azaria, fils de Nathan, était chef des intendants; Zabud, fils de Nathan, était ministre d'état, favori du roi;",
+        "MAB": "Hazaria fils de Nathan avait la charge de ceux qui étaient commis sur les vivres; et Zabul fils de Nathan était le principal officier; [et] le favori du Roi;",
+        "OST": "Azaria, fils de Nathan, était surintendant; et Zabud, fils de Nathan, principal officier, ami du roi;",
+        "S21": "Azaria, le fils de Nathan, était le chef des intendants. Zabud, le fils de Nathan, était prêtre. C’était un proche du roi."
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "Ahichar était l’intendant du palais royal et Adoniram, fils d’Abda, était préposé à la surveillance des corvées.",
+        "DBY": "et Akhishar, préposé sur la maison, et Adoniram, fils d'Abda, sur les levées.",
+        "KJV": "And Ahishar [was] over the household: and Adoniram the son of Abda [was] over the tribute.",
+        "LSG": "Achischar était chef de la maison du roi; et Adoniram, fils d'Abda, était préposé sur les impôts.",
+        "MAB": "et Ahisar était le grand-maître de la maison; et Adoniram fils de Habda, [était] commis sur les tributs.",
+        "OST": "Achishar, grand-maître de la maison; et Adoniram, fils d'Abda, commis sur les impôts.",
+        "S21": "Achishar était chef du palais royal et Adoniram, le fils d'Abda, était préposé aux corvées."
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "Salomon nomma douze gouverneurs sur tout Israël. Ils étaient chargés de pourvoir à l’entretien du roi et de tout le personnel de son palais. Chacun d’eux assurait le ravitaillement un mois par an.",
+        "DBY": "Salomon avait douze intendants sur tout Israël, et ils pourvoyaient à l'entretien du roi et de sa maison; chacun était tenu de pourvoir à cet entretien un mois dans l'année.",
+        "KJV": "And Solomon had twelve officers over all Israel, which provided victuals for the king and his household: each man his month in a year made provision.",
+        "LSG": "Salomon avait douze intendants sur tout Israël. Ils pourvoyaient à l'entretien du roi et de sa maison, chacun pendant un mois de l'année.",
+        "MAB": "Or Salomon avait douze commissaires sur tout Israël, qui faisaient les provisions du Roi et de sa maison; et chacun avait un mois de l'année pour le pourvoir de vivres.",
+        "OST": "Or Salomon avait douze intendants préposés sur tout Israël, et ils entretenaient le roi et sa maison; et chacun était chargé de cet entretien pendant un mois de l'année.",
+        "S21": "Salomon avait douze intendants sur tout Israël. Ils pourvoyaient à l'entretien du roi et de son entourage, chacun pendant un mois de l'année."
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "Voici leurs noms: Ben-Hour exerçait sa fonction dans la région montagneuse d’Ephraïm.",
+        "DBY": "Et ce sont ici leurs noms: le fils de Hur, dans la montagne d'Éphraïm;",
+        "KJV": "And these [are] their names: The son of Hur, in mount Ephraim:",
+        "LSG": "Voici leurs noms. Le fils de Hur, dans la montagne d'Ephraïm.",
+        "MAB": "Et ce sont ici leurs noms. Le fils de Hur [était commis] sur la montagne d'Ephraïm;",
+        "OST": "Voici leurs noms: le fils de Hur, dans la montagne d'Éphraïm;",
+        "S21": "Voici leurs noms: le fils de Hur, dans la région montagneuse d'Ephraïm;"
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "Ben-Déqer dans la région de Maqats, à Chaalbim, à Beth-Chémech, à Elôn et à Beth-Hanân.",
+        "DBY": "le fils de Déker, à Makats, et à Shaalbim, et à Beth-Shémesh, et à Élon-Beth-Hanan;",
+        "KJV": "The son of Dekar, in Makaz, and in Shaalbim, and Bethshemesh, and Elonbethhanan:",
+        "LSG": "Le fils de Déker, à Makats, à Saalbim, à Beth-Schémesch, à Elon et à Beth-Hanan.",
+        "MAB": "Le fils de Déker sur Makath, sur Sahalbim, sur Beth-sémes, sur Elon de Beth-hanan;",
+        "OST": "Le fils de Déker à Makats, Saalbim, Beth-Shémèsh et Élon de Beth-Hanan;",
+        "S21": "le fils de Déker, à Makats, Saalbim, Beth-Shémesh, Elon et Beth-Hanan;"
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "Ben-Hésed à Aroubboth dont relevaient aussi Soko et tout le pays de Hépher.",
+        "DBY": "le fils de Hésed, à Arubboth: il avait Soco et tout le pays de Hépher.",
+        "KJV": "The son of Hesed, in Aruboth; to him [pertained] Sochoh, and all the land of Hepher:",
+        "LSG": "Le fils de Hésed, à Arubboth; il avait Soco et tout le pays de Hépher.",
+        "MAB": "Le fils de Hésed sur Arubboth, [et] il avait Soco et tout le pays de Hépher;",
+        "OST": "Le fils de Hésed à Arubboth; il avait Soco et tout le pays de Hépher.",
+        "S21": "le fils de Hésed, à Arubboth, qui était responsable de Soco et de toute la région de Hépher;"
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "Ben-Abinadab dans toute la contrée de Dor. Il avait épousé Taphath, une fille de Salomon.",
+        "DBY": "Le fils d'Abinadab avait toutes les hauteurs de Dor; il avait Taphath, fille de Salomon, pour femme.",
+        "KJV": "The son of Abinadab, in all the region of Dor; which had Taphath the daughter of Solomon to wife:",
+        "LSG": "Le fils d'Abinadab avait toute la contrée de Dor. Thaphath, fille de Salomon, était sa femme.",
+        "MAB": "Le fils d'Abinadab avait toute la contrée de Dor; il eut Taphath fille de Salomon pour femme;",
+        "OST": "Le fils d'Abinadab avait toute la contrée de Dor; il eut Taphath, fille de Salomon, pour femme.",
+        "S21": "le fils d'Abinadab, qui était responsable de toute la région de Dor et qui avait Thaphath, la fille de Salomon, pour femme;"
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "Baana, fils d’Ahiloud, gouvernait Taanak et Meguiddo et toute la région de Beth-Cheân qui est près de Tsartân au-dessous de Jizréel, depuis Beth-Cheân jusqu’à Abel-Mehola et jusqu’au-delà de Yoqmeam.",
+        "DBY": "Baana, fils d'Akhilud, avait Thaanac et Meguiddo, et tout Beth-Shean, qui est à côté de Tsarthan, sous Jizreël, depuis Beth-Shean jusqu'à Abel-Mehola, jusqu'au delà de Jokmeam.",
+        "KJV": "Baana the son of Ahilud; [to him pertained] Taanach and Megiddo, and all Bethshean, which [is] by Zartanah beneath Jezreel, from Bethshean to Abelmeholah, [even] unto [the place that is] beyond Jokneam:",
+        "LSG": "Baana, fils d'Achilud, avait Thaanac et Meguiddo, et tout Beth-Schean qui est près de Tsarthan au-dessous de Jizreel, depuis Beth-Schean jusqu'à Abel-Mehola, jusqu'au delà de Jokmeam.",
+        "MAB": "Bahana fils d'Ahilud avait Tahanac et Méguiddo, et tout [le pays] de Beth-séan qui est vers le chemin tirant vers Tsarthan au dessous de Jizréhel, depuis Beth-séan jusqu'à Abelmeholah, [et] jusqu'au delà de Jokmeham;",
+        "OST": "Baana, fils d'Achilud, avait Thaanac, et Méguiddo, et tout le pays de Beth-Shéan, qui est vers Tsarthan, au-dessous de Jizréel, depuis Beth-Shéan jusqu'à Abel-Méhola, et jusqu'au delà de Jokméam.",
+        "S21": "Baana, le fils d'Achilud, qui était responsable de Thaanac et Meguiddo, et tout Beth-Shean, toute la région qui se situe près de Tsarthan au-dessous de Jizreel et qui va de Beth-Shean jusqu'à Abel-Mehola et après Jokmeam;"
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "Ben-Guéber résidait à Ramoth en Galaad; il était responsable de la région des villages de Yaïr, fils de Manassé, en Galaad, et de la contrée d’Argob en Basan qui comprenait soixante grandes villes fortifiées, munies de remparts et fermées par des barres de bronze.",
+        "DBY": "Le fils de Guéber était à Ramoth de Galaad: il avait les bourgs de Jaïr, fils de Manassé, qui sont en Galaad, la région d'Argob, qui est en Basan, soixante grandes villes avec des murailles et des barres d'airain.",
+        "KJV": "The son of Geber, in Ramothgilead; to him [pertained] the towns of Jair the son of Manasseh, which [are] in Gilead; to him [also pertained] the region of Argob, which [is] in Bashan, threescore great cities with walls and brasen bars:",
+        "LSG": "Le fils de Guéber, à Ramoth en Galaad; il avait les bourgs de Jaïr, fils de Manassé, en Galaad; il avait encore la contrée d'Argob en Basan, soixante grandes villes à murailles et à barres d'airain.",
+        "MAB": "Le fils de Guéber [était commis] sur Ramoth de Galaad, [et] il avait les bourgs de Jaïr fils de Manassé en Galaad; il avait aussi toute la contrée d'Argob en Basan, soixante grandes villes murées, et [garnies] de barres d'airain;",
+        "OST": "Le fils de Guéber était à Ramoth de Galaad; il avait les bourgs de Jaïr, fils de Manassé, en Galaad; il avait aussi la contrée d'Argob, en Bassan, soixante grandes villes à murailles et à barres d'airain.",
+        "S21": "le fils de Guéber, à Ramoth en Galaad, qui était responsable des bourgs de Jaïr, fils de Manassé, en Galaad ainsi que de la région d'Argob en Basan, soit de 60 grandes villes dotées de murailles et de verrous en bronze;"
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "Ahinadab, fils d’Iddo, supervisait la région de Mahanaïm.",
+        "DBY": "Akhinadab, fils d'Iddo, était à Mahanaïm;",
+        "KJV": "Ahinadab the son of Iddo [had] Mahanaim:",
+        "LSG": "Achinadab, fils d'Iddo, à Mahanaïm.",
+        "MAB": "Ahinadab fils de Hiddo [était commis] sur Mahanajim;",
+        "OST": "Achinadab, fils d'Iddo, à Mahanaïm;",
+        "S21": "Achinadab, le fils d'Iddo, à Mahanaïm;"
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "Ahimaats, celle de Nephtali. Lui aussi avait épousé une fille de Salomon nommée Basmath.",
+        "DBY": "Akhimaats, en Nephthali: lui aussi avait pris Basmath, fille de Salomon, pour femme;",
+        "KJV": "Ahimaaz [was] in Naphtali; he also took Basmath the daughter of Solomon to wife:",
+        "LSG": "Achimaats, en Nephthali. Il avait pris pour femme Basmath, fille de Salomon.",
+        "MAB": "Ahimahats, qui avait pour femme Basemath fille de Salomon, [était commis] sur Nephthali;",
+        "OST": "Achimaats, en Nephthali; lui aussi prit pour femme une fille de Salomon, Basmath.",
+        "S21": "Achimaats, qui avait pris pour femme Basmath, la fille de Salomon, en Nephthali;"
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "Baana, fils de Houchaï, était responsable en Aser et à Bealoth;",
+        "DBY": "Baana, fils de Hushaï, en Aser et en Aloth;",
+        "KJV": "Baanah the son of Hushai [was] in Asher and in Aloth:",
+        "LSG": "Baana, fils de Huschaï, en Aser et à Bealoth.",
+        "MAB": "Bahana fils de Cusaï [était commis] sur Aser, et sur Haloth;",
+        "OST": "Baana, fils de Cushaï, en Asser et à Aloth;",
+        "S21": "Baana, le fils de Hushaï, en Aser et à Bealoth;"
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "Josaphat, fils de Parouah, en Issacar;",
+        "DBY": "Josaphat, fils de Paruakh, en Issacar;",
+        "KJV": "Jehoshaphat the son of Paruah, in Issachar:",
+        "LSG": "Josaphat, fils de Paruach, en Issacar.",
+        "MAB": "Jéhosaphat fils de Paruah, sur Issacar;",
+        "OST": "Jéhoshaphat, fils de Paruach, en Issacar;",
+        "S21": "Josaphat, le fils de Paruach, en Issacar;"
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "Chimeï, fils d’Ela, en Benjamin;",
+        "DBY": "Shimhi, fils d'Éla, en Benjamin;",
+        "KJV": "Shimei the son of Elah, in Benjamin:",
+        "LSG": "Schimeï, fils d'Ela, en Benjamin.",
+        "MAB": "Simhi fils d'Ela, sur Benjamin;",
+        "OST": "Shimeï, fils d'Éla, en Benjamin;",
+        "S21": "Shimeï, le fils d'Ela, en Benjamin;"
+      }
+    },
+    {
+      "verse": 19,
+      "texts": {
+        "BDS": "Guéber, fils d’Ouri, dans la province de Galaad; il gouvernait la contrée qui avait appartenu à Sihôn, roi des Amoréens, et à Og, roi du Basan. Il y avait, de plus, un gouverneur qui supervisait tout le pays.",
+        "DBY": "Guéber, fils d'Uri, dans le pays de Galaad, le pays de Sihon, roi des Amoréens, et d'Og, roi de Basan: il était le seul intendant qui fût dans le pays.",
+        "KJV": "Geber the son of Uri [was] in the country of Gilead, [in] the country of Sihon king of the Amorites, and of Og king of Bashan; and [he was] the only officer which [was] in the land.",
+        "LSG": "Guéber, fils d'Uri, dans le pays de Galaad; il avait la contrée de Sihon, roi des Amoréens, et d'Og, roi de Basan. Il y avait un seul intendant pour ce pays.",
+        "MAB": "Guéber fils d'Uri, sur le pays de Galaad, [qui avait été] du pays de Sihon Roi des Amorrhéens, et de Hog Roi de Basan; et il était seul commis sur ce pays-là.",
+        "OST": "Guéber, fils d'Uri, au pays de Galaad, le pays de Sihon, roi des Amoréens et d'Og, roi de Bassan; et il était seul intendant de ce pays-là.",
+        "S21": "Guéber, le fils d'Uri, dans le pays de Galaad. Ce dernier était responsable de la région de Sihon, le roi des Amoréens, et d'Og, le roi du Basan. Il y avait un seul intendant pour ce pays."
+      }
+    },
+    {
+      "verse": 20,
+      "texts": {
+        "BDS": "La population de Juda et d’Israël était alors aussi nombreuse que les grains de sable au bord de la mer. Ils avaient à manger et à boire et ils étaient dans la joie.",
+        "DBY": "Juda et Israël étaient nombreux, comme le sable qui est près de la mer, en multitude, -mangeant et buvant, et se réjouissant.",
+        "KJV": "Judah and Israel [were] many, as the sand which [is] by the sea in multitude, eating and drinking, and making merry.",
+        "LSG": "Juda et Israël étaient très nombreux, pareils au sable qui est sur le bord de la mer. Ils mangeaient, buvaient et se réjouissaient.",
+        "MAB": "Juda et Israël étaient en grand nombre, comme le sable qui est sur le bord de la mer, tant ils étaient en grand nombre; ils mangeaient et buvaient, et se réjouissaient.",
+        "OST": "Juda et Israël étaient comme le sable qui est sur le bord de la mer, tant ils étaient en grand nombre; ils mangeaient, buvaient et se réjouissaient.",
+        "S21": "Juda et Israël étaient aussi nombreux que le sable qui est au bord de la mer. Ils mangeaient, buvaient et se réjouissaient."
+      }
+    },
+    {
+      "verse": 21,
+      "texts": {
+        "DBY": "Et Salomon domina sur tous les royaumes, depuis le fleuve jusqu'au pays des Philistins, et jusqu'à la frontière d'Égypte: ils apportèrent des présents et servirent Salomon tous les jours de sa vie.",
+        "KJV": "And Solomon reigned over all kingdoms from the river unto the land of the Philistines, and unto the border of Egypt: they brought presents, and served Solomon all the days of his life.",
+        "LSG": "Salomon dominait encore sur tous les royaumes depuis le fleuve jusqu'au pays des Philistins et jusqu'à la frontière d'Egypte; ils apportaient des présents, et ils furent assujettis à Salomon tout le temps de sa vie.",
+        "MAB": "Et Salomon dominait sur tous les Royaumes, depuis le fleuve jusqu'au pays des Philistins, et jusqu'à la frontière d'Egypte; et ils lui apportaient des présents, et lui furent [assujettis] tout le temps de sa vie.",
+        "OST": "Et Salomon dominait sur tous les royaumes, depuis le fleuve jusqu'au pays des Philistins et à la frontière d'Égypte; ils apportaient des présents, et furent assujettis à Salomon tout le temps de sa vie."
+      }
+    },
+    {
+      "verse": 22,
+      "texts": {
+        "DBY": "Et l'ordinaire de Salomon, pour un jour, était: trente cors de fleur de farine, et soixante cors de farine,",
+        "KJV": "And Solomon's provision for one day was thirty measures of fine flour, and threescore measures of meal,",
+        "LSG": "Chaque jour Salomon consommait en vivres: trente cors de fleur de farine et soixante cors de farine,",
+        "MAB": "Or les vivres de Salomon pour chaque jour étaient trente Cores de fine farine, et soixante d'autre farine;",
+        "OST": "Or les vivres de Salomon étaient, pour chaque jour: trente cores de fleur de farine et soixante cores de farine;"
+      }
+    },
+    {
+      "verse": 23,
+      "texts": {
+        "DBY": "dix bœufs gras, et vingt bœufs de pâturages, et cent moutons, outre les cerfs, et les gazelles, et les daims, et la volaille engraissée.",
+        "KJV": "Ten fat oxen, and twenty oxen out of the pastures, and an hundred sheep, beside harts, and roebucks, and fallowdeer, and fatted fowl.",
+        "LSG": "dix boeufs gras, vingt boeufs de pâturage, et cent brebis, outre les cerfs, les gazelles, les daims, et les volailles engraissées.",
+        "MAB": "Dix bœufs gras, et vingt bœufs des pâturages, et cent moutons; sans les cerfs, les daims, les buffles, et les volailles engraissées.",
+        "OST": "Dix bœufs gras et vingt bœufs des pâturages, et cent moutons, sans les cerfs, les gazelles, les daims et les volailles engraissées."
+      }
+    },
+    {
+      "verse": 24,
+      "texts": {
+        "DBY": "Car il dominait sur tout ce qui était en deçà du fleuve, depuis Thiphsakh jusqu'à Gaza, sur tous les rois en deçà du fleuve; et il était en paix avec tous ses alentours, de tous côtés.",
+        "KJV": "For he had dominion over all [the region] on this side the river, from Tiphsah even to Azzah, over all the kings on this side the river: and he had peace on all sides round about him.",
+        "LSG": "Il dominait sur tout le pays de l'autre côté du fleuve, depuis Thiphsach jusqu'à Gaza, sur tous les rois de l'autre côté du fleuve. Et il avait la paix de tous les côtés alentour.",
+        "MAB": "Car il dominait sur toutes les contrées de deçà le fleuve, depuis Tiphsah jusqu'à Gaza, sur tous les Rois qui étaient deçà le fleuve, et il était en paix [avec tous les pays] d'alentour, de tous côtés.",
+        "OST": "Car il dominait sur tous les pays de ce côté-ci du fleuve, depuis Thiphsach jusqu'à Gaza, sur tous les rois de ce côté-ci du fleuve; et il avait la paix avec tous ses alentours, de tous côtés."
+      }
+    },
+    {
+      "verse": 25,
+      "texts": {
+        "DBY": "Et Juda et Israël habitèrent en sécurité, chacun sous sa vigne et sous son figuier, depuis Dan jusqu'à Beër-Shéba, tous les jours de Salomon.",
+        "KJV": "And Judah and Israel dwelt safely, every man under his vine and under his fig tree, from Dan even to Beersheba, all the days of Solomon.",
+        "LSG": "Juda et Israël, depuis Dan jusqu'à Beer-Schéba, habitèrent en sécurité, chacun sous sa vigne et sous son figuier, tout le temps de Salomon.",
+        "MAB": "Et Juda et Israël habitaient en assurance chacun sous sa vigne et sous son figuier, depuis Dan jusqu'à Beer-sebah, durant tout le temps de Salomon.",
+        "OST": "Et Juda et Israël habitaient en sécurité, chacun sous sa vigne et sous son figuier, depuis Dan jusqu'à Béer-Shéba, pendant toute la vie de Salomon."
+      }
+    },
+    {
+      "verse": 26,
+      "texts": {
+        "DBY": "Et Salomon avait quarante mille stalles pour les chevaux de ses chars, et douze mille cavaliers.",
+        "KJV": "And Solomon had forty thousand stalls of horses for his chariots, and twelve thousand horsemen.",
+        "LSG": "Salomon avait quarante mille crèches pour les chevaux destinés à ses chars, et douze mille cavaliers.",
+        "MAB": "Salomon avait aussi quarante mille places à tenir des chevaux, et douze mille hommes de cheval.",
+        "OST": "Salomon avait aussi quarante mille attelages de chevaux pour ses chars et douze mille cavaliers."
+      }
+    },
+    {
+      "verse": 27,
+      "texts": {
+        "DBY": "Et ces intendants pourvoyaient à l'entretien du roi Salomon et de tous ceux qui venaient à la table du roi Salomon, chacun en son mois; ils ne laissaient rien manquer.",
+        "KJV": "And those officers provided victual for king Solomon, and for all that came unto king Solomon's table, every man in his month: they lacked nothing.",
+        "LSG": "Les intendants pourvoyaient à l'entretien du roi Salomon et de tous ceux qui s'approchaient de sa table, chacun pendant son mois; ils ne laissaient manquer de rien.",
+        "MAB": "Or ces commis-là pourvoyaient de vivres le Roi Salomon, et tous ceux qui s'approchaient de la table du Roi Salomon, chacun en son mois, et ils ne [les] laissaient manquer de rien.",
+        "OST": "Or les intendants pourvoyaient de vivres, chacun durant son mois, le roi Salomon et tous ceux qui s'approchaient de la table du roi Salomon; ils ne laissaient rien manquer."
+      }
+    },
+    {
+      "verse": 28,
+      "texts": {
+        "DBY": "Et ils faisaient venir l'orge et la paille pour les chevaux et les coursiers au lieu où étaient l'intendant, chacun selon sa règle.",
+        "KJV": "Barley also and straw for the horses and dromedaries brought they unto the place where [the officers] were, every man according to his charge.",
+        "LSG": "Ils faisaient aussi venir de l'orge et de la paille pour les chevaux et les coursiers dans le lieu où se trouvait le roi, chacun selon les ordres qu'il avait reçus.",
+        "MAB": "Ils faisaient aussi venir de l'orge et de la paille pour les chevaux et pour les genets, aux lieux où ils étaient, chacun selon la charge qu'il en avait.",
+        "OST": "Ils faisaient aussi venir de l'orge et de la paille pour les chevaux de trait et les coursiers, chacun selon sa charge, au lieu où ils étaient."
+      }
+    },
+    {
+      "verse": 29,
+      "texts": {
+        "DBY": "Et Dieu donna à Salomon de la sagesse et une très-grande intelligence, et un cœur large comme le sable qui est sur le bord de la mer.",
+        "KJV": "And God gave Solomon wisdom and understanding exceeding much, and largeness of heart, even as the sand that [is] on the sea shore.",
+        "LSG": "Dieu donna à Salomon de la sagesse, une très grande intelligence, et des connaissances multipliées comme le sable qui est au bord de la mer.",
+        "MAB": "Et Dieu donna de la sagesse à Salomon; et une fort grande intelligence, et une étendue d'esprit aussi grande que celle du sable qui est sur le bord de la mer.",
+        "OST": "Et Dieu donna à Salomon de la sagesse, une fort grande intelligence, et un esprit aussi vaste que le sable qui est sur le bord de la mer."
+      }
+    },
+    {
+      "verse": 30,
+      "texts": {
+        "DBY": "Et la sagesse de Salomon était plus grande que la sagesse de tous les fils de l'orient et toute la sagesse de l'Égypte.",
+        "KJV": "And Solomon's wisdom excelled the wisdom of all the children of the east country, and all the wisdom of Egypt.",
+        "LSG": "La sagesse de Salomon surpassait la sagesse de tous les fils de l'Orient et toute la sagesse des Egyptiens.",
+        "MAB": "Et la sagesse de Salomon était plus grande que la sagesse de tous les Orientaux, et que toute la sagesse des Egyptiens.",
+        "OST": "Et la sagesse de Salomon surpassait la sagesse de tous les Orientaux, et toute la sagesse des Égyptiens."
+      }
+    },
+    {
+      "verse": 31,
+      "texts": {
+        "DBY": "Et il était plus sage qu'aucun homme, plus qu'Éthan, l'Ezrakhite, et qu'Héman, et Calcol, et Darda, les fils de Makhol. Et sa renommée était répandue parmi toutes les nations, à l'entour.",
+        "KJV": "For he was wiser than all men; than Ethan the Ezrahite, and Heman, and Chalcol, and Darda, the sons of Mahol: and his fame was in all nations round about.",
+        "LSG": "Il était plus sage qu'aucun homme, plus qu'Ethan, l'Ezrachite, plus qu'Héman, Calcol et Darda, les fils de Machol; et sa renommée était répandue parmi toutes les nations d'alentour.",
+        "MAB": "Il était même plus sage que quelque homme que ce fût, plus qu'Ethan Ezrahite, qu'Héman, que Calcol, et que Dardah, les fils de Mahol; et sa réputation se répandit dans toutes les nations d'alentour.",
+        "OST": "Il était plus sage qu'aucun homme; plus qu'Éthan l'Ézrachite, et Héman, Calcol et Darda, les fils de Machol; et sa réputation se répandit parmi toutes les nations d'alentour."
+      }
+    },
+    {
+      "verse": 32,
+      "texts": {
+        "DBY": "Et il proféra trois mille proverbes, et ses cantiques furent au nombre de mille et cinq.",
+        "KJV": "And he spake three thousand proverbs: and his songs were a thousand and five.",
+        "LSG": "Il a prononcé trois mille sentences, et composé mille cinq cantiques.",
+        "MAB": "Il prononça trois mille paraboles, et fit cinq mille cantiques.",
+        "OST": "Il prononça trois mille sentences, et ses cantiques furent au nombre de mille et cinq."
+      }
+    },
+    {
+      "verse": 33,
+      "texts": {
+        "DBY": "Et il parla sur les arbres, depuis le cèdre qui est sur le Liban, jusqu'à l'hysope qui sort du mur; et il parla sur les bêtes, et sur les oiseaux, et sur les reptiles, et sur les poissons.",
+        "KJV": "And he spake of trees, from the cedar tree that [is] in Lebanon even unto the hyssop that springeth out of the wall: he spake also of beasts, and of fowl, and of creeping things, and of fishes.",
+        "LSG": "Il a parlé sur les arbres, depuis le cèdre du Liban jusqu'à l'hysope qui sort de la muraille; il a aussi parlé sur les animaux, sur les oiseaux, sur les reptiles et sur les poissons.",
+        "MAB": "Il a aussi parlé des arbres, depuis le cèdre qui est au Liban, jusqu'à l'hysope qui sort de la muraille; il a aussi parlé des bêtes, des oiseaux, des reptiles, et des poissons.",
+        "OST": "Il a aussi parlé des arbres, depuis le cèdre qui est au Liban jusqu'à l'hysope qui sort de la muraille; il a aussi parlé des animaux, des oiseaux, des reptiles et des poissons."
+      }
+    },
+    {
+      "verse": 34,
+      "texts": {
+        "DBY": "Et de tous les peuples on venait pour entendre la sagesse de Salomon, de la part de tous les rois de la terre qui avaient entendu parler de sa sagesse.",
+        "KJV": "And there came of all people to hear the wisdom of Solomon, from all kings of the earth, which had heard of his wisdom.",
+        "LSG": "Il venait des gens de tous les peuples pour entendre la sagesse de Salomon, de la part de tous les rois de la terre qui avaient entendu parler de sa sagesse.",
+        "MAB": "Et il venait des gens d'entre tous les peuples pour entendre la sagesse de Salomon; [et] de la part de tous les Rois de la terre qui avaient entendu parler de sa sagesse.",
+        "OST": "Et, de tous les peuples, on venait pour entendre la sagesse de Salomon, de la part de tous les rois de la terre, qui avaient entendu parler de sa sagesse."
+      }
+    }
+  ]
+}

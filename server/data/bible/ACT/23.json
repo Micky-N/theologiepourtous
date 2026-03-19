@@ -1,0 +1,426 @@
+{
+  "bookCode": "ACT",
+  "chapter": 23,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "Paul fixa ses regards sur tous les membres du Grand-Conseil et déclara:\r\n—Mes frères, j’ai vécu devant Dieu jusqu’à ce jour avec une conscience parfaitement pure.",
+        "DBY": "Et Paul, ayant arrêté les yeux sur le sanhédrin, dit: Hommes frères, je me suis conduit en toute bonne conscience devant Dieu jusqu'à ce jour…",
+        "KJV": "And Paul, earnestly beholding the council, said, Men [and] brethren, I have lived in all good conscience before God until this day.",
+        "LSG": "Paul, les regards fixés sur le sanhédrin, dit: Hommes frères, c'est en toute bonne conscience que je me suis conduit jusqu'à ce jour devant Dieu...",
+        "MAB": "Et Paul regardant fixement le Conseil, dit : hommes frères! je me suis conduit en toute bonne conscience devant Dieu jusqu'à ce jour.",
+        "OST": "Paul, les yeux arrêtés sur le Sanhédrin, dit: Mes frères, j'ai vécu jusqu'à présent devant Dieu en toute bonne conscience.",
+        "S21": "Les regards fixés sur le sanhédrin, Paul dit: «Mes frères, c'est en toute bonne conscience que je me suis conduit devant Dieu jusqu'à aujourd’hui.»"
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "Mais le grand-prêtre Ananias ordonna à ceux qui étaient près de Paul de le frapper sur la bouche.",
+        "DBY": "Mais le souverain sacrificateur Ananias commanda à ceux qui étaient près de lui de le frapper sur la bouche.",
+        "KJV": "And the high priest Ananias commanded them that stood by him to smite him on the mouth.",
+        "LSG": "Le souverain sacrificateur Ananias ordonna à ceux qui étaient près de lui de le frapper sur la bouche.",
+        "MAB": "Sur quoi le souverain Sacrificateur Ananias commanda à ceux qui étaient près de lui, de le frapper sur le visage.",
+        "OST": "Sur cela, le souverain sacrificateur Ananias commanda à ceux qui étaient près de lui, de le frapper au visage.",
+        "S21": "Le grand-prêtre Ananias ordonna à ceux qui étaient près de lui de le frapper sur la bouche."
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "Paul lui dit alors:\r\n—Dieu lui-même va te frapper, muraille blanchie! Tu sièges là pour me juger selon la Loi, et voilà que tu violes la Loi en ordonnant de me frapper!",
+        "DBY": "Alors Paul lui dit: Dieu te frappera, paroi blanchie! Es-tu assis là pour me juger selon la loi; et, contrairement à la loi, tu ordonnes que je sois frappé?",
+        "KJV": "Then said Paul unto him, God shall smite thee, [thou] whited wall: for sittest thou to judge me after the law, and commandest me to be smitten contrary to the law?",
+        "LSG": "Alors Paul lui dit: Dieu te frappera, muraille blanchie! Tu es assis pour me juger selon la loi, et tu violes la loi en ordonnant qu'on me frappe!",
+        "MAB": "Alors Paul lui dit : Dieu te frappera, paroi blanchie ; puisque étant assis pour me juger selon la Loi, tu commandes, en violant la Loi, que je sois frappé.",
+        "OST": "Alors Paul lui dit: Dieu te frappera, muraille blanchie; car tu es assis pour me juger selon la loi; et, transgressant la loi, tu commandes qu'on me frappe.",
+        "S21": "Alors Paul lui dit: «C’est toi que Dieu va frapper, muraille blanchie! Tu sièges pour me juger conformément à la loi et tu violes la loi en ordonnant qu'on me frappe!»"
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "Les assistants s’écrièrent:\r\n—Tu oses injurier le grand-prêtre de Dieu!",
+        "DBY": "Et ceux qui étaient présents dirent: Injuries-tu le souverain sacrificateur de Dieu?",
+        "KJV": "And they that stood by said, Revilest thou God's high priest?",
+        "LSG": "Ceux qui étaient près de lui dirent: Tu insultes le souverain sacrificateur de Dieu!",
+        "MAB": "Et ceux qui étaient présents lui dirent : injuries-tu le souverain Sacrificateur de Dieu?",
+        "OST": "Or, ceux qui étaient présents, lui dirent: Injuries-tu le souverain sacrificateur de Dieu?",
+        "S21": "Ceux qui étaient près de lui dirent: «Tu insultes le grand-prêtre de Dieu!»"
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "—Frères, reprit Paul, j’ignorais que c’était le grand-prêtre, car je sais bien qu’il est écrit: Tu n’insulteras pas le chef de ton peuple.",
+        "DBY": "Et Paul dit: Je ne savais pas, frères, que ce fût le souverain sacrificateur; car il est écrit: \"Tu ne diras pas du mal du chef de ton peuple\".",
+        "KJV": "Then said Paul, I wist not, brethren, that he was the high priest: for it is written, Thou shalt not speak evil of the ruler of thy people.",
+        "LSG": "Et Paul dit: Je ne savais pas, frères, que ce fût le souverain sacrificateur; car il est écrit: Tu ne parleras pas mal du chef de ton peuple.",
+        "MAB": "Et Paul dit : [mes] frères, je ne savais pas qu'il fût souverain Sacrificateur : car il est écrit : tu ne médiras point du Prince de ton peuple.",
+        "OST": "Paul répondit: Frères, je ne savais pas que ce fût le souverain sacrificateur; car il est écrit: Tu ne maudiras point le prince de ton peuple.",
+        "S21": "Paul répondit: «Frères, je ne savais pas que c'était le grand-prêtre. En effet, il est écrit: Tu ne parleras pas mal du chef de ton peuple.»"
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "Paul savait que le Conseil était composé pour une part de sadducéens, pour l’autre de pharisiens, et il s’écria au milieu du Conseil:\r\n—Frères, je suis pharisien et fils de pharisien. Si je suis mis en accusation, c’est pour notre espérance de la résurrection des morts.",
+        "DBY": "Paul, sachant qu'une partie d'entre eux étaient des sadducéens et l'autre des pharisiens, s'écria dans le sanhédrin: Hommes frères, je suis pharisien, fils de pharisien; je suis mis en jugement pour l'espérance et la résurrection des morts.",
+        "KJV": "But when Paul perceived that the one part were Sadducees, and the other Pharisees, he cried out in the council, Men [and] brethren, I am a Pharisee, the son of a Pharisee: of the hope and resurrection of the dead I am called in question.",
+        "LSG": "Paul, sachant qu'une partie de l'assemblée était composée de sadducéens et l'autre de pharisiens, s'écria dans le sanhédrin: Hommes frères, je suis pharisien, fils de pharisiens; c'est à cause de l'espérance et de la résurrection des morts que je suis mis en jugement.",
+        "MAB": "Et Paul sachant qu'une partie [d'entre eux] était des Sadducéens, et l'autre des Pharisiens, il s'écria dans le conseil : hommes frères! je suis Pharisien, fils de Pharisien, je suis tiré en cause pour l'espérance, et pour la résurrection des morts.",
+        "OST": "Or Paul, sachant qu'une partie des juges étaient Sadducéens, et l'autre Pharisiens, s'écria dans le Sanhédrin: Hommes frères, je suis Pharisien, fils de Pharisien, et mis en cause pour l'espérance et la résurrection des morts.",
+        "S21": "Sachant qu'une partie de l'assemblée était composée de sadducéens et l'autre de pharisiens, Paul s’écria dans le sanhédrin: «Mes frères, je suis pharisien, fils de pharisien. C'est à cause de l'espérance de la résurrection des morts que je suis mis en jugement.»"
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "Ces mots provoquèrent une dispute entre pharisiens et sadducéens, et l’assemblée se divisa en deux camps. —",
+        "DBY": "Et quand il eut dit cela, il s'éleva une dissension entre les pharisiens et les sadducéens; et la multitude fut partagée;",
+        "KJV": "And when he had so said, there arose a dissension between the Pharisees and the Sadducees: and the multitude was divided.",
+        "LSG": "Quand il eut dit cela, il s'éleva une discussion entre les pharisiens et les sadducéens, et l'assemblée se divisa.",
+        "MAB": "Et quand il eut dit cela, il s'émut une dissension entre les Pharisiens et les Sadducéens; et l'assemblée fut divisée.",
+        "OST": "Et quand il eut dit cela, la discorde se mit entre les Pharisiens et les Sadducéens; et l'assemblée fut divisée.",
+        "S21": "Quand il eut dit cela, un débat surgit entre les pharisiens et les sadducéens, et l'assemblée se divisa."
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "Les sadducéens, en effet, déclarent qu’il n’y a pas de résurrection, pas plus que d’anges ou d’esprits, et les pharisiens affirment le contraire. —",
+        "DBY": "car les sadducéens disent qu'il n'y a pas de résurrection, ni d'ange, ni d'esprit; mais les pharisiens confessent l'un et l'autre.",
+        "KJV": "For the Sadducees say that there is no resurrection, neither angel, nor spirit: but the Pharisees confess both.",
+        "LSG": "Car les sadducéens disent qu'il n'y a point de résurrection, et qu'il n'existe ni ange ni esprit, tandis que les pharisiens affirment les deux choses.",
+        "MAB": "Car les Sadducéens disent qu'il n'y a point de résurrection, ni d'Ange, ni d'esprit, mais les Pharisiens soutiennent l'un et l'autre.",
+        "OST": "Car les Sadducéens disent qu'il n'y a ni résurrection, ni ange, ni esprit; mais les Pharisiens reconnaissent l'un et l'autre.",
+        "S21": "En effet, les sadducéens disent qu'il n'y a ni résurrection, ni ange, ni esprit, tandis que les pharisiens affirment le contraire."
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "Le ton monta considérablement.\r\nQuelques spécialistes de la Loi qui étaient du parti des pharisiens se levèrent pour protester avec énergie en faveur de l’accusé:\r\n—Vraiment, nous ne trouvons rien à reprocher à cet homme. Après tout, qui sait? Peut-être un esprit ou un ange lui a-t-il parlé?",
+        "DBY": "Et il s'éleva une grande clameur; et quelques scribes du parti des pharisiens se levèrent et contestèrent, disant: Nous ne trouvons aucun mal en cet homme; mais si un esprit lui a parlé, ou un ange…",
+        "KJV": "And there arose a great cry: and the scribes [that were] of the Pharisees' part arose, and strove, saying, We find no evil in this man: but if a spirit or an angel hath spoken to him, let us not fight against God.",
+        "LSG": "Il y eut une grande clameur, et quelques scribes du parti des pharisiens, s'étant levés, engagèrent un vif débat, et dirent: Nous ne trouvons aucun mal en cet homme; peut-être un esprit ou un ange lui a-t-il parlé.",
+        "MAB": "Et il se fit un grand cri. Alors les Scribes du parti des Pharisiens se levèrent et contestèrent, disant : nous ne trouvons aucun mal en cet homme-ci; mais si un esprit ou un Ange lui a parlé, ne combattons point contre Dieu.",
+        "OST": "Il y eut donc une grande clameur. Et les Scribes du parti des Pharisiens se levant, disputaient et disaient: Nous ne trouvons aucun mal en cet homme, et si un esprit ou un ange lui a parlé, ne combattons point contre Dieu.",
+        "S21": "Il y eut une grande clameur et les spécialistes de la loi membres du parti des pharisiens se levèrent. Ils s’engagèrent avec force dans le débat en disant: «Nous ne trouvons rien de mal chez cet homme. Et si un esprit ou un ange lui avait parlé? [Ne combattons pas contre Dieu.]»"
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "La dispute s’envenimait et le commandant craignit que son prisonnier ne soit tué par ces gens. Alors il fit signe à un détachement de soldats de descendre dans la salle pour tirer Paul du milieu d’eux et le ramener à la citadelle.",
+        "DBY": "Et un grand tumulte s'étant élevé, le chiliarque, craignant que Paul ne fût mis en pièces par eux, commanda à la troupe de descendre et de l'enlever du milieu d'eux et de le conduire à la forteresse.",
+        "KJV": "And when there arose a great dissension, the chief captain, fearing lest Paul should have been pulled in pieces of them, commanded the soldiers to go down, and to take him by force from among them, and to bring [him] into the castle.",
+        "LSG": "Comme la discorde allait croissant, le tribun craignant que Paul ne fût mis en pièces par ces gens, fit descendre les soldats pour l'enlever du milieu d'eux et le conduire à la forteresse.",
+        "MAB": "Et comme il se fit une grande division, le Tribun craignant que Paul ne fût mis en pièces par eux, commanda que les soldats descendissent, et qu'ils l'enlevassent du milieu d'eux, et l'amenassent en la forteresse.",
+        "OST": "Et comme une grande dispute s'était engagée, le tribun, craignant que Paul ne fût mis en pièces par eux, commanda que les soldats descendissent, pour l'enlever du milieu d'eux, et le conduire dans la forteresse.",
+        "S21": "Comme le débat devenait vif, le commandant eut peur que Paul ne soit mis en pièces par ces hommes, et il ordonna aux soldats de descendre pour l'enlever du milieu d'eux et le conduire à la forteresse."
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "La nuit suivante, le Seigneur apparut à Paul et lui dit:\r\n—Courage! Tu as été mon témoin à Jérusalem, il faut que tu le sois aussi à Rome.",
+        "DBY": "Et la nuit suivante, le Seigneur se tint près de lui et dit: Aie bon courage; car comme tu as rendu témoignage des choses qui me regardent, à Jérusalem, ainsi il faut que tu rendes témoignage aussi à Rome.",
+        "KJV": "And the night following the Lord stood by him, and said, ‹Be of good cheer, Paul: for as thou hast testified of me in Jerusalem, so must thou bear witness also at Rome.›",
+        "LSG": "La nuit suivante, le Seigneur apparut à Paul, et dit: Prends courage; car, de même que tu as rendu témoignage de moi dans Jérusalem, il faut aussi que tu rendes témoignage dans Rome.",
+        "MAB": "Et la nuit suivante, le Seigneur se présenta à lui, et lui dit : Paul, aie bon courage : car comme tu as rendu témoignage de moi à Jérusalem, tout de même il faut que tu me rendes aussi témoignage à Rome.",
+        "OST": "La nuit suivante, le Seigneur étant venu à lui, lui dit: Paul, aie bon courage; car, comme tu as rendu témoignage à Jérusalem de ce qui me concerne, il faut aussi que tu rendes témoignage à Rome.",
+        "S21": "La nuit suivante, le Seigneur apparut à Paul et dit: «Prends courage, [Paul]: de même que tu as rendu témoignage de ce qui me concerne à Jérusalem, il faut aussi que tu rendes témoignage à Rome.»"
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "Le lendemain matin, au petit jour, les Juifs formèrent un complot. Ils firent le serment de ne rien manger ni boire avant d’avoir tué Paul.",
+        "DBY": "Et quand le jour fut venu, les Juifs s'unirent et s'obligèrent par un serment d'exécration, disant qu'ils ne mangeraient ni ne boiraient jusqu'à ce qu'ils eussent tué Paul.",
+        "KJV": "And when it was day, certain of the Jews banded together, and bound themselves under a curse, saying that they would neither eat nor drink till they had killed Paul.",
+        "LSG": "Quand le jour fut venu, les Juifs formèrent un complot, et firent des imprécations contre eux-mêmes, en disant qu'ils s'abstiendraient de manger et de boire jusqu'à ce qu'ils eussent tué Paul.",
+        "MAB": "Et quand le jour fut venu, quelques Juifs firent un complot et un serment avec exécration, disant qu'ils ne mangeraient ni ne boiraient jusqu'à ce qu'ils eussent tué Paul.",
+        "OST": "Lorsqu'il fut jour, quelques Juifs formèrent un complot, et firent des imprécations contre eux-mêmes, en disant qu'ils ne mangeraient ni ne boiraient qu'ils n'eussent tué Paul.",
+        "S21": "Le jour venu, quelques Juifs formèrent un complot et s'engagèrent, sous peine de malédiction contre eux-mêmes, à ne rien manger ni boire tant qu’ils n’auraient pas tué Paul."
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "Plus de quarante hommes participaient à cette conjuration.",
+        "DBY": "Et ils étaient plus de quarante qui avaient fait cette conjuration.",
+        "KJV": "And they were more than forty which had made this conspiracy.",
+        "LSG": "Ceux qui formèrent ce complot étaient plus de quarante,",
+        "MAB": "Et ils étaient plus de quarante qui avaient fait cette conjuration.",
+        "OST": "Ils étaient plus de quarante qui avaient fait cette conjuration.",
+        "S21": "Ceux qui formèrent cette conspiration étaient plus de 40."
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "Ils allèrent trouver les chefs des prêtres et les responsables du peuple et leur déclarèrent:\r\n—Nous nous sommes engagés par un serment solennel à ne rien manger ni boire tant que nous n’avons pas tué Paul.",
+        "DBY": "Et ils vinrent aux principaux sacrificateurs et aux anciens, et dirent: Nous nous sommes obligés par un serment d'exécration à ne goûter de rein jusqu'à ce que nous ayons tué Paul.",
+        "KJV": "And they came to the chief priests and elders, and said, We have bound ourselves under a great curse, that we will eat nothing until we have slain Paul.",
+        "LSG": "et ils allèrent trouver les principaux sacrificateurs et les anciens, auxquels ils dirent: Nous nous sommes engagés, avec des imprécations contre nous-mêmes, à ne rien manger jusqu'à ce que nous ayons tué Paul.",
+        "MAB": "Et ils s'adressèrent aux principaux Sacrificateurs et aux Anciens, et leur dirent : nous avons fait un vœu, avec exécration de serment, que nous ne goûterions de rien jusqu'à ce que nous ayons tué Paul.",
+        "OST": "Et ils s'adressèrent aux principaux sacrificateurs et aux Anciens, et leur dirent: Nous nous sommes engagés avec des imprécations contre nous-mêmes, à ne rien manger, que nous n'ayons tué Paul.",
+        "S21": "Ils allèrent trouver les chefs des prêtres et les anciens pour leur dire: «Nous nous sommes engagés, sous peine de malédiction contre nous-mêmes, à ne rien manger avant d'avoir tué Paul."
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "A vous d’agir maintenant avec l’appui du Grand-Conseil: intervenez auprès du commandant et proposez-lui de faire comparaître Paul devant vous sous prétexte que vous voulez instruire son cas de plus près. De notre côté, nous avons pris nos dispositions pour le supprimer avant qu’il n’arrive ici.",
+        "DBY": "Vous donc, maintenant, avec le sanhédrin, avertissez le chiliarque pour qu'il le fasse descendre vers vous, comme si vous vouliez vous informer plus exactement de ce qui le regarde; et, avant qu'il approche, nous sommes prêts pour le tuer.",
+        "KJV": "Now therefore ye with the council signify to the chief captain that he bring him down unto you to morrow, as though ye would enquire something more perfectly concerning him: and we, or ever he come near, are ready to kill him.",
+        "LSG": "Vous donc, maintenant, adressez-vous avec le sanhédrin au tribun, pour qu'il l'amène devant vous, comme si vous vouliez examiner sa cause plus exactement; et nous, avant qu'il approche, nous sommes prêts à le tuer.",
+        "MAB": "Vous donc maintenant faites savoir au Tribun par l'avis du Conseil, qu'il vous l'amène demain, comme si vous vouliez connaître de lui quelque chose plus exactement, et nous serons tous prêts pour le tuer avant qu'il approche.",
+        "OST": "Vous donc, maintenant, avec le Sanhédrin, dites au tribun de le faire descendre demain au milieu de vous, comme si vous deviez vous informer plus exactement de son affaire; et nous sommes prêts à le tuer avant qu'il approche.",
+        "S21": "Vous donc, maintenant, adressez-vous avec le sanhédrin au commandant romain pour qu'il l'amène [demain] devant vous, sous prétexte d'examiner son cas plus en détail; de notre côté, nous sommes prêts à le mettre à mort avant qu'il n’arrive ici.»"
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "Mais le fils de la sœur de Paul entendit parler du guet-apens. Il se rendit à la citadelle, y entra, et prévint Paul de ce qui se tramait.",
+        "DBY": "Mais le fils de la sœur de Paul, ayant ouï parler de ce guet-apens, s'en alla et entra dans la forteresse, et le rapporta à Paul.",
+        "KJV": "And when Paul's sister's son heard of their lying in wait, he went and entered into the castle, and told Paul.",
+        "LSG": "Le fils de la soeur de Paul, ayant eu connaissance du guet-apens, alla dans la forteresse en informer Paul.",
+        "MAB": "Mais le fils de la sœur de Paul ayant appris cette conjuration, vint et entra dans la forteresse, et le rapporta à Paul.",
+        "OST": "Mais le fils de la sœur de Paul, ayant entendu ce complot, vint, et étant entré dans la forteresse, en informa Paul.",
+        "S21": "Mais le fils de la sœur de Paul entendit parler du guet-apens et il alla dans la forteresse en informer Paul."
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "Alors Paul fit appeler un officier de service et lui dit:\r\n—Conduis ce garçon auprès du commandant, je t’en prie, il a quelque chose à lui dire.",
+        "DBY": "Et Paul, ayant appelé l'un des centurions, dit: Conduis ce jeune homme au chiliarque, car il a quelque chose à lui rapporter.",
+        "KJV": "Then Paul called one of the centurions unto [him], and said, Bring this young man unto the chief captain: for he hath a certain thing to tell him.",
+        "LSG": "Paul appela l'un des centeniers, et dit: Mène ce jeune homme vers le tribun, car il a quelque chose à lui rapporter.",
+        "MAB": "Et Paul ayant appelé un des centeniers, lui dit : mène ce jeune homme au Tribun; car il a quelque chose à lui rapporter.",
+        "OST": "Et Paul, ayant appelé un des centeniers, lui dit: Mène ce jeune homme vers le tribun, car il a quelque chose à lui rapporter.",
+        "S21": "Paul appela l'un des officiers romains et dit: «Conduis ce jeune homme vers le commandant, car il a quelque chose à lui rapporter.»"
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "L’officier l’emmena donc avec lui et l’introduisit auprès du commandant en disant:\r\n—Le détenu Paul m’a fait appeler et m’a demandé de t’amener ce jeune homme qui a quelque chose à te dire.",
+        "DBY": "Il le prit donc et le conduisit au chiliarque et dit: Le prisonnier Paul m'a appelé, et m'a prié de t'amener ce jeune homme qui a quelque chose à te dire.",
+        "KJV": "So he took him, and brought [him] to the chief captain, and said, Paul the prisoner called me unto [him], and prayed me to bring this young man unto thee, who hath something to say unto thee.",
+        "LSG": "Le centenier prit le jeune homme avec lui, le conduisit vers le tribun, et dit: Le prisonnier Paul m'a appelé, et il m'a prié de t'amener ce jeune homme, qui a quelque chose à te dire.",
+        "MAB": "Il le prit donc, et le mena au Tribun, et il lui dit : Paul qui est prisonnier m'a appelé, et m'a prié de t'amener ce jeune homme qui a quelque chose à te dire.",
+        "OST": "Le centurion l'ayant pris, le mena vers le tribun, et lui dit: Le prisonnier Paul, m'ayant appelé, m'a prié de t'amener ce jeune homme, qui a quelque chose à te dire.",
+        "S21": "L’officier prit le jeune homme avec lui, le conduisit vers le commandant et dit: «Le prisonnier Paul m'a appelé et m'a prié de t'amener ce jeune homme qui a quelque chose à te dire.»"
+      }
+    },
+    {
+      "verse": 19,
+      "texts": {
+        "BDS": "Le commandant, prenant le garçon par la main, se retira avec lui à l’écart et lui demanda:\r\n—Qu’as-tu à me dire?",
+        "DBY": "Et le chiliarque, l'ayant pris par la main et s'étant retiré à part, lui demanda: Qu'est-ce que tu as à me rapporter?",
+        "KJV": "Then the chief captain took him by the hand, and went [with him] aside privately, and asked [him], What is that thou hast to tell me?",
+        "LSG": "Le tribun, prenant le jeune homme par la main, et se retirant à l'écart, lui demanda: Qu'as-tu à m'annoncer?",
+        "MAB": "Et le Tribun le prenant par la main, se retira à part, et lui demanda : qu'est-ce que tu as à me rapporter?",
+        "OST": "Et le tribun, le prenant par la main, et l'ayant tiré à part, lui demanda: Qu'as-tu à m'annoncer?",
+        "S21": "Le commandant prit le jeune homme par la main, se retira à l'écart et l’interrogea: «Qu'as-tu à m'annoncer?»"
+      }
+    },
+    {
+      "verse": 20,
+      "texts": {
+        "BDS": "Alors le neveu de Paul raconta:\r\n—Les Juifs ont convenu de te demander de leur amener Paul, demain, au Grand-Conseil. Ils disent qu’ils veulent examiner son cas de plus près.",
+        "DBY": "Et il dit: Les Juifs se sont entendus pour te prier que demain tu fasses descendre Paul devant le sanhédrin, comme si tu voulais t'enquérir plus exactement à son sujet.",
+        "KJV": "And he said, The Jews have agreed to desire thee that thou wouldest bring down Paul to morrow into the council, as though they would enquire somewhat of him more perfectly.",
+        "LSG": "Il répondit: Les Juifs sont convenus de te prier d'amener Paul demain devant le sanhédrin, comme si tu devais t'enquérir de lui plus exactement.",
+        "MAB": "Et il lui dit : les Juifs ont conspiré de te prier que demain tu envoies Paul au Conseil, comme s'ils voulaient s'enquérir de lui plus exactement de quelque chose.",
+        "OST": "Il dit: Les Juifs sont convenus de te prier de faire descendre demain Paul dans le Sanhédrin, comme s'ils voulaient s'informer plus exactement de son affaire.",
+        "S21": "Il répondit: «Les Juifs ont convenu de te demander d'amener Paul demain devant le sanhédrin, sous prétexte d'enquêter plus en détail sur son cas."
+      }
+    },
+    {
+      "verse": 21,
+      "texts": {
+        "BDS": "Mais surtout, ne te laisse pas prendre. Ils sont à plus de quarante qui préparent un guet-apens contre lui. Ils ont juré de ne rien manger ni boire avant de l’avoir tué. Tout est prêt. Ils n’attendent plus que ton accord.",
+        "DBY": "Toi donc n'y consens pas, car plus de quarante hommes d'entre eux lui dressent un guet-apens, lesquels se sont obligés par un serment d'exécration de ne manger ni ne boire jusqu'à ce qu'ils l'aient tué; et ils sont maintenant prêts, attendant de toi la promesse.",
+        "KJV": "But do not thou yield unto them: for there lie in wait for him of them more than forty men, which have bound themselves with an oath, that they will neither eat nor drink till they have killed him: and now are they ready, looking for a promise from thee.",
+        "LSG": "Ne les écoute pas, car plus de quarante d'entre eux lui dressent un guet-apens, et se sont engagés, avec des imprécations contre eux-mêmes, à ne rien manger ni boire jusqu'à ce qu'ils l'aient tué; maintenant ils sont prêts, et n'attendent que ton consentement.",
+        "MAB": "Mais n'y consens point : car plus de quarante hommes d'entre eux sont en embûches contre lui, qui ont fait un vœu avec exécration de serment, de ne manger ni boire jusqu'à ce qu'ils l'aient tué; et ils sont maintenant tous prêts, attendant ce que tu leur permettras.",
+        "OST": "Mais ne te fie point à eux; car plus de quarante d'entre eux lui dressent des embûches, et se sont engagés avec des imprécations contre eux-mêmes, à ne manger ni boire qu'ils ne l'aient tué; et maintenant ils sont prêts, attendant ta réponse.",
+        "S21": "Ne te fie pas à eux, car plus de 40 d'entre eux lui dressent un guet-apens et se sont engagés, sous peine de malédiction contre eux-mêmes, à ne rien manger ni boire avant de l'avoir tué; maintenant ils sont prêts et n'attendent que ton accord.»"
+      }
+    },
+    {
+      "verse": 22,
+      "texts": {
+        "BDS": "Le commandant laissa repartir le garçon. Mais il lui fit d’abord cette recommandation:\r\n—Surtout ne va dire à personne que tu m’as prévenu de cette affaire.",
+        "DBY": "Le chiliarque donc renvoya le jeune homme, lui ayant enjoint de ne divulguer à personne qu'il lui eût déclaré ces choses.",
+        "KJV": "So the chief captain [then] let the young man depart, and charged [him, See thou] tell no man that thou hast shewed these things to me.",
+        "LSG": "Le tribun renvoya le jeune homme, après lui avoir recommandé de ne parler à personne de ce rapport qu'il lui avait fait.",
+        "MAB": "Le Tribun donc renvoya le jeune homme, en lui commandant de ne dire à personne qu'il lui eût déclaré ces choses.",
+        "OST": "Le tribun renvoya le jeune homme, après lui avoir recommandé de ne dire à personne qu'il lui eût donné cet avis.",
+        "S21": "Le commandant renvoya le jeune homme après lui avoir recommandé: «Ne dis à personne que tu m'as dévoilé cela.»"
+      }
+    },
+    {
+      "verse": 23,
+      "texts": {
+        "BDS": "Aussitôt après, il appela deux de ses officiers et leur commanda:\r\n—Rassemblez deux cents légionnaires et tenez-vous prêts à partir pour Césarée. Prenez avec vous soixante-dix cavaliers et deux cents soldats armés de lances. Départ à neuf heures ce soir.",
+        "DBY": "Et ayant appelé deux des centurions, il dit: Préparez deux cents soldats pour aller à Césarée, et soixante-dix cavaliers, et deux cents porte-lances, dès la troisième heure de la nuit;",
+        "KJV": "And he called unto [him] two centurions, saying, Make ready two hundred soldiers to go to Caesarea, and horsemen threescore and ten, and spearmen two hundred, at the third hour of the night;",
+        "LSG": "Ensuite il appela deux des centeniers, et dit: Tenez prêts, dès la troisième heure de la nuit, deux cents soldats, soixante-dix cavaliers et deux cents archers, pour aller jusqu'à Césarée.",
+        "MAB": "Puis ayant appelé deux centeniers, il leur dit : tenez prêts à trois heures de la nuit deux cents soldats, et soixante-dix hommes de cheval, et deux cents archers, pour aller à Césarée.",
+        "OST": "Et ayant appelé deux des centeniers, il leur dit: Tenez prêts deux cents soldats, soixante et dix cavaliers et deux cents archers, pour aller jusqu'à Césarée dès la troisième heure de la nuit.",
+        "S21": "Ensuite il appela deux officiers et dit: «Tenez prêts, dès neuf heures du soir, 200 soldats, 70 cavaliers et 200 archers pour aller jusqu'à Césarée."
+      }
+    },
+    {
+      "verse": 24,
+      "texts": {
+        "BDS": "Préparez aussi des montures pour Paul et amenez-le sain et sauf au gouverneur Félix.",
+        "DBY": "et procurez-vous des montures, afin qu'ayant mis Paul dessus ils le conduisent en sûreté auprès de Félix le gouverneur.",
+        "KJV": "And provide [them] beasts, that they may set Paul on, and bring [him] safe unto Felix the governor.",
+        "LSG": "Qu'il y ait aussi des montures pour Paul, afin qu'on le mène sain et sauf au gouverneur Félix.",
+        "MAB": "Et ayez soin qu'il y ait des montures prêtes, afin qu'ayant fait monter Paul, ils le mènent sûrement au Gouverneur Félix.",
+        "OST": "Préparez aussi des montures, afin de faire monter Paul, et de le conduire en sûreté au gouverneur Félix.",
+        "S21": "Préparez aussi des chevaux pour conduire Paul sain et sauf au gouverneur Félix.»"
+      }
+    },
+    {
+      "verse": 25,
+      "texts": {
+        "BDS": "Il rédigea en même temps le billet suivant pour le gouverneur:",
+        "DBY": "Et il écrivit une lettre conçue en ces termes:",
+        "KJV": "And he wrote a letter after this manner:",
+        "LSG": "Il écrivit une lettre ainsi conçue:",
+        "MAB": "Et il lui écrivit une Lettre en ces termes :",
+        "OST": "Il écrivit une lettre, ainsi conçue:",
+        "S21": "Il écrivit la lettre suivante:"
+      }
+    },
+    {
+      "verse": 26,
+      "texts": {
+        "BDS": "Claudius Lysias adresse ses salutations à Son Excellence le gouverneur Félix.",
+        "DBY": "Claude Lysias, au très-excellent gouverneur Félix, salut!",
+        "KJV": "Claudius Lysias unto the most excellent governor Felix [sendeth] greeting.",
+        "LSG": "Claude Lysias au très excellent gouverneur Félix, salut!",
+        "MAB": "Claude Lysias au très-excellent Gouverneur Félix, Salut.",
+        "OST": "Claude Lysias, au très excellent gouverneur Félix, salut!",
+        "S21": "«Claude Lysias au très excellent gouverneur Félix, salut!"
+      }
+    },
+    {
+      "verse": 27,
+      "texts": {
+        "BDS": "Les Juifs s’étaient saisis de l’homme que je t’envoie et ils allaient le tuer quand je suis intervenu avec la troupe. Je l’ai arraché de leurs mains, car je venais d’apprendre qu’il était citoyen romain.",
+        "DBY": "Cet homme ayant été saisi par les Juifs et étant sur le point d'être tué par eux, je suis survenu avec la troupe et je l'ai délivré, ayant appris qu'il est Romain.",
+        "KJV": "This man was taken of the Jews, and should have been killed of them: then came I with an army, and rescued him, having understood that he was a Roman.",
+        "LSG": "Cet homme, dont les Juifs s'étaient saisis, allait être tué par eux, lorsque je survins avec des soldats et le leur enlevai, ayant appris qu'il était Romain.",
+        "MAB": "Comme cet homme qui avait été saisi par les Juifs, était près d'être tué par eux, je suis survenu avec la garnison, et je le leur ai ôté, après avoir connu qu'il était [citoyen] Romain.",
+        "OST": "Les Juifs s'étaient saisis de cet homme et allaient le tuer, lorsque survenant avec la garnison, je l'ai tiré de leurs mains, ayant appris qu'il était Romain.",
+        "S21": "Cet homme dont les Juifs s'étaient emparés allait être tué par eux. Je suis alors intervenu avec des soldats et le leur ai arraché, car j'avais appris qu'il était romain."
+      }
+    },
+    {
+      "verse": 28,
+      "texts": {
+        "BDS": "Comme je voulais savoir de quoi ils l’accusaient, je l’ai fait comparaître devant leur Grand-Conseil.",
+        "DBY": "Et voulant connaître le motif pour lequel ils l'accusaient, je l'ai fait descendre devant leur sanhédrin;",
+        "KJV": "And when I would have known the cause wherefore they accused him, I brought him forth into their council:",
+        "LSG": "Voulant connaître le motif pour lequel ils l'accusaient, je l'amenai devant leur sanhédrin.",
+        "MAB": "Et voulant savoir de quoi ils l'accusaient, je l'ai mené à leur Conseil.",
+        "OST": "Or, voulant savoir le motif pour lequel ils l'accusaient, je l'ai fait descendre dans leur Sanhédrin.",
+        "S21": "Voulant connaître le motif pour lequel ils l'accusaient, je l'ai amené devant leur tribunal."
+      }
+    },
+    {
+      "verse": 29,
+      "texts": {
+        "BDS": "J’ai constaté que leurs accusations portaient sur des questions relatives à leur loi, mais que l’on ne pouvait lui imputer aucune faute entraînant la peine de mort ou même la prison.",
+        "DBY": "et j'ai trouvé qu'il était accusé touchant des questions de leur loi, mais qu'il n'était sous le coup d'aucune accusation qui méritât la mort ou les liens.",
+        "KJV": "Whom I perceived to be accused of questions of their law, but to have nothing laid to his charge worthy of death or of bonds.",
+        "LSG": "J'ai trouvé qu'il était accusé au sujet de questions relatives à leur loi, mais qu'il n'avait commis aucun crime qui mérite la mort ou la prison.",
+        "MAB": "Où j'ai trouvé qu'il était accusé touchant des questions de leur Loi, n'ayant commis aucun crime digne de mort, ou d'emprisonnement.",
+        "OST": "Et j'ai trouvé qu'il est accusé sur des questions de leur loi, mais qu'il n'est chargé d'aucun crime qui mérite la mort ou la prison.",
+        "S21": "J'ai découvert qu'il était accusé au sujet de questions relatives à leur loi, mais qu'il n'avait commis aucune faute qui mérite la mort ou la prison."
+      }
+    },
+    {
+      "verse": 30,
+      "texts": {
+        "BDS": "Mais je viens d’être informé d’un projet d’attentat contre lui. C’est pourquoi je te l’envoie sans attendre, et je fais savoir à ses accusateurs que c’est devant toi qu’ils auront à porter plainte contre lui.",
+        "DBY": "Et ayant été averti des embûches que les Juifs allaient dresser contre cet homme, je te l'ai aussitôt envoyé, ayant donné l'ordre à ses accusateurs aussi de dire devant toi les choses qu'ils ont contre lui. Porte-toi bien.",
+        "KJV": "And when it was told me how that the Jews laid wait for the man, I sent straightway to thee, and gave commandment to his accusers also to say before thee what [they had] against him. Farewell.",
+        "LSG": "Informé que les Juifs lui dressaient des embûches, je te l'ai aussitôt envoyé, en faisant savoir à ses accusateurs qu'ils eussent à s'adresser eux-mêmes à toi. Adieu.",
+        "MAB": "Et ayant été averti des embûches que les Juifs avaient dressées contre lui, je te l'ai incessamment envoyé; ayant aussi commandé aux accusateurs de dire devant toi les choses qu'ils ont contre lui. Bien te soit.",
+        "OST": "Et comme on m'a dénoncé des embûches que les Juifs lui avaient dressées, je te l'ai aussitôt envoyé, en ordonnant à ses accusateurs de dire devant toi ce qu'ils ont contre lui. Adieu.",
+        "S21": "Puis, informé que les Juifs préparaient un complot contre lui, je te l'ai immédiatement envoyé en faisant savoir à ses accusateurs qu’ils devront porter plainte contre lui devant toi. [Adieu.]»"
+      }
+    },
+    {
+      "verse": 31,
+      "texts": {
+        "BDS": "Conformément aux ordres reçus, les soldats emmenèrent Paul et le conduisirent pendant la nuit jusqu’à Antipatris.",
+        "DBY": "Les soldats donc, selon les ordres qui leur avaient été donnés, prirent Paul et le menèrent de nuit à Antipatris.",
+        "KJV": "Then the soldiers, as it was commanded them, took Paul, and brought [him] by night to Antipatris.",
+        "LSG": "Les soldats, selon l'ordre qu'ils avaient reçu, prirent Paul, et le conduisirent pendant la nuit jusqu'à Antipatris.",
+        "MAB": "Les soldats donc, selon qu'il leur était enjoint, prirent Paul, et le menèrent de nuit à Antipatris.",
+        "OST": "Les soldats prirent donc Paul, selon l'ordre qu'ils avaient reçu, et le menèrent de nuit à Antipatris.",
+        "S21": "Conformément à l’ordre qu’ils avaient reçu, les soldats prirent Paul et le conduisirent pendant la nuit jusqu'à Antipatris."
+      }
+    },
+    {
+      "verse": 32,
+      "texts": {
+        "BDS": "Le lendemain, les légionnaires laissèrent les cavaliers poursuivre seuls le chemin avec lui et ils revinrent à la citadelle.",
+        "DBY": "Et le lendemain, ayant laissé les cavaliers s'en aller avec lui, ils retournèrent à la forteresse.",
+        "KJV": "On the morrow they left the horsemen to go with him, and returned to the castle:",
+        "LSG": "Le lendemain, laissant les cavaliers poursuivre la route avec lui, ils retournèrent à la forteresse.",
+        "MAB": "Et le lendemain ils s'en retournèrent à la forteresse, ayant laissé Paul sous la conduite des gens de cheval;",
+        "OST": "Et le lendemain, ayant laissé les cavaliers aller avec lui, ils s'en retournèrent à la forteresse.",
+        "S21": "Le lendemain, ils laissèrent les cavaliers poursuivre la route avec lui et retournèrent à la forteresse."
+      }
+    },
+    {
+      "verse": 33,
+      "texts": {
+        "BDS": "A leur arrivée à Césarée, les cavaliers remirent la lettre au gouverneur et lui présentèrent Paul.",
+        "DBY": "Et ceux-là, étant arrivés à Césarée, remirent la lettre au gouverneur et lui présentèrent aussi Paul.",
+        "KJV": "Who, when they came to Caesarea, and delivered the epistle to the governor, presented Paul also before him.",
+        "LSG": "Arrivés à Césarée, les cavaliers remirent la lettre au gouverneur, et lui présentèrent Paul.",
+        "MAB": "Qui étant arrivés à Césarée, rendirent la lettre au Gouverneur, et lui présentèrent aussi Paul.",
+        "OST": "Les cavaliers étant arrivés à Césarée, et ayant remis la lettre au gouverneur, lui présentèrent aussi Paul.",
+        "S21": "Arrivés à Césarée, les cavaliers remirent la lettre au gouverneur et lui présentèrent Paul."
+      }
+    },
+    {
+      "verse": 34,
+      "texts": {
+        "BDS": "Le gouverneur lut la lettre et demanda de quelle province il était originaire. Apprenant qu’il était né en Cilicie, il lui dit:",
+        "DBY": "Et quand il eut lu la lettre et qu'il eut demandé de quelle province il était, ayant appris qu'il était de Cilicie:",
+        "KJV": "And when the governor had read [the letter], he asked of what province he was. And when he understood that [he was] of Cilicia;",
+        "LSG": "Le gouverneur, après avoir lu la lettre, demanda de quelle province était Paul. Ayant appris qu'il était de la Cilicie:",
+        "MAB": "Et quand le Gouverneur eut lu la lettre, et qu'il eut demandé à Paul de quelle Province il était, ayant entendu qu'il était de Cilicie :",
+        "OST": "Et le gouverneur l'ayant lue, demanda de quelle province était Paul; et ayant appris qu'il était de Cilicie,",
+        "S21": "Après avoir lu la lettre, le gouverneur demanda de quelle province venait Paul. Apprenant qu'il était originaire de la Cilicie,"
+      }
+    },
+    {
+      "verse": 35,
+      "texts": {
+        "BDS": "—Je t’entendrai quand tes accusateurs seront arrivés.\r\nPuis il donna ordre de le faire mettre en résidence surveillée dans le palais d’Hérode.",
+        "DBY": "Je t'entendrai à fond, dit-il, quand tes accusateurs aussi seront arrivés. Et il donna ordre qu'il fût gardé au prétoire d'Hérode.",
+        "KJV": "I will hear thee, said he, when thine accusers are also come. And he commanded him to be kept in Herod's judgment hall.",
+        "LSG": "Je t'entendrai, dit-il, quand tes accusateurs seront venus. Et il ordonna qu'on le gardât dans le prétoire d'Hérode.",
+        "MAB": "Je t'entendrai, lui dit-il, plus amplement quand tes accusateurs seront aussi venus. Et il commanda qu'il fût gardé au palais d'Hérode.",
+        "OST": "Il lui dit: Je t'entendrai quand tes accusateurs seront venus. Et il ordonna qu'on le gardât dans le prétoire d'Hérode.",
+        "S21": "il lui dit: «Je t'entendrai quand tes accusateurs seront venus.» Puis il ordonna de le garder dans le prétoire d'Hérode."
+      }
+    }
+  ]
+}

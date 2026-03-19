@@ -1,0 +1,390 @@
+{
+  "bookCode": "GEN",
+  "chapter": 10,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "Voici l’histoire de la famille des fils de Noé: Sem, Cham et Japhet. Ils eurent des enfants après le déluge.",
+        "DBY": "Et ce sont ici les générations des fils de Noé: Sem, Cham, et Japheth; il leur naquit des fils après le déluge.",
+        "KJV": "Now these [are] the generations of the sons of Noah, Shem, Ham, and Japheth: and unto them were sons born after the flood.",
+        "LSG": "Voici la postérité des fils de Noé, Sem, Cham et Japhet. Il leur naquit des fils après le déluge.",
+        "MAB": "Or ce sont ici les générations des enfants de Noé, Sem, Cam et Japheth; auxquels naquirent des enfants après le déluge.",
+        "OST": "Voici les descendants des fils de Noé: Sem, Cham et Japhet, auxquels naquirent des enfants après le déluge.",
+        "S21": "Voici la lignée des fils de Noé, Sem, Cham et Japhet. Ils eurent des fils après le déluge."
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "Fils de Japhet: Gomer, Magog, Madeï, Yavân, Toubal, Méchek et Tiras.",
+        "DBY": "Les fils de Japheth: Gomer, et Magog, et Madaï, et Javan, et Tubal, et Méshec, et Tiras.",
+        "KJV": "The sons of Japheth; Gomer, and Magog, and Madai, and Javan, and Tubal, and Meshech, and Tiras.",
+        "LSG": "Les fils de Japhet furent: Gomer, Magog, Madaï, Javan, Tubal, Méschec et Tiras.",
+        "MAB": "Les enfants de Japheth sont Gomer, Magog, Madaï, Javan, Tubal, Mésech, et Tiras.",
+        "OST": "Les fils de Japhet sont Gomer, Magog, Madaï, Javan, Tubal, Méshec, et Tiras.",
+        "S21": "Les fils de Japhet furent Gomer, Magog, Madaï, Javan, Tubal, Méshec et Tiras."
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "Fils de Gomer: Achkenaz, Riphat et Togarma.",
+        "DBY": "-Et les fils de Gomer: Ashkenaz, et Riphath, et Togarma.",
+        "KJV": "And the sons of Gomer; Ashkenaz, and Riphath, and Togarmah.",
+        "LSG": "Les fils de Gomer: Aschkenaz, Riphat et Togarma.",
+        "MAB": "Et les enfants de Gomer, Askénaz, Riphath, et Thogarma.",
+        "OST": "Et les fils de Gomer, Ashkénas, Riphath, et Togarma.",
+        "S21": "Les fils de Gomer: Ashkenaz, Riphat et Togarma."
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "Fils de Yavân: Elicha, Tarsis, Kittim et Dodanim.",
+        "DBY": "-Et les fils de Javan: Élisha, et Tarsis, Kittim, et Dodanim.",
+        "KJV": "And the sons of Javan; Elishah, and Tarshish, Kittim, and Dodanim.",
+        "LSG": "Les fils de Javan: Elischa, Tarsis, Kittim et Dodanim.",
+        "MAB": "Et les enfants de Javan, Elisa, Tarsis, Kittim, et Dodanim.",
+        "OST": "Et les fils de Javan, Elisha et Tarsis, Kittim et Dodanim.",
+        "S21": "Les fils de Javan: Elisha, Tarsis, Kittim et Dodanim."
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "Ce sont leurs descendants qui ont peuplé les îles et les régions côtières. Ils se sont répartis par pays selon la langue et par tribus dans chaque nation.",
+        "DBY": "-De ceux-là est venue la répartition des îles des nations selon leurs pays, chacune selon sa langue, selon leurs familles, dans leurs nations.",
+        "KJV": "By these were the isles of the Gentiles divided in their lands; every one after his tongue, after their families, in their nations.",
+        "LSG": "C'est par eux qu'ont été peuplées les îles des nations selon leurs terres, selon la langue de chacun, selon leurs familles, selon leurs nations.",
+        "MAB": "De ceux-là furent divisées les Iles des nations par leurs terres, chacun selon sa langue, selon leurs familles, entre leurs nations.",
+        "OST": "Par eux furent peuplées les îles des nations, dans leurs terres, chacun selon sa langue, selon leurs familles, selon leurs nations.",
+        "S21": "Ce sont eux qui ont peuplé les îles des nations, répartis par territoire d’après leur langue, groupés par clan dans leurs nations."
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "Les fils de Cham furent: Kouch, Mitsraïm, Pouth et Canaan.",
+        "DBY": "Et les fils de Cham: Cush, et Mitsraïm, et Puth, et Canaan.",
+        "KJV": "And the sons of Ham; Cush, and Mizraim, and Phut, and Canaan.",
+        "LSG": "Les fils de Cham furent: Cusch, Mitsraïm, Puth et Canaan.",
+        "MAB": "Et les enfants de Cam sont Cus, Mitsraïm, Put, et Canaan.",
+        "OST": "Et les fils de Cham, sont Cush, Mitsraïm, Put et Canaan.",
+        "S21": "Les fils de Cham furent Cush, Mitsraïm, Puth et Canaan."
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "Les fils de Kouch: Seba, Havila, Sabta, Raema et Sabteka. Les fils de Raema: Cheba et Dedân.",
+        "DBY": "-Et les fils de Cush: Seba, et Havila, et Sabta, et Rahma, et Sabteca. Et les fils de Rahma: Sheba et Dedan.",
+        "KJV": "And the sons of Cush; Seba, and Havilah, and Sabtah, and Raamah, and Sabtecha: and the sons of Raamah; Sheba, and Dedan.",
+        "LSG": "Les fils de Cusch: Saba, Havila, Sabta, Raema et Sabteca. Les fils de Raema: Séba et Dedan.",
+        "MAB": "Et les enfants de Cus : Séba, Havila, Sabtah, Rahma, et Sebtéca. Et les enfants de Rahma, Séba, et Dédan.",
+        "OST": "Et les fils de Cush, Seba, Havila, Sabta, Raema et Sabteca. Et les fils de Raema, Sheba et Dedan.",
+        "S21": "Les fils de Cush: Saba, Havila, Sabta, Raema et Sabteca. Les fils de Raema: Séba et Dedan."
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "Kouch eut aussi pour fils Nimrod qui se mit à exercer un grand pouvoir sur la terre.",
+        "DBY": "Et Cush engendra Nimrod: lui, commença à être puissant sur la terre;",
+        "KJV": "And Cush begat Nimrod: he began to be a mighty one in the earth.",
+        "LSG": "Cusch engendra aussi Nimrod; c'est lui qui commença à être puissant sur la terre.",
+        "MAB": "Cus engendra aussi Nimrod, qui commença d'être puissant sur la terre.",
+        "OST": "Et Cush engendra Nimrod, qui commença à être puissant sur la terre.",
+        "S21": "Cush eut aussi pour fils Nimrod, qui fut le premier homme puissant sur la terre."
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "C’était un redoutable chasseur devant l’Eternel. De là vient l’expression: «redoutable chasseur devant l’Eternel comme Nimrod».",
+        "DBY": "il fut un puissant chasseur devant l'Éternel; c'est pourquoi on dit: Comme Nimrod, puissant chasseur devant l'Éternel.",
+        "KJV": "He was a mighty hunter before the LORD: wherefore it is said, Even as Nimrod the mighty hunter before the LORD.",
+        "LSG": "Il fut un vaillant chasseur devant l'Eternel; c'est pourquoi l'on dit: Comme Nimrod, vaillant chasseur devant l'Eternel.",
+        "MAB": "Il fut un puissant chasseur devant l'Eternel; c'est pourquoi l'on a dit : Comme Nimrod, le puissant chasseur devant l'Eternel.",
+        "OST": "Il fut un puissant chasseur devant l'Éternel. C'est pour cela qu'on dit: Comme Nimrod, puissant chasseur devant l'Éternel.",
+        "S21": "Il fut un puissant chasseur devant l'Eternel, c'est pourquoi l'on dit: «Comme Nimrod, puissant chasseur devant l'Eternel.»"
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "Les capitales de son royaume furent Babel, Erek, Akkad et Kalné au pays de Chinéar.",
+        "DBY": "Et le commencement de son royaume fut Babel, et Érec, et Accad, et Calné, au pays de Shinhar.",
+        "KJV": "And the beginning of his kingdom was Babel, and Erech, and Accad, and Calneh, in the land of Shinar.",
+        "LSG": "Il régna d'abord sur Babel, Erec, Accad et Calné, au pays de Schinear.",
+        "MAB": "Et le commencement de son règne fut Babel, Erec, Accad, et Calné au pays de Sinhar.",
+        "OST": "Et le commencement de son royaume fut Babel, Érec, Accad et Calné, dans le pays de Shinear.",
+        "S21": "Il régna d'abord sur Babel, Erec, Accad et Calné, dans le pays de Shinear."
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "De ce pays-là, il passa en Assyrie et bâtit Ninive, Rehobot-Ir, Kalah,",
+        "DBY": "De ce pays-là sortit Assur, et il bâtit Ninive, et Rehoboth-Ir, et Calakh,",
+        "KJV": "Out of that land went forth Asshur, and builded Nineveh, and the city Rehoboth, and Calah,",
+        "LSG": "De ce pays-là sortit Assur; il bâtit Ninive, Rehoboth Hir, Calach,",
+        "MAB": "De ce pays-là sortit Assur, et il bâtit Ninive, et les rues de la ville, et Calah,",
+        "OST": "De ce pays-là il sortit en Assyrie, et il bâtit Ninive, Rehoboth-Ir, Calach,",
+        "S21": "C’est de ce pays-là que sortit Assur. Il construisit Ninive, Rehoboth-Hir, Calach"
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "et Résen, la grande cité entre Ninive et Kalah.",
+        "DBY": "et Résen entre Ninive et Calakh: c'est la grande ville.",
+        "KJV": "And Resen between Nineveh and Calah: the same [is] a great city.",
+        "LSG": "et Résen entre Ninive et Calach; c'est la grande ville.",
+        "MAB": "Et Résen, entre Ninive et Calah, qui est une grande ville.",
+        "OST": "Et Résen, entre Ninive et Calach; c'est la grande ville.",
+        "S21": "et Résen entre Ninive et Calach, la grande ville."
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "Mitsraïm fut l’ancêtre des Loudim, des Anamim, des Lehabim, des Naphtouim,",
+        "DBY": "-Et Mitsraïm engendra les Ludim, et les Anamim, et les Lehabim, et les Naphtukhim,",
+        "KJV": "And Mizraim begat Ludim, and Anamim, and Lehabim, and Naphtuhim,",
+        "LSG": "Mitsraïm engendra les Ludim, les Anamim, les Lehabim, les Naphtuhim,",
+        "MAB": "Mitsraïm engendra Ludim, Hanamim, Léhabim, Naphtuhim.",
+        "OST": "Et Mitsraïm engendra les Ludim, les Anamim, les Lehabim, les Naphtuhim,",
+        "S21": "Mitsraïm eut pour descendants les Ludim, les Anamim, les Lehabim, les Naphtuhim,"
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "des Patrousim, des Kaslouhim — dont sont issus les Philistins — et des Crétois.",
+        "DBY": "et les Pathrusim, et les Caslukhim, (d'où sortirent les Philistins), et les Caphtorim.",
+        "KJV": "And Pathrusim, and Casluhim, (out of whom came Philistim,) and Caphtorim.",
+        "LSG": "les Patrusim, les Casluhim, d'où sont sortis les Philistins, et les Caphtorim.",
+        "MAB": "Pathrusim, Chasluhim, desquels sont issus les Philistins, et Caphtorim.",
+        "OST": "Les Pathrusim, les Casluhim (d'où sont sortis les Philistins) et les Caphtorim.",
+        "S21": "les Patrusim, les Casluhim, dont sont issus les Philistins, et les Caphtorim."
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "Canaan eut pour fils Sidon, son aîné, et Heth.",
+        "DBY": "-Et Canaan engendra Sidon, son premier-né, et Heth,",
+        "KJV": "And Canaan begat Sidon his firstborn, and Heth,",
+        "LSG": "Canaan engendra Sidon, son premier-né, et Heth;",
+        "MAB": "Et Canaan engendra Sidon, son fils aîné, et Heth,",
+        "OST": "Et Canaan engendra Sidon, son premier-né, et Heth;",
+        "S21": "Canaan eut pour descendants Sidon, son fils aîné, et Heth,"
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "De lui descendent les Yebousiens, les Amoréens, les Guirgasiens,",
+        "DBY": "et le Jébusien, et l'Amoréen, et le Guirgasien,",
+        "KJV": "And the Jebusite, and the Amorite, and the Girgasite,",
+        "LSG": "et les Jébusiens, les Amoréens, les Guirgasiens,",
+        "MAB": "Les Jébusiens, les Amorrhéens, les Guirgasiens,",
+        "OST": "Les Jébusiens, les Amoréens, les Guirgasiens;",
+        "S21": "ainsi que les Jébusiens, les Amoréens, les Guirgasiens,"
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "les Héviens, les Arqiens et les Siniens,",
+        "DBY": "et le Hévien, et l'Arkien, et le Sinien,",
+        "KJV": "And the Hivite, and the Arkite, and the Sinite,",
+        "LSG": "les Héviens, les Arkiens, les Siniens,",
+        "MAB": "Les Héviens, les Harkiens, et les Siniens,",
+        "OST": "Les Héviens, les Arkiens, les Siniens;",
+        "S21": "les Héviens, les Arkiens, les Siniens,"
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "les Arvadiens, les Tsemariens et les Hamathiens. Ensuite les différentes tribus des Cananéens se dispersèrent.",
+        "DBY": "et l'Arvadien, et le Tsemarien, et le Hamathien. Et ensuite les familles des Cananéens se dispersèrent.",
+        "KJV": "And the Arvadite, and the Zemarite, and the Hamathite: and afterward were the families of the Canaanites spread abroad.",
+        "LSG": "les Arvadiens, les Tsemariens, les Hamathiens. Ensuite, les familles des Cananéens se dispersèrent.",
+        "MAB": "Les Arvadiens, les Tsémariens, et les Hamathiens. Et ensuite les familles des Cananéens se sont dispersées.",
+        "OST": "Les Arvadiens, les Tsemariens, les Hamathiens. Ensuite les familles des Cananéens se dispersèrent.",
+        "S21": "les Arvadiens, les Tsemariens, les Hamathiens. Ensuite, les clans des Cananéens se dispersèrent."
+      }
+    },
+    {
+      "verse": 19,
+      "texts": {
+        "BDS": "Le territoire des Cananéens s’étendait de Sidon, en direction de Guérar, jusqu’à Gaza et en direction de Sodome, de Gomorrhe, d’Adma et de Tseboïm jusqu’à Lécha.",
+        "DBY": "Et les limites des Cananéens furent depuis Sidon, quand tu viens vers Guérar, jusqu'à Gaza; quand tu viens vers Sodome et Gomorrhe et Adma et Tseboïm, jusqu'à Lésha.",
+        "KJV": "And the border of the Canaanites was from Sidon, as thou comest to Gerar, unto Gaza; as thou goest, unto Sodom, and Gomorrah, and Admah, and Zeboim, even unto Lasha.",
+        "LSG": "Les limites des Cananéens allèrent depuis Sidon, du côté de Guérar, jusqu'à Gaza, et du côté de Sodome, de Gomorrhe, d'Adma et de Tseboïm, jusqu'à Léscha.",
+        "MAB": "Et les limites des Cananéens furent depuis Sidon, quand on vient vers Guérar, jusqu'à Gaza, en tirant vers Sodome et Gomorrhe, Adma, et Tséboïm, jusqu'à Lésa.",
+        "OST": "Et la limite des Cananéens fut depuis Sidon, en venant vers Guérar, jusqu'à Gaza, en venant vers Sodome, Gomorrhe, Adma, et Tseboïm, jusqu'à Lésha.",
+        "S21": "Le territoire des Cananéens allait de Sidon, du côté de Guérar jusqu'à Gaza, et du côté de Sodome, de Gomorrhe, d'Adma et de Tseboïm jusqu'à Lésha."
+      }
+    },
+    {
+      "verse": 20,
+      "texts": {
+        "BDS": "Tels sont les descendants de Cham selon leurs tribus et leurs langues, dans leurs divers pays et leurs nations.",
+        "DBY": "-Ce sont là les fils de Cham, selon leurs familles, selon leurs langues, dans leurs pays, dans leurs nations.",
+        "KJV": "These [are] the sons of Ham, after their families, after their tongues, in their countries, [and] in their nations.",
+        "LSG": "Ce sont là les fils de Cham, selon leurs familles, selon leurs langues, selon leurs pays, selon leurs nations.",
+        "MAB": "Ce sont là les enfants de Cam selon leurs familles [et leurs] langues, en leurs pays, et en [leurs] nations.",
+        "OST": "Ce sont là les fils de Cham, selon leurs familles, selon leurs langues, dans leurs terres, dans leurs nations.",
+        "S21": "Voilà quels sont les fils de Cham, groupés par clan et par langue dans leurs territoires et leurs nations."
+      }
+    },
+    {
+      "verse": 21,
+      "texts": {
+        "BDS": "Sem aussi, le frère aîné de Japhet, eut une descendance. Il fut l’ancêtre d’Héber et de ses descendants.",
+        "DBY": "Et à Sem, père de tous les fils d'Héber, et frère de Japheth, l'aîné, à lui aussi il naquit des fils.",
+        "KJV": "Unto Shem also, the father of all the children of Eber, the brother of Japheth the elder, even to him were [children] born.",
+        "LSG": "Il naquit aussi des fils à Sem, père de tous les fils d'Héber, et frère de Japhet l'aîné.",
+        "MAB": "Et il naquit des enfants à Sem, père de tous les enfants d'Héber, et frère de Japheth, [qui était] le plus grand.",
+        "OST": "Il naquit aussi des fils à Sem, père de tous les fils d'Héber, et frère aîné de Japhet.",
+        "S21": "Le frère aîné de Japhet, Sem, eut aussi des fils. Il fut l’ancêtre de tous les descendants d'Héber."
+      }
+    },
+    {
+      "verse": 22,
+      "texts": {
+        "BDS": "Les descendants de Sem furent Elam, Assour, Arpakchad, Loud et Aram.",
+        "DBY": "Les fils de Sem: Élam, et Assur, et Arpacshad, et Lud, et Aram.",
+        "KJV": "The children of Shem; Elam, and Asshur, and Arphaxad, and Lud, and Aram.",
+        "LSG": "Les fils de Sem furent: Elam, Assur, Arpacschad, Lud et Aram.",
+        "MAB": "Et les enfants de Sem sont Hélam, Assur, Arpacsad, Lud, et Aram.",
+        "OST": "Les fils de Sem sont Élam, Assur, Arpacshad, Lud et Aram.",
+        "S21": "Les fils de Sem furent Elam, Assur, Arpacshad, Lud et Aram."
+      }
+    },
+    {
+      "verse": 23,
+      "texts": {
+        "BDS": "Les descendants d’Aram sont: Outs, Houl, Guéter et Mach.",
+        "DBY": "-Et les fils d'Aram: Uts, et Hul, et Guéther, et Mash.",
+        "KJV": "And the children of Aram; Uz, and Hul, and Gether, and Mash.",
+        "LSG": "Les fils d'Aram: Uts, Hul, Guéter et Masch.",
+        "MAB": "Et les enfants d'Aram, Hus, Hul, Guéther et Mas.",
+        "OST": "Et les fils d'Aram, Uts, Hul, Guéther et Mash.",
+        "S21": "Les fils d'Aram: Uts, Hul, Guéter et Mash."
+      }
+    },
+    {
+      "verse": 24,
+      "texts": {
+        "BDS": "Arpakchad eut pour fils Chélah, et Chélah eut pour fils Héber.",
+        "DBY": "-Et Arpacshad engendra Shélakh, et Shélakh engendra Héber.",
+        "KJV": "And Arphaxad begat Salah; and Salah begat Eber.",
+        "LSG": "Arpacschad engendra Schélach; et Schélach engendra Héber.",
+        "MAB": "Et Arpacsad engendra Sélah, et Sélah engendra Héber.",
+        "OST": "Et Arpacshad engendra Shélach, et Shélach engendra Héber.",
+        "S21": "Arpacshad eut pour fils Shélach et Shélach eut Héber."
+      }
+    },
+    {
+      "verse": 25,
+      "texts": {
+        "BDS": "Héber eut deux fils: l’un s’appelait Péleg (Partage), parce que de son temps la terre fut partagée, et son frère s’appelait Yoqtân.",
+        "DBY": "Et il naquit à Héber deux fils: le nom de l'un fut Péleg, car en ses jours la terre fut partagée; et le nom de son frère fut Joktan.",
+        "KJV": "And unto Eber were born two sons: the name of one [was] Peleg; for in his days was the earth divided; and his brother's name [was] Joktan.",
+        "LSG": "Il naquit à Héber deux fils: le nom de l'un était Péleg, parce que de son temps la terre fut partagée, et le nom de son frère était Jokthan.",
+        "MAB": "Et à Héber naquirent deux fils : le nom de l'un fut Péleg, parce qu'en son temps la terre fut partagée; et le nom de son frère fut Joktan.",
+        "OST": "Et à Héber il naquit deux fils: le nom de l'un est Péleg (partage), car en son temps la terre fut partagée; et le nom de son frère, Jockthan.",
+        "S21": "Héber eut deux fils. Le nom de l'un était Péleg, parce que c’est à son époque que la terre fut partagée, et celui de son frère était Jokthan."
+      }
+    },
+    {
+      "verse": 26,
+      "texts": {
+        "BDS": "Yoqtân eut pour fils Almodad, Chéléph, Hatsarmaveth, Yerah,",
+        "DBY": "Et Joktan engendra Almodad, et Shéleph, et Hatsarmaveth, et Jérakh,",
+        "KJV": "And Joktan begat Almodad, and Sheleph, and Hazarmaveth, and Jerah,",
+        "LSG": "Jokthan engendra Almodad, Schéleph, Hatsarmaveth, Jérach,",
+        "MAB": "Et Joktan engendra Almodad, Séleph, Hatsarmaveth, et Jérah.",
+        "OST": "Et Jockthan engendra Almodad, Sheleph, Hatsarmaveth, et Jérach;",
+        "S21": "Jokthan eut pour fils Almodad, Shéleph, Hatsarmaveth, Jérach,"
+      }
+    },
+    {
+      "verse": 27,
+      "texts": {
+        "BDS": "Hadoram, Ouzal, Diqla,",
+        "DBY": "et Hadoram, et Uzal, et Dikla,",
+        "KJV": "And Hadoram, and Uzal, and Diklah,",
+        "LSG": "Hadoram, Uzal, Dikla,",
+        "MAB": "Hadoram, Uzal, Dikla,",
+        "OST": "Hadoram, Uzal, Dikla,",
+        "S21": "Hadoram, Uzal, Dikla,"
+      }
+    },
+    {
+      "verse": 28,
+      "texts": {
+        "BDS": "Obal, Abimaël, Saba,",
+        "DBY": "et Obal, et Abimaël, et Sheba,",
+        "KJV": "And Obal, and Abimael, and Sheba,",
+        "LSG": "Obal, Abimaël, Séba,",
+        "MAB": "Hobal, Abimaël, Séba,",
+        "OST": "Obal, Abimaël, Sheba,",
+        "S21": "Obal, Abimaël, Séba,"
+      }
+    },
+    {
+      "verse": 29,
+      "texts": {
+        "BDS": "Ophir, Havila et Yobab. Tous ceux-là étaient des descendants de Yoqtân.",
+        "DBY": "et Ophir, et Havila, et Jobab. Tous ceux-là étaient fils de Joktan.",
+        "KJV": "And Ophir, and Havilah, and Jobab: all these [were] the sons of Joktan.",
+        "LSG": "Ophir, Havila et Jobab. Tous ceux-là furent fils de Jokthan.",
+        "MAB": "Ophir, Havila, et Jobab. Tous ceux-là sont les enfants de Joktan.",
+        "OST": "Ophir, Havila, et Jobab. Tous ceux-là sont fils de Jockthan.",
+        "S21": "Ophir, Havila et Jobab. Tous ceux-là furent les fils de Jokthan."
+      }
+    },
+    {
+      "verse": 30,
+      "texts": {
+        "BDS": "Ils habitaient la contrée s’étendant de Mécha jusque du côté de Sephar, la montagne d’orient.",
+        "DBY": "Et leur demeure était depuis Mésha, quand tu viens vers Sephar, montagne de l'orient.",
+        "KJV": "And their dwelling was from Mesha, as thou goest unto Sephar a mount of the east.",
+        "LSG": "Ils habitèrent depuis Méscha, du côté de Sephar, jusqu'à la montagne de l'orient.",
+        "MAB": "Et leur demeure était depuis Mésa, quand on vient en Séphar, montagne d'Orient.",
+        "OST": "Et leur demeure était depuis Mésha, en venant vers Sephar, vers la montagne d'Orient.",
+        "S21": "Ils habitèrent depuis Mésha jusqu'à Sephar, la montagne de l'est."
+      }
+    },
+    {
+      "verse": 31,
+      "texts": {
+        "BDS": "Tels sont les descendants de Sem selon leurs familles et leurs langues, dans leurs divers pays et leurs nations.",
+        "DBY": "-Ce sont là les fils de Sem selon leurs familles, selon leurs langues, dans leurs pays, selon leurs nations.",
+        "KJV": "These [are] the sons of Shem, after their families, after their tongues, in their lands, after their nations.",
+        "LSG": "Ce sont là les fils de Sem, selon leurs familles, selon leurs langues, selon leurs pays, selon leurs nations.",
+        "MAB": "Ce sont là les enfants de Sem, selon leurs familles [et] leurs langues, en leurs pays, et en [leurs] nations.",
+        "OST": "Ce sont là les fils de Sem, selon leurs familles, selon leurs langues, selon leurs terres, selon leurs nations.",
+        "S21": "Voilà quels sont les fils de Sem, groupés par clan et par langue dans leurs territoires et leurs nations."
+      }
+    },
+    {
+      "verse": 32,
+      "texts": {
+        "BDS": "Telles sont les familles issues des fils de Noé selon leurs lignées et d’après leur appartenance nationale. C’est d’eux que sont issues toutes les nations qui se sont répandues sur la terre après le déluge.",
+        "DBY": "Ce sont là les familles des fils de Noé, selon leurs générations, dans leurs nations; et c'est d'eux qu'est venue la répartition des nations sur la terre après le déluge.",
+        "KJV": "These [are] the families of the sons of Noah, after their generations, in their nations: and by these were the nations divided in the earth after the flood.",
+        "LSG": "Telles sont les familles des fils de Noé, selon leurs générations, selon leurs nations. Et c'est d'eux que sont sorties les nations qui se sont répandues sur la terre après le déluge.",
+        "MAB": "Telles sont les familles des enfants de Noé, selon leurs lignées en leurs nations; et de ceux-là ont été divisées les nations sur la terre après le déluge.",
+        "OST": "Telles sont les familles des fils de Noé, selon leurs générations, dans leurs nations; et c'est d'eux que sont sorties les nations de la terre après le déluge.",
+        "S21": "Tels sont les clans des fils de Noé en fonction de leur lignée avec leurs nations. C'est d'eux que sont issues les nations qui se sont dispersées sur la terre après le déluge."
+      }
+    }
+  ]
+}

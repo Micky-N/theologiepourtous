@@ -1,0 +1,474 @@
+{
+  "bookCode": "MAT",
+  "chapter": 23,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "Alors Jésus, s’adressant à la foule et à ses disciples, dit:",
+        "DBY": "Alors Jésus parla aux foules et à ses disciples, disant:",
+        "KJV": "Then spake Jesus to the multitude, and to his disciples,",
+        "LSG": "Alors Jésus, parlant à la foule et à ses disciples,",
+        "MAB": "Alors Jésus parla aux troupes, et à ses Disciples,",
+        "OST": "Alors Jésus parla au peuple et à ses disciples, et leur dit:",
+        "S21": "Alors Jésus s'adressa à la foule et à ses disciples"
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "—Les spécialistes de la Loi et les pharisiens sont chargés d’enseigner la Loi transmise par Moïse.",
+        "DBY": "Les scribes et les pharisiens se sont assis dans la chaire de Moïse.",
+        "KJV": "Saying, ‹The scribes and the Pharisees sit in Moses' seat:›",
+        "LSG": "dit: Les scribes et les pharisiens sont assis dans la chaire de Moïse.",
+        "MAB": "Disant : Les Scribes et les Pharisiens sont assis dans la chaire de Moïse.",
+        "OST": "Les scribes et les pharisiens sont assis dans la chaire de Moïse.",
+        "S21": "en disant: «Les spécialistes de la loi et les pharisiens se sont faits les interprètes de Moïse."
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "Faites donc tout ce qu’ils vous disent, et réglez votre conduite sur leur enseignement. Mais gardez-vous de prendre modèle sur leurs actes, car ils parlent d’une manière et agissent d’une autre.",
+        "DBY": "Toutes les choses donc qu'il vous diront, faites-les et observez-les; mais ne faites pas selon leurs œuvres, car ils disent et ne font pas;",
+        "KJV": "‹All therefore whatsoever they bid you observe,› [that] ‹observe and do; but do not ye after their works: for they say, and do not.›",
+        "LSG": "Faites donc et observez tout ce qu'ils vous disent; mais n'agissez pas selon leurs oeuvres. Car ils disent, et ne font pas.",
+        "MAB": "Toutes les choses donc qu'ils vous diront d'observer, observez-les, et les faites, mais non point leurs œuvres : parce qu'ils disent, et ne font pas.",
+        "OST": "Observez donc et faites tout ce qu'ils vous disent d'observer; mais ne faites pas comme ils font, parce qu'ils disent et ne font pas.",
+        "S21": "Tout ce qu'ils vous disent [de respecter], faites-le donc et respectez-le, mais n'agissez pas comme eux, car ils disent et ne font pas."
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "Ils lient de pesants fardeaux et les placent sur les épaules des hommes; mais ils ne bougeraient même pas le petit doigt pour les déplacer.",
+        "DBY": "mais ils lient des fardeaux pesants et difficiles à porter, et les mettent sur les épaules des hommes, mais eux, ils ne veulent pas les remuer de leur doigt.",
+        "KJV": "‹For they bind heavy burdens and grievous to be borne, and lay› [them] ‹on men's shoulders; but they› [themselves] ‹will not move them with one of their fingers.›",
+        "LSG": "Ils lient des fardeaux pesants, et les mettent sur les épaules des hommes, mais ils ne veulent pas les remuer du doigt.",
+        "MAB": "Car ils lient ensemble des fardeaux pesants et insupportables, et les mettent sur les épaules des hommes; mais ils ne veulent point les remuer de leur doigt.",
+        "OST": "Car ils lient des fardeaux pesants et insupportables, et les mettent sur les épaules des hommes; mais ils ne veulent pas les remuer du doigt.",
+        "S21": "Ils lient des fardeaux pesants et les mettent sur les épaules des hommes, mais ils ne veulent pas les remuer du doigt."
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "Dans tout ce qu’ils font, ils agissent pour être vus des hommes. Ainsi, les petits coffrets à versets qu’ils portent pendant la prière sont plus grands que ceux des autres, et les franges de leurs manteaux plus longues.",
+        "DBY": "Et ils font toutes leurs œuvres pour être vus des hommes; car ils élargissent leurs phylactères et donnent plus de largeur aux franges de leurs vêtements,",
+        "KJV": "‹But all their works they do for to be seen of men: they make broad their phylacteries, and enlarge the borders of their garments,›",
+        "LSG": "Ils font toutes leurs actions pour être vus des hommes. Ainsi, ils portent de larges phylactères, et ils ont de longues franges à leurs vêtements;",
+        "MAB": "Et ils font toutes leurs œuvres pour être regardés des hommes; car ils portent de larges phylactères, et de longues franges à leurs vêtements.",
+        "OST": "Et ils font toutes leurs actions, afin que les hommes les voient; car ils portent de larges phylactères, et ils allongent les franges de leurs vêtements;",
+        "S21": "Toutes leurs actions, ils les font pour se faire remarquer des hommes. Ainsi, ils portent de grands phylactères et allongent les franges [de leurs vêtements]."
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "Ils affectionnent les meilleures places dans les banquets et les sièges d’honneur dans les synagogues.",
+        "DBY": "et ils aiment la première place dans les repas et les premiers sièges dans les synagogues,",
+        "KJV": "‹And love the uppermost rooms at feasts, and the chief seats in the synagogues,›",
+        "LSG": "ils aiment la première place dans les festins, et les premiers sièges dans les synagogues;",
+        "MAB": "Et ils aiment les premières places dans les festins, et les premiers sièges dans les Synagogues;",
+        "OST": "Ils aiment les premières places dans les festins, et les premiers sièges dans les synagogues;",
+        "S21": "Ils aiment occuper la meilleure place dans les festins et les sièges d'honneur dans les synagogues."
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "Ils aiment qu’on les salue sur les places publiques et qu’on les appelle «Maître».",
+        "DBY": "les salutations dans les places publiques, et à être appelés par les hommes: Rabbi, Rabbi!",
+        "KJV": "‹And greetings in the markets, and to be called of men, Rabbi, Rabbi.›",
+        "LSG": "ils aiment à être salués dans les places publiques, et à être appelés par les hommes Rabbi, Rabbi.",
+        "MAB": "Et les salutations aux marchés; et d'être appelés des hommes, Notre maître! Notre maître!",
+        "OST": "Ils aiment à être salués dans les places publiques, et à être appelés par les hommes: Maître, maître.",
+        "S21": "Ils aiment être salués sur les places publiques et être appelés par les hommes ‘Maître, [Maître]’."
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "Mais vous, ne vous faites pas appeler «Maître», car pour vous, il n’y a qu’un seul Maître, et vous êtes tous frères.",
+        "DBY": "Mais vous, ne soyez pas appelés: Rabbi; car un seul est votre conducteur, le Christ; et vous, vous êtes tous frères.",
+        "KJV": "‹But be not ye called Rabbi: for one is your Master,› [even] ‹Christ; and all ye are brethren.›",
+        "LSG": "Mais vous, ne vous faites pas appeler Rabbi; car un seul est votre Maître, et vous êtes tous frères.",
+        "MAB": "Mais pour vous, ne soyez point appelés, Notre Maître; car Christ seul est votre Docteur; et pour vous, vous êtes tous frères.",
+        "OST": "Mais vous, ne vous faites point appeler maître; car vous n'avez qu'un Maître, le Christ; et pour vous, vous êtes tous frères.",
+        "S21": "Mais vous, ne vous faites pas appeler maîtres, car un seul est votre maître, [c'est le Christ,] et vous êtes tous frères."
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "Ne donnez pas non plus à quelqu’un, ici-bas, le titre de «Père», car pour vous, il n’y a qu’un seul Père: le Père céleste.",
+        "DBY": "Et n'appelez personne sur la terre votre père; car un seul est votre père, celui qui est dans les cieux.",
+        "KJV": "‹And call no› [man] ‹your father upon the earth: for one is your Father, which is in heaven.›",
+        "LSG": "Et n'appelez personne sur la terre votre père; car un seul est votre Père, celui qui est dans les cieux.",
+        "MAB": "Et n'appelez personne sur la terre [votre] père; car un seul est votre Père, lequel est dans les cieux.",
+        "OST": "Et n'appelez personne sur la terre votre père; car vous n'avez qu'un seul Père, celui qui est dans les cieux.",
+        "S21": "N'appelez personne sur la terre votre père, car un seul est votre Père, c'est celui qui est au ciel."
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "Ne vous faites pas non plus appeler chefs, car un seul est votre Chef: le Christ.",
+        "DBY": "Ne soyez pas non plus appelés conducteurs; car un seul est votre conducteur, le Christ.",
+        "KJV": "‹Neither be ye called masters: for one is your Master,› [even] ‹Christ.›",
+        "LSG": "Ne vous faites pas appeler directeurs; car un seul est votre Directeur, le Christ.",
+        "MAB": "Et ne soyez point appelés Docteurs : car Christ seul est votre Docteur.",
+        "OST": "Et ne vous faites point appeler docteur; car vous n'avez qu'un seul Docteur, le Christ.",
+        "S21": "Ne vous faites pas appeler chefs, car un seul est votre chef, c'est le Christ."
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "Le plus grand parmi vous sera votre serviteur.",
+        "DBY": "Mais le plus grand de vous sera votre serviteur.",
+        "KJV": "‹But he that is greatest among you shall be your servant.›",
+        "LSG": "Le plus grand parmi vous sera votre serviteur.",
+        "MAB": "Mais que celui qui est le plus grand entre vous, soit votre serviteur.",
+        "OST": "Mais que le plus grand d'entre vous soit votre serviteur.",
+        "S21": "Le plus grand parmi vous sera votre serviteur."
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "Car celui qui s’élève sera abaissé; et celui qui s’abaisse lui-même sera élevé.",
+        "DBY": "Et quiconque s'élèvera sera abaissé; et quiconque s'abaissera sera élevé.",
+        "KJV": "‹And whosoever shall exalt himself shall be abased; and he that shall humble himself shall be exalted.›",
+        "LSG": "Quiconque s'élèvera sera abaissé, et quiconque s'abaissera sera élevé.",
+        "MAB": "Car quiconque s'élèvera sera abaissé; et quiconque s'abaissera, sera élevé.",
+        "OST": "Car quiconque s'élèvera sera abaissé; et quiconque s'abaissera sera élevé.",
+        "S21": "Celui qui s'élèvera sera abaissé et celui qui s'abaissera sera élevé."
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "—Malheur à vous, spécialistes de la Loi et pharisiens hypocrites! Parce que vous barrez aux autres l’accès au royaume des cieux. Non seulement vous n’y entrez pas vous-mêmes, mais vous empêchez d’entrer ceux qui voudraient le faire.",
+        "DBY": "Mais malheur à vous, scribes et pharisiens hypocrites! car vous fermez le royaume des cieux devant les hommes; car vous n'entrez pas vous-mêmes, ni ne permettez à ceux qui entrent, d'entrer.",
+        "KJV": "‹But woe unto you, scribes and Pharisees, hypocrites! for ye shut up the kingdom of heaven against men: for ye neither go in› [yourselves], ‹neither suffer ye them that are entering to go in.›",
+        "LSG": "Malheur à vous, scribes et pharisiens hypocrites! parce que vous fermez aux hommes le royaume des cieux; vous n'y entrez pas vous-mêmes, et vous n'y laissez pas entrer ceux qui veulent entrer.",
+        "MAB": "Mais malheur à vous, Scribes et Pharisiens hypocrites, qui fermez le Royaume des cieux aux hommes : car vous-mêmes n'y entrez point, ni ne souffrez que ceux qui y [veulent] entrer, y entrent.",
+        "OST": "Malheur à vous, scribes et pharisiens hypocrites, parce que vous fermez aux hommes le royaume des cieux; vous n'y entrez point vous-mêmes, et n'y laissez point entrer ceux qui veulent y entrer.",
+        "S21": "»Malheur à vous, spécialistes de la loi et pharisiens hypocrites, parce que vous fermez aux hommes l'accès au royaume des cieux; vous n'y entrez pas vous-mêmes et vous ne laissez pas entrer ceux qui le voudraient."
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "[Malheur à vous, spécialistes de la Loi et pharisiens hypocrites, car vous dépouillez les veuves de leurs biens, tout en faisant de longues prières pour l’apparence. C’est pourquoi votre condamnation n’en sera que plus sévère.]",
+        "DBY": "",
+        "KJV": "‹Woe unto you, scribes and Pharisees, hypocrites! for ye devour widows' houses, and for a pretence make long prayer: therefore ye shall receive the greater damnation.›",
+        "LSG": "Malheur à vous, scribes et pharisiens hypocrites! parce que vous dévorez les maisons des veuves, et que vous faites pour l'apparence de longues prières; à cause de cela, vous serez jugés plus sévèrement.",
+        "MAB": "Malheur à vous, Scribes et Pharisiens hypocrites; car vous dévorez les maisons des veuves, même sous le prétexte de faire de longues prières, c'est pourquoi vous en recevrez une plus grande condamnation.",
+        "OST": "Malheur à vous, scribes et pharisiens hypocrites, parce que vous dévorez les maisons des veuves, tout en affectant de faire de longues prières; aussi vous en recevrez une plus grande condamnation.",
+        "S21": "»[Malheur à vous, spécialistes de la loi et pharisiens hypocrites, parce que vous dépouillez les veuves de leurs biens tout en faisant pour l'apparence de longues prières; à cause de cela, vous serez jugés plus sévèrement.]"
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "Malheur à vous, spécialistes de la Loi et pharisiens hypocrites! Vous parcourez terre et mer pour amener ne fût-ce qu’un seul païen à votre religion, et quand vous l’avez gagné, vous lui faites mériter l’enfer deux fois plus que vous.",
+        "DBY": "Malheur à vous, scribes et pharisiens hypocrites! car vous parcourez la mer et la terre pour faire un prosélyte; et quand il l'est devenu, vous le rendez fils de la géhenne deux fois plus que vous.",
+        "KJV": "‹Woe unto you, scribes and Pharisees, hypocrites! for ye compass sea and land to make one proselyte, and when he is made, ye make him twofold more the child of hell than yourselves.›",
+        "LSG": "Malheur à vous, scribes et pharisiens hypocrites! parce que vous courez la mer et la terre pour faire un prosélyte; et, quand il l'est devenu, vous en faites un fils de la géhenne deux fois plus que vous.",
+        "MAB": "Malheur à vous, Scribes et Pharisiens hypocrites! car vous courez la mer et la terre pour faire un prosélyte, et après qu'il l'est devenu, vous le rendez fils de la géhenne, deux fois plus que vous.",
+        "OST": "Malheur à vous, scribes et pharisiens hypocrites, car vous courez la mer et la terre pour faire un prosélyte; et quand il l'est devenu, vous le rendez enfant de la géhenne deux fois plus que vous.",
+        "S21": "»Malheur à vous, spécialistes de la loi et pharisiens hypocrites, parce que vous parcourez la mer et la terre pour faire un converti et, quand il l'est devenu, vous en faites un fils de l'enfer deux fois pire que vous."
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "Malheur à vous, guides aveugles! En effet, vous dites: Si quelqu’un jure «par le Temple», il n’est pas tenu par son serment, mais s’il jure «par l’or du Temple», il doit tenir son serment.",
+        "DBY": "Malheur à vous, guides aveugles, qui dites: Quiconque aura juré par le temple, ce n'est rien; mais quiconque aura juré par l'or du temple, est obligé.",
+        "KJV": "‹Woe unto you,› [ye] ‹blind guides, which say, Whosoever shall swear by the temple, it is nothing; but whosoever shall swear by the gold of the temple, he is a debtor!›",
+        "LSG": "Malheur à vous, conducteurs aveugles! qui dites: Si quelqu'un jure par le temple, ce n'est rien; mais, si quelqu'un jure par l'or du temple, il est engagé.",
+        "MAB": "Malheur à vous Conducteurs aveugles, qui dites : quiconque aura juré par le Temple, ce n'est rien; mais qui aura juré par l'or du Temple, il est obligé.",
+        "OST": "Malheur à vous, conducteurs aveugles, qui dites: Si quelqu'un jure par le temple, cela n'est rien; mais celui qui aura juré par l'or du temple, est lié!",
+        "S21": "»Malheur à vous, conducteurs aveugles! Vous dites: ‘Si quelqu'un jure par le temple, cela ne compte pas, mais si quelqu'un jure par l'or du temple, il est engagé.’"
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "Insensés et aveugles que vous êtes! Qu’est-ce qui est plus important: l’or ou le Temple qui rend cet or sacré?",
+        "DBY": "Fous et aveugles! car lequel est le plus grand, ou l'or, ou le temple qui sanctifie l'or?",
+        "KJV": "[Ye] ‹fools and blind: for whether is greater, the gold, or the temple that sanctifieth the gold?›",
+        "LSG": "Insensés et aveugles! lequel est le plus grand, l'or, ou le temple qui sanctifie l'or?",
+        "MAB": "Fous, et aveugles! car lequel est le plus grand, ou l'or, ou le Temple qui sanctifie l'or?",
+        "OST": "Insensés et aveugles! lequel est le plus grand, ou l'or, ou le temple qui rend cet or sacré?",
+        "S21": "Espèces de fous aveugles! Lequel est le plus grand: l'or ou le temple qui consacre l'or?"
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "Ou bien vous dites: Si quelqu’un jure «par l’autel», il n’est pas tenu par son serment; mais s’il jure «par l’offrande qui est sur l’autel», il doit tenir son serment.",
+        "DBY": "Et quiconque aura juré par l'autel, ce n'est rien; mais quiconque aura juré par le don qui est dessus, est obligé.",
+        "KJV": "‹And, Whosoever shall swear by the altar, it is nothing; but whosoever sweareth by the gift that is upon it, he is guilty.›",
+        "LSG": "Si quelqu'un, dites-vous encore, jure par l'autel, ce n'est rien; mais, si quelqu'un jure par l'offrande qui est sur l'autel, il est engagé.",
+        "MAB": "Et quiconque, [dites-vous], aura juré par l'autel, ce n'est rien; mais qui aura juré par le don qui est sur l'autel, il est lié.",
+        "OST": "Et si quelqu'un, dites-vous, a juré par l'autel, cela n'est rien; mais s'il a juré par le don qui est sur l'autel, il est lié.",
+        "S21": "Vous dites encore: ‘Si quelqu'un jure par l'autel, cela ne compte pas, mais si quelqu'un jure par l'offrande qui est sur l'autel, il est engagé.’"
+      }
+    },
+    {
+      "verse": 19,
+      "texts": {
+        "BDS": "Aveugles que vous êtes! Qu’est-ce qui est plus important: l’offrande ou l’autel qui rend cette offrande sacrée?",
+        "DBY": "Aveugles! car lequel est le plus grand, ou le don, ou l'autel qui sanctifie le don?",
+        "KJV": "[Ye] ‹fools and blind: for whether› [is] ‹greater, the gift, or the altar that sanctifieth the gift?›",
+        "LSG": "Aveugles! lequel est le plus grand, l'offrande, ou l'autel qui sanctifie l'offrande?",
+        "MAB": "Fous et aveugles! car lequel est le plus grand, ou le don, ou l'autel qui sanctifie le don?",
+        "OST": "Insensés et aveugles! car lequel est le plus grand, le don ou l'autel qui rend le don sacré?",
+        "S21": "Espèces de fous aveugles! Lequel est le plus grand: l'offrande ou l'autel qui consacre l'offrande?"
+      }
+    },
+    {
+      "verse": 20,
+      "texts": {
+        "BDS": "En fait, celui qui jure «par l’autel», jure à la fois par l’autel et par tout ce qui est dessus.",
+        "DBY": "Celui donc qui jure par l'autel, jure par l'autel et par toutes les choses qui sont dessus;",
+        "KJV": "‹Whoso therefore shall swear by the altar, sweareth by it, and by all things thereon.›",
+        "LSG": "Celui qui jure par l'autel jure par l'autel et par tout ce qui est dessus;",
+        "MAB": "Celui donc qui jure par l'autel, jure par l'autel et par toutes les choses qui sont dessus.",
+        "OST": "Celui donc qui jure par l'autel, jure par l'autel et par tout ce qui est dessus;",
+        "S21": "Celui qui jure par l'autel jure par l'autel et par tout ce qui est dessus,"
+      }
+    },
+    {
+      "verse": 21,
+      "texts": {
+        "BDS": "Celui qui jure «par le Temple», jure à la fois par le Temple et par celui qui y habite.",
+        "DBY": "et celui qui jure par le temple, jure par le temple et par celui qui y habite;",
+        "KJV": "‹And whoso shall swear by the temple, sweareth by it, and by him that dwelleth therein.›",
+        "LSG": "celui qui jure par le temple jure par le temple et par celui qui l'habite;",
+        "MAB": "Et quiconque jure par le Temple, jure par le Temple, et par celui qui y habite.",
+        "OST": "Et celui qui jure par le temple, jure par le temple et par celui qui y habite;",
+        "S21": "celui qui jure par le temple jure par le temple et par celui qui l'habite,"
+      }
+    },
+    {
+      "verse": 22,
+      "texts": {
+        "BDS": "Celui qui jure «par le ciel», jure à la fois par le trône de Dieu et par celui qui y siège.",
+        "DBY": "et celui qui jure par le ciel, jure par le trône de Dieu et par celui qui est assis dessus.",
+        "KJV": "‹And he that shall swear by heaven, sweareth by the throne of God, and by him that sitteth thereon.›",
+        "LSG": "et celui qui jure par le ciel jure par le trône de Dieu et par celui qui y est assis.",
+        "MAB": "Et quiconque jure par le ciel, jure par le trône de Dieu, et par celui qui y est assis.",
+        "OST": "Et celui qui jure par le ciel, jure par le trône de Dieu et par celui qui est assis dessus.",
+        "S21": "et celui qui jure par le ciel jure par le trône de Dieu et par celui qui y est assis."
+      }
+    },
+    {
+      "verse": 23,
+      "texts": {
+        "BDS": "Malheur à vous, spécialistes de la Loi et pharisiens hypocrites! Vous vous acquittez scrupuleusement de la dîme sur la menthe, l’anis et le cumin, mais vous laissez de côté ce qu’il y a de plus important dans la Loi, c’est-à-dire la justice, la bonté et la fidélité. Voilà ce qu’il fallait pratiquer, sans négliger le reste.",
+        "DBY": "Malheur à vous, scribes et pharisiens hypocrites! car vous payez la dîme de la menthe et de l'aneth et du cumin, et vous avez laissé les choses plus importantes de la loi, le jugement et la miséricorde et la fidélité; il fallait faire ces choses-ci, et ne pas laisser celles-là.",
+        "KJV": "‹Woe unto you, scribes and Pharisees, hypocrites! for ye pay tithe of mint and anise and cummin, and have omitted the weightier› [matters] ‹of the law, judgment, mercy, and faith: these ought ye to have done, and not to leave the other undone.›",
+        "LSG": "Malheur à vous, scribes et pharisiens hypocrites! parce que vous payez la dîme de la menthe, de l'aneth et du cumin, et que vous laissez ce qui est plus important dans la loi, la justice, la miséricorde et la fidélité: c'est là ce qu'il fallait pratiquer, sans négliger les autres choses.",
+        "MAB": "Malheur à vous, Scribes et Pharisiens hypocrites; car vous payez la dîme de la menthe, de l'aneth et du cumin; et vous laissez les choses les plus importantes de la Loi, c'est-à-dire, le jugement, la miséricorde et la fidélité; il fallait faire ces choses-ci, et ne laisser point celles-là.",
+        "OST": "Malheur à vous, scribes et pharisiens hypocrites, car vous payez la dîme de la menthe, de l'aneth et du cumin, et vous négligez les choses les plus importantes de la loi, la justice, la miséricorde et la fidélité. Il fallait faire ces choses-ci et ne pas omettre celles-là.",
+        "S21": "»Malheur à vous, spécialistes de la loi et pharisiens hypocrites, parce que vous versez la dîme de la menthe, de l'aneth et du cumin et que vous laissez ce qu'il y a de plus important dans la loi: la justice, la bonté et la fidélité. C'est cela qu'il fallait pratiquer, sans négliger le reste."
+      }
+    },
+    {
+      "verse": 24,
+      "texts": {
+        "BDS": "Guides aveugles que vous êtes! Vous avez soin de filtrer vos boissons pour éliminer le moindre moucheron, et vous avalez le chameau tout entier.",
+        "DBY": "Guides aveugles, qui coulez le moucheron et qui avalez le chameau!",
+        "KJV": "[Ye] ‹blind guides, which strain at a gnat, and swallow a camel.›",
+        "LSG": "Conducteurs aveugles! qui coulez le moucheron, et qui avalez le chameau.",
+        "MAB": "Conducteurs aveugles, vous coulez le moucheron, et vous engloutissez le chameau.",
+        "OST": "Conducteurs aveugles, qui coulez le moucheron, et qui avalez le chameau!",
+        "S21": "Conducteurs aveugles! Vous filtrez vos boissons pour éliminer le moucheron, mais vous avalez le chameau."
+      }
+    },
+    {
+      "verse": 25,
+      "texts": {
+        "BDS": "Malheur à vous, spécialistes de la Loi et pharisiens hypocrites! Vous nettoyez soigneusement l’extérieur de vos coupes et de vos assiettes, mais vous les remplissez du produit de vos vols et de ce que vos désirs incontrôlés convoitent.",
+        "DBY": "Malheur à vous, scribes et pharisiens hypocrites! car vous nettoyez le dehors de la coupe et du plat; mais au dedans, ils sont pleins de rapine et d'intempérance.",
+        "KJV": "‹Woe unto you, scribes and Pharisees, hypocrites! for ye make clean the outside of the cup and of the platter, but within they are full of extortion and excess.›",
+        "LSG": "Malheur à vous, scribes et pharisiens hypocrites! parce que vous nettoyez le dehors de la coupe et du plat, et qu'au dedans ils sont pleins de rapine et d'intempérance.",
+        "MAB": "Malheur à vous, Scribes et Pharisiens hypocrites, car vous nettoyez le dehors de la coupe et du plat; mais le dedans est plein de rapine et d'intempérance.",
+        "OST": "Malheur à vous, scribes et pharisiens hypocrites, car vous nettoyez le dehors de la coupe et du plat, tandis qu'au-dedans vous êtes pleins de rapines et d'intempérance.",
+        "S21": "»Malheur à vous, spécialistes de la loi et pharisiens hypocrites, parce que vous nettoyez l'extérieur de la coupe et du plat, alors qu'à l'intérieur ils sont pleins du produit de vos vols et de vos excès."
+      }
+    },
+    {
+      "verse": 26,
+      "texts": {
+        "BDS": "Pharisien aveugle, commence donc par purifier l’intérieur de la coupe et de l’assiette, alors l’extérieur lui-même sera pur.",
+        "DBY": "Pharisien aveugle! nettoie premièrement le dedans de la coupe et du plat, afin que le dehors aussi soit net.",
+        "KJV": "[Thou] ‹blind Pharisee, cleanse first that› [which is] ‹within the cup and platter, that the outside of them may be clean also.›",
+        "LSG": "Pharisien aveugle! nettoie premièrement l'intérieur de la coupe et du plat, afin que l'extérieur aussi devienne net.",
+        "MAB": "Pharisien aveugle, nettoie premièrement le dedans de la coupe et du plat, afin que le dehors aussi soit net.",
+        "OST": "Pharisien aveugle, nettoie premièrement le dedans de la coupe et du plat, afin que le dehors en devienne aussi net.",
+        "S21": "Pharisien aveugle! Nettoie d'abord l'intérieur de la coupe et du plat, afin que l'extérieur aussi devienne pur."
+      }
+    },
+    {
+      "verse": 27,
+      "texts": {
+        "BDS": "Malheur à vous, spécialistes de la Loi et pharisiens hypocrites! Vous êtes comme ces tombeaux crépis de blanc, qui sont beaux au-dehors. Mais à l’intérieur, il n’y a qu’ossements de cadavres et pourriture.",
+        "DBY": "Malheur à vous, scribes et pharisiens hypocrites! car vous ressemblez à des sépulcres blanchis, qui paraissent beaux au dehors, mais qui, au dedans, sont pleins d'ossements de morts et de toute sorte d'impureté.",
+        "KJV": "‹Woe unto you, scribes and Pharisees, hypocrites! for ye are like unto whited sepulchres, which indeed appear beautiful outward, but are within full of dead› [men's] ‹bones, and of all uncleanness.›",
+        "LSG": "Malheur à vous, scribes et pharisiens hypocrites! parce que vous ressemblez à des sépulcres blanchis, qui paraissent beaux au dehors, et qui, au dedans, sont pleins d'ossements de morts et de toute espèce d'impuretés.",
+        "MAB": "Malheur à vous, Scribes et Pharisiens hypocrites; car vous êtes semblables aux sépulcres blanchis, qui paraissent beaux par dehors, mais qui au dedans sont pleins d'ossements de morts, et de toute sorte d'ordure.",
+        "OST": "Malheur à vous, scribes et pharisiens hypocrites, car vous ressemblez à des sépulcres blanchis, qui paraissent beaux par dehors, mais qui au-dedans sont pleins d'ossements de morts et de toute sorte de pourriture.",
+        "S21": "»Malheur à vous, spécialistes de la loi et pharisiens hypocrites, parce que vous ressemblez à des tombeaux blanchis qui paraissent beaux de l’extérieur et qui, à l’intérieur, sont pleins d'ossements de morts et de toutes sortes d'impuretés."
+      }
+    },
+    {
+      "verse": 28,
+      "texts": {
+        "BDS": "Vous de même, à l’extérieur, vous avez l’air de justes aux yeux des hommes, mais, à l’intérieur, il n’y a qu’hypocrisie et désobéissance à Dieu.",
+        "DBY": "Ainsi, vous aussi, au dehors vous paraissez justes aux hommes, mais au dedans vous êtes pleins d'hypocrisie et d'iniquité.",
+        "KJV": "‹Even so ye also outwardly appear righteous unto men, but within ye are full of hypocrisy and iniquity.›",
+        "LSG": "Vous de même, au dehors, vous paraissez justes aux hommes, mais, au dedans, vous êtes pleins d'hypocrisie et d'iniquité.",
+        "MAB": "Ainsi vous paraissez justes par dehors aux hommes, mais au dedans vous êtes pleins d'hypocrisie et d'iniquité.",
+        "OST": "Vous de même, au-dehors vous paraissez justes aux hommes, mais au-dedans vous êtes remplis d'hypocrisie et d'injustice.",
+        "S21": "Vous de même, de l’extérieur, vous paraissez justes aux hommes, mais à l’intérieur vous êtes pleins d'hypocrisie et d'injustice."
+      }
+    },
+    {
+      "verse": 29,
+      "texts": {
+        "BDS": "Malheur à vous, spécialistes de la Loi et pharisiens hypocrites! Vous édifiez de somptueux tombeaux aux prophètes, vous couvrez d’ornements ceux des justes.",
+        "DBY": "Malheur à vous, scribes et pharisiens hypocrites! car vous bâtissez les tombeaux des prophètes, et vous ornez les sépulcres des justes,",
+        "KJV": "‹Woe unto you, scribes and Pharisees, hypocrites! because ye build the tombs of the prophets, and garnish the sepulchres of the righteous,›",
+        "LSG": "Malheur à vous, scribes et pharisiens hypocrites! parce que vous bâtissez les tombeaux des prophètes et ornez les sépulcres des justes,",
+        "MAB": "Malheur à vous, Scribes et Pharisiens hypocrites, car vous bâtissez les tombeaux des Prophètes, et vous réparez les sépulcres des Justes;",
+        "OST": "Malheur à vous, scribes et pharisiens hypocrites, car vous bâtissez des tombeaux aux prophètes, et vous ornez les sépulcres des justes;",
+        "S21": "»Malheur à vous, spécialistes de la loi et pharisiens hypocrites, parce que vous construisez les tombeaux des prophètes et que vous décorez les tombes des justes,"
+      }
+    },
+    {
+      "verse": 30,
+      "texts": {
+        "BDS": "Vous dites: Si nous avions vécu du temps de nos ancêtres, nous ne nous serions pas associés à eux pour tuer les prophètes.",
+        "DBY": "et vous dites: Si nous avions été dans les jours de nos pères, nous n'aurions pas pris part avec eux au sang des prophètes;",
+        "KJV": "‹And say, If we had been in the days of our fathers, we would not have been partakers with them in the blood of the prophets.›",
+        "LSG": "et que vous dites: Si nous avions vécu du temps de nos pères, nous ne nous serions pas joints à eux pour répandre le sang des prophètes.",
+        "MAB": "Et vous dites : si nous avions été du temps de nos pères, nous n'aurions pas participé avec eux au meurtre des Prophètes.",
+        "OST": "Et vous dites: Si nous eussions été au temps de nos pères, nous n'aurions pas été leurs complices pour répandre le sang des prophètes.",
+        "S21": "et vous dites: ‘Si nous avions vécu à l’époque de nos ancêtres, nous ne nous serions pas joints à eux pour verser le sang des prophètes.’"
+      }
+    },
+    {
+      "verse": 31,
+      "texts": {
+        "BDS": "En disant cela, vous attestez vous-mêmes que vous êtes bien les descendants de ceux qui ont fait périr les prophètes.",
+        "DBY": "en sorte que vous êtes témoins contre vous-mêmes que vous êtes les fils de ceux qui ont tué les prophètes;",
+        "KJV": "‹Wherefore ye be witnesses unto yourselves, that ye are the children of them which killed the prophets.›",
+        "LSG": "Vous témoignez ainsi contre vous-mêmes que vous êtes les fils de ceux qui ont tué les prophètes.",
+        "MAB": "Ainsi vous êtes témoins contre vous-mêmes, que vous êtes les enfants de ceux qui ont fait mourir les Prophètes;",
+        "OST": "Ainsi vous êtes témoins contre vous-mêmes, que vous êtes les enfants de ceux qui ont tué les prophètes.",
+        "S21": "Vous témoignez ainsi contre vous-mêmes que vous êtes les descendants de ceux qui ont tué les prophètes."
+      }
+    },
+    {
+      "verse": 32,
+      "texts": {
+        "BDS": "Eh bien, ce que vos pères ont commencé, portez-le à son comble!",
+        "DBY": "et vous, -comblez la mesure de vos pères!",
+        "KJV": "‹Fill ye up then the measure of your fathers.›",
+        "LSG": "Comblez donc la mesure de vos pères.",
+        "MAB": "Et vous achevez de remplir la mesure de vos pères.",
+        "OST": "Et vous comblez la mesure de vos pères.",
+        "S21": "Portez donc à son comble la mesure de vos ancêtres!"
+      }
+    },
+    {
+      "verse": 33,
+      "texts": {
+        "BDS": "Serpents, race de vipères! Comment pouvez-vous penser que vous éviterez le châtiment de l’enfer?",
+        "DBY": "Serpents, race de vipères! comment échapperez-vous au jugement de la géhenne?",
+        "KJV": "[Ye] ‹serpents,› [ye] ‹generation of vipers, how can ye escape the damnation of hell?›",
+        "LSG": "Serpents, race de vipères! comment échapperez-vous au châtiment de la géhenne?",
+        "MAB": "Serpents, race de vipères! comment éviterez-vous le supplice de la géhenne?",
+        "OST": "Serpents, race de vipères, comment éviterez-vous le châtiment de la géhenne?",
+        "S21": "Serpents, race de vipères! Comment échapperez-vous au jugement de l'enfer?"
+      }
+    },
+    {
+      "verse": 34,
+      "texts": {
+        "BDS": "En effet, je vais vous envoyer des prophètes, des sages et des spécialistes de l’Ecriture: vous allez tuer ou crucifier les uns, fouetter les autres dans vos synagogues, et les persécuter d’une ville à l’autre,",
+        "DBY": "C'est pourquoi voici, moi, je vous envoie des prophètes, et des sages, et des scribes; et vous en tuerez et vous en crucifierez, et vous en fouetterez dans vos synagogues, et vous les persécuterez de ville en ville,",
+        "KJV": "‹Wherefore, behold, I send unto you prophets, and wise men, and scribes: and› [some] ‹of them ye shall kill and crucify; and› [some] ‹of them shall ye scourge in your synagogues, and persecute› [them] ‹from city to city:›",
+        "LSG": "C'est pourquoi, voici, je vous envoie des prophètes, des sages et des scribes. Vous tuerez et crucifierez les uns, vous battrez de verges les autres dans vos synagogues, et vous les persécuterez de ville en ville,",
+        "MAB": "Car voici, je vous envoie des Prophètes, et des Sages, et des Scribes, vous en tuerez, vous en crucifierez, vous en fouetterez dans vos Synagogues, et vous les persécuterez de ville en ville.",
+        "OST": "C'est pourquoi, voici, je vous envoie des prophètes, des sages et des scribes; vous ferez mourir et vous crucifierez les uns; vous fouetterez dans vos synagogues et vous persécuterez de ville en ville les autres.",
+        "S21": "C'est pourquoi, je vous envoie des prophètes, des sages et des spécialistes de la loi. Vous tuerez et crucifierez les uns, vous fouetterez les autres dans vos synagogues et vous les persécuterez de ville en ville,"
+      }
+    },
+    {
+      "verse": 35,
+      "texts": {
+        "BDS": "pour que retombe sur vous le châtiment qu’appelle le meurtre de tous les innocents, depuis celui d’Abel, le juste, jusqu’à celui de Zacharie, fils de Barachie, que vous avez assassiné entre le Temple et l’autel du sacrifice.",
+        "DBY": "sorte que vienne sur vous tout le sang juste versé sur la terre, depuis le sang d'Abel le juste, jusqu'au sang de Zacharie, fils de Barachie, que vous avez tué entre le temple et l'autel.",
+        "KJV": "‹That upon you may come all the righteous blood shed upon the earth, from the blood of righteous Abel unto the blood of Zacharias son of Barachias, whom ye slew between the temple and the altar.›",
+        "LSG": "afin que retombe sur vous tout le sang innocent répandu sur la terre, depuis le sang d'Abel le juste jusqu'au sang de Zacharie, fils de Barachie, que vous avez tué entre le temple et l'autel.",
+        "MAB": "Afin que vienne sur vous tout le sang juste qui a été répandu sur la terre, depuis le sang d'Abel le juste, jusques au sang de Zacharie, fils de Barachie, que vous avez tué entre le Temple et l'autel.",
+        "OST": "Afin que tout le sang innocent qui a été répandu sur la terre retombe sur vous, depuis le sang d'Abel le juste jusqu'au sang de Zacharie, fils de Barachie, que vous avez tué entre le temple et l'autel.",
+        "S21": "afin que retombe sur vous tout le sang innocent versé sur la terre, depuis le sang d'Abel le juste jusqu'au sang de Zacharie, fils de Bérékia, que vous avez tué entre le temple et l'autel."
+      }
+    },
+    {
+      "verse": 36,
+      "texts": {
+        "BDS": "Oui, vraiment, je vous l’assure: le châtiment mérité par tous ces meurtres retombera sur les hommes de cette génération.",
+        "DBY": "En vérité, je vous dis: toutes ces choses viendront sur cette génération.",
+        "KJV": "‹Verily I say unto you, All these things shall come upon this generation.›",
+        "LSG": "Je vous le dis en vérité, tout cela retombera sur cette génération.",
+        "MAB": "En vérité je vous dis, que toutes ces choses viendront sur cette génération.",
+        "OST": "Je vous dis en vérité que toutes ces choses retomberont sur cette génération.",
+        "S21": "En vérité je vous le dis, tout cela retombera sur cette génération."
+      }
+    },
+    {
+      "verse": 37,
+      "texts": {
+        "BDS": "—Ah, Jérusalem! Jérusalem! toi qui fais mourir les prophètes et qui tues à coups de pierres ceux que Dieu t’envoie! Combien de fois j’ai voulu rassembler tes habitants auprès de moi comme une poule rassemble ses poussins sous ses ailes! Mais vous ne l’avez pas voulu!",
+        "DBY": "Jérusalem, Jérusalem, la ville qui tue les prophètes et qui lapide ceux qui lui sont envoyés, que de fois j'ai voulu rassembler tes enfants comme une poule rassemble ses poussins sous ses ailes, et vous ne l'avez pas voulu!",
+        "KJV": "‹O Jerusalem, Jerusalem,› [thou] ‹that killest the prophets, and stonest them which are sent unto thee, how often would I have gathered thy children together, even as a hen gathereth her chickens under› [her] ‹wings, and ye would not!›",
+        "LSG": "Jérusalem, Jérusalem, qui tues les prophètes et qui lapides ceux qui te sont envoyés, combien de fois ai-je voulu rassembler tes enfants, comme une poule rassemble ses poussins sous ses ailes, et vous ne l'avez pas voulu!",
+        "MAB": "Jérusalem, Jérusalem, qui tues les Prophètes, et qui lapides ceux qui te sont envoyés, combien de fois ai-je voulu rassembler tes enfants, comme la poule rassemble ses poussins sous ses ailes, et vous ne l'avez point voulu!",
+        "OST": "Jérusalem, Jérusalem, qui tues les prophètes, et qui lapides ceux qui te sont envoyés, combien de fois ai-je voulu rassembler tes enfants, comme une poule rassemble ses poussins sous ses ailes; et vous ne l'avez pas voulu!",
+        "S21": "»Jérusalem, Jérusalem, toi qui tues les prophètes et qui lapides ceux qui te sont envoyés! Combien de fois j’ai voulu rassembler tes enfants, comme une poule rassemble ses poussins sous ses ailes, et vous ne l'avez pas voulu!"
+      }
+    },
+    {
+      "verse": 38,
+      "texts": {
+        "BDS": "Maintenant, votre maison va être abandonnée et restera déserte.",
+        "DBY": "Voici, votre maison vous est laissée déserte,",
+        "KJV": "‹Behold, your house is left unto you desolate.›",
+        "LSG": "Voici, votre maison vous sera laissée déserte;",
+        "MAB": "Voici, votre maison va devenir déserte.",
+        "OST": "Voici, votre demeure va devenir déserte.",
+        "S21": "Voici que votre maison vous sera laissée déserte"
+      }
+    },
+    {
+      "verse": 39,
+      "texts": {
+        "BDS": "En effet, je vous le déclare: Désormais, vous ne me verrez plus jusqu’à ce que vous disiez: Béni soit celui qui vient de la part du Seigneur!",
+        "DBY": "car je vous dis: Vous ne me verrez plus désormais, jusqu'à ce que vous disiez: Béni soit celui qui vient au nom du Seigneur!",
+        "KJV": "‹For I say unto you, Ye shall not see me henceforth, till ye shall say, Blessed› [is] ‹he that cometh in the name of the Lord.›",
+        "LSG": "car, je vous le dis, vous ne me verrez plus désormais, jusqu'à ce que vous disiez: Béni soit celui qui vient au nom du Seigneur!",
+        "MAB": "Car je vous dis, que désormais vous ne me verrez plus, jusqu'à ce que vous disiez : béni soit celui qui vient au Nom du Seigneur!",
+        "OST": "Car je vous dis que désormais vous ne me verrez plus jusqu'à ce que vous disiez: Béni soit celui qui vient au nom du Seigneur.",
+        "S21": "car, je vous le dis, vous ne me verrez plus désormais, jusqu'à ce que vous disiez: ‘Béni soit celui qui vient au nom du Seigneur!’»"
+      }
+    }
+  ]
+}

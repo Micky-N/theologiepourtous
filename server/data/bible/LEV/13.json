@@ -1,0 +1,714 @@
+{
+  "bookCode": "LEV",
+  "chapter": 13,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "L’Eternel parla à Moïse et à Aaron en ces termes:",
+        "DBY": "Et l'Éternel parla à Moïse et à Aaron, disant:",
+        "KJV": "And the LORD spake unto Moses and Aaron, saying,",
+        "LSG": "L'Eternel parla à Moïse et à Aaron, et dit:",
+        "MAB": "L'Eternel parla aussi à Moïse et à Aaron, en disant :",
+        "OST": "L'Éternel parla aussi à Moïse et à Aaron, en disant:",
+        "S21": "L'Eternel dit à Moïse et à Aaron:"
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "—Si une boursouflure, une dartre ou une tache sur la peau de quelqu’un devient une plaie qui fait suspecter une maladie de peau évolutive, du genre lèpre, on le présentera au prêtre Aaron ou à l’un de ses descendants.",
+        "DBY": "Si un homme a dans la peau de sa chair une tumeur, ou une dartre, ou une tache blanchâtre, et qu'elle soit devenue, dans la peau de sa chair, une plaie comme de lèpre, on l'amènera à Aaron, le sacrificateur, ou à l'un de ses fils, les sacrificateurs;",
+        "KJV": "When a man shall have in the skin of his flesh a rising, a scab, or bright spot, and it be in the skin of his flesh [like] the plague of leprosy; then he shall be brought unto Aaron the priest, or unto one of his sons the priests:",
+        "LSG": "Lorsqu'un homme aura sur la peau de son corps une tumeur, une dartre, ou une tache blanche, qui ressemblera à une plaie de lèpre sur la peau de son corps, on l'amènera au sacrificateur Aaron, ou à l'un de ses fils qui sont sacrificateurs.",
+        "MAB": "L'homme qui aura dans la peau de sa chair une tumeur, ou gâle, ou bouton, et que cela paraîtra dans la peau de sa chair comme une plaie de lèpre, on l'amènera à Aaron Sacrificateur, ou à un de ses fils Sacrificateurs.",
+        "OST": "Quand un homme aura sur la peau de son corps une tumeur, une éruption, ou une tache blanche, qui sera devenue sur la peau de son corps une plaie de lèpre, on l'amènera à Aaron, le sacrificateur, ou à l'un de ses fils, les sacrificateurs.",
+        "S21": "«Lorsqu'un homme aura sur la peau une grosseur, une dartre ou une tache blanche qui ressemblera à une plaie de lèpre sur sa peau, on l'amènera au prêtre Aaron ou à l'un de ses descendants qui seront prêtres."
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "Celui-ci examinera cette affection de la peau. Si, à l’endroit malade, les poils sont devenus blancs et si la plaie forme une dépression dans la peau, c’est bien un cas de maladie de peau évolutive. Sur la base de l’examen, le prêtre déclarera cette personne impure.",
+        "DBY": "et le sacrificateur verra la plaie qui est dans la peau de sa chair; et si le poil dans la plaie est devenu blanc, et si la plaie paraît plus enfoncée que la peau de sa chair, c'est une plaie de lèpre; et le sacrificateur le verra, et le déclarera impur.",
+        "KJV": "And the priest shall look on the plague in the skin of the flesh: and [when] the hair in the plague is turned white, and the plague in sight [be] deeper than the skin of his flesh, it [is] a plague of leprosy: and the priest shall look on him, and pronounce him unclean.",
+        "LSG": "Le sacrificateur examinera la plaie qui est sur la peau du corps. Si le poil de la plaie est devenu blanc, et que la plaie paraisse plus profonde que la peau du corps, c'est une plaie de lèpre: le sacrificateur qui aura fait l'examen déclarera cet homme impur.",
+        "MAB": "Et le Sacrificateur regardera la plaie qui est dans la peau de sa chair, et si le poil de la plaie est devenu blanc, et si la plaie, à la voir, est plus enfoncée que la peau de sa chair, c'est une plaie de lèpre; le Sacrificateur donc le regardera, et le jugera souillé.",
+        "OST": "Le sacrificateur regardera la plaie qui est sur la peau du corps. Si le poil de la plaie est devenu blanc, et si l'apparence de la plaie est plus enfoncée que la peau du corps, c'est une plaie de lèpre: le sacrificateur le verra et déclarera cet homme souillé.",
+        "S21": "Le prêtre examinera la plaie qui est sur la peau. Si le poil de la plaie est devenu blanc et que la plaie paraisse former un creux dans la peau, c'est une plaie de lèpre. Le prêtre qui aura fait l'examen déclarera cet homme impur."
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "Mais si la tache blanche ne forme pas de dépression visible de la peau, et si le poil n’est pas devenu blanc, le prêtre isolera le sujet pendant sept jours.",
+        "DBY": "Et si la tache dans la peau de sa chair est blanche, et si elle ne paraît pas plus enfoncée que la peau, et si le poil n'est pas devenu blanc, le sacrificateur fera enfermer pendant sept jours celui qui a la plaie;",
+        "KJV": "If the bright spot [be] white in the skin of his flesh, and in sight [be] not deeper than the skin, and the hair thereof be not turned white; then the priest shall shut up [him that hath] the plague seven days:",
+        "LSG": "S'il y a sur la peau du corps une tache blanche qui ne paraisse pas plus profonde que la peau, et que le poil ne soit pas devenu blanc, le sacrificateur enfermera pendant sept jours celui qui a la plaie.",
+        "MAB": "Mais si le bouton est blanc en la peau de sa chair, et qu'à le voir il ne soit point plus enfoncé que la peau, et si son poil n est pas devenu blanc, le Sacrificateur fera enfermer pendant sept jours celui qui a la plaie.",
+        "OST": "Mais s'il y a une tache blanche sur la peau du corps, et que son apparence ne soit pas plus enfoncée que la peau, et si son poil n'est pas devenu blanc, le sacrificateur enfermera pendant sept jours celui qui a la plaie.",
+        "S21": "S'il y a sur la peau une tache blanche qui ne paraisse pas former un creux dans la peau et que le poil ne soit pas devenu blanc, le prêtre enfermera pendant 7 jours celui qui a la plaie."
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "Le septième jour, il l’examinera. S’il constate que le mal est resté stationnaire sans s’étendre sur la peau, il isolera le malade une deuxième semaine,",
+        "DBY": "et le sacrificateur le verra le septième jour: et voici, la plaie est demeurée à ses yeux au même état, la plaie ne s'est pas étendue dans la peau; alors le sacrificateur le fera enfermer pendant sept autres jours.",
+        "KJV": "And the priest shall look on him the seventh day: and, behold, [if] the plague in his sight be at a stay, [and] the plague spread not in the skin; then the priest shall shut him up seven days more:",
+        "LSG": "Le sacrificateur l'examinera le septième jour. Si la plaie lui paraît ne pas avoir fait de progrès et ne pas s'être étendue sur la peau, le sacrificateur l'enfermera une seconde fois pendant sept jours.",
+        "MAB": "Et le Sacrificateur la regardera le septième jour, et s'il aperçoit que la plaie se soit arrêtée, et qu'elle n'ait point crû dans la peau, le Sacrificateur le fera renfermer pendant sept autres jours.",
+        "OST": "Le sacrificateur l'examinera au septième jour; et si la plaie lui paraît s'être arrêtée, si la plaie ne s'est pas étendue sur la peau, le sacrificateur l'enfermera une seconde fois pendant sept jours.",
+        "S21": "Le prêtre l'examinera le septième jour. Si la plaie lui paraît ne pas avoir fait de progrès et ne pas s'être étendue sur la peau, il l'enfermera une deuxième fois pendant 7 jours."
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "puis il procédera à un nouvel examen. Si la partie malade s’est estompée, et ne s’est pas étendue sur la peau, le prêtre déclarera cet homme pur; c’est une simple dartre. La personne lavera ses vêtements et sera pure.",
+        "DBY": "Et le sacrificateur le verra pour la seconde fois, le septième jour: et voici, la plaie s'efface, et la plaie ne s'est pas étendue dans la peau; alors le sacrificateur le déclarera pur: c'est un dartre; et il lavera ses vêtements, et sera pur.",
+        "KJV": "And the priest shall look on him again the seventh day: and, behold, [if] the plague [be] somewhat dark, [and] the plague spread not in the skin, the priest shall pronounce him clean: it [is but] a scab: and he shall wash his clothes, and be clean.",
+        "LSG": "Le sacrificateur l'examinera une seconde fois le septième jour. Si la plaie est devenue pâle et ne s'est pas étendue sur la peau, le sacrificateur déclarera cet homme pur: c'est une dartre; il lavera ses vêtements, et il sera pur.",
+        "MAB": "Et le Sacrificateur la regardera encore le septième jour suivant, et s'il aperçoit que la plaie s'est retirée, et qu'elle ne s'est point accrue sur la peau, le Sacrificateur le jugera net; c'est de la gâle, et il lavera ses vêtements, et sera net.",
+        "OST": "Et le sacrificateur l'examinera une seconde fois au septième jour. Si la plaie est devenue pâle, et ne s'est pas étendue sur la peau, le sacrificateur déclarera cet homme pur; c'est une éruption. Il lavera ses vêtements et sera pur.",
+        "S21": "Le prêtre l'examinera une deuxième fois le septième jour. Si la plaie est devenue pâle et ne s'est pas étendue sur la peau, il déclarera cet homme pur: c'est une dartre. L’homme lavera ses vêtements et il sera pur."
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "Mais si la dartre s’étend sur la peau après que le prêtre a examiné la personne et l’ait déclarée pure, celle-ci retournera se faire examiner par le prêtre.",
+        "DBY": "Mais si la dartre s'est beaucoup étendue dans la peau, après qu'il aura été vu par le sacrificateur pour sa purification, il sera vu une seconde fois par le sacrificateur;",
+        "KJV": "But if the scab spread much abroad in the skin, after that he hath been seen of the priest for his cleansing, he shall be seen of the priest again:",
+        "LSG": "Mais si la dartre s'est étendue sur la peau, après qu'il s'est montré au sacrificateur pour être déclaré pur, il se fera examiner une seconde fois par le sacrificateur.",
+        "MAB": "Mais si la gâle a crû en quelque sorte que ce soit sur la peau, après qu'il aura été examiné par le Sacrificateur pour être jugé net, et qu'il aura été examiné pour la seconde fois par le Sacrificateur;",
+        "OST": "Mais si l'éruption s'étend sur la peau, après qu'il aura paru devant le sacrificateur pour être déclaré pur, il se montrera une seconde fois au sacrificateur,",
+        "S21": "Mais si la dartre s'est étendue sur la peau après qu'il s'est montré au prêtre pour être déclaré pur, il se fera examiner une deuxième fois par le prêtre."
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "Si celui-ci constate une extension de la dartre sur la peau, il déclarera la personne impure: c’est une maladie de peau évolutive.",
+        "DBY": "et le sacrificateur le regardera: et voici, la dartre s'est étendue dans la peau; alors le sacrificateur le déclarera impur: c'est une lèpre.",
+        "KJV": "And [if] the priest see that, behold, the scab spreadeth in the skin, then the priest shall pronounce him unclean: it [is] a leprosy.",
+        "LSG": "Le sacrificateur l'examinera. Si la dartre s'est étendue sur la peau, le sacrificateur le déclarera impur; c'est la lèpre.",
+        "MAB": "Le Sacrificateur le regardera encore, et s'il aperçoit que la gâle ait crû sur la peau, le Sacrificateur le jugera souillé; c'est de la lèpre.",
+        "OST": "Le sacrificateur l'examinera; et si l'éruption s'est étendue sur la peau, le sacrificateur le déclarera souillé; c'est la lèpre.",
+        "S21": "Le prêtre l'examinera. Si la dartre s'est étendue sur la peau, il le déclarera impur. C'est la lèpre."
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "Lorsqu’un homme sera atteint d’une maladie de peau évolutive, on l’amènera au prêtre",
+        "DBY": "S'il y a une plaie comme de lèpre dans un homme, on l'amènera au sacrificateur,",
+        "KJV": "When the plague of leprosy is in a man, then he shall be brought unto the priest;",
+        "LSG": "Lorsqu'il y aura sur un homme une plaie de lèpre, on l'amènera au sacrificateur.",
+        "MAB": "Quand il y aura une plaie de lèpre en un homme; on l'amènera au Sacrificateur.",
+        "OST": "Quand il y aura une plaie de lèpre sur un homme, on l'amènera au sacrificateur. Et le sacrificateur l'examinera.",
+        "S21": "»Lorsqu'il y aura sur un homme une plaie de lèpre, on l'amènera au prêtre."
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "qui l’examinera. S’il constate une boursouflure blanche sur la peau qui ait fait blanchir le poil et qu’il y ait un bourgeonnement de chair vive dans la tumeur,",
+        "DBY": "et le sacrificateur le verra: et voici, il y a une tumeur blanche dans la peau, et elle a fait devenir blanc le poil, et il y a une trace de chair vive dans la tumeur,",
+        "KJV": "And the priest shall see [him]: and, behold, [if] the rising [be] white in the skin, and it have turned the hair white, and [there be] quick raw flesh in the rising;",
+        "LSG": "Le sacrificateur l'examinera. S'il y a sur la peau une tumeur blanche, si cette tumeur a fait blanchir le poil, et qu'il y ait une trace de chair vive dans la tumeur,",
+        "MAB": "Lequel le regardera; et s'il aperçoit qu'il y ait une tumeur blanche en la peau, et que le poil soit devenu blanc, et qu'il paraisse de la chair vive en la tumeur;",
+        "OST": "S'il y a une tumeur blanche sur la peau, et qu'elle ait rendu le poil blanc, et qu'il y ait trace de chair vive dans la tumeur,",
+        "S21": "Le prêtre l'examinera. S'il y a sur la peau une grosseur blanche, si cette grosseur a fait blanchir le poil et qu’elle porte une trace de chair vive,"
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "c’est une maladie de peau infectieuse et chronique. Le prêtre déclarera cet homme impur; il ne sera pas nécessaire de l’isoler, car il est manifestement impur.",
+        "DBY": "-c'est une lèpre invétérée dans la peau de sa chair; alors le sacrificateur le déclarera impur; il ne le fera pas enfermer, car il est impur.",
+        "KJV": "It [is] an old leprosy in the skin of his flesh, and the priest shall pronounce him unclean, and shall not shut him up: for he [is] unclean.",
+        "LSG": "c'est une lèpre invétérée dans la peau du corps de cet homme: le sacrificateur le déclarera impur; il ne l'enfermera pas, car il est impur.",
+        "MAB": "C'est une lèpre invétérée en la peau de sa chair, et le Sacrificateur le jugera souillé, et ne le fera point enfermer; car il est jugé souillé.",
+        "OST": "C'est une lèpre invétérée dans la peau de son corps, et le sacrificateur le déclarera souillé; il ne l'enfermera pas, car il est souillé.",
+        "S21": "c'est une lèpre durable dans la peau de cet homme. Le prêtre le déclarera impur. Il ne l'enfermera pas, car il est impur."
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "Mais si cette affection s’étend sur toute la peau du malade et le couvre de la tête aux pieds, où que porte le regard du prêtre,",
+        "DBY": "Et si la lèpre fait éruption sur la peau, et que la lèpre couvre toute la peau de celui qui a la plaie, de la tête aux pieds, autant qu'en pourra voir le sacrificateur,",
+        "KJV": "And if a leprosy break out abroad in the skin, and the leprosy cover all the skin of [him that hath] the plague from his head even to his foot, wheresoever the priest looketh;",
+        "LSG": "Si la lèpre fait une éruption sur la peau et couvre toute la peau de celui qui a la plaie, depuis la tête jusqu'aux pieds, partout où le sacrificateur portera ses regards, le sacrificateur l'examinera;",
+        "MAB": "Si la lèpre boutonne fort dans la peau, et qu'elle couvre toute la peau de la plaie, depuis la tête de cet homme jusqu'à ses pieds, autant qu'en pourra voir le Sacrificateur;",
+        "OST": "Mais si la lèpre fait une éruption sur la peau, et que la lèpre couvre toute la peau de celui qui a la plaie, de la tête aux pieds, partout où peut voir le sacrificateur,",
+        "S21": "Si la lèpre fait une éruption sur la peau et couvre toute la peau de celui qui a la plaie, depuis la tête jusqu'aux pieds, partout où le prêtre pourra porter ses regards, il l'examinera."
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "celui-ci procédera à un nouvel examen. S’il constate que l’éruption couvre tout le corps du malade, il le déclarera pur: puisqu’il est devenu complètement blanc, il est pur.",
+        "DBY": "le sacrificateur le verra: et voici, la lèpre a couvert toute sa chair; alors il déclarera pur celui qui a la plaie: il est tout entier devenu blanc; il est pur.",
+        "KJV": "Then the priest shall consider: and, behold, [if] the leprosy have covered all his flesh, he shall pronounce [him] clean [that hath] the plague: it is all turned white: he [is] clean.",
+        "LSG": "et quand il aura vu que la lèpre couvre tout le corps, il déclarera pur celui qui a la plaie: comme il est entièrement devenu blanc, il est pur.",
+        "MAB": "Le Sacrificateur le regardera, et s'il aperçoit que la lèpre ait couvert toute la chair de cet homme, alors il jugera net [celui qui a] la plaie; la plaie est devenue toute blanche; il est net.",
+        "OST": "Le sacrificateur l'examinera, et si la lèpre a couvert toute sa chair, il déclarera pur celui qui a la plaie; il est devenu tout blanc; il est pur.",
+        "S21": "Quand il aura vu que la lèpre couvre tout le corps, il déclarera pur celui qui a la plaie. Comme il est devenu entièrement blanc, il est pur."
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "Toutefois, le jour où l’on apercevra sur lui de la chair vive, il devient impur.",
+        "DBY": "Et le jour où l'on verra en lui de la chair vive, il sera impur.",
+        "KJV": "But when raw flesh appeareth in him, he shall be unclean.",
+        "LSG": "Mais le jour où l'on apercevra en lui de la chair vive, il sera impur;",
+        "MAB": "Mais le jour auquel on aura aperçu de la chair vive, il sera souillé.",
+        "OST": "Mais le jour où il y paraîtra de la chair vive, il sera souillé.",
+        "S21": "Mais le jour où l'on apercevra sur lui de la chair vive, il sera impur."
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "Après avoir constaté la présence de cette chair vive, le prêtre déclarera la personne impure: la chair vive est impure: c’est une maladie de peau évolutive.",
+        "DBY": "Et le sacrificateur regardera la chair vive, et le déclarera impur: la chair vive est impure, c'est de la lèpre.",
+        "KJV": "And the priest shall see the raw flesh, and pronounce him to be unclean: [for] the raw flesh [is] unclean: it [is] a leprosy.",
+        "LSG": "quand le sacrificateur aura vu la chair vive, il le déclarera impur: la chair vive est impure, c'est la lèpre.",
+        "MAB": "Alors le Sacrificateur regardera la chair vive, et le jugera souillé; la chair vive est souillée; c'est de la lèpre.",
+        "OST": "Quand le sacrificateur aura vu la chair vive, il le déclarera souillé; la chair vive est souillée, c'est la lèpre.",
+        "S21": "Lorsque le prêtre aura vu la chair vive, il le déclarera impur. La chair vive est impure, c'est la lèpre."
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "Si la chair vive redevient blanche, la personne retournera auprès du prêtre",
+        "DBY": "Mais si la chair vive change et devient blanche, il viendra vers le sacrificateur;",
+        "KJV": "Or if the raw flesh turn again, and be changed unto white, he shall come unto the priest;",
+        "LSG": "Si la chair vive change et devient blanche, il ira vers le sacrificateur;",
+        "MAB": "Que si la chair vive se change, et devient blanche, alors il viendra vers le Sacrificateur.",
+        "OST": "Mais si la chair vive change et devient blanche, il ira vers le sacrificateur;",
+        "S21": "Si la chair vive change et devient blanche, il ira vers le prêtre."
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "qui l’examinera. S’il constate que la plaie est effectivement devenue blanche, il déclarera la chair pure, et la personne sera en état de pureté.",
+        "DBY": "et le sacrificateur le verra: et voici, la plaie est devenue blanche; alors le sacrificateur déclarera pur celui qui a la plaie: il est pur.",
+        "KJV": "And the priest shall see him: and, behold, [if] the plague be turned into white; then the priest shall pronounce [him] clean [that hath] the plague: he [is] clean.",
+        "LSG": "le sacrificateur l'examinera, et si la plaie est devenue blanche, le sacrificateur déclarera pur celui qui a la plaie: il est pur.",
+        "MAB": "Et le Sacrificateur le regardera, et s'il aperçoit que la plaie soit devenue blanche, le Sacrificateur jugera net [celui qui a] la plaie : il est net.",
+        "OST": "Et le sacrificateur l'examinera; et si la plaie est devenue blanche, le sacrificateur déclarera pur celui qui a la plaie: il est pur.",
+        "S21": "Le prêtre l'examinera et, si la plaie est devenue blanche, il déclarera pur celui qui a la plaie: il est pur."
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "Si quelqu’un avait sur la peau un abcès qui a guéri,",
+        "DBY": "Et si la chair a eu dans sa peau un ulcère, et qu'il soit guéri,",
+        "KJV": "The flesh also, in which, [even] in the skin thereof, was a boil, and is healed,",
+        "LSG": "Lorsqu'un homme aura eu sur la peau de son corps un ulcère qui a été guéri,",
+        "MAB": "Si la chair a eu en sa peau un ulcère, qui soit guéri;",
+        "OST": "Quand quelqu'un aura eu sur la peau de son corps un ulcère qui aura été guéri,",
+        "S21": "»Lorsqu'un homme aura eu sur la peau un ulcère qui a été guéri"
+      }
+    },
+    {
+      "verse": 19,
+      "texts": {
+        "BDS": "mais qu’à la place de cet abcès apparaisse une boursouflure blanche ou une tache d’un blanc rougeâtre, cette personne se fera examiner par le prêtre.",
+        "DBY": "et qu'il y ait, à l'endroit de l'ulcère, une tumeur blanche, ou une tache blanche roussâtre, l'homme se montrera au sacrificateur;",
+        "KJV": "And in the place of the boil there be a white rising, or a bright spot, white, and somewhat reddish, and it be shewed to the priest;",
+        "LSG": "et qu'il se manifestera, à la place où était l'ulcère, une tumeur blanche ou une tache d'un blanc rougeâtre, cet homme se montrera au sacrificateur.",
+        "MAB": "Et qu'à l'endroit où était l'ulcère il y ait une tumeur blanche, ou une pustule blanche-roussâtre, il sera regardé par le Sacrificateur.",
+        "OST": "Et qu'à la place où était l'ulcère, il y aura une tumeur blanche, ou une tache blanche rougeâtre, cet homme se montrera au sacrificateur.",
+        "S21": "et qu’apparaîtra, à la place où était l'ulcère, une grosseur blanche ou une tache d'un blanc rougeâtre, il se montrera au prêtre."
+      }
+    },
+    {
+      "verse": 20,
+      "texts": {
+        "BDS": "Si celui-ci constate un creux dans la peau et un blanchissement du poil, il déclarera cette personne impure: c’est une affection de peau infectieuse qui est en train de bourgeonner dans l’abcès.",
+        "DBY": "et le sacrificateur la verra: et voici, elle paraît plus enfoncée que la peau, et son poil est devenu blanc; alors le sacrificateur le déclarera impur: c'est une plaie de lèpre, elle a fait éruption dans l'ulcère.",
+        "KJV": "And if, when the priest seeth it, behold, it [be] in sight lower than the skin, and the hair thereof be turned white; the priest shall pronounce him unclean: it [is] a plague of leprosy broken out of the boil.",
+        "LSG": "Le sacrificateur l'examinera. Si la tache paraît plus enfoncée que la peau, et que le poil soit devenu blanc, le sacrificateur le déclarera impur: c'est une plaie de lèpre, qui a fait éruption dans l'ulcère.",
+        "MAB": "Le Sacrificateur donc la regardera, et s'il aperçoit qu'à la voir elle soit plus enfoncée que la peau, et que son poil soit devenu blanc, alors le Sacrificateur le jugera souillé; c'est une plaie de lèpre, la lèpre a boutonné dans l'ulcère.",
+        "OST": "Le sacrificateur l'examinera. Si la tache paraît plus enfoncée que la peau, et que le poil soit devenu blanc, alors le sacrificateur le déclarera souillé; c'est une plaie de lèpre, qui a fait éruption dans l'ulcère.",
+        "S21": "Le prêtre l'examinera. Si la tache paraît former un creux dans la peau et que le poil soit devenu blanc, le prêtre le déclarera impur. C'est une plaie de lèpre, qui a fait éruption dans l'ulcère."
+      }
+    },
+    {
+      "verse": 21,
+      "texts": {
+        "BDS": "Mais si, à l’examen, le prêtre constate qu’il n’y a pas de poil blanc à cet endroit, ni de creux dans la peau et que la tache s’est estompée, il isolera le malade pendant sept jours.",
+        "DBY": "Et si le sacrificateur la voit, et voici, il n'y a pas en elle de poil blanc, et elle n'est pas plus enfoncée que la peau, mais elle s'efface, le sacrificateur le fera enfermer pendant sept jours.",
+        "KJV": "But if the priest look on it, and, behold, [there be] no white hairs therein, and [if] it [be] not lower than the skin, but [be] somewhat dark; then the priest shall shut him up seven days:",
+        "LSG": "Si le sacrificateur voit qu'il n'y a point de poil blanc dans la tache, qu'elle n'est pas plus enfoncée que la peau, et qu'elle est devenue pâle, il enfermera cet homme pendant sept jours.",
+        "MAB": "Que si le Sacrificateur la regardant aperçoit que le poil ne soit point devenu blanc, et qu'elle ne soit point plus enfoncée que la peau; mais qu'elle se soit retirée, le Sacrificateur le fera enfermer pendant sept jours.",
+        "OST": "Mais si le sacrificateur voit qu'il n'y a point de poil blanc dans la tache, et qu'elle n'est pas plus enfoncée que la peau, et qu'elle est devenue pâle, le sacrificateur enfermera cet homme pendant sept jours.",
+        "S21": "Si le prêtre voit qu'il n'y a pas de poil blanc dans la tache, qu'elle ne forme pas un creux dans la peau et qu'elle est devenue pâle, il enfermera cet homme pendant 7 jours."
+      }
+    },
+    {
+      "verse": 22,
+      "texts": {
+        "BDS": "Si la tache s’étend sur la peau, il le déclarera impur: il a une maladie.",
+        "DBY": "Et si elle s'est beaucoup étendue dans la peau, alors le sacrificateur le déclarera impur: c'est une plaie.",
+        "KJV": "And if it spread much abroad in the skin, then the priest shall pronounce him unclean: it [is] a plague.",
+        "LSG": "Si la tache s'est étendue sur la peau, le sacrificateur le déclarera impur: c'est une plaie de lèpre.",
+        "MAB": "Que si elle s'est étendue en quelque sorte que ce soit sur la peau, le Sacrificateur le jugera souillé; c'est une plaie.",
+        "OST": "Et si elle s'étend sur la peau, le sacrificateur le déclarera souillé: c'est une plaie de lèpre.",
+        "S21": "Si la tache s'est étendue sur la peau, le prêtre le déclarera impur. C'est une plaie de lèpre."
+      }
+    },
+    {
+      "verse": 23,
+      "texts": {
+        "BDS": "Mais si la tache est restée stationnaire, sans s’étendre, ce n’est que la cicatrice de l’abcès; alors le prêtre le déclarera pur.",
+        "DBY": "Mais si la tâche est demeurée à sa place au même état, et ne s'est pas étendue, c'est la cicatrice de l'ulcère: le sacrificateur le déclarera pur.",
+        "KJV": "But if the bright spot stay in his place, [and] spread not, it [is] a burning boil; and the priest shall pronounce him clean.",
+        "LSG": "Mais si la tache est restée à la même place et ne s'est pas étendue, c'est une cicatrice de l'ulcère: le sacrificateur le déclarera pur.",
+        "MAB": "Mais si le bouton s'arrête en son lieu, ne croissant point, c'est un feu d'ulcère; ainsi le Sacrificateur le jugera net.",
+        "OST": "Mais si la tache est restée à la même place, et ne s'est pas étendue, c'est une cicatrice d'ulcère; le sacrificateur le déclarera pur.",
+        "S21": "Mais si la tache est restée à la même place et ne s'est pas étendue, c'est une cicatrice de l'ulcère. Le prêtre le déclarera pur."
+      }
+    },
+    {
+      "verse": 24,
+      "texts": {
+        "BDS": "Autre cas: lorsque la peau de quelqu’un aura une brûlure causée par le feu et qu’il se forme sur l’endroit de cette brûlure une tache blanche ou d’un blanc rougeâtre,",
+        "DBY": "Ou si la chair a dans sa peau une brûlure de feu, et que la marque de la brûlure soit une tache d'un blanc roussâtre ou blanche, le sacrificateur la verra:",
+        "KJV": "Or if there be [any] flesh, in the skin whereof [there is] a hot burning, and the quick [flesh] that burneth have a white bright spot, somewhat reddish, or white;",
+        "LSG": "Lorsqu'un homme aura eu sur la peau de son corps une brûlure par le feu, et qu'il se manifestera sur la trace de la brûlure une tache blanche ou d'un blanc rougeâtre,",
+        "MAB": "Que si la chair a en sa peau une inflammation de feu, et que la chair vive de la partie enflammée soit un bouton blanc-roussâtre, ou blanc [seulement];",
+        "OST": "Lorsqu'un homme aura sur la peau une brûlure faite par le feu, et que la marque de la brûlure sera une tache d'un blanc rougeâtre ou blanche,",
+        "S21": "»Lorsqu'un homme aura eu sur la peau une brûlure par le feu et qu’apparaîtra sur la trace de la brûlure une tache blanche ou d'un blanc rougeâtre, le prêtre l'examinera."
+      }
+    },
+    {
+      "verse": 25,
+      "texts": {
+        "BDS": "le prêtre l’examinera; si le poil a viré au blanc dans la tache et s’il y a une dépression dans la peau, c’est une affection de peau infectieuse qui s’est développée sur la brûlure. Le prêtre déclarera cette personne impure, car elle est atteinte d’une maladie de peau évolutive.",
+        "DBY": "et voici, le poil est devenu blanc dans la tache, et elle paraît plus enfoncée que la peau, -c'est une lèpre; elle a fait éruption dans la brûlure; et le sacrificateur le déclarera impur: c'est une plaie de lèpre.",
+        "KJV": "Then the priest shall look upon it: and, behold, [if] the hair in the bright spot be turned white, and it [be in] sight deeper than the skin; it [is] a leprosy broken out of the burning: wherefore the priest shall pronounce him unclean: it [is] the plague of leprosy.",
+        "LSG": "le sacrificateur l'examinera. Si le poil est devenu blanc dans la tache, et qu'elle paraisse plus profonde que la peau, c'est la lèpre, qui a fait éruption dans la brûlure; le sacrificateur déclarera cet homme impur: c'est une plaie de lèpre.",
+        "MAB": "Le Sacrificateur le regardera, et s'il aperçoit que le poil soit devenu blanc dans le bouton, et qu'à le voir il soit plus enfoncé que la peau, c'est de la lèpre, elle a boutonné dans l'inflammation; le Sacrificateur donc le jugera souillé; c'est une plaie de lèpre.",
+        "OST": "Le sacrificateur l'examinera; et si le poil est devenu blanc dans la tache, et que son apparence soit plus enfoncée que la peau, c'est la lèpre; elle a fait éruption dans la brûlure. Le sacrificateur déclarera cet homme souillé: c'est une plaie de lèpre.",
+        "S21": "Si le poil est devenu blanc dans la tache et qu'elle paraisse former un creux dans la peau, c'est la lèpre qui a fait éruption dans la brûlure. Le prêtre déclarera cet homme impur. C'est une plaie de lèpre."
+      }
+    },
+    {
+      "verse": 26,
+      "texts": {
+        "BDS": "Si, au contraire, le prêtre, à l’examen, ne constate pas de poils blancs dans la tache, ni de dépression dans la peau, et si la tache s’est estompée, il isolera le sujet pendant sept jours.",
+        "DBY": "Et si le sacrificateur la voit, et voici, il n'y a pas de poil blanc dans la tache, et elle n'est pas plus enfoncée que la peau, et elle s'efface, le sacrificateur le fera enfermer pendant sept jours;",
+        "KJV": "But if the priest look on it, and, behold, [there be] no white hair in the bright spot, and it [be] no lower than the [other] skin, but [be] somewhat dark; then the priest shall shut him up seven days:",
+        "LSG": "Si le sacrificateur voit qu'il n'y a point de poil blanc dans la tache, qu'elle n'est pas plus enfoncée que la peau, et qu'elle est devenue pâle, il enfermera cet homme pendant sept jours.",
+        "MAB": "Mais si le Sacrificateur le regardant aperçoit qu'il n'y a point de poil blanc au bouton, et qu'il n'est point plus bas que la peau, et qu'il s'est retiré, le Sacrificateur le fera enfermer pendant sept jours.",
+        "OST": "Mais si le sacrificateur voit qu'il n'y a point de poil blanc dans la tache, qu'elle n'est pas plus enfoncée que la peau, et qu'elle est devenue pâle, le sacrificateur enfermera cet homme pendant sept jours.",
+        "S21": "Si le prêtre voit qu'il n'y a pas de poil blanc dans la tache, qu'elle ne forme pas de creux dans la peau et qu'elle est devenue pâle, il enfermera cet homme pendant 7 jours."
+      }
+    },
+    {
+      "verse": 27,
+      "texts": {
+        "BDS": "Il l’examinera le septième jour, si la tache s’est étendue sur la peau, il le déclarera impur car il est atteint d’une maladie de peau infectieuse.",
+        "DBY": "et le sacrificateur le verra le septième jour: -si la tache s'est beaucoup étendue dans la peau, alors le sacrificateur le déclarera impur: c'est une plaie de lèpre.",
+        "KJV": "And the priest shall look upon him the seventh day: [and] if it be spread much abroad in the skin, then the priest shall pronounce him unclean: it [is] the plague of leprosy.",
+        "LSG": "Le sacrificateur l'examinera le septième jour. Si la tache s'est étendue sur la peau, le sacrificateur le déclarera impur: c'est une plaie de lèpre.",
+        "MAB": "Puis le Sacrificateur le regardera le septième jour, [et] si [le bouton] a crû en quelque sorte que ce soit dans la peau, le Sacrificateur le jugera souillé; c'est une plaie de lèpre.",
+        "OST": "Le sacrificateur l'examinera au septième jour; si la tache s'est étendue sur la peau, le sacrificateur le déclarera souillé: c'est une plaie de lèpre.",
+        "S21": "Le prêtre l'examinera le septième jour. Si la tache s'est étendue sur la peau, il le déclarera impur. C'est une plaie de lèpre."
+      }
+    },
+    {
+      "verse": 28,
+      "texts": {
+        "BDS": "Mais si la tache est restée stationnaire, sans s’étendre, et qu’elle s’est estompée, c’était une boursouflure due à la brûlure; le prêtre déclarera donc le sujet pur, car c’est la cicatrice de la brûlure.",
+        "DBY": "Mais si la tache est demeurée à sa place au même état, et ne s'est pas étendue dans la peau, et qu'elle s'efface, c'est une tumeur de la brûlure, et le sacrificateur le déclarera pur; car c'est la cicatrice de la brûlure.",
+        "KJV": "And if the bright spot stay in his place, [and] spread not in the skin, but it [be] somewhat dark; it [is] a rising of the burning, and the priest shall pronounce him clean: for it [is] an inflammation of the burning.",
+        "LSG": "Mais si la tache est restée à la même place, ne s'est pas étendue sur la peau, et est devenue pâle, c'est la tumeur de la brûlure; le sacrificateur le déclarera pur, car c'est la cicatrice de la brûlure.",
+        "MAB": "Que si le bouton s'arrête en son lieu sans croître sur la peau, et s'est retiré, c'est une tumeur d'inflammation; et le Sacrificateur le jugera net; c'est un feu d'inflammation.",
+        "OST": "Mais si la tache est restée à la même place, ne s'est pas étendue sur la peau, et est devenue pâle, c'est la tumeur de la brûlure. Le sacrificateur le déclarera pur, car c'est la cicatrice de la brûlure.",
+        "S21": "Mais si la tache est restée à la même place, ne s'est pas étendue sur la peau et est devenue pâle, c'est la boursouflure de la brûlure. Le prêtre le déclarera pur, car c'est la cicatrice de la brûlure."
+      }
+    },
+    {
+      "verse": 29,
+      "texts": {
+        "BDS": "Si un homme ou une femme a une plaie à la tête ou au menton,",
+        "DBY": "Et si un homme ou une femme a une plaie à la tête ou à la barbe, le sacrificateur verra la plaie:",
+        "KJV": "If a man or woman have a plague upon the head or the beard;",
+        "LSG": "Lorsqu'un homme ou une femme aura une plaie à la tête ou à la barbe,",
+        "MAB": "Si l'homme ou la femme a une plaie en la tête, ou [l'homme] en la barbe,",
+        "OST": "Lorsqu'un homme ou une femme aura une plaie à la tête, ou à la barbe,",
+        "S21": "»Lorsqu'un homme ou une femme aura une plaie à la tête ou au menton,"
+      }
+    },
+    {
+      "verse": 30,
+      "texts": {
+        "BDS": "le prêtre examinera cette plaie. Si elle forme une dépression dans la peau et qu’il s’y trouve du poil jaunâtre ou clairsemé, il déclarera cette personne impure: c’est la teigne, c’est-à-dire une maladie de peau infectieuse de la tête ou du menton.",
+        "DBY": "et voici, elle paraît plus enfoncée que la peau, ayant en elle du poil jaunâtre et fin, alors le sacrificateur le déclarera impur: c'est la teigne, c'est une lèpre de la tête ou de la barbe.",
+        "KJV": "Then the priest shall see the plague: and, behold, if it [be] in sight deeper than the skin; [and there be] in it a yellow thin hair; then the priest shall pronounce him unclean: it [is] a dry scall, [even] a leprosy upon the head or beard.",
+        "LSG": "le sacrificateur examinera la plaie. Si elle paraît plus profonde que la peau, et qu'il y ait du poil jaunâtre et mince, le sacrificateur déclarera cet homme impur: c'est la teigne, c'est la lèpre de la tête ou de la barbe.",
+        "MAB": "Le Sacrificateur regardera la plaie, et si à la voir elle est plus enfoncée que la peau, ayant en soi du poil jaunâtre délié, le Sacrificateur le jugera souillé; c'est de la teigne, c'est une lèpre de tête, ou de barbe.",
+        "OST": "Le sacrificateur examinera la plaie. Si son apparence est plus profonde que la peau, et qu'elle contienne du poil jaunâtre et grêle, le sacrificateur le déclarera souillé: c'est de la teigne, c'est la lèpre de la tête ou de la barbe.",
+        "S21": "le prêtre examinera la plaie. Si elle paraît former un creux dans la peau et qu'il y ait du poil jaunâtre et mince, le prêtre déclarera cette personne impure. C'est la teigne, la lèpre de la tête ou du menton."
+      }
+    },
+    {
+      "verse": 31,
+      "texts": {
+        "BDS": "Mais si le prêtre constate, à l’examen, qu’il n’y a pas de dépression visible de la peau, sans toutefois qu’il y ait de poil noir, il isolera le sujet pendant sept jours.",
+        "DBY": "Et si le sacrificateur voit la plaie de la teigne, et voici, elle ne paraît pas plus enfoncée que la peau, et elle n'a pas de poil noir, alors le sacrificateur fera enfermer pendant sept jours celui qui a la plaie de la teigne.",
+        "KJV": "And if the priest look on the plague of the scall, and, behold, it [be] not in sight deeper than the skin, and [that there is] no black hair in it; then the priest shall shut up [him that hath] the plague of the scall seven days:",
+        "LSG": "Si le sacrificateur voit que la plaie de la teigne ne paraît pas plus profonde que la peau, et qu'il n'y a point de poil noir, il enfermera pendant sept jours celui qui a la plaie de la teigne.",
+        "MAB": "Et si le Sacrificateur regardant la plaie de la teigne, aperçoit, qu'à la voir elle n'est point plus enfoncée que la peau, et n'a en soi aucun poil noir, le Sacrificateur fera enfermer pendant sept jours [celui qui a] la plaie de la teigne;",
+        "OST": "Mais si le sacrificateur, regardant la plaie de la teigne, voit que son apparence n'est pas plus profonde que la peau, et qu'il n'y a point de poil noir, le sacrificateur enfermera pendant sept jours celui qui a la plaie de la teigne.",
+        "S21": "Si le prêtre voit que la plaie de la teigne ne paraît pas former un creux dans la peau et qu'il n'y a pas de poil noir, il enfermera pendant 7 jours celui qui a la plaie de la teigne."
+      }
+    },
+    {
+      "verse": 32,
+      "texts": {
+        "BDS": "Le septième jour, s’il constate que l’éruption ne s’est pas étendue, qu’elle ne renferme pas de poil de couleur douteuse et que la plaie ne semble pas plus profonde que la peau,",
+        "DBY": "Et le sacrificateur verra la plaie le septième jour: et voici, la teigne ne s'est pas étendue, et elle n'a pas de poil jaunâtre, et la teigne ne paraît pas plus enfoncée que la peau,",
+        "KJV": "And in the seventh day the priest shall look on the plague: and, behold, [if] the scall spread not, and there be in it no yellow hair, and the scall [be] not in sight deeper than the skin;",
+        "LSG": "Le sacrificateur examinera la plaie le septième jour. Si la teigne ne s'est pas étendue, s'il n'y a point de poil jaunâtre, et si elle ne paraît pas plus profonde que la peau,",
+        "MAB": "Et le septième jour le Sacrificateur regardera la plaie, et s'il aperçoit que la teigne ne s'est point étendue, et qu'elle n'a [aucun] poil jaunâtre, et qu'à voir la teigne elle ne soit pas plus enfoncée que la peau;",
+        "OST": "Le septième jour le sacrificateur examinera la plaie. Si la teigne ne s'est pas étendue, s'il n'y a point de poil jaunâtre, et que l'apparence de la teigne ne soit pas plus profonde que la peau,",
+        "S21": "Le prêtre examinera la plaie le septième jour. Si la teigne ne s'est pas étendue, s'il n'y a pas de poil jaunâtre et si elle ne paraît pas former un creux dans la peau,"
+      }
+    },
+    {
+      "verse": 33,
+      "texts": {
+        "BDS": "le malade se rasera — sauf à l’endroit de la plaie — et le prêtre l’isolera de nouveau pour sept jours.",
+        "DBY": "alors l'homme se rasera, mais il ne rasera pas l'endroit de la teigne; et le sacrificateur fera enfermer pendant sept autres jours celui qui a la teigne.",
+        "KJV": "He shall be shaven, but the scall shall he not shave; and the priest shall shut up [him that hath] the scall seven days more:",
+        "LSG": "celui qui a la teigne se rasera, mais il ne rasera point la place où est la teigne; et le sacrificateur l'enfermera une seconde fois pendant sept jours.",
+        "MAB": "[Celui qui a la plaie de la teigne] se rasera, mais il ne rasera point [l'endroit] de la teigne, et le Sacrificateur fera enfermer pendant sept autres jours [celui qui a] la teigne.",
+        "OST": "L'homme se rasera, mais il ne rasera pas l'endroit de la teigne; et le sacrificateur enfermera une seconde fois, pendant sept jours, celui qui a la teigne.",
+        "S21": "celui qui a la teigne se rasera, mais il ne rasera pas la place où est la teigne. Le prêtre l'enfermera une deuxième fois pendant 7 jours."
+      }
+    },
+    {
+      "verse": 34,
+      "texts": {
+        "BDS": "Le septième jour, il examinera le mal. Si le mal ne s’est pas étendu sur la peau et s’il ne forme pas de dépression visible, il le déclarera pur; le sujet lavera ses vêtements et il sera pur.",
+        "DBY": "Et le sacrificateur verra la teigne le septième jour: et voici, la teigne ne s'est pas étendue dans la peau, et elle ne paraît pas plus enfoncée que la peau, alors le sacrificateur le déclarera pur; et l'homme lavera ses vêtements, et il sera pur.",
+        "KJV": "And in the seventh day the priest shall look on the scall: and, behold, [if] the scall be not spread in the skin, nor [be] in sight deeper than the skin; then the priest shall pronounce him clean: and he shall wash his clothes, and be clean.",
+        "LSG": "Le sacrificateur examinera la teigne le septième jour. Si la teigne ne s'est pas étendue sur la peau, et si elle ne paraît pas plus profonde que la peau, le sacrificateur le déclarera pur; il lavera ses vêtements, et il sera pur.",
+        "MAB": "Puis le Sacrificateur regardera la teigne au septième jour, et s'il aperçoit que la teigne ne s'est point étendue sur la peau, et qu'à la voir elle n'est point plus enfoncée que la peau, le Sacrificateur le jugera net, et cet homme lavera ses vêtements, et sera net.",
+        "OST": "Puis, le sacrificateur examinera la teigne au septième jour. Si la teigne ne s'est pas étendue sur la peau, et que son apparence ne soit pas plus profonde que la peau, le sacrificateur le déclarera pur; il lavera ses vêtements et il sera pur.",
+        "S21": "Le prêtre examinera la teigne le septième jour. Si la teigne ne s'est pas étendue sur la peau et si elle ne paraît pas former un creux dans la peau, le prêtre le déclarera pur. L’homme lavera ses vêtements et il sera pur."
+      }
+    },
+    {
+      "verse": 35,
+      "texts": {
+        "BDS": "Mais si la teigne s’est étendue sur la peau après que le malade a été déclaré pur,",
+        "DBY": "Et si la teigne s'est beaucoup étendue dans la peau, après sa purification, le sacrificateur le verra;",
+        "KJV": "But if the scall spread much in the skin after his cleansing;",
+        "LSG": "Mais si la teigne s'est étendue sur la peau, après qu'il a été déclaré pur,",
+        "MAB": "Mais si la teigne croît en quelque sorte que ce soit dans la peau, après sa purification,",
+        "OST": "Mais si la teigne s'est étendue sur la peau, après qu'il aura été déclaré pur,",
+        "S21": "Mais si la teigne s'est étendue sur la peau après qu'il a été déclaré pur, le prêtre l'examinera."
+      }
+    },
+    {
+      "verse": 36,
+      "texts": {
+        "BDS": "le prêtre en fera le constat et n’aura pas besoin de vérifier si le poil est de couleur jaunâtre: la personne est impure.",
+        "DBY": "et si la teigne s'est étendue dans la peau, le sacrificateur ne cherchera pas de poil jaunâtre: il est impur.",
+        "KJV": "Then the priest shall look on him: and, behold, if the scall be spread in the skin, the priest shall not seek for yellow hair; he [is] unclean.",
+        "LSG": "le sacrificateur l'examinera. Et si la teigne s'est étendue sur la peau, le sacrificateur n'aura pas à rechercher s'il y a du poil jaunâtre: il est impur.",
+        "MAB": "Le Sacrificateur la regardera; et s'il aperçoit que la teigne ait crû dans la peau, le Sacrificateur ne cherchera point de poil jaunâtre; il est souillé.",
+        "OST": "Le sacrificateur l'examinera. Et si la teigne s'est étendue sur la peau, le sacrificateur ne cherchera point de poil jaunâtre: il est souillé.",
+        "S21": "Et si la teigne s'est étendue sur la peau, le prêtre n'aura pas à rechercher s'il y a du poil jaunâtre: l’homme est impur."
+      }
+    },
+    {
+      "verse": 37,
+      "texts": {
+        "BDS": "Si le mal semble stationnaire et que des poils sombres ont poussé à l’endroit malade, c’est qu’il est guéri et pur. Le prêtre déclarera la personne pure.",
+        "DBY": "Et si la teigne est demeurée au même état, à ses yeux, et que du poil noir y ait poussé, la teigne est guérie: il est pur, et le sacrificateur le déclarera pur.",
+        "KJV": "But if the scall be in his sight at a stay, and [that] there is black hair grown up therein; the scall is healed, he [is] clean: and the priest shall pronounce him clean.",
+        "LSG": "Si la teigne lui paraît ne pas avoir fait de progrès, et qu'il y ait crû du poil noir, la teigne est guérie: il est pur, et le sacrificateur le déclarera pur.",
+        "MAB": "Mais s'il aperçoit que la teigne se soit arrêtée, et qu il y soit venu du poil noir, la teigne est guérie; il est net, et le Sacrificateur le jugera net.",
+        "OST": "Mais si la teigne lui paraît s'être arrêtée, et qu'il y ait poussé du poil noir, la teigne est guérie: il est pur, et le sacrificateur le déclarera pur.",
+        "S21": "Si la teigne lui paraît ne pas avoir fait de progrès et que du poil noir ait poussé, la teigne est guérie. L’homme est pur et le prêtre le déclarera pur."
+      }
+    },
+    {
+      "verse": 38,
+      "texts": {
+        "BDS": "Si un homme ou une femme a des taches blanches sur la peau,",
+        "DBY": "Et si un homme ou une femme a dans la peau de sa chair des taches, des taches blanches,",
+        "KJV": "If a man also or a woman have in the skin of their flesh bright spots, [even] white bright spots;",
+        "LSG": "Lorsqu'un homme ou une femme aura sur la peau de son corps des taches, des taches blanches,",
+        "MAB": "Et si l'homme ou la femme ont dans la peau de leur chair des boutons, des boutons, [dis-je], qui soient blancs,",
+        "OST": "Lorsqu'un homme ou une femme aura sur la peau de son corps des taches, des taches blanches,",
+        "S21": "»Lorsqu'un homme ou une femme aura sur la peau des taches, des taches blanches,"
+      }
+    },
+    {
+      "verse": 39,
+      "texts": {
+        "BDS": "le prêtre l’examinera; si les taches sont d’un blanc pâle, c’est une éruption bénigne: le sujet est pur.",
+        "DBY": "le sacrificateur le verra; et voici, dans la peau de leur chair, il y a des taches blanches, ternes, c'est une simple tache qui a fait éruption dans la peau: il est pur.",
+        "KJV": "Then the priest shall look: and, behold, [if] the bright spots in the skin of their flesh [be] darkish white; it [is] a freckled spot [that] groweth in the skin; he [is] clean.",
+        "LSG": "le sacrificateur l'examinera. S'il y a sur la peau de son corps des taches d'un blanc pâle, ce ne sont que des taches qui ont fait éruption sur la peau: il est pur.",
+        "MAB": "Le Sacrificateur les regardera, et s'il aperçoit que dans la peau de leur chair il y ait des boutons retirés et blancs, c'est une tache blanche qui a boutonné dans la peau; il est donc net.",
+        "OST": "Le sacrificateur l'examinera. S'il y a sur la peau de son corps des taches d'un blanc pâle, c'est une tache blanche qui a fait éruption sur la peau: il est pur.",
+        "S21": "le prêtre l'examinera. S'il y a sur la peau des taches d'un blanc pâle, ce ne sont que des taches qui ont fait éruption sur la peau. La personne est pure."
+      }
+    },
+    {
+      "verse": 40,
+      "texts": {
+        "BDS": "Lorsqu’un homme perd ses cheveux, c’est une calvitie; il est pur.",
+        "DBY": "Et si un homme a perdu les cheveux de sa tête, il est chauve: il est pur;",
+        "KJV": "And the man whose hair is fallen off his head, he [is] bald; [yet is] he clean.",
+        "LSG": "Lorsqu'un homme aura la tête dépouillée de cheveux, c'est un chauve: il est pur.",
+        "MAB": "Si l'homme a la tête pelée, il est chauve, [et néanmoins] il est net.",
+        "OST": "Lorsqu'un homme aura la tête dépouillée de cheveux, c'est un chauve: il est pur.",
+        "S21": "»Lorsqu'un homme perd ses cheveux, c'est un chauve. Il est pur."
+      }
+    },
+    {
+      "verse": 41,
+      "texts": {
+        "BDS": "Si la tête se dégarnit sur le devant, c’est une calvitie du front; il est pur.",
+        "DBY": "et s'il a perdu les cheveux de sa tête du côté du visage, il est chauve par devant: il est pur.",
+        "KJV": "And he that hath his hair fallen off from the part of his head toward his face, he [is] forehead bald: [yet is] he clean.",
+        "LSG": "S'il a la tête dépouillée de cheveux du côté de la face, c'est un chauve par-devant: il est pur.",
+        "MAB": "Mais si sa tête est pelée du côté de son visage, il est chauve, [et néanmoins] il est net.",
+        "OST": "Et si sa tête est dépouillée de cheveux du côté de la face, c'est un front chauve: il est pur.",
+        "S21": "S'il perd ses cheveux du côté du visage, c'est un chauve par-devant. Il est pur."
+      }
+    },
+    {
+      "verse": 42,
+      "texts": {
+        "BDS": "Mais si une plaie d’un blanc rougeâtre apparaît dans la partie chauve sur la tête ou sur le front, c’est une maladie de peau infectieuse qui s’est déclarée dans la partie chauve.",
+        "DBY": "Et s'il y a, dans la partie chauve du haut ou de devant, une plaie blanche roussâtre, c'est une lèpre qui a fait éruption dans la partie chauve du haut ou de devant;",
+        "KJV": "And if there be in the bald head, or bald forehead, a white reddish sore; it [is] a leprosy sprung up in his bald head, or his bald forehead.",
+        "LSG": "Mais s'il y a dans la partie chauve de devant ou de derrière une plaie d'un blanc rougeâtre, c'est la lèpre qui a fait éruption dans la partie chauve de derrière ou de devant.",
+        "MAB": "Et si dans la partie pelée ou chauve, il y a une plaie blanche-roussâtre, c'est une lèpre qui a bourgeonné dans sa partie pelée ou chauve.",
+        "OST": "Mais s'il y a dans la partie chauve de derrière ou de devant, une plaie d'un blanc rougeâtre, c'est une lèpre qui a fait éruption dans la partie chauve de derrière ou de devant.",
+        "S21": "Mais s'il y a dans la partie chauve de devant ou de derrière une plaie d'un blanc rougeâtre, c'est la lèpre qui a fait éruption dans cette partie chauve."
+      }
+    },
+    {
+      "verse": 43,
+      "texts": {
+        "BDS": "Si, à l’examen, le prêtre constate que la plaie provoque une boursouflure d’un blanc rougeâtre sur le crâne ou sur le front chauve, et qu’elle a l’aspect d’une maladie évolutive de la peau,",
+        "DBY": "et le sacrificateur le verra: et voici, la tumeur de la plaie est d'un blanc roussâtre dans la partie chauve du haut ou de devant, comme une apparence de lèpre dans la peau de la chair;",
+        "KJV": "Then the priest shall look upon it: and, behold, [if] the rising of the sore [be] white reddish in his bald head, or in his bald forehead, as the leprosy appeareth in the skin of the flesh;",
+        "LSG": "Le sacrificateur l'examinera. S'il y a une tumeur de plaie d'un blanc rougeâtre dans la partie chauve de derrière ou de devant, semblable à la lèpre sur la peau du corps,",
+        "MAB": "Et le Sacrificateur le regardera, et s'il aperçoit que la tumeur de la plaie soit blanche-roussâtre dans sa partie pelée ou chauve, semblable à la lèpre de la peau de la chair;",
+        "OST": "Le sacrificateur l'examinera; et si la tumeur de la plaie est d'un blanc rougeâtre, dans la partie chauve de derrière ou de devant, semblable à la lèpre de la peau du corps,",
+        "S21": "Le prêtre l'examinera. Si, dans la partie chauve de derrière ou de devant, la plaie forme une grosseur d'un blanc rougeâtre, semblable à la lèpre sur la peau du corps,"
+      }
+    },
+    {
+      "verse": 44,
+      "texts": {
+        "BDS": "l’homme a une maladie infectieuse, il est impur, et le prêtre doit le déclarer impur. C’est à la tête que le mal l’a frappé.",
+        "DBY": "c'est un homme lépreux, il est impur; le sacrificateur le déclarera entièrement impur: sa plaie est en sa tête.",
+        "KJV": "He is a leprous man, he [is] unclean: the priest shall pronounce him utterly unclean; his plague [is] in his head.",
+        "LSG": "c'est un homme lépreux, il est impur: le sacrificateur le déclarera impur; c'est à la tête qu'est sa plaie.",
+        "MAB": "L'homme est lépreux, il est souillé; le Sacrificateur ne manquera pas de le juger souillé : sa plaie est en sa tête.",
+        "OST": "Cet homme est lépreux, il est souillé; le sacrificateur le déclarera souillé; sa plaie est à la tête.",
+        "S21": "c'est un homme lépreux, il est impur. Le prêtre le déclarera impur. Sa plaie est à la tête."
+      }
+    },
+    {
+      "verse": 45,
+      "texts": {
+        "BDS": "La personne atteinte d’une telle maladie de la peau portera des vêtements déchirés et aura la tête décoiffée; elle se couvrira la partie inférieure du visage et criera: «Impur! Impur!»",
+        "DBY": "Et le lépreux en qui sera la plaie aura ses vêtements déchirés et sa tête découverte, et il se couvrira la barbe, et il criera: Impur! Impur!",
+        "KJV": "And the leper in whom the plague [is], his clothes shall be rent, and his head bare, and he shall put a covering upon his upper lip, and shall cry, Unclean, unclean.",
+        "LSG": "Le lépreux, atteint de la plaie, portera ses vêtements déchirés, et aura la tête nue; il se couvrira la barbe, et criera: Impur! Impur!",
+        "MAB": "Or le lépreux en qui sera la plaie, aura ses vêtements déchirés, et sa tête nue, et il sera couvert sur la lèvre de dessus, et il criera : le souillé, le souillé.",
+        "OST": "Or le lépreux qui sera atteint de la plaie aura ses vêtements déchirés, et la tête nue; il se couvrira la barbe et criera: Souillé! souillé!",
+        "S21": "»Le lépreux atteint de la plaie portera des vêtements déchirés et aura la tête nue; il se couvrira la barbe et criera: ‘Impur! Impur!’"
+      }
+    },
+    {
+      "verse": 46,
+      "texts": {
+        "BDS": "Tant qu’elle a ce mal, elle est impure. Elle habitera à l’écart, à l’extérieur du camp.",
+        "DBY": "Tout le temps que la plaie sera en lui, il sera impur; il est impur; il habitera seul, son habitation sera hors du camp.",
+        "KJV": "All the days wherein the plague [shall be] in him he shall be defiled; he [is] unclean: he shall dwell alone; without the camp [shall] his habitation [be].",
+        "LSG": "Aussi longtemps qu'il aura la plaie, il sera impur: il est impur. Il habitera seul; sa demeure sera hors du camp.",
+        "MAB": "Pendant tout le temps qu'il aura cette plaie, il sera jugé souillé; il est souillé, il demeurera seul, et sa demeure sera hors du camp.",
+        "OST": "Tout le temps qu'il aura la plaie, il sera souillé; il est souillé; il demeurera seul, son habitation sera hors du camp.",
+        "S21": "Aussi longtemps qu'il aura la plaie, il sera impur. Il est impur. Il habitera seul et sa tente sera à l’extérieur du camp."
+      }
+    },
+    {
+      "verse": 47,
+      "texts": {
+        "BDS": "—Si une tache de moisissure, du genre lèpre, apparaît sur des vêtements en laine ou en lin,",
+        "DBY": "Et s'il y a une plaie de lèpre en un vêtement, en un vêtement de laine ou en un vêtement de lin,",
+        "KJV": "The garment also that the plague of leprosy is in, [whether it be] a woollen garment, or a linen garment;",
+        "LSG": "Lorsqu'il y aura sur un vêtement une plaie de lèpre, sur un vêtement de laine ou sur un vêtement de lin,",
+        "MAB": "Et si le vêtement est infecté de la plaie de la lèpre, soit vêtement de laine, soit vêtement de lin;",
+        "OST": "Quand il y aura une plaie de lèpre sur un vêtement, sur un vêtement de laine, ou sur un vêtement de lin,",
+        "S21": "»Lorsqu'il y aura sur un vêtement une plaie de lèpre – qu’il s’agisse d’un vêtement de laine ou de lin,"
+      }
+    },
+    {
+      "verse": 48,
+      "texts": {
+        "BDS": "ou sur un tissu ou un tricot de lin ou de laine, ou encore sur une peau ou sur un objet en cuir,",
+        "DBY": "ou dans la chaîne ou dans la trame du lin ou de la laine, ou dans une peau, ou dans quelque ouvrage fait de peau,",
+        "KJV": "Whether [it be] in the warp, or woof; of linen, or of woollen; whether in a skin, or in any thing made of skin;",
+        "LSG": "la chaîne ou à la trame de lin, ou de laine, sur une peau ou sur quelque ouvrage de peau,",
+        "MAB": "Ou dans la chaîne, ou dans la trame du lin, ou de la laine, ou aussi dans la peau, ou dans quelque ouvrage que ce soit de pelleterie.",
+        "OST": "Sur un feutre ou sur un tissu de lin ou de laine, sur une peau ou sur quelque ouvrage fait de peau,",
+        "S21": "d’une chaîne ou d’une trame de lin ou de laine, d’une peau ou d’un objet en cuir –"
+      }
+    },
+    {
+      "verse": 49,
+      "texts": {
+        "BDS": "si elle devient verdâtre ou rougeâtre, sur le vêtement ou sur la peau, sur le tissu ou le tricot ou sur tout objet en cuir, c’est une sorte de «lèpre» des tissus: on la montrera au prêtre.",
+        "DBY": "et si la plaie est verdâtre ou roussâtre dans le vêtement, ou dans la peau, ou dans la chaîne, ou dans la trame, ou dans quelque objet fait de peau, c'est une plaie de lèpre, et elle sera montrée au sacrificateur.",
+        "KJV": "And if the plague be greenish or reddish in the garment, or in the skin, either in the warp, or in the woof, or in any thing of skin; it [is] a plague of leprosy, and shall be shewed unto the priest:",
+        "LSG": "et que la plaie sera verdâtre ou rougeâtre sur le vêtement ou sur la peau, à la chaîne ou à la trame, ou sur un objet quelconque de peau, c'est une plaie de lèpre, et elle sera montrée au sacrificateur.",
+        "MAB": "Et si cette plaie est verte, ou roussâtre dans le vêtement, ou dans la peau, ou dans la chaîne, ou dans la trame, ou dans quelque chose que ce soit de peau, ce sera une plaie de lèpre, et elle sera montrée au Sacrificateur.",
+        "OST": "Et que la plaie sera verdâtre ou rougeâtre sur le vêtement ou sur la peau, sur le feutre ou sur le tissu, ou sur un objet quelconque de peau, c'est une plaie de lèpre; elle sera montrée au sacrificateur.",
+        "S21": "et que la plaie sera verdâtre ou rougeâtre sur le vêtement ou sur la peau, dans la chaîne ou la trame, ou sur n’importe quel objet en cuir, c'est une plaie de lèpre et on la montrera au prêtre."
+      }
+    },
+    {
+      "verse": 50,
+      "texts": {
+        "BDS": "Celui-ci l’examinera et enfermera l’objet atteint pendant sept jours.",
+        "DBY": "Et le sacrificateur verra la plaie, et il fera enfermer pendant sept jours l'objet où est la plaie;",
+        "KJV": "And the priest shall look upon the plague, and shut up [it that hath] the plague seven days:",
+        "LSG": "Le sacrificateur examinera la plaie, et il enfermera pendant sept jours ce qui en est attaqué.",
+        "MAB": "Et le Sacrificateur regardera la plaie, et fera enfermer pendant sept jours [celui qui a] la plaie.",
+        "OST": "Le sacrificateur examinera la plaie, et il en enfermera pendant sept jours ce qui a la plaie.",
+        "S21": "Le prêtre examinera la plaie et enfermera pendant 7 jours ce qui en est attaqué."
+      }
+    },
+    {
+      "verse": 51,
+      "texts": {
+        "BDS": "Le septième jour, il examinera la tache. Si elle s’est étendue sur le vêtement, le tissu ou le tricot, sur la peau ou l’objet en cuir, il s’agit d’une moisissure maligne; l’objet est impur.",
+        "DBY": "et le septième jour, il verra la plaie; -si la plaie s'est étendue dans le vêtement, soit dans la chaîne, soit dans la trame, soit dans la peau, dans un ouvrage quelconque qui a été fait de peau, la plaie est une lèpre rongeante: la chose est impure.",
+        "KJV": "And he shall look on the plague on the seventh day: if the plague be spread in the garment, either in the warp, or in the woof, or in a skin, [or] in any work that is made of skin; the plague [is] a fretting leprosy; it [is] unclean.",
+        "LSG": "Il examinera la plaie le septième jour. Si la plaie s'est étendue sur le vêtement, à la chaîne ou à la trame, sur la peau ou sur l'ouvrage quelconque fait de peau, c'est une plaie de lèpre invétérée: l'objet est impur.",
+        "MAB": "Et au septième jour il regardera la plaie; si la plaie est crue au vêtement, ou en la chaîne, ou en la trame, ou en la peau, ou en quelque ouvrage que ce soit de pelleterie, la plaie est une lèpre rongeante, elle est souillée.",
+        "OST": "Et le septième jour il examinera la plaie. Si la plaie s'est étendue sur le vêtement, sur le feutre ou sur le tissu, sur la peau, ou sur l'ouvrage quelconque fait de peau, c'est une plaie de lèpre rongeante, l'objet est souillé.",
+        "S21": "Il examinera la plaie le septième jour. Si la plaie s'est étendue sur le vêtement, dans la chaîne ou la trame, sur la peau ou l’objet en cuir, c'est une plaie de lèpre durable. L'objet est impur."
+      }
+    },
+    {
+      "verse": 52,
+      "texts": {
+        "BDS": "Il le brûlera, quel qu’il soit, car il s’agit d’une moisissure maligne; l’objet doit être brûlé au feu.",
+        "DBY": "Alors on brûlera le vêtement, ou la chaîne, ou la trame de laine ou de lin, ou tout objet fait de peau dans lequel est la plaie; car c'est une lèpre rongeante; la chose sera brûlée au feu.",
+        "KJV": "He shall therefore burn that garment, whether warp or woof, in woollen or in linen, or any thing of skin, wherein the plague is: for it [is] a fretting leprosy; it shall be burnt in the fire.",
+        "LSG": "Il brûlera le vêtement, la chaîne ou la trame de laine ou de lin, l'objet quelconque de peau sur lequel se trouve la plaie, car c'est une lèpre invétérée: il sera brûlé au feu.",
+        "MAB": "Il brûlera donc le vêtement, la chaîne, ou la trame de laine, ou de lin, et toutes les choses de peau, qui auront cette plaie; car c'est une lèpre rongeante, cela sera brûlé au feu.",
+        "OST": "Il brûlera donc le vêtement, le feutre ou le tissu de laine ou de lin, ou tout objet fait de peau, sur lequel sera la plaie, car c'est une lèpre rongeante: il sera brûlé au feu.",
+        "S21": "Le prêtre brûlera le vêtement, la chaîne ou la trame de laine ou de lin, l'objet en cuir sur lequel se trouve la plaie, car c'est une lèpre durable. On brûlera l’objet au feu."
+      }
+    },
+    {
+      "verse": 53,
+      "texts": {
+        "BDS": "Mais si le prêtre constate que la tache ne s’est pas étendue sur l’objet,",
+        "DBY": "Et si le sacrificateur regarde, et voici, la plaie ne s'est pas étendue dans le vêtement, ou dans la chaîne, ou dans la trame, ou dans quelque objet fait de peau,",
+        "KJV": "And if the priest shall look, and, behold, the plague be not spread in the garment, either in the warp, or in the woof, or in any thing of skin;",
+        "LSG": "Mais si le sacrificateur voit que la plaie ne s'est pas étendue sur le vêtement, sur la chaîne ou sur la trame, sur l'objet quelconque de peau,",
+        "MAB": "Mais si le Sacrificateur regarde, et aperçoit que la plaie ne soit point crue au vêtement, ou en la chaîne, ou en la trame, ou en quelque [autre] chose qui soit faite de peau;",
+        "OST": "Mais si le sacrificateur voit que la plaie ne s'est pas étendue sur le vêtement, sur le feutre ou sur le tissu, ou sur l'objet quelconque fait de peau,",
+        "S21": "Mais si le prêtre voit que la plaie ne s'est pas étendue sur le vêtement, la chaîne, la trame ou l'objet en cuir,"
+      }
+    },
+    {
+      "verse": 54,
+      "texts": {
+        "BDS": "il ordonnera de le laver, puis il le tiendra enfermé une deuxième semaine.",
+        "DBY": "alors le sacrificateur commandera qu'on lave l'objet où est la plaie, et le fera enfermer pendant sept autres jours.",
+        "KJV": "Then the priest shall command that they wash [the thing] wherein the plague [is], and he shall shut it up seven days more:",
+        "LSG": "il ordonnera qu'on lave ce qui est attaqué de la plaie, et il l'enfermera une seconde fois pendant sept jours.",
+        "MAB": "Le Sacrificateur commandera qu'on lave la chose où est la plaie, et il le fera enfermer pendant sept autres jours.",
+        "OST": "Le sacrificateur commandera qu'on lave ce qui a la plaie, et il l'enfermera pendant sept jours, une seconde fois.",
+        "S21": "il ordonnera de laver ce qui est attaqué de la plaie et il l'enfermera une deuxième fois pendant 7 jours."
+      }
+    },
+    {
+      "verse": 55,
+      "texts": {
+        "BDS": "Après ce lavage, il examinera à nouveau la tache; si elle n’a pas changé d’aspect de façon visible, même si elle ne s’est pas étendue, l’objet est impur et devra être brûlé, que la moisissure l’ait corrodé à l’endroit ou à l’envers.",
+        "DBY": "Et le sacrificateur verra, après que la plaie aura été lavée: et voici; la plaie n'a pas changé d'aspect, et la plaie ne s'est pas étendue, -la chose est impure, tu la brûleras au feu; c'est une érosion à son envers ou à son endroit.",
+        "KJV": "And the priest shall look on the plague, after that it is washed: and, behold, [if] the plague have not changed his colour, and the plague be not spread; it [is] unclean; thou shalt burn it in the fire; it [is] fret inward, [whether] it [be] bare within or without.",
+        "LSG": "Le sacrificateur examinera la plaie, après qu'elle aura été lavée. Si la plaie n'a pas changé d'aspect et ne s'est pas étendue, l'objet est impur: il sera brûlé au feu; c'est une partie de l'endroit ou de l'envers qui a été rongée.",
+        "MAB": "Que si le Sacrificateur, après qu'on aura fait laver la plaie, la regarde, et s'il aperçoit que la plaie n'ait point changé sa couleur, et qu'elle ne soit point accrue, c'est une chose souillée, tu la brûleras au feu; c'est une enfonçure en son envers, ou en son endroit pelé.",
+        "OST": "Et le sacrificateur examinera la plaie après qu'elle aura été lavée. Si la plaie n'a point changé d'aspect et ne s'est pas étendue, l'objet est souillé; tu le brûleras au feu; c'est une corrosion à l'envers ou à l'endroit de la partie dénudée.",
+        "S21": "Le prêtre examinera la plaie après qu'elle aura été lavée. Si la plaie n'a pas changé d'aspect et ne s'est pas étendue, l'objet est impur. On le brûlera au feu; c'est une partie de l'endroit ou de l'envers qui a été rongée."
+      }
+    },
+    {
+      "verse": 56,
+      "texts": {
+        "BDS": "Mais si le prêtre voit que la tache s’est estompée après le lavage, il arrachera cette partie du vêtement, de la peau, du tissu ou du tricot.",
+        "DBY": "Et si le sacrificateur regarde, et voici, la plaie s'efface après avoir été lavée, alors on l'arrachera du vêtement, ou de la peau, ou de la chaîne, ou de la trame.",
+        "KJV": "And if the priest look, and, behold, the plague [be] somewhat dark after the washing of it; then he shall rend it out of the garment, or out of the skin, or out of the warp, or out of the woof:",
+        "LSG": "Si le sacrificateur voit que la plaie est devenue pâle, après avoir été lavée, il l'arrachera du vêtement ou de la peau, de la chaîne ou de la trame.",
+        "MAB": "Que si le Sacrificateur regarde, et aperçoit que la plaie se soit retirée après qu'on l'a fait laver, il la déchirera du vêtement, ou de la peau, ou de la chaîne, ou de la trame.",
+        "OST": "Mais si le sacrificateur voit que la plaie est devenue pâle après avoir été lavée, il l'arrachera du vêtement, ou de la peau, du feutre ou du tissu.",
+        "S21": "Si le prêtre voit que la plaie est devenue pâle une fois lavée, il l'arrachera du vêtement ou de la peau, de la chaîne ou de la trame."
+      }
+    },
+    {
+      "verse": 57,
+      "texts": {
+        "BDS": "Si la tache réapparaît plus tard sur l’objet, c’est une moisissure qui se développe, tu brûleras l’objet où est la tache.",
+        "DBY": "Et si elle paraît encore dans le vêtement, ou dans la chaîne, ou dans la trame, ou dans quelque objet fait de peau, c'est une lèpre qui fait éruption; tu brûleras au feu l'objet où est la plaie.",
+        "KJV": "And if it appear still in the garment, either in the warp, or in the woof, or in any thing of skin; it [is] a spreading [plague]: thou shalt burn that wherein the plague [is] with fire.",
+        "LSG": "Si elle paraît encore sur le vêtement, à la chaîne ou à la trame, ou sur l'objet quelconque de peau, c'est une éruption de lèpre: ce qui est attaqué de la plaie sera brûlé au feu.",
+        "MAB": "Que si elle paraît encore au vêtement, ou dans la chaîne, ou dans la trame, ou dans quelque chose que ce soit de peau, c'est une lèpre qui a boutonné; vous brûlerez au feu la chose où est la plaie.",
+        "OST": "Si elle paraît encore sur le vêtement, sur le feutre ou sur le tissu, ou sur tout objet fait de peau, c'est une éruption de lèpre; tu brûleras au feu l'objet où est la plaie.",
+        "S21": "Si elle paraît encore sur le vêtement, la chaîne, la trame ou l'objet en cuir, c'est une éruption de lèpre: on brûlera au feu ce qui est attaqué de la plaie."
+      }
+    },
+    {
+      "verse": 58,
+      "texts": {
+        "BDS": "Quant au vêtement, au tissu, au tricot, ou à l’objet en cuir que tu auras lavé et d’où la tache aura disparu, tu le laveras une seconde fois, et il sera pur.",
+        "DBY": "Et le vêtement, ou la chaîne, ou la trame, ou tout objet fait de peau que tu auras lavé, et d'où la plaie s'est retirée, sera lavé une seconde fois, et il sera pur.",
+        "KJV": "And the garment, either warp, or woof, or whatsoever thing of skin [it be], which thou shalt wash, if the plague be departed from them, then it shall be washed the second time, and shall be clean.",
+        "LSG": "Le vêtement, la chaîne ou la trame, l'objet quelconque de peau, qui a été lavé, et d'où la plaie a disparu, sera lavé une seconde fois, et il sera pur.",
+        "MAB": "Mais si tu as lavé le vêtement, ou la chaîne, ou la trame, ou quelque chose de peau, et que la plaie s'en soit allée, il sera encore lavé; puis il sera net.",
+        "OST": "Mais le vêtement, le feutre ou le tissu, l'objet quelconque fait de peau, que tu auras lavé, et dont la plaie aura disparu, sera lavé une seconde fois, et il sera pur.",
+        "S21": "Le vêtement, la chaîne, la trame ou l'objet en cuir qui a été lavé et d'où la plaie a disparu sera lavé une deuxième fois et il sera pur.»"
+      }
+    },
+    {
+      "verse": 59,
+      "texts": {
+        "BDS": "Telle est la loi relative à une tache de moisissure sur un vêtement de laine ou de lin, sur un tissu ou un tricot ou sur tout objet de cuir selon laquelle on déterminera s’il est pur ou impur.",
+        "DBY": "Telle est la loi touchant la plaie de la lèpre dans un vêtement de laine ou de lin, ou dans la chaîne ou dans la trame, ou dans quelque objet fait de peau, pour le purifier ou le déclarer impur.",
+        "KJV": "This [is] the law of the plague of leprosy in a garment of woollen or linen, either in the warp, or woof, or any thing of skins, to pronounce it clean, or to pronounce it unclean.",
+        "LSG": "Telle est la loi sur la plaie de la lèpre, lorsqu'elle attaque les vêtements de laine ou de lin, la chaîne ou la trame, ou un objet quelconque de peau, et d'après laquelle ils seront déclarés purs ou impurs.",
+        "MAB": "Telle est la loi de la plaie de la lèpre au vêtement de laine, ou de lin, ou en la chaîne, ou en la trame, ou en quelque chose que ce soit de peau, pour la juger nette, ou souillée.",
+        "OST": "Telle est la loi concernant la plaie de la lèpre sur un vêtement de laine ou de lin, sur un feutre ou sur un tissu, ou sur un objet quelconque fait de peau, pour le déclarer pur ou souillé.",
+        "S21": "Telle est la loi sur la plaie de la lèpre, lorsqu'elle attaque les vêtements de laine ou de lin, la chaîne ou la trame, ou n’importe quel objet en cuir. C’est d’après cette loi qu’on les déclarera purs ou impurs."
+      }
+    }
+  ]
+}

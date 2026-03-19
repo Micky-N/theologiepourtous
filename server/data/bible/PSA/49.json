@@ -1,0 +1,254 @@
+{
+  "bookCode": "PSA",
+  "chapter": 49,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "Au chef de chœur. Un psaume des Qoréites.",
+        "DBY": "Vous, tous les peuples, entendez ceci; vous, tous les habitants du monde, prêtez l'oreille;",
+        "KJV": "To the chief Musician, A Psalm for the sons of Korah. Hear this, all [ye] people; give ear, all [ye] inhabitants of the world:",
+        "LSG": "Au chef des chantres. Des fils de Koré. Psaume. Ecoutez ceci, vous tous, peuples, Prêtez l'oreille, vous tous, habitants du monde,",
+        "MAB": "Psaume des enfants de Coré, au maître chantre. Vous tous peuples, entendez ceci; vous habitants du monde, prêtez l'oreille.",
+        "OST": "Au maître-chantre. Psaume des enfants de Coré.",
+        "S21": "Au chef de chœur. Psaume des descendants de Koré."
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "O vous, tous les peuples, écoutez ceci!\r\nHabitants du monde, prêtez attention,",
+        "DBY": "Fils des gens du commun, et fils des grands, le riche et le pauvre pareillement:",
+        "KJV": "Both low and high, rich and poor, together.",
+        "LSG": "Petits et grands, Riches et pauvres!",
+        "MAB": "Que ceux du bas état, et ceux qui sont d'une condition élevée écoutent; pareillement le riche et le pauvre.",
+        "OST": "Écoutez ceci, vous tous les peuples; prêtez l'oreille, vous tous les habitants du monde!",
+        "S21": "Ecoutez ceci, vous, tous les peuples, prêtez l’oreille, vous, tous les habitants du monde,"
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "vous, les gens illustres et vous, gens obscurs,\r\nvous, les hommes riches comme vous les pauvres!",
+        "DBY": "Ma bouche dira des paroles de sagesse, et la méditation de mon cœur sera pleine d'intelligence;",
+        "KJV": "My mouth shall speak of wisdom; and the meditation of my heart [shall be] of understanding.",
+        "LSG": "Ma bouche va faire entendre des paroles sages, Et mon coeur a des pensées pleines de sens.",
+        "MAB": "Ma bouche prononcera des discours pleins de sagesse, et ce que mon cœur a médité sont des choses pleines de sens.",
+        "OST": "Enfants du peuple et enfants des grands, le riche aussi bien que le pauvre.",
+        "S21": "petits et grands, riches et pauvres!"
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "De ma bouche sortent des paroles sages,\r\net mon cœur murmure des propos sensés.",
+        "DBY": "Je prêterai l'oreille au discours sentencieux, j'exposerai mon énigme sur la harpe.",
+        "KJV": "I will incline mine ear to a parable: I will open my dark saying upon the harp.",
+        "LSG": "Je prête l'oreille aux sentences qui me sont inspirées, J'ouvre mon chant au son de la harpe.",
+        "MAB": "Je prêterai l'oreille à un propos sentencieux, j'exposerai mes dits notables sur le violon.",
+        "OST": "Ma bouche prononcera des paroles sages, et les pensées de mon cœur sont pleines de sens.",
+        "S21": "Ma bouche va faire entendre des paroles sages, et mon cœur a des pensées pleines de bon sens."
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "Mon oreille écoute des proverbes sages.\r\nAu son de la lyre, je vais révéler le sens d’une énigme.",
+        "DBY": "Pourquoi craindrais-je au mauvais jour, quand l'iniquité de ceux qui me talonnent m'enveloppe?",
+        "KJV": "Wherefore should I fear in the days of evil, [when] the iniquity of my heels shall compass me about?",
+        "LSG": "Pourquoi craindrais-je aux jours du malheur, Lorsque l'iniquité de mes adversaires m'enveloppe?",
+        "MAB": "Pourquoi craindrai-je au mauvais temps, quand l'iniquité de mes talons m'environnera?",
+        "OST": "Je vais prêter l'oreille aux discours sentencieux; j'expose mon énigme au son de la harpe.",
+        "S21": "J’écoute les proverbes, j’explique mon énigme au son de la harpe."
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "Pourquoi donc craindrais-je, aux jours du malheur,\r\nd’être environné des méfaits des fourbes?",
+        "DBY": "Ils se confient en leurs biens et se glorifient en l'abondance de leurs richesses…",
+        "KJV": "They that trust in their wealth, and boast themselves in the multitude of their riches;",
+        "LSG": "Ils ont confiance en leurs biens, Et se glorifient de leur grande richesse.",
+        "MAB": "Il y en a qui se fient en leurs biens, et qui se glorifient en l'abondance de leurs richesses.",
+        "OST": "Pourquoi craindrais-je aux jours du malheur, quand l'iniquité de mes adversaires m'environne?",
+        "S21": "Pourquoi aurais-je peur quand vient le malheur, lorsque je suis entouré par la méchanceté de mes adversaires?"
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "Ils ont foi dans leur fortune\r\net ils tirent vanité de leurs immenses richesses.",
+        "DBY": "Un homme ne pourra en aucune manière racheter son frère, ni donner à Dieu sa rançon",
+        "KJV": "None [of them] can by any means redeem his brother, nor give to God a ransom for him:",
+        "LSG": "Ils ne peuvent se racheter l'un l'autre, Ni donner à Dieu le prix du rachat.",
+        "MAB": "Personne ne pourra avec ses richesses racheter son frère, ni donner à Dieu sa rançon.",
+        "OST": "Ils se confient en leurs biens, ils se glorifient de l'abondance de leurs richesses.",
+        "S21": "Ils ont confiance en leurs biens et se vantent de leur grande richesse,"
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "Aucun homme, cependant, ne peut racheter un autre.\r\nAucun ne saurait payer à Dieu sa propre rançon.",
+        "DBY": "(Car précieux est le rachat de leur âme, et il faut qu'il y renonce à jamais),",
+        "KJV": "(For the redemption of their soul [is] precious, and it ceaseth for ever:)",
+        "LSG": "Le rachat de leur âme est cher, Et n'aura jamais lieu;",
+        "MAB": "Car le rachat de leur âme est trop considérable, et il ne se fera jamais;",
+        "OST": "Mais l'homme ne saurait racheter son frère, ni payer à Dieu sa rançon.",
+        "S21": "mais ils ne peuvent se racheter l’un l’autre ni donner à Dieu le prix de leur rançon."
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "Car le rachat de leur vie est bien trop coûteux.\r\nIl leur faut, à tout jamais, en abandonner l’idée.",
+        "DBY": "Afin qu'il vive encore, à toujours, et qu'il ne voie pas la fosse.",
+        "KJV": "That he should still live for ever, [and] not see corruption.",
+        "LSG": "Ils ne vivront pas toujours, Ils n'éviteront pas la vue de la fosse.",
+        "MAB": "Pour faire qu'il vive encore à jamais et qu'il ne voie point la fosse.",
+        "OST": "Car le rachat de leur âme est trop cher, et il ne se fera jamais,",
+        "S21": "Le rachat de leur âme est cher et n’aura jamais lieu."
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "Croient-ils qu’ils vivront toujours,\r\nqu’ils éviteront la fosse?",
+        "DBY": "Car il voit que les sages meurent, que le sot et l'insensé périssent pareillement et laissent leurs biens à d'autres.",
+        "KJV": "For he seeth [that] wise men die, likewise the fool and the brutish person perish, and leave their wealth to others.",
+        "LSG": "Car ils la verront: les sages meurent, L'insensé et le stupide périssent également, Et ils laissent à d'autres leurs biens.",
+        "MAB": "Car on voit que les sages meurent, et pareillement que le fol et l'abruti périssent, et qu'ils laissent leurs biens à d'autres.",
+        "OST": "Pour qu'ils continuent de vivre à perpétuité, et qu'ils ne voient point le tombeau.",
+        "S21": "Ils ne vivront pas toujours, ils n’éviteront pas la tombe,"
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "On voit bien mourir le sage,\r\net le fou et l’insensé vont périr également,\r\nen laissant leurs biens à d’autres.",
+        "DBY": "Leur pensée intérieure est que leurs maisons durent à toujours, et leurs demeures de génération en génération; ils appellent les terres de leur propre nom.",
+        "KJV": "Their inward thought [is, that] their houses [shall continue] for ever, [and] their dwelling places to all generations; they call [their] lands after their own names.",
+        "LSG": "Ils s'imaginent que leurs maisons seront éternelles, Que leurs demeures subsisteront d'âge en âge, Eux dont les noms sont honorés sur la terre.",
+        "MAB": "Leur intention est que leurs maisons durent à toujours, et que leurs habitations demeurent d'âge en âge; ils ont appelé les terres de leur nom;",
+        "OST": "Car on voit que les sages meurent; le fou et l'insensé périssent également, et laissent leurs biens à d'autres.",
+        "S21": "car ils le verront bien: les sages meurent, l’homme stupide et l’idiot disparaissent aussi, et ils laissent leurs biens à d’autres."
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "Cependant, ils s’imaginent que leurs maisons vont durer jusque dans l’éternité.\r\nIls croient que leurs édifices seront à l’abri du temps pendant des générations,\r\nqu’ils pourront laisser leur nom à leurs terres pour toujours.",
+        "DBY": "Pourtant l'homme qui est en honneur ne dure pas; il est semblable aux bêtes qui périssent.",
+        "KJV": "Nevertheless man [being] in honour abideth not: he is like the beasts [that] perish.",
+        "LSG": "Mais l'homme qui est en honneur n'a point de durée, Il est semblable aux bêtes que l'on égorge.",
+        "MAB": "Et toutefois l'homme ne se maintient point dans ses honneurs, [mais] il est rendu semblable aux bêtes brutes qui périssent [entièrement].",
+        "OST": "Ils pensent que leurs maisons dureront éternellement, et leurs demeures d'âge en âge; ils ont donné leurs noms à leurs terres.",
+        "S21": "Ils s’imaginent que leurs maisons seront éternelles, que leurs résidences dureront toujours, eux qui avaient donné leur propre nom à leurs terres."
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "L’homme le plus honoré ne vit pas longtemps:\r\ncar, semblable aux animaux, il devra périr.",
+        "DBY": "Ce chemin qu'ils tiennent est leur folie; mais ceux qui viennent après eux prennent plaisir aux propos de leur bouche. Sélah.",
+        "KJV": "This their way [is] their folly: yet their posterity approve their sayings. Selah.",
+        "LSG": "Telle est leur voie, leur folie, Et ceux qui les suivent se plaisent à leurs discours. -Pause.",
+        "MAB": "Ce chemin qu'ils tiennent, leur tourne à folie, [et néanmoins] leurs successeurs prennent plaisir à leurs enseignements; Sélah.",
+        "OST": "Mais l'homme ne peut demeurer dans son éclat; il est rendu semblable aux bêtes qui périssent.",
+        "S21": "Mais l’homme qui est honoré ne dure pas: il ressemble aux bêtes qu’on extermine."
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "Tel est l’avenir de ceux qui leur font confiance,\r\nqui approuvent leurs discours.\r\nPause",
+        "DBY": "Ils gisent dans le shéol comme des brebis: la mort se repaît d'eux, et au matin les hommes droits domineront sur eux; et leur beauté va se consumer dans le shéol, sans qu'ils aient plus de demeure.",
+        "KJV": "Like sheep they are laid in the grave; death shall feed on them; and the upright shall have dominion over them in the morning; and their beauty shall consume in the grave from their dwelling.",
+        "LSG": "Comme un troupeau, ils sont mis dans le séjour des morts, La mort en fait sa pâture; Et bientôt les hommes droits les foulent aux pieds, Leur beauté s'évanouit, le séjour des morts est leur demeure.",
+        "MAB": "Ils seront mis au sépulcre comme des brebis; la mort se repaîtra d'eux, et les hommes droits auront domination sur eux au matin, et leur force sera le sépulcre pour les y faire consumer, chacun d'eux étant transporté hors de son domicile.",
+        "OST": "Telle est la voie sur laquelle ils se fient; et leurs successeurs se plaisent à leurs discours.",
+        "S21": "Telle est leur voie, telle est leur folie, et ceux qui les suivent se plaisent à leurs discours. – Pause."
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "On les pousse vers la tombe comme un troupeau de moutons;\r\noui, la mort les mène paître.\r\nAu matin, les justes vont les piétiner.\r\nLoin de leur demeure, au séjour des morts, leur beauté s’évanouira.",
+        "DBY": "Mais Dieu rachètera mon âme de la puissance du shéol, car il me prendra. Sélah.",
+        "KJV": "But God will redeem my soul from the power of the grave: for he shall receive me. Selah.",
+        "LSG": "Mais Dieu sauvera mon âme du séjour des morts, Car il me prendra sous sa protection. -Pause.",
+        "MAB": "Mais Dieu rachètera mon âme de la puissance du sépulcre, quand il me prendra à soi; Sélah.",
+        "OST": "Ils sont poussés au Sépulcre comme un troupeau; la mort se repaîtra d'eux; les justes domineront sur eux au matin; leur beauté sera consumée dans le Sépulcre, loin de leurs habitations.",
+        "S21": "Comme un troupeau, ils sont poussés dans le séjour des morts; la mort est leur berger. Le matin, les hommes droits les foulent aux pieds, leur beauté s’évanouit, le séjour des morts est leur demeure."
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "Dieu rachètera ma vie du séjour des morts,\r\ncar il me prendra.\r\nPause",
+        "DBY": "Ne crains pas quand un homme s'enrichit, quand la gloire de sa maison s'accroît;",
+        "KJV": "Be not thou afraid when one is made rich, when the glory of his house is increased;",
+        "LSG": "Ne sois pas dans la crainte parce qu'un homme s'enrichit, Parce que les trésors de sa maison se multiplient;",
+        "MAB": "Ne crains point quand tu verras quelqu'un enrichi, [et] quand la gloire de sa maison sera multipliée.",
+        "OST": "Mais Dieu rachètera mon âme de la main du Sépulcre, quand il me prendra à lui. (Sélah.)",
+        "S21": "Mais Dieu rachètera mon âme du séjour des morts, oui, il me prendra. – Pause."
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "Ne sois donc pas alarmé quand un homme s’enrichit,\r\nquand tu vois le luxe s’étaler dans sa maison.",
+        "DBY": "Car, lorsqu'il mourra, il n'emportera rien; sa gloire ne descendra pas après lui,",
+        "KJV": "For when he dieth he shall carry nothing away: his glory shall not descend after him.",
+        "LSG": "Car il n'emporte rien en mourant, Ses trésors ne descendent point après lui.",
+        "MAB": "Car lorsqu'il mourra, il n'emportera rien; sa gloire ne descendra point après lui.",
+        "OST": "Ne crains point, quand un homme s'enrichit, quand la gloire de sa maison s'accroît.",
+        "S21": "Ne sois pas dans la crainte parce qu’un homme s’enrichit, parce que les trésors de sa maison augmentent,"
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "Car, lorsqu’il mourra, il n’emportera rien de ce qu’il possédait:\r\nses biens ne le suivront pas.",
+        "DBY": "Quoique pendant sa vie il bénît son âme (et on te louera, si tu te fais du bien),",
+        "KJV": "Though while he lived he blessed his soul: and [men] will praise thee, when thou doest well to thyself.",
+        "LSG": "Il aura beau s'estimer heureux pendant sa vie, On aura beau te louer des jouissances que tu te donnes,",
+        "MAB": "Quoiqu'il ait béni son âme en sa vie, et quoiqu'on te loue parce que tu te seras fait du bien;",
+        "OST": "Car, en mourant, il n'emportera rien; sa gloire ne descendra pas après lui.",
+        "S21": "car il n’emporte rien en mourant: ses trésors ne le suivront pas."
+      }
+    },
+    {
+      "verse": 19,
+      "texts": {
+        "BDS": "Il pouvait se dire heureux pendant le cours de sa vie\r\net on pouvait le louer d’avoir trouvé le bien-être,",
+        "DBY": "Il s'en ira jusqu'à la génération de ses pères: ils ne verront jamais la lumière.",
+        "KJV": "He shall go to the generation of his fathers; they shall never see light.",
+        "LSG": "Tu iras néanmoins au séjour de tes pères, Qui jamais ne reverront la lumière.",
+        "MAB": "Venant jusques à la race des pères de chacun d'eux, [ce sera comme] s'ils n'avaient jamais vu la lumière.",
+        "OST": "Que dans sa vie il rende son âme heureuse, qu'on te loue parce que tu te fais du bien,",
+        "S21": "Il aura beau s’estimer heureux pendant sa vie, on aura beau le louer pour le bonheur qu’il se donne,"
+      }
+    },
+    {
+      "verse": 20,
+      "texts": {
+        "BDS": "il lui faudra bien rejoindre ses ancêtres décédés\r\nqui, jamais plus, ne verront briller la lumière.",
+        "DBY": "L'homme qui est en honneur et n'a point d'intelligence, est comme les bêtes qui périssent.",
+        "KJV": "Man [that is] in honour, and understandeth not, is like the beasts [that] perish.",
+        "LSG": "L'homme qui est en honneur, et qui n'a pas d'intelligence, Est semblable aux bêtes que l'on égorge.",
+        "MAB": "L'homme qui est en honneur, [et] n'a point d'intelligence, est semblable aux bêtes brutes qui périssent [entièrement]",
+        "OST": "Tu iras pourtant vers la génération de tes pères, qui ne reverront jamais la lumière.",
+        "S21": "il rejoindra pourtant la génération de ses ancêtres qui ne reverront jamais la lumière."
+      }
+    },
+    {
+      "verse": 21,
+      "texts": {
+        "BDS": "L’homme le plus honoré, s’il n’a pas d’intelligence,\r\nest semblable aux animaux qui devront périr.",
+        "OST": "L'homme qui est en honneur et qui n'a pas d'intelligence, devient semblable aux bêtes qui périssent.",
+        "S21": "L’homme qui est honoré mais qui n’a pas d’intelligence ressemble aux bêtes qu’on extermine."
+      }
+    }
+  ]
+}

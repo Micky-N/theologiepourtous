@@ -1,0 +1,222 @@
+{
+  "bookCode": "ECC",
+  "chapter": 1,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "Voici ce que dit le Maître, fils de David, roi à Jérusalem:",
+        "DBY": "Les paroles du Prédicateur, fils de David, roi à Jérusalem.",
+        "KJV": "The words of the Preacher, the son of David, king in Jerusalem.",
+        "LSG": "Paroles de l'Ecclésiaste, fils de David, roi de Jérusalem.",
+        "MAB": "Les paroles de l'Ecclésiaste, fils de David, Roi de Jérusalem.",
+        "OST": "Paroles de l'Ecclésiaste, fils de David, roi de Jérusalem.",
+        "S21": "Paroles de l'Ecclésiaste, fils de David, roi à Jérusalem."
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "Vanité des vanités, dit le Maître, oui, vanité des vanités, tout est dérisoire.",
+        "DBY": "Vanité des vanités, dit le prédicateur; vanité des vanités! Tout est vanité.",
+        "KJV": "Vanity of vanities, saith the Preacher, vanity of vanities; all [is] vanity.",
+        "LSG": "Vanité des vanités, dit l'Ecclésiaste, vanité des vanités, tout est vanité.",
+        "MAB": "Vanité des vanités, dit l'Ecclésiaste; vanité des vanités, tout est vanité.",
+        "OST": "Vanité des vanités, dit l'Ecclésiaste; vanité des vanités, tout est vanité.",
+        "S21": "Comble de l’inconsistance, dit l'Ecclésiaste, comble de l’inconsistance, tout n’est que fumée!"
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "Quel avantage l’homme retire-t-il de toute la peine qu’il se donne sous le soleil?",
+        "DBY": "Quel profit a l'homme de tout son labeur dont il se tourmente sous le soleil?",
+        "KJV": "What profit hath a man of all his labour which he taketh under the sun?",
+        "LSG": "Quel avantage revient-il à l'homme de toute la peine qu'il se donne sous le soleil?",
+        "MAB": "Quel avantage a l'homme de tout son travail auquel il s'occupe sous le soleil?",
+        "OST": "Quel avantage a l'homme de tout le travail auquel il se livre sous le soleil?",
+        "S21": "Quel avantage l'homme retire-t-il de toute la peine qu'il se donne sous le soleil?"
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "Une génération s’en va, une autre vient, et la terre est toujours là.",
+        "DBY": "Une génération s'en va, et une génération vient; et la terre subsiste toujours.",
+        "KJV": "[One] generation passeth away, and [another] generation cometh: but the earth abideth for ever.",
+        "LSG": "Une génération s'en va, une autre vient, et la terre subsiste toujours.",
+        "MAB": "Une génération passe, et l'autre génération vient, mais la terre demeure toujours ferme.",
+        "OST": "Une génération passe, et une autre vient; mais la terre subsiste toujours.",
+        "S21": "Une génération s'en va, une autre arrive et la terre est toujours là."
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "Le soleil se lève, le soleil se couche, et il se hâte vers l’endroit d’où il devra de nouveau se lever.",
+        "DBY": "Et le soleil se lève, et le soleil se couche, et il se hâte vers son lieu où il se lève.",
+        "KJV": "The sun also ariseth, and the sun goeth down, and hasteth to his place where he arose.",
+        "LSG": "Le soleil se lève, le soleil se couche; il soupire après le lieu d'où il se lève de nouveau.",
+        "MAB": "Le soleil aussi se lève, et le soleil se couche, et il soupire après le lieu d'où il se lève.",
+        "OST": "Le soleil se lève, et le soleil se couche, et il soupire après le lieu d'où il se lève de nouveau.",
+        "S21": "Le soleil se lève, le soleil se couche, il soupire après l'endroit d'où il se lève de nouveau."
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "Le vent souffle vers le sud, puis tourne vers le nord, il tourne, et tourne encore, et reprend les mêmes circuits.",
+        "DBY": "Le vent va vers le midi, et il tourne vers le nord; il tourne et retourne; et le vent revient sur ses circuits.",
+        "KJV": "The wind goeth toward the south, and turneth about unto the north; it whirleth about continually, and the wind returneth again according to his circuits.",
+        "LSG": "Le vent se dirige vers le midi, tourne vers le nord; puis il tourne encore, et reprend les mêmes circuits.",
+        "MAB": "Le vent va vers le Midi, et tournoie vers l'Aquilon; il va tournoyant çà et là, et il retourne après ses circuits.",
+        "OST": "Le vent va vers le midi, et tourne vers le nord; il va tournoyant çà et là, et revient à ses circuits.",
+        "S21": "Le vent se dirige vers le sud, tourne vers le nord, puis il tourne encore et reprend les mêmes circuits."
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "Tous les fleuves vont se jeter dans la mer, mais la mer n’est pas remplie. Les fleuves ne cessent de couler toujours vers le même endroit en suivant leur cours.",
+        "DBY": "Toutes les rivières vont vers la mer, et la mer n'est pas remplie; au lieu où les rivières allaient, là elles vont de nouveau.",
+        "KJV": "All the rivers run into the sea; yet the sea [is] not full; unto the place from whence the rivers come, thither they return again.",
+        "LSG": "Tous les fleuves vont à la mer, et la mer n'est point remplie; ils continuent à aller vers le lieu où ils se dirigent.",
+        "MAB": "Tous les fleuves vont en la mer, et la mer n'en est point remplie; les fleuves retournent au lieu d'où ils étaient partis, pour revenir [en la mer].",
+        "OST": "Tous les fleuves vont à la mer, et la mer n'est point remplie; les fleuves continuent à aller vers le lieu d'où ils viennent.",
+        "S21": "Tous les fleuves vont à la mer, mais la mer n'est pas remplie et ils continuent d’aller vers leur destination."
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "Tout est en travail, plus qu’on ne peut le dire. L’œil n’est jamais rassasié de voir. L’oreille n’est jamais remplie de ce qu’elle entend.",
+        "DBY": "Toutes choses travaillent, l'homme ne peut le dire; l'œil ne se rassasie pas de voir, et l'oreille ne se satisfait pas d'entendre.",
+        "KJV": "All things [are] full of labour; man cannot utter [it]: the eye is not satisfied with seeing, nor the ear filled with hearing.",
+        "LSG": "Toutes choses sont en travail au delà de ce qu'on peut dire; l'oeil ne se rassasie pas de voir, et l'oreille ne se lasse pas d'entendre.",
+        "MAB": "Toutes choses travaillent [plus que] l'homme ne saurait dire : l'œil n'est jamais rassasié de voir, ni l'oreille assouvie d'ouïr.",
+        "OST": "Toutes choses travaillent plus que l'homme ne saurait dire; l'œil n'est jamais rassasié de voir, ni l'oreille lasse d'entendre.",
+        "S21": "Tout est en mouvement, plus qu'on ne peut le dire. L’œil ne sera jamais rassasié de voir et l'oreille ne sera jamais remplie au point de ne plus pouvoir écouter."
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "Ce qui a été, c’est ce qui sera, et ce qui s’est fait, c’est ce qui se fera: il n’y a rien de nouveau sous le soleil.",
+        "DBY": "Ce qui a été, c'est ce qui sera; et ce qui a été fait, c'est ce qui se fera; et il n'y a rien de nouveau sous le soleil.",
+        "KJV": "The thing that hath been, it [is that] which shall be; and that which is done [is] that which shall be done: and [there is] no new [thing] under the sun.",
+        "LSG": "Ce qui a été, c'est ce qui sera, et ce qui s'est fait, c'est ce qui se fera, il n'y a rien de nouveau sous le soleil.",
+        "MAB": "Ce qui a été, c'est ce qui sera; et ce qui a été fait, est ce qui se fera, et il n'y a rien de nouveau sous le soleil.",
+        "OST": "Ce qui a été, c'est ce qui sera; ce qui s'est fait, c'est ce qui se fera, et il n'y a rien de nouveau sous le soleil.",
+        "S21": "Ce qui a existé, c'est ce qui existera, et ce qui s'est fait, c'est ce qui se fera. Il n'y a rien de nouveau sous le soleil."
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "Si l’on dit: «Tenez! Voilà quelque chose de nouveau», en fait, cela a déjà existé dans les temps qui nous ont précédés depuis longtemps.",
+        "DBY": "Y a-t-il une chose dont on puisse dire: Regarde ceci, c'est nouveau? -Elle a été déjà, dans les siècles qui furent avant nous.",
+        "KJV": "Is there [any] thing whereof it may be said, See, this [is] new? it hath been already of old time, which was before us.",
+        "LSG": "S'il est une chose dont on dise: Vois ceci, c'est nouveau! cette chose existait déjà dans les siècles qui nous ont précédés.",
+        "MAB": "Y a-t-il quelque chose dont on puisse dire : Regarde cela, il est nouveau? Il a déjà été dans les siècles qui ont été avant nous.",
+        "OST": "Y a-t-il une chose dont on puisse dire: Vois ceci, c'est nouveau? Elle a déjà été dans les siècles qui furent avant nous.",
+        "S21": "Si l’on dit à propos de quelque chose: «Regarde ceci, c'est nouveau», en réalité cela existait déjà dans les siècles précédents."
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "Seulement, on ne se souvient plus de ce qui s’est passé autrefois, et il en sera de même pour ce qui se produira dans l’avenir: ceux qui viendront après nous n’en auront aucun souvenir.",
+        "DBY": "Il n'y a pas de souvenir des choses qui ont précédé; et de même, de celles qui seront après, il n'y a en aura pas de souvenir chez ceux qui vivront plus tard.",
+        "KJV": "[There is] no remembrance of former [things]; neither shall there be [any] remembrance of [things] that are to come with [those] that shall come after.",
+        "LSG": "On ne se souvient pas de ce qui est ancien; et ce qui arrivera dans la suite ne laissera pas de souvenir chez ceux qui vivront plus tard.",
+        "MAB": "On ne se souvient point des choses qui ont précédé, on ne se souviendra point des choses qui seront à l'avenir, et ceux qui viendront n'en auront aucun souvenir.",
+        "OST": "On ne se souvient plus des choses d'autrefois; de même on ne se souviendra point des choses à venir, parmi ceux qui viendront plus tard.",
+        "S21": "On ne se souvient pas de ce qui est ancien, et ce qui arrivera par la suite ne laissera pas de souvenir chez ceux qui vivront plus tard."
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "Moi, le Maître, j’ai été roi d’Israël à Jérusalem.",
+        "DBY": "Moi, le prédicateur, j'ai été roi sur Israël à Jérusalem,",
+        "KJV": "I the Preacher was king over Israel in Jerusalem.",
+        "LSG": "Moi, l'Ecclésiaste, j'ai été roi d'Israël à Jérusalem.",
+        "MAB": "Moi l'Ecclésiaste, j'ai été Roi sur Israël à Jérusalem;",
+        "OST": "Moi, l'Ecclésiaste, j'ai été roi sur Israël à Jérusalem;",
+        "S21": "Moi, l'Ecclésiaste, j'ai été roi d'Israël à Jérusalem."
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "Et je me suis appliqué à étudier et à examiner par la sagesse tout ce qui se fait sous le soleil. Dieu impose aux hommes de s’appliquer à cette occupation pénible.",
+        "DBY": "et j'ai appliqué mon cœur à rechercher et à explorer par la sagesse tout ce qui se fait sous les cieux: c'est une occupation ingrate que Dieu a donnée aux fils des hommes afin qu'ils s'y fatiguent.",
+        "KJV": "And I gave my heart to seek and search out by wisdom concerning all [things] that are done under heaven: this sore travail hath God given to the sons of man to be exercised therewith.",
+        "LSG": "J'ai appliqué mon coeur à rechercher et à sonder par la sagesse tout ce qui se fait sous les cieux: c'est là une occupation pénible, à laquelle Dieu soumet les fils de l'homme.",
+        "MAB": "Et j'ai appliqué mon cœur à rechercher et à sonder par la sagesse tout ce qui se faisait sous les cieux, ce qui est une occupation fâcheuse que Dieu a donnée aux hommes, afin qu'ils s'y occupent.",
+        "OST": "Et j'ai appliqué mon cœur à rechercher et à sonder avec sagesse tout ce qui se fait sous les cieux; c'est là une occupation pénible que Dieu a donnée aux hommes, afin qu'ils s'y exercent.",
+        "S21": "J'ai appliqué mon cœur à rechercher et à explorer par la sagesse tout ce qui se fait sous le ciel: c'est une occupation pénible que Dieu réserve aux humains."
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "J’ai vu tout ce qui se fait sous le soleil et je suis arrivé à la conclusion que tout est dérisoire: autant courir après le vent.",
+        "DBY": "J'ai vu tous les travaux qui se font sous le soleil; et voici, tout est vanité et poursuite du vent.",
+        "KJV": "I have seen all the works that are done under the sun; and, behold, all [is] vanity and vexation of spirit.",
+        "LSG": "J'ai vu tout ce qui se fait sous le soleil; et voici, tout est vanité et poursuite du vent.",
+        "MAB": "J'ai regardé tout ce qui se faisait sous le soleil, et voilà tout est vanité, et rongement d'esprit.",
+        "OST": "J'ai vu tout ce qui se fait sous le soleil, et voilà, tout est vanité et tourment d'esprit.",
+        "S21": "J'ai vu tout ce qui se fait sous le soleil et j’ai constaté que tout n’est que fumée et revient à poursuivre le vent."
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "Ce qui est tordu ne peut être redressé, et ce qui manque ne peut être compté.",
+        "DBY": "Ce qui est tordu ne peut être redressé, et ce qui manque ne peut être compté.",
+        "KJV": "[That which is] crooked cannot be made straight: and that which is wanting cannot be numbered.",
+        "LSG": "Ce qui est courbé ne peut se redresser, et ce qui manque ne peut être compté.",
+        "MAB": "Ce qui est tortu ne se peut redresser; et les défauts ne se peuvent nombrer.",
+        "OST": "Ce qui est courbé ne se peut redresser; et ce qui manque ne peut être compté.",
+        "S21": "Ce qui est courbé ne peut pas se redresser et ce qui manque ne peut pas être compté."
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "Je me suis dit en moi-même: «Voici, j’ai fait augmenter et progresser la sagesse plus qu’aucun de ceux qui ont régné avant moi à Jérusalem. J’ai acquis beaucoup de sagesse et de connaissance.»",
+        "DBY": "J'ai parlé en mon cœur, disant: Voici, je suis devenu grand et j'ai acquis de la sagesse plus que tous ceux qui ont été avant moi sur Jérusalem, et mon cœur a vu beaucoup de sagesse et de connaissance;",
+        "KJV": "I communed with mine own heart, saying, Lo, I am come to great estate, and have gotten more wisdom than all [they] that have been before me in Jerusalem: yea, my heart had great experience of wisdom and knowledge.",
+        "LSG": "J'ai dit en mon coeur: Voici, j'ai grandi et surpassé en sagesse tous ceux qui ont dominé avant moi sur Jérusalem, et mon coeur a vu beaucoup de sagesse et de science.",
+        "MAB": "J'ai parlé en mon cœur, disant : Voici, je me suis agrandi et accru en sagesse, par-dessus tous ceux qui ont été avant moi sur Jérusalem, et mon cœur a vu beaucoup de sagesse et de science.",
+        "OST": "J'ai parlé en mon cœur, et j'ai dit: Voici, j'ai grandi et surpassé en sagesse tous ceux qui ont été avant moi sur Jérusalem, et mon cœur a vu beaucoup de sagesse et de science;",
+        "S21": "Je me suis dit: «J'ai augmenté et développé la sagesse plus que tous ceux qui ont dominé avant moi sur Jérusalem, et mon cœur a vu beaucoup de sagesse et de connaissance.»"
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "Je me suis, en effet, appliqué à connaître la sagesse, ainsi que ce qui est fou et ce qui est stupide. Et je me suis aperçu que cela aussi, c’est comme courir après le vent.",
+        "DBY": "et j'ai appliqué mon cœur à la connaissance de la sagesse et à la connaissance des choses déraisonnables et de la folie. J'ai connu que cela aussi, c'est la poursuite du vent.",
+        "KJV": "And I gave my heart to know wisdom, and to know madness and folly: I perceived that this also is vexation of spirit.",
+        "LSG": "J'ai appliqué mon coeur à connaître la sagesse, et à connaître la sottise et la folie; j'ai compris que cela aussi c'est la poursuite du vent.",
+        "MAB": "Et j'ai appliqué mon cœur à connaître la sagesse, et à connaître les sottises et la folie, [mais] j'ai reconnu que cela aussi était un rongement d'esprit.",
+        "OST": "Et j'ai appliqué mon cœur à connaître la sagesse, et à connaître la sottise et la folie; mais j'ai connu que cela aussi était un tourment d'esprit.",
+        "S21": "J'ai appliqué mon cœur à connaître la sagesse, mais aussi la folie et la stupidité. J'ai découvert que cela aussi, cela revient à poursuivre le vent."
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "Car, plus on a de sagesse, plus on a de sujets d’affliction. En augmentant sa connaissance, on augmente ses tourments.",
+        "DBY": "Car à beaucoup de sagesse, beaucoup de chagrin; et qui augmente la connaissance, augmente la douleur.",
+        "KJV": "For in much wisdom [is] much grief: and he that increaseth knowledge increaseth sorrow.",
+        "LSG": "Car avec beaucoup de sagesse on a beaucoup de chagrin, et celui qui augmente sa science augmente sa douleur.",
+        "MAB": "Car où il y a abondance de sagesse, il y a abondance de chagrin; et celui qui s'accroît de la science, s'accroît du chagrin.",
+        "OST": "Car avec beaucoup de science, il y a beaucoup de chagrin; et celui qui accroît sa science, accroît sa douleur.",
+        "S21": "En effet, avec beaucoup de sagesse on a beaucoup de chagrin, et celui qui augmente sa connaissance augmente sa souffrance."
+      }
+    }
+  ]
+}

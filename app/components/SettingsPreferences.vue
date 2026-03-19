@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import type { UserPreference } from '@prisma/client';
+import type { UserPreferencesData } from '~/types';
 import * as z from 'zod';
 
 const { preferences, updatePreferences, fetchPreferences } = useUserPreferences();
@@ -10,13 +10,13 @@ await fetchPreferences();
 await fetchVersions();
 
 const preferencesSchema = z.object({
-    defaultVersionId: z.number().nullable(),
+    defaultVersionOrderIndex: z.number().nullable(),
     notesPerVersion: z.boolean(),
     bookmarksPerVersion: z.boolean()
 });
 
-const state = reactive<Pick<UserPreference, 'defaultVersionId' | 'notesPerVersion' | 'bookmarksPerVersion'>>({
-    defaultVersionId: preferences.value.defaultVersionId,
+const state = reactive<Pick<UserPreferencesData, 'defaultVersionOrderIndex' | 'notesPerVersion' | 'bookmarksPerVersion'>>({
+    defaultVersionOrderIndex: preferences.value.defaultVersionOrderIndex,
     notesPerVersion: preferences.value.notesPerVersion,
     bookmarksPerVersion: preferences.value.bookmarksPerVersion
 });
@@ -52,7 +52,7 @@ const onSubmit = async () => {
 
 const fields = [
     {
-        name: 'defaultVersionId',
+        name: 'defaultVersionOrderIndex',
         label: 'Version par défaut',
         description: 'Version de la bible préférée',
         items: versionsItems.value
@@ -92,7 +92,7 @@ const fields = [
                 />
 
                 <USelect
-                    v-if="field.name == 'defaultVersionId' && field.items"
+                    v-if="field.name == 'defaultVersionOrderIndex' && field.items"
                     v-model="state[field.name]"
                     :items="field.items"
                     label-key="name"

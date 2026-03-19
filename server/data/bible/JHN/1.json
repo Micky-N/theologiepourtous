@@ -1,0 +1,618 @@
+{
+  "bookCode": "JHN",
+  "chapter": 1,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "Au commencement était celui qui est la Parole de Dieu. Il était avec Dieu, il était lui-même Dieu.",
+        "DBY": "Au commencement était la Parole; et la Parole était auprès de Dieu; et la Parole était Dieu.",
+        "KJV": "In the beginning was the Word, and the Word was with God, and the Word was God.",
+        "LSG": "Au commencement était la Parole, et la Parole était avec Dieu, et la Parole était Dieu.",
+        "MAB": "Au commencement était la Parole, et la Parole était avec Dieu; et cette parole était Dieu :",
+        "OST": "Au commencement était la Parole, la Parole était avec Dieu, et la Parole était Dieu.",
+        "S21": "Au commencement, la Parole existait déjà. La Parole était avec Dieu et la Parole était Dieu."
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "Au commencement, il était avec Dieu.",
+        "DBY": "Elle était au commencement auprès de Dieu.",
+        "KJV": "The same was in the beginning with God.",
+        "LSG": "Elle était au commencement avec Dieu.",
+        "MAB": "Elle était au commencement avec Dieu.",
+        "OST": "Elle était au commencement avec Dieu.",
+        "S21": "Elle était au commencement avec Dieu."
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "Tout a été créé par lui; rien de ce qui a été créé n’a été créé sans lui.",
+        "DBY": "Toutes choses furent faites par elle, et sans elle pas une seule chose ne fut faite de ce qui a été fait.",
+        "KJV": "All things were made by him; and without him was not any thing made that was made.",
+        "LSG": "Toutes choses ont été faites par elle, et rien de ce qui a été fait n'a été fait sans elle.",
+        "MAB": "Toutes choses ont été faites par elle, et sans elle rien de ce qui a été fait, n'a été fait.",
+        "OST": "Toutes choses ont été faites par elle, et rien de ce qui a été fait, n'a été fait sans elle.",
+        "S21": "Tout a été fait par elle et rien de ce qui a été fait n'a été fait sans elle."
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "En lui résidait la vie, et cette vie était la lumière des hommes.",
+        "DBY": "En elle était la vie, et la vie était la lumière des hommes.",
+        "KJV": "In him was life; and the life was the light of men.",
+        "LSG": "En elle était la vie, et la vie était la lumière des hommes.",
+        "MAB": "En elle était la vie, et la vie était la Lumière des hommes.",
+        "OST": "En elle était la vie, et la vie était la lumière des hommes.",
+        "S21": "En elle il y avait la vie, et cette vie était la lumière des êtres humains."
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "La lumière brille dans les ténèbres et les ténèbres ne l’ont pas étouffée.",
+        "DBY": "Et la lumière luit dans les ténèbres; et les ténèbres ne l'ont pas comprise.",
+        "KJV": "And the light shineth in darkness; and the darkness comprehended it not.",
+        "LSG": "La lumière luit dans les ténèbres, et les ténèbres ne l'ont point reçue.",
+        "MAB": "Et la Lumière luit dans les ténèbres, mais les ténèbres ne l'ont point reçue.",
+        "OST": "Et la lumière a lui dans les ténèbres, et les ténèbres ne l'ont point reçue.",
+        "S21": "La lumière brille dans les ténèbres, et les ténèbres ne l'ont pas accueillie."
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "Un homme parut, envoyé par Dieu; il s’appelait Jean.",
+        "DBY": "Il y eut un homme envoyé de Dieu; son nom était Jean.",
+        "KJV": "There was a man sent from God, whose name [was] John.",
+        "LSG": "Il y eut un homme envoyé de Dieu: son nom était Jean.",
+        "MAB": "Il y eut un homme appelé Jean, qui fut envoyé de Dieu.",
+        "OST": "Il y eut un homme, appelé Jean, qui fut envoyé de Dieu.",
+        "S21": "Il y eut un homme envoyé par Dieu; son nom était Jean."
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "Il vint pour être un témoin de la lumière, afin que tous les hommes croient par lui.",
+        "DBY": "Celui-ci vint pour rendre témoignage, pour rendre témoignage de la lumière, afin que tous crussent par lui.",
+        "KJV": "The same came for a witness, to bear witness of the Light, that all [men] through him might believe.",
+        "LSG": "Il vint pour servir de témoin, pour rendre témoignage à la lumière, afin que tous crussent par lui.",
+        "MAB": "Il vint pour rendre témoignage, pour rendre, dis-je, témoignage à la Lumière, afin que tous crûssent par lui.",
+        "OST": "Il vint pour être témoin, pour rendre témoignage à la lumière, afin que tous crussent par lui.",
+        "S21": "Il vint comme témoin, pour rendre témoignage à la lumière afin que tous croient par lui."
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "Il n’était pas lui-même la lumière, mais sa mission était d’être le témoin de la lumière.",
+        "DBY": "Lui n'était pas la lumière, mais pour rendre témoignage de la lumière:",
+        "KJV": "He was not that Light, but [was sent] to bear witness of that Light.",
+        "LSG": "Il n'était pas la lumière, mais il parut pour rendre témoignage à la lumière.",
+        "MAB": "Il n'était pas la Lumière, mais il [était envoyé] pour rendre témoignage à la Lumière.",
+        "OST": "Il n'était pas la lumière, mais il était envoyé pour rendre témoignage à la lumière.",
+        "S21": "Il n'était pas la lumière, mais il vint pour rendre témoignage à la lumière."
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "Celle-ci était la véritable lumière, celle qui, en venant dans le monde, éclaire tout être humain.",
+        "DBY": "la vraie lumière était celle, qui, venant dans le monde, éclaire tout homme.",
+        "KJV": "[That] was the true Light, which lighteth every man that cometh into the world.",
+        "LSG": "Cette lumière était la véritable lumière, qui, en venant dans le monde, éclaire tout homme.",
+        "MAB": "[Cette] Lumière était la véritable, qui éclaire tout homme venant au monde.",
+        "OST": "La véritable lumière qui éclaire tout homme était venue dans le monde.",
+        "S21": "Cette lumière était la vraie lumière qui, en venant dans le monde, éclaire tout être humain."
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "Celui qui est la Parole était déjà dans le monde, puisque le monde a été créé par lui, et pourtant, le monde ne l’a pas reconnu.",
+        "DBY": "était dans le monde, et le monde fut fait par lui; et le monde ne l'a pas connu.",
+        "KJV": "He was in the world, and the world was made by him, and the world knew him not.",
+        "LSG": "Elle était dans le monde, et le monde a été fait par elle, et le monde ne l'a point connue.",
+        "MAB": "Elle était au monde, et le monde a été fait par elle; mais le monde ne l'a point connue.",
+        "OST": "Elle était dans le monde, et le monde a été fait par elle; mais Lui le monde ne l'a pas connu.",
+        "S21": "Elle était dans le monde et le monde a été fait par elle, pourtant le monde ne l'a pas reconnue."
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "Il est venu chez lui, et les siens ne l’ont pas accueilli.",
+        "DBY": "Il vint chez soi; et les siens ne l'ont pas reçu.",
+        "KJV": "He came unto his own, and his own received him not.",
+        "LSG": "Elle est venue chez les siens, et les siens ne l'ont point reçue.",
+        "MAB": "Il est venu chez soi; et les siens ne l'ont point reçu;",
+        "OST": "Il est venu chez les siens; et les siens ne l'ont point reçu.",
+        "S21": "Elle est venue chez les siens, et les siens ne l'ont pas accueillie."
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "Certains pourtant l’ont accueilli; ils ont cru en lui. A tous ceux-là, il a accordé le privilège de devenir enfants de Dieu.",
+        "DBY": "Mais à tous ceux qui l'ont reçu, il leur a donné le droit d'être enfants de Dieu, savoir à ceux qui croient en son nom;",
+        "KJV": "But as many as received him, to them gave he power to become the sons of God, [even] to them that believe on his name:",
+        "LSG": "Mais à tous ceux qui l'ont reçue, à ceux qui croient en son nom, elle a donné le pouvoir de devenir enfants de Dieu,",
+        "MAB": "Mais à tous ceux qui l'ont reçu, il leur a donné le droit d'être faits enfants de Dieu, [savoir] à ceux qui croient en son Nom;",
+        "OST": "Mais à tous ceux qui l'ont reçu, il leur a donné le droit d'être faits enfants de Dieu, savoir, à ceux qui croient en son nom,",
+        "S21": "Mais à tous ceux qui l'ont acceptée, à ceux qui croient en son nom, elle a donné le droit de devenir enfants de Dieu,"
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "Ce n’est pas par une naissance naturelle, ni sous l’impulsion d’un désir, ou encore par la volonté d’un homme, qu’ils le sont devenus; mais c’est de Dieu qu’ils sont nés.",
+        "DBY": "lesquels sont nés, non pas de sang, ni de la volonté de la chair, ni de la volonté de l'homme, mais de Dieu.",
+        "KJV": "Which were born, not of blood, nor of the will of the flesh, nor of the will of man, but of God.",
+        "LSG": "lesquels sont nés, non du sang, ni de la volonté de la chair, ni de la volonté de l'homme, mais de Dieu.",
+        "MAB": "Lesquels ne sont point nés de sang, ni de la volonté de la chair, ni de la volonté de l'homme; mais ils sont nés de Dieu.",
+        "OST": "Qui ne sont point nés du sang, ni de la volonté de la chair, ni de la volonté de l'homme, mais de Dieu.",
+        "S21": "puisqu’ils sont nés non du fait de la nature, ni par une volonté humaine, ni par la volonté d’un mari, mais qu’ils sont nés de Dieu."
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "Celui qui est la Parole est devenu homme et il a vécu parmi nous. Nous avons contemplé sa gloire, la gloire du Fils unique envoyé par son Père: plénitude de grâce et de vérité!",
+        "DBY": "Et la Parole devint chair, et habita au milieu de nous (et nous vîmes sa gloire, une gloire comme d'un fils unique de la part du Père) pleine de grâce et de vérité;",
+        "KJV": "And the Word was made flesh, and dwelt among us, (and we beheld his glory, the glory as of the only begotten of the Father,) full of grace and truth.",
+        "LSG": "Et la parole a été faite chair, et elle a habité parmi nous, pleine de grâce et de vérité; et nous avons contemplé sa gloire, une gloire comme la gloire du Fils unique venu du Père.",
+        "MAB": "Et la Parole a été faite chair, elle a habité parmi nous, et nous avons contemplé sa gloire, [qui a été] une gloire, comme la gloire du Fils unique du Père, pleine de grâce et de vérité.",
+        "OST": "Et la Parole a été faite chair, et a habité parmi nous, pleine de grâce et de vérité, et nous avons contemplé sa gloire, une gloire comme celle du Fils unique venu du Père.",
+        "S21": "Et la Parole s'est faite homme, elle a habité parmi nous, pleine de grâce et de vérité, et nous avons contemplé sa gloire, une gloire comme celle du Fils unique venu du Père."
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "Jean, son témoin, a proclamé publiquement:\r\n—Voici celui dont je vous ai parlé lorsque j’ai dit: Celui qui vient après moi m’a précédé car il existait déjà avant moi.",
+        "DBY": "-Jean rend témoignage de lui, et a crié, disant: C'était celui-ci duquel je disais: Celui qui vient après moi prend place avant moi; car il était avant moi;",
+        "KJV": "John bare witness of him, and cried, saying, This was he of whom I spake, He that cometh after me is preferred before me: for he was before me.",
+        "LSG": "Jean lui a rendu témoignage, et s'est écrié: C'est celui dont j'ai dit: Celui qui vient après moi m'a précédé, car il était avant moi.",
+        "MAB": "Jean a [donc] rendu témoignage de lui, et a crié, disant : c'est celui duquel je disais : celui qui vient après moi m'est préféré, car il était avant moi.",
+        "OST": "Jean lui rendit témoignage, lorsqu'il s'écria en disant: C'est ici celui dont je disais: Celui qui vient après moi est au-dessus de moi, parce qu'il était avant moi.",
+        "S21": "Jean lui a rendu témoignage et s'est écrié: «C'est celui à propos duquel j'ai dit: ‘Celui qui vient après moi m'a précédé, car il était avant moi.’»"
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "Nous avons tous été comblés de ses richesses. Il a déversé sur nous une grâce après l’autre.",
+        "DBY": "-car, de sa plénitude, nous tous nous avons reçu, et grâce sur grâce.",
+        "KJV": "And of his fulness have all we received, and grace for grace.",
+        "LSG": "Et nous avons tous reçu de sa plénitude, et grâce pour grâce;",
+        "MAB": "Et nous avons tous reçu de sa plénitude, et grâce pour grâce.",
+        "OST": "Et nous avons tous reçu de sa plénitude, et grâce sur grâce.",
+        "S21": "Nous avons tous reçu de sa plénitude, et grâce sur grâce."
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "En effet, si la Loi nous a été donnée par Moïse, la grâce et la vérité sont venues par Jésus-Christ.",
+        "DBY": "Car la loi a été donnée par Moïse; la grâce et la vérité vinrent par Jésus Christ.",
+        "KJV": "For the law was given by Moses, [but] grace and truth came by Jesus Christ.",
+        "LSG": "car la loi a été donnée par Moïse, la grâce et la vérité sont venues par Jésus-Christ.",
+        "MAB": "Car la Loi a été donnée par Moïse; la grâce et la vérité est venue par Jésus-Christ.",
+        "OST": "Car la loi a été donnée par Moïse, la grâce et la vérité sont venues par Jésus-Christ.",
+        "S21": "En effet, la loi a été donnée à travers Moïse, mais la grâce et la vérité sont venues à travers Jésus-Christ."
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "Personne n’a jamais vu Dieu: Dieu, le Fils unique qui vit dans l’intimité du Père, nous l’a révélé.",
+        "DBY": "Personne ne vit jamais Dieu; le Fils unique, qui est dans le sein du Père, lui, l'a fait connaître.",
+        "KJV": "No man hath seen God at any time; the only begotten Son, which is in the bosom of the Father, he hath declared [him].",
+        "LSG": "Personne n'a jamais vu Dieu; le Fils unique, qui est dans le sein du Père, est celui qui l'a fait connaître.",
+        "MAB": "Personne ne vit jamais Dieu; le Fils unique qui est au sein du Père, est celui qui nous l'a révélé.",
+        "OST": "Personne n'a jamais vu Dieu; le Fils unique, qui est dans le sein du Père, est celui qui l'a fait connaître.",
+        "S21": "Personne n'a jamais vu Dieu; Dieu le Fils unique, qui est dans l’intimité du Père, est celui qui l'a fait connaître."
+      }
+    },
+    {
+      "verse": 19,
+      "texts": {
+        "BDS": "Voici le témoignage de Jean, lorsque les autorités juives lui envoyèrent de Jérusalem une délégation de prêtres et de lévites pour lui demander: «Qui es-tu?»",
+        "DBY": "Et c'est ici le témoignage de Jean, lorsque les Juifs envoyèrent de Jérusalem des sacrificateurs et des Lévites, pour lui demander: Toi, qui es-tu?",
+        "KJV": "And this is the record of John, when the Jews sent priests and Levites from Jerusalem to ask him, Who art thou?",
+        "LSG": "Voici le témoignage de Jean, lorsque les Juifs envoyèrent de Jérusalem des sacrificateurs et des Lévites, pour lui demander: Toi, qui es-tu?",
+        "MAB": "Et c'est ici le témoignage de Jean, lorsque les Juifs envoyèrent de Jérusalem des Sacrificateurs et des Lévites pour l'interroger, [et lui dire] : toi qui es-tu?",
+        "OST": "C'est ici le témoignage de Jean, lorsque les Juifs envoyèrent de Jérusalem des sacrificateurs et des lévites pour lui demander: Qui es-tu?",
+        "S21": "Voici le témoignage de Jean lorsque les Juifs envoyèrent de Jérusalem des prêtres et des Lévites pour lui demander: «Toi, qui es-tu?»"
+      }
+    },
+    {
+      "verse": 20,
+      "texts": {
+        "BDS": "Il dit clairement la vérité, sans se dérober, et leur déclara ouvertement:",
+        "DBY": "Et il confessa, et ne nia pas, et confessa: Moi, je ne suis pas le Christ.",
+        "KJV": "And he confessed, and denied not; but confessed, I am not the Christ.",
+        "LSG": "Il déclara, et ne le nia point, il déclara qu'il n'était pas le Christ.",
+        "MAB": "Car il l'avoua, et ne le nia point, il l'avoua, dis-je, [en disant] : ce n'est pas moi qui suis le Christ.",
+        "OST": "Il le confessa, et ne le désavoua point; il le confessa en disant: Je ne suis point le Christ.",
+        "S21": "Il déclara et sans restriction affirma: «Moi, je ne suis pas le Messie.»"
+      }
+    },
+    {
+      "verse": 21,
+      "texts": {
+        "BDS": "—Je ne suis pas le Messie.\r\n—Mais alors, continuèrent-ils, qui es-tu donc? Es-tu Elie?\r\n—Je ne le suis pas.\r\n—Es-tu le Prophète?\r\n—Non.",
+        "DBY": "Et ils lui demandèrent: Quoi donc? Es-tu Élie? Et il dit: Je ne le suis pas. Es-tu le prophète? Et il répondit: Non.",
+        "KJV": "And they asked him, What then? Art thou Elias? And he saith, I am not. Art thou that prophet? And he answered, No.",
+        "LSG": "Et ils lui demandèrent: Quoi donc? es-tu Elie? Et il dit: Je ne le suis point. Es-tu le prophète? Et il répondit: Non.",
+        "MAB": "Sur quoi ils lui demandèrent : qui es-tu donc ? Es-tu Elie? Et il dit : je ne le suis point. Es-tu le Prophète? Et il répondit : non.",
+        "OST": "Qu'es-tu donc, lui demandèrent-ils? Es-tu Élie? Et il dit: Je ne le suis point. Es-tu le prophète? Et il répondit: Non.",
+        "S21": "Ils lui demandèrent: «Qui es-tu donc? Es-tu Elie?» Et il dit: «Je ne le suis pas.» «Es-tu le prophète?» Et il répondit: «Non.»"
+      }
+    },
+    {
+      "verse": 22,
+      "texts": {
+        "BDS": "—Mais enfin, insistèrent-ils, qui es-tu? Il faut bien que nous rapportions une réponse à ceux qui nous ont envoyés. Que dis-tu de toi-même?",
+        "DBY": "Ils lui dirent donc: Qui es-tu, afin que nous donnions réponse à ceux qui nous ont envoyés? Que dis-tu de toi-même?",
+        "KJV": "Then said they unto him, Who art thou? that we may give an answer to them that sent us. What sayest thou of thyself?",
+        "LSG": "Ils lui dirent alors: Qui es-tu? afin que nous donnions une réponse à ceux qui nous ont envoyés. Que dis-tu de toi-même?",
+        "MAB": "Ils lui dirent donc : qui es-tu, afin que nous donnions réponse à ceux qui nous ont envoyés; que dis-tu de toi-même?",
+        "OST": "Ils lui dirent donc: Qui es-tu? afin que nous rendions réponse à ceux qui nous ont envoyés. Que dis-tu de toi-même?",
+        "S21": "Ils lui dirent alors: «Qui es-tu? Nous devons donner une réponse à ceux qui nous ont envoyés! Que dis-tu de toi-même?»"
+      }
+    },
+    {
+      "verse": 23,
+      "texts": {
+        "BDS": "—Moi? répondit-il, je suis cette voix dont parle le prophète Esaïe, la voix de quelqu’un qui crie dans le désert: Préparez le chemin pour le Seigneur!",
+        "DBY": "Il dit: Moi, je suis la voix de celui qui crie dans le désert: Faites droit le chemin du Seigneur, comme dit Ésaïe le prophète.",
+        "KJV": "He said, I [am] the voice of one crying in the wilderness, Make straight the way of the Lord, as said the prophet Esaias.",
+        "LSG": "Moi, dit-il, je suis la voix de celui qui crie dans le désert: Aplanissez le chemin du Seigneur, comme a dit Esaïe, le prophète.",
+        "MAB": "Il dit : je suis la voix de celui qui crie dans le désert : aplanissez le chemin du Seigneur, comme a dit Esaïe le Prophète.",
+        "OST": "Il dit: Je suis la voix de celui qui crie dans le désert: Aplanissez le chemin du Seigneur, comme a dit le prophète Ésaïe.",
+        "S21": "«Moi, dit-il, je suis la voix de celui qui crie dans le désert: ‘Rendez le chemin du Seigneur droit’, comme l’a dit le prophète Esaïe.»"
+      }
+    },
+    {
+      "verse": 24,
+      "texts": {
+        "BDS": "Les envoyés étaient du parti des pharisiens.",
+        "DBY": "Et ils avaient été envoyés d'entre les pharisiens.",
+        "KJV": "And they which were sent were of the Pharisees.",
+        "LSG": "Ceux qui avaient été envoyés étaient des pharisiens.",
+        "MAB": "Or ceux qui avaient été envoyés [vers lui] étaient d'entre les Pharisiens.",
+        "OST": "Or, ceux qui avaient été envoyés, étaient des pharisiens.",
+        "S21": "Ceux qui avaient été envoyés étaient des pharisiens."
+      }
+    },
+    {
+      "verse": 25,
+      "texts": {
+        "BDS": "Ils continuèrent de l’interroger:\r\n—Si tu n’es pas le Messie, ni Elie, ni le Prophète, pourquoi donc baptises-tu?",
+        "DBY": "Et ils l'interrogèrent et lui dirent: Pourquoi donc baptises-tu, si tu n'es ni le Christ, ni Élie, ni le prophète?",
+        "KJV": "And they asked him, and said unto him, Why baptizest thou then, if thou be not that Christ, nor Elias, neither that prophet?",
+        "LSG": "Ils lui firent encore cette question: Pourquoi donc baptises-tu, si tu n'es pas le Christ, ni Elie, ni le prophète?",
+        "MAB": "Ils l'interrogèrent encore, et lui dirent : pourquoi donc baptises-tu si tu n'es point le Christ, ni Elie, ni le Prophète?",
+        "OST": "Ils lui demandèrent: Pourquoi donc baptises-tu, si tu n'es ni le Christ, ni Élie, ni le prophète?",
+        "S21": "Ils lui posèrent encore cette question: «Pourquoi donc baptises-tu, si tu n'es ni le Messie, ni Elie, ni le prophète?»"
+      }
+    },
+    {
+      "verse": 26,
+      "texts": {
+        "BDS": "—Moi, leur répondit Jean, je vous baptise dans l’eau, mais au milieu de vous se trouve quelqu’un que vous ne connaissez pas.",
+        "DBY": "Jean leur répondit, disant: Moi, je baptise d'eau; mais au milieu de vous il y en a un que vous ne connaissez pas,",
+        "KJV": "John answered them, saying, I baptize with water: but there standeth one among you, whom ye know not;",
+        "LSG": "Jean leur répondit: Moi, je baptise d'eau, mais au milieu de vous il y a quelqu'un que vous ne connaissez pas,",
+        "MAB": "Jean leur répondit, et leur dit : pour moi, je baptise d'eau; mais il y en a un au milieu de vous, que vous ne connaissez point;",
+        "OST": "Jean leur répondit et dit: Pour moi, je baptise d'eau; mais il y a quelqu'un parmi vous, que vous ne connaissez point.",
+        "S21": "Jean leur répondit: «Moi, je baptise d'eau, mais au milieu de vous se trouve quelqu'un que vous ne connaissez pas."
+      }
+    },
+    {
+      "verse": 27,
+      "texts": {
+        "BDS": "Il vient après moi, mais je ne suis pas digne de dénouer la lanière de ses sandales.",
+        "DBY": "celui qui vient après moi, duquel moi je ne suis pas digne de délier la courroie de la sandale.",
+        "KJV": "He it is, who coming after me is preferred before me, whose shoe's latchet I am not worthy to unloose.",
+        "LSG": "qui vient après moi; je ne suis pas digne de délier la courroie de ses souliers.",
+        "MAB": "C'est celui qui vient après moi, qui m'est préféré, et duquel je ne suis pas digne de délier la courroie du soulier.",
+        "OST": "C'est celui qui vient après moi et qui est au-dessus de moi, et je ne suis pas digne de délier la courroie de ses souliers.",
+        "S21": "Il vient après moi [mais il m’a précédé,] et je ne suis pas digne de détacher la courroie de ses sandales.»"
+      }
+    },
+    {
+      "verse": 28,
+      "texts": {
+        "BDS": "Cela se passait à Béthanie, à l’est du Jourdain, là où Jean baptisait.",
+        "DBY": "Ces choses arrivèrent à Béthanie, au delà du Jourdain, où Jean baptisait.",
+        "KJV": "These things were done in Bethabara beyond Jordan, where John was baptizing.",
+        "LSG": "Ces choses se passèrent à Béthanie, au delà du Jourdain, où Jean baptisait.",
+        "MAB": "Ces choses arrivèrent à Bethabara, au-delà du Jourdain, où Jean baptisait.",
+        "OST": "Ces choses se passèrent à Béthabara, au-delà du Jourdain, où Jean baptisait.",
+        "S21": "Cela se passait à Béthanie, de l'autre côté du Jourdain, où Jean baptisait."
+      }
+    },
+    {
+      "verse": 29,
+      "texts": {
+        "BDS": "Le lendemain, Jean aperçut Jésus qui se dirigeait vers lui; alors il s’écria:\r\n—Voici l’Agneau de Dieu, celui qui enlève le péché du monde.",
+        "DBY": "Le lendemain, il voit Jésus venant à lui, et il dit: Voilà l'agneau de Dieu qui ôte le péché du monde!",
+        "KJV": "The next day John seeth Jesus coming unto him, and saith, Behold the Lamb of God, which taketh away the sin of the world.",
+        "LSG": "Le lendemain, il vit Jésus venant à lui, et il dit: Voici l'Agneau de Dieu, qui ôte le péché du monde.",
+        "MAB": "Le lendemain Jean vit Jésus venir à lui, et il dit : voilà l'Agneau de Dieu, qui ôte le péché du monde.",
+        "OST": "Le lendemain, Jean vit Jésus qui venait à lui, et il dit: Voici l'agneau de Dieu, qui ôte le péché du monde.",
+        "S21": "Le lendemain, il vit Jésus s’approcher de lui et dit: «Voici l'Agneau de Dieu qui enlève le péché du monde."
+      }
+    },
+    {
+      "verse": 30,
+      "texts": {
+        "BDS": "C’est de lui que je vous ai parlé lorsque je disais: «Un homme vient après moi, il m’a précédé, car il existait avant moi.»",
+        "DBY": "C'est de celui-ci que moi, je disais: Après moi vient un homme qui prend place avant moi, car il était avant moi.",
+        "KJV": "This is he of whom I said, After me cometh a man which is preferred before me: for he was before me.",
+        "LSG": "C'est celui dont j'ai dit: Après moi vient un homme qui m'a précédé, car il était avant moi.",
+        "MAB": "C'est celui duquel je disais : après moi vient un personnage qui m'est préféré; car il était avant moi.",
+        "OST": "C'est celui dont je disais: Il vient après moi un homme qui est au-dessus de moi, car il était avant moi.",
+        "S21": "C'est celui à propos duquel j'ai dit: ‘Après moi vient un homme qui m'a précédé, car il existait avant moi.’"
+      }
+    },
+    {
+      "verse": 31,
+      "texts": {
+        "BDS": "Moi non plus, je ne savais pas que c’était lui, mais si je suis venu baptiser dans l’eau, c’est pour le faire connaître au peuple d’Israël.",
+        "DBY": "Et pour moi, je ne le connaissais pas; mais afin qu'il fût manifesté à Israël, à cause de cela, je suis venu baptiser d'eau.",
+        "KJV": "And I knew him not: but that he should be made manifest to Israel, therefore am I come baptizing with water.",
+        "LSG": "Je ne le connaissais pas, mais c'est afin qu'il fût manifesté à Israël que je suis venu baptiser d'eau.",
+        "MAB": "Et pour moi, je ne le connaissais point; mais afin qu'il soit manifesté à Israël, je suis venu à cause de cela baptiser d'eau.",
+        "OST": "Et pour moi, je ne le connaissais pas; mais je suis venu baptiser d'eau, afin qu'il soit manifesté à Israël.",
+        "S21": "Pour ma part, je ne le connaissais pas, mais c'est afin de le faire connaître à Israël que je suis venu baptiser d'eau.»"
+      }
+    },
+    {
+      "verse": 32,
+      "texts": {
+        "BDS": "Jean-Baptiste rendit ce témoignage:\r\n—J’ai vu l’Esprit descendre du ciel comme une colombe et se poser sur lui.",
+        "DBY": "Et Jean rendit témoignage, disant: J'ai vu l'Esprit descendant du ciel comme une colombe, et il demeura sur lui.",
+        "KJV": "And John bare record, saying, I saw the Spirit descending from heaven like a dove, and it abode upon him.",
+        "LSG": "Jean rendit ce témoignage: J'ai vu l'Esprit descendre du ciel comme une colombe et s'arrêter sur lui.",
+        "MAB": "Jean rendit aussi témoignage, en disant : j'ai vu l'Esprit descendre du ciel comme une colombe, et s'arrêter sur lui.",
+        "OST": "Jean rendit encore ce témoignage, disant: J'ai vu l'Esprit descendre du ciel comme une colombe, et il s'est arrêté sur lui.",
+        "S21": "Jean rendit aussi ce témoignage: «J'ai vu l'Esprit descendre du ciel comme une colombe et s'arrêter sur lui."
+      }
+    },
+    {
+      "verse": 33,
+      "texts": {
+        "BDS": "Je ne savais pas que c’était lui, mais Dieu, qui m’a envoyé baptiser dans l’eau, m’avait dit: Tu verras l’Esprit descendre et se poser sur un homme; c’est lui qui baptisera dans le Saint-Esprit.",
+        "DBY": "Et pour moi, je ne le connaissais pas; mais celui qui m'a envoyé baptiser d'eau, celui-là me dit: Celui sur qui tu verras l'Esprit descendre, et demeurer sur lui, c'est celui-là qui baptise de l'Esprit Saint.",
+        "KJV": "And I knew him not: but he that sent me to baptize with water, the same said unto me, Upon whom thou shalt see the Spirit descending, and remaining on him, the same is he which baptizeth with the Holy Ghost.",
+        "LSG": "Je ne le connaissais pas, mais celui qui m'a envoyé baptiser d'eau, celui-là m'a dit: Celui sur qui tu verras l'Esprit descendre et s'arrêter, c'est celui qui baptise du Saint-Esprit.",
+        "MAB": "Et pour moi, je ne le connaissais point; mais celui qui m'a envoyé baptiser d'eau, m'avait dit : celui sur qui tu verras l'Esprit descendre, et se fixer sur lui, c'est celui qui baptise du Saint-Esprit.",
+        "OST": "Pour moi, je ne le connaissais pas; mais celui qui m'a envoyé baptiser d'eau, m'a dit: Celui sur qui tu verras l'Esprit descendre et s'arrêter, c'est celui qui baptise du Saint-Esprit.",
+        "S21": "Je ne le connaissais pas, mais celui qui m'a envoyé baptiser d'eau m'a dit: ‘Celui sur qui tu verras l'Esprit descendre et s'arrêter, c'est lui qui baptise du Saint-Esprit.’"
+      }
+    },
+    {
+      "verse": 34,
+      "texts": {
+        "BDS": "Or, cela, je l’ai vu de mes yeux, et je l’atteste solennellement: cet homme est le Fils de Dieu.",
+        "DBY": "Et moi, j'ai vu et j'ai rendu témoignage que celui-ci est le Fils de Dieu.",
+        "KJV": "And I saw, and bare record that this is the Son of God.",
+        "LSG": "Et j'ai vu, et j'ai rendu témoignage qu'il est le Fils de Dieu.",
+        "MAB": "Et je l'ai vu, et j'ai rendu témoignage, que c'est lui qui est le Fils de Dieu.",
+        "OST": "Et j'ai vu, et j'ai rendu témoignage que c'est lui qui est le Fils de Dieu.",
+        "S21": "Et moi, j'ai vu et j'atteste qu'il est le Fils de Dieu.»"
+      }
+    },
+    {
+      "verse": 35,
+      "texts": {
+        "BDS": "Le lendemain, Jean était de nouveau là, avec deux de ses disciples.",
+        "DBY": "Le lendemain encore, Jean se tint là, et deux de ses disciples;",
+        "KJV": "Again the next day after John stood, and two of his disciples;",
+        "LSG": "Le lendemain, Jean était encore là, avec deux de ses disciples;",
+        "MAB": "Le lendemain encore Jean s'arrêta, et [avec lui] deux de ses disciples;",
+        "OST": "Le lendemain, Jean était encore là avec deux de ses disciples,",
+        "S21": "Le lendemain, Jean était encore là avec deux de ses disciples."
+      }
+    },
+    {
+      "verse": 36,
+      "texts": {
+        "BDS": "Il vit Jésus qui passait, et il dit:\r\n—Voici l’Agneau de Dieu!",
+        "DBY": "et regardant Jésus qui marchait, il dit: Voilà l'agneau de Dieu!",
+        "KJV": "And looking upon Jesus as he walked, he saith, Behold the Lamb of God!",
+        "LSG": "et, ayant regardé Jésus qui passait, il dit: Voilà l'Agneau de Dieu.",
+        "MAB": "Et regardant Jésus qui marchait, il dit : voilà l'Agneau de Dieu.",
+        "OST": "Et voyant Jésus qui marchait, il dit: Voilà l'agneau de Dieu.",
+        "S21": "Il vit Jésus passer et dit: «Voici l'Agneau de Dieu.»"
+      }
+    },
+    {
+      "verse": 37,
+      "texts": {
+        "BDS": "Les deux disciples entendirent les paroles de Jean et se mirent à suivre Jésus.",
+        "DBY": "Et les deux disciples l'entendirent parler, et ils suivirent Jésus.",
+        "KJV": "And the two disciples heard him speak, and they followed Jesus.",
+        "LSG": "Les deux disciples l'entendirent prononcer ces paroles, et ils suivirent Jésus.",
+        "MAB": "Et les deux disciples l'entendirent tenant ce discours, et ils suivirent Jésus.",
+        "OST": "Et les deux disciples l'ayant entendu parler ainsi, suivirent Jésus.",
+        "S21": "Les deux disciples l'entendirent prononcer ces paroles et suivirent Jésus."
+      }
+    },
+    {
+      "verse": 38,
+      "texts": {
+        "BDS": "Celui-ci se retourna, vit qu’ils le suivaient et leur demanda:\r\n—Que désirez-vous?\r\n—Rabbi — c’est-à-dire Maître —, lui dirent-ils, où habites-tu?",
+        "DBY": "Et Jésus se retournant, et voyant qu'ils le suivaient, leur dit: Que cherchez-vous? Et il lui dirent: Rabbi (ce qui, interprété, signifie maître), où demeures-tu?",
+        "KJV": "Then Jesus turned, and saw them following, and saith unto them, ‹What seek ye?› They said unto him, Rabbi, (which is to say, being interpreted, Master,) where dwellest thou?",
+        "LSG": "Jésus se retourna, et voyant qu'ils le suivaient, il leur dit: Que cherchez-vous? Ils lui répondirent: Rabbi ce qui signifie Maître, où demeures-tu?",
+        "MAB": "Et Jésus se retournant, et voyant qu'ils le suivaient, il leur dit : que cherchez-vous? Ils lui répondirent : Rabbi, c'est-à-dire, Maître, où demeures-tu?",
+        "OST": "Jésus s'étant retourné et voyant qu'ils le suivaient, leur dit: Que cherchez-vous? Ils lui répondirent: Rabbi (c'est-à-dire, maître), où demeures-tu?",
+        "S21": "Jésus se retourna et, voyant qu'ils le suivaient, il leur dit: «Que cherchez-vous?» Ils lui répondirent: «Rabbi – ce qui signifie maître –, où habites-tu?»"
+      }
+    },
+    {
+      "verse": 39,
+      "texts": {
+        "BDS": "—Venez, leur répondit-il, et vous le verrez. Ils l’accompagnèrent donc et virent où il habitait. Il était environ quatre heures de l’après-midi. Ils passèrent le reste de la journée avec lui.",
+        "DBY": "Il leur dit: Venez et voyez. Ils allèrent donc, et virent où il demeurait; et ils demeurèrent auprès de lui ce jour-là: c'était environ la dixième heure.",
+        "KJV": "He saith unto them, ‹Come and see.› They came and saw where he dwelt, and abode with him that day: for it was about the tenth hour.",
+        "LSG": "Venez, leur dit-il, et voyez. Ils allèrent, et ils virent où il demeurait; et ils restèrent auprès de lui ce jour-là. C'était environ la dixième heure.",
+        "MAB": "Il leur dit : venez, et le voyez. Ils y allèrent, et ils virent où il demeurait; et ils demeurèrent avec lui ce jour-là; car il était environ dix heures.",
+        "OST": "Il leur dit: Venez et voyez. Ils allèrent et virent où il logeait, et ils demeurèrent avec lui ce jour-là, car il était environ la dixième heure.",
+        "S21": "«Venez, leur dit-il, et voyez.» Ils y allèrent [donc], virent où il habitait et restèrent avec lui ce jour-là. C'était environ quatre heures de l'après-midi."
+      }
+    },
+    {
+      "verse": 40,
+      "texts": {
+        "BDS": "André, le frère de Simon Pierre, était l’un de ces deux hommes qui, sur la déclaration de Jean, s’étaient mis à suivre Jésus.",
+        "DBY": "André, le frère de Simon Pierre, était l'un des deux qui avaient ouï parler de lui à Jean, et qui l'avaient suivi.",
+        "KJV": "One of the two which heard John [speak], and followed him, was Andrew, Simon Peter's brother.",
+        "LSG": "André, frère de Simon Pierre, était l'un des deux qui avaient entendu les paroles de Jean, et qui avaient suivi Jésus.",
+        "MAB": "Or André, frère de Simon Pierre, était l'un des deux qui [en] avaient ouï parler à Jean, et qui l'avaient suivi.",
+        "OST": "André, frère de Simon Pierre, était l'un des deux qui avaient entendu ce que Jean disait, et qui avaient suivi Jésus.",
+        "S21": "André, le frère de Simon Pierre, était l'un des deux qui avaient entendu les paroles de Jean et qui avaient suivi Jésus."
+      }
+    },
+    {
+      "verse": 41,
+      "texts": {
+        "BDS": "Il alla tout d’abord voir son frère Simon et lui dit:\r\n—Nous avons trouvé le Messie — ce qui veut dire le Christ.",
+        "DBY": "Celui-ci trouve d'abord son propre frère Simon, et lui dit: Nous avons trouvé le Messie (ce qui, interprété, est Christ).",
+        "KJV": "He first findeth his own brother Simon, and saith unto him, We have found the Messias, which is, being interpreted, the Christ.",
+        "LSG": "Ce fut lui qui rencontra le premier son frère Simon, et il lui dit: Nous avons trouvé le Messie ce qui signifie Christ.",
+        "MAB": "Celui-ci trouva le premier Simon son frère, et il lui dit : nous avons trouvé le Messie; c'est-à-dire, le Christ.",
+        "OST": "André trouva le premier Simon son frère, et il lui dit: Nous avons trouvé le Messie (c'est-à-dire, le Christ, l'Oint).",
+        "S21": "Il rencontra d'abord son frère Simon et lui dit: «Nous avons trouvé le Messie», ce qui correspond à Christ."
+      }
+    },
+    {
+      "verse": 42,
+      "texts": {
+        "BDS": "Et il le conduisit auprès de Jésus. Jésus le regarda attentivement et lui dit:\r\n—Tu es Simon, fils de Jonas. Eh bien, on t’appellera Céphas — ce qui veut dire Pierre.",
+        "DBY": "Et il le mena à Jésus. Jésus, l'ayant regardé, dit: Tu es Simon, le fils de Jonas; tu seras appelé Céphas (qui est interprété Pierre).",
+        "KJV": "And he brought him to Jesus. And when Jesus beheld him, he said, ‹Thou art Simon the son of Jona: thou shalt be called Cephas,› which is by interpretation, A stone.",
+        "LSG": "Et il le conduisit vers Jésus. Jésus, l'ayant regardé, dit: Tu es Simon, fils de Jonas; tu seras appelé Céphas ce qui signifie Pierre.",
+        "MAB": "Et il le mena vers Jésus, et Jésus ayant jeté la vue sur lui, dit : tu es Simon, fils de Jonas, tu seras appelé Céphas; c'est-à-dire, Pierre.",
+        "OST": "Et il l'amena à Jésus. Jésus, l'ayant regardé, lui dit: Tu es Simon, fils de Jona; tu seras appelé Céphas (c'est-à-dire, Pierre).",
+        "S21": "Il le conduisit vers Jésus. Jésus le regarda et dit: «Tu es Simon, fils de Jonas, tu seras appelé Céphas», ce qui signifie Pierre."
+      }
+    },
+    {
+      "verse": 43,
+      "texts": {
+        "BDS": "Le lendemain, Jésus décida de retourner en Galilée. Il rencontra Philippe et lui dit:\r\n—Suis-moi!",
+        "DBY": "Le lendemain, il voulut s'en aller en Galilée. Et Jésus trouve Philippe, et lui dit: Suis-moi.",
+        "KJV": "The day following Jesus would go forth into Galilee, and findeth Philip, and saith unto him, ‹Follow me.›",
+        "LSG": "Le lendemain, Jésus voulut se rendre en Galilée, et il rencontra Philippe. Il lui dit: Suis-moi.",
+        "MAB": "Le lendemain Jésus voulut aller en Galilée, et il trouva Philippe, auquel il dit : suis-moi.",
+        "OST": "Le lendemain, Jésus voulut s'en aller en Galilée, et il trouva Philippe, et il lui dit: Suis-moi.",
+        "S21": "Le lendemain, Jésus décida de se rendre en Galilée. Il rencontra Philippe et lui dit: «Suis-moi.»"
+      }
+    },
+    {
+      "verse": 44,
+      "texts": {
+        "BDS": "Philippe était originaire de Bethsaïda, la ville d’André et de Pierre.",
+        "DBY": "Or Philippe était de Bethsaïda, de la ville d'André et de Pierre.",
+        "KJV": "Now Philip was of Bethsaida, the city of Andrew and Peter.",
+        "LSG": "Philippe était de Bethsaïda, de la ville d'André et de Pierre.",
+        "MAB": "Or Philippe était de Bethsaïda, la ville d'André et de Pierre.",
+        "OST": "Or, Philippe était de Bethsaïda, la ville d'André et de Pierre.",
+        "S21": "Philippe était de Bethsaïda, la ville d'André et de Pierre."
+      }
+    },
+    {
+      "verse": 45,
+      "texts": {
+        "BDS": "Philippe, à son tour, alla voir Nathanaël et lui dit:\r\n—Nous avons trouvé celui dont Moïse a parlé dans la Loi et que les prophètes ont annoncé: c’est Jésus, le fils de Joseph, de la ville de Nazareth.",
+        "DBY": "Philippe trouve Nathanaël et lui dit: Nous avons trouvé celui duquel Moïse a écrit dans la loi et duquel les prophètes ont écrit, Jésus, le fils de Joseph, qui est de Nazareth.",
+        "KJV": "Philip findeth Nathanael, and saith unto him, We have found him, of whom Moses in the law, and the prophets, did write, Jesus of Nazareth, the son of Joseph.",
+        "LSG": "Philippe rencontra Nathanaël, et lui dit: Nous avons trouvé celui de qui Moïse a écrit dans la loi et dont les prophètes ont parlé, Jésus de Nazareth, fils de Joseph.",
+        "MAB": "Philippe trouva Nathanaël, et lui dit : nous avons trouvé Jésus, qui est de Nazareth, fils de Joseph, celui duquel Moïse a écrit dans la Loi, et [duquel] aussi les Prophètes [ont écrit].",
+        "OST": "Philippe trouva Nathanaël et lui dit: Celui de qui Moïse a écrit dans la loi, et que les prophètes ont annoncé, nous l'avons trouvé; c'est Jésus, le fils de Joseph, de Nazareth.",
+        "S21": "Philippe rencontra Nathanaël et lui dit: «Nous avons trouvé celui que Moïse a décrit dans la loi et dont les prophètes ont parlé: Jésus de Nazareth, fils de Joseph.»"
+      }
+    },
+    {
+      "verse": 46,
+      "texts": {
+        "BDS": "—De Nazareth? répondit Nathanaël. Que peut-il venir de bon de Nazareth?\r\n—Viens et vois toi-même! répondit Philippe.",
+        "DBY": "Et Nathanaël lui dit: Peut-il venir quelque chose de bon de Nazareth? Philippe lui dit: Viens et vois.",
+        "KJV": "And Nathanael said unto him, Can there any good thing come out of Nazareth? Philip saith unto him, Come and see.",
+        "LSG": "Nathanaël lui dit: Peut-il venir de Nazareth quelque chose de bon? Philippe lui répondit: Viens, et vois.",
+        "MAB": "Et Nathanaël lui dit : peut-il venir quelque chose de bon de Nazareth? Philippe lui dit : viens, et vois.",
+        "OST": "Nathanaël lui dit: Peut-il venir quelque chose de bon de Nazareth?",
+        "S21": "Nathanaël lui dit: «Peut-il sortir quelque chose de bon de Nazareth?» Philippe lui répondit: «Viens et vois.»"
+      }
+    },
+    {
+      "verse": 47,
+      "texts": {
+        "BDS": "Jésus vit Nathanaël s’avancer vers lui. Alors il dit:\r\n—Voilà un véritable Israélite, un homme d’une parfaite droiture.",
+        "DBY": "Jésus vit Nathanaël venir vers lui, et il dit de lui: Voici un vrai Israélite, en qui il n'y a pas de fraude.",
+        "KJV": "Jesus saw Nathanael coming to him, and saith of him, ‹Behold an Israelite indeed, in whom is no guile!›",
+        "LSG": "Jésus, voyant venir à lui Nathanaël, dit de lui: Voici vraiment un Israélite, dans lequel il n'y a point de fraude.",
+        "MAB": "Jésus aperçut Nathanaël venir vers lui, et il dit de lui : voici vraiment un Israëlite en qui il n'y a point de fraude.",
+        "OST": "Philippe lui dit: Viens et vois. Jésus vit venir à lui Nathanaël, et il dit de lui: Voici un véritable Israélite, en qui il n'y a point de fraude.",
+        "S21": "Jésus vit Nathanaël s'approcher de lui et dit de lui: «Voici vraiment un Israélite en qui il n'y a pas de ruse.»"
+      }
+    },
+    {
+      "verse": 48,
+      "texts": {
+        "BDS": "—D’où me connais-tu? lui demanda Nathanaël.\r\n—Avant même que Philippe t’appelle, lui répondit Jésus, lorsque tu étais sous le figuier, je t’ai vu.",
+        "DBY": "Nathanaël lui dit: D'où me connais-tu? Jésus répondit et lui dit: Avant que Philippe t'eût appelé, quand tu étais sous le figuier, je te voyais.",
+        "KJV": "Nathanael saith unto him, Whence knowest thou me? Jesus answered and said unto him, ‹Before that Philip called thee, when thou wast under the fig tree, I saw thee.›",
+        "LSG": "D'où me connais-tu? lui dit Nathanaël. Jésus lui répondit: Avant que Philippe t'appelât, quand tu étais sous le figuier, je t'ai vu.",
+        "MAB": "Nathanaël lui dit : d'où me connais-tu? Jésus répondit, et lui dit : avant que Philippe t'eût appelé quand tu étais sous le figuier, je te voyais.",
+        "OST": "Nathanaël lui dit: D'où me connais-tu? Jésus lui répondit: Avant que Philippe t'appelât, quand tu étais sous le figuier, je te voyais.",
+        "S21": "«D'où me connais-tu?» lui dit Nathanaël. Jésus lui répondit: «Avant que Philippe t'appelle, quand tu étais sous le figuier, je t'ai vu.»"
+      }
+    },
+    {
+      "verse": 49,
+      "texts": {
+        "BDS": "—Maître, s’écria Nathanaël, tu es le Fils de Dieu, tu es le Roi d’Israël!",
+        "DBY": "Nathanaël répondit et lui dit: Rabbi, tu es le Fils de Dieu; tu es le roi d'Israël.",
+        "KJV": "Nathanael answered and saith unto him, Rabbi, thou art the Son of God; thou art the King of Israel.",
+        "LSG": "Nathanaël répondit et lui dit: Rabbi, tu es le Fils de Dieu, tu es le roi d'Israël.",
+        "MAB": "Nathanaël répondit, et lui dit : Maître, tu es le Fils de Dieu; tu es le Roi d'Israël.",
+        "OST": "Nathanaël lui répondit: Maître, tu es le Fils de Dieu, tu es le roi d'Israël.",
+        "S21": "Nathanaël répondit: «Maître, tu es le Fils de Dieu, tu es le roi d'Israël.»"
+      }
+    },
+    {
+      "verse": 50,
+      "texts": {
+        "BDS": "—Tu crois, lui répondit Jésus, parce que je t’ai dit que je t’ai vu sous le figuier? Tu verras de bien plus grandes choses encore.",
+        "DBY": "Jésus répondit et lui dit: Parce que je t'ai dit que je te voyais sous le figuier, tu crois? tu verras de plus grandes choses que celles-ci.",
+        "KJV": "Jesus answered and said unto him, ‹Because I said unto thee, I saw thee under the fig tree, believest thou? thou shalt see greater things than these.›",
+        "LSG": "Jésus lui répondit: Parce que je t'ai dit que je t'ai vu sous le figuier, tu crois; tu verras de plus grandes choses que celles-ci.",
+        "MAB": "Jésus répondit, et lui dit : parce que je t'ai dit que je te voyais sous le figuier, tu crois; tu verras bien de plus grandes choses que ceci.",
+        "OST": "Jésus lui répondit: Parce que je t'ai dit que je t'avais vu sous le figuier, tu crois; tu verras de plus grandes choses que celles-ci.",
+        "S21": "Jésus lui répondit: «Parce que je t'ai dit que je t'ai vu sous le figuier, tu crois? Tu verras de plus grandes choses que celles-ci.»"
+      }
+    },
+    {
+      "verse": 51,
+      "texts": {
+        "BDS": "Et il ajouta:\r\n—Oui, je vous l’assure, vous verrez le ciel ouvert et les anges de Dieu monter et descendre entre ciel et terre par l’intermédiaire du Fils de l’homme.",
+        "DBY": "Et il lui dit: En vérité, en vérité, je vous dis: Désormais vous verrez le ciel ouvert, et les anges de Dieu montant et descendant sur le fils de l'homme.",
+        "KJV": "And he saith unto him, ‹Verily, verily, I say unto you, Hereafter ye shall see heaven open, and the angels of God ascending and descending upon the Son of man.›",
+        "LSG": "Et il lui dit: En vérité, en vérité, vous verrez désormais le ciel ouvert et les anges de Dieu monter et descendre sur le Fils de l'homme.",
+        "MAB": "Il lui dit aussi : en vérité, en vérité je vous dis : désormais vous verrez le ciel ouvert, et les Anges de Dieu montant et descendant sur le Fils de l'homme.",
+        "OST": "Il lui dit aussi: En vérité, en vérité, je vous dis: Désormais vous verrez le ciel ouvert, et les anges de Dieu monter et descendre sur le Fils de l'homme.",
+        "S21": "Il ajouta: «En vérité, en vérité, je vous le dis, vous verrez [désormais] le ciel ouvert et les anges de Dieu monter et descendre au-dessus du Fils de l'homme.»"
+      }
+    }
+  ]
+}

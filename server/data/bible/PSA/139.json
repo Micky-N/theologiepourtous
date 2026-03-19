@@ -1,0 +1,294 @@
+{
+  "bookCode": "PSA",
+  "chapter": 139,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "Au chef de chœur. Psaume de David.\r\nEternel, tu me sondes et tu me connais.",
+        "DBY": "Éternel! tu m'as sondé, et tu m'as connu.",
+        "KJV": "To the chief Musician, A Psalm of David. O LORD, thou hast searched me, and known [me].",
+        "LSG": "Au chef des chantres. De David. Psaume. Eternel! tu me sondes et tu me connais,",
+        "MAB": "Psaume de David, [donné] au maître chantre. Eternel, tu m'as sondé, et tu m'as connu.",
+        "OST": "Au maître-chantre. Psaume de David. Éternel, tu m'as sondé, et tu m'as connu.",
+        "S21": "Au chef de chœur. Psaume de David.\r\nEternel, tu m’examines et tu me connais,"
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "Quand je suis assis et quand je me lève, tu le sais.\r\nDe loin, tu discernes tout ce que je pense.",
+        "DBY": "Tu connais quand je m'assieds et quand je me lève, tu discernes de loin ma pensée;",
+        "KJV": "Thou knowest my downsitting and mine uprising, thou understandest my thought afar off.",
+        "LSG": "Tu sais quand je m'assieds et quand je me lève, Tu pénètres de loin ma pensée;",
+        "MAB": "Tu connais quand je m'assieds et quand je me lève; tu aperçois de loin ma pensée.",
+        "OST": "Tu sais quand je m'assieds et quand je me lève; tu découvres de loin ma pensée.",
+        "S21": "tu sais quand je m’assieds et quand je me lève, tu discernes de loin ma pensée."
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "Tu sais quand je marche et quand je me couche,\r\net tous mes chemins te sont familiers.",
+        "DBY": "Tu connais mon sentier et mon coucher, et tu es au fait de toutes mes voies.",
+        "KJV": "Thou compassest my path and my lying down, and art acquainted [with] all my ways.",
+        "LSG": "Tu sais quand je marche et quand je me couche, Et tu pénètres toutes mes voies.",
+        "MAB": "Tu m'enceins, soit que je marche, soit que je m'arrête; et tu as accoutumé toutes mes voies.",
+        "OST": "Tu vois quand je marche et quand je me couche; tu connais parfaitement toutes mes voies.",
+        "S21": "Tu sais quand je marche et quand je me couche, et toutes mes voies te sont familières."
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "Bien avant qu’un mot vienne sur mes lèvres,\r\nEternel, tu sais déjà tout ce que je vais dire.",
+        "DBY": "Car la parole n'est pas encore sur ma langue, que voilà, ô Éternel! tu la connais tout entière.",
+        "KJV": "For [there is] not a word in my tongue, [but], lo, O LORD, thou knowest it altogether.",
+        "LSG": "Car la parole n'est pas sur ma langue, Que déjà, ô Eternel! tu la connais entièrement.",
+        "MAB": "Même avant que la parole soit sur ma langue, voici, ô Eternel! tu connais déjà le tout.",
+        "OST": "Même avant que la parole soit sur ma langue, voici, ô Éternel, tu la connais tout entière.",
+        "S21": "La parole n’est pas encore sur ma langue que déjà, Eternel, tu la connais entièrement."
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "Tu es devant moi et derrière moi:\r\ntu m’entoures; ta main est sur moi.",
+        "DBY": "Tu me tiens serré par derrière et par devant, et tu as mis ta main sur moi,…",
+        "KJV": "Thou hast beset me behind and before, and laid thine hand upon me.",
+        "LSG": "Tu m'entoures par derrière et par devant, Et tu mets ta main sur moi.",
+        "MAB": "Tu me tiens serré par derrière et par devant, et tu as mis sur moi ta main.",
+        "OST": "Tu me tiens serré par-derrière et par-devant, et tu as mis ta main sur moi.",
+        "S21": "Tu m’entoures par-derrière et par-devant, et tu mets ta main sur moi."
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "Merveilleux savoir hors de ma portée,\r\nsavoir trop sublime pour que je l’atteigne.",
+        "DBY": "Connaissance trop merveilleuse pour moi, si élevée que je n'y puis atteindre!",
+        "KJV": "[Such] knowledge [is] too wonderful for me; it is high, I cannot [attain] unto it.",
+        "LSG": "Une science aussi merveilleuse est au-dessus de ma portée, Elle est trop élevée pour que je puisse la saisir.",
+        "MAB": "Ta science est trop merveilleuse pour moi, et elle est si haut élevée, que je n'y saurais atteindre.",
+        "OST": "Science trop merveilleuse pour moi, si élevée que je n'y puis atteindre!",
+        "S21": "Une telle connaissance est trop extraordinaire pour moi, elle est trop élevée pour que je puisse l’atteindre."
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "Où pourrais-je aller loin de ton Esprit?\r\nOù pourrais-je fuir hors de ta présence?",
+        "DBY": "Où irai-je loin de ton Esprit? et où fuirai-je loin de ta face?",
+        "KJV": "Whither shall I go from thy spirit? or whither shall I flee from thy presence?",
+        "LSG": "Où irais-je loin de ton esprit, Et où fuirais-je loin de ta face?",
+        "MAB": "Où irai-je loin de ton Esprit; et où fuirai-je loin de ta face?",
+        "OST": "Où irais-je loin de ton Esprit, et où fuirais-je loin de ta face?",
+        "S21": "Où pourrais-je aller loin de ton Esprit, où pourrais-je fuir loin de ta présence?"
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "Si je monte au ciel tu es là,\r\net si je descends au séjour des morts, t’y voilà!",
+        "DBY": "Si je monte aux cieux, tu y es; si je me couche au shéol, t'y voilà.",
+        "KJV": "If I ascend up into heaven, thou [art] there: if I make my bed in hell, behold, thou [art there].",
+        "LSG": "Si je monte aux cieux, tu y es; Si je me couche au séjour des morts, t'y voilà.",
+        "MAB": "Si je monte aux cieux, tu y es; si je me couche au sépulcre, t'y voilà.",
+        "OST": "Si je monte aux cieux, tu y es; si je me couche au Sépulcre, t'y voilà.",
+        "S21": "Si je monte au ciel, tu es là; si je me couche au séjour des morts, te voilà."
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "Et si j’empruntais les ailes de l’aube\r\npour me réfugier aux confins des mers,",
+        "DBY": "Si je prends les ailes de l'aube du jour, si je fais ma demeure au bout de la mer,",
+        "KJV": "[If] I take the wings of the morning, [and] dwell in the uttermost parts of the sea;",
+        "LSG": "Si je prends les ailes de l'aurore, Et que j'aille habiter à l'extrémité de la mer,",
+        "MAB": "Si je prends les ailes de l'aube du jour, [et] que je me loge au bout de la mer;",
+        "OST": "Si je prends les ailes de l'aube du jour, et que j'aille habiter au bout de la mer,",
+        "S21": "Si je prends les ailes de l’aurore pour habiter à l’extrémité de la mer,"
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "là aussi ta main me dirigerait,\r\nton bras droit me tiendrait.",
+        "DBY": "Là aussi ta main me conduira et ta droite me saisira.",
+        "KJV": "Even there shall thy hand lead me, and thy right hand shall hold me.",
+        "LSG": "Là aussi ta main me conduira, Et ta droite me saisira.",
+        "MAB": "Là même ta main me conduira, et ta droite m'y saisira.",
+        "OST": "Là même, ta main me conduira, et ta droite me saisira.",
+        "S21": "là aussi ta main me conduira, ta main droite m’empoignera."
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "Et si je me dis: «Du moins les ténèbres m’envelopperont»,\r\nalors la nuit même se change en lumière tout autour de moi.",
+        "DBY": "Et si je dis: Au moins les ténèbres m'envelopperont, -alors la nuit est lumière autour de moi.",
+        "KJV": "If I say, Surely the darkness shall cover me; even the night shall be light about me.",
+        "LSG": "Si je dis: Au moins les ténèbres me couvriront, La nuit devient lumière autour de moi;",
+        "MAB": "Si je dis : au moins les ténèbres me couvriront; la nuit même sera une lumière tout autour de moi.",
+        "OST": "Si je dis: Au moins les ténèbres me couvriront; la nuit devient lumière autour de moi;",
+        "S21": "Si je me dis: «Au moins les ténèbres me couvriront», la nuit devient lumière autour de moi!"
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "Pour toi, les ténèbres deviennent lumière\r\net la nuit est claire comme le plein jour:\r\nlumière ou ténèbres pour toi sont pareilles.",
+        "DBY": "Les ténèbres même ne sont pas obscures pour me cacher à toi, et la nuit resplendit comme le jour, l'obscurité est comme la lumière.",
+        "KJV": "Yea, the darkness hideth not from thee; but the night shineth as the day: the darkness and the light [are] both alike [to thee].",
+        "LSG": "Même les ténèbres ne sont pas obscures pour toi, La nuit brille comme le jour, Et les ténèbres comme la lumière.",
+        "MAB": "Même les ténèbres ne me cacheront point à toi, et la nuit resplendira comme le jour, [et] les ténèbres comme la lumière.",
+        "OST": "Les ténèbres mêmes ne sont pas obscures pour toi, et la nuit resplendit comme le jour; les ténèbres sont comme la lumière.",
+        "S21": "Même les ténèbres ne sont pas obscures pour toi: la nuit brille comme le jour, et les ténèbres comme la lumière."
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "Tu m’as fait ce que je suis,\r\net tu m’as tissé dans le ventre de ma mère.",
+        "DBY": "Car tu as possédé mes reins, tu m'as tissé dans le ventre de ma mère.",
+        "KJV": "For thou hast possessed my reins: thou hast covered me in my mother's womb.",
+        "LSG": "C'est toi qui as formé mes reins, Qui m'as tissé dans le sein de ma mère.",
+        "MAB": "Or tu as possédé mes reins [dès-lors que] tu m'as enveloppé au ventre de ma mère.",
+        "OST": "Car c'est toi qui as formé mes reins, qui m'as façonné dans le sein de ma mère.",
+        "S21": "C’est toi qui as formé mes reins, qui m’as tissé dans le ventre de ma mère."
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "Merci d’avoir fait de moi une créature aussi merveilleuse:\r\ntu fais des merveilles,\r\net je le reconnais bien.",
+        "DBY": "Je te célébrerai de ce que j'ai été fait d'une étrange et admirable manière. Tes œuvres sont merveilleuses, et mon âme le sait très-bien.",
+        "KJV": "I will praise thee; for I am fearfully [and] wonderfully made: marvellous [are] thy works; and [that] my soul knoweth right well.",
+        "LSG": "Je te loue de ce que je suis une créature si merveilleuse. Tes oeuvres sont admirables, Et mon âme le reconnaît bien.",
+        "MAB": "Je te célébrerai de ce que j'ai été fait d'une si étrange et si admirable manière; tes œuvres sont merveilleuses, et mon âme le connaît très-bien.",
+        "OST": "Je te loue de ce que j'ai été fait d'une étrange et merveilleuse manière; tes œuvres sont merveilleuses, et mon âme le sait très bien.",
+        "S21": "Je te loue de ce que je suis une créature si merveilleuse. Tes œuvres sont admirables, et je le reconnais bien."
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "Mon corps n’était pas caché à tes yeux\r\nquand, dans le secret, je fus façonné\r\net tissé comme dans les profondeurs de la terre.",
+        "DBY": "Mes os ne t'ont point été cachés lorsque j'ai été fait dans le secret, façonné comme une broderie dans les lieux bas de la terre.",
+        "KJV": "My substance was not hid from thee, when I was made in secret, [and] curiously wrought in the lowest parts of the earth.",
+        "LSG": "Mon corps n'était point caché devant toi, Lorsque j'ai été fait dans un lieu secret, Tissé dans les profondeurs de la terre.",
+        "MAB": "L'agencement de mes os ne t'a point été caché, lorsque j'ai été fait en un lieu secret, et façonné comme de broderie dans les bas lieux de la terre.",
+        "OST": "Mes os ne t'étaient point cachés, lorsque j'étais formé dans le secret, ouvré comme un tissu dans les lieux bas de la terre.",
+        "S21": "Mon corps n’était pas caché devant toi lorsque j’ai été fait dans le secret, tissé dans les profondeurs de la terre."
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "Je n’étais encore qu’une masse informe, mais tu me voyais\r\net, dans ton registre, se trouvaient déjà inscrits\r\ntous les jours que tu m’avais destinés\r\nalors qu’aucun d’eux n’existait encore.",
+        "DBY": "Tes yeux ont vu ma substance informe, et dans ton livre mes membres étaient tous écrits; de jour en jour ils se formaient, lorsqu'il n'y en avait encore aucun.",
+        "KJV": "Thine eyes did see my substance, yet being unperfect; and in thy book all [my members] were written, [which] in continuance were fashioned, when [as yet there was] none of them.",
+        "LSG": "Quand je n'étais qu'une masse informe, tes yeux me voyaient; Et sur ton livre étaient tous inscrits Les jours qui m'étaient destinés, Avant qu'aucun d'eux existât.",
+        "MAB": "Tes yeux m'ont vu quand j'étais [comme] un peloton, et toutes ces choses s'écrivaient dans ton livre aux jours qu'elles se formaient, même lorsqu'il n'y en avait [encore] aucune.",
+        "OST": "Tes yeux m'ont vu, lorsque j'étais comme une masse informe, et sur ton livre étaient inscrits tous les jours qui m'étaient réservés, quand aucun d'eux n'existait.",
+        "S21": "Je n’étais encore qu’une masse informe, mais tes yeux me voyaient, et sur ton livre étaient inscrits tous les jours qui m’étaient destinés avant qu’un seul d’entre eux n’existe."
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "Combien tes desseins, ô Dieu, sont, pour moi, impénétrables,\r\net comme ils sont innombrables!",
+        "DBY": "Combien me sont précieuses tes pensées, ô Dieu! combien en est grande la somme!",
+        "KJV": "How precious also are thy thoughts unto me, O God! how great is the sum of them!",
+        "LSG": "Que tes pensées, ô Dieu, me semblent impénétrables! Que le nombre en est grand!",
+        "MAB": "C'est pourquoi, ô [Dieu] Fort! combien me sont précieuses les considérations que j'ai de tes faits, et combien en est grand le nombre!",
+        "OST": "Que tes pensées me sont précieuses, ô Dieu, et combien le nombre en est grand!",
+        "S21": "Que tes pensées, ô Dieu, me semblent impénétrables! Que leur nombre est grand!"
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "Si je les comptais,\r\nils seraient bien plus nombreux que les grains de sable sur les bords des mers.\r\nVoici: je m’éveille, je suis encore avec toi.",
+        "DBY": "Si je veux les compter, elles sont plus nombreuses que le sable. Si je me réveille, je suis encore avec toi.",
+        "KJV": "[If] I should count them, they are more in number than the sand: when I awake, I am still with thee.",
+        "LSG": "Si je les compte, elles sont plus nombreuses que les grains de sable. Je m'éveille, et je suis encore avec toi.",
+        "MAB": "Les veux-je nombrer? elles sont en plus grand nombre que le sablon. Suis-je réveillé? je suis encore avec toi.",
+        "OST": "Les veux-je compter? Elles sont plus nombreuses que le sable. Suis-je réveillé? Je suis encore avec toi.",
+        "S21": "Comment les compter? Elles sont plus nombreuses que les grains de sable. Je me réveille, et je suis encore avec toi."
+      }
+    },
+    {
+      "verse": 19,
+      "texts": {
+        "BDS": "Puisses-tu, ô Dieu, faire mourir le méchant!\r\nQue les hommes sanguinaires partent loin de moi!",
+        "DBY": "O Dieu! si tu voulais tuer le méchant! Et vous, hommes de sang, retirez-vous de moi;…",
+        "KJV": "Surely thou wilt slay the wicked, O God: depart from me therefore, ye bloody men.",
+        "LSG": "O Dieu, puisses-tu faire mourir le méchant! Hommes de sang, éloignez-vous de moi!",
+        "MAB": "Ô Dieu! ne tueras-tu pas le méchant? c'est pourquoi, hommes sanguinaires, retirez-vous loin de moi.",
+        "OST": "O Dieu, ne feras-tu pas mourir le méchant? Hommes de sang, éloignez-vous de moi!",
+        "S21": "O Dieu, si seulement tu faisais mourir le méchant! Hommes sanguinaires, éloignez-vous de moi!"
+      }
+    },
+    {
+      "verse": 20,
+      "texts": {
+        "BDS": "Ils se servent de ton nom pour leurs desseins criminels,\r\neux, tes adversaires, l’utilisent pour tromper.",
+        "DBY": "Eux qui parlent contre toi astucieusement, qui prennent ton nom en vain, tes ennemis!",
+        "KJV": "For they speak against thee wickedly, [and] thine enemies take [thy name] in vain.",
+        "LSG": "Ils parlent de toi d'une manière criminelle, Ils prennent ton nom pour mentir, eux, tes ennemis!",
+        "MAB": "Car ils ont parlé de toi, [en pensant] à quelque méchanceté; ils ont élevé tes ennemis en mentant.",
+        "OST": "Ils parlent de toi pour mal faire; tes ennemis jurent faussement par ton nom.",
+        "S21": "Ils parlent de toi pour appuyer leurs projets criminels, ils utilisent ton nom pour mentir, eux, tes ennemis!"
+      }
+    },
+    {
+      "verse": 21,
+      "texts": {
+        "BDS": "Eternel, comment donc ne pas haïr ceux qui te haïssent,\r\net ne pas prendre en dégoût ceux qui te combattent?",
+        "DBY": "N'ai-je pas en haine, ô Éternel, ceux qui te haïssent? et n'ai-je pas en horreur ceux qui s'élèvent contre toi?",
+        "KJV": "Do not I hate them, O LORD, that hate thee? and am not I grieved with those that rise up against thee?",
+        "LSG": "Eternel, n'aurais-je pas de la haine pour ceux qui te haïssent, Du dégoût pour ceux qui s'élèvent contre toi?",
+        "MAB": "Eternel, n'aurais-je point en haine ceux qui te haïssent; et ne serais-je point irrité contre ceux qui s'élèvent contre toi?",
+        "OST": "Éternel, ne haïrais-je pas ceux qui te haïssent? N'aurais-je pas horreur de ceux qui s'élèvent contre toi?",
+        "S21": "Eternel, comment pourrais-je ne pas détester ceux qui te détestent, ne pas éprouver du dégoût pour ceux qui te combattent?"
+      }
+    },
+    {
+      "verse": 22,
+      "texts": {
+        "BDS": "Eh bien, je leur voue une haine extrême,\r\net les considère comme mes ennemis mêmes.",
+        "DBY": "Je les hais d'une parfaite haine; ils sont pour moi des ennemis.",
+        "KJV": "I hate them with perfect hatred: I count them mine enemies.",
+        "LSG": "Je les hais d'une parfaite haine; Ils sont pour moi des ennemis.",
+        "MAB": "Je les ai haïs d'une parfaite haine; ils m'ont été pour ennemis.",
+        "OST": "Je les hais d'une parfaite haine; je les tiens pour mes ennemis.",
+        "S21": "Je les déteste de façon absolue, ils sont pour moi des ennemis."
+      }
+    },
+    {
+      "verse": 23,
+      "texts": {
+        "BDS": "Sonde-moi, ô Dieu, pénètre mon cœur,\r\nexamine-moi, et pénètre les pensées qui me bouleversent!",
+        "DBY": "Sonde-moi, ô Dieu! et connais mon cœur; éprouve-moi, et connais mes pensées.",
+        "KJV": "Search me, O God, and know my heart: try me, and know my thoughts:",
+        "LSG": "Sonde-moi, ô Dieu, et connais mon coeur! Eprouve-moi, et connais mes pensées!",
+        "MAB": "Ô [Dieu] Fort! sonde-moi, et considère mon cœur; éprouve-moi, et considère mes discours.",
+        "OST": "Sonde-moi, ô Dieu, et connais mon cœur; éprouve-moi, et connais mes pensées.",
+        "S21": "Examine-moi, ô Dieu, et connais mon cœur, mets-moi à l’épreuve et connais mes pensées!"
+      }
+    },
+    {
+      "verse": 24,
+      "texts": {
+        "BDS": "Considère si je suis le chemin du mal\r\net dirige-moi sur la voie de l’éternité!",
+        "DBY": "Et regarde s'il y a en moi quelque voie de chagrin, et conduis-moi dans la voie éternelle.",
+        "KJV": "And see if [there be any] wicked way in me, and lead me in the way everlasting.",
+        "LSG": "Regarde si je suis sur une mauvaise voie, Et conduis-moi sur la voie de l'éternité!",
+        "MAB": "Et regarde s'il y a en moi aucun dessein de chagriner autrui; et conduis-moi par la voie du monde.",
+        "OST": "Vois si je suis dans une voie d'injustice, et conduis-moi dans la voie de l'éternité!",
+        "S21": "Regarde si je suis sur une mauvaise voie et conduis-moi sur la voie de l’éternité!"
+      }
+    }
+  ]
+}

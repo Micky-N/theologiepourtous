@@ -1,0 +1,654 @@
+{
+  "bookCode": "1CH",
+  "chapter": 1,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "Adam, Seth, Enoch,",
+        "DBY": "Adam, Seth, Énosh,",
+        "KJV": "Adam, Sheth, Enosh,",
+        "LSG": "Adam, Seth, Enosch,",
+        "MAB": "Adam, Seth, Enos.",
+        "OST": "Adam, Seth, Énosh;",
+        "S21": "Il y eut Adam, Seth, Enosh,"
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "Qénân, Mahalaleél, Yéréd,",
+        "DBY": "Kénan, Mahalaleël, Jéred,",
+        "KJV": "Kenan, Mahalaleel, Jered,",
+        "LSG": "Kénan, Mahalaleel, Jéred,",
+        "MAB": "Kénan, Mahalaléël, Jéred;",
+        "OST": "Kénan, Mahalaléel, Jéred;",
+        "S21": "Kénan, Mahalaleel, Jéred,"
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "Hénoc, Mathusalem, Lémek,",
+        "DBY": "Hénoc, Methushélah, Lémec,",
+        "KJV": "Henoch, Methuselah, Lamech,",
+        "LSG": "Hénoc, Metuschélah, Lémec,",
+        "MAB": "Hénoc, Méthusélah, Lémec.",
+        "OST": "Hénoc, Métushélah, Lémec;",
+        "S21": "Hénoc, Metushélah, Lémec,"
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "Noé, Sem, Cham et Japhet.",
+        "DBY": "Noé; Sem, Cham, et Japheth.",
+        "KJV": "Noah, Shem, Ham, and Japheth.",
+        "LSG": "Noé, Sem, Cham et Japhet.",
+        "MAB": "Noé, Sem, Cam, et Japheth.",
+        "OST": "Noé, Sem, Cham et Japhet.",
+        "S21": "Noé, Sem, Cham et Japhet."
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "Fils de Japhet: Gomer, Magog, Madaï, Yavân, Toubal, Méchek et Tiras.",
+        "DBY": "Les fils de Japheth: Gomer, et Magog, et Madaï, et Javan, et Tubal, et Méshec, et Tiras.",
+        "KJV": "The sons of Japheth; Gomer, and Magog, and Madai, and Javan, and Tubal, and Meshech, and Tiras.",
+        "LSG": "Fils de Japhet: Gomer, Magog, Madaï, Javan, Tubal, Méschec et Tiras. -",
+        "MAB": "Les enfants de Japheth furent, Gomer, Magog, Madaï, Javan, Tubal, Mésec, et Tiras.",
+        "OST": "Fils de Japhet: Gomer, Magog, Madaï, Javan, Tubal, Méshec et Tiras.",
+        "S21": "Fils de Japhet: Gomer, Magog, Madaï, Javan, Tubal, Méshec et Tiras."
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "Fils de Gomer: Achkenaz, Diphath et Togarma.",
+        "DBY": "-Et les fils de Gomer: Ashkenaz, et Diphath, et Togarma.",
+        "KJV": "And the sons of Gomer; Ashchenaz, and Riphath, and Togarmah.",
+        "LSG": "Fils de Gomer: Aschkenaz, Diphat et Togarma. -",
+        "MAB": "Les enfants de Gomer furent, Askenaz, Diphath, et Togarma.",
+        "OST": "Fils de Gomer: Ashkénaz, Diphath et Togarma.",
+        "S21": "Fils de Gomer: Ashkenaz, Riphat et Togarma."
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "Fils de Yavân: Elicha, Tarchicha, Kittim et Dodanim.",
+        "DBY": "-Et les fils de Javan: Élisha, et Tarsis, Kittim, et Rodanim.",
+        "KJV": "And the sons of Javan; Elishah, and Tarshish, Kittim, and Dodanim.",
+        "LSG": "Fils de Javan: Elischa, Tarsisa, Kittim et Rodanim.",
+        "MAB": "Et les enfants de Javan furent, Elisam, Tarsa, Kittim, et Rodanim.",
+        "OST": "Fils de Javan: Élisham, Tharshisha, Kittim et Rodanim.",
+        "S21": "Fils de Javan: Elisha, Tarsis, Kittim et Dodanim."
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "Fils de Cham: Kouch, Mitsraïm, Pouth et Canaan.",
+        "DBY": "Les fils de Cham: Cush, et Mitsraïm, Puth, et Canaan.",
+        "KJV": "The sons of Ham; Cush, and Mizraim, Put, and Canaan.",
+        "LSG": "Fils de Cham: Cusch, Mitsraïm, Puth et Canaan. -",
+        "MAB": "Les enfants de Cam furent, Cus, Mitsraïm, Put, et Canaan.",
+        "OST": "Fils de Cham: Cush, Mitsraïm, Put et Canaan.",
+        "S21": "Fils de Cham: Cush, Mitsraïm, Puth et Canaan."
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "Fils de Kouch: Seba, Havila, Sabta, Raema et Sabteka. Fils de Raema: Cheba et Dedân.",
+        "DBY": "-Et les fils de Cush: Seba, et Havila, et Sabta, et Rahma, et Sabteca. -Et les fils de Rahma: Sheba et Dedan.",
+        "KJV": "And the sons of Cush; Seba, and Havilah, and Sabta, and Raamah, and Sabtecha. And the sons of Raamah; Sheba, and Dedan.",
+        "LSG": "Fils de Cusch: Saba, Havila, Sabta, Raema et Sabteca. -Fils de Raema: Séba et Dedan.",
+        "MAB": "Et les enfants de Cus furent, Séba, Havila, Sabta, Rahma, et Sabteca. Et les enfants de Rahma furent, Séba et Dédan.",
+        "OST": "Fils de Cush: Séba, Havila, Sabta, Raema et Sabtéca. Fils de Raema: Shéba et Dédan.",
+        "S21": "Fils de Cush: Saba, Havila, Sabta, Raema et Sabteca. Fils de Raema: Séba et Dedan."
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "Kouch fut le père de Nimrod qui se mit à exercer un grand pouvoir sur la terre.",
+        "DBY": "-Et Cush engendra Nimrod: lui, commença à être puissant sur la terre.",
+        "KJV": "And Cush begat Nimrod: he began to be mighty upon the earth.",
+        "LSG": "Cusch engendra Nimrod; c'est lui qui commença à être puissant sur la terre. -",
+        "MAB": "Cus engendra aussi Nimrod, qui commença d'être puissant sur la terre.",
+        "OST": "Cush engendra Nimrod, qui commença à être puissant sur la terre.",
+        "S21": "Cush eut pour fils Nimrod; c'est lui qui fut le premier homme puissant sur la terre."
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "Mitsraïm fut le père des Loudim, des Anamim, des Lehabim, des Naphtouim,",
+        "DBY": "-Et Mitsraïm engendra les Ludim, et les Anamim, et les Lehabim, et les Naphtukhim,",
+        "KJV": "And Mizraim begat Ludim, and Anamim, and Lehabim, and Naphtuhim,",
+        "LSG": "Mitsraïm engendra les Ludim, les Ananim, les Lehabim, les Naphtuhim,",
+        "MAB": "Et Mitsraïm engendra Ludim, Hanamim, Léhabim, Naphtuhim,",
+        "OST": "Mitsraïm engendra les Ludim, les Anamin, les Léhabim, les Naphtuhim,",
+        "S21": "Mitsraïm eut pour descendants les Ludim, les Ananim, les Lehabim, les Naphtuhim,"
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "des Patrousim, des Kaslouhim (dont sont issus les Philistins) et des Crétois.",
+        "DBY": "et les Pathrusim, et les Caslukhim (d'où sont sortis les Philistins), et les Caphtorim.",
+        "KJV": "And Pathrusim, and Casluhim, (of whom came the Philistines,) and Caphthorim.",
+        "LSG": "les Patrusim, les Casluhim, d'où sont sortis les Philistins, et les Caphtorim. -",
+        "MAB": "Pathrusim, Casluhim ( desquels sont issus les Philistins), et Caphtorim.",
+        "OST": "Les Pathrusim, les Casluhim, d'où sont sortis les Philistins, et les Caphtorim.",
+        "S21": "les Patrusim, les Casluhim, dont sont issus les Philistins, et les Caphtorim."
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "Canaan fut le père de Sidon, son aîné, et Heth.",
+        "DBY": "-Et Canaan engendra Sidon, son premier-né,",
+        "KJV": "And Canaan begat Zidon his firstborn, and Heth,",
+        "LSG": "Canaan engendra Sidon, son premier-né, et Heth,",
+        "MAB": "Et Canaan engendra Sidon son fils aîné, et Heth;",
+        "OST": "Canaan engendra Sidon, son premier-né, et Heth,",
+        "S21": "Canaan eut pour descendants Sidon, son fils aîné, et Heth,"
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "De lui descendent les Yebousiens, les Amoréens, les Guirgasiens,",
+        "DBY": "et Heth, et le Jébusien, et l'Amoréen, et le Guirgasien,",
+        "KJV": "The Jebusite also, and the Amorite, and the Girgashite,",
+        "LSG": "et les Jébusiens, les Amoréens, les Guirgasiens,",
+        "MAB": "Les Jébusiens, les Amorrhéens, les Guirgasiens,",
+        "OST": "Les Jébusiens, les Amoréens, les Guirgasiens,",
+        "S21": "ainsi que les Jébusiens, les Amoréens, les Guirgasiens,"
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "les Héviens, les Arqiens, les Siniens,",
+        "DBY": "et le Hévien, et l'Arkien, et le Sinien,",
+        "KJV": "And the Hivite, and the Arkite, and the Sinite,",
+        "LSG": "les Héviens, les Arkiens, les Siniens,",
+        "MAB": "Les Héviens, les Harkiens, les Siniens,",
+        "OST": "Les Héviens, les Arkiens, les Siniens,",
+        "S21": "les Héviens, les Arkiens, les Siniens,"
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "les Arvadiens, les Tsemariens et les Hamathiens.",
+        "DBY": "et l'Arvadien, et le Tsemarien, et le Hamathien.",
+        "KJV": "And the Arvadite, and the Zemarite, and the Hamathite.",
+        "LSG": "les Arvadiens, les Tsemariens, les Hamathiens.",
+        "MAB": "Les Arvadiens, les Tsemariens, et les Hamathiens.",
+        "OST": "Les Arvadiens, les Tsémariens et les Hamathiens.",
+        "S21": "les Arvadiens, les Tsemariens et les Hamathiens."
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "Les descendants de Sem furent: Elam, Assour, Arpakchad, Loud, Aram.\r\nLes descendants d’Aram furent: Outs, Houl, Guéter, et Méchek.",
+        "DBY": "Les fils de Sem: Élam, et Assur, et Arpacshad, et Lud, et Aram, et Uts, et Hul, et Guéther, et Méshec.",
+        "KJV": "The sons of Shem; Elam, and Asshur, and Arphaxad, and Lud, and Aram, and Uz, and Hul, and Gether, and Meshech.",
+        "LSG": "Fils de Sem: Elam, Assur, Arpacschad, Lud et Aram; Uts, Hul, Guéter et Méschec. -",
+        "MAB": "Les enfants de Sem furent, Hélam, Assur, Arpacsad, Lud, Aram, Hus, Hul, Guéther, et Mésec.",
+        "OST": "Fils de Sem: Élam, Assur, Arpacshad, Lud, Aram, Uts, Hul, Guéther et Méshec.",
+        "S21": "Fils de Sem: Elam, Assur, Arpacshad, Lud et Aram. [Fils d’Aram:] Uts, Hul, Guéter et Méshec."
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "Arpakchad fut le père de Chélah, et Chélah fut le père d’Héber.",
+        "DBY": "-Et Arpacshad engendra Shélakh, et Shélakh engendra Héber.",
+        "KJV": "And Arphaxad begat Shelah, and Shelah begat Eber.",
+        "LSG": "Arpacschad engendra Schélach; et Schélach engendra Héber.",
+        "MAB": "Et Arpacsad engendra Sélah, et Sélah engendra Héber.",
+        "OST": "Arpacshad engendra Shélach; et Shélach engendra Héber.",
+        "S21": "Arpacshad eut pour fils Shélach, et Shélach eut Héber."
+      }
+    },
+    {
+      "verse": 19,
+      "texts": {
+        "BDS": "Héber eut deux fils: l’un s’appelait Péleg (Partage) parce que de son temps la terre fut partagée, et son frère s’appelait Yoqtân.",
+        "DBY": "Et il naquit à Héber deux fils: le nom de l'un fut Péleg, car en ses jours la terre fut partagée; et le nom de son frère fut Joktan.",
+        "KJV": "And unto Eber were born two sons: the name of the one [was] Peleg; because in his days the earth was divided: and his brother's name [was] Joktan.",
+        "LSG": "Il naquit à Héber deux fils: le nom de l'un était Péleg, parce que de son temps la terre fut partagée, et le nom de son frère était Jokthan.",
+        "MAB": "Et à Héber naquirent deux fils; l'un s'appelait Péleg, car en son temps la terre fut partagée ; et son frère se nommait Joktan.",
+        "OST": "Deux fils naquirent à Héber: l'un s'appelait Péleg (partage), parce que de son temps la terre fut partagée; et le nom de son frère était Jockthan.",
+        "S21": "Héber eut deux fils. Le nom de l'un était Péleg, parce qu’à son époque la terre fut partagée, et celui de son frère était Jokthan."
+      }
+    },
+    {
+      "verse": 20,
+      "texts": {
+        "BDS": "Yoqtân fut le père d’Almodad, Chéléph, Hatsarmaveth, Yérah,",
+        "DBY": "Et Joktan engendra Almodad, et Shéleph, et Hatsarmaveth, et Jérakh,",
+        "KJV": "And Joktan begat Almodad, and Sheleph, and Hazarmaveth, and Jerah,",
+        "LSG": "Jokthan engendra Almodad, Schéleph, Hatsarmaveth, Jérach,",
+        "MAB": "Et Joktan engendra Almodad, Seleph, Hatsarmaveth, Jerah,",
+        "OST": "Jockthan engendra Almodad, Shéleph, Hatsarmaveth, Jérach,",
+        "S21": "Jokthan eut pour fils Almodad, Shéleph, Hatsarmaveth, Jérach,"
+      }
+    },
+    {
+      "verse": 21,
+      "texts": {
+        "BDS": "Hadoram, Ouzal, Diqla,",
+        "DBY": "et Hadoram, et Uzal, et Dikla,",
+        "KJV": "Hadoram also, and Uzal, and Diklah,",
+        "LSG": "Hadoram, Uzal, Dikla,",
+        "MAB": "Hadoram, Uzal, Dikla,",
+        "OST": "Hadoram, Uzal, Dikla,",
+        "S21": "Hadoram, Uzal, Dikla,"
+      }
+    },
+    {
+      "verse": 22,
+      "texts": {
+        "BDS": "Obal, Abimaël, Saba, Ophir, Havila et Yobab.",
+        "DBY": "et Ébal, et Abimaël, et Sheba, et Ophir, et Havila, et Jobab:",
+        "KJV": "And Ebal, and Abimael, and Sheba,",
+        "LSG": "Ebal, Abimaël, Séba,",
+        "MAB": "Hébal, Abimaël, Séba,",
+        "OST": "Ébal, Abimaël, Shéba,",
+        "S21": "Ebal, Abimaël, Séba, Ophir, Havila et Jobab."
+      }
+    },
+    {
+      "verse": 23,
+      "texts": {
+        "BDS": "Tous ceux-là étaient des descendants de Yoqtân.",
+        "DBY": "tous ceux-là sont fils de Joktan.",
+        "KJV": "And Ophir, and Havilah, and Jobab. All these [were] the sons of Joktan.",
+        "LSG": "Ophir, Havila et Jobab. Tous ceux-là furent fils de Jokthan.",
+        "MAB": "Ophir, Havila, et Jobab; tous ceux-là furent les enfants de Joktan.",
+        "OST": "Ophir, Havila et Jobab; tous ceux-là furent fils de Jockthan.",
+        "S21": "Tous ceux-là furent les fils de Jokthan."
+      }
+    },
+    {
+      "verse": 24,
+      "texts": {
+        "BDS": "Sem, Arpakchad, Chélah,",
+        "DBY": "Sem, Arpacshad, Shélakh,",
+        "KJV": "Shem, Arphaxad, Shelah,",
+        "LSG": "Sem, Arpacschad, Schélach,",
+        "MAB": "Sem, Arpacsad, Sélah,",
+        "OST": "Sem, Arpacshad, Shélach,",
+        "S21": "Il y eut Sem, Arpacshad, Shélach,"
+      }
+    },
+    {
+      "verse": 25,
+      "texts": {
+        "BDS": "Héber, Péleg, Reou,",
+        "DBY": "Héber, Péleg, Rehu,",
+        "KJV": "Eber, Peleg, Reu,",
+        "LSG": "Héber, Péleg, Rehu,",
+        "MAB": "Héber, Péleg, Réhu,",
+        "OST": "Héber, Péleg, Réhu,",
+        "S21": "Héber, Péleg, Rehu,"
+      }
+    },
+    {
+      "verse": 26,
+      "texts": {
+        "BDS": "Seroug, Nahor, Térah,",
+        "DBY": "Serug, Nakhor, Térakh,",
+        "KJV": "Serug, Nahor, Terah,",
+        "LSG": "Serug, Nachor, Térach,",
+        "MAB": "Serug, Nacor, Taré,",
+        "OST": "Sérug, Nachor, Tharé,",
+        "S21": "Serug, Nachor, Térach"
+      }
+    },
+    {
+      "verse": 27,
+      "texts": {
+        "BDS": "Abram, c’est-à-dire Abraham.",
+        "DBY": "Abram, qui est Abraham.",
+        "KJV": "Abram; the same [is] Abraham.",
+        "LSG": "Abram, qui est Abraham.",
+        "MAB": "Et Abram, qui est Abraham.",
+        "OST": "Abram, qui est Abraham.",
+        "S21": "et Abram, c’est-à-dire Abraham."
+      }
+    },
+    {
+      "verse": 28,
+      "texts": {
+        "BDS": "Abraham eut pour fils: Isaac et Ismaël.",
+        "DBY": "Les fils d'Abraham: Isaac et Ismaël.",
+        "KJV": "The sons of Abraham; Isaac, and Ishmael.",
+        "LSG": "Fils d'Abraham: Isaac et Ismaël.",
+        "MAB": "Les enfants d'Abraham furent, Isaac et Ismaël.",
+        "OST": "Fils d'Abraham: Isaac et Ismaël.",
+        "S21": "Fils d'Abraham: Isaac et Ismaël."
+      }
+    },
+    {
+      "verse": 29,
+      "texts": {
+        "BDS": "Voici leur postérité: le fils aîné d’Ismaël s’appelait Nebayoth, puis viennent Qédar, Adbeél, Mibsam,",
+        "DBY": "-Ce sont ici leurs générations: le premier-né d'Ismaël, Nebaïoth; et Kédar, et Adbeël, et Mibsam;",
+        "KJV": "These [are] their generations: The firstborn of Ishmael, Nebaioth; then Kedar, and Adbeel, and Mibsam,",
+        "LSG": "Voici leur postérité. Nebajoth, premier-né d'Ismaël, Kédar, Adbeel, Mibsam,",
+        "MAB": "Ce sont ici leurs générations; le premier-né d'Ismaël fut Nébajoth, puis Kédar, Adbéël, Mibsam,",
+        "OST": "Voici leur postérité: le premier-né d'Ismaël, Nébajoth; puis Kédar, Adbéel, Mibsam,",
+        "S21": "Voici leur lignée: Nebajoth, le fils aîné d'Ismaël, Kédar, Adbeel, Mibsam,"
+      }
+    },
+    {
+      "verse": 30,
+      "texts": {
+        "BDS": "Michma, Douma, Massa, Hadad, Téma,",
+        "DBY": "Mishma, et Duma; Massa, Hadad, et Théma;",
+        "KJV": "Mishma, and Dumah, Massa, Hadad, and Tema,",
+        "LSG": "Mischma, Duma, Massa, Hadad, Téma,",
+        "MAB": "Mismah, Duma, Massa, Hadad, Téma,",
+        "OST": "Mishma, Duma, Massa, Hadan, Théma,",
+        "S21": "Mishma, Duma, Massa, Hadad, Téma,"
+      }
+    },
+    {
+      "verse": 31,
+      "texts": {
+        "BDS": "Yetour, Nappich et Qedma. Tels sont les fils d’Ismaël.",
+        "DBY": "Jetur, Naphish, et Kedma: ce sont là les fils d'Ismaël.",
+        "KJV": "Jetur, Naphish, and Kedemah. These are the sons of Ishmael.",
+        "LSG": "Jethur, Naphisch et Kedma. Ce sont là les fils d'Ismaël.",
+        "MAB": "Jéthur, Naphis, et Kedma; ce sont là les enfants d'Ismaël.",
+        "OST": "Jéthur, Naphish et Kedma; ce sont là les fils d'Ismaël.",
+        "S21": "Jethur, Naphish et Kedma. Ce sont là les fils d'Ismaël."
+      }
+    },
+    {
+      "verse": 32,
+      "texts": {
+        "BDS": "Qetoura, épouse de second rang d’Abraham, donna naissance à Zimrân, Yoqchân, Medân, Madian, Yichbaq et Chouah. Fils de Yoqchân: Saba et Dedân.",
+        "DBY": "-Et les fils de Ketura, concubine d'Abraham: elle enfanta Zimran, et Jokshan, et Medan, et Madian, et Jishbak, et Shuakh. Et les fils de Jokshan: Sheba et Dedan.",
+        "KJV": "Now the sons of Keturah, Abraham's concubine: she bare Zimran, and Jokshan, and Medan, and Midian, and Ishbak, and Shuah. And the sons of Jokshan; Sheba, and Dedan.",
+        "LSG": "Fils de Ketura, concubine d'Abraham. Elle enfanta Zimran, Jokschan, Medan, Madian, Jischbak et Schuach. -Fils de Jokschan: Séba et Dedan. -",
+        "MAB": "Quant aux enfants de Kétura concubine d'Abraham, elle enfanta Zimram, Joksan, Médan, Madian, Jisbak, et Suah; et les enfants de Joksan furent, Séba, et Dédan.",
+        "OST": "Fils de Kétura, concubine d'Abraham: Elle enfanta Zimran, Jokshan, Médan, Madian, Jishbak et Shuach. Fils de Jokshan: Shéba et Dédan.",
+        "S21": "Fils de Ketura, la concubine d'Abraham: elle mit au monde Zimran, Jokshan, Medan, Madian, Jishbak et Shuach. Fils de Jokshan: Séba et Dedan."
+      }
+    },
+    {
+      "verse": 33,
+      "texts": {
+        "BDS": "Fils de Madian: Epha, Epher, Hénok, Abida et Eldaa. Tous ceux-là sont les descendants de Qetoura.",
+        "DBY": "Et les fils de Madian: Épha, et Épher, et Hénoc, et Abida, et Eldaa. Tous ceux-là étaient fils de Ketura.",
+        "KJV": "And the sons of Midian; Ephah, and Epher, and Henoch, and Abida, and Eldaah. All these [are] the sons of Keturah.",
+        "LSG": "Fils de Madian: Epha, Epher, Hénoc, Abida et Eldaa. -Ce sont là tous les fils de Ketura.",
+        "MAB": "Et les enfants de Madian furent, Hépha, Hépher, Hanoc, Abidah, et Eldaha. Tous ceux-là furent les enfants de Kétura.",
+        "OST": "Fils de Madian: Épha, Épher, Hanoc, Abida et Eldaa; tous ceux-là sont fils de Kétura.",
+        "S21": "Fils de Madian: Epha, Epher, Hénoc, Abida et Eldaa. Tous ceux-là sont les descendants de Ketura."
+      }
+    },
+    {
+      "verse": 34,
+      "texts": {
+        "BDS": "Abraham eut pour fils Isaac qui eut pour fils: Esaü et Israël.",
+        "DBY": "Et Abraham engendra Isaac. Les fils d'Isaac: Ésaü et Israël.",
+        "KJV": "And Abraham begat Isaac. The sons of Isaac; Esau and Israel.",
+        "LSG": "Abraham engendra Isaac. Fils d'Isaac: Esaü et Israël.",
+        "MAB": "Or Abraham avait engendré Isaac; et les enfants d'Isaac furent, Esaü, et Israël.",
+        "OST": "Abraham engendra Isaac. Fils d'Isaac: Ésaü et Israël.",
+        "S21": "Abraham eut pour fils Isaac. Fils d'Isaac: Esaü et Israël."
+      }
+    },
+    {
+      "verse": 35,
+      "texts": {
+        "BDS": "Fils d’Esaü: Eliphaz, Reouel, Yeouch, Yaelam et Qorah.",
+        "DBY": "-Les fils d'Ésaü: Éliphaz, Rehuel, et Jehush, et Jahlam, et Coré.",
+        "KJV": "The sons of Esau; Eliphaz, Reuel, and Jeush, and Jaalam, and Korah.",
+        "LSG": "Fils d'Esaü: Eliphaz, Reuel, Jeusch, Jaelam et Koré. -",
+        "MAB": "Les enfants d'Esaü furent, Eliphaz, Réhuël, Jéhus, Jahlam, et Korah.",
+        "OST": "Fils d'Ésaü: Éliphaz, Réuël, Jéush, Jaelam et Korah.",
+        "S21": "Fils d'Esaü: Eliphaz, Reuel, Jeush, Jaelam et Koré."
+      }
+    },
+    {
+      "verse": 36,
+      "texts": {
+        "BDS": "Fils d’Eliphaz: Témân, Omar, Tsepho, Gaetam, Qenaz, Timna et Amalec.",
+        "DBY": "-Les fils d'Éliphaz: Théman, et Omar, Tsephi, et Gahtam; Kenaz, et Thimna, et Amalek.",
+        "KJV": "The sons of Eliphaz; Teman, and Omar, Zephi, and Gatam, Kenaz, and Timna, and Amalek.",
+        "LSG": "Fils d'Eliphaz: Théman, Omar, Tsephi, Gaetham, Kenaz, Thimna et Amalek. -",
+        "MAB": "Les enfants d'Eliphaz furent, Téman, Omar, Tséphi, Gahtham, et Kénaz; et Timnah [lui enfanta] Hamalec.",
+        "OST": "Fils d'Éliphaz: Théman, Omar, Tséphi, Gaetham, Kénaz, Thimna et Amalek.",
+        "S21": "Fils d'Eliphaz: Théman, Omar, Tsephi, Gaetham, Kenaz, et de Thimna, Amalek."
+      }
+    },
+    {
+      "verse": 37,
+      "texts": {
+        "BDS": "Fils de Reouel: Nahath, Zérah, Chamma et Mizza.",
+        "DBY": "-Les fils de Rehuel: Nakhath, Zérakh, Shamma, et Mizza.",
+        "KJV": "The sons of Reuel; Nahath, Zerah, Shammah, and Mizzah.",
+        "LSG": "Fils de Reuel: Nahath, Zérach, Schamma et Mizza.",
+        "MAB": "Les enfants de Réhuël furent, Nahath, Zérah, Samma, et Miza.",
+        "OST": "Fils de Réuël: Nahath, Zérach, Shamma et Mizza.",
+        "S21": "Fils de Reuel: Nahath, Zérach, Shamma et Mizza."
+      }
+    },
+    {
+      "verse": 38,
+      "texts": {
+        "BDS": "Descendants de Séir: Lotân, Chobal, Tsibeôn, Ana, Dichôn, Etser et Dichân.",
+        "DBY": "Et les fils de Séhir: Lotan, et Shobal, et Tsibhon, et Ana, et Dishon, et Etser, et Dishan.",
+        "KJV": "And the sons of Seir; Lotan, and Shobal, and Zibeon, and Anah, and Dishon, and Ezer, and Dishan.",
+        "LSG": "Fils de Séir: Lothan, Schobal, Tsibeon, Ana, Dischon, Etser et Dischan. -",
+        "MAB": "Et les enfants de Séhir furent, Lotan, Sobal, Tsibhon, Hana, Dison, Etser, et Disan.",
+        "OST": "Fils de Séir: Lothan, Shobal, Tsibeon, Ana, Dishon, Etser et Dishan;",
+        "S21": "Fils de Séir: Lothan, Shobal, Tsibeon, Ana, Dishon, Etser et Dishan."
+      }
+    },
+    {
+      "verse": 39,
+      "texts": {
+        "BDS": "Descendants de Lotân: Hori et Homam. La sœur de Lotân s’appelait Timna.",
+        "DBY": "-Et les fils de Lotan: Hori et Homam; et la sœur de Lotan: Thimna.",
+        "KJV": "And the sons of Lotan; Hori, and Homam: and Timna [was] Lotan's sister.",
+        "LSG": "Fils de Lothan: Hori et Homam. Soeur de Lothan: Thimna. -",
+        "MAB": "Et les enfants de Lotan furent, Hori, et Homam; et Timnah fut sœur de Lotan.",
+        "OST": "Fils de Lothan: Hori et Homam. Sœur de Lothan: Thimna.",
+        "S21": "Fils de Lothan: Hori et Homam. Sœur de Lothan: Thimna."
+      }
+    },
+    {
+      "verse": 40,
+      "texts": {
+        "BDS": "Descendants de Chobal: Alvân, Manahath, Ebal, Chepho et Onam. Fils de Tsibeôn: Aya et Ana.",
+        "DBY": "-Les fils de Shobal: Alian, et Manakhath, et Ébal, Shephi, et Onam. -Et les fils de Tsibhon: Aïa et Ana.",
+        "KJV": "The sons of Shobal; Alian, and Manahath, and Ebal, Shephi, and Onam. And the sons of Zibeon; Aiah, and Anah.",
+        "LSG": "Fils de Schobal: Aljan, Manahath, Ebal, Schephi et Onam. -Fils de Tsibeon: Ajja et Ana. -",
+        "MAB": "Les enfants de Sobal furent, Halian, Manahath, Hébal, Séphi, et Onam. Les enfants de Tsibhon furent, Aja, et Hana.",
+        "OST": "Fils de Shobal: Aljan, Manahath, Ébal, Shéphi et Onam. Fils de Tsibeon: Ajja et Ana.",
+        "S21": "Fils de Shobal: Alvan, Manahath, Ebal, Shephi et Onam. Fils de Tsibeon: Ajja et Ana."
+      }
+    },
+    {
+      "verse": 41,
+      "texts": {
+        "BDS": "Enfants d’Ana: Dichôn. Fils de Dichôn: Hemdân, Echbân, Yitrân et Kerân.",
+        "DBY": "-Les fils d'Ana: Dishon. -Et les fils de Dishon; Hamran, et Eshban, et Jithran, et Keran.",
+        "KJV": "The sons of Anah; Dishon. And the sons of Dishon; Amram, and Eshban, and Ithran, and Cheran.",
+        "LSG": "Fils d'Ana: Dischon. Fils de Dischon: Hamran, Eschban, Jithran et Keran. -",
+        "MAB": "Les enfants d'Hana furent, Dison. Les enfants de Dison furent, Hamram, Esban, Jitran, et Kéran.",
+        "OST": "Fils d'Ana: Dishon. Fils de Dishon: Hamran, Eshban, Jithran et Kéran.",
+        "S21": "Fils d'Ana: Dishon. Fils de Dishon: Hemdan, Eshban, Jithran et Keran."
+      }
+    },
+    {
+      "verse": 42,
+      "texts": {
+        "BDS": "Fils d’Etser: Bilhân, Zaavân et Yaaqân. Fils de Dichân: Outs et Arân.",
+        "DBY": "-Les fils d'Etser: Bilhan, et Zaavan, et Jaakan. -Les fils de Dishan: Uts et Aran.",
+        "KJV": "The sons of Ezer; Bilhan, and Zavan, [and] Jakan. The sons of Dishan; Uz, and Aran.",
+        "LSG": "Fils d'Etser: Bilhan, Zaavan et Jaakan. -Fils de Dischan: Uts et Aran. -",
+        "MAB": "Les enfants d'Etser furent, Bilhan, Zahavan et Jahakan. Les enfants de Dison furent, Huts, et Aran.",
+        "OST": "Fils d'Etser: Bilhan, Zaavan et Jaakan. Fils de Dishan: Uts et Aran.",
+        "S21": "Fils d'Etser: Bilhan, Zaavan et Akan. Fils de Dishan: Uts et Aran."
+      }
+    },
+    {
+      "verse": 43,
+      "texts": {
+        "BDS": "Voici les rois qui ont régné dans le pays d’Edom, avant qu’il y ait un roi en Israël: Béla, fils de Beor; sa ville s’appelait Dinhaba.",
+        "DBY": "Et ce sont ici les rois qui régnèrent dans le pays d'Édom, avant qu'un roi régnât sur les fils d'Israël: Béla, fils de Béor; et le nom de sa ville était Dinhaba.",
+        "KJV": "Now these [are] the kings that reigned in the land of Edom before [any] king reigned over the children of Israel; Bela the son of Beor: and the name of his city [was] Dinhabah.",
+        "LSG": "Voici les rois qui ont régné dans le pays d'Edom, avant qu'un roi régnât sur les enfants d'Israël. -Béla, fils de Beor; et le nom de sa ville était Dinhaba. -",
+        "MAB": "Or ce sont ici les Rois qui ont régné au pays d'Edom, avant qu'aucun Roi régnât sur les enfants d'Israël; Bélah fils de Béhor, et le nom de sa ville était Dinhaba.",
+        "OST": "Voici les rois qui ont régné au pays d'Édom, avant qu'un roi régnât sur les enfants d'Israël: Béla, fils de Béor; et le nom de sa ville était Dinhaba.",
+        "S21": "Voici les rois qui ont régné dans le pays d'Edom avant que les Israélites n’aient un roi. Il y eut Béla, fils de Beor; le nom de sa ville était Dinhaba."
+      }
+    },
+    {
+      "verse": 44,
+      "texts": {
+        "BDS": "Après sa mort, Yobab, fils de Zérah, de Botsra, régna à sa place.",
+        "DBY": "-Et Béla mourut; et Jobab, fils de Zérakh, de Botsra, régna à sa place.",
+        "KJV": "And when Bela was dead, Jobab the son of Zerah of Bozrah reigned in his stead.",
+        "LSG": "Béla mourut; et Jobab, fils de Zérach, de Botsra, régna à sa place. -",
+        "MAB": "Et Bélah mourut, et Jobab, fils de Perah de Botsra, régna en sa place.",
+        "OST": "Béla mourut, et Jobab, fils de Zérach, de Botsra, régna à sa place.",
+        "S21": "Béla mourut et Jobab, fils de Zérach, de Botsra, devint roi à sa place."
+      }
+    },
+    {
+      "verse": 45,
+      "texts": {
+        "BDS": "Yobab mourut et Houcham, du pays des Témanites, régna à sa place.",
+        "DBY": "-Et Jobab mourut; et Husham, du pays des Thémanites régna à sa place.",
+        "KJV": "And when Jobab was dead, Husham of the land of the Temanites reigned in his stead.",
+        "LSG": "Jobab mourut; et Huscham, du pays des Thémanites, régna à sa place. -",
+        "MAB": "Et Jobab mourut, et Husam, du pays des Témanites, régna en sa place.",
+        "OST": "Jobab mourut, et Husham, du pays des Thémanites, régna à sa place.",
+        "S21": "Jobab mourut et Husham, du pays des Thémanites, devint roi à sa place."
+      }
+    },
+    {
+      "verse": 46,
+      "texts": {
+        "BDS": "Après la mort de Houcham, Hadad, fils de Bedad, régna à sa place. Il battit les Madianites dans la campagne de Moab; il venait de la ville d’Avith.",
+        "DBY": "-Et Husham mourut; et à sa place régna Hadad, fils de Bedad, qui frappa Madian dans les champs de Moab; et le nom de sa ville était Avith.",
+        "KJV": "And when Husham was dead, Hadad the son of Bedad, which smote Midian in the field of Moab, reigned in his stead: and the name of his city [was] Avith.",
+        "LSG": "Huscham mourut; et Hadad, fils de Bedad, régna à sa place. C'est lui qui frappa Madian dans les champs de Moab. Le nom de sa ville était Avith. -",
+        "MAB": "Et Husam mourut, et Hadad fils de Bédad régna en sa place, qui défit Madian au territoire de Moab. Le nom de sa ville était Havith.",
+        "OST": "Husham mourut, et Hadad, fils de Bédad, régna à sa place; il défit Madian au territoire de Moab. Le nom de sa ville était Avith.",
+        "S21": "Husham mourut et Hadad, fils de Bedad, devint roi à sa place. C'est lui qui battit les Madianites dans la campagne de Moab. Le nom de sa ville était Avith."
+      }
+    },
+    {
+      "verse": 47,
+      "texts": {
+        "BDS": "Après la mort de Hadad, Samla, de Masréqa, régna à sa place.",
+        "DBY": "Et Hadad mourut; et Samla, de Masréka, régna à sa place.",
+        "KJV": "And when Hadad was dead, Samlah of Masrekah reigned in his stead.",
+        "LSG": "Hadad mourut; et Samla, de Masréka, régna à sa place. -",
+        "MAB": "Et Hadad mourut, et Samla, de Masreka, régna en sa place.",
+        "OST": "Hadad mourut, et Samla de Masréka régna à sa place.",
+        "S21": "Hadad mourut et Samla, de Masréka, devint roi à sa place."
+      }
+    },
+    {
+      "verse": 48,
+      "texts": {
+        "BDS": "Puis après la mort de Samla, Saül, de Rehoboth sur le fleuve, régna à sa place.",
+        "DBY": "Et Samla mourut; et Saül, de Rehoboth sur le fleuve, régna à sa place.",
+        "KJV": "And when Samlah was dead, Shaul of Rehoboth by the river reigned in his stead.",
+        "LSG": "Samla mourut; et Saül, de Rehoboth sur le fleuve, régna à sa place. -",
+        "MAB": "Et Samla mourut, et Saül, de Rehoboth du fleuve, régna en sa place.",
+        "OST": "Samla mourut, et Saül de Réhoboth, sur le fleuve, régna à sa place.",
+        "S21": "Samla mourut et Saül, de Rehoboth-Nahar, devint roi à sa place."
+      }
+    },
+    {
+      "verse": 49,
+      "texts": {
+        "BDS": "Après la mort de Saül, Baal-Hanân, fils d’Akbor, régna à sa place.",
+        "DBY": "-Et Saül mourut; et Baal-Hanan, fils d'Acbor, régna à sa place.",
+        "KJV": "And when Shaul was dead, Baalhanan the son of Achbor reigned in his stead.",
+        "LSG": "Saül mourut; et Baal-Hanan, fils d'Acbor, régna à sa place. -",
+        "MAB": "Et Saül mourut, et Bahal-hanan de Hacbor régna en sa place.",
+        "OST": "Saül mourut, et Baal-Hanan, fils d'Acbor, régna à sa place.",
+        "S21": "Saül mourut et Baal-Hanan, fils d'Acbor, devint roi à sa place."
+      }
+    },
+    {
+      "verse": 50,
+      "texts": {
+        "BDS": "Après la mort de Baal-Hanân, Hadad régna à sa place. Sa ville s’appelait Paou, le nom de sa femme était Mehétabeél, fille de Matréd, et petite-fille de Mézahab.",
+        "DBY": "-Et Baal-Hanan mourut; et Hadad régna à sa place; et le nom de sa ville était Pahi; et le nom de sa femme, Mehétabeël, fille de Matred, fille de Mézahab.",
+        "KJV": "And when Baalhanan was dead, Hadad reigned in his stead: and the name of his city [was] Pai; and his wife's name [was] Mehetabel, the daughter of Matred, the daughter of Mezahab.",
+        "LSG": "Baal-Hanan mourut; et Hadad régna à sa place. Le nom de sa ville était Pahi; et le nom de sa femme Mehéthabeel, fille de Mathred, fille de Mézahab. -",
+        "MAB": "Et Bahal-hanan mourut, et Hadad régna en sa place. Le nom de sa ville était Pahi, et le nom de sa femme Mehetabéël, qui était fille de Matred, [et petite-]fille de Me-zahab.",
+        "OST": "Baal-Hanan mourut, et Hadad régna à sa place. Le nom de sa ville était Paï, et le nom de sa femme Méhétabéel, fille de Matred, fille de Mézahab.",
+        "S21": "Baal-Hanan mourut et Hadad devint roi à sa place. Le nom de sa ville était Pahi et sa femme s’appelait Mehéthabeel; elle était la fille de Mathred et la petite-fille de Mézahab."
+      }
+    },
+    {
+      "verse": 51,
+      "texts": {
+        "BDS": "Après la mort de Hadad, des chefs de familles gouvernèrent Edom. Ce furent les chefs Timna, Alva, Yetéth,",
+        "DBY": "Et Hadad mourut. Et il y eut des chefs d'Édom: le chef Thimna, le chef Alia, le chef Jetheth,",
+        "KJV": "Hadad died also. And the dukes of Edom were; duke Timnah, duke Aliah, duke Jetheth,",
+        "LSG": "Hadad mourut. Les chefs d'Edom furent: le chef Thimna, le chef Alja, le chef Jetheth,",
+        "MAB": "Enfin Hadad mourut. Ensuite vinrent les Ducs d'Edom, le Duc Timna, le Duc Halia, le Duc Jétheth.",
+        "OST": "Et Hadad mourut. Les chefs d'Édom furent: le chef Thimna, le chef Alja, le chef Jétheth,",
+        "S21": "Hadad mourut. Les chefs d'Edom furent alors Thimna, Alva, Jetheth,"
+      }
+    },
+    {
+      "verse": 52,
+      "texts": {
+        "BDS": "Oholibama, Ela, Pinôn,",
+        "DBY": "le chef Oholibama, le chef Éla, le chef Pinon,",
+        "KJV": "Duke Aholibamah, duke Elah, duke Pinon,",
+        "LSG": "le chef Oholibama, le chef Ela, le chef Pinon,",
+        "MAB": "Le Duc Aholibama, le Duc Ela, le Duc Pinon.",
+        "OST": "Le chef Oholibama, le chef Éla, le chef Pinon,",
+        "S21": "Oholibama, Ela, Pinon,"
+      }
+    },
+    {
+      "verse": 53,
+      "texts": {
+        "BDS": "Qenaz, Témân, Mibtsar,",
+        "DBY": "le chef Kenaz, le chef Théman, le chef Mibtsar,",
+        "KJV": "Duke Kenaz, duke Teman, duke Mibzar,",
+        "LSG": "le chef Kenaz, le chef Théman, le chef Mibtsar,",
+        "MAB": "Le Duc Kénaz, le Duc Téman, le Duc Mibtsar.",
+        "OST": "Le chef Kénaz, le chef Théman, le chef Mibtsar,",
+        "S21": "Kenaz, Théman, Mibtsar,"
+      }
+    },
+    {
+      "verse": 54,
+      "texts": {
+        "BDS": "Magdiel et Iram. Tels sont les chefs d’Edom.",
+        "DBY": "le chef Magdiel, le chef Iram. Ce sont là les chefs d'Édom.",
+        "KJV": "Duke Magdiel, duke Iram. These [are] the dukes of Edom.",
+        "LSG": "le chef Magdiel, le chef Iram. Ce sont là des chefs d'Edom.",
+        "MAB": "Le Duc Magdiël, et le Duc Hiram. Ce sont là les Ducs d'Edom.",
+        "OST": "Le chef Magdiel et le chef Iram. Ce sont là les chefs d'Édom.",
+        "S21": "Magdiel et Iram. Voilà quels sont les chefs d'Edom."
+      }
+    }
+  ]
+}

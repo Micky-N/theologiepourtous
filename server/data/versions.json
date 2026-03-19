@@ -1,0 +1,58 @@
+[
+    {
+        "code": "LSG",
+        "name": "Louis Segond 1910",
+        "language": "fr",
+        "year": 1910,
+        "isActive": true,
+        "orderIndex": 1
+    },
+    {
+        "code": "S21",
+        "name": "Segond 21",
+        "language": "fr",
+        "year": 2007,
+        "isActive": true,
+        "orderIndex": 2
+    },
+    {
+        "code": "BDS",
+        "name": "Bible du Semeur",
+        "language": "fr",
+        "year": 1999,
+        "isActive": true,
+        "orderIndex": 3
+    },
+    {
+        "code": "MAB",
+        "name": "Martin 1744",
+        "language": "fr",
+        "year": 1744,
+        "isActive": true,
+        "orderIndex": 4
+    },
+    {
+        "code": "DBY",
+        "name": "Darby Bible",
+        "language": "fr",
+        "year": 1885,
+        "isActive": true,
+        "orderIndex": 5
+    },
+    {
+        "code": "OST",
+        "name": "Ostervald 1996",
+        "language": "fr",
+        "year": 1996,
+        "isActive": true,
+        "orderIndex": 6
+    },
+    {
+        "code": "KJV",
+        "name": "King James Version",
+        "language": "en",
+        "year": 1611,
+        "isActive": true,
+        "orderIndex": 7
+    }
+]

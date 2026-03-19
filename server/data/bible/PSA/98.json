@@ -1,0 +1,114 @@
+{
+  "bookCode": "PSA",
+  "chapter": 98,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "Psaume.\r\nChantez à l’Eternel un cantique nouveau\r\ncar il fait des merveilles.\r\nPar sa puissance, par son pouvoir divin, il a sauvé.",
+        "DBY": "Chantez à l'Éternel un cantique nouveau! Car il a fait des choses merveilleuses: sa droite et le bras de sa sainteté l'ont délivré.",
+        "KJV": "A Psalm. O sing unto the LORD a new song; for he hath done marvellous things: his right hand, and his holy arm, hath gotten him the victory.",
+        "LSG": "Psaume. Chantez à l'Eternel un cantique nouveau! Car il a fait des prodiges. Sa droite et son bras saint lui sont venus en aide.",
+        "MAB": "Psaume. Chantez à l'Eternel un nouveau Cantique; car il a fait des choses merveilleuses; sa droite et le bras de sa Sainteté l'ont délivré.",
+        "OST": "Psaume. Chantez à l'Éternel un cantique nouveau! Car il a fait des choses merveilleuses; sa droite et le bras de sa sainteté l'ont délivré.",
+        "S21": "Psaume.\r\nChantez en l’honneur de l’Eternel un cantique nouveau, car il a fait des merveilles! Sa main droite et son bras saint lui ont assuré la victoire."
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "L’Eternel fait connaître son salut;\r\naux nations il révèle sa justice.",
+        "DBY": "L'Éternel a fait connaître son salut, il a révélé sa justice aux yeux des nations.",
+        "KJV": "The LORD hath made known his salvation: his righteousness hath he openly shewed in the sight of the heathen.",
+        "LSG": "L'Eternel a manifesté son salut, Il a révélé sa justice aux yeux des nations.",
+        "MAB": "L'Eternel a fait connaître sa délivrance, il a révélé sa justice devant les yeux des nations.",
+        "OST": "L'Éternel a fait connaître son salut; il a révélé sa justice aux yeux des nations.",
+        "S21": "L’Eternel a fait connaître son salut, il a révélé sa justice sous les yeux des nations."
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "L’Eternel se souvient de son amour\r\net de sa bienveillance à l’égard d’Israël.\r\nJusqu’au bout de la terre,\r\non a vu le salut qui vient de notre Dieu.",
+        "DBY": "Il s'est souvenu de sa bonté et de sa fidélité envers la maison d'Israël; tous les bouts de la terre ont vu le salut de notre Dieu.",
+        "KJV": "He hath remembered his mercy and his truth toward the house of Israel: all the ends of the earth have seen the salvation of our God.",
+        "LSG": "Il s'est souvenu de sa bonté et de sa fidélité envers la maison d'Israël, Toutes les extrémités de la terre ont vu le salut de notre Dieu.",
+        "MAB": "Il s'est souvenu de sa gratuité et de sa fidélité envers la maison d'Israël; tous les bouts de la terre ont vu la délivrance de notre Dieu.",
+        "OST": "Il s'est souvenu de sa bonté et de sa fidélité envers la maison d'Israël; tous les bouts de la terre ont vu le salut de notre Dieu.",
+        "S21": "Il s’est souvenu de sa bonté et de sa fidélité envers la communauté d’Israël. Jusqu’aux extrémités de la terre, on a vu le salut de notre Dieu."
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "Acclame l’Eternel, ô terre tout entière, avec des cris de joie,\r\nau son de la musique!",
+        "DBY": "Poussez des cris de joie vers l'Éternel, toute la terre; éclatez d'allégresse, et exultez avec chant de triomphe, et psalmodiez!",
+        "KJV": "Make a joyful noise unto the LORD, all the earth: make a loud noise, and rejoice, and sing praise.",
+        "LSG": "Poussez vers l'Eternel des cris de joie, Vous tous, habitants de la terre! Faites éclater votre allégresse, et chantez!",
+        "MAB": "Vous tous habitants de la terre, jetez des cris de réjouissance à l'Eternel, faites retentir vos cris, chantez de joie, et psalmodiez.",
+        "OST": "Vous, toute la terre, jetez des cris de réjouissance à l'Éternel; éclatez en cris de joie, et chantez!",
+        "S21": "Poussez des cris de joie en l’honneur de l’Eternel, habitants de toute la terre! Faites éclater votre allégresse et chantez!"
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "Au son de la cithare, célébrez l’Eternel,\r\nau son de la cithare, de tous les instruments!",
+        "DBY": "Chantez les louanges de l'Éternel avec la harpe, avec la harpe et une voix de cantique!",
+        "KJV": "Sing unto the LORD with the harp; with the harp, and the voice of a psalm.",
+        "LSG": "Chantez à l'Eternel avec la harpe; Avec la harpe chantez des cantiques!",
+        "MAB": "Psalmodiez à l'Eternel avec la harpe, avec la harpe et avec une voix mélodieuse.",
+        "OST": "Chantez à l'Éternel avec la harpe, avec la harpe et la voix des cantiques!",
+        "S21": "Chantez en l’honneur de l’Eternel avec la harpe, avec la harpe, au son de tous les instruments!"
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "Au son de la trompette et aux accents du cor,\r\nexultez en présence de l’Eternel, du Roi!",
+        "DBY": "Avec des trompettes et le son du cor, poussez des cris de joie devant le Roi, l'Éternel!",
+        "KJV": "With trumpets and sound of cornet make a joyful noise before the LORD, the King.",
+        "LSG": "Avec les trompettes et au son du cor, Poussez des cris de joie devant le roi, l'Eternel!",
+        "MAB": "Jetez des cris de réjouissance avec les trompettes et le son du cor devant le Roi, l'Eternel.",
+        "OST": "Avec les cors et le son des trompettes, poussez des cris de joie, devant le Roi, l'Éternel!",
+        "S21": "Au son des trompettes et du cor, poussez des cris de joie en présence du roi, de l’Eternel!"
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "Que la mer retentisse et tout ce qui la peuple!\r\nQue l’univers résonne avec ses habitants!",
+        "DBY": "Que la mer bruie, et tout ce qui la remplit, le monde et ceux qui y habitent!",
+        "KJV": "Let the sea roar, and the fulness thereof; the world, and they that dwell therein.",
+        "LSG": "Que la mer retentisse avec tout ce qu'elle contient, Que le monde et ceux qui l'habitent éclatent d'allégresse,",
+        "MAB": "Que la mer bruie, avec tout ce qu'elle contient, [et] que la terre et ceux qui y habitent [fassent éclater leurs cris].",
+        "OST": "Que la mer retentisse, avec tout ce qu'elle contient; le monde, avec ceux qui l'habitent!",
+        "S21": "Que la mer retentisse avec tout ce qu’elle contient, le monde et ceux qui l’habitent,"
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "Que les rivières battent des mains,\r\nque les montagnes, à l’unisson, chantent de joie.",
+        "DBY": "Que les fleuves battent des mains, que les montagnes chantent de joie ensemble,",
+        "KJV": "Let the floods clap [their] hands: let the hills be joyful together",
+        "LSG": "Que les fleuves battent des mains, Que toutes les montagnes poussent des cris de joie,",
+        "MAB": "Que les fleuves frappent des mains, et que les montagnes chantent de joie,",
+        "OST": "Que les fleuves battent des mains, que toutes les montagnes chantent de joie, devant l'Éternel!",
+        "S21": "que les fleuves battent des mains, qu’avec eux les montagnes poussent des cris de joie"
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "Que tous louent l’Eternel: car il vient pour juger la terre!\r\nIl jugera le monde selon ce qui est juste,\r\nil jugera les peuples selon ce qui est droit.",
+        "DBY": "l'Éternel! car il vient pour juger la terre: il jugera le monde avec justice, et les peuples avec droiture.",
+        "KJV": "Before the LORD; for he cometh to judge the earth: with righteousness shall he judge the world, and the people with equity.",
+        "LSG": "Devant l'Eternel! Car il vient pour juger la terre; Il jugera le monde avec justice, Et les peuples avec équité.",
+        "MAB": "Au-devant de l'Eternel; car il vient pour juger la terre; il jugera en justice le monde habitable, et les peuples en équité.",
+        "OST": "Car il vient pour juger la terre; il jugera le monde avec justice, et les peuples avec équité.",
+        "S21": "devant l’Eternel, car il vient pour juger la terre. Il jugera le monde avec justice, et les peuples avec droiture."
+      }
+    }
+  ]
+}

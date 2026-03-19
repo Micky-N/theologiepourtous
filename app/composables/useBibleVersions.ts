@@ -1,7 +1,7 @@
-import type { BibleVersion } from '@prisma/client';
+import type { BibleVersionData } from '~/types';
 
 export const useBibleVersions = () => {
-    const versions = ref<BibleVersion[]>([]);
+    const versions = ref<BibleVersionData[]>([]);
     const loading = ref(false);
     const error = ref<string | null>(null);
 
@@ -12,7 +12,7 @@ export const useBibleVersions = () => {
         error.value = null;
 
         try {
-            const result = await $fetch<{ data: BibleVersion[]; }>('/api/bible/versions');
+            const result = await $fetch<{ data: BibleVersionData[]; }>('/api/bible/versions');
             versions.value = result.data;
             return result.data;
         } catch (err) {

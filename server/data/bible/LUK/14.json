@@ -1,0 +1,426 @@
+{
+  "bookCode": "LUK",
+  "chapter": 14,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "Un jour de sabbat, Jésus était invité pour un repas chez l’un des dirigeants du parti pharisien. Ceux qui étaient à table avec lui l’observaient attentivement.",
+        "DBY": "Et il arriva que, comme il entrait, un sabbat, dans la maison d'un des principaux des pharisiens pour manger du pain, ils l'observaient.",
+        "KJV": "And it came to pass, as he went into the house of one of the chief Pharisees to eat bread on the sabbath day, that they watched him.",
+        "LSG": "Jésus étant entré, un jour de sabbat, dans la maison de l'un des chefs des pharisiens, pour prendre un repas, les pharisiens l'observaient.",
+        "MAB": "Il arriva aussi que [Jésus] étant entré un jour de Sabbat dans la maison d'un des principaux des Pharisiens, pour prendre son repas, ils l'observaient.",
+        "OST": "Un jour de sabbat, Jésus était entré dans la maison d'un des principaux pharisiens pour y manger, et ceux-ci l'observaient.",
+        "S21": "Un jour de sabbat, Jésus était allé dans la maison de l'un des chefs des pharisiens pour prendre un repas, et les pharisiens l'observaient."
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "Or, il y avait là un homme dont le corps était couvert d’œdèmes.",
+        "DBY": "Et voici, il y avait un homme hydropique devant lui.",
+        "KJV": "And, behold, there was a certain man before him which had the dropsy.",
+        "LSG": "Et voici, un homme hydropique était devant lui.",
+        "MAB": "Et voici, un homme hydropique était là devant lui.",
+        "OST": "Or, un homme hydropique était devant lui.",
+        "S21": "Or un homme rempli d’œdème se trouvait devant lui."
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "Jésus prit la parole et s’adressa aux enseignants de la Loi et aux pharisiens:\r\n—Est-il permis, oui ou non, de guérir quelqu’un le jour du sabbat?",
+        "DBY": "Et Jésus, répondant, parla aux docteurs de la loi et aux pharisiens, disant: Est-il permis de guérir, un jour de sabbat?",
+        "KJV": "And Jesus answering spake unto the lawyers and Pharisees, saying, ‹Is it lawful to heal on the sabbath day?›",
+        "LSG": "Jésus prit la parole, et dit aux docteurs de la loi et aux pharisiens: Est-il permis, ou non, de faire une guérison le jour du sabbat?",
+        "MAB": "Et Jésus prenant la parole, parla aux Docteurs de la Loi, et aux Pharisiens, disant : est-il permis de guérir au jour du Sabbat?",
+        "OST": "Et Jésus, prenant la parole, dit aux docteurs de la loi et aux pharisiens: Est-il permis de guérir le jour de sabbat?",
+        "S21": "Jésus prit la parole et dit aux professeurs de la loi et aux pharisiens: «Est-il permis [ou non] de faire une guérison le jour du sabbat?»"
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "Ils ne répondirent rien.\r\nAlors Jésus, saisissant le malade, le guérit et lui dit de rentrer chez lui.",
+        "DBY": "Et ils se turent. Et l'ayant pris, il le guérit, et le renvoya.",
+        "KJV": "And they held their peace. And he took [him], and healed him, and let him go;",
+        "LSG": "Ils gardèrent le silence. Alors Jésus avança la main sur cet homme, le guérit, et le renvoya.",
+        "MAB": "Et ils ne dirent mot. Alors ayant pris [le malade], il le guérit, et le renvoya.",
+        "OST": "Et ils demeurèrent dans le silence. Alors, prenant le malade, il le guérit et le renvoya.",
+        "S21": "Ils gardèrent le silence. Alors Jésus toucha le malade, le guérit et le renvoya."
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "Puis, se tournant vers les assistants, il leur demanda:\r\n—Qui de vous, si son fils ou son bœuf tombe dans un puits, ne l’en retire pas le plus tôt possible, même si c’est le jour du sabbat?",
+        "DBY": "Et répondant, il leur dit: Qui sera celui de vous, qui, ayant un âne ou un bœuf, lequel vienne à tomber dans un puits, ne l'en retire aussitôt le jour du sabbat?",
+        "KJV": "And answered them, saying, ‹Which of you shall have an ass or an ox fallen into a pit, and will not straightway pull him out on the sabbath day?›",
+        "LSG": "Puis il leur dit: Lequel de vous, si son fils ou son boeuf tombe dans un puits, ne l'en retirera pas aussitôt, le jour du sabbat?",
+        "MAB": "Puis s'adressant à eux, il leur dit : qui sera celui d'entre vous, qui ayant un âne ou un bœuf lequel vienne à tomber dans un puits, ne l'en retire aussitôt le jour du Sabbat?",
+        "OST": "Puis il leur dit: Qui de vous, si son âne ou son bœuf tombe dans un puits, ne l'en retire aussitôt le jour de sabbat",
+        "S21": "Puis il leur dit: «Lequel de vous, si son fils ou son bœuf tombe dans un puits, ne l'en retire pas aussitôt, même le jour du sabbat?»"
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "Là encore, ils ne surent que répondre.",
+        "DBY": "Et ils ne pouvaient répliquer à ces choses.",
+        "KJV": "And they could not answer him again to these things.",
+        "LSG": "Et ils ne purent rien répondre à cela.",
+        "MAB": "Et ils ne pouvaient répliquer à ces choses.",
+        "OST": "Et ils ne purent lui répondre sur cela.",
+        "S21": "Et ils furent incapables de répondre à cela."
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "Ayant remarqué comment les invités cherchaient tous les places d’honneur, il leur dit cette parabole:",
+        "DBY": "Or il dit une parabole aux conviés, observant comment ils choisissaient les premières places; et il leur disait:",
+        "KJV": "And he put forth a parable to those which were bidden, when he marked how they chose out the chief rooms; saying unto them,",
+        "LSG": "Il adressa ensuite une parabole aux conviés, en voyant qu'ils choisissaient les premières places; et il leur dit:",
+        "MAB": "Il proposait aussi aux conviés une similitude, prenant garde comment ils choisissaient les premières places à table, et il leur disait :",
+        "OST": "Il proposa aussi aux conviés une parabole, remarquant comment ils choisissaient les premières places; et il leur dit:",
+        "S21": "Il adressa ensuite une parabole aux invités, en voyant qu'ils choisissaient les meilleures places. Il leur dit:"
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "—Si quelqu’un t’invite à un repas de noces, ne va pas t’installer à la place d’honneur. Peut-être y a-t-il, parmi les invités, un personnage plus important que toi",
+        "DBY": "Quand tu seras convié par quelqu'un à des noces, ne te mets pas à table à la première place, de peur qu'un plus honorable que toi ne soit convié par lui,",
+        "KJV": "‹When thou art bidden of any› [man] ‹to a wedding, sit not down in the highest room; lest a more honourable man than thou be bidden of him;›",
+        "LSG": "Lorsque tu seras invité par quelqu'un à des noces, ne te mets pas à la première place, de peur qu'il n'y ait parmi les invités une personne plus considérable que toi,",
+        "MAB": "Quand tu seras convié par quelqu'un à des noces, ne te mets point à table à la première place, de peur qu'il n'arrive qu'un plus honorable que toi soit aussi convié;",
+        "OST": "Quand quelqu'un t'invitera à des noces, ne te mets pas à la première place, de peur qu'il ne se trouve parmi les conviés une personne plus considérable que toi;",
+        "S21": "«Lorsque tu es invité par quelqu'un à des noces, ne te mets pas à la meilleure place, de peur qu'il n'y ait parmi les invités une personne plus importante que toi"
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "et celui qui vous a invités l’un et l’autre viendra-t-il te dire: «Cède-lui cette place.» Il te faudra alors honteusement gagner la dernière place!",
+        "DBY": "que celui qui vous a conviés, toi et lui, ne vienne et ne te dise: Fais place à celui-ci; et qu'alors tu ne le mettes avec honte à occuper la dernière place.",
+        "KJV": "‹And he that bade thee and him come and say to thee, Give this man place; and thou begin with shame to take the lowest room.›",
+        "LSG": "et que celui qui vous a invités l'un et l'autre ne vienne te dire: Cède la place à cette personne-là. Tu aurais alors la honte d'aller occuper la dernière place.",
+        "MAB": "Et que celui qui vous aura convié, ne vienne, et ne te dise : donne ta place à celui-ci; et qu'alors tu ne commences avec honte de te mettre à la dernière place.",
+        "OST": "Et que celui qui vous aura invités, toi et lui, ne vienne et ne te dise: Cède la place à celui-ci; et qu'alors tu n'aies la honte d'être mis à la dernière place.",
+        "S21": "et que celui qui vous a invités l'un et l'autre ne vienne te dire: ‘Laisse-lui la place!’ Tu aurais alors la honte d'aller occuper la dernière place."
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "Non, quand tu es invité, va, au contraire, te mettre tout de suite à la dernière place. Alors, quand ton hôte entrera dans la salle, il te dira: «Mon ami, il y a une place bien meilleure pour toi, viens t’asseoir plus haut!» Ainsi tu seras honoré devant tous les convives.",
+        "DBY": "Mais, quand tu seras convié, va et assieds-toi à la dernière place, afin que, quand celui qui t'a convié viendra, il te dise: Ami, monte plus haut. Alors tu auras de la gloire devant tous ceux qui seront à table avec toi.",
+        "KJV": "‹But when thou art bidden, go and sit down in the lowest room; that when he that bade thee cometh, he may say unto thee, Friend, go up higher: then shalt thou have worship in the presence of them that sit at meat with thee.›",
+        "LSG": "Mais, lorsque tu seras invité, va te mettre à la dernière place, afin que, quand celui qui t'a invité viendra, il te dise: Mon ami, monte plus haut. Alors cela te fera honneur devant tous ceux qui seront à table avec toi.",
+        "MAB": "Mais quand tu seras convié, va, et te mets à la dernière place, afin que quand celui qui t'a convié viendra, il te dise : mon ami, monte plus haut; et alors cela te tournera à honneur devant tous ceux qui seront à table avec toi.",
+        "OST": "Mais, quand tu seras invité, va te mettre à la dernière place, afin que quand celui qui t'a invité viendra, il te dise: Mon ami, monte plus haut. Alors cela te fera honneur devant ceux qui seront à table avec toi.",
+        "S21": "Mais lorsque tu es invité, va te mettre à la dernière place, afin qu'au moment où celui qui t'a invité arrive, il te dise: ‘Mon ami, monte plus haut.’ Alors tu seras honoré devant [tous] ceux qui seront à table avec toi."
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "En effet, celui qui s’élève sera abaissé, et celui qui s’abaisse sera élevé.",
+        "DBY": "Car quiconque s'élève sera abaissé; et celui qui s'abaisse sera élevé.",
+        "KJV": "‹For whosoever exalteth himself shall be abased; and he that humbleth himself shall be exalted.›",
+        "LSG": "Car quiconque s'élève sera abaissé, et quiconque s'abaisse sera élevé.",
+        "MAB": "Car quiconque s'élève, sera abaissé; et quiconque s'abaisse, sera élevé.",
+        "OST": "Car quiconque s'élève sera abaissé, et quiconque s'abaisse sera élevé.",
+        "S21": "En effet, toute personne qui s'élève sera abaissée, et celle qui s'abaisse sera élevée.»"
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "Jésus dit aussi à son hôte:\r\n—Quand tu donnes un déjeuner ou un dîner, n’invite pas tes amis, tes frères, ta parenté ou de riches voisins, car ils pourraient t’inviter à leur tour et te payer ainsi de ta peine.",
+        "DBY": "Et il dit aussi à celui qui l'avait convié: Quand tu fais un dîner ou un souper, n'appelle pas tes amis, ni tes frères, ni tes parents, ni de riches voisins; de peur qu'eux aussi ne te convient à leur tour, et que la pareille ne te soit rendue.",
+        "KJV": "Then said he also to him that bade him, ‹When thou makest a dinner or a supper, call not thy friends, nor thy brethren, neither thy kinsmen, nor› [thy] ‹rich neighbours; lest they also bid thee again, and a recompence be made thee.›",
+        "LSG": "Il dit aussi à celui qui l'avait invité: Lorsque tu donnes à dîner ou à souper, n'invite pas tes amis, ni tes frères, ni tes parents, ni des voisins riches, de peur qu'ils ne t'invitent à leur tour et qu'on ne te rende la pareille.",
+        "MAB": "Il disait aussi à celui qui l'avait convié : quand tu fais un dîner ou un souper, n'invite point tes amis, ni tes frères, ni tes parents, ni tes riches voisins; de peur qu'ils ne te convient à leur tour, et que la pareille ne te soit rendue.",
+        "OST": "Et il disait à celui qui l'avait invité: Quand tu fais un dîner ou un souper, n'invite pas tes amis, ni tes frères, ni tes parents, ni tes voisins riches, de peur qu'ils ne t'invitent à leur tour, et qu'on ne te rende la pareille.",
+        "S21": "Il dit aussi à celui qui l'avait invité: «Lorsque tu organises un dîner ou un souper, n'invite pas tes amis, ni tes frères, ni tes parents, ni des voisins riches, de peur qu'ils ne t'invitent à leur tour pour te rendre la pareille."
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "Non, si tu donnes une réception, invite des pauvres, des estropiés, des paralysés, des aveugles.",
+        "DBY": "Mais quand tu fais un festin, convie les pauvres, les estropiés, les boiteux, les aveugles;",
+        "KJV": "‹But when thou makest a feast, call the poor, the maimed, the lame, the blind:›",
+        "LSG": "Mais, lorsque tu donnes un festin, invite des pauvres, des estropiés, des boiteux, des aveugles.",
+        "MAB": "Mais quand tu feras un festin, convie les pauvres, les impotents, les boiteux et les aveugles;",
+        "OST": "Mais, quand tu feras un festin, convie les pauvres, les impotents, les boiteux et les aveugles;",
+        "S21": "Lorsque tu organises un festin, invite au contraire des pauvres, des estropiés, des boiteux, des aveugles,"
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "Si tu fais cela, tu en seras très heureux, précisément parce que ces gens-là n’ont pas la possibilité de te rendre la pareille. Et Dieu te le revaudra lorsque les justes ressusciteront.",
+        "DBY": "et tu seras bienheureux, car ils n'ont pas de quoi te rendre la pareille: car la pareille te sera rendue en la résurrection des justes.",
+        "KJV": "‹And thou shalt be blessed; for they cannot recompense thee: for thou shalt be recompensed at the resurrection of the just.›",
+        "LSG": "Et tu seras heureux de ce qu'ils ne peuvent pas te rendre la pareille; car elle te sera rendue à la résurrection des justes.",
+        "MAB": "Et tu seras bienheureux de ce qu'ils n'ont pas de quoi te rendre la pareille; car la pareille te sera rendue en la résurrection des justes.",
+        "OST": "Et tu seras heureux de ce qu'ils ne peuvent pas te le rendre; car tu en recevras la récompense à la résurrection des justes.",
+        "S21": "et tu seras heureux, car ils ne peuvent pas te rendre la pareille. En effet, cela te sera rendu à la résurrection des justes.»"
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "A ces mots, l’un des convives dit à Jésus:\r\n—Qu’il est heureux celui qui prendra part au banquet dans le royaume de Dieu!",
+        "DBY": "Et un de ceux qui étaient à table, ayant entendu ces choses, lui dit: Bienheureux celui qui mangera du pain dans le royaume de Dieu.",
+        "KJV": "And when one of them that sat at meat with him heard these things, he said unto him, Blessed [is] he that shall eat bread in the kingdom of God.",
+        "LSG": "Un de ceux qui étaient à table, après avoir entendu ces paroles, dit à Jésus: Heureux celui qui prendra son repas dans le royaume de Dieu!",
+        "MAB": "Et un de ceux qui étaient à table, ayant entendu ces paroles, lui dit : bienheureux sera celui qui mangera du pain dans le Royaume de Dieu.",
+        "OST": "Un de ceux qui étaient à table, ayant entendu cela, lui dit: Heureux celui qui mangera du pain dans le royaume de Dieu!",
+        "S21": "Après avoir entendu ces paroles, un de ceux qui étaient à table dit à Jésus: «Heureux celui qui prendra son repas dans le royaume de Dieu!»"
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "Jésus lui répondit:\r\n—Un jour, un homme avait organisé une grande réception. Il avait invité beaucoup de monde.",
+        "DBY": "Et il lui dit: Un homme fit un grand souper et y convia beaucoup de gens.",
+        "KJV": "Then said he unto him, ‹A certain man made a great supper, and bade many:›",
+        "LSG": "Et Jésus lui répondit: Un homme donna un grand souper, et il invita beaucoup de gens.",
+        "MAB": "Et [Jésus] dit : un homme fit un grand souper, et y convia beaucoup de gens.",
+        "OST": "Jésus lui dit: Un homme fit un grand souper, et il y convia beaucoup de gens;",
+        "S21": "Jésus lui répondit: «Un homme organisa un grand festin et invita beaucoup de gens."
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "Lorsque le moment du festin arriva, il envoya son serviteur dire aux invités:\r\n«Venez maintenant, tout est prêt.»",
+        "DBY": "Et à l'heure du souper, il envoya son esclave dire aux conviés: Venez, car déjà tout est prêt.",
+        "KJV": "‹And sent his servant at supper time to say to them that were bidden, Come; for all things are now ready.›",
+        "LSG": "A l'heure du souper, il envoya son serviteur dire aux conviés: Venez, car tout est déjà prêt.",
+        "MAB": "Et à l'heure du souper il envoya son serviteur pour dire aux conviés : venez, car tout est déjà prêt.",
+        "OST": "Et il envoya son serviteur, à l'heure du souper, dire aux conviés: Venez, car tout est prêt.",
+        "S21": "A l'heure du festin, il envoya son serviteur dire aux invités: ‘Venez, car tout est déjà prêt.’"
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "Mais ceux-ci s’excusèrent tous l’un après l’autre.\r\nLe premier lui fit dire:\r\n«J’ai acheté un champ et il faut absolument que j’aille le voir. Excuse-moi, je te prie.»",
+        "DBY": "Et ils commencèrent tous unanimement à s'excuser. Le premier lui dit: J'ai acheté un champ, et il faut nécessairement que je m'en aille et que je le voie; je te prie, tiens-moi pour excusé.",
+        "KJV": "‹And they all with one› [consent] ‹began to make excuse. The first said unto him, I have bought a piece of ground, and I must needs go and see it: I pray thee have me excused.›",
+        "LSG": "Mais tous unanimement se mirent à s'excuser. Le premier lui dit: J'ai acheté un champ, et je suis obligé d'aller le voir; excuse-moi, je te prie.",
+        "MAB": "Mais ils commencèrent tous unanimement à s'excuser. Le premier lui dit : j'ai acheté un héritage, et il me faut nécessairement partir pour l'aller voir; je te prie, tiens-moi pour excusé.",
+        "OST": "Et ils se mirent tous, de concert, à s'excuser. Le premier lui dit: J'ai acheté une terre, et il me faut nécessairement partir et la voir; je te prie de m'excuser.",
+        "S21": "Mais tous sans exception se mirent à s'excuser. Le premier lui dit: ‘J'ai acheté un champ et je suis obligé d'aller le voir, excuse-moi, je t'en prie.’"
+      }
+    },
+    {
+      "verse": 19,
+      "texts": {
+        "BDS": "Un autre dit:\r\n«Je viens d’acquérir cinq paires de bœufs, et je m’en vais les essayer. Excuse-moi, je te prie.»",
+        "DBY": "Et un autre dit: J'ai acheté cinq couples de bœufs, et je vais les essayer; je te prie, tiens-moi pour excusé.",
+        "KJV": "‹And another said, I have bought five yoke of oxen, and I go to prove them: I pray thee have me excused.›",
+        "LSG": "Un autre dit: J'ai acheté cinq paires de boeufs, et je vais les essayer; excuse-moi, je te prie.",
+        "MAB": "Un autre dit : j'ai acheté cinq couples de bœufs, et je m'en vais les éprouver; je te prie, tiens-moi pour excusé.",
+        "OST": "Et un autre dit: J'ai acheté cinq couples de bœufs, et je m'en vais les éprouver; je te prie de m'excuser.",
+        "S21": "Un autre dit: ‘J'ai acheté cinq paires de bœufs et je vais les essayer, excuse-moi, je t'en prie.’"
+      }
+    },
+    {
+      "verse": 20,
+      "texts": {
+        "BDS": "Un autre encore dit:\r\n«Je viens de me marier, il m’est donc impossible de venir.»",
+        "DBY": "Et un autre dit: J'ai épousé une femme, et à cause de cela je ne puis aller.",
+        "KJV": "‹And another said, I have married a wife, and therefore I cannot come.›",
+        "LSG": "Un autre dit: Je viens de me marier, et c'est pourquoi je ne puis aller.",
+        "MAB": "Et un autre dit : j'ai épousé une femme, c'est pourquoi je n'y puis aller.",
+        "OST": "Et un autre dit: J'ai épousé une femme, ainsi je n'y puis aller.",
+        "S21": "Un autre dit: ‘Je viens de me marier, c'est pourquoi je ne peux pas venir.’"
+      }
+    },
+    {
+      "verse": 21,
+      "texts": {
+        "BDS": "Quand le serviteur fut de retour auprès de son maître, il lui rapporta toutes les excuses qu’on lui avait données. Alors le maître de la maison se mit en colère et dit à son serviteur:\r\n«Dépêche-toi! Va-t’en sur les places et dans les rues de la ville et amène ici les pauvres, les estropiés, les aveugles, les paralysés…!»",
+        "DBY": "Et l'esclave, s'en étant retourné, rapporta ces choses à son maître. Alors le maître de la maison, en colère, dit à son esclave: Va-t'en promptement dans les rues et dans les ruelles de la ville, et amène ici les pauvres, et les estropiés, et les aveugles, et les boiteux.",
+        "KJV": "‹So that servant came, and shewed his lord these things. Then the master of the house being angry said to his servant, Go out quickly into the streets and lanes of the city, and bring in hither the poor, and the maimed, and the halt, and the blind.›",
+        "LSG": "Le serviteur, de retour, rapporta ces choses à son maître. Alors le maître de la maison irrité dit à son serviteur: Va promptement dans les places et dans les rues de la ville, et amène ici les pauvres, les estropiés, les aveugles et les boiteux.",
+        "MAB": "Ainsi le serviteur s'en retourna, et rapporta ces choses à son maître. Alors le père de famille tout en colère, dit à son serviteur : va-t'en promptement dans les places et dans les rues de la ville, et amène ici les pauvres, et les impotents, et les boiteux et les aveugles.",
+        "OST": "Et le serviteur étant de retour, rapporta cela à son maître. Alors le père de famille en colère dit à son serviteur: Va-t'en promptement sur les places et dans les rues de la ville, et amène ici les pauvres, les impotents, les boiteux et les aveugles.",
+        "S21": "A son retour, le serviteur rapporta ces paroles à son maître. Alors le maître de la maison, en colère, dit à son serviteur: ‘Va vite sur les places et dans les rues de la ville et amène ici les pauvres, les estropiés, les aveugles et les boiteux.’"
+      }
+    },
+    {
+      "verse": 22,
+      "texts": {
+        "BDS": "Au bout d’un moment, le serviteur vint dire:\r\n«Maître, j’ai fait ce que tu m’as dit, mais il y a encore de la place.»",
+        "DBY": "Et l'esclave dit: Maître, il a été fait ainsi que tu as commandé, et il y a encore de la place.",
+        "KJV": "‹And the servant said, Lord, it is done as thou hast commanded, and yet there is room.›",
+        "LSG": "Le serviteur dit: Maître, ce que tu as ordonné a été fait, et il y a encore de la place.",
+        "MAB": "Puis le serviteur dit : Maître, il a été fait ainsi que tu as commandé, et il y a encore de la place.",
+        "OST": "Ensuite le serviteur dit: Seigneur, on a fait ce que tu as commandé, et il y a encore de la place.",
+        "S21": "Le serviteur dit: ‘Maître, ce que tu as ordonné a été fait et il reste encore de la place.’"
+      }
+    },
+    {
+      "verse": 23,
+      "texts": {
+        "BDS": "«Eh bien, lui dit le maître, va sur les chemins, le long des haies, fais en sorte que les gens viennent, pour que ma maison soit pleine.",
+        "DBY": "Et le maître dit à l'esclave: Va-t'en dans les chemins et le long des haies, et contrains les gens d'entrer, afin que ma maison soit remplie;",
+        "KJV": "‹And the lord said unto the servant, Go out into the highways and hedges, and compel› [them] ‹to come in, that my house may be filled.›",
+        "LSG": "Et le maître dit au serviteur: Va dans les chemins et le long des haies, et ceux que tu trouveras, contrains-les d'entrer, afin que ma maison soit remplie.",
+        "MAB": "Et le maître dit au serviteur : va dans les chemins et le long des haies, et [ceux que tu trouveras], contrains-les d'entrer, afin que ma maison soit remplie.",
+        "OST": "Et le maître dit au serviteur: Va dans les chemins et le long des haies, et contrains d'entrer ceux qui y sont, afin que ma maison soit remplie.",
+        "S21": "Le maître dit alors au serviteur: ‘Va sur les chemins et le long des haies, et ceux que tu trouveras, oblige-les à entrer, afin que ma maison soit remplie."
+      }
+    },
+    {
+      "verse": 24,
+      "texts": {
+        "BDS": "Une chose est sûre: pas un seul des premiers invités ne goûtera à mon festin.»",
+        "DBY": "car je vous dis, qu'aucun de ces hommes qui ont été conviés ne goûtera de mon souper.",
+        "KJV": "‹For I say unto you, That none of those men which were bidden shall taste of my supper.›",
+        "LSG": "Car, je vous le dis, aucun de ces hommes qui avaient été invités ne goûtera de mon souper.",
+        "MAB": "Car je vous dis qu'aucun de ces hommes qui avaient été conviés ne goûtera de mon souper.",
+        "OST": "Car je vous dis qu'aucun de ceux qui avaient été conviés ne goûtera de mon souper.",
+        "S21": "En effet, je vous le dis, aucun de ces hommes qui avaient été invités ne goûtera de mon festin.’»"
+      }
+    },
+    {
+      "verse": 25,
+      "texts": {
+        "BDS": "Comme de grandes foules accompagnaient Jésus, il se retourna vers ceux qui le suivaient et leur dit:",
+        "DBY": "Et de grandes foules allaient avec lui. Et se tournant, il leur dit:",
+        "KJV": "And there went great multitudes with him: and he turned, and said unto them,",
+        "LSG": "De grandes foules faisaient route avec Jésus. Il se retourna, et leur dit:",
+        "MAB": "Or de grandes troupes allaient avec lui; et lui se tournant leur dit :",
+        "OST": "Comme une grande multitude de gens allaient avec lui, il se tourna vers eux et leur dit:",
+        "S21": "De grandes foules faisaient route avec Jésus. Il se retourna et leur dit:"
+      }
+    },
+    {
+      "verse": 26,
+      "texts": {
+        "BDS": "—Si quelqu’un vient à moi et n’est pas prêt à renoncer à son père, sa mère, sa femme, ses enfants, ses frères, ses sœurs, et même à son propre moi, il ne peut être mon disciple.",
+        "DBY": "Si quelqu'un vient à moi, et ne hait pas son père, et sa mère, et sa femme, et ses enfants, et ses frères, et ses sœurs, et même aussi sa propre vie, il ne peut être mon disciple.",
+        "KJV": "‹If any› [man] ‹come to me, and hate not his father, and mother, and wife, and children, and brethren, and sisters, yea, and his own life also, he cannot be my disciple.›",
+        "LSG": "Si quelqu'un vient à moi, et s'il ne hait pas son père, sa mère, sa femme, ses enfants, ses frères, et ses soeurs, et même sa propre vie, il ne peut être mon disciple.",
+        "MAB": "Si quelqu'un vient vers moi, et ne hait pas son père et sa mère, et sa femme et ses enfants, et ses frères, et ses sœurs, et même sa propre vie, il ne peut être mon disciple.",
+        "OST": "Si quelqu'un vient à moi, et ne hait pas son père, sa mère, sa femme, ses enfants, ses frères, ses sœurs, plus encore sa propre vie, il ne peut être mon disciple.",
+        "S21": "«Si quelqu'un vient à moi sans me préférer à son père, sa mère, sa femme, ses enfants, ses frères et ses sœurs, et même à sa propre vie, il ne peut pas être mon disciple."
+      }
+    },
+    {
+      "verse": 27,
+      "texts": {
+        "BDS": "Celui qui ne porte pas sa croix, et qui ne me suit pas, ne peut être mon disciple.",
+        "DBY": "Et quiconque ne porte pas sa croix, et ne vient pas après moi, ne peut être mon disciple.",
+        "KJV": "‹And whosoever doth not bear his cross, and come after me, cannot be my disciple.›",
+        "LSG": "Et quiconque ne porte pas sa croix, et ne me suit pas, ne peut être mon disciple.",
+        "MAB": "Et quiconque ne porte sa croix, et ne vient après moi, il ne peut être mon disciple.",
+        "OST": "Et quiconque ne porte pas sa croix, et ne me suit pas, ne peut être mon disciple.",
+        "S21": "Celui qui ne porte pas sa croix et ne me suit pas ne peut pas être mon disciple."
+      }
+    },
+    {
+      "verse": 28,
+      "texts": {
+        "BDS": "En effet, si l’un de vous veut bâtir une tour, est-ce qu’il ne prend pas d’abord le temps de s’asseoir pour calculer ce qu’elle lui coûtera et de vérifier s’il a les moyens de mener son entreprise à bonne fin?",
+        "DBY": "Car quel est celui d'entre vous qui, voulant bâtir une tour, ne s'asseye premièrement et ne calcule la dépense, pour voir s'il a de quoi l'achever?",
+        "KJV": "‹For which of you, intending to build a tower, sitteth not down first, and counteth the cost, whether he have› [sufficient] ‹to finish› [it]?",
+        "LSG": "Car, lequel de vous, s'il veut bâtir une tour, ne s'assied d'abord pour calculer la dépense et voir s'il a de quoi la terminer,",
+        "MAB": "Mais qui est celui d'entre vous, qui voulant bâtir une tour, ne s'asseye premièrement, et ne calcule la dépense pour voir s'il a de quoi l'achever?",
+        "OST": "Car qui de vous, voulant bâtir une tour, ne s'assied premièrement, et ne calcule la dépense, pour voir s'il a de quoi l'achever?",
+        "S21": "En effet, si l'un de vous veut construire une tour, il s'assied d'abord pour calculer la dépense et voir s'il a de quoi la terminer."
+      }
+    },
+    {
+      "verse": 29,
+      "texts": {
+        "BDS": "Sans quoi, s’il n’arrive pas à terminer sa construction après avoir posé les fondations, il risque d’être la risée de tous les témoins de son échec.",
+        "DBY": "de peur que, en ayant jeté le fondement et n'ayant pu l'achever, tous ceux qui le voient ne se mettent à se moquer de lui, disant:",
+        "KJV": "‹Lest haply, after he hath laid the foundation, and is not able to finish› [it], ‹all that behold› [it] ‹begin to mock him,›",
+        "LSG": "de peur qu'après avoir posé les fondements, il ne puisse l'achever, et que tous ceux qui le verront ne se mettent à le railler,",
+        "MAB": "De peur qu'après en avoir jeté le fondement, et n'ayant pu achever, tous ceux qui le verront ne commencent à se moquer de lui;",
+        "OST": "De peur, qu'après qu'il en aura posé les fondements, et qu'il n'aura pu achever, tous ceux qui le verront ne viennent à se moquer de lui, et ne disent:",
+        "S21": "Autrement, si après avoir posé les fondations il ne peut pas la terminer, tous ceux qui le verront se mettront à se moquer de lui"
+      }
+    },
+    {
+      "verse": 30,
+      "texts": {
+        "BDS": "«Regardez, diront-ils, c’est celui qui a commencé à construire et qui n’a pas pu terminer!»",
+        "DBY": "Cet homme a commencé à bâtir, et il n'a pu achever.",
+        "KJV": "‹Saying, This man began to build, and was not able to finish.›",
+        "LSG": "en disant: Cet homme a commencé à bâtir, et il n'a pu achever?",
+        "MAB": "En disant : cet homme a commencé à bâtir, et il n'a pu achever.",
+        "OST": "Cet homme a commencé de bâtir, et n'a pu achever.",
+        "S21": "en disant: ‘Cet homme a commencé à construire, et il n'a pas pu finir.’"
+      }
+    },
+    {
+      "verse": 31,
+      "texts": {
+        "BDS": "Ou bien, supposez qu’un roi soit sur le point de déclarer la guerre à un autre. Ne prendra-t-il pas le temps de s’asseoir pour examiner s’il peut, avec dix mille hommes, affronter celui qui est sur le point de marcher contre lui avec vingt mille?",
+        "DBY": "Ou, quel est le roi qui, partant pour faire la guerre à un autre roi, ne s'asseye premièrement et ne délibère s'il peut, avec dix mille hommes, résister à celui qui vient contre lui avec vingt mille?",
+        "KJV": "‹Or what king, going to make war against another king, sitteth not down first, and consulteth whether he be able with ten thousand to meet him that cometh against him with twenty thousand?›",
+        "LSG": "Ou quel roi, s'il va faire la guerre à un autre roi, ne s'assied d'abord pour examiner s'il peut, avec dix mille hommes, marcher à la rencontre de celui qui vient l'attaquer avec vingt mille?",
+        "MAB": "Ou, qui est le Roi qui parte pour donner bataille à un autre Roi, qui premièrement ne s'asseye, et ne consulte s'il pourra avec dix mille [hommes] aller à la rencontre de celui qui vient contre lui avec vingt mille?",
+        "OST": "Ou, quel est le roi, qui marchant pour livrer bataille à un autre roi, ne s'asseye premièrement et ne consulte s'il pourra, avec dix mille hommes, aller à la rencontre de celui qui vient contre lui avec vingt mille?",
+        "S21": "De même, si un roi part en guerre contre un autre roi, il s'assied d'abord pour examiner s'il peut, avec 10'000 hommes, affronter celui qui vient l'attaquer avec 20'000."
+      }
+    },
+    {
+      "verse": 32,
+      "texts": {
+        "BDS": "S’il se rend compte qu’il en est incapable, il lui enverra une délégation, pendant que l’ennemi est encore loin, pour négocier la paix avec lui.",
+        "DBY": "Autrement, pendant qu'il est encore loin, il lui envoie une ambassade et s'informe des conditions de paix.",
+        "KJV": "‹Or else, while the other is yet a great way off, he sendeth an ambassage, and desireth conditions of peace.›",
+        "LSG": "S'il ne le peut, tandis que cet autre roi est encore loin, il lui envoie une ambassade pour demander la paix.",
+        "MAB": "Autrement, il lui envoie une ambassade, pendant qu'il est encore loin, et demande la paix.",
+        "OST": "Autrement, pendant que celui-ci est encore loin, il lui envoie une ambassade, pour demander la paix.",
+        "S21": "Si ce n’est pas le cas, alors que l'autre roi est encore loin, il lui envoie une ambassade pour demander la paix."
+      }
+    },
+    {
+      "verse": 33,
+      "texts": {
+        "BDS": "Il en est de même pour vous; celui qui n’est pas prêt à abandonner tout ce qu’il possède, ne peut pas être mon disciple.",
+        "DBY": "Ainsi donc, quiconque d'entre vous ne renonce pas à tout ce qu'il a, ne peut être mon disciple.",
+        "KJV": "‹So likewise, whosoever he be of you that forsaketh not all that he hath, he cannot be my disciple.›",
+        "LSG": "Ainsi donc, quiconque d'entre vous ne renonce pas à tout ce qu'il possède ne peut être mon disciple.",
+        "MAB": "Ainsi donc chacun de vous qui ne renonce pas à tout ce qu'il a, ne peut être mon disciple.",
+        "OST": "Ainsi quiconque parmi vous ne renonce pas à tout ce qu'il a, ne peut être mon disciple.",
+        "S21": "Ainsi donc aucun de vous, à moins de renoncer à tout ce qu'il possède, ne peut être mon disciple."
+      }
+    },
+    {
+      "verse": 34,
+      "texts": {
+        "BDS": "—Le sel est une bonne chose, mais s’il devient insipide, comment lui rendra-t-on sa saveur?",
+        "DBY": "Le sel donc est bon; mais si le sel aussi a perdu sa saveur, avec quoi l'assaisonnera-t-on?",
+        "KJV": "‹Salt› [is] ‹good: but if the salt have lost his savour, wherewith shall it be seasoned?›",
+        "LSG": "Le sel est une bonne chose; mais si le sel perd sa saveur, avec quoi l'assaisonnera-t-on?",
+        "MAB": "Le sel est bon; mais si le sel devient insipide, avec quoi le salera-t-on?",
+        "OST": "Le sel est une bonne chose; mais si le sel perd sa saveur, avec quoi l'assaisonnera-t-on?",
+        "S21": "»Le sel est une bonne chose, mais si le sel perd sa saveur, avec quoi la lui rendra-t-on?"
+      }
+    },
+    {
+      "verse": 35,
+      "texts": {
+        "BDS": "On ne peut plus l’utiliser, ni pour la terre, ni pour le fumier. Il n’y a plus qu’à le jeter. Celui qui a des oreilles pour entendre, qu’il entende!",
+        "DBY": "Il n'est propre, ni pour la terre, ni pour le fumier; on le jette dehors. Qui a des oreilles pour entendre, qu'il entende.",
+        "KJV": "‹It is neither fit for the land, nor yet for the dunghill;› [but] ‹men cast it out. He that hath ears to hear, let him hear.›",
+        "LSG": "Il n'est bon ni pour la terre, ni pour le fumier; on le jette dehors. Que celui qui a des oreilles pour entendre entende.",
+        "MAB": "Il n'est propre ni pour la terre, ni pour le fumier; [mais] on le jette dehors. Qui a des oreilles pour ouïr, qu'il entende!",
+        "OST": "Il n'est bon, ni pour la terre, ni pour le fumier; on le jette dehors. Que celui qui a des oreilles pour entendre, entende.",
+        "S21": "Il n'est bon ni pour la terre, ni pour le fumier; on le jette dehors. Que celui qui a des oreilles pour entendre entende.»"
+      }
+    }
+  ]
+}

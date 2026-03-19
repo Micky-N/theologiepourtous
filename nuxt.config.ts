@@ -8,7 +8,8 @@ export default defineNuxtConfig({
         '@vueuse/nuxt',
         'nuxt-og-image',
         '@prisma/nuxt',
-        'nuxt-auth-utils'
+        'nuxt-auth-utils',
+        'nuxt-auth-sanctum'
     ],
 
     devtools: {
@@ -61,6 +62,10 @@ export default defineNuxtConfig({
                 braceStyle: '1tbs'
             }
         }
+    },
+
+    sanctum: {
+        baseUrl: 'http://localhost:8000' // Laravel API
     }
 
 });

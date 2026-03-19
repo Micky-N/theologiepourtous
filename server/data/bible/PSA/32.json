@@ -1,0 +1,138 @@
+{
+  "bookCode": "PSA",
+  "chapter": 32,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "Méditation de David.\r\nHeureux l’homme dont la faute est effacée,\r\net le péché pardonné!",
+        "DBY": "Bienheureux celui dont la transgression est pardonnée, et dont le péché est couvert!",
+        "KJV": "[A] Psalm of David, Maschil. Blessed [is he whose] transgression [is] forgiven, [whose] sin [is] covered.",
+        "LSG": "De David. Cantique. Heureux celui à qui la transgression est remise, A qui le péché est pardonné!",
+        "MAB": "Maskil de David. Ô! Que bienheureux est celui de qui la transgression est pardonnée, et dont le péché est couvert!",
+        "OST": "Maskil (cantique) de David. Heureux celui dont la transgression est pardonnée, et dont le péché est couvert!",
+        "S21": "De David, cantique.\r\nHeureux celui dont la transgression est enlevée et dont le péché est pardonné!"
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "Heureux l’homme au compte de qui l’Eternel ne porte pas le péché\r\net qui est exempt de mauvaise foi!",
+        "DBY": "Bienheureux l'homme à qui l'Éternel ne compte pas l'iniquité, et dans l'esprit duquel il n'y a point de fraude!",
+        "KJV": "Blessed [is] the man unto whom the LORD imputeth not iniquity, and in whose spirit [there is] no guile.",
+        "LSG": "Heureux l'homme à qui l'Eternel n'impute pas d'iniquité, Et dans l'esprit duquel il n'y a point de fraude!",
+        "MAB": "Ô que bienheureux est l'homme à qui l'Eternel n'impute point son iniquité, et dans l'esprit duquel il n'y a point de fraude!",
+        "OST": "Heureux l'homme à qui l'Éternel n'impute pas l'iniquité, et dans l'esprit duquel il n'y a point de fraude!",
+        "S21": "Heureux l’homme à qui l’Eternel ne tient pas compte de sa faute et dont l’esprit ne connaît pas la ruse!"
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "Tant que je taisais ma faute,\r\nje m’épuisais à gémir sans cesse, à longueur de jour.",
+        "DBY": "Quand je me suis tu, mes os ont dépéri, quand je rugissais tout le jour;",
+        "KJV": "When I kept silence, my bones waxed old through my roaring all the day long.",
+        "LSG": "Tant que je me suis tu, mes os se consumaient, Je gémissais toute la journée;",
+        "MAB": "Quand je me suis tu, mes os se sont consumés; et aussi quand je n'ai fait que rugir tout le jour.",
+        "OST": "Quand je me suis tu, mes os se sont consumés, et je gémissais tout le jour.",
+        "S21": "Tant que je me taisais, mon corps dépérissait; je gémissais toute la journée,"
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "Sur moi, le jour et la nuit, ta main s’appesantissait,\r\nma vigueur m’abandonnait comme l’herbe se dessèche lors des ardeurs de l’été.\r\nPause",
+        "DBY": "Car jour et nuit ta main s'appesantissait sur moi; ma vigueur s'est changée en une sécheresse d'été. Sélah.",
+        "KJV": "For day and night thy hand was heavy upon me: my moisture is turned into the drought of summer. Selah.",
+        "LSG": "Car nuit et jour ta main s'appesantissait sur moi, Ma vigueur n'était plus que sécheresse, comme celle de l'été. -Pause.",
+        "MAB": "Parce que jour et nuit ta main s'appesantissait sur moi, ma vigueur s'est changée en une sécheresse d'Eté. Sélah.",
+        "OST": "Car, jour et nuit, ta main s'appesantissait sur moi; ma vigueur se changeait en une sécheresse d'été. Sélah (pause).",
+        "S21": "car nuit et jour ta main pesait lourdement sur moi. Ma vigueur avait fait place à la sécheresse de l’été. – Pause."
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "Je t’ai avoué ma faute,\r\nje n’ai plus caché mes torts,\r\nj’ai dit: «Je reconnaîtrai devant l’Eternel les péchés que j’ai commis.»\r\nAlors tu m’as déchargé du poids de ma faute.\r\nPause",
+        "DBY": "Je t'ai fait connaître mon péché, et je n'ai pas couvert mon iniquité; j'ai dit: Je confesserai mes transgressions à l'Éternel; et toi, tu as pardonné l'iniquité de mon péché. Sélah.",
+        "KJV": "I acknowledged my sin unto thee, and mine iniquity have I not hid. I said, I will confess my transgressions unto the LORD; and thou forgavest the iniquity of my sin. Selah.",
+        "LSG": "Je t'ai fait connaître mon péché, je n'ai pas caché mon iniquité; J'ai dit: J'avouerai mes transgressions à l'Eternel! Et tu as effacé la peine de mon péché. -Pause.",
+        "MAB": "Je t'ai fait connaître mon péché, et je n'ai point caché mon iniquité. J'ai dit : Je ferai confession de mes transgressions à l'Eternel; et tu as ôté la peine de mon péché. Sélah.",
+        "OST": "Je t'ai fait connaître mon péché, et je ne t'ai point caché mon iniquité. J'ai dit: Je confesserai mes transgressions à l'Éternel; et tu as ôté la peine de mon péché. (Sélah.)",
+        "S21": "Je t’ai fait connaître mon péché, je n’ai pas caché ma faute. J’ai dit: «J’avouerai mes transgressions à l’Eternel», et tu as pardonné mon péché. – Pause."
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "Ainsi, que tout homme pieux te prie au temps opportun.\r\nSi les grandes eaux déferlent,\r\nleurs flots ne l’atteignent pas.",
+        "DBY": "C'est pourquoi tout homme pieux te priera au temps où l'on te trouve; certainement, en un déluge de grandes eaux, celles-ci ne l'atteindront pas.",
+        "KJV": "For this shall every one that is godly pray unto thee in a time when thou mayest be found: surely in the floods of great waters they shall not come nigh unto him.",
+        "LSG": "Qu'ainsi tout homme pieux te prie au temps convenable! Si de grandes eaux débordent, elles ne l'atteindront nullement.",
+        "MAB": "C'est pourquoi tout bien-aimé de toi te suppliera au temps qu'on [te] trouve, tellement qu'en un déluge de grandes eaux, elles ne l'atteindront point.",
+        "OST": "C'est pourquoi tout fidèle t'invoquera au temps qu'on te trouve; et quand les grandes eaux déborderaient, seul il n'en sera pas atteint.",
+        "S21": "C’est ainsi que tout fidèle peut te prier au moment convenable. Si de grandes eaux débordent, elles ne l’atteindront pas."
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "Tu es un abri pour moi, tu me gardes du danger.\r\nAutour de moi retentissent les chants de la délivrance.\r\nPause",
+        "DBY": "Tu es mon asile; tu me gardes de détresse, tu m'entoures des chants de triomphe de la délivrance. Sélah.",
+        "KJV": "Thou [art] my hiding place; thou shalt preserve me from trouble; thou shalt compass me about with songs of deliverance. Selah.",
+        "LSG": "Tu es un asile pour moi, tu me garantis de la détresse, Tu m'entoures de chants de délivrance. -Pause.",
+        "MAB": "Tu es mon asile, tu me gardes de détresse; tu m'environnes de chants de triomphe à cause de la délivrance. Sélah.",
+        "OST": "Tu es ma retraite; tu me garantis de la détresse, tu m'environnes de chants de délivrance. (Sélah.)",
+        "S21": "Tu es un abri pour moi, tu me préserves de la détresse, tu m’entoures de chants de délivrance. – Pause."
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "Tu as dit: «Je vais t’instruire et t’indiquer le chemin que tu devras emprunter,\r\nje serai ton conseiller, mes yeux veilleront sur toi.",
+        "DBY": "Je t'instruirai, et je t'enseignerai le chemin où tu dois marcher; je te conseillerai, ayant mon œil sur toi.",
+        "KJV": "I will instruct thee and teach thee in the way which thou shalt go: I will guide thee with mine eye.",
+        "LSG": "Je t'instruirai et te montrerai la voie que tu dois suivre; Je te conseillerai, j'aurai le regard sur toi.",
+        "MAB": "Je te rendrai avisé, je t'enseignerai le chemin dans lequel tu dois marcher, et je te guiderai de mon œil.",
+        "OST": "Je te rendrai intelligent, m'a dit l'Éternel, je t'enseignerai le chemin où tu dois marcher; je te conduirai; mon œil sera sur toi.",
+        "S21": "Je t’instruirai et te montrerai la voie que tu dois suivre; je te conseillerai, j’aurai le regard sur toi."
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "Ne soyez donc pas stupides comme un cheval, un mulet dépourvus d’intelligence\r\ndont il faut dompter la fougue par la bride et par le mors\r\npour qu’ils t’obéissent!»",
+        "DBY": "Ne soyez pas comme le cheval, comme le mulet, qui n'ont pas d'intelligence, dont l'ornement est la bride et le mors, pour les refréner quand ils ne veulent pas s'approcher de toi.",
+        "KJV": "Be ye not as the horse, [or] as the mule, [which] have no understanding: whose mouth must be held in with bit and bridle, lest they come near unto thee.",
+        "LSG": "Ne soyez pas comme un cheval ou un mulet sans intelligence; On les bride avec un frein et un mors, dont on les pare, Afin qu'ils ne s'approchent point de toi.",
+        "MAB": "Ne soyez point comme le cheval, ni comme le mulet, qui sont sans intelligence, desquels il faut emmuseler la bouche avec un mors et un frein, de peur qu'ils n'approchent de toi.",
+        "OST": "Ne soyez pas comme le cheval et comme le mulet sans intelligence, dont il faut serrer la bouche avec un mors et un frein, de peur qu'ils n'approchent de toi.",
+        "S21": "Ne soyez pas comme un cheval ou un mulet sans intelligence: on les freine avec un mors et une bride, dont on les orne, afin qu’ils ne te bousculent pas."
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "Ils sont nombreux les tourments qui attendent les méchants,\r\nmais les hommes qui ont mis leur confiance en l’Eternel sont comblés par son amour.",
+        "DBY": "Le méchant a beaucoup d'afflictions; mais l'homme qui se confie en l'Éternel, la bonté l'environnera.",
+        "KJV": "Many sorrows [shall be] to the wicked: but he that trusteth in the LORD, mercy shall compass him about.",
+        "LSG": "Beaucoup de douleurs sont la part du méchant, Mais celui qui se confie en l'Eternel est environné de sa grâce.",
+        "MAB": "Plusieurs douleurs atteindront le méchant; mais la gratuité environnera l'homme qui se confie en l'Eternel.",
+        "OST": "Beaucoup de douleurs atteindront le méchant; mais la grâce environnera celui qui se confie en l'Éternel.",
+        "S21": "Beaucoup de douleurs sont le lot du méchant, mais celui qui se confie en l’Eternel est environné de sa grâce."
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "Justes, réjouissez-vous! Mettez votre joie en l’Eternel\r\net poussez des cris de joie, vous qui êtes droits de cœur!",
+        "DBY": "Réjouissez-vous en l'Éternel, et égayez-vous, justes! et jetez des cris de joie, vous tous qui êtes droits de cœur.",
+        "KJV": "Be glad in the LORD, and rejoice, ye righteous: and shout for joy, all [ye that are] upright in heart.",
+        "LSG": "Justes, réjouissez-vous en l'Eternel et soyez dans l'allégresse! Poussez des cris de joie, vous tous qui êtes droits de coeur!",
+        "MAB": "Vous justes, réjouissez-vous en l'Eternel, égayez-vous, et chantez de joie vous tous qui êtes droits de cœur.",
+        "OST": "Justes, réjouissez-vous en l'Éternel, et vous égayez! Chantez de joie, vous tous qui avez le cœur droit!",
+        "S21": "Justes, réjouissez-vous en l’Eternel et soyez dans l’allégresse! Poussez des cris de joie, vous tous qui avez le cœur droit!"
+      }
+    }
+  ]
+}

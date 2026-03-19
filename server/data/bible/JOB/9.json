@@ -1,0 +1,426 @@
+{
+  "bookCode": "JOB",
+  "chapter": 9,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "Alors Job répondit:",
+        "DBY": "Et Job répondit et dit:",
+        "KJV": "Then Job answered and said,",
+        "LSG": "Job prit la parole et dit:",
+        "MAB": "Mais Job répondit, et dit :",
+        "OST": "Et Job prit la parole, et dit:",
+        "S21": "Job prit la parole et dit:"
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "Oui, certes, je le sais, il en est bien ainsi:\r\ncomment un homme serait-il juste devant Dieu?",
+        "DBY": "En vérité, je sais qu'il en est ainsi. Mais comment l'homme sera-t-il juste devant Dieu?",
+        "KJV": "I know [it is] so of a truth: but how should man be just with God?",
+        "LSG": "Je sais bien qu'il en est ainsi; Comment l'homme serait-il juste devant Dieu?",
+        "MAB": "Certainement je sais que cela est ainsi; et comment l'homme [mortel] se justifierait-il devant le [Dieu] Fort?",
+        "OST": "Certainement, je sais qu'il en est ainsi; et comment l'homme serait-il juste devant Dieu?",
+        "S21": "«C’est vrai, je sais bien que telle est la situation. Comment l'homme pourrait-il être juste devant Dieu?"
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "Qui donc s’aviserait de plaider contre lui?\r\nMême une fois sur mille, il ne pourra répondre.",
+        "DBY": "S'il se plaît à contester avec lui, il ne lui répondra pas sur un point entre mille.",
+        "KJV": "If he will contend with him, he cannot answer him one of a thousand.",
+        "LSG": "S'il voulait contester avec lui, Sur mille choses il ne pourrait répondre à une seule.",
+        "MAB": "Si [Dieu] veut plaider avec lui, de mille articles il ne saurait lui répondre sur un seul.",
+        "OST": "S'il veut plaider avec lui, il ne lui répondra pas une fois sur mille.",
+        "S21": "Si l’homme voulait contester avec Dieu, il ne pourrait même pas lui donner une seule réponse sur mille."
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "Dieu est riche en sagesse, et puissante est sa force.\r\nQui pourrait le braver et s’en sortir indemne?",
+        "DBY": "Il est sage de cœur et puissant en force: qui s'est endurci contre lui et a prospéré?",
+        "KJV": "[He is] wise in heart, and mighty in strength: who hath hardened [himself] against him, and hath prospered?",
+        "LSG": "A lui la sagesse et la toute-puissance: Qui lui résisterait impunément?",
+        "MAB": "[Dieu] est sage de cœur, et puissant en force. Qui est-ce qui s'est opposé à lui, et s'en est bien trouvé?",
+        "OST": "Il est habile en son intelligence, et puissant en sa force: qui lui a résisté et s'en est bien trouvé?",
+        "S21": "C’est à lui qu’appartiennent la sagesse et la toute-puissance. Qui lui a déjà résisté sans subir de dommage?"
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "Lui qui déplace les montagnes sans qu’elles ne s’en doutent\r\net les renverse en sa colère,",
+        "DBY": "Il transporte les montagnes, et elles ne savent pas qu'il les renverse dans sa colère;",
+        "KJV": "Which removeth the mountains, and they know not: which overturneth them in his anger.",
+        "LSG": "Il transporte soudain les montagnes, Il les renverse dans sa colère.",
+        "MAB": "Il transporte les montagnes, et quand il les renverse en sa fureur, elles n'en connaissent rien.",
+        "OST": "Il transporte les montagnes, et elles ne le savent pas; il les bouleverse en sa fureur;",
+        "S21": "»C’est lui qui déplace les montagnes à l’improviste, qui les bouleverse dans sa colère."
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "il fait trembler la terre jusqu’en ses fondations:\r\nses colonnes chancellent.",
+        "DBY": "Il remue la terre de sa place, et ses colonnes tremblent;",
+        "KJV": "Which shaketh the earth out of her place, and the pillars thereof tremble.",
+        "LSG": "Il secoue la terre sur sa base, Et ses colonnes sont ébranlées.",
+        "MAB": "Il remue la terre de sa place, et ses piliers sont ébranlés.",
+        "OST": "Il fait trembler la terre sur sa base, et ses colonnes sont ébranlées.",
+        "S21": "Il fait trembler la terre sur elle-même, et ses piliers sont ébranlés."
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "Il ordonne au soleil de ne pas se lever,\r\net met sous scellés les étoiles.",
+        "DBY": "Il parle au soleil, et le soleil ne se lève pas; et sur les étoiles il met son sceau;",
+        "KJV": "Which commandeth the sun, and it riseth not; and sealeth up the stars.",
+        "LSG": "Il commande au soleil, et le soleil ne paraît pas; Il met un sceau sur les étoiles.",
+        "MAB": "Il parle au soleil, et le soleil ne se lève point; et c'est lui qui tient les étoiles sous son cachet.",
+        "OST": "Il parle au soleil, et le soleil ne se lève pas; et il met un sceau sur les étoiles.",
+        "S21": "Il donne ses ordres au soleil, et le soleil ne paraît pas; il verrouille le ciel autour des étoiles."
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "Lui seul déploie le ciel\r\net marche sur la mer, sur ses plus hautes vagues.",
+        "DBY": "Seul il étend les cieux et marche sur les hauteurs de la mer;",
+        "KJV": "Which alone spreadeth out the heavens, and treadeth upon the waves of the sea.",
+        "LSG": "Seul, il étend les cieux, Il marche sur les hauteurs de la mer.",
+        "MAB": "C'est lui seul qui étend les cieux; qui marche sur les hauteurs de la mer;",
+        "OST": "Seul, il étend les cieux, et il marche sur les hauteurs de la mer.",
+        "S21": "Tout seul, il déploie le ciel, il marche sur les hauteurs de la mer."
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "Il a fait la Grande Ourse, Orion et les Pléïades,\r\net les constellations australes.",
+        "DBY": "Il fait la grande Ourse, Orion, et les Pléiades, et les chambres du midi;",
+        "KJV": "Which maketh Arcturus, Orion, and Pleiades, and the chambers of the south.",
+        "LSG": "Il a créé la Grande Ourse, l'Orion et les Pléiades, Et les étoiles des régions australes.",
+        "MAB": "Qui a fait le chariot, et l'Orion, et la Poussinière, et les signes qui sont au fond du Midi;",
+        "OST": "Il a créé la grande Ourse, l'Orion, et la Pléiade, et les régions cachées du midi.",
+        "S21": "Il a fait la Grande Ourse, Orion et les Pléiades, ainsi que les constellations du sud."
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "Il accomplit des œuvres grandioses, insondables,\r\net des prodiges innombrables.",
+        "DBY": "Il fait de grandes choses qu'on ne saurait sonder, et des merveilles à ne pouvoir les compter.",
+        "KJV": "Which doeth great things past finding out; yea, and wonders without number.",
+        "LSG": "Il fait des choses grandes et insondables, Des merveilles sans nombre.",
+        "MAB": "Qui fait des choses si grandes qu'on ne les peut sonder; et tant de choses merveilleuses, qu'on ne les peut compter.",
+        "OST": "Il fait de grandes choses qu'on ne peut sonder, de merveilleuses choses qu'on ne peut compter.",
+        "S21": "C’est lui l’auteur de grandeurs qu’il est impossible d’explorer, de merveilles si nombreuses qu’il est impossible de les compter."
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "S’il passait près de moi, je ne le verrais pas,\r\npuis il s’éloignerait, je ne m’en apercevrais pas.",
+        "DBY": "Voici, il passe près de moi, et je ne le vois pas; et il passe à côté de moi, et je ne l'aperçois pas.",
+        "KJV": "Lo, he goeth by me, and I see [him] not: he passeth on also, but I perceive him not.",
+        "LSG": "Voici, il passe près de moi, et je ne le vois pas, Il s'en va, et je ne l'aperçois pas.",
+        "MAB": "Voici, il passera près de moi, et je ne le verrai point; et il repassera, et je ne l'apercevrai point.",
+        "OST": "Voici, il passe près de moi, et je ne le vois pas; il passe encore, et je ne l'aperçois pas.",
+        "S21": "»S’il passe près de moi, je ne le vois pas; s’il disparaît, je ne m’en aperçois pas."
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "Qui peut lui retirer la proie qu’il prend de force?\r\nQui osera lui dire: «Que fais-tu là?»",
+        "DBY": "Voici, il ravit; qui l'en détournera? Qui lui dira: Que fais-tu?",
+        "KJV": "Behold, he taketh away, who can hinder him? who will say unto him, What doest thou?",
+        "LSG": "S'il enlève, qui s'y opposera? Qui lui dira: Que fais-tu?",
+        "MAB": "Voilà, s'il ravit, qui le lui fera rendre? et qui est-ce qui lui dira : Que fais-tu?",
+        "OST": "S'il ravit, qui le lui fera rendre? Qui lui dira: Que fais-tu?",
+        "S21": "S'il arrache, qui s'y opposera? Qui lui dira: ‘Que fais-tu?’"
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "Dieu ne retient pas sa colère.\r\nEt devant lui s’effondrent tous les appuis de l’orgueilleux.",
+        "DBY": "Dieu ne retire pas sa colère; sous lui fléchissent les orgueilleux qui prêtent secours.",
+        "KJV": "[If] God will not withdraw his anger, the proud helpers do stoop under him.",
+        "LSG": "Dieu ne retire point sa colère; Sous lui s'inclinent les appuis de l'orgueil.",
+        "MAB": "Dieu ne retire point sa colère, et les hommes superbes qui viennent au secours, sont abattus sous lui.",
+        "OST": "Dieu ne revient pas sur sa colère; sous lui sont abattus les plus puissants rebelles.",
+        "S21": "Dieu ne retire pas sa colère; devant lui les appuis de l’orgueilleux s’effondrent."
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "Combien moins oserais-je lui donner la réplique,\r\net quels mots choisirais-je pour plaider avec lui?",
+        "DBY": "Combien moins lui répondrais-je, moi, et choisirais-je mes paroles avec lui!",
+        "KJV": "How much less shall I answer him, [and] choose out my words [to reason] with him?",
+        "LSG": "Et moi, comment lui répondre? Quelles paroles choisir?",
+        "MAB": "Combien moins lui répondrais-je, moi et arrangerais-je mes paroles contre lui?",
+        "OST": "Combien moins lui pourrais-je répondre, moi, et choisir mes paroles pour lui parler!",
+        "S21": "»Et moi, comment pourrais-je lui répondre? Quels mots pourrais-je choisir pour argumenter avec lui?"
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "Même si je suis juste, je ne peux rien répondre.\r\nJe ne puis qu’implorer la pitié de mon juge.",
+        "DBY": "Si j'étais juste, je ne lui répondrais pas, je demanderais grâce à mon juge.",
+        "KJV": "Whom, though I were righteous, [yet] would I not answer, [but] I would make supplication to my judge.",
+        "LSG": "Quand je serais juste, je ne répondrais pas; Je ne puis qu'implorer mon juge.",
+        "MAB": "Moi, je ne lui répondrai point, quand même je serais juste, [mais] je demanderai grâce à mon juge.",
+        "OST": "Quand j'aurais raison, je ne lui répondrais pas; je demanderais grâce à mon juge!",
+        "S21": "Même si je suis juste, je ne répondrai pas. Je ne peux qu'implorer la grâce de mon juge."
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "Si même, à mon appel, il daignait me répondre,\r\nje ne pourrais quand même pas croire qu’il m’écoute,",
+        "DBY": "Si je criais, et qu'il me répondît, je ne croirais pas qu'il eût prêté l'oreille à ma voix, -",
+        "KJV": "If I had called, and he had answered me; [yet] would I not believe that he had hearkened unto my voice.",
+        "LSG": "Et quand il m'exaucerait, si je l'invoque, Je ne croirais pas qu'il eût écouté ma voix,",
+        "MAB": "Si je l'invoque, et qu'il me réponde, [encore] ne croirai-je point qu'il ait écouté ma voix.",
+        "OST": "Si je le citais, et qu'il me répondît, je ne croirais pas qu'il voulût écouter ma voix,",
+        "S21": "Même si je faisais appel à lui et qu’il me réponde, je ne croirais pas qu'il m’a écouté,"
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "car il m’a fait passer sous un vent de tempête,\r\nil a multiplié mes blessures sans cause.",
+        "DBY": "Lui qui m'écrase dans une tempête, et qui multiplie mes blessures sans cause.",
+        "KJV": "For he breaketh me with a tempest, and multiplieth my wounds without cause.",
+        "LSG": "Lui qui m'assaille comme par une tempête, Qui multiplie sans raison mes blessures,",
+        "MAB": "Car il m'a écrasé du milieu d'un tourbillon, et il a ajouté plaie sur plaie, sans que je l'aie mérité.",
+        "OST": "Lui qui fond sur moi dans une tempête, et qui multiplie mes plaies sans motif.",
+        "S21": "puisqu’il m'assaille par une tempête et multiplie sans raison mes blessures."
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "Il ne me permet pas de reprendre mon souffle,\r\ntant il me rassasie de fiel.",
+        "DBY": "Il ne me permet pas de reprendre haleine; car il me rassasie d'amertumes.",
+        "KJV": "He will not suffer me to take my breath, but filleth me with bitterness.",
+        "LSG": "Qui ne me laisse pas respirer, Qui me rassasie d'amertume.",
+        "MAB": "Il ne me permet point de reprendre haleine, mais il me remplit d'amertumes.",
+        "OST": "Il ne me permet point de reprendre haleine; il me rassasie d'amertume.",
+        "S21": "Il ne me laisse pas reprendre mon souffle, tant il me rassasie d'amertume."
+      }
+    },
+    {
+      "verse": 19,
+      "texts": {
+        "BDS": "Recourir à la force? Mais il est le plus fort.\r\nOu faire appel au droit? Qui donc l’assignera?",
+        "DBY": "S'agit-il de force, voici, il est fort; s'agit-il de jugement: Qui m'assignera?",
+        "KJV": "If [I speak] of strength, lo, [he is] strong: and if of judgment, who shall set me a time [to plead]?",
+        "LSG": "Recourir à la force? Il est tout-puissant. A la justice? Qui me fera comparaître?",
+        "MAB": "S'il est question de savoir qui est le plus fort; voilà, il est fort; et [s'il est question d'aller] en justice, qui est-ce qui m'y fera comparaître?",
+        "OST": "S'il est question de force, il dit: \"Me voilà! \" S'il est question de droit: \"Qui m'assigne? \"",
+        "S21": "Si je veux recourir à la force, voici qu’il est tout-puissant! Si c’est au droit, qui me fera comparaître?"
+      }
+    },
+    {
+      "verse": 20,
+      "texts": {
+        "BDS": "Si j’étais juste, c’est ma bouche elle-même qui me condamnerait.\r\nSi j’étais innocent, ma bouche me donnerait tort.",
+        "DBY": "Si je me justifiais, ma bouche me condamnerait; si j'étais parfait, il me montrerait pervers.",
+        "KJV": "If I justify myself, mine own mouth shall condemn me: [if I say], I [am] perfect, it shall also prove me perverse.",
+        "LSG": "Suis-je juste, ma bouche me condamnera; Suis-je innocent, il me déclarera coupable.",
+        "MAB": "Si je me justifie, ma propre bouche me condamnera; [si je me fais] parfait, il me convaincra d'être coupable.",
+        "OST": "Quand même je serais juste, ma bouche me condamnerait; je serais innocent, qu'elle me déclarerait coupable.",
+        "S21": "Même si je suis juste, ma bouche me condamnera; même si je suis intègre, elle me déclarera coupable."
+      }
+    },
+    {
+      "verse": 21,
+      "texts": {
+        "BDS": "Suis-je vraiment intègre? Je ne saurais le dire:\r\nje méprise ma vie.",
+        "DBY": "Si j'étais parfait, je méconnaîtrais mon âme, je mépriserais ma vie.",
+        "KJV": "[Though] I [were] perfect, [yet] would I not know my soul: I would despise my life.",
+        "LSG": "Innocent! Je le suis; mais je ne tiens pas à la vie, Je méprise mon existence.",
+        "MAB": "Quand je serais parfait, je ne me soucierais pas de vivre, je dédaignerais la vie.",
+        "OST": "Je suis innocent. Je ne me soucie pas de vivre, je ne fais aucun cas de ma vie.",
+        "S21": "»Suis-je intègre? Je ne le sais pas moi-même. Je suis dégoûté de mon existence."
+      }
+    },
+    {
+      "verse": 22,
+      "texts": {
+        "BDS": "Que m’importe, après tout! C’est pourquoi j’ose dire:\r\n«Dieu détruit aussi bien l’innocent que l’impie.»",
+        "DBY": "Tout revient au même: c'est pourquoi j'ai dit: Il consume le parfait et le méchant.",
+        "KJV": "This [is] one [thing], therefore I said [it], He destroyeth the perfect and the wicked.",
+        "LSG": "Qu'importe après tout? Car, j'ose le dire, Il détruit l'innocent comme le coupable.",
+        "MAB": "Tout revient à un; c'est pourquoi j'ai dit qu'il consume l'homme juste et le méchant.",
+        "OST": "Tout se vaut! C'est pourquoi j'ai dit: Il détruit l'innocent comme l'impie.",
+        "S21": "Qu'importe après tout? En effet, j'ose le dire, il extermine l'homme intègre aussi bien que le méchant."
+      }
+    },
+    {
+      "verse": 23,
+      "texts": {
+        "BDS": "Quand survient un fléau qui tue soudainement,\r\nDieu se rit des épreuves qui atteignent les justes.",
+        "DBY": "Si le fléau donne subitement la mort, il se rit de l'épreuve de l'innocent.",
+        "KJV": "If the scourge slay suddenly, he will laugh at the trial of the innocent.",
+        "LSG": "Si du moins le fléau donnait soudain la mort!... Mais il se rit des épreuves de l'innocent.",
+        "MAB": "[Au moins] si le fléau [dont il frappe] faisait mourir tout aussitôt; [mais] il se rit de l'épreuve des innocents.",
+        "OST": "Quand un fléau soudain répand la mort, il se rit des épreuves des innocents.",
+        "S21": "Si un fléau donne subitement la mort, il se moque de la détresse des innocents."
+      }
+    },
+    {
+      "verse": 24,
+      "texts": {
+        "BDS": "Quand il livre un pays au pouvoir des méchants,\r\nil en aveugle tous les juges.\r\nEt si ce n’est pas lui, alors, qui est-ce donc?",
+        "DBY": "La terre est livrée en la main du méchant: il couvre la face de ses juges. S'il n'en est pas ainsi, qui est-ce donc?",
+        "KJV": "The earth is given into the hand of the wicked: he covereth the faces of the judges thereof; if not, where, [and] who [is] he?",
+        "LSG": "La terre est livrée aux mains de l'impie; Il voile la face des juges. Si ce n'est pas lui, qui est-ce donc?",
+        "MAB": "[C'est par lui que] la terre est livrée entre les mains du méchant; c'est lui qui couvre la face des juges de la [terre]; et si ce n'est pas lui, qui est-ce donc?",
+        "OST": "La terre est livrée aux mains des méchants; il couvre les yeux de ceux qui la jugent. Si ce n'est lui, qui est-ce donc",
+        "S21": "La terre est livrée entre les mains du méchant: il aveugle ses juges. Si ce n'est pas lui, qui est-ce donc?"
+      }
+    },
+    {
+      "verse": 25,
+      "texts": {
+        "BDS": "Mes jours ont fui plus vite qu’un agile coureur,\r\nils se sont écoulés, mais sans voir le bonheur,",
+        "DBY": "Mes jours s'en vont plus vite qu'un coureur; ils fuient, ils ne voient pas ce qui est bon;",
+        "KJV": "Now my days are swifter than a post: they flee away, they see no good.",
+        "LSG": "Mes jours sont plus rapides qu'un courrier; Ils fuient sans avoir vu le bonheur;",
+        "MAB": "Or mes jours ont été plus vite qu'un courrier; ils s'en sont fuis, et n'ont point vu de bien.",
+        "OST": "Mes jours ont été plus légers qu'un courrier; ils se sont enfuis, sans voir le bonheur;",
+        "S21": "»Plus rapides qu'un coureur, mes jours prennent la fuite sans avoir vu le bonheur."
+      }
+    },
+    {
+      "verse": 26,
+      "texts": {
+        "BDS": "ils ont glissé, rapides comme un esquif de jonc,\r\ncomme le vol d’un aigle qui fonce sur sa proie.",
+        "DBY": "Ils passent rapides comme les barques de jonc, comme un aigle qui fond sur sa proie.",
+        "KJV": "They are passed away as the swift ships: as the eagle [that] hasteth to the prey.",
+        "LSG": "Ils passent comme les navires de jonc, Comme l'aigle qui fond sur sa proie.",
+        "MAB": "Ils ont passé [comme] des barques de poste; comme un aigle qui vole après la proie.",
+        "OST": "Ils ont glissé comme des barques de roseaux, comme l'aigle qui fond sur sa proie.",
+        "S21": "Ils filent comme des barques de jonc, pareils à l'aigle qui fonce sur sa proie."
+      }
+    },
+    {
+      "verse": 27,
+      "texts": {
+        "BDS": "Si même je me dis: «Oublie donc ta souffrance,\r\nva, change de visage et mets-toi à sourire!»,",
+        "DBY": "Si je dis: J'oublierai ma plainte, je renoncerai à mon visage morne et je serai joyeux,",
+        "KJV": "If I say, I will forget my complaint, I will leave off my heaviness, and comfort [myself]:",
+        "LSG": "Si je dis: Je veux oublier mes souffrances, Laisser ma tristesse, reprendre courage,",
+        "MAB": "Si je dis : J'oublierai ma plainte, je renoncerai à ma colère, je me fortifierai;",
+        "OST": "Si je dis: Je veux oublier ma plainte, quitter mon air triste, et reprendre ma sérénité,",
+        "S21": "Si je dis: ‘Je veux oublier ma plainte, laisser ma tristesse, reprendre courage’,"
+      }
+    },
+    {
+      "verse": 28,
+      "texts": {
+        "BDS": "je redoute tous mes tourments\r\ncar je sais bien que tu ne me traiteras pas en innocent.",
+        "DBY": "Je suis épouvanté de tous mes tourments; je sais que tu ne me tiendras pas pour innocent.",
+        "KJV": "I am afraid of all my sorrows, I know that thou wilt not hold me innocent.",
+        "LSG": "Je suis effrayé de toutes mes douleurs. Je sais que tu ne me tiendras pas pour innocent.",
+        "MAB": "Je suis épouvanté de tous mes tourments. Je sais que tu ne me jugeras point innocent.",
+        "OST": "Je suis effrayé de toutes mes douleurs: je sais que tu ne me jugeras pas innocent.",
+        "S21": "je reste effrayé par toutes mes douleurs.\r\n»Je sais que tu ne me considéreras pas comme innocent."
+      }
+    },
+    {
+      "verse": 29,
+      "texts": {
+        "BDS": "Je serai tenu pour coupable!\r\nAlors, pourquoi devrais-je me donner tant de peine en vain?",
+        "DBY": "Soit, je suis méchant: pourquoi me fatigué-je ainsi en vain?",
+        "KJV": "[If] I be wicked, why then labour I in vain?",
+        "LSG": "Je serai jugé coupable; Pourquoi me fatiguer en vain?",
+        "MAB": "Je serai [trouvé] méchant; pourquoi travaillerais-je en vain?",
+        "OST": "Moi, je suis condamné, pourquoi me fatiguer en vain?",
+        "S21": "C’est moi qui serai jugé coupable. Pourquoi me fatiguer inutilement?"
+      }
+    },
+    {
+      "verse": 30,
+      "texts": {
+        "BDS": "J’aurais beau me laver avec de l’eau de neige,\r\noui, j’aurais beau me nettoyer les mains avec de la potasse,",
+        "DBY": "Si je me lave avec de l'eau de neige, et que je nettoie mes mains dans la pureté,",
+        "KJV": "If I wash myself with snow water, and make my hands never so clean;",
+        "LSG": "Quand je me laverais dans la neige, Quand je purifierais mes mains avec du savon,",
+        "MAB": "Si je me lave dans de l'eau de neige, et que je nettoie mes mains dans la pureté,",
+        "OST": "Quand je me laverais dans la neige, quand je purifierais mes mains dans la potasse,",
+        "S21": "Si je me lavais dans la neige, si je purifiais mes mains avec du savon,"
+      }
+    },
+    {
+      "verse": 31,
+      "texts": {
+        "BDS": "toi tu me plongerais dans un bourbier fangeux\r\npour que mes habits mêmes me prennent en horreur.",
+        "DBY": "tu me plongeras dans un fossé, et mes vêtements m'auront en horreur.",
+        "KJV": "Yet shalt thou plunge me in the ditch, and mine own clothes shall abhor me.",
+        "LSG": "Tu me plongerais dans la fange, Et mes vêtements m'auraient en horreur.",
+        "MAB": "Alors tu me plongeras dans un fossé, et mes vêtements m'auront en horreur.",
+        "OST": "Tu me plongerais dans le fossé, et mes vêtements m'auraient en horreur.",
+        "S21": "tu me plongerais dans la boue et mes habits m'auraient en horreur."
+      }
+    },
+    {
+      "verse": 32,
+      "texts": {
+        "BDS": "Car il n’est pas un homme comme moi, pour que je lui réplique\r\nou pour que nous allions ensemble au tribunal.",
+        "DBY": "Car il n'est pas un homme, comme moi, pour que je lui réponde, pour que nous allions ensemble en jugement.",
+        "KJV": "For [he is] not a man, as I [am, that] I should answer him, [and] we should come together in judgment.",
+        "LSG": "Il n'est pas un homme comme moi, pour que je lui réponde, Pour que nous allions ensemble en justice.",
+        "MAB": "Car il n'est pas comme moi un homme, pour que je lui réponde, [et] que nous allions ensemble en jugement.",
+        "OST": "Car il n'est pas un homme comme moi pour que je lui réponde, pour que nous allions ensemble en justice.",
+        "S21": "»Dieu n'est pas un homme comme moi, pour que je lui réponde, pour que nous allions ensemble en justice."
+      }
+    },
+    {
+      "verse": 33,
+      "texts": {
+        "BDS": "Il n’y a pas d’arbitre pouvant s’interposer\r\net trancher entre nous.",
+        "DBY": "Il n'y a pas entre nous un arbitre qui mettrait sa main sur nous deux.",
+        "KJV": "Neither is there any daysman betwixt us, [that] might lay his hand upon us both.",
+        "LSG": "Il n'y a pas entre nous d'arbitre, Qui pose sa main sur nous deux.",
+        "MAB": "[Mais] il n'y a personne qui prît connaissance de la cause qui serait entre nous, [et] qui mît la main sur nous deux.",
+        "OST": "Il n'y a pas d'arbitre entre nous, qui pose sa main sur nous deux.",
+        "S21": "Il n'y a pas entre nous de médiateur qui pose sa main sur nous deux."
+      }
+    },
+    {
+      "verse": 34,
+      "texts": {
+        "BDS": "Que Dieu écarte son bâton\r\net que les terreurs qu’il me donne ne m’épouvantent plus!",
+        "DBY": "Qu'il retire sa verge de dessus moi, et que sa terreur ne me trouble pas;",
+        "KJV": "Let him take his rod away from me, and let not his fear terrify me:",
+        "LSG": "Qu'il retire sa verge de dessus moi, Que ses terreurs ne me troublent plus;",
+        "MAB": "Qu'il ôte [donc] sa verge de dessus moi, et que la frayeur que j'ai de lui ne me trouble plus.",
+        "OST": "Qu'il ôte sa verge de dessus moi, et que ses terreurs ne me troublent plus!",
+        "S21": "Qu'il retire son bâton de dessus moi, que ses terreurs ne me tourmentent plus!"
+      }
+    },
+    {
+      "verse": 35,
+      "texts": {
+        "BDS": "Alors je parlerai sans avoir peur de lui.\r\nMais ce n’est pas le cas, je suis tout seul avec moi-même!",
+        "DBY": "Alors je parlerai et je ne le craindrai pas; mais il n'en est pas ainsi de moi.",
+        "KJV": "[Then] would I speak, and not fear him; but [it is] not so with me.",
+        "LSG": "Alors je parlerai et je ne le craindrai pas. Autrement, je ne suis point à moi-même.",
+        "MAB": "Je parlerai, et je ne le craindrai point; mais dans l'état où je suis je ne suis point à moi-même.",
+        "OST": "Alors je lui parlerai sans crainte; car, dans l'état où je me trouve, je ne suis plus à moi.",
+        "S21": "Alors je parlerai sans avoir peur de lui, mais ce n’est pas le cas et je reste seul avec moi-même."
+      }
+    }
+  ]
+}

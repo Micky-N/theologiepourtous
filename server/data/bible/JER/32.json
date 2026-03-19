@@ -1,0 +1,534 @@
+{
+  "bookCode": "JER",
+  "chapter": 32,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "L’Eternel adressa la parole à Jérémie, la dixième année du règne de Sédécias, roi de Juda, qui correspond à la dix-huitième année du règne de Nabuchodonosor.",
+        "DBY": "La parole qui vint à Jérémie de par l'Éternel, en la dixième année de Sédécias, roi de Juda (ce fut la dix-huitième année de Nebucadnetsar).",
+        "KJV": "The word that came to Jeremiah from the LORD in the tenth year of Zedekiah king of Judah, which [was] the eighteenth year of Nebuchadrezzar.",
+        "LSG": "La parole qui fut adressée à Jérémie de la part de l'Eternel, la dixième année de Sédécias, roi de Juda. -C'était la dix-huitième année de Nebucadnetsar.",
+        "MAB": "La parole qui fut [adressée] de par l'Eternel à Jérémie, la dixième année de Sédécias Roi de Juda, qui est l'an dix-huitième de Nébucadnetsar.",
+        "OST": "La parole qui fut adressée par l'Éternel à Jérémie, la dixième année de Sédécias, roi de Juda; c'était l'an dix-huitième de Nébucadnetsar.",
+        "S21": "Voici la parole adressée à Jérémie de la part de l'Eternel, la dixième année du règne de Sédécias sur Juda, qui était aussi la dix-huitième année du règne de Nebucadnetsar."
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "C’était au moment où l’armée du roi de Babylone assiégeait Jérusalem et où le prophète Jérémie était enfermé dans la cour du corps de garde qui se trouve au palais du roi de Juda.",
+        "DBY": "Et l'armée du roi de Babylone assiégeait alors Jérusalem, et Jérémie le prophète était enfermé dans la cour de la prison qui était dans la maison du roi de Juda,",
+        "KJV": "For then the king of Babylon's army besieged Jerusalem: and Jeremiah the prophet was shut up in the court of the prison, which [was] in the king of Judah's house.",
+        "LSG": "L'armée du roi de Babylone assiégeait alors Jérusalem; et Jérémie, le prophète, était enfermé dans la cour de la prison qui était dans la maison du roi de Juda.",
+        "MAB": "(Or l'armée du Roi de Babylone assiégeait alors Jérusalem, et Jérémie le Prophète était enfermé dans la cour de la prison, qui était dans la maison du Roi de Juda;",
+        "OST": "L'armée du roi de Babylone assiégeait alors Jérusalem, et Jérémie, le prophète, était enfermé dans la cour de la prison qui était dans la maison du roi de Juda.",
+        "S21": "L'armée du roi de Babylone faisait alors le siège de Jérusalem et le prophète Jérémie était enfermé dans la cour de la prison qui se trouvait dans le palais du roi de Juda."
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "Sédécias, roi de Juda, l’avait fait enfermer en lui reprochant:\r\n—Pourquoi prophétises-tu de la sorte: «Voici ce que déclare l’Eternel: Je vais livrer cette ville au roi de Babylone, qui s’en emparera.",
+        "DBY": "où Sédécias, roi de Juda, l'avait enfermé, disant: Pourquoi prophétises-tu, disant: Ainsi dit l'Éternel: Voici, je livre cette ville en la main du roi de Babylone, et il la prendra;",
+        "KJV": "For Zedekiah king of Judah had shut him up, saying, Wherefore dost thou prophesy, and say, Thus saith the LORD, Behold, I will give this city into the hand of the king of Babylon, and he shall take it;",
+        "LSG": "Sédécias, roi de Juda, l'avait fait enfermer, et lui avait dit: Pourquoi prophétises-tu, en disant: Ainsi parle l'Eternel: Voici, je livre cette ville entre les mains du roi de Babylone, et il la prendra;",
+        "MAB": "Car Sédécias Roi de Juda l'avait enfermé, et lui avait dit : pourquoi prophétises-tu? en disant : ainsi a dit l'Eternel : voici, je m'en vais livrer cette ville en la main du Roi de Babylone, et il la prendra.",
+        "OST": "Sédécias, roi de Juda, l'avait fait enfermer, et lui avait dit: Pourquoi prophétises-tu, en disant: Ainsi a dit l'Éternel: Voici, je vais livrer cette ville entre les mains du roi de Babylone, et il la prendra;",
+        "S21": "Sédécias, roi de Juda, l'avait fait enfermer en lui adressant ce reproche: «Pourquoi prophétises-tu comme tu le fais? En effet, tu affirmes: ‘Voici ce que dit l’Eternel: Je vais livrer cette ville entre les mains du roi de Babylone et il s’en emparera."
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "Et Sédécias, roi de Juda, n’échappera pas aux Chaldéens, mais il sera livré au roi de Babylone, à qui il parlera directement et qu’il verra face à face.",
+        "DBY": "et Sédécias, roi de Juda, ne sera pas délivré de la main des Chaldéens, car certainement il sera livré en la main du roi de Babylone, et il lui parlera bouche à bouche, et ses yeux verront ses yeux;",
+        "KJV": "And Zedekiah king of Judah shall not escape out of the hand of the Chaldeans, but shall surely be delivered into the hand of the king of Babylon, and shall speak with him mouth to mouth, and his eyes shall behold his eyes;",
+        "LSG": "Sédécias, roi de Juda, n'échappera pas aux Chaldéens, mais il sera livré entre les mains du roi de Babylone, il lui parlera bouche à bouche, et ses yeux verront ses yeux;",
+        "MAB": "Et Sédécias Roi de Juda n'échappera point de la main des Caldéens, mais il sera certainement livré en la main du Roi de Babylone, et lui parlera bouche à bouche, et ses yeux verront les yeux de ce Roi.",
+        "OST": "Et Sédécias, roi de Juda, n'échappera pas aux mains des Caldéens; mais il sera certainement livré aux mains du roi de Babylone, et il lui parlera bouche à bouche, et ses yeux verront ses yeux;",
+        "S21": "Sédécias, roi de Juda, n'échappera pas aux Babyloniens, mais il est certain qu’il sera livré entre les mains du roi de Babylone, il devra lui parler en face et le voir de ses yeux."
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "Sédécias sera emmené à Babylone où il restera jusqu’à ce que je m’occupe de lui — l’Eternel le déclare. Si vous combattez les Chaldéens, vous n’arriverez à rien.»",
+        "DBY": "et il fera aller Sédécias à Babylone, et il sera là, jusqu'à ce que je le visite, dit l'Éternel: si vous combattez contre les Chaldéens, vous ne réussirez pas?",
+        "KJV": "And he shall lead Zedekiah to Babylon, and there shall he be until I visit him, saith the LORD: though ye fight with the Chaldeans, ye shall not prosper.",
+        "LSG": "le roi de Babylone emmènera Sédécias à Babylone, où il restera jusqu'à ce que je me souvienne de lui, dit l'Eternel; si vous vous battez contre les Chaldéens, vous n'aurez point de succès.",
+        "MAB": "Et il emmènera Sédécias à Babylone, qui y demeurera jusqu'à ce que je le visite, dit l'Eternel; si vous combattez contre les Caldéens, vous ne prospérerez point;)",
+        "OST": "Et il emmènera Sédécias à Babylone, et il sera là jusqu'à ce que je le visite, dit l'Éternel. Quand vous combattrez contre les Caldéens, vous ne réussirez pas.",
+        "S21": "Nebucadnetsar emmènera Sédécias à Babylone où il restera jusqu'à ce que je m’occupe de lui, déclare l'Eternel. Si vous combattez les Babyloniens, vous n'aurez aucun succès.’»"
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "Jérémie dit:\r\n—L’Eternel m’a adressé la parole en ces termes:",
+        "DBY": "Et Jérémie dit: La parole de l'Éternel vint à moi, disant:",
+        "KJV": "And Jeremiah said, The word of the LORD came unto me, saying,",
+        "LSG": "Jérémie dit: La parole de l'Eternel m'a été adressée, en ces mots:",
+        "MAB": "Jérémie donc dit : la parole de l'Eternel m'a été [adressée], en disant :",
+        "OST": "Alors Jérémie dit: La parole de l'Éternel m'a été adressée en ces termes:",
+        "S21": "Jérémie dit: «Voici la parole que l'Eternel m'a adressée:"
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "Hanaméel, le fils de ton oncle Challoum, va venir te voir pour te proposer d’acheter son champ situé à Anatoth car, en vertu du droit de rachat, c’est à toi de l’acquérir.",
+        "DBY": "Voici, Hanameël, fils de Shallum ton oncle, vient vers toi, disant: Achète-toi mon champ qui est à Anathoth, car le droit de rachat est à toi pour l'acheter.",
+        "KJV": "Behold, Hanameel the son of Shallum thine uncle shall come unto thee, saying, Buy thee my field that [is] in Anathoth: for the right of redemption [is] thine to buy [it].",
+        "LSG": "Voici, Hanameel, fils de ton oncle Schallum, va venir auprès de toi pour te dire: Achète mon champ qui est à Anathoth, car tu as le droit de rachat pour l'acquérir.",
+        "MAB": "Voici Hanaméel fils de Sallum ton oncle, qui vient vers toi, pour te dire : achète-toi mon champ, qui est à Hanathoth; car tu as le droit de retrait lignager pour le racheter.",
+        "OST": "Voici Hanaméel, fils de Shallum, ton oncle, qui vient vers toi pour te dire: Achète mon champ qui est à Anathoth; car tu as le droit de rachat pour l'acquérir.",
+        "S21": "‘Hanameel, le fils de ton oncle Shallum, va venir te trouver pour te demander d’acheter son champ qui se trouve à Anathoth, car tu as un droit de rachat pour l'acquérir.’"
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "Effectivement, mon cousin Hanaméel vint me trouver dans la cour du corps de garde, comme l’Eternel me l’avait annoncé, et il me dit:\r\n—Achète, s’il te plaît, le champ que je possède à Anatoth, dans le territoire de Benjamin, car, par la loi d’héritage, tu as, en vertu du droit de rachat, priorité pour l’acquérir. Achète-le donc pour toi.\r\nAlors je sus que l’Eternel m’avait bien parlé.",
+        "DBY": "Et Hanameël, fils de mon oncle, vint vers moi, selon la parole de l'Éternel, dans la cour de la prison, et me dit: Achète, je te prie, mon champ qui est à Anathoth, dans le pays de Benjamin, car à toi est le droit d'héritage, et à toi le rachat: achète-le pour toi. Et je connus que c'était la parole de l'Éternel.",
+        "KJV": "So Hanameel mine uncle's son came to me in the court of the prison according to the word of the LORD, and said unto me, Buy my field, I pray thee, that [is] in Anathoth, which [is] in the country of Benjamin: for the right of inheritance [is] thine, and the redemption [is] thine; buy [it] for thyself. Then I knew that this [was] the word of the LORD.",
+        "LSG": "Et Hanameel, fils de mon oncle, vint auprès de moi, selon la parole de l'Eternel, dans la cour de la prison, et il me dit: Achète mon champ, qui est à Anathoth, dans le pays de Benjamin, car tu as le droit d'héritage et de rachat, achète-le! Je reconnus que c'était la parole de l'Eternel.",
+        "MAB": "Hanaméel donc, fils de mon oncle, vint à moi, selon la parole de l'Eternel, dans la cour de la prison, et me dit : achète, je te prie, mon champ qui [est] à Hanathoth, dans le territoire de Benjamin : car tu as le droit de possession héréditaire, et de retrait lignager, achète-le [donc] pour toi; et je connus alors que c'était la parole de l'Eternel.",
+        "OST": "Et Hanaméel, fils de mon oncle, vint vers moi, selon la parole de l'Éternel, dans la cour de la prison, et il me dit: Achète, je te prie, mon champ qui est à Anathoth, au pays de Benjamin, car tu as le droit d'héritage et de rachat; achète-le. Et je connus que c'était la parole de l'Éternel.",
+        "S21": "Effectivement, Hanameel, le fils de mon oncle, est venu me trouver dans la cour de la prison, conformément à la parole de l'Eternel, et m’a dit: ‘Je t’en prie, achète mon champ qui se trouve à Anathoth, dans le pays de Benjamin, car tu as un droit d'héritage et de rachat. Achète-le donc!’ J’ai alors su que c'était bien une parole de l'Eternel."
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "J’achetai donc à mon cousin Hanaméel le champ qui se trouve à Anatoth et je lui en payai le prix de dix-sept pièces d’argent.",
+        "DBY": "Et j'achetai de Hanameël, fils de mon oncle, le champ qui est à Anathoth; et je lui pesai l'argent, dix-sept sicles d'argent;",
+        "KJV": "And I bought the field of Hanameel my uncle's son, that [was] in Anathoth, and weighed him the money, [even] seventeen shekels of silver.",
+        "LSG": "J'achetai de Hanameel, fils de mon oncle, le champ qui est à Anathoth, et je lui pesai l'argent, dix-sept sicles d'argent.",
+        "MAB": "Ainsi j'achetai le champ de Hanaméel, fils de mon oncle, qui [est] à Hanathoth; et je lui pesai l'argent, [qui fut] dix-sept sicles d'argent.",
+        "OST": "Ainsi j'achetai de Hanaméel, fils de mon oncle, le champ d'Anathoth, et je lui pesai l'argent: dix-sept sicles d'argent.",
+        "S21": "J’ai donc acheté le champ de Hanameel, le fils de mon oncle, qui est à Anathoth, et je lui ai pesé l'argent, soit 17 pièces d'argent."
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "Je rédigeai l’acte de vente, j’y mis mon sceau en présence des témoins que j’avais convoqués, puis je pesai l’argent sur une balance.",
+        "DBY": "et j'en écrivis la lettre, et je la scellai, et je la fis attester par des témoins, et je pesai l'argent dans la balance;",
+        "KJV": "And I subscribed the evidence, and sealed [it], and took witnesses, and weighed [him] the money in the balances.",
+        "LSG": "J'écrivis un contrat, que je cachetai, je pris des témoins, et je pesai l'argent dans une balance.",
+        "MAB": "Puis j'en écrivis le contrat, et le cachetai, et je pris des témoins après avoir pesé l'argent dans la balance;",
+        "OST": "Puis j'écrivis un contrat, que je cachetai; et je pris des témoins et pesai l'argent dans la balance.",
+        "S21": "J’ai écrit un contrat, l’ai cacheté devant des témoins, puis j’ai pesé l'argent dans une balance."
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "Ensuite je pris l’acte de vente qui était scellé, où figuraient les stipulations et les clauses de la transaction, ainsi que l’exemplaire qui était ouvert,",
+        "DBY": "et je pris la lettre d'achat, celle qui était scellée selon le commandement et les statuts, et celle qui était ouverte;",
+        "KJV": "So I took the evidence of the purchase, [both] that which was sealed [according] to the law and custom, and that which was open:",
+        "LSG": "Je pris ensuite le contrat d'acquisition, celui qui était cacheté, conformément à la loi et aux usages, et celui qui était ouvert;",
+        "MAB": "Et je pris le contrat d'acquisition, tant celui qui était cacheté, selon l'ordonnance et les statuts, que celui qui était ouvert.",
+        "OST": "Je pris ensuite le contrat, tant celui qui était cacheté, selon l'ordonnance et les statuts, que celui qui était ouvert.",
+        "S21": "J’ai pris ensuite le contrat de vente qui était cacheté, avec ses dispositions générales et ses clauses, ainsi que celui qui était ouvert."
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "et je remis l’acte de vente à Baruch, fils de Nériya, fils de Mahséya, en présence de mon cousin Hanaméel et des témoins qui avaient signé l’acte, sous les yeux de tous les Judéens qui étaient assis dans la cour du corps de garde.",
+        "DBY": "et je donnai la lettre d'achat à Baruc, fils de Nérija, fils de Makhséïa, sous les yeux de Hanameël le fils de mon oncle, et sous les yeux des témoins qui avaient signé à la lettre d'achat, et sous les yeux de tous les Juifs qui étaient assis dans la cour de la prison.",
+        "KJV": "And I gave the evidence of the purchase unto Baruch the son of Neriah, the son of Maaseiah, in the sight of Hanameel mine uncle's [son], and in the presence of the witnesses that subscribed the book of the purchase, before all the Jews that sat in the court of the prison.",
+        "LSG": "et je remis le contrat d'acquisition à Baruc, fils de Nérija, fils de Machséja, en présence de Hanameel, fils de mon oncle, en présence des témoins qui avaient signé le contrat d'acquisition, et en présence de tous les juifs qui se trouvaient dans la cour de la prison.",
+        "MAB": "Et je donnai le contrat d'acquisition à Baruc fils de Nérija, fils de Mahaséja, en présence d'Hanaméel fils de mon oncle, et des témoins qui s'étaient souscrits dans le contrat de l'acquisition, [et] en présence de tous les Juifs qui étaient assis dans la cour de la prison.",
+        "OST": "Et je remis le contrat d'acquisition à Baruc, fils de Nérija, fils de Machséja, en présence de Hanaméel, fils de mon oncle, et des témoins qui avaient signé le contrat d'acquisition, et en présence de tous les Juifs qui étaient assis dans la cour de la prison.",
+        "S21": "J’ai remis le contrat de vente à Baruc, fils de Nérija et petit-fils de Machséja, en présence de Hanameel, le fils de mon oncle, des témoins qui avaient signé le contrat de vente et de tous les Judéens qui se trouvaient dans la cour de la prison."
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "Puis j’ordonnai à Baruch en présence de tous:",
+        "DBY": "Et je commandai sous leurs yeux à Baruc, disant:",
+        "KJV": "And I charged Baruch before them, saying,",
+        "LSG": "Et je donnai devant eux cet ordre à Baruc:",
+        "MAB": "Puis je commandai en leur présence à Baruc, en lui disant :",
+        "OST": "Et je donnai cet ordre à Baruc, en leur présence:",
+        "S21": "Devant eux j’ai donné cet ordre à Baruc:"
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "—Voici ce que déclare le Seigneur des armées célestes, Dieu d’Israël: Prends ces documents, l’acte de vente qui est scellé et celui qui est ouvert, et dépose-les dans un vase de terre cuite pour qu’ils se conservent longtemps.",
+        "DBY": "Ainsi dit l'Éternel des armées, le Dieu d'Israël: Prends ces lettres, cette lettre d'achat, celle qui est scellée, et cette lettre ouverte, et mets-les dans un vase de terre, afin qu'elles se conservent beaucoup de jours.",
+        "KJV": "Thus saith the LORD of hosts, the God of Israel; Take these evidences, this evidence of the purchase, both which is sealed, and this evidence which is open; and put them in an earthen vessel, that they may continue many days.",
+        "LSG": "Ainsi parle l'Eternel des armées, le Dieu d'Israël: Prends ces écrits, ce contrat d'acquisition, celui qui est cacheté et celui qui est ouvert, et mets-les dans un vase de terre, afin qu'ils se conservent longtemps.",
+        "MAB": "Ainsi a dit l'Eternel des armées, le Dieu d'Israël : prends ces contrats ici, savoir ce contrat d'acquisition, qui est cacheté, et ce contrat qui est ouvert, et mets-les dans un pot de terre, afin qu'ils puissent se conserver longtemps.",
+        "OST": "Ainsi a dit l'Éternel des armées, le Dieu d'Israël: Prends ces écrits, ce contrat d'acquisition, celui qui est cacheté et celui qui est ouvert, et mets-les dans un vase de terre, afin qu'ils puissent se conserver longtemps.",
+        "S21": "‘Voici ce que dit l’Eternel, le maître de l’univers, le Dieu d'Israël: Prends ces documents, le contrat de vente qui est cacheté et celui qui est ouvert, et mets-les dans un vase de terre afin qu'ils se conservent longtemps."
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "Car voici ce que déclare le Seigneur des armées célestes, Dieu d’Israël: On achètera encore des maisons, des champs et des vignes dans ce pays.",
+        "DBY": "Car ainsi dit l'Éternel des armées, le Dieu d'Israël: On achètera encore des maisons, et des champs, et des vignes, dans ce pays.",
+        "KJV": "For thus saith the LORD of hosts, the God of Israel; Houses and fields and vineyards shall be possessed again in this land.",
+        "LSG": "Car ainsi parle l'Eternel des armées, le Dieu d'Israël: On achètera encore des maisons, des champs et des vignes, dans ce pays.",
+        "MAB": "Car ainsi a dit l'Eternel des armées, le Dieu d'Israël : on achètera encore des maisons, des champs, et des vignes en ce pays.",
+        "OST": "Car ainsi a dit l'Éternel des armées, le Dieu d'Israël: On achètera encore des maisons, des champs et des vignes dans ce pays.",
+        "S21": "En effet, voici ce que dit l’Eternel, le maître de l’univers, le Dieu d'Israël: On achètera encore des maisons, des champs et des vignes, dans ce pays.’"
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "Après avoir remis à Baruch, fils de Nériya, l’acte de vente, j’adressai cette prière à l’Eternel:",
+        "DBY": "Et après avoir donné à Baruc, fils de Nérija, la lettre d'achat, je priai l'Éternel, disant:",
+        "KJV": "Now when I had delivered the evidence of the purchase unto Baruch the son of Neriah, I prayed unto the LORD, saying,",
+        "LSG": "Après que j'eus remis le contrat d'acquisition à Baruc, fils de Nérija, j'adressai cette prière à l'Eternel:",
+        "MAB": "Et après que j'eus donné à Baruc fils de Nerija le contrat d'acquisition, je fis requête à l'Eternel, en disant :",
+        "OST": "Et après que j'eus remis à Baruc, fils de Nérija, le contrat d'acquisition, je fis ma prière à l'Éternel, en disant:",
+        "S21": "»Après avoir remis le contrat de vente à Baruc, fils de Nérija, j'ai adressé cette prière à l'Eternel:"
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "—Ah! Seigneur Eternel! C’est toi qui as créé le ciel et la terre par ta grande puissance, et en déployant ta force. Pour toi rien n’est trop extraordinaire.",
+        "DBY": "Ah, Seigneur Éternel! voici, tu as fait les cieux et la terre par ta grande puissance, et par ton bras étendu; aucune chose n'est trop difficile pour toi.",
+        "KJV": "Ah Lord GOD! behold, thou hast made the heaven and the earth by thy great power and stretched out arm, [and] there is nothing too hard for thee:",
+        "LSG": "Ah! Seigneur Eternel, Voici, tu as fait les cieux et la terre Par ta grande puissance et par ton bras étendu: Rien n'est étonnant de ta part.",
+        "MAB": "Ah! ah! Seigneur Eternel, voici, tu as fait le ciel et la terre par ta grande puissance, et par ton bras étendu; aucune chose ne te sera difficile;",
+        "OST": "Ah! Seigneur Éternel! voici, tu as fait le ciel et la terre, par ta grande puissance et par ton bras étendu: aucune chose ne te sera difficile.",
+        "S21": "‘Seigneur Eternel, c’est toi qui as fait le ciel et la terre par ta grande puissance et ta force. Rien n'est trop difficile pour toi."
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "Tu agis avec amour envers mille générations, mais tu châties la faute commise par les pères sur leurs enfants. Oui, tu es le grand Dieu, un guerrier qui se nomme: le Seigneur des armées célestes.",
+        "DBY": "Tu uses de bonté envers des milliers de générations, et tu rétribueras l'iniquité des pères dans le sein de leurs fils après eux, toi, le Dieu grand et fort (l'Éternel des armées est son nom),",
+        "KJV": "Thou shewest lovingkindness unto thousands, and recompensest the iniquity of the fathers into the bosom of their children after them: the Great, the Mighty God, the LORD of hosts, [is] his name,",
+        "LSG": "Tu fais miséricorde jusqu'à la millième génération, Et tu punis l'iniquité des pères dans le sein de leurs enfants après eux. Tu es le Dieu grand, le puissant, Dont le nom est l'Eternel des armées.",
+        "MAB": "Tu fais miséricorde jusqu'en mille générations, et tu rends l'iniquité des pères dans le sein de leurs enfants après eux; tu es le [Dieu] Fort, le Grand, le Puissant, le Nom duquel est l'Eternel des armées;",
+        "OST": "Tu fais miséricorde en mille générations, et tu rétribues l'iniquité des pères dans le sein de leurs enfants après eux. Tu es le Dieu grand, le puissant, dont le nom est l'Éternel des armées,",
+        "S21": "Tu fais preuve de bonté jusqu'à la millième génération et tu fais payer la faute des pères à leurs enfants après eux. Tu es le Dieu grand et puissant qui as pour nom l'Eternel, le maître de l’univers."
+      }
+    },
+    {
+      "verse": 19,
+      "texts": {
+        "BDS": "Excellent conseiller, grand en tes œuvres, tu as les yeux ouverts sur tous les actes des hommes, tu rends à chacun ce que lui valent sa conduite et les effets de ses actions.",
+        "DBY": "grand en conseil et abondant en œuvres, dont les yeux sont ouverts sur toutes les voies des fils des hommes, pour rendre à chacun selon ses voies et selon le fruit de ses actions;",
+        "KJV": "Great in counsel, and mighty in work: for thine eyes [are] open upon all the ways of the sons of men: to give every one according to his ways, and according to the fruit of his doings:",
+        "LSG": "Tu es grand en conseil et puissant en action; Tu as les yeux ouverts sur toutes les voies des enfants des hommes, Pour rendre à chacun selon ses voies, Selon le fruit de ses oeuvres.",
+        "MAB": "Grand en conseil, et abondant en moyens; car tes yeux sont ouverts sur toutes les voies des enfants des hommes, pour rendre à chacun selon ses voies, et selon le fruit de ses œuvres.",
+        "OST": "Grand en conseil et puissant en exploits; tu as les yeux ouverts sur toutes les voies des enfants des hommes, pour rendre à chacun selon ses voies et selon le fruit de ses œuvres;",
+        "S21": "Tu es un excellent conseiller, généreux dans ton activité, toi qui examines toutes les voies des humains pour traiter chacun conformément à sa conduite, en fonction de ses agissements."
+      }
+    },
+    {
+      "verse": 20,
+      "texts": {
+        "BDS": "Tu as réalisé des signes extraordinaires et des prodiges en Egypte, et jusqu’à aujourd’hui au milieu d’Israël et de l’humanité, et tu t’es fait la renommée que tu as aujourd’hui.",
+        "DBY": "toi qui as fait des signes et des prodiges jusqu'à ce jour dans le pays d'Égypte, et en Israël, et parmi les hommes, et qui t'es fait un nom tel qu'il est aujourd'hui.",
+        "KJV": "Which hast set signs and wonders in the land of Egypt, [even] unto this day, and in Israel, and among [other] men; and hast made thee a name, as at this day;",
+        "LSG": "Tu as fait des miracles et des prodiges dans le pays d'Egypte jusqu'à ce jour, Et en Israël et parmi les hommes, Et tu t'es fait un nom comme il l'est aujourd'hui.",
+        "MAB": "Tu as fait au pays d'Egypte des signes et des miracles [qui sont connus] jusques à ce jour, et dans Israël, et parmi les hommes, et tu t'es acquis un nom tel qu'[il paraît] aujourd'hui.",
+        "OST": "Tu as fait des signes et des prodiges au pays d'Égypte, jusqu'à ce jour, et en Israël et parmi les hommes, et tu t'es acquis un renom tel qu'il est aujourd'hui.",
+        "S21": "»Tu as accompli des signes et des miracles en Egypte jusqu'à aujourd’hui, ainsi qu’en Israël et parmi les hommes, et tu t'es fait la réputation qui est la tienne aujourd'hui."
+      }
+    },
+    {
+      "verse": 21,
+      "texts": {
+        "BDS": "Toi, tu as fait sortir d’Egypte ton peuple Israël par des signes extraordinaires et des prodiges et en déployant ta puissance, en semant la terreur.",
+        "DBY": "Et tu as fait sortir ton peuple Israël du pays d'Égypte, avec des signes et avec des prodiges, et à main forte et à bras étendu, et par une grande frayeur;",
+        "KJV": "And hast brought forth thy people Israel out of the land of Egypt with signs, and with wonders, and with a strong hand, and with a stretched out arm, and with great terror;",
+        "LSG": "Tu as fait sortir du pays d'Egypte ton peuple d'Israël, Avec des miracles et des prodiges, à main forte et à bras étendu, Et avec une grande terreur.",
+        "MAB": "Car tu as retiré Israël ton peuple du pays d'Egypte, avec des signes et des miracles, et avec une main forte, et avec un bras étendu, et en répandant partout la frayeur.",
+        "OST": "Tu as retiré du pays d'Égypte Israël ton peuple, avec des prodiges et des miracles, à main forte et à bras étendu, et avec une grande terreur.",
+        "S21": "Tu as fait sortir d'Egypte ton peuple, Israël, avec des signes et des miracles, avec puissance et force, en provoquant une grande terreur."
+      }
+    },
+    {
+      "verse": 22,
+      "texts": {
+        "BDS": "Et tu leur as donné ce pays où ruissellent le lait et le miel que tu avais promis à leurs ancêtres par serment.",
+        "DBY": "et tu leur as donné ce pays, que tu avais juré à leurs pères de leur donner, un pays ruisselant de lait et de miel;",
+        "KJV": "And hast given them this land, which thou didst swear to their fathers to give them, a land flowing with milk and honey;",
+        "LSG": "Tu leur as donné ce pays, Que tu avais juré à leurs pères de leur donner, Pays où coulent le lait et le miel.",
+        "MAB": "Et tu leur as donné ce pays que tu avais juré à leurs pères de leur donner, qui est un pays découlant de lait et de miel;",
+        "OST": "Et tu leur as donné ce pays, que tu avais juré à leurs pères de leur donner, pays où coulent le lait et le miel;",
+        "S21": "Tu leur as donné ce pays, celui que tu avais promis à leurs ancêtres de leur donner, un pays où coulent le lait et le miel."
+      }
+    },
+    {
+      "verse": 23,
+      "texts": {
+        "BDS": "Ils y ont pénétré et ils l’ont possédé; mais ils ne t’ont pas obéi, ils n’ont pas appliqué ta Loi et n’ont rien fait de ce que tu leur avais ordonné. C’est pourquoi tu as fait venir sur eux tous ces malheurs.",
+        "DBY": "et ils y sont entrés, et l'ont possédé; mais ils n'ont point écouté ta voix, et n'ont pas marché dans ta loi; et tout ce que tu leur avais commandé de faire ils ne l'ont pas fait, de sorte que tu leur as fait rencontrer tout ce mal.",
+        "KJV": "And they came in, and possessed it; but they obeyed not thy voice, neither walked in thy law; they have done nothing of all that thou commandedst them to do: therefore thou hast caused all this evil to come upon them:",
+        "LSG": "Ils sont venus, et ils en ont pris possession. Mais ils n'ont point obéi à ta voix, Ils n'ont point observé ta loi, Ils n'ont pas fait tout ce que tu leur avais ordonné de faire. Et c'est alors que tu as fait fondre sur eux tous ces malheurs!",
+        "MAB": "Et ils [y] sont entrés et l'ont possédé; mais ils n'ont point obéi à ta voix, et n'ont point marché en ta Loi, [et] n'ont pas fait toutes les choses que tu leur avais commandé de faire; c'est pourquoi tu as fait que tout ce mal ici les a rencontrés.",
+        "OST": "Et ils vinrent et en prirent possession. Mais ils n'ont point obéi à ta voix, et n'ont point marché dans ta loi; ils n'ont rien fait de tout ce que tu leur avais commandé de faire. C'est pourquoi tu as fait que tout ce mal leur est arrivé.",
+        "S21": "Ils sont venus et en ont pris possession.\r\n»Cependant, ils n’ont pas écouté ce que tu leur disais, ils n'ont pas respecté ta loi, ils n'ont pas fait tout ce que tu leur avais ordonné de faire. C'est alors que tu as fait fondre sur eux tous ces malheurs:"
+      }
+    },
+    {
+      "verse": 24,
+      "texts": {
+        "BDS": "Voici que l’ennemi met ses terrassements en place contre la ville pour la prendre et, en proie à l’épée, la famine et la peste, elle sera livrée aux Chaldéens qui la combattent. Ce que tu avais annoncé va se trouver ainsi réalisé, comme tu le vois bien.",
+        "DBY": "Voici, les terrasses sont venues jusqu'à la ville, pour la prendre; et la ville est livrée par l'épée, et par la famine, et par la peste, en la main des Chaldéens qui combattent contre elle; et ce que tu as dit est arrivé; et voici, tu le vois!",
+        "KJV": "Behold the mounts, they are come unto the city to take it; and the city is given into the hand of the Chaldeans, that fight against it, because of the sword, and of the famine, and of the pestilence: and what thou hast spoken is come to pass; and, behold, thou seest [it].",
+        "LSG": "Voici, les terrasses s'élèvent contre la ville et la menacent; La ville sera livrée entre les mains des Chaldéens qui l'attaquent, Vaincue par l'épée, par la famine et par la peste. Ce que tu as dit est arrivé, et tu le vois.",
+        "MAB": "Voilà, les terrasses [sont élevées], on est venu contre la ville pour la prendre, et à cause de l'épée, de la famine, et de la mortalité, la ville est livrée en la main des Caldéens qui combattent contre elle; et ce que tu as dit est arrivé, et voici, tu le vois.",
+        "OST": "Voici, les terrasses s'élèvent contre la ville pour la prendre, et la ville va être livrée entre les mains des Caldéens qui combattent contre elle, et abandonnée à l'épée, à la famine et à la peste. Ce que tu as dit est arrivé, et voici, tu le vois!",
+        "S21": "voici qu’on construit des remblais contre la ville pour s’en emparer, Jérusalem est livrée aux Babyloniens qui l'attaquent, livrée à l'épée, à la famine et à la peste! Ce que tu as annoncé arrive, et tu le vois bien."
+      }
+    },
+    {
+      "verse": 25,
+      "texts": {
+        "BDS": "Et toi, Seigneur, Eternel, tu m’as dit: Achète-toi ce champ à prix d’argent par devant des témoins, alors que cette ville est en train de tomber aux mains des Chaldéens!",
+        "DBY": "Et toi, Seigneur Éternel! tu m'as dit: Achète-toi le champ à prix d'argent, et fais-le attester par des témoins;… et la ville est livrée en la main des Chaldéens!",
+        "KJV": "And thou hast said unto me, O Lord GOD, Buy thee the field for money, and take witnesses; for the city is given into the hand of the Chaldeans.",
+        "LSG": "Néanmoins, Seigneur Eternel, tu m'as dit: Achète un champ pour de l'argent, prends des témoins... Et la ville est livrée entre les mains des Chaldéens!",
+        "MAB": "Et cependant, Seigneur Eternel! tu m'as dit : achète-toi ce champ à prix d'argent, et prends-en des témoins, quoique la ville soit livrée en la main des Caldéens.",
+        "OST": "Et néanmoins, Seigneur Éternel! tu m'as dit: \"Achète ce champ à prix d'argent et prends-en des témoins\" - Et la ville est livrée entre les mains des Caldéens!",
+        "S21": "Pourtant, Seigneur Eternel, tu m'as ordonné de m’acheter un champ avec de l'argent, de le faire devant témoins, et ce alors que la ville est livrée aux Babyloniens!’»"
+      }
+    },
+    {
+      "verse": 26,
+      "texts": {
+        "BDS": "Mais l’Eternel adressa la parole à Jérémie:",
+        "DBY": "Et la parole de l'Éternel vint à Jérémie, disant:",
+        "KJV": "Then came the word of the LORD unto Jeremiah, saying,",
+        "LSG": "La parole de l'Eternel fut adressée à Jérémie, en ces mots:",
+        "MAB": "Mais la parole de l'Eternel fut [adressée] à Jérémie, en disant :",
+        "OST": "Et la parole de l'Éternel fut adressée à Jérémie, en ces termes:",
+        "S21": "La parole de l'Eternel fut adressée à Jérémie:"
+      }
+    },
+    {
+      "verse": 27,
+      "texts": {
+        "BDS": "—Oui, je suis l’Eternel, le Dieu de tout être humain. Y-a-t-il une chose qui soit trop extraordinaire pour moi?",
+        "DBY": "Voici, je suis l'Éternel, le Dieu de toute chair; quelque chose est-il trop difficile pour moi?",
+        "KJV": "Behold, I [am] the LORD, the God of all flesh: is there any thing too hard for me?",
+        "LSG": "Voici, je suis l'Eternel, le Dieu de toute chair. Y a-t-il rien qui soit étonnant de ma part?",
+        "MAB": "Voici, je suis l'Eternel, le Dieu de toute chair; y aura-t-il quelque chose qui me soit difficile?",
+        "OST": "Voici, je suis l'Éternel, le Dieu de toute chair; y a-t-il rien qui me soit difficile?",
+        "S21": "«C’est moi qui suis l'Eternel, le Dieu de toute créature. Y a-t-il quoi que ce soit de trop difficile pour moi?"
+      }
+    },
+    {
+      "verse": 28,
+      "texts": {
+        "BDS": "C’est pourquoi voici ce que déclare l’Eternel: Je vais livrer la ville aux Chaldéens, et à Nabuchodonosor, le roi de Babylone, pour qu’il s’en empare.",
+        "DBY": "C'est pourquoi, ainsi dit l'Éternel: Voici, je livre cette ville en la main des Chaldéens, et en la main de Nebucadretsar, roi de Babylone; et il la prendra.",
+        "KJV": "Therefore thus saith the LORD; Behold, I will give this city into the hand of the Chaldeans, and into the hand of Nebuchadrezzar king of Babylon, and he shall take it:",
+        "LSG": "C'est pourquoi ainsi parle l'Eternel: Voici, je livre cette ville entre les mains des Chaldéens, Et entre les mains de Nebucadnetsar, roi de Babylone, Et il la prendra.",
+        "MAB": "C'est pourquoi ainsi a dit l'Eternel : voici, je m'en vais livrer cette ville entre les mains des Caldéens, et entre les mains de Nébucadnetsar Roi de Babylone, qui la prendra.",
+        "OST": "C'est pourquoi, ainsi a dit l'Éternel: Voici je vais livrer cette ville entre les mains des Caldéens, entre les mains de Nébucadnetsar, roi de Babylone, qui la prendra.",
+        "S21": "C'est pourquoi, voici ce que dit l’Eternel: Je vais livrer cette ville entre les mains des Babyloniens et de Nebucadnetsar, le roi de Babylone; il s’en emparera."
+      }
+    },
+    {
+      "verse": 29,
+      "texts": {
+        "BDS": "Oui, les Babyloniens qui la combattent entreront dans la ville et y mettront le feu, ils la brûleront ainsi que les maisons dont les toits ont servi pour brûler des parfums en l’honneur de Baal et pour offrir des libations à des dieux étrangers, ce qui m’a irrité.",
+        "DBY": "Et les Chaldéens qui combattent contre cette ville entreront, et mettront le feu à cette ville, et la brûleront, et les maisons sur les toits desquelles on a brûlé de l'encens à Baal et répandu des libations à d'autres dieux, pour me provoquer à colère.",
+        "KJV": "And the Chaldeans, that fight against this city, shall come and set fire on this city, and burn it with the houses, upon whose roofs they have offered incense unto Baal, and poured out drink offerings unto other gods, to provoke me to anger.",
+        "LSG": "Les Chaldéens qui attaquent cette ville vont entrer, Ils y mettront le feu, et ils la brûleront, Avec les maisons sur les toits desquelles on a offert de l'encens à Baal Et fait des libations à d'autres dieux, Afin de m'irriter.",
+        "MAB": "Et les Caldéens qui combattent contre cette ville, y entreront, [et] mettront le feu à cette ville, et la brûleront, avec les maisons sur les toits desquelles on a fait des parfums à Bahal, et [où] l'on a fait des aspersions à d'autres dieux pour m'irriter.",
+        "OST": "Et les Caldéens qui combattent contre cette ville, vont entrer; ils mettront le feu à cette ville, et ils la brûleront, avec les maisons sur les toits desquelles on a fait des encensements à Baal et des libations à d'autres dieux, pour m'irriter.",
+        "S21": "Les Babyloniens qui attaquent cette ville parviendront à y entrer; ils y mettront le feu et la brûleront, ainsi que les maisons où, sur les toits, ils ont fait brûler de l'encens en l’honneur de Baal et versé des offrandes liquides en l’honneur d'autres dieux, de sorte qu’ils m’ont irrité."
+      }
+    },
+    {
+      "verse": 30,
+      "texts": {
+        "BDS": "Car les Israélites et les gens de Juda n’ont fait dès leur jeunesse que ce que je considère comme mal. Les Israélites n’ont fait que m’irriter par tous leurs actes, l’Eternel le déclare.",
+        "DBY": "Car les fils d'Israël et les fils de Juda n'ont fait, dès leur jeunesse, que ce qui est mauvais à mes yeux; car les fils d'Israël n'ont fait que me provoquer par l'œuvre de leurs mains, dit l'Éternel.",
+        "KJV": "For the children of Israel and the children of Judah have only done evil before me from their youth: for the children of Israel have only provoked me to anger with the work of their hands, saith the LORD.",
+        "LSG": "Car les enfants d'Israël et les enfants de Juda N'ont fait, dès leur jeunesse, que ce qui est mal à mes yeux; Les enfants d'Israël n'ont fait que m'irriter Par l'oeuvre de leurs mains, dit l'Eternel.",
+        "MAB": "Car les enfants d'Israël et les enfants de Juda n'ont fait dès leur jeunesse que ce qui déplaît à mes yeux; et les enfants d'Israël ne font que m'irriter par les œuvres de leurs mains, dit l'Eternel.",
+        "OST": "Car les enfants d'Israël et les enfants de Juda n'ont fait, dès leur jeunesse, que ce qui est mal à mes yeux; car les enfants d'Israël ne font que m'irriter par les œuvres de leurs mains, dit l'Éternel.",
+        "S21": "En effet, les Israélites et les Judéens n’ont fait que ce qui est mal à mes yeux, et ce depuis leur jeunesse. Les Israélites n'ont fait que m'irriter par leur manière d’agir, déclare l'Eternel."
+      }
+    },
+    {
+      "verse": 31,
+      "texts": {
+        "BDS": "Cette ville a provoqué ma colère et mon indignation, depuis qu’on l’a bâtie jusqu’à ce jour: je vais l’écarter de ma vue,",
+        "DBY": "Car cette ville a été une provocation à ma colère et à ma fureur, depuis le jour qu'ils l'ont bâtie jusqu'à ce jour, afin que je l'ôte de devant ma face,",
+        "KJV": "For this city hath been to me [as] a provocation of mine anger and of my fury from the day that they built it even unto this day; that I should remove it from before my face,",
+        "LSG": "Car cette ville excite ma colère et ma fureur, Depuis le jour où on l'a bâtie jusqu'à ce jour; Aussi je veux l'ôter de devant ma face,",
+        "MAB": "Car cette ville a été portée à provoquer ma colère et ma fureur, depuis le jour qu'ils l'ont bâtie, jusqu'à aujourd'hui, afin que je l'abolisse de devant ma face;",
+        "OST": "Car cette ville m'a été un objet de colère et d'indignation, depuis le jour où on l'a bâtie jusqu'à ce jour, en sorte que je l'ôte de devant ma face;",
+        "S21": "»Oui, cette ville a provoqué ma colère et ma fureur depuis le jour où ils l’ont construite jusqu'à aujourd’hui; aussi, je ne veux plus la voir"
+      }
+    },
+    {
+      "verse": 32,
+      "texts": {
+        "BDS": "à cause de tous les méfaits commis par les Israélites et les gens de Juda, par lesquels ils m’ont irrité, eux, leurs rois et leurs chefs, leurs prêtres, leurs prophètes, les hommes de Juda et les habitants de Jérusalem.",
+        "DBY": "à cause de toute l'iniquité des fils d'Israël et des fils de Juda, qu'ils ont commise pour me provoquer, eux, leurs rois, leurs princes, leurs sacrificateurs, et leurs prophètes, et les hommes de Juda, et les habitants de Jérusalem.",
+        "KJV": "Because of all the evil of the children of Israel and of the children of Judah, which they have done to provoke me to anger, they, their kings, their princes, their priests, and their prophets, and the men of Judah, and the inhabitants of Jerusalem.",
+        "LSG": "A cause de tout le mal que les enfants d'Israël et les enfants de Juda Ont fait pour m'irriter, Eux, leurs rois, leurs chefs, leurs sacrificateurs et leurs prophètes, Les hommes de Juda et les habitants de Jérusalem.",
+        "MAB": "A cause de toute la malice des enfants d'Israël, et des enfants de Juda, qu'ils ont commise pour m'irriter, eux, leurs Rois, les principaux d'entre eux, leurs Sacrificateurs, et leurs Prophètes, les hommes de Juda, et les habitants de Jérusalem.",
+        "OST": "A cause de tout le mal que les enfants d'Israël et les enfants de Juda ont fait pour m'irriter, eux, leurs rois, leurs chefs, leurs sacrificateurs et leurs prophètes, les hommes de Juda et les habitants de Jérusalem.",
+        "S21": "à cause de tout le mal que les Israélites et les Judéens ont fait au point de m'irriter, eux, leurs rois, leurs chefs, leurs prêtres et leurs prophètes, les hommes de Juda aussi bien que les habitants de Jérusalem."
+      }
+    },
+    {
+      "verse": 33,
+      "texts": {
+        "BDS": "Ils m’ont tourné le dos au lieu de regarder vers moi, alors que je n’ai cessé de les instruire, sans me lasser. Mais ils ne m’ont pas écouté, ils n’ont pas accepté l’éducation.",
+        "DBY": "Ils m'ont tourné le dos et non la face; et je les ai enseignés, me levant de bonne heure et les enseignant, et ils n'ont pas écouté pour recevoir l'instruction;",
+        "KJV": "And they have turned unto me the back, and not the face: though I taught them, rising up early and teaching [them], yet they have not hearkened to receive instruction.",
+        "LSG": "Ils m'ont tourné le dos, ils ne m'ont pas regardé; On les a enseignés, on les a enseignés dès le matin; Mais ils n'ont pas écouté pour recevoir instruction.",
+        "MAB": "Ils m'ont abandonné; et quand je les ai enseignés, me levant dès le matin et les enseignant, ils n'ont point été obéissants pour recevoir instruction.",
+        "OST": "Ils m'ont tourné le dos et non le visage. On les a enseignés, enseignés dès le matin; mais ils n'ont pas été dociles pour recevoir instruction.",
+        "S21": "Ils m'ont tourné le dos, ils ont arrêté de me regarder en face. Pourtant on les a enseignés, encore et encore, inlassablement, mais ils n’ont pas voulu tenir compte de la correction."
+      }
+    },
+    {
+      "verse": 34,
+      "texts": {
+        "BDS": "Ils ont même installé leurs abominations à l’intérieur du Temple qui m’appartient et l’ont ainsi souillé.",
+        "DBY": "et ils ont mis leurs abominations dans la maison qui est appelée de mon nom, pour la rendre impure;",
+        "KJV": "But they set their abominations in the house, which is called by my name, to defile it.",
+        "LSG": "Ils ont placé leurs abominations Dans la maison sur laquelle mon nom est invoqué, Afin de la souiller.",
+        "MAB": "Mais ils ont mis leurs abominations dans la maison sur laquelle mon Nom est réclamé, pour la souiller.",
+        "OST": "Ils ont mis leurs abominations dans la maison sur laquelle est invoqué mon nom, pour la souiller.",
+        "S21": "Ils ont placé leurs monstrueuses idoles dans le temple auquel mon nom est associé, de manière à le rendre impur."
+      }
+    },
+    {
+      "verse": 35,
+      "texts": {
+        "BDS": "Et ils ont construit des hauts-lieux consacrés à Baal dans la vallée de Ben-Hinnom, pour brûler leurs fils et leurs filles en l’honneur de Molok; c’est là une abomination que je n’avais pas ordonnée, et qui ne m’était même pas venue à la pensée. Ainsi ils ont fait commettre un péché à Juda.",
+        "DBY": "et ils ont bâti les hauts lieux de Baal, qui sont dans la vallée du fils de Hinnom, pour faire passer par le feu leurs fils et leurs filles à Moloc: ce que je ne leur ai point commandé; et il ne m'est point monté au cœur qu'ils fissent cette chose abominable, pour faire pécher Juda.",
+        "KJV": "And they built the high places of Baal, which [are] in the valley of the son of Hinnom, to cause their sons and their daughters to pass through [the fire] unto Molech; which I commanded them not, neither came it into my mind, that they should do this abomination, to cause Judah to sin.",
+        "LSG": "Ils ont bâti des hauts lieux à Baal dans la vallée de Ben-Hinnom, Pour faire passer à Moloc leurs fils et leurs filles: Ce que je ne leur avais point ordonné; Et il ne m'était point venu à la pensée Qu'ils commettraient de telles horreurs Pour faire pécher Juda.",
+        "MAB": "Et ils ont bâti les hauts lieux de Bahal, qui sont en la vallée du fils de Hinnom, pour faire passer par le feu leurs fils et leurs filles à Molec; ce que je ne leur avais point commandé, et je n'avais jamais pensé qu'ils fissent cette abomination pour faire pécher Juda.",
+        "OST": "Et ils ont bâti les hauts lieux de Baal, dans la vallée des fils de Hinnom, pour faire passer leurs fils et leurs filles par le feu à Moloc, ce que je ne leur avais point commandé; et il ne m'était jamais venu à la pensée qu'on fît une telle abomination, pour faire pécher Juda.",
+        "S21": "Ils ont construit des hauts lieux en l’honneur de Baal, dans la vallée de Ben-Hinnom, pour offrir leurs fils et leurs filles en sacrifice à Moloc. Cela, je ne l'avais pas ordonné, cela ne m'était pas venu à la pensée: commettre de telles horreurs pour faire pécher Juda!"
+      }
+    },
+    {
+      "verse": 36,
+      "texts": {
+        "BDS": "—C’est pourquoi maintenant, voici ce que déclare l’Eternel, Dieu d’Israël, à cette ville que vous dites livrée au roi de Babylone, par l’épée, par la famine et par la peste:",
+        "DBY": "Et maintenant, à cause de cela, l'Éternel, le Dieu d'Israël, dit ainsi touchant cette ville dont vous dites qu'elle est livrée en la main du roi de Babylone par l'épée, et par la famine, et par la peste:",
+        "KJV": "And now therefore thus saith the LORD, the God of Israel, concerning this city, whereof ye say, It shall be delivered into the hand of the king of Babylon by the sword, and by the famine, and by the pestilence;",
+        "LSG": "Et maintenant, ainsi parle l'Eternel, le Dieu d'Israël, Sur cette ville dont vous dites: Elle sera livrée entre les mains du roi de Babylone, Vaincue par l'épée, par la famine et par la peste:",
+        "MAB": "Et maintenant, à cause de cela l'Eternel, le Dieu d'Israël, dit ainsi touchant cette ville de laquelle vous dites qu'elle est livrée entre les mains du Roi de Babylone, à cause que l'épée, la famine, et la mortalité [sont en elle] :",
+        "OST": "Et maintenant, à cause de cela, ainsi a dit l'Éternel, le Dieu d'Israël, touchant cette ville dont vous dites qu'elle va être livrée entre les mains du roi de Babylone, par l'épée, par la famine et par la peste:",
+        "S21": "»Et maintenant, voici ce que dit l’Eternel, le Dieu d'Israël, à l’intention de cette ville, que vous présentez comme livrée entre les mains du roi de Babylone, vaincue par l'épée, la famine et la peste:"
+      }
+    },
+    {
+      "verse": 37,
+      "texts": {
+        "BDS": "Je vais les rassembler de toutes les contrées où je les aurai dispersés dans mon indignation, dans ma colère, et dans mon grand courroux. Je les ramènerai ici pour les y faire vivre dans la sécurité.",
+        "DBY": "Voici, je les rassemblerai de tous les pays où je les ai chassés dans ma colère, et dans ma fureur, et dans mon grand courroux; et je les ferai retourner en ce lieu; et je les ferai habiter en sécurité;",
+        "KJV": "Behold, I will gather them out of all countries, whither I have driven them in mine anger, and in my fury, and in great wrath; and I will bring them again unto this place, and I will cause them to dwell safely:",
+        "LSG": "Voici, je les rassemblerai de tous les pays où je les ai chassés, Dans ma colère, dans ma fureur, et dans ma grande irritation; Je les ramènerai dans ce lieu, Et je les y ferai habiter en sûreté.",
+        "MAB": "Voici, je m'en vais les rassembler de tous les pays dans lesquels je les aurai dispersés par ma colère et par ma fureur, et par ma grande indignation, et je les ferai retourner en ce lieu-ci, et je les [y] ferai demeurer en sûreté.",
+        "OST": "Voici, je les rassemblerai de tous les pays où je les aurai chassés dans ma colère, dans ma fureur, dans une grande indignation; je les ferai revenir en ce lieu, et y habiter en sûreté.",
+        "S21": "Je vais les rassembler de tous les pays où je les ai chassés en raison de ma colère, ma fureur et ma grande indignation. Je les ramènerai ici et je ferai en sorte qu’ils y habitent en sécurité."
+      }
+    },
+    {
+      "verse": 38,
+      "texts": {
+        "BDS": "Ils seront mon peuple et je serai leur Dieu.",
+        "DBY": "et ils seront mon peuple, et moi je serai leur Dieu;",
+        "KJV": "And they shall be my people, and I will be their God:",
+        "LSG": "Ils seront mon peuple, Et je serai leur Dieu.",
+        "MAB": "Et ils me seront pour peuple, et je leur serai pour Dieu.",
+        "OST": "Alors ils seront mon peuple, et je serai leur Dieu.",
+        "S21": "Ils seront mon peuple et moi, je serai leur Dieu."
+      }
+    },
+    {
+      "verse": 39,
+      "texts": {
+        "BDS": "Je leur accorderai un cœur et une conduite qui me seront entièrement dévoués, afin qu’ils me révèrent toute leur vie durant, et cela, pour leur bien et pour celui de leurs enfants après eux.",
+        "DBY": "et je leur donnerai un seul cœur, et une seule voie, pour me craindre tous les jours, pour leur bien et le bien de leurs fils après eux;",
+        "KJV": "And I will give them one heart, and one way, that they may fear me for ever, for the good of them, and of their children after them:",
+        "LSG": "Je leur donnerai un même coeur et une même voie, Afin qu'ils me craignent toujours, Pour leur bonheur et celui de leurs enfants après eux.",
+        "MAB": "Et je leur donnerai un même cœur, et un même chemin, afin qu'ils me craignent à toujours, pour leur bien et le bien de leurs enfants après eux.",
+        "OST": "Et je leur donnerai un même cœur et un même chemin, afin qu'ils me craignent toujours, pour leur bien et pour celui de leurs enfants après eux.",
+        "S21": "Je leur donnerai un seul cœur et un seul chemin afin qu'ils aient toujours la crainte de moi, pour leur bonheur et celui de leurs enfants après eux."
+      }
+    },
+    {
+      "verse": 40,
+      "texts": {
+        "BDS": "Je conclurai avec eux une alliance éternelle, par laquelle je ne les délaisserai pas mais leur ferai du bien, je les amènerai à me révérer de tout leur cœur pour qu’ils ne se détournent plus de moi.",
+        "DBY": "et je ferai avec eux une alliance éternelle, que je ne me retirerai point d'auprès d'eux, pour leur faire du bien; et je mettrai ma crainte dans leur cœur, pour qu'ils ne se retirent pas de moi.",
+        "KJV": "And I will make an everlasting covenant with them, that I will not turn away from them, to do them good; but I will put my fear in their hearts, that they shall not depart from me.",
+        "LSG": "Je traiterai avec eux une alliance éternelle, Je ne me détournerai plus d'eux, Je leur ferai du bien, Et je mettrai ma crainte dans leur coeur, Afin qu'ils ne s'éloignent pas de moi.",
+        "MAB": "Et je traiterai avec eux une alliance éternelle, [savoir] que je ne me retirerai point d'eux pour leur faire du bien; et je mettrai ma crainte dans leur cœur, afin qu'ils ne se retirent point de moi.",
+        "OST": "Et je traiterai avec eux une alliance éternelle; je ne me retirerai plus d'eux, je leur ferai du bien, et je mettrai ma crainte dans leurs cœurs, afin qu'ils ne se détournent pas de moi.",
+        "S21": "Je conclurai avec eux une alliance éternelle, d’après laquelle je ne renoncerai plus à eux mais leur ferai du bien et mettrai la crainte qui m’est due dans leur cœur, pour qu'ils ne se détournent plus de moi."
+      }
+    },
+    {
+      "verse": 41,
+      "texts": {
+        "BDS": "Je trouverai ma joie à leur faire du bien, je les planterai ici, dans ce pays, oui, je le ferai de tout mon cœur et de toute mon âme.",
+        "DBY": "Et je me réjouirai en eux pour leur faire du bien, et je les planterai dans ce pays, en vérité, de tout mon cœur et de toute mon âme.",
+        "KJV": "Yea, I will rejoice over them to do them good, and I will plant them in this land assuredly with my whole heart and with my whole soul.",
+        "LSG": "Je prendrai plaisir à leur faire du bien, Et je les planterai véritablement dans ce pays, De tout mon coeur et de toute mon âme.",
+        "MAB": "Et je prendrai plaisir à leur faire du bien, et je les planterai dans ce pays-ci solidement, de tout mon cœur, et de toute mon âme.",
+        "OST": "Et je me réjouirai en leur faisant du bien; et je les planterai véritablement dans ce pays, de tout mon cœur et de toute mon âme.",
+        "S21": "Je prendrai plaisir à leur faire du bien et je les enracinerai vraiment dans ce pays, de tout mon cœur et de toute mon âme."
+      }
+    },
+    {
+      "verse": 42,
+      "texts": {
+        "BDS": "Car voici ce que déclare l’Eternel: Comme je fais venir sur ce peuple ce grand malheur, je leur accorderai aussi tous les biens que je leur promets.",
+        "DBY": "Car ainsi dit l'Éternel: Comme j'ai fait venir sur ce peuple tout ce grand mal, ainsi je ferai venir sur eux tout le bien que j'ai prononcé à leur égard.",
+        "KJV": "For thus saith the LORD; Like as I have brought all this great evil upon this people, so will I bring upon them all the good that I have promised them.",
+        "LSG": "Car ainsi parle l'Eternel: De même que j'ai fait venir sur ce peuple tous ces grands malheurs, De même je ferai venir sur eux tout le bien que je leur promets.",
+        "MAB": "Car ainsi a dit l'Eternel : comme j'ai fait venir tout ce grand mal sur ce peuple, ainsi je m'en vais faire venir sur eux tout le bien que je prononce en leur faveur.",
+        "OST": "Car ainsi a dit l'Éternel: Comme j'ai fait venir tout ce grand mal sur ce peuple, je ferai aussi venir sur eux tout le bien que je leur promets.",
+        "S21": "»En effet, voici ce que dit l’Eternel: De même que j'ai fait venir tous ces grands malheurs contre ce peuple, de même je ferai venir sur eux tout le bien que je leur promets."
+      }
+    },
+    {
+      "verse": 43,
+      "texts": {
+        "BDS": "Et l’on achètera des champs dans ce pays qui est, selon vos dires, un pays dévasté, sans homme ni bêtes, et livré aux Chaldéens.",
+        "DBY": "Et on achètera des champs dans ce pays dont vous dites qu'il est une désolation, de sorte qu'il n'y a ni homme, ni bête; il est livré en la main des Chaldéens.",
+        "KJV": "And fields shall be bought in this land, whereof ye say, It [is] desolate without man or beast; it is given into the hand of the Chaldeans.",
+        "LSG": "On achètera des champs dans ce pays Dont vous dites: C'est un désert, sans hommes ni bêtes, Il est livré entre les mains des Chaldéens.",
+        "MAB": "Et on achètera des champs dans ce pays, duquel vous dites que ce n'est que désolation, n'y ayant ni homme ni bête, [et qui] est livré entre les mains des Caldéens.",
+        "OST": "Et l'on achètera des champs dans ce pays dont vous dites: C'est un désert, sans homme ni bête; il est livré entre les mains des Caldéens.",
+        "S21": "On achètera des champs, dans ce pays que vous présentez comme une ruine sans hommes ni bêtes, livrée entre les mains des Babyloniens."
+      }
+    },
+    {
+      "verse": 44,
+      "texts": {
+        "BDS": "On y achètera des champs à prix d’argent, on rédigera des actes de vente que l’on cachettera devant témoins, dans le pays de Benjamin et aux alentours de Jérusalem, dans les villes de Juda et les villes de la région montagneuse, dans les villes de la plaine, et dans les villes du Néguev. Oui, j’accomplirai leur restauration, l’Eternel le déclare.",
+        "DBY": "On achètera des champs à prix d'argent, et on en écrira les lettres, et on les scellera, et on les fera attester par des témoins dans le pays de Benjamin, et aux environs de Jérusalem, et dans les villes de Juda, et dans les villes de la montagne, et dans les villes du pays plat, et dans les villes du midi; car je rétablirai leurs captifs, dit l'Éternel.",
+        "KJV": "Men shall buy fields for money, and subscribe evidences, and seal [them], and take witnesses in the land of Benjamin, and in the places about Jerusalem, and in the cities of Judah, and in the cities of the mountains, and in the cities of the valley, and in the cities of the south: for I will cause their captivity to return, saith the LORD.",
+        "LSG": "On achètera des champs pour de l'argent, On écrira des contrats, on les cachètera, on prendra des témoins, Dans le pays de Benjamin et aux environs de Jérusalem, Dans les villes de Juda, dans les villes de la montagne, Dans les villes de la plaine et dans les villes du midi; Car je ramènerai leurs captifs, dit l'Eternel.",
+        "MAB": "On achètera, [dis-je], des champs à prix d'argent, et on en écrira les contrats, et on les cachettera, et on en prendra des témoins au pays de Benjamin, et aux environs de Jérusalem, dans les villes de Juda, tant dans les villes des montagnes, que dans les villes de la plaine, et dans les villes du Midi. Car je ferai retourner leurs captifs, dit l'Eternel.",
+        "OST": "On y achètera des champs à prix d'argent, on en écrira les contrats, et on les cachètera, et on prendra des témoins, dans le pays de Benjamin et aux environs de Jérusalem, dans les villes de Juda, dans les villes de la montagne, dans les villes de la plaine et dans les villes du midi. Car je ferai revenir leurs captifs, dit l'Éternel.",
+        "S21": "On achètera des champs avec de l'argent, on écrira des contrats, on les cachètera, on prendra des témoins dans le pays de Benjamin et les environs de Jérusalem, dans les villes de Juda, dans celles de la montagne, de la plaine et du sud, car je ramènerai leurs déportés, déclare l'Eternel.»"
+      }
+    }
+  ]
+}

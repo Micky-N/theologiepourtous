@@ -1,0 +1,534 @@
+{
+  "bookCode": "LEV",
+  "chapter": 23,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "L’Eternel s’adressa à Moïse en ces termes:",
+        "DBY": "Et l'Éternel parla à Moïse, disant:",
+        "KJV": "And the LORD spake unto Moses, saying,",
+        "LSG": "L'Eternel parla à Moïse, et dit:",
+        "MAB": "L'Eternel parla aussi à Moïse en disant :",
+        "OST": "L'Éternel parla aussi à Moïse, en disant:",
+        "S21": "L'Eternel dit à Moïse:"
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "—Parle aux Israélites et dis-leur: Voici les fêtes que vous devez célébrer et qui sont mes fêtes. Pour elles, vous convoquerez le peuple pour qu’il se rassemble afin de me rendre un culte.",
+        "DBY": "Parle aux fils d'Israël, et dis-leur: Les jours solennels de l'Éternel, que vous publierez, seront de saintes convocations. Ce sont ici mes jours solennels:",
+        "KJV": "Speak unto the children of Israel, and say unto them, [Concerning] the feasts of the LORD, which ye shall proclaim [to be] holy convocations, [even] these [are] my feasts.",
+        "LSG": "Parle aux enfants d'Israël, et tu leur diras: Les fêtes de l'Eternel, que vous publierez, seront de saintes convocations. Voici quelles sont mes fêtes.",
+        "MAB": "Parle aux enfants d'Israël, et leur dis : Les fêtes solennelles de l'Eternel, que vous publierez, seront de saintes convocations; et ce sont ici mes fêtes solennelles.",
+        "OST": "Parle aux enfants d'Israël, et dis-leur: Les fêtes de l'Éternel, que vous publierez comme de saintes convocations, ce sont là mes fêtes.",
+        "S21": "«Transmets ces instructions aux Israélites: Les fêtes de l'Eternel que vous proclamerez seront de saintes assemblées. Voici quelles sont mes fêtes."
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "—Durant six jours on fera son travail, mais le septième jour est un sabbat, un jour de repos; il y aura une assemblée cultuelle et vous ne ferez aucun travail ce jour-là, c’est un sabbat en l’honneur de l’Eternel partout où vous habiterez.",
+        "DBY": "six jours on travaillera; et le septième jour est un sabbat de repos, une sainte convocation; vous ne ferez aucune œuvre: c'est un sabbat consacré à l'Éternel dans toutes vos habitations.",
+        "KJV": "Six days shall work be done: but the seventh day [is] the sabbath of rest, an holy convocation; ye shall do no work [therein]: it [is] the sabbath of the LORD in all your dwellings.",
+        "LSG": "On travaillera six jours; mais le septième jour est le sabbat, le jour du repos: il y aura une sainte convocation. Vous ne ferez aucun ouvrage: c'est le sabbat de l'Eternel, dans toutes vos demeures.",
+        "MAB": "On travaillera six jours, mais au septième jour, qui est le Sabbat du repos, il y aura une sainte convocation; vous ne ferez aucune œuvre, [car] c'est le Sabbat à l'Eternel, dans toutes vos demeures.",
+        "OST": "On travaillera six jours; mais le septième jour est le sabbat, le jour du repos; il y aura une sainte convocation; vous ne ferez aucune œuvre; c'est le sabbat de l'Éternel dans toutes vos demeures.",
+        "S21": "»On travaillera 6 jours, mais le septième jour est le sabbat, le jour du repos; il y aura une sainte assemblée. Vous ne ferez aucun travail, c'est le sabbat de l'Eternel dans toutes vos maisons."
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "Voici les autres fêtes de l’Eternel pour lesquelles vous convoquerez le peuple pour qu’il se rassemble afin de me rendre un culte aux dates fixées.",
+        "DBY": "Ce sont ici les jours solennels de l'Éternel, de saintes convocations, que vous publierez en leurs temps assignés.",
+        "KJV": "These [are] the feasts of the LORD, [even] holy convocations, which ye shall proclaim in their seasons.",
+        "LSG": "Voici les fêtes de l'Eternel, les saintes convocations, que vous publierez à leurs temps fixés.",
+        "MAB": "Et ce sont ici les fêtes solennelles de l'Eternel, qui seront de saintes convocations, que vous publierez en leur saison.",
+        "OST": "Voici les fêtes de l'Éternel, les saintes convocations, que vous publierez à leurs temps fixés.",
+        "S21": "»Voici les fêtes de l'Eternel, les saintes assemblées que vous proclamerez à la date fixée pour elles."
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "—Au soir du quatorzième jour du premier mois, à la nuit tombante, c’est la Pâque de l’Eternel;",
+        "DBY": "Le premier mois, le quatorzième jour du mois, entre les deux soirs, est la Pâque à l'Éternel.",
+        "KJV": "In the fourteenth [day] of the first month at even [is] the LORD'S passover.",
+        "LSG": "Le premier mois, le quatorzième jour du mois, entre les deux soirs, ce sera la Pâque de l'Eternel.",
+        "MAB": "Au premier mois, le quatorzième jour du mois entre les deux vêpres, est la Pâque à l'Eternel.",
+        "OST": "Le premier mois, le quatorzième jour du mois, entre les deux soirs, sera la Pâque de l'Éternel;",
+        "S21": "»Le quatorzième jour du premier mois, au coucher du soleil, ce sera la Pâque de l'Eternel."
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "et le quinzième jour du mois c’est la fête des pains sans levain en l’honneur de l’Eternel; pendant sept jours, vous mangerez des pains sans levain.",
+        "DBY": "Et le quinzième jour de ce mois, est la fête des pains sans levain à l'Éternel: sept jours, vous mangerez des pains sans levain.",
+        "KJV": "And on the fifteenth day of the same month [is] the feast of unleavened bread unto the LORD: seven days ye must eat unleavened bread.",
+        "LSG": "Et le quinzième jour de ce mois, ce sera la fête des pains sans levain en l'honneur de l'Eternel; vous mangerez pendant sept jours des pains sans levain.",
+        "MAB": "Et le quinzième jour de ce même mois est la fête solennelle des pains sans levain à l'Eternel; vous mangerez des pains sans levain pendant sept jours.",
+        "OST": "Et le quinzième jour de ce mois, sera la fête des pains sans levain à l'Éternel; vous mangerez des pains sans levain pendant sept jours.",
+        "S21": "Et le quinzième jour de ce mois, ce sera la fête des pains sans levain en l'honneur de l'Eternel. Vous mangerez pendant 7 jours des pains sans levain."
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "Vous consacrerez le premier jour de cette fête à une assemblée cultuelle; vous ne ferez aucune des tâches de votre travail habituel ce jour-là.",
+        "DBY": "Le premier jour, vous aurez une sainte convocation; vous ne ferez aucune œuvre de service;",
+        "KJV": "In the first day ye shall have an holy convocation: ye shall do no servile work therein.",
+        "LSG": "Le premier jour, vous aurez une sainte convocation: vous ne ferez aucune oeuvre servile.",
+        "MAB": "Le premier jour vous aurez une sainte convocation; vous ne ferez aucune œuvre servile.",
+        "OST": "Le premier jour vous aurez une sainte convocation; vous ne ferez aucune œuvre servile.",
+        "S21": "Le premier jour, vous aurez une sainte assemblée; vous n’effectuerez aucun travail pénible."
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "Pendant sept jours, vous offrirez à l’Eternel des sacrifices consumés par le feu. Le septième jour, vous convoquerez le peuple pour qu’il se rassemble afin de me rendre un culte et vous ne ferez aucune des tâches de votre travail habituel.",
+        "DBY": "et vous présenterez à l'Éternel, pendant sept jours, un sacrifice par feu: au septième jour il y aura une sainte convocation; vous ne ferez aucune œuvre de service.",
+        "KJV": "But ye shall offer an offering made by fire unto the LORD seven days: in the seventh day [is] an holy convocation: ye shall do no servile work [therein].",
+        "LSG": "Vous offrirez à l'Eternel, pendant sept jours, des sacrifices consumés par le feu. Le septième jour, il y aura une sainte convocation: vous ne ferez aucune oeuvre servile.",
+        "MAB": "Mais vous offrirez à l'Eternel pendant sept jours des offrandes faites par feu, [et] au septième jour il y aura une sainte convocation; vous ne ferez aucune œuvre servile.",
+        "OST": "Vous offrirez à l'Éternel, pendant sept jours, des sacrifices faits par le feu. Le septième jour il y aura une sainte convocation; vous ne ferez aucune œuvre servile.",
+        "S21": "Pendant 7 jours, vous offrirez à l'Eternel des sacrifices passés par le feu. Le septième jour, il y aura une sainte assemblée; vous n’effectuerez aucun travail pénible.»"
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "L’Eternel parla encore à Moïse en ces termes:",
+        "DBY": "Et l'Éternel parla à Moïse, disant:",
+        "KJV": "And the LORD spake unto Moses, saying,",
+        "LSG": "L'Eternel parla à Moïse, et dit:",
+        "MAB": "L'Eternel parla aussi à Moïse, en disant :",
+        "OST": "L'Éternel parla encore à Moïse, en disant:",
+        "S21": "L'Eternel dit à Moïse:"
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "—Dis aux Israélites: Quand vous serez dans le pays que je vais vous donner et que vous y ferez la moisson, vous apporterez au prêtre la première gerbe de votre récolte.",
+        "DBY": "Parle aux fils d'Israël, et dis-leur: Quand vous serez entrés dans le pays que je vous donne et que vous en aurez fait la moisson, vous apporterez au sacrificateur une gerbe des prémices de votre moisson;",
+        "KJV": "Speak unto the children of Israel, and say unto them, When ye be come into the land which I give unto you, and shall reap the harvest thereof, then ye shall bring a sheaf of the firstfruits of your harvest unto the priest:",
+        "LSG": "Parle aux enfants d'Israël et tu leur diras: Quand vous serez entrés dans le pays que je vous donne, et que vous y ferez la moisson, vous apporterez au sacrificateur une gerbe, prémices de votre moisson.",
+        "MAB": "Parle aux enfants d'Israël, et leur dis : Quand vous serez entrés au pays que je vous donne, et que vous en aurez fait la moisson, vous apporterez alors au Sacrificateur une poignée des premiers fruits de votre moisson.",
+        "OST": "Parle aux enfants d'Israël, et dis-leur: Quand vous serez entrés au pays que je vous donne, et que vous en ferez la moisson, vous apporterez au sacrificateur une gerbe, prémices de votre moisson.",
+        "S21": "«Transmets ces instructions aux Israélites: Quand vous serez entrés dans le pays que je vous donne et que vous y ferez la moisson, vous apporterez au prêtre la première gerbe de votre moisson."
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "Le lendemain du sabbat, il fera devant moi le geste de présentation avec cette gerbe pour que vous obteniez ma faveur.",
+        "DBY": "et il tournoiera la gerbe devant l'Éternel, pour que vous soyez agréés; le sacrificateur la tournoiera le lendemain du sabbat.",
+        "KJV": "And he shall wave the sheaf before the LORD, to be accepted for you: on the morrow after the sabbath the priest shall wave it.",
+        "LSG": "Il agitera de côté et d'autre la gerbe devant l'Eternel, afin qu'elle soit agréée: le sacrificateur l'agitera de côté et d'autre, le lendemain du sabbat.",
+        "MAB": "Et il tournoiera cette poignée-là devant l'Eternel, afin qu'elle soit agréée pour vous; le Sacrificateur la tournoiera le lendemain du Sabbat.",
+        "OST": "Et il agitera la gerbe devant l'Éternel, afin qu'elle soit agréée pour vous; le sacrificateur l'agitera le lendemain du sabbat.",
+        "S21": "Il fera avec la gerbe le geste de présentation devant l'Eternel afin qu'elle soit acceptée, il fera le geste de présentation le lendemain du sabbat."
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "Le jour où vous accomplirez ce geste avec la gerbe, vous m’offrirez en holocauste un agneau sans défaut, dans sa première année.",
+        "DBY": "Et le jour où vous ferez tournoyer la gerbe, vous offrirez un agneau sans défaut, âgé d'un an, en holocauste à l'Éternel;",
+        "KJV": "And ye shall offer that day when ye wave the sheaf an he lamb without blemish of the first year for a burnt offering unto the LORD.",
+        "LSG": "Le jour où vous agiterez la gerbe, vous offrirez en holocauste à l'Eternel un agneau d'un an sans défaut;",
+        "MAB": "Et le jour que vous ferez tournoyer cette poignée, vous sacrifierez un agneau sans tare, et d'un an en holocauste à l'Eternel.",
+        "OST": "Vous sacrifierez aussi, le jour où vous agiterez la gerbe, un agneau d'un an, sans défaut, en holocauste à l'Éternel;",
+        "S21": "Le jour où vous présenterez la gerbe, vous offrirez en holocauste à l'Eternel un agneau d'un an sans défaut."
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "Vous y adjoindrez une offrande de six kilogrammes de farine pétrie à l’huile, qui, consumée par le feu pour l’Eternel, aura une odeur apaisante, et une libation d’un litre et demi de vin.",
+        "DBY": "et pour son offrande de gâteau, deux dixièmes de fleur de farine pétrie à l'huile, un sacrifice par feu à l'Éternel, une odeur agréable; et sa libation sera du vin, le quart d'un hin.",
+        "KJV": "And the meat offering thereof [shall be] two tenth deals of fine flour mingled with oil, an offering made by fire unto the LORD [for] a sweet savour: and the drink offering thereof [shall be] of wine, the fourth [part] of an hin.",
+        "LSG": "vous y joindrez une offrande de deux dixièmes de fleur de farine pétrie à l'huile, comme offrande consumée par le feu, d'une agréable odeur à l'Eternel; et vous ferez une libation d'un quart de hin de vin.",
+        "MAB": "Et le gâteau de cet holocauste sera de deux dixièmes de fine farine, pétrie à l'huile, pour offrande faite par feu à l'Eternel en bonne odeur; et son aspersion de vin sera la quatrième partie d'un Hin.",
+        "OST": "Et son offrande sera de deux dixièmes de fine farine arrosée d'huile, en sacrifice fait par le feu, d'agréable odeur à l'Éternel, et sa libation sera du vin, le quart d'un hin.",
+        "S21": "Vous y joindrez une offrande de 4 litres et demi de fleur de farine pétrie à l'huile, comme offrande passée par le feu dont l’odeur est agréable à l'Eternel, et vous ferez une offrande d'un litre de vin."
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "Avant ce jour où vous apporterez l’offrande à votre Dieu, vous ne mangerez ni pain, ni épis grillés ou grains nouveaux. C’est là une ordonnance en vigueur à perpétuité pour toutes les générations partout où vous habiterez.",
+        "DBY": "Et vous ne mangerez ni pain, ni grain rôti, ni grain en épi, jusqu'à ce même jour, jusqu'à ce que vous ayez apporté l'offrande de votre Dieu. C'est un statut perpétuel, en vos générations, dans toutes vos habitations.",
+        "KJV": "And ye shall eat neither bread, nor parched corn, nor green ears, until the selfsame day that ye have brought an offering unto your God: [it shall be] a statute for ever throughout your generations in all your dwellings.",
+        "LSG": "Vous ne mangerez ni pain, ni épis rôtis ou broyés, jusqu'au jour même où vous apporterez l'offrande à votre Dieu. C'est une loi perpétuelle pour vos descendants, dans tous les lieux où vous habiterez.",
+        "MAB": "Et vous ne mangerez ni pain, ni grain rôti, ni grain en épi, jusqu'à ce propre jour-là, même jusqu'à ce que vous ayez apporté l'offrande à votre Dieu; c'est une ordonnance perpétuelle en vos âges, dans toutes vos demeures.",
+        "OST": "Vous ne mangerez ni pain, ni grain rôti, ni grain en épi, jusqu'à ce même jour-là, jusqu'à ce que vous ayez apporté l'offrande à votre Dieu; c'est une ordonnance perpétuelle pour vos générations, dans toutes vos demeures.",
+        "S21": "Vous ne mangerez ni pain, ni épis rôtis ou broyés jusqu'au jour même où vous apporterez l'offrande à votre Dieu. C'est une prescription perpétuelle pour vous au fil des générations, partout où vous habiterez."
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "—Vous compterez sept semaines entières à partir du lendemain du jour du repos où vous aurez apporté la gerbe destinée à m’être présentée.",
+        "DBY": "-Et vous compterez depuis le lendemain du sabbat, depuis le jour que vous aurez apporté la gerbe de l'offrande tournoyée, sept semaines; elles seront complètes:",
+        "KJV": "And ye shall count unto you from the morrow after the sabbath, from the day that ye brought the sheaf of the wave offering; seven sabbaths shall be complete:",
+        "LSG": "Depuis le lendemain du sabbat, du jour où vous apporterez la gerbe pour être agitée de côté et d'autre, vous compterez sept semaines entières.",
+        "MAB": "Vous compterez aussi dès le lendemain du Sabbat, [savoir] dès le jour que vous aurez apporté la poignée qu'on doit tournoyer, sept semaines entières.",
+        "OST": "Vous compterez aussi, à partir du lendemain du sabbat, dès le jour où vous aurez apporté la gerbe qui doit être agitée, sept semaines entières.",
+        "S21": "»Depuis ce lendemain du sabbat, depuis le jour où vous apporterez la gerbe pour faire le geste de présentation, vous compterez sept semaines entières."
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "Vous compterez cinquante jours jusqu’au lendemain du septième jour du repos et, ce jour-là, vous me présenterez une nouvelle offrande.",
+        "DBY": "vous compterez cinquante jours jusqu'au lendemain du septième sabbat, et vous présenterez à l'Éternel une offrande de gâteau nouvelle;",
+        "KJV": "Even unto the morrow after the seventh sabbath shall ye number fifty days; and ye shall offer a new meat offering unto the LORD.",
+        "LSG": "Vous compterez cinquante jours jusqu'au lendemain du septième sabbat; et vous ferez à l'Eternel une offrande nouvelle.",
+        "MAB": "Vous compterez donc cinquante jours jusqu'au lendemain de la septième semaine; et vous offrirez à l'Eternel un gâteau nouveau.",
+        "OST": "Vous compterez cinquante jours jusqu'au lendemain du septième sabbat; et vous offrirez une nouvelle offrande à l'Éternel.",
+        "S21": "Vous compterez 50 jours jusqu'au lendemain du septième sabbat et vous ferez une offrande nouvelle à l'Eternel."
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "Vous apporterez, des lieux où vous habiterez, deux pains pour faire le geste de présentation avec eux, chacun d’eux sera fait de six kilogrammes de fleur de farine et sera cuit en pâte avec du levain; ils représenteront les premiers fruits de votre récolte.",
+        "DBY": "vous apporterez de vos habitations deux pains, en offrande tournoyée; ils seront de deux dixièmes de fleur de farine; vous les cuirez avec du levain: ce sont les premiers fruits à l'Éternel.",
+        "KJV": "Ye shall bring out of your habitations two wave loaves of two tenth deals: they shall be of fine flour; they shall be baken with leaven; [they are] the firstfruits unto the LORD.",
+        "LSG": "Vous apporterez de vos demeures deux pains, pour qu'ils soient agités de côté et d'autre; ils seront faits avec deux dixièmes de fleur de farine, et cuits avec du levain: ce sont les prémices à l'Eternel.",
+        "MAB": "Vous apporterez de vos demeures deux pains, pour en faire une offrande tournoyée, ils [seront] de deux dixièmes, [et] de fine farine, pétris avec du levain; [ce sont] les premiers fruits à l'Eternel.",
+        "OST": "Vous apporterez de vos demeures deux pains, pour une offrande agitée; ils seront de deux dixièmes de fleur de farine, cuits avec du levain: ce sont les prémices à l'Éternel.",
+        "S21": "Vous apporterez de vos maisons deux pains pour qu'ils soient présentés. Ils seront faits avec 4 litres et demi de fleur de farine et cuits avec du levain, en tant que premières parts réservées à l'Eternel."
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "Avec le pain vous offrirez aussi sept agneaux sans défaut, dans leur première année, un jeune taureau et deux béliers, qui me seront offerts en holocauste, accompagnés de leur offrande et de leur libation. Ce sera un sacrifice consumé par le feu, à l’odeur apaisante pour l’Eternel.",
+        "DBY": "Et vous présenterez avec le pain sept agneaux sans défaut, âgés d'un an, et un jeune taureau, et deux béliers: ils seront un holocauste à l'Éternel, avec leur offrande de gâteau et leurs libations, un sacrifice par feu, une odeur agréable à l'Éternel.",
+        "KJV": "And ye shall offer with the bread seven lambs without blemish of the first year, and one young bullock, and two rams: they shall be [for] a burnt offering unto the LORD, with their meat offering, and their drink offerings, [even] an offering made by fire, of sweet savour unto the LORD.",
+        "LSG": "Outre ces pains, vous offrirez en holocauste à l'Eternel sept agneaux d'un an sans défaut, un jeune taureau et deux béliers; vous y joindrez l'offrande et la libation ordinaires, comme offrande consumée par le feu, d'une agréable odeur à l'Eternel.",
+        "MAB": "Vous offrirez aussi avec ce pain-là sept agneaux sans tare, et d'un an, et un veau pris du troupeau, et deux béliers, qui seront un holocauste à l'Eternel, avec leurs gâteaux, et leurs aspersions, des sacrifices faits par feu en bonne odeur à l'Eternel.",
+        "OST": "Vous offrirez aussi avec le pain, sept agneaux d'un an sans défaut, et un jeune taureau, et deux béliers, qui seront en holocauste à l'Éternel, avec leur offrande et leurs libations, en sacrifice fait par le feu, d'agréable odeur à l'Éternel.",
+        "S21": "En plus de ces pains, vous offrirez en holocauste à l'Eternel 7 agneaux d'un an sans défaut, un jeune taureau et 2 béliers, ainsi que l'offrande végétale et les offrandes liquides qui les accompagnent. Ce sera une offrande passée par le feu dont l’odeur est agréable à l'Eternel."
+      }
+    },
+    {
+      "verse": 19,
+      "texts": {
+        "BDS": "Vous offrirez aussi un bouc en sacrifice pour le péché et deux agneaux d’un an en sacrifice de communion.",
+        "DBY": "Et vous offrirez un bouc en sacrifice pour le péché, et deux agneaux âgés d'un an en sacrifice de prospérités;",
+        "KJV": "Then ye shall sacrifice one kid of the goats for a sin offering, and two lambs of the first year for a sacrifice of peace offerings.",
+        "LSG": "Vous offrirez un bouc en sacrifice d'expiation, et deux agneaux d'un an en sacrifice d'actions de grâces.",
+        "MAB": "Vous sacrifierez aussi un jeune bouc [en offrande] pour le péché, et deux agneaux d'un an pour le sacrifice de prospérités.",
+        "OST": "Vous offrirez aussi un bouc pour le péché, et deux agneaux d'un an en sacrifice de prospérités.",
+        "S21": "Vous offrirez un bouc en sacrifice d'expiation et 2 agneaux d'un an en sacrifice de communion."
+      }
+    },
+    {
+      "verse": 20,
+      "texts": {
+        "BDS": "Le prêtre fera avec le pain des premières récoltes le geste de présentation devant l’Eternel. Ils me seront consacrés avec les deux agneaux et reviendront au prêtre.",
+        "DBY": "et le sacrificateur les tournoiera avec le pain des premiers fruits, en offrande tournoyée devant l'Éternel, avec les deux agneaux: ils seront saints, consacrés à l'Éternel pour le sacrificateur.",
+        "KJV": "And the priest shall wave them with the bread of the firstfruits [for] a wave offering before the LORD, with the two lambs: they shall be holy to the LORD for the priest.",
+        "LSG": "Le sacrificateur agitera ces victimes de côté et d'autre devant l'Eternel, avec le pain des prémices et avec les deux agneaux: elles seront consacrées à l'Eternel, et appartiendront au sacrificateur.",
+        "MAB": "Et le Sacrificateur les tournoiera avec le pain des premiers fruits, et avec les deux agneaux, en offrande tournoyée devant l'Éternel; ils seront saints à l'Eternel pour le Sacrificateur.",
+        "OST": "Et le sacrificateur les agitera avec le pain des prémices, en offrande agitée devant l'Éternel, avec les deux agneaux; ils seront consacrés à l'Éternel, pour le sacrificateur.",
+        "S21": "Le prêtre fera pour ces victimes le geste de présentation devant l'Eternel, avec le pain et les 2 agneaux. Elles seront consacrées à l'Eternel et appartiendront au prêtre."
+      }
+    },
+    {
+      "verse": 21,
+      "texts": {
+        "BDS": "En ce même jour, vous convoquerez le peuple pour qu’il se rassemble afin de me rendre un culte. Vous ne ferez aucune tâche de votre travail habituel; c’est une ordonnance en vigueur à perpétuité et pour toutes les générations dans tous les lieux où vous habiterez.",
+        "DBY": "Et vous publierez une convocation en ce même jour; ce sera pour vous une sainte convocation; vous ne ferez aucune œuvre de service: c'est un statut perpétuel, dans toutes vos habitations, en vos générations.",
+        "KJV": "And ye shall proclaim on the selfsame day, [that] it may be an holy convocation unto you: ye shall do no servile work [therein: it shall be] a statute for ever in all your dwellings throughout your generations.",
+        "LSG": "Ce jour même, vous publierez la fête, et vous aurez une sainte convocation: vous ne ferez aucune oeuvre servile. C'est une loi perpétuelle pour vos descendants, dans tous les lieux où vous habiterez.",
+        "MAB": "Vous publierez donc en ce même jour-là que vous avez une sainte convocation; vous ne ferez aucune œuvre servile; c'est une ordonnance perpétuelle dans toutes vos demeures en vos âges.",
+        "OST": "Vous publierez la fête ce jour même; vous aurez une sainte convocation; vous ne ferez aucune œuvre servile. C'est une ordonnance perpétuelle dans toutes vos demeures, d'âge en âge.",
+        "S21": "Ce jour même, vous proclamerez la fête et vous aurez une sainte assemblée; vous n’effectuerez aucun travail pénible. C'est une prescription perpétuelle pour vous au fil des générations, partout où vous habiterez."
+      }
+    },
+    {
+      "verse": 22,
+      "texts": {
+        "BDS": "Quand vous ferez la moisson dans votre pays, vous ne moissonnerez pas vos champs jusqu’au bord, et vous ne glanerez pas ce qui pourra rester de votre moisson; vous laisserez tout cela au pauvre et à l’immigré. Je suis l’Eternel votre Dieu.",
+        "DBY": "-Et quand vous ferez la moisson de votre terre, tu n'achèveras pas de moissonner les coins de ton champ, et tu ne glaneras pas la glanure de ta moisson; tu les laisseras pour le pauvre et pour l'étranger. Moi, je suis l'Éternel, votre Dieu.",
+        "KJV": "And when ye reap the harvest of your land, thou shalt not make clean riddance of the corners of thy field when thou reapest, neither shalt thou gather any gleaning of thy harvest: thou shalt leave them unto the poor, and to the stranger: I [am] the LORD your God.",
+        "LSG": "Quand vous ferez la moisson dans votre pays, tu laisseras un coin de ton champ sans le moissonner, et tu ne ramasseras pas ce qui reste à glaner. Tu abandonneras cela au pauvre et à l'étranger. Je suis l'Eternel, votre Dieu.",
+        "MAB": "Et quand vous ferez la moisson de votre terre tu n'achèveras point de moissonner le bout de ton champ, et tu ne glaneras point les épis qui resteront de ta moisson, mais tu les laisseras pour le pauvre, et pour l'étranger; je suis l'Eternel votre Dieu.",
+        "OST": "Et quand vous ferez la moisson dans votre pays, tu n'achèveras point de moissonner le bout de ton champ, et tu ne ramasseras point les restes de ta moisson; tu les laisseras pour le pauvre et pour l'étranger: Je suis l'Éternel, votre Dieu.",
+        "S21": "»Quand vous ferez la moisson dans votre pays, tu ne moissonneras pas ton champ jusqu’aux bords et tu ne ramasseras pas ce qui reste à glaner. Tu laisseras cela au pauvre et à l'étranger. Je suis l'Eternel, votre Dieu.»"
+      }
+    },
+    {
+      "verse": 23,
+      "texts": {
+        "BDS": "L’Eternel s’adressa à Moïse en ces termes:",
+        "DBY": "Et l'Éternel parla à Moïse, disant:",
+        "KJV": "And the LORD spake unto Moses, saying,",
+        "LSG": "L'Eternel parla à Moïse, et dit:",
+        "MAB": "L'Eternel parla aussi à Moïse, en disant :",
+        "OST": "L'Éternel parla encore à Moïse, en disant:",
+        "S21": "L'Eternel dit à Moïse:"
+      }
+    },
+    {
+      "verse": 24,
+      "texts": {
+        "BDS": "—Parle aux Israélites, et dis-leur: Le premier jour du septième mois sera pour vous un grand jour de repos et, pour vous rappeler à mon souvenir, de sonnerie de trompettes avec un rassemblement cultuel.",
+        "DBY": "Parle aux fils d'Israël, en disant: Au septième mois, le premier jour du mois, il y aura un repos pour vous, un mémorial de jubilation, une sainte convocation;",
+        "KJV": "Speak unto the children of Israel, saying, In the seventh month, in the first [day] of the month, shall ye have a sabbath, a memorial of blowing of trumpets, an holy convocation.",
+        "LSG": "Parle aux enfants d'Israël, et dis: Le septième mois, le premier jour du mois, vous aurez un jour de repos, publié au son des trompettes, et une sainte convocation.",
+        "MAB": "Parle aux enfants d'Israël, et leur dis : Au septième mois, le premier jour du mois il y aura repos pour vous, un mémorial de jubilation, et une sainte convocation.",
+        "OST": "Parle aux enfants d'Israël, et dis: Au septième mois, au premier jour du mois, il y aura pour vous un jour de repos, une commémoration publiée au son des trompettes, une sainte convocation;",
+        "S21": "«Transmets ces instructions aux Israélites: Le premier jour du septième mois, vous aurez un jour de repos proclamé au son des trompettes et une sainte assemblée."
+      }
+    },
+    {
+      "verse": 25,
+      "texts": {
+        "BDS": "Vous ne ferez aucune tâche de votre travail habituel ce jour-là, et vous offrirez à l’Eternel des sacrifices consumés par le feu.",
+        "DBY": "vous ne ferez aucune œuvre de service, et vous présenterez à l'Éternel un sacrifice fait par feu.",
+        "KJV": "Ye shall do no servile work [therein]: but ye shall offer an offering made by fire unto the LORD.",
+        "LSG": "Vous ne ferez aucune oeuvre servile, et vous offrirez à l'Eternel des sacrifices consumés par le feu.",
+        "MAB": "Vous ne ferez aucune œuvre servile, et vous offrirez à l'Eternel des offrandes faites par feu.",
+        "OST": "Vous ne ferez aucune œuvre servile; et vous offrirez à l'Éternel des sacrifices faits par le feu.",
+        "S21": "Vous n’effectuerez aucun travail pénible et vous offrirez à l'Eternel des sacrifices passés par le feu.»"
+      }
+    },
+    {
+      "verse": 26,
+      "texts": {
+        "BDS": "L’Eternel parla encore à Moïse en ces termes:",
+        "DBY": "Et l'Éternel parla à Moïse, disant:",
+        "KJV": "And the LORD spake unto Moses, saying,",
+        "LSG": "L'Eternel parla à Moïse, et dit:",
+        "MAB": "L'Eternel parla aussi à Moïse, en disant :",
+        "OST": "L'Éternel parla aussi à Moïse, en disant:",
+        "S21": "L'Eternel dit à Moïse:"
+      }
+    },
+    {
+      "verse": 27,
+      "texts": {
+        "BDS": "—Le dixième jour de ce septième mois est le Jour des expiations; ce sera un jour d’assemblée cultuelle, vous vous humilierez et vous offrirez à l’Eternel des sacrifices consumés par le feu.",
+        "DBY": "De même, le dixième jour de ce septième mois, c'est le jour des propitiations: ce sera pour vous une sainte convocation, et vous affligerez vos âmes, et vous présenterez à l'Éternel un sacrifice fait par feu.",
+        "KJV": "Also on the tenth [day] of this seventh month [there shall be] a day of atonement: it shall be an holy convocation unto you; and ye shall afflict your souls, and offer an offering made by fire unto the LORD.",
+        "LSG": "Le dixième jour de ce septième mois, ce sera le jour des expiations: vous aurez une sainte convocation, vous humilierez vos âmes, et vous offrirez à l'Eternel des sacrifices consumés par le feu.",
+        "MAB": "Pareillement en ce même mois, qui est le septième, le dixième jour sera le jour des propitiations ; vous aurez une sainte convocation, et vous affligerez vos âmes, et vous offrirez à l'Eternel des sacrifices faits par feu.",
+        "OST": "Le dixième jour de ce septième mois sera le jour des expiations; vous aurez une sainte convocation, vous humilierez vos âmes, et vous offrirez à l'Éternel des sacrifices faits par le feu.",
+        "S21": "«Le dixième jour de ce septième mois, ce sera le jour des expiations. Vous aurez une sainte assemblée, vous vous humilierez et vous offrirez à l'Eternel des sacrifices passés par le feu."
+      }
+    },
+    {
+      "verse": 28,
+      "texts": {
+        "BDS": "Vous ne ferez aucun travail ce jour-là, car c’est le Jour des expiations destiné à faire l’expiation pour vous devant moi, l’Eternel votre Dieu.",
+        "DBY": "Et ce même jour vous ne ferez aucune œuvre, car c'est un jour de propitiation, pour faire propitiation pour vous, devant l'Éternel, votre Dieu.",
+        "KJV": "And ye shall do no work in that same day: for it [is] a day of atonement, to make an atonement for you before the LORD your God.",
+        "LSG": "Vous ne ferez aucun ouvrage ce jour-là, car c'est le jour des expiations, où doit être faite pour vous l'expiation devant l'Eternel, votre Dieu.",
+        "MAB": "En ce jour-là vous ne ferez aucune œuvre ; car c'est le jour des propitiations, afin de faire propitiation pour vous devant l'Eternel votre Dieu.",
+        "OST": "Vous ne ferez aucune œuvre ce jour-là; car c'est le jour des expiations, où doit être faite pour vous l'expiation devant l'Éternel votre Dieu.",
+        "S21": "Vous ne ferez aucun travail ce jour-là, car c'est le jour des expiations, où l'expiation doit être faite pour vous devant l'Eternel, votre Dieu."
+      }
+    },
+    {
+      "verse": 29,
+      "texts": {
+        "BDS": "Toute personne qui ne s’humilierait pas en ce jour-là sera exclue de son peuple.",
+        "DBY": "Car toute âme qui ne s'affligera pas en ce même jour, sera retranchée de ses peuples.",
+        "KJV": "For whatsoever soul [it be] that shall not be afflicted in that same day, he shall be cut off from among his people.",
+        "LSG": "Toute personne qui ne s'humiliera pas ce jour-là sera retranchée de son peuple.",
+        "MAB": "Car toute personne qui n'aura pas été affligée en ce propre jour-là sera retranchée d'entre ses peuples.",
+        "OST": "Car toute personne qui ne s'humiliera pas ce jour-là, sera retranchée du milieu de son peuple.",
+        "S21": "Toute personne qui ne s'humiliera pas ce jour-là sera exclue de son peuple."
+      }
+    },
+    {
+      "verse": 30,
+      "texts": {
+        "BDS": "Et j’en ferai moi-même disparaître celui qui fera un travail quelconque ce jour-là.",
+        "DBY": "Et toute âme qui fera une œuvre quelconque en ce même jour, cette âme, je la ferai périr du milieu de son peuple.",
+        "KJV": "And whatsoever soul [it be] that doeth any work in that same day, the same soul will I destroy from among his people.",
+        "LSG": "Toute personne qui fera ce jour-là un ouvrage quelconque, je la détruirai du milieu de son peuple.",
+        "MAB": "Et toute personne qui aura fait quelque œuvre en ce jour-là, je ferai périr cette personne-là du milieu de son peuple.",
+        "OST": "Et toute personne qui fera ce jour-là une œuvre quelconque, je la détruirai du milieu de son peuple.",
+        "S21": "Toute personne qui fera ce jour-là un travail quelconque, je l’exclurai du milieu de son peuple."
+      }
+    },
+    {
+      "verse": 31,
+      "texts": {
+        "BDS": "Vous ne ferez aucune sorte de travail. C’est une ordonnance en vigueur à perpétuité pour toutes les générations dans tous les lieux où vous habiterez.",
+        "DBY": "Vous ne ferez aucune œuvre: c'est un statut perpétuel, en vos générations, dans toutes vos habitations.",
+        "KJV": "Ye shall do no manner of work: [it shall be] a statute for ever throughout your generations in all your dwellings.",
+        "LSG": "Vous ne ferez aucun ouvrage. C'est une loi perpétuelle pour vos descendants dans tous les lieux où vous habiterez.",
+        "MAB": "Vous ne ferez [donc] aucune œuvre; c'est une ordonnance perpétuelle en vos âges dans toutes vos demeures.",
+        "OST": "Vous ne ferez aucune œuvre; c'est une ordonnance perpétuelle pour vos générations, dans toutes vos demeures.",
+        "S21": "Vous ne ferez aucun travail. C'est une prescription perpétuelle pour vous au fil des générations, partout où vous habiterez."
+      }
+    },
+    {
+      "verse": 32,
+      "texts": {
+        "BDS": "Ce sera pour vous un grand jour de repos, au cours duquel vous vous humilierez. Dès le soir du neuvième jour du mois jusqu’au lendemain soir, vous observerez ce repos.",
+        "DBY": "C'est un sabbat de repos pour vous, et vous affligerez vos âmes. Le neuvième jour du mois, au soir, d'un soir à l'autre soir, vous célébrerez votre sabbat.",
+        "KJV": "It [shall be] unto you a sabbath of rest, and ye shall afflict your souls: in the ninth [day] of the month at even, from even unto even, shall ye celebrate your sabbath.",
+        "LSG": "Ce sera pour vous un sabbat, un jour de repos, et vous humilierez vos âmes; dès le soir du neuvième jour jusqu'au soir suivant, vous célébrerez votre sabbat.",
+        "MAB": "Ce vous est un Sabbat de repos : vous affligerez donc vos âmes. Le neuvième jour du mois, au soir, depuis un soir jusqu'à l'autre soir, vous célébrerez votre repos.",
+        "OST": "Ce sera pour vous un sabbat, un jour de repos, et vous humilierez vos âmes. Le neuvième jour du mois, au soir, d'un soir à l'autre soir, vous célébrerez votre sabbat.",
+        "S21": "Ce sera pour vous un sabbat, un jour de repos, et vous vous humilierez. Dès le soir du neuvième jour jusqu'au soir suivant, vous célébrerez votre sabbat.»"
+      }
+    },
+    {
+      "verse": 33,
+      "texts": {
+        "BDS": "L’Eternel s’adressa à Moïse en ces termes:",
+        "DBY": "Et l'Éternel parla à Moïse, disant:",
+        "KJV": "And the LORD spake unto Moses, saying,",
+        "LSG": "L'Eternel parla à Moïse, et dit:",
+        "MAB": "L'Eternel parla aussi à Moïse, en disant :",
+        "OST": "L'Éternel parla encore à Moïse, en disant:",
+        "S21": "L'Eternel dit à Moïse:"
+      }
+    },
+    {
+      "verse": 34,
+      "texts": {
+        "BDS": "—Parle aux Israélites, et dis-leur: Le quinzième jour de ce septième mois, aura lieu la fête des Cabanes; on la célébrera durant sept jours en l’honneur de l’Eternel.",
+        "DBY": "Parle aux fils d'Israël, en disant: Le quinzième jour de ce septième mois, la fête des tabernacles se célébrera à l'Éternel pendant sept jours.",
+        "KJV": "Speak unto the children of Israel, saying, The fifteenth day of this seventh month [shall be] the feast of tabernacles [for] seven days unto the LORD.",
+        "LSG": "Parle aux enfants d'Israël, et dis: Le quinzième jour de ce septième mois, ce sera la fête des tabernacles en l'honneur de l'Eternel, pendant sept jours.",
+        "MAB": "Parle aux enfants d'Israël, et leur dis : Au quinzième jour de ce septième mois [sera] la fête solennelle des Tabernacles pendant sept jours, à l'Eternel.",
+        "OST": "Parle aux enfants d'Israël, et dis: Le quinzième jour de ce septième mois, ce sera la fête des tabernacles pendant sept jours, à l'honneur de l'Éternel.",
+        "S21": "«Transmets ces instructions aux Israélites: Le quinzième jour de ce septième mois, ce sera la fête des tentes en l'honneur de l'Eternel, qui durera 7 jours."
+      }
+    },
+    {
+      "verse": 35,
+      "texts": {
+        "BDS": "Le premier jour, il y aura une assemblée cultuelle; vous ne ferez aucune tâche de votre travail habituel ce jour-là.",
+        "DBY": "Le premier jour il y aura une sainte convocation; vous ne ferez aucune œuvre de service.",
+        "KJV": "On the first day [shall be] an holy convocation: ye shall do no servile work [therein].",
+        "LSG": "Le premier jour, il y aura une sainte convocation: vous ne ferez aucune oeuvre servile.",
+        "MAB": "Au premier jour il y aura une sainte convocation; vous ne ferez aucune œuvre servile.",
+        "OST": "Le premier jour il y aura une sainte convocation; vous ne ferez aucune œuvre servile.",
+        "S21": "Le premier jour, il y aura une sainte assemblée; vous n’effectuerez aucun travail pénible."
+      }
+    },
+    {
+      "verse": 36,
+      "texts": {
+        "BDS": "Pendant sept jours, vous offrirez à l’Eternel des sacrifices consumés par le feu. Le huitième jour, vous aurez encore une assemblée cultuelle et vous m’offrirez des sacrifices consumés par le feu. C’est un jour de fête cultuelle; vous ne ferez aucune tâche de votre travail habituel ce jour-là.",
+        "DBY": "Pendant sept jours vous présenterez à l'Éternel un sacrifice fait par feu; le huitième jour, vous aurez une sainte convocation, et vous présenterez à l'Éternel un sacrifice fait par feu: c'est une assemblée solennelle; vous ne ferez aucune œuvre de service.",
+        "KJV": "Seven days ye shall offer an offering made by fire unto the LORD: on the eighth day shall be an holy convocation unto you; and ye shall offer an offering made by fire unto the LORD: it [is] a solemn assembly; [and] ye shall do no servile work [therein].",
+        "LSG": "Pendant sept jours, vous offrirez à l'Eternel des sacrifices consumés par le feu. Le huitième jour, vous aurez une sainte convocation, et vous offrirez à l'Eternel des sacrifices consumés par le feu; ce sera une assemblée solennelle: vous ne ferez aucune oeuvre servile.",
+        "MAB": "Pendant sept jours vous offrirez à l'Eternel des offrandes faites par feu; et au huitième jour vous aurez une sainte convocation, et vous offrirez à l'Eternel des offrandes faites, par feu; c'est une assemblée solennelle; vous ne ferez aucune œuvre servile.",
+        "OST": "Pendant sept jours vous offrirez à l'Éternel des sacrifices faits par le feu. Le huitième jour vous aurez une sainte convocation, et vous offrirez à l'Éternel des sacrifices faits par le feu; ce sera une assemblée solennelle; vous ne ferez aucune œuvre servile.",
+        "S21": "Pendant 7 jours, vous offrirez à l'Eternel des sacrifices passés par le feu. Le huitième jour, vous aurez une sainte assemblée et vous offrirez à l'Eternel des sacrifices passés par le feu; ce sera une assemblée solennelle, vous n’effectuerez aucun travail pénible."
+      }
+    },
+    {
+      "verse": 37,
+      "texts": {
+        "BDS": "Telles sont les fêtes à célébrer en l’honneur de l’Eternel, et pour lesquelles vous convoquerez le peuple pour qu’il se rassemble afin de me rendre un culte. Il m’offrira à moi, l’Eternel, en sacrifices consumés par le feu, les holocaustes et les offrandes, les sacrifices et les libations, requis pour chaque jour.",
+        "DBY": "Ce sont là les jours solennels de l'Éternel, que vous publierez, de saintes convocations, afin de présenter des sacrifices faits par feu à l'Éternel, des holocaustes, et des offrandes de gâteau, des sacrifices, et des libations, chaque jour ce qui est établi pour ce jour,",
+        "KJV": "These [are] the feasts of the LORD, which ye shall proclaim [to be] holy convocations, to offer an offering made by fire unto the LORD, a burnt offering, and a meat offering, a sacrifice, and drink offerings, every thing upon his day:",
+        "LSG": "Telles sont les fêtes de l'Eternel, les saintes convocations, que vous publierez, afin que l'on offre à l'Eternel des sacrifices consumés par le feu, des holocaustes, des offrandes, des victimes et des libations, chaque chose au jour fixé.",
+        "MAB": "Ce sont là les fêtes solennelles de l'Eternel, que vous publierez, pour être des convocations saintes, afin d'offrir à l'Eternel des offrandes faites par feu ; [savoir] un holocauste, un gâteau, un sacrifice, et une aspersion; chacune de ces choses en son jour;",
+        "OST": "Telles sont les fêtes solennelles de l'Éternel, que vous publierez comme de saintes convocations, pour offrir à l'Éternel des sacrifices faits par le feu, des holocaustes, des offrandes, des sacrifices et des libations, chaque chose à son jour;",
+        "S21": "»Telles sont les fêtes de l'Eternel, les saintes assemblées que vous proclamerez afin que l'on offre à l'Eternel des sacrifices passés par le feu, des holocaustes, des offrandes végétales, des victimes et des offrandes liquides, chacun le jour fixé."
+      }
+    },
+    {
+      "verse": 38,
+      "texts": {
+        "BDS": "Ils viendront s’ajouter à ceux que vous offrirez lors de mes sabbats, à vos dons, aux sacrifices offerts pour accomplir un vœu ou volontairement.",
+        "DBY": "outre les sabbats de l'Éternel, et outre vos dons, et outre tous vos vœux, et outre toutes vos offrandes volontaires que vous donnerez à l'Éternel.",
+        "KJV": "Beside the sabbaths of the LORD, and beside your gifts, and beside all your vows, and beside all your freewill offerings, which ye give unto the LORD.",
+        "LSG": "Vous observerez en outre les sabbats de l'Eternel, et vous continuerez à faire vos dons à l'Eternel, tous vos sacrifices pour l'accomplissement d'un voeu et toutes vos offrandes volontaires.",
+        "MAB": "Outre les Sabbats de l'Eternel, et outre vos dons, et outre tous vos vœux, et outre toutes les offrandes volontaires que vous présenterez à l'Eternel.",
+        "OST": "Outre les sabbats de l'Éternel, et outre vos dons, et outre tous vos vœux, et outre toutes vos offrandes volontaires que vous présenterez à l'Éternel.",
+        "S21": "Vous respecterez en plus les sabbats de l'Eternel et vous continuerez à faire vos dons à l'Eternel, tous vos sacrifices pour l'accomplissement d'un vœu et toutes vos offrandes volontaires."
+      }
+    },
+    {
+      "verse": 39,
+      "texts": {
+        "BDS": "Le quinzième jour du septième mois quand vous aurez récolté tous les produits de vos terres, vous célébrerez une fête en l’honneur de l’Eternel pendant sept jours. Le premier et le huitième jour seront des jours de repos.",
+        "DBY": "Mais le quinzième jour du septième mois, quand vous aurez recueilli le rapport de la terre, vous célébrerez la fête de l'Éternel pendant sept jours: le premier jour il y aura repos, et le huitième jour il y aura repos.",
+        "KJV": "Also in the fifteenth day of the seventh month, when ye have gathered in the fruit of the land, ye shall keep a feast unto the LORD seven days: on the first day [shall be] a sabbath, and on the eighth day [shall be] a sabbath.",
+        "LSG": "Le quinzième jour du septième mois, quand vous récolterez les produits du pays, vous célébrerez donc une fête à l'Eternel, pendant sept jours: le premier jour sera un jour de repos, et le huitième sera un jour de repos.",
+        "MAB": "Et aussi au quinzième jour du septième mois, quand vous aurez recueilli le rapport de la terre, vous célébrerez la fête solennelle de l'Eternel pendant sept jours. Le premier jour sera jour de repos; le huitième aussi sera jour de repos.",
+        "OST": "Mais le quinzième jour du septième mois, quand vous aurez recueilli le produit de la terre, vous célébrerez une fête à l'Éternel pendant sept jours. Le premier jour sera un jour de repos, et le huitième sera aussi un jour de repos.",
+        "S21": "»Le quinzième jour du septième mois, quand vous récolterez les produits du pays, vous célébrerez donc une fête en l’honneur de l'Eternel pendant 7 jours: le premier jour sera un jour de repos, et le huitième aussi."
+      }
+    },
+    {
+      "verse": 40,
+      "texts": {
+        "BDS": "Le premier jour, vous prendrez de beaux fruits de vos arbres, des branches de palmiers, des rameaux d’arbres touffus et de saules des rivières. Pendant sept jours, vous vous réjouirez devant moi, l’Eternel votre Dieu.",
+        "DBY": "Et le premier jour vous prendrez du fruit de beaux arbres, des branches de palmiers, et des rameaux d'arbres touffus et de saules de rivière; et vous vous réjouirez devant l'Éternel, votre Dieu, pendant sept jours.",
+        "KJV": "And ye shall take you on the first day the boughs of goodly trees, branches of palm trees, and the boughs of thick trees, and willows of the brook; and ye shall rejoice before the LORD your God seven days.",
+        "LSG": "Vous prendrez, le premier jour, du fruit des beaux arbres, des branches de palmiers, des rameaux d'arbres touffus et des saules de rivière; et vous vous réjouirez devant l'Eternel, votre Dieu, pendant sept jours.",
+        "MAB": "Et au premier jour vous prendrez du fruit d'un bel arbre, des branches de palmier, et des rameaux d'arbres branchus, et des saules de rivière, et vous vous réjouirez pendant sept jours devant l'Eternel votre Dieu.",
+        "OST": "Et le premier jour vous prendrez du fruit des beaux arbres, des branches de palmiers, des rameaux d'arbres touffus et des saules de rivière; et vous vous réjouirez pendant sept jours devant l'Éternel, votre Dieu.",
+        "S21": "Le premier jour, vous prendrez de beaux fruits, des branches de palmiers, des rameaux d'arbres touffus et des saules de rivière, et vous vous réjouirez devant l'Eternel, votre Dieu, pendant 7 jours."
+      }
+    },
+    {
+      "verse": 41,
+      "texts": {
+        "BDS": "Vous célébrerez cette fête en l’honneur de l’Eternel sept jours par an. C’est une ordonnance en vigueur à perpétuité, pour toutes les générations: vous la célébrerez le septième mois.",
+        "DBY": "Et vous célébrerez la fête comme fête à l'Éternel, pendant sept jours chaque année; c'est un statut perpétuel, en vos générations: vous la célébrerez le septième mois.",
+        "KJV": "And ye shall keep it a feast unto the LORD seven days in the year. [It shall be] a statute for ever in your generations: ye shall celebrate it in the seventh month.",
+        "LSG": "Vous célébrerez chaque année cette fête à l'Eternel, pendant sept jours. C'est une loi perpétuelle pour vos descendants. Vous la célébrerez le septième mois.",
+        "MAB": "Et vous célébrerez à l'Eternel cette fête solennelle pendant sept jours en l'année; c'est une ordonnance perpétuelle en vos âges; vous la célébrerez le septième mois.",
+        "OST": "Vous célébrerez ainsi cette fête à l'Éternel pendant sept jours dans l'année. C'est une ordonnance perpétuelle pour vos générations; vous la célébrerez le septième mois.",
+        "S21": "Vous célébrerez chaque année cette fête à l'Eternel pendant 7 jours. C'est une prescription perpétuelle pour vous au fil des générations. Vous la célébrerez le septième mois."
+      }
+    },
+    {
+      "verse": 42,
+      "texts": {
+        "BDS": "Vous habiterez pendant sept jours dans des cabanes; tous ceux qui seront nés en Israël logeront dans des cabanes",
+        "DBY": "Vous habiterez sept jours dans les tabernacles; tous les indigènes en Israël habiteront dans des tabernacles,",
+        "KJV": "Ye shall dwell in booths seven days; all that are Israelites born shall dwell in booths:",
+        "LSG": "Vous demeurerez pendant sept jours sous des tentes; tous les indigènes en Israël demeureront sous des tentes,",
+        "MAB": "Vous demeurerez sept jours dans des tentes; tous ceux qui seront nés entre les Israélites demeureront dans des tentes.",
+        "OST": "Vous demeurerez pendant sept jours sous des tentes; tous ceux qui seront nés en Israël demeureront sous des tentes,",
+        "S21": "Vous habiterez pendant 7 jours sous des tentes. Tous les Israélites de naissance habiteront sous des tentes"
+      }
+    },
+    {
+      "verse": 43,
+      "texts": {
+        "BDS": "pour que vos descendants sachent que j’ai fait habiter les Israélites sous des tentes lorsque je les ai fait sortir d’Egypte. Je suis l’Eternel votre Dieu.",
+        "DBY": "afin que vos générations sachent que j'ai fait habiter les fils d'Israël dans des tabernacles, lorsque je les fis sortir du pays d'Égypte. Moi, je suis l'Éternel, votre Dieu.",
+        "KJV": "That your generations may know that I made the children of Israel to dwell in booths, when I brought them out of the land of Egypt: I [am] the LORD your God.",
+        "LSG": "afin que vos descendants sachent que j'ai fait habiter sous des tentes les enfants d'Israël, après les avoir fait sortir du pays d'Egypte. Je suis l'Eternel, votre Dieu.",
+        "MAB": "Afin que votre postérité sache que j'ai fait demeurer les enfants d'Israël dans des tentes, quand je les retirai du pays d'Egypte; je suis l'Eternel votre Dieu.",
+        "OST": "Afin que votre postérité sache que j'ai fait habiter les enfants d'Israël sous des tentes, lorsque je les ai fait sortir du pays d'Égypte: Je suis l'Éternel, votre Dieu.",
+        "S21": "afin que vos descendants sachent que j'ai fait habiter les Israélites sous des tentes après les avoir fait sortir d'Egypte. Je suis l'Eternel, votre Dieu.»"
+      }
+    },
+    {
+      "verse": 44,
+      "texts": {
+        "BDS": "C’est ainsi que Moïse transmit aux Israélites les instructions concernant les fêtes de l’Eternel.",
+        "DBY": "Et Moïse dit aux fils d'Israël les jours solennels de l'Éternel.",
+        "KJV": "And Moses declared unto the children of Israel the feasts of the LORD.",
+        "LSG": "C'est ainsi que Moïse dit aux enfants d'Israël quelles sont les fêtes de l'Eternel.",
+        "MAB": "Moïse déclara ainsi aux enfants d'Israël les fêtes solennelles de l'Eternel.",
+        "OST": "Ainsi Moïse déclara aux enfants d'Israël les fêtes de l'Éternel.",
+        "S21": "C'est ainsi que Moïse dit aux Israélites quelles sont les fêtes de l'Eternel."
+      }
+    }
+  ]
+}

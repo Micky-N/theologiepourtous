@@ -25,11 +25,12 @@
         "@vueuse/nuxt": "^13.7.0",
         "better-sqlite3": "^12.2.0",
         "dotenv": "^17.2.2",
-        "vue3-apexcharts": "^1.5.3",
         "jspdf": "^2.5.2",
         "nuxt": "^4.0.3",
+        "nuxt-auth-sanctum": "^2.2.0",
         "nuxt-auth-utils": "^0.5.25",
         "nuxt-og-image": "^5.1.9",
+        "vue3-apexcharts": "^1.5.3",
         "zod": "^3.25.76"
     },
     "devDependencies": {

@@ -206,7 +206,7 @@
 </template>
 
 <script lang="ts" setup>
-import type { BibleBook, BibleNote, BibleVerse, BibleVersion } from '@prisma/client';
+import type { BibleBookData, BibleNoteData, BibleVersionData } from '~/types';
 
 definePageMeta({
     middleware: 'auth'
@@ -221,12 +221,17 @@ useHead({
 });
 
 // Types
-interface Note extends BibleNote {
-    book: BibleBook;
-    verse: BibleVerse & { version: BibleVersion; };
+interface Note extends BibleNoteData {
+    book: BibleBookData;
+    verse: {
+        chapter: number;
+        verse: number;
+        text: string;
+        version: Pick<BibleVersionData, 'code' | 'name'>;
+    };
 }
 
-interface Verse extends BibleVerse {
+interface Verse {
     id: number;
     chapter: number;
     verse: number;

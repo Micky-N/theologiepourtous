@@ -1,0 +1,209 @@
+{
+  "bookCode": "SNG",
+  "chapter": 1,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "Le plus beau des chants, composé par Salomon.",
+        "DBY": "Le cantique des cantiques, qui est de Salomon.",
+        "KJV": "The song of songs, which [is] Solomon's.",
+        "LSG": "Cantique des cantiques, de Salomon.",
+        "MAB": "Le Cantique des cantiques, qui est de Salomon. Qu'il me baise des baisers de sa bouche; car tes amours sont plus agréables que le vin.",
+        "OST": "Le cantique des cantiques, qui est de Salomon.",
+        "S21": "Cantique des cantiques de Salomon."
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "«Ah! que ta bouche me couvre de baisers,\r\ncar ton amour est plus exaltant que le vin.",
+        "DBY": "Qu'il me baise des baisers de sa bouche! car tes amours sont meilleures que le vin.",
+        "KJV": "Let him kiss me with the kisses of his mouth: for thy love [is] better than wine.",
+        "LSG": "Qu'il me baise des baisers de sa bouche! Car ton amour vaut mieux que le vin,",
+        "MAB": "A cause de l'odeur de tes excellents parfums, ton nom est [comme] un parfum répandu : c'est pourquoi les filles t'ont aimé.",
+        "OST": "Qu'il me baise des baisers de sa bouche! Car tes amours sont plus agréables que le vin.",
+        "S21": "Qu'il m'embrasse des baisers de sa bouche! Oui, ton amour est meilleur que le vin,"
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "Combien suaves sont tes parfums,\r\nton nom est comparable à une huile odorante qui se répand.\r\nVoilà pourquoi les jeunes filles sont éprises de toi.",
+        "DBY": "Tes parfums sont d'agréable odeur; ton nom est un parfum répandu; c'est pourquoi les jeunes filles t'aiment.",
+        "KJV": "Because of the savour of thy good ointments thy name [is as] ointment poured forth, therefore do the virgins love thee.",
+        "LSG": "Tes parfums ont une odeur suave; Ton nom est un parfum qui se répand; C'est pourquoi les jeunes filles t'aiment.",
+        "MAB": "Tire-moi, et nous courrons après toi; lorsque le Roi m'aura introduite dans ses cabinets, nous nous égayerons et nous nous réjouirons en toi; nous célébrerons tes amours plus que le vin; les hommes droits t'ont aimé.",
+        "OST": "Tes parfums ont une odeur suave, ton nom est comme un parfum répandu; c'est pourquoi les jeunes filles t'ont aimé.",
+        "S21": "tes parfums ont une odeur agréable. Ton nom même est un parfum qui se diffuse. Voilà pourquoi les jeunes filles t'aiment."
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "Entraîne-moi derrière toi! Courons ensemble!»\r\n«Le roi m’a fait entrer dans ses appartements.»\r\n«Réjouissons-nous, soyons dans l’allégresse à ton sujet!\r\nCélébrons ton amour plus exaltant que le bon vin!\r\nC’est bien avec raison qu’on est épris de toi.»",
+        "DBY": "Tire-moi: nous courrons après toi. -Le roi m'a amenée dans ses chambres. -Nous nous égayerons, et nous nous réjouirons en toi; nous nous souviendrons de tes amours plus que du vin. Elles t'aiment avec droiture.",
+        "KJV": "Draw me, we will run after thee: the king hath brought me into his chambers: we will be glad and rejoice in thee, we will remember thy love more than wine: the upright love thee.",
+        "LSG": "Entraîne-moi après toi! Nous courrons! Le roi m'introduit dans ses appartements... Nous nous égaierons, nous nous réjouirons à cause de toi; Nous célébrerons ton amour plus que le vin. C'est avec raison que l'on t'aime.",
+        "MAB": "Ô filles de Jérusalem, je suis brune, mais de bonne grâce; je suis comme les tentes de Kédar, et comme les courtines de Salomon.",
+        "OST": "Entraîne-moi, et nous courrons après toi! Le roi m'a fait entrer dans ses appartements. Nous nous égaierons et nous réjouirons en toi; nous célébrerons tes amours plus que le vin. Les hommes droits t'ont aimé.",
+        "S21": "Entraîne-moi derrière toi! Courons!\r\nLe roi m'a introduite dans ses appartements.\r\nRéjouissons-nous, soyons dans l’allégresse à cause de toi! Célébrons ton amour plus que le vin! C'est avec raison que l’on t'aime."
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "«O filles de Jérusalem, je suis bronzée, et pourtant, je suis belle,\r\npareille aux tentes de Qédar, aux tentures de Salomon.",
+        "DBY": "Je suis noire, mais je suis agréable, filles de Jérusalem! comme les tentes de Kédar, comme les tentures de Salomon.",
+        "KJV": "I [am] black, but comely, O ye daughters of Jerusalem, as the tents of Kedar, as the curtains of Solomon.",
+        "LSG": "Je suis noire, mais je suis belle, filles de Jérusalem, Comme les tentes de Kédar, comme les pavillons de Salomon.",
+        "MAB": "Ne prenez pas garde à moi, de ce que je suis brune, car le soleil m'a regardée; les enfants de ma mère se sont mis en colère contre moi, ils m'ont mise à garder les vignes; et je n'ai point gardé la vigne qui était à moi.",
+        "OST": "O filles de Jérusalem, je suis brune, mais belle. Je suis comme les tentes de Kédar, et comme les pavillons de Salomon.",
+        "S21": "Je suis noire, mais je suis charmante, filles de Jérusalem, autant que les tentes de Kédar, que les pavillons de Salomon."
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "Ne vous étonnez pas si je suis bien brunie,\r\nle soleil m’a hâlée,\r\ncar les fils de ma mère, irrités contre moi,\r\nm’ont fait garder les vignes,\r\noui, mais ma vigne à moi, je ne l’ai pas gardée.",
+        "DBY": "Ne me regardez pas, parce que je suis noire, parce que le soleil m'a regardée: les fils de ma mère se sont irrités contre moi, ils m'ont mise à garder les vignes; ma vigne qui est à moi, je ne l'ai point gardée.",
+        "KJV": "Look not upon me, because I [am] black, because the sun hath looked upon me: my mother's children were angry with me; they made me the keeper of the vineyards; [but] mine own vineyard have I not kept.",
+        "LSG": "Ne prenez pas garde à mon teint noir: C'est le soleil qui m'a brûlée. Les fils de ma mère se sont irrités contre moi, Ils m'ont faite gardienne des vignes. Ma vigne, à moi, je ne l'ai pas gardée.",
+        "MAB": "Déclare-moi, toi qu'aime mon âme, où tu pais, et où tu fais reposer [ton troupeau] sur le midi; car pourquoi serais-je comme une femme errante vers les parcs de tes compagnons?",
+        "OST": "Ne prenez pas garde que je suis brune, car le soleil m'a regardée; les enfants de ma mère se sont irrités contre moi, ils m'ont mise à garder les vignes. Ma vigne, à moi, je ne l'ai point gardée.",
+        "S21": "Ne prêtez pas attention à mon teint noir: c'est le soleil qui m'a brûlée. Les fils de ma mère se sont irrités contre moi et ils ont fait de moi la gardienne des vignes, mais ma vigne à moi, je ne l'ai pas gardée."
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "O toi que mon cœur aime,\r\ndis-moi où tu fais paître ton troupeau de brebis,\r\noù tu feras la halte à l’heure de midi,\r\npour que je ne sois pas comme une femme errante,\r\nrôdant près des troupeaux que tes compagnons gardent.»",
+        "DBY": "Dis-moi, toi qu'aime mon âme, où tu pais ton troupeau, où tu le fais reposer à midi; car pourquoi serais-je comme une femme voilée auprès des troupeaux de tes compagnons?",
+        "KJV": "Tell me, O thou whom my soul loveth, where thou feedest, where thou makest [thy flock] to rest at noon: for why should I be as one that turneth aside by the flocks of thy companions?",
+        "LSG": "Dis-moi, ô toi que mon coeur aime, Où tu fais paître tes brebis, Où tu les fais reposer à midi; Car pourquoi serais-je comme une égarée Près des troupeaux de tes compagnons? -",
+        "MAB": "Si tu ne le sais pas, ô la plus belle d'entre les femmes! sors après les traces du troupeau, et pais tes chevrettes près des cabanes des bergers.",
+        "OST": "Dis-moi, ô toi qu'aime mon âme, où tu pais ton troupeau, et où tu le fais reposer sur le midi; car pourquoi serais-je comme une femme errante auprès des troupeaux de tes compagnons?",
+        "S21": "Toi que mon cœur aime, révèle-moi où tu conduis ton troupeau, où tu le fais se reposer à midi! Pourquoi, en effet, serais-je comme une femme voilée près des troupeaux de tes compagnons?"
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "«Si tu ne le sais pas, ô toi, la plus belle des femmes,\r\nva donc suivre les traces du troupeau de brebis,\r\nfais paître tes chevrettes près des huttes des pâtres.»",
+        "DBY": "Si tu ne le sais pas, ô la plus belle parmi les femmes! sors sur les traces du troupeau, et pais tes chevreaux près des habitations des bergers.",
+        "KJV": "If thou know not, O thou fairest among women, go thy way forth by the footsteps of the flock, and feed thy kids beside the shepherds' tents.",
+        "LSG": "Si tu ne le sais pas, ô la plus belle des femmes, Sors sur les traces des brebis, Et fais paître tes chevreaux Près des demeures des bergers. -",
+        "MAB": "Ma grande amie, je te compare au plus beau couple de chevaux que j'aie aux chariots de Pharaon.",
+        "OST": "Si tu ne le sais pas, ô la plus belle d'entre les femmes, sors sur les traces du troupeau, et pais tes chevrettes auprès des cabanes des bergers.",
+        "S21": "Si tu ne le sais pas, toi la plus belle des femmes, sors sur les traces du petit bétail et conduis tes chevreaux près des abris des bergers!"
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "«O mon amie, je te trouve pareille\r\naux chevaux d’attelage du pharaon.",
+        "DBY": "Je te compare, mon amie, à une jument aux chars du Pharaon.",
+        "KJV": "I have compared thee, O my love, to a company of horses in Pharaoh's chariots.",
+        "LSG": "A ma jument qu'on attelle aux chars de Pharaon Je te compare, ô mon amie.",
+        "MAB": "Tes joues ont bonne grâce avec les atours, et ton cou avec les colliers.",
+        "OST": "Ma bien-aimée, je te compare à ma cavale qu'on attelle aux chars de Pharaon.",
+        "S21": "C’est à une jument attelée aux chars du pharaon que je te compare, mon amie."
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "Tes joues sont belles entre les perles,\r\nton cou est beau dans tes colliers,",
+        "DBY": "Tes joues sont agréables avec des rangées de joyaux; ton cou, avec des colliers.",
+        "KJV": "Thy cheeks are comely with rows [of jewels], thy neck with chains [of gold].",
+        "LSG": "Tes joues sont belles au milieu des colliers, Ton cou est beau au milieu des rangées de perles.",
+        "MAB": "Nous te ferons des atours d'or, avec des boutons d'argent.",
+        "OST": "Tes joues ont bonne grâce avec les atours, et ton cou avec les colliers.",
+        "S21": "Tes joues sont charmantes avec des bijoux, ton cou est charmant avec des colliers."
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "nous te ferons des perles d’or\r\ntout incrustées de points d’argent.»",
+        "DBY": "Nous te ferons des chaînes d'or avec des paillettes d'argent.",
+        "KJV": "We will make thee borders of gold with studs of silver.",
+        "LSG": "Nous te ferons des colliers d'or, Avec des points d'argent. -",
+        "MAB": "Tandis que le Roi a été assis à table, mon aspic a rendu son odeur.",
+        "OST": "Nous te ferons des atours d'or, avec des boutons d'argent.",
+        "S21": "Nous te ferons des bijoux en or avec des points en argent."
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "«Jusqu’à ce que le roi parvienne à son enclos,\r\nmon nard exhale son parfum.",
+        "DBY": "Pendant que le roi est à table, mon nard exhale son odeur.",
+        "KJV": "While the king [sitteth] at his table, my spikenard sendeth forth the smell thereof.",
+        "LSG": "Tandis que le roi est dans son entourage, Mon nard exhale son parfum.",
+        "MAB": "Mon bien-aimé est avec moi comme un sachet de myrrhe; il passera la nuit entre mes mamelles.",
+        "OST": "Tandis que le roi était assis à table, mon nard exhalait son parfum.",
+        "S21": "Tandis que le roi est dans son entourage, mon nard diffuse son parfum."
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "Car mon bien-aimé est pour moi comme un sachet de myrrhe,\r\nentre mes seins il passera la nuit.",
+        "DBY": "Mon bien-aimé est pour moi un bouquet de myrrhe; il passera la nuit entre mes seins.",
+        "KJV": "A bundle of myrrh [is] my wellbeloved unto me; he shall lie all night betwixt my breasts.",
+        "LSG": "Mon bien-aimé est pour moi un bouquet de myrrhe, Qui repose entre mes seins.",
+        "MAB": "Mon bien-aimé m'est comme une grappe de troëne dans les vignes d'Henguédi.",
+        "OST": "Mon bien-aimé est pour moi un sachet de myrrhe; il reposera sur mon sein.",
+        "S21": "Mon bien-aimé est pour moi un bouquet de myrrhe. Il passera la nuit entre mes seins."
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "Oui, mon bien-aimé est pour moi un bouquet de henné\r\ndes vignes d’Eyn-Guédi.»",
+        "DBY": "Mon bien-aimé est pour moi une grappe de henné dans les vignes d'En-Guédi.",
+        "KJV": "My beloved [is] unto me [as] a cluster of camphire in the vineyards of Engedi.",
+        "LSG": "Mon bien-aimé est pour moi une grappe de troëne Des vignes d'En-Guédi. -",
+        "MAB": "Te voilà belle, ma grande amie, te voilà belle; tes yeux sont [comme] ceux des colombes.",
+        "OST": "Mon bien-aimé est pour moi une grappe de troëne, dans les vignes d'En-guédi.",
+        "S21": "Mon bien-aimé est pour moi une grappe de henné des vignes d'En-Guédi."
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "«Que tu es belle, ma bien-aimée, que tu es belle!\r\nTes yeux ressemblent à des colombes.»",
+        "DBY": "Voici, tu es belle, mon amie; voici, tu es belle! Tes yeux sont des colombes.",
+        "KJV": "Behold, thou [art] fair, my love; behold, thou [art] fair; thou [hast] doves' eyes.",
+        "LSG": "Que tu es belle, mon amie, que tu es belle! Tes yeux sont des colombes. -",
+        "MAB": "Te voilà beau, mon bien-aimé; que tu es agréable! aussi notre couche est-elle féconde.",
+        "OST": "Que tu es belle, ma bien-aimée, que tu es belle! Tes yeux sont ceux des colombes.",
+        "S21": "Que tu es belle, mon amie, que tu es belle! Tes yeux sont des colombes."
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "«Que tu es beau, mon bien-aimé, tu es superbe!\r\nNotre lieu de repos est un lit verdoyant.",
+        "DBY": "Voici tu es beau, mon bien-aimé, oui, tu es agréable! oui, notre lit est verdoyant.",
+        "KJV": "Behold, thou [art] fair, my beloved, yea, pleasant: also our bed [is] green.",
+        "LSG": "Que tu es beau, mon bien-aimé, que tu es aimable! Notre lit, c'est la verdure. -",
+        "MAB": "Les poutres de nos maisons sont de cèdre, et nos soliveaux de sapin.",
+        "OST": "Que tu es beau, mon bien-aimé; que tu es agréable!",
+        "S21": "Que tu es beau, mon bien-aimé, que tu es agréable! Notre lit, c'est la verdure."
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "Les solives de nos maisons, ce sont les cèdres,\r\net les cyprès sont nos lambris.»",
+        "DBY": "Les solives de nos maisons sont des cèdres; nos lambris des cyprès.",
+        "KJV": "The beams of our house [are] cedar, [and] our rafters of fir.",
+        "LSG": "Les solives de nos maisons sont des cèdres, Nos lambris sont des cyprès. -",
+        "OST": "Notre couche est un lit de verdure. Les poutres de nos maisons sont des cèdres, et nos lambris des cyprès.",
+        "S21": "Les solives de nos maisons sont des cèdres, nos lambris sont des cyprès."
+      }
+    }
+  ]
+}

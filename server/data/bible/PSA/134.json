@@ -1,0 +1,42 @@
+{
+  "bookCode": "PSA",
+  "chapter": 134,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "Cantique pour la route vers la demeure de l’Eternel.\r\nAh! louez l’Eternel, vous tous qui servez l’Eternel,\r\noui, vous qui vous tenez tout au long de la nuit dans la maison de l’Eternel!",
+        "DBY": "Voici, bénissez l'Éternel, vous, tous les serviteurs de l'Éternel, qui vous tenez durant les nuits dans la maison de l'Éternel!",
+        "KJV": "A Song of degrees. Behold, bless ye the LORD, all [ye] servants of the LORD, which by night stand in the house of the LORD.",
+        "LSG": "Cantique des degrés. Voici, bénissez l'Eternel, vous tous, serviteurs de l'Eternel, Qui vous tenez dans la maison de l'Eternel pendant les nuits!",
+        "MAB": "Cantique de Mahaloth. Voici, bénissez l'Eternel, vous tous les serviteurs de l'Eternel, qui assistez toutes les nuits dans la maison de l'Eternel.",
+        "OST": "Cantique de Maaloth. Voici, bénissez l'Éternel, vous, tous les serviteurs de l'Éternel, qui vous tenez dans la maison de l'Éternel pendant les nuits.",
+        "S21": "Chant des montées.\r\nOh! Bénissez l’Eternel, vous tous, serviteurs de l’Eternel, qui vous tenez dans la maison de l’Eternel pendant les nuits!"
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "Levez vos mains vers le lieu saint\r\npour louer l’Eternel!",
+        "DBY": "Élevez vos mains dans le lieu saint, et bénissez l'Éternel!",
+        "KJV": "Lift up your hands [in] the sanctuary, and bless the LORD.",
+        "LSG": "Elevez vos mains vers le sanctuaire, Et bénissez l'Eternel!",
+        "MAB": "Elevez vos mains dans le Sanctuaire, et bénissez l'Eternel.",
+        "OST": "Élevez vos mains vers le sanctuaire, et bénissez l'Éternel!",
+        "S21": "Levez vos mains vers le sanctuaire et bénissez l’Eternel!"
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "Oui, que depuis Sion, l’Eternel te bénisse,\r\nlui qui a fait les cieux aussi bien que la terre.",
+        "DBY": "Que l'Éternel, qui a fait les cieux et la terre, te bénisse de Sion!",
+        "KJV": "The LORD that made heaven and earth bless thee out of Zion.",
+        "LSG": "Que l'Eternel te bénisse de Sion, Lui qui a fait les cieux et la terre!",
+        "MAB": "L'Eternel, qui a fait les cieux et la terre, te bénisse de Sion!",
+        "OST": "L'Éternel te bénisse de Sion, lui qui a fait les cieux et la terre!",
+        "S21": "Que l’Eternel te bénisse de Sion, lui qui a fait le ciel et la terre!"
+      }
+    }
+  ]
+}

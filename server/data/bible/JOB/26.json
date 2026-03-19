@@ -1,0 +1,174 @@
+{
+  "bookCode": "JOB",
+  "chapter": 26,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "Alors Job répondit:",
+        "DBY": "Et Job répondit et dit:",
+        "KJV": "But Job answered and said,",
+        "LSG": "Job prit la parole et dit:",
+        "MAB": "Mais Job répondit, et dit :",
+        "OST": "Job prit la parole, et dit:",
+        "S21": "Job prit la parole et dit:"
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "Ah, comme tu sais bien aider l’homme sans force,\r\net secourir le bras qui n’a plus de vigueur!",
+        "DBY": "Comme tu as aidé celui qui n'avait pas de puissance! Comme tu as délivré le bras qui était sans force!",
+        "KJV": "How hast thou helped [him that is] without power? [how] savest thou the arm [that hath] no strength?",
+        "LSG": "Comme tu sais bien venir en aide à la faiblesse! Comme tu prêtes secours au bras sans force!",
+        "MAB": "Ô! que tu as été d'un grand secours à l'homme destitué de vigueur; et que tu as soutenu le bras qui n'avait point de force.",
+        "OST": "Comme tu as aidé celui qui était sans force! Comme tu as secouru le bras sans vigueur!",
+        "S21": "«Comme tu sais bien venir en aide au faible! Quel beau secours tu prêtes au bras qui n’a plus de force!"
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "Quel bon conseil tu donnes à celui qui se trouve dépourvu de sagesse,\r\net comme tu répands la science à profusion!",
+        "DBY": "Quel conseil tu as donné à celui qui n'avait pas de sagesse! et quelle abondance d'intelligence tu as montrée!",
+        "KJV": "How hast thou counselled [him that hath] no wisdom? and [how] hast thou plentifully declared the thing as it is?",
+        "LSG": "Quels bons conseils tu donnes à celui qui manque d'intelligence! Quelle abondance de sagesse tu fais paraître!",
+        "MAB": "Ô! que tu as donné de [bons] conseils à l'homme qui manquait de sagesse; et que tu as fait paraître d'intelligence.",
+        "OST": "Comme tu as bien conseillé l'homme sans raison, et fait paraître l'abondance de ta sagesse!",
+        "S21": "Comme tu sais bien conseiller celui qui manque de sagesse! Quel grand discernement tu fais apparaître!"
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "Mais à qui donc, dis-moi, s’adressent tes discours?\r\nDe quelle inspiration émanent tes paroles?",
+        "DBY": "Pour qui as-tu prononcé des paroles, et de qui est le souffle qui est sorti de toi?",
+        "KJV": "To whom hast thou uttered words? and whose spirit came from thee?",
+        "LSG": "A qui s'adressent tes paroles? Et qui est-ce qui t'inspire?",
+        "MAB": "A qui as-tu tenu ces discours? et l'esprit de qui, est sorti de toi?",
+        "OST": "A qui as-tu adressé des discours? Et de qui est l'esprit qui est sorti de toi?",
+        "S21": "A qui s'adressent tes paroles et qui est-ce qui t'inspire?"
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "Tous ceux qui sont morts tremblent\r\nbien au-dessous des mers avec les êtres qui les peuplent,",
+        "DBY": "Les trépassés tremblent au-dessous des eaux et de ceux qui les habitent.",
+        "KJV": "Dead [things] are formed from under the waters, and the inhabitants thereof.",
+        "LSG": "Devant Dieu les ombres tremblent Au-dessous des eaux et de leurs habitants;",
+        "MAB": "Les choses inanimées sont formées au dessous des eaux, et les [poissons] aussi qui habitent dans les eaux.",
+        "OST": "Les ombres tremblent au-dessous des eaux et de leurs habitants.",
+        "S21": "»Les défunts tremblent au-dessous de l’eau et des créatures qui l’habitent."
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "car le séjour des morts est à nu devant Dieu,\r\net l’abîme sans fond n’a rien pour se couvrir.",
+        "DBY": "Le Shéol est à nu devant lui, et l'abîme n'a pas de voile.",
+        "KJV": "Hell [is] naked before him, and destruction hath no covering.",
+        "LSG": "Devant lui le séjour des morts est nu, L'abîme n'a point de voile.",
+        "MAB": "L'abîme est à découvert devant lui, et le gouffre n'[a] point de couverture.",
+        "OST": "Le Sépulcre est à nu devant lui, et l'abîme est sans voile.",
+        "S21": "Devant Dieu le séjour des morts se retrouve nu, le gouffre de perdition est sans protection."
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "Il étend sur le vide la région de l’Arctique\r\net il suspend la terre au-dessus du néant.",
+        "DBY": "Il étend le nord sur le vide, il suspend la terre sur le néant.",
+        "KJV": "He stretcheth out the north over the empty place, [and] hangeth the earth upon nothing.",
+        "LSG": "Il étend le septentrion sur le vide, Il suspend la terre sur le néant.",
+        "MAB": "Il étend l'Aquilon sur le vide, et il suspend la terre sur le néant.",
+        "OST": "Il étend le septentrion sur le vide, il suspend la terre sur le néant.",
+        "S21": "C’est lui qui déploie le nord sur le vide, qui suspend la terre sur le vide."
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "Il enserre les eaux dans ses nuées épaisses,\r\nmais jamais, sous leur poids, les nuages n’éclatent.",
+        "DBY": "Il serre les eaux dans ses nuages, et la nuée ne se fend pas sous elles;",
+        "KJV": "He bindeth up the waters in his thick clouds; and the cloud is not rent under them.",
+        "LSG": "Il renferme les eaux dans ses nuages, Et les nuages n'éclatent pas sous leur poids.",
+        "MAB": "Il serre les eaux dans ses nuées, sans que la nuée se fende sous elles.",
+        "OST": "Il renferme les eaux dans ses nuages, et la nuée n'éclate pas sous leur poids.",
+        "S21": "Il enferme l’eau dans ses nuages sans qu’ils se déchirent sous son poids."
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "Il a couvert d’un voile la face de son trône\r\nen étendant sur lui son épaisse nuée.",
+        "DBY": "Il couvre la face de son trône et étend ses nuées par-dessus.",
+        "KJV": "He holdeth back the face of his throne, [and] spreadeth his cloud upon it.",
+        "LSG": "Il couvre la face de son trône, Il répand sur lui sa nuée.",
+        "MAB": "Il maintient le dehors de [son] trône, et il étend sa nuée par dessus.",
+        "OST": "Il couvre la face de son trône, il déploie au-dessus sa nuée.",
+        "S21": "Il recouvre son trône en déployant sa nuée sur lui."
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "Il a tracé un cercle sur la face des eaux,\r\nau lieu où la lumière rencontre les ténèbres.",
+        "DBY": "Il a tracé un cercle fixe sur la face des eaux, jusqu'à la limite extrême où la lumière confine aux ténèbres.",
+        "KJV": "He hath compassed the waters with bounds, until the day and night come to an end.",
+        "LSG": "Il a tracé un cercle à la surface des eaux, Comme limite entre la lumière et les ténèbres.",
+        "MAB": "Il a compassé des bornes sur les eaux tout autour, jusqu'à ce qu'il n'y ait plus ni lumière ni ténèbres.",
+        "OST": "Il décrit un cercle sur les eaux, au point où la lumière confine avec les ténèbres.",
+        "S21": "»Il a tracé un cercle à la surface de l’eau, à la frontière entre la lumière et les ténèbres."
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "Les colonnes du ciel frémissent,\r\népouvantées, à sa menace.",
+        "DBY": "Les colonnes des cieux branlent et s'étonnent à sa menace.",
+        "KJV": "The pillars of heaven tremble and are astonished at his reproof.",
+        "LSG": "Les colonnes du ciel s'ébranlent, Et s'étonnent à sa menace.",
+        "MAB": "Les colonnes des cieux s'ébranlent et s'étonnent à sa menace.",
+        "OST": "Les colonnes des cieux sont ébranlées, et s'étonnent à sa menace.",
+        "S21": "Les piliers du ciel sont ébranlés, ils sont effarés quand il menace."
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "Par sa puissance, il agite la mer;\r\npar son intelligence, il en brise le monstre.",
+        "DBY": "Il soulève la mer par sa puissance, et, par son intelligence, il brise Rahab.",
+        "KJV": "He divideth the sea with his power, and by his understanding he smiteth through the proud.",
+        "LSG": "Par sa force il soulève la mer, Par son intelligence il en brise l'orgueil.",
+        "MAB": "Il fend la mer par sa puissance, et il frappe par son intelligence les flots quand ils s'élèvent.",
+        "OST": "Par sa force, il soulève la mer; et par son habileté, il écrase les plus puissants rebelles.",
+        "S21": "Par sa force il dompte la mer, par son intelligence il en brise l'orgueil."
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "Sous l’effet de son souffle, le ciel devient serein.\r\nQuant au serpent fuyard, sa main l’a transpercé.",
+        "DBY": "Par son Esprit le ciel est beau; sa main a formé le serpent fuyard.",
+        "KJV": "By his spirit he hath garnished the heavens; his hand hath formed the crooked serpent.",
+        "LSG": "Son souffle donne au ciel la sérénité, Sa main transperce le serpent fuyard.",
+        "MAB": "Il a orné les cieux par son Esprit, et sa main a formé le serpent traversant.",
+        "OST": "Son souffle rend le ciel pur; sa main perce le dragon fugitif.",
+        "S21": "Son souffle donne au ciel la sérénité, sa main transperce le serpent fuyard."
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "Cependant, ce n’est là qu’une infime partie de ce qu’il accomplit,\r\ndont nous ne percevons qu’un murmure léger.\r\nQui pourra donc comprendre les éclats de tonnerre de sa puissance?",
+        "DBY": "Voici, ces choses sont les bords de ses voies, et combien faible est le murmure que nous en avons entendu! Et le tonnerre de sa force, qui peut le comprendre?",
+        "KJV": "Lo, these [are] parts of his ways: but how little a portion is heard of him? but the thunder of his power who can understand?",
+        "LSG": "Ce sont là les bords de ses voies, C'est le bruit léger qui nous en parvient; Mais qui entendra le tonnerre de sa puissance?",
+        "MAB": "Voilà, tels sont les bords de ses voies; mais combien est petite la portion que nous en connaissons? Et qui est-ce qui pourra comprendre le bruit éclatant de sa puissance?",
+        "OST": "Ce ne sont là que les bords de ses voies; qu'il est faible le bruit qu'en saisit notre oreille! Et qui pourra entendre le tonnerre de sa puissance?",
+        "S21": "»Si tout cela ne représente qu’un aperçu de sa manière de faire, le faible écho qui nous en parvient, qui pourra comprendre le tonnerre de sa puissance?»"
+      }
+    }
+  ]
+}

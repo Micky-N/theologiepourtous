@@ -1,0 +1,438 @@
+{
+  "bookCode": "EZK",
+  "chapter": 27,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "L’Eternel m’adressa la parole en ces termes:",
+        "DBY": "Et la parole de l'Éternel vint à moi, disant:",
+        "KJV": "The word of the LORD came again unto me, saying,",
+        "LSG": "La parole de l'Eternel me fut adressée, en ces mots:",
+        "MAB": "La parole de l'Eternel me fut encore [adressée], en disant :",
+        "OST": "La parole de l'Éternel me fut adressée, en ces termes:",
+        "S21": "La parole de l'Eternel m’a été adressée:"
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "«Fils d’homme,\r\nentonne une complainte sur la cité de Tyr.",
+        "DBY": "Et toi, fils d'homme, élève une complainte sur Tyr, et dis à Tyr:",
+        "KJV": "Now, thou son of man, take up a lamentation for Tyrus;",
+        "LSG": "Et toi, fils de l'homme, Prononce sur Tyr une complainte!",
+        "MAB": "Toi donc, fils d'homme, prononce à haute voix une complainte sur Tyr;",
+        "OST": "Et toi, fils de l'homme, prononce à haute voix une complainte sur Tyr.",
+        "S21": "«Toi aussi, fils de l’homme, prononce une complainte sur Tyr!"
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "Déclare donc à Tyr: O toi qui es assise aux portes de la mer,\r\ntoi qui commerces avec tant de peuplades\r\net des îles sans nombre,\r\nvoici ce que déclare le Seigneur, l’Eternel:\r\nToi, ô Tyr, tu as dit:\r\n“Ma beauté est parfaite!”",
+        "DBY": "Toi qui demeures aux avenues de la mer, qui trafiques avec les peuples dans beaucoup d'îles, ainsi dit le Seigneur, l'Éternel: Tyr, tu as dit: Je suis parfaite en beauté.",
+        "KJV": "And say unto Tyrus, O thou that art situate at the entry of the sea, [which art] a merchant of the people for many isles, Thus saith the Lord GOD; O Tyrus, thou hast said, I [am] of perfect beauty.",
+        "LSG": "Tu diras à Tyr: O toi qui es assise au bord de la mer, Et qui trafiques avec les peuples d'un grand nombre d'îles! Ainsi parle le Seigneur, l'Eternel: Tyr, tu disais: Je suis parfaite en beauté!",
+        "MAB": "Et dis à Tyr : Toi qui demeures aux avenues de la mer, qui fais métier de revendre aux peuples en plusieurs Iles; ainsi a dit le Seigneur l'Eternel : Tyr, tu as dit : je suis parfaite en beauté.",
+        "OST": "Dis à Tyr: O toi qui es assise aux bords de la mer, qui fais le commerce avec les peuples dans des îles nombreuses, ainsi dit le Seigneur, l'Éternel: Tyr, tu as dit: Je suis d'une parfaite beauté.",
+        "S21": "Tu annonceras à Tyr, à celle qui habite à l’entrée de la mer et qui fait du commerce avec les peuples et de nombreuses îles:\r\n»Voici ce que dit le Seigneur, l'Eternel: Tyr, tu disais: ‘Je suis d’une beauté parfaite!’"
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "Ton territoire va jusqu’au cœur des mers,\r\net ceux qui t’ont construite ont rendu ta beauté parfaite.",
+        "DBY": "Tes frontières sont au cœur des mers; ceux qui t'ont bâtie ont rendu ta beauté parfaite.",
+        "KJV": "Thy borders [are] in the midst of the seas, thy builders have perfected thy beauty.",
+        "LSG": "Ton territoire est au coeur des mers; Ceux qui t'ont bâtie t'ont rendue parfaite en beauté.",
+        "MAB": "Tes confins [sont] au cœur de la mer, ceux qui t'ont bâtie t'ont rendue parfaite en beauté.",
+        "OST": "Tes frontières sont au cœur des mers, ceux qui t'ont bâtie t'ont rendue d'une parfaite beauté;",
+        "S21": "Ton territoire se trouve au cœur de la mer; ceux qui t'ont construite t’ont donné une beauté parfaite."
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "Ils ont bâti tous tes bordages\r\nen cyprès de Senir,",
+        "DBY": "Avec le cyprès de Senir ils construisaient tous tes doubles bordages; ils prenaient le cèdre du Liban pour faire ta mâture;",
+        "KJV": "They have made all thy [ship] boards of fir trees of Senir: they have taken cedars from Lebanon to make masts for thee.",
+        "LSG": "Avec des cyprès de Senir ils ont fait tous tes lambris; Ils ont pris des cèdres du Liban pour t'élever un mât;",
+        "MAB": "Ils t'ont bâti tous les côtés [des navires] de sapins de Senir; ils ont pris les cèdres du Liban pour te faire des mâts.",
+        "OST": "Ils ont fait tes lambris en cyprès de Sénir; ils ont pris des cèdres du Liban pour te faire des mâts;",
+        "S21": "Ils ont construit toute ta coque en cyprès de Senir, ils ont pris du cèdre du Liban pour te fabriquer un mât,"
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "ils t’ont donné pour mât un cèdre du Liban.\r\nIls ont pris pour tes rames des chênes du Basan,\r\nton pont est en ivoire\r\nincrusté dans du bois importé des îles de Chypre.",
+        "DBY": "avec les chênes de Basan ils faisaient tes rames; ils faisaient tes ponts d'ivoire enchâssé dans le buis des îles de Kittim.",
+        "KJV": "[Of] the oaks of Bashan have they made thine oars; the company of the Ashurites have made thy benches [of] ivory, [brought] out of the isles of Chittim.",
+        "LSG": "Ils ont fabriqué tes rames avec des chênes de Basan, Et tes bancs avec de l'ivoire travaillé dans du buis, Et apporté des îles de Kittim.",
+        "MAB": "Ils ont fait tes rames de chênes de Basan, et la troupe des Assyriens a fait tes bancs d'ivoire, apporté des Iles de Kittim.",
+        "OST": "Ils ont fait tes rames de chênes de Bassan, tes bancs en ivoire enchâssé dans le buis des îles de Kittim.",
+        "S21": "ils ont fait tes rames avec des chênes du Basan et ton pont avec de l'ivoire venant d’Assyrie et importé des îles de Kittim."
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "Du lin brodé d’Egypte te servait de voilure:\r\nc’était ton pavillon.\r\nTu avais pour tentures\r\nla pourpre et l’écarlate des îles d’Elicha.",
+        "DBY": "Le fin lin brodé d'Égypte était ta voile et te servait de pavillon; le bleu et la pourpre des îles d'Élisha étaient ta tente;",
+        "KJV": "Fine linen with broidered work from Egypt was that which thou spreadest forth to be thy sail; blue and purple from the isles of Elishah was that which covered thee.",
+        "LSG": "Le fin lin d'Egypte avec des broderies Te servait de voiles et de pavillon; Des étoffes teintes en bleu et en pourpre des îles d'Elischa Formaient tes tentures.",
+        "MAB": "Le fin lin d'Egypte, travaillé en broderie, a été ce que tu étendais pour te servir de voiles; ce dont tu te couvrais était la pourpre et l'écarlate des Iles d'Elisa.",
+        "OST": "Le fin lin d'Égypte, orné de broderie, te servait de voile et de pavillon; tu te couvrais de pourpre et d'écarlate des îles d'Élisha.",
+        "S21": "Du fin lin d'Egypte avec des broderies te servait de voiles et de pavillon, des étoffes teintes en bleu et en pourpre des îles d'Elisha formaient tes tentures."
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "Les habitants d’Arvad et de Sidon\r\nte servaient de rameurs.\r\nLes plus experts des sages qui vivaient dans tes murs\r\nte servaient de pilotes.",
+        "DBY": "les habitants de Sidon et d'Arvad étaient tes rameurs. Tes sages, ô Tyr, qui étaient en toi, étaient tes pilotes.",
+        "KJV": "The inhabitants of Zidon and Arvad were thy mariners: thy wise [men], O Tyrus, [that] were in thee, were thy pilots.",
+        "LSG": "Les habitants de Sidon et d'Arvad étaient tes rameurs, Et les plus experts du milieu de toi, ô Tyr, étaient tes pilotes.",
+        "MAB": "Les habitants de Sidon et d'Arvad ont été tes matelots; ô Tyr! tes sages [qui] étaient au dedans de toi ont été tes pilotes.",
+        "OST": "Les habitants de Sidon et d'Arvad étaient tes rameurs; ô Tyr, les plus habiles au milieu de toi étaient tes pilotes.",
+        "S21": "Les habitants de Sidon et d'Arvad étaient tes rameurs, et les plus experts de chez toi, Tyr, constituaient tes navigateurs."
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "Tu employais chez toi les ouvriers expérimentés de Byblos, ses artisans habiles\r\npour boucher tes fissures.\r\nTous les bateaux des mers avec leurs matelots se rencontraient chez toi\r\npour négocier tes marchandises.",
+        "DBY": "Les anciens de Guebal et ses sages étaient en toi, réparant tes fissures; tous les navires de la mer et leurs marins étaient chez toi, pour faire trafic avec toi.",
+        "KJV": "The ancients of Gebal and the wise [men] thereof were in thee thy calkers: all the ships of the sea with their mariners were in thee to occupy thy merchandise.",
+        "LSG": "Les anciens de Guebal et ses ouvriers habiles étaient chez toi, Pour réparer tes fissures; Tous les navires de la mer et leurs mariniers étaient chez toi, Pour faire l'échange de tes marchandises.",
+        "MAB": "Les anciens de Guébal, et ses [hommes] experts ont été parmi toi, réparant tes brèches; tous les navires de la mer, et leurs mariniers, ont été au dedans de toi, pour trafiquer avec toi de ton trafic.",
+        "OST": "Les anciens de Guébal et ses bons ouvriers étaient au milieu de toi pour réparer tes fissures; tous les navires de la mer et leurs mariniers étaient au milieu de toi pour faire l'échange de tes marchandises.",
+        "S21": "Les anciens de Guebal et ses ouvriers experts se tenaient là pour réparer tes avaries, tous les bateaux de la mer et leurs marins se retrouvaient chez toi pour négocier tes marchandises."
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "Les Perses et ceux de Pouth comme de Loud\r\nentraient dans ton armée.\r\nC’étaient tes gens de guerre.\r\nIls suspendaient chez toi leurs boucliers, leurs casques,\r\net assuraient ta gloire.",
+        "DBY": "La Perse, et Lud, et Puth, étaient dans ton armée tes hommes de guerre; ils suspendaient chez toi le bouclier et le casque, ils faisaient ta splendeur.",
+        "KJV": "They of Persia and of Lud and of Phut were in thine army, thy men of war: they hanged the shield and helmet in thee; they set forth thy comeliness.",
+        "LSG": "Ceux de Perse, de Lud et de Puth, servaient dans ton armée, C'étaient des hommes de guerre; Ils suspendaient chez toi le bouclier et le casque, Ils te donnaient de la splendeur.",
+        "MAB": "Ceux de Perse, et de Lud, et de Put ont été au dedans de toi pour être tes gens de guerre; ils ont pendu chez toi le bouclier et le casque; ils t'ont rendue magnifique.",
+        "OST": "Ceux de Perse, de Lud, de Put servaient dans ton armée et suspendaient chez toi le bouclier et le casque; ils te rendaient magnifique.",
+        "S21": "Ceux de Perse, de Lud et de Puth servaient dans ton armée, c'étaient des hommes de guerre. Ils suspendaient leurs boucliers et leurs casques chez toi, ils te procuraient du prestige."
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "Les gens d’Arvad et leur armée\r\nétaient sur tes murailles\r\ntout autour de la ville,\r\nles hommes de Gammad étaient dans tes donjons.\r\nIls suspendaient leurs boucliers aux murs d’enceinte\r\net rendaient ta beauté parfaite.",
+        "DBY": "Les fils d'Arvad et ton armée étaient autour sur tes murailles, et tes guerriers étaient dans tes tours; ils suspendaient leurs boucliers à tes murailles tout autour, ils rendaient parfaite ta beauté.",
+        "KJV": "The men of Arvad with thine army [were] upon thy walls round about, and the Gammadims were in thy towers: they hanged their shields upon thy walls round about; they have made thy beauty perfect.",
+        "LSG": "Les enfants d'Arvad et tes guerriers garnissaient tes murs, Et de vaillants hommes occupaient tes tours; Ils suspendaient leurs boucliers à tous tes murs, Ils rendaient ta beauté parfaite.",
+        "MAB": "Les enfants d'Arvad avec tes troupes ont été sur tes murailles tout à l'entour, et ceux de Gammad ont été dans tes tours; ils ont pendu leurs boucliers sur tes murailles à l'entour, ils ont achevé de te rendre parfaite en beauté.",
+        "OST": "Les enfants d'Arvad et tes soldats garnissaient tout le tour de tes murailles; des hommes vaillants étaient dans tes tours et suspendaient leurs boucliers à tous tes murs; ils achevaient ta parfaite beauté.",
+        "S21": "»Les habitants d'Arvad et tes guerriers garnissaient partout tes murailles, et des hommes de Gammad occupaient tes tours. Ils suspendaient leurs boucliers partout sur tes murailles, ils rendaient ta beauté parfaite."
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "«Tarsis échangeait avec toi des biens de toutes sortes en abondance; elle te donnait de l’argent, du fer, de l’étain et du plomb contre tes marchandises.",
+        "DBY": "-Tarsis commerçait avec toi pour l'abondance de tous biens; d'argent, de fer, d'étain, et de plomb, ils fournissaient tes marchés.",
+        "KJV": "Tarshish [was] thy merchant by reason of the multitude of all [kind of] riches; with silver, iron, tin, and lead, they traded in thy fairs.",
+        "LSG": "Ceux de Tarsis trafiquaient avec toi, A cause de tous les biens que tu avais en abondance; D'argent, de fer, d'étain et de plomb, Ils pourvoyaient tes marchés.",
+        "MAB": "Ceux de Tarsis ont trafiqué avec toi de toutes sortes de richesses, faisant valoir tes foires en argent, en fer, en étain et en plomb.",
+        "OST": "Ceux de Tarsis trafiquaient avec toi de toute sorte de richesses, fournissant tes marchés d'argent, de fer, d'étain et de plomb.",
+        "S21": "Ceux de Tarsis traitaient avec toi à cause de tous les biens que tu avais en abondance. Ils donnaient de l'argent, du fer, de l’étain et du plomb en échange de tes denrées."
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "Yavân, Toubal, Méchek commerçaient avec toi, ils donnaient des esclaves et des objets de bronze en échange de tes marchandises.",
+        "DBY": "Javan, Tubal et Méshec étaient tes marchands; ils fournissaient à ton trafic des âmes d'hommes et des ustensiles d'airain.",
+        "KJV": "Javan, Tubal, and Meshech, they [were] thy merchants: they traded the persons of men and vessels of brass in thy market.",
+        "LSG": "Javan, Tubal et Méschec trafiquaient avec toi; Ils donnaient des esclaves et des ustensiles d'airain En échange de tes marchandises.",
+        "MAB": "Javan, Tubal, et Mésec ont été tes facteurs, faisant valoir ton commerce en hommes, et en vaisseaux d'airain.",
+        "OST": "Javan, Tubal et Méshec négociaient avec toi, te donnant en échange des hommes et des ustensiles d'airain.",
+        "S21": "Javan, Tubal et Méshec faisaient du commerce avec toi. Ils donnaient des esclaves et des objets en bronze en échange de tes marchandises."
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "Ceux de Beth-Togarma pourvoyaient tes marchés de chevaux pour la guerre et de chevaux de trait ainsi que de mulets.",
+        "DBY": "De la maison de Togarma ils fournissaient tes marchés en chevaux, et en cavaliers, et en mulets.",
+        "KJV": "They of the house of Togarmah traded in thy fairs with horses and horsemen and mules.",
+        "LSG": "Ceux de la maison de Togarma Pourvoyaient tes marchés de chevaux, de cavaliers et de mulets.",
+        "MAB": "Ceux de la maison de Thogarma ont fait valoir tes foires en chevaux, et en cavaliers, et en mulets.",
+        "OST": "Ceux de la maison de Togarma fournissaient tes marchés de chevaux, de cavaliers et de mulets.",
+        "S21": "La communauté de Togarma donnait des chevaux de trait, des chevaux d’attelage et des mulets en échange de tes denrées."
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "Les enfants de Dedân commerçaient avec toi, tes marchés s’étendaient jusqu’aux îles nombreuses qui te payaient ton dû en défenses d’ivoire et avec de l’ébène.",
+        "DBY": "Les fils de Dedan étaient tes marchands; de nombreuses îles étaient en relation de commerce avec toi; elles te donnaient en retour des dents d'ivoire et de l'ébène.",
+        "KJV": "The men of Dedan [were] thy merchants; many isles [were] the merchandise of thine hand: they brought thee [for] a present horns of ivory and ebony.",
+        "LSG": "Les enfants de Dedan trafiquaient avec toi; Le commerce de beaucoup d'îles passait par tes mains; On te payait avec des cornes d'ivoire et de l'ébène.",
+        "MAB": "Les enfants de Dédan ont été tes facteurs; tu avais en ta main le commerce de plusieurs Iles; et on t'a rendu en échange des dents d'ivoire, et de l'ébène.",
+        "OST": "Les enfants de Dédan négociaient avec toi; dans tes mains était le commerce de nombreuses îles, et l'on te donnait en échange des dents d'ivoire et de l'ébène.",
+        "S21": "Les habitants de Dedan faisaient du commerce avec toi. Les affaires commerciales de beaucoup d'îles passaient par toi. On te payait avec des cornes d'ivoire et de l'ébène."
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "La Syrie t’achetait des produits de tous genres, te payant en retour en pierres d’escarboucle, en tissus écarlates, en belles broderies, en tissus de fin lin, en corail et rubis.",
+        "DBY": "La Syrie commerçait avec toi à cause de la multitude de tes ouvrages; ils fournissaient tes marchés d'escarboucles, de pourpre, de broderie, et de fin lin, et de corail, et de rubis.",
+        "KJV": "Syria [was] thy merchant by reason of the multitude of the wares of thy making: they occupied in thy fairs with emeralds, purple, and broidered work, and fine linen, and coral, and agate.",
+        "LSG": "La Syrie trafiquait avec toi, A cause du grand nombre de tes produits; D'escarboucles, de pourpre, de broderies, De byssus, de corail et de rubis, Elle pourvoyait tes marchés.",
+        "MAB": "La Syrie a trafiqué avec toi; en quantité d'ouvrages faits pour toi; on a fait valoir tes foires en escarboucles, en écarlate, en broderie, en fin lin, en corail, et en agate.",
+        "OST": "La Syrie trafiquait avec toi de tes produits de toute espèce; elle fournissait tes marchés d'escarboucles, d'écarlate, de broderie, de fin lin, de corail et de rubis.",
+        "S21": "La Syrie traitait avec toi à cause de la quantité de tes activités. Elle donnait des escarboucles, de la pourpre, des broderies, du fin lin, du corail et des rubis en échange de tes denrées."
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "Juda et Israël commerçaient avec toi, te donnant en échange du froment de Minnith, du biscuit et du miel, de l’huile et du baume.",
+        "DBY": "Juda et le pays d'Israël étaient tes marchands; ils fournissaient à ton trafic du froment de Minnith, et de la pâtisserie, et du miel, et de l'huile, et du baume.",
+        "KJV": "Judah, and the land of Israel, they [were] thy merchants: they traded in thy market wheat of Minnith, and Pannag, and honey, and oil, and balm.",
+        "LSG": "Juda et le pays d'Israël trafiquaient avec toi; Ils donnaient le froment de Minnith, La pâtisserie, le miel, l'huile et le baume, En échange de tes marchandises.",
+        "MAB": "Juda et le pays d'Israël ont été tes facteurs, faisant valoir ton commerce en blé de Minnith et de Pannag, en miel, en huile, et en baume.",
+        "OST": "Juda et le pays d'Israël négociaient avec toi, te donnant en échange du blé de Minnith, de la pâtisserie, du miel, de l'huile et du baume.",
+        "S21": "»Juda et le pays d'Israël faisaient du commerce avec toi. Ils donnaient du blé de Minnith, du millet, du miel, de l'huile et du baume en échange de tes marchandises."
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "La ville de Damas commerçait avec toi, elle était attirée par tes nombreux produits, et tes biens abondants, te livrant en paiement la laine de Tsahar et le vin de Helbôn.",
+        "DBY": "Pour la multitude de tes ouvrages, à cause de l'abondance de tous biens, Damas commerçait avec toi en vin de Helbon et en laine blanche.",
+        "KJV": "Damascus [was] thy merchant in the multitude of the wares of thy making, for the multitude of all riches; in the wine of Helbon, and white wool.",
+        "LSG": "Damas trafiquait avec toi, A cause du grand nombre de tes produits, A cause de tous les biens que tu avais en abondance; Elle te fournissait du vin de Helbon et de la laine blanche.",
+        "MAB": "Damas a trafiqué avec toi en quantité d'ouvrages faits pour toi en toute sorte de richesses, en vin de Helbon, et en laine blanche.",
+        "OST": "Damas trafiquait avec toi à cause de tes nombreux produits, à cause de toutes tes richesses; elle te fournissait du vin de Helbon et de la laine blanche.",
+        "S21": "Damas traitait avec toi à cause de la quantité de tes activités et à cause de tous les biens que tu avais en abondance. Elle te fournissait du vin de Helbon et de la laine blanche."
+      }
+    },
+    {
+      "verse": 19,
+      "texts": {
+        "BDS": "Vedân, Yavân, et Meouzal pourvoyaient tes marchés, en fer forgé, en casse et en roseau aromatique contre tes marchandises.",
+        "DBY": "Vedan, et Javan d'Uzal, fournissaient tes marchés de fer ouvragé; la casse et le roseau aromatique étaient dans ton trafic.",
+        "KJV": "Dan also and Javan going to and fro occupied in thy fairs: bright iron, cassia, and calamus, were in thy market.",
+        "LSG": "Vedan et Javan, depuis Uzal, Pourvoyaient tes marchés; Le fer travaillé, la casse et le roseau aromatique, Etaient échangés avec toi.",
+        "MAB": "Et Dan, et Javan et Mosel, ont fait valoir tes foires en fer luisant; la casse et le roseau [aromatique] ont été dans ton commerce.",
+        "OST": "Védan et Javan fournissaient tes marchés de tissus; le fer forgé, la casse et le roseau aromatique étaient échangés avec toi.",
+        "S21": "En échange de tes denrées, les Danites et les Grecs, depuis Uzal, donnaient du fer forgé, de la casse et du roseau aromatique qui faisaient partie de tes marchandises."
+      }
+    },
+    {
+      "verse": 20,
+      "texts": {
+        "BDS": "Dedân te fournissait des étoffes de selle.",
+        "DBY": "Dedan était ton marchand en draps précieux pour housses de cheval.",
+        "KJV": "Dedan [was] thy merchant in precious clothes for chariots.",
+        "LSG": "Dedan trafiquait avec toi En couvertures pour s'asseoir à cheval.",
+        "MAB": "Ceux de Dédan ont été tes facteurs en draps précieux pour les chariots.",
+        "OST": "Ceux de Dédan négociaient avec toi les draps précieux pour monter à cheval.",
+        "S21": "Dedan faisait avec toi le commerce de couvertures pour s'asseoir à cheval."
+      }
+    },
+    {
+      "verse": 21,
+      "texts": {
+        "BDS": "Les peuplades arabes et tous les princes de Qédar négociaient avec toi, pourvoyant ton marché d’agneaux, de béliers et de boucs.",
+        "DBY": "L'Arabie et tous les princes de Kédar étaient en relation de commerce avec toi; en agneaux, en béliers et en boucs, en ces choses-là, ils étaient tes commerçants.",
+        "KJV": "Arabia, and all the princes of Kedar, they occupied with thee in lambs, and rams, and goats: in these [were they] thy merchants.",
+        "LSG": "L'Arabie et tous les princes de Kédar trafiquaient avec toi, Et faisaient le commerce en agneaux, en béliers et en boucs.",
+        "MAB": "Les Arabes, et tous les principaux de Kédar, ont été des marchands [que tu avais] en ta main, trafiquant avec toi en agneaux, en moutons, et en boucs.",
+        "OST": "Les Arabes et tous les princes de Kédar trafiquaient avec toi et négociaient des agneaux, des béliers et des boucs;",
+        "S21": "L'Arabie et tous les princes de Kédar te fournissaient en agneaux, en béliers et en boucs. Pour tout cela, ils étaient tes fournisseurs."
+      }
+    },
+    {
+      "verse": 22,
+      "texts": {
+        "BDS": "Les marchands de Saba et ceux de Raema commerçaient avec toi payant tes marchandises des meilleurs aromates, de gemmes de tous genres et d’or.",
+        "DBY": "Les marchands de Sheba et de Rahma étaient tes marchands; ils fournissaient tes marchés de tout aromate excellent, et de toute pierre précieuse, et d'or.",
+        "KJV": "The merchants of Sheba and Raamah, they [were] thy merchants: they occupied in thy fairs with chief of all spices, and with all precious stones, and gold.",
+        "LSG": "Les marchands de Séba et de Raema trafiquaient avec toi; De tous les meilleurs aromates, De toute espèce de pierres précieuses et d'or, Ils pourvoyaient tes marchés.",
+        "MAB": "Les marchands de Séba et de Rahma ont été tes facteurs, faisant valoir tes foires en toutes sortes de drogues les plus exquises, et en toute sorte de pierres précieuses, et en or.",
+        "OST": "Les marchands de Shéba et de Raema trafiquaient avec toi, et pourvoyaient tes marchés de toutes sortes de parfums exquis, de toutes sortes de pierres précieuses et d'or.",
+        "S21": "»Les marchands de Séba et de Raema faisaient avec toi le commerce de tous les meilleurs aromates, de toutes sortes de pierres précieuses et de l'or, en échange de tes denrées."
+      }
+    },
+    {
+      "verse": 23,
+      "texts": {
+        "BDS": "Harân, Kanné, Eden, les marchands de Saba, d’Assur et de Kilmad commerçaient avec toi.",
+        "DBY": "Charan, et Canné, et Éden, les marchands de Sheba, Assur, Kilmad, ta marchande,",
+        "KJV": "Haran, and Canneh, and Eden, the merchants of Sheba, Asshur, [and] Chilmad, [were] thy merchants.",
+        "LSG": "Charan, Canné et Eden, Les marchands de Séba, d'Assyrie, de Kilmad, Trafiquaient avec toi;",
+        "MAB": "Haran, et Canne, et Héden, ont fait trafic de ce qui venait de Séba; et l'Assyrie a appris ton trafic.",
+        "OST": "Haran, Canné et Éden, les marchands de Shéba, Assur et Kilmad négociaient avec toi;",
+        "S21": "Charan, Canné et Eden, les marchands de Séba, d'Assour et de Kilmad faisaient du commerce avec toi."
+      }
+    },
+    {
+      "verse": 24,
+      "texts": {
+        "BDS": "Ils faisaient le commerce d’objets de luxe, de manteaux teints de pourpre et finement brodés, de tissus de couleur, de forts cordons tressés pour tes négoces.",
+        "DBY": "trafiquaient avec toi en objets de prix, en draps bleus, et en broderies, et en caisses de riches étoffes, liées de cordes et faites de cèdre, entre tes marchandises.",
+        "KJV": "These [were] thy merchants in all sorts [of things], in blue clothes, and broidered work, and in chests of rich apparel, bound with cords, and made of cedar, among thy merchandise.",
+        "LSG": "Ils trafiquaient avec toi en belles marchandises, En manteaux teints en bleu, en broderies, En riches étoffes contenues dans des coffres Attachés avec des cordes, faits en bois de cèdre, Et amenés sur tes marchés.",
+        "MAB": "Ceux-ci ont été tes facteurs en toutes sortes de choses, en draps de pourpre et de broderie, et en des caisses pour des vêtements précieux, en cordons entortillés ; même les coffres de cèdre ont été dans ton trafic.",
+        "OST": "Ils trafiquaient avec toi en marchandises de prix, en manteaux de pourpre et de broderie, en étoffes précieuses serrées dans des coffres, liés de cordes et faits de bois de cèdre.",
+        "S21": "Ils faisaient avec toi le commerce d’habits de luxe, de manteaux teints en bleu, de broderies, de tapis, de tissus de couleur, de cordes tressées et résistantes qui figuraient sur tes marchés."
+      }
+    },
+    {
+      "verse": 25,
+      "texts": {
+        "BDS": "«Les vaisseaux au long cours assuraient le transport de tes produits.\r\nOui, tu étais remplie et lourdement chargée de marchandises\r\nau cœur des mers.",
+        "DBY": "Les navires de Tarsis étaient tes caravanes, pour ton trafic; et tu as été remplie et tu es devenue extrêmement glorieuse au cœur des mers.",
+        "KJV": "The ships of Tarshish did sing of thee in thy market: and thou wast replenished, and made very glorious in the midst of the seas.",
+        "LSG": "Les navires de Tarsis naviguaient pour ton commerce; Tu étais au comble de la richesse et de la gloire, Au coeur des mers.",
+        "MAB": "Les navires de Tarsis t'ont célébrée dans leurs chansons à cause de ton commerce, et tu as été remplie et rendue fort glorieuse, [bâtie] au cœur de la mer.",
+        "OST": "Les navires de Tarsis naviguaient pour ton commerce, et tu étais glorieuse et puissante au cœur des mers.",
+        "S21": "»C’étaient des bateaux long-courriers qui transportaient tes marchandises. Tu étais au comble de la richesse et de la gloire, au cœur de la mer."
+      }
+    },
+    {
+      "verse": 26,
+      "texts": {
+        "BDS": "Mais sur les grandes eaux où t’avaient amenée ceux qui maniaient tes rames,\r\ntu as été brisée par le vent de l’orient au milieu de la mer",
+        "DBY": "Tes rameurs t'ont amenée dans de grandes eaux; le vent d'orient t'a brisée au cœur des mers.",
+        "KJV": "Thy rowers have brought thee into great waters: the east wind hath broken thee in the midst of the seas.",
+        "LSG": "Tes rameurs t'ont fait voguer sur les grandes eaux: Un vent d'orient t'a brisée au coeur des mers.",
+        "MAB": "Tes matelots t'ont amenée en de grosses eaux, le vent d'Orient t'a brisée au cœur de la mer.",
+        "OST": "Tes rameurs t'ont menée sur les grandes eaux; le vent d'Orient t'a brisée au cœur des mers.",
+        "S21": "Pourtant, alors que tes rameurs te faisaient voguer vers le grand large, un vent d'est t'a brisée au cœur de la mer."
+      }
+    },
+    {
+      "verse": 27,
+      "texts": {
+        "BDS": "et tes richesses, tes marchandises, les articles de ton commerce,\r\ntes marins, tes pilotes,\r\net tes calfats,\r\net tes marchands,\r\ntous les hommes de guerre qui sont chez toi,\r\ntoute la multitude qui remplit ton navire,\r\ntomberont dans la mer\r\nau jour de ton naufrage.",
+        "DBY": "Tes richesses et tes échanges, ton trafic, tes marins et tes pilotes, ceux qui réparent tes fissures, et ceux qui font trafic avec toi, et tous tes hommes de guerre qui sont en toi, et toute ta multitude qui est au milieu de toi, tomberont au cœur des mers, au jour de ta chute.",
+        "KJV": "Thy riches, and thy fairs, thy merchandise, thy mariners, and thy pilots, thy calkers, and the occupiers of thy merchandise, and all thy men of war, that [are] in thee, and in all thy company which [is] in the midst of thee, shall fall into the midst of the seas in the day of thy ruin.",
+        "LSG": "Tes richesses, tes marchés et tes marchandises, Tes mariniers et tes pilotes, Ceux qui réparent tes fissures Et ceux qui s'occupent de ton commerce, Tous tes hommes de guerre qui sont chez toi Et toute la multitude qui est au milieu de toi Tomberont dans le coeur des mers, Au jour de ta chute.",
+        "MAB": "Tes richesses, et tes foires, ton commerce, tes mariniers, et tes pilotes, ceux qui réparaient tes brèches, et ceux qui avaient le soin de ton commerce, tous tes gens de guerre qui étaient au dedans de toi, et toute ta multitude qui est au milieu de toi, tomberont dans le cœur de la mer au jour de ta ruine.",
+        "OST": "Tes richesses et tes marchandises, ton commerce et tes mariniers, tes pilotes, ceux qui réparent tes fissures, ceux qui trafiquent avec toi de tes marchandises, tous tes gens de guerre qui sont chez toi, toute la multitude qui est au milieu de toi tomberont au cœur des mers, au jour de ta ruine.",
+        "S21": "Tes biens, tes denrées et tes marchandises, tes marins et tes navigateurs, ceux qui réparent tes avaries et ceux qui négocient tes marchandises, tous les hommes de guerre qui sont chez toi et toute ta population sombreront au cœur de la mer, quand viendra le jour de ta chute."
+      }
+    },
+    {
+      "verse": 28,
+      "texts": {
+        "BDS": "«Au cri de tes pilotes,\r\nles régions de la côte se mettront à trembler.",
+        "DBY": "Les lieux ouverts trembleront au bruit du cri de tes pilotes.",
+        "KJV": "The suburbs shall shake at the sound of the cry of thy pilots.",
+        "LSG": "Aux cris de tes pilotes, Les plages d'alentour trembleront;",
+        "MAB": "Les faubourgs trembleront au bruit du cri de tes pilotes.",
+        "OST": "Au cri de tes pilotes les faubourgs trembleront;",
+        "S21": "»Aux cris de tes navigateurs, les rivages trembleront."
+      }
+    },
+    {
+      "verse": 29,
+      "texts": {
+        "BDS": "Alors tous les rameurs,\r\nles matelots, tous les marins qui sillonnent la mer quitteront leurs navires\r\net se tiendront sur terre,",
+        "DBY": "Et tous ceux qui manient la rame, les marins, tous les pilotes de la mer, descendront de leurs navires;",
+        "KJV": "And all that handle the oar, the mariners, [and] all the pilots of the sea, shall come down from their ships, they shall stand upon the land;",
+        "LSG": "Et tous ceux qui manient la rame descendront de leurs navires, Les mariniers, tous les pilotes de la mer. Ils se tiendront sur la terre;",
+        "MAB": "Et tous ceux qui manient la rame descendront de leurs navires, les mariniers, [et] tous les pilotes de la mer; ils se tiendront sur la terre;",
+        "OST": "Tous ceux qui manient la rame, les mariniers et tous les pilotes de la mer descendront de leurs navires et se tiendront sur la terre.",
+        "S21": "Tous les rameurs, les marins, descendront de leurs bateaux, tous les navigateurs de la mer se tiendront sur la terre."
+      }
+    },
+    {
+      "verse": 30,
+      "texts": {
+        "BDS": "ils se lamenteront sur toi\r\net pousseront des cris amers,\r\nils se couvriront tous la tête de poussière,\r\nse roulant dans la cendre.",
+        "DBY": "ils se tiendront sur la terre, et feront entendre leur voix sur toi, et crieront amèrement; et ils jetteront de la poussière sur leurs têtes, ils se rouleront dans la cendre;",
+        "KJV": "And shall cause their voice to be heard against thee, and shall cry bitterly, and shall cast up dust upon their heads, they shall wallow themselves in the ashes:",
+        "LSG": "Ils feront entendre leurs voix sur toi, Et pousseront des cris amers; Ils jetteront de la poussière sur leurs têtes Et se rouleront dans la cendre;",
+        "MAB": "Et feront ouïr sur toi leur voix, et crieront amèrement; ils jetteront de la poudre sur leurs têtes, [et] se vautreront dans la cendre;",
+        "OST": "Ils feront entendre sur toi leur voix et crieront amèrement; ils jetteront de la poussière sur leurs têtes, et se rouleront dans la cendre.",
+        "S21": "Ils feront entendre leur voix à cause de ce qui t’arrive, ils crieront leur amertume. Ils jetteront de la poussière sur leur tête, se rouleront dans la cendre,"
+      }
+    },
+    {
+      "verse": 31,
+      "texts": {
+        "BDS": "Ils raseront leurs têtes,\r\nils mettront un habit fait de toile de sac,\r\net avec amertume ils pleureront sur toi\r\net se lamenteront.",
+        "DBY": "et ils se rendront chauves à cause de toi, et se ceindront de sacs, et pleureront sur toi avec amertume d'âme, avec un deuil amer.",
+        "KJV": "And they shall make themselves utterly bald for thee, and gird them with sackcloth, and they shall weep for thee with bitterness of heart [and] bitter wailing.",
+        "LSG": "Ils se raseront la tête à cause de toi, Ils se revêtiront de sacs, Et ils pleureront sur toi dans l'amertume de leur âme, Avec une vive affliction.",
+        "MAB": "Ils arracheront leurs cheveux, et rendront leur tête chauve à cause de toi, ils se ceindront de sacs, et te pleureront avec amertume d'esprit, en menant deuil amèrement.",
+        "OST": "Ils se raseront la tête à cause de toi; ils se ceindront de sacs, et dans l'amertume de leur âme ils pleureront sur toi avec une vive douleur.",
+        "S21": "se raseront la tête à cause de toi et s’habilleront de sacs. Ils pleureront sur toi, dans l’amertume de leur âme, ils mèneront un deuil amer."
+      }
+    },
+    {
+      "verse": 32,
+      "texts": {
+        "BDS": "Dans leur douleur, ils chanteront sur toi une élégie funèbre.\r\nVoici ce qu’ils diront:\r\n“Qui était comme Tyr,\r\nmaintenant silencieuse au milieu de la mer?”",
+        "DBY": "Et dans leur gémissement ils élèveront sur toi une complainte, ils se lamenteront sur toi: Qui fut comme Tyr, comme celle qui est détruite au milieu de la mer?",
+        "KJV": "And in their wailing they shall take up a lamentation for thee, and lament over thee, [saying], What [city is] like Tyrus, like the destroyed in the midst of the sea?",
+        "LSG": "Dans leur douleur, ils diront une complainte sur toi, Ils se lamenteront sur toi: Qui était comme Tyr, Comme cette ville détruite au milieu de la mer?",
+        "MAB": "Et ils prononceront à haute voix sur toi une complainte dans leur lamentation, et feront leur complainte sur toi, [en disant] : qui [fut jamais] telle que Tyr, telle que celle qui a été détruite au cœur de la mer?",
+        "OST": "Ils diront sur toi à haute voix une complainte; dans leur lamentation et leur complainte ils diront: Qui fut comme Tyr, comme cette ville détruite au milieu de la mer?",
+        "S21": "Dans leur douleur, ils entonneront un chant funèbre sur toi, ils chanteront une complainte: ‘Qui est pareil à Tyr, à cette ville réduite au silence au milieu de la mer?’"
+      }
+    },
+    {
+      "verse": 33,
+      "texts": {
+        "BDS": "Lorsque tes marchandises s’en allaient sur les mers,\r\ntu comblais les besoins de peuples innombrables.\r\nPar la surabondance de tes produits\r\net de tes marchandises, tu enrichissais les rois de la terre.",
+        "DBY": "Par les débouchés de tes marchés au delà des mers tu as rassasié beaucoup de peuples; par l'abondance de tes richesses et de ton trafic tu as enrichi les rois de la terre.",
+        "KJV": "When thy wares went forth out of the seas, thou filledst many people; thou didst enrich the kings of the earth with the multitude of thy riches and of thy merchandise.",
+        "LSG": "Quand tes produits sortaient des mers, Tu rassasiais un grand nombre de peuples; Par l'abondance de tes biens et de tes marchandises, Tu enrichissais les rois de la terre.",
+        "MAB": "Tu as rassasié plusieurs peuples par la traite des marchandises qu'on apportait de tes foires au delà des mers ; et tu as enrichi les Rois de la terre par la grandeur de tes richesses et de ton commerce.",
+        "OST": "Par le commerce des marchandises qui sortaient d'au delà des mers, tu rassasiais des peuples nombreux; par la grandeur de tes richesses et de ton commerce, tu enrichissais les rois de la terre.",
+        "S21": "»Quand tes denrées sortaient des mers, tu rassasiais un grand nombre de peuples. Par l'abondance de tes biens et de tes marchandises, tu enrichissais les rois de la terre."
+      }
+    },
+    {
+      "verse": 34,
+      "texts": {
+        "BDS": "Mais te voilà brisée par les flots de la mer,\r\njetée au fond des eaux profondes!\r\nToute ta cargaison et tout ton équipage\r\nont sombré avec toi.",
+        "DBY": "Au temps où tu as été brisée par les mers dans les profondeurs des eaux, ton trafic et toute ta multitude au milieu de toi sont tombés.",
+        "KJV": "In the time [when] thou shalt be broken by the seas in the depths of the waters thy merchandise and all thy company in the midst of thee shall fall.",
+        "LSG": "Et quand tu as été brisée par les mers, Quand tu as disparu dans les profondeurs des eaux, Tes marchandises et toute ta multitude Sont tombées avec toi.",
+        "MAB": "[Mais] quand tu as été brisée par la mer au fond des eaux, ton commerce et toute ta multitude sont tombés avec toi.",
+        "OST": "Maintenant que tu as été brisée par les mers au profond des eaux, ton commerce et toute ta multitude sont tombés avec toi.",
+        "S21": "Et quand tu as été brisée par la mer, quand tu as disparu dans les profondeurs de l’eau, tes marchandises et toute ta population ont sombré avec toi."
+      }
+    },
+    {
+      "verse": 35,
+      "texts": {
+        "BDS": "Les habitants des îles sont frappés de stupeur\r\nà cause de ton sort,\r\nleurs rois sont secoués d’un frisson d’épouvante\r\net la consternation se lit sur leurs visages.",
+        "DBY": "Tous les habitants des îles sont dans la stupeur à cause de toi, et leurs rois frémiront d'horreur, leurs visages sont agités.",
+        "KJV": "All the inhabitants of the isles shall be astonished at thee, and their kings shall be sore afraid, they shall be troubled in [their] countenance.",
+        "LSG": "Tous les habitants des îles sont dans la stupeur à cause de toi, Leurs rois sont saisis d'épouvante, Leur visage est bouleversé.",
+        "MAB": "Tous les habitants des Iles ont été désolés à cause de toi; et leurs Rois ont été horriblement épouvantés, et leur visage en a pâli.",
+        "OST": "Tous les habitants des îles sont frappés de stupeur à cause de toi, leurs rois ont été épouvantés, leur visage est bouleversé.",
+        "S21": "»Tous les habitants des îles sont consternés à cause de ce qui t’arrive, leurs rois en sont horrifiés, leur visage est bouleversé."
+      }
+    },
+    {
+      "verse": 36,
+      "texts": {
+        "BDS": "Ceux qui commercent parmi les peuples se rient de toi,\r\net tu inspires l’épouvante.\r\nC’en est fini de toi!»",
+        "DBY": "Les marchands parmi les peuples ont sifflé sur toi; tu es devenue une terreur, et tu ne seras plus, à jamais.",
+        "KJV": "The merchants among the people shall hiss at thee; thou shalt be a terror, and never [shalt be] any more.",
+        "LSG": "Les marchands parmi les peuples sifflent sur toi; Tu es réduite au néant, tu ne seras plus à jamais!",
+        "MAB": "Les marchands d'entre les peuples t'ont insulté, tu es cause qu'on est tout étonné de ce que tu ne seras plus à jamais.",
+        "OST": "Les marchands parmi les peuples sifflent sur toi; tu es un sujet d'effroi, et tu ne seras plus à jamais!",
+        "S21": "Les marchands qui circulent parmi les peuples sifflent à cause de ce qui t’arrive, tu provoques de la terreur. Tu n’existeras plus jamais!»"
+      }
+    }
+  ]
+}

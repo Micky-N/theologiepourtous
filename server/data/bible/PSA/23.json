@@ -1,0 +1,78 @@
+{
+  "bookCode": "PSA",
+  "chapter": 23,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "Psaume de David.\r\nL’Eternel est mon berger.\r\nJe ne manquerai de rien.",
+        "DBY": "L'Éternel est mon berger: je ne manquerai de rien.",
+        "KJV": "A Psalm of David. The LORD [is] my shepherd; I shall not want.",
+        "LSG": "Cantique de David. L'Eternel est mon berger: je ne manquerai de rien.",
+        "MAB": "Psaume de David. L'Eternel est mon berger, je n'aurai point de disette.",
+        "OST": "Psaume de David. L'Éternel est mon berger; je n'aurai point de disette.",
+        "S21": "Psaume de David.\r\nL’Eternel est mon berger: je ne manquerai de rien."
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "Grâce à lui, je me repose dans des prairies verdoyantes,\r\net c’est lui qui me conduit au bord des eaux calmes.",
+        "DBY": "Il me fait reposer dans de verts pâturages, il me mène à des eaux paisibles.",
+        "KJV": "He maketh me to lie down in green pastures: he leadeth me beside the still waters.",
+        "LSG": "Il me fait reposer dans de verts pâturages, Il me dirige près des eaux paisibles.",
+        "MAB": "Il me fait reposer dans des parcs herbeux, [et] me mène le long des eaux paisibles.",
+        "OST": "Il me fait reposer dans des pâturages herbeux; il me mène le long des eaux tranquilles.",
+        "S21": "Il me fait prendre du repos dans des pâturages bien verts, il me dirige près d’une eau paisible."
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "Il me rend des forces neuves,\r\net, pour l’honneur de son nom,\r\nil me mène pas à pas sur le droit chemin.",
+        "DBY": "Il restaure mon âme; il me conduit dans des sentiers de justice, à cause de son nom.",
+        "KJV": "He restoreth my soul: he leadeth me in the paths of righteousness for his name's sake.",
+        "LSG": "Il restaure mon âme, Il me conduit dans les sentiers de la justice, A cause de son nom.",
+        "MAB": "Il restaure mon âme, et me conduit pour l'amour de son Nom, par des sentiers unis.",
+        "OST": "Il restaure mon âme, il me conduit dans les sentiers de la justice, à cause de son nom.",
+        "S21": "Il me redonne des forces, il me conduit dans les sentiers de la justice à cause de son nom."
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "Si je devais traverser la vallée où règnent les ténèbres de la mort,\r\nje ne craindrais aucun mal, car tu es auprès de moi:\r\nta houlette me conduit et ton bâton me protège.",
+        "DBY": "Même quand je marcherais par la vallée de l'ombre de la mort, je ne craindrai aucun mal; car tu es avec moi: ta houlette et ton bâton, ce sont eux qui me consolent.",
+        "KJV": "Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou [art] with me; thy rod and thy staff they comfort me.",
+        "LSG": "Quand je marche dans la vallée de l'ombre de la mort, Je ne crains aucun mal, car tu es avec moi: Ta houlette et ton bâton me rassurent.",
+        "MAB": "Même quand je marcherais par la vallée de l'ombre de la mort, je ne craindrais aucun mal; car tu es avec moi ; ton bâton et ta houlette sont ceux qui me consolent.",
+        "OST": "Même quand je marcherais dans la vallée de l'ombre de la mort, je ne craindrais aucun mal; car tu es avec moi; c'est ton bâton et ta houlette qui me consolent.",
+        "S21": "Même quand je marche dans la sombre vallée de la mort, je ne redoute aucun mal car tu es avec moi. Ta conduite et ton appui: voilà ce qui me réconforte."
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "Pour moi, tu dresses une table\r\naux yeux de mes ennemis,\r\ntu oins de parfums ma tête,\r\ntu fais déborder ma coupe.",
+        "DBY": "Tu dresses devant moi une table, en la présence de mes ennemis; tu as oint ma tête d'huile, ma coupe est comble.",
+        "KJV": "Thou preparest a table before me in the presence of mine enemies: thou anointest my head with oil; my cup runneth over.",
+        "LSG": "Tu dresses devant moi une table, En face de mes adversaires; Tu oins d'huile ma tête, Et ma coupe déborde.",
+        "MAB": "Tu dresses la table devant moi, à la vue de ceux qui me serrent; tu as oint ma tête d'huile [odoriférante, et] ma coupe est comble.",
+        "OST": "Tu dresses la table devant moi, à la vue de ceux qui me persécutent; tu oins ma tête d'huile; ma coupe déborde.",
+        "S21": "Tu dresses une table devant moi, en face de mes adversaires; tu verses de l’huile sur ma tête et tu fais déborder ma coupe."
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "Oui, toute ma vie,\r\nta bonté et ton amour m’accompagneront\r\net je pourrai retourner au temple de l’Eternel\r\ntant que je vivrai.",
+        "DBY": "Oui, la bonté et la gratuité me suivront tous les jours de ma vie, et mon habitation sera dans la maison de l'Éternel pour de longs jours.",
+        "KJV": "Surely goodness and mercy shall follow me all the days of my life: and I will dwell in the house of the LORD for ever.",
+        "LSG": "Oui, le bonheur et la grâce m'accompagneront Tous les jours de ma vie, Et j'habiterai dans la maison de l'Eternel Jusqu'à la fin de mes jours.",
+        "MAB": "Quoi qu'il en soit, les biens et la gratuité m'accompagneront tous les jours de ma vie, et mon habitation sera dans la maison de l'Eternel pour longtemps.",
+        "OST": "Oui, les biens et la miséricorde m'accompagneront tous les jours de ma vie, et j'habiterai dans la maison de l'Éternel pour l'éternité.",
+        "S21": "Oui, le bonheur et la grâce m’accompagneront tous les jours de ma vie et je reviendrai dans la maison de l’Eternel jusqu’à la fin de mes jours."
+      }
+    }
+  ]
+}

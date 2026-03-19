@@ -1,0 +1,78 @@
+{
+  "bookCode": "PSA",
+  "chapter": 150,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "Louez l’Eternel!\r\nLouez Dieu dans son sanctuaire!\r\nLouez-le dans l’étendue où éclate sa puissance!",
+        "DBY": "Louez Dieu dans son saint lieu! Louez-le dans le firmament de sa force!",
+        "KJV": "Praise ye the LORD. Praise God in his sanctuary: praise him in the firmament of his power.",
+        "LSG": "Louez l'Eternel! Louez Dieu dans son sanctuaire! Louez-le dans l'étendue, où éclate sa puissance!",
+        "MAB": "Louez l'Eternel. Louez le [Dieu] Fort à cause de sa sainteté; Louez-le à cause de cette étendue qu'il a faite par sa force.",
+        "OST": "Louez l'Éternel! Louez Dieu pour sa sainteté; louez-le pour cette étendue qu'a faite sa puissance!",
+        "S21": "Louez l’Eternel! Louez Dieu dans son sanctuaire! Louez-le dans l’étendue céleste où éclate sa puissance!"
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "Louez-le pour ses hauts faits,\r\nlouez-le pour sa grandeur infinie!",
+        "DBY": "Louez-le pour ses actes puissants! Louez-le pour l'étendue de sa grandeur!",
+        "KJV": "Praise him for his mighty acts: praise him according to his excellent greatness.",
+        "LSG": "Louez-le pour ses hauts faits! Louez-le selon l'immensité de sa grandeur!",
+        "MAB": "Louez-le de ses grands exploits, louez-le selon la grandeur de sa Majesté.",
+        "OST": "Louez-le pour ses hauts faits; louez-le selon la grandeur de sa majesté!",
+        "S21": "Louez-le pour son extraordinaire façon d’agir! Louez-le pour l’immensité de sa grandeur!"
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "Louez-le au son du cor,\r\nlouez-le au son du luth et de la cithare!",
+        "DBY": "Louez-le avec le son retentissant de la trompette! Louez-le avec le luth et la harpe!",
+        "KJV": "Praise him with the sound of the trumpet: praise him with the psaltery and harp.",
+        "LSG": "Louez-le au son de la trompette! Louez-le avec le luth et la harpe!",
+        "MAB": "Louez-le avec le son de la trompette; louez-le avec la musette, et la harpe.",
+        "OST": "Louez-le au son de la trompette; louez-le avec la lyre et la harpe!",
+        "S21": "Louez-le au son de la trompette! Louez-le avec le luth et la harpe!"
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "Louez-le avec des danses et au son des tambourins!\r\nLouez-le avec la lyre et avec la flûte!",
+        "DBY": "Louez-le avec le tambourin et la danse! Louez-le avec des instruments à cordes et le chalumeau!",
+        "KJV": "Praise him with the timbrel and dance: praise him with stringed instruments and organs.",
+        "LSG": "Louez-le avec le tambourin et avec des danses! Louez-le avec les instruments à cordes et le chalumeau!",
+        "MAB": "Louez-le avec le tambour et la flûte; louez-le sur l'épinette, et sur les orgues.",
+        "OST": "Louez-le avec le tambourin et les danses; louez-le avec les instruments à cordes et la flûte!",
+        "S21": "Louez-le avec le tambourin et avec des danses! Louez-le avec les instruments à cordes et la flûte!"
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "Louez-le par les cymbales bien retentissantes!\r\nLouez-le par les cymbales résonnant avec éclat!",
+        "DBY": "Louez-le avec les cymbales sonores! Louez-le avec les cymbales retentissantes!",
+        "KJV": "Praise him upon the loud cymbals: praise him upon the high sounding cymbals.",
+        "LSG": "Louez-le avec les cymbales sonores! Louez-le avec les cymbales retentissantes!",
+        "MAB": "Louez-le avec les cymbales retentissantes; louez-le avec les cymbales de cri de réjouissance.",
+        "OST": "Louez-le avec les cymbales sonores; louez-le avec les cymbales retentissantes!",
+        "S21": "Louez-le avec les cymbales sonores! Louez-le avec les cymbales retentissantes!"
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "Que tout ce qui vit loue donc l’Eternel!\r\nLouez l’Eternel!",
+        "DBY": "Que tout ce qui respire loue Jah! Louez Jah!",
+        "KJV": "Let every thing that hath breath praise the LORD. Praise ye the LORD.",
+        "LSG": "Que tout ce qui respire loue l'Eternel! Louez l'Eternel!",
+        "MAB": "Que tout ce qui respire loue l'Eternel! Louez l'Eternel.",
+        "OST": "Que tout ce qui respire loue l'Éternel! Louez l'Éternel!",
+        "S21": "Que tout ce qui respire loue l’Eternel! Louez l’Eternel!"
+      }
+    }
+  ]
+}

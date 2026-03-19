@@ -1,0 +1,90 @@
+{
+  "bookCode": "PSA",
+  "chapter": 120,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "Cantique pour la route vers la demeure de l’Eternel.\r\nDans ma détresse, j’ai fait appel à l’Eternel,\r\net il m’a répondu.",
+        "DBY": "A l'Éternel, en ma détresse, j'ai crié; et il m'a répondu.",
+        "KJV": "A Song of degrees. In my distress I cried unto the LORD, and he heard me.",
+        "LSG": "Cantique des degrés. Dans ma détresse, c'est à l'Eternel Que je crie, et il m'exauce.",
+        "MAB": "Cantique de Mahaloth. J'ai invoqué l'Eternel en ma grande détresse, et il m'a exaucé.",
+        "OST": "Cantique de Maaloth. J'ai crié à l'Éternel dans ma détresse, et il m'a exaucé.",
+        "S21": "Chant des montées.\r\nDans ma détresse, c’est à l’Eternel que j’ai crié, et il m’a répondu."
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "O Eternel, délivre-moi des lèvres fausses,\r\ndes langues mensongères!",
+        "DBY": "Éternel! délivre mon âme de la lèvre menteuse, de la langue qui trompe.",
+        "KJV": "Deliver my soul, O LORD, from lying lips, [and] from a deceitful tongue.",
+        "LSG": "Eternel, délivre mon âme de la lèvre mensongère, De la langue trompeuse!",
+        "MAB": "Eternel, délivre mon âme des fausses lèvres, et de la langue trompeuse.",
+        "OST": "Éternel, délivre mon âme des lèvres menteuses, de la langue qui trompe!",
+        "S21": "Eternel, délivre-moi des lèvres fausses, de la langue trompeuse!"
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "Que te donnera l’Eternel?\r\nComment récompensera-t-il ta langue mensongère?",
+        "DBY": "Que te donnera-t-on, et que t'ajoutera-t-on, langue trompeuse? -",
+        "KJV": "What shall be given unto thee? or what shall be done unto thee, thou false tongue?",
+        "LSG": "Que te donne, que te rapporte Une langue trompeuse?",
+        "MAB": "Que te donnera, et te profitera la langue trompeuse?",
+        "OST": "Que te donnera, que te rapportera la langue trompeuse?",
+        "S21": "Que te donnera l’Eternel et que t’ajoutera-t-il, langue trompeuse?"
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "Il t’enverra une volée de flèches bien aiguisées\r\nsur la braise de genêts.",
+        "DBY": "Des flèches aiguës d'un homme puissant, et des charbons ardents de genêt.",
+        "KJV": "Sharp arrows of the mighty, with coals of juniper.",
+        "LSG": "Les traits aigus du guerrier, Avec les charbons ardents du genêt.",
+        "MAB": "Ce sont des flèches aiguës tirées par un homme puissant, et des charbons de genèvre.",
+        "OST": "Des flèches aiguës comme celles du guerrier, avec les charbons ardents du genêt.",
+        "S21": "Les flèches aiguës du guerrier avec des charbons ardents de genêt!"
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "Malheur à moi! Je vis entouré d’étrangers,\r\ncomme environné de barbares.",
+        "DBY": "Malheur à moi de ce que je séjourne en Méshec, de ce que je demeure avec les tentes de Kédar;",
+        "KJV": "Woe is me, that I sojourn in Mesech, [that] I dwell in the tents of Kedar!",
+        "LSG": "Malheureux que je suis de séjourner à Méschec, D'habiter parmi les tentes de Kédar!",
+        "MAB": "Hélas! Que je suis misérable de séjourner en Mésech, et de demeurer aux tentes de Kédar!",
+        "OST": "Malheureux que je suis de séjourner en Méshec, de demeurer parmi les tentes de Kédar!",
+        "S21": "Malheur à moi! J’ai dû séjourner à Méshec, habiter parmi les tentes de Kédar!"
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "Bien trop longtemps j’ai habité\r\nparmi des gens qui détestent la paix.",
+        "DBY": "-Que mon âme ait tant demeuré avec ceux qui haïssent la paix!",
+        "KJV": "My soul hath long dwelt with him that hateth peace.",
+        "LSG": "Assez longtemps mon âme a demeuré Auprès de ceux qui haïssent la paix.",
+        "MAB": "Que mon âme ait tant demeuré avec celui qui hait la paix!",
+        "OST": "Trop longtemps mon âme a demeuré avec celui qui hait la paix.",
+        "S21": "J’ai habité trop longtemps avec ceux qui détestent la paix."
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "Je veux la paix, mais quand j’en parle,\r\neux, ils sont pour la guerre.",
+        "DBY": "Je veux la paix; mais si j'en parle, ils sont, eux, pour la guerre.",
+        "KJV": "I [am for] peace: but when I speak, they [are] for war.",
+        "LSG": "Je suis pour la paix; mais dès que je parle, Ils sont pour la guerre.",
+        "MAB": "Je [ne cherche que] la paix, mais lorsque j'en parle, les voilà à la guerre.",
+        "OST": "Je veux la paix; mais dès que je parle, ils sont pour la guerre.",
+        "S21": "Je suis pour la paix, mais quand j’en parle, ils sont pour la guerre."
+      }
+    }
+  ]
+}

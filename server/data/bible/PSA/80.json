@@ -1,0 +1,242 @@
+{
+  "bookCode": "PSA",
+  "chapter": 80,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "Au chef de chœur, à chanter sur la mélodie de «Les lis de la Loi». Psaume d’Asaph.",
+        "DBY": "Berger d'Israël! prête l'oreille. Toi qui mènes Joseph comme un troupeau, toi qui es assis entre les chérubins, fais luire ta splendeur!",
+        "KJV": "To the chief Musician upon Shoshannimeduth, A Psalm of Asaph. Give ear, O Shepherd of Israel, thou that leadest Joseph like a flock; thou that dwellest [between] the cherubims, shine forth.",
+        "LSG": "Au chef des chantres. Sur les lis lyriques. D'Asaph. Psaume. Prête l'oreille, berger d'Israël, Toi qui conduis Joseph comme un troupeau! Parais dans ta splendeur, Toi qui es assis sur les chérubins!",
+        "MAB": "Psaume d'Asaph, [donné] au maître chantre, [pour le chanter] sur Sosannim-héduth. Toi qui pais Israël, prête l'oreille, toi qui mènes Joseph comme un troupeau, toi qui es assis entre les Chérubins, fais reluire ta splendeur.",
+        "OST": "Au maître-chantre. Psaume d'Asaph, sur Shoshannim-Éduth (les lys lyriques).",
+        "S21": "Au chef de chœur, sur la mélodie «Les lis du témoignage». Psaume d’Asaph."
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "O Berger d’Israël, tends vers moi ton oreille,\r\ntoi qui conduis Joseph comme un troupeau!\r\nO toi qui as ton trône entre les chérubins,\r\nparais dans ta splendeur",
+        "DBY": "Devant Éphraïm, et Benjamin, et Manassé, réveille ta puissance, et viens nous sauver!",
+        "KJV": "Before Ephraim and Benjamin and Manasseh stir up thy strength, and come [and] save us.",
+        "LSG": "Devant Ephraïm, Benjamin et Manassé, réveille ta force, Et viens à notre secours!",
+        "MAB": "Réveille ta puissance au-devant d'Ephraïm, de Benjamin, et de Manassé; et viens pour notre délivrance.",
+        "OST": "Pasteur d'Israël, prête l'oreille; toi qui mènes Joseph comme un troupeau, toi qui sièges entre les chérubins, fais briller ta splendeur!",
+        "S21": "Prête l’oreille, berger d’Israël, toi qui conduis Joseph comme un troupeau! Interviens dans ta splendeur, toi qui sièges entre les chérubins!"
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "aux regards d’Ephraïm, de Benjamin, de Manassé! Déploie ta force!\r\nViens nous sauver!",
+        "DBY": "O Dieu! ramène-nous; et fais luire ta face, et nous serons sauvés.",
+        "KJV": "Turn us again, O God, and cause thy face to shine; and we shall be saved.",
+        "LSG": "O Dieu, relève-nous! Fais briller ta face, et nous serons sauvés!",
+        "MAB": "Ô Dieu! ramène-nous, et fais reluire ta face; et nous serons délivrés.",
+        "OST": "Devant Éphraïm, Benjamin et Manassé, réveille ta puissance et viens nous sauver.",
+        "S21": "Devant Ephraïm, Benjamin et Manassé, déploie ta force et viens à notre secours!"
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "O Dieu, rétablis-nous,\r\nmontre-toi favorable, et nous serons sauvés!",
+        "DBY": "Éternel, Dieu des armées! jusques à quand ta colère fumera-t-elle contre la prière de ton peuple?",
+        "KJV": "O LORD God of hosts, how long wilt thou be angry against the prayer of thy people?",
+        "LSG": "Eternel, Dieu des armées! Jusques à quand t'irriteras-tu contre la prière de ton peuple?",
+        "MAB": "Ô Eternel, Dieu des armées, jusques à quand seras-tu irrité contre la requête de ton peuple?",
+        "OST": "O Dieu! rétablis-nous; fais luire ta face, et nous serons sauvés!",
+        "S21": "O Dieu, relève-nous! Fais briller ton visage, et nous serons sauvés!"
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "O Eternel, Dieu des armées célestes,\r\njusques à quand seras-tu en colère\r\nen réponse aux prières que t’adresse ton peuple?",
+        "DBY": "Tu leur as fait manger un pain de larmes, et tu les as abreuvés de larmes à pleine mesure.",
+        "KJV": "Thou feedest them with the bread of tears; and givest them tears to drink in great measure.",
+        "LSG": "Tu les nourris d'un pain de larmes. Tu les abreuves de larmes à pleine mesure.",
+        "MAB": "Tu les as nourris de pain de larmes, et tu les as abreuvés de pleurs à grande mesure.",
+        "OST": "Éternel, Dieu des armées, jusques à quand ta colère fumera-t-elle contre la prière de ton peuple?",
+        "S21": "Eternel, Dieu de l’univers, jusqu’à quand t’irriteras-tu contre la prière de ton peuple?"
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "Tu le nourris d’un pain trempé de pleurs.\r\nTu lui fais boire des larmes sans mesure.",
+        "DBY": "Tu as fait de nous un sujet de contestation pour nos voisins, et nos ennemis se moquent de nous entre eux.",
+        "KJV": "Thou makest us a strife unto our neighbours: and our enemies laugh among themselves.",
+        "LSG": "Tu fais de nous un objet de discorde pour nos voisins, Et nos ennemis se raillent de nous.",
+        "MAB": "Tu nous as mis pour un sujet de dispute entre nos voisins, et nos ennemis se moquent de nous entre eux.",
+        "OST": "Tu leur fais manger un pain de larmes, et tu leur fais boire des larmes à pleine mesure.",
+        "S21": "Tu les as nourris d’un pain trempé de larmes, tu leur as fait boire des larmes à pleine mesure."
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "Tu fais de nous un brandon de discorde pour nos voisins!\r\nNos ennemis ont de quoi se moquer de nous.",
+        "DBY": "O Dieu des armées! ramène-nous; et fais luire ta face, et nous serons sauvés.",
+        "KJV": "Turn us again, O God of hosts, and cause thy face to shine; and we shall be saved.",
+        "LSG": "Dieu des armées, relève-nous! Fais briller ta face, et nous serons sauvés!",
+        "MAB": "Ô Dieu des armées ramène-nous, et fais reluire ta face; et nous serons délivrés.",
+        "OST": "Tu fais de nous un sujet de contestations pour nos voisins, et nos ennemis se raillent de nous entre eux.",
+        "S21": "Tu fais de nous une source de conflits pour nos voisins et nos ennemis se moquent de nous."
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "Dieu des armées célestes, rétablis-nous,\r\nmontre-toi favorable, et nous serons sauvés!",
+        "DBY": "as transporté d'Égypte un cep; tu as chassé les nations, et tu l'as planté;",
+        "KJV": "Thou hast brought a vine out of Egypt: thou hast cast out the heathen, and planted it.",
+        "LSG": "Tu avais arraché de l'Egypte une vigne; Tu as chassé des nations, et tu l'as plantée.",
+        "MAB": "Tu avais transporté une vigne hors d'Egypte; tu avais chassé les nations, et tu l'avais plantée.",
+        "OST": "Dieu des armées! rétablis-nous; fais luire ta face, et nous serons sauvés!",
+        "S21": "Dieu de l’univers, relève-nous! Fais briller ton visage, et nous serons sauvés!"
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "Tu avais arraché de l’Egypte une vigne,\r\npuis tu as chassé des nations, et tu l’as replantée.",
+        "DBY": "Tu as préparé une place devant lui, il a poussé des racines, et a rempli le pays.",
+        "KJV": "Thou preparedst [room] before it, and didst cause it to take deep root, and it filled the land.",
+        "LSG": "Tu as fait place devant elle: Elle a jeté des racines et rempli la terre;",
+        "MAB": "Tu avais préparé une place devant elle, tu lui avais fait prendre racine, et elle avait rempli la terre.",
+        "OST": "Tu enlevas de l'Égypte une vigne; tu chassas des nations et tu la plantas.",
+        "S21": "Tu avais arraché de l’Egypte une vigne: tu as chassé des nations et tu l’as plantée."
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "Tu avais déblayé le terrain devant elle\r\net elle a pris racine profondément en terre, puis elle a rempli le pays.",
+        "DBY": "Les montagnes étaient couvertes de son ombre, et ses sarments étaient comme des cèdres de Dieu;",
+        "KJV": "The hills were covered with the shadow of it, and the boughs thereof [were like] the goodly cedars.",
+        "LSG": "Les montagnes étaient couvertes de son ombre, Et ses rameaux étaient comme des cèdres de Dieu;",
+        "MAB": "Les montagnes étaient couvertes de son ombre, et ses rameaux étaient [comme] de hauts cèdres.",
+        "OST": "Tu préparas le sol devant elle; elle poussa ses racines et remplit la terre.",
+        "S21": "Tu as déblayé le sol devant elle: elle a pris racine et rempli la terre."
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "Son ombre couvrait les montagnes,\r\nses sarments ressemblaient aux plus grands cèdres.",
+        "DBY": "Il étendait ses pampres jusqu'à la mer, et ses pousses jusqu'au fleuve.",
+        "KJV": "She sent out her boughs unto the sea, and her branches unto the river.",
+        "LSG": "Elle étendait ses branches jusqu'à la mer, Et ses rejetons jusqu'au fleuve.",
+        "MAB": "Elle avait étendu ses branches jusqu'à la mer, et ses rejetons jusqu'au fleuve.",
+        "OST": "Les montagnes se couvraient de son ombre, et les cèdres de Dieu de ses sarments.",
+        "S21": "Les montagnes étaient couvertes de son ombre, et ses rameaux étaient comme des cèdres de Dieu."
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "Elle étendait ses vrilles vers la mer\r\net ses rejets allaient jusqu’à l’Euphrate.",
+        "DBY": "Pourquoi as-tu rompu ses clôtures, de sorte que tous ceux qui passent le pillent?",
+        "KJV": "Why hast thou [then] broken down her hedges, so that all they which pass by the way do pluck her?",
+        "LSG": "Pourquoi as-tu rompu ses clôtures, En sorte que tous les passants la dépouillent?",
+        "MAB": "Pourquoi as-tu rompu ses cloisons, de sorte que tous les passants en ont cueilli les raisins?",
+        "OST": "Elle étendait ses pampres jusqu'à la mer, et ses rejetons jusqu'au fleuve.",
+        "S21": "Elle étendait ses branches jusqu’à la mer, et ses rejets jusqu’au fleuve."
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "Pourquoi as-tu renversé ses clôtures?\r\nTous les passants viennent y grappiller.",
+        "DBY": "Le sanglier de la forêt le déchire, et les bêtes des champs le broutent.",
+        "KJV": "The boar out of the wood doth waste it, and the wild beast of the field doth devour it.",
+        "LSG": "Le sanglier de la forêt la ronge, Et les bêtes des champs en font leur pâture.",
+        "MAB": "Les sangliers de la forêt l'ont détruite, et toutes sortes de bêtes sauvages l'ont broutée.",
+        "OST": "Pourquoi as-tu rompu ses clôtures, en sorte que tous les passants la pillent?",
+        "S21": "Pourquoi as-tu renversé ses clôtures? Voilà que tous les passants la dépouillent."
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "Le sanglier qui sort de la forêt la retourne en tous sens.\r\nLes animaux des champs viennent y pâturer.",
+        "DBY": "O Dieu des armées! retourne, je te prie; regarde des cieux, et vois, et visite ce cep,",
+        "KJV": "Return, we beseech thee, O God of hosts: look down from heaven, and behold, and visit this vine;",
+        "LSG": "Dieu des armées, reviens donc! Regarde du haut des cieux, et vois! considère cette vigne!",
+        "MAB": "Ô Dieu des armées retourne, je te prie; regarde des cieux, vois, et visite cette vigne;",
+        "OST": "Que le sanglier des forêts la dévaste, et que les bêtes des champs la broutent?",
+        "S21": "Le sanglier de la forêt y sème la dévastation, et les bêtes des champs s’en nourrissent."
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "Dieu des armées célestes, reviens enfin!\r\nJette un regard du haut du ciel et vois!\r\nOccupe-toi de cette vigne!",
+        "DBY": "Et la plante que ta droite a plantée, et le provin que tu avais fortifié pour toi.",
+        "KJV": "And the vineyard which thy right hand hath planted, and the branch [that] thou madest strong for thyself.",
+        "LSG": "Protège ce que ta droite a planté, Et le fils que tu t'es choisi!...",
+        "MAB": "Et le plant que ta droite avait planté, et les provins que tu avais fait devenir forts pour toi.",
+        "OST": "Dieu des armées, reviens! Regarde des cieux, et vois, et visite cette vigne.",
+        "S21": "Dieu de l’univers, reviens donc, regarde du haut du ciel et constate la situation, interviens pour cette vigne!"
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "Viens protéger ce que tu as planté toi-même,\r\nce rejeton que tu as fait grandir pour toi!",
+        "DBY": "Elle est brûlée par le feu, elle est coupée; ils périssent, parce que tu les tances.",
+        "KJV": "[It is] burned with fire, [it is] cut down: they perish at the rebuke of thy countenance.",
+        "LSG": "Elle est brûlée par le feu, elle est coupée! Ils périssent devant ta face menaçante.",
+        "MAB": "Elle est brûlée par feu, elle est retranchée; ils périssent dès que tu te montres pour les tancer.",
+        "OST": "Protège ce que ta droite a planté, et le fils que tu t'es choisi.",
+        "S21": "Protège ce que ta main droite a planté, le fils que tu t’es choisi!"
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "Tout est brûlé et saccagé!\r\nSous ta colère, tout va périr.",
+        "DBY": "Que ta main soit sur l'homme de ta droite, sur les fils de l'homme que tu as fortifié pour toi:",
+        "KJV": "Let thy hand be upon the man of thy right hand, upon the son of man [whom] thou madest strong for thyself.",
+        "LSG": "Que ta main soit sur l'homme de ta droite, Sur le fils de l'homme que tu t'es choisi!",
+        "MAB": "Que ta main soit sur l'homme de ta droite, sur le fils de l'homme que tu t'es fortifié.",
+        "OST": "Elle est brûlée, elle est coupée. Ils périssent devant le courroux de ta face.",
+        "S21": "Ta vigne est brûlée par le feu, elle est saccagée; ton visage menaçant provoque leur perte."
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "Sois avec l’homme qui se tient à ta droite,\r\navec cet homme que tu as fait grandir pour toi!",
+        "DBY": "Et nous ne nous retirerons pas de toi. Fais-nous revivre, et nous invoquerons ton nom.",
+        "KJV": "So will not we go back from thee: quicken us, and we will call upon thy name.",
+        "LSG": "Et nous ne nous éloignerons plus de toi. Fais-nous revivre, et nous invoquerons ton nom.",
+        "MAB": "Et nous ne nous retirerons point arrière de toi. Rends-nous la vie, et nous invoquerons ton Nom.",
+        "OST": "Que ta main soit sur l'homme de ta droite, sur le fils de l'homme que tu t'es choisi;",
+        "S21": "Que ta main soit sur l’homme qui est à ta droite, sur le fils de l’homme que tu as toi-même fortifié!"
+      }
+    },
+    {
+      "verse": 19,
+      "texts": {
+        "BDS": "Et, jamais plus, nous ne te quitterons.\r\nFais-nous revivre et nous t’invoquerons!",
+        "DBY": "Éternel, Dieu des armées! ramène-nous; fais luire ta face, et nous serons sauvés.",
+        "KJV": "Turn us again, O LORD God of hosts, cause thy face to shine; and we shall be saved.",
+        "LSG": "Eternel, Dieu des armées, relève-nous! Fais briller ta face, et nous serons sauvés!",
+        "MAB": "Ô Eternel! Dieu des armées, ramène-nous, [et] fais reluire ta face; et nous serons délivrés.",
+        "OST": "Et nous ne nous détournerons plus de toi; rends-nous la vie, et nous invoquerons ton nom.",
+        "S21": "Alors nous ne nous éloignerons plus de toi. Fais-nous revivre et nous ferons appel à ton nom!"
+      }
+    },
+    {
+      "verse": 20,
+      "texts": {
+        "BDS": "O Eternel, Dieu des armées célestes, rétablis-nous,\r\nmontre-toi favorable, et nous serons sauvés!",
+        "OST": "Éternel, Dieu des armées, rétablis-nous; fais luire ta face, et nous serons sauvés!",
+        "S21": "Eternel, Dieu de l’univers, relève-nous! Fais briller ton visage, et nous serons sauvés!"
+      }
+    }
+  ]
+}

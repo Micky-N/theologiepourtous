@@ -1,4 +1,5 @@
 import { prisma } from '~~/lib/prisma';
+import { buildBookPayload, buildVersePreview, resolveSyntheticVerseReference } from '~~/server/utils/bibleData';
 
 export default defineEventHandler(async (event) => {
     try {
@@ -24,16 +25,9 @@ export default defineEventHandler(async (event) => {
             });
         }
 
-        // Vérifier que le verset existe
-        const verse = await prisma.bibleVerse.findUnique({
-            where: { id: verseId },
-            include: {
-                book: true,
-                version: true
-            }
-        });
+        const syntheticReference = await resolveSyntheticVerseReference(verseId);
 
-        if (!verse) {
+        if (!syntheticReference) {
             throw createError({
                 statusCode: 404,
                 statusMessage: 'Verset non trouvé'
@@ -41,12 +35,13 @@ export default defineEventHandler(async (event) => {
         }
 
         // Vérifier si un bookmark existe déjà pour ce verset
-        const existingBookmark = await prisma.bibleBookmark.findUnique({
+        const existingBookmark = await prisma.bibleBookmark.findFirst({
             where: {
-                userId_verseId: {
-                    userId,
-                    verseId
-                }
+                userId,
+                bookOrderIndex: syntheticReference.book.orderIndex,
+                versionOrderIndex: syntheticReference.version.orderIndex,
+                chapter: syntheticReference.chapter,
+                verse: syntheticReference.verse
             }
         });
 
@@ -61,47 +56,30 @@ export default defineEventHandler(async (event) => {
         const bookmark = await prisma.bibleBookmark.create({
             data: {
                 userId,
-                bookId: verse.bookId,
-                verseId,
+                bookOrderIndex: syntheticReference.book.orderIndex,
+                versionOrderIndex: syntheticReference.version.orderIndex,
+                chapter: syntheticReference.chapter,
+                verse: syntheticReference.verse,
                 title: title || null,
                 color: color || 'blue'
-            },
-            include: {
-                book: {
-                    select: {
-                        code: true,
-                        name: true,
-                        testament: true
-                    }
-                },
-                verse: {
-                    select: {
-                        chapter: true,
-                        verse: true,
-                        text: true,
-                        version: {
-                            select: {
-                                code: true,
-                                name: true
-                            }
-                        }
-                    }
-                }
             }
+        });
+
+        const verse = await buildVersePreview({
+            bookCode: syntheticReference.book.code,
+            chapter: bookmark.chapter,
+            verse: bookmark.verse,
+            versionCode: syntheticReference.version.code,
+            versionName: syntheticReference.version.name
         });
 
         const formattedBookmark = {
             id: bookmark.id,
             title: bookmark.title,
             color: bookmark.color,
-            reference: `${bookmark.book.name} ${bookmark.verse.chapter}:${bookmark.verse.verse}`,
-            book: bookmark.book,
-            verse: {
-                chapter: bookmark.verse.chapter,
-                verse: bookmark.verse.verse,
-                text: bookmark.verse.text,
-                version: bookmark.verse.version
-            },
+            reference: `${syntheticReference.book.name} ${bookmark.chapter}:${bookmark.verse}`,
+            book: buildBookPayload(syntheticReference.book),
+            verse,
             createdAt: bookmark.createdAt,
             updatedAt: bookmark.updatedAt
         };

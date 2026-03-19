@@ -1,0 +1,450 @@
+{
+  "bookCode": "MRK",
+  "chapter": 7,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "Des pharisiens et des spécialistes de la Loi venus de Jérusalem se rassemblèrent autour de Jésus.",
+        "DBY": "Et les pharisiens et quelques-uns des scribes, qui étaient venus de Jérusalem, s'assemblent auprès de lui.",
+        "KJV": "Then came together unto him the Pharisees, and certain of the scribes, which came from Jerusalem.",
+        "LSG": "Les pharisiens et quelques scribes, venus de Jérusalem, s'assemblèrent auprès de Jésus.",
+        "MAB": "Alors les Pharisiens, et quelques Scribes qui étaient venus de Jérusalem, s'assemblèrent auprès de lui.",
+        "OST": "Alors des pharisiens et quelques scribes, venus de Jérusalem, s'assemblèrent vers Jésus;",
+        "S21": "Les pharisiens et quelques spécialistes de la loi, venus de Jérusalem, se rassemblèrent auprès de Jésus."
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "Ils remarquèrent que certains de ses disciples prenaient leur repas avec des mains «impures», c’est-à-dire qu’ils ne s’étaient pas lavé les mains.",
+        "DBY": "Et voyant quelques-uns de ses disciples mangeant du pain avec des mains souillées, c'est-à-dire non lavées…;",
+        "KJV": "And when they saw some of his disciples eat bread with defiled, that is to say, with unwashen, hands, they found fault.",
+        "LSG": "Ils virent quelques-uns de ses disciples prendre leurs repas avec des mains impures, c'est-à-dire, non lavées.",
+        "MAB": "Et ayant vu que quelques-uns de ses Disciples prenaient leur repas avec des mains souillées, c'est-à-dire, sans être lavées, ils les en blâmèrent.",
+        "OST": "Et voyant que quelques-uns de ses disciples prenaient leur repas avec des mains souillées, c'est-à-dire qui n'avaient pas été lavées, ils les en blâmaient.",
+        "S21": "Ils virent quelques-uns de ses disciples prendre leur repas avec des mains impures, c'est-à-dire non lavées."
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "(En effet, les pharisiens, et les Juifs en général, ne se mettent jamais à table sans les avoir soigneusement lavées; ils observent ainsi la tradition de leurs ancêtres.",
+        "DBY": "car les pharisiens et tous les Juifs ne mangent pas qu'ils ne lavent soigneusement leurs mains, retenant la tradition des anciens;",
+        "KJV": "For the Pharisees, and all the Jews, except they wash [their] hands oft, eat not, holding the tradition of the elders.",
+        "LSG": "Or, les pharisiens et tous les Juifs ne mangent pas sans s'être lavé soigneusement les mains, conformément à la tradition des anciens;",
+        "MAB": "(Car les Pharisiens et tous les Juifs ne mangent point qu'ils ne lavent souvent leurs mains, retenant les traditions des anciens.",
+        "OST": "Car les pharisiens et tous les Juifs ne mangent point sans se laver les mains jusqu'au coude, gardant en cela la tradition des anciens;",
+        "S21": "– Or, les pharisiens et tous les Juifs ne mangent pas sans s'être lavé soigneusement les mains, conformément à la tradition des anciens."
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "De même, en revenant du marché, ils ne mangent pas sans avoir fait leurs ablutions. Ils ont reçu beaucoup d’autres traditions qu’ils observent, comme celles de laver rituellement les coupes, les pots et les vases de bronze.)",
+        "DBY": "et étant de retour du marché, ils ne mangent pas qu'ils ne soient lavés. Et il y a beaucoup d'autres choses qu'ils ont reçues traditionnellement pour les observer, comme de laver les coupes, les pots, les vases d'airain, et les lits.",
+        "KJV": "And [when they come] from the market, except they wash, they eat not. And many other things there be, which they have received to hold, [as] the washing of cups, and pots, brasen vessels, and of tables.",
+        "LSG": "et, quand ils reviennent de la place publique, ils ne mangent qu'après s'être purifiés. Ils ont encore beaucoup d'autres observances traditionnelles, comme le lavage des coupes, des cruches et des vases d'airain.",
+        "MAB": "Et étant de retour du marché, ils ne mangent point qu'ils ne se soient lavés. Il y a plusieurs autres observances dont ils se sont chargés, comme de laver les coupes, les pots, les vaisseaux d'airain, et les lits.)",
+        "OST": "Et lorsqu'ils reviennent des places publiques, ils ne mangent point non plus sans s'être lavés. Il y a aussi beaucoup d'autres choses qu'ils ont reçues pour les observer, comme de laver les coupes, les pots, les vaisseaux d'airain et les lits.",
+        "S21": "Et quand ils reviennent de la place publique, ils ne mangent pas avant de s'être purifiés. Ils tiennent encore à beaucoup d'autres traditions comme le lavage des coupes, des cruches et des vases de bronze. –"
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "Les pharisiens et les spécialistes de la Loi demandèrent donc à Jésus:\r\n—Pourquoi tes disciples ne se conforment-ils pas à la tradition de nos ancêtres? Pourquoi prennent-ils leur repas avec des mains impures?",
+        "DBY": "-Sur cela, les pharisiens et les scribes l'interrogent, disant: Pourquoi tes disciples ne marchent-ils pas selon la tradition des anciens, mais mangent-ils du pain avec des mains souillées?",
+        "KJV": "Then the Pharisees and scribes asked him, Why walk not thy disciples according to the tradition of the elders, but eat bread with unwashen hands?",
+        "LSG": "Et les pharisiens et les scribes lui demandèrent: Pourquoi tes disciples ne suivent-ils pas la tradition des anciens, mais prennent-ils leurs repas avec des mains impures?",
+        "MAB": "Sur cela les Pharisiens et les Scribes l'interrogèrent, en disant : pourquoi tes Disciples ne se conduisent-ils pas selon la tradition des Anciens, mais prennent leur repas sans se laver les mains?",
+        "OST": "Là-dessus les pharisiens et les scribes lui demandèrent: D'où vient que tes disciples ne suivent pas la tradition des anciens, et qu'ils prennent leur repas sans se laver les mains?",
+        "S21": "Alors les pharisiens et les spécialistes de la loi lui demandèrent: «Pourquoi tes disciples ne suivent-ils pas la tradition des anciens mais prennent-ils au contraire leur repas avec des mains non lavées?»"
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "—Hypocrites, leur répondit-il, Esaïe vous a fort bien dépeints dans sa prophétie où il est écrit:\r\nCe peuple m’honore du bout des lèvres,\r\nmais, au fond de son cœur, il est bien loin de moi!",
+        "DBY": "Mais lui, répondant, leur dit: Ésaïe a bien prophétisé de vous, hypocrites; comme il est écrit: \"Ce peuple-ci m'honore des lèvres, mais leur cœur est fort éloigné de moi;",
+        "KJV": "He answered and said unto them, ‹Well hath Esaias prophesied of you hypocrites, as it is written, This people honoureth me with› [their] ‹lips, but their heart is far from me.›",
+        "LSG": "Jésus leur répondit: Hypocrites, Esaïe a bien prophétisé sur vous, ainsi qu'il est écrit: Ce peuple m'honore des lèvres, Mais son coeur est éloigné de moi.",
+        "MAB": "Et il leur répondit, et leur dit : certainement Esaïe a bien prophétisé de vous, hypocrites, comme il est écrit : ce peuple m'honore des lèvres, mais leur cœur est bien éloigné de moi.",
+        "OST": "Il leur répondit: Hypocrites, Ésaïe a bien prophétisé à votre sujet, quand il a dit: Ce peuple m'honore des lèvres; mais leur cœur est bien éloigné de moi.",
+        "S21": "Jésus leur répondit: «Hypocrites, Esaïe a bien prophétisé sur vous, comme il est écrit: Ce peuple m'honore des lèvres, mais son cœur est éloigné de moi."
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "Le culte qu’il me rend n’a aucune valeur,\r\ncar les enseignements qu’il donne\r\nne sont que des règles inventées par les hommes.",
+        "DBY": "mais ils m'honorent en vain, enseignant comme doctrines, des commandements d'hommes\".",
+        "KJV": "‹Howbeit in vain do they worship me, teaching› [for] ‹doctrines the commandments of men.›",
+        "LSG": "C'est en vain qu'ils m'honorent, En donnant des préceptes qui sont des commandements d'hommes.",
+        "MAB": "Mais ils m'honorent en vain, enseignant des doctrines [qui ne sont que] des commandements d'hommes.",
+        "OST": "Mais c'est en vain qu'ils m'honorent, enseignant des doctrines qui sont des commandements d'hommes.",
+        "S21": "C'est faussement qu'ils m'honorent en donnant des enseignements qui sont des commandements humains."
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "Vous mettez de côté le commandement de Dieu, pour observer la tradition des hommes!",
+        "DBY": "Car, laissant le commandement de Dieu, vous observez la tradition des hommes, de laver les pots et les coupes; et vous faites beaucoup d'autres choses semblables.",
+        "KJV": "‹For laying aside the commandment of God, ye hold the tradition of men,› [as] ‹the washing of pots and cups: and many other such like things ye do.›",
+        "LSG": "Vous abandonnez le commandement de Dieu, et vous observez la tradition des hommes.",
+        "MAB": "Car en laissant le commandement de Dieu, vous retenez la tradition des hommes, [savoir] de laver les pots et les coupes, et vous faites beaucoup d'autres choses semblables.",
+        "OST": "Car, en abandonnant le commandement de Dieu, vous observez la tradition des hommes, lavant les pots et les coupes, et faisant beaucoup d'autres choses semblables.",
+        "S21": "Vous abandonnez le commandement de Dieu et vous gardez la tradition des hommes [car vous lavez les pots et les coupes et vous faites beaucoup d'autres choses semblables].»"
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "Puis il ajouta:\r\n—Ah! vous réussissez parfaitement à mettre de côté le commandement de Dieu pour établir votre propre tradition!",
+        "DBY": "Et il leur dit: Vous annulez bien le commandement de Dieu, afin de garder votre tradition.",
+        "KJV": "And he said unto them, ‹Full well ye reject the commandment of God, that ye may keep your own tradition.›",
+        "LSG": "Il leur dit encore: Vous anéantissez fort bien le commandement de Dieu, pour garder votre tradition.",
+        "MAB": "Il leur dit aussi : vous annulez bien le commandement de Dieu, afin de garder votre tradition.",
+        "OST": "Il leur dit aussi: Vous annulez fort bien le commandement de Dieu, pour garder votre tradition;",
+        "S21": "Il leur dit encore: «Vous rejetez très bien le commandement de Dieu pour garder votre tradition."
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "En effet, Moïse a dit: Honore ton père et ta mère et Que celui qui maudit son père ou sa mère soit puni de mort.",
+        "DBY": "Car Moïse a dit: \"Honore ton père et ta mère\"; et: \"que celui qui médira de père ou de mère, meure de mort\";",
+        "KJV": "‹For Moses said, Honour thy father and thy mother; and, Whoso curseth father or mother, let him die the death:›",
+        "LSG": "Car Moïse a dit: Honore ton père et ta mère; et: Celui qui maudira son père ou sa mère sera puni de mort.",
+        "MAB": "Car Moïse a dit : honore ton père et ta mère; et, que celui qui maudira son père ou sa mère, meure de mort.",
+        "OST": "Car Moïse a dit: Honore ton père et ta mère; et que celui qui maudira son père ou sa mère soit puni de mort;",
+        "S21": "En effet, Moïse a dit: Honore ton père et ta mère et: Celui qui maudira son père ou sa mère sera puni de mort."
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "Mais vous, que dites-vous? Si un homme dit à son père ou à sa mère: «La part de mes biens avec laquelle j’aurais pu t’assister est corban (c’est-à-dire offrande à Dieu)»,",
+        "DBY": "mais vous, vous dites: Si un homme dit à son père ou à sa mère: Tout ce dont tu pourrais tirer profit de ma part est corban, c'est-à-dire don…",
+        "KJV": "‹But ye say, If a man shall say to his father or mother,› [It is] ‹Corban, that is to say, a gift, by whatsoever thou mightest be profited by me;› [he shall be free].",
+        "LSG": "Mais vous, vous dites: Si un homme dit à son père ou à sa mère: Ce dont j'aurais pu t'assister est corban, c'est-à-dire, une offrande à Dieu,",
+        "MAB": "Mais vous dites : si quelqu'un dit à son père ou à sa mère, le corban (c'est-à-dire le don) qui [sera fait] de par moi, viendra à ton profit, [il ne sera point coupable].",
+        "OST": "Mais vous, vous ajoutez: A moins qu'il n'ait dit à son père ou à sa mère: Tout ce dont je pourrais t'assister est corban, c'est-à-dire, un don consacré à Dieu.",
+        "S21": "Mais d’après vous, si un homme dit à son père ou à sa mère: ‘Ce dont j'aurais pu t'assister est corban, c'est-à-dire une offrande à Dieu’,"
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "alors vous ne le laissez plus rien faire pour son père ou sa mère.",
+        "DBY": "Et vous ne lui permettez plus de rien faire pour son père ou pour sa mère,",
+        "KJV": "‹And ye suffer him no more to do ought for his father or his mother;›",
+        "LSG": "vous ne le laissez plus rien faire pour son père ou pour sa mère,",
+        "MAB": "Et vous ne lui permettez plus de rien faire pour son père ou pour sa mère.",
+        "OST": "Et vous ne lui permettez plus de rien faire pour son père ou pour sa mère;",
+        "S21": "alors il peut ne plus rien faire pour son père ou pour sa mère."
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "Voilà comment vous annulez la Parole de Dieu par votre tradition, celle que vous vous transmettez. Et vous faites bien d’autres choses du même genre.",
+        "DBY": "annulant la parole de Dieu par votre tradition que vous vous êtes transmise les uns aux autres; et vous faites beaucoup de choses semblables.",
+        "KJV": "‹Making the word of God of none effect through your tradition, which ye have delivered: and many such like things do ye.›",
+        "LSG": "annulant ainsi la parole de Dieu par votre tradition, que vous avez établie. Et vous faites beaucoup d'autres choses semblables.",
+        "MAB": "Anéantissant ainsi la parole de Dieu par votre tradition que vous avez établie; et vous faites [encore] plusieurs choses semblables.",
+        "OST": "Anéantissant la parole de Dieu par votre tradition, que vous avez établie; et vous faites beaucoup d'autres choses semblables.",
+        "S21": "Vous annulez ainsi la parole de Dieu par la tradition que vous avez établie et vous faites beaucoup d'autres choses semblables.»"
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "Puis Jésus appela de nouveau la foule et lui dit:\r\n—Ecoutez-moi tous, et comprenez-moi bien.",
+        "DBY": "ayant de nouveau appelé la foule, il leur dit: Ecoutez-moi, vous tous, et comprenez:",
+        "KJV": "And when he had called all the people [unto him], he said unto them, ‹Hearken unto me every one› [of you], ‹and understand:›",
+        "LSG": "Ensuite, ayant de nouveau appelé la foule à lui, il lui dit: Ecoutez-moi tous, et comprenez.",
+        "MAB": "Puis ayant appelé toutes les troupes, il leur dit : écoutez-moi vous tous, et entendez.",
+        "OST": "Alors ayant appelé toute la multitude, il leur dit: Écoutez-moi tous, et comprenez ceci:",
+        "S21": "Ensuite, Jésus appela toute la foule et lui dit: «Ecoutez-moi tous et comprenez."
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "Rien de ce qui vient du dehors et qui pénètre dans l’homme ne peut le rendre impur. C’est, au contraire, ce qui sort de l’homme qui le rend impur! [",
+        "DBY": "Il n'y a rien en dehors de l'homme, qui, entrant au dedans de lui, puisse le souiller; mais les choses qui sortent de lui, ce sont celles qui souille l'homme.",
+        "KJV": "‹There is nothing from without a man, that entering into him can defile him: but the things which come out of him, those are they that defile the man.›",
+        "LSG": "Il n'est hors de l'homme rien qui, entrant en lui, puisse le souiller; mais ce qui sort de l'homme, c'est ce qui le souille.",
+        "MAB": "Il n'y a rien de ce qui est hors de l'homme, qui entrant au dedans de lui, puisse le souiller; mais les choses qui sortent de lui, ce sont celles qui souillent l'homme.",
+        "OST": "Rien de ce qui est hors de l'homme et qui entre en lui, ne le peut souiller; mais ce qui sort de lui, voilà ce qui souille l'homme.",
+        "S21": "Il n'y a rien d'extérieur à l'homme qui puisse le rendre impur en pénétrant en lui, mais c'est ce qui sort de l'homme qui le rend impur."
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "Si quelqu’un a des oreilles pour entendre, qu’il entende!]",
+        "DBY": "Si quelqu'un a des oreilles pour entendre, qu'il entende.",
+        "KJV": "‹If any man have ears to hear, let him hear.›",
+        "LSG": "Si quelqu'un a des oreilles pour entendre, qu'il entende.",
+        "MAB": "Si quelqu'un a des oreilles pour ouïr, qu'il entende.",
+        "OST": "Si quelqu'un a des oreilles pour entendre, qu'il entende.",
+        "S21": "[Si quelqu'un a des oreilles pour entendre, qu'il entende.]»"
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "Lorsque Jésus, laissant la foule, fut rentré à la maison, ses disciples lui demandèrent de leur expliquer le sens de cette image.",
+        "DBY": "Et quand il fut entré dans la maison, s'étant retiré d'avec la foule, ses disciples l'interrogèrent touchant cette parabole.",
+        "KJV": "And when he was entered into the house from the people, his disciples asked him concerning the parable.",
+        "LSG": "Lorsqu'il fut entré dans la maison, loin de la foule, ses disciples l'interrogèrent sur cette parabole.",
+        "MAB": "Puis quand il fut entré dans la maison, [s'étant retiré] d'avec les troupes, ses Disciples l'interrogèrent touchant cette similitude.",
+        "OST": "Quand il fut entré dans la maison, après avoir quitté la multitude, ses disciples l'interrogèrent sur cette parabole.",
+        "S21": "Lorsqu'il fut entré dans la maison, loin de la foule, ses disciples l'interrogèrent sur cette parabole."
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "Il leur répondit:\r\n—Ainsi, vous aussi, vous ne comprenez pas? Ne saisissez-vous pas ce que je veux dire? De tout ce qui vient du dehors et pénètre dans l’homme, rien ne peut le rendre impur.",
+        "DBY": "Et il leur dit: Vous aussi, êtes-vous ainsi sans intelligence? N'entendez-vous pas que tout ce qui est de dehors, entrant dans l'homme, ne peut pas le souiller,",
+        "KJV": "And he saith unto them, ‹Are ye so without understanding also? Do ye not perceive, that whatsoever thing from without entereth into the man,› [it] ‹cannot defile him;›",
+        "LSG": "Il leur dit: Vous aussi, êtes-vous donc sans intelligence? Ne comprenez-vous pas que rien de ce qui du dehors entre dans l'homme ne peut le souiller?",
+        "MAB": "Et il leur dit : Et vous, êtes-vous donc aussi sans intelligence? ne comprenez-vous pas que tout ce qui entre de dehors dans l'homme ne peut point le souiller?",
+        "OST": "Et il leur dit: Etes-vous aussi sans intelligence? Ne comprenez-vous pas que rien de ce qui entre du dehors dans l'homme, ne le peut souiller?",
+        "S21": "Il leur dit: «Vous aussi, vous êtes donc sans intelligence? Ne comprenez-vous pas que rien de ce qui, de l’extérieur, entre dans l'homme ne peut le rendre impur?"
+      }
+    },
+    {
+      "verse": 19,
+      "texts": {
+        "BDS": "Tout cela, en effet, ne va pas dans son cœur mais dans son ventre, et est évacué par les voies naturelles. — Il déclarait par là même que tous les aliments sont purs. —",
+        "DBY": "parce que cela n'entre pas dans son cœur, mais dans son ventre, et s'en va dans le lieu secret, purifiant toutes les viandes?",
+        "KJV": "‹Because it entereth not into his heart, but into the belly, and goeth out into the draught, purging all meats?›",
+        "LSG": "Car cela n'entre pas dans son coeur, mais dans son ventre, puis s'en va dans les lieux secrets, qui purifient tous les aliments.",
+        "MAB": "Parce qu'il n'entre pas dans son cœur, mais dans l'estomac d'où ensuite cela est jeté dans le lieu secret, en purifiant ainsi [le corps] de toutes les viandes.",
+        "OST": "Parce que cela ne lui entre point dans le cœur, mais dans le ventre, et va aux lieux secrets, ce qui purifie tous les aliments.",
+        "S21": "En effet, cela n'entre pas dans son cœur, mais dans son ventre, puis est évacué dans les toilettes.» Il déclarait ainsi que tous les aliments sont purs."
+      }
+    },
+    {
+      "verse": 20,
+      "texts": {
+        "BDS": "Et il ajouta:\r\n—Ce qui sort de l’homme, c’est cela qui le rend impur.",
+        "DBY": "Et il dit: Ce qui sort de l'homme, c'est là ce qui souille l'homme;",
+        "KJV": "And he said, ‹That which cometh out of the man, that defileth the man.›",
+        "LSG": "Il dit encore: Ce qui sort de l'homme, c'est ce qui souille l'homme.",
+        "MAB": "Mais il leur disait : ce qui sort de l'homme, c'est ce qui souille l'homme.",
+        "OST": "Il disait donc: Ce qui sort de l'homme, c'est ce qui souille l'homme.",
+        "S21": "Il dit encore: «C'est ce qui sort de l'homme qui le rend impur."
+      }
+    },
+    {
+      "verse": 21,
+      "texts": {
+        "BDS": "Car c’est du dedans, c’est du cœur de l’homme que proviennent les pensées mauvaises qui mènent à l’immoralité, au vol, au meurtre,",
+        "DBY": "car du dedans, du cœur des hommes, sortent les mauvaises pensées, les adultères, les fornications, les meurtres, les vols, la cupidité,",
+        "KJV": "‹For from within, out of the heart of men, proceed evil thoughts, adulteries, fornications, murders,›",
+        "LSG": "Car c'est du dedans, c'est du coeur des hommes, que sortent les mauvaises pensées, les adultères, les impudicités, les meurtres,",
+        "MAB": "Car du dedans, [c'est-à-dire] du cœur des hommes, sortent les mauvaises pensées, les adultères, les fornications, les meurtres,",
+        "OST": "Car du dedans, c'est-à-dire, du cœur des hommes, sortent les mauvaises pensées, les adultères, les fornications, les meurtres,",
+        "S21": "En effet, c'est de l’intérieur, c'est du cœur des hommes que sortent les mauvaises pensées, les adultères, l'immoralité sexuelle, les meurtres,"
+      }
+    },
+    {
+      "verse": 22,
+      "texts": {
+        "BDS": "à l’adultère, l’envie, la méchanceté, la tromperie, le vice, la jalousie, le blasphème, l’orgueil, et à toutes sortes de comportements insensés.",
+        "DBY": "les méchancetés, la fraude, l'impudicité, l'œil méchant, les injures, l'orgueil, la folie.",
+        "KJV": "‹Thefts, covetousness, wickedness, deceit, lasciviousness, an evil eye, blasphemy, pride, foolishness:›",
+        "LSG": "les vols, les cupidités, les méchancetés, la fraude, le dérèglement, le regard envieux, la calomnie, l'orgueil, la folie.",
+        "MAB": "Les larcins, les mauvaises pratiques pour avoir le bien d'autrui, les méchancetés, la fraude, l'impudicité, le regard malin, les discours outrageux, la fierté, la folie.",
+        "OST": "Les larcins, la cupidité, les méchancetés, la fraude, l'impudicité, l'œil envieux, la médisance, la fierté, la folie.",
+        "S21": "les vols, la soif de posséder, les méchancetés, la fraude, la débauche, le regard envieux, la calomnie, l'orgueil, la folie."
+      }
+    },
+    {
+      "verse": 23,
+      "texts": {
+        "BDS": "Tout ce mal sort du dedans et rend l’homme impur.",
+        "DBY": "Toutes ces mauvaises choses sortent du dedans et souillent l'homme.",
+        "KJV": "‹All these evil things come from within, and defile the man.›",
+        "LSG": "Toutes ces choses mauvaises sortent du dedans, et souillent l'homme.",
+        "MAB": "Tous ces maux sortent du dedans, et souillent l'homme.",
+        "OST": "Tous ces vices sortent du dedans et souillent l'homme.",
+        "S21": "Toutes ces choses mauvaises sortent du dedans et rendent l'homme impur.»"
+      }
+    },
+    {
+      "verse": 24,
+      "texts": {
+        "BDS": "Jésus partit de là et se rendit dans la région de Tyr. Il entra dans une maison; il ne voulait pas qu’on sache qu’il était là, mais il ne put cacher sa présence.",
+        "DBY": "Et se levant, il s'en alla de là vers les frontières de Tyr et de Sidon; et étant entré dans une maison, il ne voulait pas que personne le sût: et il ne put être caché;",
+        "KJV": "And from thence he arose, and went into the borders of Tyre and Sidon, and entered into an house, and would have no man know [it]: but he could not be hid.",
+        "LSG": "Jésus, étant parti de là, s'en alla dans le territoire de Tyr et de Sidon. Il entra dans une maison, désirant que personne ne le sût; mais il ne put rester caché.",
+        "MAB": "Puis partant de là, il s'en alla vers les frontières de Tyr et de Sidon; et étant entré dans une maison, il ne voulait pas que personne le sût; mais il ne put être caché.",
+        "OST": "Puis, étant parti de là, il s'en alla aux frontières de Tyr et de Sidon; et étant entré dans une maison, il ne voulait pas que personne le sût; mais il ne put être caché.",
+        "S21": "Jésus partit de là et s'en alla dans le territoire de Tyr et de Sidon. Il entra dans une maison, désirant que personne ne le sache, mais il ne put rester caché,"
+      }
+    },
+    {
+      "verse": 25,
+      "texts": {
+        "BDS": "En effet, à peine était-il arrivé, qu’une femme, qui avait entendu parler de lui et dont la fillette était sous l’emprise d’un esprit mauvais, vint se jeter à ses pieds.",
+        "DBY": "car une femme dont la fille avait un esprit immonde, ayant ouï parler de lui, vint et se jeta à ses pieds;",
+        "KJV": "For a [certain] woman, whose young daughter had an unclean spirit, heard of him, and came and fell at his feet:",
+        "LSG": "Car une femme, dont la fille était possédée d'un esprit impur, entendit parler de lui, et vint se jeter à ses pieds.",
+        "MAB": "Car une femme qui avait une petite fille possédée d'un esprit immonde, ayant ouï parler de lui, vint et se jeta à ses pieds;",
+        "OST": "Car une femme, dont la fille était possédée d'un esprit immonde, ayant entendu parler de lui, vint et se jeta à ses pieds.",
+        "S21": "car une femme dont la fillette avait un esprit impur entendit parler de lui et vint se jeter à ses pieds."
+      }
+    },
+    {
+      "verse": 26,
+      "texts": {
+        "BDS": "C’était une femme païenne, originaire de Syro-Phénicie. Elle le supplia de chasser le démon qui tourmentait sa fille.",
+        "DBY": "(or la femme était grecque, syrophénicienne de race;) et elle le pria qu'il chassât le démon hors de sa fille.",
+        "KJV": "The woman was a Greek, a Syrophenician by nation; and she besought him that he would cast forth the devil out of her daughter.",
+        "LSG": "Cette femme était grecque, syro-phénicienne d'origine. Elle le pria de chasser le démon hors de sa fille.",
+        "MAB": "(Or cette femme était Grecque, Syro-Phénicienne de nation) et elle le pria qu'il chassât le démon hors de sa fille.",
+        "OST": "Cette femme était Grecque, et Syrophénicienne de nation; et elle le pria de chasser le démon hors de sa fille.",
+        "S21": "Cette femme était une non-Juive d'origine syro-phénicienne. Elle le pria de chasser le démon hors de sa fille. Jésus lui dit:"
+      }
+    },
+    {
+      "verse": 27,
+      "texts": {
+        "BDS": "Jésus lui dit:\r\n—Laisse d’abord se rassasier les enfants de la maison. Car il ne serait pas convenable de prendre le pain des enfants pour le jeter aux petits chiens.",
+        "DBY": "Et Jésus lui dit: Laisse premièrement rassasier les enfants; car il ne convient pas de prendre le pain des enfants et de le jeter aux chiens.",
+        "KJV": "But Jesus said unto her, ‹Let the children first be filled: for it is not meet to take the children's bread, and to cast› [it] ‹unto the dogs.›",
+        "LSG": "Jésus lui dit: Laisse d'abord les enfants se rassasier; car il n'est pas bien de prendre le pain des enfants, et de le jeter aux petits chiens.",
+        "MAB": "Mais Jésus lui dit : laisse premièrement rassasier les enfants; car il n'est pas raisonnable de prendre le pain des enfants, et de le jeter aux petits chiens.",
+        "OST": "Et Jésus lui dit: Laisse premièrement rassasier les enfants; car il n'est pas juste de prendre le pain des enfants, et de le jeter aux petits chiens.",
+        "S21": "«Laisse d'abord les enfants se rassasier, car il n'est pas bien de prendre le pain des enfants et de le jeter aux petits chiens.»"
+      }
+    },
+    {
+      "verse": 28,
+      "texts": {
+        "BDS": "—Sans doute, Seigneur, reprit-elle, mais les petits chiens, qui sont sous la table, mangent les miettes que laissent tomber les enfants.",
+        "DBY": "Et elle répondit et lui dit: Oui, Seigneur; car même les chiens, sous la table, mangent des miettes des enfants.",
+        "KJV": "And she answered and said unto him, Yes, Lord: yet the dogs under the table eat of the children's crumbs.",
+        "LSG": "Oui, Seigneur, lui répondit-elle, mais les petits chiens, sous la table, mangent les miettes des enfants.",
+        "MAB": "Et elle lui répondit, et dit : cela est vrai, Seigneur! cependant les petits chiens mangent sous la table les miettes que les enfants laissent tomber .",
+        "OST": "Mais elle répondit et lui dit: Il est vrai, Seigneur; cependant les petits chiens mangent, sous la table, les miettes des enfants.",
+        "S21": "«Oui, Seigneur, lui répondit-elle, mais les petits chiens, sous la table, mangent les miettes des enfants.»"
+      }
+    },
+    {
+      "verse": 29,
+      "texts": {
+        "BDS": "Et Jésus de répondre:\r\n—A cause de cette parole, va, retourne chez toi, le démon vient de sortir de ta fille.",
+        "DBY": "Et il lui dit: A cause de cette parole, va, le démon est sorti de ta fille.",
+        "KJV": "And he said unto her, ‹For this saying go thy way; the devil is gone out of thy daughter.›",
+        "LSG": "Alors il lui dit: à cause de cette parole, va, le démon est sorti de ta fille.",
+        "MAB": "Alors il lui dit : à cause de cette parole va-t'en : le démon est sorti de ta fille.",
+        "OST": "Alors il lui dit: A cause de cette parole, va; le démon est sorti de ta fille.",
+        "S21": "Alors il lui dit: «A cause de cette parole, tu peux t’en aller: le démon est sorti de ta fille.»"
+      }
+    },
+    {
+      "verse": 30,
+      "texts": {
+        "BDS": "Elle rentra chez elle et trouva son enfant couchée sur le lit: le démon était parti.",
+        "DBY": "Et s'en allant en sa maison, elle trouva le démon sorti, et sa fille couchée sur le lit.",
+        "KJV": "And when she was come to her house, she found the devil gone out, and her daughter laid upon the bed.",
+        "LSG": "Et, quand elle rentra dans sa maison, elle trouva l'enfant couchée sur le lit, le démon étant sorti.",
+        "MAB": "Quand elle s'en fut donc allée en sa maison, elle trouva que le démon était sorti, et que sa fille était couchée sur le lit.",
+        "OST": "Et étant de retour dans sa maison, elle trouva le démon sorti, et sa fille couchée sur le lit.",
+        "S21": "Et quand elle rentra chez elle, elle trouva l'enfant couchée sur le lit: le démon était sorti."
+      }
+    },
+    {
+      "verse": 31,
+      "texts": {
+        "BDS": "Jésus quitta la région de Tyr, passa par Sidon, et regagna le lac de Galilée en traversant le territoire des «Dix Villes».",
+        "DBY": "Et étant de nouveau parti des confins de Tyr et de Sidon, il vint vers la mer de Galilée, à travers le pays de Décapolis.",
+        "KJV": "And again, departing from the coasts of Tyre and Sidon, he came unto the sea of Galilee, through the midst of the coasts of Decapolis.",
+        "LSG": "Jésus quitta le territoire de Tyr, et revint par Sidon vers la mer de Galilée, en traversant le pays de la Décapole.",
+        "MAB": "Puis [Jésus] étant encore parti des frontières de Tyr et de Sidon, il vint à la mer de Galilée par le milieu du pays de Décapolis.",
+        "OST": "Et Jésus étant parti des quartiers de Tyr et de Sidon, vint près de la mer de Galilée, traversant les confins de la Décapole.",
+        "S21": "Jésus quitta le territoire de Tyr et revint par Sidon vers le lac de Galilée en traversant la région de la Décapole."
+      }
+    },
+    {
+      "verse": 32,
+      "texts": {
+        "BDS": "On lui amena un sourd qui avait du mal à parler et on le pria de lui imposer les mains.",
+        "DBY": "Et on lui amène un sourd qui parlait avec peine, et on le prie pour qu'il lui impose la main.",
+        "KJV": "And they bring unto him one that was deaf, and had an impediment in his speech; and they beseech him to put his hand upon him.",
+        "LSG": "On lui amena un sourd, qui avait de la difficulté à parler, et on le pria de lui imposer les mains.",
+        "MAB": "Et on lui amena un sourd qui avait la parole empêchée, et on le pria de poser les mains sur lui.",
+        "OST": "Et on lui amena un sourd, qui avait la parole empêchée; et on le pria de lui imposer les mains.",
+        "S21": "On lui amena un sourd qui avait de la difficulté à parler et on le supplia de poser la main sur lui."
+      }
+    },
+    {
+      "verse": 33,
+      "texts": {
+        "BDS": "Jésus l’emmena seul avec lui, loin de la foule: après avoir posé ses doigts sur les oreilles du malade, il les humecta de salive et lui toucha la langue;",
+        "DBY": "Et l'ayant tiré à l'écart, hors de la foule, il lui mit les doigts dans les oreilles; et ayant craché, il lui toucha la langue;",
+        "KJV": "And he took him aside from the multitude, and put his fingers into his ears, and he spit, and touched his tongue;",
+        "LSG": "Il le prit à part loin de la foule, lui mit les doigts dans les oreilles, et lui toucha la langue avec sa propre salive;",
+        "MAB": "Et [Jésus] l'ayant tiré à part, hors de la foule, lui mit les doigts dans les oreilles; et ayant craché, lui toucha la langue.",
+        "OST": "Et l'ayant tiré de la foule à part, il lui mit les doigts dans les oreilles; et ayant pris de sa salive, il lui toucha la langue.",
+        "S21": "Il le prit à part loin de la foule, lui mit les doigts dans les oreilles et lui toucha la langue avec sa propre salive."
+      }
+    },
+    {
+      "verse": 34,
+      "texts": {
+        "BDS": "alors il leva les yeux au ciel, poussa un soupir et dit:\r\n—Ephphatha (ce qui signifie: ouvre-toi).",
+        "DBY": "et regardant vers le ciel, il soupira, et lui dit: Éphphatha, c'est-à-dire, ouvre-toi.",
+        "KJV": "And looking up to heaven, he sighed, and saith unto him, ‹Ephphatha,› that is, Be opened.",
+        "LSG": "puis, levant les yeux au ciel, il soupira, et dit: Ephphatha, c'est-à-dire, ouvre-toi.",
+        "MAB": "Puis regardant vers le ciel, il soupira, et lui dit : Ephphatha, c'est-à-dire, Ouvre-toi.",
+        "OST": "Puis levant les yeux au ciel, il soupira et lui dit: Ephphatha, c'est-à-dire, Ouvre-toi.",
+        "S21": "Puis il leva les yeux au ciel, soupira et dit: «Ephphatha» – c'est-à-dire «Ouvre-toi»."
+      }
+    },
+    {
+      "verse": 35,
+      "texts": {
+        "BDS": "Aussitôt les oreilles de cet homme s’ouvrirent, sa langue se délia et il se mit à parler correctement.",
+        "DBY": "Et aussitôt ses oreilles s'ouvrirent, et le lien de sa langue se délia, et il parlait distinctement.",
+        "KJV": "And straightway his ears were opened, and the string of his tongue was loosed, and he spake plain.",
+        "LSG": "Aussitôt ses oreilles s'ouvrirent, sa langue se délia, et il parla très bien.",
+        "MAB": "Et aussitôt ses oreilles s'ouvrirent, et le lien de sa langue se délia, et il parla aisément.",
+        "OST": "Aussitôt ses oreilles furent ouvertes, et sa langue fut déliée, et il parlait sans peine.",
+        "S21": "Aussitôt ses oreilles s'ouvrirent, sa langue se délia et il se mit à parler correctement."
+      }
+    },
+    {
+      "verse": 36,
+      "texts": {
+        "BDS": "Jésus recommanda à ceux qui étaient là de n’en rien dire à personne; mais plus il le leur défendait, plus ils en parlaient.",
+        "DBY": "Et Jésus leur enjoignit de ne le dire à personne; mais plus il le leur défendait, d'autant plus ils le publiaient.",
+        "KJV": "And he charged them that they should tell no man: but the more he charged them, so much the more a great deal they published [it];",
+        "LSG": "Jésus leur recommanda de n'en parler à personne; mais plus il le leur recommanda, plus ils le publièrent.",
+        "MAB": "Et [Jésus] leur commanda de ne [le] dire à personne; mais plus il le défendait, plus ils le publiaient.",
+        "OST": "Et Jésus leur défendit de le dire à qui que ce fût; mais plus il le leur défendait, plus ils le publiaient.",
+        "S21": "Jésus leur recommanda de n'en parler à personne, mais plus il le leur recommandait, plus ils le proclamaient."
+      }
+    },
+    {
+      "verse": 37,
+      "texts": {
+        "BDS": "Remplies d’étonnement, les foules s’écriaient:\r\n—Tout ce qu’il fait est magnifique: il fait entendre les sourds et parler les muets!",
+        "DBY": "Et ils étaient extrêmement étonnés, disant: il fait toutes choses bien; il fait entendre les sourds et parler les muets.",
+        "KJV": "And were beyond measure astonished, saying, He hath done all things well: he maketh both the deaf to hear, and the dumb to speak.",
+        "LSG": "Ils étaient dans le plus grand étonnement, et disaient: Il fait tout à merveille; même il fait entendre les sourds, et parler les muets.",
+        "MAB": "Et ils en étaient extrêmement étonnés, disant : il a tout bien fait; il fait ouïr les sourds, et parler les muets.",
+        "OST": "Et frappés d'étonnement ils disaient: Tout ce qu'il fait est admirable; il fait entendre les sourds et parler les muets.",
+        "S21": "Remplis d'étonnement, ils disaient: «Il fait tout à merveille; il fait même entendre les sourds et parler les muets.»"
+      }
+    }
+  ]
+}

@@ -1,0 +1,414 @@
+{
+  "bookCode": "LEV",
+  "chapter": 27,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "L’Eternel s’adressa à Moïse en disant:",
+        "DBY": "Et l'Éternel parla à Moïse, disant:",
+        "KJV": "And the LORD spake unto Moses, saying,",
+        "LSG": "L'Eternel parla à Moïse, et dit:",
+        "MAB": "L'Eternel parla aussi à Moïse, en disant :",
+        "OST": "L'Éternel parla à Moïse, en disant:",
+        "S21": "L'Eternel dit à Moïse:"
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "—Parle aux Israélites, et dis-leur: Si quelqu’un dédie une personne à l’Eternel par un vœu, il s’en acquittera d’après l’estimation suivante.",
+        "DBY": "Parle aux fils d'Israël, et dis-leur: Si quelqu'un a mis à part quoi que ce soit par un vœu, les personnes seront à l'Éternel selon ton estimation.",
+        "KJV": "Speak unto the children of Israel, and say unto them, When a man shall make a singular vow, the persons [shall be] for the LORD by thy estimation.",
+        "LSG": "Parle aux enfants d'Israël, et tu leur diras: Lorsqu'on fera des voeux, s'il s'agit de personnes, elles seront à l'Eternel d'après ton estimation.",
+        "MAB": "Parle aux enfants d'Israël, et leur dis : Quand quelqu'un aura fait un vœu important, les personnes [vouées] à l'Eternel [seront mises] à ton estimation.",
+        "OST": "Parle aux enfants d'Israël, et dis-leur: Lorsque quelqu'un consacre un vœu, s'il s'agit de personnes, elles appartiendront à l'Éternel, d'après ton estimation.",
+        "S21": "«Transmets ces instructions aux Israélites: Lorsqu'on consacrera une personne à l’Eternel par un vœu, on le fera d'après ton estimation."
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "S’il s’agit d’un homme entre vingt et soixante ans, sa valeur s’estime à cinquante pièces d’argent, au cours de la monnaie en vigueur au sanctuaire.",
+        "DBY": "Et ton estimation d'un mâle depuis l'âge de vingt ans jusqu'à l'âge de soixante ans, ton estimation sera de cinquante sicles d'argent, selon le sicle du sanctuaire;",
+        "KJV": "And thy estimation shall be of the male from twenty years old even unto sixty years old, even thy estimation shall be fifty shekels of silver, after the shekel of the sanctuary.",
+        "LSG": "Si tu as à faire l'estimation d'un mâle de vingt à soixante ans, ton estimation sera de cinquante sicles d'argent, selon le sicle du sanctuaire;",
+        "MAB": "Et l'estimation que tu feras d'un mâle, depuis l'âge de vingt ans jusqu'à l'âge de soixante ans, sera du prix de cinquante sicles d'argent, selon le sicle du Sanctuaire.",
+        "OST": "Telle sera ton estimation: si c'est un homme de vingt à soixante ans, ton estimation sera de cinquante sicles d'argent, selon le sicle du sanctuaire.",
+        "S21": "Pour un homme de 20 à 60 ans, ton estimation sera de 50 pièces d'argent, d’après la valeur étalon du sanctuaire;"
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "Si c’est une femme, sa valeur sera de trente pièces.",
+        "DBY": "et si c'est une femme, ton estimation sera de trente sicles.",
+        "KJV": "And if it [be] a female, then thy estimation shall be thirty shekels.",
+        "LSG": "si c'est une femme, ton estimation sera de trente sicles.",
+        "MAB": "Mais si c'est une femme, alors ton estimation sera de trente sicles.",
+        "OST": "Si c'est une femme, ton estimation sera de trente sicles.",
+        "S21": "si c'est une femme, ton estimation sera de 30 pièces."
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "Un garçon entre cinq et vingt ans s’estime à vingt pièces, et une fille à dix pièces d’argent.",
+        "DBY": "Et si c'est un mâle depuis l'âge de cinq ans jusqu'à l'âge de vingt ans, ton estimation sera de vingt sicles, et pour une femme, de dix sicles;",
+        "KJV": "And if [it be] from five years old even unto twenty years old, then thy estimation shall be of the male twenty shekels, and for the female ten shekels.",
+        "LSG": "De cinq à vingt ans, ton estimation sera de vingt sicles pour un mâle, et de dix sicles pour une fille.",
+        "MAB": "Que si c'est d'une personne de l'âge de cinq ans jusqu'à l'âge de vingt ans, alors l'estimation que tu feras d'un mâle sera de vingt sicles; et quant à la femme, [l'estimation sera] de dix sicles.",
+        "OST": "Si c'est quelqu'un de l'âge de cinq ans jusqu'à l'âge de vingt ans, ton estimation sera de vingt sicles pour le mâle, et de dix sicles pour la femme.",
+        "S21": "Pour une personne de 5 à 20 ans, ton estimation sera de 20 pièces pour un garçon, et de 10 pièces pour une fille."
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "Depuis l’âge d’un mois jusqu’à cinq ans, un garçon s’estime à cinq pièces d’argent et une fille à trois.",
+        "DBY": "et si c'est un mâle depuis l'âge d'un mois jusqu'à l'âge de cinq ans, ton estimation sera de cinq sicles d'argent, et ton estimation d'une fille sera de trois sicles d'argent.",
+        "KJV": "And if [it be] from a month old even unto five years old, then thy estimation shall be of the male five shekels of silver, and for the female thy estimation [shall be] three shekels of silver.",
+        "LSG": "D'un mois à cinq ans, ton estimation sera de cinq sicles d'argent pour un mâle, et de trois sicles d'argent pour une fille.",
+        "MAB": "Et si c'est d'une personne de l'âge d'un mois jusqu'à l'âge de cinq ans, l'estimation que tu feras d'un mâle sera de cinq sicles d'argent; et l'estimation que tu feras d'une fille, sera de trois sicles d'argent.",
+        "OST": "Et si c'est quelqu'un de l'âge d'un mois jusqu'à l'âge de cinq ans, ton estimation sera de cinq sicles d'argent pour le mâle, et de trois sicles d'argent pour une fille.",
+        "S21": "D'un mois à 5 ans, ton estimation sera de 5 pièces d'argent pour un garçon, et de 3 pièces d'argent pour une fille."
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "A soixante ans et au-dessus, un homme s’estime à quinze pièces, et une femme à dix pièces.",
+        "DBY": "Et si c'est un mâle de l'âge de soixante ans et au-dessus, ton estimation sera de quinze sicles, et pour une femme, de dix sicles.",
+        "KJV": "And if [it be] from sixty years old and above; if [it be] a male, then thy estimation shall be fifteen shekels, and for the female ten shekels.",
+        "LSG": "De soixante ans et au-dessus, ton estimation sera de quinze sicles pour un mâle, et de dix sicles pour une femme.",
+        "MAB": "Et lorsque c'est d'une personne âgée de soixante ans et au-dessus, si c'est un mâle, ton estimation sera de quinze sicles; et si c'est une femme, [l'estimation sera] de dix sicles.",
+        "OST": "Et si c'est quelqu'un qui soit âgé de soixante ans et au-dessus, si c'est un mâle, ton estimation sera de quinze sicles, et pour la femme de dix sicles.",
+        "S21": "Pour une personne de 60 ans et plus, ton estimation sera de 15 pièces pour un homme, et de 10 pièces pour une femme."
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "Si la personne qui a fait le vœu est trop pauvre pour payer la valeur fixée, on la présentera au prêtre pour qu’il fasse une estimation en fonction de ses ressources.",
+        "DBY": "Et s'il est plus pauvre que ton estimation, on le fera se tenir devant le sacrificateur, et le sacrificateur en fera l'estimation: le sacrificateur en fera l'estimation à raison de ce que peut atteindre la main de celui qui a fait le vœu.",
+        "KJV": "But if he be poorer than thy estimation, then he shall present himself before the priest, and the priest shall value him; according to his ability that vowed shall the priest value him.",
+        "LSG": "Si celui qui a fait le voeu est trop pauvre pour payer ton estimation, on le présentera au sacrificateur, qui le taxera, et le sacrificateur fera une estimation en rapport avec les ressources de cet homme.",
+        "MAB": "Et s'il est plus pauvre que [ne monte] ton estimation, il se présentera devant le Sacrificateur qui en fera l'estimation, et le Sacrificateur en fera l'estimation selon ce que pourra fournir celui qui a fait le vœu.",
+        "OST": "Si celui qui a fait le vœu est trop pauvre pour payer ton estimation, on le présentera devant le sacrificateur, qui fixera son prix; le sacrificateur fixera un prix selon les moyens de celui qui a fait le vœu.",
+        "S21": "Si celui qui a fait le vœu est trop pauvre pour payer ton estimation, on le présentera au prêtre pour qu’il l’estime et le prêtre fera une estimation en rapport avec les moyens de cet homme."
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "Si c’est un animal qu’on peut offrir à l’Eternel, qui lui a été donné, il sera tenu pour sacré.",
+        "DBY": "Et si c'est une des bêtes qu'on présente en offrande à l'Éternel, tout ce qu'on donnera à l'Éternel sera saint.",
+        "KJV": "And if [it be] a beast, whereof men bring an offering unto the LORD, all that [any man] giveth of such unto the LORD shall be holy.",
+        "LSG": "S'il s'agit d'animaux qui peuvent être offerts en sacrifice à l'Eternel, tout animal qu'on donnera à l'Eternel sera chose sainte.",
+        "MAB": "Et si c'est d'une [de ces sortes] de bêtes dont on fait offrande à l'Eternel, tout ce qui aura été donné à l'Eternel de cette sorte [de bêtes], sera saint.",
+        "OST": "S'il s'agit d'animaux dont on fait offrande à l'Éternel, tout ce qu'on en donnera à l'Éternel, sera chose sacrée.",
+        "S21": "»S'il s'agit d'animaux qui peuvent être offerts en sacrifice à l'Eternel, tout animal qu'on donnera à l'Eternel sera saint."
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "On ne le remplacera pas par un autre, on ne substituera pas une bête bonne à une mauvaise, ni inversement, car si l’on remplace une bête par une autre, toutes les deux, celle qui est remplacée et celle qui la remplace, seront tenues pour sacrées.",
+        "DBY": "On ne la changera pas, et on ne la remplacera pas par une autre, une bonne par une mauvaise, ou une mauvaise par une bonne; et si l'on remplace, en quelque manière que ce soit, une bête par une autre, celle-ci et celle qui la remplacera seront saintes.",
+        "KJV": "He shall not alter it, nor change it, a good for a bad, or a bad for a good: and if he shall at all change beast for beast, then it and the exchange thereof shall be holy.",
+        "LSG": "On ne le changera point, et l'on n'en mettra point un mauvais à la place d'un bon ni un bon à la place d'un mauvais; si l'on remplace un animal par un autre, ils seront l'un et l'autre chose sainte.",
+        "MAB": "Il ne la changera point, et n'en mettra point une autre en sa place, une bonne pour une mauvaise, ou une mauvaise pour une bonne : et s'il met en quelque sorte que ce soit une bête pour une autre bête, tant celle-là que l'autre qui aura été mise en sa place, sera sainte.",
+        "OST": "On ne le changera point, et on ne le remplacera point, un bon pour un mauvais, ou un mauvais pour un bon. Si l'on remplace un animal par un autre, celui-ci ainsi que l'animal mis à sa place, seront choses sacrées.",
+        "S21": "On ne l’échangera pas, on n'en mettra pas un mauvais à la place d'un bon ni un bon à la place d'un mauvais; si l'on remplace un animal par un autre, ils seront tous les deux saints."
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "Si l’on a dédié par vœu à l’Eternel un animal rituellement impur qu’on ne peut donc pas offrir en sacrifice, on le présentera au prêtre",
+        "DBY": "Et si c'est quelque bête impure qu'on ne peut présenter en offrande à l'Éternel, on placera la bête devant le sacrificateur,",
+        "KJV": "And if [it be] any unclean beast, of which they do not offer a sacrifice unto the LORD, then he shall present the beast before the priest:",
+        "LSG": "S'il s'agit d'animaux impurs, qui ne peuvent être offerts en sacrifice à l'Eternel, on présentera l'animal au sacrificateur,",
+        "MAB": "Et si c'est d'une bête souillée, dont on ne fait point offrande à l'Eternel, il présentera la bête devant le Sacrificateur,",
+        "OST": "Et s'il s'agit de quelque animal impur, dont on ne fait point offrande à l'Éternel, on présentera l'animal devant le sacrificateur;",
+        "S21": "S'il s'agit d'animaux impurs qui ne peuvent être offerts en sacrifice à l'Eternel, on présentera l'animal au prêtre,"
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "qui en estimera la valeur en fonction de ses qualités et de ses défauts; et l’on s’en tiendra à son estimation.",
+        "DBY": "et le sacrificateur en fera l'estimation, selon qu'elle sera bonne ou mauvaise; il en sera selon ton estimation, sacrificateur!",
+        "KJV": "And the priest shall value it, whether it be good or bad: as thou valuest it, [who art] the priest, so shall it be.",
+        "LSG": "qui en fera l'estimation selon qu'il sera bon ou mauvais, et l'on s'en rapportera à l'estimation du sacrificateur.",
+        "MAB": "Qui en fera l'estimation selon qu'elle sera bonne ou mauvaise; et il en sera fait ainsi, selon que toi, Sacrificateur, en auras fait l'estimation.",
+        "OST": "Et le sacrificateur en fera l'estimation, selon que l'animal sera bon ou mauvais. Il en sera selon ton estimation, sacrificateur.",
+        "S21": "qui en fera l'estimation en fonction de ses qualités et défauts, et l'on se conformera à l'estimation du prêtre."
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "Si l’offrant veut racheter la bête, il majorera cette estimation d’un cinquième.",
+        "DBY": "Et si on veut la racheter, alors on ajoutera un cinquième à ton estimation.",
+        "KJV": "But if he will at all redeem it, then he shall add a fifth [part] thereof unto thy estimation.",
+        "LSG": "Si on veut le racheter, on ajoutera un cinquième à son estimation.",
+        "MAB": "Mais s'il la veut racheter en quelque sorte, il ajoutera un cinquième par dessus ton estimation.",
+        "OST": "Mais si on veut le racheter, on ajoutera un cinquième à ton estimation.",
+        "S21": "Si on veut le racheter, on ajoutera un cinquième à son estimation."
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "Si quelqu’un veut consacrer sa maison à l’Eternel, le prêtre en fera l’estimation en tenant compte de son état, et l’on s’en tiendra à la valeur qu’il aura fixée.",
+        "DBY": "Et quand quelqu'un sanctifiera sa maison pour qu'elle soit sainte, consacrée à l'Éternel, le sacrificateur en fera l'estimation, selon qu'elle sera bonne ou mauvaise; on s'en tiendra à l'estimation que le sacrificateur en fera.",
+        "KJV": "And when a man shall sanctify his house [to be] holy unto the LORD, then the priest shall estimate it, whether it be good or bad: as the priest shall estimate it, so shall it stand.",
+        "LSG": "Si quelqu'un sanctifie sa maison en la consacrant à l'Eternel, le sacrificateur en fera l'estimation selon qu'elle sera bonne ou mauvaise, et l'on s'en tiendra à l'estimation du sacrificateur.",
+        "MAB": "Et quand quelqu'un aura sanctifié sa maison pour être sainte à l'Eternel, le Sacrificateur l'estimera selon qu'elle sera bonne ou mauvaise; [et] on se tiendra à l'estimation que le Sacrificateur en aura faite.",
+        "OST": "Et quand quelqu'un consacrera à l'Éternel sa maison pour être sacrée, le sacrificateur en fera l'estimation selon qu'elle sera bonne ou mauvaise; on s'en tiendra à l'estimation que le sacrificateur en aura faite.",
+        "S21": "»Si quelqu'un consacre sa maison comme une chose sainte pour l'Eternel, le prêtre en fera l'estimation en fonction de son état, bon ou mauvais, et l'on s'en tiendra à l'estimation du prêtre."
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "Si celui qui l’a consacrée veut la racheter, il ajoutera un cinquième au prix estimé, et elle lui appartiendra de nouveau.",
+        "DBY": "Et si celui qui l'a sanctifiée rachète sa maison, il ajoutera le cinquième de l'argent de ton estimation par-dessus, et elle lui appartiendra.",
+        "KJV": "And if he that sanctified it will redeem his house, then he shall add the fifth [part] of the money of thy estimation unto it, and it shall be his.",
+        "LSG": "Si celui qui a sanctifié sa maison veut la racheter, il ajoutera un cinquième au prix de son estimation, et elle sera à lui.",
+        "MAB": "Mais si celui qui l'a sanctifiée veut racheter sa maison, il ajoutera par dessus le cinquième de l'argent de ton estimation, et elle lui demeurera.",
+        "OST": "Mais si celui qui a consacré sa maison veut la racheter, il ajoutera un cinquième au prix de ton estimation, et elle lui appartiendra.",
+        "S21": "Si celui qui a consacré sa maison veut la racheter, il ajoutera un cinquième au prix de son estimation et elle lui appartiendra."
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "Si quelqu’un consacre à l’Eternel un terrain faisant partie de son patrimoine, la valeur sera estimée en fonction de ce qu’on peut y semer à raison de cinquante pièces d’argent pour quatre hectolitres d’orge.",
+        "DBY": "Et si quelqu'un sanctifie à l'Éternel une partie du champ de sa possession, ton estimation sera à raison de ce qu'on peut y semer: le khomer de semence d'orge à cinquante sicles d'argent.",
+        "KJV": "And if a man shall sanctify unto the LORD [some part] of a field of his possession, then thy estimation shall be according to the seed thereof: an homer of barley seed [shall be valued] at fifty shekels of silver.",
+        "LSG": "Si quelqu'un sanctifie à l'Eternel un champ de sa propriété, ton estimation sera en rapport avec la quantité de semence, cinquante sicles d'argent pour un homer de semence d'orge.",
+        "MAB": "Et si l'homme sanctifie à l'Eternel [quelque partie] du champ de sa possession, ton estimation sera selon ce qu'on y sème; le Homer de semence d'orge sera estimé cinquante sicles d'argent.",
+        "OST": "Et si quelqu'un consacre à l'Éternel une partie du champ de sa propriété, ton estimation sera selon ce qu'on y sème; le homer de semence d'orge à cinquante sicles d'argent.",
+        "S21": "»Si quelqu'un consacre à l'Eternel un champ de sa propriété, ton estimation sera en rapport avec la quantité de semence, 50 pièces d'argent pour 220 litres d'orge."
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "S’il consacre son champ dès l’année du jubilé, c’est à ce taux qu’il sera estimé.",
+        "DBY": "S'il sanctifie son champ dès l'année du Jubilé, on s'en tiendra à ton estimation.",
+        "KJV": "If he sanctify his field from the year of jubile, according to thy estimation it shall stand.",
+        "LSG": "Si c'est dès l'année du jubilé qu'il sanctifie son champ, on s'en tiendra à ton estimation;",
+        "MAB": "Que s'il a sanctifié son champ dès l'année du Jubilé, on se tiendra à ton estimation.",
+        "OST": "S'il consacre son champ dès l'année du jubilé, on s'en tiendra à ton estimation.",
+        "S21": "Si c'est dès l'année du jubilé qu'il consacre son champ, on s'en tiendra à ton estimation;"
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "Mais s’il le consacre à l’Eternel après le jubilé, le prêtre en calculera la valeur en fonction du nombre d’années qui restent jusqu’au jubilé suivant, et il réduira le prix en conséquence.",
+        "DBY": "Et si c'est après le Jubilé qu'il sanctifie son champ, le sacrificateur lui comptera l'argent à raison des années qui restent jusqu'à l'année du Jubilé, et il sera fait une réduction sur ton estimation.",
+        "KJV": "But if he sanctify his field after the jubile, then the priest shall reckon unto him the money according to the years that remain, even unto the year of the jubile, and it shall be abated from thy estimation.",
+        "LSG": "si c'est après le jubilé qu'il sanctifie son champ, le sacrificateur en évaluera le prix à raison du nombre d'années qui restent jusqu'au jubilé, et il sera fait une réduction sur ton estimation.",
+        "MAB": "Mais s'il sanctifie son champ après le Jubilé, le Sacrificateur lui mettra en compte l'argent selon le nombre des années qui restent jusqu'à l'année du Jubilé, et cela sera rabattu de ton estimation.",
+        "OST": "Mais s'il consacre son champ après le jubilé, le sacrificateur en estimera le prix à raison des années qui restent jusqu'à l'année du jubilé, et il sera fait une réduction sur ton estimation.",
+        "S21": "si c'est après le jubilé qu'il consacre son champ, le prêtre en évaluera le prix en fonction du nombre d'années qui restent jusqu'au jubilé et on fera une réduction sur ton estimation."
+      }
+    },
+    {
+      "verse": 19,
+      "texts": {
+        "BDS": "Si celui qui a consacré son champ veut le racheter, il ajoutera un cinquième au prix estimé et pourra en reprendre possession.",
+        "DBY": "Et si celui qui a sanctifié le champ veut le racheter, il ajoutera le cinquième de l'argent de ton estimation par-dessus, et il lui restera.",
+        "KJV": "And if he that sanctified the field will in any wise redeem it, then he shall add the fifth [part] of the money of thy estimation unto it, and it shall be assured to him.",
+        "LSG": "Si celui qui a sanctifié son champ veut le racheter, il ajoutera un cinquième au prix de ton estimation, et le champ lui restera.",
+        "MAB": "Et si celui qui a sanctifié le champ, le veut racheter en quelque sorte que ce soit, il ajoutera par dessus le cinquième de l'argent de ton estimation, et il lui demeurera.",
+        "OST": "Et si celui qui a consacré son champ, veut le racheter, il ajoutera un cinquième au prix de ton estimation, et le champ lui restera.",
+        "S21": "Si celui qui a consacré son champ veut le racheter, il ajoutera un cinquième au prix de ton estimation et le champ lui restera."
+      }
+    },
+    {
+      "verse": 20,
+      "texts": {
+        "BDS": "S’il ne rachète pas le champ et qu’on le vende à un tiers, il perd son droit de rachat,",
+        "DBY": "Et s'il ne rachète pas le champ ou qu'il vende le champ à un autre homme, il ne pourra plus être racheté.",
+        "KJV": "And if he will not redeem the field, or if he have sold the field to another man, it shall not be redeemed any more.",
+        "LSG": "S'il ne rachète point le champ, et qu'on le vende à un autre homme, il ne pourra plus être racheté.",
+        "MAB": "Mais s'il ne rachète point le champ, et que le champ se vende à un autre homme, il ne se rachètera plus.",
+        "OST": "Mais s'il ne rachète point le champ, et qu'on vende le champ à un autre homme, il ne pourra plus être racheté.",
+        "S21": "S'il ne rachète pas le champ et qu'on le vende à un autre homme, il ne pourra plus être racheté."
+      }
+    },
+    {
+      "verse": 21,
+      "texts": {
+        "BDS": "de sorte que cette terre, au moment du jubilé, sera consacrée à l’Eternel tout comme un champ voué à l’Eternel; elle deviendra la propriété du prêtre.",
+        "DBY": "Et le champ, en étant libéré au Jubilé, sera saint, consacré à l'Éternel, comme un champ voué; la possession en sera au sacrificateur.",
+        "KJV": "But the field, when it goeth out in the jubile, shall be holy unto the LORD, as a field devoted; the possession thereof shall be the priest's.",
+        "LSG": "Et quand l'acquéreur en sortira au jubilé, ce champ sera consacré à l'Eternel, comme un champ qui a été dévoué; il deviendra la propriété du sacrificateur.",
+        "MAB": "Et ce champ-là ayant passé le Jubilé, sera saint à l'Eternel, comme un champ d'interdit, la possession en sera au Sacrificateur.",
+        "OST": "Et ce champ, quand l'acquéreur en sortira au jubilé, sera consacré à l'Éternel comme un champ d'interdit: la possession en sera au sacrificateur.",
+        "S21": "Et quand l'acheteur en sortira lors du jubilé, ce champ sera consacré à l'Eternel comme un champ qui lui a été définitivement voué: il deviendra la propriété du prêtre."
+      }
+    },
+    {
+      "verse": 22,
+      "texts": {
+        "BDS": "Si quelqu’un consacre à l’Eternel un champ qu’il a acquis pour lui, et qui ne fait donc pas partie de son patrimoine,",
+        "DBY": "Et s'il sanctifie à l'Éternel un champ qu'il ait acheté, qui ne soit pas des champs de sa possession,",
+        "KJV": "And if [a man] sanctify unto the LORD a field which he hath bought, which [is] not of the fields of his possession;",
+        "LSG": "Si quelqu'un sanctifie à l'Eternel un champ qu'il a acquis et qui ne fait point partie de sa propriété,",
+        "MAB": "Et s'il sanctifie à l'Eternel un champ qu'il ait acheté, n'étant point des champs de sa possession;",
+        "OST": "Si quelqu'un consacre à l'Éternel un champ qu'il ait acheté et qui ne soit pas des champs de sa possession,",
+        "S21": "»Si quelqu'un consacre à l'Eternel un champ qu'il a acquis et qui ne fait pas partie de sa propriété,"
+      }
+    },
+    {
+      "verse": 23,
+      "texts": {
+        "BDS": "le prêtre en estimera la valeur en fonction du nombre d’années qui restent jusqu’au jubilé. L’homme paiera ce prix le jour même puisque le champ est consacré à l’Eternel.",
+        "DBY": "le sacrificateur lui comptera le montant de ton estimation jusqu'à l'année du Jubilé, et il donnera, ce jour-là, le montant de ton estimation, comme une chose sainte consacrée à l'Éternel;",
+        "KJV": "Then the priest shall reckon unto him the worth of thy estimation, [even] unto the year of the jubile: and he shall give thine estimation in that day, [as] a holy thing unto the LORD.",
+        "LSG": "le sacrificateur en évaluera le prix d'après ton estimation jusqu'à l'année du jubilé, et cet homme paiera le jour même le prix fixé, comme étant consacré à l'Eternel.",
+        "MAB": "Le Sacrificateur lui comptera la somme de ton estimation jusqu'à l'année du Jubilé, et il donnera en ce jour-là ton estimation, [afin que ce soit] une chose sainte à l'Eternel.",
+        "OST": "Le sacrificateur en évaluera le prix d'après ton estimation jusqu'à l'année du jubilé, et cet homme paiera, le jour même, ton estimation, comme une chose consacrée à l'Éternel.",
+        "S21": "le prêtre en évaluera le prix d'après ton estimation jusqu'à l'année du jubilé et cet homme paiera le jour même le prix fixé comme étant consacré à l'Eternel."
+      }
+    },
+    {
+      "verse": 24,
+      "texts": {
+        "BDS": "L’année du jubilé, le champ reviendra à la personne à qui on l’avait acheté et qui le comptait dans son patrimoine.",
+        "DBY": "dans l'année du Jubilé, le champ retournera à celui de qui il l'avait acheté et à qui appartenait la possession de la terre.",
+        "KJV": "In the year of the jubile the field shall return unto him of whom it was bought, [even] to him to whom the possession of the land [did belong].",
+        "LSG": "L'année du jubilé, le champ retournera à celui de qui il avait été acheté et de la propriété dont il faisait partie.",
+        "MAB": "Mais en l'année du Jubilé le champ retournera à celui duquel il l'avait acheté, [et] auquel était la possession du fond.",
+        "OST": "En l'année du jubilé, le champ retournera à celui duquel il l'avait acheté, à celui à qui appartient la propriété de la terre.",
+        "S21": "L'année du jubilé, le champ retournera à la personne à qui on l’avait acheté et qui en avait la propriété."
+      }
+    },
+    {
+      "verse": 25,
+      "texts": {
+        "BDS": "Toute estimation sera faite au cours du sicle en vigueur au sanctuaire; ce sicle vaut vingt guéras.",
+        "DBY": "Et toute estimation que tu auras faite sera selon le sicle du sanctuaire: le sicle sera de vingt guéras.",
+        "KJV": "And all thy estimations shall be according to the shekel of the sanctuary: twenty gerahs shall be the shekel.",
+        "LSG": "Toutes tes estimations se feront en sicles du sanctuaire: le sicle est de vingt guéras.",
+        "MAB": "Et toute estimation que tu auras faite, sera selon le sicle du Sanctuaire; le sicle est de vingt oboles.",
+        "OST": "Et toutes tes estimations seront, d'après le sicle du sanctuaire; le sicle est de vingt oboles.",
+        "S21": "»Toutes tes estimations se feront en pièces du sanctuaire, en pièces de 10 grammes."
+      }
+    },
+    {
+      "verse": 26,
+      "texts": {
+        "BDS": "Evidemment, personne ne pourra consacrer les premiers-nés de son bétail à l’Eternel car, comme premiers-nés, qu’il s’agisse de gros ou de petit bétail, ils appartiennent à l’Eternel.",
+        "DBY": "Seulement, le premier-né d'entre les bêtes, qui est offert comme prémices à l'Éternel, nul ne pourra le sanctifier: si c'est un bœuf ou un agneau, il est à l'Éternel.",
+        "KJV": "Only the firstling of the beasts, which should be the LORD'S firstling, no man shall sanctify it; whether [it be] ox, or sheep: it [is] the LORD'S.",
+        "LSG": "Nul ne pourra sanctifier le premier-né de son bétail, lequel appartient déjà à l'Eternel en sa qualité de premier-né; soit boeuf, soit agneau, il appartient à l'Eternel.",
+        "MAB": "Toutefois nul ne [pourra] sanctifier le premier-né d'entre les bêtes, car il appartient à l'Eternel par droit de primogéniture, soit de vache, soit de brebis, ou de chèvre, il est à l'Eternel.",
+        "OST": "Toutefois, nul ne consacrera le premier-né de son bétail, lequel appartient déjà à l'Éternel comme primogéniture; soit bœuf, soit agneau, il est à l'Éternel.",
+        "S21": "»Personne ne pourra consacrer le premier-né de son bétail, car il appartient déjà à l'Eternel en tant que premier-né; qu’il s’agisse d’un veau ou d’un agneau, il appartient à l'Eternel."
+      }
+    },
+    {
+      "verse": 27,
+      "texts": {
+        "BDS": "S’il s’agit du premier-né d’un animal rituellement impur, son propriétaire pourra le racheter au prix estimé majoré d’un cinquième; s’il n’est pas racheté, il sera vendu au prix estimé.",
+        "DBY": "Et s'il est des bêtes impures, on le rachètera selon ton estimation, et on ajoutera un cinquième par-dessus; et si on ne le rachète pas, il sera vendu selon ton estimation.",
+        "KJV": "And if [it be] of an unclean beast, then he shall redeem [it] according to thine estimation, and shall add a fifth [part] of it thereto: or if it be not redeemed, then it shall be sold according to thy estimation.",
+        "LSG": "S'il s'agit d'un animal impur, on le rachètera au prix de ton estimation, en y ajoutant un cinquième; s'il n'est pas racheté, il sera vendu d'après ton estimation.",
+        "MAB": "Mais s'il est de bêtes souillées, il le rachètera selon ton estimation, et il ajoutera à ton estimation un cinquième; et s'il n'est point racheté, il sera vendu selon ton estimation.",
+        "OST": "Mais s'il s'agit d'un animal impur, on le rachètera selon ton estimation, en y ajoutant un cinquième; s'il n'est pas racheté, il sera vendu d'après ton estimation.",
+        "S21": "S'il s'agit d'un animal impur, on le rachètera au prix de ton estimation en y ajoutant un cinquième; s'il n'est pas racheté, on le vendra d'après ton estimation."
+      }
+    },
+    {
+      "verse": 28,
+      "texts": {
+        "BDS": "Par contre, rien de ce que quelqu’un a voué à l’Eternel — homme, animal ou champ de son patrimoine — ne pourra se vendre ou se racheter: car tout ce qui a été voué est très saint et appartient à l’Eternel.",
+        "DBY": "Seulement, aucune chose vouée que quelqu'un aura vouée à l'Éternel, de tout ce qu'il a, soit homme, ou bête, ou champ de sa possession, ne se vendra ni ne se rachètera: toute chose vouée sera très-sainte, consacrée à l'Éternel.",
+        "KJV": "Notwithstanding no devoted thing, that a man shall devote unto the LORD of all that he hath, [both] of man and beast, and of the field of his possession, shall be sold or redeemed: every devoted thing [is] most holy unto the LORD.",
+        "LSG": "Tout ce qu'un homme dévouera par interdit à l'Eternel, dans ce qui lui appartient, ne pourra ni se vendre, ni se racheter, que ce soit une personne, un animal, ou un champ de sa propriété; tout ce qui sera dévoué par interdit sera entièrement consacré à l'Eternel.",
+        "MAB": "Or nul interdit que quelqu'un aura dévoué à l'Eternel par interdit, de tout ce qui est sien, soit homme, ou bête, ou champ de sa possession, ne se vendra, ni ne se rachètera; tout interdit sera très-saint à l'Eternel.",
+        "OST": "Mais tout interdit, tout ce que quelqu'un aura dévoué à l'Éternel, de ce qui lui appartient, tout, soit un homme, un animal ou un champ de sa propriété, ne pourra ni se vendre ni se racheter; tout interdit est entièrement consacré à l'Éternel.",
+        "S21": "»Aucun des biens qu'un homme vouera de manière définitive à l'Eternel ne pourra être vendu ni racheté, qu’il s’agisse d’une personne, d’un animal ou d’un champ de sa propriété; tout ce qui lui sera voué de manière définitive sera très saint, propriété de l'Eternel."
+      }
+    },
+    {
+      "verse": 29,
+      "texts": {
+        "BDS": "Si une personne a été vouée à l’Eternel, elle ne pourra pas être rachetée; elle sera mise à mort.",
+        "DBY": "Quiconque d'entre les hommes est voué à Dieu ne pourra être racheté: il sera certainement mis à mort.",
+        "KJV": "None devoted, which shall be devoted of men, shall be redeemed; [but] shall surely be put to death.",
+        "LSG": "Aucune personne dévouée par interdit ne pourra être rachetée, elle sera mise à mort.",
+        "MAB": "Nul interdit dévoué par interdit d'entre les hommes, ne se rachètera, mais on le fera mourir de mort.",
+        "OST": "Aucune personne dévouée par interdit ne pourra être rachetée; elle sera mise à mort.",
+        "S21": "Aucune personne vouée de manière définitive ne pourra être rachetée: on la mettra à mort."
+      }
+    },
+    {
+      "verse": 30,
+      "texts": {
+        "BDS": "Toute dîme prélevée sur les produits de la terre et sur les fruits des arbres appartient à l’Eternel: c’est une chose sacrée qui est à lui.",
+        "DBY": "Et toute dîme de la terre, de la semence de la terre, du fruit des arbres, est à l'Éternel: c'est une chose sainte consacrée à l'Éternel.",
+        "KJV": "And all the tithe of the land, [whether] of the seed of the land, [or] of the fruit of the tree, [is] the LORD'S: [it is] holy unto the LORD.",
+        "LSG": "Toute dîme de la terre, soit des récoltes de la terre, soit du fruit des arbres, appartient à l'Eternel; c'est une chose consacrée à l'Eternel.",
+        "MAB": "Or toute dîme de la terre, tant du grain de la terre que du fruit des arbres, est à l'Eternel; c'est une sainteté à l'Eternel.",
+        "OST": "Toute dîme de la terre, tant des semences de la terre que des fruits des arbres, appartient à l'Éternel; c'est une chose consacrée à l'Éternel.",
+        "S21": "»Toute dîme de la terre, soit des récoltes de la terre, soit du fruit des arbres, appartient à l'Eternel; c'est une chose consacrée à l'Eternel."
+      }
+    },
+    {
+      "verse": 31,
+      "texts": {
+        "BDS": "Si quelqu’un tient à racheter une partie de sa dîme, il en majorera le prix d’un cinquième de sa valeur.",
+        "DBY": "Et si quelqu'un veut racheter quelque chose de sa dîme, il y ajoutera un cinquième par-dessus.",
+        "KJV": "And if a man will at all redeem [ought] of his tithes, he shall add thereto the fifth [part] thereof.",
+        "LSG": "Si quelqu'un veut racheter quelque chose de sa dîme, il y ajoutera un cinquième.",
+        "MAB": "Mais si quelqu'un veut racheter en quelque sorte que ce soit quelque chose de sa dîme, il y ajoutera le cinquième par dessus.",
+        "OST": "Et si quelqu'un veut racheter quelque chose de sa dîme, il y ajoutera le cinquième en sus.",
+        "S21": "Si quelqu'un veut racheter quelque chose de sa dîme, il y ajoutera un cinquième."
+      }
+    },
+    {
+      "verse": 32,
+      "texts": {
+        "BDS": "Toute dîme de gros et de menu bétail, c’est-à-dire chaque dixième bête qui passe sous la houlette, sera consacrée à l’Eternel.",
+        "DBY": "Quant à toute dîme du gros et du menu bétail, de tout ce qui passe sous la verge, la dîme sera sainte, consacrée à l'Éternel.",
+        "KJV": "And concerning the tithe of the herd, or of the flock, [even] of whatsoever passeth under the rod, the tenth shall be holy unto the LORD.",
+        "LSG": "Toute dîme de gros et de menu bétail, de tout ce qui passe sous la houlette, sera une dîme consacrée à l'Eternel.",
+        "MAB": "Mais toute dîme de bœufs, de brebis et de chèvres, [savoir] tout ce qui passe sous la verge, qui est le dixième, sera sanctifié à l'Eternel.",
+        "OST": "Mais pour toute dîme de gros et de menu bétail, pour tout ce qui passe sous la verge, le dixième en sera consacré à l'Éternel.",
+        "S21": "Toute dîme de gros et de petit bétail, une bête sur dix de tout ce qui passe sous un bâton de berger, sera consacrée à l'Eternel."
+      }
+    },
+    {
+      "verse": 33,
+      "texts": {
+        "BDS": "Le propriétaire ne choisira pas entre ceux qui sont bons et ceux qui sont mauvais, et on ne fera pas d’échange; si on procède quand même à un échange, les deux bêtes, celle qui est remplacée et celle qui la remplace, seront tenues pour sacrées et ne pourront pas être rachetées.",
+        "DBY": "On ne distinguera pas entre le bon et le mauvais, et on ne le changera pas; et si on le change, la bête changée et celle qui la remplace seront saintes, elles ne seront pas rachetées.",
+        "KJV": "He shall not search whether it be good or bad, neither shall he change it: and if he change it at all, then both it and the change thereof shall be holy; it shall not be redeemed.",
+        "LSG": "On n'examinera point si l'animal est bon ou mauvais, et l'on ne fera point d'échange; si l'on remplace un animal par un autre, ils seront l'un et l'autre chose sainte, et ne pourront être rachetés.",
+        "MAB": "n ne choisira point le bon ou le mauvais, et on n'en mettra point d'autre en sa place; que si on le fait en quelque sorte que ce soit, la bête changée et l'autre qui aura été mise en sa place, sera sanctifiée, [et] ne sera point rachetée.",
+        "OST": "On ne distinguera pas entre le bon et le mauvais, et on ne le changera pas; si on le change, l'animal remplacé et celui qui le remplace seront l'un et l'autre consacrés: ils ne pourront être rachetés.",
+        "S21": "On n'examinera pas si l'animal est bon ou mauvais et l'on ne fera pas d'échange; si l'on remplace un animal par un autre, ils seront tous les deux saints et ne pourront pas être rachetés.»"
+      }
+    },
+    {
+      "verse": 34,
+      "texts": {
+        "BDS": "Tels sont les commandements que l’Eternel a donnés à Moïse pour les Israélites sur le mont Sinaï.",
+        "DBY": "Ce sont là les commandements que l'Éternel commanda à Moïse pour les fils d'Israël, sur la montagne de Sinaï.",
+        "KJV": "These [are] the commandments, which the LORD commanded Moses for the children of Israel in mount Sinai.",
+        "LSG": "Tels sont les commandements que l'Eternel donna à Moïse pour les enfants d'Israël, sur la montagne de Sinaï.",
+        "MAB": "Ce sont là les commandements que l'Eternel donna à Moïse sur la montagne de Sinaï, pour les enfants d'Israël.",
+        "OST": "Tels sont les commandements que l'Éternel prescrivit à Moïse pour les enfants d'Israël, sur la montagne de Sinaï.",
+        "S21": "Tels sont les commandements que l'Eternel donna à Moïse pour les Israélites sur le mont Sinaï."
+      }
+    }
+  ]
+}

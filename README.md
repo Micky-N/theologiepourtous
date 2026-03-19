@@ -65,7 +65,7 @@ Théologie pour Tous est une application web complète dédiée à l'étude de l
 ## 📋 Prérequis
 
 - **Node.js** 18.x ou supérieur
-- **Base de données** MySQL
+- **Base de données** SQLite ou MySQL
 
 ## 🛠️ Configuration
 
@@ -75,10 +75,14 @@ Théologie pour Tous est une application web complète dédiée à l'étude de l
 cp .env.example .env
 
 # Configurer les variables d'environnement
+# DATABASE_PROVIDER="sqlite"    # ou "mysql"
 # DATABASE_URL="file:./dev.db"  # SQLite pour le développement
 # NUXT_SESSION_PASSWORD="your-secret-key"
 # NUXT_PUBLIC_SITE_URL="http://localhost:3000"
 ```
+
+Prisma ne permet pas d'utiliser `env()` dans `datasource.provider`.
+Le projet choisit donc automatiquement le bon schéma Prisma et le bon dossier de migrations à partir de `DATABASE_PROVIDER` dans [prisma.config.ts](prisma.config.ts).
 
 ### 4. Initialiser la base de données
 ```bash

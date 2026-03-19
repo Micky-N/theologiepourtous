@@ -1,0 +1,677 @@
+{
+  "bookCode": "NUM",
+  "chapter": 33,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "Voici les étapes des Israélites depuis leur départ d’Egypte, rangés en ordre sous la conduite de Moïse et d’Aaron.",
+        "DBY": "Ce sont ici les traites des fils d'Israël, qui sortirent du pays d'Égypte, selon leurs armées, sous la main de Moïse et d'Aaron.",
+        "KJV": "These [are] the journeys of the children of Israel, which went forth out of the land of Egypt with their armies under the hand of Moses and Aaron.",
+        "LSG": "Voici les stations des enfants d'Israël qui sortirent du pays d'Egypte, selon leurs corps d'armée, sous la conduite de Moïse et d'Aaron.",
+        "MAB": "Ce sont ici les traittes des enfants d'Israël, qui sortirent du pays d'Egypte, selon leurs bandes, sous la conduite de Moïse et d'Aaron.",
+        "OST": "Voici les étapes des enfants d'Israël, qui sortirent du pays d'Égypte, selon leurs armées, sous la conduite de Moïse et d'Aaron.",
+        "S21": "Voici les étapes que parcoururent les Israélites lorsqu’ils sortirent d'Egypte par corps d'armée, sous la conduite de Moïse et d'Aaron."
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "Sur ordre de l’Eternel, Moïse consigna par écrit leurs lieux de campement, d’étape en étape. Voici donc quel fut leur itinéraire.",
+        "DBY": "Et Moïse écrivit leurs départs, selon leurs traites, suivant le commandement de l'Éternel; et ce sont ici leurs traites, selon leurs départs.",
+        "KJV": "And Moses wrote their goings out according to their journeys by the commandment of the LORD: and these [are] their journeys according to their goings out.",
+        "LSG": "Moïse écrivit leurs marches de station en station, d'après l'ordre de l'Eternel. Et voici leurs stations, selon leurs marches.",
+        "MAB": "Car Moïse écrivit leurs délogements, par leurs traittes, suivant le commandement de l'Eternel; ce sont donc ici leurs traittes selon leurs délogements.",
+        "OST": "Or Moïse écrivit leurs marches selon leurs étapes, sur le commandement de l'Éternel. Voici donc leurs étapes, selon leurs marches.",
+        "S21": "Moïse mit par écrit leur parcours étape par étape, d'après l'ordre de l'Eternel. Voici les étapes de leur parcours."
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "Le quinzième jour du premier mois, le lendemain de la Pâque, ils partirent de Ramsès. Les Israélites s’en allèrent librement sous les yeux de tous les Egyptiens,",
+        "DBY": "Ils partirent de Ramsès, le premier mois, le quinzième jour du premier mois: le lendemain de la Pâque, les fils d'Israël sortirent à main levée, aux yeux de tous les Égyptiens;",
+        "KJV": "And they departed from Rameses in the first month, on the fifteenth day of the first month; on the morrow after the passover the children of Israel went out with an high hand in the sight of all the Egyptians.",
+        "LSG": "Ils partirent de Ramsès le premier mois, le quinzième jour du premier mois. Le lendemain de la Pâque, les enfants d'Israël sortirent la main levée, à la vue de tous les Egyptiens.",
+        "MAB": "Les enfants d'Israël donc partirent de Rahmésès le quinzième jour du premier mois, dès le lendemain de la Pâque, et ils sortirent à main levée, à la vue de tous les Egyptiens.",
+        "OST": "Les enfants d'Israël partirent de Ramsès le premier mois, au quinzième jour du premier mois, le lendemain de la Pâque; ils sortirent à main levée, à la vue de tous les Égyptiens.",
+        "S21": "Ils partirent de Ramsès le premier mois, le quinzième jour du premier mois. Le lendemain de la Pâque, les Israélites sortirent ouvertement, à la vue de tous les Egyptiens,"
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "qui enterraient tous leurs fils aînés que l’Eternel avait frappés pour exercer ses jugements contre leurs divinités.",
+        "DBY": "et les Égyptiens enterraient ceux que l'Éternel avait frappés parmi eux, tous les premiers-nés; et l'Éternel avait exécuté des jugements sur leurs dieux.",
+        "KJV": "For the Egyptians buried all [their] firstborn, which the LORD had smitten among them: upon their gods also the LORD executed judgments.",
+        "LSG": "Et les Egyptiens enterraient ceux que l'Eternel avait frappés parmi eux, tous les premiers-nés; l'Eternel exerçait aussi des jugements contre leurs dieux.",
+        "MAB": "Et les Egyptiens ensevelissaient ceux que l'Eternel avait frappés parmi eux, [savoir] tous les premiers-nés; même l'Eternel avait exercé ses jugements sur leurs dieux.",
+        "OST": "Et les Égyptiens ensevelissaient ceux que l'Éternel avait frappés parmi eux, tous les premiers-nés; l'Éternel avait même exercé des jugements sur leurs dieux.",
+        "S21": "tandis que les Egyptiens enterraient ceux que l'Eternel avait tués parmi eux, tous les premiers-nés. L'Eternel avait aussi exercé des jugements contre leurs dieux."
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "Les Israélites partirent de Ramsès et campèrent à Soukkoth.",
+        "DBY": "Et les fils d'Israël partirent de Ramsès, et campèrent à Succoth.",
+        "KJV": "And the children of Israel removed from Rameses, and pitched in Succoth.",
+        "LSG": "Les enfants d'Israël partirent de Ramsès, et campèrent à Succoth.",
+        "MAB": "Et les enfants d'Israël étant partis de Rahmésès, campèrent à Succoth.",
+        "OST": "Et les enfants d'Israël partirent de Ramsès, et campèrent à Succoth.",
+        "S21": "Les Israélites partirent de Ramsès et campèrent à Succoth."
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "Ils partirent de Soukkoth et campèrent à Etam, à la limite du désert.",
+        "DBY": "Et ils partirent de Succoth, et campèrent à Étham, qui est à l'extrémité du désert.",
+        "KJV": "And they departed from Succoth, and pitched in Etham, which [is] in the edge of the wilderness.",
+        "LSG": "Ils partirent de Succoth, et campèrent à Etham, qui est à l'extrémité du désert.",
+        "MAB": "Et étant partis de Succoth, ils campèrent à Etham, qui est au bout du désert.",
+        "OST": "Ils partirent de Succoth, et campèrent à Étham, qui est au bout du désert.",
+        "S21": "Ils partirent de Succoth et campèrent à Etham, qui est situé à l'extrémité du désert."
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "Ils partirent d’Etam et rebroussèrent chemin vers Pi-Hahiroth à l’est de Baal-Tsephôn et campèrent en face de Migdol.",
+        "DBY": "Et ils partirent d'Étham et retournèrent à Pi-Hahiroth, qui est vis-à-vis de Baal-Tsephon, et campèrent devant Migdol.",
+        "KJV": "And they removed from Etham, and turned again unto Pihahiroth, which [is] before Baalzephon: and they pitched before Migdol.",
+        "LSG": "Ils partirent d'Etham, se détournèrent vers Pi-Hahiroth, vis-à-vis de Baal-Tsephon, et campèrent devant Migdol.",
+        "MAB": "Et étant partis d'Etham, ils se détournèrent contre Pi-hahiroth, qui [est] vis-à-vis de Bahal-tséphon, et campèrent devant Migdol.",
+        "OST": "Puis ils partirent d'Étham, se détournèrent vers Pi-Hahiroth, qui est en face de Baal-Tsephon, et campèrent devant Migdol.",
+        "S21": "Ils partirent d'Etham, revinrent vers Pi-Hahiroth, vis-à-vis de Baal-Tsephon, et campèrent devant Migdol."
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "Ils partirent de Hahiroth et traversèrent la mer des Roseaux en direction du désert. Après trois journées de marche dans le désert d’Etam, ils campèrent à Mara.",
+        "DBY": "Et ils partirent de devant Hahiroth, et passèrent au milieu de la mer, vers le désert, et allèrent le chemin de trois jours dans le désert d'Étham, et campèrent à Mara.",
+        "KJV": "And they departed from before Pihahiroth, and passed through the midst of the sea into the wilderness, and went three days' journey in the wilderness of Etham, and pitched in Marah.",
+        "LSG": "Ils partirent de devant Pi-Hahiroth, et passèrent au milieu de la mer dans la direction du désert; ils firent trois journées de marche dans le désert d'Etham, et campèrent à Mara.",
+        "MAB": "Et étant partis de devant Pi-hahiroth, ils passèrent au travers de la mer vers le désert, et firent trois journées de chemin par le désert d'Etham, et campèrent à Mara.",
+        "OST": "Et ils partirent de devant Pi-Hahiroth, passèrent au milieu de la mer, vers le désert, allèrent trois jours de chemin par le désert d'Étham, et campèrent à Mara.",
+        "S21": "Ils partirent de devant Pi-Hahiroth et traversèrent la mer pour prendre la direction du désert. Ils firent trois journées de marche dans le désert d'Etham et campèrent à Mara."
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "Ils partirent de Mara et gagnèrent Elim, où ils trouvèrent douze sources d’eau et soixante-dix palmiers. Ils campèrent là.",
+        "DBY": "Et ils partirent de Mara, et vinrent à Élim; et à Élim, il y avait douze fontaines d'eau et soixante-dix palmiers, et ils campèrent là.",
+        "KJV": "And they removed from Marah, and came unto Elim: and in Elim [were] twelve fountains of water, and threescore and ten palm trees; and they pitched there.",
+        "LSG": "Ils partirent de Mara, et arrivèrent à Elim; il y avait à Elim douze sources d'eau et soixante-dix palmiers: ce fut là qu'ils campèrent.",
+        "MAB": "Et étant partis de Mara, ils vinrent à Elim, où il y avait douze fontaines d'eaux, et soixante et dix palmiers, et ils y campèrent.",
+        "OST": "Puis ils partirent de Mara et vinrent à Élim; or il y avait à Élim douze sources d'eaux et soixante-dix palmiers; et ils y campèrent.",
+        "S21": "Ils partirent de Mara et arrivèrent à Elim, où il y avait 12 sources d'eau et 70 palmiers. Ce fut là qu'ils campèrent."
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "Partis d’Elim, ils dressèrent leur camp près de la mer des Roseaux, puis dans le désert de Sin.",
+        "DBY": "Et ils partirent d'Élim, et campèrent près de la mer Rouge.",
+        "KJV": "And they removed from Elim, and encamped by the Red sea.",
+        "LSG": "Ils partirent d'Elim, et campèrent près de la mer Rouge.",
+        "MAB": "Et étant partis d'Elim, ils campèrent près de la mer Rouge.",
+        "OST": "Ils partirent d'Élim, et campèrent près de la mer Rouge.",
+        "S21": "Ils partirent d'Elim et campèrent près de la mer des Roseaux."
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "De là ils allèrent camper à Dophqa,",
+        "DBY": "Et ils partirent de la mer Rouge, et campèrent dans le désert de Sin.",
+        "KJV": "And they removed from the Red sea, and encamped in the wilderness of Sin.",
+        "LSG": "Ils partirent de la mer Rouge, et campèrent dans le désert de Sin.",
+        "MAB": "Et étant partis de la mer Rouge, ils campèrent au désert de Sin.",
+        "OST": "Puis ils partirent de la mer Rouge, et campèrent au désert de Sin.",
+        "S21": "Ils partirent de la mer des Roseaux et campèrent dans le désert de Sin."
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "puis à Alouch,",
+        "DBY": "Et ils partirent du désert de Sin, et campèrent à Dophka.",
+        "KJV": "And they took their journey out of the wilderness of Sin, and encamped in Dophkah.",
+        "LSG": "Ils partirent du désert de Sin, et campèrent à Dophka.",
+        "MAB": "Et étant partis du désert de Sin, ils campèrent à Dophka.",
+        "OST": "Et ils partirent du désert de Sin, et campèrent à Dophka.",
+        "S21": "Ils partirent du désert de Sin et campèrent à Dophka."
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "puis à Rephidim, où le peuple ne trouva pas d’eau potable.",
+        "DBY": "Et ils partirent de Dophka, et campèrent à Alush.",
+        "KJV": "And they departed from Dophkah, and encamped in Alush.",
+        "LSG": "Ils partirent de Dophka, et campèrent à Alusch.",
+        "MAB": "Et étant partis de Dophka, ils campèrent à Alus.",
+        "OST": "Et ils partirent de Dophka, et campèrent à Alush.",
+        "S21": "Ils partirent de Dophka et campèrent à Alush."
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "Partis de Rephidim, ils campèrent dans le désert du Sinaï, puis aux endroits suivants:",
+        "DBY": "Et ils partirent d'Alush, et campèrent à Rephidim, où il n'y avait pas d'eau à boire pour le peuple.",
+        "KJV": "And they removed from Alush, and encamped at Rephidim, where was no water for the people to drink.",
+        "LSG": "Ils partirent d'Alusch, et campèrent à Rephidim, où le peuple ne trouva point d'eau à boire.",
+        "MAB": "Et étant partis d'Alus, ils campèrent à Rephidim, où il n'y avait point d'eau à boire pour le peuple.",
+        "OST": "Et ils partirent d'Alush, et campèrent à Rephidim, où il n'y avait point d'eau à boire pour le peuple.",
+        "S21": "Ils partirent d'Alush et campèrent à Rephidim, où le peuple ne trouva pas d'eau à boire."
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "Qibroth-Hattaava,",
+        "DBY": "Et ils partirent de Rephidim, et campèrent dans le désert de Sinaï.",
+        "KJV": "And they departed from Rephidim, and pitched in the wilderness of Sinai.",
+        "LSG": "Ils partirent de Rephidim, et campèrent dans le désert de Sinaï.",
+        "MAB": "Et étant partis de Rephidim, ils campèrent au désert de Sinaï.",
+        "OST": "Et ils partirent de Rephidim, et campèrent au désert de Sinaï.",
+        "S21": "Ils partirent de Rephidim et campèrent dans le désert du Sinaï."
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "Hatséroth,",
+        "DBY": "Et ils partirent du désert de Sinaï, et campèrent à Kibroth-Hattaava.",
+        "KJV": "And they removed from the desert of Sinai, and pitched at Kibrothhattaavah.",
+        "LSG": "Ils partirent du désert du Sinaï, et campèrent à Kibroth-Hattaava.",
+        "MAB": "Et étant partis du désert de Sinaï, ils campèrent à Kibroth-taava.",
+        "OST": "Ensuite ils partirent du désert de Sinaï, et campèrent à Kibroth-Hatthaava.",
+        "S21": "Ils partirent du désert du Sinaï et campèrent à Kibroth-Hattaava."
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "Ritma,",
+        "DBY": "Et ils partirent de Kibroth-Hattaava, et campèrent à Hatséroth.",
+        "KJV": "And they departed from Kibrothhattaavah, and encamped at Hazeroth.",
+        "LSG": "Ils partirent de Kibroth-Hattaava, et campèrent à Hatséroth.",
+        "MAB": "Et étant partis de Kibroth-taava, ils campèrent à Hatséroth.",
+        "OST": "Et ils partirent de Kibroth-Hatthaava, et campèrent à Hatséroth.",
+        "S21": "Ils partirent de Kibroth-Hattaava et campèrent à Hatséroth."
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "Rimmôn-Pérets,",
+        "DBY": "Et ils partirent de Hatséroth, et campèrent à Rithma.",
+        "KJV": "And they departed from Hazeroth, and pitched in Rithmah.",
+        "LSG": "Ils partirent de Hatséroth, et campèrent à Rithma.",
+        "MAB": "Et étant partis de Hatséroth, ils campèrent à Rithma.",
+        "OST": "Puis ils partirent de Hatséroth, et campèrent à Rithma.",
+        "S21": "Ils partirent de Hatséroth et campèrent à Rithma."
+      }
+    },
+    {
+      "verse": 19,
+      "texts": {
+        "BDS": "Libna,",
+        "DBY": "Et ils partirent de Rithma, et campèrent à Rimmon-Pérets.",
+        "KJV": "And they departed from Rithmah, and pitched at Rimmonparez.",
+        "LSG": "Ils partirent de Rithma, et campèrent à Rimmon-Pérets.",
+        "MAB": "Et étant partis de Rithma, ils campèrent à Rimmon-pérets.",
+        "OST": "Et ils partirent de Rithma et campèrent à Rimmon-Pérets.",
+        "S21": "Ils partirent de Rithma et campèrent à Rimmon-Pérets."
+      }
+    },
+    {
+      "verse": 20,
+      "texts": {
+        "BDS": "Rissa,",
+        "DBY": "Et ils partirent de Rimmon-Pérets, et campèrent à Libna.",
+        "KJV": "And they departed from Rimmonparez, and pitched in Libnah.",
+        "LSG": "Ils partirent de Rimmon-Pérets, et campèrent à Libna.",
+        "MAB": "Et étant partis de Rimmon-pérets, ils campèrent à Libna.",
+        "OST": "Et ils partirent de Rimmon-Pérets, et campèrent à Libna.",
+        "S21": "Ils partirent de Rimmon-Pérets et campèrent à Libna."
+      }
+    },
+    {
+      "verse": 21,
+      "texts": {
+        "BDS": "Qehélata,",
+        "DBY": "Et ils partirent de Libna, et campèrent à Rissa.",
+        "KJV": "And they removed from Libnah, and pitched at Rissah.",
+        "LSG": "Ils partirent de Libna, et campèrent à Rissa.",
+        "MAB": "Et étant partis de Libna, ils campèrent à Rissa.",
+        "OST": "Et ils partirent de Libna, et campèrent à Rissa.",
+        "S21": "Ils partirent de Libna et campèrent à Rissa."
+      }
+    },
+    {
+      "verse": 22,
+      "texts": {
+        "BDS": "à la montagne de Chapher,",
+        "DBY": "Et ils partirent de Rissa, et campèrent à Kehélatha.",
+        "KJV": "And they journeyed from Rissah, and pitched in Kehelathah.",
+        "LSG": "Ils partirent de Rissa, et campèrent à Kehélatha.",
+        "MAB": "Et étant partis de Rissa, ils campèrent vers Kehélath.",
+        "OST": "Ensuite ils partirent de Rissa, et campèrent à Kéhélatha.",
+        "S21": "Ils partirent de Rissa et campèrent à Kehélatha."
+      }
+    },
+    {
+      "verse": 23,
+      "texts": {
+        "BDS": "Harada,",
+        "DBY": "Et ils partirent de Kehélatha, et campèrent dans la montagne de Shapher.",
+        "KJV": "And they went from Kehelathah, and pitched in mount Shapher.",
+        "LSG": "Ils partirent de Kehélatha, et campèrent à la montagne de Schapher.",
+        "MAB": "Et étant partis de devers Kehélath, ils campèrent en la montagne de Sépher.",
+        "OST": "Et ils partirent de Kéhélatha, et campèrent à la montagne de Shapher.",
+        "S21": "Ils partirent de Kehélatha et campèrent à la montagne de Shapher."
+      }
+    },
+    {
+      "verse": 24,
+      "texts": {
+        "BDS": "Maqhéloth,",
+        "DBY": "Et ils partirent de la montagne de Shapher, et campèrent à Harada.",
+        "KJV": "And they removed from mount Shapher, and encamped in Haradah.",
+        "LSG": "Ils partirent de la montagne de Schapher, et campèrent à Harada.",
+        "MAB": "Et étant partis de la montagne de Sépher, ils campèrent à Harada.",
+        "OST": "Et ils partirent de la montagne de Shapher, et campèrent à Harada.",
+        "S21": "Ils partirent de la montagne de Shapher et campèrent à Harada."
+      }
+    },
+    {
+      "verse": 25,
+      "texts": {
+        "BDS": "Tahath,",
+        "DBY": "Et ils partirent de Harada, et campèrent à Makhéloth.",
+        "KJV": "And they removed from Haradah, and pitched in Makheloth.",
+        "LSG": "Ils partirent de Harada, et campèrent à Makhéloth.",
+        "MAB": "Et étant partis de Harada, ils campèrent à Makheloth.",
+        "OST": "Et ils partirent de Harada, et campèrent à Makhéloth.",
+        "S21": "Ils partirent de Harada et campèrent à Makhéloth."
+      }
+    },
+    {
+      "verse": 26,
+      "texts": {
+        "BDS": "Tarah,",
+        "DBY": "Et ils partirent de Makhéloth, et campèrent à Thakhath.",
+        "KJV": "And they removed from Makheloth, and encamped at Tahath.",
+        "LSG": "Ils partirent de Makhéloth, et campèrent à Tahath.",
+        "MAB": "Et étant partis de Makheloth, ils campèrent à Tahath.",
+        "OST": "Puis ils partirent de Makhéloth, et campèrent à Tahath.",
+        "S21": "Ils partirent de Makhéloth et campèrent à Tahath."
+      }
+    },
+    {
+      "verse": 27,
+      "texts": {
+        "BDS": "Mitqa,",
+        "DBY": "Et ils partirent de Thakhath, et campèrent à Thérakh.",
+        "KJV": "And they departed from Tahath, and pitched at Tarah.",
+        "LSG": "Ils partirent de Tahath, et campèrent à Tarach.",
+        "MAB": "Et étant partis de Tahath, ils campèrent à Térah.",
+        "OST": "Et ils partirent de Tahath, et campèrent à Tarach.",
+        "S21": "Ils partirent de Tahath et campèrent à Tarach."
+      }
+    },
+    {
+      "verse": 28,
+      "texts": {
+        "BDS": "Hachmona,",
+        "DBY": "Et ils partirent de Thérakh, et campèrent à Mithka.",
+        "KJV": "And they removed from Tarah, and pitched in Mithcah.",
+        "LSG": "Ils partirent de Tarach, et campèrent à Mithka.",
+        "MAB": "Et étant partis de Térah, ils campèrent à Mithka.",
+        "OST": "Et ils partirent de Tarach, et campèrent à Mithka.",
+        "S21": "Ils partirent de Tarach et campèrent à Mithka."
+      }
+    },
+    {
+      "verse": 29,
+      "texts": {
+        "BDS": "Moséroth,",
+        "DBY": "Et ils partirent de Mithka, et campèrent à Hashmona.",
+        "KJV": "And they went from Mithcah, and pitched in Hashmonah.",
+        "LSG": "Ils partirent de Mithka, et campèrent à Haschmona.",
+        "MAB": "Et étant partis de Mithka, ils campèrent à Hasmona.",
+        "OST": "Et ils partirent de Mithka, et campèrent à Hashmona.",
+        "S21": "Ils partirent de Mithka et campèrent à Hashmona."
+      }
+    },
+    {
+      "verse": 30,
+      "texts": {
+        "BDS": "Bené-Yaaqân,",
+        "DBY": "Et ils partirent de Hashmona, et campèrent à Moséroth.",
+        "KJV": "And they departed from Hashmonah, and encamped at Moseroth.",
+        "LSG": "Ils partirent de Haschmona, et campèrent à Moséroth.",
+        "MAB": "Et étant partis de Hasmona, ils campèrent à Moséroth.",
+        "OST": "Et ils partirent de Hashmona, et campèrent à Moséroth.",
+        "S21": "Ils partirent de Hashmona et campèrent à Moséroth."
+      }
+    },
+    {
+      "verse": 31,
+      "texts": {
+        "BDS": "Hor-Guidgad,",
+        "DBY": "Et ils partirent de Moséroth, et campèrent à Bené-Jaakan.",
+        "KJV": "And they departed from Moseroth, and pitched in Benejaakan.",
+        "LSG": "Ils partirent de Moséroth, et campèrent à Bené-Jaakan.",
+        "MAB": "Et étant partis de Moséroth, ils campèrent à Béné-jahakan.",
+        "OST": "Et ils partirent de Moséroth, et campèrent à Bené-Jaakan.",
+        "S21": "Ils partirent de Moséroth et campèrent à Bené-Jaakan."
+      }
+    },
+    {
+      "verse": 32,
+      "texts": {
+        "BDS": "Yotbata,",
+        "DBY": "Et ils partirent de Bené-Jaakan et campèrent à Hor-Guidgad.",
+        "KJV": "And they removed from Benejaakan, and encamped at Horhagidgad.",
+        "LSG": "Ils partirent de Bené-Jaakan, et campèrent à Hor-Guidgad.",
+        "MAB": "Et étant partis de Béné-jahakan, ils campèrent à Hor-guidgad.",
+        "OST": "Et ils partirent de Bené-Jaakan, et campèrent à Hor-Guidgad.",
+        "S21": "Ils partirent de Bené-Jaakan et campèrent à Hor-Guidgad."
+      }
+    },
+    {
+      "verse": 33,
+      "texts": {
+        "BDS": "Abrona,",
+        "DBY": "Et ils partirent de Hor-Guidgad, et campèrent à Jotbatha.",
+        "KJV": "And they went from Horhagidgad, and pitched in Jotbathah.",
+        "LSG": "Ils partirent de Hor-Guidgad, et campèrent à Jothbatha.",
+        "MAB": "Et étant partis de Hor-guidgad, ils campèrent vers Jotbath.",
+        "OST": "Et ils partirent de Hor-Guidgad, et campèrent à Jotbatha.",
+        "S21": "Ils partirent de Hor-Guidgad et campèrent à Jothbatha."
+      }
+    },
+    {
+      "verse": 34,
+      "texts": {
+        "BDS": "Etsyôn-Guéber",
+        "DBY": "Et ils partirent de Jotbatha, et campèrent à Abrona.",
+        "KJV": "And they removed from Jotbathah, and encamped at Ebronah.",
+        "LSG": "Ils partirent de Jothbatha, et campèrent à Abrona.",
+        "MAB": "Et étant partis de devant Jotbath, ils campèrent à Habrona.",
+        "OST": "Et ils partirent de Jotbatha, et campèrent à Abrona.",
+        "S21": "Ils partirent de Jothbatha et campèrent à Abrona."
+      }
+    },
+    {
+      "verse": 35,
+      "texts": {
+        "BDS": "et dans le désert de Tsîn, c’est-à-dire Qadech,",
+        "DBY": "Et ils partirent d'Abrona, et campèrent à Etsion-Guéber.",
+        "KJV": "And they departed from Ebronah, and encamped at Eziongaber.",
+        "LSG": "Ils partirent d'Abrona, et campèrent à Etsjon-Guéber.",
+        "MAB": "Et étant partis de Habrona, ils campèrent à Hetsjon-guéber.",
+        "OST": "Et ils partirent de Abrona, et campèrent à Etsjon-Guéber.",
+        "S21": "Ils partirent d'Abrona et campèrent à Etsjon-Guéber."
+      }
+    },
+    {
+      "verse": 36,
+      "texts": {
+        "BDS": "à la montagne de Hor, à la limite du pays d’Edom.",
+        "DBY": "Et ils partirent d'Etsion-Guéber, et campèrent dans le désert de Tsin, qui est Kadès.",
+        "KJV": "And they removed from Eziongaber, and pitched in the wilderness of Zin, which [is] Kadesh.",
+        "LSG": "Ils partirent d'Etsjon-Guéber, et campèrent dans le désert de Tsin: c'est Kadès.",
+        "MAB": "Et étant partis de Hetsjon-guéber, ils campèrent au désert de Tsin, qui [est] Kadès.",
+        "OST": "Et ils partirent d'Etsjon-Guéber, et campèrent au désert de Tsin, qui est Kadès.",
+        "S21": "Ils partirent d'Etsjon-Guéber et campèrent dans le désert de Tsin, c'est-à-dire à Kadès."
+      }
+    },
+    {
+      "verse": 37,
+      "texts": {
+        "BDS": "Là, sur ordre de l’Eternel, le prêtre Aaron gravit la montagne de Hor, où il mourut le premier jour du cinquième mois de la quarantième année après le départ des Israélites d’Egypte.",
+        "DBY": "Et ils partirent de Kadès, et campèrent dans la montagne de Hor, aux confins du pays d'Édom.",
+        "KJV": "And they removed from Kadesh, and pitched in mount Hor, in the edge of the land of Edom.",
+        "LSG": "Ils partirent de Kadès, et campèrent à la montagne de Hor, à l'extrémité du pays d'Edom.",
+        "MAB": "Et étant partis de Kadès, ils campèrent en la montagne de Hor, [qui est] au bout du pays d'Edom.",
+        "OST": "Ensuite ils partirent de Kadès, et campèrent à la montagne de Hor, à l'extrémité du pays d'Édom.",
+        "S21": "Ils partirent de Kadès et campèrent au mont Hor, à l'extrémité du pays d'Edom."
+      }
+    },
+    {
+      "verse": 38,
+      "texts": {
+        "BDS": "Il était âgé de cent vingt-trois ans.",
+        "DBY": "Et Aaron le sacrificateur monta sur la montagne de Hor, suivant le commandement de l'Éternel, et il y mourut, en la quarantième année après que les fils d'Israël furent sortis du pays d'Égypte, le cinquième mois, le premier jour du mois:",
+        "KJV": "And Aaron the priest went up into mount Hor at the commandment of the LORD, and died there, in the fortieth year after the children of Israel were come out of the land of Egypt, in the first [day] of the fifth month.",
+        "LSG": "Le sacrificateur Aaron monta sur la montagne de Hor, suivant l'ordre de l'Eternel; et il y mourut, la quarantième année après la sortie des enfants d'Israël du pays d'Egypte, le cinquième mois, le premier jour du mois.",
+        "MAB": "Et Aaron le Sacrificateur monta sur la montagne de Hor, suivant le commandement de l'Eternel, et mourut là, en la quarantième année après que les enfants d'Israël furent sortis du pays d'Egypte, le premier jour du cinquième mois.",
+        "OST": "Et Aaron, le sacrificateur, monta sur la montagne de Hor, suivant l'ordre de l'Éternel, et il y mourut, dans la quarantième année après que les enfants d'Israël furent sortis du pays d'Égypte, le cinquième mois, le premier jour du mois.",
+        "S21": "Le prêtre Aaron monta sur le mont Hor, suivant l'ordre de l'Eternel, et il y mourut. C’était la quarantième année après que les Israélites étaient sortis d'Egypte, le premier jour du cinquième mois."
+      }
+    },
+    {
+      "verse": 39,
+      "texts": {
+        "BDS": "C’est alors que le roi cananéen d’Arad, qui habitait le Néguev dans le pays de Canaan, apprit l’approche des Israélites.",
+        "DBY": "et Aaron était âgé de cent vingt-trois ans quand il mourut sur la montagne de Hor.",
+        "KJV": "And Aaron [was] an hundred and twenty and three years old when he died in mount Hor.",
+        "LSG": "Aaron était âgé de cent vingt-trois ans lorsqu'il mourut sur la montagne de Hor.",
+        "MAB": "Et Aaron était âgé de cent vingt-trois ans, quand il mourut sur la montagne de Hor.",
+        "OST": "Et Aaron était âgé de cent vingt-trois ans, quand il mourut sur la montagne de Hor.",
+        "S21": "Aaron était âgé de 123 ans lorsqu'il mourut sur le mont Hor."
+      }
+    },
+    {
+      "verse": 40,
+      "texts": {
+        "BDS": "Partis de la montagne de Hor, ils dressèrent successivement leur camp à Tsalmona,",
+        "DBY": "Et le Cananéen, roi d'Arad, qui habitait le midi, dans le pays de Canaan, apprit que les fils d'Israël venaient.",
+        "KJV": "And king Arad the Canaanite, which dwelt in the south in the land of Canaan, heard of the coming of the children of Israel.",
+        "LSG": "Le roi d'Arad, Cananéen, qui habitait le midi du pays de Canaan, apprit l'arrivée des enfants d'Israël.",
+        "MAB": "Alors le Cananéen, Roi de Harad, qui habitait vers le Midi au pays de Canaan, apprit que les enfants d'Israël venaient.",
+        "OST": "Alors le Cananéen, roi d'Arad, qui habitait le Midi du pays de Canaan, apprit que les enfants d'Israël venaient.",
+        "S21": "Le roi d'Arad, un Cananéen qui habitait le sud du pays de Canaan, apprit l'arrivée des Israélites."
+      }
+    },
+    {
+      "verse": 41,
+      "texts": {
+        "BDS": "Pounôn,",
+        "DBY": "Et ils partirent de la montagne de Hor, et campèrent à Tsalmona.",
+        "KJV": "And they departed from mount Hor, and pitched in Zalmonah.",
+        "LSG": "Ils partirent de la montagne de Hor, et campèrent à Tsalmona.",
+        "MAB": "Et étant partis de la montagne de Hor, ils campèrent à Tsalmona.",
+        "OST": "Et ils partirent de la montagne de Hor, et campèrent à Tsalmona.",
+        "S21": "Ils partirent du mont Hor et campèrent à Tsalmona."
+      }
+    },
+    {
+      "verse": 42,
+      "texts": {
+        "BDS": "Oboth,",
+        "DBY": "Et ils partirent de Tsalmona, et campèrent à Punon.",
+        "KJV": "And they departed from Zalmonah, and pitched in Punon.",
+        "LSG": "Ils partirent de Tsalmona, et campèrent à Punon.",
+        "MAB": "Et étant partis de Tsalmona, ils campèrent à Punon.",
+        "OST": "Et ils partirent de Tsalmona, et campèrent à Punon.",
+        "S21": "Ils partirent de Tsalmona et campèrent à Punon."
+      }
+    },
+    {
+      "verse": 43,
+      "texts": {
+        "BDS": "Iyé-Abarim à la frontière de Moab,",
+        "DBY": "Et ils partirent de Punon, et campèrent à Oboth.",
+        "KJV": "And they departed from Punon, and pitched in Oboth.",
+        "LSG": "Ils partirent de Punon, et campèrent à Oboth.",
+        "MAB": "Et étant partis de Punon, ils campèrent à Oboth.",
+        "OST": "Et ils partirent de Punon, et campèrent à Oboth.",
+        "S21": "Ils partirent de Punon et campèrent à Oboth."
+      }
+    },
+    {
+      "verse": 44,
+      "texts": {
+        "BDS": "Dibôn-Gad,",
+        "DBY": "Et ils partirent d'Oboth, et campèrent à Ijim-Abarim, sur la frontière de Moab.",
+        "KJV": "And they departed from Oboth, and pitched in Ijeabarim, in the border of Moab.",
+        "LSG": "Ils partirent d'Oboth, et campèrent à Ijjé-Abarim, sur la frontière de Moab.",
+        "MAB": "Et étant partis d'Oboth, ils campèrent à Hijé-habarim, sur les frontières de Moab.",
+        "OST": "Puis ils partirent d'Oboth, et campèrent à Ijjé-Abarim, sur la frontière de Moab.",
+        "S21": "Ils partirent d'Oboth et campèrent à Ijjé-Abarim, sur la frontière de Moab."
+      }
+    },
+    {
+      "verse": 45,
+      "texts": {
+        "BDS": "Almôn-Diblataïm,",
+        "DBY": "Et ils partirent d'Ijim, et campèrent à Dibon-Gad.",
+        "KJV": "And they departed from Iim, and pitched in Dibongad.",
+        "LSG": "Ils partirent d'Ijjé-Abarim, et campèrent à Dibon-Gad.",
+        "MAB": "Et étant partis de Hijim, ils campèrent à Dibon-gad.",
+        "OST": "Et ils partirent d'Ijjé-Abarim, et campèrent à Dibon-Gad.",
+        "S21": "Ils partirent d'Ijjé-Abarim et campèrent à Dibon-Gad."
+      }
+    },
+    {
+      "verse": 46,
+      "texts": {
+        "BDS": "puis dans les montagnes d’Abarim, devant le mont Nébo,",
+        "DBY": "Et ils partirent de Dibon-Gad, et campèrent à Almon, vers Diblathaïm.",
+        "KJV": "And they removed from Dibongad, and encamped in Almondiblathaim.",
+        "LSG": "Ils partirent de Dibon-Gad, et campèrent à Almon-Diblathaïm.",
+        "MAB": "Et étant partis de Dibon-gad, ils campèrent à Halmon vers Diblatajim.",
+        "OST": "Et ils partirent de Dibon-Gad, et campèrent à Almon-Diblathaïm.",
+        "S21": "Ils partirent de Dibon-Gad et campèrent à Almon-Diblathaïm."
+      }
+    },
+    {
+      "verse": 47,
+      "texts": {
+        "BDS": "et dans les steppes de Moab, au bord du Jourdain en face de Jéricho.",
+        "DBY": "Et ils partirent d'Almon vers Diblathaïm, et campèrent dans les montagnes d'Abarim, devant Nebo.",
+        "KJV": "And they removed from Almondiblathaim, and pitched in the mountains of Abarim, before Nebo.",
+        "LSG": "Ils partirent d'Almon-Diblathaïm, et campèrent aux montagnes d'Abarim, devant Nebo.",
+        "MAB": "Et étant partis de Halmon vers Diblatajim, ils campèrent aux montagnes de Habarim contre Nébo.",
+        "OST": "Puis ils partirent d'Almon-Diblathaïm, et campèrent aux montagnes d'Abarim, devant Nébo.",
+        "S21": "Ils partirent d'Almon-Diblathaïm et campèrent sur les montagnes d'Abarim, devant Nebo."
+      }
+    },
+    {
+      "verse": 48,
+      "texts": {
+        "BDS": "Leur camp s’étalait sur la rive du Jourdain de Beth-Hayechimoth à Abel-Chittim dans les steppes de Moab.",
+        "DBY": "Et ils partirent des montagnes d'Abarim, et campèrent dans les plaines de Moab, près du Jourdain de Jéricho;",
+        "KJV": "And they departed from the mountains of Abarim, and pitched in the plains of Moab by Jordan [near] Jericho.",
+        "LSG": "Ils partirent des montagnes d'Abarim, et campèrent dans les plaines de Moab, près du Jourdain, vis-à-vis de Jéricho.",
+        "MAB": "Et étant partis des montagnes de Habarim, ils campèrent aux campagnes de Moab, près du Jourdain de Jéricho.",
+        "OST": "Et ils partirent des montagnes d'Abarim, et campèrent dans les plaines de Moab, près du Jourdain de Jérico.",
+        "S21": "Ils partirent des montagnes d'Abarim et campèrent dans les plaines de Moab, près du Jourdain, vis-à-vis de Jéricho."
+      }
+    },
+    {
+      "verse": 49,
+      "texts": {
+        "BDS": "C’est là que l’Eternel s’adressa à Moïse, dans les steppes de Moab, au bord du Jourdain en face de Jéricho, pour lui dire:",
+        "DBY": "et ils campèrent près du Jourdain depuis Beth-Jeshimoth jusqu'à Abel-Sittim, dans les plaines de Moab.",
+        "KJV": "And they pitched by Jordan, from Bethjesimoth [even] unto Abelshittim in the plains of Moab.",
+        "LSG": "Ils campèrent près du Jourdain, depuis Beth-Jeschimoth jusqu'à Abel-Sittim, dans les plaines de Moab.",
+        "MAB": "Et ils campèrent près du Jourdain, depuis Beth-jésimoth jusqu'à Abel-Sittim, dans les campagnes de Moab.",
+        "OST": "Et ils campèrent près du Jourdain, depuis Beth-Jeshimoth jusqu'à Abel-Sittim, dans les plaines de Moab.",
+        "S21": "Ils campèrent près du Jourdain, depuis Beth-Jeshimoth jusqu'à Abel-Sittim, dans les plaines de Moab."
+      }
+    },
+    {
+      "verse": 50,
+      "texts": {
+        "BDS": "—Dis aux Israélites: Lorsque vous aurez traversé le Jourdain pour pénétrer dans le pays de Canaan,",
+        "DBY": "Et l'Éternel parla à Moïse, dans les plaines de Moab, près du Jourdain de Jéricho, disant:",
+        "KJV": "And the LORD spake unto Moses in the plains of Moab by Jordan [near] Jericho, saying,",
+        "LSG": "L'Eternel parla à Moïse dans les plaines de Moab, près du Jourdain, vis-à-vis de Jéricho. Il dit:",
+        "MAB": "Et l'Eternel parla à Moïse dans les campagnes de Moab, près du Jourdain de Jéricho, en disant :",
+        "OST": "Or l'Éternel parla à Moïse dans les plaines de Moab, près du Jourdain de Jérico, en disant:",
+        "S21": "L'Eternel dit à Moïse dans les plaines de Moab, près du Jourdain, vis-à-vis de Jéricho:"
+      }
+    },
+    {
+      "verse": 51,
+      "texts": {
+        "BDS": "vous déposséderez en votre faveur tous les habitants du pays et vous détruirez toutes les idoles de pierre sculptée et toutes leurs statues de métal fondu, vous démolirez tous leurs hauts-lieux.",
+        "DBY": "Parle aux fils d'Israël, et dis-leur: Quand vous aurez passé le Jourdain et que vous serez entrés dans le pays de Canaan,",
+        "KJV": "Speak unto the children of Israel, and say unto them, When ye are passed over Jordan into the land of Canaan;",
+        "LSG": "Parle aux enfants d'Israël, et dis-leur: Lorsque vous aurez passé le Jourdain et que vous serez entrés dans le pays de Canaan,",
+        "MAB": "Parle aux enfants d'Israël, et leur dis : Puisque vous allez passer le Jourdain [pour entrer] au pays de Canaan;",
+        "OST": "Parle aux enfants d'Israël, et dis-leur: Lorsque vous aurez passé le Jourdain pour entrer au pays de Canaan,",
+        "S21": "«Transmets ces instructions aux Israélites: Lorsque vous aurez passé le Jourdain et que vous serez entrés dans le pays de Canaan,"
+      }
+    },
+    {
+      "verse": 52,
+      "texts": {
+        "BDS": "Vous prendrez possession du pays et vous vous y établirez, car je vous ai donné le pays pour qu’il vous appartienne.",
+        "DBY": "vous déposséderez tous les habitants du pays devant vous, et vous détruirez toutes leurs figures sculptées, et vous détruirez toutes leurs images de fonte, et vous dévasterez tous leurs hauts lieux;",
+        "KJV": "Then ye shall drive out all the inhabitants of the land from before you, and destroy all their pictures, and destroy all their molten images, and quite pluck down all their high places:",
+        "LSG": "vous chasserez devant vous tous les habitants du pays, vous détruirez toutes leurs idoles de pierre, vous détruirez toutes leurs images de fonte, et vous détruirez tous leurs hauts lieux.",
+        "MAB": "Chassez de devant vous tous les habitants du pays, et détruisez toutes leurs peintures, ruinez toutes leurs images de fonte, et démolissez tous leurs hauts lieux.",
+        "OST": "Vous chasserez de devant vous tous les habitants du pays, vous détruirez toutes leurs figures, vous détruirez toutes leurs images de fonte, et vous démolirez tous leurs hauts lieux;",
+        "S21": "vous chasserez devant vous tous les habitants du pays. Vous détruirez toutes leurs idoles en pierre et en métal fondu, et vous éliminerez tous leurs hauts lieux."
+      }
+    },
+    {
+      "verse": 53,
+      "texts": {
+        "BDS": "Vous le partagerez par tirage au sort entre vos familles, attribuant un patrimoine plus grand à ceux qui sont plus nombreux, et un plus petit à ceux qui le sont moins. Chacun acceptera comme son patrimoine foncier celui que le sort lui attribuera. Vous ferez le partage entre vos tribus.",
+        "DBY": "et vous prendrez possession du pays, et vous y habiterez, car je vous ai donné le pays pour le posséder.",
+        "KJV": "And ye shall dispossess [the inhabitants] of the land, and dwell therein: for I have given you the land to possess it.",
+        "LSG": "Vous prendrez possession du pays, et vous vous y établirez; car je vous ai donné le pays, pour qu'il soit votre propriété.",
+        "MAB": "Et rendez-vous maîtres du pays, et y habitez; car je vous ai donné le pays pour le posséder.",
+        "OST": "Et vous prendrez possession du pays, et vous y habiterez. Car je vous ai donné le pays pour le posséder.",
+        "S21": "Vous prendrez possession du pays et vous vous y établirez, car je vous ai donné ce pays pour qu'il soit votre propriété."
+      }
+    },
+    {
+      "verse": 54,
+      "texts": {
+        "BDS": "Si vous ne dépossédez pas les habitants du pays en votre faveur, ceux que vous laisserez là seront comme des épines dans vos yeux et des échardes dans vos flancs; ils seront vos adversaires dans le pays que vous habiterez.",
+        "DBY": "Et vous recevrez le pays en héritage par le sort, selon vos familles: à ceux qui sont nombreux, vous augmenterez l'héritage, et à ceux qui sont peu nombreux, vous diminuerez l'héritage; là où le sort lui sera échu, là sera l'héritage de chacun: vous hériterez selon les tribus de vos pères.",
+        "KJV": "And ye shall divide the land by lot for an inheritance among your families: [and] to the more ye shall give the more inheritance, and to the fewer ye shall give the less inheritance: every man's [inheritance] shall be in the place where his lot falleth; according to the tribes of your fathers ye shall inherit.",
+        "LSG": "Vous partagerez le pays par le sort, selon vos familles. A ceux qui sont en plus grand nombre vous donnerez une portion plus grande, et à ceux qui sont en plus petit nombre vous donnerez une portion plus petite. Chacun possédera ce qui lui sera échu par le sort: vous le recevrez en propriété, selon les tribus de vos pères.",
+        "MAB": "Or vous hériterez le pays par sort selon vos familles. A ceux qui sont en plus grand nombre, vous donnerez plus d'héritage; et à ceux qui sont en plus petit nombre, vous donnerez moins d'héritage; chacun aura selon qu'il lui sera échu par sort, et vous hériterez selon les Tribus de vos pères.",
+        "OST": "Vous partagerez le pays par le sort, selon vos familles. A ceux qui sont en grand nombre, vous donnerez plus d'héritage, et à ceux qui sont en petit nombre, tu donneras moins d'héritage; chacun l'aura là où il lui sera échu par le sort; vous ferez le partage selon les tribus de vos pères.",
+        "S21": "Vous partagerez le pays en tirant au sort en fonction de vos clans. A ceux qui sont plus nombreux vous donnerez une portion plus grande, et à ceux qui sont moins nombreux vous donnerez une portion plus petite. Chacun possédera ce qui lui sera attribué par tirage au sort. Vous le recevrez en propriété selon les tribus de vos ancêtres."
+      }
+    },
+    {
+      "verse": 55,
+      "texts": {
+        "BDS": "Alors c’est vous que je traiterai comme j’avais résolu de les traiter.",
+        "DBY": "Et si vous ne dépossédez pas devant vous les habitants du pays, ceux d'entre eux que vous laisserez de reste seront comme des épines à vos yeux et comme des piquants dans vos côtés, et ils vous opprimeront dans le pays que vous habiterez.",
+        "KJV": "But if ye will not drive out the inhabitants of the land from before you; then it shall come to pass, that those which ye let remain of them [shall be] pricks in your eyes, and thorns in your sides, and shall vex you in the land wherein ye dwell.",
+        "LSG": "Mais si vous ne chassez pas devant vous les habitants du pays, ceux d'entre eux que vous laisserez seront comme des épines dans vos yeux et des aiguillons dans vos côtés, ils seront vos ennemis dans le pays où vous allez vous établir.",
+        "MAB": "Mais si vous ne chassez pas de devant vous les habitants du pays, il arrivera que ceux d'entr'eux que vous aurez laissés de reste, seront comme des épines à vos yeux, et comme des pointes à vos côtés, et ils vous serreront de près dans le pays auquel vous habiterez.",
+        "OST": "Mais si vous ne chassez pas devant vous les habitants du pays, ceux d'entre eux que vous aurez laissés de reste seront des épines dans vos yeux et des pointes dans vos côtés, et ils vous serreront de près dans le pays dont vous serez les habitants;",
+        "S21": "Mais si vous ne chassez pas les habitants du pays devant vous, ceux d'entre eux que vous aurez laissés deviendront des épines dans vos yeux et des pointes dans vos côtes, ils seront vos ennemis dans le pays où vous allez vous établir."
+      }
+    },
+    {
+      "verse": 56,
+      "texts": {
+        "DBY": "Et il arrivera que je vous ferai à vous, comme j'ai pensé de leur faire, à eux.",
+        "KJV": "Moreover it shall come to pass, [that] I shall do unto you, as I thought to do unto them.",
+        "LSG": "Et il arrivera que je vous traiterai comme j'avais résolu de les traiter.",
+        "MAB": "Et il arrivera que je vous ferai tout comme j'ai eu dessein de leur faire.",
+        "OST": "Et il arrivera que je vous ferai comme j'ai eu dessein de leur faire.",
+        "S21": "Alors je vous traiterai comme j'avais décidé de les traiter eux.»"
+      }
+    }
+  ]
+}

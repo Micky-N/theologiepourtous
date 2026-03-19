@@ -1,0 +1,54 @@
+{
+  "bookCode": "PSA",
+  "chapter": 123,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "Cantique pour la route vers la demeure de l’Eternel.\r\nJ’ai levé les yeux vers toi,\r\ntoi qui règnes dans les cieux.",
+        "DBY": "J'élève mes yeux vers toi, qui habites dans les cieux.",
+        "KJV": "A Song of degrees. Unto thee lift I up mine eyes, O thou that dwellest in the heavens.",
+        "LSG": "Cantique des degrés, Je lève mes yeux vers toi, Qui sièges dans les cieux.",
+        "MAB": "Cantique de Mahaloth. J'élève mes yeux à toi, qui habites dans les cieux.",
+        "OST": "Cantique de Maaloth. J'élève mes yeux vers toi, qui habites dans les cieux.",
+        "S21": "Chant des montées.\r\nJ’ai levé les yeux vers toi, qui sièges dans le ciel."
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "Oui, comme les serviteurs fixent leurs regards\r\nsur la main du maître,\r\ncomme la servante fixe ses regards sur la main de sa maîtresse,\r\nainsi nos regards se tournent vers l’Eternel, notre Dieu,\r\ndans l’attente de sa grâce.",
+        "DBY": "Voici, comme les yeux des serviteurs regardent à la main de leurs maîtres, comme les yeux de la servante à la main de sa maîtresse, ainsi nos yeux regardent à l'Éternel, notre Dieu, jusqu'à ce qu'il use de grâce envers nous.",
+        "KJV": "Behold, as the eyes of servants [look] unto the hand of their masters, [and] as the eyes of a maiden unto the hand of her mistress; so our eyes [wait] upon the LORD our God, until that he have mercy upon us.",
+        "LSG": "Voici, comme les yeux des serviteurs sont fixés sur la main de leurs maîtres, Et les yeux de la servante sur la main de sa maîtresse, Ainsi nos yeux se tournent vers l'Eternel, notre Dieu, Jusqu'à ce qu'il ait pitié de nous.",
+        "MAB": "Voici, comme les yeux des serviteurs [regardent] à la main de leurs maîtres; [et] comme les yeux de la servante [regardent] à la main de sa maîtresse; ainsi nos yeux [regardent] à l'Eternel notre Dieu, jusqu'à ce qu'il ait pitié de nous.",
+        "OST": "Voici, comme les yeux des serviteurs regardent à la main de leurs maîtres, et les yeux de la servante à la main de sa maîtresse, ainsi nos yeux regardent à l'Éternel notre Dieu, jusqu'à ce qu'il ait pitié de nous.",
+        "S21": "Oui, tout comme les yeux des serviteurs sont fixés sur la main de leur maître, et les yeux de la servante sur la main de sa maîtresse, ainsi nos yeux se tournent vers l’Eternel, notre Dieu, jusqu’à ce qu’il nous fasse grâce."
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "Fais-nous grâce, ô Eternel! Aie pitié de nous!\r\nCar nous sommes saturés du mépris qu’on nous témoigne.",
+        "DBY": "Use de grâce envers nous, ô Éternel! use de grâce envers nous; car nous sommes, outre mesure, rassasiés de mépris.",
+        "KJV": "Have mercy upon us, O LORD, have mercy upon us: for we are exceedingly filled with contempt.",
+        "LSG": "Aie pitié de nous, Eternel, aie pitié de nous! Car nous sommes assez rassasiés de mépris;",
+        "MAB": "Aie pitié de nous, ô Eternel! aie pitié de nous; car nous avons été accablés de mépris.",
+        "OST": "Aie pitié de nous, Éternel, aie pitié de nous, car nous sommes rassasiés de mépris!",
+        "S21": "Fais-nous grâce, Eternel, fais-nous grâce, car nous n’en pouvons plus d’être méprisés,"
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "Oui, nous sommes saturés\r\ndes insultes des repus et du mépris des hautains.",
+        "DBY": "Nos âmes sont, outre mesure, rassasiées des insultes de ceux qui sont à l'aise, du mépris des orgueilleux.",
+        "KJV": "Our soul is exceedingly filled with the scorning of those that are at ease, [and] with the contempt of the proud.",
+        "LSG": "Notre âme est assez rassasiée Des moqueries des orgueilleux, du mépris des hautains.",
+        "MAB": "Notre âme est accablée des insultes de ceux qui sont à leur aise, [et] du mépris des orgueilleux.",
+        "OST": "Notre âme est abondamment rassasiée de la moquerie de ceux qui sont dans l'abondance, du mépris des orgueilleux.",
+        "S21": "nous en avons plus qu’assez des moqueries des orgueilleux, du mépris des hautains!"
+      }
+    }
+  ]
+}

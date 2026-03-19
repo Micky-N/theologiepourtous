@@ -1,0 +1,354 @@
+{
+  "bookCode": "NUM",
+  "chapter": 20,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "Le premier mois de l’année, toute la communauté des Israélites parvint au désert de Tsîn. Le peuple établit son campement à Qadech. C’est là que mourut Miryam et qu’elle fut enterrée.",
+        "DBY": "Et les fils d'Israël, toute l'assemblée, vinrent au désert de Tsin, le premier mois; et le peuple habita à Kadès; et Marie mourut là, et y fut enterrée.",
+        "KJV": "Then came the children of Israel, [even] the whole congregation, into the desert of Zin in the first month: and the people abode in Kadesh; and Miriam died there, and was buried there.",
+        "LSG": "Toute l'assemblée des enfants d'Israël arriva dans le désert de Tsin le premier mois, et le peuple s'arrêta à Kadès. C'est là que mourut Marie, et qu'elle fut enterrée.",
+        "MAB": "Or les enfants d'Israël, [savoir] toute l'assemblée, arrivèrent au désert de Tsin au premier mois; et le peuple demeura à Kadès, et Marie mourut là, et y fut ensevelie.",
+        "OST": "Or, les enfants d'Israël, toute l'assemblée, arrivèrent au désert de Tsin, au premier mois, et le peuple s'arrêta à Kadès; et Marie mourut là, et y fut ensevelie.",
+        "S21": "Toute l'assemblée des Israélites arriva dans le désert de Tsin le premier mois et le peuple s'arrêta à Kadès. C'est là que Miriam mourut et fut enterrée."
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "L’eau vint à manquer. Alors le peuple s’attroupa pour s’en prendre à Moïse et Aaron.",
+        "DBY": "Et il n'y avait pas d'eau pour l'assemblée; et ils s'attroupèrent contre Moïse et contre Aaron.",
+        "KJV": "And there was no water for the congregation: and they gathered themselves together against Moses and against Aaron.",
+        "LSG": "Il n'y avait point d'eau pour l'assemblée; et l'on se souleva contre Moïse et Aaron.",
+        "MAB": "Et n'y ayant point d'eau pour l'assemblée, ils s'attroupèrent contre Moïse, et contre Aaron.",
+        "OST": "Et il n'y avait point d'eau pour le peuple, et ils s'assemblèrent contre Moïse et contre Aaron.",
+        "S21": "Il n'y avait pas d'eau pour l'assemblée. On se souleva donc contre Moïse et Aaron."
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "Ils s’en prirent à Moïse et lui dirent:\r\n—Ah! Si seulement nous étions morts quand nos compatriotes ont péri devant l’Eternel!",
+        "DBY": "Et le peuple contesta avec Moïse, et ils parlèrent, disant: Que n'avons-nous péri quand nos frères périrent devant l'Éternel!",
+        "KJV": "And the people chode with Moses, and spake, saying, Would God that we had died when our brethren died before the LORD!",
+        "LSG": "Le peuple chercha querelle à Moïse. Ils dirent: Que n'avons-nous expiré, quand nos frères expirèrent devant l'Eternel?",
+        "MAB": "Et le peuple disputa contre Moïse, et ils lui dirent : Plût à Dieu que nous fussions morts quand nos frères moururent devant l'Eternel?",
+        "OST": "Et le peuple contesta avec Moïse, et ils dirent: Plût à Dieu que nous fussions morts, quand nos frères moururent devant l'Éternel!",
+        "S21": "Le peuple chercha querelle à Moïse. Ils dirent: «Si seulement nous avions expiré lorsque nos frères ont expiré devant l'Eternel!"
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "Pourquoi avez-vous mené la communauté de l’Eternel dans ce désert? Pour nous y faire mourir, nous et notre bétail?",
+        "DBY": "Et pourquoi avez-vous amené la congrégation de l'Éternel dans ce désert, pour y mourir, nous et nos bêtes?",
+        "KJV": "And why have ye brought up the congregation of the LORD into this wilderness, that we and our cattle should die there?",
+        "LSG": "Pourquoi avez-vous fait venir l'assemblée de l'Eternel dans ce désert, pour que nous y mourions, nous et notre bétail?",
+        "MAB": "Et pourquoi avez-vous fait venir l'assemblée de l'Eternel dans ce désert, pour y mourir, nous et nos bêtes?",
+        "OST": "Pourquoi avez-vous fait venir l'assemblée de l'Éternel dans ce désert, pour que nous y mourions, nous et notre bétail?",
+        "S21": "Pourquoi avez-vous fait venir l'assemblée de l'Eternel dans ce désert? Est-ce pour que nous y mourions, nous et notre bétail?"
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "Pourquoi nous avez-vous fait quitter l’Egypte et venir dans ce lieu de misère? Ici on ne peut rien semer! Il n’y a ni figuier, ni vigne, ni grenadier. Il n’y a même pas d’eau à boire!",
+        "DBY": "Et pourquoi nous avez-vous fait monter d'Égypte, pour nous amener dans ce mauvais lieu? Ce n'est pas un lieu où l'on puisse semer; on n'y trouve ni figuiers, ni vignes, ni grenadiers, et il n'y a pas d'eau pour boire.",
+        "KJV": "And wherefore have ye made us to come up out of Egypt, to bring us in unto this evil place? it [is] no place of seed, or of figs, or of vines, or of pomegranates; neither [is] there any water to drink.",
+        "LSG": "Pourquoi nous avez-vous fait monter hors d'Egypte, pour nous amener dans ce méchant lieu? Ce n'est pas un lieu où l'on puisse semer, et il n'y a ni figuier, ni vigne, ni grenadier, ni d'eau à boire.",
+        "MAB": "Et pourquoi nous avez-vous fait monter d'Egypte, pour nous amener en ce méchant lieu, qui n'est point un lieu pour semer, ni un lieu pour des figuiers, ni pour des vignes, ni pour des grenadiers; et où même il n'y a point d'eau pour boire?",
+        "OST": "Pourquoi nous avez-vous fait monter hors d'Égypte, pour nous amener en ce méchant lieu, qui n'est point un lieu pour semer, ni pour des figuiers, ni pour la vigne, ni pour les grenadiers, et où il n'y a point d'eau à boire?",
+        "S21": "Pourquoi nous avez-vous fait quitter l'Egypte, si c’est pour nous amener dans cet endroit de malheur? Ce n'est pas un endroit où l'on puisse semer et il n'y a ni figuier, ni vigne, ni grenadier ni eau à boire.»"
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "Moïse et Aaron s’éloignèrent de l’assemblée pour se diriger vers l’entrée de la tente de la Rencontre où ils se jetèrent face contre terre. Alors la gloire de l’Eternel leur apparut.",
+        "DBY": "Et Moïse et Aaron vinrent de devant la congrégation à l'entrée de la tente d'assignation, et tombèrent sur leurs faces; et la gloire de l'Éternel leur apparut.",
+        "KJV": "And Moses and Aaron went from the presence of the assembly unto the door of the tabernacle of the congregation, and they fell upon their faces: and the glory of the LORD appeared unto them.",
+        "LSG": "Moïse et Aaron s'éloignèrent de l'assemblée pour aller à l'entrée de la tente d'assignation. Ils tombèrent sur leur visage; et la gloire de l'Eternel leur apparut.",
+        "MAB": "Alors Moïse et Aaron se retirèrent de devant l'assemblée à l'entrée du Tabernacle d'assignation, et tombèrent sur leurs faces, et la gloire de l'Eternel apparut.",
+        "OST": "Alors Moïse et Aaron se retirèrent de devant l'assemblée, à l'entrée du tabernacle d'assignation; et ils tombèrent sur leur visage, et la gloire de l'Éternel leur apparut.",
+        "S21": "Moïse et Aaron s'éloignèrent de l'assemblée pour se rendre à l'entrée de la tente de la rencontre. Ils tombèrent le visage contre terre et la gloire de l'Eternel leur apparut."
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "L’Eternel parla à Moïse et lui dit:",
+        "DBY": "Et l'Éternel parla à Moïse, disant:",
+        "KJV": "And the LORD spake unto Moses, saying,",
+        "LSG": "L'Eternel parla à Moïse, et dit:",
+        "MAB": "Puis l'Eternel parla à Moïse, en disant :",
+        "OST": "Et l'Éternel parla à Moïse, en disant:",
+        "S21": "L'Eternel dit à Moïse:"
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "—Prends ton bâton et, avec ton frère Aaron, rassemblez la communauté. Devant eux, vous parlerez à ce rocher pour qu’il donne son eau. Ainsi tu feras jaillir pour eux de l’eau du rocher, et tu donneras à boire à la communauté et au bétail.",
+        "DBY": "Prends la verge, et réunis l'assemblée, toi et Aaron, ton frère, et vous parlerez devant leurs yeux au rocher, et il donnera ses eaux; et tu leur feras sortir de l'eau du rocher, et tu donneras à boire à l'assemblée et à leurs bêtes.",
+        "KJV": "Take the rod, and gather thou the assembly together, thou, and Aaron thy brother, and speak ye unto the rock before their eyes; and it shall give forth his water, and thou shalt bring forth to them water out of the rock: so thou shalt give the congregation and their beasts drink.",
+        "LSG": "Prends la verge, et convoque l'assemblée, toi et ton frère Aaron. Vous parlerez en leur présence au rocher, et il donnera ses eaux; tu feras sortir pour eux de l'eau du rocher, et tu abreuveras l'assemblée et leur bétail.",
+        "MAB": "Prends la verge, et convoque l'assemblée, toi et Aaron ton frère, et parlez en leur présence au rocher, et il donnera son eau; ainsi tu leur feras sortir de l'eau du rocher, et tu donneras à boire à l'assemblée et à leurs bêtes.",
+        "OST": "Prends la verge, et convoque l'assemblée, toi et Aaron, ton frère, et parlez au rocher en leur présence, et il donnera ses eaux; tu leur feras sortir de l'eau du rocher, et tu abreuveras l'assemblée et leur bétail.",
+        "S21": "«Prends le bâton et convoque l'assemblée, toi ainsi que ton frère Aaron. Vous parlerez au rocher en leur présence et il donnera son eau. Tu feras sortir pour eux de l'eau du rocher et tu feras boire l'assemblée et leur bétail.»"
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "Moïse prit le bâton qui se trouvait devant l’Eternel, comme celui-ci le lui avait ordonné.",
+        "DBY": "Et Moïse prit la verge de devant l'Éternel, comme il lui avait commandé.",
+        "KJV": "And Moses took the rod from before the LORD, as he commanded him.",
+        "LSG": "Moïse prit la verge qui était devant l'Eternel, comme l'Eternel le lui avait ordonné.",
+        "MAB": "Moïse donc prit la verge de devant l'Eternel, comme il lui avait commandé.",
+        "OST": "Moïse prit donc la verge de devant l'Éternel, comme il le lui avait commandé.",
+        "S21": "Moïse prit le bâton qui se trouvait devant l'Eternel, comme l'Eternel le lui avait ordonné."
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "Moïse et Aaron convoquèrent l’assemblée devant le rocher désigné; et Moïse leur dit:\r\n—Ecoutez donc, rebelles que vous êtes! Croyez-vous que nous pourrons faire jaillir pour vous de l’eau de ce rocher?",
+        "DBY": "Et Moïse et Aaron réunirent la congrégation devant le rocher, et il lui dit: Écoutez, rebelles! Vous ferons-nous sortir de l'eau de ce rocher?",
+        "KJV": "And Moses and Aaron gathered the congregation together before the rock, and he said unto them, Hear now, ye rebels; must we fetch you water out of this rock?",
+        "LSG": "Moïse et Aaron convoquèrent l'assemblée en face du rocher. Et Moïse leur dit: Ecoutez donc, rebelles! Est-ce de ce rocher que nous vous ferons sortir de l'eau?",
+        "MAB": "Et Moïse et Aaron convoquèrent l'assemblée devant le rocher, et il leur dit : Vous rebelles, écoutez maintenant, vous ferons-nous sortir de l'eau de ce rocher?",
+        "OST": "Moïse et Aaron convoquèrent l'assemblée devant le rocher; et il leur dit: Écoutez donc, rebelles! Vous ferons-nous sortir de l'eau de ce rocher?",
+        "S21": "Moïse et Aaron convoquèrent l'assemblée en face du rocher et Moïse leur dit: «Ecoutez donc, rebelles! Est-ce de ce rocher que nous ferons sortir de l'eau pour vous?»"
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "Moïse leva la main et, par deux fois, frappa le rocher avec son bâton. L’eau jaillit en abondance. Hommes et bêtes purent se désaltérer.",
+        "DBY": "Et Moïse leva sa main, et frappa le rocher de sa verge, deux fois; et il en sortit des eaux en abondance, et l'assemblée but, et leurs bêtes.",
+        "KJV": "And Moses lifted up his hand, and with his rod he smote the rock twice: and the water came out abundantly, and the congregation drank, and their beasts [also].",
+        "LSG": "Puis Moïse leva la main et frappa deux fois le rocher avec sa verge. Il sortit de l'eau en abondance. L'assemblée but, et le bétail aussi.",
+        "MAB": "Puis Moïse leva sa main, et frappa de sa verge le rocher par deux fois; et il en sortit des eaux en abondance, et l'assemblée but, et leurs bêtes aussi.",
+        "OST": "Et Moïse leva la main, et frappa le rocher avec sa verge, par deux fois; alors des eaux sortirent en abondance, et l'assemblée but, et leur bétail aussi.",
+        "S21": "Puis Moïse leva la main et frappa deux fois le rocher avec son bâton. Il sortit de l'eau en abondance. L'assemblée but, ainsi que le bétail."
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "Mais l’Eternel dit à Moïse et à Aaron:\r\n—Vous ne m’avez pas été fidèles et vous n’avez pas honoré ma sainteté aux yeux des Israélites. A cause de cela, vous ne ferez pas entrer cette assemblée dans le pays que je leur destine.",
+        "DBY": "Et l'Éternel dit à Moïse et à Aaron: Parce que vous ne m'avez pas cru, pour me sanctifier aux yeux des fils d'Israël, à cause de cela vous n'introduirez pas cette congrégation dans le pays que je leur donne.",
+        "KJV": "And the LORD spake unto Moses and Aaron, Because ye believed me not, to sanctify me in the eyes of the children of Israel, therefore ye shall not bring this congregation into the land which I have given them.",
+        "LSG": "Alors l'Eternel dit à Moïse et à Aaron: Parce que vous n'avez pas cru en moi, pour me sanctifier aux yeux des enfants d'Israël, vous ne ferez point entrer cette assemblée dans le pays que je lui donne.",
+        "MAB": "Et l'Eternel dit à Moïse et à Aaron : Parce que vous n'avez point cru en moi,pour me sanctifier en la présence des enfants d'Israël, aussi vous n'introduirez point cette assemblée au pays que je leur ai donné.",
+        "OST": "Puis l'Éternel dit à Moïse et à Aaron: Parce que vous n'avez pas cru en moi, pour me sanctifier devant les enfants d'Israël, à cause de cela vous n'introduirez point cette assemblée dans le pays que je leur ai donné.",
+        "S21": "Alors l'Eternel dit à Moïse et à Aaron: «Puisque vous n'avez pas eu assez confiance en moi pour respecter ma sainteté devant les Israélites, vous ne ferez pas entrer cette assemblée dans le pays que je lui donne.»"
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "Ce sont là les eaux de Meriba (de la Querelle), où les Israélites avaient cherché querelle à l’Eternel, et où il manifesta sa sainteté devant eux.",
+        "DBY": "Ce sont là les eaux de Meriba, où les fils d'Israël contestèrent avec l'Éternel; et il se sanctifia en eux.",
+        "KJV": "This [is] the water of Meribah; because the children of Israel strove with the LORD, and he was sanctified in them.",
+        "LSG": "Ce sont les eaux de Meriba, où les enfants d'Israël contestèrent avec l'Eternel, qui fut sanctifié en eux.",
+        "MAB": "Ce sont là les eaux de dispute, pour lesquelles les enfants d'Israël disputèrent contre l'Eternel; et il se sanctifia en eux.",
+        "OST": "Ce sont là les eaux de Mériba (contestation), où les enfants d'Israël contestèrent avec l'Éternel; et il se sanctifia en eux.",
+        "S21": "Ce sont les eaux de Meriba parce que les Israélites contestèrent avec l'Eternel et sa sainteté fut reconnue parmi eux."
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "De Qadech, Moïse envoya des messagers au roi d’Edom pour lui faire dire:\r\n—Ainsi parle ton frère Israël: Tu connais toutes les difficultés que nous avons rencontrées.",
+        "DBY": "Et Moïse envoya de Kadès des messagers au roi d'Édom: Ainsi dit ton frère, Israël: Tu sais toute la fatigue qui nous a atteints.",
+        "KJV": "And Moses sent messengers from Kadesh unto the king of Edom, Thus saith thy brother Israel, Thou knowest all the travail that hath befallen us:",
+        "LSG": "De Kadès, Moïse envoya des messagers au roi d'Edom, pour lui dire: Ainsi parle ton frère Israël: Tu sais toutes les souffrances que nous avons éprouvées.",
+        "MAB": "Puis Moïse envoya des ambassadeurs de Kadès au roi d'Edom, [pour lui dire] : Ainsi a dit ton frère Israël : Tu sais tout le travail que nous avons eu;",
+        "OST": "Puis Moïse envoya, de Kadès, des messagers au roi d'Édom, pour lui dire: Ainsi a dit ton frère Israël: Tu sais tous les maux qui nous sont survenus;",
+        "S21": "De Kadès, Moïse envoya des messagers au roi d'Edom pour lui annoncer: «Voici ce que dit ton frère Israël: Tu sais toutes les souffrances que nous avons éprouvées."
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "Jadis, nos ancêtres se sont rendus en Egypte, où nous avons séjourné de nombreuses années. Mais les Egyptiens nous ont maltraités, après avoir maltraité nos ancêtres.",
+        "DBY": "Nos pères descendirent en Égypte, et nous avons habité en Égypte longtemps, et les Égyptiens nous ont maltraités, nous et nos pères.",
+        "KJV": "How our fathers went down into Egypt, and we have dwelt in Egypt a long time; and the Egyptians vexed us, and our fathers:",
+        "LSG": "Nos pères descendirent en Egypte, et nous y demeurâmes longtemps. Mais les Egyptiens nous ont maltraités, nous et nos pères.",
+        "MAB": "Comment nos pères descendirent en Egypte, où nous avons demeuré longtemps; et comment les Egyptiens nous ont maltraités, nous et nos pères.",
+        "OST": "Comment nos pères descendirent en Égypte; et nous avons demeuré longtemps en Égypte, et les Égyptiens nous ont maltraités, nous et nos pères;",
+        "S21": "Nos ancêtres sont descendus en Egypte et nous y avons habité longtemps. Mais les Egyptiens nous ont maltraités, nos ancêtres et nous."
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "Alors nous avons crié à l’Eternel, et il nous a entendus. Il a envoyé un ange et nous a fait sortir d’Egypte. A présent, nous sommes à Qadech, une ville située aux confins de ton territoire.",
+        "DBY": "Et nous avons crié à l'Éternel, et il a entendu notre voix, et il a envoyé un ange, et nous a fait sortir d'Égypte. Et voici, nous sommes à Kadès, ville à l'extrémité de tes limites.",
+        "KJV": "And when we cried unto the LORD, he heard our voice, and sent an angel, and hath brought us forth out of Egypt: and, behold, we [are] in Kadesh, a city in the uttermost of thy border:",
+        "LSG": "Nous avons crié à l'Eternel, et il a entendu notre voix. Il a envoyé un ange, et nous a fait sortir de l'Egypte. Et voici, nous sommes à Kadès, ville à l'extrémité de ton territoire.",
+        "MAB": "Et nous avons crié à l'Eternel, qui ayant entendu nos cris, a envoyé l'Ange, et nous a retirés d'Egypte. Or voici, nous sommes à Kadès, ville qui est au bout de tes frontières.",
+        "OST": "Et nous avons crié à l'Éternel, et il a entendu notre voix. Il a envoyé un ange, et nous a fait sortir d'Égypte. Et voici, nous sommes à Kadès, ville qui est à l'extrémité de ta frontière;",
+        "S21": "Nous avons crié à l'Eternel et il nous a entendus. Il a envoyé un ange et nous a fait sortir de l'Egypte. Nous nous trouvons à Kadès, ville située à l'extrémité de ton territoire."
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "Permets-nous de traverser ton pays! Nous ne passerons ni dans les champs ni dans les vignes, et nous ne boirons pas d’eau de vos puits; nous suivrons la route royale sans nous en écarter ni à droite ni à gauche, jusqu’à ce que nous ayons traversé ton territoire.",
+        "DBY": "Je te prie, que nous passions par ton pays; nous ne passerons pas par les champs, ni par les vignes, et nous ne boirons pas de l'eau des puits; nous marcherons par le chemin du roi, nous ne nous détournerons ni à droite ni à gauche, jusqu'à ce que nous ayons passé tes limites.",
+        "KJV": "Let us pass, I pray thee, through thy country: we will not pass through the fields, or through the vineyards, neither will we drink [of] the water of the wells: we will go by the king's [high] way, we will not turn to the right hand nor to the left, until we have passed thy borders.",
+        "LSG": "Laisse-nous passer par ton pays; nous ne traverserons ni les champs, ni les vignes, et nous ne boirons pas l'eau des puits; nous suivrons la route royale, sans nous détourner à droite ou à gauche, jusqu'à ce que nous ayons franchi ton territoire.",
+        "MAB": "Je te prie que nous passions par ton pays; nous ne passerons point par les champs, ni par les vignes, et nous ne boirons point de l'eau d'aucun puits; nous marcherons par le chemin royal; nous ne nous détournerons ni à droite ni à gauche, jusqu'à ce que nous ayons passé tes limites.",
+        "OST": "Permets que nous passions par ton pays; nous ne passerons ni par les champs, ni par les vignes, et nous ne boirons pas l'eau des puits; nous marcherons par le chemin royal, nous ne nous détournerons ni à droite ni à gauche, jusqu'à ce que nous ayons passé ta frontière.",
+        "S21": "Laisse-nous passer par ton pays. Nous ne traverserons ni les champs ni les vignes et nous ne boirons pas l'eau des puits. Nous suivrons la route royale, sans nous en écarter à droite ou à gauche, jusqu'à ce que nous ayons franchi ton territoire.»"
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "Le roi d’Edom lui répondit:\r\n—Vous ne traverserez pas mon pays, sinon je vous attaquerai avec mon armée.",
+        "DBY": "Et Édom lui dit: Tu ne passeras pas chez moi, de peur que je ne sorte à ta rencontre avec l'épée.",
+        "KJV": "And Edom said unto him, Thou shalt not pass by me, lest I come out against thee with the sword.",
+        "LSG": "Edom lui dit: Tu ne passeras point chez moi, sinon je sortirai à ta rencontre avec l'épée.",
+        "MAB": "Et Edom lui dit : Tu ne passeras point par mon pays, de peur que je ne sorte en armes à ta rencontre.",
+        "OST": "Mais Édom lui dit: Tu ne passeras point chez moi, de peur que je ne sorte à ta rencontre avec l'épée.",
+        "S21": "Edom lui dit: «Tu ne passeras pas chez moi, sinon je sortirai à ta rencontre avec l'épée.»"
+      }
+    },
+    {
+      "verse": 19,
+      "texts": {
+        "BDS": "Les émissaires d’Israël lui dirent:\r\n—Nous ne ferons que suivre la grande route; et si nous buvons de ton eau, nous et nos troupeaux, nous t’en payerons le prix, nous ne demandons rien d’autre que le droit de passer à pied.",
+        "DBY": "Et les fils d'Israël lui dirent: Nous monterons par le chemin battu; et si nous buvons de tes eaux, moi et mon bétail, j'en donnerai le prix; seulement, sans autre chose, je passerai avec mes pieds.",
+        "KJV": "And the children of Israel said unto him, We will go by the high way: and if I and my cattle drink of thy water, then I will pay for it: I will only, without [doing] any thing [else], go through on my feet.",
+        "LSG": "Les enfants d'Israël lui dirent: Nous monterons par la grande route; et, si nous buvons de ton eau, moi et mes troupeaux, j'en paierai le prix; je ne ferai que passer avec mes pieds, pas autre chose.",
+        "MAB": "Les enfants d'Israël lui répondirent : Nous monterons par le grand chemin, et si nous buvons de tes eaux, moi et mes bêtes, je t'en payerai le prix; seulement que j'y prenne mon passage.",
+        "OST": "Les enfants d'Israël lui répondirent: Nous monterons par le grand chemin; et si nous buvons tes eaux, moi et mes troupeaux, je les paierai. Seulement que j'y passe de mes pieds; pas autre chose.",
+        "S21": "Les Israélites lui dirent: «Nous monterons par la grande route et, si nous buvons de ton eau, mes troupeaux et moi, j'en paierai le prix. Je ne ferai que passer avec mes pieds, rien d’autre.»"
+      }
+    },
+    {
+      "verse": 20,
+      "texts": {
+        "BDS": "Mais le roi répondit:\r\n—Vous ne passerez pas!\r\nEt les Edomites marchèrent à la rencontre des Israélites avec des forces considérables et une armée puissante.",
+        "DBY": "Et Édom dit: Tu ne passeras pas. Et Édom sortit à sa rencontre avec un grand peuple, et à main forte.",
+        "KJV": "And he said, Thou shalt not go through. And Edom came out against him with much people, and with a strong hand.",
+        "LSG": "Il répondit: Tu ne passeras pas! Et Edom sortit à sa rencontre avec un peuple nombreux et à main forte.",
+        "MAB": "Mais [Edom] lui dit : Tu n'y passeras point; et sur cela Edom sortit à sa rencontre avec une grande multitude, et à main armée.",
+        "OST": "Mais il dit: Tu ne passeras point. Et Édom sortit à sa rencontre avec une grande multitude et à main armée.",
+        "S21": "Edom répondit: «Tu ne passeras pas!» et il sortit à sa rencontre avec un peuple nombreux et puissamment armé."
+      }
+    },
+    {
+      "verse": 21,
+      "texts": {
+        "BDS": "Devant le refus d’Edom de donner le droit de passage aux Israélites sur son territoire, ces derniers prirent une autre direction.",
+        "DBY": "Et Édom refusa de laisser passer Israël par ses limites; et Israël se détourna d'auprès de lui.",
+        "KJV": "Thus Edom refused to give Israel passage through his border: wherefore Israel turned away from him.",
+        "LSG": "Ainsi Edom refusa de donner passage à Israël par son territoire. Et Israël se détourna de lui.",
+        "MAB": "Ainsi Edom ne voulut point permettre à Israël de passer par ses frontières; c'est pourquoi Israël se détourna de lui.",
+        "OST": "Ainsi Édom refusa à Israël la permission de passer par sa frontière; et Israël se détourna de lui.",
+        "S21": "Ainsi Edom refusa d’accorder à Israël l’autorisation de passer par son territoire et Israël fit un détour."
+      }
+    },
+    {
+      "verse": 22,
+      "texts": {
+        "BDS": "Toute la communauté des Israélites quitta Qadech. Ils arrivèrent à la montagne de Hor.",
+        "DBY": "Et ils partirent de Kadès; et les fils d'Israël, toute l'assemblée, vinrent à la montagne de Hor.",
+        "KJV": "And the children of Israel, [even] the whole congregation, journeyed from Kadesh, and came unto mount Hor.",
+        "LSG": "Toute l'assemblée des enfants d'Israël partit de Kadès, et arriva à la montagne de Hor.",
+        "MAB": "Et les enfants d'Israël, [savoir] toute l'assemblée, étant partis de Kadès vinrent en la montagne de Hor.",
+        "OST": "Et les enfants d'Israël, toute l'assemblée, partirent de Kadès et vinrent à la montagne de Hor.",
+        "S21": "Toute l'assemblée des Israélites partit de Kadès et arriva au mont Hor."
+      }
+    },
+    {
+      "verse": 23,
+      "texts": {
+        "BDS": "Là, à la montagne de Hor, sur les confins d’Edom, l’Eternel dit à Moïse et à Aaron:",
+        "DBY": "Et l'Éternel parla à Moïse et à Aaron, dans la montagne de Hor, sur la limite du pays d'Édom, en disant:",
+        "KJV": "And the LORD spake unto Moses and Aaron in mount Hor, by the coast of the land of Edom, saying,",
+        "LSG": "L'Eternel dit à Moïse et à Aaron, vers la montagne de Hor, sur la frontière du pays d'Edom:",
+        "MAB": "Et l'Eternel parla à Moïse et à Aaron en la montagne de Hor, près des frontières du pays d'Edom, en disant :",
+        "OST": "Et l'Éternel parla à Moïse et à Aaron, dans la montagne de Hor, sur la frontière du pays d'Édom, en disant:",
+        "S21": "L'Eternel dit à Moïse et à Aaron vers le mont Hor, sur la frontière du pays d'Edom:"
+      }
+    },
+    {
+      "verse": 24,
+      "texts": {
+        "BDS": "—Aaron va bientôt rejoindre ses ancêtres décédés. Il n’entrera pas dans le pays que je vais donner aux Israélites car vous avez désobéi à mes ordres au sujet des eaux de Meriba.",
+        "DBY": "Aaron sera recueilli vers ses peuples, car il n'entrera pas dans le pays que j'ai donné aux fils d'Israël, parce que vous vous êtes rebellés contre mon commandement aux eaux de Meriba.",
+        "KJV": "Aaron shall be gathered unto his people: for he shall not enter into the land which I have given unto the children of Israel, because ye rebelled against my word at the water of Meribah.",
+        "LSG": "Aaron va être recueilli auprès de son peuple; car il n'entrera point dans le pays que je donne aux enfants d'Israël, parce que vous avez été rebelles à mon ordre, aux eaux de Meriba.",
+        "MAB": "Aaron sera recueilli vers ses peuples, car il n'entrera point au pays que j'ai donné aux enfants d'Israël, parce que vous avez été rebelles à mon commandement aux eaux de la dispute.",
+        "OST": "Aaron sera recueilli vers ses peuples; car il n'entrera point au pays que j'ai donné aux enfants d'Israël, parce que vous avez été rebelles à mon commandement, aux eaux de Mériba.",
+        "S21": "«Aaron va rejoindre les siens. En effet, il n'entrera pas dans le pays que je donne aux Israélites parce que vous vous êtes rebellés contre mon ordre, aux eaux de Meriba."
+      }
+    },
+    {
+      "verse": 25,
+      "texts": {
+        "BDS": "Prends donc Aaron et son fils Eléazar, et fais-les monter sur la montagne de Hor.",
+        "DBY": "Prends Aaron et Éléazar, son fils, et fais-les monter sur la montagne de Hor;",
+        "KJV": "Take Aaron and Eleazar his son, and bring them up unto mount Hor:",
+        "LSG": "Prends Aaron et son fils Eléazar, et fais-les monter sur la montagne de Hor.",
+        "MAB": "Prends [donc] Aaron et Eléazar son fils, et fais les monter sur la montagne de Hor.",
+        "OST": "Prends Aaron et Éléazar, son fils, et fais-les monter sur la montagne de Hor;",
+        "S21": "Prends Aaron et son fils Eléazar, et fais-les monter sur le mont Hor."
+      }
+    },
+    {
+      "verse": 26,
+      "texts": {
+        "BDS": "Tu enlèveras à Aaron ses vêtements de prêtre et tu en revêtiras son fils Eléazar. Alors Aaron ira rejoindre les siens: il mourra là.",
+        "DBY": "et dépouille Aaron de ses vêtements, et fais-les revêtir à Éléazar, son fils; et Aaron sera recueilli, et mourra là.",
+        "KJV": "And strip Aaron of his garments, and put them upon Eleazar his son: and Aaron shall be gathered [unto his people], and shall die there.",
+        "LSG": "Dépouille Aaron de ses vêtements, et fais-les revêtir à Eléazar, son fils. C'est là qu'Aaron sera recueilli et qu'il mourra.",
+        "MAB": "Puis fais dépouiller Aaron de ses vêtements, et fais en revêtir Eléazar son fils; et Aaron sera recueilli, et mourra là.",
+        "OST": "Puis dépouille Aaron de ses vêtements, et revêts-en Éléazar son fils; et Aaron sera recueilli, et mourra là.",
+        "S21": "Retire à Aaron ses vêtements et mets-les à son fils Eléazar. C'est là qu'Aaron s’en ira et mourra.»"
+      }
+    },
+    {
+      "verse": 27,
+      "texts": {
+        "BDS": "Moïse fit ce que l’Eternel avait ordonné. Les trois hommes gravirent la montagne de Hor sous les yeux de toute la communauté.",
+        "DBY": "Et Moïse fit comme l'Éternel avait commandé; et ils montèrent sur la montagne de Hor aux yeux de toute l'assemblée.",
+        "KJV": "And Moses did as the LORD commanded: and they went up into mount Hor in the sight of all the congregation.",
+        "LSG": "Moïse fit ce que l'Eternel avait ordonné. Ils montèrent sur la montagne de Hor, aux yeux de toute l'assemblée.",
+        "MAB": "Moïse donc fit ainsi que l'Eternel l'avait commandé; et ils montèrent sur la montagne de Hor, toute l'assemblée le voyant.",
+        "OST": "Moïse fit donc comme l'Éternel avait commandé; et ils montèrent sur la montagne de Hor, à la vue de toute l'assemblée.",
+        "S21": "Moïse fit ce que l'Eternel avait ordonné. Ils montèrent sur le mont Hor sous les yeux de toute l'assemblée."
+      }
+    },
+    {
+      "verse": 28,
+      "texts": {
+        "BDS": "Moïse ôta les vêtements d’Aaron et en revêtit son fils Eléazar. Aaron mourut là au sommet de la montagne. Moïse et Eléazar redescendirent de la montagne.",
+        "DBY": "Et Moïse dépouilla Aaron de ses vêtements, et en revêtit Éléazar, son fils; et Aaron mourut là, au sommet de la montagne; puis Moïse et Éléazar descendirent de la montagne.",
+        "KJV": "And Moses stripped Aaron of his garments, and put them upon Eleazar his son; and Aaron died there in the top of the mount: and Moses and Eleazar came down from the mount.",
+        "LSG": "Moïse dépouilla Aaron de ses vêtements, et les fit revêtir à Eléazar, son fils. Aaron mourut là, au sommet de la montagne. Moïse et Eléazar descendirent de la montagne.",
+        "MAB": "Et Moïse fit dépouiller Aaron de ses vêtements et en fit revêtir Eléazar son fils; puis Aaron mourut là au sommet de la montagne, et Moïse et Eléazar descendirent de la montagne.",
+        "OST": "Et Moïse dépouilla Aaron de ses vêtements, et en revêtit Éléazar son fils. Or Aaron mourut là, au sommet de la montagne; et Moïse et Éléazar descendirent de la montagne.",
+        "S21": "Moïse retira à Aaron ses vêtements et les mit à son fils Eléazar. Aaron mourut là, au sommet de la montagne, puis Moïse et Eléazar descendirent de la montagne."
+      }
+    },
+    {
+      "verse": 29,
+      "texts": {
+        "BDS": "Toute la communauté comprit qu’Aaron était mort. Alors tout le peuple d’Israël célébra son deuil pendant trente jours.",
+        "DBY": "Et toute l'assemblée vit qu'Aaron avait expiré, et toute la maison d'Israël pleura Aaron trente jours.",
+        "KJV": "And when all the congregation saw that Aaron was dead, they mourned for Aaron thirty days, [even] all the house of Israel.",
+        "LSG": "Toute l'assemblée vit qu'Aaron avait expiré, et toute la maison d'Israël pleura Aaron pendant trente jours.",
+        "MAB": "Et toute l'assemblée, [savoir] toute la maison d'Israël, voyant qu'Aaron était mort, ils le pleurèrent trente jours.",
+        "OST": "Et toute l'assemblée vit qu'Aaron avait expiré; et toute la maison d'Israël pleura Aaron pendant trente jours.",
+        "S21": "Toute l'assemblée vit qu'Aaron avait expiré, et toute la communauté d'Israël pleura Aaron pendant 30 jours."
+      }
+    }
+  ]
+}

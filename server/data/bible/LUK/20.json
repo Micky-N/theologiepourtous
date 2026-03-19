@@ -1,0 +1,570 @@
+{
+  "bookCode": "LUK",
+  "chapter": 20,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "Un de ces jours-là, pendant que Jésus enseignait le peuple dans la cour du Temple et lui annonçait la Bonne Nouvelle, les chefs des prêtres survinrent avec les spécialistes de la Loi et les responsables du peuple",
+        "DBY": "Et il arriva, l'un de ces jours, comme il enseignait le peuple dans le temple et évangélisait, que les principaux sacrificateurs et les scribes survinrent avec les anciens.",
+        "KJV": "And it came to pass, [that] on one of those days, as he taught the people in the temple, and preached the gospel, the chief priests and the scribes came upon [him] with the elders,",
+        "LSG": "Un de ces jours-là, comme Jésus enseignait le peuple dans le temple et qu'il annonçait la bonne nouvelle, les principaux sacrificateurs et les scribes, avec les anciens, survinrent,",
+        "MAB": "Et il arriva un de ces jours-là, comme il enseignait le peuple dans le Temple, et qu'il évangélisait, que les principaux Sacrificateurs et les Scribes survinrent avec les Anciens.",
+        "OST": "Un jour que Jésus enseignait le peuple dans le temple, et qu'il annonçait l'Évangile, les principaux sacrificateurs et les scribes, avec les anciens, étant survenus,",
+        "S21": "Un de ces jours-là, Jésus enseignait le peuple dans le temple et annonçait la bonne nouvelle. Les [chefs des] prêtres et les spécialistes de la loi, avec les anciens, survinrent alors"
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "et ils l’interpellèrent en ces termes:\r\n—Dis-nous de quel droit tu agis ainsi. Ou bien, qui est celui qui t’a donné ce droit?",
+        "DBY": "Et ils lui parlèrent, disant: Dis-nous par quelle autorité tu fais ces choses, ou qui est celui qui t'a donné cette autorité?",
+        "KJV": "And spake unto him, saying, Tell us, by what authority doest thou these things? or who is he that gave thee this authority?",
+        "LSG": "et lui dirent: Dis-nous, par quelle autorité fais-tu ces choses, ou qui est celui qui t'a donné cette autorité?",
+        "MAB": "Et ils lui parlèrent, en disant : dis-nous par quelle autorité tu fais ces choses, ou qui est celui qui t'a donné cette autorité?",
+        "OST": "Lui parlèrent et lui dirent: Dis-nous par quelle autorité tu fais ces choses, et qui est celui qui t'a donné cette autorité?",
+        "S21": "et lui dirent: «Dis-nous par quelle autorité tu fais ces choses, ou qui t’a donné cette autorité.»"
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "—Moi aussi, j’ai une question à vous poser, répliqua Jésus. A vous de répondre:",
+        "DBY": "Et répondant, il leur dit: Je vous demanderai, moi aussi, une chose,",
+        "KJV": "And he answered and said unto them, ‹I will also ask you one thing; and answer me:›",
+        "LSG": "Il leur répondit: Je vous adresserai aussi une question. Dites-moi,",
+        "MAB": "Et Jésus répondant leur dit : je vous interrogerai aussi sur un article, et répondez-moi.",
+        "OST": "Il répondit et leur dit: Je vous demanderai aussi une chose; dites-la-moi:",
+        "S21": "Il leur répondit: «Je vous poserai moi aussi une question. Dites-moi,"
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "De qui Jean tenait-il son mandat pour baptiser? De Dieu ou des hommes?",
+        "DBY": "et dites-moi: Le baptême de Jean était-il du ciel, ou des hommes?",
+        "KJV": "‹The baptism of John, was it from heaven, or of men?›",
+        "LSG": "le baptême de Jean venait-il du ciel, ou des hommes?",
+        "MAB": "Le Baptême de Jean était-il du ciel, ou des hommes?",
+        "OST": "Le baptême de Jean venait-il du ciel ou des hommes?",
+        "S21": "le baptême de Jean venait-il du ciel ou des hommes?»"
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "Ils se mirent à raisonner entre eux: Si nous disons: «De Dieu», il va nous demander: «Pourquoi n’avez-vous pas cru en lui?»",
+        "DBY": "Et ils raisonnèrent entre eux, disant: Si nous disons: Du ciel, il dira: Pourquoi ne l'avez-vous pas cru?",
+        "KJV": "And they reasoned with themselves, saying, If we shall say, From heaven; he will say, Why then believed ye him not?",
+        "LSG": "Mais ils raisonnèrent ainsi entre eux: Si nous répondons: Du ciel, il dira: Pourquoi n'avez-vous pas cru en lui?",
+        "MAB": "Or ils disputaient entre eux, disant : si nous disons : du ciel; il dira : pourquoi donc ne l'avez-vous point cru?",
+        "OST": "Or, ils raisonnaient ainsi en eux-mêmes: Si nous disons: Du ciel, il dira: Pourquoi donc n'y avez-vous pas cru?",
+        "S21": "Mais ils raisonnèrent ainsi entre eux: «Si nous répondons: ‘Du ciel’, il dira: ‘Pourquoi n'avez-vous pas cru en lui?’"
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "Mais si nous répondons: «Des hommes», tout le peuple va nous tuer à coups de pierres, car ces gens-là sont tous convaincus que Jean était un prophète.",
+        "DBY": "Et si nous disons: Des hommes, tout le peuple nous lapidera, car il est persuadé que Jean était un prophète.",
+        "KJV": "But and if we say, Of men; all the people will stone us: for they be persuaded that John was a prophet.",
+        "LSG": "Et si nous répondons: Des hommes, tout le peuple nous lapidera, car il est persuadé que Jean était un prophète.",
+        "MAB": "Et si nous disons : des hommes, tout le peuple nous lapidera; car ils sont persuadés que Jean était un Prophète;",
+        "OST": "Et si nous disons: Des hommes, tout le peuple nous lapidera; car il est persuadé que Jean est un prophète.",
+        "S21": "Et si nous répondons: ‘Des hommes’, tout le peuple nous lapidera, car il est persuadé que Jean était un prophète.»"
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "Ils répondirent donc qu’ils ne savaient pas d’où Jean tenait son mandat.",
+        "DBY": "Et ils répondirent qu'ils ne savaient pas d'où il était.",
+        "KJV": "And they answered, that they could not tell whence [it was].",
+        "LSG": "Alors ils répondirent qu'ils ne savaient d'où il venait.",
+        "MAB": "C'est pourquoi ils répondirent qu'ils ne savaient d'où il était.",
+        "OST": "C'est pourquoi ils répondirent qu'ils ne savaient d'où il venait.",
+        "S21": "Alors ils répondirent qu'ils ne savaient pas d'où il venait."
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "—Eh bien, répliqua Jésus, moi non plus, je ne vous dirai pas de quel droit j’agis comme je le fais.",
+        "DBY": "Et Jésus leur dit: Moi non plus, je ne vous dis pas par quelle autorité je fais ces choses.",
+        "KJV": "And Jesus said unto them, ‹Neither tell I you by what authority I do these things.›",
+        "LSG": "Et Jésus leur dit: Moi non plus, je ne vous dirai pas par quelle autorité je fais ces choses.",
+        "MAB": "Et Jésus leur dit : je ne vous dirai point aussi par quelle autorité je fais ces choses.",
+        "OST": "Et Jésus leur dit: Je ne vous dirai pas non plus par quelle autorité je fais ces choses.",
+        "S21": "Jésus leur dit: «Moi non plus, je ne vous dirai pas par quelle autorité je fais ces choses.»"
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "Il s’adressa ensuite au peuple et se mit à raconter cette parabole:\r\n—Un homme planta une vigne; il la loua à des vignerons et partit en voyage pour un temps assez long.",
+        "DBY": "Et il se mit à dire au peuple cette parabole: Un homme planta une vigne, et la loua à des cultivateurs, et s'en alla hors du pays pour longtemps.",
+        "KJV": "Then began he to speak to the people this parable; ‹A certain man planted a vineyard, and let it forth to husbandmen, and went into a far country for a long time.›",
+        "LSG": "Il se mit ensuite à dire au peuple cette parabole: Un homme planta une vigne, l'afferma à des vignerons, et quitta pour longtemps le pays.",
+        "MAB": "Alors il se mit à dire au peuple cette parabole : Un homme planta une vigne, et la loua à des vignerons, et fut longtemps dehors.",
+        "OST": "Alors il se mit à dire au peuple cette parabole: Un homme planta une vigne, et la loua à des vignerons, et fut longtemps absent.",
+        "S21": "Il se mit ensuite à dire cette parabole au peuple: «Un homme planta une vigne, la loua à des vignerons et quitta pour longtemps le pays."
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "Au moment des vendanges, il envoya un serviteur auprès des vignerons afin qu’ils lui remettent une partie du produit de la vigne, mais les vignerons le rouèrent de coups et le renvoyèrent les mains vides.",
+        "DBY": "Et en la saison, il envoya un esclave aux cultivateurs, afin qu'ils lui donnassent du fruit de la vigne; mais les cultivateurs, l'ayant battu, le renvoyèrent à vide.",
+        "KJV": "‹And at the season he sent a servant to the husbandmen, that they should give him of the fruit of the vineyard: but the husbandmen beat him, and sent› [him] ‹away empty.›",
+        "LSG": "Au temps de la récolte, il envoya un serviteur vers les vignerons, pour qu'ils lui donnent une part du produit de la vigne. Les vignerons le battirent, et le renvoyèrent à vide.",
+        "MAB": "Et dans la saison [du fruit], il envoya un serviteur vers les vignerons, afin qu'ils lui donnassent du fruit de la vigne, mais les vignerons l'ayant battu, le renvoyèrent à vide.",
+        "OST": "Et la saison étant venue, il envoya un serviteur vers les vignerons, afin qu'ils lui donnassent du fruit de la vigne; mais les vignerons l'ayant battu, le renvoyèrent à vide.",
+        "S21": "Le moment venu, il envoya un serviteur vers les vignerons pour qu'ils lui donnent sa part de récolte de la vigne. Mais les vignerons le battirent et le renvoyèrent les mains vides."
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "Le propriétaire leur envoya un autre serviteur. Celui-là aussi, ils le renvoyèrent les mains vides, après l’avoir roué de coups et couvert d’insultes.",
+        "DBY": "Et il envoya encore un autre esclave; mais l'ayant battu lui aussi, et l'ayant traité ignominieusement, ils le renvoyèrent à vide.",
+        "KJV": "‹And again he sent another servant: and they beat him also, and entreated› [him] ‹shamefully, and sent› [him] away ‹empty.›",
+        "LSG": "Il envoya encore un autre serviteur; ils le battirent, l'outragèrent, et le renvoyèrent à vide.",
+        "MAB": "Il leur envoya encore un autre serviteur; mais ils le battirent aussi, et après l'avoir traité indignement, ils le renvoyèrent à vide.",
+        "OST": "Et il envoya encore un autre serviteur; mais l'ayant aussi battu et traité outrageusement, ils le renvoyèrent à vide.",
+        "S21": "Il envoya encore un autre serviteur; ils le battirent lui aussi, l'insultèrent et le renvoyèrent les mains vides."
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "Le maître persévéra et leur en envoya un troisième. Celui-là aussi, ils le chassèrent, après l’avoir grièvement blessé.",
+        "DBY": "Et il en envoya encore un troisième; mais ils blessèrent aussi celui-ci, et le jetèrent dehors.",
+        "KJV": "‹And again he sent a third: and they wounded him also, and cast› [him] ‹out›.",
+        "LSG": "Il en envoya encore un troisième; ils le blessèrent, et le chassèrent.",
+        "MAB": "Il en envoya encore un troisième, mais ils le blessèrent aussi, et le jetèrent dehors.",
+        "OST": "Il en envoya encore un troisième, mais ils le blessèrent aussi, et le chassèrent.",
+        "S21": "Il en envoya encore un troisième, mais ils le blessèrent aussi et le chassèrent."
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "Le propriétaire du vignoble se dit alors: Que faire? Je leur enverrai mon fils bien-aimé; peut-être auront-ils du respect pour lui.",
+        "DBY": "Et le maître de la vigne dit: Que ferai-je? J'enverrai mon fils bien-aimé; peut-être que, quand ils verront celui-ci, ils le respecteront.",
+        "KJV": "‹Then said the lord of the vineyard, What shall I do? I will send my beloved son: it may be they will reverence› [him] ‹when they see him.›",
+        "LSG": "Le maître de la vigne dit: Que ferai-je? J'enverrai mon fils bien-aimé; peut-être auront-ils pour lui du respect.",
+        "MAB": "Alors le seigneur de la vigne dit : que ferai-je? j'y enverrai mon fils, le bien aimé; peut-être que quand ils le verront, ils le respecteront.",
+        "OST": "Le maître de la vigne dit alors: Que ferai-je? J'enverrai mon fils bien-aimé; peut-être qu'en le voyant ils le respecteront.",
+        "S21": "Le maître de la vigne se dit alors: ‘Que faire? J'enverrai mon fils bien-aimé, peut-être [en le voyant] auront-ils du respect pour lui.’"
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "Mais quand les vignerons l’aperçurent, ils raisonnèrent ainsi entre eux: «Voilà l’héritier! Tuons-le, afin que l’héritage nous revienne!»",
+        "DBY": "Mais quand les cultivateurs le virent, ils raisonnèrent entre eux, disant: Celui-ci est l'héritier, tuons-le, afin que l'héritage soit à nous.",
+        "KJV": "‹But when the husbandmen saw him, they reasoned among themselves, saying, This is the heir: come, let us kill him, that the inheritance may be ours.›",
+        "LSG": "Mais, quand les vignerons le virent, ils raisonnèrent entre eux, et dirent: Voici l'héritier; tuons-le, afin que l'héritage soit à nous.",
+        "MAB": "Mais quand les vignerons le virent, ils raisonnèrent entre eux, en disant : celui-ci est l'héritier; venez, tuons-le, afin que l'héritage soit à nous.",
+        "OST": "Mais les vignerons l'ayant vu, raisonnèrent ainsi entre eux, disant: Celui-ci est l'héritier; venez, tuons-le, afin que l'héritage soit à nous.",
+        "S21": "Mais quand les vignerons le virent, ils raisonnèrent entre eux et dirent: ‘Voilà l'héritier. Tuons-le, afin que l'héritage soit à nous.’"
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "Alors ils le traînèrent hors du vignoble et le tuèrent.\r\nComment le propriétaire de la vigne agira-t-il envers eux?",
+        "DBY": "Et l'ayant jeté hors de la vigne, ils le tuèrent. Que leur fera donc le maître de la vigne?",
+        "KJV": "‹So they cast him out of the vineyard, and killed› [him]. ‹What therefore shall the lord of the vineyard do unto them?›",
+        "LSG": "Et ils le jetèrent hors de la vigne, et le tuèrent. Maintenant, que leur fera le maître de la vigne?",
+        "MAB": "Et ils le jetèrent hors de la vigne, et le tuèrent. Que leur fera donc le maître de la vigne?",
+        "OST": "Et l'ayant jeté hors de la vigne, ils le tuèrent. Que fera donc le maître de la vigne?",
+        "S21": "Ils le jetèrent hors de la vigne et le tuèrent. Maintenant, que leur fera donc le maître de la vigne?"
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "Il viendra lui-même, fera exécuter ces vignerons et confiera le soin de sa vigne à d’autres.\r\n—Pas question! s’écrièrent les auditeurs de Jésus en entendant cela.",
+        "DBY": "Il viendra et fera périr ces cultivateurs, et donnera la vigne à d'autres. Et l'ayant entendu, ils dirent: Qu'ainsi n'advienne!",
+        "KJV": "‹He shall come and destroy these husbandmen, and shall give the vineyard to others.› And when they heard [it], they said, God forbid.",
+        "LSG": "Il viendra, fera périr ces vignerons, et il donnera la vigne à d'autres. Lorsqu'ils eurent entendu cela, ils dirent: A Dieu ne plaise!",
+        "MAB": "Il viendra, et fera périr ces vignerons-là, et il donnera la vigne à d'autres. Ce qu'eux ayant entendu, ils dirent : à Dieu ne plaise!",
+        "OST": "Il viendra, et fera périr ces vignerons et il donnera la vigne à d'autres. Les Juifs ayant entendu cela, dirent:",
+        "S21": "Il viendra, fera mourir ces vignerons et donnera la vigne à d'autres.»\r\nEn entendant cela, ils dirent: «Certainement pas!»"
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "Mais lui, fixant le regard sur eux, leur dit:\r\n—Que signifie donc ce texte de l’Ecriture:\r\nLa pierre rejetée par les constructeurs\r\nest devenue la pierre principale, à l’angle de l’édifice.",
+        "DBY": "Et lui, les regardant, dit: Qu'est-ce donc que ceci qui est écrit: \"La pierre que ceux qui bâtissaient ont rejetée, celle-là est devenue la maîtresse pierre du coin\"?",
+        "KJV": "And he beheld them, and said, ‹What is this then that is written, The stone which the builders rejected, the same is become the head of the corner?›",
+        "LSG": "Mais, jetant les regards sur eux, Jésus dit: Que signifie donc ce qui est écrit: La pierre qu'ont rejetée ceux qui bâtissaient Est devenue la principale de l'angle?",
+        "MAB": "Alors il les regarda, et dit : que veut donc dire ce qui est écrit : la pierre que ceux qui bâtissent ont rejetée, est devenue la maîtresse pierre du coin?",
+        "OST": "Qu'ainsi n'advienne! Alors Jésus les regardant, leur dit: Que veut donc dire ce qui est écrit: La pierre que ceux qui bâtissaient ont rejetée, est devenue la principale pierre de l'angle?",
+        "S21": "Mais Jésus jeta les regards sur eux et dit: «Que signifie donc ce qui est écrit: La pierre qu'ont rejetée ceux qui construisaient est devenue la pierre angulaire?"
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "Celui qui tombera contre cette pierre-là se brisera la nuque,\r\net si elle tombe sur quelqu’un, elle l’écrasera?",
+        "DBY": "Quiconque tombera sur cette pierre, sera brisé; mais celui sur qui elle tombera, elle le broiera.",
+        "KJV": "‹Whosoever shall fall upon that stone shall be broken; but on whomsoever it shall fall, it will grind him to powder.›",
+        "LSG": "Quiconque tombera sur cette pierre s'y brisera, et celui sur qui elle tombera sera écrasé.",
+        "MAB": "Quiconque tombera sur cette pierre, sera brisé; et elle écrasera celui sur qui elle tombera.",
+        "OST": "Quiconque tombera sur cette pierre sera brisé, et elle écrasera celui sur qui elle tombera.",
+        "S21": "Toute personne qui tombera sur cette pierre s'y brisera, et celui sur qui elle tombera sera écrasé.»"
+      }
+    },
+    {
+      "verse": 19,
+      "texts": {
+        "BDS": "Les spécialistes de la Loi et les chefs des prêtres cherchèrent à mettre immédiatement la main sur Jésus, mais ils eurent peur des réactions du peuple. En effet, ils avaient bien compris que c’était eux que Jésus visait par cette parabole.",
+        "DBY": "Et les principaux sacrificateurs et les scribes cherchèrent, en cette heure même, à mettre les mains sur lui; et ils craignaient le peuple, car ils connurent qu'il avait dit cette parabole contre eux.",
+        "KJV": "And the chief priests and the scribes the same hour sought to lay hands on him; and they feared the people: for they perceived that he had spoken this parable against them.",
+        "LSG": "Les principaux sacrificateurs et les scribes cherchèrent à mettre la main sur lui à l'heure même, mais ils craignirent le peuple. Ils avaient compris que c'était pour eux que Jésus avait dit cette parabole.",
+        "MAB": "Les principaux Sacrificateurs et les Scribes cherchèrent dans ce même instant à mettre les mains sur lui : car ils connurent bien qu'il avait dit cette parabole contre eux, mais ils craignirent le peuple.",
+        "OST": "Alors les principaux sacrificateurs et les scribes cherchèrent à l'heure même à jeter les mains sur lui; car ils avaient reconnu qu'il avait dit cette parabole contre eux; mais ils craignirent le peuple.",
+        "S21": "Les chefs des prêtres et les spécialistes de la loi cherchèrent à l'arrêter au moment même, mais ils redoutaient les réactions [du peuple]. Ils avaient compris que c'était pour eux que Jésus avait dit cette parabole."
+      }
+    },
+    {
+      "verse": 20,
+      "texts": {
+        "BDS": "Dès lors, ils le surveillèrent de près et envoyèrent auprès de lui des agents qui feraient semblant d’être des hommes pieux. Ils devaient le prendre en défaut dans ses paroles. Ainsi ils pourraient le livrer au pouvoir et à l’autorité du gouverneur romain.",
+        "DBY": "Et l'observant, ils envoyèrent des agents secrets, qui feignaient d'être justes, pour le surprendre en quelque parole, de manière à le livrer au magistrat et au pouvoir du gouverneur.",
+        "KJV": "And they watched [him], and sent forth spies, which should feign themselves just men, that they might take hold of his words, that so they might deliver him unto the power and authority of the governor.",
+        "LSG": "Ils se mirent à observer Jésus; et ils envoyèrent des gens qui feignaient d'être justes, pour lui tendre des pièges et saisir de lui quelque parole, afin de le livrer au magistrat et à l'autorité du gouverneur.",
+        "MAB": "Et l'observant ils envoyèrent des gens concertés, qui contrefaisaient les gens de bien, pour le surprendre en paroles, afin de le livrer à la domination et à la puissance du Gouverneur,",
+        "OST": "C'est pourquoi, l'observant de près, ils apostèrent des gens qui contrefaisaient les gens de bien, pour le surprendre dans ses paroles, afin de le livrer au magistrat et au pouvoir du gouverneur.",
+        "S21": "Ils se mirent à observer Jésus et ils envoyèrent des hommes qui faisaient semblant d'être des justes pour le prendre au piège de ses propres paroles, afin de le livrer au pouvoir et à l'autorité du gouverneur."
+      }
+    },
+    {
+      "verse": 21,
+      "texts": {
+        "BDS": "Ces gens-là l’abordèrent donc:\r\n—Maître, nous savons que tu dis la vérité et que tu enseignes en toute droiture; tu ne tiens pas compte de la position sociale des gens, mais c’est en toute vérité que tu enseignes comment Dieu nous demande de vivre.",
+        "DBY": "Et ils l'interrogèrent, disant: Maître, nous savons que tu dis et que tu enseignes justement, et que tu n'as point égard à l'apparence des personnes, mais que tu enseignes la voie de Dieu avec vérité.",
+        "KJV": "And they asked him, saying, Master, we know that thou sayest and teachest rightly, neither acceptest thou the person [of any], but teachest the way of God truly:",
+        "LSG": "Ces gens lui posèrent cette question: Maître, nous savons que tu parles et enseignes droitement, et que tu ne regardes pas à l'apparence, mais que tu enseignes la voie de Dieu selon la vérité.",
+        "MAB": "Lesquels l'interrogèrent, en disant : Maître, nous savons que tu parles et que tu enseignes conformément à la justice, et que tu ne regardes point à l'apparence des personnes, mais que tu enseignes la voie de Dieu en vérité.",
+        "OST": "Ces gens lui adressèrent cette question: Maître, nous savons que tu parles et enseignes avec droiture, et que, sans faire acception de personne, tu enseignes la voie de Dieu selon la vérité.",
+        "S21": "Ils lui posèrent cette question: «Maître, nous savons que tu parles et enseignes avec droiture et que tu ne tiens pas compte de l'apparence, mais que tu enseignes le chemin de Dieu en toute vérité."
+      }
+    },
+    {
+      "verse": 22,
+      "texts": {
+        "BDS": "Eh bien, dis-nous, si oui ou non, nous avons le droit de payer des impôts à César?",
+        "DBY": "Nous est-il permis de payer le tribut à César, ou non?",
+        "KJV": "Is it lawful for us to give tribute unto Caesar, or no?",
+        "LSG": "Nous est-il permis, ou non, de payer le tribut à César?",
+        "MAB": "Nous est-il permis de payer le tribut à César, ou non?",
+        "OST": "Nous est-il permis de payer le tribut à César, ou non?",
+        "S21": "Nous est-il permis, ou non, de payer l'impôt à l'empereur?»"
+      }
+    },
+    {
+      "verse": 23,
+      "texts": {
+        "BDS": "Connaissant leur fourberie, Jésus leur répondit:",
+        "DBY": "Et s'apercevant de leur perfidie, il leur dit: Pourquoi me tentez-vous?",
+        "KJV": "But he perceived their craftiness, and said unto them, ‹Why tempt ye me?›",
+        "LSG": "Jésus, apercevant leur ruse, leur répondit:",
+        "MAB": "Mais lui ayant aperçu leur ruse, leur dit : pourquoi me tentez-vous?",
+        "OST": "Mais Jésus comprenant leur artifice, leur dit: Pourquoi me tentez-vous?",
+        "S21": "Jésus discerna leur ruse et leur répondit: «[Pourquoi me tendez-vous un piège?]"
+      }
+    },
+    {
+      "verse": 24,
+      "texts": {
+        "BDS": "—Montrez-moi une pièce d’argent! De qui porte-t-elle l’effigie et l’inscription?\r\n—De César.",
+        "DBY": "Montrez-moi un denier; de qui a-t-il l'image et l'inscription? Et répondant, ils dirent: De César.",
+        "KJV": "‹Shew me a penny. Whose image and superscription hath it?› They answered and said, Caesar's.",
+        "LSG": "Montrez-moi un denier. De qui porte-t-il l'effigie et l'inscription? De César, répondirent-ils.",
+        "MAB": "Montrez-moi un denier; de qui a-t-il l'image et l'inscription? ils lui répondirent : de César.",
+        "OST": "Montrez-moi un denier. De qui a-t-il l'image et l'inscription? Ils répondirent: De César.",
+        "S21": "Montrez-moi une pièce de monnaie. De qui porte-t-elle l'effigie et l'inscription?» «De l'empereur», répondirent-ils."
+      }
+    },
+    {
+      "verse": 25,
+      "texts": {
+        "BDS": "—Eh bien! leur dit-il, rendez à César ce qui revient à César, et à Dieu ce qui revient à Dieu.",
+        "DBY": "Et il leur dit: Rendez donc les choses de César à César, et les choses de Dieu à Dieu.",
+        "KJV": "And he said unto them, ‹Render therefore unto Caesar the things which be Caesar's, and unto God the things which be God's.›",
+        "LSG": "Alors il leur dit: Rendez donc à César ce qui est à César, et à Dieu ce qui est à Dieu.",
+        "MAB": "Et il leur dit : rendez donc à César les choses qui sont à César; et à Dieu les choses qui sont à Dieu.",
+        "OST": "Et il leur dit: Rendez donc à César ce qui est à César, et à Dieu ce qui est à Dieu.",
+        "S21": "Alors il leur dit: «Rendez donc à l’empereur ce qui est à l’empereur et à Dieu ce qui est à Dieu.»"
+      }
+    },
+    {
+      "verse": 26,
+      "texts": {
+        "BDS": "Ils furent incapables de le prendre en défaut dans les propos qu’il tenait devant le peuple et, décontenancés par sa réponse, ils ne trouvèrent rien à répliquer.",
+        "DBY": "Et il ne pouvaient le surprendre dans ses paroles devant le peuple; et étonnés de sa réponse, ils se turent.",
+        "KJV": "And they could not take hold of his words before the people: and they marvelled at his answer, and held their peace.",
+        "LSG": "Ils ne purent rien reprendre dans ses paroles devant le peuple; mais, étonnés de sa réponse, ils gardèrent le silence.",
+        "MAB": "Ainsi ils ne purent rien trouver à redire dans sa réponse en présence du peuple; mais tout étonnés de sa réponse, ils se turent.",
+        "OST": "Et ils ne purent le surprendre dans ses paroles devant le peuple; mais, s'étonnant de sa réponse, ils se turent.",
+        "S21": "Ils ne purent pas le prendre en défaut dans ce qu’il disait devant le peuple; étonnés de sa réponse, ils gardèrent le silence."
+      }
+    },
+    {
+      "verse": 27,
+      "texts": {
+        "BDS": "Quelques sadducéens, qui nient que les morts ressuscitent, vinrent trouver Jésus. Ils lui posèrent la question suivante:",
+        "DBY": "Et quelques-uns des sadducéens, qui nient qu'il y ait une résurrection, s'approchèrent, et l'interrogèrent, disant:",
+        "KJV": "Then came to [him] certain of the Sadducees, which deny that there is any resurrection; and they asked him,",
+        "LSG": "Quelques-uns des sadducéens, qui disent qu'il n'y a point de résurrection, s'approchèrent, et posèrent à Jésus cette question:",
+        "MAB": "Alors quelques-uns des Sadducéens, qui nient formellement la résurrection, s'approchèrent, et l'interrogèrent,",
+        "OST": "Alors quelques-uns d'entre les sadducéens, qui nient la résurrection, s'étant approchés, l'interrogèrent en disant:",
+        "S21": "Quelques-uns des sadducéens, qui disent qu'il n'y a pas de résurrection, s'approchèrent et posèrent à Jésus cette question:"
+      }
+    },
+    {
+      "verse": 28,
+      "texts": {
+        "BDS": "—Maître, dans ses écrits, Moïse nous a laissé ce commandement: Si un homme vient à mourir, en laissant une femme mais pas d’enfant, son frère doit épouser la veuve pour donner une descendance au défunt.",
+        "DBY": "Maître, Moïse nous a écrit, que si le frère de quelqu'un meurt, ayant une femme, et qu'il meure sans enfants, son frère prenne la femme et suscite de la postérité à son frère.",
+        "KJV": "Saying, Master, Moses wrote unto us, If any man's brother die, having a wife, and he die without children, that his brother should take his wife, and raise up seed unto his brother.",
+        "LSG": "Maître, voici ce que Moïse nous a prescrit: Si le frère de quelqu'un meurt, ayant une femme sans avoir d'enfants, son frère épousera la femme, et suscitera une postérité à son frère.",
+        "MAB": "Disant : Maître, Moïse nous a laissé par écrit, que si le frère de quelqu'un est mort ayant une femme, et qu'il soit mort sans enfants, son frère prenne sa femme, et qu'il suscite des enfants à son frère.",
+        "OST": "Maître, Moïse nous a prescrit, que si le frère de quelqu'un est mort ayant une femme et qu'il soit mort sans enfants, son frère prenne sa femme et suscite lignée à son frère.",
+        "S21": "«Maître, voici ce que Moïse nous a prescrit: Si un homme marié meurt sans avoir d'enfants, son frère épousera la veuve et donnera une descendance à son frère."
+      }
+    },
+    {
+      "verse": 29,
+      "texts": {
+        "BDS": "Or, il y avait sept frères. L’aîné se maria, et il mourut sans laisser d’enfant.",
+        "DBY": "Il y avait donc sept frères; et le premier, ayant pris une femme, mourut sans enfants;",
+        "KJV": "There were therefore seven brethren: and the first took a wife, and died without children.",
+        "LSG": "Or, il y avait sept frères. Le premier se maria, et mourut sans enfants.",
+        "MAB": "Or il y eut sept frères, dont l'aîné prit une femme, et mourut sans enfants.",
+        "OST": "Or, il y avait sept frères. Le premier ayant épousé une femme, mourut sans enfants.",
+        "S21": "Or, il y avait sept frères. Le premier s’est marié et est mort sans enfants."
+      }
+    },
+    {
+      "verse": 30,
+      "texts": {
+        "BDS": "Le second, puis le troisième épousèrent la veuve, et ainsi de suite jusqu’au septième;",
+        "DBY": "et le second prit la femme, et celui-ci aussi mourut sans enfants;",
+        "KJV": "And the second took her to wife, and he died childless.",
+        "LSG": "Le second et le troisième épousèrent la veuve;",
+        "MAB": "Et le second la prit, et mourut aussi sans enfants.",
+        "OST": "Le second épousa sa femme, et mourut sans enfants.",
+        "S21": "Le deuxième [a épousé la veuve et est mort sans enfants],"
+      }
+    },
+    {
+      "verse": 31,
+      "texts": {
+        "BDS": "et ils moururent tous les sept sans avoir eu d’enfant.",
+        "DBY": "et le troisième la prit, et de même aussi les sept: ils ne laissèrent pas d'enfants et moururent;",
+        "KJV": "And the third took her; and in like manner the seven also: and they left no children, and died.",
+        "LSG": "il en fut de même des sept, qui moururent sans laisser d'enfants.",
+        "MAB": "Puis le troisième la prit, et de même tous les sept; et ils moururent sans avoir laissé des enfants.",
+        "OST": "Puis le troisième l'épousa aussi, et tous les sept de même; et ils moururent sans laisser d'enfants.",
+        "S21": "puis le troisième l’a épousée; il en est allé de même pour les sept: ils sont morts sans laisser d'enfants."
+      }
+    },
+    {
+      "verse": 32,
+      "texts": {
+        "BDS": "En fin de compte, la femme mourut elle aussi.",
+        "DBY": "et après eux tous la femme aussi mourut.",
+        "KJV": "Last of all the woman died also.",
+        "LSG": "Enfin, la femme mourut aussi.",
+        "MAB": "Et après tous la femme aussi mourut.",
+        "OST": "Après eux tous la femme mourut aussi.",
+        "S21": "Enfin, la femme est morte aussi."
+      }
+    },
+    {
+      "verse": 33,
+      "texts": {
+        "BDS": "Eh bien, cette femme, à la résurrection, duquel des sept frères sera-t-elle la femme? Car ils l’ont tous eue pour épouse.",
+        "DBY": "Dans la résurrection donc, duquel d'entre eux sera-t-elle la femme, car les sept l'ont eue pour femme?",
+        "KJV": "Therefore in the resurrection whose wife of them is she? for seven had her to wife.",
+        "LSG": "A la résurrection, duquel d'entre eux sera-t-elle donc la femme? Car les sept l'ont eue pour femme.",
+        "MAB": "Duquel d'eux donc sera-t-elle femme en la résurrection? car les sept l'ont eue pour femme.",
+        "OST": "Duquel donc d'entre eux sera-t-elle femme à la résurrection? Car les sept l'ont épousée.",
+        "S21": "A la résurrection, duquel d'entre eux sera-t-elle donc la femme? En effet, les sept l'ont eue pour épouse.»"
+      }
+    },
+    {
+      "verse": 34,
+      "texts": {
+        "BDS": "Jésus leur dit:\r\n—Dans le monde présent, hommes et femmes se marient.",
+        "DBY": "Et Jésus leur dit: Les fils de ce siècle se marient et sont donnés en mariage;",
+        "KJV": "And Jesus answering said unto them, ‹The children of this world marry, and are given in marriage:›",
+        "LSG": "Jésus leur répondit: Les enfants de ce siècle prennent des femmes et des maris;",
+        "MAB": "Et Jésus répondant leur dit : les enfants de ce siècle prennent et sont pris en mariage.",
+        "OST": "Jésus leur répondit: Les enfants de ce siècle se marient, et donnent en mariage.",
+        "S21": "Jésus leur répondit: «Les hommes et les femmes de ce monde se marient,"
+      }
+    },
+    {
+      "verse": 35,
+      "texts": {
+        "BDS": "Mais ceux qui seront jugés dignes de ressusciter d’entre les morts pour faire partie du monde à venir, ne se marieront plus.",
+        "DBY": "mais ceux qui seront estimés dignes d'avoir part à ce siècle-là et à la résurrection d'entre les morts, ne se marient ni ne sont donnés en mariage,",
+        "KJV": "‹But they which shall be accounted worthy to obtain that world, and the resurrection from the dead, neither marry, nor are given in marriage:›",
+        "LSG": "mais ceux qui seront trouvés dignes d'avoir part au siècle à venir et à la résurrection des morts ne prendront ni femmes ni maris.",
+        "MAB": "Mais ceux qui seront faits dignes d'obtenir ce siècle-là et la résurrection des morts, ne prendront ni ne seront pris en mariage;",
+        "OST": "Mais ceux qui seront jugés dignes d'avoir part au siècle à venir et à la résurrection des morts, ne se marieront ni ne donneront en mariage.",
+        "S21": "mais celles et ceux qui seront jugés dignes de prendre part au monde à venir et à la résurrection ne se marieront pas."
+      }
+    },
+    {
+      "verse": 36,
+      "texts": {
+        "BDS": "Ils ne pourront pas non plus mourir, parce qu’ils seront comme les anges, et ils seront fils de Dieu, puisqu’ils seront ressuscités.",
+        "DBY": "aussi ils ne peuvent plus mourir; car ils sont semblables aux anges, et ils sont fils de Dieu, étant fils de la résurrection.",
+        "KJV": "‹Neither can they die any more: for they are equal unto the angels; and are the children of God, being the children of the resurrection.›",
+        "LSG": "Car ils ne pourront plus mourir, parce qu'ils seront semblables aux anges, et qu'ils seront fils de Dieu, étant fils de la résurrection.",
+        "MAB": "Car ils ne pourront plus mourir, parce qu'ils seront semblables aux Anges, et qu'ils seront fils de Dieu, étant fils de la résurrection.",
+        "OST": "Car ils ne pourront non plus mourir, parce qu'ils seront semblables aux anges, et qu'ils seront enfants de Dieu, étant enfants de la résurrection.",
+        "S21": "Ils ne pourront pas non plus mourir, car ils seront semblables aux anges, et ils seront enfants de Dieu en tant qu’enfants de la résurrection."
+      }
+    },
+    {
+      "verse": 37,
+      "texts": {
+        "BDS": "Que les morts ressuscitent, Moïse lui-même l’a indiqué, lorsqu’il est question du buisson ardent: en effet, il appelle le Seigneur le Dieu d’Abraham, le Dieu d’Isaac et le Dieu de Jacob.",
+        "DBY": "Or que les morts ressuscitent, Moïse même l'a montré, au titre: \"Du buisson\", quand il appelle le Seigneur: le Dieu d'Abraham, et le Dieu d'Isaac, et le Dieu de Jacob.",
+        "KJV": "‹Now that the dead are raised, even Moses shewed at the bush, when he calleth the Lord the God of Abraham, and the God of Isaac, and the God of Jacob.›",
+        "LSG": "Que les morts ressuscitent, c'est ce que Moïse a fait connaître quand, à propos du buisson, il appelle le Seigneur le Dieu d'Abraham, le Dieu d'Isaac, et le Dieu de Jacob.",
+        "MAB": "Or que les morts ressuscitent, Moïse même l'a montré auprès du buisson, quand il appelle le Seigneur le Dieu d'Abraham, et le Dieu d'Isaac, et le Dieu de Jacob.",
+        "OST": "Et, que les morts ressuscitent, c'est ce que montre aussi Moïse quand il nomme, au buisson ardent, le Seigneur, le Dieu d'Abraham, le Dieu d'Isaac et le Dieu de Jacob.",
+        "S21": "Que les morts ressuscitent, c'est ce que Moïse a indiqué, dans l'épisode du buisson, quand il appelle le Seigneur le Dieu d'Abraham, le Dieu d'Isaac et le Dieu de Jacob."
+      }
+    },
+    {
+      "verse": 38,
+      "texts": {
+        "BDS": "Or, Dieu n’est pas le Dieu des morts, mais le Dieu des vivants; c’est donc bien que, pour lui, les patriarches sont tous les trois vivants.",
+        "DBY": "Or il n'est pas le Dieu des morts, mais des vivants; car pour lui tous vivent.",
+        "KJV": "‹For he is not a God of the dead, but of the living: for all live unto him.›",
+        "LSG": "Or, Dieu n'est pas Dieu des morts, mais des vivants; car pour lui tous sont vivants.",
+        "MAB": "Or il n'est point le Dieu des morts, mais des vivants : car tous vivent en lui.",
+        "OST": "Or, Dieu n'est point le Dieu des morts, mais le Dieu des vivants; car tous vivent devant lui.",
+        "S21": "Or Dieu n'est pas le Dieu des morts, mais des vivants, car tous sont vivants pour lui.»"
+      }
+    },
+    {
+      "verse": 39,
+      "texts": {
+        "BDS": "Là-dessus, quelques spécialistes de la Loi prirent la parole:\r\n—Tu as bien répondu, Maître.",
+        "DBY": "Et quelques-uns des scribes, répondant, dirent: Maître, tu as bien dit.",
+        "KJV": "Then certain of the scribes answering said, Master, thou hast well said.",
+        "LSG": "Quelques-uns des scribes, prenant la parole, dirent: Maître, tu as bien parlé.",
+        "MAB": "Et quelques-uns des Scribes prenant la parole, dirent : Maître, tu as bien dit.",
+        "OST": "Et quelques-uns des scribes prenant la parole, dirent: Maître tu as bien parlé.",
+        "S21": "Quelques spécialistes de la loi prirent la parole et dirent: «Maître, tu as bien parlé»,"
+      }
+    },
+    {
+      "verse": 40,
+      "texts": {
+        "BDS": "Car ils n’osaient plus lui poser de questions.",
+        "DBY": "Et ils n'osèrent plus l'interroger sur rien.",
+        "KJV": "And after that they durst not ask him any [question at all].",
+        "LSG": "Et ils n'osaient plus lui faire aucune question.",
+        "MAB": "Et ils ne l'osèrent plus interroger de rien.",
+        "OST": "Et ils n'osaient plus lui faire aucune question.",
+        "S21": "et ils n'osaient plus lui poser aucune question."
+      }
+    },
+    {
+      "verse": 41,
+      "texts": {
+        "BDS": "Jésus les interrogea à son tour:\r\n—Comment se fait-il que l’on dise que le Messie doit être un descendant de David?",
+        "DBY": "Et il leur dit: Comment dit-on que le Christ est fils de David?",
+        "KJV": "And he said unto them, ‹How say they that Christ is David's son?›",
+        "LSG": "Jésus leur dit: Comment dit-on que le Christ est fils de David?",
+        "MAB": "Mais lui leur dit : comment dit-on que le Christ est Fils de David.",
+        "OST": "Alors il leur dit: Comment dit-on que le Christ est fils de David?",
+        "S21": "Alors Jésus leur dit: «Comment peut-on dire que le Messie est le fils de David?"
+      }
+    },
+    {
+      "verse": 42,
+      "texts": {
+        "BDS": "Car David lui-même déclare dans le livre des Psaumes:\r\nLe Seigneur a dit à mon Seigneur:\r\nViens siéger à ma droite,",
+        "DBY": "Et David lui-même dit, dans le livre des Psaumes: \"Le Seigneur a dit à mon seigneur: Assieds-toi à ma droite,",
+        "KJV": "‹And David himself saith in the book of Psalms, The LORD said unto my Lord, Sit thou on my right hand,›",
+        "LSG": "David lui-même dit dans le livre des Psaumes: Le Seigneur a dit à mon Seigneur: Assieds-toi à ma droite,",
+        "MAB": "Car David lui-même dit au Livre des Psaumes : le Seigneur a dit à mon Seigneur : assieds-toi à ma droite,",
+        "OST": "Et David lui-même dit dans le livre des Psaumes: Le Seigneur a dit à mon Seigneur: Assieds-toi à ma droite,",
+        "S21": "David lui-même dit [en effet] dans le livre des Psaumes: Le Seigneur a dit à mon Seigneur: ‘Assieds-toi à ma droite"
+      }
+    },
+    {
+      "verse": 43,
+      "texts": {
+        "BDS": "jusqu’à ce que j’aie mis tes ennemis comme un escabeau sous tes pieds.",
+        "DBY": "jusqu'à ce que je mette tes ennemis pour marchepied de tes pieds\".",
+        "KJV": "‹Till I make thine enemies thy footstool.›",
+        "LSG": "Jusqu'à ce que je fasse de tes ennemis ton marchepied.",
+        "MAB": "Jusqu'à ce que j'aie mis tes ennemis pour le marchepied de tes pieds.",
+        "OST": "Jusqu'à ce que j'aie fait de tes ennemis le marchepied de tes pieds.",
+        "S21": "jusqu'à ce que j'aie fait de tes ennemis ton marchepied.’"
+      }
+    },
+    {
+      "verse": 44,
+      "texts": {
+        "BDS": "David appelle le Messie son Seigneur: comment celui-ci peut-il être son descendant?",
+        "DBY": "David donc l'appelle seigneur; et comment est-il son fils?",
+        "KJV": "‹David therefore calleth him Lord, how is he then his son?›",
+        "LSG": "David donc l'appelle Seigneur; comment est-il son fils?",
+        "MAB": "[Puis] donc que David l'appelle [son] Seigneur, comment, est-il son Fils?",
+        "OST": "Si donc David l'appelle Seigneur, comment est-il son fils?",
+        "S21": "David l'appelle donc Seigneur. Comment peut-il être son fils?»"
+      }
+    },
+    {
+      "verse": 45,
+      "texts": {
+        "BDS": "Tandis que la foule l’écoutait, il dit à ses disciples:",
+        "DBY": "Et comme tout le peuple écoutait, il dit à ses disciples:",
+        "KJV": "Then in the audience of all the people he said unto his disciples,",
+        "LSG": "Tandis que tout le peuple l'écoutait, il dit à ses disciples:",
+        "MAB": "Et comme tout le peuple écoutait, il dit à ses Disciples :",
+        "OST": "Et comme tout le peuple écoutait, il dit à ses disciples:",
+        "S21": "Tandis que tout le peuple l'écoutait, il dit à ses disciples:"
+      }
+    },
+    {
+      "verse": 46,
+      "texts": {
+        "BDS": "—Gardez-vous des spécialistes de la Loi qui aiment à parader en costumes de cérémonie, qui affectionnent qu’on les salue sur les places publiques, qui veulent les sièges d’honneur dans les synagogues et les meilleures places dans les banquets.",
+        "DBY": "Soyez en garde contre les scribes, qui se plaisent à se promener en longues robes, et qui aiment les salutations dans les places publiques, et les premiers sièges dans les synagogues, et les premières places dans les repas;",
+        "KJV": "‹Beware of the scribes, which desire to walk in long robes, and love greetings in the markets, and the highest seats in the synagogues, and the chief rooms at feasts;›",
+        "LSG": "Gardez-vous des scribes, qui aiment à se promener en robes longues, et à être salués dans les places publiques; qui recherchent les premiers sièges dans les synagogues, et les premières places dans les festins;",
+        "MAB": "Donnez-vous garde des Scribes, qui se plaisent à se promener en robes longues, et qui aiment les salutations dans les marchés, et les premières chaires dans les Synagogues, et les premières places dans les festins;",
+        "OST": "Gardez-vous des scribes qui se plaisent à se promener en longues robes, et qui aiment les salutations dans les places, et les premiers sièges dans les synagogues, et les premières places dans les festins;",
+        "S21": "«Méfiez-vous des spécialistes de la loi qui aiment se promener en longues robes et être salués sur les places publiques; ils recherchent les sièges d'honneur dans les synagogues et les meilleures places dans les festins;"
+      }
+    },
+    {
+      "verse": 47,
+      "texts": {
+        "BDS": "Ils dépouillent les veuves de leurs biens tout en faisant de longues prières pour l’apparence. Leur condamnation n’en sera que plus sévère.",
+        "DBY": "qui dévorent les maisons des veuves, et pour prétexte font de longues prières; -ceux-ci recevront une sentence plus sévère.",
+        "KJV": "‹Which devour widows' houses, and for a shew make long prayers: the same shall receive greater damnation.›",
+        "LSG": "qui dévorent les maisons des veuves, et qui font pour l'apparence de longues prières. Ils seront jugés plus sévèrement.",
+        "MAB": "Et qui dévorent entièrement les maisons des veuves, même sous prétexte de faire de longues prières; car ils en recevront une plus grande condamnation.",
+        "OST": "Qui dévorent les maisons des veuves, tout en affectant de faire de longues prières; ils encourront une plus grande condamnation.",
+        "S21": "ils dépouillent les veuves de leurs biens tout en faisant pour l'apparence de longues prières. Ils seront jugés plus sévèrement.»"
+      }
+    }
+  ]
+}

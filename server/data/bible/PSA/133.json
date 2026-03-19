@@ -1,0 +1,42 @@
+{
+  "bookCode": "PSA",
+  "chapter": 133,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "Cantique pour la route vers la demeure de l’Eternel. De David.\r\nOh! Quel plaisir c’est, pour des frères, et quel bonheur\r\nque d’être ensemble!",
+        "DBY": "Voici, qu'il est bon et qu'il est agréable que des frères habitent unis ensemble!",
+        "KJV": "A Song of degrees of David. Behold, how good and how pleasant [it is] for brethren to dwell together in unity!",
+        "LSG": "Cantique des degrés. De David. Voici, oh! qu'il est agréable, qu'il est doux Pour des frères de demeurer ensemble!",
+        "MAB": "Cantique de serviteur, rends-moi Mahaloth, de David. Voici, oh! Que c'est une chose bonne, et que c'est une chose agréable, que les frères s'entretiennent, qu'ils s'entretiennent, dis-je, ensemble!",
+        "OST": "Cantique de Maaloth, de David. Voici, oh! qu'il est bon et qu'il est agréable que des frères demeurent unis ensemble!",
+        "S21": "Chant des montées, de David.\r\nOh! Qu’il est agréable, qu’il est doux pour des frères de demeurer ensemble!"
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "C’est comme l’huile parfumée\r\nrépandue sur la tête,\r\nqui descend sur la barbe, la barbe d’Aaron,\r\net coule jusqu’au bord\r\nde ses habits.",
+        "DBY": "C'est comme l'huile précieuse, répandue sur la tête, qui descendait sur la barbe, la barbe d'Aaron, qui descendait sur le bord de ses vêtements;",
+        "KJV": "[It is] like the precious ointment upon the head, that ran down upon the beard, [even] Aaron's beard: that went down to the skirts of his garments;",
+        "LSG": "C'est comme l'huile précieuse qui, répandue sur la tête, Descend sur la barbe, sur la barbe d'Aaron, Qui descend sur le bord de ses vêtements.",
+        "MAB": "C'est comme cette huile précieuse, répandue sur la tête, laquelle découle sur la barbe d'Aaron, et qui découle sur le bord de ses vêtements;",
+        "OST": "C'est comme l'huile précieuse, qui descend sur la tête et sur la barbe d'Aaron, qui descend jusqu'au bord de ses vêtements;",
+        "S21": "C’est comme l’huile précieuse versée sur la tête qui descend sur la barbe, sur la barbe d’Aaron, et sur le col de ses vêtements."
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "C’est comme la rosée qui descend de l’Hermon\r\nsur le mont de Sion.\r\nC’est là que l’Eternel accorde sa bénédiction\r\net la vie pour toujours.",
+        "DBY": "Comme la rosée de l'Hermon, qui descend sur les montagnes de Sion; car c'est là que l'Éternel a commandé la bénédiction, la vie pour l'éternité.",
+        "KJV": "As the dew of Hermon, [and as the dew] that descended upon the mountains of Zion: for there the LORD commanded the blessing, [even] life for evermore.",
+        "LSG": "C'est comme la rosée de l'Hermon, Qui descend sur les montagnes de Sion; Car c'est là que l'Eternel envoie la bénédiction, La vie, pour l'éternité.",
+        "MAB": "Et comme la rosée de Hermon, et celle qui descend sur les montagnes de Sion : car c'est là que l'Eternel a ordonné la bénédiction et la vie, à toujours.",
+        "OST": "Et comme la rosée de l'Hermon, qui descend sur les montagnes de Sion; car c'est là que l'Éternel a ordonné la bénédiction, et la vie à toujours.",
+        "S21": "C’est comme la rosée de l’Hermon qui descend sur les hauteurs de Sion. En effet, c’est là que l’Eternel envoie la bénédiction, la vie, pour l’éternité."
+      }
+    }
+  ]
+}

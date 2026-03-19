@@ -1,0 +1,402 @@
+{
+  "bookCode": "EXO",
+  "chapter": 23,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "—Tu ne colporteras pas de rumeur sans fondement. Ne te rends pas complice d’un méchant par un faux témoignage.",
+        "DBY": "Tu ne feras pas courir de faux bruits. Tu ne donneras pas la main au méchant, pour être un témoin inique.",
+        "KJV": "Thou shalt not raise a false report: put not thine hand with the wicked to be an unrighteous witness.",
+        "LSG": "Tu ne répandras point de faux bruit. Tu ne te joindras point au méchant pour faire un faux témoignage.",
+        "MAB": "Tu ne lèveras point de faux bruit, [et] tu ne te joindras point au méchant pour être témoin, afin que violence soit faite.",
+        "OST": "Tu ne sèmeras point de faux bruit; ne prête point la main au méchant pour être faux témoin.",
+        "S21": "»Tu ne propageras pas de faux bruit. Tu ne t’associeras pas au méchant pour faire un faux témoignage."
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "Ne suis pas la majorité pour faire le mal et, si tu es appelé à témoigner dans un procès, ne te conforme pas au grand nombre pour fausser le droit.",
+        "DBY": "Tu n'iras pas après la foule, pour mal faire; et tu ne répondras pas dans un procès en penchant du côté de la foule, pour faire fléchir le jugement.",
+        "KJV": "Thou shalt not follow a multitude to [do] evil; neither shalt thou speak in a cause to decline after many to wrest [judgment]:",
+        "LSG": "Tu ne suivras point la multitude pour faire le mal; et tu ne déposeras point dans un procès en te mettant du côté du grand nombre, pour violer la justice.",
+        "MAB": "Tu ne suivras point la multitude pour mal faire; et tu ne répondras point dans un procès en sorte que tu te détournes après plusieurs pour pervertir [le droit].",
+        "OST": "Tu ne suivras point la multitude pour faire le mal; et lorsque tu témoigneras dans un procès, tu ne te détourneras point pour suivre le plus grand nombre et pervertir le droit.",
+        "S21": "»Tu ne suivras pas la majorité pour faire le mal et tu ne déposeras pas dans un procès en te mettant du côté du grand nombre pour violer la justice."
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "Ne favorise pas un pauvre dans un procès.",
+        "DBY": "Et tu ne favoriseras pas le pauvre dans son procès.",
+        "KJV": "Neither shalt thou countenance a poor man in his cause.",
+        "LSG": "Tu ne favoriseras point le pauvre dans son procès.",
+        "MAB": "Tu n'honoreras point le pauvre en son procès.",
+        "OST": "Tu ne favoriseras point le pauvre en son procès.",
+        "S21": "»Tu ne favoriseras pas le faible dans son procès."
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "Si tu rencontres le bœuf de ton ennemi ou son âne égaré, tu ne manqueras pas de les lui ramener.",
+        "DBY": "Si tu rencontres le bœuf de ton ennemi, ou son âne, égaré, tu ne manqueras pas de le lui ramener.",
+        "KJV": "If thou meet thine enemy's ox or his ass going astray, thou shalt surely bring it back to him again.",
+        "LSG": "Si tu rencontres le boeuf de ton ennemi ou son âne égaré, tu le lui ramèneras.",
+        "MAB": "Si tu rencontres le bœuf de ton ennemi, ou son âne égaré, tu ne manqueras point de le lui ramener.",
+        "OST": "Si tu rencontres le bœuf de ton ennemi, ou son âne, égaré, tu ne manqueras point de le lui ramener.",
+        "S21": "»Si tu rencontres le bœuf ou l’âne de ton ennemi alors qu’il est égaré, tu le lui ramèneras."
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "Lorsque tu verras l’âne de celui qui te déteste succomber sous sa charge, et que tu n’auras pas envie d’aider cet homme, aide-le quand même à délester son âne.",
+        "DBY": "Si tu vois l'âne de celui qui te hait couché sous son fardeau, tu te garderas de l'abandonner; tu ne manqueras pas de le délier avec lui.",
+        "KJV": "If thou see the ass of him that hateth thee lying under his burden, and wouldest forbear to help him, thou shalt surely help with him.",
+        "LSG": "Si tu vois l'âne de ton ennemi succombant sous sa charge, et que tu hésites à le décharger, tu l'aideras à le décharger.",
+        "MAB": "Si tu vois l'âne de celui qui te hait, abattu sous sa charge, tu t'arrêteras pour le secourir, et tu ne manqueras pas de l'aider.",
+        "OST": "Si tu vois l'âne de celui qui te hait abattu sous son fardeau, tu te garderas de l'abandonner; tu devras le dégager avec lui.",
+        "S21": "Si tu vois l'âne de ton ennemi s’effondrer sous sa charge et que tu hésites à le décharger, tu l'aideras néanmoins à le décharger."
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "Ne fausse pas le cours de la justice aux dépens du pauvre dans un procès.",
+        "DBY": "Tu ne feras pas fléchir le jugement de ton indigent dans son procès.",
+        "KJV": "Thou shalt not wrest the judgment of thy poor in his cause.",
+        "LSG": "Tu ne porteras point atteinte au droit du pauvre dans son procès.",
+        "MAB": "Tu ne pervertiras point le droit de l'indigent qui est au milieu de toi, dans son procès.",
+        "OST": "Tu ne pervertiras point dans son procès le droit de l'indigent qui est au milieu de toi.",
+        "S21": "»Tu ne porteras pas atteinte au droit du pauvre dans son procès."
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "Ne te mêle pas d’une cause mensongère et ne cause pas la mort de l’innocent et du juste, car je ne tiendrai pas le coupable pour innocent.",
+        "DBY": "Tu t'éloigneras de la parole de mensonge, et tu ne tueras pas l'innocent et le juste; car je ne justifierai pas le méchant.",
+        "KJV": "Keep thee far from a false matter; and the innocent and righteous slay thou not: for I will not justify the wicked.",
+        "LSG": "Tu ne prononceras point de sentence inique, et tu ne feras point mourir l'innocent et le juste; car je n'absoudrai point le coupable.",
+        "MAB": "Tu t'éloigneras de [toute] parole fausse, et tu ne feras point mourir l'innocent et le juste; car je ne justifierai point le méchant.",
+        "OST": "Tu t'éloigneras de toute parole fausse; et tu ne feras point mourir l'innocent et le juste, car je ne justifierai point le méchant.",
+        "S21": "»Tu t’éloigneras de tout mensonge et tu ne feras pas mourir l'innocent et le juste, car je ne déclarerai pas juste le coupable."
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "Tu n’accepteras pas de pot-de-vin, car les présents aveuglent même des hommes lucides et compromettent la cause des justes.",
+        "DBY": "Et tu ne recevras pas de présent; car le présent aveugle ceux qui voient clair, et pervertit les paroles des justes.",
+        "KJV": "And thou shalt take no gift: for the gift blindeth the wise, and perverteth the words of the righteous.",
+        "LSG": "Tu ne recevras point de présent; car les présents aveuglent ceux qui ont les yeux ouverts et corrompent les paroles des justes.",
+        "MAB": "Tu ne prendras point de présent; car le présent aveugle les [plus] éclairés, et pervertit les paroles des justes.",
+        "OST": "Tu n'accepteras point de présent, car le présent aveugle les plus éclairés et perd les causes des justes.",
+        "S21": "Tu n'accepteras aucun cadeau, car les cadeaux aveuglent ceux qui ont les yeux ouverts et pervertissent les paroles des justes."
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "Tu n’opprimeras pas l’étranger qui travaille dans ton pays; vous savez vous-mêmes ce qu’éprouve un étranger, puisque vous l’avez été en Egypte.",
+        "DBY": "Tu n'opprimeras pas l'étranger; car vous savez ce qu'est le cœur d'un étranger, car vous avez été étrangers dans le pays d'Égypte.",
+        "KJV": "Also thou shalt not oppress a stranger: for ye know the heart of a stranger, seeing ye were strangers in the land of Egypt.",
+        "LSG": "Tu n'opprimeras point l'étranger; vous savez ce qu'éprouve l'étranger, car vous avez été étrangers dans le pays d'Egypte.",
+        "MAB": "Tu n'opprimeras point l'étranger; car vous savez ce que c'est que d'être étrangers; parce que vous avez été étrangers au pays d'Egypte.",
+        "OST": "Tu n'opprimeras point l'étranger; vous savez vous-mêmes ce qu'éprouve l'étranger, car vous avez été étrangers dans le pays d'Égypte.",
+        "S21": "»Tu n'opprimeras pas l'étranger. Vous-mêmes, vous savez ce qu'éprouve l'étranger car vous avez été étrangers en Egypte."
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "—Pendant six années tu ensemenceras ta terre et tu en récolteras les produits;",
+        "DBY": "Pendant six années tu sèmeras ta terre, et tu en recueilleras le rapport;",
+        "KJV": "And six years thou shalt sow thy land, and shalt gather in the fruits thereof:",
+        "LSG": "Pendant six années, tu ensemenceras la terre, et tu en recueilleras le produit.",
+        "MAB": "Pendant six ans tu sèmeras ta terre, et en recueilleras le revenu.",
+        "OST": "Pendant six années tu sèmeras la terre, et tu en recueilleras le produit;",
+        "S21": "»Pendant 6 ans, tu ensemenceras la terre et tu en récolteras le produit."
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "mais la septième année, tu la laisseras en jachère. Les pauvres de ton peuple mangeront ce qu’ils y trouveront et ce qu’ils laisseront nourrira les bêtes sauvages. Tu feras de même pour tes vignes et tes oliviers.",
+        "DBY": "et la septième, tu la laisseras en jachère, et tu la laisseras inculte, et les indigents de ton peuple en mangeront, et ce qu'ils laisseront de reste, les bêtes des champs le mangeront. Tu en feras de même pour ta vigne et pour ton olivier.",
+        "KJV": "But the seventh [year] thou shalt let it rest and lie still; that the poor of thy people may eat: and what they leave the beasts of the field shall eat. In like manner thou shalt deal with thy vineyard, [and] with thy oliveyard.",
+        "LSG": "Mais la septième, tu lui donneras du relâche et tu la laisseras en repos; les pauvres de ton peuple en jouiront, et les bêtes des champs mangeront ce qui restera. Tu feras de même pour ta vigne et pour tes oliviers.",
+        "MAB": "Mais en la septième année tu lui donneras du relâche, et la laisseras reposer, afin que les pauvres de ton peuple en mangent, et que les bêtes des champs mangent ce qui restera; tu en feras de même de ta vigne, et de tes oliviers.",
+        "OST": "Mais la septième, tu la mettras en jachère et la laisseras reposer; et les pauvres de ton peuple en mangeront les fruits, et les animaux des champs mangeront ce qui restera. Tu en feras de même de ta vigne, de tes oliviers.",
+        "S21": "Mais la septième année, tu lui donneras du répit et tu la laisseras en repos. Les pauvres de ton peuple en jouiront et les bêtes des champs mangeront ce qui restera. Tu feras de même pour ta vigne et pour tes oliviers."
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "Pendant six jours, tu feras tout ton travail, mais le septième jour, tu l’interrompras pour que ton bœuf et ton âne jouissent du repos, et que le fils de ta servante et l’étranger puissent reprendre leur souffle.",
+        "DBY": "-six jours tu feras ton ouvrage, et le septième jour tu te reposeras, afin que ton bœuf et ton âne aient du repos, et que le fils de ta servante et l'étranger respirent.",
+        "KJV": "Six days thou shalt do thy work, and on the seventh day thou shalt rest: that thine ox and thine ass may rest, and the son of thy handmaid, and the stranger, may be refreshed.",
+        "LSG": "Pendant six jours, tu feras ton ouvrage. Mais le septième jour, tu te reposeras, afin que ton boeuf et ton âne aient du repos, afin que le fils de ton esclave et l'étranger aient du relâche.",
+        "MAB": "Tu travailleras six jours; mais tu te reposeras au septième jour, afin que ton bœuf et ton âne se reposent, et que le fils de ta servante, et l'étranger reprennent courage.",
+        "OST": "Six jours durant tu feras ton ouvrage, mais au septième jour tu te reposeras, afin que ton bœuf et ton âne se reposent, et que le fils de ta servante et l'étranger reprennent des forces.",
+        "S21": "»Pendant 6 jours, tu feras ton travail, mais le septième jour, tu te reposeras afin que ton bœuf et ton âne aient du repos, afin que le fils de ton esclave et l'étranger reprennent leur souffle."
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "Vous veillerez à observer tout ce que je vous ai prescrit. Vous n’invoquerez jamais des dieux étrangers; qu’ils ne soient même pas nommés par vous.",
+        "DBY": "Vous prendrez garde à tout ce que je vous ai dit; et vous ne mentionnerez pas le nom d'autres dieux; on ne l'entendra point de ta bouche.",
+        "KJV": "And in all [things] that I have said unto you be circumspect: and make no mention of the name of other gods, neither let it be heard out of thy mouth.",
+        "LSG": "Vous observerez tout ce que je vous ai dit, et vous ne prononcerez point le nom d'autres dieux: qu'on ne l'entende point sortir de votre bouche.",
+        "MAB": "Vous prendrez garde à toutes les choses, que je vous ai commandées. Vous ne ferez point mention du nom des Dieux étrangers; on ne l'entendra point de ta bouche.",
+        "OST": "Vous prendrez garde à tout ce que je vous ai dit. Vous ne ferez point mention du nom des dieux étrangers; on ne l'entendra point sortir de ta bouche.",
+        "S21": "»Vous respecterez tout ce que je vous ai dit et vous ne mentionnerez pas le nom d'autres dieux: qu'on ne l'entende pas sortir de votre bouche."
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "—Trois fois par an, tu célébreras une fête en mon honneur.",
+        "DBY": "trois fois l'an tu me célébreras une fête.",
+        "KJV": "Three times thou shalt keep a feast unto me in the year.",
+        "LSG": "Trois fois par année, tu célébreras des fêtes en mon honneur.",
+        "MAB": "Trois fois l'an tu me célébreras une fête solennelle.",
+        "OST": "Trois fois l'année tu me célébreras une fête.",
+        "S21": "»Trois fois par an, tu célébreras des fêtes en mon honneur."
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "Tu célébreras la fête des pains sans levain. Pendant sept jours, tu mangeras des pains sans levain comme je te l’ai ordonné au temps fixé du mois des épis, car c’est au cours de ce mois que tu es sorti d’Egypte. Tu ne te présenteras pas devant moi les mains vides.",
+        "DBY": "-Tu garderas la fête des pains sans levain; pendant sept jours, aux temps fixé du mois d'Abib, tu mangeras des pains sans levain, comme je t'ai commandé, car en ce mois tu es sorti d'Égypte; et on ne paraîtra pas à vide devant ma face;",
+        "KJV": "Thou shalt keep the feast of unleavened bread: (thou shalt eat unleavened bread seven days, as I commanded thee, in the time appointed of the month Abib; for in it thou camest out from Egypt: and none shall appear before me empty:)",
+        "LSG": "Tu observeras la fête des pains sans levain; pendant sept jours, au temps fixé dans le mois des épis, tu mangeras des pains sans levain, comme je t'en ai donné l'ordre, car c'est dans ce mois que tu es sorti d'Egypte; et l'on ne se présentera point à vide devant ma face.",
+        "MAB": "Tu garderas la fête solennelle des pains sans levain; tu mangeras des pains sans levain pendant sept jours, comme je t'ai commandé, en la saison [et] au mois que les épis mûrissent; car en ce mois-là tu es sorti d'Egypte; et nul ne se présentera devant ma face à vide.",
+        "OST": "Tu observeras la fête des pains sans levain (tu mangeras des pains sans levain pendant sept jours, comme je te l'ai commandé, à l'époque du mois des épis, car en ce mois-là tu es sorti d'Égypte; et l'on ne se présentera point à vide devant ma face);",
+        "S21": "Tu observeras la fête des pains sans levain. Pendant 7 jours, au moment fixé lors du mois des épis, tu mangeras des pains sans levain, comme je t'en ai donné l'ordre. En effet, c'est au cours de ce mois que tu es sorti d'Egypte. On ne se présentera pas devant moi les mains vides."
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "Tu célébreras aussi la fête de la moisson et des premiers fruits de ton travail, de ce que tu auras semé dans les champs. A la fin de l’année, tu célébreras aussi la fête de la récolte, quand tu rentreras des champs le fruit de ton travail.",
+        "DBY": "-et la fête de la moisson des premiers fruits de tes travaux, de ce que tu auras semé dans le champ; -et la fête de la récolte, à la fin de l'année, quand tu recueilleras du champ les fruits de tes travaux.",
+        "KJV": "And the feast of harvest, the firstfruits of thy labours, which thou hast sown in the field: and the feast of ingathering, [which is] in the end of the year, when thou hast gathered in thy labours out of the field.",
+        "LSG": "Tu observeras la fête de la moisson, des prémices de ton travail, de ce que tu auras semé dans les champs; et la fête de la récolte, à la fin de l'année, quand tu recueilleras des champs le fruit de ton travail.",
+        "MAB": "Et la fête solennelle de la moisson des premiers fruits de ton travail, de ce que tu auras semé au champ ; et la fête solennelle de la récolte, après la fin de l'année, quand tu auras recueilli du champ [les fruits de] ton travail.",
+        "OST": "Et la fête de la moisson, des premiers fruits de ton travail, de ce que tu auras semé aux champs; et la fête de la récolte, à la fin de l'année, quand tu auras recueilli des champs les fruits de ton travail.",
+        "S21": "Tu observeras la fête de la moisson. C’est la fête des premiers fruits de ton travail, de ce que tu auras semé dans les champs. Tu observeras aussi la fête de la récolte, à la fin de l'année, quand tu récolteras dans les champs le fruit de ton travail."
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "Trois fois l’an, tous les hommes viendront se présenter devant moi le Seigneur, l’Eternel.",
+        "DBY": "-trois fois l'an tous tes mâles paraîtront devant la face du Seigneur, l'Éternel.",
+        "KJV": "Three times in the year all thy males shall appear before the Lord GOD.",
+        "LSG": "Trois fois par année, tous les mâles se présenteront devant le Seigneur, l'Eternel.",
+        "MAB": "Trois fois l'an tous les mâles d'entre vous se présenteront devant le Seigneur l'Eternel.",
+        "OST": "Trois fois l'an tous les mâles se présenteront devant le Seigneur, l'Éternel.",
+        "S21": "Trois fois par an, tous les hommes se présenteront devant le Seigneur, l'Eternel."
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "Tu ne verseras pas le sang des sacrifices qui me sont offerts sur du pain levé, et tu ne conserveras pas jusqu’au matin la graisse des animaux offerts au cours des fêtes célébrées en mon honneur.",
+        "DBY": "Tu n'offriras point le sang de mon sacrifice avec du pain levé; et la graisse de ma fête ne passera pas la nuit jusqu'au matin.",
+        "KJV": "Thou shalt not offer the blood of my sacrifice with leavened bread; neither shall the fat of my sacrifice remain until the morning.",
+        "LSG": "Tu n'offriras point avec du pain levé le sang de la victime sacrifiée en mon honneur; et sa graisse ne sera point gardée pendant la nuit jusqu'au matin.",
+        "MAB": "Tu ne sacrifieras point le sang de mon sacrifice avec du pain levé; et la graisse de ma fête solennelle ne passera point la nuit jusqu'au matin.",
+        "OST": "Tu n'offriras point avec du pain levé le sang de mon sacrifice; et la graisse de ma fête ne passera point la nuit jusqu'au matin.",
+        "S21": "»Tu n'offriras pas le sang de la victime sacrifiée en mon honneur sur du pain levé et on ne gardera pas sa graisse pendant la nuit jusqu'au matin."
+      }
+    },
+    {
+      "verse": 19,
+      "texts": {
+        "BDS": "Tu apporteras au sanctuaire de l’Eternel ton Dieu les tout premiers produits de tes récoltes. Tu ne feras pas cuire un chevreau dans le lait de sa mère.",
+        "DBY": "Tu apporteras à la maison de l'Éternel, ton Dieu, les prémices des premiers fruits de ta terre. -Tu ne cuiras pas le chevreau dans le lait de sa mère.",
+        "KJV": "The first of the firstfruits of thy land thou shalt bring into the house of the LORD thy God. Thou shalt not seethe a kid in his mother's milk.",
+        "LSG": "Tu apporteras à la maison de l'Eternel, ton Dieu, les prémices des premiers fruits de la terre. Tu ne feras point cuire un chevreau dans le lait de sa mère.",
+        "MAB": "Tu apporteras en la maison de l'Eternel ton Dieu les prémices des premiers fruits de ta terre. Tu ne feras point cuire le chevreau dans le lait de sa mère.",
+        "OST": "Tu apporteras les prémices des premiers fruits de la terre à la maison de l'Éternel ton Dieu. Tu ne feras point cuire le chevreau dans le lait de sa mère.",
+        "S21": "»Tu apporteras à la maison de l'Eternel, ton Dieu, les tout premiers produits de ton sol. Tu ne feras pas cuire un chevreau dans le lait de sa mère."
+      }
+    },
+    {
+      "verse": 20,
+      "texts": {
+        "BDS": "—Je vais envoyer un ange devant vous pour vous protéger en chemin et vous conduire au lieu que j’ai préparé pour vous.",
+        "DBY": "Voici, j'envoie un ange devant toi, pour te garder dans le chemin, et pour t'amener au lieu que j'ai préparé.",
+        "KJV": "Behold, I send an Angel before thee, to keep thee in the way, and to bring thee into the place which I have prepared.",
+        "LSG": "Voici, j'envoie un ange devant toi, pour te protéger en chemin, et pour te faire arriver au lieu que j'ai préparé.",
+        "MAB": "Voici, j'envoie un Ange devant toi, afin qu'il te garde dans le chemin, et qu'il t'introduise au lieu que je t'ai préparé.",
+        "OST": "Voici, j'envoie un ange devant toi, pour te garder dans le chemin, et pour t'introduire au lieu que j'ai préparé.",
+        "S21": "»Voici que j'envoie un ange devant toi pour te protéger en chemin et pour te faire arriver à l'endroit que j'ai préparé."
+      }
+    },
+    {
+      "verse": 21,
+      "texts": {
+        "BDS": "Respectez-le et obéissez-lui. Ne lui résistez pas, il ne tolérerait pas votre rébellion, car il est mon représentant.",
+        "DBY": "Prends garde à toi à cause de sa présence, et écoute sa voix; ne l'irrite pas; car il ne pardonnera point votre transgression, car mon nom est en lui.",
+        "KJV": "Beware of him, and obey his voice, provoke him not; for he will not pardon your transgressions: for my name [is] in him.",
+        "LSG": "Tiens-toi sur tes gardes en sa présence, et écoute sa voix; ne lui résiste point, parce qu'il ne pardonnera pas vos péchés, car mon nom est en lui.",
+        "MAB": "Donne-toi de garde de [provoquer] sa colère, et écoute sa voix, et ne l'irrite point; car il ne pardonnera point votre péché; parce que mon Nom est en lui.",
+        "OST": "Prends garde à toi en sa présence, et écoute sa voix, ne lui sois point rebelle; car il ne pardonnera point votre péché, parce que mon nom est en lui.",
+        "S21": "Fais bien attention en sa présence et écoute-le, ne lui résiste pas. En effet, il ne pardonnera pas vos péchés, car mon nom est en lui."
+      }
+    },
+    {
+      "verse": 22,
+      "texts": {
+        "BDS": "Mais si vous lui obéissez pleinement et si vous faites tout ce que je vous ai ordonné, je serai l’ennemi de vos ennemis et l’adversaire de vos adversaires.",
+        "DBY": "Mais si tu écoutes attentivement sa voix, et si tu fais tout ce que je dirai, je serai l'ennemi de tes ennemis et l'adversaire de tes adversaires.",
+        "KJV": "But if thou shalt indeed obey his voice, and do all that I speak; then I will be an enemy unto thine enemies, and an adversary unto thine adversaries.",
+        "LSG": "Mais si tu écoutes sa voix, et si tu fais tout ce que je te dirai, je serai l'ennemi de tes ennemis et l'adversaire de tes adversaires.",
+        "MAB": "Mais si tu écoutes attentivement sa voix, et si tu fais tout ce que je te dirai, je serai l'ennemi de tes ennemis, et j'affligerai ceux qui t'affligeront.",
+        "OST": "Mais si tu écoutes attentivement sa voix, et si tu fais tout ce que je dirai, je serai l'ennemi de tes ennemis et l'adversaire de tes adversaires;",
+        "S21": "Mais si tu l’écoutes et si tu fais tout ce que je te dirai, je serai l'ennemi de tes ennemis et l'adversaire de tes adversaires."
+      }
+    },
+    {
+      "verse": 23,
+      "texts": {
+        "BDS": "Car mon ange marchera devant vous et vous fera entrer dans le pays des Amoréens, des Hittites, des Phéréziens, des Cananéens, des Héviens et des Yebousiens, et je les exterminerai.",
+        "DBY": "Car mon Ange ira devant toi, et t'amènera vers l'Amoréen, et le Héthien, et le Phérézien, et le Cananéen, le Hévien, et le Jébusien, et je les exterminerai.",
+        "KJV": "For mine Angel shall go before thee, and bring thee in unto the Amorites, and the Hittites, and the Perizzites, and the Canaanites, the Hivites, and the Jebusites: and I will cut them off.",
+        "LSG": "Mon ange marchera devant toi, et te conduira chez les Amoréens, les Héthiens, les Phéréziens, les Cananéens, les Héviens et les Jébusiens, et je les exterminerai.",
+        "MAB": "Car mon Ange mArchera devant toi, et t'introduira au pays des Amorrhéens, des Héthiens, des Phérésiens, des Chananéens, des Héviens, et des Jébusiens, et je les exterminerai.",
+        "OST": "Car mon ange marchera devant toi, et t'introduira au pays des Amoréens, des Héthiens, des Phéréziens, des Cananéens, des Héviens, et des Jébusiens, et je les exterminerai.",
+        "S21": "Mon ange marchera devant toi et te conduira chez les Amoréens, les Hittites, les Phéréziens, les Cananéens, les Héviens et les Jébusiens, et je les exterminerai."
+      }
+    },
+    {
+      "verse": 24,
+      "texts": {
+        "BDS": "Vous n’adorerez pas leurs dieux et vous ne leur rendrez pas de culte, vous n’adopterez pas leurs pratiques religieuses. Au contraire, vous renverserez leurs statues et vous mettrez en pièces leurs stèles sacrées.",
+        "DBY": "Tu ne te prosterneras point devant leurs dieux, et tu ne les serviras point, et tu ne feras pas selon leurs œuvres; mais tu les détruiras absolument, et tu briseras entièrement leurs stèles.",
+        "KJV": "Thou shalt not bow down to their gods, nor serve them, nor do after their works: but thou shalt utterly overthrow them, and quite break down their images.",
+        "LSG": "Tu ne te prosterneras point devant leurs dieux, et tu ne les serviras point; tu n'imiteras point ces peuples dans leur conduite, mais tu les détruiras, et tu briseras leurs statues.",
+        "MAB": "Tu ne te prosterneras point devant leurs Dieux, et tu ne les serviras point, et tu ne feras point selon leurs œuvres, mais tu les détruiras entièrement, et tu briseras entièrement leurs statues.",
+        "OST": "Tu ne te prosterneras point devant leurs dieux, et tu ne les serviras point, et tu n'imiteras point leurs œuvres; mais tu les détruiras complètement, et tu briseras entièrement leurs statues.",
+        "S21": "»Tu ne te prosterneras pas devant leurs dieux et tu ne les serviras pas. Tu n'imiteras pas le comportement de ces peuples. Au contraire, tu les détruiras et tu briseras leurs statues."
+      }
+    },
+    {
+      "verse": 25,
+      "texts": {
+        "BDS": "Vous rendrez votre culte à l’Eternel votre Dieu. Alors je vous bénirai en vous donnant une nourriture excellente et de l’eau en abondance, et je vous préserverai des maladies.",
+        "DBY": "Vous servirez l'Éternel, votre Dieu, et il bénira ton pain et tes eaux, et j'ôterai la maladie du milieu de toi.",
+        "KJV": "And ye shall serve the LORD your God, and he shall bless thy bread, and thy water; and I will take sickness away from the midst of thee.",
+        "LSG": "Vous servirez l'Eternel, votre Dieu, et il bénira votre pain et vos eaux, et j'éloignerai la maladie du milieu de toi.",
+        "MAB": "Vous servirez l'Eternel votre Dieu; et il bénira ton pain et tes eaux; et j'ôterai les maladies du milieu de toi.",
+        "OST": "Vous servirez l'Éternel votre Dieu, et il bénira ton pain et tes eaux, et j'ôterai la maladie du milieu de toi.",
+        "S21": "Vous servirez l'Eternel, votre Dieu, et il bénira votre pain et votre eau. J'éloignerai la maladie du milieu de toi."
+      }
+    },
+    {
+      "verse": 26,
+      "texts": {
+        "BDS": "Il n’y aura pas dans votre pays de femme qui avorte ou qui soit stérile. Je vous ferai parvenir à un âge avancé.",
+        "DBY": "Il n'y aura pas de femelle qui avorte, ou qui soit stérile dans ton pays; j'accomplirai le nombre de tes jours.",
+        "KJV": "There shall nothing cast their young, nor be barren, in thy land: the number of thy days I will fulfil.",
+        "LSG": "Il n'y aura dans ton pays ni femme qui avorte, ni femme stérile. Je remplirai le nombre de tes jours.",
+        "MAB": "Il n'y aura point en ton pays de femelle qui avorte, ou qui soit stérile; j'accomplirai le nombre de tes jours.",
+        "OST": "Il n'y aura point en ton pays de femelle qui avorte, ou qui soit stérile. J'accomplirai le nombre de tes jours.",
+        "S21": "Il n'y aura dans ton pays ni femme qui avorte, ni femme stérile. Je te donnerai une longue vie."
+      }
+    },
+    {
+      "verse": 27,
+      "texts": {
+        "BDS": "Je sèmerai la panique devant vous, je mettrai en déroute tous les peuples chez lesquels vous entrerez, et je ferai s’enfuir tous vos ennemis devant vous.",
+        "DBY": "J'enverrai ma frayeur devant toi, et je mettrai en déroute tout peuple contre lequel tu iras, et je ferai que tous tes ennemis tourneront le dos devant toi.",
+        "KJV": "I will send my fear before thee, and will destroy all the people to whom thou shalt come, and I will make all thine enemies turn their backs unto thee.",
+        "LSG": "J'enverrai ma terreur devant toi, je mettrai en déroute tous les peuples chez lesquels tu arriveras, et je ferai tourner le dos devant toi à tous tes ennemis.",
+        "MAB": "J'enverrai la terreur de mon Nom devant toi, et j'effrayerai tout peuple vers lequel tu arriveras, et je ferai que tous tes ennemis tourneront le dos devant toi.",
+        "OST": "J'enverrai ma frayeur devant toi, et je mettrai en déroute tout peuple chez lequel tu arriveras, et je ferai tourner le dos à tous tes ennemis devant toi.",
+        "S21": "»J'enverrai ma terreur devant toi, je mettrai en déroute tous les peuples chez lesquels tu arriveras et je mettrai tous tes ennemis en fuite devant toi."
+      }
+    },
+    {
+      "verse": 28,
+      "texts": {
+        "BDS": "J’enverrai devant vous les frelons pour chasser les Héviens, les Cananéens et les Hittites devant vous.",
+        "DBY": "Et j'enverrai des frelons devant toi, et ils chasseront le Hévien, le Cananéen et le Héthien de devant toi.",
+        "KJV": "And I will send hornets before thee, which shall drive out the Hivite, the Canaanite, and the Hittite, from before thee.",
+        "LSG": "J'enverrai les frelons devant toi, et ils chasseront loin de ta face les Héviens, les Cananéens et les Héthiens.",
+        "MAB": "Et j'enverrai des frelons devant toi, qui chasseront les Héviens, les Chananéens, et les Héthiens, de devant ta face.",
+        "OST": "Et j'enverrai les frelons devant toi, et ils chasseront les Héviens, les Cananéens, et les Héthiens de devant ta face.",
+        "S21": "J'enverrai les frelons devant toi et ils chasseront loin de toi les Héviens, les Cananéens et les Hittites."
+      }
+    },
+    {
+      "verse": 29,
+      "texts": {
+        "BDS": "Cependant, je ne les chasserai pas en une seule année, pour que les terres ne soient pas abandonnées et que les bêtes sauvages ne s’y multiplient pas à vos dépens.",
+        "DBY": "Je ne les chasserai pas devant toi en une année, de peur que le pays ne devienne un désert et que les bêtes des champs ne se multiplient contre toi;",
+        "KJV": "I will not drive them out from before thee in one year; lest the land become desolate, and the beast of the field multiply against thee.",
+        "LSG": "Je ne les chasserai pas en une seule année loin de ta face, de peur que le pays ne devienne un désert et que les bêtes des champs ne se multiplient contre toi.",
+        "MAB": "Je ne les chasserai point de devant ta face en une année, de peur que le pays ne devienne un désert, et que les bêtes des champs ne se multiplie contre toi.",
+        "OST": "Je ne les chasserai point de devant toi dans une année, de peur que le pays ne devienne un désert, et que les bêtes des champs ne se multiplient contre toi;",
+        "S21": "Je ne les chasserai pas en une seule année loin de toi, sinon le pays deviendrait un désert et les bêtes des champs se multiplieraient à ton détriment."
+      }
+    },
+    {
+      "verse": 30,
+      "texts": {
+        "BDS": "C’est petit à petit que je les déposséderai en votre faveur, au fur et à mesure que vous deviendrez assez nombreux pour occuper le pays.",
+        "DBY": "je les chasserai peu à peu devant toi, jusqu'à ce que tu croisses en nombre, et que tu hérites le pays.",
+        "KJV": "By little and little I will drive them out from before thee, until thou be increased, and inherit the land.",
+        "LSG": "Je les chasserai peu à peu loin de ta face, jusqu'à ce que tu augmentes en nombre et que tu puisses prendre possession du pays.",
+        "MAB": "Mais je les chasserai peu à peu de devant toi, jusqu'à ce que tu te sois accru, et que tu possèdes le pays.",
+        "OST": "Je les chasserai peu à peu de devant toi, jusqu'à ce que tu croisses en nombre, et que tu te mettes en possession du pays.",
+        "S21": "C’est peu à peu que je les chasserai loin de toi, jusqu'à ce que tu aies suffisamment augmenté en nombre pour pouvoir hériter du pays."
+      }
+    },
+    {
+      "verse": 31,
+      "texts": {
+        "BDS": "Je fixerai vos frontières, et votre territoire s’étendra de la mer des Roseaux à la Méditerranée, et du désert du Sinaï à l’Euphrate, car je livrerai les habitants de cette région en votre pouvoir et vous les chasserez devant vous.",
+        "DBY": "Et j'ai établi tes limites depuis la mer Rouge jusqu'à la mer des Philistins, et depuis le désert jusqu'au fleuve; car je livrerai entre tes mains les habitants du pays, et tu les chasseras de devant toi.",
+        "KJV": "And I will set thy bounds from the Red sea even unto the sea of the Philistines, and from the desert unto the river: for I will deliver the inhabitants of the land into your hand; and thou shalt drive them out before thee.",
+        "LSG": "J'établirai tes limites depuis la mer Rouge jusqu'à la mer des Philistins, et depuis le désert jusqu'au fleuve; car je livrerai entre vos mains les habitants du pays, et tu les chasseras devant toi.",
+        "MAB": "Et je mettrai des bornes depuis la mer rouge, jusqu'à la mer des Philistins, et depuis le désert jusqu'au fleuve; car je livrerai entre tes mains les habitants du pays, et je les chasserai de devant toi.",
+        "OST": "Et je poserai tes limites depuis la mer Rouge jusqu'à la mer des Philistins, et depuis le désert jusqu'au fleuve; car je livrerai entre vos mains les habitants du pays, et tu les chasseras devant toi.",
+        "S21": "Je fixerai tes frontières: ton territoire ira de la mer des Roseaux à la mer Méditerranée, et du désert du Sinaï à l’Euphrate. En effet, je livrerai entre vos mains les habitants de cette région et tu les chasseras devant toi."
+      }
+    },
+    {
+      "verse": 32,
+      "texts": {
+        "BDS": "Vous ne contracterez pas d’alliance avec eux, ni avec leurs dieux.",
+        "DBY": "Tu ne traiteras point alliance avec eux, ni avec leurs dieux.",
+        "KJV": "Thou shalt make no covenant with them, nor with their gods.",
+        "LSG": "Tu ne feras point d'alliance avec eux, ni avec leurs dieux.",
+        "MAB": "Tu ne traiteras point d'alliance avec eux, ni avec leurs Dieux.",
+        "OST": "Tu ne traiteras point alliance avec eux, ni avec leurs dieux.",
+        "S21": "Tu ne feras aucune alliance avec eux ni avec leurs dieux."
+      }
+    },
+    {
+      "verse": 33,
+      "texts": {
+        "BDS": "Ils ne demeureront pas dans votre pays, afin qu’ils ne vous incitent pas à pécher contre moi en vous faisant rendre un culte à leurs dieux, car vous seriez alors pris à leur piège.",
+        "DBY": "Ils n'habiteront pas dans ton pays, de peur qu'ils ne te fassent pécher contre moi, car tu servirais leurs dieux; certainement ce serait un piège pour toi.",
+        "KJV": "They shall not dwell in thy land, lest they make thee sin against me: for if thou serve their gods, it will surely be a snare unto thee.",
+        "LSG": "Ils n'habiteront point dans ton pays, de peur qu'ils ne te fassent pécher contre moi; car tu servirais leurs dieux, et ce serait un piège pour toi.",
+        "MAB": "Ils n'habiteront point en ton pays, de peur qu'ils ne te fassent pécher contre moi; car tu servirais leurs Dieux; et [cela] te serait en piège.",
+        "OST": "Ils n'habiteront point dans ton pays, de peur qu'ils ne te fassent pécher contre moi; car tu servirais leurs dieux, et cela te serait un piège.",
+        "S21": "Ils n'habiteront pas dans ton pays, sinon ils te feraient pécher contre moi: tu servirais leurs dieux et ce serait un piège pour toi.»"
+      }
+    }
+  ]
+}

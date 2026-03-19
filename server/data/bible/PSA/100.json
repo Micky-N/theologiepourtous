@@ -1,0 +1,66 @@
+{
+  "bookCode": "PSA",
+  "chapter": 100,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "Psaume pour remercier Dieu.\r\nAcclame l’Eternel,\r\nô terre tout entière!",
+        "DBY": "Poussez des cris de joie vers l'Éternel, toute la terre!",
+        "KJV": "A Psalm of praise. Make a joyful noise unto the LORD, all ye lands.",
+        "LSG": "Psaume de louange. Poussez vers l'Eternel des cris de joie, Vous tous, habitants de la terre!",
+        "MAB": "Psaume d'action de grâces. Vous tous habitants de la terre, jetez des cris de réjouissance à l'Eternel.",
+        "OST": "Psaume de louange. Vous, toute la terre, jetez des cris de réjouissance à l'Éternel!",
+        "S21": "Psaume de reconnaissance.\r\nPoussez des cris de joie en l’honneur de l’Eternel, habitants de toute la terre!"
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "Servez l’Eternel avec joie!\r\nEntrez en sa présence avec des chants joyeux!",
+        "DBY": "Servez l'Éternel avec joie, venez devant lui avec des chants de triomphe.",
+        "KJV": "Serve the LORD with gladness: come before his presence with singing.",
+        "LSG": "Servez l'Eternel, avec joie, Venez avec allégresse en sa présence!",
+        "MAB": "Servez l'Eternel avec allégresse, venez devant lui avec un chant de joie.",
+        "OST": "Servez l'Éternel avec joie; venez devant sa face avec des cris d'allégresse.",
+        "S21": "Servez l’Eternel avec joie, venez avec allégresse en sa présence!"
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "Sachez que c’est lui seul, l’Eternel, qui est Dieu!\r\nC’est lui qui nous a faits, nous lui appartenons,\r\net nous sommes son peuple, le troupeau de son pâturage.",
+        "DBY": "Sachez que l'Éternel est Dieu. C'est lui qui nous a faits, et ce n'est pas nous; nous sommes son peuple, et le troupeau de sa pâture.",
+        "KJV": "Know ye that the LORD he [is] God: [it is] he [that] hath made us, and not we ourselves; [we are] his people, and the sheep of his pasture.",
+        "LSG": "Sachez que l'Eternel est Dieu! C'est lui qui nous a faits, et nous lui appartenons; Nous sommes son peuple, et le troupeau de son pâturage.",
+        "MAB": "Connaissez que l'Eternel est Dieu. C'est lui qui nous a faits, et ce n'est pas nous [qui nous sommes faits; nous sommes] son peuple, et le troupeau de sa pâture.",
+        "OST": "Sachez que l'Éternel est Dieu. C'est lui qui nous a faits, et non pas nous; nous sommes son peuple et le troupeau qu'il fait paître.",
+        "S21": "Sachez que l’Eternel est Dieu! C’est lui qui nous a faits, et nous lui appartenons: nous sommes son peuple, le troupeau dont il est le berger."
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "Entrez sous ses portiques avec reconnaissance!\r\nEntrez dans ses parvis en chantant ses louanges!\r\nRendez-lui votre hommage et louez-le pour ce qu’il est!",
+        "DBY": "Entrez dans ses portes avec des actions de grâces, dans ses parvis avec des louanges. Célébrez-le, bénissez son nom!",
+        "KJV": "Enter into his gates with thanksgiving, [and] into his courts with praise: be thankful unto him, [and] bless his name.",
+        "LSG": "Entrez dans ses portes avec des louanges, Dans ses parvis avec des cantiques! Célébrez-le, bénissez son nom!",
+        "MAB": "Entrez dans ses portes avec des actions de grâces; et dans ses parvis, avec des louanges; célébrez-le, bénissez son Nom.",
+        "OST": "Entrez dans ses portes avec des actions de grâces, dans ses parvis avec la louange; célébrez-le, bénissez son nom",
+        "S21": "Entrez dans ses portes avec reconnaissance, dans ses parvis avec des chants de louange! Célébrez-le, bénissez son nom,"
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "Car l’Eternel est bon, car son amour dure à toujours\r\net sa fidélité s’étendra d’âge en âge.",
+        "DBY": "Car l'Éternel est bon; sa bonté demeure à toujours, et sa fidélité de génération en génération.",
+        "KJV": "For the LORD [is] good; his mercy [is] everlasting; and his truth [endureth] to all generations.",
+        "LSG": "Car l'Eternel est bon; sa bonté dure toujours, Et sa fidélité de génération en génération.",
+        "MAB": "Car l'Eternel est bon; sa bonté demeure à toujours, et sa fidélité d'âge en âge.",
+        "OST": "Car l'Éternel est bon; sa bonté demeure à toujours, et sa fidélité d'âge en âge.",
+        "S21": "car l’Eternel est bon: sa bonté dure éternellement, et sa fidélité de génération en génération."
+      }
+    }
+  ]
+}

@@ -1,0 +1,412 @@
+{
+  "bookCode": "NUM",
+  "chapter": 35,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "L’Eternel parla à Moïse, dans les steppes de Moab, sur la rive du Jourdain en face de Jéricho, en disant:",
+        "DBY": "Et l'Éternel parla à Moïse, dans les plaines de Moab, près du Jourdain de Jéricho, disant:",
+        "KJV": "And the LORD spake unto Moses in the plains of Moab by Jordan [near] Jericho, saying,",
+        "LSG": "L'Eternel parla à Moïse, dans les plaines de Moab, près du Jourdain, vis-à-vis de Jéricho. Il dit:",
+        "MAB": "Et l'Eternel parla à Moïse dans les campagnes de Moab, près du Jourdain de Jéricho, en disant :",
+        "OST": "L'Éternel parla à Moïse, dans les plaines de Moab, près du Jourdain de Jérico, en disant:",
+        "S21": "L'Eternel dit à Moïse dans les plaines de Moab, près du Jourdain, vis-à-vis de Jéricho:"
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "—Ordonne aux Israélites de donner aux lévites sur la part de propriété qu’ils recevront, des villes où ils pourront s’établir avec des pâturages autour d’elles.",
+        "DBY": "Commande aux fils d'Israël que, de l'héritage de leur possession, ils donnent aux Lévites des villes pour y habiter. Vous donnerez aussi aux Lévites les banlieues de ces villes, autour d'elles.",
+        "KJV": "Command the children of Israel, that they give unto the Levites of the inheritance of their possession cities to dwell in; and ye shall give [also] unto the Levites suburbs for the cities round about them.",
+        "LSG": "Ordonne aux enfants d'Israël d'accorder aux Lévites, sur l'héritage qu'ils posséderont, des villes où ils puissent habiter. Vous donnerez aussi aux Lévites une banlieue autour de ces villes.",
+        "MAB": "Commande aux enfants d'Israël qu'ils donnent du partage de leur possession, des villes aux Lévites pour y habiter. Vous leur donnerez aussi les faubourgs qui sont autour de ces villes.",
+        "OST": "Commande aux enfants d'Israël qu'ils donnent aux Lévites, sur l'héritage qu'ils posséderont, des villes pour y habiter; vous leur donnerez aussi un territoire tout autour de ces villes.",
+        "S21": "«Ordonne aux Israélites d'accorder aux Lévites, sur l'héritage qu'eux-mêmes posséderont, des villes où ils puissent habiter. Vous leur donnerez aussi un territoire autour de ces villes."
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "Ces villes leur serviront de résidence; et ils disposeront des terres alentours pour leur bétail, leurs biens et tous leurs animaux.",
+        "DBY": "Et ils auront les villes pour y habiter, et leurs banlieues seront pour leur bétail et pour leurs biens et pour tous leurs animaux.",
+        "KJV": "And the cities shall they have to dwell in; and the suburbs of them shall be for their cattle, and for their goods, and for all their beasts.",
+        "LSG": "Ils auront les villes pour y habiter; et les banlieues seront pour leur bétail, pour leurs biens et pour tous leurs animaux.",
+        "MAB": "Ils auront donc les villes pour y habiter; et les faubourgs de ces villes seront pour leurs bêtes, pour leurs biens, et pour tous leurs animaux.",
+        "OST": "Ils auront les villes pour y habiter; et les territoires de ces villes seront pour leur bétail, pour leurs biens et pour tous leurs animaux.",
+        "S21": "Ils auront les villes pour y habiter et leurs environs seront pour leur bétail, pour leurs biens et pour tous leurs animaux."
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "Les terrains attenant aux villes que vous donnerez aux lévites s’étendront sur une distance de cinq cents mètres tout autour, à partir du mur de la ville.",
+        "DBY": "Et les banlieues des villes que vous donnerez aux Lévites seront de mille coudées à l'entour, depuis la muraille de la ville en dehors.",
+        "KJV": "And the suburbs of the cities, which ye shall give unto the Levites, [shall reach] from the wall of the city and outward a thousand cubits round about.",
+        "LSG": "Les banlieues des villes que vous donnerez aux Lévites auront, à partir du mur de la ville et au dehors, mille coudées tout autour.",
+        "MAB": "Les faubourgs des villes que vous donnerez aux Lévites, seront de mille coudées tout autour depuis la muraille de la ville en dehors.",
+        "OST": "Les territoires des villes que vous donnerez aux Lévites seront de mille coudées tout autour, depuis la muraille de la ville en dehors.",
+        "S21": "Les environs des villes que vous donnerez aux Lévites s’étendront sur 500 mètres à partir du mur de la ville et tout autour."
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "Vous délimiterez donc, à l’extérieur de la ville, un carré de mille mètres de côté au milieu duquel se situera la ville. Tels seront les territoires autour de leurs villes.",
+        "DBY": "Et vous mesurerez, en dehors de la ville, le côté de l'orient, deux mille coudées, et le côté du midi, deux mille coudées, et le côté de l'occident, deux mille coudées, et le côté du nord, deux mille coudées; et la ville sera au milieu: ce seront là les banlieues de leurs villes.",
+        "KJV": "And ye shall measure from without the city on the east side two thousand cubits, and on the south side two thousand cubits, and on the west side two thousand cubits, and on the north side two thousand cubits; and the city [shall be] in the midst: this shall be to them the suburbs of the cities.",
+        "LSG": "Vous mesurerez, en dehors de la ville, deux mille coudées pour le côté oriental, deux mille coudées pour le côté méridional, deux mille coudées pour le côté occidental, et deux mille coudées pour le côté septentrional. La ville sera au milieu. Telles seront les banlieues de leurs villes.",
+        "MAB": "Et vous mesurerez depuis le dehors de la ville du côté d'Orient, deux mille coudées; et du côté du Midi, deux mille coudées; et du côte d'Occident, deux mille coudées; et du côté du Septentrion, deux mille coudées; et la ville sera au milieu : tels seront les faubourgs de leurs villes.",
+        "OST": "Vous mesurerez donc, en dehors de la ville, du côté de l'Orient deux mille coudées, du côté du Midi deux mille coudées, du côté de l'Occident deux mille coudées, et du côté du Nord deux mille coudées, et la ville sera au milieu. Tels seront les territoires de leurs villes.",
+        "S21": "A l’extérieur de la ville, vous mesurerez 1000 mètres pour le côté est, 1000 mètres pour le côté sud, 1000 mètres pour le côté ouest et 1000 mètres pour le côté nord. La ville sera au milieu de ce carré. Cela formera leur territoire autour des villes."
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "Vous donnerez aux lévites les six villes de refuge que vous aurez désignées pour que des meurtriers involontaires puissent s’y réfugier ainsi que quarante-deux autres villes,",
+        "DBY": "Et parmi les villes que vous donnerez aux Lévites seront les six villes de refuge, que vous donnerez pour que l'homicide s'y enfuie; et outre celles-là, vous donnerez quarante-deux villes.",
+        "KJV": "And among the cities which ye shall give unto the Levites [there shall be] six cities for refuge, which ye shall appoint for the manslayer, that he may flee thither: and to them ye shall add forty and two cities.",
+        "LSG": "Parmi les villes que vous donnerez aux Lévites, il y aura six villes de refuge où pourra s'enfuir le meurtrier, et quarante-deux autres villes.",
+        "MAB": "Et des villes que vous donnerez aux Lévites, il y en aura six de refuge, lesquelles vous établirez afin que le meurtrier s'y enfuie; et outre celles-là vous [leur] donnerez quarante-deux villes.",
+        "OST": "Quant aux villes que vous donnerez aux Lévites, il y aura les six villes de refuge, que vous établirez afin que le meurtrier s'y enfuie; et outre celles-là, vous leur donnerez quarante-deux villes.",
+        "S21": "»Parmi les villes que vous donnerez aux Lévites, il y aura 6 villes de refuge, où l’auteur d’un homicide pourra s'enfuir, et 42 autres villes."
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "vous leur céderez donc en tout quarante-huit villes, chacune avec ses terres avoisinantes.",
+        "DBY": "Toutes les villes que vous donnerez aux Lévites seront quarante-huit villes, elles et leurs banlieues.",
+        "KJV": "[So] all the cities which ye shall give to the Levites [shall be] forty and eight cities: them [shall ye give] with their suburbs.",
+        "LSG": "Total des villes que vous donnerez aux Lévites: quarante-huit villes, avec leurs banlieues.",
+        "MAB": "Toutes les villes que vous donnerez aux Lévites seront quarante-huit villes; vous les donnerez avec leurs faubourgs.",
+        "OST": "Toutes les villes que vous donnerez aux Lévites, seront au nombre de quarante-huit villes, avec leurs territoires.",
+        "S21": "Total des villes que vous donnerez aux Lévites: 48 villes, avec leurs environs."
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "Vous prendrez ces villes sur les patrimoines fonciers des Israélites, en en prenant davantage des tribus qui ont reçu un plus grand nombre de villes, et moins de celles qui en ont moins; chaque tribu cédera de ses villes aux lévites en proportion du territoire qu’elle aura reçu.",
+        "DBY": "Et quant aux villes que vous donnerez sur la possession des fils d'Israël, de ceux qui en auront beaucoup vous en prendrez beaucoup, et de ceux qui en auront peu vous en prendrez peu: chacun donnera de ses villes aux Lévites, à proportion de l'héritage qu'il aura reçu en partage.",
+        "KJV": "And the cities which ye shall give [shall be] of the possession of the children of Israel: from [them that have] many ye shall give many; but from [them that have] few ye shall give few: every one shall give of his cities unto the Levites according to his inheritance which he inheriteth.",
+        "LSG": "Les villes que vous donnerez sur les propriétés des enfants d'Israël seront livrées en plus grand nombre par ceux qui en ont le plus, et en plus petit nombre par ceux qui en ont moins; chacun donnera de ses villes aux Lévites à proportion de l'héritage qu'il possédera.",
+        "MAB": "Et quant aux villes que vous donnerez de la possession des enfants d'Israël, vous en donnerez plus [de la portion de] ceux qui en auront plus, et vous en donnerez moins, [de la portion de] ceux qui en auront moins, chacun donnera de ses villes aux Lévites à proportion de l'héritage qu'il possédera.",
+        "OST": "Or, quant aux villes que vous leur donnerez, sur la possession des enfants d'Israël, vous en prendrez plus de ceux qui en auront plus, et moins de ceux qui en auront moins; chacun donnera de ses villes aux Lévites, en proportion de l'héritage qu'il possédera.",
+        "S21": "Les villes que vous donnerez étant prises sur les propriétés des Israélites, ceux qui en ont le plus en donneront plus et ceux qui en ont moins en donneront moins; chacun donnera une partie de ses villes aux Lévites proportionnellement à l'héritage qu'il possédera.»"
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "L’Eternel parla encore à Moïse, et lui dit:",
+        "DBY": "Et l'Éternel parla à Moïse, disant:",
+        "KJV": "And the LORD spake unto Moses, saying,",
+        "LSG": "L'Eternel parla à Moïse, et dit:",
+        "MAB": "Puis l'Eternel parla à Moïse, en disant :",
+        "OST": "Puis l'Éternel parla à Moïse, en disant:",
+        "S21": "L'Eternel dit à Moïse:"
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "—Dis aux Israélites: Vous allez traverser le Jourdain pour entrer dans le pays de Canaan,",
+        "DBY": "Parle aux fils d'Israël, et dis-leur: Quand vous aurez passé le Jourdain et que vous serez entrés dans le pays de Canaan,",
+        "KJV": "Speak unto the children of Israel, and say unto them, When ye be come over Jordan into the land of Canaan;",
+        "LSG": "Parle aux enfants d'Israël, et dis-leur: Lorsque vous aurez passé le Jourdain et que vous serez entrés dans le pays de Canaan,",
+        "MAB": "Parle aux enfants d'Israël, et leur dis : Quand vous aurez passé le Jourdain pour entrer au pays de Canaan;",
+        "OST": "Parle aux enfants d'Israël, et dis-leur: Quand vous aurez passé le Jourdain pour entrer au pays de Canaan,",
+        "S21": "«Transmets ces instructions aux Israélites: Lorsque vous aurez passé le Jourdain et que vous serez entrés dans le pays de Canaan,"
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "et vous vous choisirez des villes qui vous serviront de cités de refuge où pourront se réfugier les auteurs d’homicides involontaires.",
+        "DBY": "alors vous vous désignerez des villes; elles seront pour vous des villes de refuge, et l'homicide qui, par mégarde, aura frappé à mort quelqu'un, s'y enfuira.",
+        "KJV": "Then ye shall appoint you cities to be cities of refuge for you; that the slayer may flee thither, which killeth any person at unawares.",
+        "LSG": "vous vous établirez des villes qui soient pour vous des villes de refuge, où pourra s'enfuir le meurtrier qui aura tué quelqu'un involontairement.",
+        "MAB": "Etablissez-vous des villes qui vous soient des villes de refuge, afin que le meurtrier qui aura frappe à mort quelque personne par mégarde, s'y enfuie.",
+        "OST": "Établissez-vous des villes qui soient pour vous des villes de refuge, où puisse s'enfuir le meurtrier, qui aura frappé quelqu'un à mort par mégarde.",
+        "S21": "vous vous établirez des villes qui vous servent de villes de refuge. L’auteur d’un homicide, celui qui aura tué quelqu’un involontairement, pourra s'y enfuir."
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "Ces villes vous serviront d’asile pour protéger le meurtrier de l’homme chargé de punir le crime, afin qu’un meurtrier ne soit pas mis à mort avant d’avoir comparu devant la communauté pour être jugé.",
+        "DBY": "Et ce seront pour vous des villes de refuge de devant le vengeur, afin que l'homicide ne meure point qu'il n'ait comparu en jugement devant l'assemblée.",
+        "KJV": "And they shall be unto you cities for refuge from the avenger; that the manslayer die not, until he stand before the congregation in judgment.",
+        "LSG": "Ces villes vous serviront de refuge contre le vengeur du sang, afin que le meurtrier ne soit point mis à mort avant d'avoir comparu devant l'assemblée pour être jugé.",
+        "MAB": "Et ces villes vous seront pour refuge de devant celui qui a le droit de venger le sang, et le meurtrier ne mourra point qu'il n'ait comparu en jugement devant l'assemblée.",
+        "OST": "Et ces villes vous serviront de refuge contre le vengeur du sang, afin que le meurtrier ne meure point, jusqu'à ce qu'il ait comparu en jugement devant l'assemblée.",
+        "S21": "Ces villes vous serviront de refuge contre le vengeur du sang, afin que l’auteur de l’homicide ne soit pas mis à mort avant d'avoir comparu devant l'assemblée pour être jugé."
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "Vous désignerez six villes de refuge:",
+        "DBY": "Et les villes que vous donnerez seront pour vous six villes de refuge;",
+        "KJV": "And of these cities which ye shall give six cities shall ye have for refuge.",
+        "LSG": "Des villes que vous donnerez, six seront pour vous des villes de refuge.",
+        "MAB": "De ces villes-là donc que vous aurez données, il y en aura six de refuge pour vous.",
+        "OST": "Sur les villes que vous donnerez, il y aura donc pour vous six villes de refuge.",
+        "S21": "Parmi les villes que vous donnerez, 6 vous serviront de villes de refuge."
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "trois villes au-delà du Jourdain, et trois autres dans le pays de Canaan. Elles serviront de refuge",
+        "DBY": "vous donnerez trois de ces villes en deçà du Jourdain, et vous donnerez trois de ces villes dans le pays de Canaan: ce seront des villes de refuge.",
+        "KJV": "Ye shall give three cities on this side Jordan, and three cities shall ye give in the land of Canaan, [which] shall be cities of refuge.",
+        "LSG": "Vous donnerez trois villes au delà du Jourdain, et vous donnerez trois villes dans le pays de Canaan: ce seront des villes de refuge.",
+        "MAB": "Desquelles vous en établirez trois au deçà du Jourdain, et vous établirez les trois autres au pays de Canaan, qui seront des villes de refuge.",
+        "OST": "Vous en établirez trois de ce côté-ci du Jourdain, et vous établirez les trois autres au pays de Canaan; ce seront des villes de refuge.",
+        "S21": "Vous donnerez 3 villes de l’autre côté du Jourdain et 3 dans le pays de Canaan. Ce seront des villes de refuge."
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "aux Israélites, à l’immigré et au résident qui demeurera au milieu de vous; quiconque aura tué quelqu’un involontairement pourra s’y réfugier.",
+        "DBY": "Ces six villes serviront de refuge aux fils d'Israël, et à l'étranger, et à celui qui séjourne parmi eux, afin que quiconque aura, par mégarde, frappé à mort une personne, s'y enfuie.",
+        "KJV": "These six cities shall be a refuge, [both] for the children of Israel, and for the stranger, and for the sojourner among them: that every one that killeth any person unawares may flee thither.",
+        "LSG": "Ces six villes serviront de refuge aux enfants d'Israël, à l'étranger et à celui qui demeure au milieu de vous: là pourra s'enfuir tout homme qui aura tué quelqu'un involontairement.",
+        "MAB": "Ces six villes serviront de refuge aux enfants d'Israël, et à l'étranger, et au forain qui séjourne parmi eux, afin que quiconque aura frappé à mort quelque personne par mégarde, s'y enfuie.",
+        "OST": "Ces six villes serviront de refuge aux enfants d'Israël, et à l'étranger et à celui qui habitera parmi eux, afin que quiconque aura frappé une personne à mort par mégarde, s'y enfuie.",
+        "S21": "Ces 6 villes serviront de refuge aux Israélites, à l'étranger et à l’immigré qui se trouve parmi vous. Là pourra s'enfuir tout homme qui aura tué quelqu'un involontairement."
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "S’il a frappé avec un objet en fer et causé la mort, c’est un meurtrier; il sera puni de mort.",
+        "DBY": "-Et s'il la frappée avec un instrument de fer, et qu'elle meure, il est meurtrier: le meurtrier sera certainement mis à mort.",
+        "KJV": "And if he smite him with an instrument of iron, so that he die, he [is] a murderer: the murderer shall surely be put to death.",
+        "LSG": "Si un homme frappe son prochain avec un instrument de fer, et que la mort en soit la suite, c'est un meurtrier: le meurtrier sera puni de mort.",
+        "MAB": "Mais si un homme en frappe un autre avec un instrument de fer, et qu'il en meure, il est meurtrier; on punira de mort le meurtrier.",
+        "OST": "Mais s'il l'a frappée avec un instrument de fer, et qu'elle en meure, il est meurtrier; le meurtrier sera puni de mort.",
+        "S21": "»Si un homme frappe son prochain avec un instrument de fer et que mort s’ensuive, c'est un meurtrier. Le meurtrier sera puni de mort."
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "Il en sera de même s’il était armé d’une pierre ou d’un instrument en bois capable de causer la mort.",
+        "DBY": "Et s'il l'a frappée avec une pierre qu'il tenait à la main, et dont on puisse mourir, et qu'elle meure, il est meurtrier: le meurtrier sera certainement mis à mort.",
+        "KJV": "And if he smite him with throwing a stone, wherewith he may die, and he die, he [is] a murderer: the murderer shall surely be put to death.",
+        "LSG": "S'il le frappe, tenant à la main une pierre qui puisse causer la mort, et que la mort en soit la suite, c'est un meurtrier: le meurtrier sera puni de mort.",
+        "MAB": "Et s'il l'a frappé d'une pierre qu'il eût en sa main, dont cet homme puisse mourir, et qu'il en meure, il est meurtrier; on punira de mort le meurtrier.",
+        "OST": "Et s'il l'a frappée d'une pierre qu'il tenait à la main et qui pouvait donner la mort, et qu'elle en meure, il est meurtrier; le meurtrier sera puni de mort.",
+        "S21": "S'il le frappe en tenant à la main une pierre qui puisse provoquer la mort et que mort s’ensuive, c'est un meurtrier. Le meurtrier sera puni de mort."
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "L’homme chargé de punir le crime le mettra à mort dès qu’il le trouvera.",
+        "DBY": "Ou s'il l'a frappée avec un instrument de bois qu'il tenait à la main, et dont on puisse mourir, et qu'elle meure, il est meurtrier: le meurtrier sera certainement mis à mort;",
+        "KJV": "Or [if] he smite him with an hand weapon of wood, wherewith he may die, and he die, he [is] a murderer: the murderer shall surely be put to death.",
+        "LSG": "S'il le frappe, tenant à la main un instrument de bois qui puisse causer la mort, et que la mort en soit la suite, c'est un meurtrier: le meurtrier sera puni de mort.",
+        "MAB": "De même s'il l'a frappé d'un instrument de bois qu'il eût en sa main, dont cet homme puisse mourir, et qu'il meure, il est meurtrier; on punira de mort le meurtrier.",
+        "OST": "De même s'il l'a frappée d'un instrument de bois qu'il tenait à la main et qui pouvait donner la mort, et qu'elle en meure, il est meurtrier; le meurtrier sera puni de mort.",
+        "S21": "S'il le frappe en tenant à la main un instrument de bois qui puisse provoquer la mort et que mort s’ensuive, c'est un meurtrier. Le meurtrier sera puni de mort."
+      }
+    },
+    {
+      "verse": 19,
+      "texts": {
+        "BDS": "S’il lui a lancé un projectile avec préméditation ou s’il l’a frappé du poing avec inimitié, et qu’il a causé sa mort, c’est un meurtrier: l’homme chargé de punir le crime le mettra à mort dès qu’il le trouvera.",
+        "DBY": "le vengeur du sang mettra à mort le meurtrier; quand il le rencontrera, c'est lui qui le mettra à mort.",
+        "KJV": "The revenger of blood himself shall slay the murderer: when he meeteth him, he shall slay him.",
+        "LSG": "Le vengeur du sang fera mourir le meurtrier; quand il le rencontrera, il le tuera.",
+        "MAB": "Et celui qui a le droit de faire la vengeance [du sang], fera mourir le meurtrier; quand il le rencontrera, il le pourra faire mourir.",
+        "OST": "C'est le vengeur du sang qui fera mourir le meurtrier; quand il le rencontrera, il le fera mourir.",
+        "S21": "Le vengeur du sang fera mourir le meurtrier; quand il le rencontrera, il le tuera."
+      }
+    },
+    {
+      "verse": 20,
+      "texts": {
+        "BDS": "Mais s’il l’a bousculé par accident et non par inimitié, ou lui a lancé un projectile sans mauvaise intention,",
+        "DBY": "Et s'il l'a poussée par haine, ou s'il a jeté quelque chose sur elle avec préméditation, et qu'elle meure;",
+        "KJV": "But if he thrust him of hatred, or hurl at him by laying of wait, that he die;",
+        "LSG": "Si un homme pousse son prochain par un mouvement de haine, ou s'il jette quelque chose sur lui avec préméditation, et que la mort en soit la suite,",
+        "MAB": "Que s'il l'a poussé par haine, ou s'il a jeté quelque chose sur lui de dessein prémédité, et qu'il en meure;",
+        "OST": "Que si, par haine, un homme en a poussé un autre ou s'il a jeté quelque chose sur lui avec préméditation, et qu'il en soit mort;",
+        "S21": "Si un homme pousse son prochain par haine envers lui ou jette quelque chose sur lui avec préméditation et que mort s’ensuive,"
+      }
+    },
+    {
+      "verse": 21,
+      "texts": {
+        "BDS": "ou s’il a fait tomber sur lui une pierre sans l’avoir vu, et qu’il a causé sa mort sans avoir d’intention hostile à son égard et sans avoir cherché à lui faire de mal,",
+        "DBY": "ou qu'il l'ait frappée de la main par inimitié, et qu'elle meure, celui qui l'a frappée sera certainement mis à mort: il est meurtrier; le vengeur du sang mettra à mort le meurtrier quand il le rencontrera.",
+        "KJV": "Or in enmity smite him with his hand, that he die: he that smote [him] shall surely be put to death; [for] he [is] a murderer: the revenger of blood shall slay the murderer, when he meeteth him.",
+        "LSG": "ou s'il le frappe de sa main par inimitié, et que la mort en soit la suite, celui qui a frappé sera puni de mort, c'est un meurtrier: le vengeur du sang tuera le meurtrier, quand il le rencontrera.",
+        "MAB": "Ou que par inimitié il l'ait frappé de sa main, et qu'il en meure, on punira de mort celui qui l'a frappé, car il est meurtrier; celui qui a le droit de faire la vengeance [du sang] le pourra faire mourir quand il le rencontrera.",
+        "OST": "Ou que, par inimitié, il l'ait frappé de sa main, et qu'il en soit mort; celui qui a frappé sera puni de mort; il est meurtrier; le vengeur du sang fera mourir le meurtrier, quand il le rencontrera.",
+        "S21": "ou bien s'il le frappe de la main par hostilité envers lui et que mort s’ensuive, celui qui a frappé sera puni de mort, c'est un meurtrier. Le vengeur du sang tuera le meurtrier quand il le rencontrera."
+      }
+    },
+    {
+      "verse": 22,
+      "texts": {
+        "BDS": "la communauté prononcera un jugement selon ces règles entre l’auteur de la mort et l’homme chargé de punir le crime.",
+        "DBY": "-Mais s'il l'a poussée subitement, sans inimitié, ou s'il a jeté sur elle un objet quelconque, sans préméditation,",
+        "KJV": "But if he thrust him suddenly without enmity, or have cast upon him any thing without laying of wait,",
+        "LSG": "Mais si un homme pousse son prochain subitement et non par inimitié, ou s'il jette quelque chose sur lui sans préméditation,",
+        "MAB": "Mais si par hasard, sans inimitié, il l'a poussé, ou s'il a jeté sur lui quelque chose, mais sans dessein;",
+        "OST": "Que si, fortuitement, sans inimitié, il l'a poussé, ou a jeté sur lui quelque chose, sans préméditation,",
+        "S21": "»Mais supposons qu’un homme pousse son prochain par accident et non par hostilité envers lui, ou bien qu'il jette quelque chose sur lui sans préméditation,"
+      }
+    },
+    {
+      "verse": 23,
+      "texts": {
+        "BDS": "Elle délivrera le meurtrier de l’homme chargé de punir le crime et le fera retourner dans la ville de refuge où il s’était réfugié.\r\nIl devra y rester jusqu’à la mort du grand-prêtre qui a été oint d’huile sainte.",
+        "DBY": "ou si, n'étant pas son ennemi et ne cherchant pas son mal, il fait tomber sur elle, ne la voyant pas, quelque pierre qui puisse la faire mourir, et qu'elle meure,",
+        "KJV": "Or with any stone, wherewith a man may die, seeing [him] not, and cast [it] upon him, that he die, and [was] not his enemy, neither sought his harm:",
+        "LSG": "ou s'il fait tomber sur lui par mégarde une pierre qui puisse causer la mort, et que la mort en soit la suite, sans qu'il ait de la haine contre lui et qu'il lui cherche du mal,",
+        "MAB": "Ou quelque pierre sans l'avoir vu, et qu'il en meure, l'ayant fait tomber sur lui, et qu'il en meure, s'il n'était point son ennemi, et s'il n'a point cherché sa perte;",
+        "OST": "Ou si, n'étant point son ennemi et ne lui cherchant point du mal, il a fait tomber sur lui, sans l'avoir vu, quelque pierre qui puisse donner la mort, et qu'il en meure,",
+        "S21": "ou encore qu'il fasse tomber sur lui sans le voir une pierre qui puisse provoquer la mort, et que mort s’ensuive, alors qu'il n’éprouvait pas de haine contre l’autre et ne cherchait pas à lui faire du mal."
+      }
+    },
+    {
+      "verse": 24,
+      "texts": {
+        "BDS": "Mais s’il quitte l’enceinte de la ville de refuge où il s’est retiré,",
+        "DBY": "alors l'assemblée jugera entre celui qui a frappé et le vengeur du sang, selon ces ordonnances;",
+        "KJV": "Then the congregation shall judge between the slayer and the revenger of blood according to these judgments:",
+        "LSG": "voici les lois d'après lesquelles l'assemblée jugera entre celui qui a frappé et le vengeur du sang.",
+        "MAB": "Alors l'assemblée jugera entre celui qui a frappé, et celui qui a le droit de faire la vengeance [du sang], selon ces lois-ci.",
+        "OST": "Alors, l'assemblée jugera d'après ces lois entre celui qui a frappé et le vengeur du sang;",
+        "S21": "Voici les règles d'après lesquelles l'assemblée jugera entre celui qui a tué et le vengeur du sang."
+      }
+    },
+    {
+      "verse": 25,
+      "texts": {
+        "BDS": "et si l’homme chargé de punir le crime le rencontre à l’extérieur du territoire de sa ville de refuge et le tue, cet homme ne sera pas coupable de crime.",
+        "DBY": "et l'assemblée délivrera l'homicide de la main du vengeur du sang, et l'assemblée le fera retourner dans la ville de son refuge où il s'était enfui; et il y demeurera jusqu'à la mort du grand sacrificateur qu'on a oint de l'huile sainte.",
+        "KJV": "And the congregation shall deliver the slayer out of the hand of the revenger of blood, and the congregation shall restore him to the city of his refuge, whither he was fled: and he shall abide in it unto the death of the high priest, which was anointed with the holy oil.",
+        "LSG": "L'assemblée délivrera le meurtrier de la main du vengeur du sang, et le fera retourner dans la ville de refuge où il s'était enfui. Il y demeurera jusqu'à la mort du souverain sacrificateur qu'on a oint de l'huile sainte.",
+        "MAB": "Et l'assemblée délivrera le meurtrier de la main de celui qui a le droit de faire la vengeance [du sang], et le fera retourner à la ville de son refuge, où il s'en était fui, et il y demeurera jusqu'à la mort du souverain Sacrificateur, qui aura été oint de la sainte huile.",
+        "OST": "Et l'assemblée délivrera le meurtrier de la main du vengeur du sang, et le fera retourner à la ville de refuge où il s'était enfui; et il y demeurera jusqu'à la mort du souverain sacrificateur qu'on a oint de l'huile sainte.",
+        "S21": "L'assemblée délivrera l’auteur de l’homicide de la main du vengeur du sang et le fera retourner dans la ville de refuge où il s'était enfui. Il y restera jusqu'à la mort du grand-prêtre qu'on a consacré par onction avec l'huile sainte."
+      }
+    },
+    {
+      "verse": 26,
+      "texts": {
+        "BDS": "Car le meurtrier doit demeurer dans sa ville de refuge jusqu’à la mort du grand-prêtre; après cela il pourra retourner sur les terres qui lui appartiennent.",
+        "DBY": "Mais si l'homicide vient à sortir des limites de la ville de son refuge, où il s'est enfui,",
+        "KJV": "But if the slayer shall at any time come without the border of the city of his refuge, whither he was fled;",
+        "LSG": "Si le meurtrier sort du territoire de la ville de refuge où il s'est enfui,",
+        "MAB": "Mais si le meurtrier sort de quelque manière que ce soit hors des bornes de la ville de son refuge, où il s'était enfui;",
+        "OST": "Mais si le meurtrier sort des limites de la ville de refuge où il se sera enfui,",
+        "S21": "Si l’auteur de l’homicide quitte le territoire de la ville de refuge où il s'est enfui"
+      }
+    },
+    {
+      "verse": 27,
+      "texts": {
+        "BDS": "Ces ordonnances auront pour vous force de loi, pour toutes les générations, partout où vous habiterez.",
+        "DBY": "et que le vengeur du sang le trouve en dehors des limites de la ville de son refuge, et que le vengeur du sang tue l'homicide, le sang ne sera pas sur lui;",
+        "KJV": "And the revenger of blood find him without the borders of the city of his refuge, and the revenger of blood kill the slayer; he shall not be guilty of blood:",
+        "LSG": "et si le vengeur du sang le rencontre hors du territoire de la ville de refuge et qu'il tue le meurtrier, il ne sera point coupable de meurtre.",
+        "MAB": "Et que celui qui a le droit de faire la vengeance [du sang] le trouve hors des bornes de la ville de son refuge, et qu'il tue le meurtrier, il ne sera point coupable de meurtre.",
+        "OST": "Et que le vengeur du sang le trouve hors des limites de sa ville de refuge, et que le vengeur du sang tue le meurtrier, il ne sera point coupable de meurtre.",
+        "S21": "et que le vengeur du sang le rencontre à l’extérieur du territoire de la ville de refuge et le tue, il ne sera pas coupable de meurtre."
+      }
+    },
+    {
+      "verse": 28,
+      "texts": {
+        "BDS": "Toutes les fois qu’un meurtre aura été commis, c’est seulement sur la déposition de plusieurs témoins que le meurtrier sera mis à mort. La déclaration d’un seul témoin n’est pas suffisante pour prononcer une condamnation à la peine capitale.",
+        "DBY": "car l'homicide doit demeurer dans la ville de son refuge jusqu'à la mort du grand sacrificateur; et après la mort du grand sacrificateur, il retournera dans la terre de sa possession.",
+        "KJV": "Because he should have remained in the city of his refuge until the death of the high priest: but after the death of the high priest the slayer shall return into the land of his possession.",
+        "LSG": "Car le meurtrier doit demeurer dans sa ville de refuge jusqu'à la mort du souverain sacrificateur; et après la mort du souverain sacrificateur, il pourra retourner dans sa propriété.",
+        "MAB": "Car il doit demeurer en la ville de son refuge jusqu'à la mort du souverain Sacrificateur; mais après la mort du souverain Sacrificateur le meurtrier retournera en la terre de sa possession.",
+        "OST": "Car le meurtrier doit demeurer dans sa ville de refuge jusqu'à la mort du souverain sacrificateur; mais, après la mort du souverain sacrificateur, le meurtrier retournera dans la terre de sa possession.",
+        "S21": "En effet, l’auteur de l’homicide doit rester dans sa ville de refuge jusqu'à la mort du grand-prêtre. Ce n’est qu’après la mort du grand-prêtre qu’il pourra retourner dans sa propriété."
+      }
+    },
+    {
+      "verse": 29,
+      "texts": {
+        "BDS": "D’autre part, vous n’accepterez pas de rançon en échange de la vie d’un meurtrier qui a été reconnu coupable d’un crime méritant la mort; il doit être mis à mort.",
+        "DBY": "Et ces choses seront pour vous un statut de droit, en vos génération, partout où vous habiterez.",
+        "KJV": "So these [things] shall be for a statute of judgment unto you throughout your generations in all your dwellings.",
+        "LSG": "Voici des ordonnances de droit pour vous et pour vos descendants, dans tous les lieux où vous habiterez.",
+        "MAB": "Et ces choses-ci vous seront pour ordonnances de jugement en vos âges, dans toutes vos demeures.",
+        "OST": "Et ceci vous servira d'ordonnances de droit, dans vos générations, dans toutes vos demeures.",
+        "S21": "»Voici les prescriptions relatives au droit et valables pour vous au fil des générations, où que vous habitiez."
+      }
+    },
+    {
+      "verse": 30,
+      "texts": {
+        "BDS": "Vous n’en accepterez pas non plus pour que le meurtrier qui s’est retiré dans sa ville de refuge puisse retourner habiter chez lui avant la mort du prêtre.",
+        "DBY": "Si quelqu'un frappe à mort une personne, le meurtrier sera tué sur la parole de témoins; mais un seul témoin ne rendra pas témoignage contre quelqu'un, pour le faire mourir.",
+        "KJV": "Whoso killeth any person, the murderer shall be put to death by the mouth of witnesses: but one witness shall not testify against any person [to cause him] to die.",
+        "LSG": "Si un homme tue quelqu'un, on ôtera la vie au meurtrier, sur la déposition de témoins. Un seul témoin ne suffira pas pour faire condamner une personne à mort.",
+        "MAB": "Celui qui fera mourir le meurtrier, le fera mourir sur la parole de deux témoins; mais un seul témoin ne sera point reçu en témoignage contre quelqu'un, pour le faire mourir.",
+        "OST": "Si quelqu'un tue un homme, on tuera le meurtrier sur la déposition de témoins; mais un seul témoin ne suffira pas pour faire mourir quelqu'un.",
+        "S21": "»Si un homme en tue un autre, c’est sur la déposition de plusieurs témoins qu’on le mettra à mort. Un seul témoin ne suffira pas pour faire condamner quelqu’un à mort."
+      }
+    },
+    {
+      "verse": 31,
+      "texts": {
+        "BDS": "Ne profanez pas le pays où vous vous trouvez: en effet, le sang versé profane le pays; car, pour le pays, il n’y a pas d’expiation pour le sang qui y a été versé sinon par le sang de celui qui l’a répandu.",
+        "DBY": "Et vous ne prendrez point de rançon pour la vie du meurtrier qui est coupable d'avoir tué; mais il sera certainement mis à mort.",
+        "KJV": "Moreover ye shall take no satisfaction for the life of a murderer, which [is] guilty of death: but he shall be surely put to death.",
+        "LSG": "Vous n'accepterez point de rançon pour la vie d'un meurtrier qui mérite la mort, car il sera puni de mort.",
+        "MAB": "Vous ne prendrez point de prix pour la vie du meurtrier, parce qu'étant méchant il est digne de mort; et on le fera mourir.",
+        "OST": "Vous ne recevrez point de rançon pour la vie d'un meurtrier qui est coupable et digne de mort; car il doit être puni de mort.",
+        "S21": "»Vous n'accepterez pas de rançon en échange de la vie d'un meurtrier qui mérite la mort: il sera puni de mort."
+      }
+    },
+    {
+      "verse": 32,
+      "texts": {
+        "BDS": "Vous ne rendrez pas impur le pays où vous demeurerez et dans lequel j’habiterai, car je suis l’Eternel, qui habite au milieu des Israélites.",
+        "DBY": "Et vous ne prendrez point de rançon pour celui qui s'est enfui dans la ville de son refuge, pour qu'il retourne habiter dans le pays, jusqu'à la mort du sacrificateur.",
+        "KJV": "And ye shall take no satisfaction for him that is fled to the city of his refuge, that he should come again to dwell in the land, until the death of the priest.",
+        "LSG": "Vous n'accepterez point de rançon, qui lui permette de s'enfuir dans sa ville de refuge, et de retourner habiter dans le pays après la mort du sacrificateur.",
+        "MAB": "Ni vous ne prendrez point de prix pour le laisser enfuir dans la ville de son refuge; ni pour le laisser retourner habiter au pays, jusqu'à la mort du Sacrificateur.",
+        "OST": "Vous ne recevrez point non plus de rançon pour le laisser fuir dans sa ville de refuge, ni pour qu'à la mort du sacrificateur il retourne habiter au pays.",
+        "S21": "Vous n'accepterez pas de rançon qui lui permette de s'enfuir dans sa ville de refuge et de retourner habiter ailleurs dans le pays après la mort du prêtre."
+      }
+    },
+    {
+      "verse": 33,
+      "texts": {
+        "DBY": "Et vous ne profanerez point le pays où vous êtes, car le sang profane le pays; et l'expiation du sang ne pourra être faite, pour le pays où il a été versé, que par le sang de celui qui l'a versé.",
+        "KJV": "So ye shall not pollute the land wherein ye [are]: for blood it defileth the land: and the land cannot be cleansed of the blood that is shed therein, but by the blood of him that shed it.",
+        "LSG": "Vous ne souillerez point le pays où vous serez, car le sang souille le pays; et il ne sera fait pour le pays aucune expiation du sang qui y sera répandu que par le sang de celui qui l'aura répandu.",
+        "MAB": "Et vous ne souillerez point le pays où vous serez; car le sang souille le pays; et il ne se fera point d'expiation pour le pays, du sang qui y aura été répandu, que par le sang de celui qui l'aura répandu.",
+        "OST": "Et vous ne souillerez point le pays où vous serez, car le sang souille le pays; et il ne se fera d'expiation, pour le pays, du sang qui y aura été répandu, que par le sang de celui qui l'aura répandu.",
+        "S21": "Vous ne souillerez pas le pays où vous serez. En effet, le sang souille le pays. La seule façon pour le pays d’expier le sang qui y sera versé sera de verser le sang du meurtrier."
+      }
+    },
+    {
+      "verse": 34,
+      "texts": {
+        "DBY": "Et vous ne rendrez pas impur le pays où vous demeurez, au milieu duquel j'habite; car moi, l'Éternel, j'habite au milieu des fils d'Israël.",
+        "KJV": "Defile not therefore the land which ye shall inhabit, wherein I dwell: for I the LORD dwell among the children of Israel.",
+        "LSG": "Vous ne souillerez point le pays où vous allez demeurer, et au milieu duquel j'habiterai; car je suis l'Eternel, qui habite au milieu des enfants d'Israël.",
+        "MAB": "Vous ne souillerez donc point le pays où vous allez demeurer, [et] au milieu duquel j'habiterai; car je suis l'Eternel qui habite au milieu des enfants d'Israël.",
+        "OST": "Vous ne souillerez donc point le pays où vous allez demeurer, et au milieu duquel j'habiterai; car je suis l'Éternel qui habite au milieu des enfants d'Israël.",
+        "S21": "Vous ne rendrez pas impur le pays où vous allez vous installer et au milieu duquel j'habiterai, car je suis l'Eternel, qui habite au milieu des Israélites.»"
+      }
+    }
+  ]
+}

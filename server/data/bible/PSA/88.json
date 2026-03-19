@@ -1,0 +1,230 @@
+{
+  "bookCode": "PSA",
+  "chapter": 88,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "Un psaume des Qoréites. Cantique à chanter avec accompagnement de flûtes. Au chef de chœur. Une méditation d’Héman l’Ezrahite.",
+        "DBY": "Éternel, Dieu de mon salut! j'ai crié de jour et de nuit devant toi.",
+        "KJV": "A Song [or] Psalm for the sons of Korah, to the chief Musician upon Mahalath Leannoth, Maschil of Heman the Ezrahite. O LORD God of my salvation, I have cried day [and] night before thee:",
+        "LSG": "Cantique. Psaume des fils de Koré. Au chef des chantres. Pour chanter sur la flûte. Cantique d'Héman, l'Ezrachite. Eternel, Dieu de mon salut! Je crie jour et nuit devant toi.",
+        "MAB": "Maskil d'Héman Ezrahite, [qui est] un Cantique de Psaume, [donné] au maître chantre d'entre les enfants de Coré, [pour le chanter] sur Mahalath-lehannoth. Eternel! Dieu de ma délivrance, je crie jour et nuit devant toi.",
+        "OST": "Au maître-chantre. Cantique. Psaume des enfants de Coré, sur la cithare. Maskil (cantique) d'Héman l'Ezrachite.",
+        "S21": "Chant, psaume des descendants de Koré. Au chef de chœur, à chanter sur la flûte. Cantique d’Héman l’Ezrachite."
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "Eternel Dieu, toi qui me sauves,\r\nje crie à toi, pendant le jour, pendant la nuit, en ta présence.",
+        "DBY": "Que ma prière vienne devant toi, incline ton oreille à mon cri.",
+        "KJV": "Let my prayer come before thee: incline thine ear unto my cry;",
+        "LSG": "Que ma prière parvienne en ta présence! Prête l'oreille à mes supplications!",
+        "MAB": "Que ma prière vienne en ta présence; ouvre ton oreille à mon cri.",
+        "OST": "Éternel, Dieu de ma délivrance, je crie jour et nuit devant toi.",
+        "S21": "Eternel, Dieu de mon salut, jour et nuit je crie devant toi."
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "Que ma prière s’élève jusqu’à toi!\r\nA mes sanglots, prête attention!",
+        "DBY": "Car mon âme est rassasiée de maux, et ma vie touche au shéol.",
+        "KJV": "For my soul is full of troubles: and my life draweth nigh unto the grave.",
+        "LSG": "Car mon âme est rassasiée de maux, Et ma vie s'approche du séjour des morts.",
+        "MAB": "Car mon âme a tout son saoul de maux, et ma vie est venue jusqu'au sépulcre.",
+        "OST": "Que ma prière parvienne en ta présence; incline ton oreille à mon cri.",
+        "S21": "Que ma prière parvienne jusqu’à toi! Prête l’oreille à mes supplications,"
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "Car je suis rassasié de maux,\r\net je suis tout près de la mort.",
+        "DBY": "Je suis compté parmi ceux qui descendent dans la fosse, je suis comme un homme qui n'a pas de force,",
+        "KJV": "I am counted with them that go down into the pit: I am as a man [that hath] no strength:",
+        "LSG": "Je suis mis au rang de ceux qui descendent dans la fosse, Je suis comme un homme qui n'a plus de force.",
+        "MAB": "On m'a mis au rang de ceux qui descendent en la fosse; je suis devenu comme un homme qui n'a plus de vigueur;",
+        "OST": "Car mon âme est rassasiée de maux, et ma vie touche au séjour des morts.",
+        "S21": "car mon âme est saturée de malheurs, et ma vie s’approche du séjour des morts."
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "Déjà je suis compté parmi ceux qui s’en vont dans le tombeau.\r\nJe ressemble à un homme\r\nqui a perdu ses forces.",
+        "DBY": "Gisant parmi les morts, comme les tués qui sont couchés dans le sépulcre, desquels tu ne te souviens plus, et qui sont retranchés de ta main.",
+        "KJV": "Free among the dead, like the slain that lie in the grave, whom thou rememberest no more: and they are cut off from thy hand.",
+        "LSG": "Je suis étendu parmi les morts, Semblable à ceux qui sont tués et couchés dans le sépulcre, A ceux dont tu n'as plus le souvenir, Et qui sont séparés de ta main.",
+        "MAB": "Placé parmi les morts, comme les blessés à mort couchés au sépulcre, desquels il ne te souvient plus, et qui sont retranchés par ta main.",
+        "OST": "Je suis compté parmi ceux qui descendent dans la fosse; je suis comme un homme sans vigueur,",
+        "S21": "On me compte parmi ceux qui descendent dans la tombe, je suis comme un homme qui n’a plus de force."
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "C’est au milieu des morts que j’ai ma place,\r\ncomme ceux qui, déjà, sont couchés dans la tombe,\r\nque tu as oubliés\r\net dont tu ne t’occupes plus.",
+        "DBY": "Tu m'as mis dans une fosse profonde, dans des lieux ténébreux, dans des abîmes.",
+        "KJV": "Thou hast laid me in the lowest pit, in darkness, in the deeps.",
+        "LSG": "Tu m'as jeté dans une fosse profonde, Dans les ténèbres, dans les abîmes.",
+        "MAB": "Tu m'as mis en une fosse des plus basses, dans des lieux ténébreux, dans des lieux profonds.",
+        "OST": "Gisant parmi les morts, tel que les blessés à mort, qui sont couchés dans le tombeau, dont tu ne te souviens plus, et qui sont séparés de ta main.",
+        "S21": "Je suis étendu parmi les morts, semblable à ceux qui sont tués et couchés dans la tombe, à ceux dont tu ne te souviens plus et qui sont séparés de toi."
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "Tu m’as abandonné dans un gouffre sans fond\r\net tu m’as relégué dans les fonds ténébreux.",
+        "DBY": "Ta fureur s'est appesantie sur moi, et tu m'as accablé de toutes tes vagues. Sélah.",
+        "KJV": "Thy wrath lieth hard upon me, and thou hast afflicted [me] with all thy waves. Selah.",
+        "LSG": "Ta fureur s'appesantit sur moi, Et tu m'accables de tous tes flots. Pause.",
+        "MAB": "Ta fureur s'est jetée sur moi, et tu m'as accablé de tous tes flots; Sélah.",
+        "OST": "Tu m'as mis dans la fosse la plus basse, dans les lieux ténébreux, dans les abîmes.",
+        "S21": "Tu m’as jeté dans un gouffre profond, dans les ténèbres, dans les abîmes."
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "Ta fureur me tenaille,\r\nles flots de ta colère ont déferlé sur moi.\r\nPause",
+        "DBY": "as éloigné de moi ceux de ma connaissance, tu m'as mis en abomination auprès d'eux; je suis enfermé, et je ne puis sortir.",
+        "KJV": "Thou hast put away mine acquaintance far from me; thou hast made me an abomination unto them: [I am] shut up, and I cannot come forth.",
+        "LSG": "Tu as éloigné de moi mes amis, Tu m'as rendu pour eux un objet d'horreur; Je suis enfermé et je ne puis sortir.",
+        "MAB": "Tu as éloigné de moi ceux de qui j'étais connu, tu m'as mis en une extrême abomination devant eux; je suis enfermé tellement, que je ne puis sortir.",
+        "OST": "Ta colère pèse sur moi, et tu m'accables de tous tes flots. (Sélah.)",
+        "S21": "Ta fureur pèse lourdement sur moi, et tu m’accables des vagues de ta colère. – Pause."
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "Tu m’as séparé de mes proches.\r\nTu m’as rendu, pour eux, comme un objet d’horreur.\r\nJe suis emprisonné, je ne peux m’en sortir.",
+        "DBY": "Mon œil se consume d'affliction; j'ai crié à toi, Éternel, tous les jours; j'ai étendu mes mains vers toi.",
+        "KJV": "Mine eye mourneth by reason of affliction: LORD, I have called daily upon thee, I have stretched out my hands unto thee.",
+        "LSG": "Mes yeux se consument dans la souffrance; Je t'invoque tous les jours, ô Eternel! J'étends vers toi les mains.",
+        "MAB": "Mon œil languit d'affliction; Eternel! je crie à toi tout le jour, j'étends mes mains vers toi.",
+        "OST": "Tu as éloigné de moi ceux que je connais; tu m'as rendu pour eux un objet d'horreur; je suis enfermé et je ne puis sortir.",
+        "S21": "Tu as éloigné mes intimes de moi, tu as fait de moi un objet d’horreur pour eux; je suis enfermé et je ne peux pas sortir."
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "Mes yeux sont épuisés à force de souffrir.\r\nJe t’invoque, Eternel, tout au long de mes jours,\r\nje tends les mains vers toi.",
+        "DBY": "Feras-tu des merveilles pour les morts? ou les trépassés se lèveront-ils pour te célébrer? Sélah.",
+        "KJV": "Wilt thou shew wonders to the dead? shall the dead arise [and] praise thee? Selah.",
+        "LSG": "Est-ce pour les morts que tu fais des miracles? Les morts se lèvent-ils pour te louer? Pause.",
+        "MAB": "Feras-tu un miracle envers les morts? ou les trépassés se relèveront-ils pour te célébrer? Sélah.",
+        "OST": "Mon œil se consume par l'affliction; je t'invoque, ô Éternel, tous les jours; j'étends mes mains vers toi.",
+        "S21": "Mes yeux sont usés par la souffrance; tous les jours, je fais appel à toi, Eternel, je tends les mains vers toi."
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "Feras-tu des miracles pour ceux qui ne sont plus?\r\nVerra-t-on se lever les morts pour te louer?\r\nPause",
+        "DBY": "Racontera-t-on ta bonté dans le sépulcre, ta fidélité dans l'abîme?",
+        "KJV": "Shall thy lovingkindness be declared in the grave? [or] thy faithfulness in destruction?",
+        "LSG": "Parle-t-on de ta bonté dans le sépulcre, De ta fidélité dans l'abîme?",
+        "MAB": "Racontera-t-on ta miséricorde dans le sépulcre? [et] ta fidélité dans le tombeau?",
+        "OST": "Feras-tu quelque merveille pour les morts? Ou les trépassés se lèveront-ils pour te louer? (Sélah.)",
+        "S21": "Est-ce pour les morts que tu fais des miracles? Les défunts se lèvent-ils pour te louer? – Pause."
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "Parle-t-on dans la tombe de ton amour?\r\nDe ta fidélité dans le séjour des morts?",
+        "DBY": "Connaîtra-t-on tes merveilles dans les ténèbres, et ta justice dans le pays de l'oubli?",
+        "KJV": "Shall thy wonders be known in the dark? and thy righteousness in the land of forgetfulness?",
+        "LSG": "Tes prodiges sont-ils connus dans les ténèbres, Et ta justice dans la terre de l'oubli?",
+        "MAB": "Connaîtra-t-on tes merveilles dans les ténèbres; et ta justice au pays d'oubli?",
+        "OST": "Annoncera-t-on ta bonté dans le tombeau, et ta fidélité dans l'abîme?",
+        "S21": "Parle-t-on de ta bonté dans la tombe, de ta fidélité dans le gouffre de perdition?"
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "Connaît-on tes miracles là où sont les ténèbres,\r\net ta justice au pays de l’oubli?",
+        "DBY": "Mais moi, Éternel! je crie à toi, et dès le matin ma prière te prévient.",
+        "KJV": "But unto thee have I cried, O LORD; and in the morning shall my prayer prevent thee.",
+        "LSG": "O Eternel! j'implore ton secours, Et le matin ma prière s'élève à toi.",
+        "MAB": "Mais moi, ô Eternel! je crie à toi, ma prière te prévient dès le matin.",
+        "OST": "Connaîtra-t-on tes merveilles dans les ténèbres, et ta justice dans la terre d'oubli?",
+        "S21": "Tes miracles sont-ils connus dans les ténèbres, et ta justice au pays de l’oubli?"
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "Pour moi, ô Eternel, je crie à toi,\r\nje te présente ma prière chaque matin.",
+        "DBY": "Éternel! pourquoi as-tu rejeté mon âme, et me caches-tu ta face?",
+        "KJV": "LORD, why castest thou off my soul? [why] hidest thou thy face from me?",
+        "LSG": "Pourquoi, Eternel, repousses-tu mon âme? Pourquoi me caches-tu ta face?",
+        "MAB": "Eternel! pourquoi rejettes-tu mon âme, pourquoi caches-tu ta face de moi?",
+        "OST": "Et moi, Éternel, je crie à toi; ma prière te prévient dès le matin.",
+        "S21": "Et moi, c’est toi, Eternel, que j’appelle au secours. Le matin, ma prière s’adresse à toi."
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "Pourquoi, ô Eternel, me rejeter\r\net refuser de m’accueillir?",
+        "DBY": "Je suis affligé et expirant dès ma jeunesse; je porte tes terreurs, je ne sais ou j'en suis.",
+        "KJV": "I [am] afflicted and ready to die from [my] youth up: [while] I suffer thy terrors I am distracted.",
+        "LSG": "Je suis malheureux et moribond dès ma jeunesse, Je suis chargé de tes terreurs, je suis troublé.",
+        "MAB": "Je suis affligé et comme rendant l'esprit dès ma jeunesse; j'ai été exposé à tes terreurs, et je ne sais où j'en suis.",
+        "OST": "Éternel, pourquoi rejettes-tu mon âme, et me caches-tu ta face?",
+        "S21": "Pourquoi, Eternel, me rejettes-tu? Pourquoi me caches-tu ton visage?"
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "Car je suis malheureux, près de la mort; depuis que je suis jeune,\r\net jusqu’à maintenant, j’endure les terreurs que tu m’imposes. Je suis à bout.",
+        "DBY": "Les ardeurs de ta colère ont passé sur moi, tes frayeurs m'ont anéanti;",
+        "KJV": "Thy fierce wrath goeth over me; thy terrors have cut me off.",
+        "LSG": "Tes fureurs passent sur moi, Tes terreurs m'anéantissent;",
+        "MAB": "Les ardeurs de ta [colère] sont passées sur moi, et tes frayeurs m'ont retranché.",
+        "OST": "Je suis affligé et comme expirant dès ma jeunesse; je suis chargé de tes terreurs, je suis éperdu.",
+        "S21": "Je suis malheureux et mourant depuis ma jeunesse, je subis tes terreurs et je suis bouleversé."
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "Les flots de ta colère ont déferlé sur moi,\r\nje suis anéanti par les angoisses qui me viennent de toi.",
+        "DBY": "Elles m'ont environné comme des eaux tout le jour, elles m'ont entouré toutes ensemble.",
+        "KJV": "They came round about me daily like water; they compassed me about together.",
+        "LSG": "Elles m'environnent tout le jour comme des eaux, Elles m'enveloppent toutes à la fois.",
+        "MAB": "Ils m'ont tout le jour environné comme des eaux, ils m'ont entouré tous ensemble.",
+        "OST": "Tes fureurs ont passé sur moi; tes épouvantes me tuent.",
+        "S21": "Tes fureurs passent sur moi, tes terreurs me réduisent au silence;"
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "Comme des eaux qui me submergent,\r\nde toutes parts, elles m’assaillent tous les jours.",
+        "DBY": "Tu as éloigné de moi amis et compagnons; ceux de ma connaissance me sont des ténèbres.",
+        "KJV": "Lover and friend hast thou put far from me, [and] mine acquaintance into darkness.",
+        "LSG": "Tu as éloigné de moi amis et compagnons; Mes intimes ont disparu.",
+        "MAB": "Tu as éloigné de moi mon ami, même mon intime ami, et ceux de qui je suis connu me sont des ténèbres.",
+        "OST": "Elles m'environnent comme des eaux chaque jour; elles m'enveloppent toutes à la fois.",
+        "S21": "elles m’encerclent tout le jour comme de l’eau, elles me cernent de tous côtés."
+      }
+    },
+    {
+      "verse": 19,
+      "texts": {
+        "BDS": "Mes familiers, tous mes amis tu les as éloignés!\r\nMa seule compagnie est celle des ténèbres.",
+        "OST": "Tu as éloigné de moi amis et compagnons; ceux que je connais, ce sont les ténèbres.",
+        "S21": "Tu as éloigné mes amis et mes proches de moi; mes intimes, ce sont les ténèbres."
+      }
+    }
+  ]
+}

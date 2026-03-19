@@ -1,5 +1,12 @@
 import { z } from 'zod';
-import { prisma } from '~~/lib/prisma';
+import {
+    buildBookPayload,
+    buildVersionPayload,
+    getBibleBookByOrderIndex,
+    getBibleChapter,
+    getBibleVersionByOrderIndex,
+    mapChapterVerses
+} from '~~/server/utils/bibleData';
 
 // Schéma de validation pour la requête de comparaison
 const compareSchema = z.object({
@@ -27,10 +34,7 @@ export default defineEventHandler(async (event) => {
         const { bookId, chapter, verseStart, verseEnd, versions } = validation.data;
         const endVerse = verseEnd || verseStart;
 
-        // Vérifier que le livre existe
-        const book = await prisma.bibleBook.findUnique({
-            where: { id: bookId }
-        });
+        const book = await getBibleBookByOrderIndex(bookId);
 
         if (!book) {
             throw createError({
@@ -39,18 +43,15 @@ export default defineEventHandler(async (event) => {
             });
         }
 
-        // Vérifier que toutes les versions existent
-        const versionRecords = await prisma.bibleVersion.findMany({
-            where: {
-                id: { in: versions }
-            },
-            select: {
-                id: true,
-                code: true,
-                name: true,
-                language: true
-            }
-        });
+        if (chapter > book.chapterCount) {
+            throw createError({
+                statusCode: 400,
+                statusMessage: `Le chapitre doit être entre 1 et ${book.chapterCount}`
+            });
+        }
+
+        const versionRecords = (await Promise.all(versions.map(versionId => getBibleVersionByOrderIndex(versionId))))
+            .filter(version => version !== null);
 
         if (versionRecords.length !== versions.length) {
             throw createError({
@@ -59,33 +60,25 @@ export default defineEventHandler(async (event) => {
             });
         }
 
-        // Récupérer les versets pour toutes les versions
-        const comparisons = [];
+        const chapterData = await getBibleChapter(book.code, chapter);
 
-        for (const version of versionRecords) {
-            const verses = await prisma.bibleVerse.findMany({
-                where: {
-                    versionId: version.id,
-                    bookId,
-                    chapter,
-                    verse: {
-                        gte: verseStart,
-                        lte: endVerse
-                    }
-                },
-                orderBy: { verse: 'asc' }
-            });
-
-            comparisons.push({
-                version,
-                verses
+        if (!chapterData) {
+            throw createError({
+                statusCode: 404,
+                statusMessage: 'Chapitre non trouvé'
             });
         }
+
+        const comparisons = versionRecords.map(version => ({
+            version: buildVersionPayload(version),
+            verses: mapChapterVerses(chapterData, book, version)
+                .filter(verse => verse.verse >= verseStart && verse.verse <= endVerse)
+        }));
 
         return {
             success: true,
             data: {
-                book,
+                book: buildBookPayload(book),
                 chapter,
                 verseRange: {
                     start: verseStart,
@@ -105,7 +98,5 @@ export default defineEventHandler(async (event) => {
             statusCode: 500,
             statusMessage: 'Erreur interne du serveur'
         });
-    } finally {
-        await prisma.$disconnect();
     }
 });

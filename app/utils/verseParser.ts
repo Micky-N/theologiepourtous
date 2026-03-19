@@ -1,4 +1,4 @@
-import type { BibleBook } from '@prisma/client';
+import type { BibleBookData } from '~/types';
 
 export type VerseObject = {
     book: string | null;
@@ -7,9 +7,9 @@ export type VerseObject = {
     version: string | null;
 };
 
-const booksData: BibleBook[] = [];
+const booksData: BibleBookData[] = [];
 
-export const setBooksData = (data: BibleBook[]) => {
+export const setBooksData = (data: BibleBookData[]) => {
     booksData.push(...data);
 };
 

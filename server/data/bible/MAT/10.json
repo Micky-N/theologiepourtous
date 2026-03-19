@@ -1,0 +1,510 @@
+{
+  "bookCode": "MAT",
+  "chapter": 10,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "Jésus appela ses douze disciples et leur donna l’autorité de chasser les esprits mauvais et de guérir toute maladie et toute infirmité.",
+        "DBY": "Et ayant appelé ses douze disciples, il leur donna autorité sur les esprits immondes pour les chasser, et pour guérir toute maladie et toute langueur.",
+        "KJV": "And when he had called unto [him] his twelve disciples, he gave them power [against] unclean spirits, to cast them out, and to heal all manner of sickness and all manner of disease.",
+        "LSG": "Puis, ayant appelé ses douze disciples, il leur donna le pouvoir de chasser les esprits impurs, et de guérir toute maladie et toute infirmité.",
+        "MAB": "Alors [Jésus] ayant appelé ses douze Disciples, leur donna puissance sur les esprits immondes pour les chasser hors [des possédés], et pour guérir toute sorte de maladies, et toute sorte d'infirmités.",
+        "OST": "Jésus, ayant appelé ses douze disciples, leur donna le pouvoir de chasser les esprits immondes et de guérir toutes sortes de maladies et toutes sortes d'infirmités.",
+        "S21": "Puis Jésus appela ses douze disciples et leur donna le pouvoir de chasser les esprits impurs et de guérir toute maladie et toute infirmité."
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "Voici les noms des douze apôtres: d’abord, Simon appelé Pierre puis André son frère; Jacques, fils de Zébédée, et Jean son frère;",
+        "DBY": "Or ce sont ici les noms des douze apôtres: le premier, Simon appelé Pierre, et André son frère; Jacques le fils de Zébédée, et Jean son frère;",
+        "KJV": "Now the names of the twelve apostles are these; The first, Simon, who is called Peter, and Andrew his brother; James [the son] of Zebedee, and John his brother;",
+        "LSG": "Voici les noms des douze apôtres. Le premier, Simon appelé Pierre, et André, son frère; Jacques, fils de Zébédée, et Jean, son frère;",
+        "MAB": "Et ce sont ici les noms des douze Apôtres : le premier est Simon, nommé Pierre, et André son frère; Jacques, fils de Zébédée, et Jean, son frère;",
+        "OST": "Or, voici les noms des douze apôtres: le premier est Simon, nommé Pierre, et André, son frère; Jacques, fils de Zébédée, et Jean, son frère;",
+        "S21": "Voici les noms des douze apôtres: le premier, Simon, appelé Pierre, et André, son frère; Jacques, fils de Zébédée, et Jean, son frère;"
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "Philippe et Barthélemy; Thomas et Matthieu, le collecteur d’impôts; Jacques, fils d’Alphée, et Thaddée;",
+        "DBY": "Philippe et Barthélemy; Thomas et Matthieu le publicain; Jacques le fils d'Alphée, et Lebbée surnommé Thaddée;",
+        "KJV": "Philip, and Bartholomew; Thomas, and Matthew the publican; James [the son] of Alphaeus, and Lebbaeus, whose surname was Thaddaeus;",
+        "LSG": "Philippe, et Barthélemy; Thomas, et Matthieu, le publicain; Jacques, fils d'Alphée, et Thaddée;",
+        "MAB": "Philippe et Barthélemy; Thomas, et Matthieu le péager; Jacques, fils d'Alphée, et Lebbée, surnommé Thaddée.",
+        "OST": "Philippe, et Barthélemi; Thomas, et Matthieu le péager; Jacques, fils d'Alphée, et Lebbée, surnommé Thaddée;",
+        "S21": "Philippe et Barthélémy; Thomas et Matthieu, le collecteur d’impôts; Jacques, fils d'Alphée, et [Lebbée, surnommé] Thaddée;"
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "Simon, le Zélé, et Judas Iscariot, celui qui a trahi Jésus.",
+        "DBY": "Simon le Cananéen, et Judas l'Iscariote, qui aussi le livra.",
+        "KJV": "Simon the Canaanite, and Judas Iscariot, who also betrayed him.",
+        "LSG": "Simon le Cananite, et Judas l'Iscariot, celui qui livra Jésus.",
+        "MAB": "Simon Cananéen, et Judas Iscariot, qui même le trahit.",
+        "OST": "Simon le Cananite, et Judas l'Iscariote, qui même trahit Jésus.",
+        "S21": "Simon le Cananite et Judas l'Iscariot, celui qui trahit Jésus."
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "Ce sont ces douze hommes que Jésus envoya, après leur avoir fait les recommandations suivantes:\r\n—N’allez pas dans les contrées païennes et n’entrez pas dans les villes de la Samarie.",
+        "DBY": "Jésus envoya ces douze et leur donna des ordres, disant: Ne vous en allez pas sur le chemin des nations, et n'entrez dans aucune ville de Samaritains;",
+        "KJV": "These twelve Jesus sent forth, and commanded them, saying, ‹Go not into the way of the Gentiles, and into› [any] ‹city of the Samaritans enter ye not:›",
+        "LSG": "Tels sont les douze que Jésus envoya, après leur avoir donné les instructions suivantes: N'allez pas vers les païens, et n'entrez pas dans les villes des Samaritains;",
+        "MAB": "Jésus envoya ces douze, et leur commanda, en disant : n'allez point vers les Gentils, et n'entrez point dans aucune ville des Samaritains;",
+        "OST": "Jésus envoya ces douze-là, et il leur donna ses ordres, en disant: N'allez point vers les gentils, et n'entrez dans aucune ville des Samaritains;",
+        "S21": "Ce sont les douze que Jésus envoya, après leur avoir donné les instructions suivantes: «N'allez pas vers les non-Juifs et n'entrez pas dans les villes des Samaritains."
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "Rendez-vous plutôt auprès des brebis perdues du peuple d’Israël.",
+        "DBY": "mais allez plutôt vers les brebis perdues de la maison d'Israël.",
+        "KJV": "‹But go rather to the lost sheep of the house of Israel.›",
+        "LSG": "allez plutôt vers les brebis perdues de la maison d'Israël.",
+        "MAB": "Mais plutôt allez vers les brebis perdues de la Maison d'Israël.",
+        "OST": "Mais allez plutôt vers les brebis perdues de la maison d'Israël.",
+        "S21": "Allez plutôt vers les brebis perdues de la communauté d'Israël."
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "Partout où vous passerez, annoncez que le règne des cieux est tout proche.",
+        "DBY": "Et quand vous irez, prêchez, disant: Le royaume des cieux s'est approché.",
+        "KJV": "‹And as ye go, preach, saying, The kingdom of heaven is at hand.›",
+        "LSG": "Allez, prêchez, et dites: Le royaume des cieux est proche.",
+        "MAB": "Et quand vous serez partis, prêchez, en disant : le Royaume des cieux est proche.",
+        "OST": "Et quand vous serez partis, prêchez, et dites: Le royaume des cieux approche.",
+        "S21": "En chemin, prêchez en disant: ‘Le royaume des cieux est proche.’"
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "Guérissez les malades, ressuscitez les morts, rendez purs les lépreux, expulsez les démons.\r\nVous avez reçu gratuitement, donnez gratuitement.",
+        "DBY": "Guérissez les infirmes; ressuscitez les morts; rendez nets les lépreux; chassez les démons: vous avez reçu gratuitement, donnez gratuitement.",
+        "KJV": "‹Heal the sick, cleanse the lepers, raise the dead, cast out devils: freely ye have received, freely give.›",
+        "LSG": "Guérissez les malades, ressuscitez les morts, purifiez les lépreux, chassez les démons. Vous avez reçu gratuitement, donnez gratuitement.",
+        "MAB": "Guérissez les malades, rendez nets les lépreux, ressuscitez les morts, chassez les démons hors [des possédés]; vous l'avez reçu gratuitement, donnez-le gratuitement.",
+        "OST": "Guérissez les malades, nettoyez les lépreux, ressuscitez les morts, chassez les démons. Vous avez reçu gratuitement, donnez gratuitement.",
+        "S21": "Guérissez les malades, [ressuscitez les morts,] purifiez les lépreux, chassez les démons. Vous avez reçu gratuitement, donnez gratuitement."
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "Ne mettez dans vos bourses ni or, ni argent, ni pièce de cuivre.",
+        "DBY": "Ne faites provision ni d'or, ni d'argent, ni de cuivre dans vos ceintures,",
+        "KJV": "‹Provide neither gold, nor silver, nor brass in your purses,›",
+        "LSG": "Ne prenez ni or, ni argent, ni monnaie, dans vos ceintures;",
+        "MAB": "Ne faites provision ni d'or, ni d'argent, ni de monnaie dans vos ceintures;",
+        "OST": "Ne prenez ni or, ni argent, ni monnaie dans vos ceintures;",
+        "S21": "Ne prenez ni or, ni argent, ni monnaie dans vos ceintures,"
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "N’emportez pour le voyage ni sac, ni tunique de rechange, ni sandales, ni bâton, car «l’ouvrier mérite sa nourriture».",
+        "DBY": "ni d'un sac pour le chemin, ni de deux tuniques, ni de sandales, ni d'un bâton, car l'ouvrier est digne de sa nourriture.",
+        "KJV": "‹Nor scrip for› [your] ‹journey, neither two coats, neither shoes, nor yet staves: for the workman is worthy of his meat.›",
+        "LSG": "ni sac pour le voyage, ni deux tuniques, ni souliers, ni bâton; car l'ouvrier mérite sa nourriture.",
+        "MAB": "Ni de sac pour le voyage, ni de deux robes, ni de souliers, ni de bâton; car l'ouvrier est digne de sa nourriture.",
+        "OST": "Ni sac pour le voyage, ni deux habits, ni souliers, ni bâton; car l'ouvrier est digne de sa nourriture.",
+        "S21": "ni sac pour le voyage, ni deux chemises, ni sandales, ni bâton, car l'ouvrier mérite sa nourriture."
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "Chaque fois que vous arriverez dans une ville ou un village, faites-vous indiquer quelqu’un de recommandable et restez chez lui jusqu’à votre départ de la localité.",
+        "DBY": "Et dans quelque ville ou village que vous entriez, informez-vous qui y est digne; et demeurez là jusqu'à ce que vous partiez.",
+        "KJV": "‹And into whatsoever city or town ye shall enter, enquire who in it is worthy; and there abide till ye go thence.›",
+        "LSG": "Dans quelque ville ou village que vous entriez, informez-vous s'il s'y trouve quelque homme digne de vous recevoir; et demeurez chez lui jusqu'à ce que vous partiez.",
+        "MAB": "Et dans quelque ville ou bourgade que vous entriez, informez-vous qui y est digne [de vous loger]; et demeurez chez lui jusqu'à ce que vous partiez de là.",
+        "OST": "Et dans quelque ville ou bourgade que vous entriez, informez-vous qui y est digne; et demeurez chez lui jusqu'à ce que vous partiez.",
+        "S21": "»Dans chaque ville ou village où vous arrivez, informez-vous pour savoir qui est digne de vous accueillir et restez chez lui jusqu'à votre départ."
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "En franchissant le seuil de la maison, saluez ses occupants et dites: «Que la paix soit avec vous!»",
+        "DBY": "Et quand vous entrerez dans une maison, saluez-la.",
+        "KJV": "‹And when ye come into an house, salute it.›",
+        "LSG": "En entrant dans la maison, saluez-la;",
+        "MAB": "Et quand vous entrerez dans quelque maison, saluez-la.",
+        "OST": "Et quand vous entrerez dans quelque maison, saluez-la.",
+        "S21": "En entrant dans la maison, saluez ses habitants"
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "S’ils en sont dignes, qu’elle repose sur eux. Sinon, qu’elle vous revienne.",
+        "DBY": "Et si la maison en est digne, que votre paix vienne sur elle; mais si elle n'en est pas digne, que votre paix retourne à vous.",
+        "KJV": "‹And if the house be worthy, let your peace come upon it: but if it be not worthy, let your peace return to you.›",
+        "LSG": "et, si la maison en est digne, que votre paix vienne sur elle; mais si elle n'en est pas digne, que votre paix retourne à vous.",
+        "MAB": "Et si cette maison en est digne, que votre paix vienne sur elle; mais si elle n'en est pas digne, que votre paix retourne à vous.",
+        "OST": "Et si la maison en est digne, que votre paix vienne sur elle; mais si elle n'en est pas digne, que votre paix retourne à vous.",
+        "S21": "et, s'ils en sont dignes, que votre paix vienne sur eux; mais, s'ils n'en sont pas dignes, que votre paix revienne à vous."
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "Si, dans une maison ou dans une ville, on ne veut pas vous recevoir, ni écouter vos paroles, quittez la maison ou la ville en secouant la poussière de vos pieds.",
+        "DBY": "Et si quelqu'un ne vous reçoit pas et n'écoute pas vos paroles, -quand vous partirez de cette maison ou de cette ville, secouez la poussière de vos pieds.",
+        "KJV": "‹And whosoever shall not receive you, nor hear your words, when ye depart out of that house or city, shake off the dust of your feet.›",
+        "LSG": "Lorsqu'on ne vous recevra pas et qu'on n'écoutera pas vos paroles, sortez de cette maison ou de cette ville et secouez la poussière de vos pieds.",
+        "MAB": "Mais lorsque quelqu'un ne vous recevra point, et n'écoutera point vos paroles, secouez en partant de cette maison, ou de cette ville, la poussière de vos pieds.",
+        "OST": "Et partout où l'on ne vous recevra pas, et où l'on n'écoutera pas vos paroles, en sortant de cette maison ou de cette ville, secouez la poussière de vos pieds.",
+        "S21": "Lorsqu'on ne vous accueillera pas et qu'on n'écoutera pas vos paroles, sortez de cette maison ou de cette ville et secouez la poussière de vos pieds."
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "Vraiment, je vous l’assure: au jour du jugement, les villes de Sodome et de Gomorrhe seront traitées avec moins de rigueur que les habitants de ces lieux-là.",
+        "DBY": "En vérité, je vous dis: le sort du pays de Sodome et de Gomorrhe sera plus supportable au jour du jugement que celui de cette ville-là.",
+        "KJV": "‹Verily I say unto you, It shall be more tolerable for the land of Sodom and Gomorrha in the day of judgment, than for that city.›",
+        "LSG": "Je vous le dis en vérité: au jour du jugement, le pays de Sodome et de Gomorrhe sera traité moins rigoureusement que cette ville-là.",
+        "MAB": "Je vous dis en vérité, que ceux du pays de Sodome et de Gomorrhe seront traités moins rigoureusement au jour du jugement que cette ville-là.",
+        "OST": "Je vous dis en vérité que le sort de Sodome et de Gomorrhe sera plus supportable au jour du jugement que celui de cette ville-là.",
+        "S21": "Je vous le dis en vérité, le jour du jugement, le pays de Sodome et de Gomorrhe sera traité moins sévèrement que cette ville-là."
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "—Voici: je vous envoie comme des brebis au milieu des loups. Soyez prudents comme des serpents et innocents comme des colombes.",
+        "DBY": "Voici, moi je vous envoie comme des brebis au milieu des loups; soyez donc prudents comme les serpents, et simples comme les colombes;",
+        "KJV": "‹Behold, I send you forth as sheep in the midst of wolves: be ye therefore wise as serpents, and harmless as doves.›",
+        "LSG": "Voici, je vous envoie comme des brebis au milieu des loups. Soyez donc prudents comme les serpents, et simples comme les colombes.",
+        "MAB": "Voici, je vous envoie comme des brebis au milieu des loups; soyez donc prudents comme des serpents, et simples comme des colombes.",
+        "OST": "Voici, je vous envoie comme des brebis au milieu des loups; soyez donc prudents comme les serpents, et simples comme les colombes.",
+        "S21": "»Voici que je vous envoie comme des brebis au milieu des loups. Soyez donc prudents comme les serpents et purs comme les colombes."
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "Soyez sur vos gardes; car on vous traduira devant les tribunaux des Juifs et on vous fera fouetter dans leurs synagogues.",
+        "DBY": "et soyez en garde contre les hommes, car ils vous livreront aux sanhédrins et vous fouetteront dans leurs synagogues;",
+        "KJV": "‹But beware of men: for they will deliver you up to the councils, and they will scourge you in their synagogues;›",
+        "LSG": "Mettez-vous en garde contre les hommes; car ils vous livreront aux tribunaux, et ils vous battront de verges dans leurs synagogues;",
+        "MAB": "Et donnez-vous garde des hommes; car ils vous livreront aux Consistoires, et vous fouetteront dans leurs Synagogues.",
+        "OST": "Mais soyez en garde contre les hommes; car ils vous livreront aux tribunaux, et ils vous feront fouetter dans les synagogues;",
+        "S21": "Méfiez-vous des hommes, car ils vous livreront aux tribunaux et vous fouetteront dans leurs synagogues."
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "On vous forcera à comparaître devant des gouverneurs et des rois à cause de moi pour leur apporter un témoignage, ainsi qu’aux nations païennes.",
+        "DBY": "et vous serez menés même devant les gouverneurs et les rois, à cause de moi, en témoignage à eux et aux nations.",
+        "KJV": "‹And ye shall be brought before governors and kings for my sake, for a testimony against them and the Gentiles.›",
+        "LSG": "vous serez menés, à cause de moi, devant des gouverneurs et devant des rois, pour servir de témoignage à eux et aux païens.",
+        "MAB": "Et vous serez menés devant les Gouverneurs, et même devant les Rois, à cause de moi, pour leur rendre témoignage de moi de même qu'aux nations.",
+        "OST": "Et vous serez menés devant les gouverneurs, et devant les rois, à cause de moi, pour rendre témoignage devant eux et devant les nations.",
+        "S21": "A cause de moi vous serez conduits devant des gouverneurs et devant des rois pour leur apporter votre témoignage, à eux et aux non-Juifs."
+      }
+    },
+    {
+      "verse": 19,
+      "texts": {
+        "BDS": "Lorsqu’on vous traduira devant les autorités, ne vous inquiétez ni du contenu ni de la forme de ce que vous direz, car cela vous sera donné au moment même.",
+        "DBY": "Et quand ils vous livreront, ne soyez pas en souci comment vous parlerez, ni de ce que vous direz; car il vous sera donné dans cette heure-là ce que vous direz;",
+        "KJV": "‹But when they deliver you up, take no thought how or what ye shall speak: for it shall be given you in that same hour what ye shall speak.›",
+        "LSG": "Mais, quand on vous livrera, ne vous inquiétez ni de la manière dont vous parlerez ni de ce que vous direz: ce que vous aurez à dire vous sera donné à l'heure même;",
+        "MAB": "Mais quand ils vous livreront, ne soyez point en peine de ce que [vous aurez à dire], ni comment vous parlerez, parce qu'il vous sera donné dans ce moment-là ce que vous aurez à dire.",
+        "OST": "Mais quand on vous livrera à eux, ne soyez point en peine ni de ce que vous direz, ni comment vous parlerez; car ce que vous aurez à dire vous sera inspiré à l'heure même.",
+        "S21": "Mais, quand on vous fera arrêter, ne vous inquiétez ni de la manière dont vous parlerez ni de ce que vous direz: ce que vous aurez à dire vous sera donné au moment même."
+      }
+    },
+    {
+      "verse": 20,
+      "texts": {
+        "BDS": "En effet, ce n’est pas vous qui parlerez, ce sera l’Esprit de votre Père qui parlera par votre bouche.",
+        "DBY": "car ce n'est pas vous qui parlez, mais c'est l'Esprit de votre Père qui parle en vous.",
+        "KJV": "‹For it is not ye that speak, but the Spirit of your Father which speaketh in you.›",
+        "LSG": "car ce n'est pas vous qui parlerez, c'est l'Esprit de votre Père qui parlera en vous.",
+        "MAB": "Car ce n'est pas vous qui parlez, mais c'est l'Esprit de votre Père qui parle en vous.",
+        "OST": "Car ce n'est pas vous qui parlerez, mais c'est l'Esprit de votre Père qui parlera en vous.",
+        "S21": "En effet, ce n'est pas vous qui parlerez, c'est l'Esprit de votre Père qui parlera en vous."
+      }
+    },
+    {
+      "verse": 21,
+      "texts": {
+        "BDS": "Le frère livrera son propre frère pour le faire condamner à mort, et le père livrera son enfant. Des enfants se dresseront contre leurs parents et les feront mettre à mort.",
+        "DBY": "Et le frère livrera son frère à la mort, et le père son enfant; et les enfants s'élèveront contre leurs parents et les feront mourir;",
+        "KJV": "‹And the brother shall deliver up the brother to death, and the father the child: and the children shall rise up against› [their] ‹parents, and cause them to be put to death.›",
+        "LSG": "Le frère livrera son frère à la mort, et le père son enfant; les enfants se soulèveront contre leurs parents, et les feront mourir.",
+        "MAB": "Or le frère livrera son frère à la mort, et le père son enfant; et les enfants s'élèveront contre leurs pères et leurs mères, et les feront mourir.",
+        "OST": "Or, le frère livrera son frère à la mort, et le père son enfant; et les enfants se soulèveront contre leurs pères et leurs mères, et les feront mourir.",
+        "S21": "»Le frère livrera son frère à la mort et le père son enfant; les enfants se soulèveront contre leurs parents et les feront mourir."
+      }
+    },
+    {
+      "verse": 22,
+      "texts": {
+        "BDS": "Tout le monde vous haïra à cause de moi. Mais celui qui tiendra bon jusqu’au bout sera sauvé.",
+        "DBY": "et vous serez haïs de tous à cause de mon nom; et celui qui persévérera jusqu'à la fin, celui-là sera sauvé.",
+        "KJV": "‹And ye shall be hated of all› [men] ‹for my name's sake: but he that endureth to the end shall be saved.›",
+        "LSG": "Vous serez haïs de tous, à cause de mon nom; mais celui qui persévérera jusqu'à la fin sera sauvé.",
+        "MAB": "Et vous serez haïs de tous à cause de mon Nom; mais quiconque persévérera jusques à la fin, sera sauvé.",
+        "OST": "Et vous serez haïs de tous à cause de mon nom; mais celui qui persévérera jusqu'à la fin, c'est celui-là qui sera sauvé.",
+        "S21": "Vous serez détestés de tous à cause de mon nom, mais celui qui persévérera jusqu'à la fin sera sauvé."
+      }
+    },
+    {
+      "verse": 23,
+      "texts": {
+        "BDS": "Si l’on vous persécute dans une ville, fuyez dans une autre; vraiment, je vous l’assure: vous n’achèverez pas le tour des villes d’Israël avant que le Fils de l’homme ne vienne.",
+        "DBY": "Mais quand on vous persécutera dans cette ville, fuyez dans l'autre; car, en vérité, je vous dis: Vous n'aurez point achevé de parcourir les villes d'Israël, que le fils de l'homme ne soit venu.",
+        "KJV": "‹But when they persecute you in this city, flee ye into another: for verily I say unto you, Ye shall not have gone over the cities of Israel, till the Son of man be come.›",
+        "LSG": "Quand on vous persécutera dans une ville, fuyez dans une autre. Je vous le dis en vérité, vous n'aurez pas achevé de parcourir les villes d'Israël que le Fils de l'homme sera venu.",
+        "MAB": "Or quand ils vous persécuteront dans une ville, fuyez dans une autre; car en vérité je vous dis, que vous n'aurez pas achevé de parcourir toutes les villes d'Israël, que le Fils de l'homme ne soit venu.",
+        "OST": "Or, quand ils vous persécuteront dans une ville, fuyez dans une autre; je vous dis en vérité que vous n'aurez pas achevé d'aller par toutes les villes d'Israël, que le Fils de l'homme ne soit venu.",
+        "S21": "Quand on vous persécutera dans une ville, fuyez dans une autre. Je vous le dis en vérité, vous n'aurez pas fini de parcourir les villes d'Israël avant que le Fils de l'homme ne vienne."
+      }
+    },
+    {
+      "verse": 24,
+      "texts": {
+        "BDS": "Le disciple n’est pas plus grand que celui qui l’enseigne, ni le serviteur supérieur à son maître.",
+        "DBY": "Le disciple n'est pas au-dessus du maître, ni l'esclave au-dessus de son seigneur.",
+        "KJV": "‹The disciple is not above› [his] ‹master, nor the servant above his lord.›",
+        "LSG": "Le disciple n'est pas plus que le maître, ni le serviteur plus que son seigneur.",
+        "MAB": "Le Disciple n'est point au-dessus du maître, ni le serviteur au-dessus de son Seigneur.",
+        "OST": "Le disciple n'est pas plus que son maître, ni le serviteur plus que son seigneur.",
+        "S21": "»Le disciple n'est pas supérieur au maître, ni le serviteur supérieur à son seigneur."
+      }
+    },
+    {
+      "verse": 25,
+      "texts": {
+        "BDS": "Il suffit au disciple d’être comme celui qui l’enseigne et au serviteur comme son maître. S’ils ont qualifié le maître de la maison de Béelzébul, que diront-ils de ceux qui font partie de cette maison?",
+        "DBY": "Il suffit au disciple qu'il soit comme son maître, et à l'esclave qu'il soit comme son seigneur: s'ils ont appelé le maître de la maison Béelzébul, combien plus les gens de sa maison?",
+        "KJV": "‹It is enough for the disciple that he be as his master, and the servant as his lord. If they have called the master of the house Beelzebub, how much more› [shall they call] ‹them of his household?›",
+        "LSG": "Il suffit au disciple d'être traité comme son maître, et au serviteur comme son seigneur. S'ils ont appelé le maître de la maison Béelzébul, à combien plus forte raison appelleront-ils ainsi les gens de sa maison!",
+        "MAB": "Il suffit au Disciple d'être comme son maître, et au serviteur comme son Seigneur, s'ils ont appelé le père de famille Béelzébul, combien plus [appelleront-ils ainsi] ses domestiques?",
+        "OST": "Il suffit au disciple d'être comme son maître, et au serviteur d'être comme son seigneur. S'ils ont appelé le père de famille Béelzébul, combien plus appelleront-ils ainsi ses domestiques?",
+        "S21": "Il suffit au disciple d'être traité comme son maître, et au serviteur comme son seigneur. S'ils ont appelé le maître de la maison Béelzébul, ils appelleront d’autant plus volontiers ainsi les gens de sa maison!"
+      }
+    },
+    {
+      "verse": 26,
+      "texts": {
+        "BDS": "—N’ayez donc pas peur de ces gens-là! Car tout ce qui se fait en secret sera dévoilé, et tout ce qui est caché finira par être connu.",
+        "DBY": "Ne les craignez donc pas; car il n'y a rien de couvert qui ne sera révélé, ni rien de secret qui ne sera connu.",
+        "KJV": "‹Fear them not therefore: for there is nothing covered, that shall not be revealed; and hid, that shall not be known.›",
+        "LSG": "Ne les craignez donc point; car il n'y a rien de caché qui ne doive être découvert, ni de secret qui ne doive être connu.",
+        "MAB": "Ne les craignez donc point. Or il n'y a rien de caché qui ne se découvre, ni rien de secret qui ne vienne à être connu.",
+        "OST": "Ne les craignez donc point; car il n'y a rien de caché qui ne doive être découvert, ni rien de secret qui ne doive être connu.",
+        "S21": "N’ayez donc pas peur d’eux, car il n'y a rien de caché qui ne doive être découvert, ni de secret qui ne doive être connu."
+      }
+    },
+    {
+      "verse": 27,
+      "texts": {
+        "BDS": "Ce que je vous dis en secret, répétez-le en plein jour. Ce qu’on vous chuchote dans le creux de l’oreille, criez-le du haut des toits.",
+        "DBY": "Ce que je vous dis dans les ténèbres, dites-le dans la lumière; et ce qui vous est dit à l'oreille, prêchez-le sur les toits.",
+        "KJV": "‹What I tell you in darkness,› [that] ‹speak ye in light: and what ye hear in the ear,› [that] ‹preach ye upon the housetops.›",
+        "LSG": "Ce que je vous dis dans les ténèbres, dites-le en plein jour; et ce qui vous est dit à l'oreille, prêchez-le sur les toits.",
+        "MAB": "Ce que je vous dis dans les ténèbres, dites-le dans la lumière; et ce que je vous dis à l'oreille, prêchez-le sur les maisons.",
+        "OST": "Ce que je vous dis dans les ténèbres, dites-le dans la lumière; et ce que je vous dis à l'oreille, prêchez-le sur les toits.",
+        "S21": "Ce que je vous dis dans les ténèbres, dites-le en plein jour; et ce qui vous est dit à l'oreille, proclamez-le sur les toits."
+      }
+    },
+    {
+      "verse": 28,
+      "texts": {
+        "BDS": "—Ne craignez donc pas ceux qui peuvent tuer le corps, mais qui n’ont pas le pouvoir de faire mourir l’âme. Craignez plutôt celui qui peut vous faire périr corps et âme dans l’enfer.",
+        "DBY": "Et ne craignez pas ceux qui tuent le corps et qui ne peuvent pas tuer l'âme; mais craignez plutôt celui qui peut détruire et l'âme et le corps, dans la géhenne.",
+        "KJV": "‹And fear not them which kill the body, but are not able to kill the soul: but rather fear him which is able to destroy both soul and body in hell.›",
+        "LSG": "Ne craignez pas ceux qui tuent le corps et qui ne peuvent tuer l'âme; craignez plutôt celui qui peut faire périr l'âme et le corps dans la géhenne.",
+        "MAB": "Et ne craignez point ceux qui tuent le corps, et qui ne peuvent point tuer l'âme; mais plutôt craignez celui qui peut perdre et l'âme et le corps [en les jetant] dans la géhenne.",
+        "OST": "Et ne craignez point ceux qui ôtent la vie du corps, et qui ne peuvent faire mourir l'âme; mais craignez plutôt celui qui peut faire périr et l'âme et le corps dans la géhenne.",
+        "S21": "Ne redoutez pas ceux qui tuent le corps mais qui ne peuvent pas tuer l'âme. Redoutez plutôt celui qui peut faire périr l'âme et le corps en enfer."
+      }
+    },
+    {
+      "verse": 29,
+      "texts": {
+        "BDS": "Ne vend-on pas une paire de moineaux pour un sou? Et pourtant, pas un seul d’entre eux ne tombe à terre sans le consentement de votre Père.",
+        "DBY": "Ne vend-on pas deux passereaux pour un sou? Et pas un seul d'entre eux ne tombe en terre, sans votre Père.",
+        "KJV": "‹Are not two sparrows sold for a farthing? and one of them shall not fall on the ground without your Father.›",
+        "LSG": "Ne vend-on pas deux passereaux pour un sou? Cependant, il n'en tombe pas un à terre sans la volonté de votre Père.",
+        "MAB": "Ne vend-on pas deux passereaux pour un sou? et cependant aucun d'eux ne tombe point en terre sans [la volonté de] votre Père.",
+        "OST": "Deux passereaux ne se vendent-ils pas une pite? Or, il n'en tombera pas un seul à terre sans la permission de votre Père.",
+        "S21": "Ne vend-on pas deux moineaux pour une petite pièce? Cependant, pas un ne tombe par terre sans l’accord de votre Père."
+      }
+    },
+    {
+      "verse": 30,
+      "texts": {
+        "BDS": "Quant à vous, même les cheveux de votre tête sont tous comptés.",
+        "DBY": "Et pour vous, les cheveux même de votre tête sont tous comptés.",
+        "KJV": "‹But the very hairs of your head are all numbered.›",
+        "LSG": "Et même les cheveux de votre tête sont tous comptés.",
+        "MAB": "Et les cheveux mêmes de votre tête sont tous comptés.",
+        "OST": "Les cheveux même de votre tête sont tous comptés.",
+        "S21": "Même vos cheveux sont tous comptés."
+      }
+    },
+    {
+      "verse": 31,
+      "texts": {
+        "BDS": "N’ayez donc aucune crainte; car vous, vous avez plus de valeur que toute une volée de moineaux.",
+        "DBY": "Ne craignez donc pas: vous valez mieux que beaucoup de passereaux.",
+        "KJV": "‹Fear ye not therefore, ye are of more value than many sparrows.›",
+        "LSG": "Ne craignez donc point: vous valez plus que beaucoup de passereaux.",
+        "MAB": "Ne craignez donc point; vous valez mieux que beaucoup de passereaux.",
+        "OST": "Ne craignez donc rien; vous valez mieux que beaucoup de passereaux.",
+        "S21": "N’ayez donc pas peur: vous valez plus que beaucoup de moineaux."
+      }
+    },
+    {
+      "verse": 32,
+      "texts": {
+        "BDS": "C’est pourquoi, tous ceux qui se déclareront pour moi devant les hommes, je me déclarerai moi aussi pour eux devant mon Père céleste.",
+        "DBY": "Quiconque donc me confessera devant les hommes, moi aussi je le confesserai devant mon Père qui est dans les cieux;",
+        "KJV": "‹Whosoever therefore shall confess me before men, him will I confess also before my Father which is in heaven.›",
+        "LSG": "C'est pourquoi, quiconque me confessera devant les hommes, je le confesserai aussi devant mon Père qui est dans les cieux;",
+        "MAB": "Quiconque donc me confessera devant les hommes, je le confesserai aussi devant mon Père qui est aux cieux.",
+        "OST": "Quiconque donc me confessera devant les hommes, je le confesserai aussi devant mon Père qui est aux cieux.",
+        "S21": "»C'est pourquoi, toute personne qui se déclarera publiquement pour moi, je me déclarerai moi aussi pour elle devant mon Père céleste;"
+      }
+    },
+    {
+      "verse": 33,
+      "texts": {
+        "BDS": "Mais celui qui aura prétendu ne pas me connaître devant les hommes, je ne le reconnaîtrai pas non plus devant mon Père céleste.",
+        "DBY": "mais quiconque me reniera devant les hommes, moi aussi je le renierai devant mon Père qui est dans les cieux.",
+        "KJV": "‹But whosoever shall deny me before men, him will I also deny before my Father which is in heaven.›",
+        "LSG": "mais quiconque me reniera devant les hommes, je le renierai aussi devant mon Père qui est dans les cieux.",
+        "MAB": "Mais quiconque me reniera devant les hommes, je le renierai aussi devant mon Père qui est aux cieux.",
+        "OST": "Mais quiconque me reniera devant les hommes, je le renierai aussi devant mon Père qui est aux cieux.",
+        "S21": "mais celui qui me reniera devant les hommes, je le renierai moi aussi devant mon Père céleste."
+      }
+    },
+    {
+      "verse": 34,
+      "texts": {
+        "BDS": "—Ne croyez pas que je sois venu apporter la paix sur terre: ma mission n’est pas d’apporter la paix, mais l’épée.",
+        "DBY": "Ne pensez pas que je sois venu mettre la paix sur la terre; je ne suis pas venu mettre la paix, mais l'épée:",
+        "KJV": "‹Think not that I am come to send peace on earth: I came not to send peace, but a sword.›",
+        "LSG": "Ne croyez pas que je sois venu apporter la paix sur la terre; je ne suis pas venu apporter la paix, mais l'épée.",
+        "MAB": "Ne croyez pas que je sois venu apporter la paix sur la terre; je n'y suis pas venu apporter la paix, mais l'épée.",
+        "OST": "Ne pensez pas que je sois venu apporter la paix sur la terre: je suis venu apporter, non la paix, mais l'épée.",
+        "S21": "»Ne croyez pas que je sois venu apporter la paix sur la terre! Je ne suis pas venu apporter la paix, mais l'épée,"
+      }
+    },
+    {
+      "verse": 35,
+      "texts": {
+        "BDS": "Oui, je suis venu opposer le fils à son père, la fille à sa mère, la belle-fille à sa belle-mère:",
+        "DBY": "car je suis venu jeter la division entre un homme et son père, entre la fille et sa mère, entre la belle-fille et sa belle-mère;",
+        "KJV": "‹For I am come to set a man at variance against his father, and the daughter against her mother, and the daughter in law against her mother in law.›",
+        "LSG": "Car je suis venu mettre la division entre l'homme et son père, entre la fille et sa mère, entre la belle-fille et sa belle-mère;",
+        "MAB": "Car je suis venu mettre en division le fils contre son père, et la fille contre sa mère, et la belle-fille contre sa belle-mère.",
+        "OST": "Car je suis venu mettre la division entre le fils et le père, entre la fille et la mère, entre la belle-fille et la belle-mère.",
+        "S21": "car je suis venu mettre la division entre l'homme et son père, entre la fille et sa mère, entre la belle-fille et sa belle-mère,"
+      }
+    },
+    {
+      "verse": 36,
+      "texts": {
+        "BDS": "on aura pour ennemis les membres de sa propre famille.",
+        "DBY": "et les ennemis d'un homme seront les gens de sa maison.",
+        "KJV": "‹And a man's foes› [shall be] ‹they of his own household.›",
+        "LSG": "et l'homme aura pour ennemis les gens de sa maison.",
+        "MAB": "Et les propres domestiques d'un homme seront ses ennemis.",
+        "OST": "Et l'homme aura pour ennemis ceux de sa maison.",
+        "S21": "et l'on aura pour ennemis les membres de sa famille."
+      }
+    },
+    {
+      "verse": 37,
+      "texts": {
+        "BDS": "—Celui qui aime son père ou sa mère plus que moi n’est pas digne de moi. Celui qui aime son fils ou sa fille plus que moi n’est pas digne de moi.",
+        "DBY": "Celui qui aime père ou mère plus que moi, n'est pas digne de moi; et celui qui aime fils ou fille plus que moi, n'est pas digne de moi;",
+        "KJV": "‹He that loveth father or mother more than me is not worthy of me: and he that loveth son or daughter more than me is not worthy of me.›",
+        "LSG": "Celui qui aime son père ou sa mère plus que moi n'est pas digne de moi, et celui qui aime son fils ou sa fille plus que moi n'est pas digne de moi;",
+        "MAB": "Celui qui aime son père ou sa mère plus que moi, n'est pas digne de moi; et celui qui aime son fils ou sa fille plus que moi, n'est pas digne de moi.",
+        "OST": "Celui qui aime son père ou sa mère plus que moi, n'est pas digne de moi; et celui qui aime son fils ou sa fille plus que moi, n'est pas digne de moi;",
+        "S21": "Celui qui aime son père ou sa mère plus que moi n'est pas digne de moi, et celui qui aime son fils ou sa fille plus que moi n'est pas digne de moi."
+      }
+    },
+    {
+      "verse": 38,
+      "texts": {
+        "BDS": "Et celui qui ne se charge pas de sa croix et ne me suit pas n’est pas digne de moi.",
+        "DBY": "et celui qui ne prend pas sa croix et ne vient pas après moi, n'est pas digne de moi.",
+        "KJV": "‹And he that taketh not his cross, and followeth after me, is not worthy of me.›",
+        "LSG": "celui qui ne prend pas sa croix, et ne me suit pas, n'est pas digne de moi.",
+        "MAB": "Et quiconque ne prend pas sa croix, et ne vient après moi, n'est pas digne de moi.",
+        "OST": "Et celui qui ne prend pas sa croix, et ne me suit pas, n'est pas digne de moi.",
+        "S21": "Celui qui ne prend pas sa croix et ne me suit pas n'est pas digne de moi."
+      }
+    },
+    {
+      "verse": 39,
+      "texts": {
+        "BDS": "Celui qui cherche à sauver sa vie la perdra; et celui qui l’aura perdue à cause de moi la retrouvera.",
+        "DBY": "Celui qui aura trouvé sa vie, la perdra; et celui qui aura perdu sa vie pour l'amour de moi, la trouvera.",
+        "KJV": "‹He that findeth his life shall lose it: and he that loseth his life for my sake shall find it.›",
+        "LSG": "Celui qui conservera sa vie la perdra, et celui qui perdra sa vie à cause de moi la retrouvera.",
+        "MAB": "Celui qui aura conservé sa vie, la perdra; mais celui qui aura perdu sa vie pour l'amour de moi, la retrouvera.",
+        "OST": "Celui qui aura conservé sa vie, la perdra; mais celui qui aura perdu sa vie à cause de moi, la retrouvera.",
+        "S21": "Celui qui conservera sa vie la perdra, et celui qui perdra sa vie à cause de moi la retrouvera."
+      }
+    },
+    {
+      "verse": 40,
+      "texts": {
+        "BDS": "—Si quelqu’un vous accueille, c’est moi qu’il accueille. Or celui qui m’accueille, accueille celui qui m’a envoyé.",
+        "DBY": "Celui qui vous reçoit, me reçoit; et celui qui me reçoit, reçoit celui qui m'a envoyé.",
+        "KJV": "‹He that receiveth you receiveth me, and he that receiveth me receiveth him that sent me.›",
+        "LSG": "Celui qui vous reçoit me reçoit, et celui qui me reçoit, reçoit celui qui m'a envoyé.",
+        "MAB": "Celui qui vous reçoit, me reçoit; et celui qui me reçoit, reçoit celui qui m'a envoyé.",
+        "OST": "Celui qui vous reçoit, me reçoit; et celui qui me reçoit, reçoit celui qui m'a envoyé.",
+        "S21": "»Si quelqu’un vous accueille, c’est moi qu’il accueille, et celui qui m’accueille accueille celui qui m'a envoyé."
+      }
+    },
+    {
+      "verse": 41,
+      "texts": {
+        "BDS": "Celui qui accueille un prophète parce qu’il est un prophète recevra la même récompense que le prophète lui-même. Et celui qui accueille un juste parce que c’est un juste aura la même récompense que le juste lui-même.",
+        "DBY": "Celui qui reçoit un prophète en qualité de prophète, recevra la récompense d'un prophète; et celui qui reçoit un juste en qualité de juste, recevra la récompense d'un juste.",
+        "KJV": "‹He that receiveth a prophet in the name of a prophet shall receive a prophet's reward; and he that receiveth a righteous man in the name of a righteous man shall receive a righteous man's reward.›",
+        "LSG": "Celui qui reçoit un prophète en qualité de prophète recevra une récompense de prophète, et celui qui reçoit un juste en qualité de juste recevra une récompense de juste.",
+        "MAB": "Celui qui reçoit un Prophète en qualité de Prophète, recevra la récompense d'un Prophète; et celui qui reçoit un juste en qualité de juste, recevra la récompense d'un juste.",
+        "OST": "Celui qui reçoit un prophète en qualité de prophète, recevra une récompense de prophète; et qui reçoit un juste en qualité de juste, recevra une récompense de juste.",
+        "S21": "Celui qui accueille un prophète en qualité de prophète recevra une récompense de prophète, et celui qui accueille un juste en qualité de juste recevra une récompense de juste."
+      }
+    },
+    {
+      "verse": 42,
+      "texts": {
+        "BDS": "Si quelqu’un donne à boire, ne serait-ce qu’un verre d’eau fraîche, au plus insignifiant de mes disciples parce qu’il est mon disciple, vraiment, je vous l’assure, il ne perdra pas sa récompense.",
+        "DBY": "Et quiconque aura donné à boire seulement une coupe d'eau froide à l'un de ces petits, en qualité de disciple, en vérité, je vous dis, il ne perdra point sa récompense.",
+        "KJV": "‹And whosoever shall give to drink unto one of these little ones a cup of cold› [water] ‹only in the name of a disciple, verily I say unto you, he shall in no wise lose his reward.›",
+        "LSG": "Et quiconque donnera seulement un verre d'eau froide à l'un de ces petits parce qu'il est mon disciple, je vous le dis en vérité, il ne perdra point sa récompense.",
+        "MAB": "Et quiconque aura donné à boire seulement un verre d'eau froide à un de ces petits en qualité de Disciple, je vous dis en vérité, qu'il ne perdra point sa récompense.",
+        "OST": "Et quiconque aura donné à boire seulement un verre d'eau froide à un de ces petits, parce qu'il est mon disciple, je vous dis en vérité qu'il ne perdra point sa récompense.",
+        "S21": "Et si quelqu’un donne à boire ne serait-ce qu'un verre d'eau froide à l'un de ces petits parce qu'il est mon disciple, je vous le dis en vérité, il ne perdra pas sa récompense.»"
+      }
+    }
+  ]
+}

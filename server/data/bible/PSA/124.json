@@ -1,0 +1,102 @@
+{
+  "bookCode": "PSA",
+  "chapter": 124,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "Cantique pour la route vers la demeure de l’Eternel. De David.\r\nSi l’Eternel n’avait pas été avec nous\r\n—Israël peut le dire —",
+        "DBY": "N'eût été l'Éternel, qui a été pour nous, -qu'Israël le dise,",
+        "KJV": "A Song of degrees of David. If [it had not been] the LORD who was on our side, now may Israel say;",
+        "LSG": "Cantique des degrés. De David. Sans l'Eternel qui nous protégea, Qu'Israël le dise!",
+        "MAB": "Cantique de Mahaloth, de David. N'eut été l'Eternel, qui a été pour nous, dise maintenant Israël.",
+        "OST": "Cantique de Maaloth, de David. Sans l'Éternel qui fut pour nous, peut bien dire Israël,",
+        "S21": "Chant des montées, de David.\r\nSi l’Eternel n’avait pas été pour nous – qu’Israël le dise –"
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "si l’Eternel n’avait pas été avec nous\r\nlorsque des hommes sont venus nous attaquer,",
+        "DBY": "N'eût été l'Éternel, qui a été pour nous quand les hommes se sont élevés contre nous, -",
+        "KJV": "If [it had not been] the LORD who was on our side, when men rose up against us:",
+        "LSG": "Sans l'Eternel qui nous protégea, Quand les hommes s'élevèrent contre nous,",
+        "MAB": "N'eût été l'Eternel, qui a été pour nous, quand les hommes se sont élevés contre nous.",
+        "OST": "Sans l'Éternel qui fut pour nous, quand les hommes s'élevaient contre nous,",
+        "S21": "si l’Eternel n’avait pas été pour nous lorsque des hommes sont venus nous attaquer,"
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "alors ils nous auraient engloutis tout vivants\r\ndans l’ardeur de leur rage déchaînée contre nous.",
+        "DBY": "Alors ils nous eussent engloutis vivants, quand leur colère s'enflammait contre nous;",
+        "KJV": "Then they had swallowed us up quick, when their wrath was kindled against us:",
+        "LSG": "Ils nous auraient engloutis tout vivants, Quand leur colère s'enflamma contre nous;",
+        "MAB": "Ils nous eussent dès lors engloutis tout vifs; pendant que leur colère était enflammée contre nous.",
+        "OST": "Alors ils nous auraient engloutis vivants, quand leur colère s'enflammait contre nous.",
+        "S21": "ils nous auraient engloutis vivants quand leur colère s’est enflammée contre nous."
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "Le flot nous aurait entraînés\r\net le torrent nous aurait submergés.",
+        "DBY": "Alors les eaux nous eussent submergés, un torrent eût passé sur notre âme;",
+        "KJV": "Then the waters had overwhelmed us, the stream had gone over our soul:",
+        "LSG": "Alors les eaux nous auraient submergés, Les torrents auraient passé sur notre âme;",
+        "MAB": "Dès-lors les eaux se fussent débordées sur nous, un torrent eût passé sur notre âme.",
+        "OST": "Alors les eaux nous auraient submergés, un torrent eût passé sur notre âme.",
+        "S21": "Oui, l’eau nous aurait emportés, les torrents nous auraient submergés."
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "Alors des eaux tumultueuses\r\nauraient passé sur nous.",
+        "DBY": "les eaux orgueilleuses eussent passé sur notre âme.",
+        "KJV": "Then the proud waters had gone over our soul.",
+        "LSG": "Alors auraient passé sur notre âme Les flots impétueux.",
+        "MAB": "Dès-lors les eaux enflées fussent passées sur notre âme.",
+        "OST": "Alors les eaux impétueuses auraient passé sur notre âme.",
+        "S21": "Oui, ils nous auraient submergés, les flots impétueux."
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "Loué soit l’Eternel, lui qui n’a pas permis\r\nque leurs dents nous déchirent.",
+        "DBY": "Béni soit l'Éternel, qui ne nous a pas livrés en proie à leurs dents!",
+        "KJV": "Blessed [be] the LORD, who hath not given us [as] a prey to their teeth.",
+        "LSG": "Béni soit l'Eternel, Qui ne nous a pas livrés en proie à leurs dents!",
+        "MAB": "Béni soit l'Eternel; qui ne nous a point livrés en proie à leurs dents.",
+        "OST": "Béni soit l'Éternel, qui ne nous a pas livrés en proie à leurs dents!",
+        "S21": "Béni soit l’Eternel qui ne nous a pas livrés en pâture à leurs dents!"
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "Nous avons pu nous en sortir comme un passereau qui s’échappe du filet des chasseurs:\r\nle filet s’est rompu et nous nous sommes échappés.",
+        "DBY": "Notre âme est échappée comme un oiseau du piège des oiseleurs: le piège s'est rompu, et nous sommes échappés.",
+        "KJV": "Our soul is escaped as a bird out of the snare of the fowlers: the snare is broken, and we are escaped.",
+        "LSG": "Notre âme s'est échappée comme l'oiseau du filet des oiseleurs; Le filet s'est rompu, et nous nous sommes échappés.",
+        "MAB": "Notre âme est échappée, comme l'oiseau du filet des oiseleurs; le filet a été rompu, et nous sommes échappés.",
+        "OST": "Notre âme s'est échappée comme un oiseau du filet de l'oiseleur; le filet s'est rompu, et nous nous sommes échappés.",
+        "S21": "Nous nous sommes échappés comme l’oiseau du piège des oiseleurs: le filet s’est rompu, et nous nous sommes échappés."
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "Notre secours nous vient de l’Eternel lui-même\r\nqui a fait le ciel et la terre.",
+        "DBY": "Notre secours est dans le nom de l'Éternel, qui a fait les cieux et la terre.",
+        "KJV": "Our help [is] in the name of the LORD, who made heaven and earth.",
+        "LSG": "Notre secours est dans le nom de l'Eternel, Qui a fait les cieux et la terre.",
+        "MAB": "Notre aide soit au nom de l'Eternel qui a fait les cieux et la terre.",
+        "OST": "Notre secours est dans le nom de l'Éternel, qui a fait les cieux et la terre.",
+        "S21": "Notre secours est dans le nom de l’Eternel, qui a fait le ciel et la terre."
+      }
+    }
+  ]
+}

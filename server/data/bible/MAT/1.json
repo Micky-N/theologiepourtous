@@ -1,0 +1,306 @@
+{
+  "bookCode": "MAT",
+  "chapter": 1,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "Voici la généalogie de Jésus-Christ, de la descendance de David et d’Abraham.",
+        "DBY": "Livre de la généalogie de Jésus Christ, fils de David, fils d'Abraham:",
+        "KJV": "The book of the generation of Jesus Christ, the son of David, the son of Abraham.",
+        "LSG": "Généalogie de Jésus-Christ, fils de David, fils d'Abraham.",
+        "MAB": "Le Livre de la Généalogie de Jésus-Christ, fils de David, fils d'Abraham.",
+        "OST": "Livre généalogique de JÉSUS-CHRIST, fils de David, fils d'Abraham.",
+        "S21": "Voici la généalogie de Jésus-Christ, fils de David, fils d'Abraham."
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "Abraham eut pour descendant Isaac.\r\nIsaac eut pour descendant Jacob.\r\nJacob eut pour descendant Juda et ses frères.",
+        "DBY": "Abraham engendra Isaac; et Isaac engendra Jacob; et Jacob engendra Juda et ses frères;",
+        "KJV": "Abraham begat Isaac; and Isaac begat Jacob; and Jacob begat Judas and his brethren;",
+        "LSG": "Abraham engendra Isaac; Isaac engendra Jacob; Jacob engendra Juda et ses frères;",
+        "MAB": "Abraham engendra Isaac; et Isaac engendra Jacob; et Jacob engendra Juda, et ses frères;",
+        "OST": "Abraham fut père d'Isaac. Isaac fut père de Jacob. Jacob fut père de Juda et de ses frères.",
+        "S21": "Abraham eut pour fils Isaac; Isaac eut Jacob; Jacob eut Juda et ses frères;"
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "De Thamar, Juda eut pour descendant Péretz et Zérah.\r\nPéretz eut pour descendant Hetsrom.\r\nHetsrom eut pour descendant Aram.",
+        "DBY": "et Juda engendra Pharès et Zara, de Thamar; et Pharès engendra Esrom; et Esrom engendra Aram;",
+        "KJV": "And Judas begat Phares and Zara of Thamar; and Phares begat Esrom; and Esrom begat Aram;",
+        "LSG": "Juda engendra de Thamar Pharès et Zara; Pharès engendra Esrom; Esrom engendra Aram;",
+        "MAB": "Et Juda engendra Pharès et Zara, de Thamar; et Pharès engendra Esrom; et Esrom engendra Aram;",
+        "OST": "Juda eut de Thamar Pharez et Zara. Pharez fut père d'Esrom. Esrom fut père d'Aram.",
+        "S21": "Juda eut Pérets et Zérach de Tamar; Pérets eut Hetsrom; Hetsrom eut Aram;"
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "Aram eut pour descendant Aminadab.\r\nAminadab eut pour descendant Nahchôn,\r\nNahchôn eut pour descendant Salma.",
+        "DBY": "et Aram engendra Aminadab; et Aminadab engendra Naasson; et Naasson engendra Salmon;",
+        "KJV": "And Aram begat Aminadab; and Aminadab begat Naasson; and Naasson begat Salmon;",
+        "LSG": "Aram engendra Aminadab; Aminadab engendra Naasson; Naasson engendra Salmon;",
+        "MAB": "Et Aram engendra Aminadab; et Aminadab engendra Naasson; et Naasson engendra Salmon;",
+        "OST": "Aram fut père d'Aminadab. Aminadab fut père de Naasson. Naasson fut père de Salmon.",
+        "S21": "Aram eut pour fils Aminadab; Aminadab eut Nachshon; Nachshon eut Salmon;"
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "De Rahab, Salma eut pour descendant Booz.\r\nDe Ruth, Booz eut pour descendant Obed.",
+        "DBY": "et Salmon engendra Booz, de Rachab; et Booz engendra Obed, de Ruth;",
+        "KJV": "And Salmon begat Booz of Rachab; and Booz begat Obed of Ruth; and Obed begat Jesse;",
+        "LSG": "Salmon engendra Boaz de Rahab; Boaz engendra Obed de Ruth; Obed engendra Isaï;",
+        "MAB": "Et Salmon engendra Booz, de Rachab; et Booz engendra Obed, de Ruth; et Obed engendra Jessé;",
+        "OST": "Salmon eut Booz, de Rahab. Booz eut Obed, de Ruth. Obed fut père de Jessé.",
+        "S21": "Salmon eut Boaz de Rahab; Boaz eut Obed de Ruth;"
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "Obed eut pour descendant Isaï.\r\nIsaï eut pour descendant le roi David.\r\nDe la femme d’Urie, David eut pour descendant Salomon.",
+        "DBY": "et Obed engendra Jessé; et Jessé engendra David le roi; et David le roi engendra Salomon, de celle qui avait été femme d'Urie;",
+        "KJV": "And Jesse begat David the king; and David the king begat Solomon of her [that had been the wife] of Urias;",
+        "LSG": "Isaï engendra David. Le roi David engendra Salomon de la femme d'Urie;",
+        "MAB": "Et Jessé engendra le Roi David; et le Roi David engendra Salomon, de celle [qui avait été femme] d'Urie;",
+        "OST": "Jessé fut père du roi David. Le roi David eut Salomon, de celle qui avait été la femme d'Urie.",
+        "S21": "Obed eut pour fils Isaï; Isaï eut David.\r\nLe roi David eut Salomon de la femme d'Urie;"
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "Salomon eut pour descendant Roboam.\r\nRoboam eut pour descendant Abiya.\r\nAbiya eut pour descendant Asa.",
+        "DBY": "et Salomon engendra Roboam; et Roboam engendra Abia; et Abia engendra Asa;",
+        "KJV": "And Solomon begat Roboam; and Roboam begat Abia; and Abia begat Asa;",
+        "LSG": "Salomon engendra Roboam; Roboam engendra Abia; Abia engendra Asa;",
+        "MAB": "Et Salomon engendra Roboam; et Roboam engendra Abia; et Abia engendra Asa;",
+        "OST": "Salomon fut père de Roboam. Roboam fut père d'Abia. Abia fut père d'Asa.",
+        "S21": "Salomon eut pour fils Roboam; Roboam eut Abija; Abija eut Asa;"
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "Asa eut pour descendant Josaphat.\r\nJosaphat eut pour descendant Yoram.\r\nYoram eut pour descendant Ozias.",
+        "DBY": "et Asa engendra Josaphat; et Josaphat engendra Joram; et Joram engendra Ozias;",
+        "KJV": "And Asa begat Josaphat; and Josaphat begat Joram; and Joram begat Ozias;",
+        "LSG": "Asa engendra Josaphat; Josaphat engendra Joram; Joram engendra Ozias;",
+        "MAB": "Et Asa engendra Josaphat; et Josaphat engendra Joram; et Joram engendra Hozias;",
+        "OST": "Asa fut père de Josaphat. Josaphat fut père de Joram. Joram fut père d'Hosias.",
+        "S21": "Asa eut pour fils Josaphat; Josaphat eut Joram; Joram eut Ozias;"
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "Ozias eut pour descendant Yotham.\r\nYotham eut pour descendant Ahaz.\r\nAhaz eut pour descendant Ezéchias.",
+        "DBY": "et Ozias engendra Joatham; et Joatham engendra Achaz; et Achaz engendra Ézéchias;",
+        "KJV": "And Ozias begat Joatham; and Joatham begat Achaz; and Achaz begat Ezekias;",
+        "LSG": "Ozias engendra Joatham; Joatham engendra Achaz; Achaz engendra Ezéchias;",
+        "MAB": "Et Hozias engendra Joatham; et Joatham engendra Achaz; et Achaz engendra Ezéchias;",
+        "OST": "Hosias fut père de Joatham. Joatham fut père d'Achas. Achas fut père d'Ézéchias.",
+        "S21": "Ozias eut pour fils Jotham; Jotham eut Achaz; Achaz eut Ezéchias;"
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "Ezéchias eut pour descendant Manassé.\r\nManassé eut pour descendant Amôn.\r\nAmôn eut pour descendant Josias.",
+        "DBY": "et Ézéchias engendra Manassé; et Manassé engendra Amon; et Amon engendra Josias;",
+        "KJV": "And Ezekias begat Manasses; and Manasses begat Amon; and Amon begat Josias;",
+        "LSG": "Ezéchias engendra Manassé; Manassé engendra Amon; Amon engendra Josias;",
+        "MAB": "Et Ezéchias engendra Manassé; et Manassé engendra Amon; et Amon engendra Josias;",
+        "OST": "Ézéchias fut père de Manassé. Manassé fut père d'Amon. Amon fut père de Josias.",
+        "S21": "Ezéchias eut pour fils Manassé; Manassé eut Amon; Amon eut Josias;"
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "A l’époque de la déportation à Babylone,\r\nJosias eut pour descendant Yékonia et ses frères.",
+        "DBY": "et Josias engendra Jéchonias et ses frères, lors de la transportation de Babylone;",
+        "KJV": "And Josias begat Jechonias and his brethren, about the time they were carried away to Babylon:",
+        "LSG": "Josias engendra Jéchonias et ses frères, au temps de la déportation à Babylone.",
+        "MAB": "Et Josias engendra Jakim; et Jakim engendra Jéchonias, et ses frères, vers le temps qu'ils furent transportés en Babylone.",
+        "OST": "Josias fut père de Joakim. Joakim fut père de Jéchonias et de ses frères, vers le temps de la captivité de Babylone.",
+        "S21": "Josias eut pour descendants Jéconias et ses frères, à l’époque de la déportation à Babylone."
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "Après la déportation à Babylone,\r\nYékonia eut pour descendant Chéaltiel.\r\nChéaltiel eut pour descendant Zorobabel.",
+        "DBY": "et après la transportation de Babylone, Jéchonias engendra Salathiel; et Salathiel engendra Zorobabel;",
+        "KJV": "And after they were brought to Babylon, Jechonias begat Salathiel; and Salathiel begat Zorobabel;",
+        "LSG": "Après la déportation à Babylone, Jéchonias engendra Salathiel; Salathiel engendra Zorobabel;",
+        "MAB": "Et après qu'ils eurent été transportés en Babylone, Jéchonias engendra Salathiël; et Salathiël engendra Zorobabel;",
+        "OST": "Et après la captivité de Babylone, Jéchonias fut père de Salathiel. Salathiel fut père de Zorobabel.",
+        "S21": "Après la déportation à Babylone, Jéconias eut pour fils Shealthiel; Shealthiel eut Zorobabel;"
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "Zorobabel eut pour descendant Abioud.\r\nAbioud eut pour descendant Eliaqim.\r\nEliaqim eut pour descendant Azor.",
+        "DBY": "et Zorobabel engendra Abiub; et Abiub engendra Éliakim; et Éliakim engendra Azor;",
+        "KJV": "And Zorobabel begat Abiud; and Abiud begat Eliakim; and Eliakim begat Azor;",
+        "LSG": "Zorobabel engendra Abiud; Abiud engendra Eliakim; Eliakim engendra Azor;",
+        "MAB": "Et Zorobabel engendra Abiud; et Abiud engendra Eliakim; et Eliakim engendra Azor;",
+        "OST": "Zorobabel fut père d'Abiud. Abiud fut père d'Éliakim. Éliakim fut père d'Azor.",
+        "S21": "Zorobabel eut pour fils Abiud; Abiud eut Eliakim; Eliakim eut Azor;"
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "Azor eut pour descendant Sadoq.\r\nSadoq eut pour descendant Ahim.\r\nAhim eut pour descendant Elioud.",
+        "DBY": "et Azor engendra Sadok; et Sadok engendra Achim; et Achim engendra Éliud;",
+        "KJV": "And Azor begat Sadoc; and Sadoc begat Achim; and Achim begat Eliud;",
+        "LSG": "Azor engendra Sadok; Sadok engendra Achim; Achim engendra Eliud;",
+        "MAB": "Et Azor engendra Sadoc; et Sadoc engendra Achim; et Achim engendra Eliud;",
+        "OST": "Azor fut père de Sadoc. Sadoc fut père d'Achim. Achim fut père d'Éliud.",
+        "S21": "Azor eut pour fils Sadok; Sadok eut Achim; Achim eut Eliud;"
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "Elioud eut pour descendant Eléazar.\r\nEléazar eut pour descendant Matthan.\r\nMatthan eut pour descendant Jacob.",
+        "DBY": "et Éliud engendra Éléazar; et Éléazar engendra Matthan; et Matthan engendra Jacob;",
+        "KJV": "And Eliud begat Eleazar; and Eleazar begat Matthan; and Matthan begat Jacob;",
+        "LSG": "Eliud engendra Eléazar; Eléazar engendra Matthan; Matthan engendra Jacob;",
+        "MAB": "Et Eliud engendra Eléazar; et Eléazar engendra Matthan; et Matthan engendra Jacob;",
+        "OST": "Éliud fut père d'Éléazar. Éléazar fut père de Matthan. Matthan fut père de Jacob;",
+        "S21": "Eliud eut pour fils Eléazar; Eléazar eut Matthan; Matthan eut Jacob;"
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "Jacob eut pour descendant Joseph, l’époux de Marie laquelle donna naissance à Jésus, appelé le Christ.",
+        "DBY": "et Jacob engendra Joseph, le mari de Marie, de laquelle est né Jésus, qui est appelé Christ.",
+        "KJV": "And Jacob begat Joseph the husband of Mary, of whom was born Jesus, who is called Christ.",
+        "LSG": "Jacob engendra Joseph, l'époux de Marie, de laquelle est né Jésus, qui est appelé Christ.",
+        "MAB": "Et Jacob engendra Joseph, le mari de Marie, de laquelle est né Jésus, qui est appelé Christ.",
+        "OST": "Et Jacob fut père de Joseph, l'époux de Marie, de laquelle est né JÉSUS, appelé CHRIST.",
+        "S21": "Jacob eut pour fils Joseph, l'époux de Marie, de laquelle est né Jésus, qu’on appelle le Christ."
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "Il y eut donc en tout quatorze générations d’Abraham à David, quatorze de David jusqu’à la déportation à Babylone, et quatorze de cette déportation jusqu’au Christ.",
+        "DBY": "Toutes les générations, depuis Abraham jusqu'à David, sont donc quatorze générations; et depuis David jusqu'à la transportation de Babylone, quatorze générations; et depuis la transportation de Babylone jusqu'au Christ, quatorze générations.",
+        "KJV": "So all the generations from Abraham to David [are] fourteen generations; and from David until the carrying away into Babylon [are] fourteen generations; and from the carrying away into Babylon unto Christ [are] fourteen generations.",
+        "LSG": "Il y a donc en tout quatorze générations depuis Abraham jusqu'à David, quatorze générations depuis David jusqu'à la déportation à Babylone, et quatorze générations depuis la déportation à Babylone jusqu'au Christ.",
+        "MAB": "Ainsi toutes les générations depuis Abraham jusqu'à David, sont quatorze générations; et depuis David jusqu'au temps qu'ils furent transportés en Babylone, quatorze générations; et depuis qu'ils eurent été transportés en Babylone jusqu'à Christ, quatorze générations.",
+        "OST": "Ainsi toutes les générations depuis Abraham jusqu'à David sont en tout quatorze générations; et depuis David jusqu'à la captivité de Babylone, quatorze générations; et depuis la captivité de Babylone jusqu'au Christ, quatorze générations.",
+        "S21": "Il y a donc en tout 14 générations depuis Abraham jusqu'à David, 14 générations depuis David jusqu'à la déportation à Babylone et 14 générations depuis la déportation à Babylone jusqu'au Christ."
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "Voici dans quelles circonstances Jésus-Christ vint au monde: Marie, sa mère, était liée par fiançailles à Joseph; or elle se trouva enceinte par l’action du Saint-Esprit, avant qu’ils n’aient vécu ensemble.",
+        "DBY": "Or la naissance de Jésus Christ arriva ainsi: sa mère, Marie, étant fiancée à Joseph, avant qu'ils fussent ensemble, se trouva enceinte par l'Esprit Saint.",
+        "KJV": "Now the birth of Jesus Christ was on this wise: When as his mother Mary was espoused to Joseph, before they came together, she was found with child of the Holy Ghost.",
+        "LSG": "Voici de quelle manière arriva la naissance de Jésus-Christ. Marie, sa mère, ayant été fiancée à Joseph, se trouva enceinte, par la vertu du Saint-Esprit, avant qu'ils eussent habité ensemble.",
+        "MAB": "Or la naissance de Jésus-Christ arriva en cette manière. Comme Marie sa mère eut été fiancée à Joseph, avant qu'ils fussent ensemble, elle se trouva enceinte [par l'opération] du Saint-Esprit.",
+        "OST": "Or, la naissance de Jésus-Christ arriva ainsi: Marie, sa mère, ayant été fiancée à Joseph, se trouva enceinte par la vertu du Saint-Esprit, avant qu'ils eussent été ensemble.",
+        "S21": "Voici de quelle manière arriva la naissance de Jésus-Christ. Marie, sa mère, était fiancée à Joseph; or, avant qu'ils aient habité ensemble, elle se trouva enceinte par l'action du Saint-Esprit."
+      }
+    },
+    {
+      "verse": 19,
+      "texts": {
+        "BDS": "Joseph, son futur mari, était un homme bon et droit. Il ne voulait pas la livrer au déshonneur. C’est pourquoi il se proposa de rompre ses fiançailles sans en ébruiter la raison.",
+        "DBY": "Joseph, son mari, étant juste, et ne voulant pas faire d'elle un exemple, se proposa de la répudier secrètement.",
+        "KJV": "Then Joseph her husband, being a just [man], and not willing to make her a publick example, was minded to put her away privily.",
+        "LSG": "Joseph, son époux, qui était un homme de bien et qui ne voulait pas la diffamer, se proposa de rompre secrètement avec elle.",
+        "MAB": "Et Joseph son mari, parce qu'il était juste, et qu'il ne la voulait point diffamer, la voulut renvoyer secrètement.",
+        "OST": "Alors Joseph, son époux, étant un homme de bien, et ne voulant pas la diffamer, voulut la renvoyer secrètement.",
+        "S21": "Joseph, son fiancé, qui était un homme juste et qui ne voulait pas l’exposer au déshonneur, se proposa de rompre secrètement avec elle."
+      }
+    },
+    {
+      "verse": 20,
+      "texts": {
+        "BDS": "Il réfléchissait à ce projet quand un ange du Seigneur lui apparut en rêve et lui dit:\r\n—Joseph, descendant de David, ne crains pas de prendre Marie pour femme, car l’enfant qu’elle porte vient de l’Esprit Saint.",
+        "DBY": "Mais comme il méditait sur ces choses, voici, un ange du Seigneur lui apparut en songe, disant: Joseph, fils de David, ne crains pas de prendre auprès de toi Marie ta femme, car ce qui a été conçu en elle est de l'Esprit Saint;",
+        "KJV": "But while he thought on these things, behold, the angel of the Lord appeared unto him in a dream, saying, Joseph, thou son of David, fear not to take unto thee Mary thy wife: for that which is conceived in her is of the Holy Ghost.",
+        "LSG": "Comme il y pensait, voici, un ange du Seigneur lui apparut en songe, et dit: Joseph, fils de David, ne crains pas de prendre avec toi Marie, ta femme, car l'enfant qu'elle a conçu vient du Saint-Esprit;",
+        "MAB": "Mais comme il pensait à ces choses, voici, l'Ange du Seigneur lui apparut dans un songe, et lui dit : Joseph, fils de David, ne crains point de recevoir Marie ta femme; car ce qui a été conçu en elle est du Saint-Esprit.",
+        "OST": "Mais comme il y pensait, voici, un ange du Seigneur lui apparut en songe, et lui dit: Joseph, fils de David, ne crains point de prendre Marie pour ta femme; car ce qui a été conçu en elle est du Saint-Esprit;",
+        "S21": "Comme il y pensait, un ange du Seigneur lui apparut dans un rêve et dit: «Joseph, descendant de David, n’aie pas peur de prendre Marie pour femme, car l'enfant qu’elle porte vient du Saint-Esprit."
+      }
+    },
+    {
+      "verse": 21,
+      "texts": {
+        "BDS": "Elle donnera naissance à un fils, tu l’appelleras Jésus. C’est lui, en effet, qui sauvera son peuple de ses péchés.",
+        "DBY": "et elle enfantera un fils, et tu appelleras son nom Jésus, car c'est lui qui sauvera son peuple de leurs péchés.",
+        "KJV": "And she shall bring forth a son, and thou shalt call his name JESUS: for he shall save his people from their sins.",
+        "LSG": "elle enfantera un fils, et tu lui donneras le nom de Jésus; c'est lui qui sauvera son peuple de ses péchés.",
+        "MAB": "Et elle enfantera un fils, et tu appelleras son nom Jésus; car il sauvera son peuple de leurs péchés.",
+        "OST": "Et elle enfantera un fils, et tu lui donneras le nom de JÉSUS (Sauveur); car c'est lui qui sauvera son peuple de leurs péchés.",
+        "S21": "Elle mettra au monde un fils et tu lui donneras le nom de Jésus car c'est lui qui sauvera son peuple de ses péchés.»"
+      }
+    },
+    {
+      "verse": 22,
+      "texts": {
+        "BDS": "Tout cela arriva pour que s’accomplisse cette parole du Seigneur transmise par le prophète:",
+        "DBY": "Or tout cela arriva, afin que fût accompli ce que le Seigneur a dit par le prophète, disant:",
+        "KJV": "Now all this was done, that it might be fulfilled which was spoken of the Lord by the prophet, saying,",
+        "LSG": "Tout cela arriva afin que s'accomplît ce que le Seigneur avait annoncé par le prophète:",
+        "MAB": "Or tout ceci est arrivé afin que fût accompli ce dont le Seigneur avait parlé par le Prophète, en disant :",
+        "OST": "Or, tout cela arriva, afin que s'accomplît ce que le Seigneur avait dit en ces termes par le prophète:",
+        "S21": "Tout cela arriva afin que s'accomplisse ce que le Seigneur avait annoncé par le prophète:"
+      }
+    },
+    {
+      "verse": 23,
+      "texts": {
+        "BDS": "Voici, la jeune fille vierge sera enceinte.\r\nEt elle enfantera un fils\r\nque l’on appellera Emmanuel,\r\nce qui veut dire: Dieu est avec nous.",
+        "DBY": "\"Voici, la vierge sera enceinte et enfantera un fils, et on appellera son nom Emmanuel\", ce qui, interprété, est: Dieu avec nous.",
+        "KJV": "Behold, a virgin shall be with child, and shall bring forth a son, and they shall call his name Emmanuel, which being interpreted is, God with us.",
+        "LSG": "Voici, la vierge sera enceinte, elle enfantera un fils, et on lui donnera le nom d'Emmanuel, ce qui signifie Dieu avec nous.",
+        "MAB": "Voici, la Vierge sera enceinte, et elle enfantera un fils; et on appellera son nom Emmanuël, ce qui signifie, DIEU AVEC NOUS.",
+        "OST": "Voici, la vierge sera enceinte, et elle enfantera un fils, et on le nommera EMMANUEL, ce qui signifie: DIEU AVEC NOUS.",
+        "S21": "La vierge sera enceinte, elle mettra au monde un fils et on l’appellera Emmanuel, ce qui signifie «Dieu avec nous»."
+      }
+    },
+    {
+      "verse": 24,
+      "texts": {
+        "BDS": "A son réveil, Joseph fit ce que l’ange du Seigneur lui avait commandé: il prit sa fiancée pour femme.",
+        "DBY": "Or Joseph, étant réveillé de son sommeil, fit comme l'ange du Seigneur le lui avait ordonné, et prit sa femme auprès de lui;",
+        "KJV": "Then Joseph being raised from sleep did as the angel of the Lord had bidden him, and took unto him his wife:",
+        "LSG": "Joseph s'étant réveillé fit ce que l'ange du Seigneur lui avait ordonné, et il prit sa femme avec lui.",
+        "MAB": "Joseph étant donc réveillé de son sommeil, fit comme l'Ange du Seigneur lui avait commandé, et reçut sa femme.",
+        "OST": "Quand Joseph fut réveillé de son sommeil, il fit comme l'ange du Seigneur lui avait commandé, et il prit sa femme.",
+        "S21": "A son réveil, Joseph fit ce que l'ange du Seigneur lui avait ordonné et il prit sa femme chez lui,"
+      }
+    },
+    {
+      "verse": 25,
+      "texts": {
+        "BDS": "Mais il n’eut pas de relations conjugales avec elle avant qu’elle ait mis au monde un fils, auquel il donna le nom de Jésus.",
+        "DBY": "et il ne la connut point jusqu'à ce qu'elle eût enfanté son fils premier-né; et il appela son nom Jésus.",
+        "KJV": "And knew her not till she had brought forth her firstborn son: and he called his name JESUS.",
+        "LSG": "Mais il ne la connut point jusqu'à ce qu'elle eût enfanté un fils, auquel il donna le nom de Jésus.",
+        "MAB": "Mais il ne la connut point jusqu'à ce qu'elle eût enfanté son fils premier-né; et il appela son nom Jésus.",
+        "OST": "Mais il ne la connut point jusqu'à ce qu'elle eût enfanté son fils premier-né, et il lui donna le nom de JÉSUS.",
+        "S21": "mais il n'eut pas de relations conjugales avec elle jusqu'à ce qu'elle ait mis au monde un fils [premier-né] auquel il donna le nom de Jésus."
+      }
+    }
+  ]
+}

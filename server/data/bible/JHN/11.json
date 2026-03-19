@@ -1,0 +1,690 @@
+{
+  "bookCode": "JHN",
+  "chapter": 11,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "Dans le village de Béthanie vivaient deux sœurs, Marthe et Marie, ainsi que leur frère Lazare.",
+        "DBY": "Or il y avait un certain homme malade, Lazare, de Béthanie, du village de Marie et de Marthe sa sœur.",
+        "KJV": "Now a certain [man] was sick, [named] Lazarus, of Bethany, the town of Mary and her sister Martha.",
+        "LSG": "Il y avait un homme malade, Lazare, de Béthanie, village de Marie et de Marthe, sa soeur.",
+        "MAB": "Or il y avait un certain homme malade, appelé Lazare, qui était de Béthanie, la bourgade de Marie et de Marthe sa sœur.",
+        "OST": "Il y avait un homme malade, Lazare de Béthanie, bourg de Marie et de Marthe sa sœur.",
+        "S21": "Il y avait un homme malade; c'était Lazare de Béthanie, le village de Marie et de sa sœur Marthe."
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "Marie était cette femme qui, après avoir répandu une huile parfumée sur les pieds du Seigneur, les lui essuya avec ses cheveux. Lazare, son frère, tomba malade.",
+        "DBY": "(Et c'était la Marie qui oignit le Seigneur d'un parfum et qui lui essuya les pieds avec ses cheveux, de laquelle Lazare, le malade, était le frère).",
+        "KJV": "(It was [that] Mary which anointed the Lord with ointment, and wiped his feet with her hair, whose brother Lazarus was sick.)",
+        "LSG": "C'était cette Marie qui oignit de parfum le Seigneur et qui lui essuya les pieds avec ses cheveux, et c'était son frère Lazare qui était malade.",
+        "MAB": "Et Marie était celle qui oignit le Seigneur d'une huile odoriférante, et qui essuya ses pieds de ses cheveux ; et Lazare qui était malade, était son frère.",
+        "OST": "(Marie était celle qui oignit le Seigneur de parfum, et qui essuya ses pieds avec ses cheveux; et Lazare, son frère, était malade. )",
+        "S21": "- Marie était celle qui versa du parfum sur les pieds du Seigneur et qui les essuya avec ses cheveux; c'était son frère Lazare qui était malade. -"
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "Les deux sœurs envoyèrent donc quelqu’un à Jésus pour lui faire dire:\r\n—Seigneur, ton ami est malade.",
+        "DBY": "Les sœurs donc envoyèrent vers lui, disant: Seigneur, voici, celui que tu aimes est malade.",
+        "KJV": "Therefore his sisters sent unto him, saying, Lord, behold, he whom thou lovest is sick.",
+        "LSG": "Les soeurs envoyèrent dire à Jésus: Seigneur, voici, celui que tu aimes est malade.",
+        "MAB": "Ses sœurs donc envoyèrent vers lui, pour lui dire : Seigneur, voici, celui que tu aimes, est malade.",
+        "OST": "Ses sœurs donc envoyèrent dire à Jésus: Seigneur, celui que tu aimes est malade.",
+        "S21": "Les sœurs envoyèrent dire à Jésus: «Seigneur, celui que tu aimes est malade.»"
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "Quand Jésus apprit la nouvelle, il dit:\r\n—Cette maladie n’aboutira pas à la mort, elle servira à glorifier Dieu; elle sera une occasion pour faire apparaître la gloire du Fils de Dieu.",
+        "DBY": "Jésus, l'ayant entendu, dit: Cette maladie n'est pas à la mort, mais pour la gloire de Dieu, afin que le Fils de Dieu soit glorifié par elle.",
+        "KJV": "When Jesus heard [that], he said, ‹This sickness is not unto death, but for the glory of God, that the Son of God might be glorified thereby.›",
+        "LSG": "Après avoir entendu cela, Jésus dit: Cette maladie n'est point à la mort; mais elle est pour la gloire de Dieu, afin que le Fils de Dieu soit glorifié par elle.",
+        "MAB": "Et Jésus l'ayant entendu, dit : cette maladie n'est point à la mort, mais pour la gloire de Dieu, afin que le Fils de Dieu soit glorifié par elle.",
+        "OST": "Jésus, ayant entendu cela, dit: Cette maladie n'est point à la mort, mais elle est pour la gloire de Dieu, afin que le Fils de Dieu en soit glorifié.",
+        "S21": "A cette nouvelle, Jésus dit: «Cette maladie n'aboutira pas à la mort, mais elle servira à la gloire de Dieu, afin qu’à travers elle la gloire du Fils de Dieu soit révélée.»"
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "Or Jésus était très attaché à Marthe, à sa sœur et à Lazare.",
+        "DBY": "Or Jésus aimait Marthe, et sa sœur, et Lazare.",
+        "KJV": "Now Jesus loved Martha, and her sister, and Lazarus.",
+        "LSG": "Or, Jésus aimait Marthe, et sa soeur, et Lazare.",
+        "MAB": "Or Jésus aimait Marthe, et sa sœur, et Lazare.",
+        "OST": "Or, Jésus aimait Marthe, et sa sœur, et Lazare.",
+        "S21": "Or, Jésus aimait Marthe, sa sœur et Lazare."
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "Après avoir appris qu’il était malade, il resta encore deux jours à l’endroit où il se trouvait.",
+        "DBY": "Après donc qu'il eut entendu que Lazare était malade, il demeura encore deux jours au lieu où il était.",
+        "KJV": "When he had heard therefore that he was sick, he abode two days still in the same place where he was.",
+        "LSG": "Lors donc qu'il eut appris que Lazare était malade, il resta deux jours encore dans le lieu où il était,",
+        "MAB": "Et après qu'il eut entendu que [Lazare] était malade, il demeura deux jours au même lieu où il était.",
+        "OST": "Néanmoins, quand il eut appris qu'il était malade, il demeura deux jours dans ce lieu où il était.",
+        "S21": "Quand il eut appris que Lazare était malade, il resta encore deux jours à l'endroit où il était."
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "Puis il dit à ses disciples:\r\n—Retournons en Judée.",
+        "DBY": "Puis après cela, il dit à ses disciples: Retournons en Judée.",
+        "KJV": "Then after that saith he to [his] disciples, ‹Let us go into Judaea again.›",
+        "LSG": "et il dit ensuite aux disciples: Retournons en Judée.",
+        "MAB": "Et après cela il dit à ses Disciples : retournons en Judée.",
+        "OST": "Puis il dit à ses disciples: Retournons en Judée.",
+        "S21": "Puis il dit aux disciples: «Retournons en Judée.»"
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "—Maître, lui dirent-ils, il n’y a pas si longtemps, ceux de la Judée voulaient te tuer à coup de pierres, et maintenant tu veux retourner là-bas?",
+        "DBY": "Les disciples lui disent: Rabbi, les Juifs cherchaient tout à l'heure à te lapider, et tu y vas encore!",
+        "KJV": "[His] disciples say unto him, Master, the Jews of late sought to stone thee; and goest thou thither again?",
+        "LSG": "Les disciples lui dirent: Rabbi, les Juifs tout récemment cherchaient à te lapider, et tu retournes en Judée!",
+        "MAB": "Les Disciples lui dirent : Maître, il n'y a que peu de temps, que les Juifs cherchaient à te lapider, et tu y vas encore!",
+        "OST": "Les disciples lui dirent: Maître, les Juifs cherchaient naguère à te lapider, et tu retournes de nouveau chez eux!",
+        "S21": "Les disciples lui dirent: «Maître, tout récemment les Juifs cherchaient à te lapider et tu retournes là-bas?»"
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "—N’y a-t-il pas douze heures dans une journée? répondit Jésus. Si l’on marche pendant qu’il fait jour, on ne bute pas contre les obstacles, parce qu’on voit clair.",
+        "DBY": "Jésus répondit: N'y a-t-il pas douze heures au jour? Si quelqu'un marche de jour, il ne bronche pas, car il voit la lumière de ce monde;",
+        "KJV": "Jesus answered, ‹Are there not twelve hours in the day? If any man walk in the day, he stumbleth not, because he seeth the light of this world.›",
+        "LSG": "Jésus répondit: N'y a-t-il pas douze heures au jour? Si quelqu'un marche pendant le jour, il ne bronche point, parce qu'il voit la lumière de ce monde;",
+        "MAB": "Jésus répondit : n'y a-t-il pas douze heures au jour? si quelqu'un marche de jour, il ne bronche point; car il voit la lumière de ce monde.",
+        "OST": "Jésus répondit: N'y a-t-il pas douze heures au jour? Si quelqu'un marche pendant le jour, il ne bronche point, parce qu'il voit la lumière de ce monde.",
+        "S21": "Jésus répondit: «N'y a-t-il pas douze heures de jour? Si quelqu'un marche pendant le jour, il ne trébuche pas, parce qu'il voit la lumière de ce monde;"
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "Mais si l’on marche de nuit, on trébuche parce qu’il n’y a pas de lumière.",
+        "DBY": "mais si quelqu'un marche de nuit, il bronche, car la lumière n'est pas en lui.",
+        "KJV": "‹But if a man walk in the night, he stumbleth, because there is no light in him.›",
+        "LSG": "mais, si quelqu'un marche pendant la nuit, il bronche, parce que la lumière n'est pas en lui.",
+        "MAB": "Mais si quelqu'un marche de nuit, il bronche; car il n'y a point de lumière avec lui.",
+        "OST": "Mais s'il marche pendant la nuit, il bronche, parce qu'il n'a point de lumière.",
+        "S21": "mais si quelqu'un marche pendant la nuit, il trébuche, parce que la lumière n'est pas en lui.»"
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "Après avoir dit cela, il ajouta:\r\n—Notre ami Lazare s’est endormi; je vais aller le réveiller.",
+        "DBY": "Il dit ces choses; et après cela il leur dit: Lazare, notre ami, s'est endormi; mais je vais pour l'éveiller.",
+        "KJV": "These things said he: and after that he saith unto them, ‹Our friend Lazarus sleepeth; but I go, that I may awake him out of sleep.›",
+        "LSG": "Après ces paroles, il leur dit: Lazare, notre ami, dort; mais je vais le réveiller.",
+        "MAB": "Il dit ces choses, et puis il leur dit : Lazare notre ami dort; mais j'y vais pour l'éveiller.",
+        "OST": "Il parla ainsi, et après il leur dit: Lazare notre ami dort; mais je vais l'éveiller.",
+        "S21": "Après ces paroles, il leur dit: «Notre ami Lazare s'est endormi, mais je vais aller le réveiller.»"
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "Sur quoi les disciples lui dirent:\r\n—Seigneur, s’il dort, il est en voie de guérison.",
+        "DBY": "Les disciples donc lui dirent: Seigneur, s'il s'est endormi, il sera guéri.",
+        "KJV": "Then said his disciples, Lord, if he sleep, he shall do well.",
+        "LSG": "Les disciples lui dirent: Seigneur, s'il dort, il sera guéri.",
+        "MAB": "Et ses Disciples lui dirent : Seigneur, s'il dort il sera guéri.",
+        "OST": "Ses disciples lui dirent: Seigneur, s'il dort, il sera guéri.",
+        "S21": "Les disciples lui dirent: «Seigneur, s'il s'est endormi, il sera guéri.»"
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "En fait, Jésus voulait dire que Lazare était mort, mais les disciples avaient compris qu’il parlait du sommeil ordinaire.",
+        "DBY": "Jésus avait parlé de sa mort; mais eux pensaient qu'il avait parlé du dormir du sommeil.",
+        "KJV": "Howbeit Jesus spake of his death: but they thought that he had spoken of taking of rest in sleep.",
+        "LSG": "Jésus avait parlé de sa mort, mais ils crurent qu'il parlait de l'assoupissement du sommeil.",
+        "MAB": "Or Jésus avait dit cela de sa mort; mais ils pensaient qu'il parlât du dormir du sommeil.",
+        "OST": "Or, Jésus avait parlé de la mort de Lazare; mais ils crurent qu'il parlait du repos du sommeil.",
+        "S21": "En fait, Jésus avait parlé de la mort de Lazare, mais ils crurent qu'il parlait de l'assoupissement du sommeil."
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "Alors il leur dit clairement:\r\n—Lazare est mort,",
+        "DBY": "Jésus leur dit donc alors ouvertement: Lazare est mort;",
+        "KJV": "Then said Jesus unto them plainly, ‹Lazarus is dead.›",
+        "LSG": "Alors Jésus leur dit ouvertement: Lazare est mort.",
+        "MAB": "Jésus leur dit donc alors ouvertement : Lazare est mort,",
+        "OST": "Alors Jésus leur dit ouvertement: Lazare est mort.",
+        "S21": "Jésus leur dit alors ouvertement: «Lazare est mort."
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "et je suis heureux, à cause de vous, de n’avoir pas été là-bas à ce moment-là. Car cela contribuera à votre foi. Mais maintenant, allons auprès de lui.",
+        "DBY": "et je me réjouis, à cause de vous, de ce que je n'étais pas là, afin que vous croyiez. Mais allons vers lui.",
+        "KJV": "‹And I am glad for your sakes that I was not there, to the intent ye may believe; nevertheless let us go unto him.›",
+        "LSG": "Et, à cause de vous, afin que vous croyiez, je me réjouis de ce que je n'étais pas là. Mais allons vers lui.",
+        "MAB": "Et j'ai de la joie pour l'amour de vous de ce que je n'y étais point; afin que vous croyiez; mais allons vers lui.",
+        "OST": "Et je me réjouis à cause de vous, de ce que je n'étais pas là, afin que vous croyiez; mais allons vers lui.",
+        "S21": "Et à cause de vous, afin que vous croyiez, je me réjouis de ce que je n'étais pas là. Mais allons vers lui.»"
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "Thomas, surnommé le Jumeau, dit alors aux autres disciples:\r\n—Allons-y, nous aussi, pour mourir avec lui.",
+        "DBY": "Thomas donc, appelé Didyme, dit à ses condisciples: Allons-y, nous aussi, afin que nous mourions avec lui.",
+        "KJV": "Then said Thomas, which is called Didymus, unto his fellowdisciples, Let us also go, that we may die with him.",
+        "LSG": "Sur quoi Thomas, appelé Didyme, dit aux autres disciples: Allons aussi, afin de mourir avec lui.",
+        "MAB": "Alors Thomas, appelé Didyme, dit à ses condisciples : allons-y aussi, afin que nous mourions avec lui.",
+        "OST": "Thomas, appelé Didyme (le Jumeau), dit aux autres disciples: Allons, nous aussi, afin de mourir avec lui.",
+        "S21": "Là-dessus Thomas, appelé Didyme, dit aux autres disciples: «Allons-y, nous aussi, afin de mourir avec lui.»"
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "A son arrivée, Jésus apprit qu’on avait enseveli Lazare depuis quatre jours déjà.",
+        "DBY": "Jésus étant donc arrivé trouva qu'il était déjà depuis quatre jours dans le sépulcre.",
+        "KJV": "Then when Jesus came, he found that he had [lain] in the grave four days already.",
+        "LSG": "Jésus, étant arrivé, trouva que Lazare était déjà depuis quatre jours dans le sépulcre.",
+        "MAB": "Jésus y étant donc arrivé, trouva que Lazare était déjà depuis quatre jours au sépulcre.",
+        "OST": "Jésus, étant arrivé, trouva Lazare dans le sépulcre déjà depuis quatre jours.",
+        "S21": "A son arrivée, Jésus trouva que Lazare était depuis quatre jours déjà dans le tombeau."
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "Béthanie était à moins de trois kilomètres de Jérusalem,",
+        "DBY": "Béthanie était près de Jérusalem, à une distance d'environ quinze stades.",
+        "KJV": "Now Bethany was nigh unto Jerusalem, about fifteen furlongs off:",
+        "LSG": "Et, comme Béthanie était près de Jérusalem, à quinze stades environ,",
+        "MAB": "Or Béthanie n'était éloignée de Jérusalem que d'environ quinze stades.",
+        "OST": "Or, Béthanie était environ à quinze stades de Jérusalem.",
+        "S21": "Béthanie était près de Jérusalem, à moins de trois kilomètres,"
+      }
+    },
+    {
+      "verse": 19,
+      "texts": {
+        "BDS": "aussi beaucoup de gens étaient-ils venus chez Marthe et Marie pour leur présenter leurs condoléances à l’occasion de la mort de leur frère.",
+        "DBY": "Et plusieurs d'entre les Juifs étaient venus auprès de Marthe et de Marie, pour les consoler au sujet de leur frère.",
+        "KJV": "And many of the Jews came to Martha and Mary, to comfort them concerning their brother.",
+        "LSG": "beaucoup de Juifs étaient venus vers Marthe et Marie, pour les consoler de la mort de leur frère.",
+        "MAB": "Et plusieurs des Juifs étaient venus vers Marthe et Marie pour les consoler au sujet de leur frère.",
+        "OST": "Et plusieurs Juifs étaient venus auprès de Marthe et de Marie, pour les consoler au sujet de leur frère.",
+        "S21": "et beaucoup de Juifs étaient venus chez Marthe et Marie pour les consoler de la mort de leur frère."
+      }
+    },
+    {
+      "verse": 20,
+      "texts": {
+        "BDS": "Quand Marthe apprit que Jésus approchait du village, elle alla à sa rencontre. Marie, elle, resta à la maison.",
+        "DBY": "Marthe donc, quand elle eut ouï dire que Jésus venait, alla au-devant de lui; mais Marie se tenait assise dans la maison.",
+        "KJV": "Then Martha, as soon as she heard that Jesus was coming, went and met him: but Mary sat [still] in the house.",
+        "LSG": "Lorsque Marthe apprit que Jésus arrivait, elle alla au-devant de lui, tandis que Marie se tenait assise à la maison.",
+        "MAB": "Et quand Marthe eut ouï dire que Jésus venait, elle alla au-devant de lui; mais Marie se tenait assise à la maison.",
+        "OST": "Quand donc Marthe eut appris que Jésus venait, elle alla au-devant de lui; mais Marie demeurait assise à la maison.",
+        "S21": "Lorsque Marthe apprit que Jésus arrivait, elle alla à sa rencontre, tandis que Marie restait assise à la maison."
+      }
+    },
+    {
+      "verse": 21,
+      "texts": {
+        "BDS": "Marthe dit à Jésus:\r\n—Seigneur, si tu avais été ici, mon frère ne serait pas mort.",
+        "DBY": "Marthe donc dit à Jésus: Seigneur, si tu eusses été ici mon frère ne serait pas mort;",
+        "KJV": "Then said Martha unto Jesus, Lord, if thou hadst been here, my brother had not died.",
+        "LSG": "Marthe dit à Jésus: Seigneur, si tu eusses été ici, mon frère ne serait pas mort.",
+        "MAB": "Et Marthe dit à Jésus : Seigneur, si tu eusses été ici mon frère ne fût pas mort.",
+        "OST": "Et Marthe dit à Jésus: Seigneur, si tu eusses été ici, mon frère ne serait pas mort;",
+        "S21": "Marthe dit à Jésus: «Seigneur, si tu avais été ici, mon frère ne serait pas mort."
+      }
+    },
+    {
+      "verse": 22,
+      "texts": {
+        "BDS": "Mais je sais que maintenant encore, tout ce que tu demanderas à Dieu, il te l’accordera.",
+        "DBY": "mais même maintenant je sais que tout ce que tu demanderas à Dieu, Dieu te le donnera.",
+        "KJV": "But I know, that even now, whatsoever thou wilt ask of God, God will give [it] thee.",
+        "LSG": "Mais, maintenant même, je sais que tout ce que tu demanderas à Dieu, Dieu te l'accordera.",
+        "MAB": "Mais maintenant je sais que tout ce que tu demanderas à Dieu, Dieu te le donnera.",
+        "OST": "Mais je sais que, maintenant même, tout ce que tu demanderas à Dieu, Dieu te l'accordera.",
+        "S21": "[Cependant,] même maintenant, je sais que tout ce que tu demanderas à Dieu, Dieu te l'accordera.»"
+      }
+    },
+    {
+      "verse": 23,
+      "texts": {
+        "BDS": "—Ton frère reviendra à la vie, lui dit Jésus.",
+        "DBY": "Jésus lui dit: Ton frère ressuscitera.",
+        "KJV": "Jesus saith unto her, ‹Thy brother shall rise again.›",
+        "LSG": "Jésus lui dit: Ton frère ressuscitera.",
+        "MAB": "Jésus lui dit : ton frère ressuscitera.",
+        "OST": "Jésus lui dit: Ton frère ressuscitera.",
+        "S21": "Jésus lui dit: «Ton frère ressuscitera.»"
+      }
+    },
+    {
+      "verse": 24,
+      "texts": {
+        "BDS": "—Je sais bien, répondit Marthe, qu’il reviendra à la vie au dernier jour, lors de la résurrection des morts.",
+        "DBY": "Marthe lui dit: Je sais qu'il ressuscitera en la résurrection, au dernier jour.",
+        "KJV": "Martha saith unto him, I know that he shall rise again in the resurrection at the last day.",
+        "LSG": "Je sais, lui répondit Marthe, qu'il ressuscitera à la résurrection, au dernier jour.",
+        "MAB": "Marthe lui dit : je sais qu'il ressuscitera en la résurrection au dernier jour.",
+        "OST": "Marthe lui répondit: Je sais qu'il ressuscitera à la résurrection, au dernier jour.",
+        "S21": "«Je sais, lui répondit Marthe, qu'il ressuscitera lors de la résurrection, le dernier jour.»"
+      }
+    },
+    {
+      "verse": 25,
+      "texts": {
+        "BDS": "—Je suis la résurrection et la vie, lui dit Jésus. Celui qui place toute sa confiance en moi vivra, même s’il meurt.",
+        "DBY": "Jésus lui dit: Moi, je suis la résurrection et la vie: celui qui croit en moi, encore qu'il soit mort, vivra;",
+        "KJV": "Jesus said unto her, ‹I am the resurrection, and the life: he that believeth in me, though he were dead, yet shall he live:›",
+        "LSG": "Jésus lui dit: Je suis la résurrection et la vie. Celui qui croit en moi vivra, quand même il serait mort;",
+        "MAB": "Jésus lui dit : je suis la résurrection et la vie : celui qui croit en moi, encore qu'il soit mort, il vivra.",
+        "OST": "Jésus lui dit: Je suis la résurrection et la vie; celui qui croit en moi vivra, quand même il serait mort.",
+        "S21": "Jésus lui dit: «C’est moi qui suis la résurrection et la vie. Celui qui croit en moi vivra, même s'il meurt;"
+      }
+    },
+    {
+      "verse": 26,
+      "texts": {
+        "BDS": "Et tout homme qui vit et croit en moi ne mourra jamais. Crois-tu cela?",
+        "DBY": "et quiconque vit, et croit en moi, ne mourra point, à jamais. Crois-tu cela?",
+        "KJV": "‹And whosoever liveth and believeth in me shall never die. Believest thou this?›",
+        "LSG": "et quiconque vit et croit en moi ne mourra jamais. Crois-tu cela?",
+        "MAB": "Et quiconque vit, et croit en moi, ne mourra jamais; crois-tu cela?",
+        "OST": "Et quiconque vit et croit en moi, ne mourra jamais. Crois-tu cela?",
+        "S21": "et toute personne qui vit et croit en moi ne mourra jamais. Crois-tu cela?»"
+      }
+    },
+    {
+      "verse": 27,
+      "texts": {
+        "BDS": "—Oui, Seigneur, lui répondit-elle, je crois que tu es le Christ, le Fils de Dieu, celui qui devait venir dans le monde.",
+        "DBY": "Elle lui dit: Oui, Seigneur, moi je crois que tu es le Christ, le Fils de Dieu, qui vient dans le monde.",
+        "KJV": "She saith unto him, Yea, Lord: I believe that thou art the Christ, the Son of God, which should come into the world.",
+        "LSG": "Elle lui dit: Oui, Seigneur, je crois que tu es le Christ, le Fils de Dieu, qui devait venir dans le monde.",
+        "MAB": "Elle lui dit : oui, Seigneur, je crois que tu es le Christ, le Fils de Dieu, qui devait venir au monde.",
+        "OST": "Elle lui dit: Oui, Seigneur, je crois que tu es le Christ, le Fils de Dieu, qui devait venir dans le monde.",
+        "S21": "Elle lui dit: «Oui, Seigneur, je crois que tu es le Messie, le Fils de Dieu, qui devait venir dans le monde.»"
+      }
+    },
+    {
+      "verse": 28,
+      "texts": {
+        "BDS": "Là-dessus, elle partit appeler sa sœur Marie, et, l’ayant prise à part, elle lui dit:\r\n—Le Maître est là, et il te demande.",
+        "DBY": "Et ayant dit cela, elle s'en alla et appela secrètement Marie, sa sœur, disant: Le maître est venu, et il t'appelle.",
+        "KJV": "And when she had so said, she went her way, and called Mary her sister secretly, saying, The Master is come, and calleth for thee.",
+        "LSG": "Ayant ainsi parlé, elle s'en alla. Puis elle appela secrètement Marie, sa soeur, et lui dit: Le maître est ici, et il te demande.",
+        "MAB": "Et quand elle eut dit cela, elle alla appeler secrètement Marie sa sœur, en lui disant : le Maître est ici, et il t'appelle.",
+        "OST": "Quand elle eut dit cela, elle s'en alla et appela Marie, sa sœur, en secret, et lui dit: Le Maître est ici, et il t'appelle.",
+        "S21": "Après avoir dit cela, elle alla appeler secrètement sa sœur Marie en lui disant: «Le maître est ici et te demande.»"
+      }
+    },
+    {
+      "verse": 29,
+      "texts": {
+        "BDS": "A cette nouvelle, Marie se leva précipitamment et courut vers Jésus.",
+        "DBY": "Celle-ci, aussitôt qu'elle l'eut entendu, se lève promptement et s'en vient à lui.",
+        "KJV": "As soon as she heard [that], she arose quickly, and came unto him.",
+        "LSG": "Dès que Marie eut entendu, elle se leva promptement, et alla vers lui.",
+        "MAB": "Et aussitôt qu'elle l'eut entendu, elle se leva promptement, et s'en vint à lui.",
+        "OST": "Celle-ci, l'ayant entendu, se leva promptement, et vint vers lui.",
+        "S21": "A ces mots, Marie se leva sans attendre et alla vers lui."
+      }
+    },
+    {
+      "verse": 30,
+      "texts": {
+        "BDS": "Il n’était pas encore entré dans le village: il était resté à l’endroit où Marthe l’avait rencontré.",
+        "DBY": "(Or Jésus n'était pas encore arrivé dans le village; mais il était au lieu où Marthe l'avait rencontré).",
+        "KJV": "Now Jesus was not yet come into the town, but was in that place where Martha met him.",
+        "LSG": "Car Jésus n'était pas encore entré dans le village, mais il était dans le lieu où Marthe l'avait rencontré.",
+        "MAB": "Or Jésus n'était point encore venu à la bourgade, mais il était au lieu où Marthe l'avait rencontré.",
+        "OST": "Or, Jésus n'était pas encore entré dans le bourg, mais il était dans le lieu où Marthe était venue au-devant de lui.",
+        "S21": "Jésus n'était pas encore entré dans le village, mais il était à l'endroit où Marthe l'avait rencontré."
+      }
+    },
+    {
+      "verse": 31,
+      "texts": {
+        "BDS": "Ceux qui se trouvaient dans la maison avec Marie pour la consoler la virent se lever brusquement et sortir. Ils la suivirent, pensant qu’elle allait au tombeau pour y pleurer.",
+        "DBY": "Les Juifs donc qui étaient avec Marie dans la maison et qui la consolaient, ayant vu que Marie s'était levée promptement et était sortie, la suivirent, disant: Elle s'en va au sépulcre pour y pleurer.",
+        "KJV": "The Jews then which were with her in the house, and comforted her, when they saw Mary, that she rose up hastily and went out, followed her, saying, She goeth unto the grave to weep there.",
+        "LSG": "Les Juifs qui étaient avec Marie dans la maison et qui la consolaient, l'ayant vue se lever promptement et sortir, la suivirent, disant: Elle va au sépulcre, pour y pleurer.",
+        "MAB": "Alors les Juifs qui étaient avec Marie à la maison, et qui la consolaient ayant vu qu'elle s'était levée si promptement, et qu'elle était sortie, la suivirent, en disant : elle s'en va au sépulcre, pour y pleurer.",
+        "OST": "Alors les Juifs qui étaient avec Marie dans la maison, et qui la consolaient, voyant qu'elle s'était levée promptement, et qu'elle était sortie, la suivirent, en disant: Elle va au sépulcre, pour y pleurer.",
+        "S21": "Les Juifs qui étaient avec Marie dans la maison et qui la consolaient la virent se lever soudain et sortir; ils la suivirent en disant: «Elle va au tombeau pour y pleurer.»"
+      }
+    },
+    {
+      "verse": 32,
+      "texts": {
+        "BDS": "Marie parvint à l’endroit où était Jésus. Dès qu’elle le vit, elle se jeta à ses pieds et lui dit:\r\n—Seigneur, si tu avais été ici, mon frère ne serait pas mort.",
+        "DBY": "Marie donc, quand elle fut venue là où était Jésus, et qu'elle l'eut vu, se jeta à ses pieds, lui disant: Seigneur, si tu eusses été ici, mon frère ne serait pas mort.",
+        "KJV": "Then when Mary was come where Jesus was, and saw him, she fell down at his feet, saying unto him, Lord, if thou hadst been here, my brother had not died.",
+        "LSG": "Lorsque Marie fut arrivée là où était Jésus, et qu'elle le vit, elle tomba à ses pieds, et lui dit: Seigneur, si tu eusses été ici, mon frère ne serait pas mort.",
+        "MAB": "Quand donc Marie fut venue où était Jésus, l'ayant vu, elle se jeta à ses pieds, en lui disant : Seigneur, si tu eusses été ici, mon frère ne fût pas mort.",
+        "OST": "Dès que Marie fut arrivée au lieu où était Jésus, et qu'elle le vit, elle se jeta à ses pieds et lui dit: Seigneur, si tu eusses été ici, mon frère ne serait pas mort.",
+        "S21": "Marie arriva à l'endroit où était Jésus. Quand elle le vit, elle tomba à ses pieds et lui dit: «Seigneur, si tu avais été ici, mon frère ne serait pas mort.»"
+      }
+    },
+    {
+      "verse": 33,
+      "texts": {
+        "BDS": "En la voyant pleurer, elle et ceux qui l’accompagnaient, Jésus fut profondément indigné et ému.",
+        "DBY": "Jésus donc, quand il la vit pleurer, et les Juifs qui étaient venus avec elle, pleurer, frémit en son esprit, et se troubla,",
+        "KJV": "When Jesus therefore saw her weeping, and the Jews also weeping which came with her, he groaned in the spirit, and was troubled,",
+        "LSG": "Jésus, la voyant pleurer, elle et les Juifs qui étaient venus avec elle, frémit en son esprit, et fut tout ému.",
+        "MAB": "Et quand Jésus la vit pleurer, de même que les Juifs qui étaient venus là avec elle, il frémit en [son] esprit, et s'émut.",
+        "OST": "Quand Jésus vit qu'elle pleurait, et que les Juifs venus avec elle pleuraient aussi, il frémit en son esprit, et fut ému;",
+        "S21": "En la voyant pleurer, elle et les Juifs venus avec elle, Jésus fut profondément indigné et bouleversé."
+      }
+    },
+    {
+      "verse": 34,
+      "texts": {
+        "BDS": "—Où l’avez-vous enterré? demanda-t-il.\r\n—Viens, Seigneur, lui répondirent-ils, tu verras.",
+        "DBY": "et dit: Où l'avez-vous mis? Ils lui disent: Seigneur, viens et vois.",
+        "KJV": "And said, ‹Where have ye laid him?› They said unto him, Lord, come and see.",
+        "LSG": "Et il dit: Où l'avez-vous mis? Seigneur, lui répondirent-ils, viens et vois.",
+        "MAB": "Et il dit : où l'avez-vous mis? Ils lui répondirent : Seigneur, viens, et vois.",
+        "OST": "Et il dit: Où l'avez-vous mis? Ils lui répondirent: Seigneur, viens et vois.",
+        "S21": "Il dit: «Où l'avez-vous mis?» «Seigneur, lui répondit-on, viens et tu verras.»"
+      }
+    },
+    {
+      "verse": 35,
+      "texts": {
+        "BDS": "Jésus pleura.",
+        "DBY": "Jésus pleura.",
+        "KJV": "Jesus wept.",
+        "LSG": "Jésus pleura.",
+        "MAB": "[Et] Jésus pleura.",
+        "OST": "Et Jésus pleura.",
+        "S21": "Jésus pleura."
+      }
+    },
+    {
+      "verse": 36,
+      "texts": {
+        "BDS": "Alors tous dirent:\r\n—Voyez, comme il l’aimait.",
+        "DBY": "Les Juifs donc dirent: Voyez comme il l'affectionnait.",
+        "KJV": "Then said the Jews, Behold how he loved him!",
+        "LSG": "Sur quoi les Juifs dirent: Voyez comme il l'aimait.",
+        "MAB": "Sur quoi les Juifs dirent : voyez comme il l'aimait.",
+        "OST": "Sur cela les Juifs disaient: Voyez comme il l'aimait.",
+        "S21": "Les Juifs dirent alors: «Voyez comme il l'aimait!»"
+      }
+    },
+    {
+      "verse": 37,
+      "texts": {
+        "BDS": "Quelques-uns remarquaient:\r\n—Il a bien rendu la vue à l’aveugle, n’aurait-il pas pu empêcher que Lazare meure?",
+        "DBY": "Mais quelques-uns d'entre eux dirent: Celui-ci qui a ouvert les yeux de l'aveugle, n'aurait-il pas pu faire aussi que cet homme ne mourût pas?",
+        "KJV": "And some of them said, Could not this man, which opened the eyes of the blind, have caused that even this man should not have died?",
+        "LSG": "Et quelques-uns d'entre eux dirent: Lui qui a ouvert les yeux de l'aveugle, ne pouvait-il pas faire aussi que cet homme ne mourût point?",
+        "MAB": "Et quelques-uns d'entre eux disaient : celui-ci qui a ouvert les yeux de l'aveugle, ne pouvait-il pas faire aussi que cet homme ne mourût point?",
+        "OST": "Mais quelques-uns d'entre eux disaient: Lui qui a ouvert les yeux de l'aveugle, ne pouvait-il pas faire aussi que cet homme ne mourût pas?",
+        "S21": "Et quelques-uns d'entre eux dirent: «Lui qui a ouvert les yeux de l'aveugle, ne pouvait-il pas aussi faire en sorte que cet homme ne meure pas?»"
+      }
+    },
+    {
+      "verse": 38,
+      "texts": {
+        "BDS": "Une fois de plus, Jésus fut profondément bouleversé. Il arriva au tombeau. C’était une grotte dont l’entrée était fermée par une pierre.",
+        "DBY": "Jésus donc, frémissant encore en lui-même, vient au sépulcre (or c'était une grotte, et il y avait une pierre dessus).",
+        "KJV": "Jesus therefore again groaning in himself cometh to the grave. It was a cave, and a stone lay upon it.",
+        "LSG": "Jésus frémissant de nouveau en lui-même, se rendit au sépulcre. C'était une grotte, et une pierre était placée devant.",
+        "MAB": "Alors Jésus frémissant encore en soi même, vint au sépulcre, (or c'était une grotte, et il y avait une pierre mise dessus).",
+        "OST": "Alors Jésus, frémissant de nouveau en lui-même, vint au sépulcre; c'était une grotte, et on avait mis une pierre dessus.",
+        "S21": "Jésus, de nouveau profondément indigné, se rendit au tombeau. C'était une grotte; une pierre fermait l'entrée."
+      }
+    },
+    {
+      "verse": 39,
+      "texts": {
+        "BDS": "—Enlevez la pierre, dit Jésus.\r\nMarthe, la sœur du mort, dit alors:\r\n—Seigneur, il doit déjà sentir. Cela fait quatre jours qu’il est là.",
+        "DBY": "Jésus dit: Otez la pierre. Marthe, la sœur du mort, lui dit: Seigneur, il sent déjà, car il est là depuis quatre jours.",
+        "KJV": "Jesus said, ‹Take ye away the stone.› Martha, the sister of him that was dead, saith unto him, Lord, by this time he stinketh: for he hath been [dead] four days.",
+        "LSG": "Jésus dit: Otez la pierre. Marthe, la soeur du mort, lui dit: Seigneur, il sent déjà, car il y a quatre jours qu'il est là.",
+        "MAB": "Jésus dit : levez la pierre. Mais Marthe, la sœur du mort, lui dit : Seigneur, il sent déjà : car il est [là] depuis quatre jours.",
+        "OST": "Jésus dit: Otez la pierre. Marthe, sœur du mort, lui dit: Seigneur, il sent déjà mauvais, car il est là depuis quatre jours.",
+        "S21": "Jésus dit: «Enlevez la pierre.» Marthe, la sœur du mort, lui dit: «Seigneur, il sent déjà, car il y a quatre jours qu'il est là.»"
+      }
+    },
+    {
+      "verse": 40,
+      "texts": {
+        "BDS": "Jésus lui répondit:\r\n—Ne t’ai-je pas dit: Si tu crois, tu verras la gloire de Dieu?",
+        "DBY": "Jésus lui dit: Ne t'ai-je pas dit que, si tu crois, tu verras la gloire de Dieu?",
+        "KJV": "Jesus saith unto her, ‹Said I not unto thee, that, if thou wouldest believe, thou shouldest see the glory of God?›",
+        "LSG": "Jésus lui dit: Ne t'ai-je pas dit que, si tu crois, tu verras la gloire de Dieu?",
+        "MAB": "Jésus lui dit : ne t'ai-je pas dit que si tu crois tu verras la gloire de Dieu?",
+        "OST": "Jésus lui répondit: Ne t'ai-je pas dit, que si tu crois, tu verras la gloire de Dieu?",
+        "S21": "Jésus lui dit: «Ne t'ai-je pas dit que si tu crois, tu verras la gloire de Dieu?»"
+      }
+    },
+    {
+      "verse": 41,
+      "texts": {
+        "BDS": "On ôta donc la pierre. Alors Jésus, tournant son regard vers le ciel, dit:\r\n—Père, tu as exaucé ma prière et je t’en remercie.",
+        "DBY": "Ils ôtèrent donc la pierre. Et Jésus leva les yeux en haut et dit: Père, je te rends grâces de ce que tu m'as entendu.",
+        "KJV": "Then they took away the stone [from the place] where the dead was laid. And Jesus lifted up [his] eyes, and said, ‹Father, I thank thee that thou hast heard me.›",
+        "LSG": "Ils ôtèrent donc la pierre. Et Jésus leva les yeux en haut, et dit: Père, je te rends grâces de ce que tu m'as exaucé.",
+        "MAB": "Ils levèrent donc la pierre [de dessus le lieu] où le mort était couché. Et Jésus levant ses yeux au ciel, dit : Père, je te rends grâces de ce que tu m'as exaucé.",
+        "OST": "Ils ôtèrent donc la pierre du lieu où le mort était couché. Et Jésus, élevant les yeux au ciel, dit: Père, je te rends grâces de ce que tu m'as exaucé.",
+        "S21": "Ils enlevèrent donc la pierre [de l’endroit où le mort avait été déposé]. Jésus leva alors les yeux et dit: «Père, je te remercie de ce que tu m'as écouté."
+      }
+    },
+    {
+      "verse": 42,
+      "texts": {
+        "BDS": "Pour moi, je sais que tu m’exauces toujours, mais si je parle ainsi, c’est pour que tous ceux qui m’entourent croient que c’est toi qui m’as envoyé.",
+        "DBY": "Or moi je savais que tu m'entends toujours; mais je l'ai dit à cause de la foule qui est autour de moi, afin qu'ils croient que toi, tu m'as envoyé.",
+        "KJV": "‹And I knew that thou hearest me always: but because of the people which stand by I said› [it], ‹that they may believe that thou hast sent me.›",
+        "LSG": "Pour moi, je savais que tu m'exauces toujours; mais j'ai parlé à cause de la foule qui m'entoure, afin qu'ils croient que c'est toi qui m'as envoyé.",
+        "MAB": "Or je savais bien que tu m'exauces toujours; mais je l'ai dit à cause des troupes qui sont autour [de moi], afin qu'elles croient que tu m'as envoyé.",
+        "OST": "Je savais que tu m'exauces toujours, mais je l'ai dit à cause de ce peuple, qui est autour de moi, afin qu'il croie que tu m'as envoyé.",
+        "S21": "Pour ma part, je savais que tu m'écoutes toujours, mais j'ai parlé à cause de la foule qui m'entoure, afin qu'ils croient que c'est toi qui m'as envoyé.»"
+      }
+    },
+    {
+      "verse": 43,
+      "texts": {
+        "BDS": "Cela dit, il cria d’une voix forte:\r\n—Lazare, sors de là!",
+        "DBY": "ayant dit ces choses, il cria à haute voix: Lazare, sors dehors!",
+        "KJV": "And when he thus had spoken, he cried with a loud voice, ‹Lazarus, come forth.›",
+        "LSG": "Ayant dit cela, il cria d'une voix forte: Lazare, sors!",
+        "MAB": "Et ayant dit ces choses, il cria à haute voix : Lazare sors dehors.",
+        "OST": "Quand il eut dit cela, il cria à haute voix: Lazare, viens dehors!",
+        "S21": "Après avoir dit cela, il cria d'une voix forte: «Lazare, sors!»"
+      }
+    },
+    {
+      "verse": 44,
+      "texts": {
+        "BDS": "Et voici que le mort sortit du tombeau: il avait les pieds et les mains entourés de bandes de lin, le visage recouvert d’un linge.\r\nJésus dit à ceux qui étaient là:\r\n—Déliez-le de ces bandes et laissez-le aller!",
+        "DBY": "Et le mort sortit, ayant les pieds et les mains liés de bandes; et son visage était enveloppé d'un suaire. Jésus leur dit: Déliez-le, et laissez-le aller.",
+        "KJV": "And he that was dead came forth, bound hand and foot with graveclothes: and his face was bound about with a napkin. Jesus saith unto them, ‹Loose him, and let him go.›",
+        "LSG": "Et le mort sortit, les pieds et les mains liés de bandes, et le visage enveloppé d'un linge. Jésus leur dit: Déliez-le, et laissez-le aller.",
+        "MAB": "Alors le mort sortit, ayant les mains et les pieds liés de bandes; et son visage était enveloppé d'un couvre-chef. Jésus leur dit : déliez-le, et laissez-le aller.",
+        "OST": "Et le mort sortit, les mains et les pieds liés de bandes, et le visage enveloppé d'un linge. Jésus leur dit: Déliez-le, et le laissez aller.",
+        "S21": "Et le mort sortit, les pieds et les mains attachés par des bandelettes et le visage enveloppé d'un linge. Jésus leur dit: «Détachez-le et laissez-le s’en aller.»"
+      }
+    },
+    {
+      "verse": 45,
+      "texts": {
+        "BDS": "En voyant ce que Jésus avait fait, beaucoup de ceux qui étaient venus auprès de Marie crurent en lui.",
+        "DBY": "Plusieurs donc d'entre les Juifs qui étaient venus auprès de Marie, et qui avaient vu ce que Jésus avait fait, crurent en lui;",
+        "KJV": "Then many of the Jews which came to Mary, and had seen the things which Jesus did, believed on him.",
+        "LSG": "Plusieurs des Juifs qui étaient venus vers Marie, et qui virent ce que fit Jésus, crurent en lui.",
+        "MAB": "C'est pourquoi plusieurs des Juifs qui étaient venus vers Marie, et qui avaient vu ce que Jésus avait fait, crurent en lui.",
+        "OST": "Plusieurs donc d'entre les Juifs qui étaient venus voir Marie, et qui avaient vu ce que Jésus avait fait, crurent en lui.",
+        "S21": "Beaucoup de Juifs qui étaient venus auprès de Marie et qui virent ce que Jésus avait fait crurent en lui."
+      }
+    },
+    {
+      "verse": 46,
+      "texts": {
+        "BDS": "Quelques-uns, cependant, s’en allèrent trouver les pharisiens et leur rapportèrent ce que Jésus avait fait.",
+        "DBY": "mais quelques-uns d'entre eux s'en allèrent auprès des pharisiens et leur dirent ce que Jésus avait fait.",
+        "KJV": "But some of them went their ways to the Pharisees, and told them what things Jesus had done.",
+        "LSG": "Mais quelques-uns d'entre eux allèrent trouver les pharisiens, et leur dirent ce que Jésus avait fait.",
+        "MAB": "Mais quelques-uns d'entre eux s'en allèrent aux Pharisiens, et leur dirent les choses que Jésus avait faites.",
+        "OST": "Mais quelques-uns d'entre eux s'en allèrent vers les pharisiens, et leur rapportèrent ce que Jésus avait fait.",
+        "S21": "Mais quelques-uns d'entre eux allèrent trouver les pharisiens et leur racontèrent ce que Jésus avait fait."
+      }
+    },
+    {
+      "verse": 47,
+      "texts": {
+        "BDS": "Alors, les chefs des prêtres et les pharisiens convoquèrent le Grand-Conseil.\r\n—Qu’allons-nous faire? disaient-ils. Cet homme accomplit trop de signes miraculeux;",
+        "DBY": "Les principaux sacrificateurs et les pharisiens donc assemblèrent un sanhédrin, et dirent: Que faisons-nous? car cet homme fait beaucoup de miracles.",
+        "KJV": "Then gathered the chief priests and the Pharisees a council, and said, What do we? for this man doeth many miracles.",
+        "LSG": "Alors les principaux sacrificateurs et les pharisiens assemblèrent le sanhédrin, et dirent: Que ferons-nous? Car cet homme fait beaucoup de miracles.",
+        "MAB": "Alors les principaux Sacrificateurs et les Pharisiens assemblèrent le Conseil, et ils dirent : que faisons-nous? car cet homme fait beaucoup de miracles.",
+        "OST": "Alors les principaux sacrificateurs et les pharisiens assemblèrent le sanhédrin, et dirent: Que ferons-nous? car cet homme fait beaucoup de miracles.",
+        "S21": "Alors les chefs des prêtres et les pharisiens rassemblèrent le sanhédrin et dirent: «Qu'allons-nous faire? En effet, cet homme fait beaucoup de signes miraculeux."
+      }
+    },
+    {
+      "verse": 48,
+      "texts": {
+        "BDS": "si nous le laissons faire de la sorte, tout le monde va croire en lui. Alors les Romains viendront et détruiront notre Temple et notre nation.",
+        "DBY": "Si nous le laissons ainsi faire, tous croiront en lui, et les Romains viendront, et ôteront et notre lieu et notre nation.",
+        "KJV": "If we let him thus alone, all [men] will believe on him: and the Romans shall come and take away both our place and nation.",
+        "LSG": "Si nous le laissons faire, tous croiront en lui, et les Romains viendront détruire et notre ville et notre nation.",
+        "MAB": "Si nous le laissons faire, chacun croira en lui, et les Romains viendront, qui nous extermineront, nous, et le Lieu, et la Nation.",
+        "OST": "Si nous le laissons faire, tout le monde croira en lui; et les Romains viendront, et ils détruiront et ce lieu et notre nation.",
+        "S21": "Si nous le laissons faire, tous croiront en lui et les Romains viendront détruire et notre ville et notre nation.»"
+      }
+    },
+    {
+      "verse": 49,
+      "texts": {
+        "BDS": "L’un d’eux, qui s’appelait Caïphe, et qui était grand-prêtre cette année-là, prit la parole:\r\n—Vous n’y entendez rien, leur dit-il.",
+        "DBY": "Et l'un d'entre eux, appelé Caïphe, qui était souverain sacrificateur cette année-là, leur dit:",
+        "KJV": "And one of them, [named] Caiaphas, being the high priest that same year, said unto them, Ye know nothing at all,",
+        "LSG": "L'un d'eux, Caïphe, qui était souverain sacrificateur cette année-là, leur dit: Vous n'y entendez rien;",
+        "MAB": "Alors l'un d'eux appelé Caïphe, qui était le souverain Sacrificateur de cette année là, leur dit : vous n'y entendez rien.",
+        "OST": "Mais Caïphe, l'un d'entre eux, qui était souverain sacrificateur de cette année-là, leur dit: Vous n'y entendez rien;",
+        "S21": "L'un d'eux, Caïphe, qui était grand-prêtre cette année-là, leur dit: «Vous n'y comprenez rien;"
+      }
+    },
+    {
+      "verse": 50,
+      "texts": {
+        "BDS": "Vous ne voyez pas qu’il est de notre intérêt qu’un seul homme meure pour le peuple, pour que la nation ne disparaisse pas tout entière?",
+        "DBY": "Vous ne savez rien, ni ne considérez qu'il nous est avantageux qu'un seul homme meure pour le peuple et que la nation entière ne périsse pas.",
+        "KJV": "Nor consider that it is expedient for us, that one man should die for the people, and that the whole nation perish not.",
+        "LSG": "vous ne réfléchissez pas qu'il est dans votre intérêt qu'un seul homme meure pour le peuple, et que la nation entière ne périsse pas.",
+        "MAB": "Et vous ne considérez pas qu'il est de notre intérêt qu'un homme meure pour le peuple, et que toute la Nation ne périsse point.",
+        "OST": "Et vous ne considérez pas qu'il nous importe qu'un seul homme meure pour le peuple, et que toute la nation ne périsse pas.",
+        "S21": "vous ne réfléchissez pas qu'il est dans notre intérêt qu'un seul homme meure pour le peuple et que la nation tout entière ne disparaisse pas.»"
+      }
+    },
+    {
+      "verse": 51,
+      "texts": {
+        "BDS": "Or ce qu’il disait là ne venait pas de lui; mais il était grand-prêtre cette année-là, et c’est en cette qualité qu’il déclara, sous l’inspiration de Dieu, qu’il fallait que Jésus meure pour son peuple.",
+        "DBY": "Or il ne dit pas cela de lui-même; mais étant souverain sacrificateur cette année-là, il prophétisa que Jésus allait mourir pour la nation;",
+        "KJV": "And this spake he not of himself: but being high priest that year, he prophesied that Jesus should die for that nation;",
+        "LSG": "Or, il ne dit pas cela de lui-même; mais étant souverain sacrificateur cette année-là, il prophétisa que Jésus devait mourir pour la nation.",
+        "MAB": "Or il ne dit pas cela de lui-même, mais étant souverain Sacrificateur de cette année-là, il prophétisa que Jésus devait mourir pour la Nation.",
+        "OST": "Or, il ne dit pas cela de son propre mouvement, mais, étant souverain sacrificateur cette année-là, il prophétisa que Jésus devait mourir pour la nation;",
+        "S21": "Or il ne dit pas cela de lui-même, mais comme il était grand-prêtre cette année-là, il prophétisa que Jésus devait mourir pour la nation."
+      }
+    },
+    {
+      "verse": 52,
+      "texts": {
+        "BDS": "Et ce n’était pas seulement pour son peuple qu’il devait mourir, c’était aussi pour rassembler tous les enfants de Dieu dispersés à travers le monde et les réunir en un seul peuple.",
+        "DBY": "et non pas seulement pour la nation, mais aussi pour rassembler en un les enfants de Dieu dispersés.",
+        "KJV": "And not for that nation only, but that also he should gather together in one the children of God that were scattered abroad.",
+        "LSG": "Et ce n'était pas pour la nation seulement; c'était aussi afin de réunir en un seul corps les enfants de Dieu dispersés.",
+        "MAB": "Et non pas seulement pour la Nation, mais aussi pour assembler les enfants de Dieu, qui étaient dispersés.",
+        "OST": "Et non seulement pour la nation, mais aussi pour rassembler en un seul corps les enfants de Dieu dispersés.",
+        "S21": "Et ce n'était pas pour la nation seulement, c'était aussi afin de réunir en un seul corps les enfants de Dieu dispersés."
+      }
+    },
+    {
+      "verse": 53,
+      "texts": {
+        "BDS": "C’est ce jour-là que les chefs des Juifs prirent la décision de faire mourir Jésus.",
+        "DBY": "Depuis ce jour-là donc, ils consultèrent ensemble pour le faire mourir.",
+        "KJV": "Then from that day forth they took counsel together for to put him to death.",
+        "LSG": "Dès ce jour, ils résolurent de le faire mourir.",
+        "MAB": "Depuis ce jour-là donc ils consultèrent ensemble pour le faire mourir.",
+        "OST": "Depuis ce jour-là donc ils délibérèrent afin de le faire mourir.",
+        "S21": "Dès ce jour, ils tinrent conseil pour le faire mourir."
+      }
+    },
+    {
+      "verse": 54,
+      "texts": {
+        "BDS": "Jésus cessa donc de se montrer en public. Il partit de là et se retira dans la région voisine du désert, dans une ville nommée Ephraïm. Il y passa quelque temps avec ses disciples.",
+        "DBY": "Jésus donc ne marcha plus ouvertement parmi les Juifs; mais il s'en alla de là dans la contrée qui est près du désert, en une ville appelée Éphraïm; et il séjourna là avec les disciples.",
+        "KJV": "Jesus therefore walked no more openly among the Jews; but went thence unto a country near to the wilderness, into a city called Ephraim, and there continued with his disciples.",
+        "LSG": "C'est pourquoi Jésus ne se montra plus ouvertement parmi les Juifs; mais il se retira dans la contrée voisine du désert, dans une ville appelée Ephraïm; et là il demeurait avec ses disciples.",
+        "MAB": "C'est pourquoi Jésus ne marchait plus ouvertement parmi les Juifs, mais il s'en alla de là dans la contrée qui est près du désert, en une ville appelée Ephraïm, et il demeura là avec ses Disciples.",
+        "OST": "C'est pourquoi Jésus ne se montrait plus ouvertement parmi les Juifs, mais il s'en alla de là dans une contrée voisine du désert, à une ville appelée Éphraïm; et il y séjourna avec ses disciples.",
+        "S21": "C'est pourquoi Jésus ne se montra plus ouvertement parmi les Juifs, mais il se retira dans la région voisine du désert, dans une ville appelée Ephraïm, où il resta avec ses disciples."
+      }
+    },
+    {
+      "verse": 55,
+      "texts": {
+        "BDS": "Comme la fête de la Pâque approchait, beaucoup de gens de tout le pays montaient à Jérusalem avant la fête pour se soumettre aux cérémonies rituelles de purification.",
+        "DBY": "Or la Pâque des Juifs était proche, et plusieurs montèrent de la campagne à Jérusalem, avant la Pâque, afin de se purifier.",
+        "KJV": "And the Jews' passover was nigh at hand: and many went out of the country up to Jerusalem before the passover, to purify themselves.",
+        "LSG": "La Pâque des Juifs était proche. Et beaucoup de gens du pays montèrent à Jérusalem avant la Pâque, pour se purifier.",
+        "MAB": "Or la Pâque des Juifs était proche, et plusieurs de ces pays-là montèrent à Jérusalem avant Pâque, afin de se purifier.",
+        "OST": "Or, la Pâque des Juifs était proche, et beaucoup de gens du pays montèrent à Jérusalem avant la Pâque, pour se purifier.",
+        "S21": "La Pâque des Juifs était proche et beaucoup de gens montèrent de la campagne à Jérusalem avant la Pâque pour se purifier."
+      }
+    },
+    {
+      "verse": 56,
+      "texts": {
+        "BDS": "Ils cherchaient donc Jésus et se demandaient entre eux, dans la cour du Temple:\r\n—Qu’en pensez-vous? Croyez-vous qu’il viendra à la fête?",
+        "DBY": "Ils cherchaient donc Jésus, et se disaient l'un à l'autre, comme ils étaient dans le temple: Que vous semble? Pensez-vous qu'il ne viendra point à la fête?",
+        "KJV": "Then sought they for Jesus, and spake among themselves, as they stood in the temple, What think ye, that he will not come to the feast?",
+        "LSG": "Ils cherchaient Jésus, et ils se disaient les uns aux autres dans le temple: Que vous en semble? Ne viendra-t-il pas à la fête?",
+        "MAB": "Et ils cherchaient Jésus, et se disaient l'un à l'autre dans le Temple : que vous semble? croyez-vous qu'il ne viendra point à la Fête?",
+        "OST": "Ils cherchaient donc Jésus, et se disaient les uns aux autres, se tenant dans le temple: Que vous en semble? ne viendra-t-il point à la fête?",
+        "S21": "Ils cherchaient Jésus et se disaient les uns aux autres dans le temple: «Qu'en pensez-vous? Ne viendra-t-il pas à la fête?»"
+      }
+    },
+    {
+      "verse": 57,
+      "texts": {
+        "BDS": "Or, les chefs des prêtres et les pharisiens avaient donné des instructions: si quelqu’un savait où se trouvait Jésus, il devait les prévenir pour qu’on l’arrête.",
+        "DBY": "Or les principaux sacrificateurs et les pharisiens avaient donné ordre que si quelqu'un savait où il était, il le déclarât, afin qu'on le prît.",
+        "KJV": "Now both the chief priests and the Pharisees had given a commandment, that, if any man knew where he were, he should shew [it], that they might take him.",
+        "LSG": "Or, les principaux sacrificateurs et les pharisiens avaient donné l'ordre que, si quelqu'un savait où il était, il le déclarât, afin qu'on se saisît de lui.",
+        "MAB": "Or les principaux Sacrificateurs et les Pharisiens avaient donné ordre, que si quelqu'un savait où il était, il le déclarât, afin de se saisir de lui.",
+        "OST": "Mais les principaux sacrificateurs et les pharisiens avaient donné l'ordre, que si quelqu'un savait où il était, il le déclarât, afin qu'on se saisît de lui.",
+        "S21": "Or les chefs des prêtres et les pharisiens avaient donné l'ordre que, si quelqu'un savait où était Jésus, il le dénonce, afin qu'on l'arrête."
+      }
+    }
+  ]
+}

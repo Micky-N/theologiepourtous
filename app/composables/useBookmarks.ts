@@ -1,8 +1,9 @@
-import type { BibleBook, BibleBookmark, BibleVerse, BibleVersion } from '@prisma/client';
+import type { BibleBookData, BibleBookmarkData, BibleVersePreview, BibleVersionData } from '~/types';
 
-interface BookmarkData extends BibleBookmark {
-    book: BibleBook;
-    verse: BibleVerse & { version: BibleVersion; };
+interface BookmarkData extends BibleBookmarkData {
+    reference: string;
+    book: BibleBookData;
+    verse: BibleVersePreview & { version: Pick<BibleVersionData, 'code' | 'name'>; };
 }
 
 export const useBookmarks = () => {

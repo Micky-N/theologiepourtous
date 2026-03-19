@@ -1,0 +1,858 @@
+{
+  "bookCode": "JHN",
+  "chapter": 6,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "Après cela, Jésus passa sur l’autre rive du lac de Galilée (appelé aussi lac de Tibériade).",
+        "DBY": "Après ces choses Jésus s'en alla de l'autre côté de la mer de Galilée, qui est la mer de Tibérias.",
+        "KJV": "After these things Jesus went over the sea of Galilee, which is [the sea of] Tiberias.",
+        "LSG": "Après cela, Jésus s'en alla de l'autre côté de la mer de Galilée, de Tibériade.",
+        "MAB": "Après ces choses Jésus s'en alla au delà de la mer de Galilée, qui est [la mer] de Tibériade.",
+        "OST": "Après cela, Jésus passa au-delà de la mer de Galilée, ou de Tibériade.",
+        "S21": "Après cela, Jésus s'en alla de l'autre côté du lac de Galilée, ou lac de Tibériade."
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "Une foule immense le suivait, attirée par les guérisons miraculeuses dont elle avait été témoin.",
+        "DBY": "Et une grande foule le suivit, parce qu'ils voyaient les miracles qu'il faisait sur ceux qui étaient malades.",
+        "KJV": "And a great multitude followed him, because they saw his miracles which he did on them that were diseased.",
+        "LSG": "Une grande foule le suivait, parce qu'elle voyait les miracles qu'il opérait sur les malades.",
+        "MAB": "Et de grandes troupes le suivaient, à cause qu'ils voyaient les miracles qu'il faisait en ceux qui étaient malades.",
+        "OST": "Et une grande foule le suivait, parce qu'ils voyaient les miracles qu'il opérait sur les malades.",
+        "S21": "Une grande foule le suivait, parce que les gens voyaient les signes miraculeux qu'il faisait sur les malades."
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "C’est pourquoi Jésus s’en alla dans la montagne et s’assit là avec ses disciples.",
+        "DBY": "Et Jésus monta sur la montagne, et s'assit là avec ses disciples.",
+        "KJV": "And Jesus went up into a mountain, and there he sat with his disciples.",
+        "LSG": "Jésus monta sur la montagne, et là il s'assit avec ses disciples.",
+        "MAB": "Mais Jésus monta sur une montagne, et il s'assit là avec ses Disciples.",
+        "OST": "Et Jésus monta sur la montagne, et là il s'assit avec ses disciples.",
+        "S21": "Jésus monta sur la montagne, et là il s'assit avec ses disciples."
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "La Pâque, la fête des Juifs était proche.",
+        "DBY": "Or la Pâque, la fête des Juifs, était proche.",
+        "KJV": "And the passover, a feast of the Jews, was nigh.",
+        "LSG": "Or, la Pâque était proche, la fête des Juifs.",
+        "MAB": "Or [le jour de] Pâque, qui était la Fête des Juifs, était proche.",
+        "OST": "Or, la Pâque, la fête des Juifs, était proche.",
+        "S21": "Or la Pâque, la fête juive, était proche."
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "Jésus regarda autour de lui et vit une foule nombreuse venir à lui. Alors il demanda à Philippe:\r\n—Où pourrions-nous acheter assez de pains pour nourrir tout ce monde?",
+        "DBY": "Jésus donc, ayant levé les yeux, et voyant qu'une grande foule venait à lui, dit à Philippe: D'où achèterons-nous des pains, afin que ceux-ci mangent?",
+        "KJV": "When Jesus then lifted up [his] eyes, and saw a great company come unto him, he saith unto Philip, ‹Whence shall we buy bread, that these may eat?›",
+        "LSG": "Ayant levé les yeux, et voyant qu'une grande foule venait à lui, Jésus dit à Philippe: Où achèterons-nous des pains, pour que ces gens aient à manger?",
+        "MAB": "Et Jésus ayant levé ses yeux, et voyant que de grandes troupes venaient à lui, dit à Philippe : d'où achèterons-nous des pains, afin que ceux-ci aient à manger?",
+        "OST": "Jésus donc ayant levé les yeux, et voyant une grande foule qui venait à lui, dit à Philippe: Où achèterons-nous des pains, afin que ces gens-ci aient à manger?",
+        "S21": "Jésus leva les yeux et vit une grande foule venir vers lui. Il dit à Philippe: «Où achèterons-nous des pains pour que ces gens aient à manger?»"
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "Il ne lui posait cette question que pour voir ce qu’il allait répondre car, en réalité, il savait déjà ce qu’il allait faire.",
+        "DBY": "Mais il disait cela pour l'éprouver, car lui savait ce qu'il allait faire.",
+        "KJV": "And this he said to prove him: for he himself knew what he would do.",
+        "LSG": "Il disait cela pour l'éprouver, car il savait ce qu'il allait faire.",
+        "MAB": "Or il disait cela pour l'éprouver : car il savait bien ce qu'il devait faire.",
+        "OST": "Or, il disait cela pour l'éprouver, car il savait ce qu'il devait faire.",
+        "S21": "Il disait cela pour le mettre à l'épreuve, car lui-même savait ce qu'il allait faire."
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "—Rien que pour donner à chacun un petit morceau de pain, il faudrait au moins deux cents pièces d’argent, lui répondit Philippe.",
+        "DBY": "Philippe lui répondit: Pour deux cents deniers de pain ne leur suffirait pas, pour que chacun en reçût quelque peu.",
+        "KJV": "Philip answered him, Two hundred pennyworth of bread is not sufficient for them, that every one of them may take a little.",
+        "LSG": "Philippe lui répondit: Les pains qu'on aurait pour deux cents deniers ne suffiraient pas pour que chacun en reçût un peu.",
+        "MAB": "Philippe lui répondit : [quand nous aurions] pour deux cents deniers de pain, cela ne leur suffirait point, quoique chacun d'eux n'en prît que tant soit peu.",
+        "OST": "Philippe lui répondit: Deux cents deniers de pain ne leur suffiraient pas pour que chacun en prît un peu.",
+        "S21": "Philippe lui répondit: «Les pains qu'on aurait pour 200 pièces d’argent ne suffiraient pas pour que chacun en reçoive un peu.»"
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "Un autre disciple, André, frère de Simon Pierre, lui dit:",
+        "DBY": "L'un de ses disciples, André, le frère de Simon Pierre, lui dit:",
+        "KJV": "One of his disciples, Andrew, Simon Peter's brother, saith unto him,",
+        "LSG": "Un de ses disciples, André, frère de Simon Pierre, lui dit:",
+        "MAB": "Et l'un de ses Disciples, [savoir] André, frère de Simon Pierre, lui dit :",
+        "OST": "L'un de ses disciples, André, frère de Simon Pierre, lui dit:",
+        "S21": "Un de ses disciples, André, le frère de Simon Pierre, lui dit:"
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "—Il y a ici un jeune garçon qui a cinq pains d’orge et deux poissons. Mais qu’est-ce que cela pour tant de monde?",
+        "DBY": "Il y a ici un petit garçon qui a cinq pains d'orge et deux poissons; mais qu'est-ce que cela pour tant de monde?",
+        "KJV": "There is a lad here, which hath five barley loaves, and two small fishes: but what are they among so many?",
+        "LSG": "Il y a ici un jeune garçon qui a cinq pains d'orge et deux poissons; mais qu'est-ce que cela pour tant de gens?",
+        "MAB": "Il y a ici un petit garçon qui a cinq pains d'orge et deux poissons; mais qu'est-ce que cela pour tant de gens?",
+        "OST": "Il y a ici un jeune garçon qui a cinq pains d'orge et deux poissons; mais qu'est-ce que cela pour tant de gens?",
+        "S21": "«Il y a ici un jeune garçon qui a cinq pains d'orge et deux poissons, mais qu'est-ce que cela pour tant de monde?»"
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "—Dites-leur à tous de s’asseoir, leur ordonna Jésus.\r\nL’herbe était abondante à cet endroit et la foule s’installa donc par terre. Il y avait là environ cinq mille hommes.",
+        "DBY": "Et Jésus dit: Faites asseoir les gens (or il y avait beaucoup d'herbe en ce lieu-là). Les hommes donc s'assirent, au nombre d'environ cinq mille.",
+        "KJV": "And Jesus said, ‹Make the men sit down.› Now there was much grass in the place. So the men sat down, in number about five thousand.",
+        "LSG": "Jésus dit: Faites-les asseoir. Il y avait dans ce lieu beaucoup d'herbe. Ils s'assirent donc, au nombre d'environ cinq mille hommes.",
+        "MAB": "Alors Jésus dit : faites asseoir les gens; (or il y avait beaucoup d'herbe en ce lieu-là), les gens donc s'assirent au nombre d'environ cinq mille.",
+        "OST": "Cependant Jésus dit: Faites asseoir ces gens. Or il y avait beaucoup d'herbe dans ce lieu. Les hommes donc s'assirent, au nombre d'environ cinq mille.",
+        "S21": "Jésus dit: «Faites asseoir ces gens.» Il y avait beaucoup d'herbe à cet endroit. Ils s'assirent donc, au nombre d'environ 5000 hommes."
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "Jésus prit alors les pains, remercia Dieu, puis les fit distribuer à ceux qui avaient pris place sur l’herbe. Il leur donna aussi autant de poisson qu’ils en désiraient.",
+        "DBY": "Et Jésus prit les pains; et ayant rendu grâces, il les distribua à ceux qui étaient assis; de même aussi des poissons, autant qu'ils en voulaient.",
+        "KJV": "And Jesus took the loaves; and when he had given thanks, he distributed to the disciples, and the disciples to them that were set down; and likewise of the fishes as much as they would.",
+        "LSG": "Jésus prit les pains, rendit grâces, et les distribua à ceux qui étaient assis; il leur donna de même des poissons, autant qu'ils en voulurent.",
+        "MAB": "Et Jésus prit les pains; et après avoir rendu grâces, il les distribua aux Disciples, et les Disciples à ceux qui étaient assis, et de même des poissons, autant qu'ils en voulaient.",
+        "OST": "Et Jésus prit les pains, et ayant rendu grâces, il les distribua aux disciples, et les disciples à ceux qui étaient assis; et de même pour les poissons, autant qu'ils en voulurent.",
+        "S21": "Jésus prit les pains, remercia Dieu et les distribua [aux disciples, qui les donnèrent] à ceux qui étaient là; il leur distribua de même des poissons, autant qu'ils en voulurent."
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "Quand ils eurent tous mangé à leur faim, Jésus dit à ses disciples:\r\n—Ramassez les morceaux qui restent, pour que rien ne soit gaspillé.",
+        "DBY": "après qu'ils furent rassasiés, il dit à ses disciples: Amassez les morceaux qui sont de reste, afin que rien ne soit perdu.",
+        "KJV": "When they were filled, he said unto his disciples, ‹Gather up the fragments that remain, that nothing be lost.›",
+        "LSG": "Lorsqu'ils furent rassasiés, il dit à ses disciples: Ramassez les morceaux qui restent, afin que rien ne se perde.",
+        "MAB": "Et après qu'ils furent rassasiés, il dit à ses Disciples : amassez les pièces qui sont de reste, afin que rien ne soit perdu.",
+        "OST": "Après qu'ils furent rassasiés, il dit à ses disciples: Ramassez les morceaux qui sont restés, afin que rien ne se perde.",
+        "S21": "Lorsqu'ils furent rassasiés, il dit à ses disciples: «Ramassez les morceaux qui restent, afin que rien ne se perde.»"
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "Ils les ramassèrent donc et remplirent douze paniers avec ce qui restait des cinq pains d’orge qu’on avait mangés.",
+        "DBY": "Ils les amassèrent donc et remplirent douze paniers des morceaux qui étaient de reste des cinq pains d'orge, lorsqu'ils eurent mangé.",
+        "KJV": "Therefore they gathered [them] together, and filled twelve baskets with the fragments of the five barley loaves, which remained over and above unto them that had eaten.",
+        "LSG": "Ils les ramassèrent donc, et ils remplirent douze paniers avec les morceaux qui restèrent des cinq pains d'orge, après que tous eurent mangé.",
+        "MAB": "Ils les amassèrent donc, et ils remplirent douze corbeilles des pièces des cinq pains d'orge, qui étaient demeurées de reste à ceux qui en avaient mangé.",
+        "OST": "Ils les ramassèrent donc, et ils remplirent douze paniers des morceaux des cinq pains d'orge, qui étaient restés de trop à ceux qui en avaient mangé.",
+        "S21": "Ils les ramassèrent donc et ils remplirent douze paniers avec les morceaux qui restaient des cinq pains d'orge après que tous eurent mangé."
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "Lorsque tous ces gens-là virent le signe miraculeux de Jésus, ils s’écrièrent:\r\n—Pas de doute: cet homme est vraiment le Prophète qui devait venir dans le monde.",
+        "DBY": "Les hommes donc, ayant vu le miracle que Jésus avait fait, disaient: Celui-ci est véritablement le prophète qui vient dans le monde.",
+        "KJV": "Then those men, when they had seen the miracle that Jesus did, said, This is of a truth that prophet that should come into the world.",
+        "LSG": "Ces gens, ayant vu le miracle que Jésus avait fait, disaient: Celui-ci est vraiment le prophète qui doit venir dans le monde.",
+        "MAB": "Or ces gens ayant vu le miracle que Jésus avait fait, disaient : celui-ci est véritablement le Prophète qui devait venir au monde.",
+        "OST": "Et ces gens, voyant le miracle que Jésus avait fait, disaient: Celui-ci est véritablement le prophète qui devait venir au monde.",
+        "S21": "A la vue du signe miraculeux que Jésus avait fait, ces gens disaient: «Cet homme est vraiment le prophète qui doit venir dans le monde.»"
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "Mais Jésus, sachant qu’ils allaient l’enlever de force pour le proclamer roi, se retira de nouveau, tout seul, dans la montagne.",
+        "DBY": "Jésus donc, sachant qu'ils allaient venir et l'enlever, afin de le faire roi, se retira encore sur la montagne, lui tout seul.",
+        "KJV": "When Jesus therefore perceived that they would come and take him by force, to make him a king, he departed again into a mountain himself alone.",
+        "LSG": "Et Jésus, sachant qu'ils allaient venir l'enlever pour le faire roi, se retira de nouveau sur la montagne, lui seul.",
+        "MAB": "Mais Jésus ayant connu qu'ils devaient venir l'enlever afin de le faire Roi, se retira encore tout seul en la montagne.",
+        "OST": "C'est pourquoi Jésus connaissant qu'ils allaient venir l'enlever, pour le faire roi, se retira encore seul sur la montagne.",
+        "S21": "Cependant Jésus, sachant qu'ils allaient venir l'enlever pour le faire roi, se retira de nouveau sur la montagne, tout seul."
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "A la tombée de la nuit, ses disciples redescendirent au bord du lac.",
+        "DBY": "Et quand le soir fut venu, ses disciples descendirent à la mer.",
+        "KJV": "And when even was [now] come, his disciples went down unto the sea,",
+        "LSG": "Quand le soir fut venu, ses disciples descendirent au bord de la mer.",
+        "MAB": "Et quand le soir fut venu, ses Disciples descendirent à la mer.",
+        "OST": "Quand le soir fut venu, ses disciples descendirent à la mer,",
+        "S21": "Le soir venu, ses disciples descendirent au bord du lac."
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "Ils montèrent dans un bateau et se dirigèrent vers Capernaüm, sur l’autre rive. Il faisait déjà nuit et Jésus ne les avait pas encore rejoints.",
+        "DBY": "Et étant montés sur une nacelle, ils allèrent de l'autre côté de la mer, à Capernaüm. Et il faisait déjà nuit, et Jésus n'était pas venu à eux.",
+        "KJV": "And entered into a ship, and went over the sea toward Capernaum. And it was now dark, and Jesus was not come to them.",
+        "LSG": "Etant montés dans une barque, ils traversaient la mer pour se rendre à Capernaüm. Il faisait déjà nuit, et Jésus ne les avait pas encore rejoints.",
+        "MAB": "Et étant montés dans la nacelle, ils passaient au delà de la mer vers Capernaüm, et il était déjà nuit, que Jésus n'était pas encore venu à eux.",
+        "OST": "Et étant entrés dans la barque, ils voulaient aller au-delà de la mer à Capernaüm; il faisait déjà obscur, et Jésus n'était pas encore venu vers eux.",
+        "S21": "Ils montèrent dans une barque pour traverser le lac et se rendre à Capernaüm. Il faisait déjà nuit et Jésus ne les avait pas encore rejoints."
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "Un vent violent se mit à souffler, et le lac était très agité.",
+        "DBY": "Et la mer s'élevait par un grand vent qui soufflait.",
+        "KJV": "And the sea arose by reason of a great wind that blew.",
+        "LSG": "Il soufflait un grand vent, et la mer était agitée.",
+        "MAB": "Et la mer s'éleva par un grand vent qui soufflait.",
+        "OST": "Comme il soufflait un grand vent, la mer élevait ses vagues.",
+        "S21": "Le vent soufflait avec violence et le lac était agité."
+      }
+    },
+    {
+      "verse": 19,
+      "texts": {
+        "BDS": "Les disciples avaient déjà parcouru cinq ou six kilomètres, quand ils virent Jésus marcher sur l’eau et s’approcher de leur bateau. L’épouvante les saisit.",
+        "DBY": "Ayant donc ramé environ vingt-cinq ou trente stades, ils voient Jésus marchant sur la mer et s'approchant de la nacelle; et ils furent saisis de peur.",
+        "KJV": "So when they had rowed about five and twenty or thirty furlongs, they see Jesus walking on the sea, and drawing nigh unto the ship: and they were afraid.",
+        "LSG": "Après avoir ramé environ vingt-cinq ou trente stades, ils virent Jésus marchant sur la mer et s'approchant de la barque. Et ils eurent peur.",
+        "MAB": "Mais après qu'ils eurent ramé environ vingt-cinq ou trente stades, ils virent Jésus marchant sur la mer, et s'approchant de la nacelle; et ils eurent peur.",
+        "OST": "Or, quand ils eurent ramé environ vingt-cinq ou trente stades, ils virent Jésus qui marchait sur la mer, et s'approchait de la barque, et ils eurent peur.",
+        "S21": "Après avoir ramé environ cinq kilomètres, ils virent Jésus qui marchait sur l'eau et s'approchait de la barque, et ils eurent peur."
+      }
+    },
+    {
+      "verse": 20,
+      "texts": {
+        "BDS": "Mais Jésus leur dit:\r\n—C’est moi, n’ayez pas peur!",
+        "DBY": "Mais il leur dit: C'est moi, n'ayez point de peur.",
+        "KJV": "But he saith unto them, ‹It is I; be not afraid.›",
+        "LSG": "Mais Jésus leur dit: C'est moi; n'ayez pas peur!",
+        "MAB": "Mais il leur dit : c'est moi, ne craignez point.",
+        "OST": "Mais il leur dit: C'est moi, n'ayez point de peur.",
+        "S21": "Mais Jésus leur dit: «C'est moi, n'ayez pas peur!»"
+      }
+    },
+    {
+      "verse": 21,
+      "texts": {
+        "BDS": "Ils voulurent alors le faire monter dans le bateau, mais, au même moment, ils touchèrent terre à l’endroit où ils voulaient aller.",
+        "DBY": "Ils étaient donc tout disposés à le recevoir dans la nacelle; et aussitôt la nacelle prit terre au lieu où ils allaient.",
+        "KJV": "Then they willingly received him into the ship: and immediately the ship was at the land whither they went.",
+        "LSG": "Ils voulaient donc le prendre dans la barque, et aussitôt la barque aborda au lieu où ils allaient.",
+        "MAB": "Ils le reçurent donc avec plaisir dans la nacelle, et aussitôt la nacelle prit terre [au lieu] où ils allaient.",
+        "OST": "Ils le reçurent donc avec plaisir dans la barque et aussitôt la barque aborda au lieu où ils allaient.",
+        "S21": "Ils voulurent alors le prendre dans la barque, et aussitôt celle-ci aborda à l'endroit où ils allaient."
+      }
+    },
+    {
+      "verse": 22,
+      "texts": {
+        "BDS": "Le lendemain, ceux qui étaient restés sur l’autre rive se rendirent compte qu’il n’y avait eu là qu’un seul bateau et que Jésus n’avait pas accompagné ses disciples; ceux-ci étaient repartis seuls.",
+        "DBY": "Le lendemain, la foule qui était de l'autre côté de la mer, voyant qu'il n'y avait point là d'autre petite nacelle que celle là sur laquelle ses disciples étaient montés, et que Jésus n'était pas entré avec ses disciples dans la nacelle, mais que ses disciples s'en étaient allés seuls",
+        "KJV": "The day following, when the people which stood on the other side of the sea saw that there was none other boat there, save that one whereinto his disciples were entered, and that Jesus went not with his disciples into the boat, but [that] his disciples were gone away alone;",
+        "LSG": "La foule qui était restée de l'autre côté de la mer avait remarqué qu'il ne se trouvait là qu'une seule barque, et que Jésus n'était pas monté dans cette barque avec ses disciples, mais qu'ils étaient partis seuls.",
+        "MAB": "Le lendemain les troupes qui étaient demeurées de l'autre côté de la mer, voyant qu'il n'y avait point là d'autre nacelle que celle-là seule dans laquelle ses Disciples étaient entrés, et que Jésus n'était point entré avec ses Disciples dans la nacelle, mais que ses Disciples s'en étaient allés seuls;",
+        "OST": "Le lendemain, la foule qui était demeurée de l'autre côté de la mer, vit qu'il n'y avait point eu là d'autre barque que celle dans laquelle ses disciples étaient entrés, et que Jésus n'y était point entré avec eux, mais que ses disciples s'en étaient allés seuls;",
+        "S21": "Le lendemain, la foule restée de l'autre côté du lac remarqua qu'il n'y avait eu là qu'une seule barque et que Jésus n'était pas monté dedans avec ses disciples, mais que ceux-ci étaient partis seuls."
+      }
+    },
+    {
+      "verse": 23,
+      "texts": {
+        "BDS": "Entre-temps, d’autres bateaux étaient arrivés de Tibériade, près de l’endroit où toute cette foule avait été nourrie après que le Seigneur eut remercié Dieu.",
+        "DBY": "(mais d'autres petites nacelles étaient venues de Tibérias, près du lieu où ils avaient mangé le pain, après que le Seigneur eut rendu grâces);",
+        "KJV": "(Howbeit there came other boats from Tiberias nigh unto the place where they did eat bread, after that the Lord had given thanks:)",
+        "LSG": "Le lendemain, comme d'autres barques étaient arrivées de Tibériade près du lieu où ils avaient mangé le pain après que le Seigneur eut rendu grâces,",
+        "MAB": "Et d'autres nacelles étant venues de Tibériade près du lieu où ils avaient mangé le pain, après que le Seigneur eut rendu grâces;",
+        "OST": "(Cependant d'autres barques étaient arrivées de Tibériade, près du lieu où ils avaient mangé le pain, après que le Seigneur eut rendu grâces);",
+        "S21": "D'autres barques arrivèrent de Tibériade près de l'endroit où ils avaient mangé le pain après que le Seigneur eut remercié Dieu."
+      }
+    },
+    {
+      "verse": 24,
+      "texts": {
+        "BDS": "Quand les gens virent que Jésus n’était pas là, et ses disciples non plus, ils montèrent dans ces bateaux pour aller à Capernaüm, à la recherche de Jésus.",
+        "DBY": "-lors donc que la foule vit que Jésus n'était point là, ni ses disciples, ils montèrent eux-mêmes sur les nacelles, et vinrent à Capernaüm, cherchant Jésus.",
+        "KJV": "When the people therefore saw that Jesus was not there, neither his disciples, they also took shipping, and came to Capernaum, seeking for Jesus.",
+        "LSG": "les gens de la foule, ayant vu que ni Jésus ni ses disciples n'étaient là, montèrent eux-mêmes dans ces barques et allèrent à Capernaüm à la recherche de Jésus.",
+        "MAB": "Ces troupes donc qui voyaient que Jésus n'était point là, ni ses Disciples, montèrent aussi dans ces nacelles, et vinrent à Capernaüm, cherchant Jésus.",
+        "OST": "Quand donc la foule vit que Jésus n'était point là, ni ses disciples, ils entrèrent dans les barques, et allèrent à Capernaüm, chercher Jésus.",
+        "S21": "Quand les gens s'aperçurent que ni Jésus ni ses disciples n'étaient là, ils montèrent dans ces barques et allèrent à Capernaüm à la recherche de Jésus."
+      }
+    },
+    {
+      "verse": 25,
+      "texts": {
+        "BDS": "Ils le trouvèrent de l’autre côté du lac et lui demandèrent:\r\n—Maître, quand es-tu venu ici?",
+        "DBY": "Et l'ayant trouvé de l'autre côté de la mer, ils lui dirent: Rabbi, quand es-tu venu ici?",
+        "KJV": "And when they had found him on the other side of the sea, they said unto him, Rabbi, when camest thou hither?",
+        "LSG": "Et l'ayant trouvé au delà de la mer, ils lui dirent: Rabbi, quand es-tu venu ici?",
+        "MAB": "Et l'ayant trouvé au delà de la mer, ils lui dirent : Maître, quand es-tu arrivé ici?",
+        "OST": "Et l'ayant trouvé de l'autre côté de la mer, ils lui dirent: Maître, quand es-tu arrivé ici?",
+        "S21": "Ils le trouvèrent de l'autre côté du lac et lui dirent: «Maître, quand es-tu venu ici?»"
+      }
+    },
+    {
+      "verse": 26,
+      "texts": {
+        "BDS": "Jésus leur répondit:\r\n—Vraiment, je vous l’assure, si vous me cherchez, ce n’est pas parce que vous avez compris le sens de mes signes miraculeux. Non! C’est parce que vous avez mangé du pain et que vous avez été rassasiés.",
+        "DBY": "Jésus leur répondit et dit: En vérité, en vérité, je vous dis: Vous me cherchez, non parce que vous avez vu des miracles, mais parce que vous avez mangé des pains et que vous avez été rassasiés.",
+        "KJV": "Jesus answered them and said, ‹Verily, verily, I say unto you, Ye seek me, not because ye saw the miracles, but because ye did eat of the loaves, and were filled.›",
+        "LSG": "Jésus leur répondit: En vérité, en vérité, je vous le dis, vous me cherchez, non parce que vous avez vu des miracles, mais parce que vous avez mangé des pains et que vous avez été rassasiés.",
+        "MAB": "Jésus leur répondit, et leur dit : en vérité, en vérité je vous dis : vous me cherchez, non parce que vous avez vu des miracles, mais parce que vous avez mangé des pains, et que vous avez été rassasiés.",
+        "OST": "Jésus leur répondit et leur dit: En vérité, en vérité je vous le dis, vous me cherchez, non parce que vous avez vu des miracles, mais parce que vous avez mangé des pains, et que vous avez été rassasiés.",
+        "S21": "Jésus leur répondit: «En vérité, en vérité, je vous le dis, vous me cherchez non parce que vous avez vu des signes, mais parce que vous avez mangé du pain et que vous avez été rassasiés."
+      }
+    },
+    {
+      "verse": 27,
+      "texts": {
+        "BDS": "Travaillez, non pour la nourriture périssable, mais pour celle qui dure pour la vie éternelle. Cette nourriture, c’est le Fils de l’homme qui vous la donnera, car Dieu le Père lui en a accordé le pouvoir en le marquant de son sceau.",
+        "DBY": "Travaillez, non point pour la viande qui périt, mais pour la viande qui demeure jusque dans la vie éternelle, laquelle le fils de l'homme vous donnera; car c'est lui que le Père, Dieu, a scellé.",
+        "KJV": "‹Labour not for the meat which perisheth, but for that meat which endureth unto everlasting life, which the Son of man shall give unto you: for him hath God the Father sealed.›",
+        "LSG": "Travaillez, non pour la nourriture qui périt, mais pour celle qui subsiste pour la vie éternelle, et que le Fils de l'homme vous donnera; car c'est lui que le Père, que Dieu a marqué de son sceau.",
+        "MAB": "Travaillez, non point après la viande qui périt, mais après celle qui est permanente jusque dans la vie éternelle, laquelle le Fils de l'homme vous donnera; car le Père, [savoir] Dieu, l'a approuvé de son cachet.",
+        "OST": "Travaillez, non point pour la nourriture qui périt, mais pour celle qui demeure jusqu'à la vie éternelle, et que le Fils de l'homme vous donnera; car le Père, Dieu, l'a marqué de son sceau.",
+        "S21": "Travaillez, non pour la nourriture périssable, mais pour celle qui subsiste pour la vie éternelle, celle que le Fils de l'homme vous donnera, car c'est lui que le Père, Dieu lui-même, a marqué de son empreinte.»"
+      }
+    },
+    {
+      "verse": 28,
+      "texts": {
+        "BDS": "—Et que devons-nous faire pour accomplir les œuvres que Dieu attend de nous? lui demandèrent-ils encore.",
+        "DBY": "Ils lui dirent donc: Que ferons-nous pour faire les œuvres de Dieu?",
+        "KJV": "Then said they unto him, What shall we do, that we might work the works of God?",
+        "LSG": "Ils lui dirent: Que devons-nous faire, pour faire les oeuvres de Dieu?",
+        "MAB": "Ils lui dirent donc : que ferons-nous pour faire les œuvres de Dieu?",
+        "OST": "Ils lui dirent donc: Que ferons-nous pour travailler aux ouvres de Dieu?",
+        "S21": "Ils lui dirent: «Que devons-nous faire pour accomplir les œuvres de Dieu?»"
+      }
+    },
+    {
+      "verse": 29,
+      "texts": {
+        "BDS": "—L’œuvre de Dieu, leur répondit Jésus, c’est que vous croyiez en celui qu’il a envoyé.",
+        "DBY": "Jésus répondit et leur dit: C'est ici l'œuvre de Dieu, que vous croyiez en celui qu'il a envoyé.",
+        "KJV": "Jesus answered and said unto them, ‹This is the work of God, that ye believe on him whom he hath sent.›",
+        "LSG": "Jésus leur répondit: L'oeuvre de Dieu, c'est que vous croyiez en celui qu'il a envoyé.",
+        "MAB": "Jésus répondit, et leur dit : c'est ici l'œuvre de Dieu, que vous croyiez en celui qu'il a envoyé.",
+        "OST": "Jésus leur répondit: C'est ici l'ouvre de Dieu, que vous croyiez en celui qu'il a envoyé.",
+        "S21": "Jésus leur répondit: «L'œuvre de Dieu, c'est que vous croyiez en celui qu'il a envoyé.»"
+      }
+    },
+    {
+      "verse": 30,
+      "texts": {
+        "BDS": "Sur quoi, ils lui dirent:\r\n—Quel signe miraculeux nous feras-tu voir pour que nous puissions croire en toi? Que vas-tu faire?",
+        "DBY": "Ils lui dirent donc: Quel miracle fais-tu donc, toi, afin que nous le voyions, et que nous te croyions. Quelle œuvre fais-tu?",
+        "KJV": "They said therefore unto him, What sign shewest thou then, that we may see, and believe thee? what dost thou work?",
+        "LSG": "Quel miracle fais-tu donc, lui dirent-ils, afin que nous le voyions, et que nous croyions en toi? Que fais-tu?",
+        "MAB": "Alors ils lui dirent : quel miracle fais-tu donc, afin que nous le voyions, et que nous te croyions? quelle œuvre fais-tu?",
+        "OST": "Alors ils lui dirent: Quel miracle fais-tu donc, que nous le voyions et que nous croyions en toi? Quelle œuvre fais-tu?",
+        "S21": "«Quel signe miraculeux fais-tu donc, lui dirent-ils, afin que nous le voyions et que nous croyions en toi? Que fais-tu?"
+      }
+    },
+    {
+      "verse": 31,
+      "texts": {
+        "BDS": "Pendant qu’ils traversaient le désert, nos ancêtres ont mangé la manne, comme le dit ce texte de l’Ecriture: Il leur donna à manger un pain qui venait du ciel.",
+        "DBY": "Nos pères ont mangé la manne au désert, ainsi qu'il est écrit: \"Il leur a donné à manger du pain venant du ciel\".",
+        "KJV": "Our fathers did eat manna in the desert; as it is written, He gave them bread from heaven to eat.",
+        "LSG": "Nos pères ont mangé la manne dans le désert, selon ce qui est écrit: Il leur donna le pain du ciel à manger.",
+        "MAB": "Nos pères ont mangé la manne au désert; selon ce qui est écrit : il leur a donné à manger le pain du ciel.",
+        "OST": "Nos pères ont mangé la manne dans le désert, selon qu'il est écrit: Il leur a donné à manger le pain du ciel.",
+        "S21": "Nos ancêtres ont mangé la manne dans le désert, comme cela est écrit: Il leur a donné le pain du ciel à manger.»"
+      }
+    },
+    {
+      "verse": 32,
+      "texts": {
+        "BDS": "Mais Jésus leur répondit:\r\n—Vraiment, je vous l’assure: ce n’est pas Moïse qui vous a donné le pain venu du ciel, c’est mon Père qui vous donne le pain du ciel, le vrai pain.",
+        "DBY": "Jésus donc leur dit: En vérité, en vérité, je vous dis: Moïse ne vous a pas donné le pain qui vient du ciel, mais mon Père vous donne le véritable pain qui vient du ciel.",
+        "KJV": "Then Jesus said unto them, ‹Verily, verily, I say unto you, Moses gave you not that bread from heaven; but my Father giveth you the true bread from heaven.›",
+        "LSG": "Jésus leur dit: En vérité, en vérité, je vous le dis, Moïse ne vous a pas donné le pain du ciel, mais mon Père vous donne le vrai pain du ciel;",
+        "MAB": "Mais Jésus leur dit : en vérité, en vérité je vous dis : Moïse ne vous a pas donné le pain du ciel; mais mon Père vous donne le vrai pain du ciel;",
+        "OST": "Et Jésus leur dit: En vérité, en vérité je vous le dis, Moïse ne vous a point donné le pain du ciel; mais mon Père vous donne le vrai pain du ciel.",
+        "S21": "Jésus leur dit: «En vérité, en vérité, je vous le dis, ce n'est pas Moïse qui vous a donné le pain du ciel, mais c'est mon Père qui vous donne le vrai pain du ciel."
+      }
+    },
+    {
+      "verse": 33,
+      "texts": {
+        "BDS": "Car le pain qui vient de Dieu, c’est celui qui descend du ciel et qui donne la vie au monde.",
+        "DBY": "Car le pain de Dieu est celui qui descend du ciel, et qui donne la vie au monde.",
+        "KJV": "‹For the bread of God is he which cometh down from heaven, and giveth life unto the world.›",
+        "LSG": "car le pain de Dieu, c'est celui qui descend du ciel et qui donne la vie au monde.",
+        "MAB": "Car le pain de Dieu c'est celui qui est descendu du ciel, et qui donne la vie au monde.",
+        "OST": "Car le pain de Dieu est celui qui est descendu du ciel, et qui donne la vie au monde.",
+        "S21": "En effet, le pain de Dieu, c'est celui qui descend du ciel et qui donne la vie au monde.»"
+      }
+    },
+    {
+      "verse": 34,
+      "texts": {
+        "BDS": "—Seigneur, dirent-ils alors, donne-nous toujours de ce pain-là.",
+        "DBY": "Ils lui dirent donc: Seigneur, donne-nous toujours ce pain-là.",
+        "KJV": "Then said they unto him, Lord, evermore give us this bread.",
+        "LSG": "Ils lui dirent: Seigneur, donne-nous toujours ce pain.",
+        "MAB": "Ils lui dirent donc : Seigneur, donne-nous toujours ce pain-là.",
+        "OST": "Ils lui dirent: Seigneur, donne-nous toujours de ce pain-là.",
+        "S21": "Ils lui dirent alors: «Seigneur, donne-nous toujours ce pain-là!»"
+      }
+    },
+    {
+      "verse": 35,
+      "texts": {
+        "BDS": "Et Jésus répondit:\r\n—C’est moi qui suis le pain qui donne la vie. Celui qui vient à moi n’aura plus jamais faim, celui qui croit en moi n’aura plus jamais soif.",
+        "DBY": "Et Jésus leur dit: Moi, je suis le pain de vie. Celui qui vient à moi n'aura jamais faim; et celui qui croit en moi n'aura jamais soif.",
+        "KJV": "And Jesus said unto them, ‹I am the bread of life: he that cometh to me shall never hunger; and he that believeth on me shall never thirst.›",
+        "LSG": "Jésus leur dit: Je suis le pain de vie. Celui qui vient à moi n'aura jamais faim, et celui qui croit en moi n'aura jamais soif.",
+        "MAB": "Et Jésus leur dit : je suis le pain de vie. Celui qui vient à moi, n'aura point de faim; et celui qui croit en moi, n'aura jamais soif.",
+        "OST": "Et Jésus leur répondit: Je suis le pain de vie; celui qui vient à moi n'aura jamais faim, et celui qui croit en moi n'aura jamais soif.",
+        "S21": "Jésus leur dit: «C’est moi qui suis le pain de la vie. Celui qui vient à moi n'aura jamais faim et celui qui croit en moi n'aura jamais soif."
+      }
+    },
+    {
+      "verse": 36,
+      "texts": {
+        "BDS": "Mais je vous l’ai déjà dit: vous avez vu, et vous ne croyez pas.",
+        "DBY": "Mais je vous ai dit qu'aussi vous m'avez vu, et vous ne croyez pas.",
+        "KJV": "‹But I said unto you, That ye also have seen me, and believe not.›",
+        "LSG": "Mais, je vous l'ai dit, vous m'avez vu, et vous ne croyez point.",
+        "MAB": "Mais je vous ai dit que vous m'avez vu, et cependant vous ne croyez point.",
+        "OST": "Mais je vous l'ai dit, vous m'avez vu, et vous ne croyez point.",
+        "S21": "Mais, je vous l'ai dit, vous m'avez vu et pourtant vous ne croyez pas."
+      }
+    },
+    {
+      "verse": 37,
+      "texts": {
+        "BDS": "Tous ceux que le Père me donne viendront à moi, et je ne repousserai pas celui qui vient à moi.",
+        "DBY": "Tout ce que le Père me donne viendra à moi; et je ne mettrai point dehors celui qui vient à moi;",
+        "KJV": "‹All that the Father giveth me shall come to me; and him that cometh to me I will in no wise cast out.›",
+        "LSG": "Tous ceux que le Père me donne viendront à moi, et je ne mettrai pas dehors celui qui vient à moi;",
+        "MAB": "Tout ce que mon Père me donne, viendra à moi; et je ne mettrai point dehors celui qui viendra à moi.",
+        "OST": "Tout ce que le Père me donne viendra à moi, et je ne mettrai point dehors celui qui vient à moi.",
+        "S21": "Tous ceux que le Père me donne viendront à moi et je ne mettrai pas dehors celui qui vient à moi."
+      }
+    },
+    {
+      "verse": 38,
+      "texts": {
+        "BDS": "Car si je suis descendu du ciel, ce n’est pas pour faire ce qui me plaît, mais pour accomplir la volonté de celui qui m’a envoyé.",
+        "DBY": "car je suis descendu du ciel, non pour faire ma volonté, mais la volonté de celui qui m'a envoyé.",
+        "KJV": "‹For I came down from heaven, not to do mine own will, but the will of him that sent me.›",
+        "LSG": "car je suis descendu du ciel pour faire, non ma volonté, mais la volonté de celui qui m'a envoyé.",
+        "MAB": "Car je suis descendu du ciel non point pour faire ma volonté, mais la volonté de celui qui m'a envoyé.",
+        "OST": "Car je suis descendu du ciel, pour faire, non ma volonté, mais la volonté de celui qui m'a envoyé.",
+        "S21": "En effet, je suis descendu du ciel pour faire non pas ma volonté, mais celle de celui qui m'a envoyé."
+      }
+    },
+    {
+      "verse": 39,
+      "texts": {
+        "BDS": "Or, celui qui m’a envoyé veut que je ne perde aucun de ceux qu’il m’a donnés, mais que je les ressuscite au dernier jour.",
+        "DBY": "Or c'est ici la volonté de celui qui m'a envoyé: que je ne perde rien de tout ce qu'il m'a donné, mais que je le ressuscite au dernier jour.",
+        "KJV": "‹And this is the Father's will which hath sent me, that of all which he hath given me I should lose nothing, but should raise it up again at the last day.›",
+        "LSG": "Or, la volonté de celui qui m'a envoyé, c'est que je ne perde rien de tout ce qu'il m'a donné, mais que je le ressuscite au dernier jour.",
+        "MAB": "Et c'est ici la volonté du Père qui m'a envoyé, que je ne perde rien de tout ce qu'il m'a donné, mais que je le ressuscite au dernier jour.",
+        "OST": "Or c'est ici la volonté du Père qui m'a envoyé, que je ne perde aucun de ceux qu'il m'a donnés, mais que je les ressuscite au dernier jour.",
+        "S21": "[Or, la volonté du Père qui m'a envoyé,] c'est que je ne perde aucun de tous ceux qu'il m'a donnés, mais que je les ressuscite le dernier jour."
+      }
+    },
+    {
+      "verse": 40,
+      "texts": {
+        "BDS": "Oui, telle est la volonté de mon Père: que tous ceux qui tournent leurs regards vers le Fils et qui croient en lui, possèdent la vie éternelle, et moi, je les ressusciterai au dernier jour.",
+        "DBY": "Car c'est ici la volonté de mon Père: que quiconque discerne le Fils et croit en lui, ait la vie éternelle; et moi, je ressusciterai au dernier jour.",
+        "KJV": "‹And this is the will of him that sent me, that every one which seeth the Son, and believeth on him, may have everlasting life: and I will raise him up at the last day.›",
+        "LSG": "La volonté de mon Père, c'est que quiconque voit le Fils et croit en lui ait la vie éternelle; et je le ressusciterai au dernier jour.",
+        "MAB": "Et c'est ici la volonté de celui qui m'a envoyé, que quiconque contemple le Fils, et croit en lui, ait la vie éternelle; c'est pourquoi je le ressusciterai au dernier jour.",
+        "OST": "C'est ici la volonté de celui qui m'a envoyé, que quiconque contemple le Fils et croit en lui, ait la vie éternelle; et je le ressusciterai au dernier jour.",
+        "S21": "En effet, la volonté de mon Père, c'est que toute personne qui voit le Fils et croit en lui ait la vie éternelle, et moi, je la ressusciterai le dernier jour.»"
+      }
+    },
+    {
+      "verse": 41,
+      "texts": {
+        "BDS": "Alors les gens se mirent à murmurer contre lui, parce qu’il avait dit: «C’est moi qui suis le pain descendu du ciel.»",
+        "DBY": "Juifs donc murmuraient contre lui, parce qu'il avait dit: Moi, je suis le pain descendu du ciel;",
+        "KJV": "The Jews then murmured at him, because he said, I am the bread which came down from heaven.",
+        "LSG": "Les Juifs murmuraient à son sujet, parce qu'il avait dit: Je suis le pain qui est descendu du ciel.",
+        "MAB": "Or les Juifs murmuraient contre lui de ce qu'il avait dit : je suis le pain descendu du ciel.",
+        "OST": "Les Juifs murmuraient donc contre lui parce qu'il disait: Je suis le pain descendu du ciel.",
+        "S21": "Les Juifs murmuraient à son sujet parce qu'il avait dit: «Je suis le pain descendu du ciel»,"
+      }
+    },
+    {
+      "verse": 42,
+      "texts": {
+        "BDS": "Ils disaient:\r\n—Voyons, n’est-ce pas Jésus, le fils de Joseph? Nous connaissons bien son père et sa mère! Comment peut-il prétendre qu’il est descendu du ciel?",
+        "DBY": "et ils disaient: N'est-ce pas ici Jésus, le fils de Joseph, duquel nous connaissons le père et la mère? Comment donc celui-ci dit-il: Je suis descendu du ciel?",
+        "KJV": "And they said, Is not this Jesus, the son of Joseph, whose father and mother we know? how is it then that he saith, I came down from heaven?",
+        "LSG": "Et ils disaient: N'est-ce pas là Jésus, le fils de Joseph, celui dont nous connaissons le père et la mère? Comment donc dit-il: Je suis descendu du ciel?",
+        "MAB": "Car ils disaient : n'est-ce pas ici Jésus, le fils de Joseph, duquel nous connaissons le père et la mère? comment donc dit celui-ci : je suis descendu du ciel?",
+        "OST": "Et ils disaient: N'est-ce pas là Jésus, le fils de Joseph, dont nous connaissons le père et la mère? Comment donc dit-il: Je suis descendu du ciel?",
+        "S21": "et ils disaient: «N'est-ce pas Jésus, le fils de Joseph, celui dont nous connaissons le père et la mère? Comment donc peut-il dire: ‘Je suis descendu du ciel’?»"
+      }
+    },
+    {
+      "verse": 43,
+      "texts": {
+        "BDS": "Jésus leur dit:\r\n—Cessez donc de murmurer ainsi entre vous!",
+        "DBY": "Jésus donc répondit et leur dit: Ne murmurez pas entre vous.",
+        "KJV": "Jesus therefore answered and said unto them, ‹Murmur not among yourselves.›",
+        "LSG": "Jésus leur répondit: Ne murmurez pas entre vous.",
+        "MAB": "Jésus donc répondit, et leur dit : ne murmurez point entre vous.",
+        "OST": "Jésus répondit et leur dit: Ne murmurez point entre vous.",
+        "S21": "Jésus leur répondit: «Ne murmurez pas entre vous."
+      }
+    },
+    {
+      "verse": 44,
+      "texts": {
+        "BDS": "Personne ne peut venir à moi si le Père qui m’a envoyé ne l’attire, et moi, je le ressusciterai au dernier jour.",
+        "DBY": "Nul ne peut venir à moi, à moins que le Père qui m'a envoyé ne le tire; et moi, je le ressusciterai au dernier jour.",
+        "KJV": "‹No man can come to me, except the Father which hath sent me draw him: and I will raise him up at the last day.›",
+        "LSG": "Nul ne peut venir à moi, si le Père qui m'a envoyé ne l'attire; et je le ressusciterai au dernier jour.",
+        "MAB": "Nul ne peut venir à moi, si le Père, qui m'a envoyé, ne le tire; et moi, je le ressusciterai au dernier jour.",
+        "OST": "Personne ne peut venir à moi, si le Père qui m'a envoyé ne l'attire; et je le ressusciterai au dernier jour.",
+        "S21": "Personne ne peut venir à moi, à moins que le Père qui m'a envoyé ne l'attire, et moi, je le ressusciterai le dernier jour."
+      }
+    },
+    {
+      "verse": 45,
+      "texts": {
+        "BDS": "Dans les écrits des prophètes, vous pouvez lire cette parole: Dieu les instruira tous. Tout homme qui écoute la voix du Père et qui se laisse instruire par lui vient à moi.",
+        "DBY": "Il est écrit dans les prophètes: \"Et ils seront tous enseignés de Dieu\". Quiconque a entendu le Père et a appris de lui vient à moi.",
+        "KJV": "‹It is written in the prophets, And they shall be all taught of God. Every man therefore that hath heard, and hath learned of the Father, cometh unto me.›",
+        "LSG": "Il est écrit dans les prophètes: Ils seront tous enseignés de Dieu. Ainsi quiconque a entendu le Père et a reçu son enseignement vient à moi.",
+        "MAB": "Il est écrit dans les Prophètes : et ils seront tous enseignés de Dieu. Quiconque donc a écouté le Père, et a été instruit [de ses intentions], vient à moi.",
+        "OST": "Il est écrit dans les prophètes: Ils seront tous enseignés de Dieu. Quiconque a écouté le Père et a été instruit par lui, vient à moi.",
+        "S21": "Il est écrit dans les prophètes: Ils seront tous enseignés de Dieu. Ainsi donc, toute personne qui a entendu le Père et s’est laissé instruire vient à moi."
+      }
+    },
+    {
+      "verse": 46,
+      "texts": {
+        "BDS": "Personne n’a jamais vu le Père, sauf celui qui est venu d’auprès de Dieu. Lui, il a vu le Père.",
+        "DBY": "Non pas que quelqu'un ait vu le Père, sinon celui qui est de Dieu; celui-là a vu le Père.",
+        "KJV": "‹Not that any man hath seen the Father, save he which is of God, he hath seen the Father.›",
+        "LSG": "C'est que nul n'a vu le Père, sinon celui qui vient de Dieu; celui-là a vu le Père.",
+        "MAB": "Non point qu'aucun ait vu le Père, sinon celui qui est de Dieu, celui-là a vu le Père.",
+        "OST": "Ce n'est pas que personne ait vu le Père, si ce n'est celui qui vient de Dieu; celui-là a vu le Père.",
+        "S21": "C'est que personne n'a vu le Père, sauf celui qui vient de Dieu; lui, il a vu le Père."
+      }
+    },
+    {
+      "verse": 47,
+      "texts": {
+        "BDS": "Vraiment, je vous l’assure: celui qui croit a la vie éternelle,",
+        "DBY": "En vérité, en vérité, je vous dis: Celui qui croit en moi, a la vie éternelle.",
+        "KJV": "‹Verily, verily, I say unto you, He that believeth on me hath everlasting life.›",
+        "LSG": "En vérité, en vérité, je vous le dis, celui qui croit en moi a la vie éternelle.",
+        "MAB": "En vérité, en vérité je vous dis : qui croit en moi a la vie éternelle.",
+        "OST": "En vérité, en vérité je vous le dis: Celui qui croit en moi a la vie éternelle.",
+        "S21": "En vérité, en vérité, je vous le dis, celui qui croit [en moi] a la vie éternelle."
+      }
+    },
+    {
+      "verse": 48,
+      "texts": {
+        "BDS": "car je suis le pain qui donne la vie.",
+        "DBY": "Moi, je suis le pain de vie.",
+        "KJV": "‹I am that bread of life.›",
+        "LSG": "Je suis le pain de vie.",
+        "MAB": "Je suis le pain de vie.",
+        "OST": "Je suis le pain de vie.",
+        "S21": "Je suis le pain de la vie."
+      }
+    },
+    {
+      "verse": 49,
+      "texts": {
+        "BDS": "Vos ancêtres ont bien mangé la manne dans le désert et cela ne les a pas empêchés de mourir.",
+        "DBY": "Vos pères ont mangé la manne au désert, et sont morts;",
+        "KJV": "‹Your fathers did eat manna in the wilderness, and are dead.›",
+        "LSG": "Vos pères ont mangé la manne dans le désert, et ils sont morts.",
+        "MAB": "Vos pères ont mangé la manne au désert, et ils sont morts.",
+        "OST": "Vos pères ont mangé la manne dans le désert, et ils sont morts.",
+        "S21": "Vos ancêtres ont mangé la manne dans le désert et ils sont morts."
+      }
+    },
+    {
+      "verse": 50,
+      "texts": {
+        "BDS": "Mais c’est ici le pain qui descend du ciel: celui qui en mange ne mourra pas.",
+        "DBY": "c'est ici le pain qui descend du ciel, afin que quelqu'un en mange et ne meure pas.",
+        "KJV": "‹This is the bread which cometh down from heaven, that a man may eat thereof, and not die.›",
+        "LSG": "C'est ici le pain qui descend du ciel, afin que celui qui en mange ne meure point.",
+        "MAB": "C'est ici le pain qui est descendu du ciel, afin que si quelqu'un en mange, il ne meure point.",
+        "OST": "C'est ici le pain qui est descendu du ciel, afin que celui qui en mange ne meure point.",
+        "S21": "Voici comment est le pain qui descend du ciel: celui qui en mange ne mourra pas."
+      }
+    },
+    {
+      "verse": 51,
+      "texts": {
+        "BDS": "C’est moi qui suis le pain vivant descendu du ciel: si quelqu’un mange de ce pain-là, il vivra éternellement. Le pain que je donnerai pour que le monde vive, c’est mon propre corps.",
+        "DBY": "Moi, je suis le pain vivant qui est descendu du ciel: si quelqu'un mange de ce pain, il vivra éternellement; or le pain aussi que moi je donnerai, c'est ma chair, laquelle moi je donnerai pour la vie du monde.",
+        "KJV": "‹I am the living bread which came down from heaven: if any man eat of this bread, he shall live for ever: and the bread that I will give is my flesh, which I will give for the life of the world.›",
+        "LSG": "Je suis le pain vivant qui est descendu du ciel. Si quelqu'un mange de ce pain, il vivra éternellement; et le pain que je donnerai, c'est ma chair, que je donnerai pour la vie du monde.",
+        "MAB": "Je suis le pain vivifiant qui suis descendu du ciel; si quelqu'un mange de ce pain, il vivra éternellement; et le pain que je donnerai, c'est ma chair, laquelle je donnerai pour la vie du monde.",
+        "OST": "Je suis le pain vivant, qui est descendu du ciel; si quelqu'un mange de ce pain, il vivra éternellement; et le pain que je donnerai, c'est ma chair. Je la donnerai pour la vie du monde.",
+        "S21": "Je suis le pain vivant descendu du ciel. Si quelqu'un mange de ce pain, il vivra éternellement, et le pain que je donnerai, c'est mon corps, [que je donnerai] pour la vie du monde.»"
+      }
+    },
+    {
+      "verse": 52,
+      "texts": {
+        "BDS": "A ces mots, les Juifs se mirent à discuter vivement entre eux, disant:\r\n—Comment cet homme pourrait-il nous donner son corps à manger?",
+        "DBY": "Les Juifs disputaient donc entre eux, disant: Comment celui-ci peut-il nous donner sa chair à manger?",
+        "KJV": "The Jews therefore strove among themselves, saying, How can this man give us [his] flesh to eat?",
+        "LSG": "Là-dessus, les Juifs disputaient entre eux, disant: Comment peut-il nous donner sa chair à manger?",
+        "MAB": "Les Juifs donc disputaient entre eux, et disaient : comment celui-ci nous peut-il donner sa chair à manger?",
+        "OST": "Les Juifs disputaient donc entre eux, disant: Comment cet homme peut-il donner sa chair à manger?",
+        "S21": "Là-dessus, les Juifs se mirent à discuter vivement entre eux, disant: «Comment peut-il nous donner son corps à manger?»"
+      }
+    },
+    {
+      "verse": 53,
+      "texts": {
+        "BDS": "Alors Jésus leur dit:\r\n—Oui, vraiment, je vous l’assure: si vous ne mangez pas la chair du Fils de l’homme et si vous ne buvez pas son sang, vous n’aurez point la vie en vous.",
+        "DBY": "Jésus donc leur dit: En vérité, en vérité, je vous dis: Si vous ne mangez la chair du fils de l'homme et ne buvez son sang, vous n'avez pas la vie en vous-mêmes.",
+        "KJV": "Then Jesus said unto them, ‹Verily, verily, I say unto you, Except ye eat the flesh of the Son of man, and drink his blood, ye have no life in you.›",
+        "LSG": "Jésus leur dit: En vérité, en vérité, je vous le dis, si vous ne mangez la chair du Fils de l'homme, et si vous ne buvez son sang, vous n'avez point la vie en vous-mêmes.",
+        "MAB": "Et Jésus leur dit : en vérité, en vérité je vous dis, que si vous ne mangez la chair du Fils de l'homme, et ne buvez son sang, vous n'aurez point la vie en vous-mêmes.",
+        "OST": "Jésus leur dit: En vérité, en vérité je vous le dis: Si vous ne mangez la chair du Fils de l'homme, et si vous ne buvez son sang, vous n'aurez point la vie en vous-mêmes.",
+        "S21": "Jésus leur dit: «En vérité, en vérité, je vous le dis, si vous ne mangez pas le corps du Fils de l'homme et si vous ne buvez pas son sang, vous n'avez pas la vie en vous-mêmes."
+      }
+    },
+    {
+      "verse": 54,
+      "texts": {
+        "BDS": "Celui qui se nourrit de ma chair et qui boit mon sang a la vie éternelle, et moi je le ressusciterai au dernier jour.",
+        "DBY": "Celui qui mange ma chair et qui boit mon sang a la vie éternelle, et moi, je le ressusciterai au dernier jour.",
+        "KJV": "‹Whoso eateth my flesh, and drinketh my blood, hath eternal life; and I will raise him up at the last day.›",
+        "LSG": "Celui qui mange ma chair et qui boit mon sang a la vie éternelle; et je le ressusciterai au dernier jour.",
+        "MAB": "Celui qui mange ma chair, et qui boit mon sang a la vie éternelle; et je le ressusciterai au dernier jour.",
+        "OST": "Celui qui mange ma chair et qui boit mon sang, a la vie éternelle; et je le ressusciterai au dernier jour.",
+        "S21": "Celui qui mange mon corps et qui boit mon sang a la vie éternelle, et moi, je le ressusciterai le dernier jour."
+      }
+    },
+    {
+      "verse": 55,
+      "texts": {
+        "BDS": "Car ma chair est vraiment une nourriture et mon sang est vraiment un breuvage.",
+        "DBY": "Car ma chair est en vérité un aliment, et mon sang est en vérité un breuvage.",
+        "KJV": "‹For my flesh is meat indeed, and my blood is drink indeed.›",
+        "LSG": "Car ma chair est vraiment une nourriture, et mon sang est vraiment un breuvage.",
+        "MAB": "Car ma chair est une véritable nourriture, et mon sang est un véritable breuvage.",
+        "OST": "Car ma chair est véritablement une nourriture, et mon sang est véritablement un breuvage.",
+        "S21": "En effet, mon corps est vraiment une nourriture et mon sang est vraiment une boisson."
+      }
+    },
+    {
+      "verse": 56,
+      "texts": {
+        "BDS": "Celui qui mange ma chair et boit mon sang demeure en moi, et moi je demeure en lui.",
+        "DBY": "Celui qui mange ma chair et qui boit mon sang demeure en moi et moi en lui.",
+        "KJV": "‹He that eateth my flesh, and drinketh my blood, dwelleth in me, and I in him.›",
+        "LSG": "Celui qui mange ma chair et qui boit mon sang demeure en moi, et je demeure en lui.",
+        "MAB": "Celui qui mange ma chair, et qui boit mon sang, demeure en moi, et moi en lui.",
+        "OST": "Celui qui mange ma chair et qui boit mon sang, demeure en moi, et moi en lui.",
+        "S21": "Celui qui mange mon corps et qui boit mon sang demeure en moi, et moi je demeure en lui."
+      }
+    },
+    {
+      "verse": 57,
+      "texts": {
+        "BDS": "Le Père qui m’a envoyé a la vie en lui-même, et c’est lui qui me fait vivre; ainsi, celui qui se nourrit de moi vivra lui aussi par moi.",
+        "DBY": "Comme le Père qui est vivant m'a envoyé, et que moi, je vis à cause du Père, de même celui qui me mangera, celui-là aussi vivra à cause de moi.",
+        "KJV": "‹As the living Father hath sent me, and I live by the Father: so he that eateth me, even he shall live by me.›",
+        "LSG": "Comme le Père qui est vivant m'a envoyé, et que je vis par le Père, ainsi celui qui me mange vivra par moi.",
+        "MAB": "Comme le Père qui est vivant m'a envoyé, et que je suis vivant par le Père; ainsi celui qui me mangera, vivra aussi par moi.",
+        "OST": "Comme le Père, qui est vivant, m'a envoyé, et que je vis par le Père; ainsi celui qui me mange vivra par moi.",
+        "S21": "Tout comme le Père qui est vivant m'a envoyé et que je vis grâce au Père, ainsi celui qui me mange vivra grâce à moi."
+      }
+    },
+    {
+      "verse": 58,
+      "texts": {
+        "BDS": "C’est ici le pain descendu du ciel. Il n’est pas comme celui que vos ancêtres ont mangé; eux, ils sont morts; mais celui qui mange ce pain-ci vivra pour toujours.",
+        "DBY": "C'est ici le pain qui est descendu du ciel, non pas comme les pères mangèrent et moururent: celui qui mangera ce pain vivra éternellement.",
+        "KJV": "‹This is that bread which came down from heaven: not as your fathers did eat manna, and are dead: he that eateth of this bread shall live for ever.›",
+        "LSG": "C'est ici le pain qui est descendu du ciel. Il n'en est pas comme de vos pères qui ont mangé la manne et qui sont morts: celui qui mange ce pain vivra éternellement.",
+        "MAB": "C'est ici le pain qui est descendu du ciel, non point comme vos pères ont mangé la manne, et ils sont morts; celui qui mangera ce pain, vivra éternellement.",
+        "OST": "C'est ici le pain qui est descendu du ciel. Ce n'est pas comme vos pères qui ont mangé la manne, et ils sont morts; celui qui mangera ce pain vivra éternellement.",
+        "S21": "Voilà comment est le pain descendu du ciel. Il n'est pas comme [la manne que vos] ancêtres ont mangée; eux sont morts, mais celui qui mange de ce pain vivra éternellement.»"
+      }
+    },
+    {
+      "verse": 59,
+      "texts": {
+        "BDS": "Voilà ce que déclara Jésus lorsqu’il enseigna dans la synagogue de Capernaüm.",
+        "DBY": "Il dit ces choses dans la synagogue, enseignant à Capernaüm.",
+        "KJV": "These things said he in the synagogue, as he taught in Capernaum.",
+        "LSG": "Jésus dit ces choses dans la synagogue, enseignant à Capernaüm.",
+        "MAB": "Il dit ces choses dans la Synagogue, enseignant à Capernaüm.",
+        "OST": "Jésus dit ces choses, enseignant dans la synagogue à Capernaüm.",
+        "S21": "Jésus dit ces paroles alors qu'il enseignait dans une synagogue, à Capernaüm."
+      }
+    },
+    {
+      "verse": 60,
+      "texts": {
+        "BDS": "Après l’avoir entendu, plusieurs de ses disciples dirent:\r\n—Ce langage est bien difficile à accepter! Qui peut continuer à l’écouter?",
+        "DBY": "Plusieurs donc de ses disciples, l'ayant entendu, dirent: Cette parole est dure; qui peut l'ouïr?",
+        "KJV": "Many therefore of his disciples, when they had heard [this], said, This is an hard saying; who can hear it?",
+        "LSG": "Plusieurs de ses disciples, après l'avoir entendu, dirent: Cette parole est dure; qui peut l'écouter?",
+        "MAB": "Et plusieurs de ses disciples l'ayant entendu, dirent : cette parole est dure, qui la peut ouïr?",
+        "OST": "Plusieurs de ses disciples l'ayant entendu, dirent: Cette parole est dure, qui peut l'écouter?",
+        "S21": "Après l'avoir entendu, beaucoup de ses disciples dirent: «Cette parole est dure. Qui peut l'écouter?»"
+      }
+    },
+    {
+      "verse": 61,
+      "texts": {
+        "BDS": "Jésus savait fort bien quels murmures ses paroles avaient soulevés parmi eux. C’est pourquoi il leur dit:\r\n—Cela vous choque-t-il?",
+        "DBY": "Et Jésus, sachant en lui-même que ses disciples murmuraient là-dessus, leur dit: Ceci vous scandalise-t-il?",
+        "KJV": "When Jesus knew in himself that his disciples murmured at it, he said unto them, ‹Doth this offend you?›",
+        "LSG": "Jésus, sachant en lui-même que ses disciples murmuraient à ce sujet, leur dit: Cela vous scandalise-t-il?",
+        "MAB": "Mais Jésus sachant en lui-même que ses disciples murmuraient de cela, leur dit : ceci vous scandalise-t-il?",
+        "OST": "Mais Jésus, sachant en lui-même que ses disciples murmuraient de cela, leur dit: Ceci vous scandalise-t-il?",
+        "S21": "Jésus savait en lui-même que ses disciples murmuraient à ce sujet. Il leur dit: «Cela vous scandalise?"
+      }
+    },
+    {
+      "verse": 62,
+      "texts": {
+        "BDS": "Et si vous voyez le Fils de l’homme remonter là où il était auparavant?",
+        "DBY": "Si donc vous voyez le fils de l'homme monter où il était auparavant…?",
+        "KJV": "[What] ‹and if ye shall see the Son of man ascend up where he was before?›",
+        "LSG": "Et si vous voyez le Fils de l'homme monter où il était auparavant?...",
+        "MAB": "[Que sera-ce] donc si vous voyez le Fils de l'homme monter où il était premièrement?",
+        "OST": "Que sera-ce donc si vous voyez le Fils de l'homme monter où il était auparavant?",
+        "S21": "Si vous voyiez le Fils de l'homme monter là où il était auparavant!"
+      }
+    },
+    {
+      "verse": 63,
+      "texts": {
+        "BDS": "C’est l’Esprit qui donne la vie; l’homme n’aboutit à rien par lui-même. Les paroles que je vous ai dites sont Esprit et vie.",
+        "DBY": "C'est l'Esprit qui vivifie; la chair ne profite de rien: les paroles que moi je vous ai dites sont esprit et sont vie;",
+        "KJV": "‹It is the spirit that quickeneth; the flesh profiteth nothing: the words that I speak unto you,› [they] ‹are spirit, and› [they] ‹are life.›",
+        "LSG": "C'est l'esprit qui vivifie; la chair ne sert de rien. Les paroles que je vous ai dites sont esprit et vie.",
+        "MAB": "C'est l'esprit qui vivifie; la chair ne profite de rien; les paroles que je vous dis, sont esprit et vie.",
+        "OST": "C'est l'esprit qui vivifie; la chair ne sert de rien. Les paroles que je vous dis sont esprit et vie.",
+        "S21": "C'est l'Esprit qui fait vivre, l’homme n’arrive à rien. Les paroles que je vous dis sont Esprit et vie,"
+      }
+    },
+    {
+      "verse": 64,
+      "texts": {
+        "BDS": "Hélas, il y en a parmi vous qui ne croient pas.\r\nEn effet, dès le début Jésus savait quels étaient ceux qui ne croyaient pas, et qui était celui qui allait le trahir.",
+        "DBY": "mais il y en a quelques-uns d'entre vous qui ne croient pas; car Jésus savait, dès le commencement, qui étaient ceux qui ne croyaient pas, et qui était celui qui le livrerait.",
+        "KJV": "‹But there are some of you that believe not.› For Jesus knew from the beginning who they were that believed not, and who should betray him.",
+        "LSG": "Mais il en est parmi vous quelques-uns qui ne croient point. Car Jésus savait dès le commencement qui étaient ceux qui ne croyaient point, et qui était celui qui le livrerait.",
+        "MAB": "Mais il y en a [plusieurs] entre vous qui ne croient point; car Jésus savait dès le commencement qui seraient ceux qui ne croiraient point, et qui serait celui qui le trahirait.",
+        "OST": "Mais il y en a parmi vous qui ne croient point. Car Jésus savait dès le commencement qui étaient ceux qui ne croyaient pas, et qui était celui qui le trahirait.",
+        "S21": "mais il y en a parmi vous quelques-uns qui ne croient pas.» En effet, Jésus savait dès le début qui étaient ceux qui ne croyaient pas et qui était celui qui le trahirait."
+      }
+    },
+    {
+      "verse": 65,
+      "texts": {
+        "BDS": "Aussi ajouta-t-il:\r\n—C’est bien pour cela que je vous ai dit: Personne ne peut venir à moi si cela ne lui est accordé par le Père.",
+        "DBY": "Et il dit: C'est pour cela que je vous ai dit que nul ne peut venir à moi, à moins qu'il ne lui soit donné du Père.",
+        "KJV": "And he said, ‹Therefore said I unto you, that no man can come unto me, except it were given unto him of my Father.›",
+        "LSG": "Et il ajouta: C'est pourquoi je vous ai dit que nul ne peut venir à moi, si cela ne lui a été donné par le Père.",
+        "MAB": "Il leur dit donc : c'est pour cela que je vous ai dit, que nul ne peut venir à moi, s'il ne lui est donné de mon Père.",
+        "OST": "Et il disait: C'est à cause de cela que je vous ai dit, que personne ne peut venir à moi, si cela ne lui a été donné par mon Père.",
+        "S21": "Il ajouta: «Voilà pourquoi je vous ai dit que personne ne peut venir à moi à moins que cela ne lui soit donné par mon Père.»"
+      }
+    },
+    {
+      "verse": 66,
+      "texts": {
+        "BDS": "A partir de ce moment-là, beaucoup de ses disciples l’abandonnèrent et cessèrent de l’accompagner.",
+        "DBY": "Dès lors plusieurs de ses disciples se retirèrent; et ils ne marchaient plus avec lui.",
+        "KJV": "From that [time] many of his disciples went back, and walked no more with him.",
+        "LSG": "Dès ce moment, plusieurs de ses disciples se retirèrent, et ils n'allaient plus avec lui.",
+        "MAB": "Dès cette heure-là plusieurs de ses Disciples l'abandonnèrent, et ils ne marchaient plus avec lui.",
+        "OST": "Dès lors plusieurs de ses disciples se retirèrent, et n'allaient plus avec lui.",
+        "S21": "Dès ce moment, beaucoup de ses disciples se retirèrent et arrêtèrent de marcher avec lui."
+      }
+    },
+    {
+      "verse": 67,
+      "texts": {
+        "BDS": "Alors Jésus, se tournant vers les Douze, leur demanda:\r\n—Et vous, ne voulez-vous pas aussi partir?",
+        "DBY": "Jésus donc dit aux douze: Et vous, voulez-vous aussi vous en aller?",
+        "KJV": "Then said Jesus unto the twelve, ‹Will ye also go away?›",
+        "LSG": "Jésus donc dit aux douze: Et vous, ne voulez-vous pas aussi vous en aller?",
+        "MAB": "Et Jésus dit aux douze : et vous, ne vous en voulez-vous point aussi aller?",
+        "OST": "Jésus dit donc aux douze: Et vous, ne voulez-vous point aussi vous en aller?",
+        "S21": "Jésus dit alors aux douze: «Et vous, ne voulez-vous pas aussi vous en aller?»"
+      }
+    },
+    {
+      "verse": 68,
+      "texts": {
+        "BDS": "Mais Simon Pierre lui répondit:\r\n—Seigneur, vers qui irions-nous? Tu as les paroles de la vie éternelle.",
+        "DBY": "Simon Pierre lui répondit: Seigneur, auprès de qui nous en irions-nous? Tu as les paroles de la vie éternelle;",
+        "KJV": "Then Simon Peter answered him, Lord, to whom shall we go? thou hast the words of eternal life.",
+        "LSG": "Simon Pierre lui répondit: Seigneur, à qui irions-nous? Tu as les paroles de la vie éternelle.",
+        "MAB": "Mais Simon Pierre lui répondit : Seigneur! auprès de qui nous en irons-nous? tu as les paroles de la vie éternelle :",
+        "OST": "Simon Pierre lui répondit: Seigneur, à qui irions-nous? Tu as les paroles de la vie éternelle;",
+        "S21": "Simon Pierre lui répondit: «Seigneur, à qui irions-nous? Tu as les paroles de la vie éternelle."
+      }
+    },
+    {
+      "verse": 69,
+      "texts": {
+        "BDS": "Nous, nous avons mis toute notre confiance en toi et nous savons que tu es le Saint, envoyé de Dieu.",
+        "DBY": "et nous, nous croyons et nous savons que toi, tu es le Saint de Dieu.",
+        "KJV": "And we believe and are sure that thou art that Christ, the Son of the living God.",
+        "LSG": "Et nous avons cru et nous avons connu que tu es le Christ, le Saint de Dieu.",
+        "MAB": "Et nous avons cru, et nous avons connu que tu es le Christ, le Fils du Dieu vivant.",
+        "OST": "Et nous avons cru, et nous avons connu que tu es le Christ, le Fils du Dieu vivant.",
+        "S21": "Et nous, nous croyons et nous savons que tu es le Messie, le Fils du Dieu vivant.»"
+      }
+    },
+    {
+      "verse": 70,
+      "texts": {
+        "BDS": "—N’est-ce pas moi qui vous ai choisis tous les douze? reprit Jésus. Et pourtant, l’un de vous est un diable.",
+        "DBY": "Jésus leur répondit: N'est-ce pas moi qui vous ai choisis vous, les douze, et l'un d'entre vous est un diable?",
+        "KJV": "Jesus answered them, ‹Have not I chosen you twelve, and one of you is a devil?›",
+        "LSG": "Jésus leur répondit: N'est-ce pas moi qui vous ai choisis, vous les douze? Et l'un de vous est un démon!",
+        "MAB": "Jésus leur répondit : ne vous ai-je pas choisis vous douze? et toutefois l'un de vous est un démon.",
+        "OST": "Jésus leur répondit: Ne vous ai-je pas choisis, vous douze? et l'un de vous est un démon.",
+        "S21": "Jésus leur répondit: «N'est-ce pas moi qui vous ai choisis, vous les douze? Et l'un de vous est un diable!»"
+      }
+    },
+    {
+      "verse": 71,
+      "texts": {
+        "BDS": "Par ces mots, il désignait Judas, fils de Simon Iscariot, l’un des Douze, qui allait le trahir.",
+        "DBY": "Or il parlait de Judas Iscariote, fils de Simon; car c'était lui qui allait le livrer, lui qui était l'un des douze.",
+        "KJV": "He spake of Judas Iscariot [the son] of Simon: for he it was that should betray him, being one of the twelve.",
+        "LSG": "Il parlait de Judas Iscariot, fils de Simon; car c'était lui qui devait le livrer, lui, l'un des douze.",
+        "MAB": "Or il disait cela de Judas Iscariot, [fils] de Simon ; car c'était celui à qui il devait arriver de le trahir, quoiqu'il fût l'un des douze.",
+        "OST": "Or, il parlait de Judas l'Iscariote, fils de Simon; car celui-ci devait le trahir, lui, l'un des douze.",
+        "S21": "Il parlait de Judas l’Iscariot, fils de Simon, car c'était lui qui allait le trahir, lui, l'un des douze."
+      }
+    }
+  ]
+}

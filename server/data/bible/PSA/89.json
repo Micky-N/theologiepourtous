@@ -1,0 +1,638 @@
+{
+  "bookCode": "PSA",
+  "chapter": 89,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "Méditation d’Etân l’Ezrahite.",
+        "DBY": "Je chanterai à toujours les bontés de l'Éternel; de génération en génération je ferai connaître de ma bouche ta fidélité.",
+        "KJV": "Maschil of Ethan the Ezrahite. I will sing of the mercies of the LORD for ever: with my mouth will I make known thy faithfulness to all generations.",
+        "LSG": "Cantique d'Ethan, l'Ezrachite. Je chanterai toujours les bontés de l'Eternel; Ma bouche fera connaître à jamais ta fidélité.",
+        "MAB": "Maskil d'Ethan Ezrahite. Je chanterai les bontés de l'Eternel à toujours; je manifesterai de ma bouche ta fidélité d'âge en âge.",
+        "OST": "Maskil d'Éthan l'Ezrachite.",
+        "S21": "Cantique d’Ethan l’Ezrachite."
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "Je veux chanter à jamais les bontés de l’Eternel\r\net proclamer d’âge en âge sa fidélité.",
+        "DBY": "Car j'ai dit: La bonté sera édifiée pour toujours; dans les cieux mêmes tu établiras ta fidélité.",
+        "KJV": "For I have said, Mercy shall be built up for ever: thy faithfulness shalt thou establish in the very heavens.",
+        "LSG": "Car je dis: La bonté a des fondements éternels; Tu établis ta fidélité dans les cieux.",
+        "MAB": "Car j'ai dit : ta bonté continue à toujours, [comme] les cieux, tu as établi en eux ta fidélité [quand tu as dit] :",
+        "OST": "Je chanterai à jamais les bontés de l'Éternel; ma bouche publiera ta fidélité d'âge en âge.",
+        "S21": "Je chanterai toujours les bontés de l’Eternel, ma bouche fera connaître ta fidélité de génération en génération."
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "En effet, je peux le dire: ta bonté est établie pour l’éternité.\r\nDans les cieux tu as ancré ta fidélité.",
+        "DBY": "J'ai fait alliance avec mon élu, j'ai juré à David, mon serviteur:",
+        "KJV": "I have made a covenant with my chosen, I have sworn unto David my servant,",
+        "LSG": "J'ai fait alliance avec mon élu; Voici ce que j'ai juré à David, mon serviteur:",
+        "MAB": "J'ai traité alliance avec mon élu, j'ai fait serment à David mon serviteur, [en disant] :",
+        "OST": "Car j'ai dit: Ta bonté subsiste à jamais; tu établis ta fidélité dans les cieux.",
+        "S21": "Oui, je le dis: «La bonté est édifiée pour toujours; tu fondes ta fidélité dans le ciel.»"
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "Tu as déclaré: «J’ai contracté une alliance avec mon élu;\r\nà David, mon serviteur, j’ai fait un serment:",
+        "DBY": "J'établirai ta semence pour toujours, et j'édifierai ton trône de génération en génération. Sélah.",
+        "KJV": "Thy seed will I establish for ever, and build up thy throne to all generations. Selah.",
+        "LSG": "J'affermirai ta postérité pour toujours, Et j'établirai ton trône à perpétuité. Pause.",
+        "MAB": "J'établirai ta race à toujours, et j'affermirai ton trône d'âge en âge; Sélah.",
+        "OST": "J'ai traité alliance avec mon élu; j'ai fait serment à David, mon serviteur, disant:",
+        "S21": "J’ai fait alliance avec celui que j’ai choisi, j’ai fait ce serment à mon serviteur David:"
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "Je maintiens ta dynastie pour l’éternité\r\net j’affermirai ton trône aux siècles des siècles.»\r\nPause",
+        "DBY": "Et les cieux célébreront tes merveilles, ô Éternel! oui, ta fidélité, dans la congrégation des saints.",
+        "KJV": "And the heavens shall praise thy wonders, O LORD: thy faithfulness also in the congregation of the saints.",
+        "LSG": "Les cieux célèbrent tes merveilles, ô Eternel! Et ta fidélité dans l'assemblée des saints.",
+        "MAB": "Et les cieux célèbrent tes merveilles, ô Eternel! ta fidélité aussi [est] célébrée dans l'assemblée des Saints.",
+        "OST": "J'affermirai ta postérité pour toujours, et je fonderai ton trône pour tous les âges. (Sélah.)",
+        "S21": "«J’affermirai ta descendance pour toujours et j’établirai ton trône pour l’éternité.» – Pause."
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "O Eternel, les cieux chantent ton œuvre admirable.\r\nL’assemblée des saints célèbre ta fidélité.",
+        "DBY": "Car qui, dans les nues, peut être comparé à l'Éternel? Qui, parmi les fils des forts, est semblable à l'Éternel?",
+        "KJV": "For who in the heaven can be compared unto the LORD? [who] among the sons of the mighty can be likened unto the LORD?",
+        "LSG": "Car qui, dans le ciel, peut se comparer à l'Eternel? Qui est semblable à toi parmi les fils de Dieu?",
+        "MAB": "Car qui est-ce au-dessus des nues qui soit égal à l'Eternel? Qui est semblable à l'Eternel entre les fils des forts?",
+        "OST": "Les cieux, ô Éternel, célèbrent tes merveilles et ta fidélité dans l'assemblée des saints.",
+        "S21": "Le ciel célèbre tes merveilles, Eternel, et ta fidélité dans l’assemblée des saints."
+      }
+    },
+    {
+      "verse": 7,
+      "texts": {
+        "BDS": "Qui dans le ciel est égal à toi, Eternel?\r\nQui donc est semblable à toi, qui, parmi les dieux?",
+        "DBY": "Dieu est extrêmement redoutable dans l'assemblée des saints, et terrible au milieu de tous ceux qui l'entourent.",
+        "KJV": "God is greatly to be feared in the assembly of the saints, and to be had in reverence of all [them that are] about him.",
+        "LSG": "Dieu est terrible dans la grande assemblée des saints, Il est redoutable pour tous ceux qui l'entourent.",
+        "MAB": "Le [Dieu] Fort se rend extrêmement terrible dans le Conseil secret des Saints, il est plus redouté que tous ceux qui sont à l'entour de lui.",
+        "OST": "Car qui, dans les lieux célestes, est comparable à l'Éternel? qui ressemble à l'Éternel parmi les fils des dieux?",
+        "S21": "En effet, qui, dans le ciel, peut se comparer à l’Eternel? Qui est semblable à toi parmi les fils de Dieu?"
+      }
+    },
+    {
+      "verse": 8,
+      "texts": {
+        "BDS": "Car c’est un Dieu redoutable au conseil des saints,\r\nplus grand, plus impressionnant que ceux qui l’entourent.",
+        "DBY": "Éternel, Dieu des armées, qui est comme toi, puissant Jah? Et ta fidélité est tout autour de toi.",
+        "KJV": "O LORD God of hosts, who [is] a strong LORD like unto thee? or to thy faithfulness round about thee?",
+        "LSG": "Eternel, Dieu des armées! qui est comme toi puissant, ô Eternel? Ta fidélité t'environne.",
+        "MAB": "Ô Eternel Dieu des armées, qui est semblable à toi, puissant Eternel? aussi ta fidélité est à l'entour de toi.",
+        "OST": "Dieu est terrible dans l'assemblée des saints, redoutable plus que tous ceux qui l'environnent.",
+        "S21": "Dieu est redoutable dans la grande assemblée des saints, il est terrible pour tous ceux qui l’entourent."
+      }
+    },
+    {
+      "verse": 9,
+      "texts": {
+        "BDS": "Qui, ô Eternel, ô Dieu des armées célestes, qui est puissant comme toi? Qui, ô Eternel?\r\nTa fidélité rayonne tout autour de toi.",
+        "DBY": "Toi, tu domines l'orgueil de la mer; quand ses flots se soulèvent, toi tu les apaises.",
+        "KJV": "Thou rulest the raging of the sea: when the waves thereof arise, thou stillest them.",
+        "LSG": "Tu domptes l'orgueil de la mer; Quand ses flots se soulèvent, tu les apaises.",
+        "MAB": "Tu as puissance sur l'élévation des flots de la mer; quand ses vagues s'élèvent, tu les fais rabaisser.",
+        "OST": "Éternel, Dieu des armées, qui est puissant comme toi, ô Éternel? Tu es environné de ta fidélité.",
+        "S21": "Eternel, Dieu de l’univers, qui est puissant comme toi? Eternel, ta fidélité t’environne."
+      }
+    },
+    {
+      "verse": 10,
+      "texts": {
+        "BDS": "Oui, c’est toi seul qui maîtrises l’orgueil de la mer.\r\nQuand ses vagues se déchaînent, toi, tu les apaises.",
+        "DBY": "Toi, tu as abattu Rahab comme un homme tué; par le bras de ta force tu as dispersé tes ennemis.",
+        "KJV": "Thou hast broken Rahab in pieces, as one that is slain; thou hast scattered thine enemies with thy strong arm.",
+        "LSG": "Tu écrasas l'Egypte comme un cadavre, Tu dispersas tes ennemis par la puissance de ton bras.",
+        "MAB": "Tu as abattu Rahab comme un homme blessé à mort; tu as dissipé tes ennemis par le bras de ta force.",
+        "OST": "Tu domines sur l'orgueil de la mer; quand ses vagues s'élèvent, toi, tu les apaises.",
+        "S21": "C’est toi qui maîtrises l’orgueil de la mer; quand ses vagues se soulèvent, c’est toi qui les calmes."
+      }
+    },
+    {
+      "verse": 11,
+      "texts": {
+        "BDS": "C’est toi qui as écrasé, transpercé l’Egypte\r\net c’est par ton bras puissant que tes ennemis ont été éparpillés de tous les côtés.",
+        "DBY": "A toi les cieux, et à toi la terre; le monde et tout ce qu'il contient, toi tu l'as fondé.",
+        "KJV": "The heavens [are] thine, the earth also [is] thine: [as for] the world and the fulness thereof, thou hast founded them.",
+        "LSG": "C'est à toi qu'appartiennent les cieux et la terre, C'est toi qui as fondé le monde et ce qu'il renferme.",
+        "MAB": "A toi sont les cieux, à toi aussi est la terre; tu as fondé la terre habitable, et tout ce qui est en elle.",
+        "OST": "Tu as abattu Rahab comme un blessé à mort; par ton bras puissant tu as dissipé tes ennemis.",
+        "S21": "Tu as écrasé l’Egypte, tu l’as transpercée, tu as dispersé tes ennemis par la puissance de ton bras."
+      }
+    },
+    {
+      "verse": 12,
+      "texts": {
+        "BDS": "A toi appartient le ciel et à toi la terre,\r\nle monde et son contenu, tu les as fondés;",
+        "DBY": "Le nord et le midi, toi tu les as créés; le Thabor et l'Hermon exultent en ton nom.",
+        "KJV": "The north and the south thou hast created them: Tabor and Hermon shall rejoice in thy name.",
+        "LSG": "Tu as créé le nord et le midi; Le Thabor et l'Hermon se réjouissent à ton nom.",
+        "MAB": "Tu as créé l'Aquilon et le Midi; Tabor et Hermon se réjouissent en ton Nom.",
+        "OST": "A toi sont les cieux, à toi aussi la terre; tu as fondé le monde et ce qu'il renferme.",
+        "S21": "C’est à toi qu’appartient le ciel, à toi aussi la terre; c’est toi qui as fondé le monde et ce qu’il contient."
+      }
+    },
+    {
+      "verse": 13,
+      "texts": {
+        "BDS": "Et le Nord et le Midi, tu les as créés.\r\nLe mont Thabor et l’Hermon dans leur joie t’acclament.",
+        "DBY": "A toi est le bras de puissance; ta main est forte; ta droite est haut élevée.",
+        "KJV": "Thou hast a mighty arm: strong is thy hand, [and] high is thy right hand.",
+        "LSG": "Ton bras est puissant, Ta main forte, ta droite élevée.",
+        "MAB": "Tu as un bras puissant, ta main est forte, et ta droite est haut élevée.",
+        "OST": "Tu as créé le nord et le midi; le Thabor et l'Hermon poussent des cris de joie à ton nom.",
+        "S21": "Tu as créé le nord et le sud; le Thabor et l’Hermon acclament ton nom."
+      }
+    },
+    {
+      "verse": 14,
+      "texts": {
+        "BDS": "Ton bras est armé de force,\r\nta main est puissante, et ta droite est exaltée.",
+        "DBY": "La justice et le jugement sont les bases de ton trône; la bonté et la vérité marchent devant ta face.",
+        "KJV": "Justice and judgment [are] the habitation of thy throne: mercy and truth shall go before thy face.",
+        "LSG": "La justice et l'équité sont la base de ton trône. La bonté et la fidélité sont devant ta face.",
+        "MAB": "La justice et l'équité sont la base de ton trône; la gratuité et la vérité marchent devant ta face.",
+        "OST": "Ton bras est puissant, ta main forte, ta droite élevée.",
+        "S21": "Ton bras est puissant, ta main forte, ta droite élevée."
+      }
+    },
+    {
+      "verse": 15,
+      "texts": {
+        "BDS": "Les assises de ton trône sont justice et droit.\r\nL’amour et la vérité marchent devant toi.",
+        "DBY": "Bienheureux le peuple qui connaît le cri de joie! ils marchent, ô Éternel! à la lumière de ta face.",
+        "KJV": "Blessed [is] the people that know the joyful sound: they shall walk, O LORD, in the light of thy countenance.",
+        "LSG": "Heureux le peuple qui connaît le son de la trompette; Il marche à la clarté de ta face, ô Eternel!",
+        "MAB": "Ô que bienheureux est le peuple qui sait ce que c'est que du cri de réjouissance! Ils marcheront, ô Eternel! à la clarté de ta face.",
+        "OST": "La justice et l'équité sont la base de ton trône; la grâce et la vérité marchent devant ta face.",
+        "S21": "La justice et le droit forment la base de ton trône, la bonté et la vérité sont devant toi."
+      }
+    },
+    {
+      "verse": 16,
+      "texts": {
+        "BDS": "Oh! qu’il est heureux, le peuple\r\nqui sait t’acclamer.\r\nEternel, à ta lumière,\r\nil peut cheminer.",
+        "DBY": "Ils s'égaient en ton nom tout le jour, et sont haut élevés par ta justice.",
+        "KJV": "In thy name shall they rejoice all the day: and in thy righteousness shall they be exalted.",
+        "LSG": "Il se réjouit sans cesse de ton nom, Et il se glorifie de ta justice.",
+        "MAB": "Ils s'égayeront tout le jour en ton Nom, et ils se glorifieront de ta justice.",
+        "OST": "Heureux le peuple qui connaît les cris de joie! Éternel, ils marchent à la clarté de ta face.",
+        "S21": "Heureux le peuple qui sait t’acclamer: il marche à ta lumière, Eternel,"
+      }
+    },
+    {
+      "verse": 17,
+      "texts": {
+        "BDS": "Il se réjouira sans cesse que tu sois son Dieu!\r\nEt c’est grâce à ta justice qu’il peut s’élever!",
+        "DBY": "Car tu es la gloire de leur force; et dans ton bon plaisir notre corne sera haut élevée.",
+        "KJV": "For thou [art] the glory of their strength: and in thy favour our horn shall be exalted.",
+        "LSG": "Car tu es la gloire de sa puissance; C'est ta faveur qui relève notre force.",
+        "MAB": "Parce que tu es la gloire de leur force; et notre pouvoir est distingué par ta faveur.",
+        "OST": "Ils se réjouissent en ton nom chaque jour, et se glorifient de ta justice.",
+        "S21": "il se réjouit sans cesse à cause de ton nom et tire gloire de ta justice,"
+      }
+    },
+    {
+      "verse": 18,
+      "texts": {
+        "BDS": "Car c’est toi qui constitues l’éclat de sa force,\r\net c’est grâce à ta faveur que nous triomphons.",
+        "DBY": "Car l'Éternel est notre bouclier, et le Saint d'Israël, notre roi.",
+        "KJV": "For the LORD [is] our defence; and the Holy One of Israel [is] our king.",
+        "LSG": "Car l'Eternel est notre bouclier, Le Saint d'Israël est notre roi.",
+        "MAB": "Car notre bouclier est l'Eternel, et notre Roi est le Saint d'Israël.",
+        "OST": "Car tu es leur gloire et leur force; c'est par ta faveur que notre corne est élevée.",
+        "S21": "car c’est toi qui fais sa beauté et sa puissance; c’est ta faveur qui relève notre force."
+      }
+    },
+    {
+      "verse": 19,
+      "texts": {
+        "BDS": "A l’Eternel appartient notre protecteur,\r\nnotre roi est dans la main du Saint d’Israël.",
+        "DBY": "Alors tu parlas en vision de ton saint, et tu dis: J'ai placé du secours sur un homme puissant, j'ai haut élevé un élu d'entre le peuple.",
+        "KJV": "Then thou spakest in vision to thy holy one, and saidst, I have laid help upon [one that is] mighty; I have exalted [one] chosen out of the people.",
+        "LSG": "Alors tu parlas dans une vision à ton bien-aimé, Et tu dis: J'ai prêté mon secours à un héros, J'ai élevé du milieu du peuple un jeune homme;",
+        "MAB": "Tu as autrefois parlé en vision touchant ton bien-aimé, et tu as dit : J'ai ordonné mon secours en faveur d'un homme vaillant; j'ai élevé l'élu d'entre le peuple.",
+        "OST": "Car l'Éternel est notre bouclier; le Saint d'Israël est notre roi.",
+        "S21": "Notre protecteur est à l’Eternel, notre roi appartient au Saint d’Israël."
+      }
+    },
+    {
+      "verse": 20,
+      "texts": {
+        "BDS": "Autrefois, tu as parlé dans une vision, tu as dit à tes fidèles:\r\n«J’ai prêté secours à un homme valeureux;\r\nau milieu du peuple, j’ai distingué un jeune homme:",
+        "DBY": "J'ai trouvé David, mon serviteur; je l'ai oint de mon huile sainte;",
+        "KJV": "I have found David my servant; with my holy oil have I anointed him:",
+        "LSG": "J'ai trouvé David, mon serviteur, Je l'ai oint de mon huile sainte.",
+        "MAB": "J'ai trouvé David mon serviteur, je l'ai oint de ma sainte huile;",
+        "OST": "Tu parlas jadis à ton bien-aimé dans une vision, et tu dis: J'ai prêté secours à un homme fort; j'ai élevé du milieu du peuple un héros;",
+        "S21": "Tu as parlé à tes fidèles dans une vision, tu as dit: «J’ai prêté secours à un héros, j’ai choisi du milieu du peuple un jeune homme."
+      }
+    },
+    {
+      "verse": 21,
+      "texts": {
+        "BDS": "j’ai trouvé David pour qu’il soit mon serviteur;\r\nde mon huile sainte, je lui ai donné l’onction.",
+        "DBY": "Ma main sera fermement avec lui, et mon bras le fortifiera;",
+        "KJV": "With whom my hand shall be established: mine arm also shall strengthen him.",
+        "LSG": "Ma main le soutiendra, Et mon bras le fortifiera.",
+        "MAB": "Ma main sera ferme avec lui, et mon bras le renforcera.",
+        "OST": "J'ai trouvé David mon serviteur, je l'ai oint de mon huile sainte;",
+        "S21": "J’ai trouvé mon serviteur David, je l’ai désigné par onction avec mon huile sainte."
+      }
+    },
+    {
+      "verse": 22,
+      "texts": {
+        "BDS": "Je le soutiendrai de ma forte main,\r\nje l’affermirai.",
+        "DBY": "L'ennemi ne le pressurera pas et le fils d'iniquité ne l'affligera pas;",
+        "KJV": "The enemy shall not exact upon him; nor the son of wickedness afflict him.",
+        "LSG": "L'ennemi ne le surprendra pas, Et le méchant ne l'opprimera point;",
+        "MAB": "L'ennemi ne le rançonnera point, et l'inique ne l'affligera point;",
+        "OST": "Ma main sera constamment avec lui, et mon bras le fortifiera;",
+        "S21": "Ma main le soutiendra et mon bras le fortifiera."
+      }
+    },
+    {
+      "verse": 23,
+      "texts": {
+        "BDS": "Ses ennemis ne pourront jamais le surprendre,\r\naucun méchant ne pourra jamais l’opprimer.",
+        "DBY": "J'abattrai ses adversaires devant sa face, et je frapperai ceux qui le haïssent;",
+        "KJV": "And I will beat down his foes before his face, and plague them that hate him.",
+        "LSG": "J'écraserai devant lui ses adversaires, Et je frapperai ceux qui le haïssent.",
+        "MAB": "Mais je froisserai devant lui ses adversaires, et je détruirai ceux qui le haïssent.",
+        "OST": "L'ennemi ne pourra le surprendre, et l'homme inique ne l'opprimera point;",
+        "S21": "L’ennemi ne pourra pas le tromper, ni le méchant l’opprimer."
+      }
+    },
+    {
+      "verse": 24,
+      "texts": {
+        "BDS": "J’écraserai devant lui tous ses adversaires,\r\nje réduirai à néant ceux qui le haïssent.",
+        "DBY": "Et ma fidélité et ma bonté seront avec lui, et, par mon nom, sa corne sera élevée.",
+        "KJV": "But my faithfulness and my mercy [shall be] with him: and in my name shall his horn be exalted.",
+        "LSG": "Ma fidélité et ma bonté seront avec lui, Et sa force s'élèvera par mon nom.",
+        "MAB": "Ma fidélité et ma bonté seront avec lui; et sa gloire sera élevée en mon Nom.",
+        "OST": "Je briserai devant lui ses adversaires, et je frapperai ceux qui le haïssent;",
+        "S21": "J’écraserai ses adversaires devant lui et je frapperai ceux qui le détestent."
+      }
+    },
+    {
+      "verse": 25,
+      "texts": {
+        "BDS": "Toujours mon fidèle amour l’accompagnera\r\net c’est moi qui lui ferai relever le front grâce à ma présence.",
+        "DBY": "Et j'ai mis sa main à la mer, et sa droite dans les fleuves.",
+        "KJV": "I will set his hand also in the sea, and his right hand in the rivers.",
+        "LSG": "Je mettrai sa main sur la mer, Et sa droite sur les fleuves.",
+        "MAB": "Et je mettrai sa main sur la mer, et sa droite sur les fleuves.",
+        "OST": "Ma fidélité, ma faveur seront avec lui, et sa force s'élèvera par mon nom;",
+        "S21": "Ma fidélité et ma bonté l’accompagneront, et sa force grandira par mon nom."
+      }
+    },
+    {
+      "verse": 26,
+      "texts": {
+        "BDS": "J’étendrai jusqu’à la mer sa domination.\r\nJ’établirai son empire jusque sur les fleuves.",
+        "DBY": "Lui me criera: Tu es mon père, mon Dieu, et le rocher de mon salut.",
+        "KJV": "He shall cry unto me, Thou [art] my father, my God, and the rock of my salvation.",
+        "LSG": "Lui, il m'invoquera: Tu es mon père, Mon Dieu et le rocher de mon salut!",
+        "MAB": "Il m'invoquera, [disant :] Tu es mon Père; mon [Dieu] Fort, et le Rocher de ma délivrance.",
+        "OST": "Je mettrai sa main sur la mer, et sa droite sur les fleuves.",
+        "S21": "J’étendrai sa domination sur la mer, et son pouvoir sur les fleuves."
+      }
+    },
+    {
+      "verse": 27,
+      "texts": {
+        "BDS": "«En m’invoquant, il dira: “Toi, tu es mon Père,\r\noui, c’est toi qui es mon Dieu, le roc qui me sauve.”",
+        "DBY": "Aussi moi, je ferai de lui le premier-né, le plus élevé des rois de la terre.",
+        "KJV": "Also I will make him [my] firstborn, higher than the kings of the earth.",
+        "LSG": "Et moi, je ferai de lui le premier-né, Le plus élevé des rois de la terre.",
+        "MAB": "Aussi je l'établirai l'aîné [et] le souverain sur les Rois de la terre.",
+        "OST": "Il m'invoquera, disant: Tu es mon Père, mon Dieu et le rocher de mon salut.",
+        "S21": "Lui-même fera appel à moi: ‘Tu es mon père, mon Dieu et le rocher de mon salut!’"
+      }
+    },
+    {
+      "verse": 28,
+      "texts": {
+        "BDS": "Et moi, je ferai de lui mon fils premier-né,\r\nle plus élevé des rois de la terre entière.",
+        "DBY": "Je lui garderai ma bonté à toujours, et mon alliance lui sera assurée.",
+        "KJV": "My mercy will I keep for him for evermore, and my covenant shall stand fast with him.",
+        "LSG": "Je lui conserverai toujours ma bonté, Et mon alliance lui sera fidèle;",
+        "MAB": "Je lui garderai ma bonté à toujours, et mon alliance lui sera assurée.",
+        "OST": "Aussi j'en ferai le premier-né, le souverain des rois de la terre.",
+        "S21": "Et moi, je ferai de lui le premier-né, le plus haut placé des rois de la terre."
+      }
+    },
+    {
+      "verse": 29,
+      "texts": {
+        "BDS": "Je lui garderai toujours toute ma faveur,\r\net je lui garantirai ma fidèle alliance.",
+        "DBY": "Et je ferai subsister sa semence à perpétuité, et son trône comme les jours des cieux.",
+        "KJV": "His seed also will I make [to endure] for ever, and his throne as the days of heaven.",
+        "LSG": "Je rendrai sa postérité éternelle, Et son trône comme les jours des cieux.",
+        "MAB": "Je rendrai éternelle sa postérité, et je ferai que son trône sera comme les jours des cieux.",
+        "OST": "Je lui conserverai ma faveur à toujours, et mon alliance lui est assurée.",
+        "S21": "Je lui conserverai toujours ma bonté, et mon alliance lui sera assurée."
+      }
+    },
+    {
+      "verse": 30,
+      "texts": {
+        "BDS": "Je maintiendrai pour toujours sa postérité,\r\net son trône durera autant que les cieux.",
+        "DBY": "Si ses fils abandonnent ma loi et ne marchent pas dans mes ordonnances,",
+        "KJV": "If his children forsake my law, and walk not in my judgments;",
+        "LSG": "Si ses fils abandonnent ma loi Et ne marchent pas selon ses ordonnances,",
+        "MAB": "Mais si ses enfants abandonnent ma Loi, et ne marchent point selon mes ordonnances;",
+        "OST": "Je rendrai sa postérité éternelle, et son trône comme les jours des cieux.",
+        "S21": "Je lui donnerai une descendance éternelle, et son trône durera autant que le ciel."
+      }
+    },
+    {
+      "verse": 31,
+      "texts": {
+        "BDS": "«S’il arrivait que ses fils délaissent ma Loi,\r\ns’ils ne se conduisaient plus selon mes décrets,",
+        "DBY": "S'ils violent mes statuts et ne gardent pas mes commandements,",
+        "KJV": "If they break my statutes, and keep not my commandments;",
+        "LSG": "S'ils violent mes préceptes Et n'observent pas mes commandements,",
+        "MAB": "S'ils violent mes statuts, et qu'ils ne gardent point mes commandements;",
+        "OST": "Si ses fils abandonnent ma loi, et ne marchent pas selon mes ordonnances;",
+        "S21": "Si ses fils abandonnent ma loi et ne marchent pas suivant mes règles,"
+      }
+    },
+    {
+      "verse": 32,
+      "texts": {
+        "BDS": "s’ils venaient à transgresser mes commandements,\r\net s’ils n’obéissaient plus à mes ordonnances,",
+        "DBY": "Je visiterai leur transgression avec la verge, et leur iniquité avec des coups;",
+        "KJV": "Then will I visit their transgression with the rod, and their iniquity with stripes.",
+        "LSG": "Je punirai de la verge leurs transgressions, Et par des coups leurs iniquités;",
+        "MAB": "Je visiterai de verge leur transgression, et de plaie leur iniquité.",
+        "OST": "S'ils violent mes statuts, et ne gardent pas mes commandements;",
+        "S21": "s’ils violent mes prescriptions et ne respectent pas mes commandements,"
+      }
+    },
+    {
+      "verse": 33,
+      "texts": {
+        "BDS": "je châtierais leur péché avec le bâton,\r\nje sévirais par des coups contre leur révolte.",
+        "DBY": "Mais je ne retirerai pas de lui ma bonté, et je ne démentirai pas ma fidélité;",
+        "KJV": "Nevertheless my lovingkindness will I not utterly take from him, nor suffer my faithfulness to fail.",
+        "LSG": "Mais je ne lui retirerai point ma bonté Et je ne trahirai pas ma fidélité,",
+        "MAB": "Mais je ne retirerai point de lui ma bonté, et je ne lui fausserai point ma foi.",
+        "OST": "Je châtierai leur transgression par la verge, et leur iniquité par des plaies.",
+        "S21": "je punirai leurs transgressions avec le bâton et leurs fautes par des coups,"
+      }
+    },
+    {
+      "verse": 34,
+      "texts": {
+        "BDS": "Mais je ne renierai pas mon amour pour lui.\r\nJe ne démentirai pas ma fidélité,",
+        "DBY": "Je ne violerai point mon alliance, et je ne changerai pas ce qui est sorti de mes lèvres.",
+        "KJV": "My covenant will I not break, nor alter the thing that is gone out of my lips.",
+        "LSG": "Je ne violerai point mon alliance Et je ne changerai pas ce qui est sorti de mes lèvres.",
+        "MAB": "Je ne violerai point mon alliance, et je ne changerai point ce qui est sorti de mes lèvres.",
+        "OST": "Mais je ne lui retirerai pas ma bonté, et ne lui fausserai point ma foi.",
+        "S21": "mais je ne lui retirerai pas ma bonté et je ne trahirai pas ma fidélité,"
+      }
+    },
+    {
+      "verse": 35,
+      "texts": {
+        "BDS": "non, car je ne trahirai jamais mon alliance\r\net je ne reviendrai pas sur ce que j’ai dit.",
+        "DBY": "J'ai une fois juré par ma sainteté, si jamais je mens à David!",
+        "KJV": "Once have I sworn by my holiness that I will not lie unto David.",
+        "LSG": "J'ai juré une fois par ma sainteté: Mentirai-je à David?",
+        "MAB": "J'ai une fois juré par ma sainteté; (si je mens jamais à David; )",
+        "OST": "Je ne violerai point mon alliance, et ne changerai pas ce qui est sorti de mes lèvres.",
+        "S21": "je ne violerai pas mon alliance et je ne changerai pas ce qui est sorti de mes lèvres."
+      }
+    },
+    {
+      "verse": 36,
+      "texts": {
+        "BDS": "Un jour, j’ai fait le serment par ma sainteté:\r\nNon, je ne pourrai jamais mentir à David.",
+        "DBY": "Sa semence sera à toujours, et son trône comme le soleil devant moi.",
+        "KJV": "His seed shall endure for ever, and his throne as the sun before me.",
+        "LSG": "Sa postérité subsistera toujours; Son trône sera devant moi comme le soleil,",
+        "MAB": "Que sa race sera à toujours, et que son trône sera comme le soleil, en ma présence :",
+        "OST": "J'ai une fois juré par ma sainteté; je ne mentirai point à David.",
+        "S21": "J’ai prêté une fois serment par ma sainteté, je ne mentirai pas à David."
+      }
+    },
+    {
+      "verse": 37,
+      "texts": {
+        "BDS": "Sa lignée subsistera éternellement,\r\net son trône devant moi sera comme le soleil.",
+        "DBY": "Comme la lune, il sera affermi pour toujours; et le témoin dans les nues en est ferme. Sélah.",
+        "KJV": "It shall be established for ever as the moon, and [as] a faithful witness in heaven. Selah.",
+        "LSG": "Comme la lune il aura une éternelle durée. Le témoin qui est dans le ciel est fidèle. Pause.",
+        "MAB": "Qu'il sera affermi à toujours comme la lune; et il y en aura dans les cieux un témoin certain; Sélah.",
+        "OST": "Sa postérité subsistera toujours, et son trône aussi longtemps que le soleil devant moi.",
+        "S21": "Sa descendance subsistera toujours; son trône sera pareil au soleil devant moi,"
+      }
+    },
+    {
+      "verse": 38,
+      "texts": {
+        "BDS": "Comme la lune, à toujours, il se maintiendra.\r\nLà-haut, le témoin céleste en est le garant.»\r\nPause",
+        "DBY": "Mais tu l'as rejeté et tu l'as méprisé, tu as été courroucé contre ton oint.",
+        "KJV": "But thou hast cast off and abhorred, thou hast been wroth with thine anointed.",
+        "LSG": "Et pourtant, tu as rejeté, tu as repoussé! Tu t'es irrité contre ton oint!",
+        "MAB": "Néanmoins tu l'as rejeté, et l'as dédaigné; tu t'es mis en grande colère contre ton Oint.",
+        "OST": "Comme la lune, il durera à jamais; et il y en a dans les cieux un témoin fidèle.",
+        "S21": "comme la lune il sera établi éternellement. Le témoin qui est dans le ciel est fidèle.» – Pause."
+      }
+    },
+    {
+      "verse": 39,
+      "texts": {
+        "BDS": "Pourtant, tu as délaissé, tu as rejeté,\r\ncelui qui avait reçu l’onction d’huile sainte, tu t’es fâché contre lui.",
+        "DBY": "as répudié l'alliance de ton serviteur, tu as profané sa couronne jusqu'en terre;",
+        "KJV": "Thou hast made void the covenant of thy servant: thou hast profaned his crown [by casting it] to the ground.",
+        "LSG": "Tu as dédaigné l'alliance avec ton serviteur; Tu as abattu, profané sa couronne.",
+        "MAB": "Tu as rejeté l'alliance faite avec ton serviteur; tu as souillé sa couronne, [en la jetant] par terre.",
+        "OST": "Cependant tu l'as rejeté, tu l'as méprisé; tu t'es indigné contre ton Oint;",
+        "S21": "Et pourtant, tu as rejeté, tu as repoussé celui que tu avais désigné par onction, tu t’es irrité contre lui!"
+      }
+    },
+    {
+      "verse": 40,
+      "texts": {
+        "BDS": "Tu as dédaigné l’alliance faite avec ton serviteur,\r\ntu as souillé sa couronne, la jetant à terre.",
+        "DBY": "Tu as rompu toutes ses clôtures, tu as mis en ruine ses forteresses:",
+        "KJV": "Thou hast broken down all his hedges; thou hast brought his strong holds to ruin.",
+        "LSG": "Tu as détruit toutes ses murailles, Tu as mis en ruines ses forteresses.",
+        "MAB": "Tu as rompu toutes ses cloisons; tu as mis en ruine ses forteresses.",
+        "OST": "Tu as repoussé l'alliance de ton serviteur; tu as jeté à terre et profané sa couronne.",
+        "S21": "Tu as rompu l’alliance avec ton serviteur, tu as déshonoré sa couronne en la jetant par terre."
+      }
+    },
+    {
+      "verse": 41,
+      "texts": {
+        "BDS": "Tu as fait de larges brèches dans tous ses remparts,\r\net ses fortifications, tu les as détruites.",
+        "DBY": "Tous ceux qui passent le pillent; il est en opprobre à ses voisins.",
+        "KJV": "All that pass by the way spoil him: he is a reproach to his neighbours.",
+        "LSG": "Tous les passants le dépouillent; Il est un objet d'opprobre pour ses voisins.",
+        "MAB": "Tous ceux qui passaient par le chemin l'ont pillé; il a été mis en opprobre à ses voisins.",
+        "OST": "Tu as rompu toutes ses barrières; tu as ruiné ses forteresses.",
+        "S21": "Tu as détruit toutes ses murailles, tu as mis en ruine ses forteresses."
+      }
+    },
+    {
+      "verse": 42,
+      "texts": {
+        "BDS": "Tous les passants l’ont pillé,\r\nses voisins le raillent.",
+        "DBY": "Tu as élevé la droite de ses adversaires, tu as réjoui tous ses ennemis;",
+        "KJV": "Thou hast set up the right hand of his adversaries; thou hast made all his enemies to rejoice.",
+        "LSG": "Tu as élevé la droite de ses adversaires, Tu as réjoui tous ses ennemis;",
+        "MAB": "Tu as élevé la droite de ses adversaires, tu as réjoui tous ses ennemis.",
+        "OST": "Tous ceux qui passent au chemin le pillent; il est en opprobre à ses voisins.",
+        "S21": "Tous les passants le dépouillent, il est un objet de mépris pour ses voisins."
+      }
+    },
+    {
+      "verse": 43,
+      "texts": {
+        "BDS": "Tu as soutenu la force de ses oppresseurs\r\net tu as rempli de joie tous ses ennemis.",
+        "DBY": "Tu as retourné le tranchant de son épée, et tu ne l'as pas soutenu dans la bataille.",
+        "KJV": "Thou hast also turned the edge of his sword, and hast not made him to stand in the battle.",
+        "LSG": "Tu as fait reculer le tranchant de son glaive, Et tu ne l'as pas soutenu dans le combat.",
+        "MAB": "Tu as aussi émoussé la pointe de son épée, et tu ne l'as point redressé en la bataille.",
+        "OST": "Tu as élevé la droite de ses adversaires, tu as réjoui tous ses ennemis;",
+        "S21": "Tu as fortifié ses adversaires, tu as réjoui tous ses ennemis;"
+      }
+    },
+    {
+      "verse": 44,
+      "texts": {
+        "BDS": "Tu as même fait dévier les coups de son glaive.\r\nTu ne l’as pas soutenu pendant le combat.",
+        "DBY": "Tu as fait cesser son éclat, et tu as jeté par terre son trône;",
+        "KJV": "Thou hast made his glory to cease, and cast his throne down to the ground.",
+        "LSG": "Tu as mis un terme à sa splendeur, Et tu as jeté son trône à terre;",
+        "MAB": "Tu as fait cesser sa splendeur, et tu as jeté par terre son trône.",
+        "OST": "Tu as fait plier la pointe de son épée et ne l'as pas soutenu dans le combat.",
+        "S21": "tu as fait reculer le tranchant de son épée et tu ne l’as pas soutenu dans le combat."
+      }
+    },
+    {
+      "verse": 45,
+      "texts": {
+        "BDS": "Tu as terni sa splendeur,\r\njeté bas son trône,",
+        "DBY": "Tu as abrégé les jours de sa jeunesse, tu l'as couvert de honte. Sélah.",
+        "KJV": "The days of his youth hast thou shortened: thou hast covered him with shame. Selah.",
+        "LSG": "Tu as abrégé les jours de sa jeunesse, Tu l'as couvert de honte. Pause.",
+        "MAB": "Tu as abrégé les jours de sa jeunesse, [et] l'as couvert de honte; Sélah.",
+        "OST": "Tu as fait cesser son éclat, et tu as jeté son trône à terre;",
+        "S21": "Tu as mis fin à sa splendeur et tu as jeté son trône à terre;"
+      }
+    },
+    {
+      "verse": 46,
+      "texts": {
+        "BDS": "et abrégé sa jeunesse;\r\ntu l’as humilié.\r\nPause",
+        "DBY": "Jusques à quand, ô Éternel, te cacheras-tu à toujours, et ta fureur brûlera-t-elle comme un feu?",
+        "KJV": "How long, LORD? wilt thou hide thyself for ever? shall thy wrath burn like fire?",
+        "LSG": "Jusques à quand, Eternel! te cacheras-tu sans cesse, Et ta fureur s'embrasera-t-elle comme le feu?",
+        "MAB": "Jusques à quand, ô Eternel? te cacheras-tu à jamais? ta fureur s'embrasera-t-elle comme un feu?",
+        "OST": "Tu as abrégé les jours de sa jeunesse, et tu l'as couvert de honte. (Sélah.)",
+        "S21": "tu as abrégé sa jeunesse, tu l’as couvert de honte. – Pause."
+      }
+    },
+    {
+      "verse": 47,
+      "texts": {
+        "BDS": "Jusques à quand, Eternel, te cacheras-tu\r\net laisseras-tu flamber ton indignation?",
+        "DBY": "Souviens-toi, quant à moi, de ce qu'est la vie: pourquoi as-tu créé tous les fils des hommes pour n'être que vanité?",
+        "KJV": "Remember how short my time is: wherefore hast thou made all men in vain?",
+        "LSG": "Rappelle-toi ce qu'est la durée de ma vie, Et pour quel néant tu as créé tous les fils de l'homme.",
+        "MAB": "Souviens-toi de combien petite durée je suis; pourquoi aurais-tu créé en vain tous les fils des hommes?",
+        "OST": "Jusques à quand, Éternel, te cacheras-tu sans cesse, et ta colère sera-t-elle embrasée comme un feu?",
+        "S21": "Jusqu’à quand, Eternel, resteras-tu caché? Jusqu’à quand ta fureur brûlera-t-elle comme le feu?"
+      }
+    },
+    {
+      "verse": 48,
+      "texts": {
+        "BDS": "Souviens-toi: ma vie est courte,\r\nas-tu donc créé pour le néant tous les hommes?",
+        "DBY": "Qui est l'homme qui vit et qui ne verra pas la mort, -qui sauvera son âme de la main du shéol? Sélah.",
+        "KJV": "What man [is he that] liveth, and shall not see death? shall he deliver his soul from the hand of the grave? Selah.",
+        "LSG": "Y a-t-il un homme qui puisse vivre et ne pas voir la mort, Qui puisse sauver son âme du séjour des morts? Pause.",
+        "MAB": "Qui est l'homme qui vivra, et ne verra point la mort, et qui garantira son âme de la main du sépulcre? (Sélah.)",
+        "OST": "Rappelle-toi quelle est ma durée, pour quel néant tu as créé tous les fils des hommes.",
+        "S21": "Rappelle-toi quelle est la durée de ma vie et pour quel néant tu as créé tous les hommes."
+      }
+    },
+    {
+      "verse": 49,
+      "texts": {
+        "BDS": "Quel est l’homme qui vivra sans voir le trépas?\r\nQui peut arracher sa vie au séjour des morts?\r\nPause",
+        "DBY": "Où sont, Seigneur, tes premières bontés, que tu as jurées à David dans ta fidélité?",
+        "KJV": "Lord, where [are] thy former lovingkindnesses, [which] thou swarest unto David in thy truth?",
+        "LSG": "Où sont, Seigneur! tes bontés premières, Que tu juras à David dans ta fidélité?",
+        "MAB": "Seigneur, où sont tes bontés précédentes lesquelles tu as jurées à David sur ta fidélité?",
+        "OST": "Quel homme pourra vivre et ne point voir la mort? Qui sauvera son âme de la main du Sépulcre? (Sélah.)",
+        "S21": "Quel homme peut vivre sans voir la mort? Qui peut sauver son âme du séjour des morts? – Pause."
+      }
+    },
+    {
+      "verse": 50,
+      "texts": {
+        "BDS": "Seigneur, où donc sont restés tes faveurs d’antan\r\nque, dans ta fidélité, tu avais promises par un serment à David?",
+        "DBY": "Souviens-toi, Seigneur, de l'opprobre de tes serviteurs, -je porte dans mon sein celui de tous les grands peuples, -",
+        "KJV": "Remember, Lord, the reproach of thy servants; [how] I do bear in my bosom [the reproach of] all the mighty people;",
+        "LSG": "Souviens-toi, Seigneur! de l'opprobre de tes serviteurs, Souviens-toi que je porte en mon sein tous les peuples nombreux;",
+        "MAB": "Seigneur! souviens-toi de l'opprobre de tes serviteurs, [et comment] je porte dans mon sein [l'opprobre qui nous a été fait] par tous les grands peuples,",
+        "OST": "Seigneur, où sont tes bontés premières, que tu juras à David sur ta fidélité?",
+        "S21": "Où sont, Seigneur, tes bontés d’autrefois, celles que, dans ta fidélité, tu avais promises par serment à David?"
+      }
+    },
+    {
+      "verse": 51,
+      "texts": {
+        "BDS": "Pense, Seigneur, à la honte de tes serviteurs,\r\net pense à ces nombreux peuples dont je suis chargé.",
+        "DBY": "l'opprobre dont tes ennemis couvrent, ô Éternel, dont ils couvrent les pas de ton oint.",
+        "KJV": "Wherewith thine enemies have reproached, O LORD; wherewith they have reproached the footsteps of thine anointed.",
+        "LSG": "Souviens-toi des outrages de tes ennemis, ô Eternel! De leurs outrages contre les pas de ton oint.",
+        "MAB": "[L'opprobre] dont tes ennemis ont diffamé, ô Eternel! dont ils ont diffamé les traces de ton Oint.",
+        "OST": "Souviens-toi, Seigneur, de l'opprobre de tes serviteurs; et que je porte en mon sein l'opprobre fait par tous ces grands peuples.",
+        "S21": "Souviens-toi, Seigneur, de la honte de tes serviteurs! Souviens-toi que j’ai la charge de tous ces peuples nombreux!"
+      }
+    },
+    {
+      "verse": 52,
+      "texts": {
+        "BDS": "Pense, Eternel, aux outrages de tes ennemis,\r\naux outrages qu’ils déversent sur les pas de l’homme que tu as fait oindre!",
+        "DBY": "Béni soit l'Éternel pour toujours! Amen, oui, amen!",
+        "KJV": "Blessed [be] the LORD for evermore. Amen, and Amen.",
+        "LSG": "Béni soit à jamais l'Eternel! Amen! Amen!",
+        "MAB": "Béni soit à toujours l'Eternel; Amen! Oui, Amen!",
+        "OST": "Car tes ennemis ont outragé, ô Éternel, tes ennemis ont outragé les pas de ton Oint.",
+        "S21": "Souviens-toi des insultes de tes ennemis, Eternel, de leurs insultes contre les pas de celui que tu as désigné par onction!"
+      }
+    },
+    {
+      "verse": 53,
+      "texts": {
+        "BDS": "Béni soit l’Eternel Dieu pour l’éternité!\r\nAmen et amen!",
+        "OST": "Béni soit l'Éternel à toujours! Amen, oui, amen!",
+        "S21": "Béni soit éternellement l’Eternel! Amen! Amen!"
+      }
+    }
+  ]
+}

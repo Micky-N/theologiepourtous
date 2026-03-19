@@ -1,0 +1,78 @@
+{
+  "bookCode": "PSA",
+  "chapter": 128,
+  "verses": [
+    {
+      "verse": 1,
+      "texts": {
+        "BDS": "Cantique pour la route vers la demeure de l’Eternel.\r\nHeureux es-tu, toi qui révères l’Eternel\r\net qui suis les chemins qu’il a tracés!",
+        "DBY": "Bienheureux quiconque craint l'Éternel, et marche dans ses voies!",
+        "KJV": "A Song of degrees. Blessed [is] every one that feareth the LORD; that walketh in his ways.",
+        "LSG": "Cantique des degrés. Heureux tout homme qui craint l'Eternel, Qui marche dans ses voies!",
+        "MAB": "Cantique de Mahaloth. Bienheureux est quiconque craint l'Eternel, et marche dans ses voies.",
+        "OST": "Cantique de Maaloth. Heureux l'homme qui craint l'Éternel, et marche dans ses voies!",
+        "S21": "Chant des montées.\r\nHeureux tout homme qui craint l’Eternel, qui marche dans ses voies!"
+      }
+    },
+    {
+      "verse": 2,
+      "texts": {
+        "BDS": "Tu tireras profit du travail de tes mains,\r\ntout ira bien pour toi et tu seras heureux.",
+        "DBY": "Car tu mangeras du travail de tes mains; tu seras bienheureux, et tu seras entouré de biens.",
+        "KJV": "For thou shalt eat the labour of thine hands: happy [shalt] thou [be], and [it shall be] well with thee.",
+        "LSG": "Tu jouis alors du travail de tes mains, Tu es heureux, tu prospères.",
+        "MAB": "Car tu mangeras du travail de tes mains; tu seras bienheureux, et tu prospéreras.",
+        "OST": "Car tu mangeras du travail de tes mains, tu seras bienheureux et tu prospéreras.",
+        "S21": "Tu profites alors du travail de tes mains, tu es heureux, tu prospères."
+      }
+    },
+    {
+      "verse": 3,
+      "texts": {
+        "BDS": "Dans ton foyer, ta femme\r\nsera comme une vigne chargée de nombreux fruits\r\net, autour de ta table,\r\ntes fils ressembleront à des plants d’olivier.",
+        "DBY": "Ta femme sera au dedans de ta maison comme une vigne féconde; tes fils seront comme des plants d'oliviers autour de ta table.",
+        "KJV": "Thy wife [shall be] as a fruitful vine by the sides of thine house: thy children like olive plants round about thy table.",
+        "LSG": "Ta femme est comme une vigne féconde Dans l'intérieur de ta maison; Tes fils sont comme des plants d'olivier, Autour de ta table.",
+        "MAB": "Ta femme sera dans ta maison, comme une vigne abondante en fruit; [et] tes enfants seront autour de ta table, comme des plantes d'oliviers.",
+        "OST": "Ta femme sera dans ta maison comme une vigne abondante en fruits, et tes enfants comme des plants d'olivier autour de ta table.",
+        "S21": "Ta femme est comme une vigne porteuse de fruits dans ton foyer, tes fils sont comme des plants d’olivier autour de ta table."
+      }
+    },
+    {
+      "verse": 4,
+      "texts": {
+        "BDS": "Ainsi sera béni\r\ntout homme qui révère l’Eternel.",
+        "DBY": "Voici, ainsi sera béni l'homme qui craint l'Éternel.",
+        "KJV": "Behold, that thus shall the man be blessed that feareth the LORD.",
+        "LSG": "C'est ainsi qu'est béni L'homme qui craint l'Eternel.",
+        "MAB": "Voici, certainement ainsi sera béni le personnage qui craint l'Eternel.",
+        "OST": "Oui, c'est ainsi que sera béni l'homme qui craint l'Éternel.",
+        "S21": "C’est ainsi qu’est béni l’homme qui craint l’Eternel."
+      }
+    },
+    {
+      "verse": 5,
+      "texts": {
+        "BDS": "Oui, l’Eternel te bénira depuis le mont Sion,\r\net tu contempleras Jérusalem heureuse\r\ntous les jours de ta vie,",
+        "DBY": "L'Éternel te bénira de Sion. Et puisses-tu voir le bien de Jérusalem tous les jours de ta vie,",
+        "KJV": "The LORD shall bless thee out of Zion: and thou shalt see the good of Jerusalem all the days of thy life.",
+        "LSG": "L'Eternel te bénira de Sion, Et tu verras le bonheur de Jérusalem Tous les jours de ta vie;",
+        "MAB": "L'Eternel te bénira de Sion, et tu verras le bien de Jérusalem tous les jours de ta vie.",
+        "OST": "L'Éternel te bénira de Sion, et tu verras le bien de Jérusalem tous les jours de ta vie.",
+        "S21": "L’Eternel te bénira de Sion, et tu verras le bonheur de Jérusalem tous les jours de ta vie,"
+      }
+    },
+    {
+      "verse": 6,
+      "texts": {
+        "BDS": "tu verras les enfants de tes enfants!\r\nQue la paix soit sur Israël!",
+        "DBY": "Et voir des fils de tes fils! La paix soit sur Israël!",
+        "KJV": "Yea, thou shalt see thy children's children, [and] peace upon Israel.",
+        "LSG": "Tu verras les fils de tes fils. Que la paix soit sur Israël!",
+        "MAB": "Et tu verras des enfants à tes enfants. La paix sera sur Israël.",
+        "OST": "Et tu verras des enfants à tes enfants. Que la paix soit sur Israël!",
+        "S21": "tu verras les fils de tes fils. Que la paix soit sur Israël!"
+      }
+    }
+  ]
+}
