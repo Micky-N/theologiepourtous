@@ -20,7 +20,7 @@ export default defineEventHandler(async (event) => {
         if (!searchTerm || searchTerm.trim().length < 3) {
             throw createError({
                 statusCode: 400,
-                statusMessage: 'Le terme de recherche doit contenir au moins 3 caractères'
+                message: 'Le terme de recherche doit contenir au moins 3 caractères'
             });
         }
 
@@ -32,7 +32,7 @@ export default defineEventHandler(async (event) => {
         if (!version) {
             throw createError({
                 statusCode: 404,
-                statusMessage: 'Version biblique non trouvée'
+                message: 'Version biblique non trouvée'
             });
         }
 
@@ -133,7 +133,7 @@ export default defineEventHandler(async (event) => {
         }
         throw createError({
             statusCode: 500,
-            statusMessage: 'Erreur lors de la recherche biblique'
+            message: 'Erreur lors de la recherche biblique'
         });
     }
 });

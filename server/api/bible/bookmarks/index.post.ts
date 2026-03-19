@@ -9,7 +9,7 @@ export default defineEventHandler(async (event) => {
         if (!userSession) {
             throw createError({
                 statusCode: 401,
-                statusMessage: 'Non autorisé'
+                message: 'Non autorisé'
             });
         }
 
@@ -21,7 +21,7 @@ export default defineEventHandler(async (event) => {
         if (!verseId) {
             throw createError({
                 statusCode: 400,
-                statusMessage: 'ID du verset requis'
+                message: 'ID du verset requis'
             });
         }
 
@@ -30,7 +30,7 @@ export default defineEventHandler(async (event) => {
         if (!syntheticReference) {
             throw createError({
                 statusCode: 404,
-                statusMessage: 'Verset non trouvé'
+                message: 'Verset non trouvé'
             });
         }
 
@@ -48,7 +48,7 @@ export default defineEventHandler(async (event) => {
         if (existingBookmark) {
             throw createError({
                 statusCode: 409,
-                statusMessage: 'Ce verset est déjà dans vos favoris'
+                message: 'Ce verset est déjà dans vos favoris'
             });
         }
 
@@ -95,7 +95,7 @@ export default defineEventHandler(async (event) => {
         }
         throw createError({
             statusCode: 500,
-            statusMessage: 'Erreur lors de la création du favori'
+            message: 'Erreur lors de la création du favori'
         });
     }
 });

@@ -8,7 +8,7 @@ export default defineEventHandler(async (event) => {
         if (!userSession) {
             throw createError({
                 statusCode: 401,
-                statusMessage: 'Non autorisé'
+                message: 'Non autorisé'
             });
         }
         const userId = userSession.id;
@@ -18,7 +18,7 @@ export default defineEventHandler(async (event) => {
         if (!noteId) {
             throw createError({
                 statusCode: 400,
-                statusMessage: 'ID de la note requis'
+                message: 'ID de la note requis'
             });
         }
 
@@ -33,7 +33,7 @@ export default defineEventHandler(async (event) => {
         if (!note || note.userId !== userId) {
             throw createError({
                 statusCode: 404,
-                statusMessage: 'Note non trouvée ou accès refusé'
+                message: 'Note non trouvée ou accès refusé'
             });
         }
 
@@ -55,7 +55,7 @@ export default defineEventHandler(async (event) => {
         if (!book || !version) {
             throw createError({
                 statusCode: 404,
-                statusMessage: 'Référence biblique introuvable'
+                message: 'Référence biblique introuvable'
             });
         }
 
@@ -88,7 +88,7 @@ export default defineEventHandler(async (event) => {
         }
         throw createError({
             statusCode: 500,
-            statusMessage: 'Erreur interne du serveur'
+            message: 'Erreur interne du serveur'
         });
     } finally {
         await prisma.$disconnect();

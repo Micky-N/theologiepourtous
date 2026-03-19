@@ -8,7 +8,7 @@ export default defineEventHandler(async (event) => {
         if (!userSession) {
             throw createError({
                 statusCode: 401,
-                statusMessage: 'Non autorisé'
+                message: 'Non autorisé'
             });
         }
 
@@ -19,7 +19,7 @@ export default defineEventHandler(async (event) => {
         if (!bookmarkId) {
             throw createError({
                 statusCode: 400,
-                statusMessage: 'ID du favori requis'
+                message: 'ID du favori requis'
             });
         }
 
@@ -34,7 +34,7 @@ export default defineEventHandler(async (event) => {
         if (!bookmark) {
             throw createError({
                 statusCode: 404,
-                statusMessage: 'Favori non trouvé'
+                message: 'Favori non trouvé'
             });
         }
 
@@ -53,7 +53,7 @@ export default defineEventHandler(async (event) => {
         }
         throw createError({
             statusCode: 500,
-            statusMessage: 'Erreur lors de la suppression du favori'
+            message: 'Erreur lors de la suppression du favori'
         });
     }
 });

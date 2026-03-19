@@ -16,7 +16,7 @@ export default defineEventHandler(async (event) => {
         if (!userSession) {
             throw createError({
                 statusCode: 401,
-                statusMessage: 'Non autorisé'
+                message: 'Non autorisé'
             });
         }
 
@@ -121,10 +121,11 @@ export default defineEventHandler(async (event) => {
             },
             count: filteredNotes.length
         };
-    } catch {
+    } catch(error) {
+        const throwableError = error as { statusCode?: number, code?: number, message?: string }
         throw createError({
-            statusCode: 500,
-            statusMessage: 'Erreur lors de la récupération des notes'
+            statusCode: throwableError.statusCode ?? throwableError.code ?? 500,
+            message: throwableError.message ?? 'Erreur lors de la récupération des notes'
         });
     }
 });

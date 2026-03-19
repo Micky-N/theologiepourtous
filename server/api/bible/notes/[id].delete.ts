@@ -8,7 +8,7 @@ export default defineEventHandler(async (event) => {
         if (!userSession) {
             throw createError({
                 statusCode: 401,
-                statusMessage: 'Non autorisé'
+                message: 'Non autorisé'
             });
         }
 
@@ -19,7 +19,7 @@ export default defineEventHandler(async (event) => {
         if (!noteId) {
             throw createError({
                 statusCode: 400,
-                statusMessage: 'ID de la note requis'
+                message: 'ID de la note requis'
             });
         }
 
@@ -34,7 +34,7 @@ export default defineEventHandler(async (event) => {
         if (!note) {
             throw createError({
                 statusCode: 404,
-                statusMessage: 'Note non trouvée'
+                message: 'Note non trouvée'
             });
         }
 
@@ -53,7 +53,7 @@ export default defineEventHandler(async (event) => {
         }
         throw createError({
             statusCode: 500,
-            statusMessage: 'Erreur lors de la suppression de la note'
+            message: 'Erreur lors de la suppression de la note'
         });
     }
 });

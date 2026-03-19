@@ -14,7 +14,7 @@ export default defineEventHandler(async (event) => {
         if (!userSession) {
             throw createError({
                 statusCode: 401,
-                statusMessage: 'Non autorisé'
+                message: 'Non autorisé'
             });
         }
 
@@ -28,7 +28,7 @@ export default defineEventHandler(async (event) => {
         if (!user) {
             throw createError({
                 statusCode: 404,
-                statusMessage: 'Utilisateur non trouvé'
+                message: 'Utilisateur non trouvé'
             });
         }
 
@@ -37,7 +37,7 @@ export default defineEventHandler(async (event) => {
         if (!isPasswordValid) {
             throw createError({
                 statusCode: 401,
-                statusMessage: 'Mot de passe incorrect'
+                message: 'Mot de passe incorrect'
             });
         }
 
@@ -87,7 +87,7 @@ export default defineEventHandler(async (event) => {
 
         throw createError({
             statusCode: 500,
-            statusMessage: 'Erreur interne du serveur lors de la suppression du compte'
+            message: 'Erreur interne du serveur lors de la suppression du compte'
         });
     }
 });

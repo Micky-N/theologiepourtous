@@ -10,7 +10,7 @@ export default defineEventHandler(async (event) => {
         if (!bookCode) {
             throw createError({
                 statusCode: 400,
-                statusMessage: 'Code du livre requis'
+                message: 'Code du livre requis'
             });
         }
 
@@ -20,7 +20,7 @@ export default defineEventHandler(async (event) => {
         if (!book) {
             throw createError({
                 statusCode: 404,
-                statusMessage: 'Livre non trouvé'
+                message: 'Livre non trouvé'
             });
         }
 
@@ -28,7 +28,7 @@ export default defineEventHandler(async (event) => {
         if (chapterNum < 1 || chapterNum > book.chapterCount) {
             throw createError({
                 statusCode: 400,
-                statusMessage: `Le chapitre doit être entre 1 et ${book.chapterCount}`
+                message: `Le chapitre doit être entre 1 et ${book.chapterCount}`
             });
         }
 
@@ -38,7 +38,7 @@ export default defineEventHandler(async (event) => {
         if (!version) {
             throw createError({
                 statusCode: 404,
-                statusMessage: 'Version biblique non trouvée'
+                message: 'Version biblique non trouvée'
             });
         }
 
@@ -48,7 +48,7 @@ export default defineEventHandler(async (event) => {
         if (!chapter) {
             throw createError({
                 statusCode: 404,
-                statusMessage: 'Chapitre non trouvé'
+                message: 'Chapitre non trouvé'
             });
         }
 
@@ -82,7 +82,7 @@ export default defineEventHandler(async (event) => {
         }
         throw createError({
             statusCode: 500,
-            statusMessage: 'Erreur lors de la récupération des versets'
+            message: 'Erreur lors de la récupération des versets'
         });
     }
 });

@@ -16,7 +16,7 @@ export default defineEventHandler(async (event) => {
         if (!userSession) {
             throw createError({
                 statusCode: 401,
-                statusMessage: 'Non autorisé'
+                message: 'Non autorisé'
             });
         }
 
@@ -29,7 +29,7 @@ export default defineEventHandler(async (event) => {
             if (!version) {
                 throw createError({
                     statusCode: 404,
-                    statusMessage: 'Version biblique non trouvée'
+                    message: 'Version biblique non trouvée'
                 });
             }
         } else {
@@ -87,7 +87,7 @@ export default defineEventHandler(async (event) => {
         }
         throw createError({
             statusCode: 500,
-            statusMessage: 'Erreur lors de la mise à jour des préférences'
+            message: 'Erreur lors de la mise à jour des préférences'
         });
     }
 });

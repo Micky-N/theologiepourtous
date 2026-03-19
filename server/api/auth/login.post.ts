@@ -30,7 +30,7 @@ export default defineEventHandler(async (event) => {
         if (!user) {
             throw createError({
                 statusCode: 401,
-                statusMessage: 'Email ou mot de passe incorrect'
+                message: 'Email ou mot de passe incorrect'
             });
         }
 
@@ -39,7 +39,7 @@ export default defineEventHandler(async (event) => {
         if (!isPasswordValid) {
             throw createError({
                 statusCode: 401,
-                statusMessage: 'Email ou mot de passe incorrect'
+                message: 'Email ou mot de passe incorrect'
             });
         }
 
@@ -92,7 +92,7 @@ export default defineEventHandler(async (event) => {
 
         throw createError({
             statusCode: 500,
-            statusMessage: 'Erreur interne du serveur'
+            message: 'Erreur interne du serveur'
         });
     } finally {
         await prisma.$disconnect();

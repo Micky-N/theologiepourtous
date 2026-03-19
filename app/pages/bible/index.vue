@@ -126,9 +126,9 @@ useSeoMeta({
 });
 
 onMounted(async () => {
-    if (loggedIn) {
-        // await loadNotes();
-        // await loadBookmarks();
+    if (loggedIn.value) {
+        await loadNotes();
+        await loadBookmarks();
     }
 });
 
@@ -170,8 +170,10 @@ const loadBookmarks = async () => {
 };
 
 watch([() => route.query.chapter, () => route.query.book], async () => {
-    await loadNotes();
-    await loadBookmarks();
+    if (loggedIn.value) {
+        await loadNotes();
+        await loadBookmarks();
+    }
 });
 
 watch(selectedVersionCode, async () => {

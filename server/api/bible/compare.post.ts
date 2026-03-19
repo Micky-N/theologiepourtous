@@ -26,7 +26,7 @@ export default defineEventHandler(async (event) => {
         if (!validation.success) {
             throw createError({
                 statusCode: 400,
-                statusMessage: 'Données invalides',
+                message: 'Données invalides',
                 data: validation.error.issues
             });
         }
@@ -39,14 +39,14 @@ export default defineEventHandler(async (event) => {
         if (!book) {
             throw createError({
                 statusCode: 404,
-                statusMessage: 'Livre non trouvé'
+                message: 'Livre non trouvé'
             });
         }
 
         if (chapter > book.chapterCount) {
             throw createError({
                 statusCode: 400,
-                statusMessage: `Le chapitre doit être entre 1 et ${book.chapterCount}`
+                message: `Le chapitre doit être entre 1 et ${book.chapterCount}`
             });
         }
 
@@ -56,7 +56,7 @@ export default defineEventHandler(async (event) => {
         if (versionRecords.length !== versions.length) {
             throw createError({
                 statusCode: 404,
-                statusMessage: 'Une ou plusieurs versions non trouvées'
+                message: 'Une ou plusieurs versions non trouvées'
             });
         }
 
@@ -65,7 +65,7 @@ export default defineEventHandler(async (event) => {
         if (!chapterData) {
             throw createError({
                 statusCode: 404,
-                statusMessage: 'Chapitre non trouvé'
+                message: 'Chapitre non trouvé'
             });
         }
 
@@ -96,7 +96,7 @@ export default defineEventHandler(async (event) => {
 
         throw createError({
             statusCode: 500,
-            statusMessage: 'Erreur interne du serveur'
+            message: 'Erreur interne du serveur'
         });
     }
 });

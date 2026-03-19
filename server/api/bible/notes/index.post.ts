@@ -9,7 +9,7 @@ export default defineEventHandler(async (event) => {
         if (!userSession) {
             throw createError({
                 statusCode: 401,
-                statusMessage: 'Non autorisé'
+                message: 'Non autorisé'
             });
         }
 
@@ -21,7 +21,7 @@ export default defineEventHandler(async (event) => {
         if (!verseId || !content) {
             throw createError({
                 statusCode: 400,
-                statusMessage: 'ID du verset et contenu requis'
+                message: 'ID du verset et contenu requis'
             });
         }
 
@@ -30,7 +30,7 @@ export default defineEventHandler(async (event) => {
         if (!syntheticReference) {
             throw createError({
                 statusCode: 404,
-                statusMessage: 'Verset non trouvé'
+                message: 'Verset non trouvé'
             });
         }
 
@@ -79,7 +79,7 @@ export default defineEventHandler(async (event) => {
 
         throw createError({
             statusCode: 500,
-            statusMessage: 'Erreur interne du serveur'
+            message: 'Erreur interne du serveur'
         });
     } finally {
         await prisma.$disconnect();

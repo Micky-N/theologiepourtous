@@ -24,7 +24,7 @@ export default defineEventHandler(async (event) => {
         if (!userSession) {
             throw createError({
                 statusCode: 401,
-                statusMessage: 'Non autorisé'
+                message: 'Non autorisé'
             });
         }
 
@@ -64,7 +64,7 @@ export default defineEventHandler(async (event) => {
         }
         throw createError({
             statusCode: 500,
-            statusMessage: 'Erreur lors de la mise à jour de l\'utilisateur'
+            message: 'Erreur lors de la mise à jour de l\'utilisateur'
         });
     }
 });

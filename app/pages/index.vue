@@ -352,7 +352,7 @@ const { data: homeData } = await useAsyncData(route.path, () => queryCollection(
 const { data: themes } = await useAsyncData('posts', () => queryCollectionNavigation('themes', ['image', 'slug']));
 
 if (!homeData.value) {
-    throw createError({ statusCode: 404, statusMessage: 'Page non trouvée' });
+    throw createError({ statusCode: 404, message: 'Page non trouvée' });
 }
 // Page metadata
 useSeoMeta({

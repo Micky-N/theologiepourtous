@@ -38,7 +38,7 @@ export default defineEventHandler(async (event) => {
         if (existingUser) {
             throw createError({
                 statusCode: 409,
-                statusMessage: 'Un utilisateur avec cet email existe déjà'
+                message: 'Un utilisateur avec cet email existe déjà'
             });
         }
 
@@ -91,7 +91,7 @@ export default defineEventHandler(async (event) => {
 
         throw createError({
             statusCode: 500,
-            statusMessage: 'Erreur interne du serveur'
+            message: 'Erreur interne du serveur'
         });
     } finally {
         await prisma.$disconnect();

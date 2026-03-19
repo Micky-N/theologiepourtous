@@ -1,4 +1,5 @@
 import { readFile } from 'node:fs/promises';
+import path from 'node:path';
 
 export type BibleBookRecord = {
     code: string;
@@ -36,17 +37,18 @@ let versionsPromise: Promise<BibleVersionRecord[]> | null = null;
 const chaptersCache = new Map<string, Promise<ChapterRecord | null>>();
 
 const loadJson = async <T>(relativePath: string): Promise<T> => {
-    const content = await readFile(new URL(relativePath, import.meta.url), 'utf-8');
+    const filePath = path.join(process.cwd(), 'server', relativePath)
+    const content = await readFile(new URL(filePath, import.meta.url), 'utf-8');
     return JSON.parse(content) as T;
 };
 
 export const getBibleBooks = async () => {
-    booksPromise ??= loadJson<BibleBookRecord[]>('../data/books.json');
+    booksPromise ??= loadJson<BibleBookRecord[]>('data/books.json');
     return booksPromise;
 };
 
 export const getBibleVersions = async () => {
-    versionsPromise ??= loadJson<BibleVersionRecord[]>('../data/versions.json');
+    versionsPromise ??= loadJson<BibleVersionRecord[]>('data/versions.json');
     return versionsPromise;
 };
 
@@ -88,7 +90,7 @@ export const getBibleChapter = async (bookCode: string, chapter: number) => {
     if (!chaptersCache.has(cacheKey)) {
         chaptersCache.set(cacheKey, (async () => {
             try {
-                return await loadJson<ChapterRecord>(`../data/bible/${normalizedBookCode}/${chapter}.json`);
+                return await loadJson<ChapterRecord>(`data/bible/${normalizedBookCode}/${chapter}.json`);
             } catch (error: any) {
                 if (error?.code === 'ENOENT') {
                     return null;

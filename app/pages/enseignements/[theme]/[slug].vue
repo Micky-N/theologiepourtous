@@ -7,7 +7,7 @@ const { loggedIn } = useUserSession();
 const route = useRoute();
 const { data: lesson } = await useAsyncData(route.path, () => queryCollection('lessons').path(route.path).first());
 if (!lesson.value) {
-    throw createError({ statusCode: 404, statusMessage: 'Lesson not found', fatal: true });
+    throw createError({ statusCode: 404, message: 'Lesson not found', fatal: true });
 }
 const { data: progress, refresh, status } = useAsyncData(
     route.path + '-progress',

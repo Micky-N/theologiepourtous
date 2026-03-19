@@ -22,14 +22,14 @@ export default defineEventHandler(async (event) => {
         if (!bookParam || !chapter) {
             throw createError({
                 statusCode: 400,
-                statusMessage: 'Les paramètres book et chapter sont requis'
+                message: 'Les paramètres book et chapter sont requis'
             });
         }
 
         if (!verseParam) {
             throw createError({
                 statusCode: 400,
-                statusMessage: 'Le paramètre verse est requis (ex: 1, 1-3, 1-3;8;12-14)'
+                message: 'Le paramètre verse est requis (ex: 1, 1-3, 1-3;8;12-14)'
             });
         }
 
@@ -37,7 +37,7 @@ export default defineEventHandler(async (event) => {
         if (Number.isNaN(chapterNum) || chapterNum <= 0) {
             throw createError({
                 statusCode: 400,
-                statusMessage: 'Le chapitre doit être un entier positif'
+                message: 'Le chapitre doit être un entier positif'
             });
         }
 
@@ -49,7 +49,7 @@ export default defineEventHandler(async (event) => {
         if (!bibleBook) {
             throw createError({
                 statusCode: 404,
-                statusMessage: `Livre biblique "${bookCode}" non trouvé`
+                message: `Livre biblique "${bookCode}" non trouvé`
             });
         }
 
@@ -58,7 +58,7 @@ export default defineEventHandler(async (event) => {
         if (!bibleVersion) {
             throw createError({
                 statusCode: 404,
-                statusMessage: `Version biblique "${versionCode}" non trouvée`
+                message: `Version biblique "${versionCode}" non trouvée`
             });
         }
 
@@ -83,7 +83,7 @@ export default defineEventHandler(async (event) => {
                 ) {
                     throw createError({
                         statusCode: 400,
-                        statusMessage: `Plage de versets invalide: "${tok}"`
+                        message: `Plage de versets invalide: "${tok}"`
                     });
                 }
                 for (let v = start; v <= end; v++) verseSet.add(v);
@@ -92,7 +92,7 @@ export default defineEventHandler(async (event) => {
                 if (Number.isNaN(v) || v <= 0) {
                     throw createError({
                         statusCode: 400,
-                        statusMessage: `Numéro de verset invalide: "${tok}"`
+                        message: `Numéro de verset invalide: "${tok}"`
                     });
                 }
                 verseSet.add(v);
@@ -127,7 +127,7 @@ export default defineEventHandler(async (event) => {
         if (!chapterData) {
             throw createError({
                 statusCode: 404,
-                statusMessage: `Chapitre ${chapterNum} introuvable pour ${bookCode}`
+                message: `Chapitre ${chapterNum} introuvable pour ${bookCode}`
             });
         }
 
@@ -146,7 +146,7 @@ export default defineEventHandler(async (event) => {
         if (!bibleVerses.length) {
             throw createError({
                 statusCode: 404,
-                statusMessage: `Aucun verset trouvé pour ${bookCode} ${chapter}:${verseParam} dans la version ${versionCode}`
+                message: `Aucun verset trouvé pour ${bookCode} ${chapter}:${verseParam} dans la version ${versionCode}`
             });
         }
 
@@ -168,7 +168,7 @@ export default defineEventHandler(async (event) => {
         console.error('Erreur lors de la récupération du/des verset(s):', error);
         throw createError({
             statusCode: 500,
-            statusMessage: 'Erreur interne du serveur lors de la récupération des versets'
+            message: 'Erreur interne du serveur lors de la récupération des versets'
         });
     }
 });

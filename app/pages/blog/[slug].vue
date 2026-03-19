@@ -3,7 +3,7 @@ const route = useRoute();
 
 const { data: post } = await useAsyncData(route.path, () => queryCollection('posts').path(route.path).first());
 if (!post.value) {
-    throw createError({ statusCode: 404, statusMessage: 'Post not found', fatal: true });
+    throw createError({ statusCode: 404, message: 'Post not found', fatal: true });
 }
 
 const { data: surround } = await useAsyncData(`${route.path}-surround`, () => {

@@ -11,8 +11,7 @@ type BibleVersionRecord = {
 
 export default defineEventHandler(async () => {
     try {
-        const fileContent = await readFile(new URL('../../data/versions.json', import.meta.url), 'utf-8');
-        const versions = (JSON.parse(fileContent) as BibleVersionRecord[])
+        const versions = (await getBibleVersions())
             .filter(version => version.isActive)
             .sort((left, right) => left.orderIndex - right.orderIndex)
             .map(version => ({
@@ -31,7 +30,7 @@ export default defineEventHandler(async () => {
     } catch {
         throw createError({
             statusCode: 500,
-            statusMessage: 'Erreur lors de la récupération des versions bibliques'
+            message: 'Erreur lors de la récupération des versions bibliques'
         });
     }
 });
