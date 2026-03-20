@@ -52,6 +52,12 @@
                         />
                     </div>
                 </UFormField>
+                <div
+                    v-if="error"
+                    class="text-red-500 text-sm mt-2"
+                >
+                    {{ error }}
+                </div>
             </template>
             <template #footer>
                 <UButton
@@ -69,7 +75,7 @@
 
 <script lang="ts" setup>
 const props = defineProps<{
-    verseId: number;
+    verseId: string;
 }>();
 
 const emit = defineEmits<{
@@ -137,7 +143,7 @@ async function handleSubmit() {
             error.value = response.message || 'Erreur inconnue';
         }
     } catch (e: any) {
-        error.value = e?.statusMessage || 'Erreur lors de l’ajout du favori';
+        error.value = e?.message || 'Erreur lors de l’ajout du favori';
     } finally {
         loading.value = false;
     }

@@ -67,7 +67,7 @@ export default defineNuxtConfig({
         },
         redirect: {
             onLogin: false,
-            onLogout: false,
+            onLogout: false
         },
         serverProxy: {
             enabled: true,

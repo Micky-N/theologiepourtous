@@ -11,45 +11,12 @@ type NoteListResponse = {
     };
 };
 
-type NoteMetadataStore = Record<string, Record<string, { title: string | null; }>>;
-
 export const useBibleNotes = () => {
     const client = useSanctumClient();
     const user = useSanctumUser<AuthenticatedUserData>();
     const notes = ref<BibleNoteWithVersePreview[]>([]);
     const total = ref(0);
-    const metadataStore = useLocalStorage<NoteMetadataStore>('theologie-note-metadata', {});
     const { mapBibleNote, resolveSyntheticVerseReference } = useSanctumBibleData();
-
-    const getUserStore = () => {
-        const userId = user.value?.id ?? 'guest';
-        return metadataStore.value[userId] ?? {};
-    };
-
-    const setNoteMetadata = (noteId: string, title: string | null) => {
-        const userId = user.value?.id ?? 'guest';
-        metadataStore.value = {
-            ...metadataStore.value,
-            [userId]: {
-                ...getUserStore(),
-                [noteId]: {
-                    title
-                }
-            }
-        };
-    };
-
-    const removeNoteMetadata = (noteId: string) => {
-        const userId = user.value?.id ?? 'guest';
-        const userStore = getUserStore();
-        const nextUserStore = Object.fromEntries(
-            Object.entries(userStore).filter(([id]) => id !== noteId)
-        );
-        metadataStore.value = {
-            ...metadataStore.value,
-            [userId]: nextUserStore
-        };
-    };
 
     const fetchNotes = async (options?: {
         book?: string;
@@ -59,13 +26,12 @@ export const useBibleNotes = () => {
         offset?: number;
         version?: string;
     }): Promise<NoteListResponse> => {
-        const response = await client<{ data: BackendBibleNote[]; }>('/bible-notes', {
+        const response = await client<BackendBibleNote[]>('/bible-notes', {
             method: 'GET',
             query: undefined
         });
 
-        const userStore = getUserStore();
-        const filteredNotes = response.data.filter((note) => {
+        const filteredNotes = response.filter((note) => {
             if (options?.book && note.book_code.toUpperCase() !== options.book.toUpperCase()) {
                 return false;
             }
@@ -88,7 +54,7 @@ export const useBibleNotes = () => {
             paginatedNotes.map(async note => await mapBibleNote(note, {
                 queryVersionCode: options?.version ?? null,
                 preferredVersionCode: user.value?.preferences.preferred_version ?? 'LSG',
-                title: userStore[note.id]?.title ?? null
+                title: note.title ?? null
             }))
         );
 
@@ -107,7 +73,7 @@ export const useBibleNotes = () => {
     };
 
     const createNote = async (payload: {
-        verseId: number;
+        verseId: string;
         title?: string;
         content: string;
         isPrivate: boolean;
@@ -121,22 +87,21 @@ export const useBibleNotes = () => {
             });
         }
 
-        const response = await client<{ data: BackendBibleNote; }>('/bible-notes', {
+        const response = await client<BackendBibleNote>('/bible-notes', {
             method: 'POST',
             body: {
                 book_code: syntheticReference.book.code,
                 chapter: syntheticReference.chapter,
                 verse: syntheticReference.verse,
-                text: payload.content,
+                title: payload.title ?? null,
+                content: payload.content,
                 is_public: payload.isPrivate === false
             }
         });
 
-        setNoteMetadata(response.data.id, payload.title ?? null);
-
-        const note = await mapBibleNote(response.data, {
+        const note = await mapBibleNote(response, {
             preferredVersionCode: syntheticReference.version.code,
-            title: payload.title ?? null
+            title: response.title ?? payload.title ?? null
         });
 
         if (!note) {
@@ -158,19 +123,18 @@ export const useBibleNotes = () => {
         content?: string;
         isPrivate?: boolean;
     }) => {
-        const response = await client<{ data: BackendBibleNote; }>(`/bible-notes/${noteId}`, {
+        const response = await client<BackendBibleNote>(`/bible-notes/${noteId}`, {
             method: 'PATCH',
             body: {
-                text: payload.content,
+                title: payload.title ?? null,
+                content: payload.content,
                 is_public: typeof payload.isPrivate === 'boolean' ? !payload.isPrivate : undefined
             }
         });
 
-        setNoteMetadata(noteId, payload.title ?? null);
-
-        const note = await mapBibleNote(response.data, {
+        const note = await mapBibleNote(response, {
             preferredVersionCode: user.value?.preferences.preferred_version ?? 'LSG',
-            title: payload.title ?? null
+            title: response.title ?? payload.title ?? null
         });
 
         if (!note) {
@@ -192,7 +156,6 @@ export const useBibleNotes = () => {
             method: 'DELETE'
         });
 
-        removeNoteMetadata(noteId);
         notes.value = notes.value.filter(note => note.id !== noteId);
         total.value = Math.max(0, total.value - 1);
 

@@ -1,46 +1,12 @@
 import type { AuthenticatedUserData, BibleBookmarkWithVersePreview } from '~/types';
 import type { BackendBibleBookmark } from '~/composables/useSanctumBibleData';
 
-type BookmarkMetadataStore = Record<string, Record<string, { title: string | null; color: string | null; }>>;
-
 export const useBookmarks = () => {
     const client = useSanctumClient();
     const user = useSanctumUser<AuthenticatedUserData>();
     const { mapBibleBookmark, resolveSyntheticVerseReference } = useSanctumBibleData();
-    const metadataStore = useLocalStorage<BookmarkMetadataStore>('theologie-bookmark-metadata', {});
     const bookmarks = ref<BibleBookmarkWithVersePreview[]>([]);
     const total = ref(0);
-
-    const getUserStore = () => {
-        const userId = user.value?.id ?? 'guest';
-        return metadataStore.value[userId] ?? {};
-    };
-
-    const setBookmarkMetadata = (bookmarkId: string, title: string | null, color: string | null) => {
-        const userId = user.value?.id ?? 'guest';
-        metadataStore.value = {
-            ...metadataStore.value,
-            [userId]: {
-                ...getUserStore(),
-                [bookmarkId]: {
-                    title,
-                    color
-                }
-            }
-        };
-    };
-
-    const removeBookmarkMetadata = (bookmarkId: string) => {
-        const userId = user.value?.id ?? 'guest';
-        const userStore = getUserStore();
-        const nextUserStore = Object.fromEntries(
-            Object.entries(userStore).filter(([id]) => id !== bookmarkId)
-        );
-        metadataStore.value = {
-            ...metadataStore.value,
-            [userId]: nextUserStore
-        };
-    };
 
     // Récupérer les signets
     const fetchBookmarks = async (options?: {
@@ -50,11 +16,11 @@ export const useBookmarks = () => {
         offset?: number;
         version?: string;
     }) => {
-        const response = await client<{ data: BackendBibleBookmark[]; }>('/bible-bookmarks', {
+        const response = await client<BackendBibleBookmark[]>('/bible-bookmarks', {
             method: 'GET'
         });
 
-        const filteredBookmarks = response.data.filter((bookmark) => {
+        const filteredBookmarks = response.filter((bookmark) => {
             if (options?.book && bookmark.book_code.toUpperCase() !== options.book.toUpperCase()) {
                 return false;
             }
@@ -69,13 +35,12 @@ export const useBookmarks = () => {
         const limit = options?.limit ?? 50;
         const offset = options?.offset ?? 0;
         const paginatedBookmarks = filteredBookmarks.slice(offset, offset + limit);
-        const userStore = getUserStore();
         const mappedBookmarks = await Promise.all(
             paginatedBookmarks.map(async bookmark => await mapBibleBookmark(bookmark, {
                 queryVersionCode: options?.version ?? null,
                 preferredVersionCode: user.value?.preferences.preferred_version ?? 'LSG',
-                title: userStore[bookmark.id]?.title ?? null,
-                color: userStore[bookmark.id]?.color ?? 'blue'
+                title: bookmark.title ?? null,
+                color: bookmark.color ?? 'blue'
             }))
         );
 
@@ -94,7 +59,7 @@ export const useBookmarks = () => {
     };
 
     const createBookmark = async (payload: {
-        verseId: number;
+        verseId: string;
         title?: string;
         color?: string;
     }) => {
@@ -107,21 +72,21 @@ export const useBookmarks = () => {
             });
         }
 
-        const response = await client<{ data: BackendBibleBookmark; }>('/bible-bookmarks', {
+        const response = await client<BackendBibleBookmark>('/bible-bookmarks', {
             method: 'POST',
             body: {
                 book_code: syntheticReference.book.code,
                 chapter: syntheticReference.chapter,
-                verse: syntheticReference.verse
+                verse: syntheticReference.verse,
+                title: payload.title ?? null,
+                color: payload.color ?? 'blue'
             }
         });
 
-        setBookmarkMetadata(response.data.id, payload.title ?? null, payload.color ?? 'blue');
-
-        const bookmark = await mapBibleBookmark(response.data, {
+        const bookmark = await mapBibleBookmark(response, {
             preferredVersionCode: syntheticReference.version.code,
-            title: payload.title ?? null,
-            color: payload.color ?? 'blue'
+            title: response.title ?? payload.title ?? null,
+            color: response.color ?? payload.color ?? 'blue'
         });
 
         if (!bookmark) {
@@ -143,8 +108,6 @@ export const useBookmarks = () => {
         await client(`/bible-bookmarks/${bookmarkId}`, {
             method: 'DELETE'
         });
-
-        removeBookmarkMetadata(bookmarkId);
 
         // Retirer le signet de la liste locale
         bookmarks.value = bookmarks.value.filter(b => b.id !== bookmarkId);

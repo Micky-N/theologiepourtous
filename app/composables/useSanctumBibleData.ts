@@ -22,7 +22,8 @@ export type BackendBibleNote = {
     book_code: string;
     chapter: number;
     verse: number;
-    text: string;
+    title?: string | null;
+    content?: string | null;
     is_public: boolean;
     created_at: string;
     updated_at: string;
@@ -34,13 +35,15 @@ export type BackendBibleBookmark = {
     book_code: string;
     chapter: number;
     verse: number;
+    title?: string | null;
+    color?: string | null;
     created_at: string;
     updated_at: string;
 };
 
 type ResolveVersionOptions = {
     preferredVersionCode?: string | null;
-    defaultVersionOrderIndex?: number | null;
+    fallbackVersionCode?: string | null;
     queryVersionCode?: string | null;
 };
 
@@ -49,7 +52,7 @@ type BookmarkMetadata = {
     color: string | null;
 };
 
-const SYNTHETIC_VERSE_ID_BASE = 1_000_000;
+const SYNTHETIC_VERSE_ID_SEPARATOR = ':';
 
 export const useSanctumBibleData = () => {
     const books = useState<BibleBookData[]>('sanctum-bible-books', () => []);
@@ -98,22 +101,12 @@ export const useSanctumBibleData = () => {
         return data.find(book => book.code === bookCode.toUpperCase()) ?? null;
     };
 
-    const getBookByOrderIndex = async (orderIndex: number) => {
-        const data = await fetchBooks();
-        return data.find(book => book.orderIndex === orderIndex) ?? null;
-    };
-
     const getVersionByCode = async (versionCode: string) => {
         const data = await fetchVersions();
         return data.find(version => version.code === versionCode.toUpperCase()) ?? null;
     };
 
-    const getVersionByOrderIndex = async (orderIndex: number) => {
-        const data = await fetchVersions();
-        return data.find(version => version.orderIndex === orderIndex) ?? null;
-    };
-
-    const getDefaultVersion = async () => {
+    const getFallbackVersion = async () => {
         return await getVersionByCode('LSG');
     };
 
@@ -132,14 +125,14 @@ export const useSanctumBibleData = () => {
             }
         }
 
-        if (options?.defaultVersionOrderIndex) {
-            const version = await getVersionByOrderIndex(options.defaultVersionOrderIndex);
+        if (options?.fallbackVersionCode) {
+            const version = await getVersionByCode(options.fallbackVersionCode);
             if (version) {
                 return version;
             }
         }
 
-        return await getDefaultVersion();
+        return await getFallbackVersion();
     };
 
     const mapPreferenceSettings = async (preferences: BackendPreferenceSettings | null): Promise<UserPreferencesData> => {
@@ -150,43 +143,43 @@ export const useSanctumBibleData = () => {
         return {
             preferred_version: preferences?.preferred_version ?? 'LSG',
             theme: preferences?.theme ?? 'light',
-            defaultVersion: version ?? null,
-            notesPerVersion: false,
-            bookmarksPerVersion: false
+            resolvedPreferredVersion: version ?? null
         };
     };
 
-    const decodeSyntheticVerseId = (verseId: number) => {
-        if (!Number.isInteger(verseId) || verseId < SYNTHETIC_VERSE_ID_BASE) {
+    const decodeSyntheticVerseId = (verseId: string) => {
+        if (typeof verseId !== 'string') {
             return null;
         }
 
-        const versionOrderIndex = verseId % 10;
-        const verse = Math.floor(verseId / 10) % 1_000;
-        const chapter = Math.floor(verseId / 1_000) % 1_000;
-        const bookOrderIndex = Math.floor(verseId / SYNTHETIC_VERSE_ID_BASE);
+        const [bookCode, chapterValue, verseValue, versionCode] = verseId
+            .split(SYNTHETIC_VERSE_ID_SEPARATOR)
+            .map(part => part.trim());
 
-        if (bookOrderIndex <= 0 || chapter <= 0 || verse <= 0 || versionOrderIndex <= 0) {
+        const chapter = Number.parseInt(chapterValue ?? '', 10);
+        const verse = Number.parseInt(verseValue ?? '', 10);
+
+        if (!bookCode || !versionCode || !Number.isInteger(chapter) || !Number.isInteger(verse) || chapter <= 0 || verse <= 0) {
             return null;
         }
 
         return {
-            bookOrderIndex,
+            bookCode: bookCode.toUpperCase(),
             chapter,
             verse,
-            versionOrderIndex
+            versionCode: versionCode.toUpperCase()
         };
     };
 
-    const resolveSyntheticVerseReference = async (verseId: number) => {
+    const resolveSyntheticVerseReference = async (verseId: string) => {
         const decoded = decodeSyntheticVerseId(verseId);
         if (!decoded) {
             return null;
         }
 
         const [book, version] = await Promise.all([
-            getBookByOrderIndex(decoded.bookOrderIndex),
-            getVersionByOrderIndex(decoded.versionOrderIndex)
+            getBookByCode(decoded.bookCode),
+            getVersionByCode(decoded.versionCode)
         ]);
 
         if (!book || !version || decoded.chapter > book.chapterCount) {
@@ -217,8 +210,8 @@ export const useSanctumBibleData = () => {
 
         return {
             id: note.id,
-            title: options?.title ?? null,
-            content: note.text,
+            title: note.title ?? options?.title ?? null,
+            content: note.content ?? '',
             isPrivate: !note.is_public,
             createdAt: note.created_at,
             updatedAt: note.updated_at,
@@ -251,8 +244,8 @@ export const useSanctumBibleData = () => {
 
         return {
             id: bookmark.id,
-            title: options?.title ?? null,
-            color: options?.color ?? 'blue',
+            title: bookmark.title ?? options?.title ?? null,
+            color: bookmark.color ?? options?.color ?? 'blue',
             reference: `${book.name} ${bookmark.chapter}:${bookmark.verse}`,
             book,
             verse: {
@@ -273,7 +266,6 @@ export const useSanctumBibleData = () => {
         fetchBooks,
         fetchVersions,
         fetchChapter,
-        getVersionByOrderIndex,
         getVersionByCode,
         resolvePreferredVersion,
         resolveSyntheticVerseReference,

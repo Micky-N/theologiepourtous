@@ -83,7 +83,7 @@ interface ActivedVerse {
     book: { code: string; name: string; };
     chapter: number;
     verseStart: number;
-    version: number;
+    version: string;
 }
 
 const props = defineProps<{
@@ -101,7 +101,7 @@ const showCompare = (verseId: number) => {
         book: { code: props.book.code, name: props.book.name },
         verseStart: verseId,
         chapter: props.chapter,
-        version: props.selectedVersion.id
+        version: props.selectedVersion.code
     };
     openedCompare.value = true;
 };
@@ -113,7 +113,7 @@ const addNote = (verseId: number) => {
         book: { code: props.book.code, name: props.book.name },
         verseStart: verseId,
         chapter: props.chapter,
-        version: props.selectedVersion.id
+        version: props.selectedVersion.code
     };
     openedAddNote.value = true;
 };
@@ -145,6 +145,4 @@ const handleChapterChange = (chapter: number) => {
 };
 </script>
 
-<style>
-
-</style>
+<style></style>

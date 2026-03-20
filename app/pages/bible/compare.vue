@@ -17,6 +17,10 @@ interface ActiveComparison {
     comparisons: SimpleComparison[];
 }
 
+type CompareResponse = {
+    data: ActiveComparison;
+};
+
 definePageMeta({
     layout: 'bible'
 });
@@ -51,7 +55,7 @@ const selectedBookCode = ref<string | undefined>(undefined);
 const selectedChapter = ref<number | null>(null);
 const startVerse = ref<number | null>(1);
 const endVerse = ref<number | null>(null);
-const selectedVersions = ref<number[]>([]);
+const selectedVersions = ref<string[]>([]);
 
 // Données
 const booksOptions = ref<BibleBookData[]>([]);
@@ -72,7 +76,7 @@ const canStartComparison = computed(() =>
 
 const availableVersionsForAdd = computed(() =>
     availableVersions.value.filter(version =>
-        !activeComparison.value?.comparisons.some(comp => comp.version.id === version.id)
+        !activeComparison.value?.comparisons.some(comp => comp.version.code === version.code)
     )
 );
 
@@ -85,32 +89,32 @@ const initCompare = () => {
 
     // Pré-sélectionner des versions populaires
     if (availableVersions.value.length > 0) {
-        const defaultVersionCodes = preferences.value?.defaultVersion
+        const preferredVersionCodes = preferences.value?.resolvedPreferredVersion
             ? [
-                preferences.value.defaultVersion.code,
-                preferences.value?.defaultVersion.code === 'LSG' ? 'S21' : 'LSG'
+                preferences.value.resolvedPreferredVersion.code,
+                preferences.value?.resolvedPreferredVersion.code === 'LSG' ? 'S21' : 'LSG'
             ]
             : ['LSG', 'S21'];
-        const versions = (route.query.versions as string | undefined)?.split(',') || defaultVersionCodes;
-        const defaultVersions = availableVersions.value
+        const versions = (route.query.versions as string | undefined)?.split(',') || preferredVersionCodes;
+        const preferredVersions = availableVersions.value
             .filter((v: BibleVersionData) => versions.includes(v.code))
-            .map((v: BibleVersionData) => v.id);
+            .map((v: BibleVersionData) => v.code);
 
-        if (defaultVersions.length >= 2) {
-            selectedVersions.value = defaultVersions;
+        if (preferredVersions.length >= 2) {
+            selectedVersions.value = preferredVersions;
         }
     }
 };
 
 // Méthodes
-const toggleVersion = (versionId: number, checked: boolean | 'indeterminate') => {
+const toggleVersion = (versionCode: string, checked: boolean | 'indeterminate') => {
     const isChecked = checked === true;
     if (isChecked) {
-        if (!selectedVersions.value.includes(versionId)) {
-            selectedVersions.value.push(versionId);
+        if (!selectedVersions.value.includes(versionCode)) {
+            selectedVersions.value.push(versionCode);
         }
     } else {
-        selectedVersions.value = selectedVersions.value.filter(id => id !== versionId);
+        selectedVersions.value = selectedVersions.value.filter(code => code !== versionCode);
     }
 };
 
@@ -154,10 +158,10 @@ const startComparison = async () => {
             return;
         }
 
-        const response = await $fetch('/api/bible/compare', {
+        const response = await $fetch<CompareResponse>('/api/bible/compare', {
             method: 'POST',
             body: {
-                bookId: book.id,
+                bookCode: book.code,
                 chapter,
                 verseStart: start,
                 verseEnd: end,
@@ -165,7 +169,7 @@ const startComparison = async () => {
             }
         });
 
-        activeComparison.value = response.data as unknown as ActiveComparison;
+        activeComparison.value = response.data;
     } catch (err: any) {
         error.value = err?.message || 'Erreur lors de la comparaison';
         console.error(err);
@@ -183,7 +187,7 @@ const closeComparison = async () => {
     selectedChapter.value = null;
     selectedVersions.value = availableVersions.value
         .filter((v: BibleVersionData) => ['LSG', 'S21'].includes(v.code))
-        .map((v: BibleVersionData) => v.id);
+        .map((v: BibleVersionData) => v.code);
     startVerse.value = 1;
     endVerse.value = null;
     error.value = '';
@@ -196,29 +200,32 @@ const handleAddVersion = async (version: BibleVersionData) => {
     const newComparison: SimpleComparison = {
         version,
         verses: [{
-            id: 0,
+            id: `${activeComparison.value.book.code}:${activeComparison.value.chapter}:${activeComparison.value.verseRange.start}:${version.code}`,
             chapter: activeComparison.value.chapter,
             verse: activeComparison.value.verseRange.start,
             text: 'Chargement...',
             createdAt: new Date(),
-            versionId: version.id,
-            bookId: activeComparison.value.book.id
+            versionId: version.code,
+            bookId: activeComparison.value.book.code
         }]
     };
 
     activeComparison.value.comparisons.push(newComparison);
 
-    selectedVersions.value.push(version.id);
+    selectedVersions.value.push(version.code);
     await startComparison();
 };
 
-const handleRemoveVersion = (versionId: number) => {
+const handleRemoveVersion = (versionCode: string) => {
     if (!activeComparison.value) return;
 
+    const version = availableVersions.value.find(item => item.code === versionCode);
+    if (!version) return;
+
     activeComparison.value.comparisons = activeComparison.value.comparisons
-        .filter(comp => comp.version.id !== versionId);
+        .filter(comp => comp.version.code !== versionCode);
     selectedVersions.value = selectedVersions.value
-        .filter(id => id !== versionId);
+        .filter(code => code !== version.code);
 };
 
 const handleAddBookmark = (verse: BibleVerseData) => {
@@ -292,7 +299,7 @@ await startComparison();
                                 <div class="space-y-1">
                                     <UButton
                                         v-for="version in availableVersionsForAdd"
-                                        :key="version.id"
+                                        :key="version.code"
                                         size="sm"
                                         color="secondary"
                                         variant="soft"
@@ -302,7 +309,8 @@ await startComparison();
                                     >
                                         <div class="truncate">
                                             <span class="font-medium">{{ version.name }}</span>
-                                            <span class="text-xs text-gray-500 dark:text-gray-400 ml-1">({{ version.code }})</span>
+                                            <span class="text-xs text-gray-500 dark:text-gray-400 ml-1">({{ version.code
+                                            }})</span>
                                         </div>
                                     </UButton>
                                 </div>
@@ -333,9 +341,7 @@ await startComparison();
                 </UPageHeader>
 
                 <UPageBody>
-                    <UCard
-                        v-if="!activeComparison"
-                    >
+                    <UCard v-if="!activeComparison">
                         <template #header>
                             <h3 class="text-lg font-medium">
                                 Sélectionner le passage à comparer
@@ -406,19 +412,19 @@ await startComparison();
                                 <div class="grid grid-cols-1 md:grid-cols-2 gap-3">
                                     <div
                                         v-for="version in availableVersions"
-                                        :key="version.id"
+                                        :key="version.code"
                                         :class="[
                                             'p-3 rounded-lg border transition-colors cursor-pointer',
-                                            selectedVersions.includes(version.id)
+                                            selectedVersions.includes(version.code)
                                                 ? 'bg-primary-50 dark:bg-primary-950 border-primary-200 dark:border-primary-800'
                                                 : 'bg-gray-50 dark:bg-gray-900 border-gray-200 dark:border-gray-800 hover:bg-gray-100 dark:hover:bg-gray-800'
                                         ]"
-                                        @click="toggleVersion(version.id, !selectedVersions.includes(version.id))"
+                                        @click="toggleVersion(version.code, !selectedVersions.includes(version.code))"
                                     >
                                         <div class="flex items-center gap-3">
                                             <UCheckbox
-                                                :model-value="selectedVersions.includes(version.id)"
-                                                :disabled="selectedVersions.length >= 6 && !selectedVersions.includes(version.id)"
+                                                :model-value="selectedVersions.includes(version.code)"
+                                                :disabled="selectedVersions.length >= 6 && !selectedVersions.includes(version.code)"
                                             />
                                             <div>
                                                 <div class="font-medium text-gray-900 dark:text-white">

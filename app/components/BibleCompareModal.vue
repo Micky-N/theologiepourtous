@@ -29,17 +29,17 @@
                         <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 max-h-60 overflow-y-auto">
                             <div
                                 v-for="availableVersion in availableVersions"
-                                :key="availableVersion.id"
+                                :key="availableVersion.code"
                                 class="flex items-center space-x-2"
                             >
                                 <UCheckbox
-                                    :model-value="selectedVersions.includes(availableVersion.id)"
-                                    :disabled="selectedVersions.length >= 6 && !selectedVersions.includes(availableVersion.id)"
-                                    @update:model-value="toggleVersion(availableVersion.id)"
+                                    :model-value="selectedVersions.includes(availableVersion.code)"
+                                    :disabled="selectedVersions.length >= 6 && !selectedVersions.includes(availableVersion.code)"
+                                    @update:model-value="toggleVersion(availableVersion.code)"
                                 />
                                 <div
                                     class="flex-1"
-                                    @click="toggleVersion(availableVersion.id)"
+                                    @click="toggleVersion(availableVersion.code)"
                                 >
                                     <div class="text-sm font-medium text-gray-900 dark:text-white">
                                         {{ availableVersion.name }}
@@ -82,7 +82,7 @@ const props = defineProps<{
     availableVersions: BibleVersionData[];
     book: { code: string; name: string; };
     chapter: number;
-    version: number;
+    version: string;
     verseStart: number;
     verseEnd?: number;
 }>();
@@ -90,15 +90,15 @@ const props = defineProps<{
 // État local
 const showModal = defineModel<boolean>({ default: false });
 const loading = ref(false);
-const selectedVersions = ref<number[]>([props.version]);
+const selectedVersions = ref<string[]>([props.version]);
 
 // Méthodes
-const toggleVersion = (versionId: number) => {
-    const index = selectedVersions.value.indexOf(versionId);
+const toggleVersion = (versionCode: string) => {
+    const index = selectedVersions.value.indexOf(versionCode);
     if (index > -1) {
         selectedVersions.value.splice(index, 1);
     } else if (selectedVersions.value.length < 6) {
-        selectedVersions.value.push(versionId);
+        selectedVersions.value.push(versionCode);
     }
 };
 
@@ -109,7 +109,7 @@ const performComparison = async () => {
         loading.value = true;
 
         const versionsCode = props.availableVersions
-            .filter(v => selectedVersions.value.includes(v.id))
+            .filter(v => selectedVersions.value.includes(v.code))
             .map(v => v.code);
 
         // Construire les paramètres de comparaison

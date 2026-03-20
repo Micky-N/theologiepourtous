@@ -1,7 +1,5 @@
 <template>
-    <UContextMenu
-        :items="items"
-    >
+    <UContextMenu :items="items">
         <span>
             <button
                 v-if="loggedIn && notes.length"
@@ -47,9 +45,7 @@
                             >
                                 {{ verse.text }}
                             </span>
-                            <template
-                                #content
-                            >
+                            <template #content>
                                 <UCard
                                     :ui="{
                                         header: 'p-2 sm:px-4',
@@ -65,9 +61,7 @@
                                                 class="cursor-pointer rounded-sm bg-gray-50 hover:bg-red-50 flex items-center justify-center p-1 text-red-500 hover:text-red-700"
                                                 @click="deletingBookmark = true"
                                             >
-                                                <UIcon
-                                                    name="i-lucide-trash-2"
-                                                />
+                                                <UIcon name="i-lucide-trash-2" />
                                             </span>
                                         </div>
                                     </template>
@@ -169,7 +163,7 @@ const items = computed<ContextMenuItem[]>(() => {
         baseItems.push({
             label: 'Ajouter Note',
             icon: 'i-lucide-notebook-pen',
-            onSelect: () => openedNoteCreateDrawer.value = true,
+            onSelect: () => createNote(),
             ui: {
                 item: 'cursor-pointer'
             }
@@ -193,6 +187,11 @@ const deleteBookmark = async () => {
 };
 
 const noteToEdit = ref<BibleNoteData | null>(null);
+
+const createNote = () => {
+    noteToEdit.value = null;
+    openedNoteCreateDrawer.value = true;
+};
 
 const editNote = (note: BibleNoteData) => {
     noteToEdit.value = note;
@@ -223,6 +222,4 @@ const selectedVerse = computed(() => {
 });
 </script>
 
-<style>
-
-</style>
+<style></style>

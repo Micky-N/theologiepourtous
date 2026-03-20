@@ -4,7 +4,7 @@ export default defineEventHandler(async () => {
             .filter(version => version.isActive)
             .sort((left, right) => left.orderIndex - right.orderIndex)
             .map(version => ({
-                id: version.orderIndex,
+                orderIndexId: version.orderIndex,
                 code: version.code,
                 name: version.name,
                 language: version.language,

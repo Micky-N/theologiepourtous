@@ -8,27 +8,8 @@ export const useUserPreferences = () => {
     const preferences = ref<UserPreferencesData>({
         preferred_version: 'LSG',
         theme: 'light',
-        defaultVersion: null,
-        notesPerVersion: false,
-        bookmarksPerVersion: false
+        resolvedPreferredVersion: null
     });
-
-    type LocalPreferenceFlags = {
-        notesPerVersion?: boolean;
-        bookmarksPerVersion?: boolean;
-    };
-
-    const localFlags = useLocalStorage<Record<string, LocalPreferenceFlags>>('theologie-reading-preferences', {});
-
-    const getPreferenceFlags = () => {
-        const userId = user.value?.id ?? 'guest';
-        const flags = localFlags.value[userId];
-
-        return {
-            notesPerVersion: flags?.notesPerVersion ?? false,
-            bookmarksPerVersion: flags?.bookmarksPerVersion ?? false
-        };
-    };
 
     const syncUserPreferences = (value: UserPreferencesData) => {
         preferences.value = value;
@@ -42,7 +23,7 @@ export const useUserPreferences = () => {
     };
 
     const updatePreferences = async (
-        payload: Pick<UserPreferencesData, 'preferred_version' | 'theme'> & Partial<Pick<UserPreferencesData, 'notesPerVersion' | 'bookmarksPerVersion'>>
+        payload: Pick<UserPreferencesData, 'preferred_version' | 'theme'>
     ) => {
         const preferredVersion = payload.preferred_version
             ? await getVersionByCode(payload.preferred_version)
@@ -66,21 +47,10 @@ export const useUserPreferences = () => {
         });
 
         const mappedPreferences = await mapPreferenceSettings(response.data ?? null);
-        const userId = user.value?.id ?? 'guest';
-        const currentFlags = getPreferenceFlags();
-        localFlags.value = {
-            ...localFlags.value,
-            [userId]: {
-                notesPerVersion: payload.notesPerVersion ?? currentFlags.notesPerVersion,
-                bookmarksPerVersion: payload.bookmarksPerVersion ?? currentFlags.bookmarksPerVersion
-            }
-        };
 
         syncUserPreferences({
             ...mappedPreferences,
-            theme: payload.theme,
-            notesPerVersion: payload.notesPerVersion ?? currentFlags.notesPerVersion,
-            bookmarksPerVersion: payload.bookmarksPerVersion ?? currentFlags.bookmarksPerVersion
+            theme: payload.theme
         });
 
         return preferences.value;
@@ -89,13 +59,8 @@ export const useUserPreferences = () => {
     const fetchPreferences = async () => {
         const response = await client<{ data: BackendPreferenceSettings | null; }>('/preference-settings', { method: 'GET' });
         const mappedPreferences = await mapPreferenceSettings(response.data ?? null);
-        const flags = getPreferenceFlags();
 
-        syncUserPreferences({
-            ...mappedPreferences,
-            notesPerVersion: flags.notesPerVersion,
-            bookmarksPerVersion: flags.bookmarksPerVersion
-        });
+        syncUserPreferences(mappedPreferences);
 
         return preferences.value;
     };

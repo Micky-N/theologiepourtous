@@ -31,7 +31,6 @@
     "devDependencies": {
         "@nuxt/eslint": "^1.9.0",
         "@types/node": "^24.5.2",
-        "baseline-browser-mapping": "^2.10.9",
         "eslint": "^9.34.0",
         "ts-node": "^10.9.2",
         "typescript": "^5.9.2",

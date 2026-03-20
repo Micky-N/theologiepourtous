@@ -47,7 +47,7 @@
 <script lang="ts" setup>
 import type { BibleBookData, BibleNoteData, BibleVerseData } from '~/types';
 
-type NoteDrawerVerse = Pick<BibleVerseData, 'chapter' | 'verse'> & { id?: number; };
+type NoteDrawerVerse = Pick<BibleVerseData, 'chapter' | 'verse'> & { id?: string; };
 
 const emit = defineEmits<{
     (e: 'close' | 'refreshNote'): void;

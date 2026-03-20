@@ -1,7 +1,6 @@
 import {
     buildVersionPayload,
     getBibleVersionByCode,
-    getBibleVersionByOrderIndex,
     getDefaultBibleVersion
 } from '~~/server/utils/bibleData';
 
@@ -24,10 +23,8 @@ export type BackendPreferenceSettings = {
 };
 
 export type BackendMappedPreferenceSettings = {
-    defaultVersionOrderIndex: number | null;
-    notesPerVersion: boolean;
-    bookmarksPerVersion: boolean;
-    defaultVersion: Awaited<ReturnType<typeof buildVersionPayload>> | null;
+    fallbackVersionCode: string | null;
+    resolvedPreferredVersion: Awaited<ReturnType<typeof buildVersionPayload>> | null;
     createdAt: string | undefined;
     updatedAt: string | undefined;
 };
@@ -42,7 +39,7 @@ export type BackendSessionUser = {
 
 export const resolvePreferredVersion = async (params?: {
     preferredVersionCode?: string | null;
-    defaultVersionOrderIndex?: number | null;
+    fallbackVersionCode?: string | null;
     queryVersionCode?: string | null;
 }) => {
     if (params?.queryVersionCode) {
@@ -59,8 +56,8 @@ export const resolvePreferredVersion = async (params?: {
         }
     }
 
-    if (params?.defaultVersionOrderIndex) {
-        const version = await getBibleVersionByOrderIndex(params.defaultVersionOrderIndex);
+    if (params?.fallbackVersionCode) {
+        const version = await getBibleVersionByCode(params.fallbackVersionCode);
         if (version) {
             return version;
         }
@@ -75,10 +72,8 @@ export const mapPreferenceSettings = async (preferences: BackendPreferenceSettin
     });
 
     return {
-        defaultVersionOrderIndex: version?.orderIndex ?? null,
-        notesPerVersion: false,
-        bookmarksPerVersion: false,
-        defaultVersion: version ? buildVersionPayload(version) : null,
+        fallbackVersionCode: version?.code ?? null,
+        resolvedPreferredVersion: version ? buildVersionPayload(version) : null,
         createdAt: preferences?.created_at,
         updatedAt: preferences?.updated_at
     };

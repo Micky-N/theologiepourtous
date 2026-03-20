@@ -2,27 +2,25 @@ import { z } from 'zod';
 import {
     buildBookPayload,
     buildVersionPayload,
-    getBibleBookByOrderIndex,
+    getBibleBookByCode,
     getBibleChapter,
-    getBibleVersionByOrderIndex,
+    getBibleVersionByCode,
     mapChapterVerses
 } from '~~/server/utils/bibleData';
 
-// Schéma de validation pour la requête de comparaison
 const compareSchema = z.object({
-    bookId: z.number().int().positive(),
+    bookCode: z.string().trim().min(1),
     chapter: z.number().int().positive(),
     verseStart: z.number().int().positive(),
     verseEnd: z.number().int().positive().optional(),
-    versions: z.array(z.number().int().positive()).min(2).max(6) // Au moins 2, max 6 versions
+    versions: z.array(z.string().trim().min(1)).min(2).max(6)
 });
 
 export default defineEventHandler(async (event) => {
     try {
         const body = await readBody(event);
-
-        // Validation des données
         const validation = compareSchema.safeParse(body);
+
         if (!validation.success) {
             throw createError({
                 statusCode: 400,
@@ -31,10 +29,10 @@ export default defineEventHandler(async (event) => {
             });
         }
 
-        const { bookId, chapter, verseStart, verseEnd, versions } = validation.data;
+        const { bookCode, chapter, verseStart, verseEnd, versions } = validation.data;
         const endVerse = verseEnd || verseStart;
 
-        const book = await getBibleBookByOrderIndex(bookId);
+        const book = await getBibleBookByCode(bookCode);
 
         if (!book) {
             throw createError({
@@ -50,7 +48,7 @@ export default defineEventHandler(async (event) => {
             });
         }
 
-        const versionRecords = (await Promise.all(versions.map(versionId => getBibleVersionByOrderIndex(versionId))))
+        const versionRecords = (await Promise.all(versions.map(versionCode => getBibleVersionByCode(versionCode))))
             .filter(version => version !== null);
 
         if (versionRecords.length !== versions.length) {

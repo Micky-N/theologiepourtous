@@ -1,4 +1,5 @@
 import {
+    buildSyntheticVerseId,
     getBibleBookByCode,
     getBibleBooks,
     getBibleChapter,
@@ -49,10 +50,10 @@ export default defineEventHandler(async (event) => {
         }
 
         const allMatches: Array<{
-            id: number;
+            id: string;
             reference: string;
             book: {
-                id: number;
+                orderIndexId: number;
                 code: string;
                 name: string;
                 testament: 'OLD' | 'NEW';
@@ -85,10 +86,10 @@ export default defineEventHandler(async (event) => {
                     }
 
                     allMatches.push({
-                        id: (book.orderIndex * 1_000_000) + (chapterNumber * 1_000) + (verse.verse * 10) + version.orderIndex,
+                        id: buildSyntheticVerseId(book.code, chapterNumber, verse.verse, version.code),
                         reference: `${book.name} ${chapterNumber}:${verse.verse}`,
                         book: {
-                            id: book.orderIndex,
+                            orderIndexId: book.orderIndex,
                             code: book.code,
                             name: book.name,
                             testament: book.testament,

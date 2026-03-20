@@ -5,7 +5,9 @@
                 <div class="flex items-center justify-between">
                     <div>
                         <h2 class="text-xl font-bold text-gray-900 dark:text-white">
-                            Comparaison : {{ book.name }} {{ chapter }}:{{ verseRange.start }}<span v-if="verseRange.end > verseRange.start">-{{ verseRange.end }}</span>
+                            Comparaison : {{ book.name }} {{ chapter }}:{{ verseRange.start }}<span
+                                v-if="verseRange.end > verseRange.start"
+                            >-{{ verseRange.end }}</span>
                         </h2>
                         <p class="text-sm text-gray-600 dark:text-gray-400 mt-1">
                             {{ comparisons.length }} versions côte à côte
@@ -75,7 +77,7 @@
             >
                 <div
                     v-for="(comparison, idx) in comparisons"
-                    :key="comparison.version.id"
+                    :key="comparison.version.code"
                     class="version-column"
                     :class="{
                         '!border-r-0 !pr-0': idx != 0 && (idx + 1) % 3 === 0,
@@ -83,7 +85,9 @@
                     }"
                 >
                     <!-- En-tête de version -->
-                    <div class="sticky top-0 bg-white dark:bg-gray-900 border-b border-gray-200 dark:border-gray-700 pb-2 mb-4 z-10">
+                    <div
+                        class="sticky top-0 bg-white dark:bg-gray-900 border-b border-gray-200 dark:border-gray-700 pb-2 mb-4 z-10"
+                    >
                         <div class="flex items-center justify-between">
                             <div>
                                 <h3 class="font-semibold text-gray-900 dark:text-white">
@@ -98,7 +102,7 @@
                                 icon="i-lucide-x"
                                 variant="ghost"
                                 size="xs"
-                                @click="removeVersion(comparison.version.id)"
+                                @click="removeVersion(comparison.version.code)"
                             />
                         </div>
                     </div>
@@ -107,7 +111,7 @@
                     <div class="verses-container space-y-3">
                         <div
                             v-for="verse in comparison.verses"
-                            :key="`${comparison.version.id}-${verse.id}`"
+                            :key="`${comparison.version.code}-${verse.id}`"
                             class="group verse-item"
                             :class="fontSize"
                         >
@@ -132,7 +136,9 @@
                             </div>
 
                             <!-- Actions sur le verset -->
-                            <div class="verse-actions opacity-0 group-hover:opacity-100 transition-opacity mt-2 flex gap-2">
+                            <div
+                                class="verse-actions opacity-0 group-hover:opacity-100 transition-opacity mt-2 flex gap-2"
+                            >
                                 <UButton
                                     title="Copier le verset"
                                     icon="i-lucide-copy"
@@ -203,7 +209,7 @@
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
                     <div
                         v-for="version in availableVersions"
-                        :key="version.id"
+                        :key="version.code"
                         class="p-3 border border-gray-200 dark:border-gray-700 rounded-lg cursor-pointer hover:bg-gray-50 dark:hover:bg-gray-800"
                         @click="addVersion(version)"
                     >
@@ -250,7 +256,7 @@ interface Props {
 const emit = defineEmits<{
     close: [];
     addVersion: [version: BibleVersionData];
-    removeVersion: [versionId: number];
+    removeVersion: [versionCode: string];
     addBookmark: [verse: BibleVerseData];
     addNote: [verse: BibleVerseData];
 }>();
@@ -289,8 +295,8 @@ const addVersion = (version: BibleVersionData) => {
     }
 };
 
-const removeVersion = (versionId: number) => {
-    emit('removeVersion', versionId);
+const removeVersion = (versionCode: string) => {
+    emit('removeVersion', versionCode);
 };
 
 const copyVerse = async (verse: BibleVerseData, version: BibleVersionData) => {

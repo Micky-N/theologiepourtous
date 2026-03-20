@@ -5,7 +5,7 @@
 export type Testament = 'OLD' | 'NEW';
 
 export interface BibleBookData {
-    id: number;
+    orderIndexId: number;
     code: string;
     name: string;
     testament: Testament;
@@ -16,7 +16,7 @@ export interface BibleBookData {
 }
 
 export interface BibleVersionData {
-    id: number;
+    orderIndexId: number;
     code: string;
     name: string;
     language: string;
@@ -28,13 +28,13 @@ export interface BibleVersionData {
 }
 
 export interface BibleVerseData {
-    id: number;
+    id: string;
     chapter: number;
     verse: number;
     text: string;
     createdAt: string | Date;
-    versionId: number;
-    bookId: number;
+    versionId: string;
+    bookId: string;
 }
 
 export interface BibleVerseWithContext extends BibleVerseData {
@@ -80,9 +80,7 @@ export interface BibleBookmarkWithVersePreview extends BibleBookmarkData {
 export interface UserPreferencesData {
     preferred_version: string | undefined;
     theme: 'light' | 'dark' | 'system';
-    defaultVersion: BibleVersionData | null;
-    notesPerVersion: boolean;
-    bookmarksPerVersion: boolean;
+    resolvedPreferredVersion: BibleVersionData | null;
 }
 
 export interface AuthenticatedUserData {
@@ -208,7 +206,7 @@ export interface SearchResult {
 // ============================================================================
 
 export interface ReadingPreferences {
-    defaultVersion: string;
+    preferredVersion: string;
     showVerseNumbers: boolean;
     fontSize: 'small' | 'medium' | 'large';
     theme: 'light' | 'dark' | 'sepia';
@@ -234,14 +232,14 @@ export interface ExportOptions {
 
 export interface ImportData {
     bookmarks?: Array<Omit<BibleBookmarkData, 'id' | 'createdAt' | 'updatedAt'> & {
-        bookId?: number;
-        versionId?: number;
+        bookId?: string;
+        versionId?: string;
         chapter: number;
         verse: number;
     }>;
     notes?: Array<Omit<BibleNoteData, 'id' | 'createdAt' | 'updatedAt'> & {
-        bookId?: number;
-        versionId?: number;
+        bookId?: string;
+        versionId?: string;
         chapter: number;
         verse: number;
     }>;

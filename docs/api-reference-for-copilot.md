@@ -286,7 +286,8 @@ Response 200:
       "book_code": "JHN",
       "chapter": 3,
       "verse": 16,
-      "text": "Texte de la note",
+      "title": "Jean 3:16",
+      "content": "Texte de la note",
       "is_public": false,
       "created_at": "2026-03-19T15:00:00.000000Z",
       "updated_at": "2026-03-19T15:00:00.000000Z"
@@ -308,7 +309,8 @@ Request body:
   "book_code": "JHN",
   "chapter": 3,
   "verse": 16,
-  "text": "Texte de la note",
+  "title": "Jean 3:16",
+  "content": "Texte de la note",
   "is_public": false
 }
 ```
@@ -318,7 +320,8 @@ Validation:
 - `book_code`: requis, string
 - `chapter`: requis, integer
 - `verse`: requis, integer
-- `text`: requis, string
+- `title`: optionnel, string nullable
+- `content`: requis, string
 - `is_public`: optionnel, boolean
 
 Response 200:
@@ -331,7 +334,8 @@ Response 200:
     "book_code": "JHN",
     "chapter": 3,
     "verse": 16,
-    "text": "Texte de la note",
+    "title": "Jean 3:16",
+    "content": "Texte de la note",
     "is_public": false,
     "created_at": "2026-03-19T15:00:00.000000Z",
     "updated_at": "2026-03-19T15:00:00.000000Z"
@@ -355,7 +359,8 @@ Response 200:
     "book_code": "JHN",
     "chapter": 3,
     "verse": 16,
-    "text": "Texte de la note",
+    "title": "Jean 3:16",
+    "content": "Texte de la note",
     "is_public": false,
     "created_at": "2026-03-19T15:00:00.000000Z",
     "updated_at": "2026-03-19T15:00:00.000000Z"
@@ -373,14 +378,16 @@ Request body:
 
 ```json
 {
-  "text": "Nouveau texte",
+  "title": "Nouveau titre",
+  "content": "Nouveau texte",
   "is_public": true
 }
 ```
 
 Validation:
 
-- `text`: requis, string
+- `title`: optionnel, string nullable
+- `content`: requis, string
 - `is_public`: optionnel, boolean
 
 Important:
@@ -397,7 +404,8 @@ Response 200:
     "book_code": "JHN",
     "chapter": 3,
     "verse": 16,
-    "text": "Nouveau texte",
+    "title": "Nouveau titre",
+    "content": "Nouveau texte",
     "is_public": true,
     "created_at": "2026-03-19T15:00:00.000000Z",
     "updated_at": "2026-03-19T15:05:00.000000Z"
@@ -438,6 +446,8 @@ Response 200:
       "book_code": "JHN",
       "chapter": 3,
       "verse": 16,
+      "title": "Jean 3:16",
+      "color": "blue",
       "created_at": "2026-03-19T15:00:00.000000Z",
       "updated_at": "2026-03-19T15:00:00.000000Z"
     }
@@ -457,7 +467,9 @@ Request body:
 {
   "book_code": "JHN",
   "chapter": 3,
-  "verse": 16
+  "verse": 16,
+  "title": "Jean 3:16",
+  "color": "blue"
 }
 ```
 
@@ -466,6 +478,8 @@ Validation:
 - `book_code`: requis, string
 - `chapter`: requis, integer
 - `verse`: requis, integer
+- `title`: optionnel, string nullable
+- `color`: optionnel, string nullable
 
 Response 200:
 
@@ -477,6 +491,8 @@ Response 200:
     "book_code": "JHN",
     "chapter": 3,
     "verse": 16,
+    "title": "Jean 3:16",
+    "color": "blue",
     "created_at": "2026-03-19T15:00:00.000000Z",
     "updated_at": "2026-03-19T15:00:00.000000Z"
   }
@@ -677,7 +693,8 @@ Structure de sortie:
   "book_code": "JHN",
   "chapter": 3,
   "verse": 16,
-  "text": "Texte de la note",
+  "title": "Jean 3:16",
+  "content": "Texte de la note",
   "is_public": false,
   "created_at": "timestamp",
   "updated_at": "timestamp"

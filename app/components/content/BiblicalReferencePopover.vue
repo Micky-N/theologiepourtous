@@ -11,9 +11,7 @@
         </a>
 
         <template #content>
-            <div
-                class="w-72 max-w-xs p-2"
-            >
+            <div class="w-72 max-w-xs p-2">
                 <div
                     v-if="loading"
                     class="flex items-center gap-2 text-gray-600"
@@ -81,7 +79,7 @@ const cache = useState('cache', () => new Map<string, VerseData>());
 
 async function fetchVerseFromApiSim(verseRef: string): Promise<VerseData> {
     const verseObj = verseParser(verseRef);
-    verseObj.version = verseObj.version || user.value?.preferences.defaultVersion?.code || 'LSG';
+    verseObj.version = verseObj.version || user.value?.preferences.resolvedPreferredVersion?.code || 'LSG';
     const response = await $fetch(`/api/bible/verses/${verseObj.book}/${verseObj.chapter}/${verseObj.verse}`, {
         method: 'GET',
         query: { version: verseObj.version }

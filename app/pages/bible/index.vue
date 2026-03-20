@@ -21,7 +21,7 @@ const { data: selectedChapterVerses } = await useAsyncData(
     'bible-verses',
     () => $fetch<{ data: BibleVerseResponseData; }>(`/api/bible/verses/${route.query.book || 'GEN'}/${route.query.chapter || '1'}`, {
         query: {
-            version: route.query.version || user.value?.preferences?.defaultVersion?.code || 'LSG'
+            version: route.query.version || user.value?.preferences?.resolvedPreferredVersion?.code || 'LSG'
         }
     }),
     {
@@ -44,7 +44,7 @@ const selectedChapter = computed<number>({
     }
 });
 const selectedVersionCode = computed<string>({
-    get: () => route.query.version as string || user.value?.preferences.defaultVersion?.code || 'LSG',
+    get: () => route.query.version as string || user.value?.preferences?.resolvedPreferredVersion?.code || 'LSG',
     set: (value: string | undefined) => {
         router.push({ query: { ...route.query, version: value } });
     }
@@ -54,7 +54,7 @@ const notes = ref<BibleNoteWithVersePreview[]>([]);
 const bookmarks = ref<BibleBookmarkWithVersePreview[]>([]);
 const { fetchNotes } = useBibleNotes();
 const { fetchBookmarks } = useBookmarks();
-const { preferences, fetchPreferences } = useUserPreferences();
+const { fetchPreferences } = useUserPreferences();
 
 const booksNavigation = computed<NavigationMenuItem[]>(() => {
     const booksGrouped = booksData.value?.grouped || { old: [], new: [] };
@@ -172,15 +172,6 @@ const loadBookmarks = async () => {
 watch([() => route.query.chapter, () => route.query.book], async () => {
     if (loggedIn.value) {
         await loadNotes();
-        await loadBookmarks();
-    }
-});
-
-watch(selectedVersionCode, async () => {
-    if (preferences.value?.notesPerVersion) {
-        await loadNotes();
-    }
-    if (preferences.value?.bookmarksPerVersion) {
         await loadBookmarks();
     }
 });

@@ -30,7 +30,7 @@ type ChapterRecord = {
 };
 
 const DEFAULT_TIMESTAMP = new Date(0).toISOString();
-const SYNTHETIC_VERSE_ID_BASE = 1_000_000;
+const SYNTHETIC_VERSE_ID_SEPARATOR = ':';
 
 let booksPromise: Promise<BibleBookRecord[]> | null = null;
 let versionsPromise: Promise<BibleVersionRecord[]> | null = null;
@@ -64,19 +64,9 @@ export const getBibleBookByCode = async (bookCode: string) => {
     return books.find(book => book.code === bookCode.toUpperCase()) ?? null;
 };
 
-export const getBibleBookByOrderIndex = async (orderIndex: number) => {
-    const books = await getBibleBooks();
-    return books.find(book => book.orderIndex === orderIndex) ?? null;
-};
-
 export const getBibleVersionByCode = async (versionCode: string) => {
     const versions = await getActiveBibleVersions();
     return versions.find(version => version.code === versionCode.toUpperCase()) ?? null;
-};
-
-export const getBibleVersionByOrderIndex = async (orderIndex: number) => {
-    const versions = await getActiveBibleVersions();
-    return versions.find(version => version.orderIndex === orderIndex) ?? null;
 };
 
 export const getDefaultBibleVersion = async () => {
@@ -103,41 +93,43 @@ export const getBibleChapter = async (bookCode: string, chapter: number) => {
     return chaptersCache.get(cacheKey) ?? null;
 };
 
-export const buildSyntheticVerseId = (bookOrderIndex: number, chapter: number, verse: number, versionOrderIndex: number) => {
-    return (bookOrderIndex * SYNTHETIC_VERSE_ID_BASE) + (chapter * 1_000) + (verse * 10) + versionOrderIndex;
+export const buildSyntheticVerseId = (bookCode: string, chapter: number, verse: number, versionCode: string) => {
+    return [bookCode.toUpperCase(), chapter, verse, versionCode.toUpperCase()].join(SYNTHETIC_VERSE_ID_SEPARATOR);
 };
 
-export const decodeSyntheticVerseId = (verseId: number) => {
-    if (!Number.isInteger(verseId) || verseId < SYNTHETIC_VERSE_ID_BASE) {
+export const decodeSyntheticVerseId = (verseId: string) => {
+    if (typeof verseId !== 'string') {
         return null;
     }
 
-    const versionOrderIndex = verseId % 10;
-    const verse = Math.floor(verseId / 10) % 1_000;
-    const chapter = Math.floor(verseId / 1_000) % 1_000;
-    const bookOrderIndex = Math.floor(verseId / SYNTHETIC_VERSE_ID_BASE);
+    const [bookCode, chapterValue, verseValue, versionCode] = verseId
+        .split(SYNTHETIC_VERSE_ID_SEPARATOR)
+        .map(part => part.trim());
 
-    if (bookOrderIndex <= 0 || chapter <= 0 || verse <= 0 || versionOrderIndex <= 0) {
+    const chapter = Number.parseInt(chapterValue ?? '', 10);
+    const verse = Number.parseInt(verseValue ?? '', 10);
+
+    if (!bookCode || !versionCode || !Number.isInteger(chapter) || !Number.isInteger(verse) || chapter <= 0 || verse <= 0) {
         return null;
     }
 
     return {
-        bookOrderIndex,
+        bookCode: bookCode.toUpperCase(),
         chapter,
         verse,
-        versionOrderIndex
+        versionCode: versionCode.toUpperCase()
     };
 };
 
-export const resolveSyntheticVerseReference = async (verseId: number) => {
+export const resolveSyntheticVerseReference = async (verseId: string) => {
     const decoded = decodeSyntheticVerseId(verseId);
     if (!decoded) {
         return null;
     }
 
     const [book, version] = await Promise.all([
-        getBibleBookByOrderIndex(decoded.bookOrderIndex),
-        getBibleVersionByOrderIndex(decoded.versionOrderIndex)
+        getBibleBookByCode(decoded.bookCode),
+        getBibleVersionByCode(decoded.versionCode)
     ]);
 
     if (!book || !version || decoded.chapter > book.chapterCount) {
@@ -161,13 +153,13 @@ export const mapChapterVerses = (
         .filter(item => typeof item.texts[version.code] === 'string')
         .sort((left, right) => left.verse - right.verse)
         .map(item => ({
-            id: buildSyntheticVerseId(book.orderIndex, chapter.chapter, item.verse, version.orderIndex),
+            id: buildSyntheticVerseId(book.code, chapter.chapter, item.verse, version.code),
             chapter: chapter.chapter,
             verse: item.verse,
             text: item.texts[version.code],
             createdAt: DEFAULT_TIMESTAMP,
-            versionId: version.orderIndex,
-            bookId: book.orderIndex
+            versionId: version.code,
+            bookId: book.code
         }));
 };
 
@@ -212,7 +204,7 @@ export const buildVersePreview = async (params: {
 };
 
 export const buildBookPayload = (book: BibleBookRecord) => ({
-    id: book.orderIndex,
+    orderIndexId: book.orderIndex,
     code: book.code,
     name: book.name,
     testament: book.testament,
@@ -223,7 +215,7 @@ export const buildBookPayload = (book: BibleBookRecord) => ({
 });
 
 export const buildVersionPayload = (version: BibleVersionRecord) => ({
-    id: version.orderIndex,
+    orderIndexId: version.orderIndex,
     code: version.code,
     name: version.name,
     language: version.language,
