@@ -30,6 +30,8 @@ export default defineNuxtConfig({
     },
 
     runtimeConfig: {
+        contentSyncKey: process.env.NUXT_CONTENT_SYNC_KEY ?? '',
+        contentSyncAllowedSkewSeconds: Number(process.env.NUXT_CONTENT_SYNC_ALLOWED_SKEW_SECONDS ?? 300),
         public: {
             apiBaseUrl: process.env.NUXT_PUBLIC_API_BASE_URL ?? 'http://localhost:8000'
         }
