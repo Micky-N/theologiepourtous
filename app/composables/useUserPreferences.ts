@@ -38,7 +38,7 @@ export const useUserPreferences = () => {
             });
         }
 
-        const response = await client<{ data: BackendPreferenceSettings; }>('/preference-settings', {
+        const response = await client<BackendPreferenceSettings>('/preference-settings', {
             method: 'PATCH',
             body: {
                 preferred_version: preferredVersion?.code ?? null,
@@ -46,7 +46,7 @@ export const useUserPreferences = () => {
             }
         });
 
-        const mappedPreferences = await mapPreferenceSettings(response.data ?? null);
+        const mappedPreferences = await mapPreferenceSettings(response);
 
         syncUserPreferences({
             ...mappedPreferences,
@@ -57,8 +57,8 @@ export const useUserPreferences = () => {
     };
 
     const fetchPreferences = async () => {
-        const response = await client<{ data: BackendPreferenceSettings | null; }>('/preference-settings', { method: 'GET' });
-        const mappedPreferences = await mapPreferenceSettings(response.data ?? null);
+        const response = await client<BackendPreferenceSettings | null>('/preference-settings', { method: 'GET' });
+        const mappedPreferences = await mapPreferenceSettings(response);
 
         syncUserPreferences(mappedPreferences);
 
