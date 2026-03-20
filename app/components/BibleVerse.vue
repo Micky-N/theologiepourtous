@@ -145,7 +145,8 @@ const toast = useToast();
 const openedNoteShowDrawer = ref(false);
 const openedNoteCreateDrawer = ref(false);
 const verseQuery = route.query.verse as string | undefined;
-const { loggedIn } = useUserSession();
+const { isAuthenticated: loggedIn } = useSanctumAuth();
+const { deleteBookmark: removeBookmark } = useBookmarks();
 
 const items = computed<ContextMenuItem[]>(() => {
     const baseItems = [{
@@ -180,9 +181,7 @@ const items = computed<ContextMenuItem[]>(() => {
 const deleteBookmark = async () => {
     if (!props.bookmark) return;
     try {
-        await $fetch(`/api/bible/bookmarks/${props.bookmark.id}`, {
-            method: 'DELETE'
-        });
+        await removeBookmark(props.bookmark.id);
         toast.add({
             title: 'Signet supprimé',
             description: 'Le signet a été supprimer avec succès'

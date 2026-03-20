@@ -68,6 +68,7 @@ const form = reactive({
 const loading = ref(false);
 const error = ref('');
 const toast = useToast();
+const { createNote, updateNote } = useBibleNotes();
 
 function closeModal() {
     open.value = false;
@@ -86,34 +87,20 @@ async function handleSubmit() {
             note: BibleNoteData;
         } | null = null;
         if (isEdit.value && note) {
-            response = await $fetch<{
-                success: boolean;
-                message: string;
-                note: BibleNoteData;
-            }>(`/api/bible/notes/${note.id}`, {
-                method: 'PUT',
-                body: {
-                    title: form.title,
-                    content: form.content,
-                    isPrivate: form.isPrivate
-                }
+            response = await updateNote(note.id, {
+                title: form.title,
+                content: form.content,
+                isPrivate: form.isPrivate
             });
         } else {
             if (!verse.id) {
                 throw new Error('ID du verset requis pour créer une note');
             }
-            response = await $fetch<{
-                success: boolean;
-                message: string;
-                note: BibleNoteData;
-            }>('/api/bible/notes', {
-                method: 'POST',
-                body: {
-                    verseId: verse.id,
-                    title: form.title,
-                    content: form.content,
-                    isPrivate: form.isPrivate
-                }
+            response = await createNote({
+                verseId: verse.id,
+                title: form.title,
+                content: form.content,
+                isPrivate: form.isPrivate
             });
         }
         if (response.success) {

@@ -141,6 +141,7 @@ const toast = useToast();
 const open = defineModel<boolean>('open', { default: false });
 const selectedNoteId = ref<BibleNoteData['id'] | null>(null);
 const selectedNote = computed(() => notes.find(note => note.id === selectedNoteId.value) || null);
+const { deleteNote } = useBibleNotes();
 
 watch(open, (value) => {
     if (value && notes.length) {
@@ -158,9 +159,7 @@ const reference = computed(() => {
 
 const removeNote = async (note: BibleNoteData) => {
     try {
-        await $fetch(`/api/bible/notes/${note.id}`, {
-            method: 'DELETE'
-        });
+        await deleteNote(note.id);
         toast.add({
             title: 'Suppression succès',
             description: 'La note a bien été supprimée'

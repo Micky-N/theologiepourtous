@@ -1,9 +1,10 @@
 <script setup lang="ts">
-import type { UserProgress } from '@prisma/client';
 import type { BibleBookData } from '~/types';
+import { useTeachingProgress } from '~/composables/useTeachingProgress';
 import { verseParser } from '../../../utils/verseParser';
 
-const { loggedIn } = useUserSession();
+const { isAuthenticated: loggedIn } = useSanctumAuth();
+const { fetchThemeProgress, trackThemeProgress } = useTeachingProgress();
 const route = useRoute();
 const { data: lesson } = await useAsyncData(route.path, () => queryCollection('lessons').path(route.path).first());
 if (!lesson.value) {
@@ -11,9 +12,7 @@ if (!lesson.value) {
 }
 const { data: progress, refresh, status } = useAsyncData(
     route.path + '-progress',
-    () => $fetch<{ success: boolean; data: UserProgress | null; }>(`/api/teaching/progress/${lesson.value?.theme}`, {
-        method: 'GET'
-    }),
+    async () => await fetchThemeProgress(lesson.value!.theme),
     {
         immediate: loggedIn.value,
         server: false
@@ -31,8 +30,8 @@ const { data: surround } = useAsyncData(`${route.path}-surround`, () => {
 });
 
 const learntLesson = (lesson: string) => {
-    if (!progress.value?.data) return false;
-    const lessons = progress.value?.data.lessons;
+    if (!progress.value) return false;
+    const lessons = progress.value.lessons;
     if (!lessons) return false;
     const lessonsArray = JSON.parse(lessons) as string[];
     return lessonsArray.length && lessonsArray.includes(lesson);
@@ -40,10 +39,7 @@ const learntLesson = (lesson: string) => {
 
 const setProgress = async (slug: string) => {
     try {
-        await $fetch<{ success: boolean; data: UserProgress | null; }>(`/api/teaching/progress/${lesson.value?.theme}`, {
-            method: 'POST',
-            body: { lesson: slug }
-        });
+        await trackThemeProgress(lesson.value!.theme, slug);
         await refresh();
     } catch (e) {
         console.log(e);
@@ -92,7 +88,7 @@ const progressButtonProps = computed<{
             label: 'Appris',
             variant: 'subtle'
         };
-    } else if (progress.value?.data) {
+    } else if (progress.value && JSON.parse(progress.value.lessons || '[]').length > 0) {
         return {
             icon: 'i-lucide-circle-dashed',
             color: 'secondary',
@@ -145,7 +141,12 @@ const progressButtonProps = computed<{
                             />
                         </UButton>
                     </template>
-                    <time class="text-muted">{{ new Date(lesson.date).toLocaleDateString('fr', { year: 'numeric', month: 'long', day: 'numeric' }) }}</time>
+                    <time class="text-muted">{{ new Date(lesson.date).toLocaleDateString('fr', {
+                        year: 'numeric',
+                        month:
+                            'long',
+                        day:
+                            'numeric' }) }}</time>
                     <span class="hidden lg:block text-muted">&middot;</span>
                     <!-- tags -->
                     <div>

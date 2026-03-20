@@ -10,25 +10,19 @@ await fetchPreferences();
 await fetchVersions();
 
 const preferencesSchema = z.object({
-    defaultVersionOrderIndex: z.number().nullable(),
-    notesPerVersion: z.boolean(),
-    bookmarksPerVersion: z.boolean()
+    preferred_version: z.string().nullable(),
+    theme: z.enum(['light', 'dark', 'system'])
 });
 
-const state = reactive<Pick<UserPreferencesData, 'defaultVersionOrderIndex' | 'notesPerVersion' | 'bookmarksPerVersion'>>({
-    defaultVersionOrderIndex: preferences.value.defaultVersionOrderIndex,
-    notesPerVersion: preferences.value.notesPerVersion,
-    bookmarksPerVersion: preferences.value.bookmarksPerVersion
+const state = reactive<Pick<UserPreferencesData, 'preferred_version' | 'theme'>>({
+    preferred_version: preferences.value.preferred_version ?? 'LSG',
+    theme: preferences.value.theme
 });
 
-const versionsItems = computed(() => {
-    const items: { id: number | null; name: string; }[] = versions.value.map(v => ({
-        id: v.id,
-        name: `${v.name} (${v.code})`
-    }));
-    items.unshift({ id: null, name: 'Aucune' });
-    return items;
-});
+const versionsItems = computed(() => versions.value.map(v => ({
+    id: v.code,
+    name: `${v.name} (${v.code})`
+})));
 
 const onSubmit = async () => {
     try {
@@ -52,20 +46,20 @@ const onSubmit = async () => {
 
 const fields = [
     {
-        name: 'defaultVersionOrderIndex',
+        name: 'preferred_version',
         label: 'Version par défaut',
         description: 'Version de la bible préférée',
         items: versionsItems.value
     },
     {
-        name: 'notesPerVersion',
-        label: 'Notes par version',
-        description: 'Afficher les notes par version'
-    },
-    {
-        name: 'bookmarksPerVersion',
-        label: 'Signets par version',
-        description: 'Afficher les signets par version'
+        name: 'theme',
+        label: 'Thème',
+        description: 'Sélectionner le thème de l\'application',
+        items: [
+            { id: 'light', name: 'Clair' },
+            { id: 'dark', name: 'Sombre' },
+            { id: 'system', name: 'Système' }
+        ]
     }
 ];
 </script>
@@ -86,18 +80,22 @@ const fields = [
                 :description="field.description"
                 class="flex items-center justify-between not-last:pb-4 gap-2"
             >
-                <USwitch
-                    v-if="field.name == 'notesPerVersion' || field.name == 'bookmarksPerVersion'"
-                    v-model="state[field.name]"
-                />
-
                 <USelect
-                    v-if="field.name == 'defaultVersionOrderIndex' && field.items"
+                    v-if="field.name == 'preferred_version' && field.items"
                     v-model="state[field.name]"
                     :items="field.items"
                     label-key="name"
                     value-key="id"
                     placeholder="Sélectionner une version"
+                    class="min-w-52"
+                />
+                <USelect
+                    v-else-if="field.name == 'theme' && field.items"
+                    v-model="state[field.name]"
+                    :items="field.items"
+                    label-key="name"
+                    value-key="id"
+                    placeholder="Sélectionner un thème"
                     class="min-w-52"
                 />
             </UFormField>

@@ -1,16 +1,15 @@
 <script setup lang="ts">
-import type { UserProgress } from '@prisma/client';
+import { useTeachingProgress } from '~/composables/useTeachingProgress';
 
 const route = useRoute();
-const { loggedIn } = useUserSession();
+const { isAuthenticated: loggedIn } = useSanctumAuth();
+const { fetchThemeProgress, trackThemeProgress } = useTeachingProgress();
 const { data: theme } = await useAsyncData(route.path, () => queryCollection('themes').path(route.path).first());
 const { data: lessons } = useAsyncData(route.path + '/lessons', () => queryCollection('lessons').where('theme', '=', route.params.theme).all());
 
 const { data: progress, refresh } = useAsyncData(
     route.path + '-progress',
-    () => $fetch<{ success: boolean; data: UserProgress | null; }>(`/api/teaching/progress/${theme.value?.slug}`, {
-        method: 'GET'
-    }),
+    async () => theme.value?.slug ? await fetchThemeProgress(theme.value.slug) : null,
     {
         immediate: loggedIn.value,
         server: false
@@ -19,9 +18,11 @@ const { data: progress, refresh } = useAsyncData(
 
 const setProgress = async () => {
     try {
-        await $fetch<{ success: boolean; data: UserProgress | null; }>(`/api/teaching/progress/${theme.value?.slug}`, {
-            method: 'POST'
-        });
+        if (!theme.value?.slug) {
+            return;
+        }
+
+        await trackThemeProgress(theme.value.slug);
         await refresh();
     } catch (e) {
         console.log(e);
@@ -61,7 +62,7 @@ useHead({
                 class="w-full aspect-video max-h-[32rem] rounded-b-xl object-center"
             />
             <UButton
-                v-if="loggedIn && progress?.data === null"
+                v-if="loggedIn && (!progress || JSON.parse(progress.lessons || '[]').length === 0)"
                 icon="i-lucide-flag"
                 size="xs"
                 color="warning"
@@ -77,11 +78,11 @@ useHead({
                 class="pb-[25px]"
             >
                 <ThemeProgress
-                    v-if="loggedIn && progress?.data && lessons?.length"
+                    v-if="loggedIn && progress && lessons?.length"
                     :lessons="lessons.map(lesson => ({
                         title: lesson.title,
                         description: lesson.description,
-                        completed: progress?.data?.lessons ? JSON.parse(progress.data.lessons).includes(lesson.slug) : false
+                        completed: progress?.lessons ? JSON.parse(progress.lessons).includes(lesson.slug) : false
                     }))"
                     class="mt-4"
                 />

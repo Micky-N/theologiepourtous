@@ -1,11 +1,13 @@
 <script setup lang="ts">
 import type { DropdownMenuItem } from '@nuxt/ui';
+import type { AuthenticatedUserData } from '~/types';
 
 const route = useRoute();
-const { user, loggedIn, clear: clearSession } = useUserSession();
+const user = useSanctumUser<AuthenticatedUserData>();
+const { isAuthenticated: loggedIn, logout: sanctumLogout } = useSanctumAuth();
 
 async function logout() {
-    await clearSession();
+    await sanctumLogout().catch(() => undefined);
     await navigateTo('/login');
 }
 

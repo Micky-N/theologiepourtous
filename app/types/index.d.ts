@@ -43,7 +43,7 @@ export interface BibleVerseWithContext extends BibleVerseData {
 }
 
 export interface BibleNoteData {
-    id: number;
+    id: string;
     title: string | null;
     content: string;
     isPrivate: boolean;
@@ -52,7 +52,7 @@ export interface BibleNoteData {
 }
 
 export interface BibleBookmarkData {
-    id: number;
+    id: string;
     title: string | null;
     color: string | null;
     createdAt: string | Date;
@@ -67,18 +67,40 @@ export interface BibleVersePreview {
 }
 
 export interface BibleNoteWithVersePreview extends BibleNoteData {
+    book: BibleBookData;
     verse: BibleVersePreview;
 }
 
 export interface BibleBookmarkWithVersePreview extends BibleBookmarkData {
+    reference: string;
+    book: BibleBookData;
     verse: BibleVersePreview;
 }
 
 export interface UserPreferencesData {
-    defaultVersionOrderIndex: number | null;
+    preferred_version: string | undefined;
+    theme: 'light' | 'dark' | 'system';
+    defaultVersion: BibleVersionData | null;
     notesPerVersion: boolean;
     bookmarksPerVersion: boolean;
-    defaultVersion: BibleVersionData | null;
+}
+
+export interface AuthenticatedUserData {
+    id: string;
+    name: string;
+    email: string;
+    role: string;
+    preferences: UserPreferencesData;
+}
+
+export interface UserProgress {
+    id: string;
+    userId: string;
+    theme: string;
+    lessons: string;
+    startedAt: string | null;
+    createdAt: string;
+    updatedAt: string;
 }
 
 export interface BibleVerseResponseData {

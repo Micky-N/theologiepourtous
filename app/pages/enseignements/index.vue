@@ -1,11 +1,13 @@
 <script setup lang="ts">
 import type { LessonsCollectionItem, ThemesCollectionItem } from '@nuxt/content';
-import type { UserProgress } from '@prisma/client';
+import type { UserProgress } from '~/types';
+import { useTeachingProgress } from '~/composables/useTeachingProgress';
 
 const { themes } = defineProps<{ themes: ThemesCollectionItem[]; }>();
 
 const route = useRoute();
-const { loggedIn } = useUserSession();
+const { isAuthenticated: loggedIn } = useSanctumAuth();
+const { fetchAllProgress } = useTeachingProgress();
 const perPage = 7;
 const page = ref(parseInt((route.query.page as string) || '1'));
 const { data: teaching } = await useAsyncData('teaching', () => queryCollection('teaching').first());
@@ -21,9 +23,7 @@ const { data: lessons } = useAsyncData(
 
 const { data: progress } = useAsyncData(
     route.path + '-progress',
-    () => $fetch<{ success: boolean; data: UserProgress[] | null; }>('/api/teaching/progress', {
-        method: 'GET'
-    }),
+    async () => await fetchAllProgress(),
     {
         immediate: loggedIn.value,
         server: false
@@ -36,8 +36,8 @@ const doctrinesProgress = computed<{
     completedLessons: number;
     totalLessons: number;
 }[]>(() => {
-    if (!progress.value?.data) return [];
-    return progress.value.data.map(p => ({
+    if (!progress.value) return [];
+    return progress.value.map((p: UserProgress) => ({
         title: themes.find(t => t.slug === p.theme)?.title || '',
         slug: p.theme,
         completedLessons: p.lessons ? (JSON.parse(p.lessons) as string[]).length : 0,

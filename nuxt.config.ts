@@ -7,10 +7,10 @@ export default defineNuxtConfig({
         '@nuxt/content',
         '@vueuse/nuxt',
         'nuxt-og-image',
-        '@prisma/nuxt',
-        'nuxt-auth-utils',
         'nuxt-auth-sanctum'
     ],
+
+    ssr: true,
 
     devtools: {
         enabled: true
@@ -29,6 +29,12 @@ export default defineNuxtConfig({
         }
     },
 
+    runtimeConfig: {
+        public: {
+            apiBaseUrl: process.env.NUXT_PUBLIC_API_BASE_URL ?? 'http://localhost:8000'
+        }
+    },
+
     routeRules: {
         '/docs': { redirect: '/docs/getting-started', prerender: false }
     },
@@ -43,17 +49,6 @@ export default defineNuxtConfig({
             crawlLinks: true
         }
     },
-    vite: {
-        resolve: {
-            alias: {
-                '.prisma/client/index-browser': './node_modules/.prisma/client/index-browser.js'
-            }
-        }
-    },
-
-    auth: {
-        loadStrategy: 'server-first'
-    },
 
     eslint: {
         config: {
@@ -65,7 +60,20 @@ export default defineNuxtConfig({
     },
 
     sanctum: {
-        baseUrl: 'http://localhost:8000' // Laravel API
+        mode: 'cookie',
+        baseUrl: '/api/sanctum',
+        endpoints: {
+            user: '/me'
+        },
+        redirect: {
+            onLogin: false,
+            onLogout: false,
+        },
+        serverProxy: {
+            enabled: true,
+            route: '/api/sanctum',
+            baseUrl: process.env.NUXT_PUBLIC_API_BASE_URL ?? 'http://localhost:8000'
+        }
     }
 
 });

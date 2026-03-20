@@ -2,6 +2,7 @@
 import * as z from 'zod';
 import type { FormSubmitEvent } from '@nuxt/ui';
 
+const route = useRoute();
 definePageMeta({
     layout: 'auth'
 });
@@ -11,11 +12,11 @@ useSeoMeta({
     description: 'Connectez-vous à votre compte pour continuer votre parcours spirituel'
 });
 
-const { loggedIn, fetch: refreshSession } = useUserSession();
+const { isAuthenticated, login } = useSanctumAuth();
 const toast = useToast();
 
 // Rediriger si déjà connecté
-watch(loggedIn, (value) => {
+watch(isAuthenticated, (value) => {
     if (value) {
         navigateTo('/');
     }
@@ -58,13 +59,9 @@ const isLoading = ref(false);
 async function onSubmit(payload: FormSubmitEvent<Schema>) {
     isLoading.value = true;
 
-    await $fetch('/api/auth/login', {
-        method: 'POST',
-        body: payload.data
-    }).then(async () => {
-        // Refresh the session on client-side and redirect to the home page
-        await refreshSession();
-        await navigateTo('/');
+    await login(payload.data).then(async () => {
+        const redirect = typeof route.query.redirect === 'string' ? route.query.redirect : '/';
+        await navigateTo(redirect);
     }).catch((reason) => {
         console.error('Erreur de connexion:', reason);
 

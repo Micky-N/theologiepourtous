@@ -1,8 +1,15 @@
 <script setup lang="ts">
 import * as z from 'zod';
 import type { FormSubmitEvent } from '@nuxt/ui';
-import type { User } from '#auth-utils';
 
+type AuthUser = {
+    id: string;
+    name: string;
+    email: string;
+    role: string;
+};
+
+const route = useRoute();
 definePageMeta({
     layout: 'auth'
 });
@@ -13,11 +20,29 @@ useSeoMeta({
 });
 
 const toast = useToast();
-const { loggedIn } = useUserSession();
-const { fetch: fetchSession } = useUserSession();
+const { isAuthenticated, login } = useSanctumAuth();
+const registrationPayload = ref<Schema | null>(null);
+const {
+    data: registrationResponse,
+    error: registrationError,
+    execute: executeRegistration
+} = await useSanctumFetch<{
+    token: string;
+    user: AuthUser;
+}>('/api/v1/register', {
+    method: 'POST',
+    body: computed(() => registrationPayload.value
+        ? {
+            ...registrationPayload.value,
+            confirm_password: registrationPayload.value.confirmPassword
+        }
+        : undefined),
+    immediate: false,
+    watch: false
+});
 
 // Rediriger si déjà connecté
-watch(loggedIn, (value) => {
+watch(isAuthenticated, (value) => {
     if (value) {
         navigateTo('/');
     }
@@ -81,27 +106,34 @@ const isLoading = ref(false);
 
 async function onSubmit(payload: FormSubmitEvent<Schema>) {
     isLoading.value = true;
+    registrationPayload.value = payload.data;
 
     try {
-        const response = await $fetch<{
-            success: boolean;
-            message: string;
-            user: User;
-        }>('/api/auth/register', {
-            method: 'POST',
-            body: payload.data
-        });
+        await executeRegistration();
 
-        if (response.success) {
-            await fetchSession();
-            await navigateTo('/');
+        if (registrationError.value) {
+            throw registrationError.value;
         }
+
+        const registeredUser = registrationResponse.value;
+
+        if (!registeredUser) {
+            throw new Error('Reponse d\'inscription invalide');
+        }
+
+        await login({
+            email: payload.data.email,
+            password: payload.data.password
+        });
 
         toast.add({
             title: 'Inscription réussie',
-            description: `Bienvenue ${response.user.name} ! Votre compte a été créé avec succès.`,
+            description: `Bienvenue ${registeredUser.user.name} ! Votre compte a été créé avec succès.`,
             color: 'success'
         });
+
+        const redirect = typeof route.query.redirect === 'string' ? route.query.redirect : '/';
+        await navigateTo(redirect);
     } catch (error: any) {
         console.error('Erreur d\'inscription:', error);
 

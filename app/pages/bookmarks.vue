@@ -303,7 +303,7 @@ const { status, error, refresh } = await useAsyncData('bookmarks', () => fetchBo
 const deleteModal = reactive({
     show: false,
     loading: false,
-    bookmarkId: null as number | null
+    bookmarkId: null as string | null
 });
 
 // État des filtres
@@ -355,7 +355,7 @@ const getButtonColor = (_color: string) => {
 };
 
 // Actions du dropdown
-const getDropdownItems = (bookmarkId: number) => [
+const getDropdownItems = (bookmarkId: string) => [
     [{
         label: 'Supprimer',
         icon: 'i-heroicons-trash',
@@ -365,7 +365,7 @@ const getDropdownItems = (bookmarkId: number) => [
 ];
 
 // Afficher le modal de suppression
-const showDeleteModal = (bookmarkId: number) => {
+const showDeleteModal = (bookmarkId: string) => {
     deleteModal.bookmarkId = bookmarkId;
     deleteModal.show = true;
 };

@@ -113,6 +113,7 @@ const colorOptions = [
 const loading = ref(false);
 const error = ref('');
 const toast = useToast();
+const { createBookmark } = useBookmarks();
 
 function closeForm() {
     open.value = false;
@@ -123,13 +124,10 @@ async function handleSubmit() {
     error.value = '';
     loading.value = true;
     try {
-        const response = await $fetch('/api/bible/bookmarks', {
-            method: 'POST',
-            body: {
-                verseId: props.verseId,
-                title: form.title,
-                color: form.color
-            }
+        const response = await createBookmark({
+            verseId: props.verseId,
+            title: form.title,
+            color: form.color
         });
         if (response.success) {
             toast.add({ title: 'Favori ajouté', description: response.message, color: 'primary' });

@@ -56,7 +56,7 @@
 </template>
 
 <script setup lang="ts">
-import type { BibleVerseWithContext } from '~/types';
+import type { BibleVerseWithContext, AuthenticatedUserData } from '~/types';
 import { ref, watch } from 'vue';
 
 type Verse = BibleVerseWithContext;
@@ -66,7 +66,7 @@ type VerseData = {
     verses: Verse[];
 };
 
-const { user } = useUserSession();
+const user = useSanctumUser<AuthenticatedUserData>();
 const { verse } = defineProps<{
     verse: string;
 }>();

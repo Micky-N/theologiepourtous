@@ -1,14 +1,3 @@
-import { readFile } from 'node:fs/promises';
-
-type BibleVersionRecord = {
-    code: string;
-    name: string;
-    language: string;
-    year: number | null;
-    isActive: boolean;
-    orderIndex: number;
-};
-
 export default defineEventHandler(async () => {
     try {
         const versions = (await getBibleVersions())

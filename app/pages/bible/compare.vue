@@ -31,6 +31,7 @@ useSeoMeta({
 const route = useRoute();
 const router = useRouter();
 const { fetchPreferences, preferences } = useUserPreferences();
+const { createBookmark } = useBookmarks();
 try {
     await fetchPreferences();
 } catch (e) {
@@ -224,12 +225,7 @@ const handleAddBookmark = (verse: BibleVerseData) => {
     const toast = useToast();
     (async () => {
         try {
-            const res = await $fetch('/api/bible/bookmarks', {
-                method: 'POST',
-                body: {
-                    verseId: verse.id
-                }
-            });
+            const res = await createBookmark({ verseId: verse.id });
             toast.add({
                 title: 'Favori ajouté',
                 description: res.message || 'Le verset a été ajouté à vos favoris.'

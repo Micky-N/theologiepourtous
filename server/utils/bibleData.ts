@@ -37,7 +37,7 @@ let versionsPromise: Promise<BibleVersionRecord[]> | null = null;
 const chaptersCache = new Map<string, Promise<ChapterRecord | null>>();
 
 const loadJson = async <T>(relativePath: string): Promise<T> => {
-    const filePath = path.join(process.cwd(), 'server', relativePath)
+    const filePath = path.join(process.cwd(), 'server', relativePath);
     const content = await readFile(new URL(filePath, import.meta.url), 'utf-8');
     return JSON.parse(content) as T;
 };

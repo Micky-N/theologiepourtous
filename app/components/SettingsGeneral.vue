@@ -1,11 +1,13 @@
 <script setup lang="ts">
 import * as z from 'zod';
 import type { FormSubmitEvent } from '@nuxt/ui';
+import type { AuthenticatedUserData } from '~/types';
 
 type ProfileSchema = z.output<typeof profileSchema>;
 
-const { user, fetch: fetchSession } = useUserSession();
+const user = useSanctumUser<AuthenticatedUserData>();
 const toast = useToast();
+const { updateProfile, deleteAccount: removeAccount } = useUserProfile();
 
 const profileSchema = z.object({
     name: z.string().min(2, 'Le nom doit contenir au moins 2 caractères'),
@@ -30,14 +32,13 @@ const profile = reactive<Partial<ProfileSchema>>({
     confirmPassword: null
 });
 const onSubmit = async (event: FormSubmitEvent<ProfileSchema>) => {
-    const { message } = await $fetch('/api/profile', { method: 'PUT', body: event.data });
+    const { message } = await updateProfile(event.data);
     toast.add({
         title: 'Succès',
         description: message,
         icon: 'i-lucide-check',
         color: 'success'
     });
-    await fetchSession();
 };
 
 // Modal de confirmation pour la suppression
@@ -59,18 +60,13 @@ const deleteAccount = async () => {
     try {
         isDeleting.value = true;
 
-        await $fetch('/api/profile/delete-account', {
-            method: 'POST',
-            body: { password: deletePassword.value }
-        });
+        await removeAccount(deletePassword.value);
 
         toast.add({
             title: 'Compte supprimé',
             description: 'Votre compte a été supprimé avec succès',
             color: 'success'
         });
-
-        await fetchSession();
 
         // Rediriger vers la page d'accueil après suppression
         await navigateTo('/');

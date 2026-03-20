@@ -4,10 +4,10 @@
 
 Théologie pour Tous est une application web complète dédiée à l'étude de la Bible et à l'enseignement théologique. Elle offre une expérience interactive pour approfondir sa compréhension des Écritures à travers des cours structurés, des outils de lecture et de prise de notes.
 
-![Nuxt](https://img.shields.io/badge/Nuxt-3.x-00DC82?logo=nuxt.js&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-4.x-00DC82?logo=nuxt.js&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue-3.x-4FC08D?logo=vue.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6?logo=typescript&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-ORM-2D3748?logo=prisma&logoColor=white)
+![Sanctum](https://img.shields.io/badge/Sanctum-Token%20Auth-EF4444)
 ![Tailwind](https://img.shields.io/badge/Tailwind-CSS-06B6D4?logo=tailwindcss&logoColor=white)
 
 ## ✨ Fonctionnalités principales
@@ -37,24 +37,24 @@ Théologie pour Tous est une application web complète dédiée à l'étude de l
 - **Objectifs personnalisables** et réalisations
 
 ### 🔐 Authentification et profils
-- **Système d'authentification sécurisé**
+- **Authentification Sanctum par token**
 - **Profils utilisateur personnalisables**
 - **Paramètres et préférences** de lecture
 
 ## 🚀 Technologies utilisées
 
 ### Frontend
-- **Nuxt 3** - Framework Vue.js full-stack
+- **Nuxt 4** - Framework Vue.js full-stack
 - **Vue 3** - Framework JavaScript réactif
 - **TypeScript** - Typage statique
 - **Tailwind CSS** - Framework CSS utilitaire
 - **Nuxt UI** - Composants UI modernes
 - **Nuxt Content** - Gestion de contenu markdown
 
-### Backend & Base de données
-- **Prisma ORM** - Gestionnaire de base de données
-- **MySQL** - Base de données
-- **Nuxt Server API** - API RESTful intégrée
+### Backend & API
+- **Laravel API v1** - Backend metier externe
+- **Laravel Sanctum** - Authentification par Bearer token
+- **Nuxt Server API** - Proxy Sanctum local et endpoints Bible publics
 
 ### Outils de développement
 - **ESLint** - Linting et qualité de code
@@ -65,43 +65,45 @@ Théologie pour Tous est une application web complète dédiée à l'étude de l
 ## 📋 Prérequis
 
 - **Node.js** 18.x ou supérieur
-- **Base de données** SQLite ou MySQL
+- **Backend Laravel** accessible en local ou a distance
 
 ## 🛠️ Configuration
 
-### 3. Base de données
+### 3. Variables d'environnement
 ```bash
 # Copier le fichier d'environnement
 cp .env.example .env
 
 # Configurer les variables d'environnement
-# DATABASE_PROVIDER="sqlite"    # ou "mysql"
-# DATABASE_URL="file:./dev.db"  # SQLite pour le développement
-# NUXT_SESSION_PASSWORD="your-secret-key"
 # NUXT_PUBLIC_SITE_URL="http://localhost:3000"
+# NUXT_PUBLIC_API_BASE_URL="http://localhost:8000"
 ```
 
-Prisma ne permet pas d'utiliser `env()` dans `datasource.provider`.
-Le projet choisit donc automatiquement le bon schéma Prisma et le bon dossier de migrations à partir de `DATABASE_PROVIDER` dans [prisma.config.ts](prisma.config.ts).
+`NUXT_PUBLIC_API_BASE_URL` doit pointer vers le backend Laravel qui expose l'API documentee dans [docs/api-reference-for-copilot.md](docs/api-reference-for-copilot.md).
 
-### 4. Initialiser la base de données
-```bash
-# Générer le client Prisma
-npx prisma generate
-
-# Appliquer les migrations
-npx prisma migrate dev
-
-# Peupler la base avec des données de test (optionnel)
-npx prisma db seed
-```
-
-### 5. Lancer le serveur de développement
+### 4. Lancer le serveur de développement
 ```bash
 npm run dev
 ```
 
 L'application sera accessible à l'adresse `http://localhost:3000`
+
+## 🔐 Flux d'authentification
+
+- Le frontend utilise `nuxt-auth-sanctum` en mode `token`.
+- Nuxt proxifie les appels Sanctum via `/api/sanctum`.
+- Le token d'authentification est stocke dans le cookie `sanctum.token.cookie`.
+- L'identite utilisateur chargee par le frontend passe par une route locale qui adapte la reponse backend `/api/v1/me`.
+
+## 🔌 Architecture des appels API
+
+- Les ressources authentifiees `profile`, `preference-settings`, `bible-notes`, `bible-bookmarks` et `lesson-progress-entries` sont appelees directement depuis le frontend via `nuxt-auth-sanctum`.
+- Les composables front reconstruisent les objets UI necessaires a partir des reponses backend et des donnees Nuxt Content.
+- Nitro ne garde plus que ces responsabilites:
+	- exposer le proxy local `/api/sanctum`
+	- fournir `GET /api/sanctum/identity` pour adapter l'utilisateur backend au format attendu par `nuxt-auth-sanctum`
+	- servir les endpoints Bible publics sous `/api/bible/**`
+- Certaines metadonnees purement UI sont persistees cote frontend, par exemple les couleurs de signets, les titres personnalises et certains drapeaux de preferences de lecture.
 
 ## 📝 Scripts disponibles
 
@@ -112,16 +114,10 @@ npm run build            # Build de production
 npm run preview          # Aperçu du build
 npm run generate         # Génération statique
 
-# Base de données
-npm run db:generate      # Générer le client Prisma
-npm run db:migrate       # Appliquer les migrations
-npm run db:seed          # Peupler la base de données
-npm run db:studio        # Interface graphique Prisma Studio
-
 # Qualité de code
-npm run lint             # Vérification ESLint
+npm run lint             # Correction ESLint
 npm run lint:fix         # Correction automatique ESLint
-npm run type-check       # Vérification TypeScript
+npm run typecheck        # Vérification TypeScript
 npm run check:all        # Vérification complète (lint + types)
 ```
 
@@ -138,8 +134,7 @@ npm run check:all        # Vérification complète (lint + types)
 │   ├── 📁 plugins/            # Plugins Nuxt
 │   └── 📁 utils/              # Utilitaires et helpers
 ├── 📁 content/                # Contenu markdown (cours)
-├── 📁 prisma/                 # Schéma et migrations DB
-├── 📁 server/                 # API routes serveur
+├── 📁 server/                 # Proxy Sanctum local et endpoints Bible publics
 ├── 📁 public/                 # Assets statiques
 └── 📄 nuxt.config.ts          # Configuration Nuxt
 ```

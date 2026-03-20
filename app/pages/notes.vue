@@ -206,7 +206,8 @@
 </template>
 
 <script lang="ts" setup>
-import type { BibleBookData, BibleNoteData, BibleVersionData } from '~/types';
+import type { BibleBookData, BibleNoteWithVersePreview, BibleVersionData } from '~/types';
+import { useBibleNotes } from '~/composables/useBibleNotes';
 
 definePageMeta({
     middleware: 'auth'
@@ -221,15 +222,7 @@ useHead({
 });
 
 // Types
-interface Note extends BibleNoteData {
-    book: BibleBookData;
-    verse: {
-        chapter: number;
-        verse: number;
-        text: string;
-        version: Pick<BibleVersionData, 'code' | 'name'>;
-    };
-}
+type Note = BibleNoteWithVersePreview & { book: BibleBookData; verse: { chapter: number; verse: number; text: string; version: Pick<BibleVersionData, 'code' | 'name'>; }; };
 
 interface Verse {
     id: number;
@@ -267,6 +260,7 @@ const selectedNote = ref<Note | null>(null);
 const editingNote = ref<Note | null>(null);
 const deleteModalLoading = ref(false);
 const noteToDelete = ref<Note | null>(null);
+const { fetchNotes: fetchSanctumNotes, deleteNote: removeNote } = useBibleNotes();
 
 // Options
 const bookOptions = ref<{ label: string; value: string | null; }[]>([]);
@@ -336,21 +330,15 @@ const fetchNotes = async () => {
             params.append('private', selectedPrivacy.value);
         }
 
-        const response = await $fetch<{
-            success: boolean;
-            data: {
-                notes: Note[];
-                pagination: {
-                    total: number;
-                    limit: number;
-                    offset: number;
-                    hasMore: boolean;
-                };
-            };
-        }>(`/api/bible/notes?${params.toString()}`);
+        const response = await fetchSanctumNotes({
+            book: selectedBook.value || undefined,
+            isPrivate: selectedPrivacy.value === null ? undefined : selectedPrivacy.value === 'true',
+            limit: pageSize.value,
+            offset: (currentPage.value - 1) * pageSize.value
+        });
 
-        notes.value = response.data.notes;
-        totalNotes.value = response.data.pagination.total;
+        notes.value = response.notes as Note[];
+        totalNotes.value = response.pagination.total;
     } catch (error) {
         console.error('Erreur lors du chargement des notes:', error);
         useToast().add({
@@ -448,9 +436,7 @@ const confirmDeleteNote = async () => {
     if (!noteToDelete.value) return;
     deleteModalLoading.value = true;
     try {
-        await $fetch(`/api/bible/notes/${noteToDelete.value.id}`, {
-            method: 'DELETE'
-        });
+        await removeNote(noteToDelete.value.id);
         useToast().add({
             title: 'Succès',
             description: 'Note supprimée avec succès',

@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import type { NavigationMenuItem } from '@nuxt/ui';
 import type {
+    AuthenticatedUserData,
     BibleBookData,
     BibleBookmarkWithVersePreview,
     BibleNoteWithVersePreview,
@@ -12,7 +13,8 @@ definePageMeta({
     layout: 'bible'
 });
 const route = useRoute();
-const { user, loggedIn } = useUserSession();
+const user = useSanctumUser<AuthenticatedUserData>();
+const { isAuthenticated: loggedIn } = useSanctumAuth();
 const { data: booksData } = await useAsyncData('bible-books', () => $fetch<{ data: { all: BibleBookData[]; grouped: { old: BibleBookData[]; new: BibleBookData[]; }; }; }>('/api/bible/books'), { transform: data => data?.data || [] });
 const { data: availableVersions } = await useAsyncData('bible-versions', () => $fetch<{ data: BibleVersionData[]; }>('/api/bible/versions'), { transform: data => data?.data || [] });
 const { data: selectedChapterVerses } = await useAsyncData(
@@ -50,6 +52,9 @@ const selectedVersionCode = computed<string>({
 const books = computed<BibleBookData[]>(() => booksData.value?.all || []);
 const notes = ref<BibleNoteWithVersePreview[]>([]);
 const bookmarks = ref<BibleBookmarkWithVersePreview[]>([]);
+const { fetchNotes } = useBibleNotes();
+const { fetchBookmarks } = useBookmarks();
+const { preferences, fetchPreferences } = useUserPreferences();
 
 const booksNavigation = computed<NavigationMenuItem[]>(() => {
     const booksGrouped = booksData.value?.grouped || { old: [], new: [] };
@@ -127,6 +132,7 @@ useSeoMeta({
 
 onMounted(async () => {
     if (loggedIn.value) {
+        await fetchPreferences();
         await loadNotes();
         await loadBookmarks();
     }
@@ -136,16 +142,13 @@ const loadNotes = async () => {
     if (!selectedVersionCode.value || !selectedBookCode.value || !selectedChapter.value) return;
 
     try {
-        const response = await $fetch<{ data: { notes: BibleNoteWithVersePreview[]; }; }>('/api/bible/notes', {
-            method: 'GET',
-            query: {
-                book: selectedBookCode.value,
-                chapter: selectedChapter.value,
-                version: selectedVersionCode.value
-            }
+        const response = await fetchNotes({
+            book: selectedBookCode.value,
+            chapter: selectedChapter.value,
+            version: selectedVersionCode.value
         });
 
-        notes.value = response?.data.notes || [];
+        notes.value = response.notes || [];
     } catch (error) {
         console.error('Erreur lors du chargement des notes:', error);
     }
@@ -155,15 +158,12 @@ const loadBookmarks = async () => {
     if (!selectedVersion.value || !selectedBookCode.value || !selectedChapter.value) return;
 
     try {
-        const response = await $fetch<{ data: { bookmarks: BibleBookmarkWithVersePreview[]; }; }>('/api/bible/bookmarks', {
-            method: 'GET',
-            query: {
-                book: selectedBookCode.value,
-                chapter: selectedChapter.value,
-                version: selectedVersionCode.value
-            }
+        const response = await fetchBookmarks({
+            book: selectedBookCode.value,
+            chapter: selectedChapter.value,
+            version: selectedVersionCode.value
         });
-        bookmarks.value = response?.data.bookmarks || [];
+        bookmarks.value = response.bookmarks || [];
     } catch (error) {
         console.error('Erreur lors du chargement des signets:', error);
     }
@@ -177,10 +177,10 @@ watch([() => route.query.chapter, () => route.query.book], async () => {
 });
 
 watch(selectedVersionCode, async () => {
-    if (user.value?.preferences?.notesPerVersion) {
+    if (preferences.value?.notesPerVersion) {
         await loadNotes();
     }
-    if (user.value?.preferences?.bookmarksPerVersion) {
+    if (preferences.value?.bookmarksPerVersion) {
         await loadBookmarks();
     }
 });
