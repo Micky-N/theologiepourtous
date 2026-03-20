@@ -92,13 +92,10 @@ export interface AuthenticatedUserData {
 }
 
 export interface UserProgress {
-    id: string;
     userId: string;
     theme: string;
     lessons: string;
     startedAt: string | null;
-    createdAt: string;
-    updatedAt: string;
 }
 
 export interface BibleVerseResponseData {

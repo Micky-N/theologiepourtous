@@ -1,10 +1,20 @@
 import type { LessonsCollectionItem } from '@nuxt/content';
 import type { AuthenticatedUserData, UserProgress } from '~/types';
 
+type BackendLesson = {
+    id: string;
+    slug: string;
+    theme: string;
+    path: string;
+    created_at: string;
+    updated_at: string;
+};
+
 type BackendLessonProgressEntry = {
     id: string;
     user_id: string;
     lesson_id: string | number;
+    lesson: BackendLesson;
     created_at: string;
     updated_at: string;
 };
@@ -54,66 +64,34 @@ export const useTeachingProgress = () => {
         return lessons.find(lesson => lesson.theme === theme && lesson.slug === slug) ?? null;
     };
 
-    const findLessonByApiId = async (lessonId: string | number) => {
-        const normalized = String(lessonId);
-        const lessons = await getLessonMetadata();
-        const numericId = Number.parseInt(normalized, 10);
-
-        if (Number.isInteger(numericId)) {
-            const byNumericId = lessons.find(lesson => lesson.numericId === numericId);
-            if (byNumericId) {
-                return byNumericId;
-            }
-        }
-
-        return lessons.find(lesson => lesson.sourceId === normalized || lesson.slug === normalized) ?? null;
-    };
-
     const buildThemeProgress = async (
         theme: string,
         entries: BackendLessonProgressEntry[],
         options?: { includeSynthetic?: boolean; userId?: string; }
     ): Promise<UserProgress | null> => {
-        const resolvedEntries = await Promise.all(entries.map(async (entry) => {
-            const lesson = await findLessonByApiId(entry.lesson_id);
-            if (!lesson || lesson.theme !== theme) {
-                return null;
-            }
+        const lessons = entries.flatMap(entry => entry.lesson.theme === theme ? entry.lesson : []);
 
-            return { entry, lesson };
-        }));
-
-        const matchingEntries = resolvedEntries.filter((item): item is NonNullable<typeof item> => item !== null);
-
-        if (!matchingEntries.length) {
+        if (!lessons.length) {
             if (!options?.includeSynthetic) {
                 return null;
             }
 
-            const now = new Date().toISOString();
             return {
-                id: `theme:${theme}`,
                 userId: options?.userId ?? user.value?.id ?? '',
                 theme,
                 lessons: '[]',
-                startedAt: null,
-                createdAt: now,
-                updatedAt: now
+                startedAt: null
             };
         }
 
-        const sortedEntries = matchingEntries.sort((left, right) => left.lesson.numericId - right.lesson.numericId);
+        const sortedEntries = lessons.sort((left, right) => new Date(left.created_at).getTime() - new Date(right.created_at).getTime());
         const firstEntry = sortedEntries[0]!;
-        const lastEntry = sortedEntries[sortedEntries.length - 1]!;
 
         return {
-            id: `theme:${theme}`,
-            userId: firstEntry.entry.user_id,
+            userId: options?.userId ?? user.value?.id ?? '',
             theme,
-            lessons: JSON.stringify(sortedEntries.map(item => item.lesson.slug)),
-            startedAt: firstEntry.entry.created_at,
-            createdAt: firstEntry.entry.created_at,
-            updatedAt: lastEntry.entry.updated_at
+            lessons: JSON.stringify(sortedEntries.map(item => item.slug)),
+            startedAt: firstEntry.created_at
         };
     };
 
@@ -125,11 +103,11 @@ export const useTeachingProgress = () => {
     };
 
     const fetchEntries = async () => {
-        const response = await client<{ data: BackendLessonProgressEntry[]; }>('/lesson-progress-entries', {
+        const response = await client<BackendLessonProgressEntry[]>('/lesson-progress-entries', {
             method: 'GET'
         });
 
-        return response.data;
+        return response;
     };
 
     const fetchAllProgress = async () => {
@@ -158,13 +136,13 @@ export const useTeachingProgress = () => {
                 });
             }
 
-            const alreadyTracked = entries.some(entry => String(entry.lesson_id) === String(lesson.numericId));
+            const alreadyTracked = entries.some(entry => entry.lesson.slug === lesson.slug);
 
             if (!alreadyTracked) {
                 await client('/lesson-progress-entries', {
                     method: 'POST',
                     body: {
-                        lesson_id: lesson.numericId
+                        lesson_slug: lesson.slug
                     }
                 });
 
