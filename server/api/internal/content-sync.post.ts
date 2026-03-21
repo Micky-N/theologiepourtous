@@ -18,10 +18,10 @@ const seoSchema = z.object({
 const themeUpsertSchema = z.object({
     event: z.literal('theme.upsert'),
     entity: z.literal('theme'),
-    entity_id: z.string().uuid(),
+    entity_id: z.string().trim().min(1),
     occurred_at: z.string().trim().min(1),
     data: z.object({
-        id: z.string().uuid(),
+        id: z.string().trim().min(1),
         title: z.string().trim().min(1),
         slug: z.string().trim().min(1),
         position: z.number().int().positive(),
@@ -41,10 +41,10 @@ const themeUpsertSchema = z.object({
 const themeDeleteSchema = z.object({
     event: z.literal('theme.delete'),
     entity: z.literal('theme'),
-    entity_id: z.string().uuid(),
+    entity_id: z.string().trim().min(1),
     occurred_at: z.string().trim().min(1),
     data: z.object({
-        id: z.string().uuid(),
+        id: z.string().trim().min(1),
         slug: z.string().trim().min(1),
         position: z.number().int().positive()
     }),
@@ -54,10 +54,10 @@ const themeDeleteSchema = z.object({
 const lessonUpsertSchema = z.object({
     event: z.literal('lesson.upsert'),
     entity: z.literal('lesson'),
-    entity_id: z.string().uuid(),
+    entity_id: z.string().trim().min(1),
     occurred_at: z.string().trim().min(1),
     data: z.object({
-        id: z.string().uuid(),
+        id: z.string().trim().min(1),
         title: z.string().trim().min(1),
         slug: z.string().trim().min(1),
         position: z.number().int().positive(),
@@ -65,7 +65,7 @@ const lessonUpsertSchema = z.object({
         tags: z.array(z.string()),
         reading_time: z.number().int().positive().nullable(),
         theme: z.object({
-            id: z.string().uuid(),
+            id: z.string().trim().min(1),
             slug: z.string().trim().min(1),
             position: z.number().int().positive(),
             title: z.string().trim().min(1)
@@ -89,10 +89,10 @@ const lessonUpsertSchema = z.object({
 const lessonDeleteSchema = z.object({
     event: z.literal('lesson.delete'),
     entity: z.literal('lesson'),
-    entity_id: z.string().uuid(),
+    entity_id: z.string().trim().min(1),
     occurred_at: z.string().trim().min(1),
     data: z.object({
-        id: z.string().uuid(),
+        id: z.string().trim().min(1),
         slug: z.string().trim().min(1),
         position: z.number().int().positive(),
         theme_slug: z.string().trim().min(1),
@@ -145,10 +145,13 @@ export default defineEventHandler(async (event) => {
         });
     }
 
-    let parsedBody: unknown;
+    let parsedBody = null;
 
     try {
-        parsedBody = JSON.parse(rawBody);
+        parsedBody = JSON.parse(rawBody) as any;
+        if (Array.isArray(parsedBody.previous) && parsedBody.previous.length === 0) {
+            parsedBody.previous = {};
+        }
     } catch {
         throw createError({
             statusCode: 400,

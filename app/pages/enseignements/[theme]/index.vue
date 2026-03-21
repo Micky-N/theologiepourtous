@@ -16,6 +16,8 @@ const { data: progress, refresh } = useAsyncData(
     }
 );
 
+console.log(loggedIn.value);
+
 const setProgress = async () => {
     try {
         if (!theme.value?.slug) {
