@@ -91,11 +91,85 @@ export interface AuthenticatedUserData {
     preferences: UserPreferencesData;
 }
 
+export type BackendLessonProgressEntryLesson = {
+    id: number;
+    slug: string;
+    theme_id: number;
+    theme_slug: string;
+    path: string;
+};
+
+export type BackendLessonProgressEntry = {
+    id: string;
+    user_id: string;
+    lesson_slug: string;
+    lesson_id: number;
+    lesson: BackendLessonProgressEntryLesson;
+    created_at: string;
+    updated_at: string;
+};
+
+export type LessonMetadata = {
+    slug: string;
+    theme_slug: string;
+    path: string;
+    sortKey: string;
+};
+
 export interface UserProgress {
-    userId: string;
-    theme: string;
-    lessons: string;
-    startedAt: string | null;
+    user_id: string;
+    theme_slug: string;
+    lessons: BackendLessonProgressEntryLesson[];
+    started_at: string | null;
+}
+
+export interface TeachingSeoData {
+    title: string | null;
+    description: string | null;
+    keywords: string[];
+    lang: string | null;
+}
+
+export interface TeachingThemeData {
+    id: number;
+    path: string;
+    title: string;
+    slug: string;
+    position: number | null;
+    excerpt: string | null;
+    color: string | null;
+    image_url: string | null;
+    lessons_count: number | null;
+    lessons: TeachingLessonData[] | null;
+    created_at: string | null;
+    updated_at: string | null;
+    seo: TeachingSeoData;
+}
+
+export interface TeachingLessonData {
+    id: number;
+    theme_id: number;
+    theme: TeachingThemeData;
+    path: string;
+    title: string;
+    slug: string;
+    position: number;
+    excerpt: string;
+    tags: string[];
+    reading_time: number | null;
+    image_url: string | null;
+    biblical_references: string[];
+    content: string | null;
+    published_at: string | null;
+    created_at: string | null;
+    updated_at: string | null;
+    seo: TeachingSeoData;
+}
+
+export interface TeachingLessonPageData {
+    current_lesson: TeachingLessonData;
+    previous_lesson: TeachingLessonData | null;
+    next_lesson: TeachingLessonData | null;
 }
 
 export interface BibleVerseResponseData {

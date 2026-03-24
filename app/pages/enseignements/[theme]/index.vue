@@ -1,13 +1,20 @@
 <script setup lang="ts">
+import { useTeachingsApi } from '~/composables/useTeachingsApi';
 import { useTeachingProgress } from '~/composables/useTeachingProgress';
 
 const route = useRoute();
+const themeSlug = String(Array.isArray(route.params.theme) ? route.params.theme[0] : route.params.theme || '');
 const { isAuthenticated: loggedIn } = useSanctumAuth();
-const { fetchThemeProgress, trackThemeProgress } = useTeachingProgress();
-const { data: theme } = await useAsyncData(route.path, () => queryCollection('themes').path(route.path).first());
-const { data: lessons } = useAsyncData(route.path + '/lessons', () => queryCollection('lessons').where('theme', '=', route.params.theme).all());
+const { fetchTheme } = useTeachingsApi();
+const { fetchThemeProgress } = useTeachingProgress();
+const toThemeColor = (color: string | null | undefined): 'primary' | 'secondary' | 'neutral' | 'error' | 'warning' | 'success' | 'info' => {
+    const allowedColors = ['primary', 'secondary', 'neutral', 'error', 'warning', 'success', 'info'];
 
-const { data: progress, refresh } = useAsyncData(
+    return allowedColors.includes(color || '') ? color as 'primary' | 'secondary' | 'neutral' | 'error' | 'warning' | 'success' | 'info' : 'primary';
+};
+const { data: theme } = await useAsyncData(route.path, () => fetchTheme(themeSlug));
+
+const { data: progress } = useAsyncData(
     route.path + '-progress',
     async () => theme.value?.slug ? await fetchThemeProgress(theme.value.slug) : null,
     {
@@ -16,43 +23,23 @@ const { data: progress, refresh } = useAsyncData(
     }
 );
 
-console.log(loggedIn.value);
-
-const setProgress = async () => {
-    try {
-        if (!theme.value?.slug) {
-            return;
-        }
-
-        await trackThemeProgress(theme.value.slug);
-        await refresh();
-    } catch (e) {
-        console.log(e);
-    }
-};
+const lessons = computed(() => theme.value?.lessons || []);
+const firstLessonPath = computed(() => lessons.value[0]?.path || null);
 
 useSeoMeta({
     title: theme.value?.title,
     description: theme.value?.seo.description,
-    keywords: theme.value?.seo.keywords,
+    keywords: theme.value?.seo.keywords.join(', '),
     ogTitle: theme.value?.title,
     ogDescription: theme.value?.seo.description,
-    ogImage: theme.value?.image.src,
-    ogType: 'website',
-    ogUrl: theme.value?.seo.url,
-    twitterCard: theme.value?.seo.card,
-    twitterTitle: theme.value?.title,
-    twitterDescription: theme.value?.seo.description,
-    twitterImage: theme.value?.image.src
+    ogImage: theme.value?.image_url,
+    ogType: 'website'
 });
 
 useHead({
     htmlAttrs: {
         lang: theme.value?.seo.lang || 'fr'
-    },
-    link: [
-        { rel: 'canonical', href: theme.value?.seo.url }
-    ]
+    }
 });
 </script>
 
@@ -60,31 +47,31 @@ useHead({
     <UPage v-if="theme">
         <UContainer>
             <NuxtImg
-                :src="theme.image.src"
+                :src="theme.image_url || undefined"
                 class="w-full aspect-video max-h-[32rem] rounded-b-xl object-center"
             />
             <UButton
-                v-if="loggedIn && (!progress || JSON.parse(progress.lessons || '[]').length === 0)"
+                v-if="loggedIn && firstLessonPath && (!progress || progress.lessons.length === 0)"
                 icon="i-lucide-flag"
                 size="xs"
                 color="warning"
                 variant="subtle"
                 class="mt-4"
-                @click="setProgress()"
+                :to="firstLessonPath"
             >
                 Commencer le parcours
             </UButton>
             <UPageHeader
                 :title="theme.title"
-                :description="theme.description"
+                :description="theme.excerpt || undefined"
                 class="pb-[25px]"
             >
                 <ThemeProgress
                     v-if="loggedIn && progress && lessons?.length"
                     :lessons="lessons.map(lesson => ({
                         title: lesson.title,
-                        description: lesson.description,
-                        completed: progress?.lessons ? JSON.parse(progress.lessons).includes(lesson.slug) : false
+                        description: lesson.excerpt || '',
+                        completed: progress?.lessons ? progress.lessons.some(l => l.slug === lesson.slug) : false
                     }))"
                     class="mt-4"
                 />
@@ -93,7 +80,7 @@ useHead({
                     class="flex justify-center mt-4"
                 >
                     <UBadge
-                        :label="lessons.length + ' articles'"
+                        :label="lessons.length + ' leçon' + (lessons.length > 1 ? 's' : '')"
                         variant="subtle"
                         size="lg"
                         color="neutral"
@@ -106,12 +93,12 @@ useHead({
                     <UBlogPost
                         v-for="(lesson, index) in lessons"
                         :key="index"
-                        :to="lesson.path"
+                        :to="lesson.path || `/enseignements/${theme.slug}/${lesson.slug}`"
                         :title="lesson.title"
-                        :description="lesson.description"
-                        :image="lesson.image"
-                        :date="new Date(lesson.date).toLocaleDateString('fr', { year: 'numeric', month: 'short', day: 'numeric' })"
-                        :badge="{ label: theme.title, color: theme.color || 'primary' }"
+                        :description="lesson.excerpt || undefined"
+                        :image="lesson.image_url || undefined"
+                        :date="lesson.published_at ? new Date(lesson.published_at).toLocaleDateString('fr', { year: 'numeric', month: 'short', day: 'numeric' }) : undefined"
+                        :badge="{ label: theme.title, color: toThemeColor(theme.color) }"
                         variant="naked"
                         :ui="{
                             description: 'line-clamp-2'

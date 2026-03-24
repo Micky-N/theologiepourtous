@@ -202,32 +202,6 @@ export const collections = {
         source: '2.enseignements.yml',
         type: 'page'
     }),
-    lessons: defineCollection({
-        source: '2.enseignements/**/*.md',
-        type: 'page',
-        schema: z.object({
-            image: z.object({ src: z.string().nonempty().editor({ input: 'media' }) }),
-            biblical_references: z.array(z.string().nonempty()).optional(),
-            date: z.date(),
-            tags: z.array(z.string().nonempty()),
-            theme: z.string().nonempty(),
-            reading_time: z.number().optional(),
-            slug: z.string().nonempty(),
-            seo: createSeoSchema()
-        })
-    }),
-    themes: defineCollection({
-        source: '2.enseignements/**/*',
-        type: 'page',
-        schema: z.object({
-            title: z.string().nonempty(),
-            image: z.object({ src: z.string().nonempty().editor({ input: 'media' }) }),
-            slug: z.string().nonempty(),
-            description: z.string().nonempty(),
-            color: colorEnum.optional().default('primary'),
-            seo: createSeoSchema()
-        })
-    }),
     about: defineCollection({
         source: '4.about.yml',
         type: 'page',

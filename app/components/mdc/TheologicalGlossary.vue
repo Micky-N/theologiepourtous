@@ -62,6 +62,6 @@ onMounted(() => {
 });
 // Clean up the event listener when the component is unmounted
 onUnmounted(() => {
-    window.removeEventListener('open-glossary', () => {});
+    window.removeEventListener('open-glossary', () => { });
 });
 </script>

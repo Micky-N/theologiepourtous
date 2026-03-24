@@ -1,23 +1,24 @@
 <script setup lang="ts">
+import { useTeachingsApi } from '~/composables/useTeachingsApi';
+import type { TeachingThemeData } from '~/types';
+
 const route = useRoute();
-const { data: navigations } = useAsyncData('navigations', () => queryCollectionNavigation('themes', ['description', 'image', 'color', 'slug']));
+const { fetchThemes } = useTeachingsApi();
+const { data: themes } = await useAsyncData('teaching-themes-navigation', () => fetchThemes());
 
 const items = computed(() => {
-    if (!navigations.value) {
+    if (!themes.value) {
         return [];
     }
-    const firstNav = navigations.value[0]?.children;
-    if (!firstNav) {
-        return [];
-    }
-    return firstNav.map(item => ({
-        ...item,
-        image: (item.image as { src: string; } | undefined)?.src,
-        description: item.description as string,
-        label: item.title,
-        to: item.path,
-        children: item.children?.filter(child => child.path !== item.path) || [],
-        active: route.path.startsWith(item.path)
+
+    return themes.value.map((theme: TeachingThemeData) => ({
+        ...theme,
+        image: theme.image_url || undefined,
+        description: theme.excerpt || '',
+        label: theme.title,
+        to: theme.path,
+        children: [],
+        active: route.path === theme.path || route.path.startsWith(`${theme.path}/`)
     }));
 });
 </script>
@@ -46,7 +47,7 @@ const items = computed(() => {
                             :to="item.to"
                             orientation="horizontal"
                             variant="ghost"
-                            :badge="item.children?.length + ' articles'"
+                            :badge="(item.lessons_count || 0) + ' leçon' + ((item.lessons_count || 0) > 1 ? 's' : '')"
                             :ui="{
                                 body: 'lg:pr-4'
                             }"
@@ -75,6 +76,6 @@ const items = computed(() => {
                 </ClientOnly>
             </template>
         </UHeader>
-        <NuxtPage :themes="items" />
+        <NuxtPage :themes="themes || []" />
     </div>
 </template>

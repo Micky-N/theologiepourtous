@@ -1,104 +1,69 @@
-import type { LessonsCollectionItem } from '@nuxt/content';
-import type { AuthenticatedUserData, UserProgress } from '~/types';
-
-type BackendLesson = {
-    id: string;
-    slug: string;
-    theme: string;
-    path: string;
-    created_at: string;
-    updated_at: string;
-};
-
-type BackendLessonProgressEntry = {
-    id: string;
-    user_id: string;
-    lesson_id: string | number;
-    lesson: BackendLesson;
-    created_at: string;
-    updated_at: string;
-};
-
-type LessonMetadata = {
-    numericId: number;
-    slug: string;
-    theme: string;
-    sourceId: string | null;
-    path: string;
-    sortKey: string;
-};
-
-const sortLessons = (lessons: LessonsCollectionItem[]) => {
-    return [...lessons].sort((left, right) => {
-        const leftKey = String(left.id || left.path || `${left.theme}/${left.slug}`);
-        const rightKey = String(right.id || right.path || `${right.theme}/${right.slug}`);
-        return leftKey.localeCompare(rightKey);
-    });
-};
+import { useTeachingsApi } from '~/composables/useTeachingsApi';
+import type { AuthenticatedUserData, BackendLessonProgressEntry, LessonMetadata, TeachingLessonData, UserProgress } from '~/types';
 
 export const useTeachingProgress = () => {
     const client = useSanctumClient();
     const user = useSanctumUser<AuthenticatedUserData>();
+    const { fetchLessons } = useTeachingsApi();
     const lessonMetadata = useState<LessonMetadata[] | null>('teaching-lesson-metadata', () => null);
 
-    const getLessonMetadata = async () => {
+    const getLessonMetadata = async (): Promise<LessonMetadata[]> => {
         if (lessonMetadata.value) {
             return lessonMetadata.value;
         }
 
-        const lessons = sortLessons(await queryCollection('lessons').all());
-        lessonMetadata.value = lessons.map((lesson, index) => ({
-            numericId: index + 1,
+        const lessons = await fetchLessons();
+        lessonMetadata.value = lessons.map((lesson: TeachingLessonData) => ({
             slug: lesson.slug,
-            theme: lesson.theme,
-            sourceId: typeof lesson.id === 'string' ? lesson.id : null,
+            theme_slug: lesson.theme?.slug ?? '',
             path: lesson.path,
-            sortKey: String(lesson.id || lesson.path || `${lesson.theme}/${lesson.slug}`)
+            sortKey: String(lesson.id || lesson.path || `${lesson.theme?.slug}/${lesson.slug}`)
         }));
 
-        return lessonMetadata.value;
+        return lessonMetadata.value ?? [];
     };
 
-    const findLessonByThemeAndSlug = async (theme: string, slug: string) => {
+    const findLessonByThemeAndSlug = async (themeSlug: string, slug: string) => {
         const lessons = await getLessonMetadata();
-        return lessons.find(lesson => lesson.theme === theme && lesson.slug === slug) ?? null;
+        return lessons.find(lesson => lesson.theme_slug === themeSlug && lesson.slug === slug) ?? null;
     };
 
     const buildThemeProgress = async (
-        theme: string,
+        themeSlug: string,
         entries: BackendLessonProgressEntry[],
         options?: { includeSynthetic?: boolean; userId?: string; }
     ): Promise<UserProgress | null> => {
-        const lessons = entries.flatMap(entry => entry.lesson.theme === theme ? entry.lesson : []);
+        const themeEntries = entries
+            .filter(entry => entry.lesson?.theme_slug === themeSlug)
+            .sort((left, right) => new Date(left.created_at).getTime() - new Date(right.created_at).getTime());
 
-        if (!lessons.length) {
+        if (!themeEntries.length) {
             if (!options?.includeSynthetic) {
                 return null;
             }
 
             return {
-                userId: options?.userId ?? user.value?.id ?? '',
-                theme,
-                lessons: '[]',
-                startedAt: null
+                user_id: options?.userId ?? user.value?.id ?? '',
+                theme_slug: themeSlug,
+                lessons: [],
+                started_at: null
             };
         }
 
-        const sortedEntries = lessons.sort((left, right) => new Date(left.created_at).getTime() - new Date(right.created_at).getTime());
-        const firstEntry = sortedEntries[0]!;
+        const firstEntry = themeEntries[0]!;
 
         return {
-            userId: options?.userId ?? user.value?.id ?? '',
-            theme,
-            lessons: JSON.stringify(sortedEntries.map(item => item.slug)),
-            startedAt: firstEntry.created_at
+            user_id: options?.userId ?? user.value?.id ?? '',
+            theme_slug: themeSlug,
+            lessons: themeEntries.map(entry => entry.lesson),
+            started_at: firstEntry.created_at
         };
     };
 
     const buildAllThemeProgress = async (entries: BackendLessonProgressEntry[]) => {
         const lessons = await getLessonMetadata();
-        const themes = [...new Set(lessons.map(lesson => lesson.theme))];
-        const progress = await Promise.all(themes.map(theme => buildThemeProgress(theme, entries)));
+        const themes = [...new Set(lessons.map(lesson => lesson.theme_slug))];
+        const progress = await Promise.all(themes.map(themeSlug => buildThemeProgress(themeSlug, entries)));
         return progress.filter((item): item is NonNullable<typeof item> => item !== null);
     };
 
@@ -107,7 +72,7 @@ export const useTeachingProgress = () => {
             method: 'GET'
         });
 
-        return response;
+        return response.filter(entry => entry.lesson !== null);
     };
 
     const fetchAllProgress = async () => {
@@ -115,19 +80,19 @@ export const useTeachingProgress = () => {
         return await buildAllThemeProgress(entries);
     };
 
-    const fetchThemeProgress = async (theme: string) => {
+    const fetchThemeProgress = async (themeSlug: string) => {
         const entries = await fetchEntries();
-        return await buildThemeProgress(theme, entries, {
+        return await buildThemeProgress(themeSlug, entries, {
             includeSynthetic: true,
             userId: user.value?.id
         });
     };
 
-    const trackThemeProgress = async (theme: string, lessonSlug?: string) => {
+    const trackThemeProgress = async (themeSlug: string, lessonSlug?: string) => {
         let entries = await fetchEntries();
 
         if (lessonSlug) {
-            const lesson = await findLessonByThemeAndSlug(theme, lessonSlug);
+            const lesson = await findLessonByThemeAndSlug(themeSlug, lessonSlug);
 
             if (!lesson) {
                 throw createError({
@@ -150,7 +115,7 @@ export const useTeachingProgress = () => {
             }
         }
 
-        return await buildThemeProgress(theme, entries, {
+        return await buildThemeProgress(themeSlug, entries, {
             includeSynthetic: true,
             userId: user.value?.id
         });

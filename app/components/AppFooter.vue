@@ -1,4 +1,6 @@
 <script setup lang="ts">
+const { fetchThemes } = useTeachingsApi();
+const { data: themes } = await useAsyncData('teaching-themes-navigation', () => fetchThemes());
 const columns = [{
     label: 'Ressources',
     children: [{
@@ -16,19 +18,12 @@ const columns = [{
     }]
 }, {
     label: 'Théologie',
-    children: [{
-        label: 'Christologie',
-        to: '/enseignements/christologie'
-    }, {
-        label: 'Pneumatologie',
-        to: '/enseignements/pneumatologie'
-    }, {
-        label: 'Sotériologie',
-        to: '/enseignements/soteriologie'
-    }, {
-        label: 'Hamartiologie',
-        to: '/enseignements/hamartiologie'
-    }]
+    children: themes.value
+        ? themes.value.map(theme => ({
+            label: theme.title,
+            to: theme.path
+        }))
+        : []
 }, {
     label: 'Communauté',
     children: [{

@@ -6,18 +6,24 @@
         <!-- Hero Section -->
         <section class="relative min-h-screen flex items-center justify-center overflow-hidden">
             <!-- Background Pattern -->
-            <div class="absolute inset-0 bg-gradient-to-br from-blue-50 to-indigo-100 dark:from-slate-900 dark:to-indigo-950">
+            <div
+                class="absolute inset-0 bg-gradient-to-br from-blue-50 to-indigo-100 dark:from-slate-900 dark:to-indigo-950"
+            >
                 <img
                     src="/images/home.jpg"
                     alt=""
                     class="w-full h-full object-center"
                 >
-                <div class="absolute inset-0 bg-gradient-to-t from-neutral-950/90 via-neutral-950/10 to-transparent dark:from-gray-900/90 dark:via-gray-900/50" />
+                <div
+                    class="absolute inset-0 bg-gradient-to-t from-neutral-950/90 via-neutral-950/10 to-transparent dark:from-gray-900/90 dark:via-gray-900/50"
+                />
             </div>
 
             <div class="relative z-10 max-w-6xl mx-auto px-6 text-center">
                 <div class="mb-8">
-                    <div class="inline-flex items-center px-4 py-2 rounded-full bg-blue-50 dark:bg-blue-950/30 text-blue-700 dark:text-blue-300 text-sm font-medium mb-6">
+                    <div
+                        class="inline-flex items-center px-4 py-2 rounded-full bg-blue-50 dark:bg-blue-950/30 text-blue-700 dark:text-blue-300 text-sm font-medium mb-6"
+                    >
                         <UIcon
                             :name="homeData.hero.badge.icon"
                             class="w-4 h-4 mr-2"
@@ -28,7 +34,9 @@
 
                 <h1 class="text-5xl md:text-7xl font-bold text-gray-900 dark:text-white mb-6 leading-tight">
                     {{ homeData.hero.title }}
-                    <span class="text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-indigo-600 dark:from-blue-400 dark:to-indigo-400">
+                    <span
+                        class="text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-indigo-600 dark:from-blue-400 dark:to-indigo-400"
+                    >
                         {{ homeData.hero.titleHighlight }}
                     </span>
                 </h1>
@@ -79,7 +87,9 @@
         <section class="py-20 bg-white dark:bg-gray-900">
             <div class="max-w-7xl mx-auto px-6">
                 <div class="text-center mb-16">
-                    <div class="inline-flex items-center px-4 py-2 rounded-full bg-blue-50 dark:bg-blue-950/30 text-blue-700 dark:text-blue-300 text-sm font-medium mb-6">
+                    <div
+                        class="inline-flex items-center px-4 py-2 rounded-full bg-blue-50 dark:bg-blue-950/30 text-blue-700 dark:text-blue-300 text-sm font-medium mb-6"
+                    >
                         <UIcon
                             :name="homeData.mission.badge.icon"
                             class="w-4 h-4 mr-2"
@@ -120,7 +130,9 @@
                     </div>
                 </div>
 
-                <div class="bg-gradient-to-r from-blue-50 to-indigo-50 dark:from-blue-950/30 dark:to-indigo-950/30 rounded-2xl p-8 md:p-12">
+                <div
+                    class="bg-gradient-to-r from-blue-50 to-indigo-50 dark:from-blue-950/30 dark:to-indigo-950/30 rounded-2xl p-8 md:p-12"
+                >
                     <div class="text-center">
                         <h3 class="text-3xl font-bold text-gray-900 dark:text-white mb-4">
                             "{{ homeData.mission.verse.text }}"
@@ -140,7 +152,9 @@
         <section class="py-20 bg-gray-50 dark:bg-gray-800">
             <div class="max-w-7xl mx-auto px-6">
                 <div class="text-center mb-16">
-                    <div class="inline-flex items-center px-4 py-2 rounded-full bg-green-50 dark:bg-green-950/30 text-green-700 dark:text-green-300 text-sm font-medium mb-6">
+                    <div
+                        class="inline-flex items-center px-4 py-2 rounded-full bg-green-50 dark:bg-green-950/30 text-green-700 dark:text-green-300 text-sm font-medium mb-6"
+                    >
                         <UIcon
                             :name="homeData.teachings.badge.icon"
                             class="w-4 h-4 mr-2"
@@ -163,7 +177,7 @@
                         class="bg-white dark:bg-gray-900 rounded-xl overflow-hidden shadow-lg hover:shadow-2xl transition-all duration-300 group flex flex-col justify-between"
                     >
                         <img
-                            :src="getTheme(course.name)?.image.src as string || course.image"
+                            :src="getTheme(course.name)?.image_url || course.image"
                             :alt="course.title"
                             class="w-full aspect-video object-cover object-center"
                         >
@@ -176,7 +190,8 @@
                             </p>
                             <div class="flex items-center justify-between">
                                 <span class="text-sm text-gray-500 dark:text-gray-400">
-                                    {{ getTheme(course.name)?.children?.length || 0 }} leçon{{ (getTheme(course.name)?.children?.length || 0) > 1 ? 's' : '' }}
+                                    {{ getTheme(course.name)?.lessons_count || 0 }} leçon{{
+                                        (getTheme(course.name)?.lessons_count || 0) > 1 ? 's' : '' }}
                                 </span>
                                 <UButton
                                     variant="ghost"
@@ -190,7 +205,9 @@
                     </div>
 
                     <!-- All Courses Card -->
-                    <div class="bg-gradient-to-br from-indigo-500 to-purple-600 rounded-xl overflow-hidden shadow-lg hover:shadow-2xl transition-all duration-300 group text-white">
+                    <div
+                        class="bg-gradient-to-br from-indigo-500 to-purple-600 rounded-xl overflow-hidden shadow-lg hover:shadow-2xl transition-all duration-300 group text-white"
+                    >
                         <div class="p-6 h-full flex flex-col justify-center items-center text-center">
                             <UIcon
                                 name="i-lucide-library"
@@ -220,7 +237,9 @@
         <section class="py-20 bg-white dark:bg-gray-900">
             <div class="max-w-7xl mx-auto px-6">
                 <div class="text-center mb-16">
-                    <div class="inline-flex items-center px-4 py-2 rounded-full bg-purple-50 dark:bg-purple-950/30 text-purple-700 dark:text-purple-300 text-sm font-medium mb-6">
+                    <div
+                        class="inline-flex items-center px-4 py-2 rounded-full bg-purple-50 dark:bg-purple-950/30 text-purple-700 dark:text-purple-300 text-sm font-medium mb-6"
+                    >
                         <UIcon
                             :name="homeData.testimonials.badge.icon"
                             class="w-4 h-4 mr-2"
@@ -345,11 +364,13 @@
 </template>
 
 <script setup lang="ts">
-import type { TeachingCollectionItem, ThemesCollectionItem } from '@nuxt/content';
+import { useTeachingsApi } from '~/composables/useTeachingsApi';
+import type { TeachingThemeData } from '~/types';
 
 const route = useRoute();
+const { fetchThemes } = useTeachingsApi();
 const { data: homeData } = await useAsyncData(route.path, () => queryCollection('index').first());
-const { data: themes } = await useAsyncData('posts', () => queryCollectionNavigation('themes', ['image', 'slug']));
+const { data: themes } = await useAsyncData('home-teaching-themes', () => fetchThemes());
 
 if (!homeData.value) {
     throw createError({ statusCode: 404, message: 'Page non trouvée' });
@@ -364,6 +385,6 @@ useSeoMeta({
 });
 
 const getTheme = (themeName: string) => {
-    return themes.value?.[0]?.children?.find(theme => theme.slug === themeName) as ThemesCollectionItem & { children: TeachingCollectionItem[]; } | undefined;
+    return themes.value?.find((theme: TeachingThemeData) => theme.slug === themeName);
 };
 </script>
