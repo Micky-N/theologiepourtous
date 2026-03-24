@@ -105,8 +105,8 @@ export const useTeachingsApi = () => {
         return lessons.map(normalizeLesson);
     };
 
-    const fetchLesson = async (themeSlug: string, lessonSlug: string): Promise<TeachingLessonPageData> => {
-        const payload = await fetchResource<TeachingLessonPageData>(`/themes/${encodeURIComponent(themeSlug)}/${encodeURIComponent(lessonSlug)}`);
+    const fetchLesson = async (themeSlug: string, lessonSlug: string, includeNeighbors: boolean = false): Promise<TeachingLessonPageData> => {
+        const payload = await fetchResource<TeachingLessonPageData>(`/themes/${encodeURIComponent(themeSlug)}/${encodeURIComponent(lessonSlug)}?include_neighbors=${includeNeighbors}`);
 
         return {
             current_lesson: normalizeLesson(payload.current_lesson as unknown as TeachingLessonPayload),

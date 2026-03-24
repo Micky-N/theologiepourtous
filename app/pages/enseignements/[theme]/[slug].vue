@@ -13,7 +13,7 @@ const route = useRoute();
 const themeSlug = String(Array.isArray(route.params.theme) ? route.params.theme[0] : route.params.theme || '');
 const lessonSlug = String(Array.isArray(route.params.slug) ? route.params.slug[0] : route.params.slug || '');
 const { fetchLesson } = useTeachingsApi();
-const { data: lessonPage, status: lessonStatus } = await useAsyncData(route.path, () => fetchLesson(themeSlug, lessonSlug), {
+const { data: lessonPage, status: lessonStatus } = await useAsyncData(route.path, () => fetchLesson(themeSlug, lessonSlug, true), {
     server: true
 });
 const lesson = computed(() => lessonPage.value?.current_lesson || null);
