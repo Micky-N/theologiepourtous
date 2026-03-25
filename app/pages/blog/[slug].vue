@@ -35,6 +35,10 @@ if (post.value.image?.src) {
 
 <template>
     <UContainer v-if="post">
+        <img
+            :src="post.image?.src || undefined"
+            class="w-full aspect-video rounded-b-xl max-h-[32rem] object-cover object-center"
+        >
         <UPageHeader
             :title="post.title"
             :description="post.description"
@@ -45,7 +49,12 @@ if (post.value.image?.src) {
                     variant="subtle"
                 />
                 <span class="text-muted">&middot;</span>
-                <time class="text-muted">{{ new Date(post.date).toLocaleDateString('fr', { year: 'numeric', month: 'short', day: 'numeric' }) }}</time>
+                <time class="text-muted">{{ new Date(post.date).toLocaleDateString('fr', {
+                    year: 'numeric',
+                    month:
+                        'short',
+                    day: 'numeric'
+                }) }}</time>
             </template>
 
             <div class="flex flex-wrap items-center gap-3 mt-4">
@@ -78,13 +87,6 @@ if (post.value.image?.src) {
 
                 <UContentSurround :surround="surround" />
             </UPageBody>
-
-            <template
-                v-if="post?.body?.toc?.links?.length"
-                #right
-            >
-                <UContentToc :links="post.body.toc.links" />
-            </template>
         </UPage>
     </UContainer>
 </template>
