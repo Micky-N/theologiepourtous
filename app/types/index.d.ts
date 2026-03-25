@@ -172,6 +172,67 @@ export interface TeachingLessonPageData {
     next_lesson: TeachingLessonData | null;
 }
 
+export interface BlogSeoData {
+    title: string | null;
+    description: string | null;
+    keywords: string[];
+    lang: string | null;
+}
+
+export interface BlogTermSummaryData {
+    id: string | null;
+    path: string | null;
+    title: string;
+    slug: string;
+    taxonomy: string | null;
+}
+
+export interface BlogTermData extends BlogTermSummaryData {
+    articles_count: number | null;
+}
+
+export interface BlogAuthorLinkData {
+    label: string;
+    url: string;
+}
+
+export interface BlogAuthorData {
+    name: string | null;
+    role: string | null;
+    photo: string | null;
+    links: BlogAuthorLinkData[];
+}
+
+export interface BlogArticleData {
+    id: string | null;
+    path: string | null;
+    title: string;
+    slug: string;
+    excerpt: string | null;
+    content: string | null;
+    image_url: string | null;
+    category: BlogTermSummaryData | null;
+    tags: BlogTermSummaryData[];
+    author: BlogAuthorData;
+    published_at: string | null;
+    updated_at: string | null;
+    seo: BlogSeoData;
+}
+
+export interface BlogArticlePageData {
+    current_article: BlogArticleData;
+    previous_article: BlogArticleData | null;
+    next_article: BlogArticleData | null;
+}
+
+export interface BlogCategoryData extends BlogTermData {
+    articles: BlogArticleData[] | null;
+}
+
+export interface BlogTagData extends BlogTermData {
+    articles: BlogArticleData[] | null;
+}
+
 export interface BibleVerseResponseData {
     book: {
         name: string;

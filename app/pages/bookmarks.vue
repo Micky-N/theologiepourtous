@@ -86,7 +86,8 @@
                                         class="text-purple-500"
                                     />
                                     <span class="text-sm text-gray-600 dark:text-gray-400">Couleurs:</span>
-                                    <span class="font-semibold text-gray-900 dark:text-white">{{ Object.keys(groupedByColor).length }}</span>
+                                    <span class="font-semibold text-gray-900 dark:text-white">{{
+                                        Object.keys(groupedByColor).length }}</span>
                                 </div>
                             </div>
 
@@ -130,7 +131,8 @@
                                             class="w-3 h-3 rounded-full mr-2"
                                             :style="{ backgroundColor: getColorVariable(String(color), 500) }"
                                         />
-                                        {{ (colorLabels as any)[String(color)] || String(color).charAt(0).toUpperCase() + String(color).slice(1) }}
+                                        {{ (colorLabels as any)[String(color)] || String(color).charAt(0).toUpperCase()
+                                            + String(color).slice(1) }}
                                         ({{ colorBookmarks.length }})
                                     </UButton>
                                 </div>
@@ -146,7 +148,8 @@
                                     <span>
                                         Affichage de {{ filteredBookmarksCount }} signet(s)
                                         {{ selectedColors.length === 1 ? 'de couleur' : 'des couleurs' }}
-                                        <strong>{{ selectedColors.map((c: string) => (colorLabels as any)[c] || c).join(', ') }}</strong>
+                                        <strong>{{ selectedColors.map((c: string) => (colorLabels as any)[c]
+                                            || c).join(', ') }}</strong>
                                     </span>
                                 </div>
                             </div>
@@ -166,7 +169,8 @@
                                 :style="{ borderColor: getColorVariable(String(color), 500) }"
                             />
                             <h6 class="text-sm font-bold text-gray-900 dark:text-white">
-                                {{ (colorLabels as any)[String(color)] || String(color).charAt(0).toUpperCase() + String(color).slice(1) }}
+                                {{ (colorLabels as any)[String(color)] || String(color).charAt(0).toUpperCase()
+                                    + String(color).slice(1) }}
                             </h6>
                             <UBadge
                                 color="neutral"
@@ -196,7 +200,9 @@
                                     <div class="relative flex-shrink-0 mr-2" />
 
                                     <!-- Contenu du signet -->
-                                    <div class="flex-1 bg-white dark:bg-gray-800 rounded-lg border border-gray-200 dark:border-gray-700 p-6 shadow-sm hover:shadow-md transition-shadow">
+                                    <div
+                                        class="flex-1 bg-white dark:bg-gray-800 rounded-lg border border-gray-200 dark:border-gray-700 p-6 shadow-sm hover:shadow-md transition-shadow"
+                                    >
                                         <div class="flex justify-between items-start mb-4">
                                             <div class="flex-1">
                                                 <h3 class="font-semibold text-gray-900 dark:text-white text-lg">
@@ -385,8 +391,7 @@ const confirmDelete = async () => {
         });
         await refresh();
         deleteModal.show = false;
-    } catch (err) {
-        console.log(err);
+    } catch {
         toast.add({
             title: 'Erreur',
             description: 'Impossible de supprimer le signet',

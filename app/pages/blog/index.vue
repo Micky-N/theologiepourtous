@@ -1,19 +1,28 @@
 <script setup lang="ts">
+import type { BlogArticleData } from '~/types';
+import { toBlogPostAuthors } from '~/utils/blogAuthors';
+
+const { articles } = defineProps<{ articles: BlogArticleData[]; }>();
+
 const route = useRoute();
 const perPage = 6;
 const page = ref(parseInt((route.query.page as string) || '1'));
 const { data: blog } = await useAsyncData('blog', () => queryCollection('blog').first());
-const { data: postsCount } = await useAsyncData('posts-count', () => queryCollection('posts').count());
 
-const { data: posts } = useAsyncData(
-    route.path,
-    () => queryCollection('posts')
-        .limit(perPage)
-        .skip((page.value - 1) * perPage)
-        .all(),
-    { watch: [page] }
-);
-const totalPages = Math.ceil((postsCount.value || 0) / perPage);
+watch(() => route.query.page, (value) => {
+    page.value = parseInt((value as string) || '1');
+});
+
+const posts = computed(() => {
+    const start = (page.value - 1) * perPage;
+    return articles.slice(start, start + perPage);
+});
+
+const totalPages = computed(() => Math.max(1, Math.ceil(articles.length / perPage)));
+if (page.value < 1 || (route.query.page && page.value === 1) || (articles.length && page.value > totalPages.value)) {
+    await navigateTo('/blog');
+}
+
 const title = blog.value?.seo?.title || blog.value?.title;
 const description = blog.value?.seo?.description || blog.value?.description;
 
@@ -39,15 +48,16 @@ defineOgImageComponent('Saas');
                 <UBlogPost
                     v-for="(post, index) in posts"
                     :key="index"
-                    :to="post.path"
+                    :to="post.path || undefined"
                     :title="post.title"
-                    :description="post.description"
-                    :image="post.image"
-                    :date="new Date(post.date).toLocaleDateString('fr', { year: 'numeric', month: 'short', day: 'numeric' })"
-                    :authors="[{ ...post.author, to: post.author.to || undefined }]"
-                    :badge="post.badge"
-                    orientation="vertical"
-                    variant="outline"
+                    :description="post.excerpt || undefined"
+                    :image="post.image_url || undefined"
+                    :date="post.published_at ? new Date(post.published_at).toLocaleDateString('fr', { year: 'numeric', month: 'short', day: 'numeric' }) : undefined"
+                    :authors="toBlogPostAuthors(post.author)"
+                    :badge="post.category ? { label: post.category.title } : undefined"
+                    :orientation="index === 0 ? 'horizontal' : 'vertical'"
+                    :class="[index === 0 && 'col-span-full']"
+                    variant="naked"
                     :ui="{
                         description: 'line-clamp-2'
                     }"
@@ -58,7 +68,7 @@ defineOgImageComponent('Saas');
                 v-model:page="page"
                 :items-per-page="perPage"
                 show-edges
-                :total="postsCount"
+                :total="articles.length"
                 :to="(p) => ({ path: '/blog', query: p > 1 ? { page: p } : {} })"
                 class="mt-10 flex justify-center"
             />

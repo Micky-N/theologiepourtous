@@ -99,7 +99,6 @@ const progressButtonProps = computed<{
             variant: 'subtle'
         };
     } else if (progress.value && progress.value.lessons.length > 0) {
-        console.log(progress.value.lessons);
         return {
             icon: 'i-lucide-circle-dashed',
             color: 'secondary',
@@ -118,7 +117,7 @@ const progressButtonProps = computed<{
 
 watch(lessonStatus, (newStatus) => {
     if (newStatus == 'error' || (newStatus == 'success' && !lesson.value)) {
-        throw createError({ statusCode: 404, message: 'Lesson not found', fatal: true });
+        // throw createError({ statusCode: 404, message: 'Lesson not found', fatal: true });
     }
 });
 

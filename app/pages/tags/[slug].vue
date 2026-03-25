@@ -1,54 +1,43 @@
 <script setup lang="ts">
 import { useBlogApi } from '~/composables/useBlogApi';
-import type { BlogArticleData } from '~/types';
 import { toBlogPostAuthors } from '~/utils/blogAuthors';
 
-const { articles } = defineProps<{ articles: BlogArticleData[]; }>();
-
 const route = useRoute();
-const categorySlug = String(Array.isArray(route.params.slug) ? route.params.slug[0] : route.params.slug || '');
-const { fetchCategory } = useBlogApi();
-const { data: category, error } = await useAsyncData(route.path, () => fetchCategory(categorySlug));
+const tagSlug = String(Array.isArray(route.params.slug) ? route.params.slug[0] : route.params.slug || '');
+const { fetchTag } = useBlogApi();
+const { data: tag, error } = await useAsyncData(route.path, () => fetchTag(tagSlug));
 
-if (error.value || !category.value) {
-    const legacyArticle = articles.find(article => article.slug === categorySlug && article.path);
-
-    if (legacyArticle?.path) {
-        await navigateTo(legacyArticle.path, {
-            redirectCode: 301
-        });
-    }
-
-    throw createError({ statusCode: 404, message: 'Categorie introuvable', fatal: true });
+if (error.value || !tag.value) {
+    throw createError({ statusCode: 404, message: 'Tag introuvable', fatal: true });
 }
 
-const description = `${category.value.articles_count || 0} article${(category.value.articles_count || 0) > 1 ? 's' : ''} dans cette categorie.`;
+const description = `${tag.value.articles_count || 0} article${(tag.value.articles_count || 0) > 1 ? 's' : ''} associe${(tag.value.articles_count || 0) > 1 ? 's' : ''} a ce tag.`;
 
 useSeoMeta({
-    title: category.value.title,
-    ogTitle: category.value.title,
+    title: tag.value.title,
+    ogTitle: tag.value.title,
     description,
     ogDescription: description
 });
 
 defineOgImageComponent('Saas', {
     headline: 'Blog',
-    title: category.value.title
+    title: tag.value.title
 });
 </script>
 
 <template>
-    <UContainer v-if="category">
+    <UContainer v-if="tag">
         <UPageHeader
-            :title="category.title"
+            :title="tag.title"
             :description="description"
             class="py-[50px]"
         />
 
         <UPageBody>
-            <UBlogPosts v-if="category.articles?.length">
+            <UBlogPosts v-if="tag.articles?.length">
                 <UBlogPost
-                    v-for="(post, index) in category.articles"
+                    v-for="(post, index) in tag.articles"
                     :key="index"
                     :to="post.path || undefined"
                     :title="post.title"
@@ -56,7 +45,7 @@ defineOgImageComponent('Saas', {
                     :image="post.image_url || undefined"
                     :date="post.published_at ? new Date(post.published_at).toLocaleDateString('fr', { year: 'numeric', month: 'short', day: 'numeric' }) : undefined"
                     :authors="toBlogPostAuthors(post.author)"
-                    :badge="{ label: category.title }"
+                    :badge="post.category ? { label: post.category.title } : { label: tag.title }"
                     orientation="vertical"
                     variant="outline"
                     :ui="{
@@ -69,7 +58,7 @@ defineOgImageComponent('Saas', {
                 color="neutral"
                 variant="subtle"
                 title="Aucun article"
-                description="Cette categorie ne contient pas encore d'article public."
+                description="Ce tag ne contient pas encore d'article public."
             />
         </UPageBody>
     </UContainer>
