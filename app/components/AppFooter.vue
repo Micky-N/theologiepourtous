@@ -1,6 +1,18 @@
 <script setup lang="ts">
+import * as z from 'zod';
+import type { FormSubmitEvent } from '@nuxt/ui';
+import { useNewsletterSubscription } from '~/composables/useNewsletterSubscription';
+
 const { fetchThemes } = useTeachingsApi();
+const { subscribe } = useNewsletterSubscription();
 const { data: themes } = await useAsyncData('teaching-themes-navigation', () => fetchThemes());
+const newsletterSchema = z.object({
+    email: z.string()
+        .trim()
+        .min(1, 'Veuillez saisir votre adresse e-mail')
+        .email('Adresse e-mail invalide')
+});
+type NewsletterSchema = z.output<typeof newsletterSchema>;
 const columns = [{
     label: 'Ressources',
     children: [{
@@ -34,17 +46,39 @@ const columns = [{
 
 const toast = useToast();
 
-const email = ref('');
+const newsletter = reactive<Partial<NewsletterSchema>>({
+    email: ''
+});
 const loading = ref(false);
+const submitError = ref<string | false>(false);
 
-function onSubmit() {
+async function onSubmit(event: FormSubmitEvent<NewsletterSchema>) {
+    submitError.value = false;
     loading.value = true;
 
-    toast.add({
-        title: 'Abonné !',
-        description: 'Vous êtes maintenant abonné à notre newsletter.',
-        color: 'primary'
-    });
+    try {
+        const { message } = await subscribe(event.data.email);
+
+        toast.add({
+            title: 'Newsletter',
+            description: message,
+            color: 'success'
+        });
+
+        newsletter.email = '';
+    } catch (error: any) {
+        submitError.value = error?.data?.errors?.email?.[0]
+          || error?.data?.message
+          || 'Impossible de finaliser votre inscription pour le moment.';
+
+        toast.add({
+            title: 'Erreur',
+            description: submitError.value || 'Une erreur est survenue.',
+            color: 'error'
+        });
+    } finally {
+        loading.value = false;
+    }
 }
 </script>
 
@@ -59,17 +93,24 @@ function onSubmit() {
             <UContainer>
                 <UFooterColumns :columns="columns">
                     <template #right>
-                        <form @submit.prevent="onSubmit">
+                        <UForm
+                            :schema="newsletterSchema"
+                            :state="newsletter"
+                            class="w-full"
+                            @submit="onSubmit"
+                        >
                             <UFormField
                                 name="email"
                                 label="Abonnez-vous à notre newsletter"
                                 size="lg"
+                                :error="submitError"
                             >
                                 <UInput
-                                    v-model="email"
+                                    v-model="newsletter.email"
                                     type="email"
                                     class="w-full"
                                     placeholder="Entrez votre email"
+                                    :disabled="loading"
                                 >
                                     <template #trailing>
                                         <UButton
@@ -77,11 +118,13 @@ function onSubmit() {
                                             size="xs"
                                             color="neutral"
                                             label="S'abonner"
+                                            :loading="loading"
+                                            :disabled="loading"
                                         />
                                     </template>
                                 </UInput>
                             </UFormField>
-                        </form>
+                        </UForm>
                     </template>
                 </UFooterColumns>
             </UContainer>
