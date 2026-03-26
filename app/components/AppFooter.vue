@@ -4,12 +4,6 @@ const { data: themes } = await useAsyncData('teaching-themes-navigation', () => 
 const columns = [{
     label: 'Ressources',
     children: [{
-        label: 'Centre d\'aide',
-        to: '/about'
-    }, {
-        label: 'Documentation',
-        to: '/about'
-    }, {
         label: 'Études bibliques',
         to: '/bible'
     }, {
@@ -28,9 +22,6 @@ const columns = [{
     label: 'Communauté',
     children: [{
         label: 'À propos',
-        to: '/about'
-    }, {
-        label: 'Contact',
         to: '/about'
     }, {
         label: 'Rejoindre',

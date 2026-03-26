@@ -173,6 +173,30 @@ export const useBlogApi = () => {
         };
     };
 
+    const getActualCategories = (articles: BlogArticleData[]): BlogTermData[] => {
+        const items = new Map<string, BlogTermData>();
+
+        for (const article of articles) {
+            if (!article.category?.slug) {
+                continue;
+            }
+
+            const existing = items.get(article.category.slug);
+
+            if (existing) {
+                existing.articles_count = (existing.articles_count || 0) + 1;
+                continue;
+            }
+
+            items.set(article.category.slug, {
+                ...article.category,
+                articles_count: 1
+            });
+        }
+
+        return [...items.values()];
+    };
+
     const fetchCollection = async <T>(path: string) => {
         return await client<T[]>(path);
     };
@@ -210,6 +234,7 @@ export const useBlogApi = () => {
         fetchArticles,
         fetchCategory,
         fetchArticle,
-        fetchTag
+        fetchTag,
+        getActualCategories
     };
 };

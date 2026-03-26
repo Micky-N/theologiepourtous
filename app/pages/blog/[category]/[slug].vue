@@ -78,7 +78,7 @@ if (article.value.image_url) {
         >
             <template #headline>
                 <div class="flex flex-wrap items-center gap-2">
-                    <UButton
+                    <ULink
                         v-if="article.category"
                         :label="article.category.title"
                         :to="article.category.path || undefined"
@@ -118,14 +118,14 @@ if (article.value.image_url) {
                                 v-if="authorLinks.length"
                                 class="flex flex-wrap items-center gap-2"
                             >
-                                <UButton
+                                <ULink
                                     v-for="authorLink in authorLinks"
                                     :key="authorLink.to"
                                     :label="authorLink.label"
                                     :to="authorLink.to"
                                     color="neutral"
                                     :icon="authorLink.icon"
-                                    class="text-neutral-600 font-light px-0"
+                                    class="text-neutral-600 font-light"
                                     variant="link"
                                     size="xs"
                                     target="_blank"
@@ -144,13 +144,13 @@ if (article.value.image_url) {
                         size="xs"
                         class="text-warning-600"
                     />
-                    <UButton
+                    <ULink
                         v-for="tag in article.tags"
                         :key="tag.slug"
                         :label="tag.title"
                         :to="tag.path || undefined"
                         color="warning"
-                        class="text-warning-600 font-light w-fit px-0 py-0"
+                        class="text-warning-600 font-light w-fit"
                         variant="link"
                         size="lg"
                     />

@@ -12,13 +12,8 @@
     "css.customData": [
         ".vscode/tailwind.json"
     ],
-    "[prisma]": {
-        "editor.defaultFormatter": "Prisma.prisma"
-    },
-    "[typescript]": {
-        "editor.defaultFormatter": "dbaeumer.vscode-eslint"
-    },
-    "[vue]": {
-        "editor.defaultFormatter": "Vue.volar"
-    }
+    "eslint.codeActionsOnSave.rules": null,
+    "eslint.format.enable": true,
+    "eslint.lintTask.command": "eslint --fix",
+    "eslint.run": "onSave"
 }
