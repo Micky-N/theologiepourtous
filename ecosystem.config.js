@@ -23,7 +23,7 @@ args.forEach((arg) => {
  */
 function baseConfig(mode) {
     return {
-        'repo': 'git@github.com:Micky-N/theologiepourtous.git',
+        'repo': 'git@github.com:Micky-N/theologievivante-front.git',
         'fetch': '--all',
         'post-deploy': `cp .env.${mode} .env && npm install && npm run build`
     };
@@ -38,7 +38,7 @@ module.exports = {
             host: '212.132.112.230',
             keep_releases: 1,
             ref: 'origin/' + (options.branch || 'develop'),
-            path: '/home/micky/theologiepourtous'
+            path: '/home/micky/theologievivante/front'
         }
     }
 };

@@ -76,10 +76,13 @@ cp .env.example .env
 
 # Configurer les variables d'environnement
 # NUXT_PUBLIC_SITE_URL="http://localhost:3000"
-# NUXT_PUBLIC_API_BASE_URL="http://localhost:8000"
+# NUXT_BACKEND_API_BASE_URL="http://localhost:8000/api/v1"
+# FRONTEND_PROXY_SECRET="change-me-in-production"
 ```
 
-`NUXT_PUBLIC_API_BASE_URL` doit pointer vers le backend Laravel qui expose l'API documentee dans [docs/api-reference-for-copilot.md](docs/api-reference-for-copilot.md).
+`NUXT_BACKEND_API_BASE_URL` doit pointer vers le backend Laravel qui expose l'API documentee dans [docs/api-reference-for-copilot.md](docs/api-reference-for-copilot.md).
+
+`FRONTEND_PROXY_SECRET` doit etre identique a `FRONTEND_PROXY_SECRET` cote backend. Nitro l'ajoute automatiquement au proxy `/api/sanctum` pour eviter les appels directs au backend Laravel.
 
 ### 4. Lancer le serveur de développement
 ```bash
@@ -90,17 +93,19 @@ L'application sera accessible à l'adresse `http://localhost:3000`
 
 ## 🔐 Flux d'authentification
 
-- Le frontend utilise `nuxt-auth-sanctum` en mode `token`.
+- Le frontend utilise `nuxt-auth-sanctum` en mode `cookie`.
 - Nuxt proxifie les appels Sanctum via `/api/sanctum`.
+- Nitro signe les requetes proxifiees avec `X-Frontend-Proxy-Secret`.
 - Le token d'authentification est stocke dans le cookie `sanctum.token.cookie`.
 - L'identite utilisateur chargee par le frontend passe par une route locale qui adapte la reponse backend `/api/v1/me`.
 
 ## 🔌 Architecture des appels API
 
-- Les ressources authentifiees `profile`, `preference-settings`, `bible-notes`, `bible-bookmarks` et `lesson-progress-entries` sont appelees directement depuis le frontend via `nuxt-auth-sanctum`.
+- Les ressources authentifiees `profile`, `preference-settings`, `bible-notes`, `bible-bookmarks` et `lesson-progress-entries` passent par le proxy serveur Nuxt via `nuxt-auth-sanctum`.
 - Les composables front reconstruisent les objets UI necessaires a partir des reponses backend et des donnees Nuxt Content.
 - Nitro ne garde plus que ces responsabilites:
 	- exposer le proxy local `/api/sanctum`
+	- signer chaque requete proxy avec `FRONTEND_PROXY_SECRET`
 	- fournir `GET /api/sanctum/identity` pour adapter l'utilisateur backend au format attendu par `nuxt-auth-sanctum`
 	- servir les endpoints Bible publics sous `/api/bible/**`
 - Certaines metadonnees purement UI sont persistees cote frontend, par exemple les couleurs de signets, les titres personnalises et certains drapeaux de preferences de lecture.
@@ -124,7 +129,7 @@ npm run check:all        # Vérification complète (lint + types)
 ## 🗂️ Structure du projet
 
 ```
-📁 theologiepourtous/
+📁 theologievivante/
 ├── 📁 app/                    # Code source Nuxt
 │   ├── 📁 components/         # Composants Vue réutilisables
 │   ├── 📁 composables/        # Logique métier réactive
@@ -147,4 +152,4 @@ Ce projet est sous licence **MIT**. Voir le fichier `LICENSE` pour plus de déta
 
 **Mickaël N.**
 - GitHub: [@Micky-N](https://github.com/Micky-N)
-- Email: contact@theologiepourtous.com
+- Email: contact@theologievivante.com

@@ -15,7 +15,7 @@ biblical_references:
 seo:
   title: "L'Omniscience de Dieu — Définition, versets et implications"
   description: "Comprendre l'attribut d'omniscience de Dieu: définition, références bibliques clés (Psaumes 139, Ésaïe 46, Hébreux 4), perspectives théologiques et applications pratiques."
-  url: "https://theologiepourtous.fr/enseignements/theologie/attributs-dieu-omniscience"
+  url: "https://theologievivante.fr/enseignements/theologie/attributs-dieu-omniscience"
   card: "summary_large_image"
   robots: "index, follow"
   keywords: "Omniscience de Dieu, attributs divins, théologie systématique, Psaumes 139, Ésaïe 46, Hébreux 4, science moyenne, molinisme, théisme classique, théisme ouvert"

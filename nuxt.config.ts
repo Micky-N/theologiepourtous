@@ -19,9 +19,9 @@ export default defineNuxtConfig({
     css: ['~/assets/css/main.css'],
 
     runtimeConfig: {
-        public: {
-            apiBaseUrl: process.env.NUXT_PUBLIC_API_BASE_URL ?? 'http://localhost:8000'
-        }
+        backendApiBaseUrl: process.env.NUXT_BACKEND_API_BASE_URL ?? 'http://localhost:8000/api/v1',
+        frontendProxySecret: process.env.FRONTEND_PROXY_SECRET ?? '',
+        public: {}
     },
 
     routeRules: {
@@ -52,6 +52,7 @@ export default defineNuxtConfig({
         mode: 'cookie',
         baseUrl: '/api/sanctum',
         endpoints: {
+            csrf: '/api/sanctum/csrf-cookie',
             user: '/me'
         },
         redirect: {
@@ -61,7 +62,7 @@ export default defineNuxtConfig({
         serverProxy: {
             enabled: true,
             route: '/api/sanctum',
-            baseUrl: process.env.NUXT_PUBLIC_API_BASE_URL ?? 'http://localhost:8000'
+            baseUrl: process.env.NUXT_BACKEND_API_BASE_URL ?? 'http://localhost:8000/api/v1'
         }
     }
 

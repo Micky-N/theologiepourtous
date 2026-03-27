@@ -146,7 +146,7 @@ async function onSubmit(event: FormSubmitEvent<NewsletterSchema>) {
                 variant="ghost"
             />
             <UButton
-                to="mailto:contact@theologiepourtous.fr"
+                to="mailto:contact@theologievivante.fr"
                 icon="i-lucide-mail"
                 aria-label="Contact par email"
                 color="neutral"
