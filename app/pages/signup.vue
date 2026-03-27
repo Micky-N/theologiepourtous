@@ -15,7 +15,7 @@ definePageMeta({
 });
 
 useSeoMeta({
-    title: 'Inscription - Théologie pour Tous',
+    title: 'Inscription - Théologie Vivante',
     description: 'Créez un compte pour commencer votre parcours théologique'
 });
 

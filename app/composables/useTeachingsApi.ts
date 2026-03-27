@@ -7,7 +7,7 @@ import type {
 
 type TeachingThemePayload = Omit<TeachingThemeData, 'image_url' | 'lessons' | 'seo'> & {
     image_url: string | null;
-    lessons?: TeachingLessonPayload[] | null;
+    lessons?: TeachingLessonPayload[];
     seo?: Partial<TeachingSeoData> | null;
 };
 
@@ -36,8 +36,8 @@ export const useTeachingsApi = () => {
         excerpt: theme.excerpt ?? null,
         color: theme.color ?? 'primary',
         image_url: theme.image_url,
-        lessons_count: theme.lessons_count ?? null,
-        lessons: null,
+        lessons_count: theme.lessons_count,
+        lessons: [],
         created_at: theme.created_at ?? null,
         updated_at: theme.updated_at ?? null,
         seo: normalizeSeo(theme.seo, {
@@ -71,12 +71,12 @@ export const useTeachingsApi = () => {
 
     const normalizeTheme = (theme: TeachingThemePayload): TeachingThemeData => {
         const normalizedTheme = normalizeThemeBase(theme);
-        const lessons = Array.isArray(theme.lessons) ? theme.lessons.map(normalizeLesson) : null;
+        const lessons = theme.lessons?.map(normalizeLesson) ?? [];
 
         return {
             ...normalizedTheme,
             lessons,
-            lessons_count: normalizedTheme.lessons_count ?? lessons?.length ?? 0
+            lessons_count: normalizedTheme.lessons_count
         };
     };
 

@@ -52,7 +52,7 @@ export default defineNuxtConfig({
         mode: 'cookie',
         baseUrl: '/api/sanctum',
         endpoints: {
-            csrf: '/api/sanctum/csrf-cookie',
+            csrf: '/sanctum/csrf-cookie',
             user: '/me'
         },
         redirect: {

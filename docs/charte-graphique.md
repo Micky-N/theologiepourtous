@@ -1,4 +1,4 @@
-# 🎨 Charte Graphique - Théologie pour Tous
+# 🎨 Charte Graphique - Théologie Vivante
 
 ## Vue d'ensemble
 Cette charte graphique est orientée vers les tons de bleu, créant une atmosphère de confiance, sagesse et spiritualité appropriée pour un site de théologie.

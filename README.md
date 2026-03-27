@@ -1,8 +1,8 @@
-# 🙏 Théologie pour Tous
+# 🙏 Théologie Vivante
 
 > **Plateforme d'enseignement biblique et théologique moderne**
 
-Théologie pour Tous est une application web complète dédiée à l'étude de la Bible et à l'enseignement théologique. Elle offre une expérience interactive pour approfondir sa compréhension des Écritures à travers des cours structurés, des outils de lecture et de prise de notes.
+Théologie Vivante est une application web complète dédiée à l'étude de la Bible et à l'enseignement théologique. Elle offre une expérience interactive pour approfondir sa compréhension des Écritures à travers des cours structurés, des outils de lecture et de prise de notes.
 
 ![Nuxt](https://img.shields.io/badge/Nuxt-4.x-00DC82?logo=nuxt.js&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue-3.x-4FC08D?logo=vue.js&logoColor=white)

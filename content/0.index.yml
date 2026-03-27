@@ -1,4 +1,4 @@
-title: "Théologie pour Tous - Formation théologique en ligne"
+title: "Théologie Vivante - site officiel"
 description: "Formation théologique accessible à tous, fondée sur les Écritures. Approfondissez votre connaissance de Dieu avec nos enseignements structurés."
 
 hero:
@@ -6,7 +6,7 @@ hero:
     icon: "i-lucide-cross"
     text: "Formation théologique en ligne"
   title: "Approfondissez votre"
-  titleHighlight: "connaissance de Dieu"
+  titleHighlight: "Connaissance de Dieu"
   subtitle: "Une formation théologique accessible à tous, fondée sur les Écritures et guidée par l'Esprit Saint. Découvrez les richesses de la Parole de Dieu dans un parcours structuré et inspirant."
   primaryCta:
     text: "Commencer le parcours"
@@ -47,32 +47,6 @@ teachings:
     text: "Nos Enseignements"
   title: "Parcours de Formation Théologique"
   subtitle: "Explorez les grandes doctrines de la foi chrétienne à travers nos parcours structurés et approfondissez votre compréhension des vérités bibliques fondamentales."
-  courses:
-    - title: "Théologie Propre"
-      name: theologie-propre
-      image: "/images/themes/theologie-propre.jpg"
-      description: "Découvrez qui est Dieu : Ses attributs, Sa nature trinitaire, et Sa révélation à travers les Écritures."
-      link: "/enseignements/theologie-propre"
-    - title: "Christologie"
-      name: christologie
-      image: "/images/themes/christologie.jpg"
-      description: "Étudiez la personne et l'œuvre de Jésus-Christ, vrai Dieu et vrai homme, notre Sauveur."
-      link: "/enseignements/christologie"
-    - title: "Pneumatologie"
-      name: pneumatologie
-      image: "/images/themes/pneumatologie.jpg"
-      description: "Apprenez sur la personne et l'œuvre du Saint-Esprit dans la vie du croyant et de l'Église."
-      link: "/enseignements/pneumatologie"
-    - title: "Sotériologie"
-      name: soteriologie
-      image: "/images/themes/soteriologie.jpg"
-      description: "Explorez la doctrine du salut par grâce, l'œuvre rédemptrice du Christ pour nous."
-      link: "/enseignements/soteriologie"
-    - title: "Hamartiologie"
-      name: hamartiologie
-      image: "/images/themes/hamartiologie.jpg"
-      description: "Comprenez la nature du péché et ses conséquences, pour mieux apprécier la grâce de Dieu."
-      link: "/enseignements/hamartiologie"
   allCoursesCard:
     title: "Voir tous les parcours"
     description: "Découvrez l'ensemble de nos formations théologiques et choisissez votre parcours d'apprentissage."
@@ -114,8 +88,8 @@ cta:
   benefits: "✨ Accès immédiat • 📱 Compatible tous appareils • 🎓 Certificat inclus"
 
 seo:
-  title: "Accueil - Théologie pour Tous"
+  title: "Accueil - Théologie Vivante"
   description: "Formation théologique accessible à tous, fondée sur les Écritures. Approfondissez votre connaissance de Dieu avec nos enseignements structurés."
-  ogTitle: "Théologie pour Tous - Formation théologique en ligne"
+  ogTitle: "Théologie Vivante - Site Officiel"
   ogDescription: "Découvrez les richesses de la Parole de Dieu dans un parcours de formation théologique accessible et inspirant."
-  ogImage: "https://placehold.co/1200x630?text=Théologie+pour+Tous"
+  ogImage: "https://placehold.co/1200x630?text=Théologie+Vivante"

@@ -2,7 +2,7 @@
     <div class="max-w-7xl mx-auto p-8 space-y-12">
         <div class="text-center mb-12">
             <h1 class="text-4xl font-bold text-gray-900 dark:text-white mb-4">
-                Charte Graphique - Théologie pour Tous
+                Charte Graphique - Théologie Vivante
             </h1>
             <p class="text-xl text-gray-600 dark:text-gray-300">
                 Palette de couleurs orientée bleu avec nuances théologiques
@@ -239,7 +239,7 @@ const gradients = [
 
 // Métadonnées de la page
 useSeoMeta({
-    title: 'Charte Graphique - Théologie pour Tous',
+    title: 'Charte Graphique - Théologie Vivante',
     description: 'Palette de couleurs et guide de style pour la plateforme de formation théologique'
 });
 </script>

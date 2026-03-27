@@ -172,31 +172,32 @@
                 <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
                     <!-- Course Cards -->
                     <div
-                        v-for="(course, index) in homeData.teachings.courses"
+                        v-for="(theme, index) in themes"
                         :key="index"
                         class="bg-white dark:bg-gray-900 rounded-xl overflow-hidden shadow-lg hover:shadow-2xl transition-all duration-300 group flex flex-col justify-between"
                     >
                         <img
-                            :src="getTheme(course.name)?.image_url || course.image"
-                            :alt="course.title"
+                            v-if="theme.image_url"
+                            :src="theme.image_url"
+                            :alt="theme.title"
                             class="w-full aspect-video object-cover object-center"
                         >
                         <div class="p-6 h-full flex flex-col justify-between">
                             <h3 class="text-2xl font-bold text-gray-900 dark:text-white mb-3">
-                                {{ course.title }}
+                                {{ theme.title }}
                             </h3>
                             <p class="flex-1 text-gray-600 dark:text-gray-300 mb-4 leading-relaxed">
-                                {{ course.description }}
+                                {{ theme.excerpt }}
                             </p>
                             <div class="flex items-center justify-between">
                                 <span class="text-sm text-gray-500 dark:text-gray-400">
-                                    {{ getTheme(course.name)?.lessons_count || 0 }} leçon{{
-                                        (getTheme(course.name)?.lessons_count || 0) > 1 ? 's' : '' }}
+                                    {{ theme.lessons_count }} leçon{{
+                                        (theme.lessons_count) > 1 ? 's' : '' }}
                                 </span>
                                 <UButton
                                     variant="ghost"
                                     color="neutral"
-                                    :to="course.link"
+                                    :to="theme.path"
                                 >
                                     Explorer
                                 </UButton>
@@ -365,7 +366,6 @@
 
 <script setup lang="ts">
 import { useTeachingsApi } from '~/composables/useTeachingsApi';
-import type { TeachingThemeData } from '~/types';
 
 const route = useRoute();
 const { fetchThemes } = useTeachingsApi();
@@ -383,8 +383,4 @@ useSeoMeta({
     ogDescription: homeData.value.seo.ogDescription,
     ogImage: homeData.value.seo.ogImage
 });
-
-const getTheme = (themeName: string) => {
-    return themes.value?.find((theme: TeachingThemeData) => theme.slug === themeName);
-};
 </script>

@@ -429,7 +429,7 @@ const formatDate = (date: string | Date) => {
 };
 
 useHead({
-    title: 'Mes Signets - La Théologie pour Tous',
+    title: 'Mes Signets - La Théologie Vivante',
     meta: [
         {
             name: 'description',

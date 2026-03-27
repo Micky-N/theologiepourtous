@@ -66,7 +66,7 @@ useSeoMeta({
     title: lesson.value?.title,
     description: lesson.value?.seo.description,
     keywords: lesson.value?.seo.keywords.join(', '),
-    author: 'Théologie pour Tous',
+    author: 'Théologie Vivante',
     ogTitle: lesson.value?.title,
     ogDescription: lesson.value?.seo.description,
     ogImage: lesson.value?.image_url,

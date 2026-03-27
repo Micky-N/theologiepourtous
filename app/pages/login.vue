@@ -8,7 +8,7 @@ definePageMeta({
 });
 
 useSeoMeta({
-    title: 'Connexion - Théologie pour Tous',
+    title: 'Connexion - Théologie Vivante',
     description: 'Connectez-vous à votre compte pour continuer votre parcours spirituel'
 });
 

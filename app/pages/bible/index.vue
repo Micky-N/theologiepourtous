@@ -124,8 +124,8 @@ const updateChapter = async (chapterId: number) => {
 };
 
 useSeoMeta({
-    title: 'Lire la Bible en ligne - Théologie Pour Tous',
-    ogTitle: 'Lire la Bible en ligne - Théologie Pour Tous',
+    title: 'Lire la Bible en ligne - Théologie Vivante',
+    ogTitle: 'Lire la Bible en ligne - Théologie Vivante',
     description: 'Lisez la Bible en ligne avec différentes versions disponibles. Parcourez les livres et chapitres de la Bible facilement.',
     ogDescription: 'Lisez la Bible en ligne avec différentes versions disponibles. Parcourez les livres et chapitres de la Bible facilement.'
 });
