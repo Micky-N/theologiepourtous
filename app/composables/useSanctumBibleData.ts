@@ -142,7 +142,7 @@ export const useSanctumBibleData = () => {
 
         return {
             preferred_version: preferences?.preferred_version ?? 'LSG',
-            theme: preferences?.theme ?? 'light',
+            theme: preferences?.theme ?? 'system',
             resolvedPreferredVersion: version ?? null
         };
     };

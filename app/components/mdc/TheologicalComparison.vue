@@ -4,7 +4,7 @@
             <h3 class="text-lg font-semibold">
                 {{ title }}
             </h3>
-            <p class="text-sm text-gray-500 mt-1">
+            <p class="text-sm text-gray-500 dark:text-gray-400 mt-1">
                 {{ subtitle }}
             </p>
         </template>
@@ -12,16 +12,16 @@
         <div class="overflow-x-auto">
             <table class="w-full border-collapse">
                 <thead>
-                    <tr class="bg-gray-50 border-b">
-                        <th class="text-left p-3 font-semibold text-gray-700">
+                    <tr class="bg-gray-50 dark:bg-gray-800 border-b">
+                        <th class="text-left p-3 font-semibold text-gray-700 dark:text-gray-400">
                             Position
                         </th>
-                        <th class="text-left p-3 font-semibold text-gray-700">
+                        <th class="text-left p-3 font-semibold text-gray-700 dark:text-gray-400">
                             Arguments principaux
                         </th>
                         <th
                             v-if="withVerse"
-                            class="text-left p-3 font-semibold text-gray-700"
+                            class="text-left p-3 font-semibold text-gray-700 dark:text-gray-400"
                         >
                             Versets clés
                         </th>
@@ -31,12 +31,12 @@
                     <tr
                         v-for="position in positions"
                         :key="position.name"
-                        class="border-b hover:bg-gray-50 transition"
+                        class="border-b hover:bg-gray-50 dark:hover:bg-gray-700 transition"
                     >
-                        <td class="p-3 font-medium text-primary-700">
+                        <td class="p-3 font-medium text-primary-700 dark:text-primary-400">
                             {{ position.name }}
                         </td>
-                        <td class="p-3 text-gray-700">
+                        <td class="p-3 text-gray-700 dark:text-gray-300">
                             {{ position.arguments }}
                         </td>
                         <td

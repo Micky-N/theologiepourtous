@@ -11,7 +11,7 @@ import type {
 
 type BlogTermPayload = Partial<BlogTermData> & {
     id?: string | null;
-    path?: string | null;
+    path?: string;
     title?: string | null;
     slug?: string | null;
     taxonomy?: string | null;
@@ -88,7 +88,7 @@ export const useBlogApi = () => {
 
         return {
             id: term.id ?? null,
-            path: inferTermPath(term),
+            path: term.path ?? inferTermPath(term),
             title: term.title ?? term.slug,
             slug: term.slug,
             taxonomy: term.taxonomy ?? null

@@ -4,15 +4,17 @@ import type { BackendPreferenceSettings } from '~/composables/useSanctumBibleDat
 export const useUserPreferences = () => {
     const client = useSanctumClient();
     const user = useSanctumUser<AuthenticatedUserData>();
+    const colorMode = useColorMode();
     const { getVersionByCode, mapPreferenceSettings } = useSanctumBibleData();
     const preferences = ref<UserPreferencesData>({
         preferred_version: 'LSG',
-        theme: 'light',
+        theme: 'system',
         resolvedPreferredVersion: null
     });
 
     const syncUserPreferences = (value: UserPreferencesData) => {
         preferences.value = value;
+        colorMode.preference = value.theme;
 
         if (user.value) {
             user.value = {

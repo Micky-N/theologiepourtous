@@ -14,7 +14,7 @@
             <div class="w-72 max-w-xs p-2">
                 <div
                     v-if="loading"
-                    class="flex items-center gap-2 text-gray-600"
+                    class="flex items-center gap-2 text-gray-600 dark:text-gray-400"
                 >
                     <UIcon
                         name="i-heroicons-arrow-path-20-solid"
@@ -25,7 +25,7 @@
 
                 <div
                     v-else-if="error"
-                    class="text-sm text-red-600"
+                    class="text-sm text-red-600 dark:text-red-400"
                 >
                     {{ error }}
                 </div>
@@ -34,10 +34,10 @@
                     v-else-if="data"
                     class="space-y-1"
                 >
-                    <div class="text-xs text-gray-500">
+                    <div class="text-xs text-gray-500 dark:text-gray-400">
                         {{ data.reference }}
                     </div>
-                    <div class="italic text-gray-800 leading-relaxed">
+                    <div class="italic text-gray-800 dark:text-gray-300 leading-relaxed">
                         <template
                             v-for="(v, index) in data.verses"
                             :key="v.id"

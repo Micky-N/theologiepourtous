@@ -13,13 +13,13 @@
         </template>
 
         <div class="space-y-3">
-            <div class="text-gray-700">
+            <div class="text-gray-700 dark:text-gray-300">
                 {{ definition }}
             </div>
 
             <div
                 v-if="etymology"
-                class="text-sm bg-gray-50 p-3 rounded"
+                class="text-sm bg-gray-50 dark:bg-gray-800 p-3 rounded"
             >
                 <strong>Étymologie :</strong> {{ etymology }}
             </div>

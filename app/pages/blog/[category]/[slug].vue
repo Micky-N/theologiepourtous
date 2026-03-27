@@ -78,7 +78,7 @@ if (article.value.image_url) {
         >
             <template #headline>
                 <div class="flex flex-wrap items-center gap-2">
-                    <ULink
+                    <UButton
                         v-if="article.category"
                         :label="article.category.title"
                         :to="article.category.path || undefined"
@@ -116,20 +116,24 @@ if (article.value.image_url) {
                             </p>
                             <div
                                 v-if="authorLinks.length"
-                                class="flex flex-wrap items-center gap-2"
+                                class="flex flex-wrap items-center gap-2 mt-1"
                             >
                                 <ULink
                                     v-for="authorLink in authorLinks"
                                     :key="authorLink.to"
-                                    :label="authorLink.label"
                                     :to="authorLink.to"
                                     color="neutral"
-                                    :icon="authorLink.icon"
-                                    class="text-neutral-600 font-light"
-                                    variant="link"
-                                    size="xs"
+                                    class="text-neutral-600 dark:text-neutral-400 font-light text-sm flex items-center"
                                     target="_blank"
-                                />
+                                    external
+                                >
+                                    <UIcon
+                                        v-if="authorLink.icon"
+                                        :name="authorLink.icon"
+                                        class="mr-1"
+                                    />
+                                    {{ authorLink.label }}
+                                </ULink>
                             </div>
                         </template>
                     </UUser>
@@ -142,18 +146,16 @@ if (article.value.image_url) {
                     <UIcon
                         name="mdi:tag-outline"
                         size="xs"
-                        class="text-warning-600"
+                        class="text-warning-600 dark:text-warning-400"
                     />
                     <ULink
                         v-for="tag in article.tags"
                         :key="tag.slug"
-                        :label="tag.title"
                         :to="tag.path || undefined"
-                        color="warning"
-                        class="text-warning-600 font-light w-fit"
-                        variant="link"
-                        size="lg"
-                    />
+                        class="text-warning-600 dark:text-warning-400 hover:text-warning-500 dark:hover:text-warning-300 font-light w-fit"
+                    >
+                        {{ tag.title }}
+                    </ULink>
                 </div>
             </div>
         </UPageHeader>

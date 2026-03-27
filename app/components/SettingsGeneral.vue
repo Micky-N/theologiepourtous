@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import * as z from 'zod';
-import type { FormSubmitEvent } from '@nuxt/ui';
+import type { FormError, FormSubmitEvent } from '@nuxt/ui';
 import type { AuthenticatedUserData } from '~/types';
 
 type ProfileSchema = z.output<typeof profileSchema>;
@@ -8,6 +8,7 @@ type ProfileSchema = z.output<typeof profileSchema>;
 const user = useSanctumUser<AuthenticatedUserData>();
 const toast = useToast();
 const { updateProfile, deleteAccount: removeAccount } = useUserProfile();
+const formErrors = ref<FormError[]>([]);
 
 const profileSchema = z.object({
     name: z.string().min(2, 'Le nom doit contenir au moins 2 caractères'),
@@ -21,7 +22,7 @@ const profileSchema = z.object({
     confirmPassword: z.string().min(7).nullable()
 }).refine(data => !data.newPassword || data.newPassword === data.confirmPassword, {
     message: 'Les mots de passe ne correspondent pas',
-    path: ['confirm_password']
+    path: ['confirmPassword']
 });
 
 const profile = reactive<Partial<ProfileSchema>>({
@@ -31,24 +32,63 @@ const profile = reactive<Partial<ProfileSchema>>({
     newPassword: null,
     confirmPassword: null
 });
-const onSubmit = async (event: FormSubmitEvent<ProfileSchema>) => {
-    const { message } = await updateProfile(event.data);
-    toast.add({
-        title: 'Succès',
-        description: message,
-        icon: 'i-lucide-check',
-        color: 'success'
+
+const applyFormErrors = (errors?: Record<string, string[]>) => {
+    const fieldMap: Record<string, string> = {
+        name: 'name',
+        email: 'email',
+        current_password: 'currentPassword',
+        new_password: 'newPassword',
+        confirm_password: 'confirmPassword'
+    };
+
+    formErrors.value = Object.entries(errors || {}).flatMap(([key, messages]) => {
+        const name = fieldMap[key] || key;
+
+        return messages.map(message => ({
+            name,
+            message
+        }));
     });
+};
+
+const onSubmit = async (event: FormSubmitEvent<ProfileSchema>) => {
+    formErrors.value = [];
+
+    try {
+        const { message } = await updateProfile(event.data);
+
+        profile.currentPassword = null;
+        profile.newPassword = null;
+        profile.confirmPassword = null;
+
+        toast.add({
+            title: 'Succès',
+            description: message,
+            icon: 'i-lucide-check',
+            color: 'success'
+        });
+    } catch (error: any) {
+        applyFormErrors(error.data?.errors);
+
+        toast.add({
+            title: 'Erreur',
+            description: error.data?.message || 'Erreur lors de la mise à jour du profil',
+            color: 'error'
+        });
+    }
 };
 
 // Modal de confirmation pour la suppression
 const deleteModal = ref(false);
 const deletePassword = ref('');
 const isDeleting = ref(false);
+const deletePasswordError = ref('');
 
 // Fonction pour supprimer le compte
 const deleteAccount = async () => {
     if (!deletePassword.value) {
+        deletePasswordError.value = 'Veuillez entrer votre mot de passe';
         toast.add({
             title: 'Erreur',
             description: 'Veuillez entrer votre mot de passe',
@@ -59,6 +99,7 @@ const deleteAccount = async () => {
 
     try {
         isDeleting.value = true;
+        deletePasswordError.value = '';
 
         await removeAccount(deletePassword.value);
 
@@ -71,6 +112,8 @@ const deleteAccount = async () => {
         // Rediriger vers la page d'accueil après suppression
         await navigateTo('/');
     } catch (error: any) {
+        deletePasswordError.value = error.data?.errors?.password?.[0] || '';
+
         toast.add({
             title: 'Erreur',
             description: error.data?.message || 'Erreur lors de la suppression du compte',
@@ -89,6 +132,7 @@ const deleteAccount = async () => {
         id="general-settings"
         :schema="profileSchema"
         :state="profile"
+        :errors="formErrors"
         @submit="onSubmit"
     >
         <UPageCard variant="subtle">
@@ -120,7 +164,7 @@ const deleteAccount = async () => {
             </UFormField>
             <USeparator />
             <UFormField
-                name="current_password"
+                name="currentPassword"
                 label="Mot de passe actuel"
                 description="Entrez votre mot de passe actuel."
                 required
@@ -135,7 +179,7 @@ const deleteAccount = async () => {
             </UFormField>
             <USeparator />
             <UFormField
-                name="new_password"
+                name="newPassword"
                 label="Nouveau mot de passe"
                 description="Entrez votre nouveau mot de passe."
                 required
@@ -150,7 +194,7 @@ const deleteAccount = async () => {
             </UFormField>
             <USeparator />
             <UFormField
-                name="confirm_password"
+                name="confirmPassword"
                 label="Confirmez le mot de passe"
                 description="Confirmez votre nouveau mot de passe."
                 required
@@ -206,6 +250,7 @@ const deleteAccount = async () => {
                     <UFormField
                         label="Mot de passe"
                         description="Entrez votre mot de passe pour confirmer la suppression"
+                        :error="deletePasswordError || undefined"
                         required
                     >
                         <UInput

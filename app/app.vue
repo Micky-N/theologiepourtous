@@ -1,7 +1,22 @@
 <script setup lang="ts">
+import type { AuthenticatedUserData } from '~/types';
+
 const colorMode = useColorMode();
+const user = useSanctumUser<AuthenticatedUserData>();
 
 const color = computed(() => colorMode.value === 'dark' ? '#020618' : 'white');
+
+watch(
+    () => user.value?.preferences?.theme,
+    (theme) => {
+        if (!theme || colorMode.preference === theme) {
+            return;
+        }
+
+        colorMode.preference = theme;
+    },
+    { immediate: true }
+);
 
 useHead({
     meta: [
